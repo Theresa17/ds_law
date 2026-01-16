@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG AachenRechtsprechungUrteil vom 21.11.2017 - 10 O 210/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Aachen, Urteil vom 21.11.2017 - 10 O 210/17
+                      m. Fundstelle
+                      LG Aachen, Urteil vom 21.11.2017 - 10 O 210/17 = openJur 2019, 3593
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Aachen, Urteil vom 21.11.2017 - 10 O 210/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 3593
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 120% des jeweils zu vollstreckenden Betrages. 
+				Tatbestand
+				Der Kläger begehrt im Rahmen des sog. PP-Abgasskandals von der Beklagten, einer Vertragshändlerin der R AG (im Folgenden: PP), die Rückabwicklung eines mit dieser geschlossenen Gebrauchtwagen-Kaufvertrages.Unter dem 14.10.2014 bestellte der Kläger bei der Beklagten, einer rechtlich selbstständigen Händlerin, den im Klageantrag zu 1) näher bezeichneten gebrauchten PKW FK 2,0 l TDI 103 kW (140 PS) zu einem Preis von 26.490,00 Euro. Der erstmals am 27.02.2014 zugelassene Wagen wies einen Kilometerstand von 16.200 km auf und wurde nach Zulassung auf den Kläger an diesen am 24.10.2014 ausgeliefert. In dem vorgenannten Fahrzeug ist unstreitig ein von PP hergestellter 2,0-Liter-Dieselmotor vom Typ EA 189 verbaut. Dieser Motor steht in Verbindung mit einer Software, die die Stickstoff-Emissionswerte im behördlichen Prüfverfahren optimiert. Das Motorsteuerungsgerät ermöglicht dabei zwei Betriebsmodi bei der Abgasrückführung, einen Stickstoffoptimierten Modus 1 (sog. NEFZ) mit einer relativ hohen Abgasrückführungsrate und einen Partikeloptimierten-Modus 0 (Fahrbetrieb), bei dem die Abgasrückführungsrate geringer ist. Die Software des Motorsteuerungsgerätes erkennt, ob sich das Fahrzeug im üblichen Straßenverkehr oder auf einem technischen Prüfstand zur Ermittlung der Emissionswerte befindet. Während des Prüfstandtests spielt die eingebaute Software beim Stickstoff-Ausstoß dann das andere Motorprogramm ab, nämlich Modus 1 anstatt Modus 0, sodass hierdurch geringere Stickoxidwerte (im Folgenden: NOx) erzielt und die gesetzlich vorgegebenen und im technischen Datenblatt aufgenommenen Abgaswerte wie auch die nach der Euro-5-Abgasnorm vorgegebenen NOx-Grenzwerte eingehalten werden. Unter realen Fahrbedingungen im Straßenverkehr wird das Fahrzeug hingegen im Abgasrückführungs-Modus 0 betrieben.Nach Bekanntwerden des Einsatzes des in der Öffentlichkeit als Manipulationssoftware bezeichneten Motorsteuerungsprogrammes in verschiedenen Diesel-Fahrzeugen des PP Konzerns legte das Kraftfahrt-Bundesamt (im Folgenden: KBA) dem Herstellerkonzern auf, die entsprechende Software aus allen Fahrzeugen zu entfernen. In der Folgezeit prüfte das KBA einen vorgelegten Maßnahmenplan und gab zeitlich gestaffelt, die auf den jeweiligen Fahrzeugtyp abgestimmte Software-Updates frei. Auch ohne das Software-Update ist der streitgegenständliche Wagen fahrbereit und verkehrssicher. Auch wurde die EG-Typengenehmigung nicht entzogen, wenngleich das KBA das Aufspielen der jeweiligen Software als verpflichtend ansieht. Auch die Beklagte erfuhr erst im Rahmen der medialen Berichterstattung von der NOx-Thematik.Mit Wirkung vom 03.06.2016 genehmigte das KBA die technischen Maßnahmen für Fahrzeuge des Typs FF wie den streitgegenständlichen Wagen. Mit Schreiben vom 26.09.2016 (Bl. 163 E.A.) und vom 13.12.2016 wurde der Kläger durch den PP Konzern über das Bereitstehen der Software-Lösung informiert und aufgefordert, einen Termin zum Aufspielen des freigegebenen Software-Updates zur Umprogrammierung des Motorsteuerungsgerätes bei einem Servicepartner der R AG auszumachen.Mit anwaltlichem Schreiben vom 12.05.2017 (Bl. 20ff. E.A.) rügte der Kläger gegenüber der Beklagten die Mangelhaftigkeit seines Fahrzeuges infolge der einwirkenden Abgassoftware, erklärte den Rücktritt vom Kaufvertrag und forderte die Beklagte unter Fristsetzung bis zum 26.05.2017 zur Rückzahlung des Kaufpreises abzüglich der gezogenen Nutzungen Zugum-Zug gegen Rückgabe des streitgegenständlichen Fahrzeuges sowie der außergerichtlichen Rechtsanwaltskosten auf.Mit Schreiben vom 22.05.2017 (Bl. 40ff. E.A.) verwies die Beklagte den Kläger auf das bereits entwickelte und freigegebene Software-Updates für solche Motoren, deren Ausstoß von NOx auf dem Prüfstand optimiert werde, forderte den Kläger auf, einen Termin zur Durchführung der technischen Maßnahme zu vereinbaren und widersprach ausdrücklich der begehrten Rückabwicklung. Zugleich verzichtete sie bis zum 31.12.2017 auf die Erhebung der Verjährungseinrede im Hinblick auf etwaige Ansprüche, die im Zusammenhang mit der in Fahrzeugen mit Motortyp EA 189 eingebauten Software bestehen, einschließlich bereits verjährter Ansprüche.Bislang wurde ein Software-Update nicht durchgeführt und ist auch - jedenfalls derzeit - vom Kläger nicht geplant.Der Kläger behauptet, am streitgegenständlichen PKW lägen diverse Sachmängel vor, V.a. halte sein Fahrzeug nicht die Euro-5-Norm ein und weise höhere Stickoxid- und CO2-Werte als angegeben auf. Zum Zeitpunkt des Rücktritts habe das Software-Update noch nicht zur Verfügung gestanden. Er meint, der Wagen sei aufgrund der manipulierenden Software mangelhaft. Sein FL verfüge über keine Genehmigung, da er angesichts der ungenehmigten Abschalteinrichtung und der unterlassenen Angabe in den Antragsunterlagen nicht EU-Typgenehmigungskonform hergestellt worden sei. Eine erfolgreiche Nachbesserung sei auch durch die Durchführung des Software-Updates nicht möglich. Insbesondere könne die fehlende EU-Typgenehmigung nur im Rahmen eines neuen Genehmigungsverfahrens erworben werden. Nur durch den Einbau einer Harnsäurezufuhr wäre eine Verringerung des NOx-Ausstoßes ohne negative Einflüsse auf die CO2-Werte, den Kraftstoffverbrauch und den Dieselpartikelausstoß möglich. Die zusätzliche Befüllung mit AdBlue würde aber ebenfalls eine negative Abweichung der Ist- von der Sollbeschaffenheit darstellen, da sie Geld koste und Aufwand verursache und dementsprechend nicht zumutbar sei. Überdies sei eine Nacherfüllung durch Nachbesserung unzumutbar. Weder sei seine Besorgnis, dass die angebotene Art der Nacherfüllung den Mangel nicht behebe, sondern neue Mängel verursache, ausgeräumt, noch sei ihm zuzumuten ausgerechnet durch den Betrüger die Nacherfüllung vornehmen zu lassen. Im Rahmen des § 323 Abs. 2 Nr. 3 BGB komme es nicht darauf an, dass die Beklagte als Verkäuferin selbst nicht arglistig gehandelt habe. Ausreichend sei, dass der arglistig Täuschende, also der PP Konzern, die Nacherfüllung faktisch durch das von ihr entwickelte Software-Update erbringen werde.Mit der am 06.07.2017 zugestellten Klage hat der Kläger ursprünglich angekündigt zu beantragen,1. die Beklagte zu verurteilen, an ihn 26.490,00 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 27.05.2017 Zugum-Zug gegen Übergabe des Fahrzeuges FL BM Techn. 2,0l TDI mit der Fahrgestellnummer XXXXXXXXXXX abzüglich einer noch zu beziffernden Nutzungsentschädigung zu zahlen;2. festzustellen, dass sich die Beklagte spätestens seit dem 27.05.2017 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstandes in Annahmeverzug befindet;3. die Beklagte zu verurteilen, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 2.077,74 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 27.05.2017 zu zahlen.Im Termin der mündlichen Verhandlung hat der Kläger den aktuellen Kilometerstand des streitgegenständlichen Fahrzeuges mit 69.034 km angegeben und unter Zugrundelegung einer Gesamtlaufleistung von 300.000 km die anzurechnende Nutzungsentschädigung mit 4.667,45 Euro berechnet. Er beantragt nunmehr sinngemäß,1. die Beklagte zu verurteilen, an ihn 21.822,55 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 27.05.2017 Zugum-Zug gegen Übergabe des Fahrzeuges FL BM Techn. 2,0l TDI mit der Fahrgestellnummer XXXXXXXXXXX zu zahlen;2. festzustellen, dass sich die Beklagte spätestens seit dem 27.05.2017 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstandes in Annahmeverzug befindet;3. die Beklagte zu verurteilen, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 2.077,74 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 27.05.2017 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, der Kläger habe beim Kauf des Fahrzuges nicht zum Ausdruck gebracht, dass er ein Fahrzeug mit einem bestimmten Schadstoffausstoß oder einer bestimmten Emissionsklasse habe erwerben wollen. Das Thema Emissionswerte sei gerade nicht Gegenstand der Gespräche im Vorfeld des Vertragsabschlusses gewesen. Die Emissionsgrenzwerte der Abgasnormen müssten im normalen Fahrbetrieb nicht eingehalten werden, weshalb auch nicht die Entziehung der EG-Typengenehmigung drohe. Der AdBlue-Verbrauch könne bereits deshalb nicht steigen, weil der Harnstoffverbrauch nur bei Fahrzeugen mit einem SCR-Katalysator eine Rolle, was beim Kläger auch nach Durchführung der technischen Maßnahme nicht der Fall sei. Sie meint, ein Mangel im Sinne des § 434 BGB liege nicht vor. Weder sei eine unzulässige Abschalteinrichtung zum Einsatz gekommen noch sei die Gebrauchstauglichkeit des klägerischen Fahrzeuges beeinträchtigt, da die EG-Typgenehmigung mangels Aufhebung von Seiten des KBA unverändert wirksam sei. Im Übrigen sei der Rücktritt wegen Unerheblichkeit der Pflichtverletzung ausgeschlossen. Insbesondere liege ein geringer Mangelbeseitigungsaufwand von max. einer Stunde vor, der mit Kosten von allenfalls 100,00 Euro verbunden sei. Nach Durchführung des Software-Updates laufe die Abgasrückführung nur noch im Betriebsmodus 1. Irgendwelche Nachteile oder negative Folgen für Kraftstoffverbrauch, Motorleistung, Abgaswerte oder Haltbarkeit lägen nicht vor. Jedenfalls sei der Kläger nach § 242 BGB verpflichtet, zunächst das Software-Update aufspielen zu lassen. Schließlich scheitere ein Rücktritt an der unterbliebenen Fristsetzung zur Nacherfüllung. Es lägen keine Umstände vor, die eine Nachfristsetzung entbehrlich machen würde. Zudem sei das Rücktrittsrecht des Klägers nach § 323 Abs. 6 1. Var. BGB ausgeschlossen, weil der Kläger, indem er die Durchführung des Software-Updates verweigere, seine Mitwirkungsobliegenheit verletzt habe.Schließlich erhebt die Beklagte die Einrede der Verjährung, soweit der Kläger einen angeblich überhöhten Kraftstoffverbrauch und einen etwaig überhöhten CO2-Ausstoß rügt.Hinsichtlich des weiteren Sach- und Streitstandes wird auf die von den Prozessbevollmächtigten der Parteien zur Gerichtsakte gereichten Schriftsätze nebst Anlagen sowie auf das Protokoll der mündlichen Verhandlung vom 27.09.2017 (Bl. 296f E.A.) ergänzend Bezug genommen. 
+				Gründe
+				I.Die zulässige Klage bleibt in der Sache ohne Erfolg.1. Die Klage ist zulässig. Insbesondere hat der Kläger im Hinblick auf die Vorschriften der §§ 756, 765 ZPO ein schützenswertes Interesse im Sinne des § 256 ZPO an der mit dem Klageantrag zu 2) begehrten Feststellung des Annahmeverzugs der Beklagten.2. Indes erweist sich die Klage als unbegründet. Dem Kläger steht gegen die Beklagte aus §§ 346 Abs. 1, 348, 437 Abs. 2, 323, 434 BGB der geltend gemachte Anspruch auf Rückzahlung des Kaufpreises abzüglich eines Nutzungsersatzanspruches der Beklagten Zug um Zug gegen Rückgabe und Rückübereignung des streitgegenständlichen FL nicht zu, weil der Kläger der Beklagten keine Frist zur Nacherfüllung gesetzt hat und solch eine Fristsetzung vorliegend auch nicht entbehrlich war.a) Mit anwaltlichem Schreiben vom 12.05.2017 hat der Kläger gegenüber der Beklagte den Rücktritt vom Kaufvertrag erklärt, vgl. § 349 BGB.b) Die Parteien waren durch den im Oktober 2014 geschlossenen Kaufvertrag über den streitgegenständlichen FL vertraglich miteinander verbunden. Der PKW war zum Zeitpunkt der Übergabe am 24.10.2014 mangelhaft, da er aufgrund der Ausstattung mit zwei Betriebsmodi sowie einer auf das Motorsteuerungsgerät einwirkenden Software jedenfalls nicht die übliche Beschaffenheit im Sinne des § 434 Abs. 1 T2. 2 Nr. 2 BGB aufwies.Nach § 434 Abs. 1 T2. 2 Nr. 2 BGB ist ein Kaufgegenstand frei von Sachmängeln, wenn er sich für die gewöhnliche Verwendung eignet und eine Beschaffenheit aufweist, die bei Sachen der gleichen Art üblich ist und die der Käufer nach der Art der Sache verlangen kann. Maßgeblich ist die objektiv berechtigte Käufererwartung (vgl. BGH, Urteil vom 29. 6. 2011, VIII ZR ...#/... NJW 2011, 2872, 2873 m.w.N.). Ein Durchschnittskäufer eines Fahrzeugs - wie der Kläger - kann berechtigterweise davon ausgehen, dass die gesetzlich vorgeschriebenen und im technischen Datenblatt aufgenommenen Abgaswerte nicht nur deshalb eingehalten und entsprechend attestiert werden, weil eine Software installiert worden ist, die dafür sorgt, dass der Prüfstandlauf erkannt und über eine entsprechende Programmierung der Motorsteuerung in gesetzlich unzulässiger Weise insbesondere der NOx-Ausstoß reduziert wird (vgl. LG Oldenburg, Urteil vom 01.09.2016, 16 O ...#/..., juris Rn 26; LG Münster, Urteil vom 14.03.2016, 11 O ...#/..., juris Rn 18). Dabei ist der Beklagten zuzugestehen, dass die unter Laborbedingungen erzielten Werte im Straßenverkehr nicht eingehalten werden müssen. Indes erweist es sich als beanstandungswürdig, wenn der verbaute Motor die gesetzlichen Vorgaben im Prüfstandlauf nur deshalb einhält, weil die Software regulierend einwirkt und die Motorsteuerung in den NOxoptimierten Modus 1 schaltet. Zwar gibt der Prüfstandmodus, wie allgemein bekannt ist, nicht den realen Motorbetrieb wieder. Allerdings geht ein Käufer von einer grundsätzlichen Übertragbarkeit der dort ermittelten Werte auf das Verbrauchsverhalten und die zu erwartenden Emissionswerte des jeweiligen Fahrzeugs auch im realen Straßenverkehr aus (vgl. LG Krefeld, Urteil vom 14.09.2016, 2 O .../..., juris Rn 25; LG Bochum, Urteil vom 16.03.2016, 2 O ...#/..., juris Rn 17; LG Brückeburg, 2 O .../..., juris Rn 39). Dieser grundsätzlichen Vergleichbarkeit wird aber durch den Einsatz der Software die Grundlage entzogen. Im Ergebnis stellt die Beklagte auch nicht in Abrede, dass der Modus 1 mit höherer Abgasrückführung ausschließlich bei der Prüfstandfahrt verwendet wird. Dies führt im vorliegenden Fall zu einer Täuschung des Klägers über die Aussagekraft und Vergleichbarkeit der in Prospekten und Werbung veröffentlichen Messwerte mit den im realen Fahrbetrieb zu erwartenden Emissionswerten.Gleichermaßen wies das klägerische Fahrzeug im maßgeblichen Zeitpunkt des Gefahrenübergangs deshalb nicht die zu erwartende Beschaffenheit auf, weil das Fahrzeug - auch nach dem Vorbringen der Beklagten - zwingend einem Software-Update unterzogen werden muss, um den entsprechenden Auflagen des KBA zu genügen und keine Betriebsuntersagung gemäß § 5 FZV zu riskieren (vgl. Anlage B10, Bl. 163 E.A.; LG Aachen, Urteil vom 06.12.2016, 10 O ...#/..., juris Rn 24; LG Frankenthal, Urteil vom 12.05.2016, 8 O ...#/..., BeckRS 2016, 08996; LG Nürnberg-Fürth, Urteil vom 13.09.2016, 4 O ...#/..., juris Rn 24).c) Weiterhin ist der Rücktritt auch nicht nach § 323 Abs. 5 T2. 2 BGB ausgeschlossen. Die Pflichtverletzung erweist sich unter Würdigung aller Umstände des vorliegenden Einzelfalles jedenfalls im Rahmen einer Gesamtabwägung nicht als unerheblich.Im Rahmen der Erheblichkeitsprüfung ist eine umfassende Interessenabwägung vorzunehmen, bei der V.a. der für die Mangelbeseitigung erforderliche Aufwand, aber auch die Schwere des Verschuldens zu berücksichtigen ist (vgl. BGH, Urteil vom 29.06.2011, VIII ZR ...#/... NJW 2011, 2872, 2874; Urteil vom 24.03.2006, V ZR ...#/..., NJW 2006, 1960, 1961).Entgegen der Ansicht der Beklagte erweist sich die Pflichtverletzung nicht bereits deshalb als unerheblich, wenn sich das Software-Update in einer vergleichsweise kurzen Zeit von ca. einer Stunde bei Kosten von weniger als 100,00 Euro für die Herstellerfirma aufspielen lässt. Denn die Beklagte berücksichtigt nicht, dass der Aufwand der Mangelbeseitigung nicht alleine maßgeblich ist. Entgegen ihrer Darstellung handelt es sich nicht um eine einfache technische Maßnahme. Hiergegen spricht bereits die erhebliche Zeit von knapp einem Jahr, die es gedauert hat, um eine technische Lösung zu entwickeln. Hinzukommt, dass PP gegenüber dem KBA einen Maßnahmenplan vorlegen und die jeweiligen konkrete Software durch das KBA geprüft und freigegeben werden musste. Bedarf eine Mängelbeseitigungsmaßnahme der umfassenden vorherigen behördlichen Prüfung und Genehmigung, so ist die Pflichtverletzung nicht mehr als unerheblich anzusehen (vgl. LG Aachen, Urteil vom 06.12.2016, 10 O ...#/..., juris Rn 30; LG München I, Urteil vom 14.04.2016, 23 O ...#/..., juris Rn 42; LG Krefeld, Urteil vom 14.09.2016, 2 O .../..., juris Rn 48).Hinzukommt, dass derzeit noch nicht abzusehen ist, ob sich allein durch die Betroffenheit des klägerischen Fahrzeugs vom Abgasskandal ein merkantiler Minderwert für den streitgegenständlichen FL realisieren wird. Im Hinblick auf die umfassende Berichterstattung zum sog. Abgasskandal und die sich daraus in der Öffentlichkeit ergebenen kontroversen Diskussionen, auch über einen etwaigen Mehrverbrauch nach durchgeführter Nachbesserung, ist jedenfalls nicht auszuschließen, dass sich dies auf den im Falle eines Verkaufs zu erzielenden Wiederverkaufspreis negativ auswirkt. Dieser Bewertung stünde auch nicht entgegen, wenn die gegenteilige Behauptung der Beklagten, die Auswirkungen auf den Gebrauchtwagenmarkt vehement verneint, derzeit zuträfe. Insoweit ist allgemein bekannt, dass sich wertnachteilige Umstände auch erst mit zeitlicher Verzögerung auswirken können, zumal vorliegend die Rückrufaktion erst Mitte 2016 angelaufen ist.E) Jedoch liegen die weiteren Voraussetzungen für die wirksame Ausübung eines Rücktrittsrechts nicht vor. Weder hat der Kläger der Beklagten gemäß § 323 Abs. 1 BGB erfolglos eine Frist zur Nachbesserung gesetzt noch war eine Fristsetzung unter irgendeinem rechtlichen Gesichtspunkt ausnahmsweise entbehrlich:aa) Zunächst war eine Nachfristsetzung nach gemäß §§ 326 Abs. 5, 275 Abs. 1 BGB nicht entbehrlich, weil der Beklagten eine Nacherfüllung im maßgeblichen Zeitpunkt der Rücktrittserklärung am 12.05.2017 unmöglich gewesen wäre. Entgegen den Behauptungen des Klägers stand zum Zeitpunkt der Rücktrittserklärung im Mai 2017 die Softwarelösung für die Motorsteuerungssoftware für den streitgegenständlichen FL bereits seit knapp einem Jahr zur Verfügung. Denn das KBA hatte die entsprechende technische Lösung bereits mit Wirkung vom 03.06.2016 freigegeben. Überdies war der Kläger - auch insoweit unstreitig - zwei Mal, nämlich im September und Dezember 2016, durch die R AG über die Freigabe des Updates informiert und zur Vereinbarung eines Termins zum Aufspielen des Updates aufgefordert worden. Soweit der Kläger sich darauf beruft, dass ein Software-Update negative Folgen für sein Fahrzeug hätte, so wird dieser streitige Umstand nicht hinreichend dargelegt. Vielmehr liegen dafür, dass die beabsichtigte Nachbesserung durch die Beklagte nicht erfolgreich sein kann, bislang keine hinreichenden Anhaltspunkte vor. Langzeitschäden durch die Nachbesserung für das streitgegenständliche Fahrzeug sind nicht substantiiert vorgetragen.Etwas anderes ergibt sich auch nicht im Hinblick auf die Ansicht des Klägers, dem streitgegenständlichen Fahrzeug fehle eine bereits EU-Typgenehmigung, die nur durch ein neues Genehmigungsverfahren (erstmals) erteilt werden könne. Ursprünglich wurde dem klägerischen Fahrzeug eine EG-Typgenehmigung erteilt, wenngleich unter Vorspiegelung falscher Tatsachen. Diese ist auch nach wie vor wirksam. Insbesondere ist die Typgenehmigung nicht gemäß § 19 Abs. 7, Abs. 2 T2. 2 Nr. 3 StVZO automatisch erloschen, da diese Vorschrift nicht für Abweichungen vom genehmigten Typ vor Inverkehrbringen gilt, wie sich im Zusammenspiel mit der Regelung des § 25 Abs. 3 Nr. 1 EG-FGV eindeutig ergibt. Auch droht dem Kläger kein Widerruf der Typgenehmigung, da das KBA das ihm eingeräumte Ermessen nach § 25 Abs. 2 EG-FGV dahingehend ausgeübt hat, dass es lediglich die Durchführung des von ihr freigegebenen Softwareupdates als zwingend ansieht.bb) Weiterhin war die Nachfristsetzung auch nicht nach § 323 Abs. 2 Nr. 3 BGB entbehrlich.Es lagen keine besonderen Umstände vor, die unter Abwägung der beiderseitigen Interessen den Rücktritt vor Ablauf einer angemessenen Frist gerechtfertigt hätten. Insbesondere liegt keine Konstellation vor, in der der Verkäufer einen Mangel arglistig verschwiegen hätte oder sich entsprechend behandeln lassen müsste. Zwischen den Parteien steht außer Streit, dass die Beklagte erst im Rahmen der allgemeinen Berichterstattung Kenntnis von den Manipulationen des PP-Konzerns erlangt hat. Die Beklagte muss sich als unabhängige Händlerin das Wissen der Herstellerfirma in Bezug auf Manipulationen an der Abgassoftware des streitgegenständlichen Fahrzeuges auch nicht zurechnen lassen. Denn die Beklagte und die Herstellerin sind selbstständige rechtliche Personen mit jeweils eigenständigen Pflichtenkreisen (vgl. OLG München, Urteil vom 03.07.2017, 21 V ...#/..., juris Rn 23,18; LG Amberg, Urteil vom 07.09.2017, 24 O ...#/..., juris Rn 104; LG Düsseldorf, Urteil vom 23.08.2016, 6 O ...#/..., juris Rn 24). Überdies ergibt sich etwas anderes nicht aus dem Umstand, dass die technische Lösung von der Herstellerfirma entwickelt wurde. Vielmehr wurde die Nacherfüllung in Absprache und unter Aufsicht des KBA durchgeführt. Aufgrund der behördlichen Prüfung und Freigabe der Maßnahmen muss sich der Kläger nicht auf ein Handeln allein der Herstellerfirma verlassen (vgl. LG Braunschweig, Urteil vom 16.10.2017, 11 O ...#/..., juris Rn 28).cc) Schließlich musste der Kläger auch nicht deshalb keine Frist zur Nacherfüllung setzen, weil ihm die Durchführung der Nacherfüllung gemäß § 440 T2. 1 3. Var. BGB unzumutbar gewesen wäre.Für die Beurteilung, ob die Nacherfüllung für den Kläger als Käufer unzumutbar war, sind alle Umstände des Einzelfalles zu berücksichtigen. Dazu zählen neben Art und Ausmaß einer Beeinträchtigung der Interessen des Käufers etwa auch die Zuverlässigkeit des Verkäufers und diesem vorzuwerfende Nebenpflichtverletzungen sowie ein dadurch möglicherweise gestörtes Vertrauensverhältnis zwischen den Parteien (vgl. BGH, Urteil vom 26.10.2016, VIII ZR ...#/..., juris Rn 23; Urteil vom 13. 07.2016, VIII ZR .../..., juris Rn 38).Soweit der Kläger im Zeitpunkt der Rücktrittserklärung befürchtet haben will, dass das zur Nacherfüllung angebotene Software-Update entweder nicht erfolgreich sein oder aber zu Folgemängeln führen würde, handelt es sich lediglich um eine hypothetische und nicht sicher feststehende Möglichkeit. Insoweit ist zu berücksichtigten, dass nach der ausdrücklichen Wertung des § 440 T2. 2 BGB einem Käufer zuzumuten ist, sich auf eine Nacherfüllung durch seinen Vertragspartner einzulassen und damit auch das Risiko des Verbleibens des ursprünglichen Mangels oder aber des Entstehens von neuen Mängeln zu tragen. Er ist insoweit auch nicht schutzlos gestellt, da ihm für den Fall, dass die durchgeführte Nacherfüllung fehlschlagen sollte, der Rücktritt vom Kaufvertrag unbenommen bleibt (vgl. LG Braunschweig, Urteil vom 16.10.2017, 11 O ...#/..., juris Rn 29; LG Münster, Urteil vom 05.04.2017, 10 O ...#/..., juris Rn 18; LG Ulm, Urteil vom 03.042017, 2 O ...#/..., juris Rn 27).Im Übrigen hat der Kläger nicht hinreichend substantiiert Umstände dargelegt, aus denen sich sein Mangelverdacht ergeben würde. Vielmehr erschöpft sich sein Vorbringen im Wesentlichen in Zitaten aus Urteilen anderer Gerichte.3. Nachdem sich das auf Rückabwicklung des Kaufvertrages gerichtete Begehren des Klägers als unbegründet erweist, befand sich die Beklagte nicht mit der Erfüllung etwaiger Verpflichtungen aus einem Rückgewährschuldverhältnis im Annahmeverzug nach §§ 293, 294 BGB.Gleichermaßen folgen die Ansprüche auf Erstattung der vorgerichtlichen Rechtsanwaltskosten in Höhe von 2.077,74 Euro und auf entsprechende Verzinsung in ihrem Schicksal dem Hauptantrag. Mangels wirksamer Ausübung der Gewährleistungsrechte sind auch die Nebenforderungen unbegründet.II.Die prozessualen Nebenentscheidungen beruhen auf §§ 91, 709 ZPO.III.Der Streitwert wird auf 26.490,00 Euro festgesetzt.Dr. T
+			
+			
+			
+			Permalink: https://openjur.de/u/2138608.html (https://oj.is/2138608)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

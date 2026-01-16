@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG KasselRechtsprechung vom 01.02.2018 - 9 O 789/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Kassel,  vom 01.02.2018 - 9 O 789/17
+                      m. Fundstelle
+                      LG Kassel,  vom 01.02.2018 - 9 O 789/17 = openJur 2019, 31651
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Kassel,  vom 01.02.2018 - 9 O 789/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 31651
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits hat die Klägerin zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Klägerin begehrt von der Beklagten mit der Klage in ihrer letzten Form Rückzahlung von Kaufpreis nach Kauf eines Pkw.Auf Grundlage der Auftragsbestätigung vom 06.03.2015 erwarb die Klägerin von der Beklagten ein Fahrzeug der Marke "......" , Typ "......" zum Preis von 29.000,- Euro. Das Fahrzeug wurde der Klägerin am 07.05.2015 übergeben.In der EG-Übereinstimmungserklärung, auf die Bezug genommen wird (vgl. Anlage K 3), heißt es unter Ziffer 49, das Fahrzeug habe maximal innerorts einen CO2-Ausstoß von 196 g/km, außerorts von 146 g/km und kombiniert von 164 g/km.In dem der Klägerin verkauften Fahrzeug ist ein Dieselmotor des Typs "......" verbaut, der unter den VW-Abgasskandal fällt. Die diesbezüglich eingebaute Motorsteuergerätesoftware verfügt über eine Umschaltlogik, die erkennt, wann das Fahrzeug den Neuen europäischen Fahrzyklus (NEFZ) durchführt. Im NOx-optimierten Modus 1, der im NEFZ aktiv ist, kommt es zu einer höheren Abgasrückführungsrate. Unter Fahrbedingungen, die im normalen Straßenverkehr vorzufinden sind, ist der Modus 0 aktiv. Weil es im normalen Straßenbetrieb praktisch ausgeschlossen ist, den NEFZ nachzufahren, befindet sich das Fahrzeug mit der derzeit noch verbauten Software im normalen Straßenverkehr durchgehend im Modus 0. Im NOx-optimierten Modus 1 findet dabei eine relativ hohe Abgasrückführung mit niedrigem Stickoxidausstoß statt, wohingehend es im Modus 0 - im normalen Fahrbetrieb - zu einem hohen Stickoxidausstoß kommt und wobei es im normalen Straßenverkehr nicht möglich ist, das Fahrzeug im Modus 1 zu fahren.Mit Schreiben vom 31.03.2017, auf das verwiesen wird (Anlage K 5 = Bl. 13 ff. d.A.), wurde die Beklagte klägerseits aufgefordert, ein neues Fahrzeug, das nicht mit manipulierter Software versehen ist, zu liefern.Mit Schreiben vom 20.04.2017, auf das Bezug genommen wird (Anlage K 6 = Bl. 16 ff. d. A.), wurde beklagtenseits mitgeteilt, dass VW technische Lösungen entwickelt habe und dass seit Ende Januar 2016 die betroffenen Fahrzeuge auf den erforderlichen technischen Stand gebracht würden, dafür würden die entwickelten technischen Maßnahmen von VW und vom Kraftfahrt-Bundesamt überprüft. Die Klägerin werde informiert, sobald die entsprechende Bestätigung auch für ihr Fahrzeug vorliege.Mit Schreiben vom 03.05.2017 (Anlage K 7 = Bl. 19 f. d. A.) wurde die Beklagte erneut zur Neulieferung sowie zur Erstattung der Rechtsanwaltskosten aufgefordert.Mit Schreiben vom 16.11.2017 (Anlage K10 = Bl. 128 ff. d.A.) wurde sodann klägerseits der Rücktritt vom Kaufvertrag erklärt.Die Klägerin ist der Ansicht, das Fahrzeug sei mangelbehaftet. Weil die Stickoxidwerte im Vergleich zwischen Prüfstandlauf und realem Fahrbetrieb verschlechtert würden, weise das Fahrzeug nicht die Beschaffenheit auf, die ein Käufer nach Art der Sache erwarten könne. Auch erwarte der Durchschnittskäufer nicht, dass die gesetzlich vorgegebenen Abgaswerte nur deshalb (vermeintlich) eingehalten würden, weil eine manipulierende Software installiert worden sei. Das Fahrzeug eigne sich auch nicht zur gewöhnlichen Verwendung, da man es umrüsten müsse, um mittelfristig keine Nachteile zu erleiden. Die Klägerin ist weiter der Ansicht, für die Klage liege auch ein Rechtschutzbedürfnis vor; das Aufspielen des Softwareupdates genüge nicht, weil nicht geklärt sei, ob die entwickelte Software überhaupt zu dem gewünschten Erfolg führe.Die Klägerin ist weiter der Ansicht, es liege keine relative Unverhältnismäßigkeit vor. Entscheidend sei, ob auf die andere Art der Nacherfüllung ohne erhebliche Nachteile für sie, die Klägerin, als Käuferin zurückgegriffen werden könne. Diesbezüglich trägt sie vor, dass die Frage, ob die entwickelte Software sicher und ohne nachteilige Folgen für das Fahrzeug sei, kontrovers diskutiert werde, so solle die Gefahr bestehen, dass das Abgasrückführventil, der Speicherkatalysator, das Harnstoff-Injektionssystem, der SCR-Katalysator oder auch die Partikelfilter vorzeitig versagen könnten (Bl. 87 d.A.).Die Klägerin beantragt zuletzt,die Beklagte zu verurteilen, an sie 24.998,48 Euro nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit Zustellung des Schriftsatzes der Klägerin vom 28.11.2017 Zug um Zug gegen Rückgabe des Fahrzeugs der Marke "......", Modell "......" zu zahlen (Bl. 126 d.A.);festzustellen, dass die Beklagte sich mit der Rücknahme des Fahrzeugs "......" in Annahmeverzug befindet (Bl. 2 d.A.);hilfsweise, für den Fall, dass die Klage mit den Anträgen zu 1. und zu 2. abgewiesen wird, die Beklagte zu verurteilen, das im Klageantrag zu 1. näher bezeichnete Fahrzeug so nachzubessern, dass das Fahrzeug die in der dem Urteil als Anlage K3 beiliegenden und zum Tenor dieses Urteils gemachten EG-Übereinstimmungserklärung unter Ziffer 49. ausgewiesenen Abgaswerte sowohl auf dem Prüfstand als auch im Straßenbetrieb einhält (Bl. 2 d.A.);die Beklagte zu verurteilen, an sie einen Betrag in Höhe von 1358,86 Euro nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 13.05.2017 der Klage zu zahlen (Bl. 2 d.A.).Die Beklagte beantragt,die Klage abzuweisen.Sie ist der Ansicht, der Klage fehle es bereits am Rechtsschutzbedürfnis; der einfachste, schnellste und billigste Weg zur Befriedigung der klägerischen Interessen sei die technische Überarbeitung des Fahrzeugs nach dem mit dem Kraftfahrt-Bundesamt abgestimmten Zeit- und Maßnahmenplan der VW-AG.Sie ist weiter der Ansicht, das Fahrzeug sei nicht mangelbehaftet. Es eigne sich für die vertraglich vorausgesetzte Verwendung, da die Fahrbereitschaft zu keiner Zeit beeinträchtigt gewesen sei. Auch weise es eine Beschaffenheit auf, die bei gleicher Art üblich sei und die der Käufer nach Art der Sache erwarten könne. Es könne ohne Einschränkungen im Straßenverkehr genutzt werden und verfüge auch über die für die Emissionsklasse EU 5 erforderliche EG-Typgenehmigung. Auch ein Rechtsmangel liege nicht vor. Jedenfalls sei eine Rückabwicklung des Kaufvertrages unverhältnismäßig. Die Kosten für die Durchführung der technischen Maßnahmen beliefen sich auf deutlich weniger als 100 Euro.Hinsichtlich des Antrags Ziffer 3 habe die Klägerin keinen Anspruch darauf, dass das Emissionsverhalten ihres Fahrzeugs den Werten entspreche, die in der EG-Übereinstimmungsbescheinigung aufgeführt seien, und erst recht nicht darauf, dass das Fahrzeug die Werte im realen Straßenbetrieb einhalte.Wegen des weiteren Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I.Der Klägerin stehen gegen die Beklagte keine Ansprüche zu.Die Klägerin hat keinen Anspruch gegen die Beklagte auf Rückzahlung des Kaufpreises. Zwar hat sie unter dem 16.11.2017 (Anlage K10 = Bl. 128 ff. d.A.) den Rücktritt vom Kaufvertrag erklärt; indes kann sie aus Rechtsgründen nicht zurücktreten.Unabhängig von der Frage, ob ein Mangel vorliegt - was angesichts dessen dahinstehen kann -, ist eine - zugunsten der Klägerin unterstellte - Pflichtverletzung jedenfalls unerheblich im Sinne von § 323 Abs. 5 Satz 2 BGB. Entscheidend hierfür ist eine umfassende Interessenabwägung auf der Grundlage der Umstände des Einzelfalls, wobei auf den Zeitpunkt der Rücktrittserklärung des Käufers und bei behebbaren Mängeln grundsätzlich auf die Kosten der Mangelbeseitigung abzustellen ist (OLG Koblenz, Beschluss vom 27.09.2017, 2 U 4/17, dort Bl. 7).Von der Geringfügigkeit eines behebbaren Mangels und damit von einer Unerheblichkeit der Pflichtverletzung ist in der Regel auszugehen, wenn die Kosten der Mangelbeseitigung im Verhältnis zum Kaufpreis geringfügig sind. Die Erheblichkeitsschwelle wird erst bei einem Mangelbeseitigungsaufwand überschritten, der mehr als 5 % des Kaufpreises beträgt (BGH, Urteil vom 28.05.2014, VIII ZR 94/13, Rn. 18 ff., Rn. 30). Liegen behebbare Sachmängel dagegen unterhalb der genannten Schwelle, ist es dem Käufer zumutbar, am Vertrag festzuhalten und Minderung oder kleinen Schadensersatz zu begehren. Dies ist hier der Fall. Im Zeitpunkt ihrer Rücktrittserklärung konnte die Klägerin davon ausgehen, dass sie kostenfrei eine technische Lösung erhalten werde, die dem von ihr gerügten Mangel der Motorsteuerungssoftware Abhilfe verschaffen würde (a.a.O., Bl. 8). Der - zugunsten der Klägerin unterstellte - Mangel konnte durch eine einfache technische Überarbeitung in Form eines Softwareupdates und eines zusätzlichen Bauteils in Form eines Strömungsgleichrichters mit geringem finanziellen Aufwand beseitigt werden. Dies steht zur hinreichenden Überzeugung des Gerichts fest ausweislich des als Anlage B 2 (Bl. 54 ff. d. A.) vorgelegten Schreibens der "......" vom 05.05.2017, wonach diese gegenüber den deutschen Behörden die "......"-Motoren der Baureihe "......" betreffend nach ausführlichen Tests bestätigt hat, dass die von "......" vorgeschlagenen technischen Maßnahmen den Motor in Übereinstimmung mit den Vorgaben der Verordnung bringt (EU directive EC/715/2007). Danach stellt das getestete Programm die Übereinstimmung im Hinblick auf (NOx-) Schadstoffausstoß, Kraftstoffverbrauch, Kohlendioxidausstoß, Motorgeräusch und Motorleistung her, und damit steht zugleich fest, dass die von der Klägerin behaupteten angeblichen Nebeneffekte der Umrüstung nicht eintreten werden (ebenso OLG Koblenz, a.a.O., Bl. 8). Angesichts dessen geht das Gericht nicht davon aus, dass nicht feststeht, ob eine erfolgreiche Nachbesserung möglich sei. Soweit die Klägerin anderweitiges behauptet, wäre ein etwaiges Sachverständigengutachten ein unzulässiger Ausforschungsbeweis (OLG Koblenz, a.a.O., Bl. 9; vgl. dazu BGH, Beschluss vom 01.04.2014, XI ZR 171/12, zitiert nach juris, Rn. 15). Die Klägerin kann auch nicht mit Erfolg bestreiten, dass es zu Mangelbeseitigungskosten in Höhe von maximal ca. 100 Euro komme. Es ist nicht Sache der Beklagten, die zur Unerheblichkeit der Pflichtverletzung führenden Tatsachen vorzutragen und zu beweisen. Vielmehr zeigt hierfür der Käufer die Beweislast (vgl. BGH, Urteil vom 09.03.2011, VIII ZR 266/09, zitiert nach juris, Rn. 11). Diese Beweislastverteilung gilt auch für die Frage, ob eine Pflichtverletzung erheblich und der Anspruch nicht kraft Gesetzes nach § 323 Abs. 5 Satz 2 BGB ausgeschlossen ist. Dass hier der Mangelbeseitigungsaufwand 5 % des Kaufpreises von 29.000,- Euro überschreiten würde - das wären also 1.450,- Euro -, hat die Klägerin aber nicht vorgetragen und unter Beweis gestellt. Im Rahmen der umfassenden Interessenabwägung im Übrigen hat das Gericht berücksichtigt, dass ein Maßnahmenplan vorgesehen ist, nach der die Klägerin bis zur Umrüstung ihr Fahrzeug uneingeschränkt nutzen kann und weder den Entzug der Zulassung noch Konsequenzen für die Feinstaubplakette befürchten muss. Auch wenn ein langes Zuwarten zu erwarten ist, so ist dies doch zumutbar, da es für die Klägerin nicht mit konkret spürbaren negativen Folgen verbunden ist (OLG Koblenz, a.a.O., Bl. 10). Auf Seiten der Beklagten muss man nämlich berücksichtigen, dass bei der Vielzahl der von der Umrüstung betroffenen Maßnahmen eine Mangelbeseitigung naturgemäß nur schrittweise erfolgen kann und einen längeren Zeitraum benötigt (a.a.O., Rn. 10). Zu berücksichtigen ist letztlich auch, dass der Beklagten selbst - also dem Autohaus - kein unredliches oder strafbares Verhalten vorgeworfen wird (vgl. dazu OLG Koblenz, a.a.O., Bl. 10).Mangels Berechtigung des Rückabwicklungsverlangens hat die Klägerin auch keinen Anspruch auf Feststellung, dass die Beklagte sich mit Rücknahme des Fahrzeuges in Annahmeverzug befindet (Antrag 2).Die Klägerin hat auch keinen Anspruch auf Nachbesserung, dass das Fahrzeug die in der EG-Übereinstimmungserklärung ausgewiesenen Abgaswerte sowohl auf dem Prüfstand als auch im Straßenbetrieb einhält (Antrag 3). Hinsichtlich der Einhaltung der Abgaswerte auf dem Prüfstand kann die EG-Übereinstimmungsbescheinigung schon deshalb nicht herangezogen werden, weil diese erst bei Auslieferung des Fahrzeuges mit übergeben wird (OLG Brandenburg, Urteil vom 27.03.2014, 5 U 70/12, zitiert nach BeckRS 2014, 06939, II. 1. a).Hinsichtlich der Einhaltung der Abgaswerte auf der Straße steht der Klägerin ebenfalls kein Anspruch auf Nachbesserung zu. Die vom Hersteller angegebenen Werte beziehen sich allein auf die vom Gesetzgeber als relevant eingestuften Werte im synthetischen Fahrzyklus unter Laborbedingungen; die Herstellerangaben, die auf EG-Richtlinien aufbauen, sind nicht am alltäglichen Betrieb, sondern ihrerseits nur an den den EG-Richtlinien zugrundeliegenden Testbedingungen zu messen (vgl. OLG Karlsruhe, Urteil vom 01.02.2008, NZV 2008, 414 [OLG Karlsruhe 01.02.2008 - 1 U 97/07] zum Verbrauch). Die Klägerin hatte gerade keinen Anspruch auf ein Fahrzeug, das die in der EG-Übereinstimmungsbescheinigung angegebenen Abgaswerte auch im Straßenverkehr einhält; diesbezüglich kann sie darum auch keine Nachbesserung verlangen.Mangels Ansprüchen in der Hauptsache hat die Klägerin gegen die Beklagte auch keinen Anspruch auf vorgerichtliche Rechtsanwaltsgebühren nebst Zinsen (Antrag 4).II.Die Entscheidung über die Kosten beruht auf § 91 Abs. 1 Satz 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit ergeht aufgrund des § 709 Satz 1, Satz 2 ZPO.III.Der Streitwert wird auf 29.000,- Euro festgesetzt.Verkündet am: 01.02.2018
+			
+			
+			
+			Permalink: https://openjur.de/u/2181625.html (https://oj.is/2181625)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

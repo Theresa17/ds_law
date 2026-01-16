@@ -1,0 +1,144 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BochumRechtsprechungUrteil vom 23.09.2019 - 6 O 387/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bochum, Urteil vom 23.09.2019 - 6 O 387/18
+                      m. Fundstelle
+                      LG Bochum, Urteil vom 23.09.2019 - 6 O 387/18 = openJur 2021, 5139
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bochum, Urteil vom 23.09.2019 - 6 O 387/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 5139
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							nachfolgend: Az. 28 U 269/19
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger trägt die Kosten des Rechtsstreits.Das Urteil ist gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger ist Eigentümer eines Q, in dem ein von der Fa. B entwickelter Dieselmotor verbaut ist. Er verlangt von der Beklagten Rückzahlung des Kaufpreises von 67.664,28 EUR nebst Zinsen gegen Rückgabe des streitgegenständlichen Fahrzeugs.Die Beklagte ist ein weltweit bekannter Sportwagenhersteller, sie ist Herstellerin des streitgegenständlichen Fahrzeugs. Die Beklagte entwickelt selbst keine Dieselmotoren; streitig ist aber, ob sie diese von anderen Herstellern auch vollständig hinzu erwirbt und diese nur in die von ihr hergestellten Fahrzeuge einbaut oder ob sie jedenfalls auf der Grundlage der Entwicklung anderer Unternehmen wie der Fa. B AG als Tochterunternehmen des gemeinsamen Mutterkonzerns, der W AG, die Antriebsmotoren dann selbst herstellt und einbaut. Über diese Frage streiten die Parteien u.a. auch bezogen auf den Motor des streitgegenständlichen Unternehmens.Mit Kaufvertrag vom 18.03.2014 erwarb der in Witten wohnhafte Kläger das streitgegenständliche Fahrzeug von der T Sportwagen X GmbH & Co. KG in X zu einem Kaufpreis von 67.644,28 EUR brutto. An den Vertragsverhandlungen war die Beklagte als Herstellerin nicht unmittelbar beteiligt und hatte von diesen keine Kenntnis. Der Käufer zahlte den Kaufpreis am 11.06.2014 per Überweisung.Das Fahrzeug mit der ...# und dem amtlichen Kennzeichen ...# wurde am 17.06.2014 erstmals auf den Kläger zugelassen. Es wird im Fahrzeugbrief näher beschrieben als Typ 92A in Variante EG22 Version 02. Der eingebaute Dieselmotor ist sechszylindrig mit einem Hubraum von 2967 cm3 und einer Leistung von 180 kW bzw. 245 PS. Der Motor ist homologiert nach der EU Abgasnorm Euro 5 gemäß der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20.06.2007 über die Typengenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6). Nach der von dem Leiter der Produktionssteuerung der Beklagten ausgestellten EG-Übereinstimmungsbescheinigung stimmt das Fahrzeug mit dem in der am 23.05.2013 erteilten EG-Typgenehmigung e13*2007/46*1085*08 überein.Im Verhandlungstermin hat der Kläger den aktuellen Kilometerstand des Fahrzeuges mit 55.171 km angegeben.Der Kläger macht geltend, der von der Beklagten selbst hergestellte Motor des streitgegenständlichen Fahrzeugs sei mit einer sog. unzulässigen Abschalteinrichtung versehen. So erkenne ein sog. "defeat device" softwaregestützt, ob das Fahrzeug sich in einem Testzyklus auf dem Prüfstand befinde. Sei dies der Fall, werde durch die Software ein Modus der Motorsteuerung aktiviert, in dem es zu einer hohen Abgasrückführung und niedrigem Stickstoffausstoß komme. So würden die gesetzlichen Schadstoffgrenzwerte eingehalten. Außerhalb des Testzyklus, also im gewöhnlichen Betrieb im Straßenverkehr, schalte die Software hingegen in einen anderen Modus, in dem die Grenzwerte von vornherein unabhängig vom Fahrverhalten nicht erreicht würden. Weiter arbeite der Motor mit einem sog. "thermischen Fenster". Danach werde die Abgasreinigung unter bestimmten thermischen Situationen, also temperaturabhängig gedrosselt. Dies alles ergebe sich aus einem Bericht der "Untersuchungskommission W" des Bundesministeriums für Verkehr und digitale Infrastruktur. Danach sei eine solche Abschalteinrichtung durch Messungen bei einem B A6 V6 3.0 l Euro 5 nachgewiesen worden, dieser Motor werde konzernweit bei dem Mutterkonzern eingesetzt, also nicht nur bei Modelle der Marke B, sondern sei auf der Grundlage seiner Entwicklung auch so von der Beklagten hergestellt und in seinem Fahrzeug der Marke der Beklagten eingebaut worden. Die Stickstoff-Grenzwerte würden beim NEFZ 10°C-Test (Neuer Europäischer Fahrzyklus) und bei sämtlichen PEMS-Straßenmessungen (Portable Emission Measurement System) deutlich überschritten. Im Übrigen stehe das Vorhandensein solcher Abschalteinrichtung aufgrund des Bescheids des Kraftfahrt-Bundesamtes (KBA) vom 15.10.2015 fest.Insoweit gehöre die Beklagte zum W Konzern, dieser habe viele Motoren aus Gewinnstreben manipuliert, damit sie die Euro 5-Norm erfüllen würden. Dessen Vorstand für technische Entwicklung habe den Anstoß für die Entwicklung und den Einsatz der vermeintlichen Täuschungssoftware gegeben. Die Entwicklung sei im Gesamtkonzern und unter Führung der Konzernleitung erfolgt. Der Technikvorstand habe gewusst, dass das Motorsteuergerät zwischen Prüfstand und Feldlauf unterscheiden würde und so programmiert gewesen sei, dass lediglich auf dem Prüfstand die gesetzlichen Anforderungen an die Abgasreinigung erfüllt würden. Der Einsatz der Manipulationssoftware sei auch mit Wissen und Wollen des Vorstands der Beklagten erfolgt, ihr sei die vermeintliche Rechtswidrigkeit bekannt gewesen. Der Vorstand der Beklagten sei zudem vom Zulieferer, der Firma C, dahingehend gewarnt worden. Die Beklagte sei zudem zertifiziert nach DIN EN ISO 9001 und mithin so organisiert, dass etwaige Entscheidungen über flächendeckenden Einsatz einer Täuschungssoftware nur vom Vorstand getroffen werden würden.Er selbst habe sich für den Kauf des Fahrzeugs entschieden, weil er ein besonders umweltfreundliches Fahrzeug habe erwerben wollen. Die dem Kläger ausgehändigte EG-Übereinstimmungserklärung sei unzutreffend. Mit dem Wissen darüber und über die vermeintlichen Manipulationen hätte er das Fahrzeug nicht gekauft. Das Fahrzeug sei nicht zulassungsfähig und könne von ihm darum nicht im öffentlichen Straßenverkehr genutzt werden. Es sei durch die Manipulation erheblich geringwertiger, nämlich um rund 30 Prozent. Ein etwaiges Softwareupdate bringe technische Probleme und erhebliche Sicherheitsrisiken mit sich. Schon allein die Möglichkeit entsprechend auftretender Mängel werde in der Öffentlichkeit bei manipulierten Fahrzeugen unterstellt und preismindernd berücksichtigt.Aufgrund diese gesamten Umstände sei die Beklagte ihm zum Schadensersatz wegen der Inanspruchnahme besonderen Vertrauens beim Ausstellen der EG-Übereinstimmungsbescheinigung nach § 311 Abs. 3 BGB und/oder auf der Grundlage mehrerer deliktischer Grundlagen wie z Bsp. § 826 BGB verpflichtet. Die Beklagte habe ihn über die Einhaltung der EU-Abgasnorm Euro 5 und die Nutzungserlaubnis des Fahrzeugs im Öffentlichen Raum vorsätzlich und sittenwidrig getäuscht und so den Vertragsabschluss herbeigeführt. Die Manipulation des Motors sei gesetzeswidrig und führe zu einem gesetzlich unzulässigen Ausstoß an Stickstoff im regelmäßigen Fahrbetrieb. Ohne Nachbesserung sei mit dem Widerruf der Betriebserlaubnis zu rechnen. Weil das Fahrzeug im öffentlichen Raum nicht hätte bewegt werden dürfen, sei die erfolgte Nutzung auf den Schadensersatzanspruch nicht anzurechnen. Hilfsweise erklärt der Kläger diesbezüglich die Aufrechnung mit seinem Anspruch auf Zinsen, der sich aus § 849 BGB ergebe.Der Kläger beantragt,1. die Beklagte zu verurteilen, an ihn 67.664,00 EUR nebst Zinsen i.H.v. 4 % p.a. aus 67.664,00 EUR seit dem 11.06.2014 bis zur Rechtshängigkeit sowie danach nebst 5 Prozentpunkte Zinsen über dem Basiszinssatz zu zahlen, Zug um Zug gegen Übereignung und Übergabe des PKW Q, ...# an die Beklagte.2. festzustellen, dass sich die Beklagte mit der Annahme des Angebotes gemäß Ziff. 1 in Verzug befindet.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte macht geltend, das streitgegenständliche Fahrzeug sei von dem sog. Abgasskandal überhaupt nicht betroffen. Sie habe auch den Motor weder entwickelt nicht selbst hergestellt, sondern von der Fa. B AG für das Fahrzeug hinzuerworben. Der zugekaufte und in das Fahrzeug des Klägers von ihr eingebaute Motor verfüge nicht über die Umschaltlogik des im Zuge der Untersuchungen bekannt gewordenen EA189 (EUS)-Motors. Vielmehr sei dieser Motor in keinem von ihr hergestellten Fahrzeug verbaut. Der Vortrag des Klägers beziehe sich, soweit er auf den Bericht der "Untersuchungskommission W" abstelle, ausschließlich auf Fahrzeuge der Firma B, nicht aber auf das streitgegenständliche Fahrzeug, für das streitgegenständliche Fahrzeug und dessen Motor gebe es auch keinen Rückruf und keine irgendwie gearteten Anordnungen des KBA wie z. Bsp. für den EA 189. Für dieses habe das KBA vielmehr ausdrücklich festgestellt, dass es nicht von Maßnahmen der Behörde betroffen sei. Damit stünden weder ein Rückruf noch eine Softwareaktualisierung oder gar ein Zulassungsverbot im Raum. Das Fahrzeug des Klägers sei technisch sicher, verfüge über eine gültige EG-Typengenehmigung für die Euro 5 Klasse und könne damit uneingeschränkt und genau so genutzt werden, wie jedes andere Fahrzeug mit der gleichen Schadstoffklasse. Der gesamte Vortrag zum sog. thermischen Fenster sei unschlüssig und zudem unzutreffend.Die Beklagte bestreitet mit Nichtwissen, dass der Kläger die Kaufentscheidung auf Grundlage der EG-Typgenehmigung getroffen habe, ein besonders umweltfreundliches Fahrzeug kaufen wollte und das Fahrzeug mit seinem heutigen vermeintlichen Wissen nicht gekauft hätte. Das sei schon deshalb zu bezweifeln, weil das klägerische Fahrzeug ein 2 Tonnen schwerer SUV mit 245 PS sei. Dass der Schadstoffausstoß im Realbetrieb höher sei als auf dem Prüfstand, liege in der Natur der Sache und habe keinen Einfluss auf die Übereinstimmung mit einer EG-Typengenehmigung. Jedenfalls aber gebe es keine Anhaltspunkte für einen Wertverlust, weil der Kläger genau das bestellte Fahrzeug erhalten habe, dieses vom sog. Abgasskandal nicht betroffen sei und zudem der Q Diesel für den überdurchschnittlichen Werterhalt bekannt sei. Der gesamte Vortrag zur vermeintlichen Täuschung bei der Ausstellung der EG-Übereinstimmungsbescheinigung sei unrichtig und liege neben der Sache. Zudem sei der gesamte Vortrag zu vermeintlichen Manipulationen an Motoren und dem angeblichen Wissen der Organe und Mitarbeiter der Beklagten auch unsubstanziiert. Der Kläger befasse sich kaum mit der Beklagten selbst, sondern nahezu ausschließlich mit der Konzernmutter. Ein vermeintliches Fehlverhalten der W AG begründe aber keine Ansprüche gegen sie. Auch die angeblichen Belege für ein Fehlverhalten ihrerseits bezögen sich nur auf die Firmen W und B, nicht aber auf sie selbst. Demnach treffe sie auch dahingehend keine besondere Darlegungslast, zumal sie eben nicht selbst Herstellerin des streitgegenständlichen Motors sei. Davon ausgehend würde schon mangels Täuschungshandlung keiner der geltend gemachten Ansprüche bestehen. Zudem fehle es an einem Schaden beim Kläger. Schließlich sei der Vortrag des Klägers in keiner Weise geeignet, einen Vorsatz bei ihr darzulegen.Hinsichtlich der Nutzung des Fahrzeugs durch den Kläger macht die Beklagte äußerst hilfsweise geltend, diese müsse angerechnet werden, da das Fahrzeug genutzt werde durfte und offensichtlich auch genutzt wurde.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen verwiesen. 
+				Gründe
+				Die Klage ist nicht begründet.Dem Kläger stehen keine Ansprüche auf Schadensersatz im Wege der Rückabwicklung des Kaufvertrages gemäß den §§ 826,31,249 BGB oder gemäß den §§ 823 Abs. 2, 31, 249 BGB i.V.m. § 263 StGB bzw. § 6 Abs. 1 27 Abs. 1 EG-FGV oder gemäß § 311 Abs. 3 BGB zu. Unabhängig von den Fragen, ob die weiteren Voraussetzung für die angegebenen Normen vorliegen, kann hier bei dem Motor in dem streitgegenständlichen Fahrzeug des Klägers bereits nach dessen eigenem Sachvortrag keine unzulässige Manipulation festgestellt werden.Grundvoraussetzung für alle in Betracht kommenden Anspruchsgrundlagen und Normen ist, dass der Motor des streitgegenständlichen und vom Kläger erworbenen Fahrzeuges Q Diesel der Beklagten tatsächlich mit einer unzulässigen Abschalteinrichtung ausgestattet gewesen wäre. Anders als bei Fahrzeugen des Mutterkonzerns W oder von deren Tochterunternehmen mit dem Motor EA 189, wo das Vorhandensein einer unzulässigen Umschaltlogik bzw. einer solchen unzulässigen Abschalteinrichtung in bestimmten Fahrzeugen z Bsp. mit einem 1,6 l oder 2,0 l Dieselmotor weitgehend unstreitig ist bzw. zumindest aufgrund von Gesamtumständen feststeht, so dass die Kammer in Verfahren z.Bsp. gegen den Mutterkonzern W in ständiger Rechtsprechung Ansprüchen aus §§ 826,31 BGB stattgibt, kann vorliegend bereits auf der Grundlage des klägerischen Sachvortrages eben nicht von dem Vorliegen dieser Voraussetzungen ausgegangen werden.Insoweit hat der Kläger nicht ausreichend substantiiert dargelegt, dass der tatsächlich in seinem Fahrzeug Q Diesel vorhandene Motor mit einer solchen unzulässigen Abschalteinrichtung ausgestattet ist oder jedenfalls hinreichend konkret mitgeteilte Umstände dafür sprechen könnten. Vielmehr behauptet der Kläger weitgehend "ins Blaue hinein", dass auch das von ihm erworbene Fahrzeug Q Diesel (3,0 l, 6-Zylindermotor, Euro 5) werksseitig mit einem solchen Motor - sei es, dass dieser Motor (3,0 l, 6-Zylindermotor, Euro 5) von der Fa. B AG hergestellt und von der Beklagten lediglich erworben und eingebaut wurde oder sei es, dass der Motor von der Fa. B AG lediglich entwickelt und von der Beklagten auf dieser Grundlage dann selbst hergestellt und eingebaut wurde - mit einer unzulässigen Abschalteinrichtung ausgestattet bzw. dieser mit einer diesbezüglichen Softwaresteuerung versehen ist, die eine Prüfstandssituation erkennt und in diesem Fall den Stickstoffausstoß (NoX-Ausstoß) des Fahrzeuges auf einen noch zulässigen Wert drosselt, während im Normalbetrieb durch einen entsprechenden Wechsel mangels hier erfolgter Drosselung die Grenzwerte deutlich überschritten werden. Insoweit will sich also der Kläger darauf berufen, dass bei dem in seinem Fahrzeug eingebauten Motor eine annähernd vergleichbare Situation vorliegt, wie dies bei den Motoren EA 189 aus dem W-Mutterkonzern weitgehend unstreitig ist. Dabei handelt es sich jedoch um eine pauschale Behauptung ohne hinreichend konkrete und greifbare Anhaltspunkte für das Vorliegen eines solchen Sachverhaltes, die damit quasi nur ‘‘ins Blaue hinein‘‘ aufgestellt wird, so dass der diesbezügliche Vortrag und die Behauptung als rechtsmissbräuchlich und damit prozessual unbeachtlich anzusehen ist.Zwar geht auch der erkennende Einzelrichter davon aus, dass grundsätzlich Zurückhaltung geboten ist, ein solches rechtsmissbräuchliches Vorgehen anzunehmen. Ein solches pauschales Vorbringen ist aber dann unzulässig, wenn es nicht zumindest gewisse hinreichend greifbare Anhaltspunkte für diese aufgestellte Behauptung gibt. Hier gibt es jedoch keine hinreichend konkreten Anhaltspunkte dafür, dass auch der Motor des Fahrzeuges des Klägers mit einer solchen unzulässigen abschobt Einrichtung ausgestattet wäre, jedenfalls sind solche nicht vorgetragen worden.Die Kammer verkennt nicht, dass die diesbezügliche Frage hinsichtlich vergleichbarer Motoren (3,0 l 6-Zylindermotor Euro 5) in der Rechtsprechung durchaus unterschiedlich beurteilt wird. So gibt es einige Gerichte, die offensichtlich in ihren Verfahren den dortigen entsprechenden Sachvortrag als ausreichend ansehen, wobei im Ergebnis von Seiten des erkennenden Einzelrichters aber nicht beurteilt werden kann, wie hinreichend konkret der Sachvortrag in diesen Verfahren tatsächlich ist. Zudem betreffen die Entscheidungen, auf die sich der Kläger berufen will, offensichtlich lediglich 3,0 l 6-Zylindermotoren EURO 5 in B A6, die von der Firma B selbst erstellt wurde, während hier nach dem eigenen korrigierten Vortrag der streitgegenständliche Motor von der B AG gar nicht erstellt worden sein soll, sondern die Beklagte diesen lediglich aufgrund der Entwicklung von B selbst erstellt habe. Ob diese damit zwangsläufig hätten völlig identisch sein müssen - dies wäre sicherlich bei dem von der Beklagten behaupteten Zukauf von B der Fall -, muss nicht einmal entscheiden werden. Selbst wenn man nämlich eine entsprechende Identität annimmt, wird auch in solchen Verfahren bezüglich eines 3,0 l 6-Zylindermotor Euro 5 der Fa. B AG von einer Vielzahl von Gerichten anders entschieden und der diesbezüglich pauschale Sachvortrag als nicht ausreichend angesehen, insbesondere wurde in einem anderen Verfahren eines anderen Einzelrichters hiesigen Kammer der diesbezügliche Sachvortrag bei einem B A6 mit einem 3,0 l 6-Zylindermotor, Euro 5 als nicht ausreichend angesehen ( Urteil im Verfahren I-6 O 252/18 ). Zudem ist zu berücksichtigen, dass insbesondere die obergerichtliche Rechtsprechung z. Bsp. des OLG Köln (Beschluss vom 09.01.2019) gerade bei Fahrzeugen Q der Beklagten mit einem 3,0 l 6-Zylindermotor Euro 5 solch pauschalen Sachvortrag wie in diesem Verfahren eben als nicht ausreichend angesehen hat.Insgesamt folgt die Kammer nach eingehender Überprüfung der wohl überwiegenden Meinung und insbesondere der obergerichtlichen Rechtsprechung und geht damit auch in diesem Verfahren davon aus, dass der Kläger keine hinreichend konkreten tatsächlichen Anhaltspunkte, aufgrund derer er einen Einbau oder einen Einsatz einer unzulässigen Abschalteinrichtung in dem Motor des von ihm erworbenen PKW für wahrscheinlich halten durfte, dargetan hat und diese auch in sonstiger Weise nicht ersichtlich sind. Insoweit ist zunächst einmal zu berücksichtigen, dass es bezogen auf den streitgegenständlichen Motor in Fahrzeugen der Beklagten weder eine entsprechende Rückrufaktion des Kraftfahrtbundesamtes gibt noch von Seiten Kraftfahrtbundesamtes bezüglich dieses Motors oder des streitgegenständlichen Fahrzeugtyps oder vergleichbarer Fahrzeuge mit diesem oder einem vergleichbaren Motor der Fa. B AG sonstige konkrete Maßnahmen angeordnet wurden.Es reicht auch nicht aus, dass der Kläger hier auf einen Bericht der Untersuchungskommission ‘‘W‘‘ und hier speziell auf die Untersuchung des B A6 V6 3,0 l Euro 5 abstellen will. Insoweit kann nämlich aus der von der Untersuchungskommission vorgenommenen Überprüfung des B A6 V6 3,0 l Euro 5 eben nicht auf das tatsächliche Vorhandensein einer unzulässigen Abschalteinrichtung geschlossen werden bzw. erscheint dies nicht hinreichend wahrscheinlich. Selbst wenn hier ursprünglich mögliche Zweifel bestanden haben sollten, wäre bei tatsächlichen Feststellungen im Rahmen der weiteren Überprüfung aber sicher zu erwarten gewesen, dass das Kraftfahrtbundesamt tatsächlich in irgendeiner Hinsicht Maßnahmen bezogen auf diesen konkreten Motor oder entsprechende Fahrzeuge, in denen dieser streitgegenständliche Motor eingebaut worden ist, ergriffen oder angeordnet oder eine Rückruf veranlasst hätte. Dies ist aber, wie bereits ausgeführt, offensichtlich weder bei Motoren V6, 3,0 l Euro 5 in entsprechenden Q der Beklagten noch bei Fahrzeugen der Marke wie dem B A6 mit einem 3,0 l V6, Euro 5 Motor geschehen. Dies gilt erst recht, wenn man das von der Beklagten vorgelegte Schreiben des KBA berücksichtigt, worin sinngemäß ausgeführt wird, dass es bezüglich des Motors keine Maßnahmen der Behörde gibt.Es genügt auch nicht, dass das Kraftfahrtbundesamt für andere Motortypen, nämlich z. Bsp. Euro 6 Motoren der Fahrzeuge B A6 bzw. des Q der Beklagten entsprechende Maßnahmen angeordnet oder eine Rückrufaktion veranlasst haben mag. Aus diesen Vorgängen bezüglich anderer Motoren kann von Seiten des Klägers nicht die zwangsläufige Schlussfolgerung gezogen werden, sein Fahrzeug mit einem anderen Motortyp damit ebenfalls eine unzulässige Abschalteinrichtung enthalten könnte oder müsste. Dies stellt eine unzulässige Spekulation und eine bloße pauschale Verdachtsäußerung dar, die als solche als ausreichender Sachvortrag nicht ausreicht. Allein der Verdacht gegen die vom sog. Abgasskandal betroffenen Unternehmen des Mutterkonzerns W sowie bestimmter Tochterunternehmen und die Verwendung von Abschalteinrichtungen in anderen Motortypen wie z Bsp. dem EA 189, wo dies unstreitig ist, reicht auch nicht aus, dass man davon ausgehen kann, nunmehr jeden von Unternehmen aus dem Gesamtkonzern W hergestellten Dieselmotor zwangsläufig unter Generalsverdacht einer solchen Manipulation stellen zu können.Vielmehr muss jeder Geschädigte, der entsprechende Ansprüche aufgrund einer Behauptete Manipulation geltend machen will, bezogen auf den Motor in seinem Fahrzeug ausreichende und hinreichend konkrete Anhaltspunkte darlegen, dass gerade auch der Motor in seinem Fahrzeug ebenfalls eine solche unzulässige Abschalteinrichtung enthält und damit entsprechend manipuliert worden ist. Dazu reichen eben nicht bloße Verdachtsgründe oder pauschale Vermutungen aus, dass angesichts vorgenommener Manipulationen bei einem anderen, vom Mutterkonzern hergestellten Motor zwangsläufig auch alle weiteren oder jedenfalls eine Vielzahl von anderen Dieselmotoren, selbst wenn diese nur von Tochterunternehmen hergestellt oder entwickelt wurden, ebenfalls vergleichbare Manipulationen enthalten.Damit hätte der Kläger solche hinreichend konkret darzulegenden und eben nicht nur pauschale oder spekulative Anhaltspunkte wie z.B. konkrete behördliche Erkenntnisse oder veröffentlichte Anordnungen oder Rückrufaktionen von Behörden oder sonstige konkrete Hinweise bezogen auf den streitgegenständlichen Motor darlegen müssen, um auf eine entsprechende Manipulationen auch und gerade hinsichtlich des streitgegenständlichen Motors in seinem Fahrzeug mit einer gewissen Wahrscheinlichkeit schließen zu können. Daran fehlt es im konkreten Fall. Ohne Darlegung solch hinreichend konkreter Anhaltspunkte bleibt der Sachvortrag des Klägers in diesem Verfahren - wie offensichtlich auch der Vortrag anderer Kläger in anderen Verfahren wie z.B. in dem Verfahren vor dem Oberlandesgericht Köln mit dem dortigen Beschluss vom 09.01.2019 - reine Spekulation, deren tatsächliche Grundlage erst durch eine entsprechende Beweisaufnahme hätte geklärt werden sollen. Insoweit handelt es sich damit aber um einen bloßen Ausforschungsbeweis, der als solcher unzulässig ist und dem zivilprozessualen Beibringungsgrundsatz widerspricht, wonach nämlich nur bei hinreichend konkretem Sachvortrag eine entsprechende Beweisaufnahme durch ein Sachverständigengutachten stattzufinden hat.Da der diesbezügliche Sachvortrag des Klägers zu der behaupteten unzulässigen Abschalteinrichtung in dem Motor seines Fahrzeugs nicht ausreicht, kann bereits die Grundvoraussetzung für sämtliche in Betracht kommende Schadensersatznormen als Grundlage für das Rückabwicklungsbegehren des Klägers im Rahmen eines Schadensersatzanspruches nicht festgestellt werden. Damit lassen sich also die Voraussetzungen des mit der Klage verfolgten Hauptanspruches nicht feststellen, so dass auch der weiter geltend gemachte Anspruch auf Feststellung des Annahmeverzuges nicht gegeben ist. Dies hat zur Folge, dass die mit der Klage verfolgten Ansprüche insgesamt keinen Erfolg haben.Die Nebenentscheidungen beruhen auf den §§ 91, 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2319481.html (https://oj.is/2319481)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

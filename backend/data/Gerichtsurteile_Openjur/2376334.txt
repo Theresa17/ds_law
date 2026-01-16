@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSchleswig-HolsteinOrdentliche GerichtsbarkeitLG KielRechtsprechungUrteil vom 18.06.2021 - 10 O 197/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Kiel, Urteil vom 18.06.2021 - 10 O 197/20
+                      m. Fundstelle
+                      LG Kiel, Urteil vom 18.06.2021 - 10 O 197/20 = openJur 2021, 42676
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Kiel, Urteil vom 18.06.2021 - 10 O 197/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 42676
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte wird verurteilt, an die Klägerin 21.060,27 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 14.10.2020 zu zahlen.Die Beklagte wird verurteilt, an die Klägerin außergerichtliche Rechtsverfolgungskosten in Höhe von 1.295,43 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 14.10.2020 zu zahlen.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits werden der Beklagten auferlegt.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Die Klägerin nimmt die Beklagte im Zusammenhang mit der sogenannten Dieselthematik auf Schadensersatz in Anspruch.Am 27.08.2015 erwarb die Klägerin von der LXXX eine Pkw Audi SQ5 3.0 TDI Competition Quattro als Neuwagen zu einem Preis von 68.200,01 € (Anlage K 1, Anlagenband I). Am 30.01.2019 veräußerte die Klägerin das Fahrzeug zu einem Preis von 34.500,00 € weiter; der Kilometerstand betrug zu diesem Zeitpunkt 55.600 km.In dem von der Beklagten hergestellten Fahrzeug ist ein Sechszylinder-Dieselmotor des Typs EA 897 evo (EU 6) verbaut. Für den Pkw besteht eine EG-Typengenehmigung, deren Erteilung unter anderem voraussetzt, dass die in der entsprechenden Verordnung vorgesehenen Abgasgrenzwerte eingehalten werden; dies wird mit einem speziellen Testverfahren, dem "Neuen Europäischen Fahrzyklus" (NEFZ) ermittelt.Der Wagen ist von einem im Dezember 2017 ergangenen Rückrufbescheid des Kraftfahrtbundesamts (KBA) wegen einer in die Motorsteuerung integrierter Abschalteinrichtung betroffen, welche das KBA als unzulässig einstuft. Das KBA rügt insbesondere eine als "Strategie A" bezeichnete Aufheizstrategie, die genutzt werde, um die Überschreitung des Stickoxid-Grenzwerts von 80 mg/km bei der Prüfung für die EG-Typengenehmigung sicher zu vermeiden. Die Bedingungen für die Initialisierung der Aufheizstrategie seien dabei so miteinander verknüpft, dass schon kleine Abweichungen in Fahrprofil und Umgebungsbedingungen zum Abschalten der Aufheizstrategie mit entsprechender Verschlechterung des Stickoxidemissionsverhaltens führten. Das KBA gab der Beklagten deshalb auf, die Vorschriftsmäßigkeit der hiervon betroffenen Fahrzeuge durch Entfernen aller unzulässigen Abschalteinrichtungen aus dem Emissionskontrollsystem wiederherzustellen. Mit Bestätigung vom 26.11.2018 gab das KBA ein Software-Update für die Fahrzeuge des Typs Audi SQ5 3.0 V6 TDI (EU 6) frei.Mit vorgerichtlichem Schreiben ihrer Prozessbevollmächtigten vom 06.10.2020 (Anlage K 12, Anlagenband II) forderte die Klägerin die Beklagte unter Fristsetzung bis zum 13.10.2021 vergeblich auf, an sie 24.220,21 € Schadensersatz (68.200,01 € Kaufpreis abzgl. 34.500,00 Weiterveräußerungserlös und 9.479,80 € Nutzungsentschädigung) zu zahlen und ihr die Kosten der außergerichtlichen Interessenwahrnehmung zu erstatten.Der Kläger trägt vor, der Motor verfüge überdies über eine unzulässige Abschalteinrichtung in Form eines Thermofensters. Die Motorsteuerungssoftware erkenne, ob sich das Fahrzeug unter Bedingungen befinde, die beim Prüfzyklus Typ 1 nach NEFZ herrschten, und regele in Abhängigkeit davon sowohl die Abgasrückführung als auch die Eindosierung des Reagens in den SCR-Katalysator. Sowohl der damalige Vorstand als auch leitende Mitarbeiter der Beklagten hätten von den Manipulationen der Motorsteuerung gewusst. Sie - die Klägerin - hätte das Fahrzeug in Kenntnis dieser Umstände nicht erworben.Die Klägerin beantragt,1. die Beklagte zu verurteilen, an sie 21.060,27 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 14.10.2020 zu zahlen,2. die Beklagte zu verurteilen, an sie außergerichtliche Rechtsverfolgungskosten in Höhe von 1.314,28 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 14.10.2020 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Sie trägt vor, das Fahrzeug sei technisch sicher und könne uneingeschränkt genutzt werden, sodass der Klägerin kein Schaden entstanden sei. Die nach Auffassung des KBA unzulässige Abschalteinrichtung werde mit der Installation des Software-Updates beseitigt, negative Auswirkungen auf den Motor seien hiermit nicht verbunden. Bei dem zur Anwendung kommenden Thermofenster handele es sich nicht um eine unzulässige Abschalteinrichtung, weil es dem Bauteileschutz diene. Jedenfalls sei ein etwaiger Schadensersatzanspruch infolge der Weiterveräußerung des Fahrzeugs entfallen.Wegen der weiteren Einzelheiten des Parteivorbringens wird auf die gewechselten Schriftsätze und deren Anlagen sowie auf das Protokoll der mündlichen Verhandlung vom 01.06.2021 (Bl. 217 f. d.A.) Bezug genommen. 
+				Gründe
+				Die Klage ist zulässig und überwiegend begründet.Dem Kläger steht gegenüber der Beklagten ein Schadensersatzanspruch aus § 826 BGB zu. Gemäß § 826 BGB ist derjenige, der in einer gegen die guten Sitten verstoßenden Weise einem anderen vorsätzlich einen Schaden zufügt, dem anderen zum Ersatz des Schadens verpflichtet. Diese Voraussetzungen sind hier erfülltDie Beklagte hat den Kläger durch das Inverkehrbringen des im streitgegenständlichen Fahrzeug verbauten Dieselmotors 4.2 l (EU 6) sittenwidrig geschädigt. Sittenwidrig ist ein Verhalten, das in seinem Gesamtcharakter gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft; vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann. Die Verwerflichkeit kann sich auch aus einer bewussten Täuschung ergeben (BGH, Urteil vom 28.06.2016, Az. VI ZR 536/15, juris Rn. 16). Eine solche liegt hier vor. Die Beklagte hat den im Fahrzeug des Klägers verbauten Dieselmotor des Typs EA 897 evo (EU 6) mit Abschalteinrichtungen ausgestattet, von denen das KBA jedenfalls eine ("Strategie A") als unzulässig eingestuft hat. Durch das Inverkehrbringen des Motors hat die Beklagte konkludent zum Ausdruck gebracht, dass die hiermit ausgestatteten Fahrzeuge im Straßenverkehr uneingeschränkt eingesetzt werden können. Bei Fahrzeugen mit einer unzulässigen Abschalteinrichtung wurde die notwendige EG-Typengenehmigung jedoch aufgrund manipulierter Testwerte erlangt, was für den Käufer das Risiko beinhaltet, dass die Genehmigung widerrufen wird und das Fahrzeug ab diesem Zeitpunkt nicht mehr für den Straßenverkehr zugelassen ist.Diese Täuschung ist als sittenwidrig anzusehen. Als Beweggrund für das Inverkehrbringen der mit der Abschalteinrichtung versehenen Motoren kommt allein eine angestrebte Kostensenkung und damit verbundene Gewinnmaximierung in Betracht (vgl. OLG Köln, Beschluss vom 16.07.2018, Az: 27 U 10/18, juris Rn. 20). Zwar ist ein Handeln mit Gewinnstreben für sich genommen nicht als verwerflich zu werten, die Sittenwidrigkeit der Täuschung ergibt sich hier aber sowohl aus der Anzahl der getäuschten Käufer als auch aus dem hohen Schaden, der diesen im Fall einer potentiellen Stilllegung der Fahrzeuge droht. Darüber hinaus ist das Verhalten deshalb verwerflich, weil die verwendete Software für den - die Einhaltung der entsprechenden Vorgaben arglos als selbstverständlich voraussetzenden - Käufer offenkundig nicht erkennbar ist und das schädigende Verhalten nur mit erheblichem Aufwand überhaupt aufgedeckt werden kann (OLG Schleswig, Urteil vom 22.11.2019, Az.: 17 U 44/19, juris Rn. 32 ff.; BGH, Urteil vom 25.05.2020, Az.: VI ZR 252/19, juris Rn. 23 ff.).Die Täuschung war auch kausal für den Abschluss des Kaufvertrags. Zentrales Motiv für den Kauf eines Pkws ist regelmäßig die Möglichkeit der Benutzung des Fahrzeugs im öffentlichen Straßenverkehr. Es entspricht bereits allgemeiner Lebenserfahrung, dass Kraftfahrzeugkäufer vom Kauf eines Fahrzeugs Abstand nehmen würden, wenn ihnen bekannt wäre, dass das betreffende Fahrzeug zwar formal über eine EG-Typengenehmigung verfügt, aber wegen Verwendung einer unzulässigen Abschalteinrichtung diese nicht hätte erhalten dürfen, weshalb Maßnahmen der die Typengenehmigung erteilenden Behörde bis hin zur Stilllegung drohen (OLG Karlsruhe, Beschluss vom 05.03.2019, Az.: 13 U 142/18, juris Rn. 25; BGH, Urteil vom 25.05.2020, Az.: VI ZR 252/19, juris Rn. 49 ff.).Durch die Täuschung ist der Klägerin ein Schaden entstanden, der im Abschluss des Kaufvertrages zu sehen ist. Bereits der Abschluss eines Geschäfts aufgrund des sittenwidrigen Verhaltens stellt einen ersatzfähigen Schaden im Rahmen des § 826 BGB dar. Ausreichend ist, dass der Kaufgegenstand nicht den berechtigten Erwartungen des Getäuschten entsprach und überdies für seine Zwecke nicht voll brauchbar war. Dies war hier der Fall, weil die Entziehung der EG-Typengenehmigung und somit die Stilllegung des Fahrzeugs drohte. Das erst später entwickelte Update ändert nichts an dem bereits durch den Abschluss des ungewollten Vertrages entstandenen Schaden; der einmal entstandene Anspruch auf Befreiung von einer Verbindlichkeit erlischt durch spätere Entwicklungen nicht (OLG Schleswig, Urteil vom 07.08.2020, Az.: 1 U 119/19 (Anlage K 13), S. 11; BGH, Urteil vom 25.05.2020, Az.: VI ZR 252/19, juris Rn. 58).Die Beklagte handelte auch vorsätzlich. Sie ist der Behauptung der Klägerin, der Einsatz der Software sei mit Wissen und Wollen des damaligen Vorstands und anderer führender Mitarbeiter erfolgt sei, nicht ausreichend entgegengetreten. Das Wissen ihrer Vorstandsmitglieder muss sie sich nach § 31 BGB zurechnen lassen.Die Klägerin hat eine solche Kenntnis - u.a. unter Bezugnahme auf eine entsprechende Berichterstattung in der Presse - hinreichend substantiiert dargelegt. Schon aufgrund der Bedeutung gesetzlicher Grenzwerte und der technischen und wirtschaftlichen Möglichkeiten ihrer Einhaltung für die Geschäftstätigkeit der Beklagten erscheint es fernliegend, dass die Nutzung der fraglichen Motorsoftware ohne Einbindung des Vorstands geschah und lediglich einem Verhaltensexzess untergeordneter Konstrukteure zuzuschreiben war. Letztlich hat die Klägerin aber keinen Einblick in die inneren Abläufe der Beklagten und kann deswegen dazu nicht im Einzelnen vortragen. Prüfungsmaßstab ist damit lediglich, ob ihr Vortrag ohne greifbare Anhaltspunkte ins Blaue hinein erfolgt. Im Rahmen ihrer sekundären Darlegungslast oblag es danach der Beklagten, sich im Einzelnen zu den Behauptungen des Klägers zu erklären; insbesondere wäre vorzutragen gewesen, wer die entsprechenden Entscheidungen aufgrund welcher Befugnis getroffen hat (vgl. BGH, Urteil vom 25.05.2020, Az.: VI ZR 252/19, juris Rn. 34 ff.). Dieser Obliegenheit ist die Beklagte nicht nachgekommen mit der Folge, dass der Vortrag der Klägerin als zugestanden gilt, § 138 Abs. 3 ZPO.Der Vorsatz der Beklagten erstreckt sich auch auf den Schaden der Klägerin. Der Schädiger braucht nicht im Einzelnen zu wissen, wer der durch sein Verhalten Geschädigte sein wird. Er muss nur die Richtung, in der sich sein Verhalten zum Schaden anderer auswirken könnte, und die Art des möglichen Schadens vorausgesehen und gebilligt haben (BGH, Urteil vom 19.07.2004, Az.: II ZR 402/02, juris Rn. 47). Hier war das Handeln der Beklagten gerade darauf gerichtet, dass Dritte Fahrzeuge erwerben würden, die mit den fraglichen Motoren ausgestattet sind. Entsprechend erstreckte sich ihr Vorsatz auch auf die den Käufern hierdurch entstehenden Schäden.Die Beklagte ist gemäß § 249 BGB verpflichtet, die Klägerin so zu stellen, wie sie stünde, wenn sie den für sie nachteiligen Vertrag nicht geschlossen hätte. Die Klägerin kann mithin die Rückzahlung des geleisteten Kaufpreises von 68.200,01 € abzüglich des Weiterveräußerungserlöses von 34.500,00 € sowie eines Nutzungsvorteils von 12.639,74 € verlangen.Entgegen der Ansicht der Beklagten ist bei der Schadensberechnung vom Bruttobetrag des ursprünglichen Kaufpreises auszugehen, denn die Beklagte hat weder ausreichend dargelegt noch ist sonst ersichtlich, dass die Klägerin das Fahrzeug für eine umsatzsteuerpflichtige freiberufliche Tätigkeit erworben hat und mithin zum Vorsteuerabzug berechtigt war. Allein der Umstand, dass die Klägerin im Kaufvertrag als "Steuerberaterin" bezeichnet wird, reicht in diesem Zusammenhang nicht aus, zumal sie das Fahrzeug später unstreitig "privat" weiterverkauft hat (vgl. die Anlage K 1 und 2, Anlagenband I).Im Rahmen des Vorteilausgleichs sind die von der Klägerin gezogenen Nutzungen zu berücksichtigen. Das Gericht schätzt den Nutzungsvorteil - ausgehend von einer Gesamtlaufleistung des Fahrzeugs von 300.000 km und einer im Zeitpunkt der Weiterveräußerung vorhandenen Laufleistung von 55.600 km - gemäß § 287 ZPO auf 12.639,74 €. Der Betrag errechnet sich nach der Formel Kaufpreis (68.200,01 €) x gefahrene Kilometer (55.600 km) : Gesamtlaufleistung (300.000 km). Nach alledem beläuft sich der Schadensersatzanspruch der Klägerin auf 21.060,27 € (68.200,01 € - 34.500,00 € - 12.639,74 €).Die Weiterveräußerung des Wagens hindert die Geltendmachung des Schadensersatzanspruchs aus § 826 BGB nicht. Die Klägerin war weder vertraglich noch gesetzlich verpflichtet, den Wagen bis zu einer rechtskräftigen Entscheidung über ihren Schadensersatzanspruch zu behalten. Vielmehr steht die Weiterveräußerung des Pkws in einem adäquaten Kausalzusammenhang zur deliktischen Handlung der Beklagten; dass der Käufer eines Wagens mit einem vom "Dieselskandal" betroffenen Motor sich nach dem Bekanntwerden der Manipulation zügig von dem Fahrzeug trennen möchte, ist eine für die Beklagte von Anfang an erkennbare naheliegende Folge des arglistigen Verhaltens (OLG Köln, Urteil vom 27.03.2020 - 6 U 167/19, juris Rn. 58).Zu dem ersatzfähigen Schaden gemäß §§ 826, 249 BGB zählen auch die vorgerichtlichen Rechtsanwaltskosten, allerdings nur in Höhe von 1.295,43 € (1,3 Geschäftsgebühr nach einem Streitwert von 21.060,27 € zuzüglich Auslagenpauschale von 20,00 € und Mehrwertsteuer von 19 %).Der Zinsanspruch ist aus 286 Abs. 1 Satz 1, 288 Abs. 1 BGB gerechtfertigt.Die Kostenentscheidung folgt aus § 92 Abs. 2 Nr. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2376334.html (https://oj.is/2376334)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

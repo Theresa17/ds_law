@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 16.07.2019 - 30 O 266/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 16.07.2019 - 30 O 266/18
+                      m. Fundstelle
+                      LG Köln, Urteil vom 16.07.2019 - 30 O 266/18 = openJur 2021, 4513
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 16.07.2019 - 30 O 266/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 4513
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte wird verurteilt, an den Kläger 18.327,29 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 25.04.2018 Zug-um-Zug gegen Rückgabe und Übereignung des Fahrzeuges B 2.0 TDI mit der Fahrzeug-Identifizierungsnummer WAU...# zu zahlen.Es wird festgestellt, dass sich die Beklagte mit der Annahme des Fahrzeuges B 2.0 TDI mit der Fahrzeug-Identifizierungsnummer WAU...# seit dem 25.04.2018 im Annahmeverzug befindet.Die Beklagte wird verurteilt, an den Kläger vorgerichtliche Rechtsanwaltsgebühren in Höhe von 1.514,63 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 25.04.2018 zu zahlen.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits tragen der Kläger zu 35 % und die Beklagte zu 65 %.Das Urteil ist vorläufig vollstreckbar, für den Kläger jedoch nur gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrages. Dem Kläger wird nachgelassen, die Vollstreckung durch Sicherheitsleistung in Höhe von 120 % des aufgrund des Urteils zu vollstreckenden Betrages abzuwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 120 % des jeweils zu vollstreckenden Betrages leistet. 
+				Tatbestand
+				Der Kläger begehrt von der Beklagten Schadensersatz.Mit Kaufvertrag vom 27.10.2016 erwarb der Kläger bei der Autohaus G GmbH & Co.KG einen gebrauchten B 2.0 TDI mit der Fahrzeug-Identifizierungsnummer WAU...# zu einem Kaufpreis von 27.990,00 €. Das Fahrzeug wies bei der Übergabe des Fahrzeuges einen Kilometerstand von 33.714 Kilometern auf. Am 30.04.2019, dem Tag der letzten mündlichen Verhandlung, betrug der Kilometerstand 120.019 km. Herstellerin des streitgegenständlichen Fahrzeuges ist die B1 AG. Das Fahrzeug ist ausgestattet mit einem von der Beklagten entwickelten und gelieferten Dieselmotor ... .Zur Erlangung der Typengenehmigung für ein Fahrzeug durch die nationale Zulassungsbehörde kommt es auch auf den Ausstoß von Schadstoffen an. In dem entsprechenden zu durchlaufenden Prüfverfahren ist ein synthetischer Fahrzyklus unter Laborbedingungen maßgeblich, der sog. "Neue Europäischen Fahrzyklus" (NEFZ). Die von Beklagten für den in dem streitgegenständlichen Fahrzeug eingebauten Motor - ursprünglich - vorgesehene und auch in dem streitgegenständlichen PKW zum Zeitpunkt des Kaufs eingesetzte Motorsteuergerätesoftware sieht hinsichtlich der Abgasrückführung zwei Betriebsmodi vor. Im Betriebsmodus 1 kommt es zu einer höheren Abgasrückführungsrate, d.h., die zurückgeführten Gase verlassen den Motor nicht, so dass weniger Stickoxide austreten. Auf diese Art und Weise wird sichergestellt, dass bei der Prüfung der betreffenden Fahrzeuge nach den Maßgaben der Euro-5-Abgasnorm geringere Stickoxid-Grenzwerte im Laborbetrieb eingehalten werden. Im Betriebsmodus 0 hingegen kommt es zu einer geringeren Abgasrückführungsrate. Die Motorsteuerung vermag zu erkennen, ob das Fahrzeug auf einem technischen Prüfstand zu Ermittlung der Emissionswerte eingesetzt wird; dann schaltet sie den Modus 1 mit der höheren Abgasrückführungsrate. Dagegen schaltete die Motorsteuerung in den Modus 0 mit der geringeren Abgasrückführungsrate, wenn das Fahrzeug im Straßenverkehr eingesetzt wird.Die Beklagte veröffentlichte am 22.09.2015 eine Adhoc Mitteilung nach § 15 WpHG zur Prüfung von Unregelmäßigkeiten einer verwendeten Software bei Diesel-Fahrzeugen des W -Konzerns. Wegen der Einzelheiten der Mitteilung wird auf die Anlage B9 Bezug genommen.Nachdem der Einsatz der beschriebenen Software öffentlich bekannt geworden war, gab das Kraftfahrtbundesamt (KBA) der Beklagten mit Bescheid vom 14.10.2015 auf, die unzulässige Abschalteinrichtung zu entfernen und den Nachweis zu führen, dass nach Entfernen der unzulässigen Abschalteinrichtung alle technischen Anforderungen der relevanten Einzelrechtsakte der Richtlinie 2007/46/EG erfüllt werden. Die erteilten Typengenehmigungen für die Fahrzeuge widerrief das KBA nicht. In der Folgezeit entwickelte die Beklagte Software-Updates - auch für das hier streitgegenständliche Fahrzeug - um die Fahrzeuge in einen vorschriftsmäßigen Zustand zu versetzen. Das KBA gab mit Bestätigung vom 21.07.2016 (Anlage B6, AH) die von der Beklagten entwickelten technischen Maßnahmen frei.Der Kläger ließ das streitgegenständliche Fahrzeug durch Aufspielen der neuen Software im April 2017 entsprechend technisch überarbeiten.Mit anwaltlichem Schreiben vom 10.04.2018 forderte der Kläger die Beklagte zur Zahlung von Schadensersatz (Erstattung des von ihm gezahlten Kaufpreises) in Höhe von 27.990,00 € sowie zum Ausgleich vorgerichtlicher Anwaltskosten auf der Basis einer 1,8 Geschäftsgebühr bis zum 24.04.2018 auf und bot der Beklagten die Herausgabe und Übereignung des streitgegenständlichen Fahrzeuges an. Die Beklagte kam dieser Forderung nicht nach.Der Kläger ist der Auffassung, dass die Beklagte ihm vor allem aus deliktsrechtlichen Anspruchsgrundlagen zur Leistung von Schadensersatz verpflichtet sei und ihm gegen Übereignung des Fahrzeuges den Kaufpreis erstatten müsse. Die Beklagte habe sich aus eigenem Gewinnstreben und um die Marktführerschaft auf dem Markt für Personenkraftfahrzeuge zu erreichen dafür entschieden, wegen der Implementierung dieser besonderen Software technisch mangelhafte Fahrzeuge/ Motoren auf den Markt zu bringen. Sie habe darüber getäuscht, dass die Fahrzeuge der Euro 5 Norm entsprächen und einen dementsprechend zugelassenen Ausstoß an NOx aufwiesen, der tatsächliche Ausstoß indes weit darüber läge. Es sei Aufgabe der Beklagten, die allein ihre inneren Strukturen und Abläufe kenne und die Personen benennen können, die für den Einbau der Abschaltvorrichtung verantwortlich seien, darzulegen, warum der Einbau der Abschaltvorrichtung dem Vorstand unbekannt geblieben sein solle.Der Kläger behauptet, dass gerade die Werbung der Beklagten und ihrer Tochterunternehmen mit der besonderen Umweltfreundlichkeit des Fahrzeuges ein besonders schlagendes Kaufargument gewesen sei.Der Kläger behauptet, dass ihm nicht bekannt gewesen sei, dass sein Fahrzeug von der Abgasproblematik betroffen sei. Er ist der Ansicht, dass aus der Adhoc Mitteilung nicht auf die Betroffenheit von Fahrzeugen anderer Marken als W habe geschlossen werden können.Der Kläger beantragt,1. die Beklagte zu verurteilen, an die Klagepartei 27.990 € unter Anrechnung einer im Termin zu beziffernden Nutzungenschädigung (nach der Formel Kaufpreis x gefahrene Kilometer / Gesamtfahrleistung) nebst Zinsen in Höhe von 4 Prozent über seit dem 28.10.2016 bis zum 24.04.2018 und seitdem fünf Prozentpunkten über dem Basiszinssatz Zugum-Zug gegen Rückgabe und Übereignung des Fahrzeuges B 2.0 TDI mit der Fahrzeug-Identifizierungsnummer WAU...# zu zahlen;2. festzustellen, dass sich die Beklagte seit dem 25.04.2018 mit der Rücknahmen des im Klageantrag zu 1.) bezeichneten Gegenstandes in Annahmeverzug befindet;3. die Beklagte zu verurteilen, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.872,35 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 25.04.2018 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte ist der Ansicht, dass sie nicht passivlegitimiert sei, da sie nicht die Herstellerin des streitgegenständlichen Fahrzeuges sei.Die Beklagte ist der Auffassung, bei der kritisierten Software habe es sich nicht um eine unzulässige Abschalteinrichtung gehandelt. Eine Entziehung der Typengenehmigung habe nie gedroht, weil die behördlich vorgegebenen Emissionswerte im normalen Fahrbetrieb gar nicht eingehalten werden müssten. Es gebe keinen Anlass für die Annahme, dass der Kläger das Fahrzeug nicht erworben hätte, wenn sie von der Funktionsweise der Software gewusst hätte.Die Beklagte behauptet, dass dem Kläger bereits bei Vertragsschluss die Verwendung der von ihm nun beanstandeten Software bekannt gewesen sei, da sich aus der von der Beklagten am 22.09.2015 veröffentlichten Adhoc Mitteilung ergebe, dass etwaige Unregelmäßigkeiten im Zusammenhang mit Dieselmotoren aufgeklärt würden. Spätestens seit der Veröffentlichung der Adhoc Mitteilung sei in der breiten Öffentlichkeit über die "Dieselgate- Affäre" diskutiert worden.Hinsichtlich der Gesamtlaufleistung des streitgegenständlichen Fahrzeuges sei von 200.000 km bis 250.000 km auszugehen.Die Beklagte ist der Ansicht, dass sie sich nicht im Annahmeverzug mit der Rücknahme des streitgegenständlichen Fahrzeuges befinde, da der Kläger der Beklagten das Fahrzeug nicht in annahmeverzugsbegründender Weise angeboten habe.Die Beklagte bestreitet die Bezahlung der Rechtsanwaltsgebühren durch den Kläger mit Nichtwissen und vertritt die Ansicht, der Ansatz einer 1,8-Geschäftsgebühr sei ohnehin zu hoch, denn eine besondere Schwierigkeit habe nicht vorgelegen.Hinsichtlich des weiteren Sach- und Streitstandes wird auf die wechselseitigen Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die Klage hat im wesentlichen Erfolg.Dem Kläger steht - allerdings unter zu beachtender Anrechnung der Gebrauchsvorteile - der geltend gemachte Schadensersatz gegen die Beklagte aus §§ 826, 31 BGB zu.Nach § 826 BGB ist derjenige, wer in einer gegen die guten Sitten verstoßenden Weise einem anderen vorsätzlich Schaden zufügt, diesem zum Ersatz des Schadens verpflichtet. Nach § 31 BGB, der auf Kapitalgesellschaften wie die Beklagte Anwendung findet, ist diese für den Schaden verantwortlich, den der Vorstand, ein Mitglied des Vorstands oder ein anderer verfassungsmäßig berufener Vertreter durch eine in Ausführung der ihm zustehenden Verrichtungen begangene, zum Schadensersatz verpflichtende Handlung einem Dritten zufügt.Diese Voraussetzungen sind erfüllt.Ein Verhalten ist sittenwidrig, wenn es gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt (BGH, Urteil v. 3.12.2013 - XI ZR 295/12, zitiert nach juris). In diese rechtliche Beurteilung ist einzubeziehen, ob es nach seinem aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter mit den guten Sitten nicht zu vereinbaren ist (BGH, Urteil v. 3.12.2013, a.a.O.; BGH, Urteil v. 20.11.2012 - VI ZR 268/11, zitiert nach juris, jeweils m.w.N.).Vorliegend ist die Beklagte zwar nicht Herstellerin des streitgegenständlichen Fahrzeuges. Ein sittenwidriges Verhalten der Beklagten liegt jedoch in dem Inverkehrbringen eines Motors mit einer bewusst manipulierten Motorsteuerung (vgl. auch Beschluss des OLG Köln vom 27.09.2018, 15 U 104/18).Das Gericht hat keine Zweifel, dass die Beklagte aus Gewinnstreben sowohl die zuständigen Behörden als auch Käufer von Fahrzeugen aus dem W-Konzern durch Entwicklung und Verwendung des Softwareprogramms in dem von ihr hergestellten Dieselmotor ... über den unter normalen Fahrbedingungen erhöhten Schadstoffausstoß täuschte. Denn es stellt sich die Frage, weshalb die Beklagte überhaupt eine solche Motorsteuerungssoftware verwendet hat, wenn es denn eine gleichwertige sonstige Lösung gegeben hätte. Es erschließt sich nicht, warum die Beklagte eine solche Lösung der verschiedenen Betriebsmodi in der Motorsteuerung gewählt hat, die im Prüfstand die "günstigeren" Werte erzielen, die dann tatsächlich im Normalbetrieb im Straßenverkehr nicht eingehalten werden. Das Gericht sieht keine anderen Anhaltspunkte oder Motive, als dass dies allein dem Zweck diente, zur Kostensenkung (und möglicherweise zur Umgehung technischer Probleme) rechtlich und technisch einwandfreie, aber teurere Lösungen der Abgasreinigung zu vermeiden und mit Hilfe der scheinbar umweltfreundlichen Prüfstandwerte Wettbewerbsvorteile zu erzielen. Die Beklagte legt hierzu jedenfalls keinerlei plausiblen Gründe oder sonstige Motive dar, warum sie denn dann eine solche Lösung des besonderen, für die Werte "günstigeren" Betriebsmodus allein für den Prüfbetrieb vorgenommen hat, der allerdings offenbar im normalen Straßenbetrieb eher wettbewerbsnachteilig für die damit ausgerüsteten Fahrzeuge zu sein scheint. Denn ansonsten könnte es ja auch im normalen Straßenbetrieb in technischer Sicht allein bei Leistungen wie in dem Betriebsmodus 1 verbleiben. Indem die Steuerungssoftware in der Lage ist, das Prüfverfahren NEFZ zu erkennen, um dann in einen Modus zu schalten, der dafür sorgt, dass mehr schädliche Abgase, insbesondere Stickoxide, in den Motor zurückgeführt werden, als dies im Normalbetrieb der Fall ist, hat die Beklagte in manipulativer Art und Weise auf die Prüfstandsabgasmessung zur Erwirkung der Typengenehmigung und Schadstoffklasseneinstufung Einfluss genommen. Soweit die Beklagte in diesem Zusammenhang argumentiert, das streitgegenständliche Fahrzeug entspreche formell betrachtet der EG-Typengenehmigung, die weder nichtig noch erloschen noch seitens der Behörden widerrufen worden sei, vermag sie sich damit nicht zu rechtfertigen. Die Beklagte hat nun einmal bei der zur Typengenehmigung und Schadstoffklasseneinstufung erforderlichen Prüfstandmessung manipuliert. Die zuständigen Behörden hätten das Fahrzeug bei Kenntnis von der manipulierenden Motorsteuerungssoftware bzw. ohne diese entweder nicht zugelassen oder jedenfalls anders eingestuft. In der vorliegenden Form hätte das Fahrzeug jedenfalls mangels gültiger Bescheinigung nicht in den Verkehr gebracht werden können. Hinzu tritt, dass die Beklagte durch die Manipulation der Motorsteuerungssoftware einen Teil des Motors beeinflusst hat, den ein technischer Laie keinesfalls und selbst ein Fachmann nur mit Mühe durchschaut. Es bestand für die Beklagte erhebliche Aussicht, dass die Täuschung nicht auffallen würde. Ein solches die Verbraucher täuschendes Verhalten ist auch bei Anwendung eines durchschnittlichen, nicht übermäßig strengen Maßstabs als sittenwidrig anzusehen.Das Verhalten der Beklagten wiegt auch umso schwerer, als es sich beim Kauf eines PKW für viele Verbraucher um eine wirtschaftliche Entscheidung von erheblichem Gewicht mit oft deutlichen finanziellen Belastungen handelt, die durch das unredliche Verhalten der Beklagten zu ihrem eigenen Vorteil nachteilig beeinflusst worden ist. Denn nach der Lebenserfahrung war es für den Käufer eines vom Abgasskandal betroffenen Fahrzeugs bei dem Erwerb desselben von Bedeutung, ob über die Abgaswerte im Normalbetrieb getäuscht wurde oder nicht. Zwar dürfte die - gerichtsbekannte - Argumentation zahlreicher nunmehr gegen die Beklagte ebenfalls vorgehender Autokäufer, dass sie sich für das jeweilige Fahrzeug allein wegen der besonderen Umweltfreundlichkeit entschieden hätten, im Regelfall eher wenig überzeugen. Es wäre aber dennoch lebensfremd, anzunehmen, dass ein Käufer in Kenntnis aller Umstände ein von dem Abgasskandal betroffenes Fahrzeug gekauft hätte, da die Abgaswerte bekanntermaßen Relevanz eben auch für die Betriebserlaubnis, die Höhe der Kraftfahrzeugsteuer und z.B. auch Fahrverbote haben. Daran ändert sich vorliegend auch nichts dadurch, dass der Kläger das streitgegenständliche Kfz nach der Adhoc Mitteilung der Beklagten vom 22.09.2015 erworben hat. Der Adhoc Mitteilung der Beklagten lässt sich nicht entnehmen, dass neben W-Fahrzeugen auch B-Fahrzeuge vom sog. Dieselskandal betroffen waren.Die Beklagte hat die Täuschungshandlungen auch gegen sich gelten zu lassen. Es ist auch auf der Grundlage des Vortrags der Beklagten davon auszugehen, dass im Sinne von § 31 BGB ein verfassungsmäßig berufener Vertreter der Beklagten den objektiven und subjektiven Tatbestand des § 826 BGB verwirklicht hat. Die Beklagte hat sich in diesem Zusammenhang das Handeln sämtlicher Personen zurechnen zu lassen, denen durch die allgemeine Betriebsregelung und Handhabung bedeutsame, wesensmäßige Funktionen ihrer juristischen Person zur selbstständigen, eigenverantwortlichen Erfüllung zugewiesen sind (vgl. BGH, Urteil vom 05.03.1998 - III ZR 183/96 -, NJW 1998, S.1854, Rz 18 m.w.N.). Die Beklagte hat keine Umstände vorgetragen, die darauf schließen lassen, dass die Täuschungen von nicht unter diese Kriterien fallenden Personen in ihrem Unternehmen begangen worden sind. Dies wäre aber im Zuge der ihr obliegenden, sekundären Darlegungslast erforderlich gewesen. Der Kläger hat mit der Darlegung der ihm zugänglichen Informationen über die Entscheidungsvorgänge bei der Beklagten den ihm zumutbaren Vortrag erbracht; die Beklagte hat demgegenüber nicht angegeben, wer im Unternehmen für die Manipulationsvorgänge verantwortlich ist. Vor dem Hintergrund, dass es sich bei der Einführung einer manipulierten, auf Verzerrung der Prüfstandwerte ausgerichteten Motorsteuerungssoftware um eine wesentliche strategische Entscheidung mit großer wirtschaftlicher Reichweite und einem hohen Risiko bei potentiellem Entdecken handelt, kann bei lebensnaher Betrachtung ohnehin ausgeschlossen werden, dass sie auf einer Entscheidungsebene der Beklagten getroffen worden ist, die dem Anwendungsbereich des § 31 BGB nicht unterliegt.Der durch die Beklagte zu ersetzende Schaden des Klägers besteht in dem Abschluss des für ihn wirtschaftlich nachteiligen Vertrages. Dass es sich bei diesem Vertrag um einen für die Klagepartei wirtschaftlich nachteiligen handelt, zeigt schon die Überlegung, dass kein verständiger Kunde ein Fahrzeug mit dieser Motorsteuerungssoftware erwerben würde, wenn die Beklagte ihn vor dem Kauf darauf hinweisen würde, dass die Software nicht gesetzeskonform sei und er deshalb jedenfalls mit Problemen für den Fall der Entdeckung der Manipulation durch das KBA rechnen müsse. Der Kläger ist daher so zu stellen, wie er stehen würde, wenn er wahrheitsgemäß über das Fahrzeug informiert worden wäre. Er kann deshalb gemäß § 249 Abs.1 BGB Geldersatz in Höhe des gezahlten Kaufpreises verlangen, wobei dann indes der ihm zugeflossene Vermögensvorteil, das Fahrzeug erhalten zu haben, berücksichtigt werden muss, indem er dieses wiederum der Beklagten überlässt.Dagegen ist der Kläger nicht verpflichtet, es bei der Nachbesserung des Fahrzeugs durch die Installation des Software-Updates zu belassen, mit welcher eine Weiternutzung des Fahrzeugs zunächst sichergestellt werden konnte. Die Unzumutbarkeit dieser Form der Nachbesserung als einzige Abhilfe folgt bereits aus der nachhaltigen Zerstörung des Vertrauensverhältnisses zu der Beklagten als Herstellerin des streitbefangenen Fahrzeugs. Denn auch nach dem Aufspielen des Software-Updates kann der Kläger unter dem Eindruck der vorsätzlichen sittenwidrigen Schädigung durch die Beklagte ungeachtet der im öffentlichen Interesse an der Einhaltung der Abgasvorschriften orientierten Freigabeerklärung des KBA nicht sicher davon ausgehen, dass an seinem Fahrzeug alle Voraussetzungen technischer und rechtlicher Art eingehalten werden und es nunmehr dem nach dem Kaufvertrag geschuldeten Fahrzeug entspricht. Denn insoweit wirkt die erwiesene Unzuverlässigkeit der Beklagten im Verhältnis zum Kläger fort.Schadensmindernd anrechnen zu lassen hat sich der Kläger aber die durch die Nutzung des Fahrzeugs entstandenen Gebrauchsvorteile. Das Gericht schätzt die Gesamtlaufleistung des Fahrzeugs B in diesem Zusammenhang auf 250.000 Kilometer. Anzusetzen ist eine realistisch zu erwartende Gesamtlaufleistung, die sich aus der Bandbreite der Laufleistungen aller Fahrzeuge zusammensetzt, wobei naturgemäß geringere und höhere Laufleistungen vorkommen. Das Fahrzeug wies im Zeitpunkt der mündlichen Verhandlung eine Laufleistung von 120.019 km auf.Für die Gebrauchsvorteile [Berechnung: (Bruttokaufpreis x gefahrene Kilometer) ./. für Käufer mögliche Gesamtlaufleistung] muss sie sich daher ein Betrag von 9.662,71 € anrechnen lassen [(27.990,00 x 86.305) ./. 250.000].Dem Zahlungsanspruch in Höhe von 18.327,29 € (27.990,00 €- 9.662,71 €) steht die Verpflichtung des Klägers gegenüber, das Fahrzeug Zug um Zug herauszugeben.Infolge des Schreibens der Prozessbevollmächtigten des Klägers des Klägers vom 10.04.2018 ist die Beklagte in Annahmeverzug gemäß § 293 BGB geraten, was antragsgemäß festzustellen war.Dem Kläger sind auch die ihm vorgerichtlich entstandenen Rechtsanwaltskosten zu ersetzen, allerdings nur insoweit die Forderung auch berechtigt gewesen ist, hier also im Hinblick auf den anzurechnenden Nutzungsersatz in einer Höhe von 18.327,29 €, mithin in Höhe von 1.514,63 € (Gegenstandswert bis 19.000: 1,8 x 696,00 € = 1.252,80 € zuzüglich Pauschale 20,00 € = 1.272,80 € netto x 1,19 = 1.514,63 € brutto). Im Hinblick auf die Komplexität der Sach- und Rechtslage war es nach Maßgabe des § 249 BGB auch angemessen und erforderlich, dass sich der Kläger zur Geltendmachung seiner Ansprüche anwaltlicher Hilfe bedient hat. Die zugrunde gelegte Gebühr von 1,8 ist im Hinblick auf Umfang, Komplexität und der rechtlichen Ungeklärtheit wesentliche Einzelpunkte auch nicht zu beanstanden (vgl. auch LG München II, Urteil vom 15.11.2016 - 12 O 1482/16 -, juris, Rz 92). Daran ändert auch nicht der Umstand, dass - gerichtsbekannt - die hiesigen auf beiden Seiten involvierten Prozessbevollmächtigten eine Vielzahl parallel gerichteter Rechtsstreitigkeiten führen, deren Schriftsätze sich im Wesentlichen inhaltlich wenig unterscheiden.Die Zinsansprüche folgen aus §§ 286,288 Abs.1 BGB. Ein weitergehender Zinsanspruch wird vom Kläger nicht näher begründet. Die Voraussetzungen des § 849 BGB liegen nicht vor.Die prozessualen Nebenentscheidungen beruhen auf §§ 92 Abs.1, 708 Nr. 11, 709, 711 ZPO.Streitwert: 27.990,00 €
+			
+			
+			
+			Permalink: https://openjur.de/u/2318113.html (https://oj.is/2318113)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

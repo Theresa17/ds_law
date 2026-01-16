@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG PassauRechtsprechungEndurteil vom 14.06.2019 - 4 O 1109/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Passau, Endurteil vom 14.06.2019 - 4 O 1109/18
+                      m. Fundstelle
+                      LG Passau, Endurteil vom 14.06.2019 - 4 O 1109/18 = openJur 2020, 77000
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Passau, Endurteil vom 14.06.2019 - 4 O 1109/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 77000
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				I. Die Klage wird abgewiesen.II. Die Kosten des Rechtsstreits trägt der Kläger.III. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des zu vollstreckenden Betrages vorläufig vollstreckbar.Der Streitwert wird auf 37.000,00 Euro festgesetzt. 
+				Tatbestand
+				Der Kläger erwarb beim Autohaus unter dem 19.04.2016 einen Pkw TDI quattro, Erstzulassung 2014, Laufleistung beim Kauf 19.200 Kilometer, zum Kaufpreis von 37.000,00 Euro. In diesem Fahrzeug ist ein Dieselmotor des Typs EA189 verbaut, dessen Motorsteuersoftware zum Zeitpunkt des Erwerbs des Fahrzeugs eine Prüfstandserkennung enthielt, die dazu führt, dass sich das Abgasverhalten des Fahrzeugs danach richtet, ob es sich auf einem Prüfstand befindet oder nicht. Die Beklagte ist Herstellerin des Motors.Das Kraftfahrtbundesamt hat diese Prüfstandserkennung beanstandet. Die Beklagte hat daraufhin ein Software-Update entwickelt, das, wenn es aufgespielt wird, die Bedenken des KBA zur Vorschriftsmäßigkeit des Fahrzeugs beseitigt. Der Kläger ließ das Software-Update im Juli 2018 aufspielen.Der Kläger ist der Auffassung, die Beklagte habe ihn sittenwidrig geschädigt und getäuscht. Er verlangt daher die Rücknahme des Fahrzeugs von der Beklagten.Zuletzt beantragte er:I. Die Beklagte wird verurteilt, Zug um Zug gegen Rückgabe des Fahrzeugs mit der Fahrgestellnummer an den Kläger 37.000,00 Euro nebst Zinsen in Höhe von 5% über dem Basiszins seit dem 19.04.2016 zu bezahlen.II. Es wird festgestellt, dass sich die Beklagte seit dem 13.12.2018 mit der Rücknahme des im Klageantrag Ziffer I bezeichneten Fahrzeugs im Annahmeverzug befindet.III. Die Beklagte wird verurteilt, den Kläger von den außergerichtlichen Rechtsanwaltskosten seines Anwalts in Höhe von 2.193,65 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit freizustellen.Die Beklagte beantragtKlageabweisung.Sie sei nicht Herstellerin des Fahrzeugs. Der Kläger habe das Fahrzeug zu jedem Zeitpunkt nutzen können. Ein Mangel liege nicht vor. Sittenwidrig geschädigt sei der Kläger nicht worden, genausowenig wie getäuscht. Einen Schaden habe er nicht erlitten. Durch das Software-Update sei das Fahrzeug verbessert worden.Das Gericht hat am 22.05.2019 mündlich verhandelt und den Kläger angehört. Dazu wird auf die Protokollniederschrift Bezug genommen.Im Übrigen wird Bezug genommen auf die gewechselten Schriftsätze, insbesondere vom 24.12.2018, 25.01.2019, 25.02.2019, 25.03.2019, 04.04.2019, 30.04.2019, 10.05.2019, 19.05.2019 und 27.05.2019. 
+				Gründe
+				1. Die Klage ist unbegründet, sodass sie abzuweisen war.a) Der Kläger ist für die von ihm erhobenen Ansprüche nicht aktivlegitimiert.Im vorliegenden Fall ist der Kläger Zweiterwerber des Fahrzeugs. Da das streitgegenständliche Fahrzeug mit der streitgegenständlichen Motorsteuerung mit dem Verkauf an den Ersterwerber in den Verkehr gebracht wurde, der Schaden vom Kläger aus einem Minderwert des Fahrzeugs wegen genau dieser Motorsteuerung abgeleitet wird, hatte bereits der Ersterwerber das Fahrzeug mit dem behaupteten Schaden erworben. Der - unterstellte - Schaden war also zum Zeitpunkt des Kaufs bereits vorhanden und spätestens beim Ersterwerber eingetreten.Der behauptete Schaden wurde vom Kläger lediglich entdeckt. Dies führt aber nicht dazu, dass der Kläger an die Stelle des Geschädigten tritt. Ein Schadensersatzanspruch verbleibt beim Verkäufer (vgl. BGH, Urteil vom 22.02.2018, VII ZR 46/17, dort Rz. 64). Ein gesetzlicher Übergang von Ansprüchen oder Rechten an der Kaufsache über den Eigentumswechsel hinaus findet beim Kauf nicht statt. Eine dem § 952 BGB vergleichbare Vorschrift zu einem gesetzlichen Forderungsübergang von dem Voreigentümer im Zusammenhang mit der Kaufsache entstandener Schadensersatzansprüchen fehlt. Zu einer Abtretung von Schadensersatzansprüchen ist nichts vorgetragen. Die Liquidation des Drittschadens durch den Kläger scheidet aus, weil es an einer zufälligen Schadensverlagerung fehlt.b) Im Übrigen: Eine Anspruchsgrundlage benennt der Kläger nicht. Eine Vorschrift zur "deliktischen Produktmanipulation" (Seite 2 der Klage) kennt das Gesetz nicht. Anspruchsgrundlage können daher nur allgemeine Vorschriften sein wie § 826 BGB oder § 823 II BGB iVm § 263 StGB sein.Der Kläger hat sein Fahrzeug erworben, als die Dieselproblematik seit mehr als sechs Monaten in die Öffentlichkeit getragen war. Dahin gestellt bleiben kann, ob sie dem Kläger vor Erwerb des Fahrzeugs bekannt war. In der von ihm bezogenen Tageszeitung jedenfalls war der Dieselskandal gerichtsbekannt bereits begleitet. Denn jedenfalls verstieß zum Erwerbszeitpunkt des Klägers das Verhalten der Beklagten nach seinem Gesamtcharakter (BGH NJW 2017, 250) nicht mehr gegen das Anstandsgefühl aller billig und gerecht Denkenden, weil es dem Kläger auf Grund der ihm zugänglichen Informationen bei vollständiger Durchdringung dieses Tatsachenstoffes problemlos möglich gewesen wäre, die Betroffenheit des streitgegensständlichen Fahrzeugs zu erkennen und beim Kauf zu berücksichtigen. Auch eine konkludente Täuschung scheidet mit der Bekanntgabe der Problematik aus.2. Kosten: § 91 ZPO.3. Vorläufige Vollstreckbarkeit: § 709 ZPO.4. Streitwert: § 3 ZPO.Die Zinsen bleiben nach § 4 ZPO außer Ansatz. Der Feststellungsantrag zum Annahmeverzug ist ohne weiteren wirtschaftlichen Wert.
+			
+			
+			
+			Permalink: https://openjur.de/u/2306463.html (https://oj.is/2306463)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

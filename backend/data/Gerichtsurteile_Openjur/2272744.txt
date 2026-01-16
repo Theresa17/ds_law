@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG DortmundRechtsprechungUrteil vom 28.08.2020 - 4 O 53/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Dortmund, Urteil vom 28.08.2020 - 4 O 53/20
+                      m. Fundstelle
+                      LG Dortmund, Urteil vom 28.08.2020 - 4 O 53/20 = openJur 2020, 48165
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Dortmund, Urteil vom 28.08.2020 - 4 O 53/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 48165
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Es wird festgestellt, dass die Beklagte verpflichtet ist, dem Kläger Schadensersatz zu bezahlen, für Schäden, die daraus resultieren, dass die Beklagtenpartei in den Motor, Typ EA189 des Audi A4 mit der (F01) eine unzulässige Abschalteinrichtung in der Form einer Software eingebaut hat, in Gestalt einer Funktion, welche durch Bestimmung der Außentemperatur, die Parameter der Abgasbehandlung so verändert, dass die Abgasnachbehandlung außerhalb eines Temperaturfensters von 17 °C bis 33 °C reduziert wird (sogenanntes Thermofenster).Die Kosten des Rechtsstreits tragen die Parteien jeweils zur Hälfte, mit Ausnahme der Kosten für die Anrufung des unzuständigen Gerichts, diese trägt nur der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 120 % vorläufig vollstreckbar.Der Streitwert wird auf 23.990,00 EUR festgesetzt. 
+				Tatbestand
+				Der Kläger erwarb im hiesigen Gerichtsbezirk im Juli 2016 das streitgegenständliche Fahrzeug, einen Audi A4 mit der (F01), zu einem Kaufpreis i.H.v. 23.990,00 EUR brutto.In dem streitgegenständlichen Fahrzeug ist ein Dieselmotor EA 189 verbaut, der mit einer Software ausgestattet ist, die den Stickoxidausstoß im Prüfstand beeinflusste. Vorstehend benannte Software funktioniert in dergestalt, dass die Abgasrückführung in dem Motor in zwei unterschiedlichen Betriebsmodi laufen kann. Im Modus 1, der auf dem Prüfstand läuft, kommt es zu einer relativ hohen Abgasrückführung im Motor, während die Abgasrückführungsrate im Modus 0, nämlich im Fahrbetrieb, geringer ist. Der streitgegenständliche Pkw ist als Fahrzeug der Abgasnorm "Euro 5" klassifiziert. Die Beklagte ist Herstellerin des streitgegenständlichen PKWs.Mit Schreiben vom 27.02.2019 ließ der Kläger seine Ansprüche gegenüber der Beklagten geltend machen.Der Kläger behauptet, dass die Beklagte systematisch und zielgerichtet über die Verwendung der ursprünglich vorhandenen Abschalteinrichtung getäuscht habe. Das Verhalten etwaiger Mitarbeiter sei der Beklagten gemäß § 31 BGB bzw. nach § 166 BGB zuzurechnen. Die Beklagte habe den Dieselskandal immer noch nicht aufgeklärt, sie komme ihrer sekundären Darlegungslast nicht nach. Es bestehe daher ein Anspruch auf deliktischer Grundlage.Auch nach Aufspielen des Updates sei es zu keiner Verbesserung der Abgaswerte gekommen, so verfüge das streitgegenständliche Fahrzeug über ein sog. Thermofenster, in der Gestalt, dass außerhalb eines bestimmten Temperaturfensters die Abgasreinigung reduziert werde. Hiervon dürfe er vor dem Hintergrund der aktuellen Messungen der deutschen Umwelthilfe e. V. (vgl. Anl. K21D) ausgehen. Vorliegend bestehe ein Temperaturfenster im Bereich 17 °C bis 33 °C, außerhalb dessen werde die Abgasrückführung reduziert. Auch hierin liege eine rechtwidrige und sittenwidrige Täuschung.Vorgerichtlich seien ihm für die Geltendmachung seiner Ansprüche Kosten in Höhe von 1.195,95 EUR entstanden.Ursprünglich hat der Kläger beantragt,festzustellen, dass die Beklagte verpflichtet ist, ihm Schadensersatz zu leisten für Schäden, die aus der Manipulation des Fahrzeugs Audi A4 (F01) resultieren.Im Rahmen der Sitzung vom 24.07.2020 hat der Kläger seine Anträge umformuliert. Er beantragt nunmehr,festzustellen, dass die Beklagte verpflichtet ist, ihm Schadensersatz zu bezahlen, für Schäden, die daraus resultieren, dass die Beklagtenpartei in den Motor, Typ EA189 des Audi A4 mit der (F01) mindestens eine unzulässige Abschalteinrichtung in der Form einer Software eingebaut hat, welche bei Erkennung standardisierter Prüfstandsituationen (NEFZ) die Abgasaufbereitung so optimiert, dass möglichst wenige Stickoxide (NOx) entstehen und Stickstoffemissionsmesswerte reduziert werden, und die im Normalbetrieb teilende Abgaskontrollanlage außer Betrieb setzt, sodass es zu einer höheren NOx-Ausstoß führt bzw. in Gestalt einer Funktion, welche durch Bestimmung der Außentemperatur, die Parameter der Abgasbehandlung so verändert, dass die Abgasnachbehandlung außerhalb eines Temperaturfensters von 17 °C bis 33 °C reduziert wird (sogenanntes Thermofenster).Der Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, der Vorstand habe bis zum Herbst 2015 nichts von den Vorgängen um die Abschaltsoftware gewusst, aber ab dann die Öffentlichkeit umgehend informiert. Die Beklagte ist der Ansicht, dass es daher an der Sittenwidrigkeit fehle. Der Vortrag des Klägers sei in diesem Zusammenhang nicht hinreichend substantiiert. Die Beklagte behauptet, dass der Kläger insoweit auch gar nicht getäuscht worden sei. Die Beklagte ist der Auffassung, dass dem Kläger schon kein Schaden entstanden sei. Es stehe insofern ein vom KBA genehmigtes Softwareupdate zur Verfügung.Das verwendete Thermofenster sei zulässig. Ein solches komme bei allen vergleichbaren Diesel-Motoren auch anderer Hersteller zum Einsatz. Es entspreche dem Stand von Wissenschaft und Technik, dass eine Abgasführung nicht in allen Temperaturbereichen in gleicher Weise möglich sei, sondern nur abgestuft erfolgen könne.Hinsichtlich der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien wechselseitig zur Gerichtsakte gereichten Schriftsätze nebst deren Anlagen Bezug genommen.Das Gericht hat im Rahmen der mündlichen Verhandlung vom 24.07.2020 (vergleiche Bl. 298 ff.) darauf hingewiesen, dass hinsichtlich des Wirkmechanismus des Thermofensters und hinsichtlich der Erforderlichkeit eines solchen die Beklagte eine sekundäre Darlegungslast trage und dass es an entsprechendem Vortrag fehle. Binnen der hierauf seitens des Gerichts nachgelassenen Schriftsatzfrist ist keine weitere Stellungnahme eingegangen. 
+				Gründe
+				Die Klage ist zulässig.Die Klage ist im tenorierten Umfang begründet.I.Das erforderliche Feststellungsinteresse besteht, da der Kläger den streitgegenständlichen PKW noch fährt. Es besteht kein Vorrang der Leistungsklage, da entsprechend die Schadensentwicklung noch nicht abgeschlossen ist und eine abschließende Bezifferung des Anspruchs noch nicht möglich ist (BeckOK ZPO/Bacher, 37. Ed. 1.7.2020, ZPO § 256, Rn. 27)II.Die Klage ist hinsichtlich der Hauptforderung aus § 826 BGB i. V. m. § 31 BGB im tenorierten Umfang begründet. Die Beklagte hat den Kläger in einer gegen die guten Sitten verstoßenden Weise vorsätzlich Schaden zugefügt.Wer bewusst täuscht, um einen anderen zum Vertragsschluss zu bewegen, handelt in der Regel sittenwidrig, so bei unwahren Angaben über vertragswesentliche Umstände (Palandt/Sprau, BGB, 76. Aufl. 2017, § 826 Rn. 20). Vorliegend haben die Mitarbeiter der Beklagten eine Software konstruiert, die über ein Thermofenster verfügt, bei der die Abgasreinigung außerhalb dieses Fensters zurückgefahren wird. Durch die auf Grundlage der Angaben der Beklagten zu ihrem Motor und dem Abgasausstoß wiederum durch die Firma W1 AG veranlasste öffentliche Werbung und die so verbreiteten Fahrzeuginformationen bei gleichzeitigem Verschweigen des Thermofensters wurde dem Kläger etwas vorgespiegelt, was für seine Kaufentscheidung wesentlich war, nämlich ein den Herstellerangaben entsprechender Abgas-Ausstoß. Die besondere Sittenwidrigkeit erfolgt im Hinblick auf Art. 3 Nr. 10 VO (EG) Nr. 715/2007, da der Einsatz eines Thermo-Fensters in der klägerseitig behaupteten Gestalt nicht notwendig ist, um den Motor vor Beschädigung oder Unfall zu schützen und um den sicheren Betrieb des Fahrzeugs zu gewährleisten. Hiervon darf das Gericht ausgehen, da die Beklagte im Wege der sekundären Darlegungslast obliegende Verpflichtung zum substantiierten Vorbringen, worauf das Gericht auch hingewiesen hatte, sowohl zur Ausgestaltung des Thermofensters als auch zu dessen Erforderlichkeit nicht nachgekommen ist.Die sittenwidrige Schädigung ist auch kausal für die Kaufentscheidung des Klägers gewesen. Es ist anerkannt, dass bei täuschendem (bzw. manipulativen) Verhalten für die Darlegung des ursächlichen Zusammenhangs zwischen Täuschung und Abgabe der Willenserklärung es ausreichend ist, dass der Getäuschte Umstände dargetan hat, die für seinen Entschluss von Bedeutung sein konnten und nach der Lebenserfahrung bei der Art des zu beurteilenden Rechtsgeschäfts Einfluss auf die Entschließung gehabt haben können (vgl. etwa BGH, Urteil vom 12. Mai1995, Az. V ZR 34/94 = NJW 1995, 2361 zu § 123 BGB). Von der Manipulation bei der Beklagten ist hier der Motor und damit der wertvollste und elementarste Bestandteil des Fahrzeugs betroffen. Die manipulierten Daten haben Einfluss auf die Schadstoffklasseneingruppierung und die Zulassung. Nach der Lebenserfahrung ist daher davon auszugehen, dass sie auf die Kaufentscheidung des Klägers Einfluss hatten, ohne dass es darauf ankommt, ob er im Ankaufsgespräch konkret äußerte, in besonders schadstoffarmes Fahrzeug erwerben zu wollen (vgl. LG Kleve, Urteil vom 31. März 2017, Az. 3 O 252/16). Der Kläger hat beruhend auf dem Irrtum über den Schadstoffausstoß des gekauften Fahrzeugs eine Vermögensverfügung getroffen. Er kann daher grundsätzlich den Wagen behalten und die ihm entstanden Schäden ersetzt verlangen oder den Wagen unter Abzug einer Nutzungsentschädigung zurückgeben. Entsprechend besteht ein Anspruch auf Feststellung.(2.) Ein weiterer Anspruch besteht nicht, insbesondere nicht auf Feststellung der Einstandsverpflichtung für Schäden wegen der ursprünglich verwendeten Abschaltlogik. Der Kläger hatte das Fahrzeug erst im Juli 2016 erworben. Insoweit fehlt es aber nach der Rechtsprechung des BGH ab dem 22.09.2015 an der erforderlichen Sittenwidrigkeit, weil die Beklagte mit der Problematik zu diesem Zeitpunkt hinreichend in die Öffentlichkeit gegangen war (BGH Urt. v. 30.7.2020 - VI ZR 5/20, BeckRS 2020, 19146 Rn. 35, beckonline).(3.) Ein Anspruch auf vorgerichtliche Rechtsanwaltskosten besteht nicht. Eine vorgerichtliche Tätigkeit im Zusammenhang mit dem Thermofenster ist nicht ersichtlich. Der Kläger trägt lediglich pauschal vor, er habe mit Schreiben vom 27.02.2019 seine Ansprüche anwaltlich geltend machen lassen.III.Die Kostenentscheidung folgt aus §§ 92 Abs. 1, 281 Abs. 3 S. 2 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2272744.html (https://oj.is/2272744)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

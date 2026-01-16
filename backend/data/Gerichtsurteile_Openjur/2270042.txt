@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungBeschluss vom 12.09.2019 - 15 U 234/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Beschluss vom 12.09.2019 - 15 U 234/18
+                      m. Fundstelle
+                      OLG Köln, Beschluss vom 12.09.2019 - 15 U 234/18 = openJur 2020, 46581
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Beschluss vom 12.09.2019 - 15 U 234/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 46581
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 7 O 124/18
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				I. Der Senat weist auf Folgendes hin:1. Der Senat geht davon aus, dass das streitgegenständliche Fahrzeug mit dem Motor EA288 - EU 6 - zur Abgasbehandlung nicht mit SCR-Technologie ausgestattet ist, sondern mit NSK-Technologie.2. Die Thematik eines sog. "Thermofenstern" und eines etwaigen Eingriffs auf die Fahrzeugdiagnostik (Fehlerspeicher) ist schon mit Blick auf § 531 Abs. 2 ZPO prozessual hier nach derzeitigem Beratungsstand nicht zu berücksichtigen. Im Übrigen fehlt es nach dem bisherigen Vorbringen der Klägerseite insofern wohl auch an den Voraussetzungen einer Haftung der Beklagten dem Grunde nach, insbesondere aus § 826 BGB.3. Soweit - wie in erster Instanz - eine echte "Umschaltlogik" am Fahrzeug in Fortschreibung derjenigen beim Motor EA189 behauptet wird, ist eine solche - ihre Vorhandensein unterstellt - nach der Rechtsprechung des Hauses geeignet, einen Anspruch aus § 826 BGB zu begründen (OLG Köln OLG Köln v. 03.01.2019 - 18 O 70/18, NZV 2019, 249). Der Senat geht nicht davon aus, dass der klägerische Vortrag unzureichend ist. Im Gegenzug ist das Bestreiten der Beklagten am Vorhandensein einer den Prüfstand erkennenden Umschaltautomatik wie bei dem Motor EA189 derzeit - gemessen an den Grundsätzen der sekundären Darlegungslast - prozessual unzureichend:a) Der Senat geht davon aus, dass ein behördliches Einschreiten des KBA zwar ein gewichtiges Indiz für das Vorhandensein einer entsprechenden Abgasmanipulation darstellt, im Gegenteil aber ein Untätigbleiben dieser Behörde nicht auch ein Indiz für das Fehlen einer solchen. Das könnte möglicherweise anders sein, wenn etwa konkret zu genauen Typengenehmigungsunterlagen, zu konkreten Prüfungen der Behörde und zur Tatsachenbasis solcher Prüfungen sowie zu Erörterungen der hier streitgegenständlichen Fragen auf den in der Akte anklingenden Workshops mit dem KBA vorgetragen würde. In diesem Zusammenhang ist zumindest auch Anlage BB1, Bl. 457 ff. - Schreiben v. 29.12.2015 - vollständig vorzulegen.b) Aus der Akte ergibt sich, dass auch der Motor EA 288 jedenfalls in bestimmten Bauarten zumindest in den USA durchaus Gegenstand behördlicher Maßnahmen gewesen sein muss; inwiefern das für den hier streitgegenständlichen Motor gilt und wo ggf. wesentliche Unterschiede liegen, wäre beklagtenseits näher zu erläutern.c) Die in der Berufungsbegründung auf S. 11 ff. (Bl. 422 ff. d. A.) vorgelegten Powerpoints zu EA 288 NSK sprechen von einer Nutzung der im System hinterlegten Fahrkurven "zur Erkennung ... des NEFZ" (!), um "Abgasbehandlungsevents" dann "nur "streckengesteuert zu platzieren", während sie im "normalen Fahrbetrieb" eine "strecken- und beladungsgesteuerte Platzierung der Events" erfolgen soll; etwaige "Applikationsrichtlinien" bei verschiedenen Motortypen bleiben a.a. O. unerläutert (Bl. 424 d. A.). Als Diskussionspunkt wird ferner in den Unterlagen eine "Strategie zur NSpK-Strategie EU6 im Zyklus und außerhalb des Zyklus" genannt (Bl. 425 d. A.) und eine eigene Folie widmet sich einer "Umschaltstrategie Bedatungsebenen EA288 EU6 NSK" (Bl. 428 d. A.) mit einer Strategie 1 "aktiv ab Motorstart" und einer Strategie 2 "nach Verlassen des Strecken-Zeit-Korridors.", was zwar mit "Emissionseinfluss Nein" betitelt wird, aber in Ausgestaltung und Folgen ebenfalls dunkel geblieben ist. Im Schreiben an das KBA v. 29.12.2015 (Anlage BB1, S. 3 = Bl. 459 d. A.) ist die Rede davon, dass die von EA 189 bekannte Applikation mit der sog, Akustikfunktion inklusive Fahrkurve auch in allen Steuergeräten der Baureihe EA288 enthalten ist (oder war?). Soweit dort auf mehrfache Darlegungen der Beklagten verwiesen wird, dass dies dort aber gerade keinen Einfluss auf die Emission des Aggregats haben soll, sind diese weiteren erklärenden Unterlagen gerade bisher nicht vorgelegt worden (vgl. bereits oben a)). Das erklärt sich alles jedenfalls auch nicht von selbst, weil eine unterschiedliche NSK-Ansteuerung zumindest irgendwelche greifbaren Auswirkungen auf Motor und Umwelteinflüsse von dessen Betrieb haben dürfte, weil man sie sonst schwerlich entwickelt und implementiert hätte. Insofern wird beispielhaft auf die Ausführungen zum Fahrzeug A in Anlage BB2 (Bl. 469 f. d. A.) verwiesen, bei der - zum dortigen Modell - eine möglicherweise den NEFZ-Zyklus erkennende Umschaltlogik für eine NSK-Technik erläutert wird, die gerade auch an besondere zeitabhängige Einschränkungen in einem den Prüfstand erkennenden Homologisatioanszyklus anknüpfen soll.II. Die Beklagte mag innerhalb der im heutigen Termin gewährten Schriftsatzfrist zu den obigen Punkten ergänzend vortragen. Der Senat behält sich je nach weiterem Vorbringen eine Wiedereröffnung der mündlichen Verhandlung vor.  
+				Gründe
+				Diese Entscheidung hat neben dem Tenor keinen Entscheidungstext.
+			
+			
+			
+			Permalink: https://openjur.de/u/2270042.html (https://oj.is/2270042)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert8
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

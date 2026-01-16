@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG TraunsteinRechtsprechungEndurteil vom 21.01.2019 - 3 O 1296/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Traunstein, Endurteil vom 21.01.2019 - 3 O 1296/18
+                      m. Fundstelle
+                      LG Traunstein, Endurteil vom 21.01.2019 - 3 O 1296/18 = openJur 2020, 72534
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Traunstein, Endurteil vom 21.01.2019 - 3 O 1296/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 72534
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				I. Die Beklagte wird verurteilt, an den Kläger 13.493,84 € nebst Zinsen in Höhe von 4 % seit dem 13.01.2012 bis 05.10.2018 sowie in Höhe von 5 Prozentpunkten über den Basiszinssatz seit 06.10.2018 zu zahlen. Die Verurteilung erfolgt Zug um Zug gegen Übereignung und Herausgabe des Fahrzeugs der Marke Audi vom Typ A3 1.6 TDI mit der Fahrzeugidentifikationsnummer (FIN) ... nebst zwei Fahrzeugschlüsseln, Kfz-Schein, Kfz-Brief und Serviceheft.II. Es wird festgestellt, dass sich die Beklagte mit der Annahme der in vorgenannten Klageanträgen genannten Zug-um-Zug-Leistung im Annahmeverzug befindet.III. Die Beklagte wird verurteilt, dem Kläger die durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.029,35 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 06.10.2018 zu zahlen und ihn von weiteren 579,77 € freizustellen.IV. Im Übrigen wird die Klage abgewiesen.V. Von den Kosten des Rechtsstreits trägt die Klageseite 18 %, die Beklagtenseite 82 %.VI. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 16.400,00 € festgesetzt. 
+				Tatbestand
+				Die Klagepartei begehrt von der Beklagten Schadensersatz aus dem in der Medienlandschaft als solchen bezeichneten "VW-Abgasskandal".Die Beklagte ist eine Aktiengesellschaft deutschen Rechts und ist im Handelsregister des Amtsgerichts Braunschweig unter der Nr. HRB100484 eingetragen. Sie ist Automobilhersteller. Die Klagepartei erwarb am 13.01.2012 bei der AVP Automobilgruppe GmbH (in Folge: "Verkäuferin") das im Tenor bezeichnete Fahrzeug. Der Bruttokaufpreis betrug 16.400,00 € und die Fahrleistung lag bei 6036 km. Das Fahrzeug verfügte über eine EG-Typengenehmigung für die Emissionsklasse EU5. Zur Erlangung dieser Typengenehmigung müssen die Fahrzeuge bestimmte Emissionsgrenzwerte einhalten, die unter Laborbedingungen gemessen werden. Der im klägerischen Fahrzeug verbaute Dieselmotor des Typs EA189 EU5 war mit einer Software ausgestattet, welche die Abgasrückführung steuert (in Folge: "AGRS"). Das AGRS erkennt, wenn das Fahrzeug den Testlauf für das Typengenehmigungsverfahren den sog. neuen europäischen Fahrzyklus (in Folge: "NEFZ") durchläuft. Im NEFZ ist das AGRS im Modus 1 aktiv, welcher zu einer höheren Abgasrückführungsrate führt. Im Straßenverkehr ist beim AGRS der Modus 0 aktiv, durch den die Abgasrückführung dauerhaft nur in einem geringeren Maß stattfindet. Das Kraftfahrt-Bundesamt (in Folge: "KBA") hat mit Bescheid vom 15.10.2015 die Beklagte verpflichtet, bei allen betroffenen Fahrzeugen mit dem Aggregat EA 189 EU5 "die unzulässige Abschalteinrichtung" zu entfernen. Die Beklagte hat zwischenzeitlich selbst und über entsprechende Autohäuser ein Softwareupdate angeboten, das die Klageseite aufspielen hat lassen.Die Klageseite trägt vor, sie hätte den Kauf bei Kenntnis der Sachlage nicht getätigt. Die von der Beklagten verbaute Software sei nicht gesetzeskonform. Sie habe deshalb jedenfalls mit Problemen im Fall der Entdeckung durch das KBA rechnen müssen.Sie ist der Rechtsansicht, mit der Software würde gegen Art. 5 Abs. 2 i.V.m. Art. 3 Nr. 10 der VO (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20.06.2007 über die Typengenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur und Wartungsinformationen für Fahrzeuge verstoßen. Bei verständiger Auslegung handele es sich bei der Programmierung um eine Abschalteinrichtung, dies unabhängig davon, ob lediglich auf innermotorische Vorgänge oder direkt auf das Emissionskontrollsystem eingewirkt würde. Das Verhalten der Beklagten erfülle den Tatbestand des § 826 BGB i.V.m. § 31 BGB. Im Hinblick auf die Voraussetzungen des § 31 BGB träfe die Beklagte eine sekundäre Darlegungslast, da die Klageseite keinen Einblick in die internen Entscheidungsvorgänge habe. Dieser Darlegungslast sei die Beklagte bisher nicht nachgekommen. Im Übrigen sei es naheliegend, dass die millionenfache Verwendung der Software nicht ohne Wissen des Vorstands erfolgen könnte. Es sei auch von ein vorsätzliches Handeln zu bejahen, da mangels entgegenstehender Anhaltspunkte davon ausgegangen werden müsse, dass den Organen der Beklagten völlig klar gewesen sei, dass die Abgaswerte nicht den einschlägigen Vorschriften entsprächen und somit die Kunden der Beklagten wirtschaftlich nachteilige Kaufverträge abschlössen. Dies würde auch ein gegen die guten Sitten verstoßendes Verhalten darstellen. Die Täuschung durch die Beklagte diene dem Zweck zur Kostensenkung die teure Lösung der Abgasreinigung zu vermeiden und Wettbewerbsvorteile zu erzielen. Schon das Gewinnstreben um den Preis der bewussten Täuschung und Benachteiligung der Kunden gäbe dem Handeln der Beklagten das Gepräge der Sittenwidrigkeit. Darüber hinaus sei auch der Tatbestand der §§ 823 Abs. 2, 31 BGB i.V.m. § 263 BGB erfüllt. Die Beklagte habe über die Gesetzeskonformität des Fahrzeugs getäuscht. Zudem habe sie durch die Angaben der Schadstoffwerte in der Prospektwerbung getäuscht. Die Klagepartei habe auf die Richtigkeit dieser Umstände vertraut. Sie habe im Vertrauen darauf, durch den Abschluss des Kaufvertrages über ihr Vermögen verfügt und einen Schaden erlitten, da sie bei Kenntnis der Sachlage den Kaufvertrag nicht abgeschlossen hätte. Der erlittene Schaden stelle auch einen stoffgleichen Vermögensnachteil zu dem der Beklagten erwachsenen Vorteil dar. Es würde ausreichen, dass die Beklagte einem Dritten einen Vorteil verschaffen wollte.Die Klagepartei beantragt:Die Beklagte wird verurteilt, an den Kläger 16.400,00 € nebst Zinsen in Höhe von 4 % seit dem 13.01.2012 bis zum Eintritt der Rechtshängigkeit sowie in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen. Die Verurteilung erfolgt Zug um Zug gegen Übereignung und Herausgabe des Fahrzeugs der Marke Audi vom Typ A3 1.6 TDI mit der Fahrzeugidentifikationsnummer (FIN) ... nebst zwei Fahrzeugschlüsseln, Kfz-Schein, Kfz-Brief und Serviceheft sowie Zahlung eines Nutzungsersatzes, dessen Höhe gem. § 287 ZPO in das Ermessen des Gerichts gestellt wird, derzeit jedoch maximal 2.078,93 € betragen soll.Hilfsweise beantragen wir:Es wird festgestellt, dass die Beklagte verpflichtet ist, dem Kläger Schadensersatz zu zahlen für Schäden, die aus der Ausstattung des Fahrzeugs der Marke Audi vom Typ A3 1.6 TDI mit der Fahrzeugidentifikationsnummer (FIN) ... mit der manipulierten Motor-Software durch die Beklagte resultieren.Weiter beantragen wir:Es wird festgestellt, dass sich die Beklagte mit der Annahme der in vorgenannten Klageanträgen genannten Zug um Zug Leistung im Annahmeverzug befindet.Die Beklagte wird verurteilt, dem Kläger die durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.100,51 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen und ihn von weiteren 579,77 € freizustellen.Die Beklagte beantragt:Klageabweisung.Die Beklagte rügt die örtliche Zuständigkeit des angerufenen Gerichts und trägt im Wesentlichen vor, das Fahrzeug verfüge über eine wirksame EG-Typengenehmigung und über eine wirksame Betriebserlaubnis. Die Tatsache, dass das verfahrensgegenständliche Fahrzeug mit der beschriebenen Software ausgestattet sei, ändere am Bestand der EG-Typengenehmigung nichts. Das Fahrzeug entspräche unter Laborbedingungen den Anforderungen, die im Typengenehmigungsverfahren für Laborbedingungen gestellt würden. Der Normgeber habe bewusst auf eine Prüfung im praktischen Fahrbetrieb verzichtet. Die Software-Programmierung stelle auch keine gesetzeswidrige Abschaltvorrichtung dar. Die Software sei weder Bestandteil des Emissionskontrollsystems noch wirke sie im realen Fahrbetrieb auf dieses ein. Sie sei vielmehr als innermotorische Maßnahme vorgelagert und beträfe ausschließlich die Abgasrückführung. Durch das Software-Update drohe der klagenden Seite kein Entzug der Zulassung.Die Beklagtenseite ist der Rechtsansicht, dass es bei § 826 BGB bereits an der die Klagepartei betreffenden Handlung der Beklagten fehle. Es läge auch kein sittenwidriges Verhalten vor. Dafür sei nicht ausreichend, dass das Verhalten gegen ein Gesetz verstößt, sondern es müsse eine besondere Verwerflichkeit des Handelns gegenüber der Klagepartei hinzu kommen. Etwaige bestrittene Verstöße gegen die VO (EG) Nr. 715/2007 oder falsche Angaben nach der Pkw-EnVKV würden kein sittenwidriges Verhalten gegenüber der Klagepartei begründen. Der Klageseite sei auch kein Schaden entstanden. Es fehle auch am Schädigungsvorsatz und an der Kausalität. Auch für einen Betrugstatbestand (§ 263 StGB) fehle es an der Täuschung. Darüber hinaus liege kein täuschungsbedingter Irrtum vor. Ebenso wenig sei von einer irrtumsbedingten Vermögensverfügung auszugehen. Auch ein Vermögensschaden sei nicht gegeben. Hinsichtlich des subjektiven Tatbestands fehle es an einer konkreten Darlegung durch die Klagepartei, dass die Beklagte in der Absicht gehandelt habe, sich oder einem Dritten einen rechtswidrigen Vermögensvorteil zu verschaffen. Auch ein innerbetriebliches Organisationsverschulden läge nicht vor. Auch eine Haftung aus § 311 Abs. 2 BGB träfe die Beklagte nicht. Weder habe eine Aufklärungspflicht bestanden noch nehme sie besonderes Vertrauen in Anspruch. Die Grundsätze der Prospekthaftung könnten nicht herangezogen werden. Die EG-Übereinstimmungsbescheinigung sei nicht fehlerhaft. Sie bescheinige, dass das individuelle Fahrzeug mit dem genehmigten Fahrzeugtyp übereinstimme. Dies sei der Fall, da die Software auch im genehmigten Fahrzeug verbaut gewesen sei. Die Feststellungen des KBA über die unzulässige Abschalteinrichtung würden keine Bindungswirkung entfalten und im Übrigen sei die Formulierung nicht in den Tenor aufgenommen.In Hinblick auf den weiteren Sach- und Streitstand wird auf den gesamten Akteninhalt insbesondere auf die gewechselten Schriftsätze jeweils nebst Anlagen sowie auf das Protokoll des durchgeführten Termins zur mündlichen Verhandlung ausdrücklich und vollumfänglich Bezug genommen.Eine Beweisaufnahme hat nicht stattgefunden. 
+				Gründe
+				Die zulässige Klage erweist sich im tenorierten Umfang als begründet.I.Der Klagepartei steht gegen der Beklagten ein Schadensersatzanspruch gemäß §§ 280 Abs. 1 S. 1, 311 Abs. 3, 249 Abs. 2 S. 1, 251 Abs. 1 BGB zu.1. Zwischen den Parteien besteht ein Schuldverhältnis i.S.d. § 280 Abs. 1 S. 1 BGB. Die Beklagte selbst ist nicht Vertragspartnerin der Klagepartei in Bezug auf den Kaufvertrag geworden. Unabhängig davon, ob vorliegend die vom BGH entwickelten Grundsätze der Haftung für Anlageprospekte im engeren Sinne anwendbar sind (so LG Traunstein, Urteil vom 27.06.2018 - 5 O 2425/17; vgl. auch OLG München, Verfügung vom 10.07.2017 - 8 U 1706/17), liegen die Voraussetzungen des § 311 Abs. 3 S. 1-2 BGB - wobei § 311 Abs. 3 S. 2 BGB nicht abschließend formuliert ist ("insbesondere") - durch Inanspruchnahme eines besonderen Vertrauens, das die Vertragsverhandlungen und den Vertragsschluss erheblich beeinflusst hat, und des nicht unerheblichen eigenen Interesses der Beklagtenseite vor.a) Hierfür ist erforderlich, dass der sonstige am Vertrag nicht selbst beteiligte Dritte dem anderen Teil eine zusätzliche, gerade von ihm persönlich ausgehende Gewähr für die Seriosität und die Erfüllung des Geschäfts oder für die Richtigkeit und Vollständigkeit der Erklärungen, die für den Willensentschluss des anderen Teils bedeutsam gewesen sind, geboten oder in zurechenbarer Weise den Eindruck vermittelt hat, er werde persönlich mit seiner Sachkunde die ordnungsgemäße Abwicklung des Geschäfts selbst dann gewährleisten, wenn der andere Teil dem Geschäftsherrn nicht oder nur wenig vertraut oder sein Verhandlungsvertrauen sich als nicht gerechtfertigt erweist (BGH, Urteil vom 29.01.1997 - VIII ZR 356/95: Eigenhaftung eines Kraftfahrzeughändlers, der nach dem Verkauf eines Fahrzeuges durch einen Angestellten unter Inanspruchnahme persönlichen Vertrauens maßgeblichen Einfluss auf den Weiterverkauf des betreffenden Fahrzeuges nimmt; BGH, Urteil vom 17.06.1991 - II ZR 171/90; MüKoBGB/Emmerich BGB § 311 Rn. 173). Keine notwendige Voraussetzung der Eigenhaftung ist dabei das Vorliegen einer Vertretungsmacht des Dritten (MüKoBGB/Emmerich BGB § 311 Rn. 174).b) Das Gericht ist davon überzeugt, dass die Klageseite im konkreten Einzelfall in die Beklagte als einen der größten deutschen Automobilhersteller besonders Vertrauen setzte, dass sämtliche Gesetze und Vorschriften durch diese eingehalten werden. Vor allem im hier streitgegenständlichen hochtechnisierten und verrechtlichten Bereich der Abgasreinigung ist der Endkunde aufgrund des zweifellos überlegenen Wissens des Herstellers darauf angewiesen, sich auf dessen Leistungen verlassen zu können. Der Vertragshändler ist für gewöhnlich an diesen internen Vorgängen gerade nicht beteiligt. Dementsprechend wurde für das Fahrzeug der Klageseite durch einen Mitarbeiter der Beklagten eine Übereinstimmungsbescheinigung ausgestellt. Hierdurch übernimmt sie eine persönlich ausgehende Gewähr für die Richtigkeit und Vollständigkeit der Erklärungen. Dies ergibt sich aus den Zielen in Anhang IX zur Richtlinie 2007/46/EG in der Fassung durch die Verordnung (EG) Nr. 385/2009. Die Übereinstimmungsbescheinigung stellt aufgrund der Verordnung (EG) Nr. 385/2009 eine dem Käufer des Fahrzeugs ausgehändigte Versicherung dar, dass das von ihm gebaute Fahrzeug mit den in der Europäischen Union geltenden Rechtsvorschriften übereinstimmt. Daher kommt es nicht lediglich auf die formale Gültigkeit der Typengenehmigung an. Ebenso wenig greift nach dem eindeutigen Wortlaut der Vorschrift die Ansicht, dass eine Übereinstimmung mit sämtlichen Rechtsakten nicht erforderlich wäre. Dass die Beklagte zur Ausstellung der Bescheinigung verpflichtet ist, ändert nichts an den vertrauensbegründenden Umständen. Es handelt sich ausweislich der Formulierung um eine persönliche - wie inzwischen allgemein bekannt sogar mit persönlicher Namenszeichnung eines Mitarbeiters der Beklagten ausgestellte - Zusicherung des Herstellers an den Autokäufer. Der französische Wortlaut in den Zielen in Anhang IX der Verordnung (EG) Nr. 385/2009 "Le certificat de conformité une déclaration délivrée par le constructeur du véhicule à l'acheteur en vue de garantir à [...]" bringt dies noch deutlicher zum Ausdruck. Die Übereinstimmungsbescheinigung dient daher gerade nicht nur dazu, die problemlose Zulassung des jeweiligen Fahrzeugs zu gewährleisten.Darüber hinaus kommt der Beklagten aufgrund ihrer Stellung als einen der größten deutschen Automobilhersteller am Vertragsschluss aufgrund des umworbenen Automobilmassenmarkts ein erhebliches Eigeninteresse am Verkauf durch die Vertragshändler zu. Auch wenn dies möglicherweise nicht derart unmittelbar und wirtschaftlich ist, um eine Sachwalterhaftung zu begründen - dazu müsste die Beklagte wirtschaftlich gesehen die eigentliche Partei des Vertrages bilden (MüKoBGB/Emmerich BGB § 311 Rn. 175) - ist zumindest in Rahmen einer Zusammenschau mit den oben genannten Aspekten ein unbenannter Fall von § 311 Abs. 3 S. 1 BGB anzunehmen.2. Es ist auch eine Pflichtverletzung der Beklagten zu bejahen.a) Ein Teil der Rechtsprechung nimmt bereits aufgrund des Inhalts des Rückrufbescheids des KBA vom 15.10.2015 an, dass es sich bei der verbauten Software um eine unzulässige Abschalteinrichtung i.S. von Art. 5 Abs. 2 der Verordnung (EG) Nr. 715/2007 handelt und damit eine Übereinstimmung mit den europäischen Rechtsakten nicht gegeben ist. Das LG Braunschweig führt in seinem Urteil vom 17.01.2018 - 3 O 3447/16 hierzu beispielsweise Folgendes aus:"[...] Nach ständiger Rechtsprechung des Bundesgerichtshofs, der die Kammer folgt, sind Verwaltungsakte in den Grenzen ihrer Bestandskraft für andere Gerichte und Behörden bindend (vgl. hierzu und zum Folgenden: BGH NJW-RR 2007, 398, 399 m.w.N.). Gerichte haben Verwaltungsakte deshalb, auch wenn sie fehlerhaft sein sollten, grundsätzlich zu beachten, solange sie nicht durch die zuständige Behörde oder durch ein zuständiges Gericht aufgehoben worden sind. Sie haben die durch den Verwaltungsakt getroffene Regelung oder Feststellung unbesehen, d.h. ohne eigene Nachprüfung der Rechtmäßigkeit des Verwaltungsaktes, zu Grunde zu legen. Durch den bestandskräftigen Rückrufbescheid des KBA vom 15.10.2015 und dessen Freigabebestätigung vom 01.06.2016 ist in diesem Sinne bindend festgestellt bzw. geregelt,- dass es sich bei der in den betreffenden Fahrzeugen verwendeten Software um eine unzulässige Abschalteinrichtung i.S. von Art. 5 Abs. 2 der Verordnung (EG) Nr. 715/2007 handelt. [...]"b) Unabhängig von der tatsächlichen und rechtlichen Vereinbarkeit der bei Auslieferung vorhandenen Software mit den Vorgaben von Art. 5 Abs. 2 der Verordnung (EG) Nr. 715/2007 ist eine Pflichtverletzung i.S.d. § 280 Abs. 1 S. 1 BGB im Verstoß gegen eine entsprechende Hinweis- und Aufklärungspflicht der Beklagten als Hersteller gegenüber der Klageseite als Endkunden zu sehen. So mag in einiger Zeit eine umfassende rechtliche und technische Prüfung möglicherweise zu einer mit den europäischen Rechtsgrundlagen vereinbaren "innermotorische Maßnahme" führen, jedoch bestand aufgrund der Arbeitsweise der Software und dem Sinn und Zweck der Regelungen zum Abgasausstoß die nicht fernliegende Gefahr behördlichen Einschreitens. So wurden geltende Vorschriften offensichtlich ohne vorherige Offenlegung bei den zuständigen Behörden durch entsprechende Schritte in gewisser Weise interpretiert. Dass die Beklagtenseite nach Bekanntwerden dieser Thematik behördliche Maßnahmen mit empfindlichen Folgen akzeptiert hat, zeigt nach Auffassung des Gerichts gerade auf, dass auch andere Interpretationsmöglichkeiten als vertretbar anzusehen sind. Auf die damit verbundenen Gefahren, die bis hin zu einem Entzug der Betriebserlaubnis führen können, musste die Beklagtenseite aufgrund der sich aus § 241 Abs. 2 BGB ergebenden Rücksichtnahme- und Schutzpflichten (vgl. hierzu allgemein MüKoBGB/Bachmann, BGB, § 241 Rn. 46 ff. und BeckOGK/Herresthal BGB § 311 Rn. 391-398 m.w.N.) rechtzeitig vor Abschluss eines Kaufvertrags hinweisen, was unstreitig nicht geschehen ist. Dies gilt umso mehr, als der Kauf eines Fahrzeuges für eine Vielzahl von Personen eine nicht unerhebliche Investition darstellt. Aufgrund des unzweifelhaft vorhandenen Wissensvorsprungs des Herstellers in Bezug auf Fragen der Zulassung und der Abgasvorschriften gegenüber einem Endkunden, erscheint es im konkreten Vertragsgefüge nicht gangbar, das Risiko einer solchen Einschätzung der Klageseite aufzubürden. Eine Übernahme wäre nur dann möglich, wenn der Endkunde entsprechend umfassend aufgeklärt worden wäre und er das Risiko bewusst übernommen hätte, was hier gerade nicht der Fall war. Die Erholung des insoweit von den Parteien angebotenen Sachverständigengutachtens bedurfte es damit nicht.3. Das nach den §§ 280 Abs. 1 S. 2 BGB, 292 S. 1 ZPO vermutete Vertretenmüssen wurde seitens der Beklagten nicht hinreichend widerlegt. Dabei hat sie sich das Verhalten ihrer Mitarbeiter über § 278 S. 1 BGB zurechnen zu lassen, wobei nach § 276 Abs. 2 BGB eine einfache Fahrlässigkeit ausreichend ist. Auf die Kenntnis von Organen i.S.d. § 31 BGB kommt es gerade nicht an (vgl. Palandt, BGB, 76. Auflage 2017, § 311 Rn. 28; LG Traunstein, Urteil vom 27.06.2018 - 5 O 2425/17).4. Die Klagepartei hat durch den Abschluss des Kaufvertrags einen Schaden i.S.d. § 280 Abs. 1 S. 1 BGB erlitten.a) Das Gericht schließt sich zum Schadensbegriff den Ausführungen des BGH in seinem Urteil vom 26.09.1997 - V ZR 29/96 an:"Ist - was zwischen den Parteien streitig ist - der Kaufgegenstand den Kaufpreis wert, so kann ein Vermögensschaden schon darin liegen, daß der von dem schuldhaften Pflichtverstoß Betroffene in seinen konkreten Vermögensdispositionen beeinträchtigt ist. Der Schadensersatzanspruch dient dazu, den konkreten Nachteil des Geschädigten auszugleichen; der Schadensbegriff ist mithin im Ansatz subjektbezogen (vgl. Lange, a.a.O., § 1 III 2; Soergel/Mertens, BGB, 12. Aufl., vor § 249 Rdn. 20 ff.). Wird jemand durch ein haftungsbegründendes Verhalten zum Abschluß eines Vertrages gebracht, den er sonst nicht geschlossen hätte, kann er auch bei objektiver Werthaltigkeit von Leistung und Gegenleistung dadurch einen Vermögensschaden erleiden, daß die Leistung für seine Zwecke nicht voll brauchbar ist (vgl. Hagen, Die Drittschadensliquidation im Wandel der Rechtsdogmatik, S. 165; Lange, a.a.O., § 1 III 2; Staudinger/Medicus, BGB, 12. Aufl., § 249 Rdn. 9; in dieser Richtung z.B. BGH, Urt. v. 12.10.1993 - X ZR 65/92, NJW 1994, 663/664). Insoweit besteht eine Vergleichbarkeit zur strafrechtlichen Bewertung solcher Konstellationen im Rahmen des Betrugstatbestandes (vgl. nur BGHSt 16, 321/325 ff.). Die Bejahung eines Vermögensschadens unter diesem Aspekt setzt allerdings voraus, daß die durch den unerwünschten Vertrag erlangte Leistung nicht nur aus rein subjektiv willkürlicher Sicht als Schaden angesehen wird, sondern daß auch die Verkehrsanschauung bei Berücksichtigung der obwaltenden Umstände den Vertragsschluß als unvernünftig, den konkreten Vermögensinteressen nicht angemessen und damit als nachteilig ansieht."b) Diese Voraussetzungen sind vorliegend erfüllt und wurden auch nicht durch das Aufspielen des Softwareupdates beseitigt. Die Klagepartei gab für das Gericht überzeugend an, dass sie bei Kenntnis, dass das Fahrzeug möglicherweise von einer abgasrechtlichen Problematik betroffen sein wird, den streitgegenständlichen Kaufvertrag nicht geschlossen hätte. Für die Argumentation der Beklagten - es sei für den Autokäufer nicht entscheidend, ob ein Fahrzeug speziell für den NEFZ mit einer Software ausgerüstet ist, um die nur in diesem Rahmen vorgegeben Bedingungen zu erfüllen - spricht kein allgemeiner Erfahrungsgrundsatz. Darüber hinaus ist nicht lediglich dieser eine Umstand, sondern es sind sämtliche Umstände, die daraus folgen, zu berücksichtigen. Damit ist auch miteinzubeziehen, dass das KBA eine Nachbesserung verlangt, um die Zulassung nicht zu entziehen und der Umstand, dass die erforderliche Nachbesserung in der breiten Öffentlichkeit sehr umstritten ist. In einer solchen Konstellation ist es selbst bei einer Bestätigung der Beklagten, dass das Fahrzeug nach der Nachrüstung den geltenden gesetzlichen Vorschriften entspricht, gerade nicht lediglich subjektiv willkürlich i.S.d. zitierten Rechtsprechung, den geschlossenen Vertrag - auch nach Aufspielen des Softwareupdates - als Schaden und hinsichtlich der konkreten Vermögensinteressen als nachteilig anzusehen. Daher besteht auch keine Pflicht, nach dem Aufspielen des Updates das Fahrzeug zu behalten.5. Im Hinblick auf den sich aus den §§ 249 Abs. 2 S. 1, 251 Abs. 1 BGB ergebenden haftungsausfüllenden Tatbestand ist unter Berücksichtigung der Schätzungsbefugnis nach § 287 Abs. 1 ZPO folgendes auszuführen:a) Die Klagepartei hat im Rahmen des negativen Interesses den Anspruch, so gestellt zu werden, als wäre nach einer entsprechenden Aufklärung durch die Beklagte der Kaufvertrag nicht geschlossen worden (Palandt, BGB, 76. Auflage 2017, § 311 Rn. 55). Dies führt zur Rückzahlung des von ihr gezahlten Kaufpreises Zug-um-Zug (§§ 320 Abs. 1, 273 Abs. 1 BGB) gegen Übertragung des Eigentums am streitgegenständlichen Pkw (§ 255 BGB analog).b) Im Rahmen des Vorteilsausgleichs muss sich die Klageseite allerdings die von ihr gezogenen Nutzungen anrechnen lassen, da es sich nicht um eine Rückabwicklung des Kaufvertrags handelt (vgl. LG Traunstein, Urteil vom 27.06.2018 - 5 O 2425/17). Das Fahrzeug hatte beim Kauf eine Gesamtlaufleistung von 6036 km und kostete 16.400,00 €. Im Zeitpunkt der hierfür maßgeblichen letzten mündlichen Verhandlung hatte es einen Kilometerstand von 49.238 km. Insoweit hat das Gericht keine Anhaltspunkte, an den Angaben der Klageseite zu zweifeln.Unter Berücksichtigung des Kaufpreises, den gefahrenen Kilometern und einer bei Dieselfahrzeugen zum Zeitpunkt des Abschlusses des streitgegenständlichen Vertrags zu erwartenden Gesamtlaufleistung von 250.000 km ergibt sich unter Verwendung der Formel "Bruttokaufpreis × gefahrene km, geteilt durch Restlaufleistung bei Übernahme" eine Nutzungsentschädigung von 2.906,16 €.II.Der Feststellungsantrag ist zulässig; das Feststellungsinteresse nach § 256 Abs. 1 ZPO ergibt sich aus dem schutzwürdigen Interesse in Hinblick auf die §§ 756, 765 ZPO (Saenger, ZPO, 7. Auflage 2017, § 256 Rn. 8). Die Beklagte befindet sich in Annahmeverzug gem. § 293 BGB.III.Die geltend gemachten vorgerichtlichen Anwaltskosten wurden als adäquat verursachte Rechtsverfolgungskosten gem. den §§ 249 Abs. 2 S. 1, 251 Abs. 1 BGB zugesprochen. Dabei ist die angesetzte Geschäftsgebühr gem. VV-RVG Nr. 2300 von 1,3, die Pauschale gem. VV-RVG Nr. 7002 sowie Umsatzsteuer gem. VV-RVG Nr. 7008 als angemessen anzusehen. Insoweit waren wie beantragt Prozesszinsen nach den §§ 291 S. 1 und 2, 288 Abs. 1 BGB begründet.IV.Die Kostenentscheidung folgt aus § 92 Abs. 2 Nr. 1 ZPO. Die Entscheidung zur vorläufigen Vollstreckbarkeit beruht auf § 709 S. 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2297669.html (https://oj.is/2297669)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate8
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen6
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 29.09.2020 - 7 O 313/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 29.09.2020 - 7 O 313/19
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 29.09.2020 - 7 O 313/19 = openJur 2024, 6728
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 29.09.2020 - 7 O 313/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2024, 6728
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht Ansprüche in Verbindung mit dem im Antrag genannten Pkw gegen die Beklagten geltend. Er erwarb den streitgegenständlichen Pkw laut verbindlicher Bestellung vom 11.05.2018 (Anl. K11, Bl. 211 GA) von der Autohaus G in E als Gebrauchtfahrzeug mit Erstzulassung 30.09.2015 und Kilometerstand von 71.500 km zu dem von ihm an die Verkäuferin gezahlten Preis von 41.675,00 €.Herstellerin des Fahrzeugs ist die Beklagte. In das Fahrzeug ist ein Dieselmotor des Typs F eingebaut, der von der Beklagten entwickelt und hergestellt wurde. Für das Fahrzeug besteht eine Typengenehmigung nach VO (EG) Nr. 715/2007, die Voraussetzungen für die Marktzulassung des Fahrzeugtyps ist und zu deren Erhalt Emissionsgrenzwerte eingehalten werden müssen. Die hierfür maßgeblichen Abgaswerte werden unter Laborbedingungen gemessen. Hierbei durchlaufen die jeweiligen Testfahrzeuge einen gesetzlichen vorgegebenen Testlauf, der aus fünf synthetischen Fahrkurven besteht (sog. Neuer Europäischer Fahrzyklus (NEFZ)). Nach den aufgrund der Typengenehmigung durchzuführenden Abgastests hält der streitgegenständliche Fahrzeugtyp - was Voraussetzung der Erteilung der Typengenehmigung war - auch hinsichtlich des Ausstoßes von Stickoxiden (NOx) die Vorgaben der zum Zeitpunkt der Erstzulassung einzuhaltenden EURO6-Norm ein.Die von der Beklagten entwickelte Motorsteuerungssoftware verwendet u.a. jedenfalls drei verschiedene Strategien im Emissionskontrollsystem, die Auswirkungen auf die Abgasreinigung haben und die im Folgenden als Strategien A, B und D bezeichnet werden. Die Strategien A und B werden nahezu ausschließlich unter den Bedingungen der Prüfung Typ 1 der Verordnung (EG) Nr. 715/2007 genutzt. Der Nutzung einer Aufheizstrategie (Strategie A) bei der Prüfung Typ 1 geht die Nutzung einer Strategie "Alternatives Aufheizen" (Strategie B) während der Vorkonditionierung des Fahrzeugs zum Zwecke der Prüfung Typ 1 voraus. Beim Einsatz beider Strategien wird die Überschreitung des NOx-Grenzwertes von 80 mg/km bei der Prüfung Typ 1 sicher vermieden. Bei der Strategie A wird zum Starten der Aufwärmstrategie eine Vielzahl von Initialisierungsparametern verwendet, die über eine Und-Verknüpfungen miteinander verknüpft sind. D. h., alle Bedingungen müssen gleichzeitig vorliegen, dann wird die Aufheizstrategie genutzt. Die zu den Parametern gehörenden Werte (Schaltbedingungen) sind so eng bedatet, dass die Aufheizstrategie nahezu ausschließlich im neuen europäischen Fahrzyklus (NEFZ) und den dort definierten Prüfbedingungen wirkt. Schon kleine Abweichungen in Fahrprofil und Umgebungsbedingungen führen zur Abschaltung der Aufheizstrategie.Der auf den Prüfzyklus Typ 1 abstellenden Strategie A ist eine Strategie B vorgelagert. Strategie B ist durch einen Softwarealgorithmus gekennzeichnet, der die Vorkonditionierung des Fahrzeugs zur Durchführung des Prüfungstyps 1 erkennen kann. Mit dieser Vorkonditionierungserkennung wird ein höherer NH3-Füllstand im SCR erreicht. Die Parameter und die zugehörigen Werte (Schaltbedingungen) sind so bedatet, dass sie die Vorkonditionierung des Fahrzeugs mit drei außerstädtischen Fahrzyklen des NEFZ sowie das damit einhergehende Lastprofil erkennen.Bei der Strategie D werden beim Betrieb des SCR-Katalysator zwei unterschiedliche Betriebsarten zur Eindüsung von Reagens verwendet, welche als Parameter für die Umschaltung unter anderem die Fahrzeuggeschwindigkeit verwenden. Unterschieden werden der Speicher- und der Onlinebetrieb.Mit Bescheid vom 21.01.2018, der auch das streitgegenständliche Fahrzeug betraf, stufte das Kraftfahrt-Bundesamt die Strategie A als unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2 S. 1 VO (EG) Nr. 715/2007 ein und ordnete nachträgliche Nebenbestimmung für die der Beklagten erteilten Typengenehmigungen gemäß § 25 Abs. 2 EG-FGV an. Ferner äußerte es Zweifel hinsichtlich der Zulässigkeit der Strategien B und D sowie einer weiteren Strategie C, deren Verwendung die Beklagte bestreitet. Danach soll das in Rede stehende Fahrzeug keine Strategie (Re-Entry Aufheizen = Strategie C) besitzen, mit der unter normalen Betriebsbedingungen der erneute Einstieg in die Aufheizstrategie ermöglicht wird. Nach der Begründung des Bescheids verpflichtete sich die Beklagte freiwillig, auch auf die Strategien B bis D zu verzichten und diese aus der Software zu entfernen.Mit Schreiben aus Juni 2019 (Anl. K3 Bl. 43 GA) informierte die Beklagte den Kläger über den Rückruf des Fahrzeugs und forderte ihn auf, ein Software-Update am Motorsteuergerät seines Fahrzeugs vornehmen zu lassen.Der Kläger ist der Ansicht, ihm stünden gegen die Beklagte Schadensersatzansprüche aus § 826 BGB bzw. § 823 Abs. 2 BGB iVm § 263 BGB bzw. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV zu. Er behauptet, er habe bei Abschluss des Kaufvertrages keine Kenntnis davon gehabt, dass die Motorsteuerungssoftware unzulässige Abschalteinrichtungen aufwies. Die Beklagte habe ihn durch Verschweigen der Verwendung der Steuerungssoftware bei Inverkehrbringen des Fahrzeugs darüber getäuscht, dass es sich um ein ordnungsgemäß genehmigtes und verkehrsfähiges Fahrzeug handelte, und ihn hierdurch zum Abschluss des Kaufvertrages veranlasst. Vor Abschluss des Kaufvertrages sei er auch vom Verkäufer hierauf nicht hingewiesen worden. Hätte er gewusst, dass die Betriebserlaubnis für das Fahrzeug unter Einsatz einer Manipulationssoftware bzw. einer unzulässigen Abschalteinrichtung erwirkt worden war, hätte er es nicht erworben.Der Kläger hat ursprünglich beantragt, die Beklagte zu verurteilen, an ihn EUR 39.577,57 nebst Zinsen in Höhe von 4% p.a. seit dem 17.05.2018 bis zur Rechtshängigkeit sowie in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz aus EUR 39.577,57 seit Rechtshängigkeit, Zug um Zug gegen Übergabe und Übereignung des Kraftfahrzeugs Audi SQ5 3.0 TDI Euro 6 mit der FIN XXXXXX0X0XX000000 zu zahlen sowie festzustellen, dass sich die Beklagte mit der Rücknahme des Fahrzeugs in Annahmeverzug befindet. In der mündlichen Verhandlung vom 08.09.2020 hat er die Klage teilweise hinsichtlich des Zinsanspruchs zurückgenommen.Er beantragt nunmehr,1. die Beklagte zu verurteilen, an ihn 39.577,57 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Kraftfahrzeugs Audi SQ5 3.0 TDI Euro 6 mit der FIN XXXXXX0X0XX0000002. festzustellen, dass sich die Beklagte mit der Rücknahme des Fahrzeugs in Annahmeverzug befindet.Die Beklagte beantragt,die Klage abzuweisen.Sie ist der Auffassung, ein Anspruch stehe dem Kläger nicht zu. Sie trägt vor, sie habe die Vertriebspartner bereits vor Erwerb des Fahrzeugs durch den Kläger angewiesen, Interessenten auf die Beanstandung der Motorsteuerungssoftware durch das Kraftfahrt-Bundesamt hinzuweisen. 
+				Gründe
+				I.Die zulässige Klage ist unbegründet. Dem Kläger stehen die geltend gemachten Ansprüche gegen die Beklagte unter keinem rechtlichen Gesichtspunkt zu.1. Dem Kläger steht gegen die Beklagte ein Zahlungsanspruch zunächst nicht aus § 826 BGB zu. Nach dieser Vorschrift ist derjenige, der in einer gegen die guten Sitten verstoßenden Weise einem anderen vorsätzlich Schaden zufügt, diesem zum Ersatz dieses Schadens verpflichtet. Diese Voraussetzungen liegen hier nicht vor. Die Beklagte hat den Kläger nicht in einer gegen die guten Sitten verstoßenden Weise vorsätzlich einen Schaden zugefügt.Zwar kann das Inverkehrbringen von Dieselmotoren zum Zweck des Weiterverkaufs und Einbaus in Fahrzeuge des Konzerns der Beklagten grundsätzlich als vorsätzliche sittenwidrige Schädigung angesehen werden, wenn das Fahrzeug über eine nach Art. 3 Nr. 10 VO 715/2007/EG iVm Art. 5 Abs. 2 Satz 1 VO 715/2007/EG unzulässige Abschalteinrichtung des Emissionskontrollsystems verfügte und die Beklagte Zulassungsbehörden, Vertriebspartner und Endkunden hierüber täuschte. Denn Fahrzeuge, deren Motor mit einer derartigen Steuerungssoftware ausgestattet sind, sind im Falle eines Verkaufs - sofern die Parteien hierzu nichts abweichendes vereinbaren - mangelbehaftet (vgl. BGH, Beschl. v. 08.01.2019 - VIII ZR 225/17- juris.de). Denn die Verwendung einer unzulässigen Abschalteinrichtung hat zur Folge, dass dem Fahrzeug die Eignung für die gewöhnliche Verwendung im Sinne von § 434 Abs. 1 Satz 2 Nr. 2 BGB fehlt, weil die Gefahr einer Betriebsuntersagung durch die für die Zulassung zum Straßenverkehr zuständige Behörde (§ 5 Abs. 1 Fahrzeug-Zulassungsverordnung - FZV) besteht und somit bei Gefahrübergang der weitere (ungestörte) Betrieb des Fahrzeugs im öffentlichen Straßenverkehr nicht gewährleistet ist. Vorliegend stellt jedenfalls die unstreitige Verwendung der Strategien A und B eine unzulässige Abschalteinrichtung dar, die die Abgasreinigung ausschließlich auf dem Prüfstand so reguliert, dass die Überschreitung des NOx-Grenzwertes sicher vermieden wird. Für die Bewertung eines schädigenden Verhaltens als sittenwidrig im Sinne von § 826 BGB ist allerdings in einer Gesamtschau dessen Gesamtcharakter zu ermitteln und das gesamte Verhalten des Schädigers bis zum Eintritt des Schadens beim konkreten Geschädigten zugrunde zu legen, was insbesondere dann von Bedeutung ist, wenn die erste potenziell schadensursächliche Handlung und der Eintritt des Schadens wie hier zeitlich auseinanderfallen und der Schädiger sein Verhalten zwischenzeitlich nach außen erkennbar geändert hat (BGH, Urt. v. 30.07.2020 - VI ZR 5/20, juris.de Tz. 30). Hier ergibt sich bereits aus dem Bescheid des Kraftfahrt-Bundesamt vom 21.01.2018, dass die Beklagte bereits vor Erwerb des Fahrzeugs durch den Kläger gegenüber dem Kraftfahrt-Bundesamt die Verwendung der beanstandeten Strategien eingeräumt und sich zur Beseitigung der entsprechenden Software aus bereits in Verkehr gebrachten Fahrzeugen im Wege des Rückrufs verpflichtet hat. Zwar ist dies nicht ebenso öffentlichkeitswirksam bekannt gemacht worden wie gerichtsbekannt bei Bekanntwerden der Verwendungen von Abschalteinrichtungen bei dem Motor J. Die Beklagte hat indes substantiiert dargelegt, dass sie bereits vor Erwerb des Fahrzeugs durch den Kläger zunächst den Verkauf betroffener Fahrzeuge gestoppt und des Weiteren ihre Vertragshändler angewiesen hatte, vor Veräußerung von betroffenen Gebrauchtfahrzeugen auf die Beanstandungen des Kraftfahrt-Bundesamtes hinzuweisen. Das Bestreiten dieses Vortrags durch den Kläger mit Nichtwissen im Termin vom 08.09.2020 ist unbeachtlich. Denn der Kläger ist hinsichtlich der Voraussetzungen der Sittenwidrigkeit darlegungs- und beweisbelastet, nachdem die Beklagte insoweit ihrer sekundären Darlegungslast nachgekommen ist.Selbst wenn gleichwohl eine Fortwirkung der ursprünglichen sittenwidrigen Schädigungshandlung der Beklagten unterstellt würde, hat der hierfür im Rahmen deliktischer Ansprüche darlegungs- und beweisbelastete Kläger jedenfalls den erforderlichen hierauf beruhenden Irrtum im Zeitpunkt des Abschlusses des Kaufvertrages nicht beweisen können. Denn aufgrund der Angaben des Klägers in der mündlichen Verhandlung bestehen durchgreifende Zweifel des Gerichts daran, dass der Kläger bei Abschluss des Kaufvertrages keine Kenntnis davon hatte, dass in den streitgegenständlichen Pkw ein vom Abgasskandal betroffener Dieselmotor eingebaut war oder er hiermit nicht jedenfalls rechnete. Der Kläger hat bei seiner informatorischen Anhörung angegeben, er habe mit dem Verkäufer zwar darüber gesprochen, dass das in Zahlung gegebene Altfahrzeug des Klägers wegen des Dieselskandals einen Wertverlust erlitten hat, in Bezug auf das neue Fahrzeug habe er keine konkreten Angaben des Fahrzeugs hierzu bekommen, hierüber sei nicht gesprochen worden. Von der Richtigkeit dieser Angaben ist das Gericht nicht mit der erforderlichen Sicherheit überzeugt. Insbesondere hat der Kläger sich auch auf Befragen nicht ausreichend dazu geäußert, ob es Hinweise auf Beanstandungen der Motorsteuerungssoftware in den Vertragsunterlagen gegeben habe. Mit der Klage hat er zunächst nicht den Vertrag sondern lediglich die Rechnung vorgelegt. Auf Aufforderung des Gerichts hat er sodann nicht den vollständigen Vertrag sondern nur die Seite 1 (von 3) der verbindlichen Bestellung vorgelegt. Hierin ist ein Hinweis auf eine Beanstandung der Steuerungssoftware zwar nicht enthalten. Das Gericht kann aber nicht ausschließen, dass ein solcher auf den Seiten 2 und 3 der verbindlichen Bestellung enthalten war. Vielmehr muss das Gericht aufgrund des Vortrags der Beklagten davon ausgehen, dass dem Kläger vor Abschluss des Kaufvertrages das Musterschreiben Anl. B11 (Bl. 367 GA) übergeben wurde. Denn das Bestreiten des Erhalts eines derartigen Schreibens mit Nichtwissen im Termin vom 08.09.2020 ist gemäß § 138 Abs. 4 ZPO unbeachtlich, da der Erhalt des Schreibens im unmittelbaren Wahrnehmungsbereich des Klägers liegt.2. Dem Kläger steht gegen die Beklagte auch kein Anspruch aus §§ 823 Abs. 2 BGB, 263 Abs. 1 StGB zu. Zum einen fehlt es in Konstellationen wie der vorliegenden an der erforderlichen Stoffgleichheit zwischen dem vom Kläger erlittenen Vermögensschaden und dem vom Täter erstrebten Vermögensvorteil (vgl. BGH, Urt. v. 30.07.2020 - VI ZR 5/20, Tz. 19, juris.de). Zum anderen hat der Kläger - wie bereits ausgeführt - den Nachweis der Ursächlichkeit einer etwaigen Täuschungshandlung der Beklagten bezüglich der Verwendung der Steuerungssoftware für seine Kaufentscheidung nicht geführt.3. Schließlich besteht auch kein Schadensersatzanspruch des Klägers gegen die Beklagten aus § 823 Abs. 2 BGB iVm §§ 6, 27 Abs. 1 EG-FGV. Denn §§ 6 Abs. 1, 27 Abs. 1 EG-FGV sind keine den Kläger schützenden Schutzgesetze im Sinne des § 823 Abs. 2 BGB. Schutzgesetz im Sinne von § 823 Abs. 2 BGB ist jede Rechtsnorm, die zumindest auch dazu dienen soll, einen Einzelnen oder einen bestimmten Personenkreis gegen die Verletzung eines bestimmten Rechtsinteresses zu schützen (vgl. BGHZ 40, 306; 160, 134; 188, 326; 192, 90; Reinking/Eggert, Der Autokauf, 13. Aufl. 2017, Rn. 1896; Palandt, BGB, 79. Aufl., § 823 Rn. 58). Der Schutz eines Einzelnen ist dabei nicht bereits dann bezweckt, wenn er als Reflex einer Befolgung der Norm objektiv erreicht wird, sondern nur dann, wenn der Gesetzgeber dem Einzelnen selbst die Rechtsmacht in die Hand geben wollte, mit Mitteln des Privatrechts gegen denjenigen vorzugehen, der das Verbot übertritt und sein Rechtsinteresse beeinträchtigt (vgl. BGHZ 40, 306; 188, 326; 192, 90). Da die Richtlinie keine unmittelbare Wirkung innerhalb des nationalen Rechts entfaltet, sondern der Umsetzung durch den nationalen Gesetzgeber bedarf, kann sich aus ihr zumindest unmittelbar keine Schutzwirkung für individuellen Rechtsschutz ergeben. Dieser könnte sich allenfalls aus dem Zusammenspiel der Richtlinie mit der VO (EG) Nr. 715/2007 ergeben. Auch von dem Normgeber der VO (EG) Nr. 715/2007 ist indes ein individueller Rechtsschutz nicht beabsichtigt, weil dieser Aspekt weder in der Verordnung selbst noch in dem Vorspann dieser Verordnung an irgendeiner Stelle zum Ausdruck kommt (Reinking/Eggert, aaO., Rn. 1897; Riehm DAR 2016, 12, 13 unter III.2.). Die ausweislich der dort formulierten Zielsetzung einer Vollendung des Binnenmarktes durch die Einführung gemeinsamer technischer Vorschriften zur Begrenzung der Emissionen zeigt vielmehr, dass der Schutz der Gesundheit des Einzelnen lediglich aus einer Reflexwirkung dieser Verordnung folgt (Reinking/Eggert, aaO., Rd. 1897). Allein diese Reflexwirkungen ermöglichen indes keine Einstufung der VO (EG) Nr. 715/2007 sowie der zu ihrer Durchführung verfassten VO (EG) Nr. 692/2008 als Schutzgesetz im Sinne von § 823 Abs. 2 BGB (BGH, Urt. v. 25.05.2020 - VI ZR 252/19 - juris, Rz. 74 f; OLG Braunschweig, Urt. v. 19.02.2019 - 7 U 134/17 -, juris).4. Da dem Kläger ein Schadensersatzanspruch bereits dem Grunde nach nicht zusteht, hat er auch keinen Anspruch auf die geltend gemachte Zinsforderung.II.Die Kostenentscheidung beruht auf §§ 91 Abs. 1, 269 Abs. 3 S. 2 ZPO.III.Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus § 709 S. 1 und 2 ZPO.Gegenstandswert: 39.577,57 €
+			
+			
+			
+			Permalink: https://openjur.de/u/2490741.html (https://oj.is/2490741)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

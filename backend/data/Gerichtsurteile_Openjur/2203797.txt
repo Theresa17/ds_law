@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSchleswig-HolsteinOrdentliche GerichtsbarkeitOLG SchleswigRechtsprechungUrteil vom 22.11.2019 - 17 U 70/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Schleswig, Urteil vom 22.11.2019 - 17 U 70/19
+                      m. Fundstelle
+                      OLG Schleswig, Urteil vom 22.11.2019 - 17 U 70/19 = openJur 2020, 7500
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Schleswig, Urteil vom 22.11.2019 - 17 U 70/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 7500
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Unter Zurückweisung der Berufung des Klägers wird auf die Berufung der Beklagten das am 27. Juni 2019 verkündete Urteil der Einzelrichterin der 6. Zivilkammer des Landgerichts Kiel - 6 O 525/18 - abgeändert.Die Klage wird abgewiesen.Die Kosten beider Rechtszüge hat der Kläger zu tragen.Das Urteil ist ohne Sicherheitsleistung vorläufig vollstreckbar. Jedoch kann der Kläger die Vollstreckung der Beklagten gegen Sicherheitsleistung in Höhe von 110 % des aufgrund des Urteils vollstreckbaren Betrages abwenden, wenn nicht zuvor die Beklagte Sicherheit in gleicher Höhe leistet.Die Revision wird zugelassen.  
+				Gründe
+				I.Der Kläger begehrt von der Beklagten Schadensersatz wegen Kaufs eines Kraftfahrzeuges, das vom sogenannten "Abgasskandal" betroffen ist.Der Kläger ist Privatmann und erwarb als solcher am 25. Oktober 2012 von der A. GmbH das streitgegenständliche Fahrzeug, einen Audi Q 5 2.0 (Fahrzeugident-Nr. ...) als "Vorführwagen" zu einem Kaufpreis von 33.990,-- € und mit einer damaligen Kilometerlaufleistung von 2.064 Kilometer (Rechnung im Anlagenkonvolut K 1). Das streitgegenständliche Fahrzeug ist mit einem Dieselmotor der Baureihe EA 189 ausgestattet, welcher von der Beklagten hergestellt worden ist. In dem Fahrzeug war eine Motorsteuerungssoftware installiert, die erkennt, wenn das Fahrzeug auf dem Prüfstand den neuen europäischen Fahrzyklus (NEFZ) durchführt und damit mit einem besonderen Modus aktiviert (so genannte Umschaltlogik). In diesem Modus wird die Rückführung von Abgasen im Vergleich zu dem normalen Betriebsmodus verändert, wodurch die nach der Euro 5 Norm vorgegebene NOx-Werte während des Durchfahrens des NEFZ eingehalten werden. Im normalen Fahrbetrieb wird dieser Modus deaktiviert, wodurch es zu einem höheren Schadstoffausstoß kommt. Durch das Gebrauchmachen der Motorsteuerungssoftware erlangte die Beklagte die EG-Typengenehmigung für das streitgegenständliche Fahrzeug.Der Dieselmotor wurde serienmäßig in diverse Fahrzeugmodelle der Beklagten sowie derer Konzernunternehmen verbaut. Das Kraftfahrtbundesamt (KBA) verpflichtete die Beklagte mit Bescheid vom 15.10.2015 bei allen betroffenen Fahrzeugen mit dem ausgestatteten Motor des Typs EA 189 die aus Sicht des Bundesamtes unzulässige Abschaltvorrichtung zu entfernen. Die Beklagte entwickelte ein Update für die Motorsteuerungssoftware, wonach das Fahrzeug nur noch über einen einheitlichen Betriebsmodus verfügt. Das KBA ordnete das Aufspielen des Updates obligatorisch an.Die Klägerseite nutzte das Fahrzeug nach dem Kauf zunächst selbst. Bei einem Stand von 56.440 Kilometern Laufleistung übergab der Kläger im Oktober 2016 das Fahrzeug an das Audi Zentrum Kiel. Der bereits im Rahmen der Bestellung eines Neufahrzeugs vom 18. April 2016 für die Inzahlungnahme vereinbarte Kaufpreis betrug 19.300,-- € (Bestellung im Anlagenkonvolut K 1).Der Kläger hat beantragt,1. die Beklagte zu verurteilen, an ihn 14.690,00 Euro nebst Zinsen in Höhe von 4 % p.a. für den Zeitraum vom 02.12.2012 bis zum 18.04.2016 aus 33.990,00 Euro sowie Zinsen in Höhe von 4 % p.a. für den Zeitraum vom 18.04.2016 bis zum Eintritt der Rechtshängigkeit aus 14.690,00 Euro sowie Zinsen in Höhe von 5 %-Punkten über dem Basiszinssatz aus 14.690,00 Euro seit Rechtshängigkeit zu zahlen;2. hilfsweise, für den Fall, dass das Gericht den Antrag zu 1.) auf Rückzahlungdes Kaufpreises abweist, festzustellen, dass die Beklagte verpflichtet ist, ihm sämtlichen Schäden zu ersetzen, die dadurch entstanden sind, dass die Beklagte den PKW Audi Q5 2.0 mit der Fahrzeugidentifikationsnummer ... in den Verkehr gebracht hat, obwohl dieser mit einer unzulässigen Abschalteinrichtung ausgestattet war und daher keinem genehmigten Fahrzeugtyp entspricht.Die Beklagte hat beantragt,die Klage abzuweisen.Das Landgericht, auf dessen Urteil gemäß § 540 Abs. 1 Nr. 1 ZPO verwiesen wird, hat der Klage überwiegend stattgegeben. Der Kläger habe einen Anspruch auf Rückzahlung des für den Pkw gezahlten Kaufpreises abzüglich des Weiterverkaufserlöses, schulde jedoch der Beklagten für die gefahrenen Kilometer eine angemessene Nutzungsentschädigung, welche das Landgericht auf der Annahme einer durchschnittlichen Fahrleistung von 250.000 Kilometer mit 7.455,-- € berechnet hat. Über diesen aus § 826 BGB folgenden Anspruch und Rechtshängigkeitszinsen gemäß § 291 BGB hinaus hat das Landgericht begehrte Zinsen aus § 849 BGB abgelehnt.Gegen dieses Urteil haben beide Parteien rechtzeitig Berufung eingelegt und begründet.Der Kläger wendet sich gegen die vom Landgericht angenommene Verpflichtung, der Beklagten eine Nutzungsentschädigung zu zahlen und begehrt überdies eine Verzinsung gemäß § 849 BGB. Auch sei entgegen der Auffassung des Landgerichts bereits mit Klagerhebung Annahmeverzug eingetreten.Der Kläger begehrt daher die Abänderung des landgerichtlichen Urteils dahin, dass1. die Beklagte verurteilt wird, an den Kläger 14.690,00 € nebst Zinsen in Höhe von 4 % p.a. für den Zeitraum vom 2.12.2012 bis zum 18.04.2016 aus 33.990,00 € sowie Zinsen in Höhe von 4 % p. a. für den Zeitraum nach dem 18.094.2016 bis zum Eintritt der Rechtshängigkeit aus 14.690,00 € sowie Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit aus 14.690,00 € zu zahlen.2. die Beklagte verurteilt wird, den Kläger von vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.999,80 € freizustellen.Weiter beantragt der Kläger,die Berufung der Beklagten zurückzuweisen.Die Beklagte beantragt,das landgerichtliche Urteil im Umfang ihrer Beschwer abzuändern und die Klage vollumfänglich abzuweisen sowiedie Berufung des Klägers zurückzuweisen.Die Beklagte vertieft ihren bisher bereits angenommenen Standpunkt dahin, dass eine Haftung aus § 826 BGB selbst nicht in Betracht komme und - dies gegenüber der Berufung des Klägers - insbesondere eine Verzinsung gemäß § 849 BGB zu unterbleiben habe.Im Übrigen wird Bezug genommen auf die zwischen den Parteien gewechselten Schriftsätze und die jeweils beigefügten Anlagen sowie hinsichtlich der mündlichen Anhörung des Klägers vor dem Senat auf das Protokoll der mündlichen Verhandlung vom 8. November 2019 (Bl. 575 ff. d.A.).II.Die zulässige Berufung der Beklagten hat Erfolg, die ebenfalls zulässige Berufung des Klägers hingegen nicht.Anders, als es das Landgericht angenommen hat, scheitern Schadensersatzansprüche des Klägers gegenüber der Beklagten als Fahrzeugherstellerin schon daran, dass der Kläger keinen Schaden erlitten hat (1.). Damit fehlt aber auch die Grundlage für die von dem Kläger im Berufungsrechtszug mit seiner Berufung über die erstinstanzliche Verurteilung der Beklagten hinaus beanstandeten Abzug einer Nutzungsentschädigung sowie die begehrte Verzinsung gemäß § 849 BGB (2.).1. Was Schadensersatzansprüche anbelangt, vermag der Senat in diesem Rechtsstreit durchaus offen zu lassen, ob und inwieweit die Beklagte aus dem Gesichtspunkt der vorsätzlich sittenwidrigen Schädigung gemäß § 826 BGB gegenüber ihren Kunden auf Schadensersatz deshalb haftet, weil entgegen den durch Werbematerial und ähnliche Anpreisung erweckten Eindruck Fahrzeuge mit dem EA 189-Motor eine unzulässige Abschaltsoftware aufgewiesen hatten. Der Senat hält eine derartige Haftung - in Übereinstimmung mit einer Reihe anderer Oberlandesgerichte (etwa OLG Koblenz, Urteil vom 16. September 2019 - 12 U 61/19 -, WM 2019, 1929 ff., bei Juris; OLG Karlsruhe, Beschluss vom 5. März 2019 - 13 U 142/18 -, bei Juris; OLG Köln, Beschluss vom 3. Januar 2019 - 18 U 70/18 -, bei Juris; OLG Oldenburg, Urteil vom 2. Oktober 2019 - 5 U 47/19 -, bei Juris; OLG Hamm, Urteil vom 10. September 2019 - 13 U 149/18 -, ACE-Verkehrsjurist 2019, Nr. 3, 18 ff., bei Juris) - zwar grundsätzlich für möglich, weil und soweit ein Fahrzeughersteller in ihm zurechenbarer Weise systemisch den Rechtsgeschäftsverkehr getäuscht und damit Endkunden zum Abschluss von durch sie so nicht angestrebter vertraglicher Erwerbsvorgänge veranlasst hat.Letztlich muss die Frage nach der Begründung und der Reichweite einer solchen Haftung und sich hieran anschließender einzelner Fragestellungen im vorliegenden Rechtsstreit aber nicht weiter vertieft werden. Denn eine derartige allein in Betracht kommende Haftung - vertragliche oder auch andere Ansprüche scheiden vorliegend aus - setzt stets voraus, dass der Anspruchsteller tatsächlich einen Schaden erlitten hat. Hieran fehlt es vorliegend.Zwar teilt der Senat die Auffassung der erwähnten Oberlandesgerichte auch dahin, dass der Schaden bereits in der Eingehung der nicht gewollten Verbindlichkeit liegt, mithin es nicht darauf ankommt, ob im haftungsausfüllenden Tatbestand sich der so ungewollte Erwerb für den Anspruchsteller tatsächlich wirtschaftlich als nachteilig erwiesen hat. Von daher schließt sich der Senat auch nicht der Auffassung an, dass allein schon durch die Durchführung des Updates der Schaden entfallen ist. Denn nicht nur ist die Aufspielung des Updates ein nachgelagerter Vorgang, während der Schaden bereits eingetreten war, ohne dass es im Deliktsrecht es ein Nacherfüllungsrecht für den Schädiger gibt. Vielmehr war jedenfalls zum Zeitpunkt des Updates überhaupt auch nicht gesichert, welche Funktionalität das Update im Langzeitbetrieb aufweisen würde und welche nicht. Wäre es anders gewesen, wäre überhaupt nicht verständlich gewesen, weshalb die Beklagte nicht sämtliche Fahrzeuge mit EA-189-Motoren von Beginn an mit der Update-Software ausgestattet hätte, anstatt die Erwerbererwartung betrügerisch zu enttäuschen. Keinesfalls hatten aber die Käufer von Fahrzeugmodellen der Beklagten darin eingewilligt, an einem technischen Großversuch mit entsprechenden Risiken teilzunehmen.War von daher - wie es der Kläger in der mündlichen Verhandlung vor dem Senat dargestellt hat - das Aufspielen des Updates kurz vor dem Verkauf des streitbefangenen Fahrzeugs noch nicht geeignet, den Schaden entfallen zu lassen, so folgt anderes doch dadurch, dass aufgrund eigenen Eingreifens des Klägers - nämlich dem Verkauf dieses Fahrzeugs im Wege der Inzahlungnahme bei Erwerb eines Neuwagens - der ungewollte Erwerb eines Fahrzeugs korrigiert werden konnte. Während nämlich im Falle des Verbleibs des Fahrzeugs beim Erwerber die Frage, ob und inwieweit der ungewollte Erwerb tatsächlich für den Kläger zu Nachteilen geführt hat oder nicht, unterschiedlich beantwortet werden kann, ist die Veräußerung des ungewollten Fahrzeugs durch den Erwerber grundsätzlich dazu geeignet, für diesen tatsächlich die Wiederherstellung des vor dem Erwerb bestehenden Zustands zu bewirken.Dass der Schädiger außerhalb der im Rahmen des § 254 BGB bestehenden Schadensminderungspflichten auf eine derartige Veräußerung keinen Anspruch hat, steht dem nicht entgegen. Denn ähnlich der Haftung gemäß § 826 BGB für den durch Täuschung veranlassten Erwerb von Kapitalanlagen (hierzu BGH, Urteil vom 9. Mai 2005 - II ZR 287/02 -, NJW 2005, 2450 ff., bei juris) muss dem Erwerber ein Wahlrecht zustehen (zur Situation bei Wertpapieranlagen, Ekkenga in MüKO-HGB, 2. Aufl., En 412 ff. zu "Effektengeschäft"). Der Erwerber wird einerseits Naturalherstellung durch Rückforderung des Kaufpreises und Rückgabe des Fahrzeugs abzüglich eines Wertausgleichs verlangen können, der sich typischerweise wenigstens an den gezogenen Nutzungen orientieren wird, möglicherweise aber auch die für Kraftfahrzeuge bedeutsame stets eintretende Wertminderung zu bedenken haben wird (zum Problem Riehm, NJW 2019, 1105, 1109). Alternativ wird der Erwerber das Fahrzeug behalten und Ausgleich des Differenzschadens zum Kaufinteresse verlangen können. Veräußert er das Fahrzeug, kann sein Schaden im Mindererlös gegenüber einem normalerweise zu erwartenden Verkaufserlös liegen. Geht das Fahrzeug verloren, tritt sein Wert als Surrogat an die Stelle des zurückzugebenden Fahrzeugs.Nach Überzeugung des Senats unangemessen wäre es jedoch, trotz Veräußerung des Fahrzeugs ohne Mindererlös im Nachhinein die Rückzahlung des kompletten Kaufpreises unter Abzug gezogener Nutzungen bei Anrechnung des Verkaufserlöses nur deshalb vorzunehmen, weil sich dieser Weg später als wirtschaftlich interessanter erweist. Denn die mit dem ungewollten Erwerb einhergehende Zweckverfehlung des Erwerbsvorgangs begründet ebenso die Haftung, wie sie diese auch begrenzen muss (insoweit zutreffend Pfeiffer, NJW 2019, 3337, 3339, 3343). Alles andere wäre nicht mehr Schadenskompensation, sondern Überkompensation, für die es keine Rechtfertigung gibt. Durch die Entscheidung zur Veräußerung und deren Durchführung hat jedoch der Erwerber - hier der Kläger - sich des ungewollten Erwerbs ohne weitere Nachteile entledigen können, wenn und soweit diese Veräußerung gegenüber einem normalen Verlauf nicht für den Erwerber wirtschaftlich nachteilhaft war. Dass derartige Nachteile bestanden hätten, ist aber gerade vorliegend nicht ersichtlich.Wie der Kläger in der mündlichen Verhandlung vor dem Senat dargestellt hat, seien ihm nämlich bei Bestellung seines Neufahrzeugs für sein bisheriges Fahrzeug von vornherein 19.300,00 € geboten worden, ohne dass die Diesel-Problematik und die Frage des Updates noch im Verkaufsgespräch eine Rolle gespielt habe. Soweit der Kläger sich auf seine seinerzeitige Erwartung berufen hat, noch ein wenig mehr zu bekommen, nämlich etwa 25.000,00 €, hat er die Berechtigung dieser Kaufpreiserwartung überhaupt nicht substantiieren können, geschweige denn, dass er seinerzeit eine entsprechende Forderung aufgestellt hätte. Da auch - wie der Blick in die einschlägigen Schwacke-Listen für 4/2016 und 10/2016 zeigt - keine weiteren Anhaltspunkte für einen aus Sicht des Klägers nachteiligen Verkauf vorliegen, war die Schadensersatzklage mangels Schadens als unbegründet abzuweisen.2. Vor diesem Hintergrund musste auch das im Verhältnis zum landgerichtlichen Urteil weitergehende Berufungsbegehren des Klägers erfolglos bleiben, vom Abzug einer Nutzungsentschädigung abzusehen und insbesondere eine Verzinsung gemäß § 849 BGB zu erreichen. Es fehlt nämlich bereits am zu verzinsenden Schadensersatzanspruch. Vor diesem Hintergrund kommt es in diesem Rechtsstreit auch nicht darauf an, ob § 849 BGB in Streitigkeiten der vorliegenden Art nach Sinn und Zweck überhaupt eine Verzinsung ermöglicht. Weshalb angesichts der Veräußerung des streitbefangenen Fahrzeugs noch Fragen eines Annahmeverzuges eine Rolle spielen sollen, erschließt sich dem Senat ohnehin nicht.Die Kostenentscheidung beruht auf §§ 91 Abs. 1, 97 Abs. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit ergeht gemäß §§ 708 Nr. 10, 711 ZPO.Der Senat hat die Revision zugelassen, weil die Fragen der Schadensbemessung bei deliktischer Haftung gemäß § 826 BGB in den "Abgasskandal"-Fällen noch nicht hinreichend geklärt sind, § 543 Abs. 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2203797.html (https://oj.is/2203797)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert17
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

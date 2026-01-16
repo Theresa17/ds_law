@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG BambergRechtsprechungEndurteil vom 12.01.2022 - 3 U 334/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Bamberg, Endurteil vom 12.01.2022 - 3 U 334/20
+                      m. Fundstelle
+                      OLG Bamberg, Endurteil vom 12.01.2022 - 3 U 334/20 = openJur 2022, 19486
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Bamberg, Endurteil vom 12.01.2022 - 3 U 334/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 19486
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				I. Auf die Berufung der Klägerin wird das Endurteil des Landgerichts Würzburg vom 29.10.2020, Az. 14 O 653/20, teilweise abgeändert und wie folgt neu gefasst:1. Die Beklagte wird verurteilt, an die Klägerin 37.083,60 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz aus 42.352,31 € ab Rechtshängigkeit bis zum 23.09.2020, aus 41.033,43 € ab dem 24.09.2020 bis zum 11.01.2022 und aus 37.083,60 € ab dem 12.01.2022 zu zahlen, Zugum-Zug gegen Rückgabe und Rückübereignung des Fahrzeugs X. SQ5 mit der FIN ....2. Es wird festgestellt, dass sich die Beklagte mit der Entgegennahme des in Ziffer 1 genannten Fahrzeugs in Annahmeverzug befindet.II. Im Übrigen wird die Berufung zurückgewiesen und bleibt die Klage abgewiesen.III. Von den Kosten des Rechtsstreits haben die Klägerin 15% und die Beklagte 85% zu tragen.IV. Das Urteil ist vorläufig vollstreckbar. Die Beklagte kann die Vollstreckung durch Sicherheit oder Hinterlegung in Höhe von 110% des zu vollstreckenden Betrages abwenden, wenn nicht die Klägerin vor der Vollstreckung Sicherheit in gleicher Höhe leistet.V. Die Revision wird nicht zugelassen.  
+				Gründe
+				I.1. Hinsichtlich des erstinstanzlichen Sach- und Streitstands wird gem. § 540 ZPO auf die Feststellungen im erstinstanzlichen Urteil Bezug genommen. Lediglich ergänzend bzw. erläuternd ist auszuführen:Die Klagepartei erwarb am 26.10.2017 von der Beklagten einen gebrauchten Pkw X. SQ5 mit einer Laufleistung von 7.479 km zu einem Kaufpreis von 51.614,70 EUR netto. Das Fahrzeug ist mit einem von der Beklagten hergestellten Dieselmotor 3.0 (EURO 6) ausgestattet. Das Kraftfahrtbundesamt ordnete im Jahr 2018 für die Modellreihe, zu der auch das streitgegenständliche Fahrzeug gehört, in Bezug auf das Emissionsverhalten einen Rückruf an mit der Aufforderung, "unzulässige Abschalteinrichtungen bzw. die unzulässige Reduzierung der Wirksamkeit des Emissionskontrollsystems" zu entfernen. Mit Bescheid vom 26.11.2018 wurden die von der Beklagten hierzu vorgeschlagenen Maßnahmen freigegeben. Ein entsprechendes Update wurde in dem Fahrzeug bereits vor Anhängigkeit der Klage installiert. Die Laufleistung des Fahrzeugs betrug bei Klageerhebung 51.000 km, bei Schluss der mündlichen Verhandlung in erster Instanz 57.197 km und bei Schluss der mündlichen Verhandlung in der Berufungsinstanz 75.756 km.Die Klagepartei hat erstinstanzlich behauptet, dass die Motorsteuerungssoftware des Fahrzeugs mit einer "Prüfstandserkennung" programmiert gewesen sei. Es sei eine Abschalteinrichtung installiert, die die Umgebungstemperatur und andere physikalischen Größen messe. Erkenne die Software u.a. am Lenkwinkeleinschlag des Lenkrades die Prüfstandssituation, schalte sie eine Aufheizvorrichtung ein, in dem der SCR-Katalysator schneller auf Betriebstemperatur gebracht und dadurch der Schadstoffausstoß vermindert werde. Im realen Fahrbetrieb werde diese Einrichtung abgeschaltet. Daneben habe die Beklagte auch die "AdBlue-Einspritzung" manipuliert. Nur auf dem Prüfstand werde eine ausreichende Menge AdBlue eingespritzt. Würde diese dauerhaft entsprechend den gesetzlichen Vorschriften erhöht werden, müsste die Klagepartei bis zu 1.000,00 € im Jahr an zusätzlichen Kosten aufwenden. Daneben sei noch eine weitere unzulässige Abschalteinrichtungen in Form eines "Thermofensters" vorhanden. Hätte die Klagepartei nicht das Update installieren lassen, würde die Betriebsuntersagung drohen.Die Klagepartei hat von der Beklagten erstinstanzlichen Schadensersatz durch Rückzahlung des Kaufpreises Zug um Zug gegen Herausgabe des Pkw sowie Ersatz der vorgerichtlich entstandenen Rechtsanwaltskosten. Einen Nutzungsvorteil will sich die Klagepartei auf der Basis einer Gesamtlaufleistung von 350.000 km anrechnen lassen.Die Klagepartei hat erstinstanzlich zuletzt beantragt,Die Beklagte wird verurteilt, an den Kläger 43.810,43 € zzgl. Zinsen in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit dem 20.07.2017 zu zahlen, Zug um Zug gegen Übergabe und Übereignung des PKW X. SQ5 mit der Fahrzeug-Identifizierungsnummer ....Es wird festgestellt, dass sich die Beklagte mit der Entgegennahme des im Klageantrag zu 1. genannten Fahrzeugs in Annahmeverzug befindet.Die Beklagte wird verurteilt, die Klägerschaft von vorgerichtliche Rechtsverfolgungskosten in Höhe von 3.736,60 € freizustellen.Die Beklagte hat erstinstanzlich beantragt,die Klage abzuweisen.Dem Kläger sei es allein darauf angekommen, ein leistungsstarkes Fahrzeug zu erwerben, weshalb ihm die Einhaltung der Stickoxidwerte gleichgültig gewesen sei. Über eine Umschaltlogik wie bei dem Motor EA 189 verfüge das Fahrzeug nicht. In dem Fahrzeug sei ein SCR-Katalysator verbaut, dem mit AdBlue betrieben werde. Das Fahrzeug halte auf dem Prüfstand auch den Stickoxidgrenzwert nach dem NEFZ von 80mg/km ein, der Widerruf der EG-Typgenehmigung oder das Erlöschen der Betriebserlaubnis drohe nicht. Der Rückruf des KBA solle die Bedatung ändern, um einen breiteren Anwendungsbereich im Straßenbetrieb zu gewährleisten. Einen schlüssigen Vortrag, dass die Beklagte die Klagepartei sittenwidrig geschädigt habe, habe die Klagepartei also nicht erstattet.Hilfsweise sei der Nutzungsvorteil zu berücksichtigen. Ein Anspruch auf Deliktszinsen und Erstattung der vorgerichtlichen Anwaltskosten bestehe nicht, ein Annahmeverzug liege nicht vor.2. Das Landgericht die Klage abgewiesen und zur Begründung ausgeführt, dass eine vorsätzliche sittenwidrige Schädigung der Beklagten trotz Hinweises des Gerichts nicht vorgetragen worden sei. Es fehle an einer unzulässigen Abschalteinrichtung und auch um keine zielgerichtete Verschleierung der Abgaswerte auf dem Prüfstand.3. Gegen dieses Urteil hat die Klagepartei Berufung eingelegt und diese unter Wiederholung und Vertiefung ihres erstinstanzlichen Vortrags begründet. Die Klagepartei beantragt, unter Abänderung des am 29.10.2020 verkündeten Urteils des Landgerichts Würzburg, Az: 14 O 653/20 zu erkennen:1. Die Beklagte wird verurteilt, an den Kläger 42.699,18 € zzgl. Zinsen in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit dem 20.07.2017 zu zahlen, Zug um Zug gegen Übergabe und Übereignung des PKW X. SQ5 mit der Fahrzeug-Identifizierungsnummer ....2. Es wird festgestellt, dass sich die Beklagte mit der Entgegennahme des im Klageantrag zu 1. genannten Fahrzeugs in Annahmeverzug befindet.3. Die Beklagte wird verurteilt, die Klägerschaft von vorgerichtliche Rechtsverfolgungskosten in Höhe von 3.736,60 € freizustellen.Die Beklagte beantragt,die Berufung zurückzuweisen.Sie verteidigt das erstinstanzliche Urteil. Die Behauptung, dass das Fahrzeug über eine unzulässige Abschalteinrichtung verfüge, sei für den Vorwurf der Sittenwidrigkeit nicht ausreichend.II.Auf die Berufung der Klagepartei ist das erstinstanzliche Urteil aufzuheben und der Klage überwiegend stattzugeben.1. Entgegen der Auffassung des Landgerichts hat die Klagepartei das Vorliegen einer unzulässigen Abschalteinrichtung durch Verwendung einer Software, die den Prüfstand erkennt und ausschließlich dort die Emissionen reduziert, schlüssig vorgetragen. Dies hat die Beklagte nicht hinreichend bestritten. Dieses Verhalten der Beklagten ist als vorsätzlich sittenwidrig im Sinne der Vorschrift des § 826 BGB einzuordnen, woraus der Klagepartei ein Schadensersatzanspruch erwächst.a) Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann (BGH NJW 2020, 1962 Rn. 15; BGH NJW 2017, 2613; BeckOK BGB/Förster, 53. Ed. 1.2.2020, § 826 Rn. 19).Eine sittenwidrige Schädigung ist zu bejahen, wenn auf der Grundlage einer für ihren Konzern getroffenen grundlegenden strategischen Entscheidung bei der Motorenentwicklung im eigenen Kosten- und damit auch Gewinninteresse durch bewusste und gewollte Täuschung des KBA systematisch, langjährig und in namhaften Umfang Fahrzeuge in Verkehr gebracht werden, deren Motorsteuerungssoftware bewusst und gewollt so programmiert war, dass die gesetzlichen Abgasgrenzwerte mittels einer unzulässigen Abschalteinrichtung nur auf dem Prüfstand eingehalten wurden, so dass die Gefahr einer Betriebsbeschränkung oder -untersagung besteht. Ein solches Verhalten ist im Verhältnis zu einer Person, die eines der bemakelten Fahrzeuge in Unkenntnis der illegalen Abschalteinrichtung erwirbt, besonders verwerflich und mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht zu vereinbaren (BGH NJW 2020, 1962 Rn. 15).b) Vorliegend hat die Klagepartei behauptet, dass das Fahrzeug mit einer Software ausgestattet sei, die erkenne, ob das Fahrzeug einer Abgasprüfung unterzogen werde und die durch eine "Aufheizstrategie" dafür sorge, dass der Grenzwert von 80 mg/km auf dem Prüfstand eingehalten werde. Die Klagepartei hat ihren Vortrag mit einem nicht datierten Information des KBA (Anlage K4) unterlegt, aus dem sich zumindest zu ersehen ist, dass bei dem streitgegenständlichen Fahrzeugtyp eine unzulässige Abschalteinrichtung vorhanden ist, weshalb seitens des KBA ein Rückruf angeordnet wurde. Schließlich hat der Kläger mit Schriftsatz vom 04.01.2022 den vom KBA erlassenen, ohnehin bereits gerichtsbekannten Rückrufbescheid vorgelegt. Darin ist enthalten, dass in dem Fahrzeugtyp eine "Aufheizstrategie" verbaut sei, die eine Überschreitung des NOx-Grenzwerts von 80 mg/km sicher vermeide. Diese sei jedoch so eng bedatet, dass sie nahezu ausschließlich unter den im NEFZ definierten Prüfungsbedingungen funktioniere. Daneben hat das KBA festgestellt, dass diese Vorgehensweise nicht aus Gründen des Bauteilschutzes zu rechtfertigen sei.Der Sachvortrag der Klagepartei genügt damit, um eine vorsätzliche sittenwidrige Schädigung durch die Beklagte zu belegen (ebenso OLG Oldenburg, Urteil vom 14.01.2021 - 1 U 160/20 Rn. 37ff.; OLG Köln, Urteil vom 12.03.2020 - 3 U 55/19, Rn. 35; OLG Stuttgart, Verfügung vom 24.03.2020 - 16a U 75/19 Rn. 12ff.). Dem ist die Beklagte nicht hinreichend (§ 138 Abs. 3 ZPO) entgegengetreten. Sie kapriziert sich darauf, dass das Vorliegen eines Thermofensters allein eine sittenwidrige Schädigung nicht rechtfertige, lässt aber jeglichen konkreten Vortrag zu dem Einbau einer Software vermissen, die über die "Aufheizstrategie" zwar auf dem Prüfstand eine Schadstoffminderung bewirkt, jedoch nicht im realen Verkehr. Allein die Behauptung, dass auf dem Prüfstand der Grenzwert eingehalten werde, genügt hierfür nicht. Der an die Beklagte gerichtete Vorwurf besteht gerade darin, dass sie die Einhaltung des Grenzwerts durch die "Aufheizstrategie" erreicht habe.c) Aus diesen Gründen hat das Gericht als unstreitig zugrunde zu legen, dass die Beklagte in dem streitgegenständlichen Fahrzeug eine Software verwendet hat, die allen darauf ausgerichtet war, auf dem Prüfstand die Einhaltung der Grenzwerte zu erreichen, um das Emissionsverhalten im Realbetrieb zu verdecken. Dementsprechend hat das KBA diese als unzulässige Abschalteinrichtung bewertet. Dass die Beklagte dies gegenüber dem KBA im Rahmen des Typgenehmigungsverfahren offenbart hat, behauptet die Beklagte selbst nicht. Weil diese Abschalteinrichtung offensichtlich nicht dem Bauteilschutz diente, konnte die Beklagte auch nicht annehmen, dass ihr Vorgehen von der Vorschrift des Art. 5 Abs. 2 S. 1 der VO (EG) Nr. 715/2007 gedeckt sei. Aufgrund einer strategischen Entscheidung hat die Beklagte damit aus reinem Gewinnstreben bewusst und gewollt ein Fahrzeug auf den Markt gebracht, bei dem die Gefahr der Betriebsstillegung bestand.d) Die Täuschung hierüber war auch vorliegend kausal für den Erwerb des Fahrzeugs durch die Klagepartei. Selbst wenn bei dem hier vorliegenden Fahrzeug zugunsten der Beklagten zu unterstellen ist, dass Umweltaspekte keine Rolle gespielt haben, ist jedenfalls aufgrund der Möglichkeit einer Betriebsbeschränkung oder -untersagung davon auszugehen, dass die Klagepartei bei Kenntnis von einem Kauf Abstand genommen hätte (BGH NJW 2020, 1962 Rn. 54).e) Nachdem es sich um eine strategische Entscheidung der Beklagten zur Verwendung der Software gehandelt hat, ist der Beklagten das Verhalten der Entscheidungsträger nach § 31 BGB zuzurechnen.Aus diesen Gründen steht fest, dass die Beklagte die Klagepartei als Erwerberin des streitgegenständlichen Fahrzeugtyps vorsätzlich sittenwidrig geschädigt (ebenso OLG Stuttgart, Urteil vom 13.04.2021 - 16a U 718/20 Rn. 40; OLG Frankfurt, Urteil vom 24.02.2021 - 4 U 257/19 Rn. 25; OLG Koblenz, NZV 2021, 623 Rn. 32; s. a. BGH, Urteil vom 16.12.2021 - VII ZR 389/21 auf OLG Celle, Urteil vom 31.03.2021 - 7 U 27/20). Damit steht der Klagepartei aus der Vorschrift des § 826 BGB ein Anspruch auf Rückerstattung des Kaufpreises Zugum-Zug gegen Rückgabe und Rückübereignung des streitgegenständlichen Fahrzeugs zu.f) Allerdings hat sich die Klagepartei die Vorteile anrechnen zu lassen, die aus der zwischenzeitlichen Nutzung des Fahrzeugs resultieren. Dieser ist Rahmen der vom "Dieselskandal" betroffenen Fälle nach der Auffassung aller Zivilsenate des OLG Bamberg auf der Grundlage einer durchschnittlichen Gesamtfahrleistung von maximal 250.000,00 km zu berechnen (vgl. Senat, Beschluss vom 17. September 2019, 3 U 53/19; vgl. auch OLG Stuttgart, MDR 2000, 1315; OLG Celle, Urteil vom 10. Januar 2002, 11 U 108/01; OLG Düsseldorf, Urteil vom 23. Oktober 2006, I-1 U 67/06 und OLG Karlsruhe, NJW 2003, 1950 f.). Diese ist auch vorliegend zugrunde zu legen, für eine abweichende Schätzung (§ 287 ZPO) bestehen keine ausreichenden Anhaltspunkte.Der Nutzungsvorteil beläuft sich auf dieser Grundlage bei einer Nutzung von 68.277 km auf 14.531,10 €. Dieser ist vom Kaufpreis von 51.614,70 € abzuziehen, so dass noch ein Anspruch in Höhe von 37.083,60 € verbleibt, den die Beklagte an die Klagepartei Zugum-Zug gegen Rückgabe des Fahrzeugs zu zahlen hat. Hinsichtlich des weitergehenden Anspruchs bleibt die Berufung ohne Erfolg.2. Der Zinsanspruch besteht ab dem Zeitpunkt der Rechtshängigkeit, § 291 BGB.3. Die Voraussetzungen für einen Annahmeverzug liegen seit dem Eingang des Berufungsantrags vor. Mit dem Berufungsantrag hat die Klagepartei die Rücknahme des streitgegenständlichen Fahrzeugs in geeigneter Weise gem. § 293 BGB angeboten. Die verhältnismäßig geringfügige Zuvielforderung in der Hauptsache hindert vorliegend die Wirksamkeit des Angebots nicht (BGH NJW 2020, 1962 Rn. 85).4. Ohne Erfolg bleibt die Berufung jedoch hinsichtlich der Freistellung von vorgerichtlichen Rechtsanwaltskosten.Hinsichtlich dieser Kosten setzt ein Freistellungsanspruch denknotwendig voraus, dass die Klagepartei ihren Prozessbevollmächtigten Gebühren wegen einer vorgerichtlichen Tätigkeit auch schuldet (BGH NJW-RR 2021, 1070). Dies ist vom Auftragsumfang abhängig, den die Klagepartei zur Begründung ihres Erstattungsanspruchs substantiiert darzulegen hat. Das erstinstanzliche Vorbringen die Klageparteiseite erschöpft sich darin, dass diese Kosten durch die Beauftragung im vorgerichtlichen Bereich angefallen seien. Damit hatte die Klägerseite offensichtlich keinen schlüssigen Sachvortrag unterbreitet.III.1. Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO.2. Die Entscheidung über die vorläufige Vollstreckbarkeit ergibt sich aus § 708 Nr. 10, 711, 713 ZPO.3. Die Voraussetzungen für eine Zulassung der Revision (§ 543 Abs. 2 S. 1 Nr. 1 ZPO) liegen nicht vor. Das Gericht weicht von der Rechtsprechung des BGH oder anderer Obergerichte nicht ab. Es liegt weder ein Fall von grundsätzlicher Bedeutung vor noch erfordert die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Revisionsgerichts. Aus diesen Gründen war auch eine Rückübertragung auf den Senat nicht veranlasst (§ 526 Abs. 2 Nr. 1 ZPO).Verkündet am 12.01.2022
+			
+			
+			
+			Permalink: https://openjur.de/u/2453700.html (https://oj.is/2453700)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate9
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

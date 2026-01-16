@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBaden-WürttembergOrdentliche GerichtsbarkeitOLG StuttgartRechtsprechungUrteil vom 30.06.2020 - 10 U 8/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Stuttgart, Urteil vom 30.06.2020 - 10 U 8/20
+                      m. Fundstelle
+                      OLG Stuttgart, Urteil vom 30.06.2020 - 10 U 8/20 = openJur 2021, 27400
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Stuttgart, Urteil vom 30.06.2020 - 10 U 8/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 27400
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Auf die Berufung der Beklagten wird das Urteil des Landgerichts Stuttgart vom 10.12.2019, Az. 24 O 185/19, abgeändert. Die Klage wird abgewiesen.2. Die Berufung der Klägerin gegen das Urteil des Landgerichts Stuttgart vom 10.12.2019, Az. 24 O 185/19, wird zurückgewiesen.3. Die Klägerin hat die Kosten des Rechtsstreits zu tragen.4. Das Urteil ist vorläufig vollstreckbar. Das in Ziffer 1 genannte Urteil des Landgerichts Stuttgart ist ohne Sicherheitsleistung vorläufig vollstreckbar. Die Klägerin kann die Vollstreckung durch 110 % des zu vollstreckenden Betrages abwenden, wenn die Beklagte nicht ihrerseits Sicherheit in gleicher Höhe leistet.5. Die Revision gegen dieses Urteil wird zugelassen.BeschlussDer Streitwert wird für das Berufungsverfahren auf 24.949,42 EUR festgesetzt.  
+				Gründe
+				I.Die Klägerin verlangt Schadensersatz wegen vorsätzlicher sittenwidriger Schädigung im Zusammenhang mit dem Erwerb eines von der Beklagten hergestellten Kraftfahrzeugs.1.Die Klägerin kaufte am 25.10.2011 ein Fahrzeug der Marke Audi mit der Fahrzeugidentifikationsnummer ... und einem Kilometerstand von 0 km zu einem Kaufpreis von 34.913,99 EUR, in dem ein von der Beklagten entwickelter und hergestellter Dieselmotor der Baureihe EA 189 verbaut ist. Zum Zeitpunkt der mündlichen Verhandlung vor dem Senat wies das Fahrzeug eine Laufleistung von 85.621 km auf.Für das Fahrzeugmodell lag zum Zeitpunkt des Inverkehrbringens des streitgegenständlichen Fahrzeugs durch die Beklagte wie zum Zeitpunkt des Erwerbs durch den Kläger eine EG-Typgenehmigung vor. Die Motorsteuergerätesoftware verfügte über eine Fahrzykluserkennung; diese erkennt, wenn das Fahrzeug auf dem Prüfstand den Neuen Europäischen Fahrzyklus (NEFZ) durchfährt. Die Software weist zwei unterschiedliche Betriebsmodi auf. Im NEFZ schaltet sie in den Modus 1, in dem es zu einer höheren Abgasrückführungsrate und zu einem verminderten Ausstoß von Stickoxiden (NOx) kommt. Außerhalb des NEFZ wird das Fahrzeug im Modus 0 betrieben.Mitte Oktober 2015 ordnete das Kraftfahrt-Bundesamt (KBA) gegenüber der Beklagten den Rückruf von 2,4 Millionen betroffenen Fahrzeugen an und vertrat die Auffassung, dass es sich bei der in den Fahrzeugen verwendeten Software um eine unzulässige Abschalteinrichtung handelt. Es ordnete an, die entsprechende Software aus allen Fahrzeugen zu entfernen und geeignete Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit zu ergreifen.Mit verschiedenen zwischen dem 27. Januar 2016 und dem 20. Dezember 2016 erteilten Bestätigungen hat das KBA sämtliche betroffenen Fahrzeug- und Motorvarianten, darunter auch den streitgegenständlichen Fahrzeugtyp, unter der Auflage freigegeben, dass ein von der Beklagten entwickeltes Software-Update der Motorsteuerungsgerätesoftware installiert wird. Das Software-Update wurde bei dem streitgegenständlichen Fahrzeug durchgeführt.Wegen der weiteren Einzelheiten des Sach- und Streitstands sowie der Anträge erster Instanz wird auf den Tatbestand des angefochtenen Urteils Bezug genommen.2.Das Landgericht hat der auf Schadensersatz - in Form der Zahlung von 34.913,00 EUR nebst Zinsen in Höhe von 4 % vom 25.10.2011 bis zum 22.07.2019 und in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 23.07.2019 Zug um Zug gegen Rückgabe und Übereignung des streitgegenständlichen Fahrzeugs sowie Freistellung von außergerichtlichen Kosten Höhe von 1.358,86 EUR - sowie auf Feststellung des Annahmeverzugs der Beklagten mit der Rücknahme des Fahrzeugs gerichteten Klage teilweise stattgegeben. Die Beklagte wurde zur Zahlung von 23.467,65 EUR nebst Zinsen i.H.v. 5 Prozentpunkten über dem Basiszinssatz seit dem 23.07.2019 an die Klägerin Zug um Zug gegen Rückgabe und Übereignung des streitgegenständlichen Fahrzeugs verurteilt. Weiter wurde festgestellt, dass sich die Beklagte mit der Rücknahme des Fahrzeugs in Annahmeverzug befindet. Ferner wurde die Beklagte verurteilt, die Klägerin von außergerichtlichen Kosten in Höhe von 1.242,84 EUR freizustellen. Im Übrigen wurde die Klage abgewiesen.Zur Begründung hat das Landgericht im Wesentlichen angeführt:Der Klägerin stehe gegen die Beklagte ein Anspruch auf Schadensersatz in Höhe von 23.467,65 EUR gemäß §§ 826, 31, 831 BGB zu. Die Voraussetzungen des § 826 BGB seien gegeben.Allerdings sei von dem Kaufpreis, der Grundlage für die Berechnung des Schadens sei, eine Nutzungsentschädigung in Höhe von 11.446,34 EUR abzuziehen, die ausgehend von einer Gesamtlaufleistung von 250.000 km berechnet sei, so dass der Schadensersatzanspruch 23.467,65 EUR betrage. Deliktszinsen seien im vorliegenden Fall nicht zuzusprechen, weil zum Zeitpunkt der Zahlung als dem maßgeblichen Zeitpunkt für den Zinsbeginn nicht vorgetragen sei.Die klägerischen Ansprüche seien nicht verjährt. Es könne keine Kenntnis oder grob fahrlässige Unkenntnis der Klägerin im Jahr 2015 von den den Anspruch begründenden Umständen und der Person des Schuldners angenommen werden. Aus kapitalmarktrechtlichen Ad-hoc-Mitteilungen folge nichts in Bezug auf das streitgegenständliche Fahrzeug.Wegen der weiteren Einzelheiten der Begründung wird auf die Entscheidungsgründe des angefochtenen Urteils verwiesen.Hiergegen wenden sich beide Parteien mit ihrer Berufung.Die Klägerin, die sich ursprünglich gegen den Abzug eines Nutzungsersatzes im Wege eines Vorteilsausgleichs gewandt hatte mit der Begründung, die Beklagte habe deliktisch gehandelt, hat in der mündlichen Verhandlung vor dem Senat am 23.06.2020 nur noch die Anrechnung einer geringeren Nutzungsentschädigung von 9.964,57 EUR begehrt. Das Landgericht habe zumindest die Gesamtlaufleistung mit 250.000 km zu niedrig angesetzt, angemessen seien 500.000 km. Deliktszinsen seien geschuldet.Die Klägerin hat zuletzt beantragt:I. Unter Abänderung des am 10.12.2019 verkündete Urteil des Landgerichts Stuttgart (Az. 1. Instanz: 24 O 185/19) wird die Beklagte und Berufungsbeklagte verurteilt, Zug um Zug gegen Übereignung des Fahrzeugs der Marke Audi mit der Fahrgestellnummer ... an die Klägerin und Berufungsklägerin den Kaufpreis in Höhe von 34.913,99 Euro abzüglich eines ins Ermessen des Gerichts zu stellenden Nutzungsentschädigungsbetrages nebst Zinsena. in Höhe von 4% aus 34.913,99 Euro vom 25.10.2011 bis zum 22.07.2019 sowieb. in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz aus 29.565,17 EUR seit dem 23.07.2019zu zahlen.II. Es wird festgestellt, dass sich die Beklagte und Berufungsbeklagte mit der Rücknahme des Fahrzeugs gemäß vorstehender Ziffer 1. in Annahmeverzug befindet.III. Die Beklagte und Berufungsbeklagte wird verurteilt, den Kläger und Berufungskläger von den Kosten des außergerichtlichen Vorgehens in Höhe von 1.358,86 Euro freizustellen.Die Beklagte hat beantragt:Die Berufung der Klägerin zurückzuweisen.Zu ihrer eigenen Berufung beantragt die Beklagte,das am 10. Dezember 2019 verkündete Urteil des Landgerichts Stuttgart, 24 O 185/19, im Umfang der Beschwer der Beklagten abzuändern und die Klage vollumfänglich abzuweisen.Die Klägerin beantragt,die Berufung der Beklagten zurückzuweisen.Die Beklagte bringt zur Begründung ihrer Berufung vor:Es fehle bereits am Schaden. Spätestens nach der Durchführung des Updates sei die mit der Klage beanstandete Umschaltlogik in dem Fahrzeug nicht mehr vorhanden. Das Landgericht habe fehlerhaft einen Kausalzusammenhang angenommen. Der Kausalitätsnachweis sei nicht geführt.Bezüglich der Einzelheiten des Sach- und Streitstandes zweiter Instanz wird auf die gewechselten Schriftsätze nebst Anlagen und das Protokoll der mündlichen Verhandlung verwiesen.II.Die Berufungen sind zulässig. In der Sache hat jedoch nur die Berufung der Beklagten Erfolg. Die Berufung der Klägerin ist unbegründet. Der Klägerin steht kein durchsetzbarer Anspruch gegen die Beklagte auf Zahlung von Schadensersatz wegen des Erwerbs des mit dem Motor EA 189 ausgestatteten Fahrzeugs zu.1.Das mit dem Motor EA 189 ausgestattete streitgegenständliche Fahrzeug war zwar bei seinem Inverkehrbringen durch die Beklagte mit einer unzulässigen Abschalteinrichtung i.S.d. Art. 5 Abs. 2 S. 1 der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20.06.2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.06.2007; nachfolgend: VO 715/2007/EG) versehen. Aufgrund dieser unzulässigen Abschalteinrichtung drohte der Widerruf der erteilten, aber lediglich formal wirksamen EG-Typgenehmigung und in der Folge die Betriebsuntersagung oder -beschränkung auf öffentlichen Straßen gem. § 5 Abs. 1 FZV (vgl. ausführlich BGH, Beschluss vom 8. Januar 2019 - VIII ZR 225/17 Rn. 18 ff.; Urteil vom 25. Mai 2020 - VI ZR 252/19 Rn. 17 ff.).Das Verhalten der Beklagten - das Inverkehrbringen des Fahrzeugs mit dem Dieselmotor EA 189 mit der unzulässigen Abschalteinrichtung - stellt in objektiver und subjektiver Hinsicht eine vorsätzliche sittenwidrige Schädigung gemäß §§ 826, 31 BGB dar (vgl. ausführlich BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 Rn. 16 ff.).2.Dem Anspruch steht jedoch gemäß § 214 BGB die von der Beklagten erhobene Einrede der Verjährung entgegen. Die Beklagte ist daher berechtigt, die Leistung von Schadensersatz zu verweigern.a) Die Verjährung des Anspruchs aus § 826 ZPO richtet sich ebenso wie die Verjährung eines Anspruchs aus § 823 Abs. 1 oder Abs. 2 BGB nach §§ 195, 199 BGB. Die Verjährungsfrist beträgt drei Jahre und beginnt mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger von den den Anspruch begründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste. Für das Vorliegen der tatsächlichen Voraussetzungen der Verjährungseinrede ist derjenige darlegungs- und beweisbelastet, der sich auf Verjährung beruft, hier also die Beklagte.Der Schadensersatzanspruch der Klägerin ist bereits mit dem Erwerb des Fahrzeugs im Jahr 2013 entstanden(vgl. Senat, Urteil vom 24. September 2019 - 10 U 11/19, juris Rn. 44 ff.; Urteil vom 26. November 2019 - 10 U 154/19, juris Rn. 43 ff.). Zu diesem Zeitpunkt hatte sie aber noch keine Kenntnis vom Bestehen des Anspruchs und der Person des Schuldners.b)aa) Nach der ständigen Rechtsprechung des Bundesgerichtshofs, die auf der Rechtsprechung zu § 852 BGB a.F. aufbaut, liegt die erforderliche Kenntnis im Allgemeinen vor, wenn dem Geschädigten die Erhebung einer Schadensersatzklage, sei es auch nur in Form der Feststellungsklage, erfolgversprechend, wenn auch nicht risikolos, möglich ist. Es ist weder notwendig, dass der Geschädigte alle Einzelumstände kennt, die für die Beurteilung möglicherweise Bedeutung haben, noch muss er bereits hinreichend sichere Beweismittel in der Hand haben, um einen Rechtsstreit im Wesentlichen risikolos führen zu können (vgl. nur BGH, Urteil vom 3. Juni 2008 - XI ZR 319/06 Rn. 27 mit Nachw. d. älteren Rspr.; Urteil vom 12. Mai 2009 - VI ZR 294/08 Rn. 17; Urteil vom 8. Mai 2014 - I ZR 217/12, BGHZ 201, 129, juris Rn. 38; Versäumnisurteil vom 17. Juni 2016 - V ZR 134/15 Rn. 10). Die Erhebung einer Klage muss bei verständiger Würdigung in einem Maße Erfolgsaussicht haben, dass sie zumutbar ist (BGH, Urteil vom 11. September 2014 - III ZR 217/13 Rn. 15; Urteil vom 28. Oktober 2014 - XI ZR 348/13, BGHZ 203, 115, juris Rn. 49; Urteil vom 28. Oktober 2014 - XI ZR 17/14 Rn. 46; Urteil vom 7. November 2014 - V ZR 309/12 Rn. 14; Urteil vom 8. November 2016 - VI ZR 594/15 Rn. 11; BAG, Urteil vom 13. März 2013 - 5 AZR 424/12, BAGE 144, 322, juris Rn. 24). Nicht ausreichend ist die Kenntnis von Anknüpfungstatsachen. Hinzukommen muss vielmehr, dass der Geschädigte aus den Anknüpfungstatsachen den Schluss auf eine Pflichtverletzung durch eine bestimmte Person zieht oder infolge grober Fahrlässigkeit nicht gezogen hat (BGH, Versäumnisurteil vom 17. Juni 2016 - V ZR 134/15 Rn. 10).Der Verjährungsbeginn setzt grundsätzlich nicht voraus, dass der Gläubiger aus den ihm bekannten Tatsachen die zutreffenden rechtlichen Schlüsse zieht (BGH, Urteil vom 8. Mai 2014 - I ZR 217/12, BGHZ 201, 129, juris Rn. 38; Urteil vom 28. Oktober 2014 - XI ZR 348/13, BGHZ 203, 115, juris Rn. 49; Beschluss vom 16. Dezember 2015 - XII ZB 516/14, BGHZ 208, 210, juris Rn. 26; Urteil vom 4. Juli 2017 - XI ZR 562/15, BGHZ 215, 172, juris Rn. 86; Urteil vom 4. Juli 2017 - XI ZR 233/16 Rn. 94; BAG, Urteil vom 13. März 2013 - 5 AZR 424/12, BAGE 144, 322, juris Rn. 24). Der Gläubiger muss zumindest aufgrund der Tatsachenlage beurteilen können, ob eine rechtserhebliche Handlung von dem üblichen Vorgehen abweicht (Spindler in BeckOK BGB, Stand: 1.5.2020, § 199 Rn. 26). Ausnahmsweise kann die Rechtsunkenntnis des Gläubigers den Verjährungsbeginn aber hinausschieben, wenn eine unsichere und zweifelhafte Rechtslage vorliegt, die selbst ein rechtskundiger Dritter nicht zuverlässig einzuschätzen vermag. In diesen Fällen fehlt es an der Zumutbarkeit der Klageerhebung als übergreifender Voraussetzung für den Verjährungsbeginn. Das gilt erst recht, wenn der Durchsetzung des Anspruchs eine gegenteilige höchstrichterliche Rechtsprechung entgegensteht (BGH, Urteil vom 1. Juni 2011 - VIII ZR 91/10 Rn. 23 m.w.N.; Urteil vom 28. Oktober 2014 - XI ZR 348/13, BGHZ 203, 115, juris Rn. 35; Urteil vom 4. Juli 2017 - XI ZR 562/15, BGHZ 215, 172, juris Rn. 86).bb)Ausgehend von diesen Grundsätzen lagen die Voraussetzungen für eine Klageerhebung bereits im Jahr 2015 vor.(1)Die Beklagte hat in ihrer Klageerwiderung auf Seiten 15 - 31 vorgetragen, dass die Klägerin bereits im Jahr 2015 positive Kenntnis, jedenfalls aber grob fahrlässige Unkenntnis von der im streitgegenständlichen Fahrzeug verbauten Umschaltlogik sowie aller anspruchsbegründenden Tatsachen gehabt habe. Die Klägerin in ihrer Replik nur in aller Kürze Stellung genommen. Sie bestreitet, ausreichende Kenntnis von den maßgeblichen anspruchsbegründenden Umständen gehabt zu haben. Es könne auch im Jahr 2016 von einer solchen Kenntnis keine Rede sein. Nachdem die anspruchsbegründenden Umstände höchst streitig gewesen seien und keine einheitliche Rechtsprechung bestanden hätte, könne nicht von der Kenntnis eines normalen Verbrauchers ausgegangen werden. Ermittlungen und Feststellungen im Jahr 2015 hätten die USA betroffen. Die Lage in Deutschland sei noch völlig unklar gewesen, es habe kein Ermittlungsverfahren gegeben. Das Bestreiten der Klägerin ist unzureichend und liegt neben der Sache. Es fehlt jeder Vortrag dazu, dass und warum die Klägerin die Betroffenheit ihres Fahrzeugs vom sogenannten Abgasskandal noch nicht einmal grob fahrlässig nicht erkannt haben will, sie z.B. von der Möglichkeit eine PIN-Abfrage, die die VW AG zum Zweck der Abklärung einer Betroffenheit vom "Diesel-Skandal" eingerichtet und publiziert hat, keinen Gebrauch gemacht hat. Es muss daher auf der Grundlage des Vortrags der Beklagten davon ausgegangen werden, dass zumindest grob fahrlässige Unkenntnis von den den Anspruch begründenden Umständen vorlag.(2)Insbesondere stand dem Verjährungsbeginn nicht die fehlende Zumutbarkeit einer Klageerhebung im Jahr 2015 entgegen. Eine Unzumutbarkeit ergibt sich weder aus der "schleppenden Aufarbeitung des Abgas-Skandals und seiner Ausmaße durch die Beklagte" noch aus der sich "anfangs sehr zögerlich entwickelnden Instanzenrechtsprechung". Die Beklagte hat die breite Öffentlichkeit und damit nicht nur die potentiellen Erwerber von Kraftfahrzeugen, die mit dem Motor EA 189 ausgestattet sind, sondern auch die Besitzer solcher Fahrzeuge, in Form von Pressemitteilungen ab Ende September 2015 bis Mitte Oktober 2015 darüber informiert, dass dieser Motor mit einer Abschalteinrichtung versehen ist, die vom KBA als nicht ordnungsgemäß angesehen wird und daher zu entfernen ist (vgl. Senat, Urteil vom 26. November 2019 -10 U 199/19, juris Rn. 54; Urteil vom 26. November 2019 - 10 U 338/19, juris Rn. 52). Zeitgleich war der sog. Diesel- oder Abgasskandal Gegenstand einer sehr umfassenden Presseberichterstattung. Die Öffentlichkeit wurde ferner durch das KBA über das Vorhandensein einer unzulässigen Abschalteinrichtung bei Fahrzeugen mit dem Dieselmotor EA 189 informiert. Die Beklagte schaltete Anfang Oktober 2015 eine Website frei, auf der durch Eingabe der FIN überprüft werden kann, ob ein konkretes Fahrzeug mit der Abschalteinrichtung versehen ist, also von dem sog. Dieselskandal betroffen ist. Dies wurde ebenfalls in einer Pressemitteilung bekannt gegeben und war, wie allgemein bekannt ist, Gegenstand einer umfangreichen Presseberichterstattung (vgl. Senat, Urteil vom 7. April 2020 - 10 U 455/19, juris Rn. 51; Urteil vom 14. April 2020 - 10 U 466/19, juris Rn. 43).(3)Im Jahr 2015 stand keine höchstrichterliche Rechtsprechung zur Frage, ob die Beklagte den Erwerbern von Kraftfahrzeugen mit dem Motor EA 186 deliktisch haftet, der klageweisen Geltendmachung eines solchen Anspruchs entgegen. Vielmehr gab es zu diesem Zeitpunkt noch keine obergerichtlichen oder höchstrichterlichen Entscheidungen zu dieser Frage. Alleine der Umstand, dass offene, bislang höchstrichterlich nicht entschiedene Rechtsfragen maßgeblich sind, macht eine Klageerhebung nicht unzumutbar. Der Rechtsweg dient gerade dazu, solche Fragen zu klären (Piekenbrock in BeckOGK, Stand: 1.2.2020, § 199 BGB Rn. 129). Ein gesetzlich vorgesehenes Verfahren zur Klärung einer entscheidungserheblichen Frage ist stets zumutbar. Zuwarten allein lässt keine Klärung der Rechtslage erwarten (BAG, Urteil vom 13. März 2013 - 5 AZR 424/12, BAGE 144, 322, juris Rn. 27; Senat, Urteil vom 7. April 2020 - 10 U 455/19, juris Rn. 52; Urteil vom 14. April 2020 - 10 U 466/19, juris Rn. 49).Eine unsichere oder zweifelhafte Rechtslage besteht nicht schon dann, wenn noch keine höchstrichterliche Entscheidung einer bestimmten Frage vorliegt. Verlangt wird vielmehr ein "ernsthafter Meinungsstreit in Rechtsprechung und Schrifttum" (BGH, Urteil vom 7. Dezember 2010 - XI ZR 348/09 Rn. 21; Urteil vom 24. September 2013 - I ZR 187/12 Rn. 41). Es gab 2015 aber auch keinen derartigen "ernsthaften" Meinungsstreit in Rechtsprechung und Schrifttum bezüglich der Frage einer Haftung der Beklagten wegen des Motors EA 186. Unerheblich ist, ob die Rechtslage möglicherweise nach 2015 unsicher oder zweifelhaft geworden ist. Die Verjährungsfrist wird nicht verlängert, wenn die Rechtslage erst unsicher wird, nachdem die Verjährung zu laufen begonnen hat (BGH, Urteil vom 28. Oktober 2014 - XI ZR 348/13, BGHZ 203, 115, juris Rn. 45; Senat, Urteil vom 7. April 2020 - 10 U 455/19, juris Rn. 53; Urteil vom 14. April 2020 - 10 U 466/19, juris Rn. 50).(4)Eine Unzumutbarkeit der Klageerhebung kann nicht aus den "sehr hohen Hürden" abgeleitet werden, die an eine Haftung gemäß § 826 BGB gestellt werden. Die Vorschrift ergänzt als "kleine Generalklausel" neben den Tatbeständen des § 823 Abs. 1 und Abs. 2 BGB das Deliktsrecht um einen unmittelbaren Schutz von Vermögensschäden (Förster in BeckOK BGB, Stand: 1.2.2020, § 826 vor Rn. 1; vgl. auch Wagner in MünchKomm-BGB, 7. Aufl., § 826 Rn. 4). Aus dem Wortlaut der Vorschrift ergibt sich ein abstrakt schwer zu fassender Tatbestand (so Förster in BeckOK BGB, Stand: 1.2.2020, § 826 vor Rn. 1), der durch eine Vielzahl von Fallgruppen in der Rechtsprechung konkretisiert wird. Die sich daraus ergebenden Herausforderungen bei der Rechtsanwendung führen indes nicht zur Unzumutbarkeit einer Klageerhebung im Jahr 2015. Es gibt keinen Grundsatz dahingehend, dass die Verjährung eines auf eine Generalklausel gestützten Anspruchs erst beginnt, wenn sich in der Rechtsprechung eine entsprechende Fallgruppe herausgebildet hat. Vielmehr bleibt es auch in solchen Fällen bei dem Grundsatz, dass der Beginn der Verjährungsfrist nur ausnahmsweise herausgeschoben ist, wenn die Rechtslage unsicher oder zweifelhaft ist. Dies ist nicht bereits der Fall, wenn es um die Anwendung einer "schwierigen", weil generalklauselartig gefassten Norm auf einen Sachverhalt geht, und Rechtsprechung hierzu noch nicht ergangen ist. Die Verjährung beruht auf den Gedanken des Schuldnerschutzes und des Rechtsfriedens. Zum einen soll der Schuldner davor bewahrt werden, nach längerer Zeit mit von ihm nicht mehr erwarteten Ansprüchen überzogen zu werden. Zum anderen soll die Verjährung den Gläubiger dazu veranlassen, rechtzeitig gegen den Schuldner vorzugehen, wobei es dem Gläubiger auch möglich sein muss, den Anspruch durchzusetzen (BGH, Urteil vom 15. März 2011 - VI ZR 162/10 Rn. 16; s.a. BGH, Urteil vom 30. September 2003 - XI ZR 426/01, BGHZ 156, 232, juris Rn. 53; Versäumnisurteil vom 18. Juni 2009 - VII ZR 167/08, BGHZ 181, 310, juris Rn. 15). Es widerspräche der dem Rechtsfrieden und der Rechtssicherheit dienenden Funktion des Verjährungsrechts, wenn es für die Frage des Verjährungsbeginns darauf ankäme, ob der geltend gemachte Anspruch auf eine "einfache" oder eine "schwierige" Norm gestützt wird (Senat, Urteil vom 7. April 2020 - 10 U 455/19, juris Rn. 54; Urteil vom 14. April 2020 - 10 U 466/19, juris Rn. 51).(4)Auch der Umstand, dass - wie sich im vorliegenden sowie einer Vielzahl weiterer sogenannter "Dieselverfahren" gegen die hiesige Beklagte oder andere Konzerngesellschaften des Volkswagen-Konzerns eindrücklich zeigt - das Vorliegen der einzelnen Tatbestandsvoraussetzungen für eine deliktische Haftung der Beklagten aus § 826 BGB oder § 823 Abs. 2 BGB in Verbindung mit einem Schutzgesetz im Streit steht, genügt nicht, um das Vorliegen einer unsicheren und zweifelhaften Rechtslage zu bejahen. Andernfalls ergäbe sich alleine daraus, dass eine beklagte Partei das Vorliegen der Voraussetzungen eines gegen sie geltend gemachten Anspruchs umfassend bestreitet oder dass sie über einen längeren Zeitraum das Ergehen rechtskräftiger ober- und höchstrichterlicher Entscheidungen gegen sie verhindert, ein Hinausschieben des Verjährungsbeginns. Hierfür besteht aber keine Veranlassung (Senat, Urteil vom 7. April 2020 - 10 U 455/19, juris Rn. 55; Urteil vom 14. April 2020 - 10 U 466/19, juris Rn. 52).d)Im Ergebnis ist daher festzuhalten, dass der Klägerin bereits im Jahr 2015 die Erhebung einer Klage zumutbar war. Die Verjährungsfrist begann daher mit dem Schluss des Jahres 2015 zu laufen und endete mit dem Schluss des Jahres 2018.Die Verjährung wurde nicht gemäß § 204 Abs. 1 Nr. 1a BGB dadurch gehemmt, dass sich die Klägerin vorübergehend der Musterfeststellungsklage angeschlossen hat. Denn es ist nicht dargetan und bewiesen, dass die Anmeldung bereits im Jahr 2018 erfolgte. Ausweislich der in der mündlichen Verhandlung vor dem Landgericht am 10.09.2019 vorgelegten Nachweise (GA 110/112) wurde der Klägerin erst im Juli 2019 die Anmeldung bestätigt. Die Rücknahme erfolgte am 22.07.2019. Das Datum der Anmeldung bleibt unbekannt. Die mündliche Verhandlung vor dem Senat hat keine neuen Erkenntnisse gebracht. Daher braucht die von der Beklagten aufgeworfene Rechtsfrage, ob es rechtsmißbräuchlich gewesen wäre, wenn die Klägerin sich nur zum Zwecke der Hemmung der Verjährung der Musterfeststellungsklage angeschlossen hätte, hier nicht erörtert zu werden.Die Klageerhebung erfolgte erst im Juli 2019 und konnte daher nicht mehr zur Hemmung des Laufs der Verjährungsfrist führen.III.Die Kostenentscheidung beruht auf § 97 Abs. 1 und § 92 Abs. 1 S. 1 Fall 2 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit ergibt sich aus § 708 Nr. 10 sowie § 711 S. 1 u. 2 i.V.m. § 709 S. 2 ZPO.Die Revision wird gemäß § 543 Abs. 2 S. 1 Nr. 1 und Nr. 2 ZPO zugelassen. Die Frage der Zumutbarkeit der Klageerhebung des Eigentümers eines mit einer unzulässigen Abschalteinrichtung versehenen Kraftfahrzeugs der Beklagten gegen die Beklagte im Jahr 2015 ist für zahlreiche andere rechtshängige Verfahren relevant und hat grundsätzliche Bedeutung.
+			
+			
+			
+			Permalink: https://openjur.de/u/2352945.html (https://oj.is/2352945)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate24
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

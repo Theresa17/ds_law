@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNiedersachsenOrdentliche GerichtsbarkeitLG BraunschweigRechtsprechungBeschluss vom 25.04.2017 - 11 O 3993/16
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Braunschweig, Beschluss vom 25.04.2017 - 11 O 3993/16
+                      m. Fundstelle
+                      LG Braunschweig, Beschluss vom 25.04.2017 - 11 O 3993/16 = openJur 2020, 3188
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Braunschweig, Beschluss vom 25.04.2017 - 11 O 3993/16
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 3188
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Klägerin trägt die Kosten des Verfahrens.Das Urteil ist vorläufig vollstreckbar. Die Klägerin darf die Vollstreckung durch Sicherheitsleistung in Höhe von 110 % des aufgrund des Urteils vollstreckbaren Betrages abwenden, wenn nicht die Beklagte vor der Vollstreckung in Höhe von 110 % des jeweils zu vollstreckenden Betrages Sicherheit leistet. 
+				Tatbestand
+				Die Klägerin macht gegen die Beklagte als Herstellerin deliktische Haftungsansprüche in Verbindung mit einem PKW-Kauf geltend.Am 01.04.2011 erwarb die Klägerin bei einer selbständigen Händlerin einen von der Beklagten hergestellten PKW VW Polo 1.2 TDI zum Kaufpreis von 14.100 €. Das Fahrzeug ist mit einem Dieselmotor des Typs EA189 EU5 ausgestattet. Es ist uneingeschränkt gebrauchstauglich und verkehrssicher.Das Fahrzeug verfügt über eine Typengenehmigung nach EU5. Die Einhaltung der maßgeblichen NOX-Emissionswerte hängt davon ab, in welchem Ausmaß Abgase aus dem Auslassbereich des Motors über ein Abgasrückführungsventil in den Ansaugtrakt des Motors zurückgeleitet werden. Im verfahrensgegenständlichen Fahrzeug  läßt die das Abgasrückführungsventil steuernde Software des Motorsteuerungsgeräts eine Abgasrückführung im notwendigen Umfang nur unter den im normalen Straßenbetrieb niemals vorkommenden Bedingungen des zur Erlangung der Typengenehmigung durchgeführten gesetzlich vorgeschriebenen Testlaufs, der aus fünf exakt vorgegebenen synthetischen Fahrkurven besteht, zu. Ergo werden im normalen Straßenbetrieb die maßgeblichen NOX-Grenzwerte überschritten.Über die vorgenannten Umstände informierte die Beklagte die Öffentlichkeit im Herbst 2015, die Klägerin schriftlich im Februar 2016.Das Kraftfahrtbundesamt (KBA) erkannte in der genannten Software eine unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2, Art. 3 Ziff. 10 der Verordnung (EG) Nr. 715/2007 und forderte von der Beklagten, dass unter anderem für Fahrzeuge des verfahrensgegenständlichen Typs eine technische Lösung erarbeitet wird, die dafür sorgt, dass die gesetzlichen Vorgaben eingehalten werden. Mit Bescheid vom 12.08.2016 hat das KBA die daraufhin von der Beklagten erarbeitete technische Lösung  - eine Änderung der Applikationsdaten - freigegeben und bestätigt, dass keine unzulässige Abschalteinrichtung festgestellt worden sei  sowie, dass die ursprünglich angegebenen Verbrauchs- und Leistungswerte weiterhin eingehalten werden würden.  Im September 2016 wurde die Klägerin von der Beklagten angeschrieben, dass sie sich umgehend an einen autorisierten Vertragshändler zwecks kostenloser Umprogrammierung des Motorsteuerungsgerät des verfahrensgegenständlichen Fahrzeugs wenden möge. Kommt die Klägerin dieser Aufforderung nicht nach - so heißt es weiter - kann eine Betriebsuntersagung gem. § 5 FZV durchgeführt werden.Die Klägerin behauptet, dass die Deaktivierung der vorgenannten Software  zu einem erhöhten Verbrauch oder reduzierter Fahrleistung führen werde. Die von der Beklagten angebotene technische Lösung werde jedenfalls zu einem leicht erhöhten Kraftstoffverbrauch und möglicherweise auch zu Problemen mit dem Dieselpartikelfilter führen. Dies führe zu einem nicht näher beschriebenen Preisverfall am Markt. Die Klägerin ist der Auffassung, dass die Beklagte gem. §§ 823 Abs. 2 BGB, 263 StGB hafte, weil sie über das Vorhandensein eines Mangels getäuscht, jedenfalls nicht aufgeklärt habe. Im Übrigen sei das ganze Verhalten der Beklagten sittenwidrig, so dass diese auch nach § 826 BGB hafte. Insgesamt sei die Beklagte jedenfalls zur Zahlung von Schadensersatz in Höhe des Kaufpreises unter Anrechnung gezogener Nutzungen Zug um Zug gegen Rückgabe des verfahrensgegenständlichen Fahrzeugs verpflichtet.Die Klägerin beantragt,1. die Beklagte zu verurteilen, an die Klägerin 7.958 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweils gültigen Basiszinssatz seit dem 06.06.2016 zu zahlen, Zug um Zug gegen Rückgabe des Pkw VW Polo mit der FIN WVWZZZ6RBY033700;2. festzustellen, dass die Beklagte sich mit der Rücknahme des im Antrag zu Ziff. 1 genanntenFahrzeuges in Annahmeverzug befindet und3. die Beklagte zu verurteilen, die Klägerin von der Gebührenforderung der Rechtsanwalts-und Notarkanzlei XXX in Höhe von 729,23 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen. 
+				Gründe
+				Die zulässige Klage ist nicht begründet.1. Der Klägerin steht gegen die Beklagte der geltend gemachte Schadensersatzanspruch nicht zu.a) Anspruch aus §§ 823 Abs. 2 BGB, 263 StGB:Ein Anspruch aus §§ 823 Abs. 2 BGB, 263 StGB scheidet aus, da die Klägerin keine im Sinne von § 263 Abs. 1 StGB strafrechtlich relevante Täuschung dargelegt hat:Eine aktive Täuschung durch ausdrückliche oder konkludente Erklärung ist nicht dargelegt.Eine strafrechtlich relevante Täuschung durch Unterlassen wiederum setzt eine Garantenstellung gem. § 13 Abs. 1StGB nämlich voraus, dass der Täter als „Garant“ für die Abwendung des Erfolgs einzustehen hat, die es rechtfertigt, ein Unterlassen dem aktiven Tun gleichzustellen. Die Erfolgsabwendungspflichten beruhen auf dem Grundgedanken, dass eine bestimmte Person - zumal in besonderer Weise - zum Schutz des gefährdeten Rechtsguts aufgerufen ist und dass alle übrigen Beteiligten auf das helfende Eingreifen dieser Person vertrauen und vertrauen dürfen (OLG Bamberg, Beschluss vom 08.03.2013, 3 Ws 4/12, zit. nach juris, Rn. 18.).Umstände, aufgrund derer die Klägerin auf das helfende Eingreifen der Beklagten vertrauen durfte, sind nicht ersichtlich:Zum einen fand ein Kontakt fand allenfalls über die Werbung der Beklagten statt. Werbung ist ein einseitig den Absatzinteressen des Werbenden dienendes Instrument und ist daher ungeeignet, ein - zumal besonderes - Vertrauensverhältnis zu begründen.Zum anderen ist das Verhältnis zwischen Hersteller und Verbraucher ohnehin von entgegengesetzten Interessen geprägt - jeder möchte möglichst viel für sich rausholen - und daher nicht vertrauensbegründend. Etwas anderes mag gelten, wenn es um die Aufklärung über wertbildende Faktoren von ganz besonderem Gewicht geht (So, allerdings im „engeren“ Verhältnis zwischen den Parteien eines Kaufvertrages: BayOblG, Beschluss vom 09.12.1993, 3 St RR 127/93, zit. nach juris, Rn. 24, 25; ausdrücklich ist dort auch von einem wucherhaften Missverhältnis von Leistung und Gegenleistung die Rede.). Diese Frage kann letztlich dahinstehen. Es ist nämlich nicht dargelegt, dass die Fehlerhaftigkeit der verfahrensgegenständlichen Motorsoftware am Markt etwa auch vor dem Hintergrund der mit der seitens der Beklagten angebotenen technischen Lösung einen wertbildenden Faktor von ganz besonderem Gewicht darstellt, dergestalt, dass es zu einem erheblichen Preisverfall der davon betroffenen Fahrzeuge gekommen ist. Eine entsprechende vereinzelte Darstellung wäre der Klägerin ggf. auch möglich gewesen, da der Kraftfahrzeugmarkt generell durch eine erhebliche Transparenz gekennzeichnet ist (vgl. zB die monatlichen sog. „Schwacke-Listen“) und die Preisentwicklung der von der verfahrensgegenständlichen Software betroffenen Fahrzeuge zudem unter besonderer medialer Aufmerksamkeit steht . Die Einholung des von der Klägerin angebotenen Sachverständigengutachten liefe vor diesem Hintergrund  auf einen unzulässigen Ausforschungsbeweis hinaus.24Auch aus pflichtwidrigem Vorverhalten Tun (Ingerenz) ergibt sich vorliegend schließlich keine Garantenpflicht zugunsten der Klägerin. Eine Pflichtwidrigkeit löst im Einzelfall nämlich nur dann eine Garantenpflicht aus, wenn die verletzte Norm gerade dem Schutz des fraglichen Rechtsgutes zu dienen bestimmt ist (Schönke/Schröder/Stree/Bosch, StGB, 28. Aufl., § 13, Rn. 35a mwN). Als pflichtwidriges Vorverhalten der Verantwortlichen der Beklagten kommt vorliegend allein ein Verstoß gegen die maßgeblichen europarechtlichen Normen, die den Einsatz von  Abschalteinrichtungen verbieten, in Betracht. Diese dienen indes ersichtlich nicht dem Schutz der hier allein betroffenen Vermögensinteressen der Klägerin, sondern gesamtgesellschaftlichen Zielen, nämlich der Weiterentwicklung des Binnenmarkts durch Harmonisierung der technischen Vorschriften über die Typgenehmigung von Kraftfahrzeugen sowie der Sicherstellung eines hohen Umweltschutzniveaus.b) Anspruch aus § 8226 BGB:Ein Anspruch aus § 826 BGB, namentlich eine sittenwidrige Schädigung ist ebenfalls nicht dargelegt:Ob schon der Verstoß gegen die VO EG 715/2007 an sich sittenwidrig im Sinne von § 826 BGB ist, kann dahinstehen, da die Verordnung nicht dem Schutz der hier geltend gemachten individuellen Vermögensinteressen dient (s.o.).28Als Ansatzpunkt für eine Haftung nach § 826 BGB kommt nach dem Vortrag der Klägerin schließlich allenfalls noch das Verschweigen der verfahrensgegenständlichen Software in Betracht. Das Verschweigen eines Umstandes aber rechtfertigt nicht ohne weiteres den Vorwurf eines Sittenverstoßes, sondern nur dann, wenn eine Seite der anderen zu entsprechender Offenbarung verpflichtet ist. Eine Offenbarungspflicht entsteht, wenn die andere Seite nach Treu und Glauben mit Rücksicht auf die Verkehrssitte eine Mitteilung erwarten durfte. Selbst innerhalb einer - vorliegend noch nicht einmal bestehenden - vertraglichen Beziehung darf der Vertragspartner nach Treu und Glauben nicht eine vollumfängliche Information über alle Belange des Geschäftes erwarten; es besteht also keine allgemeine Offenbarungspflicht. Im Vertragsrecht ist zunächst jedes Privatrechtssubjekt für die Verteidigung seiner Interessen selbst verantwortlich. Das gilt insbesondere für den Kaufvertrag, der von gegensätzlichen Interessen geprägt ist: Jeder möchte möglichst viel für sich selbst rausholen. Die Grenze des nach der Verkehrsauffassung Hinnehmbaren ist erst dann überschritten ist, wenn es um erhebliche wertbildende Umstände beim Kaufvertragsabschluss geht (so ausdrücklich Palandt/Sprau, BGB, 76. Aufl., § 20 Rn. 20; Bamberger/Roth, BGB,3. Aufl., § 826, Rn. 23, Fn. 148, dabei wird - zutreffend - auch auf sich ansonsten ergebende Wertungswidersprüche zu §§ 123, 124 BGB hingewiesen; im Ergebnis auch Staudinger/Oechsler, BGB, 2014, § 826, Rn. 159, der zunächst nur betreffend erhebliche Umstände eine Aufklärungspflicht annimmt, einen verborgenen Sachmangel dann als regelmäßig erheblichen Umstand bezeichnet, um dann nur Fälle aufzuzählen, in denen es um erhebliche wertbildende Faktoren geht und  im Übrigen an anderer Stelle (Rn. 149) ebenfalls auf drohende Wertungswidersprüche zu §§ 123, 124 BGB hinweist;  ähnlich auch BayObLG, Beschluss vom 09.12.1993, 3 St RR 127/93, zit. nach juris, Rn. 24, indes für die Aufklärungspflicht im Rahmen von § 263 StGB, s.o.). Vorliegend aber ist nicht substantiiert dargelegt, dass die Fehlerhaftigkeit der verfahrensgegenständlichen Motorsoftware einen wertbildenden Faktor  darstellt, dem der Markt ein ganz besonderes Gewicht beimisst. Selbst wenn zwischen den Parteien eine vertragliche Beziehung bestehen würde, hätte also keine im Fall der Nichtbeachtung einen Anspruch gem. § 826 BGB auslösende Offenbarungspflicht bestanden. In dem im Vergleich zu einer vertraglichen Beziehung noch loseren Verhältnis zwischen der Klägerin und der Beklagten muss dies erst recht oder mindestens auch gelten.2. Da die Beklagte nicht zur Zahlung von Schadensersatz gegen Rücknahme des Fahrzeugs verpflichtet ist, befindet sie sich auch nicht mit Annahme des Fahrzeugs im Verzug.3. Ein Anspruch auf Erstattung ihrer vorgerichtlichen Rechtsanwaltskosten steht der Klägerin mangels begründeter Hauptforderung ebenfalls nicht zu.4. Die prozessualen Nebenentscheidungen folgen aus §§ 91, 708 Nr. 11, 711 ZPO.5. Streitwert: Kostenstufe bis 9.000 €
+			
+			
+			
+			Permalink: https://openjur.de/u/2197382.html (https://oj.is/2197382)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert12
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

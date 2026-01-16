@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG DüsseldorfRechtsprechungUrteil vom 05.11.2020 - 16 O 256/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Düsseldorf, Urteil vom 05.11.2020 - 16 O 256/19
+                      m. Fundstelle
+                      LG Düsseldorf, Urteil vom 05.11.2020 - 16 O 256/19 = openJur 2022, 9971
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Düsseldorf, Urteil vom 05.11.2020 - 16 O 256/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 9971
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger trägt die Kosten des Rechtsstreits.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 Prozent des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten über Ansprüche des Klägers mit einem Kaufvertrag über ein von der Beklagten hergestelltes Fahrzeug.Der Kläger erwarb am 8. Juni 2018 bei der Autohaus U GmbH in Dormagen einen Personenkraftwagen VW Golf VII, 1,6 l TDI mit der Fahrzeugidentifikationsnummer W. Den Kaufpreis in Höhe von 17.130,47 EUR zahlte der Kläger vollständig.Der Pkw des Klägers verfügt über einen Dieselmotor vom Typ EA 288, dessen Motorsteuergerätesoftware unter anderem über ein sogenanntes Thermofenster verfügt. Das bedeutet, dass die Abgasrückführung in Abhängigkeit zur Umgebungstemperatur aktiv ist und bei Temperaturen ober- oder unterhalb dieses Temperaturbereiches ausgeschaltet ist.Die klagende Partei behauptet, sie habe bei ihrer Kaufentscheidung nach einem umweltfreundlichen und wertstabilen Kraftfahrzeug gesucht. Das Fahrzeug sei mit einer Abschalteinrichtung versehen. Der Kläger ist der Ansicht, die Beklagte habe ihn in seiner Kaufentscheidung arglistig getäuscht und in sittenwidriger Weise geschädigt, da die Existenz des Thermofensters verheimlicht worden sei. Überdies sei seine Kaufentscheidung durch Ausstellen der EG-Übereinstimmungsbescheinigung erheblich beeinflusst worden. Die Motorsteuerung verfüge insbesondere auch über eine Software, die erkenne, ob sich das Fahrzeug auf dem Prüfstand befindet und dabei die Abgasrückführung anders als im Straßenverkehr regelt, womit die Grenzwerte für den Stickoxid-Ausstoß auf dem Prüfstand eingehalten und im normalen Straßenverkehr aber verfehlt werden. Der Wert des Fahrzeuges sei dadurch um einen Betrag in Höhe von 3.426 EUR gemindert.Der Kläger beantragte zunächst,die Beklagte zu verurteilen, an ihn 3.426 EUR als kleinen Schadensersatz für Wertminderung des Kfz, VW 5G 133 V BM TDI 1,6 81 kw, FIN W. durch Softwaremanipulation und Dieselskandal, zuzüglich Zinsen i.H.v. 4 % p.a. aus 17.130 EUR, hilfsweise aus 3.426 EUR seit dem 5.7.2018 zu zahlen.Hilfsweise beantragt er,1. die Beklagte zu verurteilen, an den Kläger 17.130 EUR nebst Zinsen i. H. v. 4 Prozent p.a. aus 17.130 EUR seit dem 5.7.2018 bis Rechtshängigkeit, sowie ab Rechtshängigkeit i. H. v. 5 Prozentpunkten über dem Basiszinssatz zu zahlen, Zug um Zug gegen Übereignung und Übergabe des PKW VW 5G 133 V BM TDI 1,6 81 kw, FIN W. an die Beklagte,2. festzustellen, dass sich die Beklagte mit der Annahme des Angebots gemäß Ziff. 1 in Verzug befindet.Der Kläger hat die Klage in Höhe eines Betrages i. H. v. 113,09 EUR zurückgenommen.Er beantragt nunmehr noch,die Beklagte zu verurteilen, an ihn 3.426 EUR als kleinen Schadensersatz für Wertminderung des Kfz, VW 5G 133 V BM TDI 1,6 81 kw, FIN W. durch Softwaremanipulation und Dieselskandal, zuzüglich Zinsen i.H.v. 4 % p.a. aus 3.426 EUR seit dem 5.7.2018 zu zahlen.Hilfsweise beantragt er,1. die Beklagte zu verurteilen, an ihn 17.016,91 EUR abzüglich eines vom Gericht zu bestimmenden Abzuges für zurückgelegte km nebst Zinsen in Höhe von fünf Prozentpunkten über Basiszins seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Übereignung und Herausgabe des PKW VW Golf Lounge, 1,6 CLBM 81, FIN W.,2. festzustellen, dass sich die Beklagte mit der Annahme des Angebots gemäß Ziff. 1 in Verzug befindet.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte betont, dass sich die Abgasnachbehandlung in Motoren des Typs EA 288 substantiell von denen des Typs EA 189 unterscheide; insbesondere wiesen sie nicht die Umschaltlogik des letzteren Typs auf. Das bei Motoren des Typs EA 288 verwendete Thermofenster sei in absoluten Extremtemperaturen zum Motorschutz erforderlich. 
+				Gründe
+				Die Klage ist zulässig, aber unbegründet.A. Der klagenden Partei stehen keine Ansprüche gegen die Beklagte zu.I. Ein Schadensersatzanspruch des Klägers ergibt sich zunächst nicht aus § 826 BGB, weil er von der Beklagten nicht in einer gegen die guten Sitten verstoßenden Weise vorsätzlich ein Schaden zugefügt worden ist.Vorliegend hat sich die klagende Partei auf zwei verschiedene Sachverhalte berufen, die sie für eine unzulässige Vorgehensweise der Beklagten hält, nämlich die Minderung der Abgasrückführung durch das sogenannte Thermofenster sowie die Zykluserkennung und Abschalteinrichtungen beim streitgegenständlichen Dieselmotor.1. Was Ersteres angeht, ist das Inverkehrbringen des streitgegenständlichen Fahrzeugs mit diesem Thermofenster nicht als sittenwidrige Handlung zu bewerten.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Im Allgemeinen genügt es dafür nicht, dass der Handelnde eine Pflichtverletzung und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zu Tage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann. In diesem Rahmen spielen Kenntnisse, Absichten und Beweggründe des Handelnden, die die Bewertung eines Verhaltens als verwerflich rechtfertigen, eine Rolle. Bezüglich des Anstandsgefühls aller billig und gerecht Denkenden kommt es im Wesentlichen auf die berechtigten Verhaltenserwartungen im Verkehr an.Legt man diese Maßstäbe zugrunde, ist das Verhalten der Beklagten, ein mit einem sogenannten Thermofenster ausgestattetes Fahrzeug in den Verkehr zu bringen, vorliegend nicht als sittenwidrige Handlung zu bewerten. Dabei kommt es vorliegend nicht darauf an, ob das im streitgegenständlichen Fahrzeug installierte Thermofenster eine objektiv unzulässige Abschalteinrichtung darstellt oder nicht. Zwar mag bei einer sogenannten "Schummelsoftware", wie sie in dem VW-Motor EA189 verwendet worden war, von Teilen der obergerichtlichen Rechtsprechung die Sittenwidrigkeit des Handelns per se aus der Verwendung einer Umschaltlogik abgeleitet worden sein, weil die Verwendung einer solchen Abschalteinrichtung eindeutig unzulässig und dies den Handelnden bzw. den Verantwortlichen auch bewusst ist. Bei einer anderen die Abgasreinigung (Abgasrückführung und Abgasnachbehandlung) beeinflussenden Motorsteuerungssoftware, wie hier dem Thermofenster, die vom Grundsatz her im normalen Fahrbetrieb in gleicher Weise arbeitet wie auf dem Prüfstand, und bei der Gesichtspunkte des Motor- respektive Bauteilschutzes als Rechtfertigung ernsthaft angeführt werden können, kann bei Fehlen jedweder konkreter Anhaltspunkte nicht ohne Weiteres unterstellt werden, dass die Handelnden bzw. Verantwortlichen bei der Beklagten in dem Bewusstsein gehandelt hatten, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden. Demgegenüber muss bei dieser Sachlage, auch wenn - einmal unterstellt - hinsichtlich des Thermofensters von einer objektiv unzulässigen Abschalteinrichtung ausgegangen werden sollte, eine möglicherweise falsche aber dennoch vertretbare Gesetzesauslegung und -anwendung durch die Organe in Betracht gezogen werden (vgl. OLG Köln, Beschl. v. 4. Juli 2019 - 3 U 148/18, ZVertriebsR 2019, 370 [371 f.]; OLG München, Hinweisbeschl. v. 10. Februar 2020 - 3 U ...#/..., NJW-RR 2020, 664 [665]).Wie die kontrovers geführte Diskussion über Inhalt und Reichweite der Ausnahmevorschrift des Art. 5 Abs. 2 a VO (EG) Nr. ...#/... zeigt, ist die Gesetzeslage an dieser Stelle nicht unzweifelhaft und eindeutig. Nach Einschätzung der vom Bundesverkehrsministerium eingesetzten Untersuchungskommission W liegt ein Gesetzesverstoß durch die von allen Autoherstellern eingesetzten Thermofenster jedenfalls nicht eindeutig vor. So heißt es im Bericht der Kommission zur Auslegung der vorerwähnten Ausnahmevorschrift ausdrücklich (Bericht Stand Apr. 2016, 123): "Zudem verstößt eine weitere Interpretation durch die Fahrzeughersteller und die Verwendung von Abschalteinrichtungen mit der Begründung, dass eine Abschaltung erforderlich ist, um den Motor vor Beschädigung zu schützen und um den sicheren Betrieb des Fahrzeugs zu gewährleisten, angesichts der Unschärfe der Bestimmung, die auch weite Interpretationen zulässt, möglicherweise nicht gegen die VO (EG) Nr. 715/2007. Konsequenz dieser Unschärfe der europäischen Regelung könnte sein, dass unter Berufung auf den Motorschutz die Verwendung von Abschalteinrichtungen letztlich stets dann gerechtfertigt werden könnte, wenn vonseiten des Fahrzeugherstellers nachvollziehbar dargestellt wird, dass ohne die Verwendung einer solchen Einrichtung dem Motor Schaden droht, sei dieser auch noch so klein." Zudem zeigt auch der in der Literatur (etwa Führ, NWVZ 2017, 265) betriebene erhebliche Begründungsaufwand, um das "Thermofenster" als unzulässige Abschalteinrichtung einzustufen, dass keine klare und eindeutige Rechtslage gegeben war, gegen welche die Bekl. seinerzeit bewusst verstoßen hätte (vgl. OLG Köln Beschl. v. 4. Juli 2019 - 3 U 148/18, ZVertriebsR 2019, 370 [372]; OLG München, Hinweisbeschl. v. 10. Februar 2020 - 3 U ...#/..., NJW-RR 2020, 664 [665]).Von daher ist eine Auslegung, wonach ein Thermofenster eine zulässige Abschalteinrichtung darstellt, jedenfalls nicht unvertretbar. Ein Handeln unter vertretbarer Auslegung des Gesetzes kann nicht als besonders verwerfliches Verhalten angesehen werden.2. Die Behauptung, der Motor des streitgegenständlichen Wagens verfüge über eine Zykluserkennung, welche feststelle, ob sich das Fahrzeug auf dem Prüfstand befindet und dabei die Abgasrückführung anders als im Straßenverkehr regelt, erfolgt letztlich pauschal und "ins Blaue hinein". Eine Beweiserhebung über diese Behauptung der klagenden Partei liefe letztlich auf einen in der ZPO nicht vorgesehenen Ausforschungsbeweis hinaus.Allein die Tatsache, dass in vereinzelten Verfahren vor wenigen Landgerichten eine Beweiserhebung über den Verbau einer unerlaubten Abschalteinrichtung in Motoren des Typs EA 288 erfolgt, führt nicht dazu, dass den spekulativen Behauptungen im vorliegenden Fall nachgegangen werden müsste.2. Eine Haftung der Beklagten aus § 823 Abs. 2 BGB i.V. m. § 263 StGB ist ebenfalls nicht gegeben, weil es der Beklagten mindestens am erforderlichen Vorsatz fehlte.Wie oben bereits ausgeführt, stellt die Annahme der Beklagten, dass es sich bei dem in dem streitgegenständlichen Fahrzeug verbauten Thermofenster nicht um eine unzulässige Abschalteinrichtung handelt - jedenfalls zum Zeitpunkt des Inverkehrbringens des Fahrzeugs - eine zulässige Auslegung des Gesetzes dar, so dass die Verantwortlichen nicht mit dem Vorsatz handelten, die klagende Partei über eine Eigenschaft des Fahrzeugs zu täuschen und ihr dadurch einen Vermögensschaden zuzufügen.3. Ein Anspruch der klagenden Partei ergibt sich auch nicht aus § 823 Abs. 2 i.V.m. §§ 6, 27 EG-FGV oder Art. 5 Abs. 2 VO (EG) 715/2007. Denn bei diesen Normen handelt es sich nicht um Schutzgesetze im Sinne des § 823 Abs. 2 BGB.Schutzgesetzte sind solche, die zumindest auch den Individualschutz des Einzelnen bezwecken, ohne dass dies einen bloßen Reflex der Vorschrift darstellt (vgl. BGH, Urt. v. 13. Dezember 2011 - XI ZR 51/10, NJW 2012, 1800 [1802] - IKB-Entscheidung; BGH, Beschl. v. 9. April 2015 - VII ZR 36/14, NJW 2015, 2737 [2738] - Silikonbrustimplantate-Entscheidung). Demgegenüber dienen die in VO (EG) 715/2007 festgelegten Abgasgrenzwerte ausweislich der vorangestellten Erwägungsgründe der Verbesserung der Luftqualität dienen und damit typischerweise der Allgemeinheit. (vgl. OLG München, Beschl. v. 29. August 2019 - 8 U ...#/..., NJW-RR 2019, 1497 [1501]). Die VO (EG) 715/2007 zielt auf die Harmonisierung des Binnenmarktes bzw. dessen Vollendung durch Einführung gemeinsamer technischer Vorschriften zur Begrenzung der Fahrzeugemissionen. Zwar werden neben der Vereinheitlichung der Rechtsregelungen ein hohes Umweltschutzniveau als Ziel und die Reinhaltung der Luft als Vorgabe für Regelungen zur Senkung der Emissionen von Fahrzeugen beschrieben, doch folgt aus den Ausführungen, die die Verbesserung der Luftqualität in einem Zug mit der Senkung der Gesundheitskosten nennen, dass es auch insoweit nicht um individuelle Interessen, sondern letztlich um umwelt- und gesundheitspolitische Ziele geht (vgl. OLG Koblenz, Urt. v. 16. September 2019 - 12 U 246/19, NZV 2020, 40 [45]).Die §§ 6, 27 EG-FGV, scheiden als Schutzgesetze ebenfalls aus, weil sie nicht den Schutz individueller Interessen berücksichtigen. Vielmehr sind sie ein klassisches Beispiel einer nur die Allgemeinheit schützenden Norm (vgl. OLG Koblenz, Urt. v. 20. Januar 2020 - 12 U ...#/..., BeckRS 2020, 970)II.Ein Anspruch auf Zahlung von Zinsen besteht mangels Hauptforderung nicht.III. Aus den oben dargestellten Gründen sind auch die hilfsweise geltend gemachten Ansprüche unbegründet.B. Die Kostenentscheidung beruht auf § 91 Abs. 1 S. 1, § 269 Abs. 3 S. 2 ZPO; die Entscheidung zur vorläufigen Vollstreckbarkeit folgt aus § 709 ZPO.Streitwert:Bis zu 18.000 EUR.Rechtsbehelfsbelehrung:Gegen dieses Urteil ist das Rechtsmittel der Berufung für jeden zulässig, der durch dieses Urteil in seinen Rechten benachteiligt ist,1. wenn der Wert des Beschwerdegegenstandes 600,00 EUR übersteigt oder2. wenn die Berufung in dem Urteil durch das Landgericht zugelassen worden ist.Die Berufung muss innerhalb einer Notfrist von einem Monat nach Zustellung dieses Urteils schriftlich bei dem Oberlandesgericht Düsseldorf, D-Allee, 40474 Düsseldorf, eingegangen sein. Die Berufungsschrift muss die Bezeichnung des Urteils (Datum des Urteils, Geschäftsnummer und Parteien) gegen das die Berufung gerichtet wird, sowie die Erklärung, dass gegen dieses Urteil Berufung eingelegt werde, enthalten.Die Berufung ist, sofern nicht bereits in der Berufungsschrift erfolgt, binnen zwei Monaten nach Zustellung dieses Urteils schriftlich gegenüber dem Oberlandesgericht Düsseldorf zu begründen.Die Parteien müssen sich vor dem Oberlandesgericht Düsseldorf durch einen Rechtsanwalt vertreten lassen, insbesondere müssen die Berufungs- und die Berufungsbegründungsschrift von einem solchen unterzeichnet sein.Mit der Berufungsschrift soll eine Ausfertigung oder beglaubigte Abschrift des angefochtenen Urteils vorgelegt werden.Dr. W2
+			
+			
+			
+			Permalink: https://openjur.de/u/2396208.html (https://oj.is/2396208)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

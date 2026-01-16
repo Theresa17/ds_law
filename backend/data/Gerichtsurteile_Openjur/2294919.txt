@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG München IRechtsprechungEndurteil vom 30.07.2020 - 23 O 11621/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG München I, Endurteil vom 30.07.2020 - 23 O 11621/19
+                      m. Fundstelle
+                      LG München I, Endurteil vom 30.07.2020 - 23 O 11621/19 = openJur 2020, 70558
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG München I, Endurteil vom 30.07.2020 - 23 O 11621/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 70558
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Beklagte wird verurteilt, an die Klagepartei 15.538,81 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 07.11.2019 zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs der Marke Volkswagen Touran 1,6 TDI mit der Fahrgestellnummer2. Die Beklagte wird weiter verurteilt, an den Kläger die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.029,55 € nebst Zinsen in Höhe von 5 Prozentpunkten ab 07.11.2019 zu bezahlen.3. Im Übrigen wird die Klage abgewiesen.4. Von den Kosten des Rechtsstreits haben der Kläger 65% und die Beklagte 35% zu tragen.5. Das Urteil ist für die Parteien gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 20.588,14 € festgesetzt. 
+				Tatbestand
+				Die Klagepartei begehrt von der beklagten Autoherstellerin im Wege des Schadensersatzes die Erstattung des Kaufpreises gegen Rückgabe eines erworbenen PKW.Die Klagepartei erwarb am 13.06.2014 bei der Firma MAHAG den PKW VW Touran 1,6 TDI als Gebrauchtwagen mit einem Kilometerstand von 14.162 km zu einem Kaufpreis von 20.125,00 €. Der Kilometerstand betrug zum Zeitpunkt der letzten mündlichen Verhandlung 67.906 km.Die Beklagte entwickelte den Motor vom Typ EA 189, der in dem streitgegenständlichen Fahrzeug verbaut ist, und stellte ihn her. Der Motor war mit einer Steuerungssoftware ausgestattet, die die Abgaswerte auf dem Prüfstand beeinflusste. Das Abgasrückführungssystem, mit dem das Fahrzeug ausgestattet ist, verfügte über zwei Betriebsmodi. Im Modus 1 fuhr es nur, wenn die Software erkannte, dass der sogenannte "Neue Europäische Fahrzyklus" (NEFZ) durchfahren wurde, der zum Erwerb der Typengenehmigung gemäß Art. 4 Abs. 1 VO (EG) 715/2007 unter Laborbedingungen durchfahren wurde. In diesem Modus reduzierte sich der Schadstoffausstoß aufgrund einer höheren Abgasrückführungsrate gegenüber dem Modus 0, in dem sich das Fahrzeug im Normalbetrieb befand. Auf diesem Weg erreichte das Fahrzeug niedrigere Schadstoffwerte auf dem Prüfstand. Die Werte auf dem Prüfstand sind maßgeblich für die Erteilung der Typengenehmigung der Euro Norm 5. Im Normalbetrieb, also im Abgasrückführungsmodus 0 wurden die Stickoxidgrenzwerte der Euro Norm 5 überschritten. Es drohte deshalb der Entzug der Typenzulassung durch das Kraftfahrbundesamt (KBA), das von einer unzulässigen Abschalteinrichtung ausging.Die Verwendung der den Schadstoffausstoß manipulierenden Software räumte die Beklagte öffentlich ab September 2015, zunächst durch eine Pressemitteilung sowie eine inhaltsgleiche ad hocMitteilung vom 22.09.2015 ein. Ab Oktober 2015 konnte Jedermann über die allseits zugängliche Website der Beklagten unter Eingabe der Fahrzeugidentifikationsnummer prüfen, ob das konkrete Fahrzeug mit einer Umschaltlogik ausgestattet ist. Über diese Möglichkeit informierte die Beklagte die Öffentlichkeit mit Pressemitteilung vom 02. Oktober 2015. Zugleich informierte die Beklagte das Vertriebsnetzwerk. Ab Ende 2015 boten die Beklagte als Herstellerin bzw. die Händler den Haltern von mit dem Motor EA189 ausgestatteten Fahrzeugen an, diese kostenfrei mit einer von der Beklagten bereitgestellten Software nachrüsten zu lassen. Durch das Software-Update wurde erreicht, dass sich das Fahrzeug dauerhaft im Modus 1 befindet. Die Nachrüstung mit der Software hatte die Beklagte zuvor mit der zuständigen Typengenehmigungsbehörde, dem Kraftfahrbundesamt (KBA) abgestimmt.Mit Anwaltsschreiben vom 07.12.2018 (Anlage K 13) forderte die Klagepartei die Beklagte zum Schadensersatz in Form der Erstattung des gezahlten Kaufpreises Zug um Zug gegen Rückgabe des Fahrzeugs auf mit Frist zum 14.12.2018 auf. Den Abzug einer Nutzungsentschädigung lehnte die Klagepartei im Rahmen dieses Anwaltsschreibens ab.Die Klagepartei trägt vor, sie sei durch das Inverkehrbringen des Fahrzeuges mit der manipulierten Software in sittenwidriger Weise geschädigt worden. Dies sei vorsätzlich geschehen. Der Vorstand oder zumindest leitende Mitarbeiter der Beklagten hätten Kenntnis von der Manipulation gehabt. Der Schaden bestehe bereits im Abschluss des Kaufvertrages. Wenn sie gewusst hätte, dass der Entzug der Zulassung drohte, weil die Abgaswerte manipuliert waren, hätte sei den Wagen nicht gekauft.Sie beantragt zuletzt,Die Beklagte wird verurteilt, an die Klagepartei Euro 20.588 € nebst Zinsen in Höhe von 4% seit dem 13.06.2014 bis 16.12.2018 und seither von 5 Prozentpunkten über dem Basiszinssatz abzüglich einer Nutzungsentschädigung in Höhe von 3.200,59 € Zug um Zug gegen Rückgabe und Übereignung des Fahrzeugs der Marke Touran 1,6 TDI mit der Fahrgestellnummer zu zahlen.Es wird festgestellt, dass sich die Beklagte seit dem 17.12.2018 mit der Rücknahme des im Klageantrag zu 1 bezeichneten Gegenstands in Annahmeverzug befindet.Die Beklagte wird verurteilt, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von Euro 1.436,57 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 17.12.2018 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Sie trägt vor, das Fahrzeug der Klagepartei unterliege hinsichtlich seiner Gebrauchsfähigkeit keinen Einschränkungen. Durch das vorgenommene Software-Update sei die manipulierende Software entfernt worden, weitere Nachteile lägen weder vor, noch seien sie durch das Update zu erwarten. Weiterhin hätte auch die Typengenehmigung während der gesamten Zeit Bestand gehabt. Sie sei an dem Vertragsschluss nicht beteiligt gewesen und der erforderliche Vorsatz sei zu verneinen.Das Gericht hat den Kläger in der Sitzung vom 23.07.2020 zu seiner Motivation zum Kauf auf des streitgegenständlichen PKW und zur Anmeldung zum Musterverfahren informatorisch angehört. Wegen der Einzelheiten wird auf das Protokoll der mündlichen Verhandlung vom 23.07.2020 Bezug genommen.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen sowie das Protokoll der mündlichen Verhandlung vom 23.07.2020 verwiesen. 
+				Gründe
+				Die zulässige Klage ist nur teilweise begründet.I.Die Klagepartei hat gegen die Beklagte einen Anspruch auf Zahlung von Schadenersatz in Höhe von 15.538,81 € Zug um Zug gegen Übergabe und Übereignung des streitgegenständlichen Fahrzeugs VW Touran 1,6 TDI. Der Schadenersatzanspruch folgt aus §§ 826, 31 BGB. Die Klägerin kann von der Beklagten wegen vorsätzlicher sittenwidriger Schädigung Erstattung des gezahlten Kaufpreises in Höhe von 20.125,00 € abzüglich gezogener Gebrauchsvorteile in Höhe 4.586,19 €, Zug um Zug gegen Übergabe und Übereignung des streitgegenständlichen Fahrzeugs verlangen.II.Im Einzelnen gilt Folgendes:1. Die Beklagte hat sittenwidrig gehandelt, als sie als Herstellerin des mit der Manipulationssoftware ausgestatteten Motors des Typs EA189 diesen beziehungsweise mit diesem Motor ausgestattete Fahrzeuge auf den Markt und in den Verkehr brachte. Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Zu einer Pflichtverletzung muss eine besondere Verwerflichkeit des Handelns hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann (ständige Rechtsprechung des Bundesgerichtshofs, vgl. BGH, Urteil vom 25. 5. 2020,Az. VI ZR 252/19, "VW Diesel - Urteil", mit weiteren Nachweisen).Das Inverkehrbringen der manipulierten Dieselfahrzeuge mit dem Ziel des Absatzes am Markt ist als sittenwidrig anzusehen. Die Beklagte wollte Gewinne und Wettbewerbsvorteile erzielen und zwar unter Umgehung der gesetzlichen Umweltschutz- und Zulassungsvorschriften. Der Einbau der verbotenen Abschalteinrichtung geschah heimlich. Die Beklagte hat bewusst die Verwendung der manipulierenden Software am Markt verheimlicht, die Typenzulassung durch das Kraftfahrtbundesamt nach Euro 5 erschlichen, sowie die Kunden und Käufer über die vorgebliche Umweltfreundlichkeit Dieselfahrzeugen nach Euro 5 und die Bestandskraft der Typenzulassung getäuscht und deren Schädigung in Kauf genommen. Die Sittenwidrigkeit ergibt sich dabei nicht nur aus dem Verhalten gegenüber dem einzelnen Kunden, sondern durch die Täuschung im Rahmen eines groß angelegten Systems zur planmäßigen Irreführung von Kunden und Aufsichtsbehörden. Wegen der umfassenden Begründung des sittenwidrigen Handelns der Beklagten wird auf die Entscheidung des Bundesgerichtshofs vom 25.05.2020 (Az. VI ZR 252/19, Rz. 16 ff.) verwiesen, die jedenfalls auf alle Fälle übertragbar ist, die - wie hierden Motor EA189 betreffen.Dies gilt auch für die Zurechnung nach § 31 BGB, also die Fragen der Darlegungslast und die Feststellungen zu dem Punkt, dass der vormalige Vorstand der Beklagten von der Entwicklung und Verwendung der unzulässigen Abschalteinrichtung gewusst hat.2. Die Klagepartei hat durch den Kauf eines mit der Manipulationssoftware ausgestatteten Fahrzeugs auch einen Schaden erlitten. Dieser liegt im Abschluss des Kaufvertrages über ein solches Fahrzeug. Die Feststellung eines Schaden setzt nicht zwingend voraus, dass sich aus dem Vergleich der hypothetischen Vermögenslage ohne das haftungsbegründende Ereignis mit der Vermögenslage infolge dieses Ereignisses ein rechnerisches Minus ergibt. Vielmehr kann sich aufgrund des subjektbezogenen Verständnisses des Schadensbegriffs ein Schaden dadurch ergeben, dass der Betroffene durch ein haftungsbegründendes Verhalten, hier eine Täuschung, einen für ihn ungünstigen Vertrag abschließt, dessen Gegenleistung für seine Zwecke nicht voll brauchbar ist, und den er in Kenntnis der wahren Sachlage nicht abgeschlossen hätte. (Vgl. BGH, Urteil vom 21. 12. 2004, Az.: VI ZR 306/03).Ein vernünftiger Durchschnittskäufer darf erwarten, dass ein von ihm erworbener PKW die Zulassung entweder zu Recht erteilt bekommen hat oder zulassungsfähig ist. Er darf insbesondere davon ausgehen, dass der Hersteller die erforderliche Typengenehmigung für das Fahrzeug nicht durch Täuschung des Kraftfahrbundesamtes erwirkt hat. Dass der Käufer sich bis zu dem Bekanntwerden einer solchen Täuschung keine konkreten Vorstellungen von den betroffenen technischen Einrichtungen und von den Voraussetzungen der Typengenehmigung gemacht hat, ist unbeachtlich (vgl. OLG Köln, Az.: 18 U 112/17). Denn er darf davon ausgehen, dass diese in Ordnung sind. Bei der verwendeten Software handelt es sich nach Ansicht des Kraftfahrtbundesamtes um eine verbotene Abschalteinrichtung gemäß Art. 3 Nr. 10, Art. 5 Abs. 2 VO (EG) 715/2007. Ziel der Täuschungshandlung der Beklagten war gerade, dies die Kunden nicht wissen zu lassen.Der Schaden ist auch nicht dadurch beseitigt, dass die Beklagte nachträglich in Abstimmung mit dem Kraftfahrbundesamt ein Software - Update entwickelt, allen Kunden angeboten und auch in vielen Fällen aufgespielt hat (oder durch Werkstätten hat aufspielen lassen), die die manipulative Reduzierung des Schadstoffausstoßes im Prüfstand beseitigte. Der mit dem Kaufvertragsschluss bereits eingetretene Schadensfall konnte dadurch nicht rückwirkend beseitigt werden.3. Der Schaden der Klagepartei ist kausal durch das sittenwidrige Verhalten der Beklagten entstanden. Die Klagepartei hätte den Kaufvertrag nicht abgeschlossen, wenn sie von der illegalen Abschalteinrichtung gewusst hätte. Dies ergibt schon die allgemeine Lebenserfahrung. Niemand würde einen Wagen kaufen, dem der Entzug der Betriebserlaubnis droht, jedenfalls nicht unter marktüblichen Umständen.Die informatorischen Anhörung des Klägers in der Sitzung vom 23.07.2020 ergab zudem überzeugend, dass er das Fahrzeug als besonders umweltfreundliches Auto gekauft habe und bei Kenntnis der wahren Sachlage nicht gekauft hätte.4. Die für die Beklagten handelnden Personen hatten jedenfalls bedingten Schädigungsvorsatz. Dabei ist es nicht erforderlich, dass die schädigenden Personen selbst ihre Tat als sittenwidrig bewerten. Es genügt, wenn sie die die Sittenwidrigkeit begründenden Umstände kennen. Dies ist hier der Fall. Dem Einsatz der illegalen Software zur Manipulation des Schadstoffausstoßes lag eine strategische Unternehmensentscheidung zugrunde. (Vgl. BGH Urteil vom 25.05.2020, Az. VI ZR 252/19, Rz. 61 ff.) Es ist auch nicht erforderlich, dass die Beteiligten im Detail wissen, welche Personen sie schädigen, sondern es genügt, dass sie die Richtung, in der sich ihr Verhalten auswirken werden wird, und die Art des möglichen Schadens voraussehen und zumindest billigend in Kauf nehmen (BGH, Az.: II ZR 402/02). Für die beteiligten Organe der Beklagten war offensichtlich und auch Ziel, dass Kunden des Konzerns diese Dieselfahrzeuge mit dem Motortyp EA 189, der die Manipulationssoftware enthielt, erwerben würden.5. Der Schadensersatzanspruch der Klagepartei ist nicht verjährt. Gemäß §§ 195, 199 BGB gilt die dreijährige Verjährungsfrist, die mit dem Schluss des Jahres anläuft, in dem der Anspruch entstanden ist und der Gläubiger von den den Anspruch begründen Tatsachen Kenntnis erlangt hat oder ohne grobe Fahrlässigkeit hätte Kenntnis erlangen müssen.Mit Erhebung der Verjährungseinrede trägt die Beklagte vor, die Klagepartei hätte aufgrund der öffentlichen Mitteilungen der Beklagten und der Medienpräsenz des "Diesel - Abgasskandals" ab September 2015 von den Umständen, die zu einem Schadensersatzanspruch gegen die Beklagte führen konnten, noch im Jahr 2015 Kenntnis erlangt oder jedenfalls Kenntnis erlangen müssen. Daher seien Ansprüche zum Jahresende 2018 verjährt. Die Klageerhebung vom 01.07.2019 habe den bereits verjährten Anspruch daher nicht hemmen können. Die Frage des Zeitpunkts der Kenntnis oder grob fahrlässigen Unkenntnis der Klagepartei von der Abgasmanipulation am Motor ihres Wagens kann jedoch offenbleiben.Denn die Klagepartei hat gemäß § 204 Ziffer 6. a) mit der Anmeldung zum Musterverfahren am 30.12.2018 (Ablage K 22) den Lauf der Verjährung nach gehemmt. Nach Abmeldung vom Musterverfahren am 16.08.2019 (Anlage K 23) dauerte die Verjährungshemmung nach § 204 Abs. 2 Satz 2 BGB noch sechs Monate fort. Die Klagepartei hats also nicht verjährter Zeit Klage eingereicht.Der Einwand der Beklagten der rechtsmissbräuchlichen Nutzung der Anmeldung zum Musterverfahren allein zum Zweck der Verjährungshemmung wegen Überlastung der die Klagepartei vertretenden Anwälte verfängt nicht. Es handelt sich um eine nicht näher dargelegte Vermutung der Beklagten. Der Kläger hat zudem in der Sitzung vom 23.07.2020 angegeben, sich selbst, persönlich zur Musterfeststellungsklage angemeldet zu haben, weil er geglaubt habe, auf diesem Weg schneller zum Ergebnis zu kommen. Er habe sich dann auch wieder abgemeldet, weil er dachte, das Musterherstellungsverfahren würde dann doch länger dauern. Auch dies spricht gegen eine rechtsmissbräuchliche Ausnutzung der verjährungshemmenden Wirkung der Musterfeststellungsklage.6. Zur Schadensbemessung gilt Folgendes: Die Klagepartei kann von der Beklagten gemäß § 249 BGB verlangen so gestellt zu werden, als hätte sie den ungünstigen Kaufvertrag bei Kenntnis der wahren Sachlage nicht abgeschlossen. Sie hat daher einen Anspruch auf die Rückerstattung des von ihr gezahlten Kaufpreises Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs an die Beklagte.Die Klagepartei muss sich allerdings die Vorteile, die sie durch den Gebrauch des Fahrzeuges über die Zeit hatte, also die gezogenen Nutzungen anrechnen lassen. Denn es gilt im Schadensrecht der Grundsatz des Bereicherungsverbots des Geschädigten. Die Anrechnung der Nutzungsentschädigung führt zu einem Gleichlauf mit der kaufrechtlichen Rückabwicklung, welche Kunden zum Teil gegen ihre Händler geltend gemacht haben. Durch die Nutzungsentschädigung wird dabei in angemessener Form der Vorteil berücksichtigt, den die Klagepartei dadurch hatte, dass sie das Fahrzeug tatsächlich genutzt hat. Für eine Privilegierung des vorsätzlich Schädigenden gegenüber dem aus Kaufrecht - auch ohne Vorsatz - haftenden Händler besteht kein Grund. Damit ist dem Bereicherungsverbot bei der Schadensbemessung aber auch ausreichend Rechnung getragen. Sonstige Vorteile hat die Klagepartei nicht aus dem Erwerb des Fahrzeugs gezogen. Eine Schadensberechnung nach der Differenzhypothese in Form eines Vergleichs des Wertverlustes der Fahrzeuge mit unzulässiger Abschalteinrichtung mit dem eines gleichwertigen Fahrzeuges ohne Abschalteinrichtung unter sonst gleichen Bedingungen ist deshalb abzulehnen. Im Übrigen wird auf die Gründe in der Entscheidung des Bundesgerichtshofs vom 25.05.202, Az. VI ZR 252/19 Rz. 64 ff. Bezug genommen.Bei der Bemessung der Nutzungsentschädigung geht das Gericht von einer üblichen, voraussichtlichen Laufleistung der Dieselfahrzeuge von 250.000 km ab Erstzulassung aus.Beim Kaufpreis von 20.125,00 €, einem Anfangs-Kilometerstand bei Erwerb von 14.162 km und einem Kilometerstand zum Zeitpunkt des Schlusses der mündlichen Verhandlung: 67.906 km ergibt sich eine anrechenbare Nutzungsentschädigung von 4.586,19 € und damit ein Erstattungsanspruch in Höhe von 15.538,81 €.7. a) Die von der Klagepartei für die Zeit ab Kauf des Fahrzeugs für vier Jahre (13.06.2014 bis 16.12.2018) mit Ziffer 1. der Klage begehrte Verzinsung des Kaufpreises gemäß §§ 849, 246 BGB in Höhe von 4% p.a., also auf die geltend gemachte Zahlungsforderung von 20.588,14 € Zinsen von umgerechnet 3.294,08 €, steht der Klagepartei nicht zu.Durch diesen "DeliktsZins" soll der Nachteil ausgeglichen werden, den der Geschädigte dadurch erleidet, dass er die Sache, hier das für die Kaufpreiszahlung verwendete Geld, nicht mehr nutzen kann (BGHZ 87, 38, 41). Es ist nicht erforderlich, dass der Geschädigte eine Sache weggeben hat. Ausreichend ist, dass er durch die unerlaubte Handlung zur Weggabe des Geldes bestimmt worden ist (BGH, Az.: II ZR 167/06). Zu verzinsen ist ein solcher Betrag aber nur insoweit, wie er nicht durch eine wirtschaftlich gleichwertige Gegenleistung gedeckt ist. Vorliegend hat die Klagepartei im Gegenzug für die Bezahlung des Kaufpreises ein Fahrzeug, das er ohne Einschränkungen nutzen konnte. Bei korrekter Aufklärung über das Vorliegen der Abschalteinrichtung hätte die Klagepartei das gegenständliche Fahrzeug zwar nicht erworben. Es ist aber davon auszugehen, dass sie stattdessen ein anderes Fahrzeug erworben, sodass sie den - für das gegenständliche Fahrzeug - ersparten Kaufpreis nicht anderweitig zur Anlage hätte nutzen können. Unter Beachtung des der Differenzhypothese zugrundeliegenden Bereicherungsverbotes ist ein Anspruch aus §§ 849, 246 BGB daher abzulehnen (vgl. hierzu Riehm, NJW 2019, 1105, 1109).b) Der Zinsanspruch ab Rechtshängigkeit folgt aus §§ 288 Abs. 1, 291 BGB. Die Klagepartei hat dagegen keinen Anspruch auf Verzinsung der Geldschuld ab einem früheren Zeitpunkt. Verzug gemäß §§ 286 Abs. 1, 288 BGB ist vorgerichtlich nicht eingetreten, denn die Klagepartei forderte die Rückzahlung des Kaufpreises ohne Abzug einer Nutzungsentschädigung ein. Der Beklagten hätte aber die mögliche Nutzungsentschädigung mitgeteilt bzw. eine Berechnung ermöglicht werden müssen. Eine Mahnung setzt die bestimmbare Bezeichnung der geforderten Leistung voraus.II.Der mit dem Klageantrag zu Ziffer 2. verfolgte Feststellungsbegehren ist zulässig, aber nicht begründet. Die Beklagte ist nicht gemäß §§ 293, 298, 295 BGB mit der Annahme des Fahrzeugs in Verzug. Im vorprozessualen anwaltlichen Schreiben der Prozessbevollmächtigten der Klagepartei bot die Klagepartei die Bereitstellung des streitgegenständlichen Fahrzeuges zur Abholung nichtan, noch die Anrechnung einer den gefahrenen Kilometern entsprechende Nutzungsentschädigung. In der letzten mündlichen Verhandlung teilte die Klagepartei die Laufleistung des streitgegenständlichen Pkws zwar mit, Annahmeverzug scheitert nunmehr aber daran, dass die klagende Partei ohne Anrechnung eines Vorteilsausgleichs eine weitaus höhere Zahlung fordert als geschuldet. Eine solche Zuvielforderung hindert den Eintritt des Annahmeverzugs (BGH, Urteil vom 20. Juli 2005 - VIII ZR 275/04; OLG Frankfurt, Urteil vom 13.07.2016 - 17 U 144/15; OLG Koblenz, Urteil vom 19. Juni 2008 - 6 U 1424/07). Die potenziell weit reichenden Folgen des Annahmeverzugs (§§ 300 ff. BGB) können dem Gläubiger billigerweise dann nicht aufgebürdet werden, wenn sich der Schuldner zur Herausgabe selbst gegen Erhalt der ihm seinerseits zustehenden Leistung nicht bereit erklärt.III.Der mit Klageantrag zu Ziffer 3. Erhobene Anspruch auf Erstattung vorgerichtlicher Anwaltskosten folgt aus § 826 BGB, jedoch nur in Höhe von 1,3 Gebühr auf die zugesprochene Forderung, also n Höhe von 1.029,55 €.IV.Die Kostenentscheidung beruht auf § 92 I 1 ZPO. Wegen der erheblichen Zuvielforderung von Deliktszinsen in Höhe von ausgerechnet 3.294,08 € für vier Jahre war die Quote aus einem fiktiven Streitwert von 23.882,22 € zu bilden. Von den Kosten des Rechtsstreits hat daher die Klagepartei 65% und die Beklagte hat 35% zu tragen.Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus § 709 S.1 und 2 ZPO.Die Festsetzung des Streitwerts erfolgte im Übrigen nach § 3 ZPO. Die Zug um Zug Leistung bleibt nach ständiger Rechtsprechung unberücksichtigt, selbst wenn sie schon der Kläger anbietet (vgl. Zöller, ZPO, 32. Auflage, § 3 Rn. 16).
+			
+			
+			
+			Permalink: https://openjur.de/u/2294919.html (https://oj.is/2294919)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate9
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

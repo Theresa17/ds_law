@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 27.11.2019 - 4 O 198/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 27.11.2019 - 4 O 198/18
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 27.11.2019 - 4 O 198/18 = openJur 2021, 13715
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 27.11.2019 - 4 O 198/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 13715
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Beklagte wird verurteilt, an die Klägerin 19.900,00 € nebst Zinsen i. H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 29.01.2019 zu zahlen, Zug-um-Zug gegena. Herausgabe und Übereignung des Fahrzeugs der Marke X 1,6 mit der Fahrzeugidentifikationsnummer (FIN) $$$$$$#$$$$... nebst Fahrzeugschlüsseln, Kfz-Schein, Kfz Brief und Serviceheft;b. Zahlung einer Nutzungsentschädigung in Euro pro gefahrenem Kilometer seit dem 13.09.2012 (Laufleistung zum Zeitpunkt des Kaufvertrages: 5 km), die sich nach folgender Formel berechnet:Kaufpreis in Euro x gefahrene Kilometer / (300.000 - 5).2. Die Beklagte wird verurteilt, der Klägerin die durch die Beauftragung der Prozessbevollmächtigten der Klägerin entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.171,67 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 29.01.2019 zu zahlen.3. Im Übrigen wird die Klage abgewiesen.4. Die Kosten des Rechtsstreits trägt die Beklagte.5. Das Urteil ist gegen Sicherheitsleistung i. H.v. 120 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Klägerin begehrt Schadensersatz von der Beklagten wegen des Erwerbs eines von dem so genannten "A Dieselskandal" oder auch "A Abgasskandal" betroffenen Pkw.Die Klägerin erwarb am 13.09.2012 das streitgegenständliche Fahrzeug zum Kaufpreis von 19.900,00 € Der Kilometerstand bei Kauf des Fahrzeugs betrug 5 km. Es handelte sich um ein Neufahrzeug. Am Tag der Hauptverhandlung betrug der Kilometerstand 263.316 km.Die Beklagte ist Entwicklerin und Herstellerin des in dem streitgegenständlichen Fahrzeug verbauten Dieselmotors EA 189 EU 5. Ihre hauptsächliche geschäftliche Tätigkeit ist die Entwicklung und der Verkauf von Kraftfahrzeugen.Hersteller von Fahrzeugen müssen nach der Verordnung (EG) Nr. 715/2007 nachweisen, dass die von ihnen produzierten (Neu-) Fahrzeuge über eine sog. Typengenehmigung verfügen. Zur Erlangung dieser Typengenehmigung müssen die Fahrzeuge bestimmte Emissionswerte einhalten. Die hierfür maßgeblichen Abgaswerte werden ausschließlich unter Laborbedingungen gemessen. Für das streitgegenständliche Fahrzeug war eine Typengenehmigung für die Emissionsklasse Euro 5 ausgestellt worden. Diese ist in der Zulassungsbescheinigung eingetragen.Die Motorsteuerung des betroffenen Motors ist so programmiert, dass das Fahrzeug bei der Messung der Schadstoffemissionen auf dem Prüfstand diese Situation erkennt und weniger Stickoxide abgibt, als im Echtbetrieb, d.h. im Straßenverkehr (zu den Einzelheiten ausführlich OLG Köln, Beschluss vom 03.01.2019,18 U 70/18, Rz. 3). Das Kraftfahrtbundesamt hatte Bedenken an dem unveränderten Weiterbetrieb der Fahrzeuge mit dem Motor EA 189 EU 5. Der Weiterbetrieb der Fahrzeuge war nach Auflage des Kraftfahrtbundesamtes nur möglich, nach Durchführung eines Software-Updates, welches von der Beklagten kostenlos zur Verfügung gestellt wurde. Dass Software-Update wurde an dem streitgegenständlichen Fahrzeug durchgeführt.Die Klägerin behauptet, sie hätte das Fahrzeug nicht gekauft, wenn sie Kenntnis von der manipulierten Motorsteuerung gehabt hätte. Die Klägerin behauptet ferner, dass die damaligen Vorstände der Beklagten Kenntnis von der manipulierten Motorsteuerung gehabt hätten und die Beklagte vorsätzlich ein mangelbehaftetes Fahrzeug in Verkehr gebracht hätte. Die Klägerin ist der Ansicht, ihr stünden gegen die Beklagte unter anderem aus § 826 BGB sowie § 823 Abs. 2 BGB i.V.m. § 263 StGB Schadensersatzansprüche zu. Bei der zum Zeitpunkt des Erwerbs des Fahrzeugs vorhandenen Motorsteuerung handele es sich um eine gesetzeswidrige Manipulation, die gegen europäische Vorgaben zur Typengenehmigung von Fahrzeugen verstoße. Durch diese Manipulation habe die Beklagte der Klägerin in einer gegen die guten Sitten verstoßenden Art und Weise gemäß § 826 BGB einen Schaden zugefügt. Der Schaden liege in dem Abschluss des Vertrags als solchem. Der Schaden werde nicht durch das Aufspielen der neuen Software beseitigt.Nutzungsersatz sei nicht geschuldet. Die Klägerin ist zudem der Ansicht, dass ihr ein Zinsanspruch nach § 849 BGB zustehe.Die Klägerin beantragte zuletzt,1. die Beklagte wird verurteilt, Zugum-Zug gegen Übereignung des FahrzeugsMarke: ATyp: XFahrzeug-Identifizierungsnummer: $$$$$$#$$$$...an die Klagepartei einen Betrag in Höhe von 19.900,00 € nebst Zinsen hieraus in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.Hilfsweise:1. Die Beklagte wird verurteilt, einen in das Ermessen des Gerichts zu stellenden Schadensersatz in Höhe von mindestens 25 % des Kaufpreises des Fahrzeugs 19.900,00 €, mindestens somit 4.997,50 € nebst Zinsen hieraus in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.2. Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klagepartei über den Betrag aus Hilfsantrag zu 2) hinausgehenden Schadenersatz für weitere Schäden, die aus der Ausstattung des Fahrzeugs, FIN $$$$$$#$$$$..., mit der manipulierten Motorsoftware resultieren, zu zahlen.2. Die Beklagte wird verurteilt, an die Klagepartei Zinsen in Höhe von 4 % aus 19.9000,00 € seit dem 13.09.2012 bis zu Beginn der Rechtshängigkeit zu bezahlen.3. Die Beklagte wird verurteilt, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.348,27 € nebst Zinsen in Höhe von 5 %-Punkten über dem jeweiligen Basiszins seit Rechtshängigkeit zu erstatten.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte ist der Ansicht, dass sie sich nicht sittenwidrig verhalten habe. Insbesondere hätten die damaligen Vorstände soweit ihr bekannt sei, keine Kenntnis von den maßgeblichen Tatsachen gehabt. Das streitgegenständliche Fahrzeug sei nicht mangelhaft, denn es liege keine Einschränkung der Gebrauchstauglichkeit vor. Jedenfalls sei mit dem Aufspielen des Software-Updates die beanstandete Software-Konfiguration beseitigt. Zudem sei sie am Vertragsschluss nicht beteiligt gewesen. Auch eine Wertminderung sei nicht vorhanden. Die Voraussetzungen eines Annahmeverzugs lägen nicht vor. Eine Zinspflicht aus § 849 BGB bestünde nicht.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die gewechselten Schriftsätze nebst Anlagen sowie das Protokoll der Hauptverhandlung vom 02.09.2019 Bezug genommen. Die Klage ist der Beklagten am 28.01.2019 zugestellt worden. 
+				Gründe
+				Die zulässige Klage ist teilweise begründet.1. Das Landgericht Bonn ist gemäß § 32 ZPO örtlich zuständig. Die Klägerin macht deliktische Ansprüche gegenüber der Beklagten geltend. Nach § 32 ZPO ist eine Zuständigkeit auch dort begründet, wo der Schadenseintritt erfolgt, also am Wohnsitz des Klägers.2. Der Klägerin steht gegen die Beklagte ein Anspruch auf Erstattung des Kaufpreises gemäß §§ 826, 31, 249 BGB zu, Zugum-Zug gegen Herausgabe und Übereignung des streitgegenständlichen Fahrzeuges sowie Zugum-Zug gegen Zahlung eines Nutzungsersatzes.Die Beklagte ist sowohl Herstellerin des in dem Fahrzeug verbauten Motor als auch des Fahrzeugs selbst.a) Es liegt ein Fall der vorsätzlichen sittenwidrigen Schädigung gemäß § 826 BGB vor. Sittenwidrig ist ein Verhalten immer dann, wenn es nach seinem unter zusammenfassender Würdigung von Inhalt, Beweggrund und Zweck zu ermittelnden Gesamtcharakter in dem Sinne dem Anstandsgefühl aller billig und gerecht Denkenden zuwiderläuft, dass es mit grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist (vergleiche etwa BGH, Urteil vom 09.11.2013, VI ZR 336/12, Rz. 9; OLG Köln, Beschluss vom 03.01.2019,18 U 70/18, Rz. 21). Für den konkreten Fall hat das OLG, a.a.O., Rz. 27 zusammengefasst: "Sittenwidrig handelt insbesondere, wer eine Sache, von deren Mangelhaftigkeit er weiß, in der Vorstellung in den Verkehr bringt, dass die betreffende Sache von dem Erwerber in unverändert mangelhaftem Zustand an ahnungslose Dritte, die in Kenntnis der Umstände von dem Geschäft Abstand nähmen, veräußert werden wird".Genau dies ist der Fall. Es ist allgemein bekannt, dass die Beklagte in der Steuerung des Motors vom Typ EA 189 EU 5 Manipulationssoftware einsetzte, um Abgaswerte nach der Euro-5-Norm auf dem Prüfstand zu simulieren, die im Echtbetrieb nicht erreicht werden. Dies geschah bei allen Fahrzeugen, in denen der Motor des Typs EA 189 EU 5 eingebaut wurde. Das Verhalten diente der Umsatz- und der Gewinnsteigerung der Beklagten. Damit liegt geradezu ein typischer Fall des rücksichtslosen Gewinnstrebens vor, welches nach seinem Gesamtcharakter dem Anstandsgefühl aller billig und gerecht Denkenden zuwiderläuft. Die Beklagte veranlasste, dass zum Zweck der Umsatz- und Gewinnsteigerung, die mangelbehafteten Fahrzeuge in den Verkehr gebracht wurden. Sie nahm dabei billigend in Kauf, dass diese Fahrzeuge erworben werden. Man kann sogar sagen, dass dies das primäre Ziel der Beklagten war. Dieses Verhalten ist im Rahmen des § 826 BGB der Anknüpfungspunkt für die Haftung der Beklagten.Es kommt somit auch nicht darauf an, dass die Gebrauchsfähigkeit als Fahrzeug technisch gesehen nicht eingeschränkt war und ist. Rechtlich gesehen war nämlich jedenfalls die Typengenehmigung und Betriebszulassung nicht sicher.b) Dieses Verhalten ist der Beklagten auch zuzurechnen, § 31 BGB. Aufgrund des Sach- und Streitstandes ist davon auszugehen, dass der Vorstand der Beklagten nicht nur über umfassende Kenntnisse von dem Einsatz der Manipulation Software verfügte, sondern auch in der Vorstellung die Herstellung und Inverkehrbringen der mangelbehafteten Motoren veranlasste, dass diese unverändert und ohne entsprechenden Hinweis weiterveräußert werden würden (OLG Köln, a.a.O., Rz. 31).Das Gericht geht davon aus, dass die Klägerin insofern ihrer primären Darlegungslast in ausreichendem Maße nachgekommen ist, so dass die Beklagte eine umfassende sekundäre Darlegungslast trifft. Sie müsste darlegen, warum die damaligen Vorstände keine Kenntnis gehabt haben. Dieser sekundären Darlegungslast ist die Beklagte nicht nachgekommen. Sie argumentiert lediglich, dass sie derzeit eine solche Kenntnis ihrer damaligen Vorstände nur bestreiten könne. Der derzeitige Kenntnisstand selbst wird indes in keiner Weise dargelegt. Im Übrigen wird auf die ausführlichen Ausführungen des OLG Köln, a.a.O., Rz. 31-37 Bezug genommen.c) Die Klägerin hat bereits durch den Erwerb des mit der Software zur Motorsteuerung ausgerüsteten Fahrzeugs einen (Vermögens-) Schaden erlitten. Da das Fahrzeug die Zulassungsvoraussetzungen nicht erfüllte, drohte die Stilllegung. Die Unsicherheiten für die Typengenehmigung und die Betriebszulassung wirken sich (von Beginn an) nachteilig auf den Vermögenswert des Fahrzeugs aus. Das Gericht schließt sich den ausführlichen Ausführungen des OLG Köln, a.a.O., Rz. 38 ff. zum Schaden an und verweist auf diese.Der Schaden ist auch nicht deshalb entfallen, weil inzwischen das Software-Update auf das streitgegenständliche Fahrzeug aufgespielt worden ist. Das Software-Update ist nicht geeignet, den eingetretenen Vermögensschaden rückwirkend zu beseitigen. Insbesondere ist die Wirkungsweise des Software-Updates umstritten. Es ist zweifelhaft, ob das Software-Update einerseits sämtliche Beeinträchtigung beseitigt und andererseits möglicherweise anderweitige Beeinträchtigungen schafft. Zudem bleibt der "Makel", dass es sich um ein Fahrzeug des Dieselskandals handelt, bestehen. Somit bleibt es dabei, dass das Fahrzeug einen wirtschaftlich relevanten Nachteil aufweist, ohne dass es darauf ankäme, wie hoch dieser Anteil ist und ob er möglicherweise auch (kumulativ) auf andere Ursachen zurückzuführen ist.d) Da die Klägerin auch im Anwendungsbereich der §§ 826, 31, 249 BGB durch die ihr zugefügte Schädigung nicht bessergestellt werden darf, als sie ohne die Schädigung stünde, hat sie erhaltene Vorteile auszukehren. Zu berücksichtigen sind die erlangten Gebrauchsvorteile. Die Klägerin hat ein in der täglichen Nutzung nicht relevant schlechter nutzbares Fahrzeug erhalten, als wenn sie hypothetisch ein mangelfreies Fahrzeug erhalten hätte. Da die Gebrauchsvorteile in Gestalt der Nutzung des Fahrzeugs nicht auskehrbar sind, hat die Klägerin hierfür Wertersatz in Geld zu leisten. Bei Übertragung der Grundsätze des §§ 346 Abs. 2 BGB auf die Schätzung des Vorteilsausgleichs gemäß § 287 ZPO wird auf die gefahrenen Kilometer im Verhältnis zu einer geschätzten Gesamtkilometerleistung abgestellt (so im Ergebnis auch OLG Köln, a.a.O., Rz. 49).Grundlage der vorgenommenen Schätzung des Vorteilsausgleichs nach § 287 ZPO i.V.m. dem Rechtsgedanken des § 346 Abs. 2 BGB ist eine angenommene gesamte Laufleistung des streitgegenständlichen Fahrzeugs von 300.000 km, die angesichts der Klasse des Fahrzeugs und der Parameter des Motors als realistisch angesehen wird.Die Nutzungsvorteile sind nach der allgemein anerkannten Formel zu berechnen: Bruttokaufpreis mal gefahrene Kilometer geteilt durch die erwartete Gesamtlaufleistung, bzw. bei Gebrauchtwagen geteilt durch die voraussichtliche (Rest-) Gesamtlaufleistung (siehe Reinking-Eggert, Der Autokauf, 13. Aufl. Rz. 1166).Zwischen den Parteien ist unstreitig, dass das Fahrzeug am Tage des Erwerbs, ein Neuwagen war (5 km) und am Tag der Hauptverhandlung einen Kilometerstand von 263.316 km aufwies. Hieraus ergäbe sich folgender, der Beklagten zustehender Nutzungsersatz: 19.900,00 € € × 263.311 km geteilt durch 299.995 km = 17.466,59 € für den Zeitraum bis zur Hauptverhandlung. Da davon auszugehen ist, dass auch danach noch mit dem Fahrzeug gefahren wird, ist auch die weitere Nutzung in den Nutzungsersatz einzubeziehen. Dementsprechend ist tenoriert.e) Darüber hinaus ist im Rahmen des Schadensersatzanspruches die Rückgewähr des Fahrzeugs in Form der Rückübertragung des Eigentums notwendig. Dies war bereits in Form der Zugum-Zug Verurteilung durch die Klägerin beantragt worden.f) Da die Voraussetzungen der §§ 826, 31, 249 BGB erfüllt sind, kommt es nicht mehr darauf an, ob darüber hinaus weitere Anspruchsgrundlagen ebenfalls erfüllt werden.2. Zinsen sind nach §§ 280, 286, 291 BGB ab Rechtshängigkeit geschuldet.Weitergehende Zinsen für einen früheren Zeitpunkt nach § 849 BGB sind indessen nicht geschuldet, da offensichtlich keine Entziehung einer Sache im Sinne des § 849 BGB vorliegt. Dem Kläger stand der Pkw tatsächlich seit dem Erwerb zur Verfügung. Das deutsche Schadensersatzrecht dient allein den Schadensausgleich. Eine abweichende Betrachtung würde dazu führen, dass der Geschädigte an dem Schadensfall verdient, was dem Verbot widerspreche, sich durch Schadensersatz zu bereichern (vergleiche BGH, Urteil vom 03.12.2013, VI ZR 24/13, Rz. 11 mit zahlreichen Nachweisen).5. Die Klägerin hat Anspruch nach §§ 280, 249 BGB auf Erstattung vorgerichtliche Rechtsanwaltsgebühren. Angemessen ist allerdings nur eine 1,3-Gebühr. Angesichts der Vielzahl gleich gelagerter Fälle und der standardmäßig vorgefertigten Schriftsätze ist nur von durchschnittlicher Schwierigkeit auszugehen. Unter Zugrundelegung eines Streitwerts von 19.900,00 € steht dem Kläger die vorgerichtlich angefallene Geschäftsgebühr Nr. 2300 VV RVG, d.h. eine 1,3-fache Regelgebühr inklusive Auslagenpauschale und Umsatzsteuer, mithin 1.171,67 € zu.6. Die Entscheidung über die Kosten beruht auf § 92 Abs. 2 Nr. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus § 709 ZPO.Streitwert: 19.900,00 €.Rechtsbehelfsbelehrung:Gegen dieses Urteil ist das Rechtsmittel der Berufung für jeden zulässig, der durch dieses Urteil in seinen Rechten benachteiligt ist,1. wenn der Wert des Beschwerdegegenstandes 600,00 EUR übersteigt oder2. wenn die Berufung in dem Urteil durch das Landgericht zugelassen worden ist.Die Berufung muss innerhalb einer Notfrist von einem Monat nach Zustellung dieses Urteils schriftlich bei dem Oberlandesgericht Köln, Reichenspergerplatz 1, 50670 Köln, eingegangen sein. Die Berufungsschrift muss die Bezeichnung des Urteils (Datum des Urteils, Geschäftsnummer und Parteien) gegen das die Berufung gerichtet wird, sowie die Erklärung, dass gegen dieses Urteil Berufung eingelegt werde, enthalten.Die Berufung ist, sofern nicht bereits in der Berufungsschrift erfolgt, binnen zwei Monaten nach Zustellung dieses Urteils schriftlich gegenüber dem Oberlandesgericht Köln zu begründen.Die Parteien müssen sich vor dem Oberlandesgericht Köln durch einen Rechtsanwalt vertreten lassen, insbesondere müssen die Berufungs- und die Berufungsbegründungsschrift von einem solchen unterzeichnet sein.Mit der Berufungsschrift soll eine Ausfertigung oder beglaubigte Abschrift des angefochtenen Urteils vorgelegt werden.Hinweis zum elektronischen Rechtsverkehr:Die Einlegung ist auch durch Übertragung eines elektronischen Dokuments an die elektronische Poststelle des Gerichts möglich. Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet und mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg gemäß § 130a ZPO nach näherer Maßgabe der Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach (BGBl. 2017 I, S. 3803) eingereicht werden. Weitere Informationen erhalten Sie auf der Internetseite www.justiz.de.
+			
+			
+			
+			Permalink: https://openjur.de/u/2332861.html (https://oj.is/2332861)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

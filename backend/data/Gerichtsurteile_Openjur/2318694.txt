@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 08.08.2019 - 20 O 435/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 08.08.2019 - 20 O 435/18
+                      m. Fundstelle
+                      LG Köln, Urteil vom 08.08.2019 - 20 O 435/18 = openJur 2021, 4919
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 08.08.2019 - 20 O 435/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 4919
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Beklagte wird verurteilt, an den Kläger 9.234,09 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 15.01.2019 Zug um Zug gegen Übergabe und Übereignung des PKWs W H 1.6 I mit der Fahrzeug-Ident.-Nr.: W...# zu zahlen.Im Übrigen wird die Klage abgewiesen.2. Die Kosten des Rechtsstreits tragen die Beklagte zu 39 % und der Kläger zu 61 %.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten über Ansprüche des Klägers gegen die Beklagte nach einem Pkw-Kauf im Zusammenhang mit dem sogenannten Abgasskandal.Der Kläger erwarb den streitgegenständlichen Pkw, einen W H 1.6 mit der Fahrzeug-Ident.-Nr.: W...# von dem Autohaus G GmbH & Co. KG als Neuwagen zu einem Kaufpreis von 21.900,01€ € inklusive Umsatzsteuer (Anlage K1,). Das Fahrzeug wurde durch ein Darlehen der W Bank finanziert. Dem Kläger entstanden Finanzierungskosten in Höhe von 1.555,36 €.Die Beklagte selbst ist Entwicklerin und Herstellerin des in dem Fahrzeug verbauten Dieselmotors ... Eu5. In dem Fahrzeug des Klägers wie auch in anderen Fahrzeugen mit demselben Motortyp wurde eine Software eingesetzt, die zwei unterschiedliche Betriebsmodi zur Steuerung der Abgasrückführung kennt. Im Modus 1, der im unter Laborbedingungen festgelegten Fahrzyklus (NEFZ) aktiviert wird, kommt es zu einer erhöhten Abgasrückführung und damit zu einem reduzierten Schadstoffausstoß. In diesem Modus halten die Fahrzeuge mit einem entsprechenden Motor die Vorgaben des NEF-Zyklus ein. Unter normalen Fahrbedingungen im Straßenverkehr ist hingegen der Modus 0 aktiv, in dem es zu einer verringerten Abgasrückführung und einem um ein Vielfaches erhöhten Schadstoffausstoß kommt.Den Käufern von Fahrzeugen mit den entsprechenden Motoren wird seitens der Verkäufer bzw. des Herstellers angeboten, das Fahrzeug kostenfrei mit einer von der Beklagten bereitgestellten Programmaktualisierung nachrüsten zu lassen, die dazu führt, dass sich das Fahrzeug durchgängig im Modus 1 befindet. Die zuständige Behörde hat die Programmaktualisierung freigegeben.Mit anwaltlichem Schreiben vom 27.09.2018 forderte der Kläger zur Zahlung auf. Zum Zeitpunkt der mündlichen Verhandlung hatte der Wagen eine Laufleistung von 194.812 km.Der Kläger behauptet, bei der in dem Fahrzeug eingesetzten Software handle es sich um eine illegale Abschalteinrichtung. Das Fahrzeug sei deswegen mangelhaft.Von der Manipulation der Motorprogrammierung habe der Vorstand der Beklagten zumindest gewusst, sodass auch die Beklagte aus unerlaubter Handlung selbst verantwortlich für den Abgasskandal und seine Folgen sei. Auch lägen die Voraussetzungen für eine Haftung nach § 831 BGB vor.Hätte der Kläger den tatsächlichen Schadstoffausstoß bei Vertragsschluss gewusst, hätte er das Fahrzeug nicht gekauft.Eine Nachbesserung sei nicht möglich und dem Kläger auch zumutbar.Der Kläger beantragt,1. die Beklagte zu verurteilen, an ihn, 23.455,37 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz aus 21.900,01 €seit dem 11.07...2012 sowie aus weiteren 1.555,36 € seit Rechtshängigkeit Zug um Zug gegen Übergabe und Übereignung des PKWs VW Golf 1.6 I mit der Fahrzeug-Ident.-Nr.: W...# zu zahlen.2. Die Beklagte zu verurteilen, den Kläger von vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.805,47 € freizustellen.3. festzustellen, dass sich die Beklagte mit der Rücknahme des PKW W H 1.6 I mit der Fahrzeug-Identifizierungsnummer W... in Annahmeverzug befindet.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, die in dem Motor eingesetzte Software sei keine unzulässige Abschalteinrichtung, sondern es handle sich um eine zulässige Gestaltung. Die dem NEF-Zyklus zugrunde liegenden Regelungen forderten nur eine Einhaltung der festgelegten Abgaswerte unter Laborbedingungen, nicht jedoch im tatsächlichen Betrieb.Die Entwicklung und Verwendung des Programms im ...-Motor sei von den Organen der Beklagten zudem nicht entschieden worden oder ihnen zur Kenntnis gelangt.Die angebotene Nachrüstung der ...-Motoren sei keine Mängelbeseitigung, sondern eine freiwillige Leistung des Herstellers. Die Nachrüstung führe zudem zu keinerlei Nachteilen für den Kläger.Es fehle auch an einem wirtschaftlichen Schaden. Die Fahrzeuge hätten aufgrund der streitgegenständlichen Software keinen Wertverlust erlitten.Die Klage ist der Beklagten am 14.01.2019 zugestellt worden.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die wechselseitigen Schriftsätze der Parteien nebst Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist in dem aus dem Tenor ersichtlichen Umfang begründet.Der Kläger hat Anspruch auf Zahlung des Kaufpreises abzüglich des Nutzungsersatzes Zugum-Zug gegen Übergabe und Übereignung des streitgegenständlichen Fahrzeugs aus § 826 BGB.1. Die Beklagte hat dem Kläger in einer gegen die guten Sitten verstoßenden Weise vorsätzlich einen Schaden zugefügt.a) Ein Verhalten ist sittenwidrig, wenn es gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt (BGH, Urteil v. 3.12.2013 - BGH Aktenzeichen XIZR29512 XI ZR 295/12, zitiert nach juris). In diese rechtliche Beurteilung ist einzubeziehen, ob es nach seinem aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter mit den guten Sitten nicht zu vereinbaren ist (BGH, Urteil v. BGH 3.12.2013, a.a.O.; BGH, Urteil v. 20.11.2012 - BGH Aktenzeichen VIZR26811 VI ZR 268/11, zitiert nach juris, jeweils m.w.N.).Vorliegend besteht für das Gericht kein Zweifel daran, dass die Beklagte aus Gewinnstreben sowohl die zuständigen Behörden als auch die Käufer von Fahrzeugen aus dem W-Konzern wie den Kläger durch Entwicklung und Verwendung des Softwareprogramms in dem von ihr hergestellten Dieselmotor ... über den unter normalen Fahrbedingungen erhöhten Schadstoffausstoß täuschte. Dies geschah, um Behörden und Kunden in dem Glauben zu lassen, Fahrzeuge mit dem Motor ... würden die vorgeschriebenen Grenzwerte einhalten, was tatsächlich nicht zutrifft. Ohne diese Maßnahme hätten die Beklagte und ihre Tochterunternehmen angesichts der Wichtigkeit der Eingruppierung in eine möglichst hohe Schadstofffreiheitsklasse geringere Verkaufszahlen erzielt.Bei dem in der Motorenreihe ... verwendeten Programm handelt es sich um eine illegale Funktion zur Abgasmanipulation und nicht um eine zulässige Gestaltung zur Optimierung im NEF-Zyklus. Das ergibt sich schon aus dem gerichtsbekannten, vom Kraftfahrtbundesamt angeordneten und seitens der Beklagten nicht angegriffenen weitreichenden Rückruf von betroffenen Fahrzeugen des W-Konzerns. Wären die betroffenen Fahrzeuge nicht in diesem Sinne mangelbehaftet, hätte es eines zwingend angeordneten Rückrufs nicht bedurft. Der den Käufern gegenüber nicht offengelegte Einsatz dieser Software hat, verbunden mit den Prospektangaben betreffend die entsprechenden Fahrzeuge, auch dazu geführt, dass die Käufer sich in der irrigen Vorstellung befanden, auch im Betrieb des Fahrzeugs außerhalb des Prüfstands würden die Werte, mit denen geworben wurde, zumindest annäherungsweise erreicht.Die Täuschung durch die Beklagte gegenüber den Kunden erfolgte systematisch, in erheblichem Umfang und über einen jahrelangen Zeitraum. Sogar jetzt streitet die Beklagte ihre zivilrechtliche Verantwortung noch ab, indem sie behauptet, das klägerische Fahrzeug sei nicht mangelhaft und die Programmaktualisierung lediglich eine freiwillige Leistung. Angesichts dieses völligen Fehlens eines Unrechtsbewusstseins bringt die Beklagte nach Ansicht des Gerichts auch zum Ausdruck, dass sie den sittenwidrigen Einsatz der illegalen Abschalteinrichtung auch im Nachhinein billigt und diesen nicht verhindert hätte. Dass eine bewusste Täuschung ein erhebliches Indiz für die Annahme eines vorsätzlichen sittenwidrigen Verhaltens darstellen kann, ist allgemein anerkannt.b) Die Beklagte hat als Herstellerin des streitgegenständlichen Fahrzeugs und als Herstellerin des Motors die Softwaremanipulation und den damit eingetretenen Schaden zu verantworten. Die Beklagte kann sich insbesondere nicht darauf berufen, dass ihr ein etwaiges Fehlverhalten nicht zuzurechnen sei, weil es unterhalb der Ebene ihrer Organe stattgefunden haben soll. Denn auch wenn dies so sein sollte, müsste sich die Beklagte die Verstöße analog § 31 BGB zurechnen lassen. Die höchstrichterliche Rechtsprechung hat die Vorschrift über eine Zurechnung des Handelns bestellter Vertreter zu einer Repräsentantenhaftung für Personen erweitert, denen durch die allgemeine Betriebsregelung und Handhabung bedeutsame, wesensmäßige Funktionen der juristischen Person zur selbständigen, eigenverantwortlichen Erfüllung zugewiesen sind (BGH, Urteil v. 05.03.1998 - BGH Aktenzeichen IIIZR18396 III ZR 183/96). Auch den Personen, die nach dem Vortrag der Beklagten nicht zu deren Vorstand gezählt und über die Entwicklung und Verwendung der illegalen Abschalteinrichtung entschieden haben, kam eine entsprechende Stellung zu. Denn wenn diese Personen, wie es die Beklagte darstellt, eigenständig und ohne die Erforderlichkeit einer Freigabe von vorgesetzter Stelle so weitreichende Entscheidungen für die Entwicklung einer im gesamten Konzern der Beklagten verbauten Motorenreihe mit der vorbeschriebenen sog. Mogelsoftware treffen konnten, so war ihnen eine erhebliche innerbetriebliche Entscheidungskompetenz zugewiesen.Im Übrigen ist, ohne dass es hierauf letztlich ankäme, von einer sekundären Darlegungslast der Beklagten hinsichtlich der verantwortlichen Stellen und dem Informationsfluss in ihrem Konzern ausgehen, der sie nicht ausreichend nachgekommen ist. Der Kläger hat ausreichend und unter Ausschöpfung der ihm zugänglichen Quellen hierzu vorgetragen. Ein näherer Vortrag ist ihm hinsichtlich dieser Tatsachen jedoch nicht möglich, da es sich um interne Betriebsabläufe der Beklagten handelt. Der Beklagten ist demgegenüber ein konkreter Vortrag hierzu insbesondere hinsichtlich der erfolgten Aufarbeitung durch ihre interne Revision und externe Rechtsanwaltskanzleien zumutbar; ein solcher Vortrag ist indes nicht erfolgt.Inwieweit daneben eine Haftungszurechnung nach den Grundsätzen des § 831 BGB erfolgen könnte - was naheliegend ist -, kann vorliegend dahinstehen.c) Die sittenwidrige Schädigung ist auch kausal für die Kaufentscheidung des Klägers gewesen. Bei täuschendem oder manipulativem Verhalten ist es für die Darlegung des ursächlichen Zusammenhangs zwischen Täuschung und Abgabe der Willenserklärung ausreichend, dass der Getäuschte Umstände dargetan hat, die für seinen Entschluss von Bedeutung sein konnten und nach der Lebenserfahrung bei der Art des zu beurteilenden Rechtsgeschäfts Einfluss auf die Entschließung gehabt haben können (vgl. etwa BGH Urteil v. 12.05.1995 - BGH Aktenzeichen VZR3494 V ZR 34/94 -, zitiert nach juris). Ein durchschnittlicher Käufer hat bei dem Kauf eines Fahrzeugs, auch bei einem Gebrauchtwagen, die berechtigte Erwartung, dass dieses bei normalem Betrieb auf der Straße die beworbenen Grenzwerte einhält. Es ist auch lebensnah, dass der durchschnittliche Käufer die Angaben der Grenzwerte als beeinflussenden Faktor seiner Kaufentscheidung zu Grunde legt. Es ist nicht anzunehmen, dass der Kläger den Wagen gekauft hätte, wenn er gewusst hätte, dass dieser die beworbenen Abgaswerte angesichts deren allgemein bekannten Bedeutung in mehrfacher Hinsicht (Betriebserlaubnis, Kfz-Steuer, etwaige Fahrverbote bei Nichteinhaltung der Grenzwerte, Umweltfragen) in Wirklichkeit nicht hat. d). Durch das sittenwidrige Verhalten der Beklagten wurde der Kläger geschädigt. Durch die Verwendung der der Software stellen sich - wie auch die Beklagte wusste und billigte - die Prospektangaben über Abgaswerte, wie dargetan, als täuschend dar. Wird jedoch eine Kaufentscheidung durch Täuschung mitherbeigeführt, so liegt bereits ein Schaden vor, wenn der Kaufgegenstand sich für den Käufer als für seine Zwecke nicht voll brauchbar erweist (ständige Rechtsprechung, vgl. etwa Urteil des BGH vom 08.03.2005 - BGH Aktenzeichen XIZR17004 XI ZR 170/04 -, zitiert nach juris, mwN).Es kommt in diesem Fall bei der Prüfung, ob ein Schaden vorliegt, gerade nicht darauf an, ob der Preis der erworbenen Kaufsache ihrem objektiven Marktwert entspricht (vgl. auch Grüneberg in Palandt, BGB, 76. Aufl., § 311 Rz 72). Angesichts der Bedeutung der nicht eingehaltenen Abgaswerte kann es nicht zweifelhaft sein, dass der Wagen sich zum Zeitpunkt des Kaufs als für die Zwecke des Klägers nicht geeignet erwiesen hat. Ein Schaden im normativen Sinne ist demnach eingetreten. Das Gericht ist, nachdem der Kläger zwei Schreiben der W Bank vorgelegt hat, die die Beendigung des Vertrages und die Rückgabe des Fahrzeugbriefs im Jahr 2016 zum Gegenstand haben, überzeugt, dass das Darlehen bereits im Jahr 2016 vollständig abgelöst wurde.e) Der Kläger muss sich auch nicht nach § 254 BGB oder unter dem Gesichtspunkt von Treu und Glauben (§ 242 BGB) darauf verweisen lassen, ein Softwareupdate vornehmen zu lassen und so ggf. einen Wagen zu erhalten, bei dem die prospektierten Abgaswerte auch bei der Nutzung des Wagens im Straßenverkehr eingehalten werden. Die Beklagte hat durch die vorsätzliche Täuschung des Klägers das Vertrauensverhältnis nachhaltig zerrüttet. Dem Kläger ist nicht zuzumuten, gerade denjenigen, der ihn getäuscht hat und der auch nach wie vor beteuert, es sei nichts Illegales vorgefallen, mit einer Veränderung des Wagens zu betrauen. Hinzu kommt, dass - wie allgemeinkundig - vielfach diskutiert wird, ob ein Softwareupdate ausreichend ist und ob es ggf. zu negativen Folgen für das Auto, insbesondere den Motor, und zu erhöhten Kraftstoffverbrauch, führt. Auf die hiermit verbundene Ungewissheit muss der Kläger sich nicht einlassen, so dass es unerheblich ist, ob ein Sachverständigengutachten ergeben würde, dass ein Softwareupdate keine negativen Auswirkungen auf das Fahrzeug hat.2. Die Beklagte hat dem Kläger nach § 826 BGB iVm §§ 249 ff BGB demnach einen Betrag in Höhe des Kaufpreises abzüglich des vom Kläger gezogenen Nutzungsvorteils zu zahlen, Zugum-Zug gegen Übergabe und Übereignung des streitgegenständlichen Fahrzeugs.Es sind bei der Schadensermittlung auch keine gegenläufigen erlangten Vorteile des Schädigers zu berücksichtigen. Eine solche Betrachtung scheidet nach dem, dem Schadensrecht zu Grunde liegenden Verständnisses der Schadensberechnung von vorneherein aus. Nach dem Grundsatz des § 249 Abs.1 BGB, der auf alle Schadensersatzansprüche Anwendung findet, ist dabei nach der Differenzhypothese ein Vergleich zwischen dem jetzigen tatsächlichen Vermögen des Geschädigten und dem Wert des Vermögens des Schädigers ohne das die Ersatzpflicht begründende Ereignis anzustellen (Palandt/Grüneberg, 77. Auflage, 2018, Vorb. § 249 Rn.9). Hieraus ergibt sich bereits zwangsläufig, dass die Vermögenslage des Schädigers im Rahmen der Schadensberechnung keine Berücksichtigung finden kann.Die Anrechnung eines Vorteilsausgleichs ist auch nicht deshalb ausgeschlossen, weil sie dem Zweck des Schadensersatzes widerspricht, dh den Geschädigten unzumutbar belastet und den Schädiger unbillig begünstigt. Das Gericht verkennt dabei nicht, dass die Beklagte den Kläger hier bewusst sittenwidrig geschädigt hat. Dem steht jedoch gewichtig gegenüber, dass der Kläger über Jahre hinweg das Fahrzeug in erheblichem Umfang in Gebrauch hatte und auch ungeachtet des Wissens um die Manipulation durch die Beklagte seit 2015 weiterhin in tatsächlicher Hinsicht die Vorteile durch tatsächlichen Gebrauch des PKW in Anspruch genommen hat.Die Nutzungsvorteile sind nach der allgemein anerkannten Formel zu berechnen: Bruttokaufpreis mal gefahrene Kilometer seit Vertragsschluss geteilt durch die voraussichtliche (Rest-)Gesamtlaufleistung (s. Reinking/Eggert, Der Autokauf, 13. Aufl., Rz 1166).Die Laufleistung zum Zeitpunkt der mündlichen Verhandlung belief sich auf 194.812 km.Das Gericht schätzt die zu erwartenden Gesamtlaufleistung gemäß § 287 ZPO auf 300.000 km.Legt man diese Parameter der Formel zu Grunde muss sich der Kläger Nutzungen in Höhe von 14.221,28 € anrechnen lassen, sodass dem Kläger ein ersatzfähiger Schaden in Höhe von 7.678,73 € verbleibt.Die Finanzierungskosten in Höhe von 1.555,36 € sind ebenfalls als ersatzfähiger Schaden im Rahmen von § 249 BGB zu ersetzen.3. Die von dem Kläger geltend gemachten Rechtsanwaltskosten stehen ihm als ersatzfähiger Schaden gemäß § 249 BGB zu, allerdings nur in der Höhe des Streitwerts aus der berechtigten Klageforderung.Da der Kläger den Streitgegenstand insoweit nicht dahingehend eingegrenzt hat, dass er lediglich den gemäß Vorbem. 3 Abs. 4 S. 1 VV RVG nicht auf die Verfahrensgebühr anrechenbaren Teil der vorgerichtlich angefallenen Geschäftsgebühr Nr. 2300 VV RVG verlangt, steht ihm eine 1,3-fache Regelgebühr unter Zugrundelegung eines Streitwerts von 7.678,73 €, also in Höhe von 729,23 € inkl. Auslagenpauschale und Umsatzsteuer zu. Da es sich vorliegend um ein Massenverfahren handelt, bei dem der wesentliche Aufwand beim Klägervertreter gleichzeitig für eine Vielzahl von Verfahren anfällt, und es sich bei den eingereichten Schriftsätzen ausschließlich um Textbausteine handelt, die überdies im Wesentlichen keinen entscheidungserheblichen Sachvortrag enthalten, ist ein höherer Ansatz als der Mittelsatz von 1,3 für die Geschäftsgebühr (Nr. 2300 Anlage 1 VV RVG) nicht gerechtfertigt. Die Sach- und Rechtslage ist weder umfangreich noch schwierig i.S.d. Nr. 2300 Anlage 1 VV RVG. Zum Zeitpunkt der Entstehung der Geschäftsgebühr war der Gegenstandswert zwar höher als der Streitwert zum Zeitpunkt der mündlichen Verhandlung. Da jedoch die Laufleistung zum Zeitpunkt der Mandatierung nicht bekannt ist, kann nicht auf einen höheren Gegenstandswert abgestellt werden.4. Die Beklagte befand sich nicht seit dem 11.10.2018 im Annahmeverzug. Zu diesem Zeitpunkt verlangte der Kläger jedenfalls eine weitaus höhere Forderung, als ihm tatsächlich zustand, da er eine Nutzungsentschädigung nicht anrechnete. Eine solche Zuvielforderung hindert den Eintritt des Annahmeverzugs (BGH, Urteil vom 20. Juli 2005 - VIII ZR 275/04). Dies gilt insbesondere deshalb, weil es der Beklagten ohne Angaben zur Laufleistung die tatsächliche Höhe des Anspruchs nicht selbst beziffern konnte.5. Zinsen kann der Kläger erst seit Klagezustellung gemäß §§ 291, 288 BGB verlangen. Ein früherer Verzugseintritt scheidet aufgrund der Zuvielforderung des Klägers aus. Ein weitergehender Zinsanspruch besteht nicht. Insbesondere besteht kein Zinsanspruch in Höhe von vier Prozent seit dem 12.02.2015 gemäß § 849 BGB. Diese Vorschrift erfasst zwar jeden Sachverlust durch ein Delikt, ist auch auf die Entziehung von Geld anwendbar und ist auch dann anwendbar, wenn der Schädiger den Geschädigten dazu bestimmt, eine Sache wegzugeben oder darüber zu verfügen. Eine Einziehung des Kaufpreises durch die für die Beklagte Handelnden jedoch erfolgte nicht. Zudem kam es den für die Beklagte Handelnden zur Verfolgung des Zwecks der Erzielung eines wirtschaftlichen Erfolgs zwar auf den Abschluss des Kaufvertrags an. Eine konkrete Einwirkung auf den Kläger zur Weggabe des Kaufpreises durch die für die Beklagte Handelnden im Sinne eines Bestimmens erfolgte jedoch nicht6. Die prozessualen Nebenentscheidungen beruhen auf §§ 92 ZPO, 709 S.1 ZPO.Der Streitwert wird auf 23.455,37 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2318694.html (https://oj.is/2318694)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBaden-WürttembergOrdentliche GerichtsbarkeitOLG KarlsruheRechtsprechungUrteil vom 15.12.2020 - 17 U 742/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Karlsruhe, Urteil vom 15.12.2020 - 17 U 742/19
+                      m. Fundstelle
+                      OLG Karlsruhe, Urteil vom 15.12.2020 - 17 U 742/19 = openJur 2021, 27351
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Karlsruhe, Urteil vom 15.12.2020 - 17 U 742/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 27351
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				1. Der Anspruch des Käufers eines Fahrzeugs, das vom sog. Abgasskandal betroffen ist, gegen den Hersteller auf Schadensersatz gem. § 826 BGB umfasst grds. die Erstattung der zum Erwerb aufgewandten Mittel abzüglich des Werts der Gebrauchsvorteile, § 249 BGB.2. Ein Antrag auf Feststellung, dass der Schädiger verpflichtet ist, dem Käufer weitere Schäden zu ersetzen, ist unzulässig, wenn der insoweit darlegungsbelastete (vgl. BGH, Urteil vom 30. Juli 2020 – VI ZR 397/19 –, juris Rn. 29 mwN) Kläger nicht substantiiert vorträgt, welche weiteren Schäden er aus dem Fahrzeugerwerb befürchtet, dass solche Schäden wahrscheinlich sind und ob auch insoweit die materiellen Haftungsvoraussetzungen des § 826 BGB (oder einer anderen Anspruchsgrundlage) erfüllt wären (Anschluss an BGH, Urteil vom 30. Juli 2020 – VI ZR 354/19 –, juris Rn. 24). 
+				
+				Tenor
+				I. Die Berufung des Klägers gegen das Urteil des Landgerichts Karlsruhe vom 26. Juni 2019 – 8 O 378/18 – wird zurückgewiesen.II. Die Beklagte ist ihres eingelegten Rechtsmittels der Berufung verlustig.III. Von den Kosten des Berufungsverfahrens tragen der Kläger 3/4 und die Beklagte 1/4.IV. Dieses Urteil und das angefochtene Urteil des Landgerichts sind vorläufig vollstreckbar.V. Die Revision wird nicht zugelassen.VI. Der Streitwert des Berufungsverfahrens wird bis 2. November 2020 auf 20.050 EUR festgesetzt; davon entfallen auf die Berufung der Beklagten 7.593,85 EUR, der Rest entfällt auf die Berufung des Klägers. Für die Zeit ab 3. November 2020 wird der Streitwert der Berufung auf 3.000 EUR festgesetzt.VII. In Abänderung des Beschlusses des Landgerichts Karlsruhe vom 22. Mai 2019 wird der Streitwert für die erste Instanz auf 20.050 EUR festgesetzt.  
+				Gründe
+				I.Die Parteien streiten über Ansprüche des Klägers im Zusammenhang mit dem Kauf eines von dem sog. "Abgasskandal" betroffenen Fahrzeugs.Die Beklagte stellte unter der Bezeichnung "EA 189" einen Dieselmotor mit der Abgasnorm Euro 5 her, in dessen Motorsteuerung eine zuvor in Kooperation mit der R. B. GmbH entwickelte Software zur Abgassteuerung installiert wurde. Diese Software verfügt über zwei unterschiedliche Betriebsmodi, welche die Abgasrückführung steuern. In dem im Hinblick auf den Stickoxidausstoß optimierten "Modus 1", der beim Durchfahren des für die amtliche Bestimmung der Fahrzeugemissionen maßgeblichen Neuen Europäischen Fahrzyklus (nachfolgend: NEFZ) automatisch aktiviert wird, kommt es zu einer höheren Abgasrückführungsrate, wodurch die gesetzlich geforderten Grenzwerte für Stickoxidemissionen eingehalten werden. Bei im normalen Straßenverkehr anzutreffenden Fahrbedingungen ist der partikeloptimierte "Modus 0" aktiviert, der zu einer geringeren Abgasrückführungsrate und damit zu einem höheren Stickoxidausstoß führt.Der o.g. Dieselmotor wurde auf Veranlassung des Vorstands der Beklagten nicht nur in diversen Fahrzeugtypen der Beklagten verbaut, sondern auch in solchen der zum V.-Konzern gehörenden Unternehmen.Mit Vertrag vom 14. Dezember 2011 erwarb der Kläger von der Firma V. H. A. ein gebrauchtes Fahrzeug der Marke V., Typ T. 1.6 TDI mit der Fahrzeugidentifikationsnummer ... für einen Kaufpreis von 17.050 EUR brutto (Rechnung vgl. Anlage K 1). Das Fahrzeug wurde dem Kläger am selben Tag übergeben und wies zu diesem Zeitpunkt einen Kilometerstand von 30.000 auf.Mit Bescheid vom 15. Oktober 2015 verfügte das Kraftfahrtbundesamt (im Folgenden: KBA) gegenüber der Beklagten "zur Gewährleistung der Vorschriftsmäßigkeit der [...] Typengenehmigung [...] des Typs EA 189 EU5" die "unzulässigen Abschalteinrichtungen" zu entfernen und drohte damit, andernfalls "die Typengenehmigung ganz oder teilweise zu widerrufen oder zurückzunehmen". Zugleich wurde die Beklagte verpflichtet, den technischen Nachweis zu führen, dass nach Entfernen der als unzulässig eingestuften Abschalteinrichtung alle technischen Anforderungen der relevanten Einzelrechtsakte der Richtlinie 2007/46/EG erfüllt werden.Mit Schreiben vom 3. November 2016 (vgl. Klageerwiderung, dort S. 24 f. = I 147 f.) bestätigte das KBA der Beklagten gegenüber ua für das streitgegenständliche Fahrzeug V. T., dass die in Reaktion auf den Bescheid vom 15. Oktober 2015 von der Beklagten entwickelten technischen Maßnahmen (konkret: Einbau eines Strömungsgleichrichters und Installation eines Softwareupdates) geeignet sind, die Vorschriftsmäßigkeit herzustellen.Der Kläger hat die von dem KBA für die hier in Streit stehenden Fahrzeuge freigegebene technische Maßnahme bereits vor Klageerhebung (vgl. Klageschrift, dort S. 5 = I 9) durchführen lassen.Mit Schreiben seiner Prozessbevollmächtigten vom 27. März 2018 (Anlage K 2) forderte der Kläger die Beklagte unter Fristsetzung ua zur Anerkennung von Schadensersatzansprüchen auf.Mit seiner am 27. November 2018 bei dem Landgericht eingegangenen und der Beklagten am 18. Dezember 2018 zugestellten Klage hat der Kläger erstinstanzlich folgende Anträge gestellt:1. Die Beklagte wird verurteilt, Zug um Zug gegen Rückgabe und Übereignung des streitgegenständlichen Fahrzeugs V. T. 1.6 TDI mit der Fahrgestellnummer ... und Zug um Zug gegen Zahlung einer von der Beklagten noch darzulegenden Nutzungsentschädigung des Fahrzeugs V. T. 1.6 TDI mit der Fahrgestellnummer ... einen Betrag von 17.050,00 EUR nebst Zinsena) hieraus in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit;b) aus einem Betrag von 17.050,00 EUR seit dem 14.12.2011 in Höhe von 4 Prozentpunkten über dem jeweiligen Basiszinssatz bis zur Rechtshängigkeitzu zahlen.2. Es wird festgestellt, dass sich die Beklagte spätestens seit dem 10.04.2018 mit der Rücknahme des in Klagantrag zu 1. bezeichneten Fahrzeugs in Annahmeverzug befindet.3. Es wird festgestellt, dass die Beklagte verpflichtet ist, dem Kläger alle Schäden zu ersetzen, die aus dem Kauf des Fahrzeugs V. T. 1.6 TDI mit der Fahrgestellnummer ... aufgrund falscher Abgaswerte sowie einer installierten Manipulationssoftware entstanden sind und entstehen werden.4. Die Beklagte wird verurteilt, den Kläger von den durch die Beauftragung seiner Prozessbevollmächtigten entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.680,28 EUR freizustellen.Zur Begründung hat der Kläger ua vorgetragen,die Entwicklung und das Inverkehrbringen der streitgegenständlichen Software stelle eine sittenwidrige vorsätzliche Schädigung dar. Er – der Kläger – hätte das Fahrzeug bei Kenntnis von dem Einsatz der Software nicht erworben.Die Beklagte, die ua eine sittenwidrige vorsätzliche Schädigung des Klägers in Abrede gestellt hat, hat erstinstanzlich Klageabweisung beantragt.Wegen der weiteren Einzelheiten des erstinstanzlichen Parteivorbringens und der Anträge wird auf die in dem angefochtenen Urteil getroffenen Feststellungen Bezug genommen (§ 540 Abs. 1 Satz 1 Nr. 1 ZPO).Das Landgericht hat die Beklagte mit Urteil vom 26. Juni 2019 verurteilt, Zug um Zug gegen Übereignung und Übergabe des o.g. Fahrzeugs an den Kläger einen Betrag von 7.593,84 EUR zu zahlen nebst Rechtshängigkeitszinsen hieraus seit dem 19. Dezember 2019 (Tenor Ziff. 1). Darüber hinaus hat es festgestellt, dass sich die Beklagte mit der Rücknahme des Fahrzeugs in Annahmeverzug befindet (Tenor Ziff. 2). Schließlich hat es die Beklagte verurteilt, den Kläger von vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.100,51 EUR freizustellen (Tenor Ziff. 3). Im Übrigen hat es die Klage abgewiesen.Zur Begründung hat das Landgericht – soweit für das Berufungsverfahren noch relevant – im Wesentlichen ausgeführt:Der Kläger könne von der Beklagten zwar Schadensersatz wegen sittenwidriger vorsätzlicher Schädigung verlangen. Indes sei die Klage in Bezug auf den Feststellungsantrag Ziff. 3 mangels schlüssig vorgetragenen Feststellungsinteresses unzulässig. Der Kläger sei zwar der Ansicht, es drohten steuerliche Schäden. Dafür, dass etwa die steuerliche Einstufung von Dieselfahrzeugen tatsächlich rückwirkend aufgehoben werden könnte, gebe es jedoch keinerlei Anhaltspunkte. Die nur rechtliche Möglichkeit gemäß § 130 Abs. 2 AO genüge hierzu nicht. Insbesondere sei nicht ersichtlich, weshalb aus einer falschen Angabe des Stickoxidausstoßes eine Falschangabe des (steuerlich relevanten) Kohlendioxidausstoßes folgen soll. Ein Feststellungsinteresse bestehe auch nicht etwa ausnahmsweise deshalb, weil die Beklagte mit einer Behörde oder einem Versicherer verglichen werden könne, die aufgrund eines Feststellungsurteils leisten würde. Diese Ausnahme gelte nämlich nur für Fälle, in denen schon das Feststellungsurteil zu endgültiger Streitbeilegung führen würde, was hier nach dem übrigen Vortrag beider Parteien nicht zu erwarten sei. Schließlich sei auch der Vortrag, es entstünden sicher noch Abmeldekosten für das Fahrzeug, nicht geeignet, ein Feststellungsinteresse zu begründen, da es sich dabei um Sowiesokosten handele, die bei der Abmeldung eines jeden Pkw, gleich welchen Herstellers und Motors, anfielen.Wegen der weiteren Einzelheiten der Ausführungen des Landgerichts wird auf die Entscheidungsgründe des angefochtenen Urteils Bezug genommen (§ 540 Abs. 1 Satz 1 Nr. 1 ZPO).Hiergegen richtet sich die Berufung des Klägers, mit der er seine erstinstanzlichen Klageanträge zunächst vollumfänglich weiterverfolgte.Nach Berufungsrücknahme im Übrigen führt er die Berufung zuletzt nur noch in Bezug auf den wie folgt neu formulierten Antrag Ziff. 3 weiter (vgl. Protokoll der mündlichen Verhandlung vom 3. November 2020, dort S. 1 = II 141 f.):3. Es wird festgestellt, dass die Beklagte verpflichtet ist, dem Kläger weiteren, von dem landgerichtlichen Tenor Ziff. 1 nicht umfassten Schadensersatz zu leisten für Schäden, die aus der Installation derjenigen Software in der Motorsteuerung des im Fahrzeug V. T. 1.6 TDI mit der Fahrgestellnummer ... verbauten Motors EA 189 resultieren, bei der es sich nach Ansicht des Kraftfahrbundesamtes gemäß Bescheid vom 15. Oktober 2015 gegenüber der Beklagten um eine unzulässige Abschalteinrichtung handelt.Zur Begründung seiner Berufung macht der Kläger geltend,der Klagantrag Ziffer 3 sei zulässig. Der Klagantrag sei schon deshalb zulässig, da sich der Schaden noch in der Entwicklung befinde. Es sei nicht abzusehen, welche weiteren Kosten noch auf ihn zukämen. So sei schon wahrscheinlich, dass im Zuge der Rückabwicklung noch An- und Abmeldekosten, Stand- und Unterbringungskosten sowie Verbringungskosten entstehen werden. Ferner könnten noch Schäden an dem Fahrzeug auftreten (z.B. Versottung des AGR-Ventils), und Service- und Wartungskosten könnten anfallen. Außerdem könne der Mehrverbrauch derzeit noch nicht geschätzt werden; dieser Schaden könne nur mittels eines Sachverständigen geklärt werden.Die Beklagte verteidigt das angegriffene Urteil des Landgerichts unter Wiederholung und Vertiefung ihres erstinstanzlichen Vorbringens und beantragt die Zurückweisung der Berufung.Ihre eigene Berufung hat die Beklagte mit Schriftsatz vom 2. November 2020 zurückgenommen.Wegen der weiteren Einzelheiten des Vorbringens der Parteien im Berufungsrechtszug wird auf den Inhalt der gewechselten Schriftsätze nebst Anlagen Bezug genommen.II.Die zulässige Berufung des Klägers ist – soweit über sie nach überwiegender Rücknahme der Berufung durch den Kläger noch zu entscheiden ist – unbegründet. Die angefochtene Entscheidung beruht insoweit weder auf einer Rechtsverletzung (§ 546 ZPO) noch rechtfertigen die nach § 529 Abs. 1 Nr. 1 ZPO zugrunde zu legenden Tatsachen eine andere Entscheidung (§ 513 ZPO). Den in der Berufungsinstanz zuletzt allein weiterverfolgten Feststellungsantrag Ziff. 3 hat das Landgericht nämlich zu Recht als unzulässig abgewiesen. Zwar genügt der in der Berufungsinstanz zuletzt gestellte Feststellungsantrag den Anforderungen des § 253 ZPO (1.). Indes scheitert er an dem Fehlen des gemäß § 256 Abs. 1 ZPO erforderlichen Feststellungsinteresses (2.).1. Der Feststellungsantrag genügt den Anforderungen des § 253 ZPO (dazu bereits Senat, Urteil vom 18. Juli 2019 – 17 U 160/18 –, juris Rn. 69 ff.; Urteil vom 21. Januar 2020 – 17 U 2/19 –, juris Rn. 94).a) Auch bei einer Feststellungsklage muss die Klage den Anforderungen des § 253 ZPO genügen. Insbesondere muss der Klageantrag im Sinne von § 253 Abs. 2 Nr. 2 ZPO bestimmt sein, denn der Umfang der Rechtshängigkeit und der Rechtskraft müssen feststehen. Der Kläger muss deshalb in seinem Antrag das Rechtsverhältnis, dessen Bestehen oder Nichtbestehen festgestellt werden soll, so genau bezeichnen, dass über dessen Identität und damit über den Umfang der Rechtskraft der begehrten Feststellung keinerlei Ungewissheit herrschen kann (vgl. nur BGH, Urteil vom 22. September 1981 – VI ZR 257/80 – juris Rn. 8; Urteil vom 10. Januar 1983 – VIII ZR 231/81 –, juris Rn. 39; Urteil vom 4. Oktober 2000 – VIII ZR 289/99 –, juris Rn. 35). Dazu genügt es, dass der Kläger die rechtsbegründenden Tatsachen näher angibt. Soweit es sich um Schadensersatzansprüche handelt, ist eine bestimmte Bezeichnung des zum Ersatz verpflichtenden Ereignisses erforderlich (vgl. BGH, Urteil vom 10. Januar 1983 – VIII ZR 231/81 –, juris Rn. 39 mwN).b) Diesen allgemeinen Maßstäben genügt der in der Berufungsverhandlung klarstellend neu formulierte Feststellungsantrag. Zweifel am Umfang der Rechtskraft können hier angesichts der konkreten Bezeichnung des schädigenden Ereignisses nicht auftreten. Eine noch nähere Bezeichnung ist dem Kläger als technischem Laien weder möglich noch zumutbar.2. Indes ist der Feststellungsantrag Ziff. 3 mangels Vorliegens des gemäß § 256 Abs. 1 ZPO erforderlichen Feststellungsinteresses unzulässig.a) Ein auf den Ersatz künftiger Schäden gerichteter Feststellungsantrag kann nur dann Erfolg haben, wenn die sachlichen und rechtlichen Voraussetzungen eines Schadensersatzanspruchs vorliegen, also ein haftungsrechtlich relevanter Eingriff gegeben ist, der zu möglichen künftigen Schäden führen kann (BGH, Urteil vom 30. Juli 2020 – VI ZR 397/19 –, juris Rn. 29 mwN). Dabei kann die Möglichkeit ersatzpflichtiger künftiger Schäden ohne Weiteres zu bejahen sein, wenn ein deliktsrechtlich geschütztes absolutes Rechtsgut verletzt wurde und bereits ein Schaden eingetreten ist. Im Streitfall haftet die Beklagte aber nicht wegen der Verletzung eines absolut geschützten Rechtsguts, sondern wegen der sittenwidrigen vorsätzlichen Herbeiführung eines ungewollten Vertragsschlusses. Der in dem Vertragsschluss selbst liegende Schaden wird bereits von der Verurteilung der Beklagten zur Kaufpreiserstattung erfasst (BGH, aaO). Einen Anspruch auf Ersatz von Inspektions- und Wartungskosten einschließlich Verbrauchsmaterialien (Schmierstoffe, Filter etc.) sowie Kleinreparaturen hat der Kläger nicht (vgl. BGH, Urteil vom 30. Juli 2020 – VI ZR 354/19 –, juris Rn. 24).b) Nach diesen allgemeinen Maßstäben, denen sich der Senat anschließt, ist der Feststellungsantrag unzulässig. Soweit der Senat dies in vergleichbaren Fällen bisher anders gesehen hat (vgl. Senat, Urteil vom 18. Juli 2019 – 17 U 160/18 –, juris Rn. 72 ff.; Urteil vom 21. Januar 2020 – 17 U 2/19 –, juris Rn. 97 ff.), hält er hieran – wie im Termin zur mündlichen Verhandlung erörtert (vgl. Protokoll der mündlichen Verhandlung vom 3. November 2020, dort S. 2 = II 142) – nicht fest. Denn welche weiteren – ersatzfähigen – Schäden der insoweit darlegungsbelastete (vgl. BGH, Urteil vom 30. Juli 2020 – VI ZR 397/19 –, juris Rn. 29 mwN) Kläger aus dem Fahrzeugerwerb befürchtet, dass solche Schäden wahrscheinlich sind und ob auch insoweit die materiellen Haftungsvoraussetzungen des § 826 BGB (oder einer anderen Anspruchsgrundlage) erfüllt wären, lässt sich dem klägerischen Vortrag trotz Hinweises in der mündlichen Verhandlung nicht entnehmen.Die in der Berufungsbegründung (dort S. 12 = II 27) aufgeführten und pauschal als "wahrscheinlich" bezeichneten Beispiele umfassen zum einen nicht erstattungsfähige Kosten (Service- und Wartungskosten; Kosten der Anmeldung eines neuen Fahrzeugs) sowie Kosten, die im Rahmen der Abwicklung der von dem Landgericht – rechtskräftig – ausgeurteilten Zug-um-Zug-Verurteilung der Beklagten nicht vom Kläger zu tragen sind (Verbringungs- und Abmeldekosten). Zum anderen benennt der Kläger Kosten, deren Entstehung nicht ohne Weiteres als wahrscheinlich angesehen werden können. So ist vor dem Hintergrund, dass der Kläger das erworbene Fahrzeug nach wie vor nutzt, weder ersichtlich noch von dem Kläger näher dargelegt, weshalb für das erworbene Fahrzeug vor der Übergabe und Übereignung desselben an die Beklagte erstattungsfähige Stand-, Unterbringungs- oder Abmeldekosten anfallen sollen. Der angeblich aufgetretene Mehrverbrauch an Dieselkraftstoff ist weder substantiiert dargelegt noch ist diesbezüglich eine Haftung der Beklagten ersichtlich. Letzteres gilt auch für die pauschal befürchtete Versottung des AGR-Ventils.Soweit der Kläger erstinstanzlich noch auf befürchtete Steuernachforderungen abgestellt hat (vgl. Replik, dort S. 38 = I 322), kommt er hierauf in der Berufungsinstanz zu Recht nicht zurück. Dass solche Forderungen nicht wahrscheinlich sind, hat das Landgericht zutreffend ausgeführt (LGU 5). Dem (speziell für Rechtsstreitigkeiten über Ansprüche der Erwerber von Kraftfahrzeugen mit dem Motor EA 189, die auf die Überschreitung von angegebenen Abgasgrenzwerten gestützt werden, in den nordbadischen Landgerichtsbezirken zuständigen, mit Hunderten vergleichbaren Fällen betrauten) erkennenden Senat ist kein Fall bekannt geworden, in dem ein Erwerber eines mit dem Motor EA 189 ausgestatteten Fahrzeugs nachträglich mit einer höheren Kfz-Steuer belastet worden ist.III.Die Kostenentscheidung folgt aus §§ 92 Abs. 1, 97 Abs. 1, 516 Abs. 3 ZPO, wobei Berücksichtigung fand, dass die Beklagte ihre Berufung bereits vor der mündlichen Verhandlung zurückgenommen hat.Die Entscheidung zur vorläufigen Vollstreckbarkeit beruht auf §§ 708 Nr. 10, 711, 713 ZPO.Gründe für die Zulassung der Revision bestehen nicht. Das Urteil orientiert sich an der höchstrichterlichen Rechtsprechung.Gemäß § 63 Abs. 2 GKG war der Streitwert des Berufungsverfahrens festzusetzen.In Bezug auf die erstinstanzliche Streitwertfestsetzung hat der Senat von § 63 Abs. 3 Satz 1 Ziff. 2 GKG Gebrauch gemacht. Neben dem Zahlungsantrag Ziff.1 schätzt der Senat den Streitwert für den Feststellungsantrag Ziff. 3 mangels anderer Angaben der Parteien in ständiger Rechtsprechung auf 3.000 EUR.
+			
+			
+			
+			Permalink: https://openjur.de/u/2352906.html (https://oj.is/2352906)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

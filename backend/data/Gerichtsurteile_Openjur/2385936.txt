@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BochumRechtsprechungUrteil vom 25.11.2020 - 4 O 186/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bochum, Urteil vom 25.11.2020 - 4 O 186/20
+                      m. Fundstelle
+                      LG Bochum, Urteil vom 25.11.2020 - 4 O 186/20 = openJur 2022, 2777
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bochum, Urteil vom 25.11.2020 - 4 O 186/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 2777
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatzansprüche nach dem Kauf eines vermeintlich vom sog. Abgasskandal betroffenen Gebrauchtfahrzeugs.Der Kläger erwarb mit Kaufvertrag vom 13.06.2018 von einem Privatverkäufer einen Pkw des Typs Q TDI 3.0 (EU 6) mit einem Kilometerstand von ca. 51.900 km, Erstzulassung: 24.02.2016, zu einem Kaufpreis von 40.600,00 €.Bereits am 28.07.2017 - vor Erwerb des Fahrzeugs durch den Kläger - erfolgte ein Rückruf des streitgegenständlichen Fahrzeugmodells durch das KBA. Hierüber informierte die Beklagte mit Pressemitteilungen vom 28.07.2017 und 27.10.2017 die Öffentlichkeit. Aufgrund der Beanstandung wurde ein Software-Update entwickelt, welches die vom KBA als unzulässig festgestellte Bedatung der Motorsteuerungssoftware nicht mehr enthielt und durch das KBA freigegeben wurde. Dieses Software-Update aus dem Jahr 2017 (AH 09) wurde im Januar 2018 bei dem streitgegenständlichen Fahrzeug durchgeführt.Mit Kaufvertrag vom 06.08.2020 hat der Kläger das Fahrzeug inzwischen bei einem Kilometerstand von 86.750 km zu einem Preis von 33.800,00 € weiterveräußert.Der Kläger behauptet, in dem Pkw sei der Dieselmotor des Typs ... verbaut. Hierbei habe die Beklagte eine illegale Motorensteuerungssoftware verwendet, welche anhand bestimmter Parameter, etwa von Lenkeinschlägen und der Fahrzeugneigung, erkenne, ob sich das Kfz auf einem technischen Prüfstand zur Ermittlung der Emissionswerte oder im üblichen Straßenverkehr befinde. Auf dem Rollenprüfstand rufe die eingebaute Software beim Stickstoff-Ausstoß ein anderes Motorprogramm (Modus 1) als im Normalbetrieb (Modus 0) ab. Dabei werde der Schwerpunkt der Motorsteuerung auf eine bevorzugte Abgasreinigung zu Lasten der Performance gelegt. Nur deswegen würden auf dem Prüfstand geringere und im Bereich der zulässigen Grenzwerte liegende Stickoxidwerte (NOx) erzielt, während die Werte bei gleicher Belastung im sog. "Normalbetrieb" nicht eingehalten würden. Ferner sei als unzulässige Abschalteinrichtung ein sog. Thermofenster verbaut, das die Abgasrückführungsrate bei einer Außentemperatur unter 17° reduziere.Das Software-Update könne nur zu unvollkommenen Ergebnissen führen. Damit werde zum einen die Abgasrückführung intensiviert, was zu einer Abkühlung der Verbrennungstemperatur und damit zu einer Verringerung der chemischen Reaktion führe, bei der die Stickoxide entstünden. Zum anderen werde die Abgasreinigung durch den eingebauten Speicherkat, möglicherweise durch Erhöhung der Regenerationszyklen, erhöht.Der Kläger beruft sich auf eine vorsätzliche sittenwidrige Schädigung durch die Beklagte. Die sittenwidrige Handlung liege im arglistigen Inverkehrbringen des mangelhaften Fahrzeugs unter Geheimhaltung der bewusst eingebauten Abschalteinrichtungen zur Beeinflussung der Emissionswerte auf dem Prüfstand. In Kenntnis des tatsächlichen Zustandes des Fahrzeugs hätte die Klagepartei vom Erwerb abgesehen.Der Kläger beantragt,1. die Beklagte zu verurteilen, Zug um Zug gegen Herausgabe des durch die Versicherung und die Veräußerung des Fahrzeugs der Marke Q mit der Fahrgestellnummer ... erlangten Betrages in Höhe von 33.800,00 Euro an die Klagepartei den Kaufpreis in Höhe von 40.600,00 Euro abzüglich eines Nutzungsentschädigungsbetrages in Höhe von 3.157,58 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz aus 37.442,42 Euro seit dem 11.02.2020 zu bezahlen;2. die Beklagte zu verurteilen, die Klagepartei von den Kosten des außergerichtlichen Vorgehens in Höhe von 1.590,91 Euro freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Sie macht geltend, die behauptete Täuschungshandlung scheide bereits aus, weil der Kläger das Fahrzeug erst nach Erlass des KBA-Bescheides über den Rückruf und nach Durchführung des Software-Updates erworben habe. Es sei davon auszugehen, dass dem Kläger diese Umstände zum Kaufzeitpunkt bekannt gewesen seien. Jedenfalls sei vor diesem Hintergrund der Vorwurf einer sittenwidrigen Schädigung auszuschließen.Die Beklagte wendet ferner ein, nicht sie, sondern die B-AG habe den Motor entwickelt und hergestellt.Sie stellt unzulässige Abschalteinrichtungen in Abrede. Das sog. Thermofenster sei üblicher technischer Standard und rechtlich zulässig. Im Hinblick auf die vermeintliche Lenkwinkel- und Neigungserkennung liege keine Beanstandung durch das KBA vor. Bei Prüfungen sei keinerlei Zusammenhang zwischen einer sog. Prüfstandserkennung und einer gegebenen Steigungssignal-Erkennung auf der Rolle festgestellt worden.Das aufgespielte Software-Update sei mit keinerlei negativen Folgen verbunden.Wegen des weiteren Vorbringens der Parteien wird auf die gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I.Dem Kläger steht kein Schadensersatzanspruch gegen die Beklagte aus § 826 BGB wegen vorsätzlicher sittenwidriger Schädigung zu.Nach § 826 BGB ist derjenige, der in einer gegen die guten Sitten verstoßenden Weise einem anderen vorsätzlich Schaden zufügt, dem anderen zum Ersatz des Schadens verpflichtet.Die Kläger hat bereits eine für einen möglichen Schaden kausal gewordene Täuschungshandlung nicht schlüssig dargelegt hat. Die Erregung eines Irrtums ist schon begrifflich ausgeschlossen, wenn der Kläger bereits Kenntnis oder fahrlässige Unkenntnis von den Tatsachen hatte, über deren Vorliegen er getäuscht worden sein will. Die Beklagte hat substantiiert dargelegt und durch Vorlage der Pressemitteilungen vom 28.07.2017 und 27.10.2017 mit Schriftsatz vom 13.11.2020 (Bl. 255, 257 d.A.) belegt, dass die Öffentlichkeit bereits unmittelbar nach dem KBA-Rückruf informiert wurde. Dem hat der Kläger nichts entgegen gesetzt, insbesondere ist er jede Erklärung schuldig geblieben, inwieweit er dennoch zum Zeitpunkt des Erwerbs von der Abgasthematik auch betreffend Fahrzeugen des streitgegenständlichen Typs keine Kenntnis gehabt haben will.Letztlich kann die Frage nach einer Kenntnis des Klägers aber auch dahinstehen. Denn jedenfalls fehlt es zum maßgeblichen Zeitpunkt des Fahrzeugerwerbs an einem Schädigungsvorsatz der Beklagten i.S.d. § 826 BGB.Auf Erwerber eines betroffenen Fahrzeugs nach Bekanntwerden der Abgasproblematik kann sich der vom Kläger behauptete Plan der Beklagten nicht erstreckt haben, weil ein solcher die Unbekanntheit möglicher Abschalteinrichtungen vorausgesetzt hätte. Dies gilt erst recht, wenn schon vor dem Fahrzeugkauf das vom KBA freigegebene Software-Update aufgespielt wurde. Der Schädigungsvorsatz der Beklagten muss im Zeitpunkt des Fahrzeugerwerbs noch vorgelegen haben, mithin im Juni 2018. Die Beklagte hat aber bereits im Jahr 2017 durch Pressemitteilungen von der Beanstandung durch das KBA sowie über die Möglichkeit der Durchführung eines Software-Updates informiert. Vor diesem Hintergrund ist ein weiter bestehender Schädigungsvorsatz der Beklagten noch im Juni 2018 fernliegend, jedenfalls nicht schlüssig dargetan (vgl. BGH, Urt. v. 30.07.2020, Az.: VI ZR 5/20; OLG Hamm, Hinweis v. 27.06.2019, Az. I-17 U 210/18; OLG Braunschweig, Hinweis v. 2.11.2017 Az. 7 U 69/17, BeckRS 2017, 147936; OLG München, Beschl. v. 03.06.2019, Az. 19 U 4356/18).II.Aus den obigen Erwägungen scheiden auch anderweitige deliktische Schadensersatzansprüche gegen die Beklagte aus.Die prozessualen Nebenentscheidungen beruhen auf §§ 91, 709 ZPO.Der Streitwert wird für die Zeit bis zum 12.10.2020 auf 38.318,28 EUR, für die Zeit bis danach bis zum 18.11.2020 auf 38.054,01 EUR und für die Zeit danach auf 3.642,42 EUR festgesetzt.Rechtsbehelfsbelehrung:Gegen die Streitwertfestsetzung ist die Beschwerde an das Landgericht Bochum statthaft, wenn der Wert des Beschwerdegegenstandes 200,00 EUR übersteigt oder das Landgericht die Beschwerde zugelassen hat. Die Beschwerde ist spätestens innerhalb von sechs Monaten, nachdem die Entscheidung in der Hauptsache Rechtskraft erlangt oder das Verfahren sich anderweitig erledigt hat, bei dem Landgericht Bochum, Josef-Neuberger-Straße 1, 44787 Bochum, schriftlich in deutscher Sprache oder zur Niederschrift des Urkundsbeamten der Geschäftsstelle einzulegen. Die Beschwerde kann auch zur Niederschrift der Geschäftsstelle eines jeden Amtsgerichtes abgegeben werden. Ist der Streitwert später als einen Monat vor Ablauf dieser Frist festgesetzt worden, so kann die Beschwerde noch innerhalb eines Monats nach Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses eingelegt werden.Hinweis zum elektronischen Rechtsverkehr:Die Einlegung ist auch durch Übertragung eines elektronischen Dokuments an die elektronische Poststelle des Gerichts möglich. Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet und mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg gemäß § 130a ZPO nach näherer Maßgabe der Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach (BGBl. 2017 I, S. 3803) eingereicht werden. Weitere Informationen erhalten Sie auf der Internetseite www.justiz.de.
+			
+			
+			
+			Permalink: https://openjur.de/u/2385936.html (https://oj.is/2385936)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

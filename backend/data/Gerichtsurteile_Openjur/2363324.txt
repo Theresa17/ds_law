@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSchleswig-HolsteinOrdentliche GerichtsbarkeitOLG SchleswigRechtsprechungUrteil vom 22.10.2021 - 17 U 40/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Schleswig, Urteil vom 22.10.2021 - 17 U 40/21
+                      m. Fundstelle
+                      OLG Schleswig, Urteil vom 22.10.2021 - 17 U 40/21 = openJur 2021, 33134
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Schleswig, Urteil vom 22.10.2021 - 17 U 40/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 33134
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				1. Ein Restschadensersatzanspruch aus § 852 BGB kommt bei Erwerb eines vom "Dieselabgasskandal" betroffenen Neuwagens bei Verjährung eines Anspruchs gemäß § 826 BGB unabhängig davon in Betracht, ob der Geschädigte sich der vor dem OLG Braunschweig geführten Musterfeststellungsklage angeschlossen hatte oder nicht.  Einer "teleologischen Reduktion" steht der eindeutige Gesetzeswortlaut entgegen.2. Vom "erlangten Kaufpreis" sind die gezogenen Nutzungen in Abzug zu bringen. Ein weiterer Abzug für dem Hersteller entstandene Kosten (etwa Produktionskosten) unterbleibt jedenfalls dann, wenn dem Hersteller das Fahrzeug wieder zur Verfügung gestellt wird und gezogene Nutzungen in Abzug gebracht worden sind. 
+				
+				Tenor
+				Auf die Berufung des Klägers wird unter ihrer Zurückweisung im Übrigen das Urteil der 2. Zivilkammer des Landgerichts Kiel vom 11. Juni 2021 - 2 O 156/20 - abgeändert:Die Beklagte wird verurteilt, an den Kläger 19.342,98 € zzgl. Zinsen in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit dem 8. März 2021 sowie vorgerichtliche Rechtsanwaltskosten in Höhe von 1.167,87 € zzgl. Zinsen in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit dem 20. Januar 2021 zu zahlen.Die weitergehende Klage wird abgewiesen.Die Beklagte hat die Kosten beider Rechtszüge zu tragen.Das Urteil ist ohne Sicherheitsleistung vorläufig vollstreckbar. Jedoch kann die Beklagte die Vollstreckung gegen Sicherheitsleistung in Höhe von 110 % des aufgrund des Urteils vollstreckbaren Betrages abwenden, wenn nicht zuvor der Kläger Sicherheit in gleicher Höhe leistet.  
+				Gründe
+				I.Der Kläger begehrt von der Beklagten als Herstellerin seines Fahrzeugs Schadensersatz im Zusammenhang mit dem sogenannten Abgasskandal.Der Kläger erwarb den streitgegenständlichen Pkw, einen Volkswagen Sharan 2.0 TDI Life Blue Motion mit der Fahrzeugidentifikationsnummer ... am 29. Juli 2013 als Neufahrzeug zu einem Kaufpreis in Höhe von 40.889,23 € (Anlage K 1). Im verbauten Motor Typ EA 189 - Schadstoffklasse Euro 5 - war eine unzulässige Motorsteuerungsgerätesoftware installiert, die erkennt, wenn das Fahrzeug auf dem Prüfstand den Neuen Europäischen Fahrzyklus (NEFZ) durchfährt und sodann einen besonderen Modus aktiviert (sogenannte Umschaltlogik). In diesem Modus werden die Stickoxydgrenzwerte eingehalten, während im normalen Fahrbetrieb dies nicht der Fall war. Ab September 2015 wurde die Verwendung dieser Software bekannt und in der Presse umfangreich über die Unzulässigkeit dieser Maßnahme berichtet. Ausgangspunkt war eine Ad-hoc-Mitteilung der Beklagten vom 22. September 2015, in der sie von "Unregelmäßigkeiten" und "Auffälligkeiten" berichtete. Anfang Oktober 2015 wurde ein Internetportal für betroffene Fahrzeuge eingerichtet.Aufgrund einer vom Kraftfahrt-Bundesamt angeordneten Rückrufaktion kam es zur Entwicklung eines Software-Updates durch die Beklagte, welche dazu führen sollte, dass auch im normalen Fahrbetrieb die öffentlich-rechtlichen Grenzwerte der Schadstoffklassen eingehalten würden. Der Kläger ließ das seitens der Beklagten angebotene Update am 22. Mai 2017 auf dem Fahrzeug aufspielen. Die erteilte EG-Typengenehmigung wurde seitens des Kraftfahrt-Bundesamtes nicht widerrufen. In dem streitgegenständlichen Fahrzeug kommt seit Installation des Software-Updates - was unstreitig ist - u. a. eine temperaturabhängige Regulierung der Abgasrückführung über ein sogenanntes "Thermofenster" zum Einsatz. Streitig ist, ob es darüber hinaus auch wiederum eine Zykluserkennung gibt.Der Kläger meldete sich nicht zur Musterfeststellungsklage vor dem Oberlandesgericht Braunschweig an. Mit Kaufvertrag vom 16. Juli 2019 veräußerte er sein Fahrzeug mit damaligem Km-Stand von 63.422 zu einem Verkaufspreis in Höhe von 12.902,00 €. Vergeblich forderte der Kläger die Beklagte anwaltlich unter Fristsetzung bis zum 10. August 2020 zur Anerkennung von Schadensersatzansprüchen auf (K 19).Der Kläger behauptet, der hätte das Fahrzeug bei Kenntnis der Sachlage nicht gekauft. Er sei vor Aufspielen des Software-Updates auch keinesfalls grob fahrlässig unwissend i. S. d. § 199 Abs. 1 Nr. 2 BGB gewesen. Jedenfalls stehe ihm gegenüber der von der Beklagten - unstreitig - erhobenen Verjährungseinrede ein Anspruch aus § 852 BGB zu.Der Kläger hat erstinstanzlich beantragt,1. die Beklagte zu verurteilen, einen in das Ermessen des Gerichts zu stellenden Schadensersatz in Höhe von mindestens 25 % des Kaufpreises des Fahrzeugs EUR 40.889,23 € mindestens somit EUR 10.222,31 nebst Zinsen hieraus in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.Hilfsweise:1. die Beklagte zu verurteilen, an die Klagepartei einen Betrag in Höhe von EUR 27.987,23 nebst Zinsen hieraus in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen. Die Beurteilung erfolgt unter Anrechnung einer Nutzungsentschädigung für die Nutzung des FahrzeugsMarke: VolkswagenFahrzeug-Identifizierungsnummer: ...die sich aus folgender Formel ergibt: Kaufpreis x (Kilometerstand zum Zeitpunkt des Verkaufs- Kilometerstand bei Kauf) / (in das Ermessen des Gerichts gestellte Gesamtlaufleistungen - Kilometerstand Verkauf).2. Die Beklagte zu verurteilen, die Kosten des außergerichtlichen Vorgehens in Höhe von EUR 2.613,24 nebst Zinsen in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklagte hat beantragt,die Klage abzuweisen.Die Beklagte hat zunächst eine frühere Kenntnis des Klägers behauptet, was den Eintritt der Verjährung betreffe. Im Übrigen habe das aufgespielte Software-Update zu keinen negativen Auswirkungen geführt. Das sogenannte Thermofenster sei keinesfalls eine unzulässige Abschalteinrichtung.Das Landgericht hat mit seinem Urteil, auf welches gemäß § 540 Abs. 1 Nr. 1 ZPO hinsichtlich weiterer Einzelheiten verwiesen wird, die Klage abgewiesen. Unmittelbare Ansprüche aus § 826 BGB seien verjährt. Auch ein sogenannter "Restschadensersatzanspruch" gemäß § 852 Satz 1 BGB stehe dem Kläger nicht zu. Es sei dem Kläger nämlich ohne weiteres möglich gewesen, vorher Klage zu erheben, insbesondere auch über den Anschluss an die erhobene Musterfeststellungsklage. Auch wegen des Software-Updates stehe dem Kläger kein Anspruch aus § 826 BGB zu.Hiergegen richtet sich die Berufung des Klägers, mit welcher er zunächst sein Antragsprogramm vom - bisher verfolgten - "kleinen Schadensersatz" zum "großen Schadensersatz" ändert. Anders als es das Landgericht angenommen habe, könne von Kenntnis oder grob fahrlässiger Kenntnis, welche den Eintritt der Verjährung ermögliche, nicht ausgegangen werden. Jedenfalls verbleibe aber ein Anspruch auf Restschadensersatz gemäß § 852 BGB. Was das Update anbelange, habe sich das Landgericht überhaupt nicht mit dem Vorwurf einer erneut verbauten Zykluserkennung auseinandergesetzt.Der Kläger beantragt,Auf die Berufung der Klagepartei wird das Urteil des Landgerichts Kiel vom 11.06.2021 (Az. 2 O 156/20) teilweise abgeändert.1. Die Beklagte wird verurteilt, Zug um Zug gegen Herausgabe des Verkaufserlöses aus dem Verkauf des Fahrzeugs Marke: Volkswagen, Typ: SHARAN mit der Fahrzeug-Identifizierungsnummer: ... in Höhe von EUR 12.902,00 an die Klagepartei EUR 40.889,23 nebst Zinsen hieraus in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit, unter Anrechnung einer in das Ermessen des Gerichts zu stellenden Nutzungsentschädigung für die Nutzung des Fahrzeugs zu erstatten, die sich aus folgender Formel ergibt: Kaufpreis x (Kilometerstand bei Veräußerung - Kilometerstand bei Erwerb) / (geschätzte Gesamtlaufleistung - Kilometerstand bei Erwerb), zu zahlen.HilfsweiseDie Beklagte wird verurteilt, einen in das Ermessen des Gerichts zu stellenden Schadensersatz in Höhe von mindestens 25 % des Kaufpreises des Fahrzeugs EUR 40.889,23, mindestens somit EUR 10.222,31 nebst Zinsen hieraus in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.2. Die Beklagte wird verurteilt, die Kosten des außergerichtlichen Vorgehens in Höhe von EUR 2.613,24 nebst Zinsen in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.3. Vorsorglich wird für den Fall des Unterliegens beantragt, die Revision zuzulassen.Die Beklagte beantragt,die Berufung zurückzuweisen.Die Beklagte verteidigt das landgerichtliche Urteil und vertieft ihr bisheriges Vorbringen, dieses insbesondere auch im Hinblick auf die Ablehnung eines Restschadensersatzanspruchs gemäß § 852 BGB. Allerdings habe ein "Direktgeschäft" unmittelbar mit dem Hersteller vorgelegen.Im Übrigen wird Bezug genommen auf das Protokoll der mündlichen Verhandlung vor dem Senat am 1. Oktober 2021 und die zwischen den Parteien gewechselten Schriftsätze mit jeweils beigefügten Anlagen.II.Die zulässige Berufung des Klägers hat mit seinem im Berufungsrechtszug in erster Linie verfolgten Begehren Erfolg.Mit dem Landgericht ist zwar davon auszugehen, dass ein Anspruch des Klägers auf Schadensersatz bzw. Rückabwicklung seines Fahrzeugkaufes gemäß § 826 BGB zwischenzeitlich verjährt ist (1.) und zur Anspruchsbegründung auch nicht an die Aufspielung des sogenannten "Updates" angeknüpft werden kann (2.). Allerdings haftet die Beklagte gleichwohl aus dem Restschadensersatzanspruch gemäß § 852 BGB (3.), dessen Anwendung in der hier vorliegenden Konstellation zur gleichen Rechtsfolge wie die ursprüngliche Haftung gemäß § 826 BGB führt (4.).1. Der hier vorliegende Erwerb am 29. Juli 2013 eines VW Sharan 2.0 TDI Life Blue Motion mit EA 189-Motor und eingebauter unzulässiger Abschaltsoftware stellt inzwischen die geradezu klassische Situation einer Haftung der Beklagten gemäß § 826 BGB wegen sittenwidriger Schädigung dar, welche auch durch den späteren Einbau des Updates - vorliegend am 22. Mai 2017 - nicht als solche entfallen ist (siehe nur BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, bei Juris, und bereits vorangehend Senatsurteil vom 22. November 2019 - 17 U 44/19 -, bei Juris). Gegen die - heute - sehr einfach begründbare Haftung spricht lediglich, dass die erst im Dezember 2020 erfolgte Klagerhebung nicht mehr geeignet war, die dreijährige Verjährung (§ 199 BGB) zu hemmen.Man mag darüber streiten können, ob jeder Kunde in jedem Fall hinreichende Kenntnis oder grob fahrlässige Unkenntnis von der Dieselabgasproblematik bereits im Herbst 2015 erlangen konnte. Gewiss ist allerdings, dass VW-Kunden, beginnend mit Februar 2016, über das KBA angeschrieben wurden und von daher überhaupt nichts dafür spricht, dass nicht jedenfalls bis Ende 2016 auch der Kläger hinreichende Kenntnis von der Betroffenheit seines Fahrzeugs vom Dieselskandal erlangen konnte, also mit seiner Unkenntnis jedenfalls als grob fahrlässig i. S. d. § 199 Abs. 1 Nr. 2 BGB zu bezeichnen wäre. Jedenfalls zum Jahresende 2019 war damit Verjährung eingetreten. Da der Kläger sich auch nicht an einer Musterfeststellungsklage beteiligt hat, kann er sich auch nicht insoweit auf eine hierdurch bewirkte Verjährungshemmung berufen.2. Günstiger für den Kläger hätte es liegen können, wenn tatsächlich mit dem Aufspielen des Updates im Jahr 2017 eine weitere vorsätzliche sittenwidrige Schädigungshandlung i. S. d. § 826 BGB verbunden gewesen wäre. Dies versucht der Kläger mit der Behauptung eines Einbaus erneuter unzulässiger Abschalteinrichtungen zu begründen, kann damit aber nicht überzeugen:Soweit hierbei schon auf den als solches unstreitigen Einbau eines sogenannten "Thermofensters" abgestellt wird, folgt hieraus jedoch weder die Existenz einer unzulässigen Abschalteinrichtung noch, dass bei seinerzeitiger Rechtslage die Beklagte insoweit vorsätzlich sittenwidrig gehandelt haben müsste. Dies betrifft auch einen möglichen Verstoß gegen einschlägiges EU-Recht. All dies ist - was das Thermofenster anbelangt - bereits auch vom Bundesgerichtshof in seiner Entscheidung vom 9. März 2021 - VI ZR 889/20 - beschieden worden und entspricht im Übrigen der aktuellen Rechtsprechung des Senats (vgl. nur - wenn auch am Beispiel des EA 288-Motors - Urteil vom 13. August 2021 - 17 U 9/21 -, bei Juris, Rn. 43 ff.).Anderes folgt auch nicht aus der Argumentation des Klägers mit angeblichen Indizien für eine Zykluserkennung. Denn hier verbleibt der Kläger letztlich bei einer bloßen Spekulation. Soweit es in der Berufungsbegründung (S. 32, Bl. 361 d. A.) heißt: "Ein solches Ergebnis (gemeint sind die Straßenverkehrmessungen der Deutschen Umwelthilfe) kann nur das Resultat einer illegalen Abschalteinrichtung sein. Es ist ausgeschlossen, dass der reine Straßenbetrieb an sich zu einem derart sprunghaften Anstieg von Immissionen führt", ist dies keinesfalls zwingend. Solange nämlich - und dies war beim EA 189 auf jeden Fall der Fall - bei der Messung der Abgaswerte auf den NEFZ unter Prüfstandsbedingungen abzustellen ist und nicht auf Realmessungen, wird ohnehin ein Hersteller selbstverständlich vor allem den NEFZ im Blick haben, jenseits dessen es im Realbetrieb zu schlechteren Werten kommen wird. Dies ist bereits die Konsequenz einer derartigen Normvorgabe und daher nicht als solches "sittenwidrig". Nur hinzu kommt, dass das Kraftfahrtbundesamt die Problematik seit längerem kennt, wiederholt Überprüfungen vorgenommen hat und überhaupt nichts dafür spricht, dass es insoweit zu einer Stilllegung betroffener Fahrzeuge kommen könnte.3. Damit verbleibt allein die Möglichkeit eines - der Höhe nach durch den ursprünglichen Anspruch gemäß § 826 BGB begrenzten - Schadensersatzanspruches aus § 852 BGB.Insoweit ist die Diskussion über Möglichkeit und Zweck einer solchen Haftung bisher allerdings noch nicht abgeschlossen. Das Landgericht hat sich hierbei der Auffassung angeschlossen, die eine Haftung aus § 852 BGB letztlich aus Erwägungen der Gesetzgebungshistorie und der Teleologie weitgehend reduzieren möchte. Letztlich habe es der Kläger doch selbst in der Hand gehabt, sich rechtzeitig bei der Musterfeststellungsklage anzumelden oder überhaupt früher Klage zu erheben. Die Schwäche dieses Standpunktes - der rechtspolitisch als solcher durchaus vertretbar ist - besteht allerdings darin, dass er in der Normfassung selbst keinen Widerhall gefunden ha, vielmehr der Gesetzgeber trotz Erörterung der Problematik im Rahmen der Schuldrechtsreform an der jetzigen Fassung des § 852 BGB festgehalten hat. Die eine derartige teleologische Reduktion unterstützenden Entscheidungen von Obergerichten leiden konsequenterweise auch unter einer eher kursorischen Begründung (etwa OLG Frankfurt, Urteil vom 21. Januar 2011 - 19 U 117/20 -, bei Juris, Rn. 17; OLG Düsseldorf, Urteil vom 20. Mai 2021 - 5 U 57/20 -, bei Juris, Rn. 53 ff.; OLG Bamberg, Urteil vom 4. August 2021 - 3 U 110/21 -, bei Juris, Rn. 10 ff.).Der erkennende Senat folgt daher dieser Auffassung nicht. Er ist vielmehr mit Entscheidungen des Oberlandesgerichts Stuttgart (Urteil vom 9. März 2021 - 10 U 339/20 -, bei Juris; Urteil vom 12. Mai 2021 - 9 U 17/21 -, bei Juris, Rn. 65 ff.), des OLG Hamm (Urteil vom 3. Mai 2021 - 17 U 196/20 -, bei Juris, Rn. 3 f.) und des OLG Karlsruhe (Urteil vom 9. Juli 2021 - 13 U 168/21 -, bei Juris) der Auffassung, jedenfalls beim Erwerb eines Neuwagens dem Kläger gemäß § 852 BGB binnen des dort genannten 10-Jahres-Zeitraums einen Schadensersatzanspruch grundsätzlich zuzusprechen. Beim Kauf eines Gebrauchtwagens (hierzu OLG Düsseldorf, Urteil vom 16. Februar 2021 - 22 U 248/20 -, bei Juris, Rn. 6 ff. und OLG Karlsruhe, Urteil vom 31. März 2021 - 13 U 678/20 -, bei Juris, Rn. 35 f.) liegt dies deshalb potentiell anders, weil dort die - abzuschöpfende - Gewinnerzielung nicht ohne Weiteres mehr dem Hersteller zugeordnet werden muss, sondern auch auf den Zwischenstufen der Vertriebskette aufgetreten sein kann."Erlangt" i. S. d. § 852 BGB wäre insoweit der tatsächlich dem Hersteller zugeflossene Kaufpreis, bei Verkauf über einen Vertragshändler allerdings abzüglich der anzunehmenden ggf. gemäß § 287 ZPO zu schätzenden Händlermarge des Vertragshändlers. In Abzug zu bringen sind zweifelsfrei die gezogenen Nutzungen (s. Entscheidungen der Oberlandesgerichte Stuttgart und Karlsruhe a.a.O.).Die Frage bleibt, ob die Kosten des Herstellers (Produktionskosten pp.) in Abschlag zu bringen sind. Dies wird zum Teil im Hinblick auf die Bösgläubigkeit der Beklagten über § 819 Abs. 4 BGB abgelehnt (OLG Karlsruhe, Urteil vom 9. Juni 2021 - 13 U 168/21 -, bei Juris, Rn. 83), zum Teil aber auch wegen der synallagmatischen Verknüpfung der Aufwendung dieser Kosten mit dem gezahlten Kaufpreis befürwortet (OLG Stuttgart, Urteil vom 12. Mai 2021 - 9 U 17/21 -, bei Juris, Rn. 67 ff.). Der Senat kann diese Fragestellung offen lassen. Denn jedenfalls bei Rückgewähr des Fahrzeugs oder eines diesem gleichzusetzenden Surrogates fließt der realisierte Gegenwert der Produktionskosten ohnehin wieder an den Hersteller zurück. Dass das Fahrzeug inzwischen älter geworden und genutzt worden ist, ändert hieran nichts. Denn dieser Umstand ist bereits über die auf Kaufpreis- und Kilometerleistung bezogene Nutzungsentschädigung hinreichend berücksichtigt.4. Auf den konkreten Fall angewendet, ergibt sich Folgendes:Der sich aus der Auftragsbestätigung (K1) ergebende "Gesamtbetrag" von 40.889,23 € stellt - anders als in vielen anderen VW-Fällen - ohne weiteren Abzug den der Beklagten zugeflossenen Kaufpreis dar. Dies folgt daraus, dass die Rechnungsstellung laut vorliegenden Dokumenten nämlich unmittelbar durch die Beklagte selbst erfolgte. Auch die Beklagte hat in der mündlichen Verhandlung unstreitig gestellt, dass vorliegend die Absatzform eines "Direktgeschäfts" realisiert worden war. Auf den Abzug einer Händlermarge kommt es damit vorliegend nicht an.In Abschlag zu bringen sind allerdings der bereits vom Kläger selbst errechnete Nutzungsersatz in Höhe von 8.644,25 €. Dies entspricht einer angegebenen Laufleistung von 63.422 km bei angenommener Gesamtlaufleistung von 300.000 km, was der ständigen Senatsrechtsprechung entspricht.Weiter in Abschlag zu bringen ist der vom Kläger mit Kaufvertrag vom 16. Juli 2019 erzielte Kaufpreis von 12.902,00 €. Einen derartigen Abzug lässt die Rechtsprechung des Bundesgerichtshofs inzwischen zu (Urteil vom 20. Juni 2021 - VI ZR 357/20 -, bei Juris). Dieser Betrag stellt zugleich unter Bereicherungsaspekten das wirtschaftliche Surrogat sowohl des nicht mehr vorhandenen Fahrzeugs als auch der von der Beklagten aufgewendeten Produktionskosten dar, so dass insoweit kein weiterer Abschlag erforderlich ist.Im Gesamtergebnis führt dies dazu, dass die Beklagte an den Kläger noch eine Zahlung von 19.342,98 € zzgl. Rechtshängigkeitszinsen zu erbringen hat.Die Beklagte schuldet dem Kläger unter Verzugsaspekten auch vorgerichtliche Rechtsanwaltskosten, allerdings nicht in der begehrten Höhe. Zum einen rechtfertigt sich bei der massenhaften Erledigung dieser Verfahren lediglich der Ansatz einer Geschäftsgebühr von 1,3 gemäß VV-RVG Nr. 2300, zum anderen konnte schon vorgerichtlich als Gegenstandswert der ausgeurteilte Betrag von 19.342,98 € angenommen werden und nicht der von dem klägerischen Prozessbevollmächtigten angenommene Wert des Kaufpreises in Höhe von 40.889,23 €.Die Kostenentscheidung beruht auf §§ 97 Abs. 1, 92 Abs. 2 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit ergeht gemäß §§ 708 Nr. 10, 711 ZPO.Die Revision hat der Senat gemäß § 543 Abs. 2 ZPO deshalb zugelassen, weil die Frage der Anwendung des § 852 BGB und insbesondere der bereicherungsrechtlichen Konsequenzen noch nicht hinreichend geklärt ist.
+			
+			
+			
+			Permalink: https://openjur.de/u/2363324.html (https://oj.is/2363324)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate12
+				
+				
+					 Zitiert7
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

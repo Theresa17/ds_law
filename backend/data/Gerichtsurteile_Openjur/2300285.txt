@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG München IRechtsprechungEndurteil vom 05.10.2020 - 31 O 5692/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG München I, Endurteil vom 05.10.2020 - 31 O 5692/20
+                      m. Fundstelle
+                      LG München I, Endurteil vom 05.10.2020 - 31 O 5692/20 = openJur 2020, 73979
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG München I, Endurteil vom 05.10.2020 - 31 O 5692/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 73979
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist für die Beklagte gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf ... € festgesetzt. 
+				Tatbestand
+				Am 21.12.2015 erwarb der Kläger von ... das nachstehend aufgeführte Gebraucht-Fahrzeug (Anlage K 1):Kaufpreis: ... Euro, Hersteller/Typ: Volkswagen Polo 1.6 TDI DSG Fahrzeug-Ident.-Nr...., Motorart: EA 189.Mit Schreiben vom 22.04.2020 forderten die Prozessbevollmächtigten des Klägers die Beklagte unter Fristsetzung bis zum 06.05.2020 zur Zahlung von Schadenersatz Zug um Zug gegen Übergabe des Fahrzeugs auf (Anlage K 2).Der Kläger ist der Ansicht, dass er Schadensersatzansprüche gegen die Beklagten hat gem. §§ 31, 246, 249, 823, 826, 831, 849 BGB, § 263 StGB, da die Beklagte das Fahrzeug mit der gesetzwidrigen Software-Programmierung, einer verbotenen Abschalteinrichtung in den Verkehr gebracht hat und er damit vorsätzlich und sittenwidrig getäuscht worden sei.Diese Abschalteinrichtung setzt die zu einem geringeren Stickoxidausstoß führende, ausschließlich für den Prüfstand bestimmte Programmierung der Motorsteuerung im Modus 1 für den Fahrbetrieb auf der Straße außer Kraft mit der Folge, dass der Stickoxidausstoß im Fahrbetrieb auf der Straße höher ist als auf dem Prüfstand. Umgekehrt wird die im normalen Fahrbetrieb wirksame Programmierung etwa für die Abgasrückführung auf dem Prüfstand außer Kraft gesetzt, indem die Motorsteuerung den sogenannten Modus 0, nämlich den Betriebszustand für den normalen Fahrbetrieb auf der Straße, zu Gunsten eines ausschließlich für den Prüfstandbetrieb bestimmten Modus abschaltet.Hätte der Kläger dies gewusst, hätte er das Fahrzeug nicht erworben, wodurch er hingegen nunmehr einen Schaden erlitten habe. Einen Nutzungsersatz schulde er nicht. Durch das Update seien Schäden zu befürchten und aufgrund der Umschaltlogik habe das Fahrzeug außerdem einen Wertverlust erlitten.Der Kläger meldete seine Ansprüche zum Klageregister in dem Musterfeststellungsverfahren gegen die Beklagte vor dem OLG Braunschweig (AZ ...) am 02.12.2018 an (Anlage K 16, 17). Den von der Beklagten im Rahmen des Musterfeststellungsverfahrens angebotenen Vergleich nahm der Kläger nicht an. Die Musterfeststellungsklage wurde gemäß Bekanntmachung des Bundesamtes für Justiz vom 13.5.2020 am 04.05.2020 durch Klagerücknahme beendet.Beim Kauf des Fahrzeuges habe er nichts von der Betroffenheit des von ihm erworbenen Fahrzeuges gewusst.Hinsichtlich der Einzelheiten wird auf die umfangreiche Klageschrift sowie auf den Schriftsatz vom 23.07.2020 Bezug genommen.Im Termin zur mündlichen Verhandlung hat der Kläger vorgetragen, dass er das Auto deshalb gekauft hat, weil es ein kleineres ist und in die "Duplex" reinpasst (vgl. Sitzungsprotokoll).Da seitens der Beklagten eine ablehnende Stellungnahme auf das Rücknahmeverlangen erfolgt ist (Anlage K 3), beantragt der Kläger nunmehr:1. Die Beklagte wird verurteilt, an die Klägerschaft ... € zzgl. Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 21.12.2015 zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs Volkswagen Polo 1.6 TDI DSG mit der Fahrgestellnummer ....2. Es wird festgestellt, dass sich die Beklagte mit der Entgegennahme des im Klageantrag zu 1. genannten Fahrzeugs in Annahmeverzug befindet.3. Die Beklagte wird verurteilt, die Klägerschaft von vorgerichtlichen Rechtsverfolgungskosten i.H.v. ... € freizustellen.Die Beklagte beantragtKlageabweisung.Hierzu trägt sie insbesondere vor, dass die Klagepartei das im vorliegenden Rechtsstreit streitgegenständliche Fahrzeug zu einem Zeitpunkt erworben hat, als die Beklagte die Verwendung der Umschaltlogik längst öffentlich bekannt gemacht und konkrete Schritte zur Überarbeitung der Motorsteuerungssoftware eingeleitet hatte. Dies führe dazu, dass weder der Kaufvertragsabschluss kausal auf einem schädigenden Verhalten oder einer Täuschung der Beklagten beruht, noch dass zu diesem Zeitpunkt noch ein Schädigungsvorsatz der Beklagte bestand.Die Beklagte hatte den Einsatz der Umschaltlogik in weltweit ca. 11 Millionen Konzernfahrzeugen mit einer ad hoc Mitteilung vom 22. September 2015 öffentlich bekannt gegeben und die Öffentlichkeit sowie die betroffenen Fahrzeughalter auch im Anschluss weiter informiert. Schließlich habe zu keinem Zeitpunkt eine konkrete Gefahr für die Nutzbarkeit des Fahrzeugs bestanden. Weder habe konkret die Entziehung der Typgenehmigung gedroht noch die Stilllegung des Fahrzeugs. Dies gelte insbesondere deshalb, weil die Konzeptsoftware für die Überarbeitung der Motorsteuerungssoftware bereits im November 2015 entwickelt war und durch das KBA als geeignet angesehen wurde.Im Übrigen werden die sonstigen Voraussetzungen für Ansprüche des Klägers bestritten bzw. deren Vorliegen verneint. Hinsichtlich der Einzelheiten wird auf die umfangreiche Klageerwiderung vom 07.07.2020 Bezug genommen.Zur Ergänzung des Tatbestands wird auf die übrigen Schriftsätze nebst Anlagen sowie auf das Sitzungsprotokoll Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet, wobei sich die örtliche Zuständigkeit des LG München I aus § 32 ZPO ergibt.Der Kläger hat gegenüber der Beklagten keine Ansprüche aus dem Erwerb des streitgegenständlichen Fahrzeugs.Dies ergibt sich aus dem überzeugenden Urteil des BGH vom 30.07.2020 - VI ZR 5/20 (siehe auch Pressemitteilung des BGH Nr. 101/2020 vom 30.07.2020) von welchen abzuweichen keine Veranlassung besteht.Hierin verneint der BGH Schadensersatzansprüche bei Kauf eines mit einer unzulässigen Abschalteinrichtung versehenen Gebrauchtwagens nach Bekanntwerden des sogenannten Dieselskandals.So sei es nicht zu beanstanden, dass das dortige Berufungsgericht Ansprüche aus § 826 BGB deshalb verneint hat, weil das Verhalten der Beklagten gegenüber dem Kläger nicht (mehr) als sittenwidrig anzusehen ist. Für die Bewertung eines schädigenden Verhaltens als sittenwidrig im Sinne von § 826 BGB sei in einer Gesamtschau dessen Gesamtcharakter zu ermitteln und das gesamte Verhalten des Schädigers bis zum Eintritt des Schadens beim konkreten Geschädigten zugrunde zu legen. Dies werde insbesondere dann bedeutsam, wenn die erste potenziell schadensursächliche Handlung und der Eintritt des Schadens zeitlich auseinanderfallen und der Schädiger sein Verhalten zwischenzeitlich nach außen erkennbar geändert hat.War das Verhalten der Beklagten gegenüber Käufern, die ein mit einer illegalen Abschalteinrichtung versehenes Fahrzeug vor dem 22. September 2015 erwarben, sittenwidrig (vgl. Senatsurteil vom 25. Mai 2020 - VI ZR 252/19, Rn. 16 ff.), so seien durch die Verhaltensänderung der Beklagten wesentliche Elemente, die das Unwerturteil ihres bisherigen Verhaltens gegenüber bisherigen Käufern begründeten, derart relativiert, dass der Vorwurf der Sittenwidrigkeit bezogen auf ihr Gesamtverhalten gegenüber diesen Käufern nicht mehr gerechtfertigt ist.So sei bereits die Mitteilung der Beklagten vom 22. September 2015 objektiv geeignet gewesen, das Vertrauen potenzieller Käufer von Gebrauchtwagen mit VW-Dieselmotoren in eine vorschriftsgemäße Abgastechnik zu zerstören, diesbezügliche Arglosigkeit also zu beseitigen. Aufgrund der Verlautbarung und ihrer als sicher vorherzusehenden medialen Verbreitung sei typischerweise nicht mehr damit zu rechnen gewesen, dass Käufer von gebrauchten VW-Fahrzeugen mit Dieselmotoren die Erfüllung der hier maßgeblichen gesetzlichen Vorgaben noch als selbstverständlich voraussetzen würden. Für die Ausnutzung einer diesbezüglichen Arglosigkeit sei damit kein Raum mehr; hierauf konnte das geänderte Verhalten der Beklagten nicht mehr gerichtet sein. Käufern, die sich, wie der Kläger, erst für einen Kauf entschieden haben, nachdem die Beklagte ihr Verhalten geändert hatte, sei deshalb - unabhängig von ihren Kenntnissen vom "Dieselskandal" im Allgemeinen und ihren Vorstellungen von der Betroffenheit des Fahrzeugs im Besonderen - nicht sittenwidrig ein Schaden zugefügt worden. Auch Ansprüche aus sonstigen Vorschriften hat der Senat verneint.Sofern der Kläger sich u.a. darauf stützt, dass Vorsatz und die Schädigungsabsicht der Beklagten bzw. ihrer Vorstände und Mitarbeiter zum Zeitpunkt vorlag, als das streitgegenständliche Fahrzeug im Jahr 2013 gebaut wurde, so ist dies unerheblich. Denn maßgeblich ist das Vorliegen der Tatbestandsvoraussetzungen zum Zeitpunkt des Erwerbs des streitgegenständlichen Fahrzeuges, also zum 21.12.2015. Der Kläger behauptet ja auch nicht, im Jahr 2013 getäuscht und geschädigt worden zu sein, sondern anlässlich des Kaufes im Jahr 2015. Zu diesem Zeitpunkt jedoch verneint der BGH zutreffend grundsätzlich das Fortbestehen des früheren Täuschungs- und Schädigungsvorsatzes seitens der Beklagten.Dies entspricht u.a. auch der Ansicht des OLG München:Vgl. OLG München Endurteil v. 16.12.2019 - 21 U 2850/19 (Zurechnungszusammenhang unterbrochen), Beschlüsse v. 16.09.2019 - 27 U 3017/19; v. 14.08.2020 - 3 U 3018/20, v. 03.12.2019 - 20 U 5741/19), das sich bei den sog. Fällen "Kauf nach Bekanntwerden des Dieselskandals" einer Vielzahl anderer obergerichtlicher Entscheidungen angeschlossen hat, denen ähnliche Fallgestaltungen zugrunde lagen, so u.a. OLG Frankfurt, Urteil vom 06.11.2019 - 13 U 156/19; OLG Saarbrücken, Urteil vom 28.08.2019 - 2 U 94/18; OLG Stuttgart, Urteil vom 07.08.2019, 9 U 9/19; OLG Stuttgart, Urteil vom 26.11.2019 - 10 U 199/19; OLG Köln, Urteil vom 06.06.2019 - 24 U 5/19; OLG Dresden, Urteil vom 24.07.2019 - 9 U 2067/18; OLG Celle, Urteil vom 29.04.2019 - 7 U 159/19; OLG Braunschweig, Urteil vom 02.11.2017 - 7 U 69/17; OLG Schleswig-Holstein, Urteil vom 29.11.2019 - 1 U 32/19 und OLG Koblenz, Urteil vom 25.10.2019 - 3 U 948/19.Etwas anders ergibt sich auch nicht durch das Aufspielen des Updates, wodurch keine (neuen) Ansprüche der Klagepartei entstanden sind. Denn die Beklagte konnte - entsprechend der Rechtsprechung des OLG München - berechtigt davon ausgehen, dass die von ihr im Update eingesetzte und vom Kraftfahrtbundesamt geprüfte Software den gesetzlichen Vorschriften entspricht, so dass ein Schädigungsvorsatz in jedem Fall ausscheidet (vgl. z.B. OLG München, Beschluss v. 03.06.2019 - 19 U 4356/18; OLG Frankfurt a.M., Urteil v. 03.06.2020 - 17 U 583/19; ähnlich BGH, Urteil vom 30.07.2020 - VI ZR 5/20 für nach dem 22.09.2015 erworbene Fahrzeuge).Kosten: § 91 ZPO; vorläufige Vollstreckbarkeit: § 709 ZPO; Streitwert: § 3 ZPO. Der Antrag auf Feststellung des Annahmeverzugs erhöht den Streitwert nicht (vgl. BGH, Beschluss vom 25.08.2020 - XI ZR 108/20).
+			
+			
+			
+			Permalink: https://openjur.de/u/2300285.html (https://oj.is/2300285)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate15
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

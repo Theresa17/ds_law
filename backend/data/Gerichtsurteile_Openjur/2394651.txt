@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG DüsseldorfRechtsprechungUrteil vom 21.02.2022 - 9 U 63/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Düsseldorf, Urteil vom 21.02.2022 - 9 U 63/20
+                      m. Fundstelle
+                      OLG Düsseldorf, Urteil vom 21.02.2022 - 9 U 63/20 = openJur 2022, 8530
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Düsseldorf, Urteil vom 21.02.2022 - 9 U 63/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 8530
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 13 O 51/19
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Auf die Berufung der Beklagten wird das am 20.03.2020 verkündete Urteil des Landgerichts Wuppertal (3 O 51/19) unter Zurückweisung der weitergehenden Rechtsmittel teilweise abgeändert und zur Klarstellung wie folgt neu gefasst:Die Beklagte wird verurteilt, an den Kläger 41.897,60 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 01.02.2019 zu zahlen Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs der Marke Volkswagen vom Typ Touareg V6 TDI Bluemotion Technology mit der Fahrgestellnummer ...Die Beklagte wird verurteilt, an den Kläger außergerichtliche Rechtsanwaltskosten in Höhe von 1.954,46 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 01.02.2019 zu zahlen.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits tragen der Kläger zu 21 % und die Beklagte zu 79 %.Dieses Urteil ist gegen Sicherheitsleistung vorläufig vollstreckbar. Der jeweilige Vollstreckungsschuldner darf die Vollstreckung durch Sicherheitsleistung in Höhe von 120 % des vollstreckbaren Betrages abwenden, wenn nicht zuvor der jeweilige Vollstreckungsgläubiger vor der Vollstreckung Sicherheit in Höhe von 120 % des jeweils zu vollstreckenden Betrages leistet.  
+				Gründe
+				I.Der im Versicherungsgewerbe tätige Kläger kaufte am 09.09.2016 bei einem Händler in X. den streitgegenständlichen VW Touareg zum Preis von 65.750,00 EUR brutto. Er leistete darauf eine Anzahlung von 15.000,00 EUR und finanzierte den Restkaufpreis über ein Darlehen der Volkswagenbank, welches er inzwischen vollständig abgelöst hat. An Zinsen hat er insgesamt 4.412,65 EUR aufgewendet, so dass er zum Erwerb des Fahrzeugs in der Summe 70.162,65 EUR gezahlt hat. Die Einzelheiten ergeben sich aus den als Anlage K1 vorgelegten Unterlagen, auf die Bezug genommen wird. Das Fahrzeug wurde dem Kläger am 28.11.2016 geliefert.Herstellerin des Fahrzeugs ist die Beklagte. Verbaut ist ein Motor des Typs EA 897. Dabei handelt es sich um einen V6 TDI-Motor mit einer Leistung von 193 kw (262 PS), der die Abgasnorm Euro 6 erfüllt. Entwickelt und hergestellt hat den Motor die Audi AG; er wird in verschiedenen Fahrzeugen des VW-Konzerns verwendet, darunter in Fahrzeugen der Marken VW, Audi und Porsche. In der von ihr ausgestellten EG-Übereinstimmungsbescheinigung bezeichnet sich die Beklagte selbst als Herstellerin der Antriebsmaschine (Anlage B8).Das Kraftfahrt-Bundesamt (KBA) begann im August 2017, Fahrzeuge des streitgegenständlichen Typs auf das Vorhandensein unzulässiger Abschalteinrichtungen zu untersuchen. Es erließ im Dezember 2017 den als Anlagen K28 und BE8 vorgelegten Bescheid, in welchem es für Fahrzeuge des streitgegenständlichen Typs anordnete,"die Vorschriftsmäßigkeit herzustellen, indem alle unzulässigen Abschalteinrichtungen [...] aus dem Emissionskontrollsystem entfernt werden.[...]VW hat bis zum 29.12.2017 eine technische Maßnahme sowie einen Zeitplan zur Herstellung der Vorschriftsmäßigkeit vorzulegen."In dem Bescheid heißt es, VW verwende fünf verschiedene Strategien im Emissionskontrollsystem der Fahrzeuge. Strategie A wird als Aufheizstrategie beschrieben, die unter Prüfbedingungen dafür sorge, dass die Überschreitung des NOx-Grenzwertes von 80 mg/km sicher vermieden wird, außerhalb der Prüfbedingungen aber abgeschaltet werde. Darin sieht das KBA eine unzulässige Abschalteinrichtung.Eine weitere Abschalteinrichtung stelle Strategie E dar. Diese sorge dafür, dass die Ad-Blue-Zufuhr gedrosselt werde, sobald der Füllstand soweit gesunken sei, dass das System eine nur noch für weitere 2.400 km Reichweite ausreichende Menge erkenne und die Aufforderung zum Nachfüllen aktiviere.Im Januar 2018 gab das Kraftfahrt-Bundesamt eine Pressemitteilung über die Detektierung der entsprechenden unzulässigen Abschalteinrichtungen bei Audi mit den Motoren des vorliegenden Typs heraus (Anlage BE1).Der Kläger forderte die Beklagte mit anwaltlichem Schreiben vom 24.01.2019 unter Fristsetzung zum 31.01.2019 zur Zahlung von Schadenersatz auf und bot Zug um Zug Herausgabe und Übereignung des Fahrzeugs an (Anlage K10). Mit seiner am 28.03.2019 zugestellten Klage verfolgt er sein Begehren weiter.Die Laufleistung des Fahrzeugs betrug zum Zeitpunkt der erstinstanzlichen mündlichen Verhandlung am 07.02.2020 99.025 km. Zum Zeitpunkt der mündlichen Verhandlung vor dem Senat betrug die Laufleistung 128.966 km.Ob er das angebotene Softwareupdate hat aufspielen lassen, wusste der Kläger in der erstinstanzlichen mündlichen Verhandlung nicht.Das Landgericht Wuppertal hat eine zu erwartende Gesamtfahrleistung von 300.000 km zugrunde gelegt und den Forderungen des Klägers durch Urteil vom 20.03.2020 im Wesentlichen entsprochen: Es hat die Beklagte zur Leistung von Schadenersatz in Höhe von 56.784,64 EUR verurteilt, davon durch Zahlung von 27.150,39 EUR an den Kläger und im Übrigen durch Freistellung von den seinerzeit noch nicht erfüllten Darlehensforderungen. Zug um Zug soll der Kläger das streitgegenständliche Fahrzeug übergeben und übereignen. Verzugszinsen und die Erstattung vorgerichtlicher Rechtsanwaltskosten hat es dem Kläger teilweise zugesprochen; einen Anspruch auf Zahlung von Deliktszinsen hat es abgelehnt.Wegen der weiteren Einzelheiten des Sachverhalts, der erstinstanzlich gestellten Anträge und des erstinstanzlichen Urteils wird auf dieses Bezug genommen.Gegen das Urteil wenden sich beide Parteien mit ihren Berufungen.Der Kläger hat mit seiner Berufung ursprünglich die Zahlung weiterer 3.344,50 EUR verlangt und beharrt auf der Zahlung von Deliktszinsen, jedoch nur noch aus dem Bruttokaufpreis. Er trägt im Wesentlichen vor:Die Nutzungsentschädigung sei auf Basis einer Gesamtlaufleistung von 400.000 km zu berechnen. Ferner bestehe ein Anspruch auf Zahlung von Deliktszinsen gemäß § 849 BGB. Zum Einwand der fehlenden Passivlegitimation der Beklagten verweist er auf die oben zitierte Herstellerangabe in der EG-Übereinstimmungsbescheinigung und trägt er sehr ausführlich vor, dass die Verantwortlichen der Beklagten von der Softwaremanipulation wussten. Wegen der Einzelheiten dieses Vortrags wird Bezug genommen auf die Darstellung in der Berufungsbegründung vom 11.06.2021 (Bl. 547 ff. GA) und dem Schriftsatz vom 06.01.2022 (Bl. 596 ff. GA).Unter Beachtung der nach seinen Vorstellungen berechneten Nutzungsentschädigung beantragt der Kläger sinngemäß,unter Abänderung des Urteils des Landgerichts Wuppertal, Az. 3 O 51/19 vom 20.03.2020 die Beklagte zu verurteilen, an ihn 54.559,72 EUR zu zahlen zuzüglich Zinsen in Höhe von 4 Prozent seit dem 10.09.2016 bis zum 31.01.2019 auf einen Betrag in Höhe von 65.750 EUR und in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 01.02.2019 auf einen Betrag in Höhe von 73.162,65 EUR, Zug um Zug gegen Rückgabe und Übereignung des streitgegenständlichen Fahrzeugs, sowiedie Berufung der Beklagten zurückzuweisen.Die Beklagte beantragt,das Urteil des Landgerichts Wuppertal vom 20.03.2020, Az. 3 O 51/19 abzuändern und die Klage insgesamt abzuweisen sowiedie Berufung des Klägers zurückzuweisen.Die Beklagte hält sich für nicht passivlegitimiert, weil nicht sie, sondern die Audi AG den Motor gebaut habe. Sie treffe auch keine sekundäre Darlegungslast, weil es an Anhaltspunkten dafür fehle, dass sie Kenntnis von den unerlaubten Abschalteinrichtungen gehabt habe. Sie weist darauf hin, dass der streitgegenständliche Motor nicht über die "Abschaltlogik" des EA189-Motors verfüge.Mit seiner in der mündlichen Verhandlung vor dem Landgericht erklärten Unkenntnis, ob sein Fahrzeug das Softwareupdate bekommen habe, habe der Kläger sein Desinteresse dokumentiert. Daraus folge, dass seine Kaufentscheidung nicht von der im Fahrzeug verbauten Software abhängig gewesen sei. Dem Kläger sei es nur darauf angekommen, ein besonders leistungsstarkes Fahrzeug zu bekommen. Das Emissionsverhalten sei ihm erkennbar egal gewesen. Schließlich wendet sie sich gegen die Berechnung der Nutzungsentschädigung. Der Nutzungsersatz sei anhand einer Gesamtlaufleistung von höchstens 250.000 km zu bemessen.Zudem sei der Kläger zum Vorsteuerabzug berechtigt, weshalb die Umsatzsteuer in seiner Schadensberechnung unberücksichtigt bleiben müsse.Durch nicht nachgelassenen Schriftsatz hat der Kläger eine Bescheinigung seines Steuerberaters vorgelegt, wonach er nicht zum Vorsteuerabzug berechtigt ist.II.Die zulässige Berufung der Beklagten hat teilweise Erfolg, während die ebenfalls zulässige Berufung des Klägers ohne Erfolg bleibt. Wie schon das Landgericht überzeugend ausgeführt hat, besteht der Schadenersatzanspruch des Klägers dem Grunde nach (1.), jedoch nicht mehr in der vom Landgericht angenommenen Höhe, weil sich der Kläger aufgrund der fortlaufenden Nutzung des streitgegenständlichen Fahrzeugs weitere Gebrauchsvorteile anrechnen lassen muss (2.). Auch die Nebenforderungen stehen dem Kläger nicht sämtlich wie geltend gemacht zu (3.), was namentlich für die Deliktszinsen gilt.1.Der Anspruch des Klägers besteht dem Grunde nach gemäß §§ 826, 31 BGB.a.Ein Automobilhersteller handelt gegenüber dem Fahrzeugkäufer sittenwidrig, wenn er entsprechend seiner grundlegenden strategischen Entscheidung im eigenen Kosten- und Gewinninteresse unter bewusster Ausnutzung der Arglosigkeit der Erwerber, welche die Einhaltung der gesetzlichen Vorgaben und die ordnungsgemäße Durchführung des Typgenehmigungsverfahrens als selbstverständlich voraussetzen, Fahrzeuge mit einer Motorsteuerung in Verkehr bringt, deren Software bewusst und gewollt so programmiert ist, dass die gesetzlichen Abgasgrenzwerte nur auf dem Prüfstand beachtet, im normalen Fahrbetrieb hingegen überschritten werden, und damit unmittelbar auf die arglistige Täuschung der Typgenehmigungsbehörde abzielt (BGH, Urteile vom 25.05.2020 - VI ZR 252/19 und 08.03.2021 - VI ZR 505/19).Sittenwidrig handelt der Automobilhersteller auch, wenn er seine Fahrzeuge mit zugelieferten Motoren ausstattet, die mit einer auf arglistige Täuschung des KBA abzielenden Prüfstandserkennungssoftware versehen waren, wenn die für den Fahrzeughersteller handelnden Personen dies wussten (BGH, Urteil vom 08.03. 2021 - VI ZR 505/19).b.Diese Rechtsprechung lässt sich auf den streitgegenständlichen Kauf eines Fahrzeugs des Typs VW Touareg mit dem Motortyp EA 897 übertragen (vgl. auch OLG Köln, Urteil vom 04.11.2021 - 12 U 28/20).Ausweislich der von dem KBA getroffenen Feststellungen verfügte das streitgegenständliche Fahrzeug über zwei illegale Abschalteinrichtungen im Sinne von Art. 5 Abs. 2 Satz 1 der VO (EG) Nr. 715/2007 ("Fahrzeugemissionen-VO"). Insbesondere die im Bescheid des KBA als "Strategie A" bezeichnete Abschalteinrichtung entspricht in ihrer Verwerflichkeit der "Umschaltlogik" bei den Motoren des Typs EA 189: Da die Strategie ausschließlich auf die Prüfsituation abstellt, ist sie erkennbar einzig zur Täuschung des KBA eingesetzt worden. Dass es sich bei der vom KBA festgestellten Aufheizstrategie um eine unzulässige Abschalteinrichtung handelte, sehen auch andere Oberlandesgerichte so (vgl. nur OLG Koblenz, Urteil vom 30.08.2021 - 12 U 1835/19, sowie OLG Karlsruhe, Urteil vom 29.07.2021 - 8 U 59/20 zur Verwendung des Motors in einem Audi).Beweggrund, Fahrzeuge mit den manipulierten Motoren des Typs EA 897 in den Verkehr zu bringen, war erkennbar die Erzielung höherer Gewinne durch Einsparung von Kosten. Diese Kostenersparnis wurde erzielt durch eine systematische Täuschung von Behörden und Käufern über einen erheblichen Zeitraum hinweg. Diese Täuschung fügt sich nahtlos in den Skandal des VW-Konzerns, der durch den Einsatz manipulierter Software in dem Motor des Typs EA 189 im Jahr 2015 allgemein bekannt geworden ist. Ein Unterschied liegt letztlich allein in der Art und Weise der technischen Umsetzung der Täuschung. Die Grundentscheidung, durch Einsatz manipulierter Software die Einhaltung von Emmissionsschutzwerten vorzuspiegeln, die im Realbetrieb nicht erreicht werden, ist die gleiche. Damit entspricht auch das Maß der Sittenwidrigkeit bei dem Motor des Typs EA 897 dem bei dem Motor des Typs EA 189.c.Die Sittenwidrigkeit war zum Zeitpunkt des Kaufs durch den Kläger auch noch nicht durch eine Verhaltensänderung oder aus sonstigen Gründen entfallen. Anders als etwa in dem von dem OLG Frankfurt am 07.10.2021 entschiedenen Fall (19 U 118/21), wo der Kläger einen Audi Q5 erst 10 Monate nach der Bekanntmachung des Rückrufs durch das KBA im Herbst 2018 erworben hatte, traf der Kläger seine Kaufentscheidung bereits, bevor das KBA die illegale Abschalteinrichtung erkannt oder die Beklagte sich entschlossen hatte, sich an ihrer Beseitigung zu beteiligen.Mindestens ein Vorstandsmitglied der Beklagten und damit mindestens ein verfassungsmäßig berufener Vertreter im Sinne von § 31 BGB hat es ernstlich für möglich gehalten und aus verwerflichten Gründen billigend in Kauf genommen, dass in dem Motor des Typs EA 897 illegale Abschalteinrichtungen zur Anwendung gelangten, selbst dann noch, als deren Unzulässigkeit für den Motor des Typs EA 189 spätestens im September 2015 allgemein bekannt geworden und auch von der Beklagten eingeräumt worden war.Vor dem Hintergrund der von ihr zu verantwortenen Täuschung im Zusammenhang mit dem Motor Typ EA 189 kann die Beklagte sich auch nicht mit Erfolg darauf zurückziehen, der streitgegendständliche Motor sei nicht von ihr, sondern von ihrer Konzerntochter, der Audi AG hergestellt worden (vgl. zur entsprechenden Haftung der Porsche AG für die Verwendung des Motors EA 897 OLG Düsseldorf, Urteil vom 30.01.2020 - 13 U 81/19). Die Beklagte hat selbst die Verantwortung für den Motor des Typs EA 897 übernommen und damit auch für das Nichtvorhandensein unzulässiger Abschalteinrichtugnen. Dies geschah, indem sie sich in der EG-Übereinstimmungserklärung ausdrücklich als dessen Herstellerin bezeichnete. Dass sie diese Erklärung als bloß formal verstanden wissen möchte, ändert nichts daran, dass sie nach außen erkennbar die Verantwortung übernahm.Den Verantwortlichen der Beklagten war das konzerneigene Vorgehen bei der Täuschung der Behörden und Kunden durch Einsatz illegaler Abschalteinrichtungen vertraut, da die Beklagte selbst dieses Vorgehen beim Motor des älteren Typs EA 189 verantwortete. Wie schon das OLG Köln (a.a.O., Rn. 42 ff.) geht auch der erkennende Senat sicher davon aus, dass die Beklagte über die Funktionsweise des bei ihr und mehreren Konzerntöchtern eingesetzten Dieselmotors des Typs EA 897 im Bilde war. Wenn sich schon das KBA aufgrund der Manipulation des EA-189-Motors veranlasst sah, sukzessive alle Diesel-Motoren des VW-Konzerns zu untersuchen, dann hatte die Beklagte als Konzernmutter umso mehr Anlass, ihre Dieselmotoren auf das Vorhandensein illegaler Abschalteinrichtungen zu untersuchen. Die beim KBA offenkundig vorhandene Ahnung hätte sich bei der Beklagten zu einem dringenden Verdacht verdichten müssen. Sollte die Beklagte solche konzerninternen Untersuchungen tatsächlich unterlassen haben, hat sie ihre Unkenntnis bewusst aufrechterhalten und kann sich bei dieser Sachlage nicht darauf berufen, weil sie dann das Vorhandensein einer illegalen Abschalteinrichtung billigend in Kauf nahm. Das Vorhandensein weiterer illegaler Abschalteinrichtungen in anderen Dieselmotoren des VW-Konzerns als dem EA 189 spricht aber auch dafür, dass die Manipulation in dem streitgegenständlichen EA 897 nicht auf bloßem Zufall beruht, sondern dass der Konzern unter Beteiligung der Beklagten die grundlegende Entscheidung getroffene hatte, das KBA systematisch durch den Einsatz illegaler Software zu täuschen.Dem steht nicht entgegen, dass der BGH umgekehrt eine Zurechnung des Wissens der Beklagten an die Audi AG abgelehnt hat (BGH, Urteil vom 08.03.2021 - VI ZR 505/19). Es geht vorliegend nicht um Zurechnung fremden Wissens, sondern darum, dass es in der Gesamtschau genügende Anhaltspunkte dafür gibt, die Beklagte als für die Softwaremanipulation des von ihr in Verkehr gebrachten Motors als mitverantwortlich zu betrachten.Überdies hat der Kläger ausführlich die Entwicklungshistorie des manipulierten Motors dargestellt, in der Berufungsbegründung vom 11.06.2021 (Bl. 547 ff.) und passagenweise wortgleich zuletzt mit Schriftsatz vom 06.01.2022 (Bl. 596 ff.). Damit ist der Vortrag des Klägers von der Beklagten zugestanden, weil sie ihrer sekundären Darlegungslast nicht nachgekommen ist. Im Übrigen wird auf die zutreffenden Erwägungen in der angefochtenen Entscheidung unter II 3 (S. 14 ff. des Urteils) Bezug genommen. Entsprechend bejahen inzwischen auch andere Oberlandesgerichte eine Haftung der Beklagten für das Inverkehrbringen des mit einer verbotenen Abschalteinrichtung versehenen Motors des Typs EA 897 (vgl. nur OLG Köln, Urteil vom 04.11.2021 - 12 U 28/20, OLG Hamm, Urteile vom 14.07.2021 - 8 U 124/20, 23.11.2020 - 8 U 43/20 und 14.10.2020 - 8 U 35/20; OLG Koblenz, Urteil vom 30.08.2021 - 12 U 1835/19; siehe auch die Hinweisbeschlüsse des OLG Karlsruhe vom 22.08.2019 - 17 U 294/18 und 17 U 257/18).Die von der Beklagten zitierte Entscheidung des OLG Frankfurt vom 18.09.2020 (10 U 201/19) steht dem nicht entgegen: Dort hatte der Senat über die Berufung gegen ein klageabweisendes Urteil zu entscheiden, in dem - anders als vorliegend - erstinstanzlich keine Verantwortlichkeit der Beklagten festgestellt worden war. Entsprechenden Vortrag in der Berufungsinstanz hielt der dortige Senat für verspätet. Aus einer solchen prozessual begründeten Entscheidung lassen sich für den vorliegenden Fall keine Rückschlüsse ziehen.Soweit andere Gerichte eine Passivlegitimation der Beklagten vereinzelt verneint haben, lag dies in den dortigen Fällen vor allem am prozessual unzureichenden Vortrag der Klägerseite (vgl. OLG Köln, Urteil vom 22.11.2019 - 19 U 62/19, Beschlüsse vom 21.04.2020 - 16 U 273/19 und 16.07.2020 - 16 U 273/19; OLG Bamberg, Urteil vom 17.12.2020 - 1 U 8/20).d.Durch ihr vorsätzliches sittenwidriges Verhalten nahm die Beklagte Schäden ihrer Kunden billigend in Kauf. Der Schaden des Klägers durch den Einsatz jedenfalls der illegalen Abschalteinrichtung "Strategie A" liegt im Abschluss des Kaufvertrags über das streitgegenständliche Fahrzeug. Aufgrund der solchermaßen erschlichenen Typgenehmigung bestand für den Kläger bei Erwerb des Fahrzeugs die ernstliche Gefahr, dass die Zulassungsbehörde ihm nach Bekanntwerden des wahren Sachverhalts den Betrieb des Fahrzeugs beschränken oder untersagen würde.Die Ursächlichkeit des Verhaltens der Beklagten für die Schadensentstehung unterliegt keinem Zweifel. Aus der Unkenntnis des Klägers über den aktuellen Stand der Software in seinem Fahrzeug kann keineswegs geschlossen werden, dass ihm die Betriebserlaubnis egal gewesen wäre. Vielmehr liegt auf der Hand, dass jemand, der rund 70.000 EUR für den Erwerb eines Kraftfahrzeuges aufwendet, dieses auch legal nutzen können möchte, und darauf vertraut, der Hersteller werde alle Bestimmungen penibel eingehalten haben.2.Der Höhe nach kann der Kläger die zum Erwerb des Fahrzeugs aufgewendeten 70.162,65 EUR ausgezahlt verlangen, abzüglich einer Nutzungsentschädigung und Zug um Zug gegen Rückgabe und Übereignung des erworbenen Fahrzeugs.Bei der im Tenor ausgesprochenen Summe von 41.897,60 EUR ist die bezahlte Umsatzsteuer berücksichtigt. Umsätze aus der Tätigkeit als Versicherungsvertreter und -makler sind gemäß § 4 Nr. 11 UStG umsatzsteuerfrei, so dass sie gemäß § 15 Abs. 2 Nr. 1 UStG vom Vorsteuerabzug ausgeschlossen sind. Zudem hängt die Berechtigung zum Vorsteuerabzug nicht bloß von der Eigenschaft des Klägers als Unternehmer, sondern gemäß § 15 Abs. 1 Satz 1 Nr. 1 UStG davon ab, ob die betroffene Leistung für sein Unternehmen ausgeführt worden ist, wozu die Beklagte nichts vorgetragen hat. Auf die nach dem Schluss der mündlichen Verhandlung vorgelegte Bescheinigung des Steuerberaters kam es mithin nicht an.Zur Berechnung der Nutzungsentschädigung schätzt der Senat die Gesamtlaufleistung des Fahrzeugs auf 300.000 km, während er in den Fällen der kleineren Motoren des Typs EA 189 regelmäßig von 250.000 km ausgeht. Mit der höheren Schätzung trägt der Senat dem größeren Hubraum und der insgesamt höherwertigen Verarbeitung der größeren Motoren Rechnung. Den Wert von 300.000 km setzen auch andere Oberlandesgerichte an (vgl. OLG Köln, a.a.O., Rn. 53). Dass der Hersteller Reparatur- und Wartungsanweisungen auch noch für Laufleistungen ab 300.000 km vorsieht und es vereinzelt Fahrzeuge auch mit einer solchen höheren Laufleistung geben mag, steht dem nicht entgegen, denn in diesen Fällen realisiert sich ein besonderer Pflege- und Erhaltungsaufwand, der aber keinen Einfluss auf die Einschätzung der in der Mehrheit der Fälle zu erwartenden regelmäßigen Gesamtlaufleistung hat.Am Schluss der mündlichen Verhandlung hatte der Kläger mit dem Fahrzeug 128.966 / 300.000 km, also 42,99 % der zu erwartenden Gesamtlaufleistung erreicht. Auf den Bruttokaufpreis von 65.750 EUR bezogen hatte er damit 28.265,05 EUR verbraucht. Diesen Betrag muss er sich anrechnen lassen. Sein Schadenersatzanspruch besteht mithin in Höhe von70.162,65 EUR ./. 28.265,05 EUR = 41.897,60 EUR.3.a.Zum erstattungsfähigen Schaden gehören grundsächlich auch die von dem Kläger bezahlten vorgerichtlichen Rechtsanwaltskosten, wobei er der Höhe nach nur diejenigen Kosten ersetzt verlangen kann, die bezogen auf seine berechtigte Forderung entstanden waren (vgl. BGH, Urteile vom 02.11.2021 - VI ZR 731/20, juris RdNr. 11 ff., und vom 16.11.2021 - VI ZR 291/20, juris RdNr. 15). Die Höhe dieser Forderung schätzt der Senat gemäß § 287 ZPO auf 54.952,65 EUR. Dem liegt folgende Überlegung zugrunde:Der Kläger hatte unter Beachtung des erstinstanzlich festgestellten Kilometerstandes seit der Auslieferung Ende November 2016 bis Anfang Februar 2022 monatlich im Durchschnitt rund 2.600 km zurückgelegt. Als er sich anwaltlich vertreten im Januar 2019 an die Beklagte wandte, dürfte die Laufleistung bei rund 67.600 km gelegen haben. Seine Gebrauchsvorteile waren zu diesem Zeitpunkt wie folgt zu berechnen:67.600 gefahrene Kilometer / 300.000 km zu erwartende Gesamtlaufleistungx 67.500 EUR Bruttokaufpreis = 15.210 EUR.Zahlung und Freistellung konnte er also nur in Höhe von im Ergebnis70.162,65 EUR ./. 15.210 EUR = 54.952,65 EURverlangen.Die anwaltliche Tätigkeit im Vorfeld des Gerichtsverfahrens wies keinen Umfang und keine Schwierigkeit auf, die eine Gebühr von mehr als 1,3 rechtfertigen würde. Deshalb legt der Senat lediglich eine 1,3 Geschäftsgebühr zugrunde. Bei einem Gegenstandswert von bis 65.000 EUR fielen mithin nach dem Rechtszustand im Jahr 2019 vorgerichtliche Anwaltskosten wie folgt an:1.622,40 EUR 1,3 Geschäftsgebühr nach Nr. 2300 VV RVG20,00 EUR Pauschale gem. Nr. 7001, 7002 VV RVG312,06 EUR Umsatzsteuer1.954,46 EUR Summeb.Der Anspruch auf Zahlung von Verzugszinsen besteht gemäß § 286 Abs. 1 Satz 1, § 288 Abs. 1 BGB, allerdings nur bezogen auf den auch tatsächlich von der Beklagten zu zahlenden Betrag.c.Deliktszinsen gemäß § 849 BGB kann der Kläger nicht verlangen. Dass ein solcher Anspruch in den Fällen des Motortyps EA 189 nicht besteht, ist höchstrichterlich geklärt (BGH, Urteil vom 30.07.2020 - VI ZR 39/19). Die dortigen Erwägungen gelten entsprechend auch für den vorliegenden Motortyp.d.In Annahmeverzug gemäß § 293 BGB befindet sich die Beklagte nicht, da der Kläger sein Angebot, das Fahrzeug zu übergeben und zu übereignen, auch in der Berufungsinstanz noch von der unberechtigten Bedingung der Zahlung von Deliktszinsen abhängig gemacht und damit die Leistung nicht wie geschuldet angeboten hat (vgl. BGH; Urteile vom 02.02.2021 - VI ZR 449/20, juris Rn. 9 ff. m.w.N., und vom 13.04.2021 - VI ZR 274/20, juris Rn. 24 f.).4.Bei der Kostenentscheidung, die auf § 92 Abs. 1 ZPO beruht, hat der Senat beachtet, dass der Kläger in beiden Instanzen einen nicht unerheblichen Betrag an Deliktszinsen erfolglos verlangt hat.Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 708 Nr. 10, 711 ZPO.Anlass, die Revision zuzulassen, bestand nicht, weil die dafür in § 543 Abs. 2 ZPO geregelten Voraussetzungen nicht vorliegen.Der Streitwert für das Berufungsverfahren wird auf (bis) 65.000 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2394651.html (https://oj.is/2394651)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate19
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSaarlandOrdentliche GerichtsbarkeitSaarländisches OLGRechtsprechungUrteil vom 26.01.2022 - 2 U 139/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      Saarländisches OLG, Urteil vom 26.01.2022 - 2 U 139/21
+                      m. Fundstelle
+                      Saarländisches OLG, Urteil vom 26.01.2022 - 2 U 139/21 = openJur 2022, 3882
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				Saarländisches OLG, Urteil vom 26.01.2022 - 2 U 139/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 3882
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Zur Berücksichtigung von Nutzungsvorteilen im Zusammenhang mit dem "kleinen" Schadensersatz, den der Käufer eines Dieselfahrzeugs gestützt auf §§ 826, 31 BGB gegenüber dem Hersteller des Fahrzeugs geltend macht. 
+				
+				Tenor
+				1. Die Berufung des Klägers gegen das am 26. April 2021 verkündete Urteil des Landgerichts Saarbrücken - 12 O 374/20 - wird zurückgewiesen.2. Der Kläger trägt die Kosten des Berufungsverfahrens.3. Dieses Urteil sowie das angefochtene Urteil sind ohne Sicherheitsleistung vorläufig vollstreckbar.4. Die Revision wird nicht zugelassen.  
+				Gründe
+				I.Der Kläger macht gegenüber der Beklagten Ansprüche im Zusammenhang mit dem Erwerb eines nach seinen Behauptungen mit unzulässigen Abschalteinrichtungen ausgestatteten Dieselfahrzeugs geltend.Der Kläger erwarb am 6. Juli 2016 als Inhaber der Firma A. bei der F. GmbH in S. ein am 29. April 2015 erstmals zugelassenes Fahrzeug der Marke BMW 318d mit einer damaligen Laufleistung von 20.465 km zu einem Kaufpreis von 26.900 €. Herstellerin des Fahrzeugs sowie des in das Fahrzeug eingebauten Motors mit der internen Typenbezeichnung N47 (Schadstoffnorm Euro 6), mit dem das - von einem Rückruf des Kraftfahrt-Bundesamts nicht betroffene - Fahrzeug ausgestattet ist, ist die Beklagte. Die Abgasreinigung erfolgt bei dem Fahrzeug ausschließlich im Wege der Abgasrückführung, d. h. einer innermotorischen Abgasbehandlung. Ein SCR-System kommt bei dem Fahrzeug nicht zum Einsatz. Mit schriftlichem Kaufvertrag vom 22. Juni 2021 veräußerte der Kläger das Fahrzeug, das zu diesem Zeitpunkt einen Kilometerstand von 222.113 km aufwies, zu einem Kaufpreis von 8.319 €.Der Kläger hat die Beklagte erstinstanzlich - nach teilweiser Klagerücknahme - auf Zahlung von 15.753,51 € nebst Zinsen Zug um Zug gegen Übergabe und Übereignung des streitgegenständlichen Fahrzeugs in Anspruch genommen und hat hilfsweise die Feststellung erstrebt, dass die Beklagte verpflichtet ist, ihm Schadensersatz zu zahlen für Schäden, die aus dem nach seinen Behauptungen erfolgten Einbau unzulässiger Abschalteinrichtungen in das Fahrzeug resultierten. Weiterhin hat er beantragt, festzustellen, dass sich die Beklagte mit der Zug-um-Zug-Leistung in Annahmeverzug befinde und der geltend gemachte Zahlungsanspruch aus einer vorsätzlichen unerlaubten Handlung der Beklagten herrühre. Daneben hat er die Verurteilung der Beklagten zur Erstattung vorgerichtlicher Rechtsanwaltskosten erstrebt. Er hat behauptet, das im Zusammenhang mit der Abgasreinigung programmierte Thermofenster, das dazu führe, dass die Abgasreinigung nur in einem Temperaturbereich zwischen 17° C und 33° C zu 100 % funktioniere, zwischen einem Temperaturbereich zwischen -11° C und +33° C iterativ reduziert werde und in einem Bereich von über +33° C vollständig deaktiviert werde, eine unzulässige Abschalteinrichtung darstelle. Darüber hinaus sei das Fahrzeug mit einer weiteren unzulässigen Abschalteinrichtung in Form der Funktion "hot restart" ausgestattet, die darauf gerichtet sei, dass die Abgasgrenzwerte nur bei einem Kaltstart und nicht unter anderen Bedingungen wie im realen Fahrbetrieb erreicht würden. Schließlich liege eine Manipulation des On-Board-Diagnosesystems vor. Bei Messungen verschiedener Organisationen und Unternehmen habe sich ergeben, dass Fahrzeuge der Beklagten - unter anderem ein vergleichbares Fahrzeug der Marke BMW 318d Touring, zugelassen im Jahr 2016 - erhebliche Grenzwertüberschreitungen gezeigt hätten.Die Beklagte ist der Klage entgegengetreten und hat auf Klageabweisung angetragen. Sie hat das Vorhandensein unzulässiger Abschalteinrichtungen in Abrede gestellt.Das Landgericht hat mit dem angefochtenen Urteil vom 26. April 2021 (GA 370 ff.), auf dessen tatsächliche Feststellungen gemäß § 540 Abs. 1 Satz 1 Nr. 1 ZPO Bezug genommen wird, die Klage abgewiesen. Das Landgericht ist davon ausgegangen, dass deliktsrechtliche Ansprüche des Klägers gegen die Beklagte nicht gegeben seien, da es an Anhaltspunkten dafür fehle, dass die Beklagte hinsichtlich der von der Klägerseite behaupteten temperaturgesteuerten Abgasrückführung in dem Bewusstsein gehandelt habe, durch die Verwendung eines solchen Thermofensters möglicherweise gegen gesetzliche Vorschriften zu verstoßen. Auch lägen keine beweissicheren Tatsachen dafür vor, dass die Beklagte ansonsten zum Zwecke der bewussten Manipulation eine unzulässige Abschalteinrichtung bei dem Fahrzeug verbaut habe.Hiergegen richtet sich die Berufung des Klägers, mit der er nunmehr als Schaden einen merkantilen Minderwert von 20 % des Bruttokaufpreises geltend macht und die Verurteilung der Beklagten zur Zahlung von 5.380 € nebst Zinsen, die Feststellung, dass die Beklagte verpflichtet ist, ihm Schadensersatz für Schäden zu leisten, die aus dem von ihm behaupteten Einbau einer unzulässigen Abschalteinrichtung in das Fahrzeug entstanden sind, die Feststellung, dass der Zahlungsanspruch aus einer vorsätzlichen unerlaubten Handlung herrührt, sowie die Verurteilung der Beklagten zur Freistellung von entstandenen vorgerichtlichen Rechtsanwaltskosten erreichen will. Der Kläger wendet gegen die erstinstanzliche Entscheidung im Wesentlichen ein, das Landgericht habe rechtsfehlerhaft von einer eigenen Überprüfung der eingebauten Abschalteinrichtungen abgesehen und habe allein auf die ausgebliebenen Entscheidungen der Behörden und Ministerien vertraut. Er habe umfassend Anhaltspunkte dafür vorgetragen, die das Vorliegen von unzulässigen Abschalteinrichtungen in Form eines sog. Thermofensters sowie in Form der Funktion "hot restart", die die Wirkung des Emissionsminderungssystems verringere bzw. deaktiviere, wenn die Temperaturen des Motoröls und/oder des Kühlmittels zumindest 90° C erreicht hätten, nahelegten. Weiterhin nutze die Beklagte die im Genehmigungsverfahren vorgeschriebenen Geschwindigkeiten aus, um bei deren Steigerung und bei Geschwindigkeiten, die im Prüfstandszyklus nicht erreicht würden, die Abgasreinigung herunterzufahren. Schließlich verfüge das Fahrzeug über eine Lenkwinkelerkennung, die anhand der Drehung des Lenkrads erkenne, ob sich das Fahrzeug auf dem Prüfstand befinde. Dass bei dem Fahrzeug unzulässige Abschalteinrichtungen vorlägen, ergebe sich aus der bereits erstinstanzlich aufgezeigten erheblichen Diskrepanz der auf dem Prüfstand erzielten Messergebnisse und der Messergebnisse im normalen Straßenbetrieb. Auch sei nicht hinreichend berücksichtigt worden, dass die Beklagte die zuständigen Genehmigungsbehörden nicht über die verwendeten Abschalteinrichtungen informiert habe.Der Kläger beantragt,unter Abänderung des am 26. April 2021 verkündeten Urteils des Landgerichts Saarbrücken - 12 O 374/20 -1. die Beklagte zu verurteilen, an ihn 5.380 € nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen;2. festzustellen, dass die Beklagte verpflichtet ist, ihm Schadensersatz zu zahlen für Schäden, die aus dem Einbau einer unzulässigen Abschaltreinrichtung i. S. v. Art. 5 Abs. 2 EG-VO 715/2007 durch die Beklagte in das Fahrzeug der Marke BMW vom Typ 318d mit der Fahrzeugidentifizierungsnummer (FIN) XXX resultieren;3. festzustellen, dass der in Antrag zu 1 bezeichnete Anspruch aus einer vorsätzlichen unerlaubten Handlung der Beklagten herrührt;4. die Beklagte zu verurteilen, ihn von den durch die Beauftragung seiner Prozessbevollmächtigten entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 2.077,74 € freizustellen.Die Beklagte beantragt,die Berufung zurückzuweisen.Sie verteidigt die angefochtene Entscheidung unter Wiederholung und Vertiefung ihres erstinstanzlichen Vorbringens. Sie bestreitet insbesondere, dass dem Kläger ein Schaden entstanden sei.Wegen des Sach- und Streitstands im Übrigen wird auf die zwischen den Parteien zur Vorbereitung der mündlichen Verhandlung in der Berufungsinstanz gewechselten Schriftsätze nebst Anlagen sowie auf die Sitzungsniederschrift vom 14. Dezember 2021 Bezug genommen.II.Die zulässige Berufung des Klägers hat in der Sache keinen Erfolg.1.Soweit der Kläger im Berufungsverfahren nunmehr statt des bisher geltend gemachten sog. großen Schadensersatzanspruchs den sog. kleinen Schadensersatz geltend macht, ist dies zwar auch ohne Einwilligung der Beklagten möglich. Eine Klageänderung gemäß § 533 ZPO liegt bei einem Wechsel von der Geltendmachung des großen auf den kleinen Schadensersatzanspruch nicht vor, da es insoweit lediglich um die Berechnungsmethode in Bezug auf den Schaden geht (vgl. zur entsprechenden Problematik im Rahmen des Kaufvertragsrechts BGH, Urteil vom 9. Oktober 1991 - VIII ZR 88/90, NJW 1992, 566, 568; Dauner-Lieb/Langen, BGB Schuldrecht, 4. Aufl., BGB Anh. 4 zu §§ 433 bis 480 Rn. 182).Dem Kläger steht jedoch der geltend gemachte Anspruch auf Schadensersatz nicht zu.Dabei kann dahinstehen, ob in dem Fahrzeug - wie vom Kläger behauptet - eine unzulässige Abschalteinrichtung verbaut ist und ob die Beklagte insoweit der Sittenwidrigkeitsvorwurf trifft.Ein Anspruch des Klägers auf Schadensersatz scheidet bereits im Hinblick darauf aus, dass der nunmehr geltend gemachte Schaden in Form eines Minderwerts des Fahrzeugs von 20 % des Bruttopreises nicht schlüssig dargelegt und im Übrigen auch nicht unter Beweis gestellt ist.Zwar kann nach der Entscheidung des Bundesgerichtshofs vom 6. Juli 2021 - VI ZR 40/20 (BeckRS 2021, 22455) ein Geschädigter, der durch das deliktische Handeln eines Fahrzeugherstellers zum Abschluss eines Kaufvertrags über ein Dieselfahrzeug mit Prüfstanderkennungssoftware bestimmt worden ist, soweit er die Kaufsache behalten möchte, als Schaden von dem Dritten den Betrag ersetzt verlangen, um den er den Kaufgegenstand - gemessen an dem objektiven Wert von Leistung und Gegenleistung - zu teuer erworben hat (sog. kleiner Schadensersatz). Dabei kommt es weder darauf an, ob der Verkäufer sich auf den Kaufvertrag zu einem niedrigeren Kaufpreis eingelassen hätte, noch muss der Geschädigte darlegen und beweisen, dass zumindest er ohne die schädigende Handlung bereit gewesen wäre, den Kaufvertrag zu einem niedrigeren Kaufpreis zu schließen. Dies hat zur Folge, dass der Geschädigte danach grundsätzlich die Wahl zwischen zwei Möglichkeiten der Schadensberechnung hat. Statt der - wirtschaftlich betrachtet - Rückgängigmachung des Vertrags gegenüber dem Dritten (= Kaufpreiserstattung abzüglich Nutzungsersatz Zug um Zug gegen Herausgabe des Fahrzeugs) kann er, wenn er am Vertrag festhalten will, Erstattung des von ihm zu beweisenden objektiven Minderwerts zwischen Leistung und Gegenleistung verlangen.Maßgeblich für die Bemessung des sog. kleinen Schadensersatzes ist dabei grundsätzlich der Vergleich der Werte von Leistung und Gegenleistung im Zeitpunkt des Vertragsschlusses. Dies schließt allerdings eine schadensmindernde Berücksichtigung später eintretender Umstände im Rahmen der Vorteilsausgleichung nicht aus (BGH, Urteil vom 6. Juli 2021 - VI ZR 40/20, a.a.O. Rn. 23; BGH, Urteil vom 6. Februar 2018 - II ZR 17/17, NJW 2018, 1675 Rn. 21).Unter Zugrundelegung dessen fehlt es im vorliegenden Fall zunächst bereits an der erforderlichen Darlegung einer Wertdifferenz bei Vertragsschluss durch den Kläger. Zwar kann das Risiko behördlicher Anordnungen bezüglich eines mit einer Prüfstandserkennungssoftware ausgestatteten Fahrzeugs einen den objektiven Wert beeinflussenden Nachteil bedeuten (vgl. BGH, Urteil vom 6. Juli 2021 - VI ZR 40/20, a.a.O. Rn. 24). Ein solches Risiko ist jedoch im vorliegenden Fall nicht erkennbar. Unstreitig unterliegt das Fahrzeug bis heute keinem Rückruf des Kraftfahrt-Bundesamts, so dass - anders als bei den Fahrzeugen mit einem durch die Volkswagen AG hergestellten Motor des Typs EA189, auf die sich die durch den Kläger im vorliegenden Kontext zitierten Entscheidungen beziehen - eine Betriebsuntersagung oder Betriebsbeschränkung in Bezug auf das streitgegenständliche Fahrzeug bei Vertragsschluss objektiv nicht zu befürchten war. Woraus sich dann allerdings eine Wertdifferenz bezüglich des Fahrzeugs in Höhe von 20 % des ursprünglichen Kaufpreises ergeben sollte, legt der Kläger nicht schlüssig dar.Hinzu kommt, dass - wie zuvor dargelegt - bei der Bemessung des Schadensersatzanspruchs im Rahmen der Vorteilsausgleichung auch später - also nach Vertragsschluss eintretende - Umstände schadensmindernd zu berücksichtigen sind (BGH, Urteil vom 6. Juli 2021 - VI ZR 40/20, a.a.O. Rn. 23). Diesen Grundsatz hat der Bundesgerichtshof ausdrücklich in Bezug auf das Aufspielen eines Software-Updates zur Behebung der mit einer Prüfstandserkennungssoftware verbundenen Nachteile aufgestellt. Entsprechendes muss aber auch dann gelten, wenn der Kläger wie vorliegend aus der Nutzung des Fahrzeugs und der Weiterveräußerung des Fahrzeugs in so großem Umfang Vorteile gezogen hat, dass diese hinsichtlich ihres Werts den gezahlten Kaufpreis bei Weitem übersteigen und im Fall der Geltendmachung des großen Schadensersatzanspruchs entsprechend den Grundsätzen der Rechtsprechung (vgl. BGH, Urteil vom 30. Juli 2020 - VI ZR 354/19, NJW 2020, 2796, 2797 Rn. 15) dazu führen würden, dass ein Schadensersatzanspruch vollständig aufgezehrt wird (vgl. zur Anrechnung von Nutzungsvorteilen im Zusammenhang mit dem sog. kleinen Schadensersatzanspruch OLG Nürnberg, Urteil vom 13. Oktober 2021 - 12 U 3012/19, BeckRS 2021, 33500 Rn. 41, 42; OLG Nürnberg, Urteil vom 22. September 2021 - 12 U 3164/19, BeckRS 2021, 33319 Rn. 37). Auch mit Blick auf den sog. kleinen Schadensersatzanspruch ist nämlich zu berücksichtigen, dass sich aus § 249 Abs. 1 BGB, wonach der Geschädigte so zu stellen ist, wie er stünde, wenn das schädigende Ereignis nicht eingetreten wäre, gleichzeitig ein Verbot der Bereicherung durch den Schadensfall auf Seiten des Geschädigten, ergibt (vgl. BGH, Urteil vom 3. Dezember 2013 - VI ZR 24/13, NJW 2014, 535, 536 Rn. 11; BGH, Urteil vom 6. Juli 2000 - IX ZR 198/99, NJW 2001, 673, 674; BGH, Urteil vom 28. Juni 2007 - VII ZR 81/06, NJW 2007, 2695, 2696 Rn. 18 jew. m.w.N.; MüKoBGB/Oetker, 8. Aufl., BGB, § 249 Rn. 20).Im vorliegenden Fall sind die aus der Nutzung des Fahrzeugs durch den Kläger gezogenen Vorteile gemäß § 287 ZPO nach der sog. linearen Berechnungsmethode zu schätzen, indem der durch den Kläger gezahlte Kaufpreis für das Fahrzeug durch die im Erwerbszeitpunkt zu erwartende Restlaufleistung geteilt und das Ergebnis mit den gefahrenen Kilometern multipliziert wird (vgl. BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19, NJW 2020, 1962 Rn. 64; BGH, Urteil vom 27. April 2021 - VI ZR 812/20, MDR 2021, 742 Rn. 15; BGH, Urteil vom 27. Juli 2021 - VI ZR 480/19, WM 2021, 1659 Rn. 23; BGH, Urteil vom 29. September 2021 - VIII ZR 111/20, BeckRS 2021, 31895 Rn. 56; Senat, Urteil vom 14. Februar 2020 - 2 U 128/19, BeckRS 2020, 2158 Rn. 50). Dabei wird für das streitgegenständliche Fahrzeug von einer zu erwartenden Restlaufleistung bei Vertragsschluss von 229.535 km ausgegangen und damit eine Gesamtlaufleistung von 250.000 km, die bereits wiederholt die Billigung des Bundesgerichtshofs gefunden hat (vgl. BGH, Urteil vom 29. September 2021 - VIII ZR 111/20, BeckRS 2021, 31895 Rn. 56; BGH, Urteil vom 27. Juli 2021 - VI ZR 480/19, WM 2021, 1659 Rn. 23; BGH, Urteil vom 27. April 2021 - VI ZR 812/20, MDR 2021, 742 Rn. 15), der in seinen Entscheidungen ausdrücklich das den Tatsacheninstanzen gemäß § 287 ZPO eingeräumte Schätzungsermessen betont hat, zu Grunde gelegt. Bei der Ausübung des Schätzungsermessens stellt der Senat darauf ab, dass die tatsächliche Lebensdauer eines Fahrzeugmotors angesichts der mit zunehmender Nutzungsdauer steigenden Reparaturanfälligkeit zahlreicher Bauteile erfahrungsgemäß oftmals nicht ausgeschöpft wird und nicht der Gesamtnutzungsdauer des Fahrzeugs entspricht (BGH, Urteil vom 29. September 2021 - VIII ZR 111/20, aaO Rn. 58; Senat, Urteil vom 14. Februar 2020, aaO). Dass im Einzelfall - wie der Kläger mit Schriftsatz vom 11. Januar 2022 dargelegt hat - entsprechende Fahrzeuge auch über eine Gesamtlaufleistung von 250.000 km hinaus genutzt werden und mit Laufleistungen von sogar deutlich über 250.000 km auf dem Gebrauchtwagenmarkt veräußert werden, steht dem nicht entgegen.Ausgehend von den zuvor dargelegten Parametern errechnet sich der Nutzungswert im vorliegenden Fall wie folgt:Kaufpreis (26.900 €) x gefahrene Kilometer bis zur Weiterveräußerung (201.648 km)Restlaufleistung (229.535 km),was einen Betrag von 23.631,83 € ergibt.Wird dann noch berücksichtigt, dass der Kläger nach seinem eigenen Vortrag im Rahmen der Weiterveräußerung des Fahrzeugs am 22. Juni 2021 einen ebenfalls im Wege der Vorteilsausgleichung zu berücksichtigenden (vgl. dazu BGH, Urteil vom 20. Juli 2021 - VI ZR 533/20, BeckRS 2021, 24668 Rn. 29) Verkaufserlös von 8.319 € erzielt hat, wobei mangels gegenteiliger Anhaltspunkte davon auszugehen ist, dass es sich insoweit um einen marktgerechten Verkaufserlös gehandelt hat, übersteigt der Wert der zu berücksichtigenden Vorteile von insgesamt 31.950,83 € den vom Kläger gezahlten Kaufpreis von 26.900 € bei Weitem, so dass ein Schaden in Form einer Wertminderung durch eine nach den Behauptungen des Klägers bei dem Fahrzeug vorhandene Prüfstandserkennung ausscheidet.2.Der auf Feststellung der Ersatzpflicht der Beklagten für Schäden, die aus dem Einbau einer unzulässigen Abschalteinrichtung in das Fahrzeug resultieren, gerichtete Antrag ist unzulässig, da es an dem erforderlichen Feststellungsinteresse des Klägers fehlt.Nach § 256 Abs. 1 ZPO kann auf Feststellung des Bestehens oder Nichtbestehens eines Rechtsverhältnisses Klage erhoben werden, wenn der Kläger ein rechtliches Interesse daran hat, dass das Rechtsverhältnis alsbald festgestellt wird. Ein solches Interesse ist gegeben, wenn dem konkreten vom Feststellungsantrag betroffenen Recht des Klägers eine gegenwärtige Gefahr der Unsicherheit droht und der erstrebte Feststellungausspruch geeignet ist, diese Gefahr zu beseitigen. Allerdings fehlt grundsätzlich das Feststellungsinteresse, wenn der Kläger dasselbe Ziel mit einer Klage auf Leistung erreichen kann. Ist dem Kläger eine Klage auf Leistung möglich und zumutbar und erschöpft sie das Rechtsschutzziel, fehlt ihm das Feststellungsinteresse, weil er im Sinne einer besseren Rechtsschutzmöglichkeit den Streitstoff in einem Prozess klären kann. Es besteht jedoch keine allgemeine Subsidiarität der Feststellungsklage gegenüber der Leistungsklage. Vielmehr ist eine Feststellungsklage trotz der Möglichkeit, Leistungsklage zu erheben, zulässig, wenn die Durchführung des Feststellungsverfahrens unter dem Gesichtspunkt der Prozesswirtschaftlichkeit zu einer sinnvollen und sachgemäßen Erledigung der aufgetretenen Streitpunkte führt (BGH, Urteil vom 5. Oktober 2021 - VI ZR 136/20, BeckRS 2021, 32651 Rn. 15 m.w.N.).Nach Maßgabe dieser Grundsätze ist im vorliegenden Fall ein Feststellungsinteresse zu verneinen. Der Kläger hat in diesem Zusammenhang vorgetragen, dass weitere Schäden durch Steuernachteile oder durch die Verwendung des Fahrzeugs und den hierdurch bedingten Verschleiß der Bauteile drohten. Dies vermag ein Feststellungsinteresse nicht zu begründen, da zum einen nach der Weiterveräußerung eine Weiterentwicklung der geltend gemachten Schadenspositionen nicht droht, weshalb eine Bezifferung des geltend gemachten Schadens möglich wäre und zum anderen ein Ersatz entsprechender Schäden von vornherein nicht zusätzlich zu dem Begehren des Klägers auf den sog. kleinen Schadensersatz in Form des Ersatzes des Minderwerts in Betracht kommt (BGH, Urteil vom 5. Oktober 2021 - VI ZR 136/20, BeckRS 2021, 32651 Rn. 33; BGH, Urteil vom 6. Juli 2021 - VI ZR 40/20, NJW 2021, 3041, 3045 Rn. 34).3.Da ein Schadensersatzanspruch nicht besteht, war auch dem Antrag des Klägers, festzustellen, dass dieser aus einer vorsätzlichen unerlaubten Handlung der Beklagten herrührt, nicht zu entsprechen.Schließlich scheiden mangels Bestehens einer Hauptforderung auch ein Anspruch auf Zinsen sowie ein Anspruch auf Erstattung vorgerichtlicher Rechtsanwaltskosten aus.III.Die Kostenentscheidung folgt aus § 97 Abs. 1 ZPO.Der Ausspruch über die vorläufige Vollstreckbarkeit beruht auf §§ 708 Nr. 10, 713, 544 Abs. 2 Nr. 1 ZPO.Die Revision wird mangels Vorliegens der gesetzlichen Voraussetzungen (§ 543 Abs. 2 ZPO) nicht zugelassen. Die Rechtssache hat weder grundsätzliche Bedeutung, noch erfordern die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Revisionsgerichts.
+			
+			
+			
+			Permalink: https://openjur.de/u/2387424.html (https://oj.is/2387424)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate15
+				
+				
+					 Zitiert2
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

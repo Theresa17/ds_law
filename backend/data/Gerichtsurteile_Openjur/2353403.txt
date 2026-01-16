@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBaden-WürttembergOrdentliche GerichtsbarkeitLG FreiburgRechtsprechungUrteil vom 16.08.2019 - 8 O 64/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Freiburg, Urteil vom 16.08.2019 - 8 O 64/19
+                      m. Fundstelle
+                      LG Freiburg, Urteil vom 16.08.2019 - 8 O 64/19 = openJur 2021, 27906
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Freiburg, Urteil vom 16.08.2019 - 8 O 64/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 27906
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Unzulässigkeit der Feststellungsklage wegen Manipulation an Motoren des Typs E 189 bei behaupteten Steuerschäden, Anwaltskosten wegen Vorgehens gegen Zulassungsbehörden sowie Benzin- und Wartungskosten auf den PKW (entgegen OLG Karlsruhe, Urteil vom 18. Juli 2019 – 17 U 160/18). 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.Beschluss: Der Streitwert wird auf 15.184,00 EUR festgesetzt. 
+				Tatbestand
+				Der Kläger begehrt von der Beklagten im Wege des Schadensersatzes die Rückabwicklung eines Kaufvertrages über ein Fahrzeug, in dem ein von der Beklagten entwickelter Motor eingebaut ist.I.Auf Grund Kaufvertrages vom Juni 2013 (Anlage K 50) erwarb der Kläger einen Audi A 3 2,0 l TDI für 18.980,00 EUR bei einem Kilometerstand von 42.650.In dem Fahrzeug ist ein Dieselmotor des Typs EA 189 EU 5 eingebaut. In dem Motor ist eine von der Beklagten als "Umschaltlogik" bezeichnete Softwaresteuerung verbaut. Diese hat folgenden Hintergrund: Bis zur Entwicklung eines Software-Updates kannte die Software in dem Motor zwei unterschiedliche Betriebsmodi, die die Abgasrückführung steuerten. Im NOx-optimierten Modus 1, der im NEFZ aktiv ist, kam es zu einer höheren Abgasrückführungsrate. Unter Fahrbedingungen, die im normalen Straßenverkehr vorzufinden sind, war der partikeloptimierte-Modus 0 aktiv. Das Fahrzeug befand sich im normalen Straßenverkehr durchgehend im Modus 0.Mit Schreiben vom 15.10.2015 ordnete das Kraftfahrtbundesamt wegen der Verwendung dieser Motorsteuerungssoftware den Rückruf der mit der Motorsteuerung ausgerüsteten Fahrzeuge zwecks Nachrüstung durch die Beklagte an.Der Kläger ließ ein von der Beklagten angebotenes Update aufspielen.II.Der Kläger ist der Ansicht, der auf Feststellung der Ersatzpflicht der Beklagten gerichtete Antrag Ziffer 1 der Klageschrift sei zulässig. Der Kläger könne die Ansprüche derzeit noch nicht beziffern. Es werde zwar vorrangig Rückabwicklung begehrt, es komme aber auch Schadensersatz in Betracht. Eine etwaig geschuldete Nutzungsentschädigung könne der Kläger noch nicht beziffern, da diese von einer richterlichen Schätzung abhängig sei. Die Schadensentstehung sei noch in der Entwicklung. Unter anderem könne der Kläger weitere Rechtsverfolgungskosten wegen Vorgehens gegen eine etwaige Stilllegungsandrohung durch das Kraftfahrtbundesamt zu zahlen haben. Die Behörde habe angekündigt, all diejenigen Halter anzuschreiben, die ein von der Beklagten angebotenes Software-Update noch nicht hätten aufspielen lassen. Jedenfalls werde in dem Update ein unzulässiges Thermofenster eingesetzt. Die Zulassungsbehörde könne das Fahrzeug daher stilllegen. Zudem seien steuerliche Mehrbelastungen derzeit noch nicht zu beziffern. Auch werde die Beklagte auf ein Feststellungsurteil hin leisten. Schließlich sei ein etwaiger merkantiler Minderwert noch nicht bezifferbar.Bei der verwendeten Software der Motorsteuerung handele es sich um eine unzulässige Abschalteinrichtung. Die Haftung der Beklagten auf Schadensersatz ergebe sich insbesondere aus Delikt. Die Beklagte habe die Klägerin vorsätzlich sittenwidrig geschädigt. Die Beklagte müsse sich das Verhalten ihrer Repräsentanten, deren Wissen als zugestanden anzusehen sei, zurechnen lassen. Durch das bewusste Inverkehrbringen der gesetzwidrig ausgestatteten Fahrzeuge sei von einem entsprechenden Schädigungsvorsatz auszugehen. Der Vorstand der Beklagten habe eine Schädigung der Vermögensinteressen der Käufer zumindest billigend in Kauf genommen. Eine Nutzungsentschädigung müsse sich der Kläger nicht abziehen lassen.Darüber hinaus verlangt der Kläger vorgerichtliche Anwaltskosten. Wegen der Berechnung wird auf die Klageschrift verwiesen.III.Der Kläger beantragt:1. Es wird festgestellt, dass die Beklagtenpartei verpflichtet ist, der Klägerpartei Schadensersatz zu leisten für Schäden, die aus der Manipulation des Fahrzeugs Audi A3 (Fahrzeugidentifikationsnummer: ...) durch die Beklagtenpartei resultieren.2. Die Beklagte wird verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen Rechtsanwaltskosten in Höhe von EUR 1.059,10 freizustellen.Die Beklagte beantragt:Die Klage wird abgewiesen.IV.Die Beklagte tritt der Zulässigkeit des Feststellungsantrages entgegen. Eine Schadenswahrscheinlichkeit habe die Klagepartei nicht dargelegt. Ein Feststellungsinteresse sei nicht erkennbar. Jedenfalls sei die Leistungsklage vorrangig.Eine verbotene Abschalteinrichtung liege nicht vor. Die Abgasrückführung sei schon nicht Teil des Emissionskontrollsystems. Die Beklagte habe nicht vorsätzlich gehandelt. Kein Vorstand der Beklagten im aktienrechtlichen Sinne habe bei Kaufvertragsschluss Kenntnis von der Programmierung der Software oder deren Verwendung in Fahrzeugen der Beklagten gehabt. Die Grundsätze der sekundären Darlegungslast seien nicht anwendbar. Die Beklagte meint außerdem, die Softwarekonfiguration bei Dieselmotoren des Typs EA 189 EU5 habe weder sittenwidrigen Zwecken gedient noch seien durch deren Verwendung Schutzgesetze im Sinne von § 823 Abs. 2 BGB verletzt worden. Im Übrigen sei der Klagepartei auch kein Schaden entstanden. Durch das Softwareupdate sei ein vorschriftsmäßiger Fahrzeugzustand hergestellt worden, ohne dass hierdurch Nachteile entstünden. Hilfsweise müsse der Kläger sich eine Nutzungsentschädigung anrechnen lassen. Auszugehen sei von einer Laufleistung von 200.000 km.Darüber hinaus erhebt die Beklagte die Einrede der Verjährung, wobei der Kläger der Ansicht ist, seine Anmeldung zur Musterfeststellungsklage vor dem OLG Braunschweig Ende 2018 habe einen Hemmungstatbestand geschaffen.V.Wegen des weitergehenden Sach- und Streitstandes wird auf die gewechselten Schriftsätze nebst Anlagen und das Protokoll der mündlichen Verhandlung (AS 357 ff.) verwiesen. 
+				Gründe
+				A.Die Klage ist teils unzulässig, teils unbegründet.I.Es kann dahinstehen, ob der Antrag Ziffer 1 der Klageschrift auf Feststellung der Ersatzpflicht der Beklagten wegen der behaupteten Manipulation des Audi A 3 hinreichend bestimmt im Sinne von § 253 Abs. 2 ZPO ist (ablehnend OLG München, NJW-RR 2019, 184 Rn. 3 ff.). Der Antrag ist jedenfalls unzulässig. Der Kläger hat kein Feststellungsinteresse nach § 256 Abs. 1 ZPO.1) Das Feststellungsinteresse ist besondere Zulässigkeitsvoraussetzung der Feststellungsklage (Zöller/Greger, ZPO, 32. Aufl. 2018, § 256 Rn. 7). Soweit dem Kläger ein einfacherer oder zumindest gleich effektiver Weg zur Erreichung seines Rechtsschutzziels zur Verfügung steht, entfällt das Feststellungsinteresse. Dies ist insbesondere der Fall, wenn es dem Kläger möglich und zumutbar ist, eine sein Rechtsschutzziel erschöpfende Klage auf Leistung zu erheben. Denn dann könnte er im Sinn einer besseren Rechtsschutzmöglichkeit den Streitstoff durch die Leistungsklage in einem Prozess klären. Ist bereits ein Teil des Schadens entstanden, die Entstehung weiteren Schadens aber noch zu erwarten, muss der Kläger seine Klage nicht in ein Leistungs- und Feststellungsbegehren aufspalten (BGH, Urteil vom 19. April 2016 – VI ZR 506/14 –, Rn. 6, juris). Allerdings ist auch dann das Feststellungsinteresse nicht ohne weiteres zu bejahen. Es besteht nur dann, wenn die Wahrscheinlichkeit für den Eintritt des weiteren Schadens wenigstens substantiiert dargetan wird (BGH, Urteil vom 26. Juli 2018 – I ZR 274/16 –, Rn. 23, juris). Geschieht dies, ist angesichts des Grundsatzes der Schadenseinheit (vgl. dazu Münchener Kommentar/Grothe, BGB, 8. Auflage 2018, § 199 Rn. 9) und der damit verbundenen verjährungsrechtlichen Konsequenzen ein großzügiger Maßstab für die Beurteilung der Schadenswahrscheinlichkeit geboten (BGH, Urteil vom 26. Juli 2018 – I ZR 274/16 –, Rn. 26, juris). Ausreichend ist, dass nach der Lebenserfahrung und dem gewöhnlichen Verlauf der Dinge mit hinreichender Wahrscheinlichkeit ein erst künftig aus dem Rechtsverhältnis erwachsender Schaden angenommen werden kann. Dagegen besteht kein Feststellungsinteresse, wenn der Eintritt irgendeines Schadens noch ungewiss ist (BGH, Urteil vom 10. Juli 2014 – IX ZR 197/12 –, Rn. 11, juris).Diesen Anforderungen genügt der Vortrag des Klägers auch bei Anlegung eines großzügigen Maßstabes nicht.a) Kein Feststellungsinteresse folgt aus der Behauptung des Klägers, dieser habe sich noch nicht entschieden, wie er abrechnet, also ob er am Vertrag festhält und nur den Minderwert verlangt oder ob er so gestellt werden will, als sei der Vertrag nie geschlossen worden. Ein solches Wahlrecht - wenn es von Rechts wegen überhaupt existiert - besteht jedenfalls nicht unbefristet, sondern es wäre dem Kläger angesichts des Zeitablaufs zumutbar, dieses Wahlrecht auszuüben. Ist dies zumutbar, so ist es auch eine hierauf gestützte Leistungsklage. Gegenüber einer solchen ist die Feststellungsklage subsidiär (vgl. LG Freiburg, 14 O 275/18, unveröffentlicht). Soweit der 17. Zivilsenat des OLG Karlsruhe dies obiter dictum unter Berufung auf BGH, Urteil vom 04. Juni 1996 – VI ZR 123/95 –, Rn. 18, juris anders zu sehen scheint (OLG Karlsruhe, Urteil vom 18. Juli 2019 – 17 U 160/18 –, Rn. 78, juris), befasst sich die dort zitierte BGH-Entscheidung nicht mit dem Wahlrecht im hier geltend gemachten Sinne, sondern der hier nicht in Rede stehenden, aber freilich zu bejahenden Frage, ob dem Geschädigten ein Wahlrecht zwischen Naturalrestitution durch den Schädiger (§ 249 Abs. 1 BGB) oder Ersatz in Geld (§ 249 Abs. 2 Satz 1 BGB) zusteht (vgl. nur Münchener Kommentar/Oetker, BGB, 8. Aufl. 2019, § 249 Rn. 357 - Ersetzungsbefugnis).b) Soweit das OLG Karlsruhe mit Urteil vom 18. Juli 2019 – 17 U 160/18 –, veröffentlicht in juris, die Ansicht vertreten hat, das Feststellungsinteresse sei mit Kosten der Erhaltung, Wiederherstellung oder sonstigen Aufwendungen auf den PKW zu begründen, folgt dem das Gericht aus den nachfolgenden Gründen nicht.aa) Ausgangspunkt der rechtlichen Betrachtungen sind die §§ 249 ff. BGB, nicht etwa die §§ 346 BGB. Auch die rechtlichen Maßstäbe im Rahmen des Eigentümer-Besitzer-Verhältnisses, namentlich § 994 Abs. 1 Satz 2 BGB, können nicht herangezogen werden. Das folgt aus dem Grundsatz der Anspruchskonkurrenz, wonach unterschiedliche Ansprüche aus Vertrag, Delikt oder Eigentümer-Besitzer-Verhältnis in Entstehen, Erlöschen und mit Blick auf die Verjährungsregelungen eigenen Regeln unterliegen (vgl. BGH, Urteil vom 24. Mai 1976 – VIII ZR 10/74 –, BGHZ 66, 315-322, Rn. 6).Bei den vom Senat in den Blick genommenen Zahlungen des Geschädigten würde es sich um Aufwendungen auf die Sache handeln. Bei strikter Anwendung der Differenzhypothese wären diese Aufwendungen auch anderweitig bei Hinwegdenken des Verhaltens der Beklagten vorgenommen worden, weil der Kläger bei gewöhnlichem Lauf der Dinge einen anderen PKW erworben und Benzin,- Wartungs-, Instandhaltungs- sowie Versicherungskosten gehabt hätte. Solche Leistungen auf die Sache sind grundsätzlich kein Schaden.Zwar hat der Bundesgerichtshof (BGH) angenommen, dass solche Aufwendungen immer dann ersatzfähig seien, wenn der deliktische Haftungstatbestand gerade das Vertrauen schützt, dessentwegen die Aufwendungen getätigt worden sind (vgl. Staudinger/Schiemann, BGB, Neubearbeitung 2017, § 249 Rn. 124 m. w. N.).Der BGH hat das aber gerade bei Kfz auch von der Frage abhängig gemacht, ob diese Aufwendungen tatsächlich einen wirtschaftlichen Nachteil für den Kraftfahrzeugbesitzer darstellen (BGH, NJW 1964, 717). Das ist zu verneinen, weil der Geschädigte das Fahrzeug gerade in Folge dieser Aufwendungen nutzen konnte. Zudem wären Wartung, Reparatur und Benzinkosten nach allgemeiner Lebenserfahrung ohnehin erforderlich, um das Fahrzeug weiter nutzen zu können und daher nicht frustriert. Auf diese Aufwendungen - die bei der Berechnung der Vorteilsanrechnung auf den Kaufpreis durch lineare Wertminderung im Rahmen der Nutzungsentschädigung keine Berücksichtigung finden würden (siehe zu diesem Gedanken hier und im Folgenden ausführlich: Landgericht Freiburg, Urteil vom 09.08.2019 - 14 O 155/18 -, unveröffentlicht), weil nur der Kaufpreis zur Berechnung heranzuziehen wäre - müsste sich der Kläger im Rahmen der Vorteilsanrechnung die Fortdauer Nutzungsmöglichkeit anrechnen lassen, die sich gerade aufgrund solcher notwendigen Aufwendungen ergibt. Der Vorteil der fortbestehenden Nutzbarkeit würde solche Aufwendungen vollständig aufzehren.bb) Jedenfalls ist ein solcher Schaden der Beklagten auch nicht zurechenbar: Es ist nicht Zweck von § 826 BGB, den Kläger vor Aufwendungen zu schützen, die er während der Zeit auf den PKW getätigt hat, in welcher der PKW fahrbereit und nutzbar war und öffentlich-rechtliche Stilllegungverfügungen nicht ergangen sind.cc) Unabhängig von der rechtlichen Ersatzfähigkeit der vom Senat in den Blick genommenen Aufwendungen und der Frage der Zurechenbarkeit unter Schutzzweckgesichtspunkten behauptet der Kläger solche Ausgaben vorliegend ohnehin nicht.c) Der Vortrag des Klägers zu angeblichen Steuermehrbelastungen ist nicht hinreichend konkret und begründet kein Feststellungsinteresse.aa) Zwar bedarf es, wenn eine Feststellungsklage im Hinblick drohende Steuernachteile erhoben ist, nicht bereits eines für den Geschädigten nachteiligen Steuerbescheides, jedoch muss ein solcher sich zumindest als hinreichend wahrscheinlich abzeichnen, z.B., indem eine nachteilige Steuerfestsetzung aufgrund finanzamtlicher Ermittlungen unmittelbar bevorsteht (BGH, Urteil vom 10. Juli 2014 – IX ZR 197/12 – Rn. 9 ff., Rn. 14 juris).bb) Diesen Anforderungen genügt der pauschale Vortrag, es drohten Steuernachteile, nicht, ebenso wenig die Wiedergabe von Gerichtsentscheidungen, die dies ohne nähere Begründung unterstellen. Eine Änderung ergangener Steuerbescheide wäre nur denkbar, wenn und soweit die Festsetzungsfrist nach § 169 Abs. 2 Satz 2 AO nicht nur vier, sondern zehn Jahre betrüge. Das setzt aber voraus, dass eine vorsätzliche Steuerstraftat - auch eines anderen als des Steuerpflichtigen - objektiv und subjektiv festgestellt wird. Hierfür wird überhaupt nichts konkretes behauptet. Soweit auf staatsanwaltliche Ermittlungen gegen Dritte verwiesen wird, ergibt sich allein aus dem geführten Ermittlungsverfahren nur ein Anfangsverdacht wegen Steuerhinterziehung gegen Mitarbeiter der Beklagten. Unabhängig davon haben die Finanzbehörden ohne Bindung an staatsanwaltliche Ermittlungen und deren Ergebnisse selbstständig zu prüfen, ob in rechtlicher und tatsächlicher Hinsicht die Voraussetzungen einer Steuerstraftat und damit die Voraussetzungen für eine Verlängerung der Festsetzungsfrist nach § 169 Abs. 2 Satz 2 AO vorliegen. Jedenfalls wird nicht behauptet, dass auch nur in einem Fall in Deutschland eine nachteilige Steuerfestsetzung im Zusammenhang mit dem als "Dieselskandal" bekannten Vorgang von Steuerbehörden auch nur in Erwägung gezogen wurde. Es ist nicht nur nicht erkennbar, dass es hierfür überhaupt einen politischen Willen gibt. Es ist auch nicht zu erwarten, dass die Käufer von PKW für die Folgen des Abgasskandals zur Kasse gebeten werden. Im Übrigen wäre die Belastung mit höheren Verbindlichkeiten jedenfalls für die Zukunft schon deswegen kein ersatzfähiger Schaden, weil der Kläger - basierend auf den dann geänderten Emissionswerten - zu Recht mit der Steuerverbindlichkeit belastet wäre.c) Ein Feststellungsinteresse wird auch nicht durch die Behauptung des Klägers begründet, die Beklagte werde auf ein Feststellungsurteil hin leisten.aa) Der Klagepartei wird nur dann ein Wahlrecht zwischen der Leistungs- und der Feststellungsklage eingeräumt, wenn dies zu einer prozesswirtschaftlich sinnvollen und sachgemäßen Erledigung der Streitpunkte führt, aber nur dort, wo die Person des Gegners die Respektierung des Feststellungsurteils erwarten lässt, z.B. bei Klagen gegen öffentlich-rechtliche Körperschaften und Anstalten, Versicherungen, Banken und Insolvenzverwalter (Musielak/Voit/Foerste, ZPO, 16. Aufl. 2019, § 256 Rn. 13 m. w. N.).bb) Die Beklagte fällt nicht in diesen Personenkreis. Sie ist eine Aktiengesellschaft des Privatrechts. Gegen die Behauptung des Klägers spricht zudem das aus einer Vielzahl von Verfahren zum "Dieselskandal" gerichtsbekannte Verhalten der Beklagten. Diese beugt sich weder den gegen sie ergangenen Leistungsurteilen noch einem Feststellungsausspruch. Trotz einer großen Vielzahl von anderslautenden ober- und höchstrichterlichen Entscheidungen vertritt die Beklagte weiterhin die Auffassung, in den Fahrzeugen keine unzulässige Abschalteinrichtung verbaut zu haben. Ebenso lässt sie weiterhin vortragen, eine erfolgreiche Schadensersatzklage setze zwingend voraus, dass die Geschädigten die hierfür im Unternehmen Verantwortlichen benennen und Vollbeweis für deren Kenntnis erbringen.d) Auch der weitere Vortrag des Klägers, er könne die Nutzungsentschädigung nicht berechnen, da diese von richterlicher Schätzung abhängig sei, begründet kein Feststellungsinteresse. Zur Kompensation solcher Unsicherheiten sieht das Prozessrecht diverse Möglichkeiten vor (unbezifferter Leistungsantrag, Antrag nach "Karlsruher Formel" usw.). Gleiches gilt für das - nicht nachvollziehbare - behauptete Unvermögen, den merkantilen Minderwert zu berechnen.f) Schließlich begründet auch die Behauptung des Klägers, ihm drohten Rechtsverfolgungskosten bei Vorgehen gegen Entscheidungen der Aufsichtsbehörden, kein Feststellungsinteresse. Soweit der Kläger vorträgt, dass er gegen etwaige künftige Stilllegungsverfügungen des Kraftfahrtbundesamtes vorgehen müsse, ist das nicht hinreichend dargelegt. Das Software-Update hat der Kläger unstreitig aufspielen lassen. Das Kraftfahrtbundesamt hat nach unwidersprochenem Vorbringen der Beklagtenseite mit Bescheid aus 2016 festgestellt, dass damit ein vorschriftsmäßiger Zustand hergestellt wurde. Der Kläger trägt nicht konkret dar, wieso vor diesem tatsächlichen Hintergrund mit einem Vorgehen des KBA zu rechnen wäre.2) Das Gericht hat auf die Bedenken zur Zulässigkeit der Feststellungsklage hingewiesen (Terminsverfügung Ziffer 3 = AS 141).II.Der Leistungsantrag Ziffer 2 der Klageschrift ist zwar zulässig, aber unbegründet.1) Wer eine unzulässige Klage erhebt, hat schon deswegen keinen Anspruch auf Ersatz vorgerichtlicher Anwaltskosten (OLG München, NJW-RR 2019, 184, 186 Rn. 17 a. E.).2) Der Kläger hat aber auch nicht dargelegt, dass ein vorgerichtliches anwaltliches Vorgehen - sollte er ein solches in Auftrag gegeben haben - hier zweckmäßig gewesen wäre.a) Ist der Schuldner bekanntermaßen zahlungsunwillig und erscheint der Versuch einer außergerichtlichen Forderungsdurchsetzung auch nicht aus sonstigen Gründen erfolgversprechend, sind die verursachten Kosten je nach den Umständen des Einzelfalls nicht erstattungsfähig (BGH, Urteil vom 26. Februar 2013 – XI ZR 345/10 –, Rn. 38, juris).b) Nach diesen Grundsätzen war ein vorgerichtliches anwaltliches Tätigwerden gegen die Beklagte unter Berücksichtigung aller Umstände des Einzelfalls nicht zweckmäßig: Es lag bereits aus ex-ante-Sicht auf der Hand, dass die Beklagte außerhalb eines gerichtlichen Verfahrens weder zahlungs- noch verhandlungsbereit sein werde (ebenso LG Offenburg, Urteil vom 12. Mai 2017 – 6 O 119/16 –, Rn. 58, juris). Es sind keine Anhaltspunkte dafür vorgetragen oder sonst ersichtlich, dass die vorprozessuale Inanspruchnahme durch einen Rechtsanwalt auch nur geringe Aussicht auf Erfolg hatte, zumal sich die Beklagte seit längerem dem Angriff einer Vielzahl von Anspruchstellern mit gleichgerichteten Forderungen ausgesetzt sieht und ihnen entgegen tritt (zu diesem Aspekt vgl. - in anderem Kontext - OLG Karlsruhe, Urteil vom 18. Dezember 2014 – 12 U 104/14 –, Rn. 90, juris), indem sie die vorgerichtlich an sie gestellten Ansprüche ebenso standardisiert zurückweist, wie sie geltend gemacht werden. Dass ausgerechnet der Versuch des Klägers zu einer außergerichtlichen Streitbeilegung ausnahmsweise erfolgversprechend erschienen sei, legen die in zahllosen Parallelfällen tätigen und über die außergerichtliche Haltung der Beklagten informierten Klägervertreter nicht dar. Jedenfalls wäre die anwaltliche Gebühr für ein außergerichtliches Vorgehen, sollte sie im Innenverhältnis geschuldet sein, im Außenverhältnis nicht erstattungsfähig, weil sie nicht "erforderlich" im Sinne des § 249 BGB war (OLG Karlsruhe, Urteil vom 18. Dezember 2014 – 12 U 104/14 –, Rn. 90).2) Eines Hinweises bedurfte es nicht (§ 139 Abs. 2 ZPO).III.Dem Kläger ist das beantragte Schriftsatzrecht nicht zu gewähren, denn auf weitere tatsächliche oder rechtliche Ausführungen, auch zur Frage der Verjährung, kommt es nach dem unter I. und II. ausgeführten nicht mehr an.B.Die prozessualen Nebenentscheidungen beruhen auf den §§ 91 Abs. 1, 709 ZPO.C.Den Streitwert der Feststellungsklage schätzt das Gericht nach § 3 ZPO auf 15.184,00 EUR (20 % Abschlag).
+			
+			
+			
+			Permalink: https://openjur.de/u/2353403.html (https://oj.is/2353403)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate9
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

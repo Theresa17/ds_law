@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG EssenRechtsprechungUrteil vom 24.05.2019 - 5 O 249/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Essen, Urteil vom 24.05.2019 - 5 O 249/18
+                      m. Fundstelle
+                      LG Essen, Urteil vom 24.05.2019 - 5 O 249/18 = openJur 2019, 30450
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Essen, Urteil vom 24.05.2019 - 5 O 249/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 30450
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Es wird festgestellt, dass die Beklagtenpartei verpflichtet ist, der Klägerpartei Schadensersatz zu leisten für Schäden, die aus der Manipulation des Fahrzeugs W(Fahrzeugidentifikationsnummer: 0000000000000) durch die Beklagtenpartei resultieren.2. Im Übrigen wird die Klage abgewiesen.3. Die Kosten des Rechtsstreits trägt die Beklagte.4. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar.Der Streitwert wird auf bis zu 45.400,- Euro festgesetzt. 
+				Tatbestand
+				Die Klagepartei begehrt die Feststellung einer Schadensersatzverpflichtung der Beklagten wegen Ausstattung des von ihm erworbenen Fahrzeuges mit dem Motortyp EA 189 (Abgasthematik).Sie erwarb gemäß der Rechnung vom 03.05.2013 das aus dem Tenor ersichtliche Fahrzeug W zu einem Kaufpreis von 45.400,- Euro brutto bei einem Kilometerstand von 0 km.Das Fahrzeug ist mit dem Motortyp EA 189 ausgestattet.Dieser Motor verfügt über eine Steuerungssoftware, welche erkennt, wenn das Fahrzeug den Fahrzyklus auf dem Prüfstand NEFZ durchfährt. Die Motorsoftware kennt zwei unterschiedliche Betriebsmodi. Im NOxoptimierten Modus 1, der im NEFZ aktiv ist, kommt es zu einer höheren Abgasrückführungsrate. Im Fahrbetrieb im Straßenverkehr ist praktisch immer der Modus 0 aktiv.Die Beklagte entwickelte ein Softwareupdate, nach welchem das Fahrzeug in einem adaptierten Modus 1 einheitlich betrieben werden soll.Das L. hat die technischen Maßnahmen für den streitgegenständlichen Fahrzeugtyp mit Bestätigung vom 03./21.11.2016 freigegeben. Die Freigabe beinhaltet Angaben zur Einhaltung der Grenzwerte und zur unveränderten Einhaltung der ursprünglichen Herstellerangaben.Die Klagepartei behauptet, der Motor der Motor des streitgegenständlichen Fahrzeuges sei durch die Beklagte manipuliert worden und sei aus diesem Grunde mangelhaft. Es könne aufgrund massiv erhöhter Emissionen nicht in die Euro-5-Norm gemäß der Verordnung (EG) Nr. 715/2007 des Europäischen Parlamentes und des Rates vom 20. Juni 2007 eingeordnet werden. Das Fahrzeug sei nicht zulassungsfähig. Eine Teilnahme an der Rückrufaktion sei ihr nicht zumutbar. Betroffenen, die nicht teilnähmen, werde die Stilllegung der Fahrzeuge seitens des L. angedroht. Experten gingen davon aus, dass eine folgenlose Nachbesserung nicht möglich sein werde, da nach dem Eingriff erhebliche Veränderungen am Fahrzeug bestehen würden. Dies zeigten auch bereits durchgeführte Tests nach Durchführung des Updates an Fahrzeugen. Die Folgen des Softwareupdates seien für einen Laien nicht nachvollziehbar. Die betroffenen Fahrzeuge unterlägen einem erheblichen Minderwert (mindestens 20%). Hätte sie von den Manipulationen gewusst, hätte sie das Fahrzeug nicht erworben. Ein Feststellungsinteresse gegeben, da nicht alle Schäden bezifferbar seien. Es drohten steuerliche Nachteile, Rechtsverfolgungskosten u.a.. Zudem sei zu erwarten, dass die Beklagte aufgrund eines Feststellungsurteils leisten werde.Die Klagepartei beantragt,1.) festzustellen, dass die Beklagtenpartei verpflichtet ist, der Klägerpartei Schadensersatz zu leisten für Schäden, die aus der Manipulation des Fahrzeugs W (Fahrzeugidentifikationsnummer: X0000000000000000) durch die Beklagtenpartei resultieren.2.) Die Beklagtenpartei zu verurteilen, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.753,76 Euro freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, das Fahrzeug verfüge nicht über eine unzulässige Abschaltvorrichtung, da nicht die Wirksamkeit einer Abgasreinigungsanlage reduziert werde, sondern durch die Abgasrückrückführung in den Ansaugtrakt des Motors eine lediglich innermotorische Maßnahme stattfände. Es komme naturgemäß zu Abweichungen der Prüfung des Fahrzeuges im synthetischen Fahrzyklus unter Laborbedingungen zum normalen Straßenbetrieb. Auch bestehe keine Gefahr des Entzugs der Typengenehmigung aufgrund der Freigabe der Softwareupdates durch das L. Nach der Installation des Softwareupdates werde das Fahrzeug in einem adaptierten Modus 1 betrieben. Neben einer angepassten Abgasrückführungsrate werde das Brennverfahren im Hinblick auf die Einspritzcharakteristik, den Einspritzdruck und den Einspritzpunkt etc. verändert. Hierbei würden die Erkenntnisse aus der Weiterentwicklung des Diesel-Brennverfahrens der letzten zehn Jahre aufgegriffen und die Felderfahrung über die einzelnen Komponenten berücksichtigt. Der komplette Gemischbildungsprozess wie Einspritzstrategie, der Raildruck, der Einspritzzeitpunkt und der Aufladegrad seien angepasst worden, um die Emissionen und den Verbrauch mit der angepassten Abgasrückführungsrate nicht zu beeinträchtigen. Die Einspritzcharakteristik sei unter anderem um eine zusätzliche Nacheinspritzung erweitert worden bei Erhöhung des Einspritzdrucks um ca. 10% im Teilbereich.Die Durchführung des Software-Updates nach dem mit dem L. abgestimmten Maßnahmen- und Zeitplanes erfolge, obwohl keine verbotene Abschaltvorrichtung vorläge. Die Kosten für das Softwareupdate berechneten sich durchschnittlich für das streitgegenständliche Fahrzeug auf 56,- Euro netto. Der Aufwand sei bei Bereitstellung eines Ersatzfahrzeugs unverhältnismäßig gering im Vergleich zum Kaufpreis. Das Update ziehe keine negativen Auswirkungen auf Kraftstoffverbrauchswerte, Co²-Ausstoß, Emissionswerte, Motorleistung, Drehmoment und Geräuschemissionen nach sich.Eine Wertminderung des Fahrzeuges läge nicht vor. Preisschwankungen auf dem Gebrauchtwagenmarkt, welche außerhalb normaler Schwankungsbreite lägen, seien nicht zu verzeichnen.Eine echte Vergleichbarkeit mit der Sach- und Rechtslage in den USA sei nicht gegeben. Aus dem Sachverhalt sei keine sittenwidrige Handlung zu erkennen. Es fehle auch an Vorsatz von Personen, deren Kenntnis der Beklagten zuzurechnen wäre. Auch läge unter Heranziehung der Differenzhypothese auch bei normativer Korrektur kein Schaden vor. Der Verwaltungsakt des L. entfalte keine Bindungswirkung hinsichtlich Tatsachenfeststellungen im hiesigen Verfahren (Vorliegen einer unzulässigen Abschaltvorrichtung). Im Hinblick auf § 826 BGB fehle es zudem an einer besonderen Verwerflichkeit. Die VO (EG) Nr. 715/2007 stelle allenfalls Verhaltensnormen mit allgemeinschützendem öffentlich rechtlichem Charakter auf. Ein Gebot der guten Sitten gerade im Verhältnis zur Klagepartei lasse sich der Verordnung nicht entnehmen. Die Maßstäbe des Bundesgerichtshofs zur Sittenwidrigkeit seien nicht erfüllt. Es fehle am voluntativen Element. Zudem fehle der Rechtswidrigkeitszusammenhang zwischen der (fiktiv) arglistigen Handlung und dem Vertragsschluss.Ein Feststellungsinteresse sei wegen Vorrangs der Leistungsklage nicht gegeben.Wegen des weiteren Vorbringens der Parteien wird auf den Inhalt der gewechselten Schriftsätze und den gesamten Akteninhalt Bezug genommen. 
+				Gründe
+				Die Klage ist insgesamt zulässig. Insbesondere ist das Landgericht Essen gem. § 32 ZPO örtlich zuständig. Erfolgsort ist der Ort an dem die Klagepartei von der Beklagen (mittelbar) getäuscht wurde, der PKW in Verkehr gebracht wurde und Zahlungen erfolgen. Dies ist Essen. (vgl. hierzu: Zöller/ Vollkommer, 31. Aufl., § 32, Rn. 16).Auch das Feststellungsinteresse ist gem. § 256 ZPO zu bejahen. Gem. § 256 ZPO kann Klage auf Feststellung des Bestehens oder Nichtbestehens eines Rechtsverhältnisses erhoben werden, wenn der Kläger ein rechtliches Interesse daran hat, dass das Rechtsverhältnis durch richterliche Entscheidung alsbald festgestellt wird. Dies ist in der Regel dann anzunehmen, wenn dem Recht des Klägers eine gegenwärtige Gefahr der Unsicherheit droht und das Feststellungsurteil geeignet ist, diese Gefahr zu beseitigen (vgl.: LG Krefeld, Urteil vom 04.10.2017, Az.: 2 O 19/17 m.w.N.). Da die Beklagte Ansprüche der Klägerin zurückweist mit der Begründung, eine sittenwidrige Schädigung läge nicht vor, besteht die Gefahr, dass die Rechte des Klägers z.B. durch Eintritt der Verjährung vereitelt werden. Das Feststellungsinteresse fehlt auch nicht wegen Vorrangs der Leistungsklage. Grundsätzlich ist ein Gläubiger gehalten, bei Möglichkeit seinen Anspruch zu beziffern und im Wege der Leistungsklage vorrangig geltend zu machen. Dies gilt dann aber nicht, wenn er seine Klage in eine Leistungs- und in eine Feststellungsklage aufspalten müsste. Letzteres ist dann der Fall, wenn bei Klageerhebung ein Teil des Schadens schon entstanden, die Entstehung weiteren Schadens aber noch zu erwarten ist (BGH, Urteil vom 19.04.2016, Az.: VI ZR 506/14). Eine allgemeine Subsidiarität der Feststellungsklage besteht nicht. Auch wenn entsprechend dem Vortrag der Beklagten eine Bezifferung entstandener Schäden zum Zeitpunkt der Klageerhebung möglich gewesen sein dürfte, so neben dem klägerseits angekündigten Rückabwicklungsanspruch etwaige Verwendungen etc., erscheinen weitere Schäden, die derzeit noch nicht bezifferbar sind, hinreichend wahrscheinlich. Die Klägerin beruft sich diesbezüglich explizit auf etwaige Steuerschäden und Rechtsverfolgungskosten. Auch ist an dieser Stelle zu berücksichtigen, dass die Rückabwicklung des Vertrages, wäre sie bereits beantragt, nicht abgeschlossen wäre und auch aus diesem Grunde weitere Schadenspositionen, je nach Ablauf der Rückabwicklung und Dauer bis zu einer rechtskräftigen Entscheidung denkbar wären. Die Klägerseite befürchtet eine Stillegung des Fahrzeuges. Da das Softwareupdate bislang nicht durchgeführt wurde, ist dies nicht fernliegend (vgl. hierzu: LG Krefeld a.a.O.).Der Klägerin steht ein Schadensersatzanspruch gem. § 826 BGB zu.Durch das Inverkehrbringen der mit dem Motor EA189 ausgestatteten Fahrzeuge ohne Offenlegung der eingebauten Software zum Modiwechsel im Prüfstand - so auch des streitgegenständlichen Fahrzeuges - hat die Beklagte der Klägerin in einer gegen die guten Sitten verstoßenden Art und Weise vorsätzlich Schaden zugefügt (i.E. so auch: LG Paderborn, Urteil vom 07.04.2017, Az.: 2 O 118/16; LG Saarbrücken, Urteil vom 14.06.2017, Az.: 12 O 104/16).Die Hinzufügung eines Schadens bedeutet jede nachteilige Einwirkung auf die Vermögenslage, die Beeinträchtigung eines rechtlich anerkannten Interesses oder die Belastung mit einer ungewollten Verpflichtung (Palandt/ Sprau, 75. Aufl., § 826, Rn. 3 mit jeweils w.N.). Durch das Inverkehrbringen der Fahrzeuge mit dem verbauten Motor EA189 und der inkludierten streitgegenständlichen Software hat die Beklagte, wie auch von ihr beabsichtigt, bewirkt, dass die Endverbraucher Fahrzeuge mit dem eingebauten Motortyp erwerben, obwohl dieser in deren Unkenntnis die streitgegenständliche Software aufweist. Der Abschluss eines solchen Kaufvertrages aber ist für die Klägerin wie auch für weitere Endverbraucher eine nachteilige Einwirkung auf ihr Vermögen. Denn der Kaufgegenstand entspricht nicht demjenigen, den sie nach dem Kaufvertrag erwerben sollte. Auch ohne ausdrückliche Vereinbarung kann ein Käufer davon ausgehen, dass ein Fahrzeug die technischen Voraussetzungen für die Erteilung der jeweiligen EG-Typengenehmigung erfüllt, die vertragsgegenständlich war. Dahinstehen kann, inwieweit eine Bindungswirkung von Verwaltungsakten des L. besteht. Denn zumindest bestand für die Beklagte erkennbar die Gefahr einer entsprechenden rechtlichen Einordnung als "unzulässige Abschalteinrichtung", welche geeignet ist, die Zulassungsvoraussetzungen / EG-Typengenehmigung sodann zumindest zu gefährden. Die Argumentation der Beklagten, es könne technisch nicht nachvollzogen werden, ob die Fahrzeuge ohne Softwareupdate nicht auch im normalen Fahrbetrieb die vorgegebenen Grenzwerte einhalten, weil dieser Modus technisch nicht auf dem Prüfstand zu aktivieren sei, überzeugt nicht. Unstreitig steht fest, dass in dem Prüfmodus eine weitaus höhere Abgasrückführung erfolgt, als im normalen Fahrbetrieb. Ohne substantiierten Vortrag der Beklagten muss allein aus logischen Erwägungen heraus davon ausgegangen werden, dass die Werte des Abgasausstoßes bei höherer Rückführungsrate geringer sind. Dass die Werte im Normalbetrieb die Grenzwerte einhalten, ist hinsichtlich des betriebenen Aufwandes durch Schaffung der beiden Modi substantiierungsbedürftig. Indes kann dies dahinstehen, da allein das Vorhandensein der seitens der Beklagten als "Umschaltlogik" bezeichneten technischen Besonderheit die Gefahr der jetzt hinsichtlich des L. realisierten rechtlichen Einordnung als unzulässige Abschaltvorrichtung nach sich zieht. Auch muss berücksichtigt werden, dass die betroffenen Fahrzeuge auf dem Prüfstand - selbst bei Beachtung der seitens der Beklagten zu Recht angeführten Laborbedingungen für sämtliche geprüfte Fahrzeuge auch anderer Hersteller - veränderte Werte nicht nur wegen der künstlichen Umgebung, sondern zudem und zusätzlich wegen der "Umschaltlogik" aufweisen. Dies lässt die betroffenen Fahrzeuge und so auch das streitgegenständliche im Vergleich zu anderen in künstlicher Umgebung getesteten Fahrzeugen Werte realisieren, die ohne die Umschaltlogik nicht erreicht worden wären. Insoweit wurde ein vergleichsfähiger Marktwertfaktor manipuliert, der durchaus von Käuferinteresse sein kann. Der durchschnittliche Käufer darf erwarten, dass die auf dem Prüfstand getesteten Werte bis auf den Umstand der Laborumgebung keine verändernden Faktoren erfahren haben und aus diesem Grund keine Gefahr für die Genehmigungsfähigkeit begründet wurde (vgl. hierzu auch: LG Saarbrücken, Urteil vom 14.06.2017, Az.: 12 O 104/16). Dass eine solche Gefahr realisiert wurde, zeigen die unstreitigen Entscheidungen des L. - unabhängig von der Frage der Bindungswirkung der erlassenen Verwaltungsakte.Dieser eingetretene Schaden ist auch nicht durch die Bereitstellung des Softwareupdate bzw. dessen Durchführung zu beseitigen. Es stellt sich vorab die Frage, ob sich der Kläger auf das Softwareupdate einlassen muss. Zum Zeitpunkt der letzten mündlichen Verhandlung war dieses noch nicht durchgeführt. Die Pflicht zur Durchführung könnte allein aus Schadensminderungsgesichtspunkten, § 254 Abs. 2 BGB, bestehen. Gem. § 254 Abs. 2 BGB ist der Geschädigte verpflichtet, den Schaden abzuwenden oder zu mindern. Dies in der Form, dass er keine Maßnahmen unterlassen darf, die ein ordentlicher und verständiger Mensch zur Schadensminderung ergreifen würde, wobei der entscheidende Abgrenzungsmaßstab Treu und Glauben ist (vgl. Palandt/Grüneberg, 75. Aufl., § 254, Rn. 36 m.w.N.). Nach der technischen Darstellung der Beklagten selbst handelt es sich bei dem Softwareupdate um eine Maßnahme, die an mehreren Stellen in die Betriebsweise des Motors eingreift. So werde nicht nur die Abgasrückführungsrate erhöht, sondern gleichzeitig durch Veränderung des Einspritzmomentes und -drucks der Verbrennungsprozess selbst modifiziert, um erwarteten Nachteilen zu begegnen. Nach den eigenen Ausführungen der Beklagten seien hierbei die Erkenntnisse aus der Weiterentwicklung des Diesel-Brennverfahrens der letzten zehn Jahre aufgegriffen und die Felderfahrung über die einzelnen Komponenten berücksichtigt worden. Der komplette Gemischbildungsprozess wie Einspritzstrategie, der Raildruck, der Einspritzzeitpunkt und der Aufladegrad seien angepasst worden, um die Emissionen und den sachgerecht bzw. folgenfrei repariert wurde, um einen Minderwert des Fahrzeuges zu begründen. Es ist nicht erforderlich, dass die Realisierung einer schlechten Reparatur tatsächlich nachgewiesen wird. Der Charakter des Fahrzeuges als Unfallfahrzeug Verbrauch mit der angepassten Abgasrückführungsrate nicht zu beeinträchtigen. Die Einspritzcharakteristik sei unter anderem um eine zusätzliche Nacheinspritzung erweitert worden bei Erhöhung des Einspritzdrucks um ca. 10% im Teilbereich. Die angebotene Maßnahme stellt hiernach aus Sicht der Kammer eine Form von "aliud" dar, das heißt, der vorhandene Mangel, welcher deliktsrechtlich nach obigen Ausführungen einen Schaden begründet, wird nicht lediglich beseitigt, vielmehr wird das Fahrzeug insgesamt verändert und stellt auch nach Durchführung des Updates nicht das vertraglich geschuldete Fahrzeug dar. Dieser Umstand der schuldrechtlichen Unmöglichkeit bewirkt im Deliktsrecht, dass dem Gläubiger eine Schadensminderung durch Durchführung des Updates nicht zugemutet werden kann. Selbst, wertete man dies anders, wäre das Update aus sich der Kammer nicht geeignet, bei Durchführung den Schaden abzuwenden. Denn die Makelbehaftung des Fahrzeuges bliebe bestehen. Anders als bei einem einfachen schadhaften Bauteil, welches durch ein neues ausgetauscht werden kann, bedurfte es selbst nach dem Beklagtenvortrag der Nutzung des Wissens aus weiteren 10 Jahren Motorenentwicklung, um (so behauptet) trotz Einführung des adaptierten Modus im Fahrbetrieb keine Nachteile im Verbrauchsverhalten etc. zu erlangen. Ob diese technische Entwicklung unter dem vorhandenen Zeitdruck tatsächlich nachteilsfrei gelungen ist, ist hoch streitig. Da diese Diskussion entsprechend den zahlreich zitierten Quellen auch in der Öffentlichkeit geführt wird, genügt dieser Umstand, um eine "Makelbehaftung" des Fahrzeuges, ähnlich der eines Unfallfahrzeuges annehmen zu können. Denn entsprechend dieser Rechtsprechung genügt der bloße Verdacht, dass ein Unfallschaden nicht hinreichend und lässt sich nicht korrigieren (vgl. insgesamt: BGH, Urteil vom 10.10.2007, Az.: VIII ZR 330/06). Vergleichbar ist der Fall hier gelagert. Der in der Öffentlichkeit diskutierte Verdacht, dass die Fahrzeuge des streitgegenständlichen Motortyps nach Durchführung des Softwareupdates Nachteile z.B. hinsichtlich der Geräuschentwicklung, des Verschleißes von Teilen oder im Verbrauch aufweisen könnten genügt, um eine Makelbehaftung zu bejahen (so im Ergebnis auch: LG Hildesheim, Urteil vom 17.01.2017, Az.: 3 O 139/16).Die Beklagte muss sich das Handeln ebenso wie das erforderliche voluntative Element gem. § 31 BGB zurechnen lassen. § 31 BGB gilt für alle juristischen Personen. Die Rechtsprechung legt den Begriff des verfassungsmäßig berufenen Vertreters weit aus. Ausreichend ist, dass ihm durch die allgemeinen Betriebsregelungen und Handhabungen bedeutsame wesensmäßige Funktionen der juristischen Person zur selbständigen eigenverantwortlichen Erfüllung zugewiesen sind und er die juristische Person insoweit repräsentiert. Der personelle Begriff deckt sich insoweit mit dem arbeitsrechtlichen des leitenden Angestellten (vgl. hierzu Palandt/ Ellenberger, 75. Aufl., § 31, Rn. 6 m.w.N.). Die Tatsache, dass der Motor EA 189 mit der modifizierenden Software millionenfach nach seiner Entwicklung in Verkehr gebracht wurde indiziert, dass sowohl die technische Entwicklung als auch die Inverkehrbringung durch Personen veranlasst worden sein muss, die die genannten Voraussetzungen einer eigenverantwortlich handelnden, repräsentierenden Person erfüllen. Bezüglich dieser Personen ist sodann auch das erforderliche voluntative Element der Schädigungsabsicht und des besonders verwerflichen Verhaltens (dazu unten) erfüllt. Substantiierter Gegenvortrag zu dieser Indizwirkung fehlt (vgl. LG Paderborn, unter Anwendung des § 138 Abs. 3 ZPO: Urteil vom 07.04.2017, Az.: 2 O 118/16; vgl. auch: LG Hildesheim, Urteil vom 17.01.2017, Az.: 3 O 139/16 zur sekundären Darlegungslast).Die Beklagte beruft sich darauf, dass die internen Ermittlungen nicht abgeschlossen seien. Aus diesem Umstand kann indes gefolgert werden, dass zumindest, sollte man sich dieser Wertung nicht anschließen, Organisationsmängel vorliegen, aufgrund derer die Beklagte sich so behandeln lassen muss, als ob anstelle von Verrichtungsgehilfen verfassungsmäßige Vertreter gehandelt hätten (vgl. hierzu: BGH, Urteil vom 08.07.1980, Az.: VI ZR 158/78). Denn eine juristische Person ist verpflichtet, den Gesamtbereich ihrer Tätigkeit so zu organisieren, dass für alle wichtigen Aufgabengebiete ein verfassungsmäßiger Vertreter zuständig ist, der die wesentlichen Entscheidungen selbst trifft (vgl. Palandt a.a.O.). Auch die Heranziehung dieser Rechtsprechung bewirkt, dass das voluntative Element, selbst, sollte es bei Personen ohne Leitungskompetenz verwirklicht sein, aufgrund Organisationsverschuldens zugerechnet werden müsste. Denn anderenfalls könnte sich die juristische Person durch bewusste Fehlorganisation einer besonders schwerwiegenden Haftung gem. § 826 BGB entziehen, in anderen Fällen aber haftungsrechtlich belastet sein. Eine solche Differenzierung kann durch die Entwicklung der Rechtsprechung zum Organisationsverschulden nicht gewollt sein und ist auch nicht zu vertreten, da deren Sinn gerade ist, eine Haftungsentziehung durch Organisationsmängel zu vermeiden. Hilfsweise wäre abzustellen auf eine in jedem Fall anzunehmende sekundäre Darlegungslast hinsichtlich der inneren Organisation - diese kann der Klägerseite nicht zugänglich sein. Ihre Darlegung ist zumutbar (vgl. hierzu ingesamt: LG Hildesheim, Urteil vom 17.01.2017, Az.: 3 O 139/16; a.A. wohl: OLG Stuttgart, Urteil vom 25.04.2017, Az.: 6 U 146/16). Sollte sie - entsprechend dem Beklagtenvortrag - nicht möglich sein, greifen die Ausführungen zu den Organisationsmängeln. Auch kann verwiesen werden auf die Rechtsprechung zur einer Pflicht zur ausreichenden Dokumentation und Informationsspeicherungspflicht (BGH, Urteil vom 02.02.1996, Az.: V ZR 239/94).Das Verhalten der Entwicklung und Inverkehrbringung des streitgegenständlichen Motortyps stellt eine vorsätzliche Schädigung dar, welche zugleich in einer gegen die guten Sitten verstoßenden Art und Weise erfolgt ist. Den handelnden Personen war aufgrund der oben genannten Indizwirkung bekannt, dass der in Verkehr gebrachte Motor bei Aufdeckung der Abschaltlogik Gefahr liefe, die EG-Typengenehmigung zu verlieren. Aufgrund der Vielzahl der in Verkehr gebrachten Produkte und der Vielzahl der betroffenen Endverbraucher verstößt die Handlung gegen das Anstandsgefühl aller billig und gerecht Denkenden (vgl. hierzu: Palandt/Sprau, 75. Aufl., § 826, Rn. 3 f.). Das Verhalten stellt sich als besonders verwerflich dar, da die Beklagte, ob aus Gewinnstreben, Wettbewerbsfähigkeit oder sonstigen unternehmerischen Erwägungen heraus ihre Interessen über die Interessen einer Vielzahl ihrer Endkunden gestellt hat und in Kauf genommen hat, dass diese in der oben aufgeführten Weise Schaden nehmen. Hilfsweise kommt hinzu, dass der Umweltaspekt aufgrund der Sensibilisierung der Verbraucher auch bereits zu dem Zeitpunkt des Vertragsschlusses nicht per se als allein öffentliches Interesse angesehen werden kann. Denn das öffentliche Interesse speist sich aus den Einzelinteressen der gesamten Bevölkerung. Die Verringerung des Ausstoßes von Stickstoffen ist u.a. in den streitgegenständlichen Zulassungsnormen geregelt. Indes kann hieraus nicht reduzierend geschlossen werden, dass ein allein umweltpolitisches Interesse verfolgt wird, welches das Verhalten dem Einzelnen gegenüber nicht als verwerflich anzusehen ist. Denn die genannten Normen erheben die Grenzwerte, um den Einzelnen in seinem Lebensumfeld zu schützen, wodurch die aufgestellten Werte Individualinteresse erlangen. Das vorgetragene Individualinteresse erscheint damit nicht unglaubhaft allein aus dem Umstand heraus, dass die betroffenen Normen öffentlich rechtlichen Charakter besitzen (wohl a.A: LG Braunschweig, Urteil vom 25.04.2017, Az.: 11 O 3993/16).Dass die Klägerin aufgrund der Zwischenschaltung eines Händlers mittelbar geschädigt ist, schließt die Haftung der Beklagten nicht aus, da sich Bewusstsein und Wille des Schädigers wie dargestellt auch auf die jeweiligen Endverbraucher bezogen haben. Namentlich brauchen diese nicht bekannt zu sein (vgl. hierzu: Palandt/ Sprau, 75. Aufl., § 826, Rn. 12 m.w.N.).Ein Anspruch auf Ersatz der außergerichtlich entstandenen Rechtsanwaltskosten ist nicht schlüssig vorgetragen. Grundsätzlich besteht ein solcher Anspruch aufgrund der deliktischen Haftung gem. § 826 BGB, da die Rechtsverfolgung über einen Rechtsanwalt zweckentsprechend im Sinne des § 249 BGB erscheint. Indes fehlt es an der substantiierten Darstellung einer vorgerichtlichen Tätigkeit, die den Gebührentatbestand erfüllt, was die Beklagte bereits in der Klageerwiderung moniert hat. Weiterer Vortrag zu einer Tätigkeit speziell in diesem Verfahren erfolgte nicht.Die Entscheidung zur vorläufigen Vollstreckbarkeit beruht auf § 709 ZPO.Die Kostenentscheidung beruht auf § 92 Abs. 2 Nr. 2 ZPO.Rechtsbehelfsbelehrung:Hinweis zum elektronischen Rechtsverkehr:Die Einlegung ist auch durch Übertragung eines elektronischen Dokuments an die elektronische Poststelle des Gerichts möglich. Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet und mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg gemäß § 130a ZPO nach näherer Maßgabe der Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach (BGBl. 2017 I, S. 3803) eingereicht werden. Weitere Informationen erhalten Sie auf der Internetseite www.justiz.de.
+			
+			
+			
+			Permalink: https://openjur.de/u/2178952.html (https://oj.is/2178952)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen5
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

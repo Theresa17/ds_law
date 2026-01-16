@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG AugsburgRechtsprechungEndurteil vom 09.04.2018 - 111 O 1283/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Augsburg, Endurteil vom 09.04.2018 - 111 O 1283/17
+                      m. Fundstelle
+                      LG Augsburg, Endurteil vom 09.04.2018 - 111 O 1283/17 = openJur 2021, 47180
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Augsburg, Endurteil vom 09.04.2018 - 111 O 1283/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 47180
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist für Beklagte gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.Beschluss:Der Streitwert wird auf 22.177,17 € festgesetzt. 
+				Tatbestand
+				Mit der Klage werden Ansprüche auf Rückabwicklung eines Kaufvertrages über einen vom Abgasskandal betroffenen Pkw VW Golf Plus 1.6 TDI aufgrund behaupteter Mängel geltend gemacht.Mit Kaufvertrag vom 09.12.2010 erwarb der Kläger bei der Beklagten das streitgegenständliche Fahrzeug, einen gebrauchten Pkw VW Golf Plus 1.6 TDI mit der Fahrgestellnummer ... zum Bruttobetrag von 20.400,00 €. Das Fahrzeug wurde nach Zahlung des Kaufpreises am 30.04.2015 oder am 01.05.2015 an den Kläger übergeben. Das Fahrzeug ist mit einem Dieselmotor des Typs EA 189 ausgestattet und unterfällt der Emissionsklasse EU 5.Zur Erlangung dieser Typenzulassung müssen die Fahrzeuge bestimmte Emissionsgrenzwerte einhalten. Die Abgaswerte werden in einem bestimmten Testlauf, der aus fünf synthetischen Fahrkurven besteht (Neuer Europäischer Fahrzyklus: NEFZ), unter Laborbedingungen gemessen.Das streitgegenständliche Fahrzeug war werksseitig mit einer Software ausgestattet, die erkannte, ob sich das Fahrzeug im NEFZ befand oder im Normalbetrieb. Bei Durchfahren des NEFZ befindet sich das Fahrzeug im Abgasrückführungsmodus 1, durch das die Abgase in den Motor zurückgeführt werden, bevor sie überhaupt das Emssionskontrollsystem erreichen. Unter Fahrbedingungen im normalen Straßenverkehr ist der Abgasrückführungs-Modus 0 aktiv. Weil es im normalen Straßenbetrieb praktisch ausgeschlossen ist, den NEFZ nachzufahren, befand sich das Fahrzeug mit der verbauten Software im normalen Betrieb durchgehend im Modus 0. Im Modus 0 ist die Abgasrückführungsquote deutlich geringer, und damit sind die ausgestoßenen Stickoxide erhöht. Die Voraussetzungen einer Einstufung in die EURO 5 Norm waren im Modus 0 nicht zu erreichen.In der Folge des sog. "Abgasskandals" stimmte der Hersteller des Fahrzeugs mit dem Kraftfahrtbundesamt (KBA) einen Zeit- und Maßnahmeplan ab. Entsprechend diesem Plan hat das KBA für alle betroffenen Fahrzeuge der Emissionsklage EURO 5 die entsprechende Freigabebestätigung für die Durchführung eines Software-Updates erteilt, mit Hilfe dessen eine technische Lösung zur Einwirkung auf die Motorsteuerung gefunden werden sollte. Die Freigabe für den hier streitgegenständlichen Fahrzeugtyp wurde am 03.11.2016 erteilt. Das entsprechende Update für das klägerische Fahrzeug stand am 14.12.2016 zur Verfügung, der Kläger wurde noch im Dezember 2016 darüber informiert.Unter dem 20.12.2016 erklärte der Kläger den Rücktritt vom Kaufvertrag. Eine Aufforderung an die Beklagte zur Nachbesserung erfolgte nicht.Nachdem der Inhaber der Beklagten dem Kläger gegenüber geäußert hatte, dass das Aufspielen des Updates "gut für die Umwelt" sei, ließ der Kläger am 17.08.2017 durch die Beklagte die mit dem KBA abgestimmten Updatemaßnahmen durchführen. Der Kläger konnte das Fahrzeug am selben Tag wieder abholen. Kosten wurden ihm nicht berechnet. Aufzeichnungen zum Verbrauch des Fahrzeugs hat der Kläger nicht geführt.Der Kläger ist der Auffassung, das Fahrzeug sei mangelhaft und er daher zum Rücktritt berechtigt. Es halte nämlich die Euro 5-Norm nicht ein und stoße höhere Stickoxid- und Co2-Werte als angegeben aus. Es sei als Beschaffenheitsvereinbarung die "BlueMotionTechnology" als sauberster Diesel seiner Klasse vereinbart gewesen, was der Wagen nicht einhalte. Der Kläger habe mit einer höheren Steuerbelastung nach Korrektur der Schadstoffeinstufung zu rechnen. Auch sei die Zulassung für Umweltzonen rechtswidrig und die Zulassung durch mittelbare Falschbeurkundung erlangt. Die EU-Konformitätsbescheinigung sei durch die Schummelsoftware falsch, das Auto habe tatsächlich keine Genehmigung, da es nicht EU-Typgenehmigungskonform hergestellt worden sei.Die Nacherfüllung sei unzumutbar und unmöglich, daher sei auch keine entsprechende Frist zu setzen.Der Kläger beantragt zuletzt:1. Die Beklagte wird verurteilt, an die Klägerpartei 20.400,- EUR zuzüglich Aufwendungen für Reparaturleistungen in Höhe von 10,38 EUR, 326,46 EUR, 291,62 EUR, 632,43 EUR, 226,65 EUR, 95,66 EUR und 193,97 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 30.12.2016 Zug-um-Zug gegen Übergabe des Fahrzeuges mit der Fahrgestellnummer ...14 zu zahlen.2. Es wird festgestellt, dass sich die Beklagte spätestens seit dem 30.12.2016 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstandes in Verzug befindet.3. Die Beklagte trägt die Kosten des Rechtsstreits und die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.348,27 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 30.12.2016.Die Beklagte beantragtdie Klage abzuweisen.Die Beklagte trägt vor, dass das streitgegenständliche Fahrzeug technisch sicher und uneingeschränkt gebrauchstauglich sei. Die vom KBA erteilte EG-Typgenehmigung sei nach wie vor unverändert wirksam, sie sei nicht entzogen worden. Deswegen sei das Fahrzeug auch EURO 5 klassifiziert. Allein der Umstand, dass das streitgegenständliche Fahrzeug mit einer Software ausgestattet sei, die den Stickoxidausstoß im Prüfstand beeinflusse, ändere nichts am Bestand und an der Wirksamkeit der Typgenehmigung.Trotz vollständiger Gebrauchstauglichkeit und Sicherheit würde das Fahrzeug auf Kosten des Herstellers technisch überarbeitet. Durch das Software-Update würde das Fahrzeug nur noch im Abgasrückführungs-Modus 1 betrieben. Die Kosten der Nachbesserung, die maximal eine Stunde dauern würde, würden sich auf weniger als 100,00 € belaufen.Der Kläger habe beim Kauf nicht zum Ausdruck gebracht, dass er ein Fahrzeug mit einem bestimmten Schadstoffausstoß erwerben wolle, er habe einen konkreten Gebrauchtwagen erworben. Es sei auch nicht vereinbart worden, dass das Kfz über die sog. BlueMotionTechnologie verfügen solle.Die vom Kläger mitgeteilten Befürchtungen, die das Software-Update mit sich bringe, seien sämtlich unsubstantiiert. Nach dem Bescheid des KBA habe dieses überprüft, dass mit dem Software-Update weder eine unzulässige Abschalteinrichtung vorliege, noch dass die Grenzwerte der Schadstoffemissionen überschritten würden. Auch die bisherige Motorleistung und das maximale Drehmoment, sowie die Geräuscheemissionen würden unverändert bleiben.Dem Kläger sei es beim Erwerb des Fahrzeugs auch nicht auf die Einhaltung bestimmter einzelner Emissions-Grenzwerte angekommen. Der durchschnittliche Käufer habe höchstens auf die Einstufung des Fahrzeugs in eine bestimmte Abgasnorm Wert gelegt.Mitnichten sei das Fahrzeug mangelhaft. Eine Beschaffenheitsvereinbarung sei nicht getroffen worden. Eine ausdrückliche Vereinbarung einer bestimmten Beschaffenheit hinsichtlich der Abgaswerte sei im Kaufvertrag nicht getroffen worden.Das Fahrzeug eigne sich gem. § 434 Abs. 1 S. 2 BGB auch für den nach dem Vertrag vorausgesetzten Zweck und dessen gewöhnliche Verwendung. Es sei fahrfähig und voll funktionstüchtig. Die Typenzulassung sei nicht widerrufen. Auch entspreche das Fahrzeug den Eigenschaften, die der Kläger nach den öffentlichen Äußerungen erwarten durfte. Allenfalls die Zuordnung zu einer konkreten Abgasnorm sei dabei ein für den Kaufentschluss maßgeblicher Faktor. Die EG-Typgenehmigung sei durch das KBA nicht widerrufen worden.Ein merkantiler Minderwert sei nicht festzustellen. Die diesbezüglichen Behauptungen der Klägerseite seien "ins Blaue hinein" erfolgt.Hinsichtlich aller Einzelheiten wird verwiesen auf die Schriftsätze der Parteien samt Anlagen sowie das Protokoll der öffentlichen Sitzung vom 19.02.2018 
+				Gründe
+				Die Klage ist zulässig, aber in vollem Umfang unbegründet und war daher abzuweisen, weil dem Kläger kein Recht zum Rücktritt vom Kaufvertrag zusteht.A. Kein RücktrittsrechtDer Kläger konnte nicht vom Kaufvertrag vom 09.12.2010 durch Rücktrittserklärung vom 20.12.2016 zurücktreten, weil ihm kein Rücktrittsrecht nach §§ 437 Ziff. 2, 440, 323, 326 Abs. 5, 434 BGB zusteht.I. MangelZwar haben die Parteien am 09.12.2010 einen Kaufvertrag über den gebrauchten streitgegenständlichen PKW geschlossen. Dieser ist auch mangelhaft i.S.d. §§ 434 Abs. 1 Satz 2 Ziff. 2, Satz 3 BGB. Dabei kann sich der Kläger zwar nicht auf eine Beschaffenheitsvereinbarung betr. die sog. "BlueMotionTechnology" stützen. Der Kläger hat diesen konkreten, gebrauchten PKW gekauft. Die "BlueMotionTechnology" ist im entsprechenden Kaufvertrag (Anlage K1) nicht erwähnt.Das Gericht ist dennoch überzeugt, dass das vom Kläger gekaufte Fahrzeug einen Sachmangel im Sinne des § 434 Abs. 1 S. 2 Nr. 2 BGB aufweist.Nach der vorgenannten Vorschrift ist eine Sache frei von Sachmängeln, wenn sie sich für die gewöhnliche Verwendung eignet und eine Beschaffenheit aufweist, die bei Sachen der gleichen Art üblich ist und die der Käufer nach der Art der Sache erwarten kann.Im vorliegenden Fall eignet sich das streitgegenständliche Fahrzeug zwar grundsätzlich für den Fahrbetrieb und somit für die gewöhnliche Verwendung. Jedoch verfügt es nicht über eine Beschaffenheit, die bei Sachen gleicher Art üblich ist und die ein Käufer nach der Art der Sache erwarten kann. Der Käufer eines Fahrzeugs darf und kann davon ausgehen, dass die technischen Bedingungen für die Beeinflussung der Abgaswerte und die Vermeidung schädlicher Emissionen im Straßenverkehr mit derselben Effektivität wie auf dem Prüfstand erfolgt. Er darf und kann davon ausgehen, dass die Werte im Prüfstand nicht aufgrund einer speziellen, im Fahrzeug verbauten Software erzeugt werden, die den Fahrzyklus des Prüfstandes erkennt und in einen Betriebsmodus schaltet, der den Stickoxidausstoß bewusst nur auf dem Prüfstand, aber zu keinem Zeitpunkt unter realen Nutzungsbedingungen reduziert.Dabei ist es entgegen der Ansicht der Beklagtenseite unerheblich, welche technischen Maßnahmen gewählt wurden - ob dies durch Manipulation der Abgasrückführung oder Abschaltung bzw. Reduzierung der Wirksamkeit des Emissionskontrollsystems erfolgte.Die Beklagte hat selbst angegeben, dass nur während des NEFZ die Motorsteuerung in den Modus 1 mit höherer Abgasrückführung geschaltet habe, während sich der Motor während des normalen Fahrbetriebs im Modus 0 befunden habe. Es ist zwar zutreffend, dass der Prüfstandmodus nicht den normalen Fahrbetrieb wiedergibt. Dennoch fehlt es bei Verwendung der im streitgegenständlichen Fahrzeug eingebauten Software an einem Verhältnismaßstab der Abgaswerte zwischen Prüfmodus und realem Fahrbetrieb.Eine Aussage über Abgas- und Verbrauchswerte im realen Fahrbetrieb und ein Vergleich zu anderen Fahrzeugen kann damit auf der Basis der auf dem Prüfstand ermittelten Werte nicht getroffen werden. Da nur die Prüfstandsfahrt Grundlage der EG-Typengenehmigung ist und nur deren Werte öffentlich (in Prospekten und Werbung) bekannt gemacht werden, werden Kunden (und die Genehmigungsbehörde) über die Aussagekraft der Messwerte für die im realen Fahrbetrieb zu erwartenden Emissionswerte falsch informiert (vgl. etwa LG Krefeld, Urteil vom 14.9.2016 - 2 O 83/16 LG Bochum, Urteil vom 16.03.2016 - I - 2 O 425/15).II. Keine NachfristsetzungDas Rücktrittsrecht des Klägers ist aber jedenfalls nach § 323 BGB ausgeschlossen, weil der Kläger unstreitig keine Frist für die Mangelbeseitigung durch die Beklagte gesetzt hat.Die Setzung einer Frist zur Nachbesserung war auch nicht entbehrlich.1. Die Entbehrlichkeit der Fristsetzung ergibt sich nicht aus § 323 Abs. 2 BGB. Jedenfalls die Beklagte, bei der es sich lediglich um einen Autohändler und nicht um den Hersteller handelt, hat nicht arglistig getäuscht. Damit liegt keine Täuschung durch den Verkäufer selbst vor, bei der unter Abwägung der beiderseitigen Interessen der sofortige Rücktritt gerechtfertigt wäre. Insbesondere kann der Verkäufer, also der Autohändler, nicht bloß als "verlängerter Arm" des Herstellers angesehen werden, dem die Täuschung durch den Hersteller zugerechnet werden kann.2. Die Fristsetzung ist auch nicht nach § 326 Abs. 5, § 275 BGB entbehrlich, weil die Nacherfüllung unmöglich ist. Das hat der Kläger zwar behauptet, es handelt sich jedoch um eine Behauptung ins Blaue hinein. Insbesondere aufgrund des Umstands, dass mittlerweile schon im Jahr 2017 das Softwareupdate aufgespielt und das Fahrzeug des Klägers auf diese Art und Weise nachgerüstet wurde, der Kläger das Fahrzeug weiter uneingeschränkt nutzen kann und nicht in der Lage war, den von ihm in den Raum gestellten höheren Verbrauch auch nur im Ansatz zu belegen, ebensowenig wie einen ins Blaue hinein behaupteten merkantilen Minderwert, ist eine Unmöglichkeit der Nacherfüllung nach § 326 Abs. 5, § 275 BGB nicht erkennbar.3. Die Nachbesserung ist dem Kläger auch nicht unzumutbar. Zwar verkennt das Gericht nicht, dass die Nachbesserung nur mit Hilfe des Softwareupdates erfolgen soll, das vom Hersteller des Autos stammt. Allerdings ist dem Maßnahmeplan, den der Hersteller ausgearbeitet hat, vom Kraftfahrtbundesamt zugestimmt worden. Das Gericht verkennt nicht, dass das Kraftfahrtbundesamt Fahrzeugen vom Typ des klägerischen Fahrzeuges in der Vergangenheit die Zulassung erteilt hat, obwohl in diesen die sogenannte "Schummelsoftware" eingebaut war. Das Gericht verkennt auch nicht, dass das Kraftfahrtbundesamt dies offenbar nicht gemerkt hat, so dass von Seiten der Verbraucher durchaus zweifelnde Kritik an den angebotenen Softwareupdates geäußert werden kann. Allerdings ist zu beachten, dass der nunmehrigen Zulassung durch das Kraftfahrtbundesamt ein mehrmonatiger und aufwändiger Prozess vorangegangen ist, innerhalb dessen die vom Hersteller entwickelten Softwareupdates konkret geprüft worden sind. Ohne konkrete Anhaltspunkte kann nicht davon ausgegangen werden, dass im Rahmen einer Art "Verschwörungstheorie" davon ausgegangen werden muss, dass sich das Kraftfahrtbundesamt von den Herstellern erneut täuschen bzw. "übers Ohr hauen" lässt und die Hersteller ein Softwareupdate aufspielen, das gänzlich untauglich ist.Im Rahmen der Unzumutbarkeitsprüfung nach § 440 BGB ist auch zu sehen, dass der Vertrauensverlust, den der Hersteller VW im Rahmen des Abgasskandals in ganz erheblichem Maße bei seinen Kunden erlitten hat, nicht automatisch auch auf die Autohändler übertragen werden kann, die auf die Art und Weise der Herstellung der Autos keinen Einfluss haben.4. Die Fristsetzung ist auch nicht aus anderen Gründen entbehrlich, weil feststeht, dass die Nacherfüllung fehlschlägt. Im ganz konkreten Fall war der Kläger auf Nachfrage des Gerichts im Rahmen der mündlichen Verhandlung noch nicht einmal in der Lage mitzuteilen, ob sein Auto nun nach der Nachbesserung, die ja unstreitig bereits im Jahr 2017 erfolgt ist, einen höheren Kraftstoffverbrauch festgestellt hat. Der Kläger gab die Antwort, das habe er noch nicht überprüft. Daraus kann das Gericht nur den Schluss ziehen, dass es dem Kläger offenbar egal ist, wie viel Kraftstoff konkret sein Fahrzeug verbraucht bzw. ob es aufgrund der "Schummelsoftware" mehr verbraucht hat als es nunmehr nach der Nachrüstung verbraucht. Dies spricht auch dafür, dass der Kläger nur ins Blaue hinein Mängel an dem Fahrzeug geltend gemacht hat.5. Eine Nachbesserung ist auch nicht unter dem Gesichtspunkt entbehrlich, dass das Fahrzeug aufgrund der Schummelsoftware nunmehr einen "merkantilen Minderwert" aufweist. Nach der Nachbesserung, die ja mittlerweile durchgeführt worden ist, liegt keine "Schummelsoftware" mehr vor. Ein merkantiler Minderwert wird allein ins Blaue hinein behauptet, ohne dass dies durch konkrete Angaben dahingehend, dass der Kläger versucht habe, das Fahrzeug nunmehr zu veräußern, untermauert worden wäre. Darauf hat auch die Beklagtenseite im Laufe des Verfahrens hingewiesen.Nach alledem war die Fristsetzung zur Nachbesserung nicht entbehrlich. Der Kläger hat jedoch keinerlei Nachfrist gesetzt, so dass er sich nicht auf ein Recht zum Rücktritt berufen kann.B. Kein AnnahmeverzugDa dem Kläger kein Rücktrittsrecht zusteht, befindet sich die Beklagte auch nicht im Annahmeverzug.C. Außergerichtliche RechtsanwaltskostenMangels Hauptanspruchs hat der Kläger auch keinen Anspruch auf Zahlung der vorgerichtlichen Rechtsanwaltskosten.D. NebenentscheidungDie Kostenentscheidung beruht auf § 91 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2378432.html (https://oj.is/2378432)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

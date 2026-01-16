@@ -1,0 +1,150 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteThüringenOrdentliche GerichtsbarkeitLG ErfurtRechtsprechungBeschluss vom 20.04.2021 - 8 O 1045/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Erfurt, Beschluss vom 20.04.2021 - 8 O 1045/18
+                      m. Fundstelle
+                      LG Erfurt, Beschluss vom 20.04.2021 - 8 O 1045/18 = openJur 2021, 17087
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Erfurt, Beschluss vom 20.04.2021 - 8 O 1045/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 17087
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+					
+				document.addEventListener('DOMContentLoaded', function () {
+				  document.getElementById('togglerubrum')
+				          .addEventListener('click', function toggleRubrum() { var tb = document.getElementById('rubrumToggleButton'); tb.classList.toggle('fa-plus-square'); tb.classList.toggle('fa-minus-square'); });
+				});
+				 Rubrum
+				
+				 
+				 BeschlussIn dem Rechtsstreit...hat die 8. Zivilkammer des Landgerichts Erfurt durchRichter am Landgericht Dr. ...als Einzelrichter am 20.04.2021beschlossen:
+				 
+				
+				Tenor
+				Das Ausgangsverfahren bleibt ausgesetzt. Der Europäische Gerichtshof wird in dem anhängigen Verfahren (C-276/20) weiterhin um eine Antwort auf die beiden Fragen aus dem Vorlagebeschluss vom 15. Juni 2020 ersucht.  
+				Gründe
+				I.1.Das Landgericht Erfurt hat das vorliegende Verfahren mit Beschluss vom 15. Juni 2020 ausgesetzt und dem Gerichtshof die folgenden beiden Fragen zur Vorabentscheidung vorgelegt:1. Gebietet es das Recht der Union, insbesondere der Effektivitätsgrundsatz und die europäischen Grundrechte, im Falle eines Verstoßes des Herstellers eines Fahrzeuges oder Motors gegen das europäische Zulassungsrecht und gegen europäische Abgasnormen keine Anrechnung der tatsächlichen Nutzung des Fahrzeuges auf den Schaden des Käufers vorzunehmen? Gilt ein solches Abzugsverbot jedenfalls für den Fall, dass ein Hersteller den Kunden sittenwidrig vorsätzlich schädigt?2. Handelt es sich bei dem vorlegenden Gericht um ein unabhängiges und unparteiisches Gericht im Sinne von Art. 267 AEUV in Verbindung mit Art. 19 Abs. 1 S. 3 EUV sowie Art. 47 Abs. 2 der Charta der Grundrechte der Europäischen Union?Mittlerweile sind sämtliche Stellungnahmen zu dem Vorlagebeschluss eingegangen und übersetzt. Es könnte in dieser Sache und wohl auch in vergleichbaren Fällen eine mündliche Verhandlung vor der Großen Kammer anstehen, wie von der Bundesrepublik Deutschland beantragt. Eine abschließende Entscheidung des Gerichtshofes soll bis spätestens Ende des Jahres zu erwarten sein.2.Mit anwaltlichem Schriftsatz vom 17. Februar 2021 teilte die Beklagte dem Gericht mit, „dass die Beklagte die streitgegenständliche Forderung nebst Zinsen erfüllt hat. Als Anlage fügen wir eine Kopie des außergerichtlichen Schreibens der Unterzeichnerin an die Prozessbevollmächtigten der Klägerin vom heutigen Tage bei. Die Beklagte kündigt in diesem Zusammenhang bereits jetzt an, sich einer Erledigungserklärung der Klägerin anzuschließen, sowie die Kosten des Rechtsstreits dem Grunde nach anzuerkennen.“Das außergerichtliche Schreiben hat folgenden Inhalt:„Sehr geehrter Herr Kollege ...,unsere Mandantin sieht davon ab, das gerichtliche Verfahren vor dem Landgericht Erfurt (Az. 8 O 1045/18) fortzuführen. Unsere Mandantin hat mit Überweisung vom 16. Februar 2021 die streitgegenständliche Forderung nebst Zinsen beglichen. Wir dürfen Sie bitten, uns den Eingang der Zahlung umgehend zu bestätigen. Dem Gericht wird mit Schreiben vom heutigen Tag mitgeteilt, dass unsere Mandantin auch die Kosten des Rechtsstreits dem Grunde nach übernimmt. Der Rechtsstreit hat sich somit erledigt.“Die Klägerin hat hierauf mit anwaltlichem Schriftsatz vom 4. März 2021 keine prozessbeendigende Erklärung abgegeben. Zudem hält sie weiterhin eine Entscheidungserheblichkeit für gegeben.II.Das Ausgangsverfahren ist nicht beendet. Die Antworten des Europäischen Gerichtshofes sind  entscheidungserheblich. Zudem ist das Vorgehen der Beklagten im vorliegenden Fall - aus Sicht des deutschen Rechts - als rechtsmissbräuchlich anzusehen. Eine Entscheidung des Gerichtshofes ist aber auch nach dem Recht der Union geboten.Im Einzelnen:1.a) Das Ausgangsverfahren ist nicht beendet. Allein die klagende Partei kann über den Streitgegenstand verfügen und dessen Umfang sowie Fortbestand bestimmen, abgesehen von den Fällen der Widerklage, der Aufrechnung und des Anerkenntnisses.Die Klägerin hat ausdrücklich mitgeteilt, dass sie am Klageantrag festhält und das Verfahren fortführen möchte. Aus diesem Grunde vermag die Beklagte ihrerseits weder „davon abzusehen“, das Verfahren fortzuführen, noch kann sie einseitig eine Erledigung des Rechtsstreits herbeiführen. Nach deutschem Recht entfaltet die einseitige Erledigungserklärung einer Beklagten keine Rechtswirkung.Eine Auslegung oder Umdeutung der Erklärungen der Beklagten in ein prozessuales Anerkenntnis scheidet aus. Dies kommt bereits darum nicht in Betracht, weil die Beklagte expressis verbis auf eine künftig seitens der Klägerin erklärte Erledigung des Rechtsstreits Bezug nimmt. Im Übrigen entspräche eine Auslegung als Anerkenntnis auch nicht dem wahren und bekundeten Willen der Beklagten, da sich diese in sämtlichen gleich gelagerten Verfahren dezidiert für den - vom Bundesgerichtshof auch anerkannten - Abzug einer Nutzungsentschädigung einsetzt. Eine solche Auslegung und Handhabung verbietet sich schließlich auch darum, weil das Gericht mit einem Anerkenntnisurteil einen Titel schaffen würde, aus welchem die Klägerin - trotz mitgeteilter Zahlung - vollstrecken könnte. Dies steht nunmehr auch einem etwaigen künftigen prozessualen Anerkenntnis entgegen.b) Die Antworten des Gerichtshofes sind weiterhin entscheidungserheblich. Es besteht daher für das vorlegende Gericht, das die Verantwortung für die zu erlassende gerichtliche Entscheidung zu tragen hat, im Hinblick auf die Besonderheiten der Rechtssache kein Grund oder Anlass, das Vorlageverfahren zu beenden und das ausgesetzte Verfahren wieder aufzurufen (vgl. EuGH, Urteil vom 9. September 2015 – C-72/14, juris Rn. 57). Vielmehr besteht aus dem verfassungsrechtlichen Justizgewährleistungsanspruch heraus eine Rechtspflicht, die Antworten des Gerichtshofes zu erfragen. Dies beruht auf folgenden Erwägungen, die je für sich und erst recht in einer Gesamtschau die fortbestehende Entscheidungserheblichkeit begründen:Es fehlt bereits an der Erfüllungswirkung der - aufgedrängten - Zahlung iSd. § 362 BGB. Die Klägerin nimmt die Zahlung nicht als Erfüllung ihres spezifischen Klageanspruchs an. Es mangelt an einem voluntativen Element (vgl. Kerwer in: Herberger/Martinek/Rüßmann/Weth/ Würdinger, jurisPK-BGB, 9. Aufl., § 362 BGB, Rn. 18 ff.).Jedenfalls muss eine Leistung einer bestimmten Schuld zugeordnet werden, damit Erfüllung eintreten kann (Kerwer in: Herberger/Martinek/Rüßmann/Weth/Würdinger, jurisPK-BGB, 9. Aufl., § 362 BGB, Rn. 25 f.). An einer solchen eindeutigen Tilgungsbestimmung fehlt es (vgl. LG Aschaffenburg, Beschluss vom 29. Mai 2018 - 33 O 437/17).Zur Befugnis der Klägervertreter, Zahlungen für die Klägerin in diesem Rechtsstreit entgegenzunehmen, ist nichts vorgetragen. Es mangelt an der Empfangsbevollmächtigung, womit ebenfalls eine Erfüllungswirkung entfällt (vgl. BGH, Urteil vom 14. Juli 2008 - II ZR 132/07).Eine Rückforderung des überwiesenen Betrages ist nicht ausgeschlossen. Die Beklagte hat weder ausdrücklich noch durch schlüssiges Handeln auf eine spätere Rückzahlung verzichtet. Dies gilt vor allem mit Blick auf denjenigen Teilbetrag, der nach stets vertretener Auffassung der Beklagten in jedem Fall als Nutzungsentschädigung vom Kaufpreis abgezogen gehört. Die Beklagte leugnet weiterhin, im Falle einer „Rückabwicklung“ den vollen Kaufpreis zu schulden. Sie hat ihren Rechtsstandpunkt auch im vorliegenden Verfahren zu keinem Zeitpunkt aufgegeben. Auch dies steht einer Erfüllungswirkung entgegen (vgl. BGH, Urteil vom 18. September 1992 – V ZR 84/91, juris Rn. 26).Aufgrund des vorangegangenen und fortbestehenden Verhaltens der Beklagten kann jedenfalls nicht nach Treu und Glauben von einer die Klägerin endgültig sicherstellenden, eindeutigen Erklärung und Leistung ausgegangen werden (vgl. BGH, Urteil vom 16. September 2008 - VI ZR 244/07, juris Rn. 14).Prozessuale Hindernisse treten hinzu. Die Klägerin verlangt eine Verurteilung zur Zahlung nur Zug um Zug gegen eine Rückgabe ihres Fahrzeuges. Das Schicksal des Fahrzeuges der Klägerin ist ungeklärt. Die Parteien sind sich jedenfalls weder darüber einig, dass das Fahrzeug an die Beklagte „zurückgehen" soll, noch dass die Klägerin es weiterhin zu Eigentum behalten darf (vgl. OLG Hamm, Urteil vom 20. Juli 2017 – I-28 U 182/16, juris Rn. 61).Weiter bedarf es der Entscheidung des Gerichtshofes möglicher Weise mit Blick auf die abschließend zu treffende Kostenentscheidung. Die Beklagte kündigt lediglich an, die Kosten dem Grunde nach anerkennen zu wollen. Diese Erklärung entfaltet jedoch keine Rechtsbindung und keinen Vertrauenstatbestand.c) Die Beklagte verstößt mit ihrem Vorgehen zudem gegen das grundlegende Gebot von Treu und Glauben nach § 242 BGB. Ihr Versuch, unter Umgehung der zur Verfügung stehenden prozessualen Mittel eine Fortsetzung des Prozesses zu verhindern, um so den Europäischen Gerichtshof um seine bevorstehende Antwort zu bringen, ist in Gesamtwürdigung sämtlicher Umstände des vorliegenden Einzelfalls als rechtsmissbräuchlich anzusehen.Insbesondere stellt es ein selbstwidersprüchliches Verhalten - venire contra factum proprium - dar, vorliegend de facto vom ungeschmälerten Kaufpreis auszugehen, aber in zahllosen weiteren Fällen auf dem Abzug einer Nutzungsentschädigung zu beharren. Es handelt sich daher nicht um eine, als solche legitime, „Kulanzleistung“ oder Rücksichtnahme auf eine Geschäftsbeziehung oder auf „den lieben Frieden“ (vgl. OLG Hamm, Urteil vom 20. Juli 2017 - I-28 U 182/16), vielmehr um eine Zahlung aus nicht billigenswerten Motiven heraus (vgl. BGH NJW 2015, 2965).Die Beklagte dürfte die Prozessstrategie verfolgen, eine abschließende Weisung und das „letzte Wort“ des Europäischen Gerichtshofes zur Frage einer Nutzungsentschädigung zu verhindern oder jedenfalls zu verzögern. Dies könnte auch für weitere Fragen im Zusammenhang mit dem „Dieselskandal“ gelten (s. nur LG Ravensburg, Beschluss vom 12. Februar 2021 – 2 O 393/20).Das Gericht kann seine Rechtsschutzfunktion gegenüber der Allgemeinheit nicht mehr erfüllen, wenn ihm der Fall vor der Entscheidung durch eine Partei aus der Hand genommen wird (s. Hirsch, Günter, VersR 2012, 929 ff., 932; s. auch Rinkler, NJW 2002, 2449 ff.). Das Vorgehen der Beklagten geht zu Lasten der Rechtssicherheit (s. auch Jahn, Joachim, Editorial NJW-aktuell 41/2018) und ist geeignet, das Vertrauen in die Justiz - ein wesentliches Element des, aktuell in Europa gefährdeten, Rechtsstaatsprinzips - zu untergraben. Nach dem Maßstab des deutschen Rechts werden die Grenzen zulässigen „Taktierens“ im Prozess überschritten. Die staatlichen Ressourcen werden zweckentfremdet, der effektive Einsatz von Justizressourcen wird gefährdet (vgl. Seiffert, Karl-Heinz, r+s 2010, 177 ff.). Es handelt sich nach alledem um einen Missbrauch des staatlichen Verfahrens (vgl. Bruns, Jan, NJW 2019, 2211, 2212 f.).Die gezielte Verhinderung einer der Partei möglicherweise negativen Grundsatzentscheidung könnte im Einzelfall sogar als „prozessuale Arglist“ gewertet werden (s. bereits Hergenröder, Curt W., Zivilprozessuale Grundlagen richterlicher Rechtsfortbildung, 1995, S. 276 ff., 283, 482), was hier keiner Entscheidung bedarf. Ebenso kann dahin stehen, ob ein Verstoß gegen den deutschen Ordre public vorliegt.Auf der anderen Seite entspricht das - fortbestehende - individuelle Interesse der Klägerin an einer Entscheidung des Europäischen Gerichtshofes wie des vorlegenden Gerichts zugleich dem Interesse der Allgemeinheit (vgl. MünchKommZPO/Krüger, 6. Aufl. 2020, § 543 Rn. 3; vgl. auch zu trotz Tod des Beschwerdeführers oder einer Rücknahme entschiedenen Verfassungsbeschwerden BVerfG, Beschluss vom 4. November 2009 - 1 BvR 2150/08, Rn. 42 ff., BVerfG, Urteil vom 14. Juli 1998 - 1 BvR 1640/97, Rn. 108, sowie Marsch, Nikolaus, AöR 2012, 592; s. weiter § 61 Abs. 1 S. 2 PatG).d) Schließlich sieht sich das Gericht aufgrund der mit der zweiten Vorlagefrage zur Klärung gestellten Problematik - mangelnde Vorlageberechtigung vor allem aufgrund institutioneller Abhängigkeit der deutschen Justiz - daran gehindert, das Ausgangsverfahren ohne eine Entscheidung des Gerichtshofes fortzusetzen (zur Thematik s. aktuell die 1. Basler Tagung Judikative vom 12. März 2021 „Richterliche Unabhängigkeit und Gewaltenteilung in Europa und in der Schweiz - wo stehen wir?“, insbesondere Voßkuhle, Andreas: https://tagung-judikative.ch/programm).Jede weitere Entscheidung in der vorgelegten Sache setzt demgemäß notwendigerweise voraus, dass der Europäische Gerichtshof in seinem Urteil zur zweiten Vorlagefrage ggf. Richtlinien oder Hinweise dazu aufstellt, inwieweit und unter welchen Voraussetzungen das Landgericht Erfurt im Hinblick auf die nach dem Vorlagebeschluss näher begründete institutionelle Verschränkung und Weisungsgebundenheit überhaupt als unabhängiges Gericht i. S. von Art. 267 AEUV in Verbindung mit Art. 19 Abs. 1 S. 3 EUV sowie Art. 47 Abs. 2 der Charta der Grundrechte der Europäischen Union anzusehen ist. Dies gilt auch mit Blick auf den ebenfalls betroffenen „internen Aspekt“ der richterlichen Unabhängigkeit, dh. die Freiheit von Einflüssen und Druck innerhalb der Justiz (vgl. Schlussanträge des GA Michal Bobek vom 4. März 2021 in der Rs. C-357/19, Rn. 142 f.; Sillen, Joost, ECLR 2019, 104 ff.).e) Das vorliegende Verfahren weist bedeutende und erhebliche Unterschiede zu denjenigen auf, in denen der Gerichtshof nach verfahrenserledigenden Maßnahmen oder Ereignissen eine Streichung des Verfahrens vorgenommen hat (vgl. EuGH, Urteil vom 20. Januar 2005 - C-225/02; EuGH, Beschluss vom 24. März 2009 - C-525/06; EuGH, Beschluss vom 10. Januar 2019 - C-169/18).Das vorliegende Verfahren ist nicht beendet oder gegenstandslos, mithin weiterhin zulässig (vgl. EuGH, Urteil vom 25. Juni 2020 - C-36/20 PPU, Rn. 42 ff.). Die Klagepartei, die nach wie vor die Herrschaft über das Verfahren innehat und nach deutschem Recht allein über den Streitgegenstand disponiert (s. bereits oben zu 1. a)), hält aus guten Gründen eine Antwort des Gerichtshofes und eine abschließende gerichtliche Entscheidung für notwendig. Die Antwort des Gerichtshofes ist, wie dargelegt, weiterhin von Nutzen für die Klägerin. Zugleich verstärkt das Vorgehen der Klägerin die Durchsetzungskraft des Unionsrechtes (vgl. EuGH, Urteil vom 17. September 2002 - C-253/00, Rn. 31; zur Durchsetzung des deutschen Verfassungsrechts aufgrund „allgemeiner verfassungsrechtlicher Bedeutung“ s. BVerfG, Beschluss vom 4. November 2009 - 1 BvR 2150/08, Rn. 42 ff.).Die Verantwortung für den Ausgangsrechtsstreit, die Beurteilung der - hier bejahten - Entscheidungserheblichkeit nach deutschem Recht und die Wahrung des Unionsrechtes liegen ebenfalls unverändert in der Hand des vorlegenden Gerichts (s. zu diesen Kriterien EuGH, Urteil vom 17. Dezember 2020 - C-693/18, Rn. 50 f.).Das vorliegende Verfahren des Art. 267 AEUV wird schließlich weder zweckentfremdet noch soll der Gerichtshof in Wirklichkeit mittels eines konstruierten Rechtsstreits zu einer Entscheidung veranlasst werden noch liegt es auf der Hand, dass das Unionsrecht auf den konkreten Sachverhalt weder unmittelbar noch mittelbar Anwendung finden kann (s. zu diesen Kriterien EuGH, Urteil vom 25. Juni 2020 - C-36/20 PPU, Rn. 49).f) Ein weiterer Gesichtspunkt tritt bekräftigend hinzu. Selbst wenn eine bloße Zahlung der Beklagten den Rechtsstreit nach deutschem Recht beenden könnte, was allerdings nicht der Fall ist, erforderte es das Recht der Union, nämlich das Postulat wirksamer, angemessener und abschreckender Sanktionen sowie das Gebot wirksamen Rechtsschutzes iSd. Art. 47 GRC, dies unbeachtet zu lassen.Der Europäische Gerichtshof hat mit Urteil vom 15. April 2021 (Rs. C-30/19) entschieden, dass das Unionsrecht nationalen Vorschriften entgegensteht, die ein mit einer Schadensersatzklage wegen des Vorwurfs einer Diskriminierung befasstes Gericht daran hindern, die Diskriminierung festzustellen, wenn der Beklagte sich zur Zahlung des geforderten Schadensersatzes bereit erklärt, ohne das Vorliegen dieser Diskriminierung einzuräumen.Im vorliegenden Fall hat die Beklagte eine Zahlung geleistet, ohne zugleich anzuerkennen, dass die getäuschten KäuferInnen von Dieselfahrzeugen sich keinen Abzug einer Nutzungsentschädigung gefallen lassen müssen. Die Klägerin muss aber die Möglichkeit haben, eine gerichtliche Entscheidung über eine etwaige Verletzung ihrer Rechte zu erwirken. Der Dispositionsgrundsatz und prozessuale Mittel zur Streitbeilegung dürften nicht dazu führen, dass ihr dieses Recht versagt wird (vgl. die Schlussanträge des GA Henrik Saugmandsgaard Øe in der Rs. C-30/19, Rn. 122 ff.).Dies gebietet - vergleichbar mit dem vom EuGH entschiedenen Diskriminierungsfall - die in Art. 46 der Richtlinie 2007/46/EG verankerte Sanktionsforderung i.V.m. Art. 47 GRC. Hierbei ist zu berücksichtigen, dass nach einer Mitteilung der Staatsanwaltschaft Braunschweig vom 13. Juni 2018 das gegen die Beklagte - in einem Ordnungswidrigkeitenverfahren - verhängte Bußgeld bewusst niedriger angesetzt worden ist, um die Durchsetzung zivilrechtlicher Ansprüche nicht zu gefährden.2.Eine Entscheidung des Europäischen Gerichtshofes ist auch nach dem Recht der Union geboten.a) Das strategische Vorgehen der Beklagten zur Verhinderung einer Entscheidung des Europäischen Gerichtshofes ist nicht nur nach deutschem Recht, sondern auch aus Sicht des europäischen Rechts als rechtsmissbräuchlich zu werten. Dies beruht auf folgenden Tatsachen und Erwägungen:Im vorliegenden Verfahren waren - wie die dem Gerichtshof zur Verfügung stehende Gerichtsakte belegt - erhebliche Hürden und Hindernisse zu überwinden, um schließlich zu einer Vorlage zu gelangen. Nachdem offenbar außergerichtliche Vergleichsbemühungen gescheitert waren und eine - lange zuvor angekündigte - (Sammel)Vorlage für den 3. April 2019 unmittelbar bevorstand, ging am 2. April 2019 ein Ablehnungsgesuch der Beklagten gegen den - zu keinem Zeitpunkt in Frage gestellt: zuständigen - Einzelrichter ein. Zu zahlreichen weiteren Dieselverfahren erfolgte ebenfalls eine Ablehnung des Richters (s. auch Jung, Markus, Neue Hoffnung für Millionen betrogene Dieselfahrer, FAZ vom 9. Mai 2019). Jene weiteren Befangenheitsverfahren erledigten sich allerdings zeitnah - durch Klagerücknahmen nach außergerichtlichem Vergleichsschluss (zur Richterablehnung als „eigenes Kapitel im Dieselskandal“ s. Heese, Michael, Projekt Dieselskandal, „Richterablehnung wegen (vermeintlicher) Befangenheit“).Das nur im vorliegenden Fall verbleibende Ablehnungsgesuch der Beklagten hatte zur Folge, dass eine Vorlage zunächst nicht mehr möglich war. Gegen einen Beschluss der 8. Zivilkammer des Landgerichts Erfurt vom 1. Juli 2019, mit dem das Ablehnungsgesuch als unbegründet zurückgewiesen wurde, legte die Beklagte Rechtsmittel ein. Noch bevor das Thüringer Oberlandesgericht über das Ablehnungsgesuch abschließend - ebenfalls ablehnend - mit Beschluss vom 24. September 2019 befand, ging am Landgericht Erfurt ein Aussetzungsantrag der Beklagten vom 19. September 2019 ein. Die Beklagte berief sich auf vergleichbare Verfahren vor dem Landgericht Gera, in denen zwischenzeitlich bereits eine Vorlage zum EuGH erfolgt war. Eine zusätzliche Vorlage durch das Erfurter Landgericht sei nicht prozessökonomisch. Dieser Aussetzungsantrag wurde mit Beschluss des Einzelrichters vom 21. Januar 2020 zurückgewiesen. Da sodann abzuwarten war, ob der Bundesgerichtshof seinerseits vorlegen würde, was er allerdings unterließ, erfolgte die Vorlage erst mit Beschluss vom 15. Juni 2020 (s. zur Vorlage Steinbeis, Maximilian: Dieselrichter in Deutschland?, VerfBlog, 2020/6/22; Hekking, Han Dirk, Sjoemeldieselaffaire treft Duitse rechter, Het Financieele Dagblad vom 2. Juli 2020).Die Beklagte hat sich auch in weiteren - jüngeren - Verfahren vor dem Einzelrichter, in denen eine Vorlage beantragt und beabsichtigt war oder ist, auf die Vorlageverfahren des Landgerichts Gera berufen. Allerdings hat die Beklagte jene Verfahren vor dem Landgericht Gera vor kurzem selbst zu einer dort wohl konsensualen Erledigung gebracht (zum Hintergrund s. Stiftung Warentest, Abgasskandal: Chronik der Ereignisse, Mitteilung vom 14. September 2020, www.test.de).Dem Recht der Europäischen Union ist der Topos des Rechtsmissbrauchs, hier als Missbrauch prozessualer Mittel, wohlbekannt (s. nur EuGH, Urteil vom 6. Februar 2018 - C-359/16, Rn. 49; Knops, Kai-Oliver, Die unionsrechtlichen Voraussetzungen des Rechtsmissbrauchs, in: Rabels Zeitschrift für ausländisches und internationales Privatrecht (RabelsZ), Bd. 85 (2021), im Erscheinen).b) Der Gesichtspunkt einer Entlastung des Gerichtshofes vermag nicht zu greifen. Eine Streichung des vorliegenden Verfahrens könnte - im Gegenteil - zu einer erheblichen Mehrbelastung des Gerichtshofes führen.Bereits der vorlegende Einzelrichter erwägt zusätzliche Vorlagen in weiteren Verfahren zu gleichgelagerten Fragen. Dies dürfte auch für weitere Gerichte bundesweit gelten. Eine Entscheidung des Gerichtshofes würde diese künftigen, mit dem bekannten erheblichen Aufwand verbundenen Vorlagen zumindest teilweise erübrigen. In diesem Sinne haben sich in der Vergangenheit bekanntlich zahlreiche Vorlagen in „Dieselfällen“ - etwa wie erwähnt mehrere Ersuchen des Landgerichts Gera - vor einer Entscheidung des Gerichtshofes erledigt, in denen bereits ein hoher personeller, finanzieller und zeitlicher Aufwand angefallen war (s. den Überblick bei Heese, Michael, Projekt Dieselskandal, „Europarecht und EuGH“, sowie LG Ravensburg, Beschluss vom 9. März 2021 – 2 O 315/20, juris Rn. 138). Dies gilt zum Beispiel für die Rechtssachen C-663/19, C-759/19, C-808/19, C-685/19 oder C-138/20.c) Die Antworten des Gerichtshofes sind keineswegs hypothetischer Natur. Sie sind wie ausgeführt erforderlich für die Entscheidung des vorliegenden Rechtsstreits. Im Übrigen sind europaweit möglicher Weise Millionen von Dieselfahrzeugen - auch anderer Hersteller - vom „Dieselskandal“ betroffen. Ein wegweisendes Urteil des Gerichtshofes zur Auslegung und Anwendung des Unionsrechts und insbesondere zur Wirkkraft der unionalen Grundrechte tut deshalb nach Auffassung des vorlegenden Gerichts zu beiden Vorlagefragen not.d) Der Bundesgerichtshof, dh. der bis vor kurzem für „Abgasskandalfälle“ zuständige VI. Zivilsenat, unterließ - wohl entgegen Art. 267 AEUV - eine eigene Vorlage. Instanzgerichte sehen sich in der Pflicht, das Versäumte nachzuholen. Dies gilt nicht nur für die Frage einer Nutzungsentschädigung, sondern auch für die Frage, ob Normen des europäischen Kfz-Zulassungsrechts den Käufer eines Dieselfahrzeuges schützen.Beide Fragen hätte der Bundesgerichtshof - als letzte innerstaatliche Instanz - dem Europäischen Gerichtshof möglicher Weise von Amts wegen vorlegen müssen (zur grundsätzlichen Vorlagepflicht des Bundesgerichtshofs s. Knops, Kai-Oliver, JZ 2021, 299). Mindestens eine Verfassungsbeschwerde soll bereits gegen die Nichtvorlage - wegen grundgesetzwidrigen Entzuges des gesetzlichen Richters - vor dem Bundesverfassungsgericht erhoben worden sein.Die Rechtslage ist weder durch Rechtsprechung des Europäischen Gerichtshofes geklärt („Acte éclairé“) noch im Sinne eines „Acte claire“ von vornherein eindeutig, und zwar in einer Weise, die keinen vernünftigen Zweifel offenlässt. Zudem besteht keine Gewissheit darüber, dass nicht die Gerichte der übrigen Mitgliedstaaten die Fragen anders als der Bundesgerichtshof beantworten (würden). Der Bundesgerichtshof beruft sich auf einen vermeintlichen „Acte claire“ und unterlässt den gebotenen Rechtsvergleich. Gänzlich unbeachtet bleiben die Auswirkungen der im Jahr 2009 in Kraft getretenen und in der Union nach Art. 6 Abs. 1 EUV mit höchstem Rang ausgestatteten Grundrechtecharta.Sollte eine Nutzungsentschädigung europarechtlich unzulässig sein, könnte ein Verstoß gegen die Vorlagepflicht den Weg für zahlreiche Staatshaftungsklagen gegen die Bundesrepublik Deutschland eröffnen - wegen justiziellen Unrechts. Zur Abwendung eines möglichen hohen finanziellen Schadens für die Allgemeinheit - eine Haftungsverlagerung - ist auch unter diesem Aspekt nach hier vertretener Auffassung eine Antwort in den in Luxemburg zum „Dieselskandal“ anhängigen Verfahren geboten.e) Nach Art. 4 Abs. 3 EUV gilt der Grundsatz der loyalen Zusammenarbeit. Danach unterstützen die Mitgliedstaaten die Union bei der Erfüllung ihrer Aufgabe und unterlassen alle Maßnahmen, die die Verwirklichung der Ziele der Union gefährden könnten. Diese Verpflichtung trifft wohl auch die Beklagte, an der das Land Niedersachsen erhebliche Anteile hat.f) Der Verbraucherschutz gebietet gleichfalls eine Antwort des Gerichtshofes. Art. 38 GRC verankert den Grundsatz, dass die Politik der Union ein hohes Verbraucherschutzniveau sicherstellt, und enthält somit ein Optimierungsgebot (Meyer/Hölscheidt/Giesecke, Chartakommentar, 5. Aufl. 2019, Art. 38 Rn. 21). Es besteht ein strukturelles Ungleichgewicht zwischen - vereinzelten - Verbrauchern auf der einen Seite und marktmächtigen Unternehmen auf der anderen Seite (vgl. Kramer, Dirk, Der Widerruf von Verbraucherdarlehen zwischen Rechtsdurchsetzung und Rechtsmissbrauch, 2020, S. 27 ff.). Es stellt sich die Aufgabe, hier ein Gleichgewicht herzustellen (s. auch die UN-Guidelines for Consumer Protection aus 2016).g) Schließlich und wesentlich geht es um die Wirksamkeit und effektive Durchsetzung der europäischen Grundrechte. Gemäß Art. 51 Abs. 1 S. 2 GRC haben die Union und die Mitgliedstaaten die Grundrechte und Grundsätze der Charta zu fördern. Diese ausdrückliche Förderpflicht zielt auf eine umfassende Verwirklichung der Grundrechte und eine Optimierung des Grundrechtsschutzes (Meyer/Borowsky, Chartakommentar, 4. Aufl. 2014, Art. 51 Rn. 31).Eine solche Grundrechtsoptimierung kann de lege lata durch eine dynamische Auslegung der Charta als living instrument und der damit einhergehenden Schutzpflichten erfolgen, vor allem im Lichte der in Art. 1 GRC verankerten Würde des Menschen (Meyer/Hölscheidt/Borowsky, Chartakommentar, 5. Aufl. 2019, Art. 1 Rn. 29). Auf der Grundlage von Art. 6 Abs. 3 EUV vermag der Europäische Gerichtshof - rechtsvergleichend - weitere, neue Grundrechte anzuerkennen und zu entwickeln (Meyer/Borowsky, Chartakommentar, 4. Aufl. 2014, vor Titel VII Rn. 15 f.), etwa ein Grundrecht auf ein „ökologisches Existenzminimum“ (hierzu Buser, Andreas, in: Berliner Online-Beiträge zum Europarecht, Nr. 127 vom 12. Februar 2021).h) Es kommt hinzu, dass die individuelle wie überindividuelle Betroffenheit und zentrale Belange des Umweltschutzes (Art. 37 GRC) eine richtungsweisende Entscheidung des Gerichtshofes erfordern. Im Vorabentscheidungsverfahren kommt es auf eine individuelle Klagebefugnis vor dem Gerichtshof nicht an (vgl. EuGH, Urteil vom 25. März 2021 - C-565/19, Rn. 67 ff.).Sowohl der tatsächlichen Bedeutung des Umweltschutzes als auch dessen Stellung im Unionsrecht (Art. 37 GRC, Art. 3 Abs. 3 UAbs. 1 EUV, Art. 36 AEUV und Art. 191 AEUV) Rechnung tragend ist die Anerkennung von Eigenrechten der Natur (zur Entwicklungsgeschichte s. Schröter, Michael W./Bosselmann, Klaus, Die Robbenklage im Lichte der Nachhaltigkeit, ZUR 2018, 195 ff.; zu aktuellen Entwicklungen - weltweit - s. www.centerforenvironmentalrights.org). Solche Rechte der Natur sind derzeit im Wege einer gerichtlichen Garantenstellung und Prozessstandschaft nach Art. 47 GRC durchzusetzen (s. zu, rechtlich codierbaren, Eigenrechten der Natur Kersten, Jens, Natur als Rechtssubjekt. Für eine ökologische Revolution des Rechts, in: Aus Politik und Zeitgeschichte 11/2020, S. 27 ff.). Dies folgt zudem aus Art. 1 GRC i.V.m. der Präambel der Charta. Auch angesichts der Wichtigkeit und Dringlichkeit der ökologischen Herausforderungen ist es geboten, unter den offenen Begriff „Person“ auch die Natur oder einzelne Ökosysteme zu subsumieren (vgl. Fischer-Lescano, Andreas, Natur als Rechtsperson - Konstellationen der Stellvertretung im Recht, ZUR 2018, 205).
+			
+			
+			
+			Permalink: https://openjur.de/u/2339002.html (https://oj.is/2339002)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate18
+				
+				
+					 Zitiert0
+				
+
+				
+					 Faksimile
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

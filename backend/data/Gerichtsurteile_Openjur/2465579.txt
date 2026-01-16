@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungUrteil vom 26.01.2022 - 5 U 105/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Urteil vom 26.01.2022 - 5 U 105/21
+                      m. Fundstelle
+                      OLG Köln, Urteil vom 26.01.2022 - 5 U 105/21 = openJur 2023, 3527
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Urteil vom 26.01.2022 - 5 U 105/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2023, 3527
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Auf die Berufung der Klägerin wird das Urteil des Landgerichts Aachen vom 21.05.2021 - 8 O 549/20 - unter Zurückweisung der weiteren Berufung teilweise abgeändert und insgesamt wie folgt neu gefasst:1. Die Beklagte wird verurteilt, an die Klägerin 8.193,52 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 30.12.2020 zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeuges VW Polo 1.6 TDI mit der Fahrgestellnummer N01.2. Es wird festgestellt, dass sich die Beklagte mit der Annahme des vorgenannten Fahrzeugs in Annahmeverzug befindet.3. Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits erster Instanz trägt die Beklagte zu 72 %, die Klägerin zu 28 %. Die Kosten des Rechtsstreits zweiter Instanz trägt die Beklagte.Das Urteil ist vorläufig vollstreckbar. Den Parteien wird nachgelassen, die Vollstreckung durch die jeweils andere Partei durch Sicherheitsleistung in Höhe von 110 % des vollstreckbaren Betrages abzuwenden, wenn nicht die vollstreckende Partei vor der Vollstreckung Sicherheit Höhe von 110 % des zu vollstreckenden Betrags leistet.Die Revision wird zugelassen.  
+				Gründe
+				I.Die Klägerin erwarb den streitgegenständlichen Pkw VW Polo 1,6 l TDI mit der FIN N01 am 04.03.2011 zu einem Kaufpreis von nominellen 21.830 € (Bl. 32 d.A.), wovon 2.784,86 € sowie weitere 1.000 € als Rabatte abgezogen wurden. Das Fahrzeug wies eine Laufleistung von 0 km beim Kauf (Bl. 26) und von 163.783 am 12.01.2022 auf (Bl. 493 R d.A.). Die Beklagte ist Entwicklerin und Herstellerin des in dem Fahrzeug verbauten Dieselmotors EA 189.In den Motor dieses Pkw setzte die Beklagte eine Software ein, die zwei unterschiedliche Betriebsmodi zur Steuerung der Abgasrückführung kannte. Im Modus 1 kam es zu einer höheren Abgasrückführung und somit zu einem geringeren Ausstoß von Stickoxiden als in Modus 0. Der Modus 1 war allerdings nur beim Durchfahren des Neuen Europäischen Fahrzyklus (NEFZ) aktiv. Im normalen Straßenverkehr wurde der im streitgegenständlichen Fahrzeug verbaute Motor nur im Betriebsmodus 0 betrieben.Die Klägerin hat einen Anspruch aus vorsätzlicher sittenwidriger Schädigung gem. § 826 BGB geltend gemacht, der ihr trotz Verjährung nach §§ 852 S. 1, 818 Abs. 1, 2 BGB im Rahmen eines Restschadensersatzanspruchs weiter zustehe.Die Klägerin hat erstinstanzlich zunächst beantragt,1) die Beklagte zu verurteilen, an die Klägerin 11.133,30 € nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Übereignung und Herausgabe des PKW VW Polo, Fahrgestellnummer N01,2) festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag zu 1) genannten Pkws in Annahmeverzug befindet.Die Klägerin hat sodann ihre Anträge umgestellt und erstinstanzlich zuletzt beantragt,1) die Beklagte zu verurteilen, Auskunft zu erteilen und Rechnung zu legen über das aus dem In-Verkehr-Bringen des PKW VW Polo, Fahrgestellnummer N01 Erlangte,2) für den Fall, dass die Auskunft bezüglich der Gewinnmarge nicht mit der erforderlichen Sorgfalt erteilt wurde, die Beklagte zu verurteilen, die Richtigkeit der Auskunft an Eides statt zu versichern,3) die Beklagte zu verurteilen, der Klägerin den sich aus der Auskunft ergebenden Betrag nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit der Klage zu zahlen.Die Beklagte hat beantragt,die Klage abzuweisen.Die Beklagte hat die Auffassung vertreten, ein Anspruch gem. § 852 BGB scheide aus rechtlichen Gründen aus.Hinsichtlich des weiteren Parteivorbringens erster Instanz wird auf den Tatbestand des erstinstanzlichen Urteils verwiesen, § 540 ZPO.Das Landgericht hat die Klage insgesamt abgewiesen. Ein Anspruch aus § 852 BGB bestehe nicht, da unter wirtschaftlicher Betrachtung der Klägerin kein Schaden entstanden sei. Dementsprechend könne auch der Auskunftsanspruch nicht bestehen.Hinsichtlich der Einzelheiten der Begründung wird auf das angefochtene Urteil verwiesen.Mit der Berufung vertieft und ergänzt die Klägerin ihren erstinstanzlichen Vortrag.Sie beantragt nunmehr,1. die Beklagte zu verurteilen, an die Klägerin 8.489,04 € nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 30.12.2020 zu zahlen, Zug um Zug gegen Übereignung und Herausgabe des PKW VW Polo, Fahrgestellnummer N01,2. festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag zu 1) genannten PKWs in Annahmeverzug befindet,hilfsweise,1. die Beklagte zu verurteilen, Auskunft zu erteilen und Rechnung zu legen über die aus dem In-Verkehr-Bringen des PKW VW Polo, Fahrgestellnummer N01, erlangte Gewinnmarge (Erstverkaufspreis abzüglich Herstellungskosten),2. für den Fall, dass die Auskunft bezüglich der Gewinnmarge nicht mit der erforderlichen Sorgfalt erteilt wurde, die Beklagte zu verurteilen, die Richtigkeit der Auskunft an Eides Statt zu versichern,3. die Beklagte zu verurteilen, an die Klägerin den sich aus der Auskunft ergebenden Betrag nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 30.12.2020 zu zahlen.Die Beklagte beantragt,die Berufung zurückzuweisen.Sie tritt der Berufung nach Maßgabe der Berufungserwiderung entgegen.Hinsichtlich des weiteren Parteivorbringens wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen verwiesen.II.Die zulässige Berufung der Klägerin ist überwiegend begründet.Die mit der Berufung vorgenommene Umstellung der Anträge auf den in erster Instanz bereits angekündigten Zahlungsantrag ist eine Klageänderung, die gem. § 533 Nr. 1 ZPO sachdienlich ist und sich gem. § 533 Nr. 2 ZPO ausschließlich auf den in erster Instanz vorgetragenen und vom Senat zu berücksichtigenden Sachverhalt stützt.Die Berufung hat mit dem Hauptantrag in Höhe von 8.193,52 € Erfolg. Die Klägerin kann diesen Betrag gem. §§ 852, 826, 31 BGB verlangen.1.Zunächst hatte die Klägerin gegen die Beklagte einen Schadensersatzanspruch aus einer vorsätzlichen sittenwidrigen Schädigung gemäß §§ 826, 31 BGB in Höhe von 8.193,52 €.Das mit dem Motor EA189 EU5 ausgestattete streitgegenständliche Fahrzeug war bei seinem Inverkehrbringen durch die Beklagte mit einer unzulässigen Abschaltvorrichtung unter Verwendung einer Umschaltlogik versehen. Dieses Verhalten der Beklagten stellt in objektiver und subjektiver Hinsicht eine vorsätzliche sittenwidrige Schädigung gemäß §§ 826, 31 BGB dar (vgl. BGH, Urteil vom 25.05.2020, VI ZR 252/19, zitiert nach juris Rn. 16 ff.).Die Klägerin kann von der Beklagten daher gemäß § 249 Abs. 1 BGB grundsätzlich die Rückgängigmachung der Folgen des für sie nachteiligen Kaufvertrags, also Rückzahlung des Kaufpreises (abzüglich gewährter Rabatte) in Höhe von 18.045,14 € abzüglich einer Entschädigung für die gezogenen Nutzungen (9.851,62 €), damit Zahlung von 8.193,52 verlangen. Die Nutzungsentschädigung hat der Senat nach der Formel "Bruttokaufpreis x gefahrene Kilometer / (Gesamtlaufleistung -- Kilometerstand bei Kauf)" unter Zugrundelegung einer Gesamtlaufleistung von 300.000 km berechnet.Diesem Anspruch kann die Beklagte mit Erfolg die Einrede der Verjährung entgegenhalten.Deliktische Ansprüche unterliegen der dreijährigen Verjährungsfrist gemäß §§ 195, 199 Abs. 1 BGB. Die Verjährungsfrist beginnt gemäß § 199 Abs. 1 BGB mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Anspruchsteller Kenntnis von den den Anspruch begründenden Umständen sowie der Person des Schuldners erlangt hat oder eine solche Kenntnis infolge grober Fahrlässigkeit nicht erlangt hat.Zutreffend ist das Landgericht davon ausgegangen, dass eine entsprechende Kenntnis der Klägerin im Sinne von § 199 Abs. 1 Nr. 2 BGB jedenfalls im Jahre 2016 vorlag. Der Anspruch verjährte damit mit Ende des Jahres 2019, die Klage wurde nach Verjährung erhoben, worüber letztlich kein Streit besteht.2. Die Klägerin kann den begehrten Betrag dennoch gem. § 852 BGB als Restschadensersatz fordern.Nach § 852 BGB kann ein Geschädigter, der gegen den Schädiger einen deliktischen Schadensersatzanspruch hat, der bereits verjährt ist, unabhängig von der Verjährung dieses Anspruchs nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung dasjenige herausverlangen, was der Schädiger durch die unerlaubte Handlung auf Kosten des Geschädigten erlangt hat. Der Schadensersatzanspruch aus der unerlaubten Handlung bleibt damit als solcher erhalten, wird aber hinsichtlich seines Umfangs auf die ungerechtfertigte Bereicherung beschränkt, die der Schädiger aus der unerlaubten Handlung erlangt hat. Die Verweisung in § 852 S. 1 BGB auf die Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung bezieht sich dabei nicht auf die Voraussetzungen, sondern auf den Umfang der Bereicherungshaftung. Danach behält der Anspruch die Rechtsnatur als Schadensersatzanspruch (sog. Restschadensersatzanspruch) und erfordert dieselben Voraussetzungen wie der weitergehende verjährte Schadensersatzanspruch (BGH, Urteil vom 15.01.2015 - I ZR 148/13, zitiert nach juris Rn. 29).Ein Anspruch aus § 852 BGB scheidet entgegen der Ansicht der Beklagten auch nicht deshalb aus, weil es an dem notwendige Ungleichgewicht in den Vermögenslagen von Schädiger und Geschädigtem fehle, da jedenfalls eine Kompensation durch die vertraglich geschuldete und tatsächlich auch gewährte Gegenleistung erfolgt ist, die der Geschädigte durchgehend vollständig zu nutzen im Stande ist/war (so aber OLG Düsseldorf, Urteil vom 20.5.2021, 5 U 57/20; OLG Bamberg, Urteil vom 4.8.2021, 3 U 110/21). Wie oben ausgeführt, hat § 852 BGB den Charakter einer Rechtsverteidigung gegenüber der Einrede der Verjährung mit der Folge, dass der verjährte Deliktsanspruch als solcher bestehen bleibt und nur seinem Umfang nach auf das durch die unerlaubte Handlung auf Kosten des Geschädigten Erlangte beschränkt wird. Dem hier maßgeblichen deliktischen Anspruch aus § 826 BGB liegt - wie oben ausgeführt - der subjektbezogene Schadensbegriff zugrunde, der einen ungewollten, nach der Verkehrsauffassung unvernünftigen Vertrag auch ohne Feststellung eines rechnerischen Minus einschließt (vgl. BGH, Urteil vom 25.5.2020, VI ZR 252/19, zitiert nach juris Rn. 46). Es gibt keinen Anlass, demgegenüber bei § 852 BGB von einem rein objektiven Schadensbegriff ohne normative Kontrolle, wie sie bei § 826 BGB vorzunehmen ist, auszugehen (vgl. Senatsbeschluss vom 19.7.2021, 5 U 13/21; OLG Oldenburg, Urteil vom 22.4.2021, 14 U 225/20, zitiert nach juris, Rn. 46; OLG Stuttgart, Urteil vom 9.3.2021, 10 U 339/20, zitiert nach juris Rn 47).Einer Anwendbarkeit des § 852 S. 1 BGB steht vorliegend auch nicht entgegen, dass die Klägerin das Fahrzeug nicht direkt von der Beklagten, sondern von einer Vertragshändlerin erworben hat. Denn die Vermögensverschiebung muss sich im Rahmen von § 852 S. 1 BGB nicht unmittelbar zwischen dem Schädiger und dem Geschädigten vollziehen. Da bei § 852 BGB der Anspruch aus § 826 BGB - wenn auch eingeschränkt - als solcher bestehen bleibt, ist für die Vermögensverschiebung eine wirtschaftliche Betrachtungsweise maßgebend. Es sind daher nicht die Voraussetzungen der §§ 812ff. BGB heranzuziehen (BGH, Urteil vom 14.2.1978, X ZR 19/76, zitiert nach juris Rn. 62; OLG Oldenburg, Urteil vom 22.4.2021, 14 U 225/20, zitiert nach juris Rn. 24f.). Eine unmittelbare Vermögensverschiebung zwischen dem Schädiger und dem Geschädigten ist danach nicht erforderlich. Entscheidend ist vielmehr, dass der Vermögensverlust beim Geschädigten einen entsprechenden Vermögenszuwachs beim Schädiger zur Folge gehabt hat (vgl. BGH, Urt. vom 14.2.1978, X ZR 19/76, zitiert nach juris Rn. 62). Das ist hier der Fall. Etwas anderes gilt auch nicht dann, wenn der Geschädigte, wie hier die Klägerin, das entsprechende Fahrzeug bei einer in die Absatzstruktur der Beklagten eingebundene Vertragshändlerin der Beklagten erworben hat. Auch in diesem Fall hat der Schädiger, hier die Beklagte, - jedenfalls wenn es sich wie hier um den Verkauf eines Neufahrzeugs handelt - bei der vorzunehmenden wirtschaftlichen Betrachtung das Erlangte nicht auf Kosten der Vertragshändlerin, sondern auf Kosten des Käufers, hier also der Klägerin erlangt. Dem steht nicht entgegen, dass der Senat mit Beschluss vom 19.7.2021 (5 U 13/21) entschieden hat, dass es bei einem von einem Händler erworbenen Gebrauchtwagen daran fehle, dass der bei dem geschädigten Käufer eingetreten Vermögensverlust zu einem entsprechenden Vermögenszuwachs bei der Herstellerin des Fahrzeugs führe. Im Falle des Erwerbs eines Gebrauchtwagens tritt ein etwaiger Vermögenszuwachs bei der Beklagten als Herstellerin und Schädigerin im Sinne von § 826 BGB durch den Verkauf des Fahrzeugs bei der ersten Veräußerung vollumfänglich ein. Bei einem weiteren Verkauf dieses Fahrzeugs als Gebrauchtwagen tritt demgegenüber kein weiterer Vermögenszuwachs bei der Beklagten, sondern bei dem Verkäufer des Gebrauchtwagens ein (so auch OLG Stuttgart, Urteil vom 2.2.2021, 10 U 229/20, BeckRS 2021, 5076 Rn. 14f.; OLG Karlsruhe, Urteil vom 31.3.2021, 13 U 678/20, BeckRS 2021, 6363 Rn. 25). Dies ist jedoch bei Erwerb eines Neufahrzeugs über eine in die Absatzstruktur der Beklagten eingegliederte Vertragshändlerin anders. Hier tritt bei wirtschaftlicher Betrachtung durch den Erwerb bei der Vertragshändlerin auch bei der Beklagten ein Vermögenszuwachs ein. Bei einer Neufahrzeugbestellung durch den Endkunden erlangt die Beklagte den Kaufpreis bei wirtschaftlicher Betrachtung wegen des nicht vorhandenen Absatzrisikos des Händlers nicht auf dessen Kosten, sondern auf Kosten des Endkunden (so auch OLG Stuttgart, Urteil vom 9.3.2021, 10 U 339/20, zitiert nach juris Rn. 45; a.A. OLG Düsseldorf, Urteil vom 20.5.2021, 5 U 57/20, zitiert nach juris Rn. 60 ff.).Entgegen der Ansicht der Beklagten scheidet ein Anspruch aus § 852 BGB vorliegend auch nicht deshalb aus, weil die Klägerin die Möglichkeit hatte, sich der Musterfeststellungsklage gegen die Beklagte vor dem Oberlandesgericht Braunschweig anzuschließen. Es besteht kein Anlass für eine entsprechende teleologische Reduktion des § 852 BGB dahingehend, dass sich derjenige, dem die Beteiligung an der Musterfeststellungsklage und damit eine risikolose Rechtsverfolgung offen gestanden hätte, auf die Norm nicht berufen kann. Die gegenteilige Auffassung findet im Normzweck des § 852 BGB keine Stütze (vgl. Senatsbeschluss vom 19.7.2021, 5 U 13/21; OLG Stuttgart, Urteil vom 10.2.2021, 9 U 402/20, BeckRS 2021, 5498, Rn. 13; OLG Oldenburg, Urteil vom 22.4.2021, 14 U 225/20, zitiert nach juris Rn. 48f.)Der Anspruch der Klägerin gegen die Beklagte aus § 852 S. 1 BGB besteht auch in Höhe von 8.193,52 €.Die Höhe des Anspruchs aus § 852 S. 1 BGB ist zweifach begrenzt, nämlich zum einen durch die Höhe des auf Kosten des Geschädigten Erlangten und zum anderen durch die Höhe des verjährten Anspruchs, hier aus § 826 BGB. Umstritten ist, wie das erlangte Etwas zu bemessen ist. Nach der nach Auffassung des Senats vorzugswürdigen Ansicht entspricht das erlangte Etwas im Sinne von § 852 S. 1 BGB zunächst dem Geldbetrag, den die Beklagte aufgrund des von der Klägerin gezahlten Kaufpreises erhalten hat, also dem von der Klägerin bezahlten Betrag abzüglich der (Vertrags-)Händlermarge (vgl. OLG Stuttgart, Urteil vom 09.03.2021 - 10 U 339/20, zitiert nach juris Rn. 63; OLG Karlsruhe, Urteil vom 9.7.2021, 13 U 123/21, zitiert nach juris Rn 87ff.; OLG Koblenz, Urteil vom 29.07.2021, 6 U 934/20, zitiert nach juris Rn. 59: OLG München, Urteil vom 26.7.2021, 3 U 1705/21, zitiert nach juris Rz 49). Nicht entscheidend ist demgegenüber der (geringere) Gewinn nach Abzug aller Kosten (so OLG Stuttgart, Urteil vom 12.5.2021, 9 U 17/21, zitiert nach juris Rn, 67ff.; OLG Düsseldorf, Urteil vom 13.4.2021, 23 U 143/20, zitiert nach juris Rn 39). Aufwendungen im Zusammenhang mit der Produktion des Fahrzeugs sind danach nicht in Abzug zu bringen. Da § 852 S. 1 BGB eine Rechtsfolgenverweisung auf die § 818 ff. BGB darstellt, sind für die Bemessung des Erlangten die Wertungen der §§ 818 Abs. 3, 4, 819 f. BGB heranzuziehen. Derjenige, der sich nach den Grundsätzen der § 818 Abs. 4, 819 BGB nicht auf eine nachträglich Entreicherung berufen könnte, kann auch nicht die Höhe der anfänglichen Bereicherung durch Abzugsposten reduzieren, die er im Zustand der Bösgläubigkeit vorgenommen hat, bevor er bereichert wurde (BGH, Urteil vom 07.01.1971 - VII ZR 9/70, zitiert nach juris Rn. 20). Vorliegend war die Beklagte schon bei Produktion des streitgegenständlichen Fahrzeugs bösgläubig, sodass sämtliche hierbei angefallenen Kosten und Aufwendungen nicht bei der Bemessung des später erlangten Etwas zu berücksichtigen sind (vgl. OLG Stuttgart, Urteil vom 09.03.2021 - 10 U 339/20, zitiert nach juris Rn. 63). Im Übrigen spricht für den Kaufpreis als Anknüpfungspunkt auch der Umstand, dass der Geschädigte in Fällen, in denen der deliktische Schaden - wie hier - in der Eingehung einer ungewollten Verbindlichkeit liegt, grundsätzlich einen Anspruch nur Zug um Zug gegen Herausgabe des in Erfüllung des Vertrages Erlangten hat. Zwar ist umstritten, ob im Rahmen des § 852 BGB nur ein solcher Zugum- Zug Anspruch besteht. Das ist aber zu bejahen, da im Wege der Vorteilsausgleichung insbesondere auch der an die Stelle der Herausgabe tretende Abzug eines Weitererlöses schadensmindernd zu berücksichtigen ist. Kann somit auch das erlangte Etwas nach § 852 BGB in den entsprechenden Fällen nur Zug um Zug gegen Herausgabe des in Erfüllung des ungewollten Vertrages Erlangten verlangt werden, kann nicht alleine auf den Gewinn abgestellt werden. Der Senat schließt sich insoweit der ausführlichen Begründung, u.a. unter Hinweis auf die Motive im Gesetzgebungsverfahren, des Oberlandesgerichts Stuttgart (Urteil vom 9.3.2021, 10 U 339/20) an.Die Beklagte hat für den konkreten Fall des Neuwagenkaufs auch nicht bestritten, dass sie überhaupt etwas erlangt hat. In Abrede genommen wird eine Bereicherung nur für Gebrauchtwagenkäufe und Sonderkonstellationen (z.B. Re-Importe, Leasing, Vorführwagen, etc.), die zwar - wie oben ausgeführt - eine abweichende Bewertung rechtfertigen können, hier aber nicht vorliegen.Weiter ist von dem Kaufpreis die Händlermarge abzuziehen, da die Beklagte diese nicht erlangt hat. Die Klägerin hat diese mit 15 % beziffert, die Beklagte hat sich dazu nicht konkret eingelassen. Jedenfalls kann ausgeschlossen werden, dass die Händlermarge einen Umfang von mehr als 55 % des Kaufpreises ausmacht. Insoweit ist zu berücksichtigen, dass die Klägerin aufgrund der zweifachen Begrenzung der Höhe des Anspruchs aus § 852 S. 1 BGB stets nur den geringeren Betrag (Schaden oder Erlangtes) verlangen kann. Weniger als den Schaden, der nach den obigen Ausführungen 8.193,52 € beträgt, schuldet der Beklagte somit nur dann, wenn das Erlangte diesen Betrag unterschreitet. Da der Kaufpreis des Fahrzeugs sich auf 18.045,14 € belief, müsste die abzuziehende Händlermarge mehr als 9.851,62 € ausmachen. Das würde knapp 55 % ergeben. Eine solche Händlermarge eines Vertragshändlers kann allerdings ausgeschlossen werden (vgl. dazu auch in der Rechtsprechung in Abzug gebrachte Händlermargen zwischen 5% und 16,5%, so OLG Koblenz, Urteil vom 29.07.2021 - 6 U 934/20, zitiert nach juris Rn. 59 (5%); OLG Karlsruhe, Urteil vom 09.07.2021 - 13 U 123/21, zitiert nach juris Rn. 90 (15% unter Nennung von 16,5% aus dem Martinek-Gutachten, S. 62).Der von der Klägerin geltend gemachte Zinsanspruch ergibt sich aus § 288 Abs. 1 BGB.3. Die Klägerin hat einen Anspruch auf Feststellung, dass die Beklagte sich mit der Annahme des streitgegenständlichen Fahrzeugs in Annahmeverzug befindet. Die Beklagte befindet sich jedenfalls seit dem 14.01.2021 gemäß §§ 293, 295 BGB in Verzug mit der Annahme des streitgegenständlichen Fahrzeuges. Die Klägerin hat der Beklagten ihr Fahrzeug mit der Klage, die am 30.12.20220 zugestellt wurde, zur Übergabe angeboten, wobei sie sich eine angemessene Nutzungsentschädigung anrechnen lassen hat. Die Beklagte hat das Angebot abgelehnt und bisher an ihrer Ablehnung des Angebotes festgehalten, was Annahmeverzug begründet.III.Die prozessualen Nebenentscheidungen folgen aus §§ 92 Abs. 1, 97 Abs. 1, 708 Nr. 10, 711 ZPO.Die Revision war nach § 543 Abs. 2 ZPO im Hinblick darauf zuzulassen, dass abweichend von der vom Senat vertretenen Auffassung andere Oberlandesgerichte von vorneherein die Anwendung des § 852 BGB auf die typische Konstellation bei sog. Diesel-Abgas-Fällen ablehnen (vgl. OLG Bamberg, Urteil vom 4.8.2021, 3 U 110/21, OLG Düsseldorf, Urteil vom 20.5.2021, 5 U 57/20), das Oberlandesgericht Düsseldorf (Urteil vom 20.5.2021, 5 U 57/20) anders als der Senat die Voraussetzungen des § 852 BGB in dem Fall nicht als erfüllt ansieht, in dem der Neuwagen bei einem Vertragshändler der Schädigerin im Sinne von § 826 BGB erworben worden ist und hinsichtlich der Frage der Berechnung des Anspruchs nach § 852 BGB in Abweichung der hier vertretenen Auffassung des Senats andere Oberlandesgerichte nur den Gewinn als Grundlage für das erlangte Etwas heranziehen (vgl. OLG Stuttgart, Urteil vom 12.5.2021, 9 U 17/21, zitiert nach juris Rn, 67ff.; OLG Düsseldorf, Urteil vom 13.4.2021, 23 U 143/20, zitiert nach juris Rn 39).Berufungsstreitwert: 8.489,04 €
+			
+			
+			
+			Permalink: https://openjur.de/u/2465579.html (https://oj.is/2465579)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate13
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

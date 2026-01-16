@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG BambergRechtsprechungUrteil vom 17.12.2020 - 1 U 8/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Bamberg, Urteil vom 17.12.2020 - 1 U 8/20
+                      m. Fundstelle
+                      OLG Bamberg, Urteil vom 17.12.2020 - 1 U 8/20 = openJur 2021, 4027
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Bamberg, Urteil vom 17.12.2020 - 1 U 8/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 4027
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Berufung des Klägers gegen das Endurteil des Landgerichts Würzburg vom 05.12.2019, Az. 14 O 1392/19, wird zurückgewiesen.2. Der Kläger hat die Kosten des Berufungsverfahrens zu tragen. Dieses Urteil und das in Ziffer 1 genannte Urteil des Landgerichts Würzburg ist ohne Sicherheitsleistung vorläufig vollstreckbar. Der Kläger kann die Vollstreckung durch Sicherheitsleistung in Höhe von 110% des vollstreckbaren Betrages abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110% des zu vollstreckenden Betrages leistet.3. Die Revision gegen dieses Urteil wird nicht zugelassen.  
+				Gründe
+				I.Der Kläger verlangt Schadensersatz von der Beklagten als Fahrzeugherstellerin nach einem Pkw-Kaufvertrag.1. Der Kläger erwarb am 24.06.2015 von einem gewerblichen Händler ein Neufahrzeug Porsche Macan S Diesel EU 6 zu einem Kaufpreis von .Das Fahrzeug ist mit einem Dieselmotor ausgestattet, der von der produ ziert wurde.Der Kläger hat erstinstanzlich behauptet, dass in dem streitgegenständlichen Fahrzeug von der Beklagten ursprünglich eine illegale Abschalteinrichtung verbaut worden sei, die Situationen der Prüfung der Abgaswerte erkenne und nur für diese die Stickoxidemissionen auf ein zulässiges Maß herabsetze. Der verwendete Motortyp EA 897 sei im -Konzern federführend von der Konzerntochter AG entwickelt worden.Aufgrund rechtskräftigen Bescheids des Kraftfahrtbundesam tes stehe fest, dass die Beklagte unzulässige Abschalteinrichtungen verwendet habe. Die Verwendung dieser Software sei dem Vorstand der Beklagten be-sowie vorgerichtlicher Rechtsverfolgungskosten beantragt.Die Beklagte ist der Klage inhaltlich entgegengetreten. Sie hat unter anderem die Ansicht vertreten, dass Ansprüche bereits deshalb ausschieden, weil der streitgegenständliche Motor von ihr nicht entwickelt, sondern lediglich zugekauft worden sei. Die Beklagte habe bis ins Jahr 2008/2009 nur Benzinmotoren angeboten. Daher habe sie den Motor von der AG und das Motorsteuerungsgerät von der zugekauft. Die jeweilige Motorsteuerungssoftware sei ohne Einflussmöglichkeit der Beklagten von der AG zur Verfügung gestellt worden. Das Kraftfahrtbundesamt habe im Juli 2018 einen Rückrufbescheid für Fahrzeuge des Typs Porsche Macan Diesel V6 EU6 erlassen wegen einer als unzulässige Abschalteinrichtung zu qualifizierenden Bedatung . Dieser Mangel sei bereits durch ein von der AG entwickeltes und dem Kraftfahrtbundesamt freigegebenes Softwareupdate im Jahr 2016 behoben worden, ohne dass die Beklagte von der AG hierüber informiert worden sei. Verantwortliche der Beklagten hätten im Zeitpunkt des Kaufvertragsschlusses keine Kenntnis von einer unzulässigen Abschalteinrichtung besessen. Ein Bußgeldbescheid der Staatsanwaltschaft S. sei aufgrund einer fahrlässigen Aufsichtspflichtverletzung der Beklagten ergangen.Im Übrigen haben die Parteien erstinstanzlich streitig über die Voraussetzungen deliktischer Ansprüche des Klägers verhandelt.2. Das Landgericht hat die Klage abgewiesen. Nach seiner Ansicht fehlt es im Rahmen eines Anspruchs auf § 823 Abs. 2 BGB i.V.m. § 263 StGB bereits an einer Täuschungshandlung der Beklagten. Zudem sei kein Schaden gegeben, da der Kläger das Fahrzeug ohne Einschränkungen genutzt habe. Einem Anspruch aus § 826 BGB stehe entgegen, dass der Beklagten kein sittenwidriges Verhalten vorgeworfen werden könne.3. Mit seiner Berufung verfolgt der Kläger seine erstinstanzlichen Anträge weiter, wobei er Ansprüche auf Deliktszinsen nicht mehr geltend macht. Er ist der Auffassung, das Landgericht habe zu Unrecht einen Schadensersatzanspruch des Klägers verneint. Mit Schriftsatz vom 18.11.2020 hat er den Klagevortrag weiter vertieft, wobei er insbesondere erstmals behauptet, dass die Beklagte in dem streitgegenständlichen Fahrzeug ein sogenanntes "Thermofenster" implementiert habe, welches ebenfalls eine unzulässige Abschalteinrichtung darstelle.Der Kläger beantragt:Die Beklagte beantragt,die Berufung des Klägers zurückzuweisen.Sie verteidigt das Ersturteil unter Aufrechterhaltung und Vertiefung ihres erstinstanzlichen Vortrags.Wegen des weiteren Parteivorbringens im Berufungsverfahren wird Bezug genommen auf die Berufungsbegründungen, die Berufungserwiderungen und die weiteren im Berufungsverfahren eingereichten Schriftsätze, jeweils mit Anlagen.II.Die gemäß §§ 512 ff. ZPO zulässige Berufung des Klägers ist nicht begründet. Soweit in der Berufung die Mangelhaftigkeit des Fahrzeugs erstmals auf ein sogenanntes Thermofenster gestützt wird, ist der diesbezügliche Sachvortrag bereits verspätet (1.). Darüber hinaus tragen die Darlegungen insoweit auch nicht die Annahme einer vorsätzlichen sittenwidrigen Schädigung durch die Beklagte (2.). Hinsichtlich der behaupteten Implementierung einer unzulässigen Abschalteinrichtung ist nicht der Nachweis erbracht, dass die Beklagte bereits bei Kauf des Fahrzeugs durch den Kläger im Juni 2015 und damit noch vor dem öffentlichen Bekanntwerden des sogenannten Abgasskandals durch die Adhoc-Mitteilung der AG vom 22.09.2015 Kenntnis hiervon besaß oder sich gemäß § 31 BGB die Kenntnis vertretungsberechtigter Personen zurechnen lassen muss (3.).Der Vortrag hinsichtlich des Thermofensters ist bereits aus prozessualen Gründen wegen Verspätung nicht zu berücksichtigen, §§ 530, 520 Abs. 3 i.V.m. § 296 Abs. 1 ZPO. Er erfolgte mit Schriftsatz vom 18.11.2020 erst eine Woche vor dem Termin zur mündlichen Verhandlung vor dem Senat, ohne dass eine hinreichende Entschuldigung für den verspäteten Vortrag ersichtlich ist. Inhaltlich wird zur Begründung in erster Linie auf eine seit langem bekannte Rechtsprechung des Landgerichts Stuttgart aus dem Jahr 2019 Bezug genommen.1. Auch eine Berücksichtigung des entsprechenden Sachvortrags würde zu keinem Erfolg des klägerischen Begehrens führen.a) So ist vom Kläger nicht hinreichend dargetan, dass das Inverkehrbringen eines mit der Thermofenster-Software ausgestatteten Fahrzeugs besonders verwerflich ist und damit eine objektiv sittenwidrige Schädigung darstellt. Denn anders als die Prüfstandbetrieb-Software dient die Thermofenster-Software nicht per se der manipulativen Überlistung des Kraftfahrtbundesamtes bei der Erlangung der erforderlichen Typengenehmigung. Der Einsatz der Thermofenster-Software zielt bereits nicht auf die Abweichungen der Werte des Prüfzu denen des Fahrbetriebes ab und ist - zumindest auch - durch den Motor- bzw. Bauteilschutz gerechtfertigt (vgl. OLG Köln, Beschluss v. 26. August 2020, Az. 16 U 72/20)b) Es ist darüber hinaus nicht von einem Schädigungsvorsatz der Beklagten auszugehen, der eine bewusste sittenwidrige Schädigung der betroffenen Fahrzeugkäufer gemäß § 826 BGB begründen könnte. Da Thermofenster nach Art. 5 Abs. 2 VO (EG) 715/2007 grundsätzlich erlaubt sind, bedürfte es substantiierten Vortrags dazu, aus welchem Grund die Beklagte aufgrund der konkreten Ausgestaltung des Thermofensters mit Schädigungsvorsatz handelte (vgl. hierzu Senat, Urteil v. 30.01.2020, Az. 1 U 218/18).Bei Abschalteinrichtungen, die vom Grundsatz her im normalen Fahrbetrieb in gleicher Weise arbeiten wie auf dem Prüfstand und bei denen Gesichtspunkte des Motor- bzw. Bauteilschutzes als Rechtfertigung ernsthaft angeführt werden können, kann bei Fehlen konkreter Anhaltspunkte jedenfalls nicht ohne Weiteres angenommen werden, dass die Beklagte bzw. deren verantwortlich Handelnde in dem Bewusstsein gehandelt haben, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden (vgl. OLG Stuttgart, Urteil v. 30.07.2019, Az. 10 U 134/19; OLG Frankfurt, Urteil v. 13.11.2019, Az. 13 U 274/18; Brandenburgisches Oberlandesgericht, Urteil v. 19.12.2019, Az. 5 U 103/18).Vorliegend fehlt es an entsprechendem Vortrag des Klägers zu den subjektiven Voraussetzungen der Sittenwidrigkeit. Der Verweis des Klägers auf eine sekundäre Darlegungslast der Beklagten im Hinblick auf die konkrete Konfiguration der Motorsoftware ist nach Auffassung des Senats unzutreffend. Die Grundsätze der sekundären Darlegungslast entbinden den Anspruchsteller nicht von einer hinreichenden Substantiierung seiner primären Darlegungen, um dem Gericht eine Überprüfung ihrer Entscheidungserheblichkeit ermöglichen. Wollte man dies anders sehen, würde man eine Klagepartei in mit den Grundsätzen der deutschen Zivilprozessordnung schwerlich zu vereinbarender Weise von den Erfordernissen jeglichen schlüssigen Sachvortrags entbinden (vgl. OLG Köln, Beschluss v. 04.07.2019, Az. 3 U 148/18; OLG München, Beschluss v. 29.08.2019, Az. 8 U 1449/19; OLG Koblenz, Urteil v. 21.10.2019, Az. 12 U 246/19).Der Kläger versäumt es darzulegen, welche konkreten Parameter zur Abschaltung der Abgasreinigung führen. So ist bereits nicht klar, ob der Kläger von externen Faktoren wie der Umgebungstemperatur ausgeht oder internen wie der Motortemperatur. Es hätte von Seiten des Klägers näherer Ausführungen bedurft, dass überhaupt und nach welchen Zeit-, Strecken- und Schadstoffausstoßparametern die Abgasrückführung von einer Abschalteinrichtung in seinem Fahrzeug deaktiviert wird. Eine Beweiserhebung über die Behauptung des Klägers liefe hier daher letztlich auf einen in der ZPO nicht vorgesehenen Ausforschungsbeweis hinaus. Ein Sachverständiger müsste durch aufwändige Tests erst ermitteln, ob und wenn ja, nach welcher konkreten Zeit, Strecke oder welchem konkreten Schadstoffausstoß die Abgasrückführung bei dem Fahrzeug des Klägers gedrosselt bzw. deaktiviert wird. Weiterhin legt der Kläger nicht hinreichend dar, dass die Drosselung oder Abschaltung der Abgasrückführung nicht notwendig ist, um den Motor vor Beschädigungen oder Unfall zu schützen und um den sicheren Betrieb des Fahrzeugs zu gewährleisten. Die pauschale Behauptung allein ist jedenfalls nicht ausreichend (so überzeugend OLG Koblenz, Urteil v. 21.10.2019, Az. 12 U 246/19).Auch muss dem Kraftfahrt-Bundesamt bei Erteilung der Typgenehmigung die Temperaturabhängigkeit der Abgasrückführungsrate bekannt gewesen sein und wurde gleichwohl nicht beanstandet. Die Beklagte konnte daher durchaus annehmen, dass die von der AG als ihrem Motorenlieferanten gewählte Steuerung der Abgasrückführung jedenfalls dem Grunde nach nicht zu beanstanden ist, weil sie ansonsten vom Kraftfahrt-Bundesamt beanstandet worden wäre. Auch waren und sind die Kriterien, aus denen sich ausnahmsweise aus Bauteilschutzgesichtspunkten die Zulässigkeit einer Abschaltvorrichtung ergibt, nicht eindeutig bestimmt und in Rechtsprechung wie Literatur umstritten (vgl. dazu umfassend Brandenburgisches Oberlandesgericht, Urteil v. 19.12.2019, Az. 5 U 103/18; OLG Nürnberg, Urteil v. 19.07.2019, Az. 5 U 1670/18).Ohne weiter führenden Sachvortrag des Klägers ist die sittenwidrige Schädigung unter subjektiven Gesichtspunkten damit nicht hinreichend dargelegt, um weiter gehende prozessuale Schritte etwa im Wege eine Beweisaufnahme zu ergreifen.2. Objektiv wird auch durch die Beklagte zugestanden, dass ausgewiesen durch den Bescheid des Kraftfahrtbundesamtes von Juli 2018 der Motor des streitgegenständlichen Fahrzeugs Typ Macan Diesel V6 EU6 mit einer unzulässigen Abschalteinrichtung versehen war. Allerdings scheitern deliktische Ansprüche gegen die Beklagte in jedem Fall an fehlendem Vortrag zu den subjektiven Voraussetzungen einer Haftung.a) In subjektiver Hinsicht setzt § 826 BGB Schädigungsvorsatz sowie Kenntnis der Tatumstände voraus, die das Verhalten sittenwidrig erscheinen lassen. Der erforderliche Schädigungsvorsatz bezieht sich hierbei darauf, dass durch die Handlung einem anderen Schaden zugefügt wird. Er enthält ein Wissens- und Wollenselement: Der Handelnde muss die Schädigung des Anspruchstellers gekannt bzw. vorausgesehen und in seinen Willen aufgenommen haben. Dabei setzt § 826 BGB keine Schädigungsabsicht im Sinne eines Beweggrundes oder Zieles voraus. Es genügt bedingter Vorsatz hinsichtlich der für möglich gehaltenen Schadensfolgen, wobei dieser nicht den konkreten Kausalverlauf und den genauen Umfang des Schadens, sondern nur Art und Richtung des Schadens umfassen muss. Insoweit ist zu berücksichtigen, dass ein Schaden im Sinn des § 826 BGB nicht nur in der Verletzung bestimmter Rechte oder Rechtsgüter liegt, sondern vielmehr jede nachteilige Einwirkung auf die Vermögenslage genügt, einschließlich der sittenwidrigen Belastung fremden Vermögens mit einem Verlustrisiko. Im Rahmen des § 826 BGB kann sich im Einzelfall aus der Art und Weise des sittenwidrigen Handelns, insbesondere dem Grad der Leichtfertigkeit des Schädigers, die Schlussfolgerung ergeben, dass er mit Schädigungsvorsatz gehandelt hat. Dies kann insbesondere dann naheliegen, wenn der Schädiger sein Vorhaben trotz starker Gefährdung des Rechtsguts durchgeführt hat und es dem Zufall überlässt, ob sich die erkannte Gefahr verwirklicht. Stets ist aber eine umfassende Würdigung sämtlicher Umstände erforderlich. Für den getrennt davon erforderlichen subjektiven Tatbestand der Sittenwidrigkeit genügt die Kenntnis der tatsächlichen Umstände, die das Sittenwidrigkeitsurteil begründen. Die Haftung einer juristischen Person aus § 826 BGB in Verbindung mit § 31 BGB setzt schließlich voraus, dass ein "verfassungsmäßig berufener Vertreter" im Sinne des § 31 BGB den objektiven und subjektiven Tatbestand verwirklicht hat.b) All diese Voraussetzungen lassen sich dem Klägervortrag angesichts der Besonderheit, dass die Beklagte den streitgegenständlichen Motor nicht selbst hergestellt und entwickelt hat, nicht entnehmen. Vielmehr ist der Klägervortrag hierzu weitgehend pauschal. Soweit der Kläger bestritten hat, dass der Motor allein von der AG entwickelt worden sei und insoweit eine Beteiligung der Beklagten behauptet, ist er hierfür jeden substantiierten Vortrag schuldig geblieben. Die Beklagte hat umfassend und nachvollziehbar dargelegt, dass sie selbst bis zur Entscheidung im Jahr 2008, ebenfalls Dieselmotoren in sogenannte SUVs zu verbauen, lediglich Erfahrung mit Benzinmotoren hatte, während die AG über langjährige Erfahrung mit Dieselmotoren verfügte. Daher ist für das Verfahren mangels entgegenstehender Anhaltspunkte davon auszugehen, dass neben der Produktion auch bereits die Entwicklung des streitgegenständlichen Motortyps vollständig bei der AG erfolgte.Selbst wenn man den klägerischen Sachvortrag genügen lassen wollte, um eine sekundäre Darlegungslast der Beklagten anzunehmen, so hätte die Beklagte dieser genügt. Denn sie hat substantiierten Vortrag zu den Umständen der durch die AG vermittelten Kenntniserlangung von Auffälligkeiten respektive der Unzulässigkeit der Motorsteuerung gehalten. Es wäre vor diesem Hintergrund, eine sekundäre Darlegungslast unterstellt, erneut Sache des Klägers, sich mit diesen Ausführungen dezidiert zu befassen und darzulegen, dass und wodurch welche für die Beklagte handelnde Person schon früher Kenntnis hatte, woran es aber - abgesehen von Behauptungen "ins Blaue hinein" - fehlt.c) Für ein allenfalls fahrlässiges Verhalten spricht auch der gegen die Beklagte ergangene Bußgeldbescheid vom 07.05.2019 der Staatsanwaltschaft S.. Danach wird zwar der Beklagten eine Mitverantwortung für den Einbau der mangelhaften, von der AG entwickelten und hergestellten Motoren zugewiesen. Es wird dabei aber lediglich die fahrlässige Verletzung von Aufsichtspflichten in einer Abteilung des Entwicklungsbereichs der Beklagten festgestellt und kein vorsätzliches Handeln (vgl. auch OLG Koblenz, Urteil v. 30.09.2020, Az. 5 U 1970/19).d) Auch die vom Kläger hierzu vorgetragenen personellen Verflechtungen innerhalb des Konzerns insbesondere im Vorstandsbereich führen zu keiner anderen Bewertung. Es besteht im Falle eines Wechsels des Arbeitgebers innerhalb des Konzerns keine Pflicht zur konzernübergreifenden Weitergabe persönlicher Kenntnisse, die Mitarbeiter oder Vorstandsmitglieder im Rahmen eines Anstellungsverhältnisses bei einer anderen Konzerngesellschaft erlangt haben. Dies gilt umso mehr angesichts des Umstands, dass die U. AG, AG und die Beklagte mit den von ihnen hergestellten Fahrzeugen am Markt im Wettbewerb stehen (vgl. OLG München, Beschluss v. 09.09.2020, Az. 27 U 1634/20).e) Zuletzt kommt auch eine Zurechnung eventueller Erkenntnisse von Mitarbeitern der AG nicht in Betracht. Hierfür genügt insbesondere die Verbundenheit in einem Konzern nicht, zumal es im Streitfall nicht um die Zurechnung des Wissens einer Tochtergesellschaft zulasten der Konzernmutter geht, sondern um zwei Schwestergesellschaften (vgl. OLG Frankfurt, Urteil v. 04.09.2019, Az. 13 U 136/18).Die von der Berufung angeführte Entscheidung des OLG Oldenburg (Urteil v. 16.10.2020, Az. 11 U 2/20) betrifft eine andere Konstellation, in der die Zurechnung gemäß § 31 BGB über die vermutete Kenntnis der verantwortlichen Personen der AG als Konzernmutter bei Entwicklung des Motors bei der AG angenommen wird. Die Beklagte hingegen hat unstreitig bis ins Jahr 2008 keine Dieselstrategie verfolgt. Die Konzernstrategie mit verschiedenen Motorenplattformen im Dieselbereich wurde nicht bei der Beklagten, sondern bei der AG ent wickelt.III.Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO.Die Feststellung zur vorläufigen Vollstreckbarkeit des angefochtenen Urteils erfolgt gemäß § 708 Nr. 10, § 711 ZPO.Die Voraussetzungen für die Zulassung der Revision gemäß § 543 Abs. 2 ZPO liegen nicht vor. Über klärungsfähige und -bedürftige Rechtsfragen von grundsätzlicher Bedeutung hat der Senat nicht zu befinden. Er trifft eine einzelfallbezogene Entscheidung auf der Grundlage der nach gesicherter höchstrichterlicher Rechtsprechung berufungsrechtlich nicht zu beanstandenden erstinstanzlichen Feststellungen. Insbesondere sieht sich der Senat in Übereinstimmung mit einer Vielzahl von obergerichtlichen Entscheidungen zu den streitgegenständlichen Rechtsfragen, ohne dass eine Divergenz ersichtlich wäre.
+			
+			
+			
+			Permalink: https://openjur.de/u/2317444.html (https://oj.is/2317444)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate11
+				
+				
+					 Zitiert7
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

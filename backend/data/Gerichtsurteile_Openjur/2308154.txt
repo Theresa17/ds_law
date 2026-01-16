@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 15.09.2020 - 32 O 200/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 15.09.2020 - 32 O 200/19
+                      m. Fundstelle
+                      LG Köln, Urteil vom 15.09.2020 - 32 O 200/19 = openJur 2020, 77999
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 15.09.2020 - 32 O 200/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 77999
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				I.1.Die Beklagte wird verurteilt, an den Kläger 69.464,16 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 31.03.2017 Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs Marke Q N S Diesel mit der Fahrgestellnummer WP...# zu zahlen.2.Es wird festgestellt, dass sich die Beklagte seit dem 31.03.2017 mit der Rücknahme des vorbezeichneten Fahrzeugs in Annahmeverzug befindet.3.Die Beklagte wird verurteilt, an den Kläger zur Erstattung außergerichtlicher Rechtsverfolgungskosten einen Betrag in Höhe von 2.085,95 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 31.03.2017 zu zahlen.4.Im Übrigen wird die Klage abgewiesen.II.Die Kosten des Rechtsstreits trägt die Beklagte.III.Das Urteil ist für den Kläger vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 120% des zu vollstreckenden Betrages. 
+				Tatbestand
+				Die Parteien streiten um Ansprüche des Klägers gegen die Beklagte nach einem Pkw-Kauf im Zusammenhang mit dem sogenannten "Abgas-Skandal".Der Kläger kaufte mit Vertrag vom 28.09.2015 (Anlage K 1, Bl. 17 ff. d.A.) bei der Beklagten das im Urteilstenor bezeichnete Fahrzeug als Neufahrzeug mit einem 3,0 l TDI-Dieselmotor zu einem Nettokaufpreis von 86.496,00 €, welcher von dem Kläger gezahlt wurde. Das Fahrzeug wurde ihm am 07.12.2015 in Stuttgart übergeben.In dem Fahrzeug ist ein Sechszylinderdieselmotor mit 3,0 Litern Hubraum der Abgasnorm EU6 verbaut, der eine Leistung von 258 PS erreicht.Die Herstellerin des streitgegenständlichen Fahrzeugtyps, die Q AG, entwickelte eine freiwillige Servicemaßnahme zur Verbesserung der Emissionswerte. Mit Schreiben des KBA vom 12.09.2016 (Anlage B 11, Bl. 293 d.A.) bestätigte das KBA zunächst gegenüber der Q AG, dass in Bezug auf die Umgebungstemperatur keine unzulässige Abschalteinrichtung festgestellt worden sei; die Kraftstoffverbrauchswerte und die CO2-Emissionen der umgerüsteten Fahrzeuge hätten sich nicht verschlechtert. Der Kläger nahm das Angebot betreffend die freiwillige Servicemaßnahme nicht an. Unter dem 18.05.2018 wurde zwischenzeitlich durch das KBA veröffentlicht, dass beim Q N Euro 6 3,0 l V6 TDI eine unzulässige Abschalteinrichtung festgestellt worden sei und Fahrzeuge des streitgegenständlichen Fahrzeugtyps zurückgerufen würden. Im Juli 2018 ordnete das KBA eine nachträgliche Nebenbestimmung zu EG-Typengenehmigung an, durch die Elemente der freiwilligen Servicemaßnahme verbindlich angeordnet wurden.Mit anwaltlichem Schreiben vom 18.01.2017 wurde die Beklage vergeblich zur Nacherfüllung aufgefordert; unter dem 20.03.2017 erklärte der Kläger gegenüber der Beklagten den Rücktritt vom Kaufvertrag und forderte sie auf, den Kaufpreis in Höhe von 86.496,00 € bis zum 30.03.2017 zurückzuzahlen.Die Laufleistung des Fahrzeuges betrug am Schluss der mündlichen Verhandlung am 14.08.2020 53.370 km.Der Kläger behauptet, das Fahrzeug weise mehrere illegale Abschalteinrichtungen auf, die erreichen würden, dass es in die Schadstoffklasse 6 habe eingruppiert werden können. Die Grenzwerte würden aber ohne die Manipulation nicht eingehalten werden, da der nach der EU-Übereinstimmungsbescheinigung bescheinigte Stickoxidausstoß von 80 mg/km um das 11-Fache überschritten werde.Die verwendete Motorsteuerungssoftware führe zu einem um mehr als 10% erhöhten Kraftstoffverbrauch, da der tatsächliche Verbrauch von über 10 l / 100 km den Verbrauch nach Herstellerangaben von 6,1 l / 100 km übersteige. Damit sei die Beschaffenheitsvereinbarung nicht eingehalten worden. Nach korrigierter Einstufung in die Schadstoffklasse fiele für den Kläger eine höhere Steuerbelastung an. Ferner sei die Zulassung für Umweltzonen rechtswidrig.Über den Servolenkungssensor werde die Prüfstandsanordnung für den NEFZ-Prüfstand erkannt. Der Sensor gebe das Signal an das Fahrzeug, dass es sich im Prüfstandmodus befinde und schalte die Abgasreinigung in Form einer erhöhten Abgasrückführungsquote ein. Gleichzeitig werde über das AECD-Steuergerät die Leistung reduziert, so dass insgesamt weniger verbraucht werde und die Abgase insgesamt weniger würden. Zum Zwecke der Optimierung der Stickstoff-Emissionswerte im behördlichen Prüfverfahren sei der AdBlue-Verbrauch so manipuliert worden, dass sich das richtige Verhältnis zwischen Diesel und dem in den Abgasstrom eingespritzten AdBlue, das dafür sorge, dass die Stickoxide in harmlosen Stickstoff und Wasserdampf umgewandelt würden, nur auf dem Prüfstand ergebe; im Realverbrauch werde zu wenig AdBlue eingespritzt, so dass die Stickoxidwerte nicht eingehalten würden. Es müsse vielmehr Harnstoff eingespritzt werden, wofür allerdings der vorhandene AdBlue-Tank zu klein sei. Lediglich auf dem Rollenprüfstand schalte die Software die Einspritzung von AdBlue so, dass die Grenzwerte eingehalten würden.Eine Fristsetzung zur Nachbesserung sei nicht erforderlich. Der Mangel könne nicht vollständig behoben werden. Darüber stehe nicht fest, dass durch eine Umprogrammierung Schäden am Abgasrückführventil, am Speicherkatalysator sowie am Partikelfilter eintreten können. Es würde künftig auch ein häufiger Aufenthalt in der Werkstatt nötig sein. Ferner bringe das Softwareupdate auch weitere Nachteile mit sich: niedrigere Lebenserwartung des Motors, Leistungsverluste durch Veränderung des Motorverhaltens, erhöhter Spritverbrauch, Minderung des Wiederverkaufswertes, drohende Fahrverbote, Stilllegung des Fahrzeugs. Der Kläger müsse damit rechnen, dass ihm die Zulassung zum Betrieb des Fahrzeugs entzogen werde.Diese Mängel seien auch erheblich; das Softwareupdate sei ungeeignet, die Abschaltvorrichtung zu beseitigen.Hätte der Kläger den tatsächlichen Schadstoffausstoß bei Vertragsschluss gewusst, hätte er das Fahrzeug nicht gekauft.Die Gesamtlaufleistung des streitgegenständlichen Fahrzeugs betrage mindestens 400.00 km.Nachdem am 21.06.2018 ein Termin zur mündlichen Verhandlung zur Sache stattgefunden hat, ist die Beklagte zum Termin zur Fortsetzung der mündlichen Verhandlung am 14.08.2020 nicht erschienen.Der Kläger beantragt im Wege einer Entscheidung nach Lage der Akten,1.die Beklagte zu verurteilen, an ihn 86.496,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 31.03.2017 Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs Marke Q N S Diesel mit der Fahrgestellnummer WP... abzüglich einer Nutzungsentschädigung in Höhe von 11.540,73 € zu zahlen;2.festzustellen, dass sich die Beklagte spätestens seit dem 31.03.2017 mit der Rücknahme des vorbezeichneten Fahrzeugs in Annahmeverzug befindet;3.die Beklagte zu verurteilen, an den Kläger zur Erstattung außergerichtlicher Rechtsverfolgungskosten in Höhe von 2.217,45 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 31.03.2017 zu zahlen.Die Beklagte hat im Termin zur mündlichen Verhandlung am 21.06.2018 beantragt,die Klage abzuweisen.Die Beklagte behauptet, das Fahrzeug sei nicht mangelbehaftet, da es nicht die aus der EA 189 - Motoren bekannte Umschaltlogik aufweise. Darüber hinaus verfüge das Fahrzeug über eine wirksame EG-Typengenehmigung verfüge und könne ohne Gebrauchseinschränkung genutzt werden.Der ggf. allein in dem Vorhandensein der Abschalteinrichtung liegende Mangel sei jedenfalls als unerheblich anzusehen. Die freiwillige Servicemaßnahme dauere weniger als eine Stunde und koste weniger als 100,00 €.Es fehle auch an einem wirtschaftlichen Schaden.Das Gericht hat Beweis erhoben gemäß Beweisbeschluss vom 17.09.2018 (B. 468 d.A.) i.V.m. dem Beschluss vom 28.12.2018 (Bl. 508 d.A.). Hinsichtlich des Beweisergebnisses wird auf das Sachverständigengutachten vom 03.04.2019 (Bl. 525 ff. d.A) Bezug genommen.Weitere Einzelheiten des Sach- und Streitstandes ergeben sich aus den Schriftsätzen der Parteien einschließlich Anlagen und dem weiteren Akteninhalt, auf den Bezug genommen wird. 
+				Gründe
+				Die Klage ist zulässig und überwiegend begründet.Das Gericht konnte auf Antrag des Klägers nach §§ 331a, 251a Abs. 2 ZPO nach Lage der Akten entscheiden, da die Beklagte im Fortsetzungstermin zur mündlichen Verhandlung am 14.08.2020 ausgeblieben ist und der Sachverhalt für eine derartige Entscheidung hinreichend geklärt ist. Die Frist zur Anberaumung eines Verkündungstermins frühestens in zwei Wochen nach dem Verhandlungstermin wurde eingehalten (§§ 331a S. 1, 251 a Abs. 2 S. 2 ZPO). Der Verkündungstermin wurde der Beklagten am 20.02.2013 ausweislich der Verfügung vom 17.08.2020 mitgeteilt. Es war auch nach § 251a Abs. 2 S. 1 ZPO in einem früheren Termin mündlich zur Sache verhandelt worden, nämlich im Termin am 21.06.2018.I.Der Kläger hat gegen die Beklagte einen Anspruch auf Rückzahlung des Kaufpreises abzüglich einer Nutzungsentschädigung Zug um Zug gegen Rückgabe des Fahrzeugs gem. §§ 437 Nr. 2, 323, 346 Abs. 1, 348 BGB.Zwischen den Parteien ist ein Verbrauchsgüterkaufvertrag abgeschlossen gemäß § 474 BGB abgeschlossen worden.1.Der Kläger ist wirksam von dem Kaufvertrag zurückgetreten.a)Mit Schreiben vom 20.03.2017 hat der Kläger gegenüber der Beklagten den Rücktritt von dem zuvor abgeschlossenen Kaufvertrag über den streitgegenständlichen Pkw erklärt.b)Das Rücktrittsrecht folgt aus §§ 437 Nr. 2, 433 Abs. 1, 434 Abs. 1 S. 2 Nr. 2, 326 Abs. 5, 323 BGB.Das dem Kläger übereignete Fahrzeug war im Zeitpunkt der Übergabe mangelhaft im Sinne des § 434 Abs. 1 BGB, da es jedenfalls nicht die Beschaffenheit aufwies, die der Käufer nach der Art der Sache gemäß § 434 Abs. 1 S. 2 Nr. 2 Var. 2 BGB erwarten kann. Zu den insoweit rechtlich geschützten Erwartungen gehört im Falle des Verkaufs von Fahrzeugen auch, dass diese derart beschaffen sind, dass sie im Zeitpunkt des Verkaufes die einschlägigen gesetzlichen Vorgaben einhalten und keine Betriebsuntersagung nach § 5 FZV droht. Ein Sachmangel ergibt sich unter diesen Voraussetzungen bereits daraus, dass das Kraftfahrbundesamt unzulässige Abschalteinrichtungen in diesem Fahrzeugtyp festgestellt, deren Beseitigung gefordert und den Rückruf des Fahrzeugtyps am 16.05.2018 angeordnet hat. Aufgrund des verpflichtenden Rückrufs droht eine Betriebsuntersagung bei Nichtdurchführung der Rückrufmaßnahme zum Zwecke der Entfernung der unzulässigen Abschaltvorrichtung. Das Gericht schließt sich der Einschätzung des KBA an, die darüber hinaus von dem Sachverständigen zwar mangels Untersuchbarkeit nicht festgestellt werden konnte, jedoch im Hinblick auf den verpflichtenden Rückruf seitens des KBA ebenfalls angenommen wurde. Nach dieser für jedermann unmittelbar einsichtigen und allgemein zugänglichen Mitteilung vom 18.05.2018 wurde bei Überprüfung der Modelle Q D Euro 6 4,2 l V8 TDI und Q N Euro 6 3,0 l V6 TDI eine unzulässige Abschalteinrichtung nachgewiesen. Aufgrund der von der Q AG eingebauten Abschalteinrichtungen kann es im Betrieb der Fahrzeuge zu erhöhten NOx-Emissionen kommen. Eine Aufheizstrategie, die im Wesentlichen nur durch beim Durchlaufen des Prüfstandsverfahrens des NEFZ anspringt, im realen Verkehr hingegen nicht aktiviert wird, führt dazu, dass das Stickoxidemissionsverhalten des Fahrzeugs auf dem Prüfstand gegenüber dem Emissionsverhalten im normalen Fahrbetrieb verbessert wird. Darauf, wie diese Verbesserung des Emissionsverhaltens im Einzelnen technisch erreicht wird - nach der Behauptung des Klägers u.a. durch vermehrte Einspritzung von AdBlue - kommt es für die Beurteilung nicht an; entscheidend für die Einstufung als unzulässige Abschalteinrichtung ist nur der Umstand, dass die Wirksamkeit des Emissionskontrollsystems im normalen Fahrbetrieb im Vergleich zum Prüfstandsverhalten verringert wird, ohne dass eine der in Art. 5 Abs. 2 der EG-Verordnung Nr. 715/2207 enumerativ aufgezählten Ausnahmen vorliegt. Die Kammer legt ihrer Entscheidungsfindung die Beurteilung dieser Aufheizstrategie durch das KBA als unzulässige Abschalteinrichtung als zutreffend zugrunde, und die letztlich auch durch den gerichtlich bestellten Sachverständigen gezogene Schlussfolgerung. Es darf davon ausgegangen werden, dass das KBA sich über die weitreichenden Konsequenzen vor der Verlautbarung verpflichtender Rückrufe vollumfänglich im Klaren war und die Bewertung der Abschalteinrichtung als unzulässig nur in solchen Fällen getroffen hat, in denen dies unausweichlich war (vgl. LG Köln, Urteil vom 20.12.2018, Az.: 36 O 147/18 in BeckRS 2018, 35370). Denn bereits anlässlich des Abgasskandals betreffend die Motoren der EA 189 war für das KBA ersichtlich, dass die Bejahung einer unzulässigen Abschalteinrichtung zu ganz erheblichen Konsequenzen führen würde.Auf der Grundlage der unzulässigen Abschalteinrichtung wurden Typengenehmigungen der so ausgerüsteten Fahrzeuge erwirkt, ohne die dafür zuständige Behörde hiervon in Kenntnis setzen. Darin allein liegt mit Rücksicht auf die daraus folgende Rechtsunsicherheit für die Typengenehmigung und die Betriebszulassung der entsprechend ausgerüsteten Fahrzeuge ein gravierender Mangel (in Bezug auf die Motoren der EA 189: OLG Köln, Beschluss vom 29.11.2018, Az.: 18 U 70/18, zitiert nach juris).c)Mit Schreiben vom 18.01.2017 wurde der Beklagten eine Frist zur Behebung der Mängel bis zum 25.01.2017 gesetzt.Der Nachfristsetzung steht nicht entgegen, dass die im o.g. Schreiben gesetzte Frist unangemessen kurz ist, da hierdurch jedenfalls eine angemessene Frist in Gang gesetzt wurde.Eine Nachbesserung in der in einzig Frage kommenden Form eines Software-Updates ist nicht geeignet, den Mangel vollständig zu beseitigen. Die Nachbesserung muss ohne jede Einschränkung zu einem vertragsgemäßen Zustand der Sache führen. Es reicht also nicht aus, wenn die Kaufsache deutliche Spuren der Reparatur- oder Austauschmaßnahmen des Verkäufers aufweist oder wegen verbliebener und nicht behebbarer Umstände auch in Zukunft Nachbesserungsmaßnahmen nötig sind (Münchener Kommentar zum BGB/Westermann, 8. Auflage 2019, § 439 Rn. 12).Selbst wenn das Fahrzeug nach dem Aufspielen eines Software-Updates die Grenzwerte der Euro-Abgasnorm ohne manipulativen Eingriff in die Motorsteuerung einhalten würde, ohne dabei anderweitige technische Nachteile zu erleiden, bliebe das Fahrzeug weiterhin mangelhaft, denn die Eigenschaft des Fahrzeugs als ein solches Fahrzeug, dass von dem sogenannten "Abgasskandal" betroffen war, haftet diesem auch nach dem Aufspielen eines Software-Updates weiterhin als Makel an und kann nicht beseitigt werden.d)Das Rücktrittsrecht ist auch nicht gemäß § 323 Abs. 5 S. 2 BGB wegen Unerheblichkeit des Mangels ausgeschlossen.Ob die Pflichtverletzung als unerheblich einzustufen, der Mangel also als geringfügig anzusehen ist, beurteilt sich im Wege einer umfassenden Interessenabwägung (BGH, Urteil vom 28. Mai 2014, Az.: VIII ZR 94/13). Unter Würdigung aller Umstände liegt ein unerheblicher Mangel nicht vor.Zwar stellt ein unbehebbarer Mangel nicht per se auch einen nicht unerheblichen Mangel i.S.d. § 323 Abs. 5 S. 2 BGB dar (BGH, Urteil vom 12.03.2008, Az.: VIII ZR 253/05). Das Gericht ist jedoch davon überzeugt, dass die Verkäufer von den betroffenen Dieselfahrzeugen mit erheblichen Preisabschlägen rechnen müssen und hält es gemäß § 287 ZPO in Anbetracht der allgemeinen Bekanntheit der Problematik bei den Dieselmotoren bei den potentiellen Autokäufern für sehr wahrscheinlich, dass der merkantile Minderwert über einem Prozent des Kaufpreises liegen wird. Ein zu erwartender Verlust von über einem Prozent des Kaufpreises übersteigt aber die Bagatellgrenze des § 323 Abs. 5 S. 2 BGB, denn er ist bereits so spürbar, dass eine verständige Partei nicht ohne Weiteres am Vertrag festhalten würde (vgl. auch BGH, Urteil vom 12.03.2008, Az.: VIII ZR 253/05; LG München I, Urteil vom 14.04.2016 , Az.: 23 O 23033/15; LG Oldenburg Urteil vom 01.09.2016, Az.: 16 O 790/16).2.Der Kläger kann den Kaufpreis abzüglich der erlangten Gebrauchsvorteile für die Nutzung des Fahrzeugs verlangen. Der Kläger hat mit dem Fahrzeug 53.370 km zurückgelegt. Die vom Kläger zurückgelegte Strecke ist mit dem Kaufpreis zu multiplizieren und dann durch die erwartete Gesamtlaufleistung des Fahrzeugs von 300.000 km zu teilen. Nach der vorgenannten Berechnung ergibt sich eine Nutzungsentschädigung in Höhe von 15.031,84 €, die wiederum vom Kaufpreis in Abzug zu bringen ist. Das Gericht geht nach freiem Ermessen gemäß § 287 ZPO von einer zu erwartenden Gesamtlaufleistung von 300.000 km aus.Soweit der Kläger hier pauschal behauptet, dass der Motor des streitgegenständlichen Fahrzeugs eine Gesamtlaufleistung von 400.000 km erreicht, ist dies unbeachtlich, da er diesbezüglich - abgesehen von der höheren Motorleistung - keinerlei konkrete Anhaltspunkte vorgetragen hat.Soweit die Beklagte hier pauschal mitteilt, dass die einschlägige Rechtsprechung von einer Gesamtlaufleistung von 250.000 km ausgeht, ist dies unbeachtlich, da die Beklagte hier qualifiziert entgegenzutreten hat.II.Der Zinsanspruch ergibt sich aus den §§ 286, 288 Abs. 1 BGB. Hinsichtlich des Kaufpreises ist die Beklagte am 31.03.2017 in Verzug geraten, da sie mit dem Rücktrittsschreiben vom 17.03.2017 zur Rückzahlung bis zum 30.03.2017 aufgefordert wurde.III.Der Feststellungsantrag, der im Hinblick auf den Nachweis in der Zwangsvollstreckung (§ 756 Abs. 1 ZPO) zulässig ist, ist auch begründet.Die Beklagte befindet sich gemäß § 293 BGB in Annahmeverzug, da der Kläger die die Rückgabe Zug um Zug gegen Rückzahlung des Kaufpreises mit Schreiben vom 17.03.2017 wörtlich angeboten hat. Das wörtliche Angebot reicht gemäß den §§ 295, 298 BGB aus, weil die Beklagte den Rücktritt spätestens durch ihren Antrag auf Klageabweisung zurückgewiesen und damit die Rückzahlung des Kaufpreises Zug um Zug gegen Rücknahme des Pkw abgelehnt hat.IV.Des Weiteren hat der Kläger gegen die Beklagte gemäß §§ 437 Nr. 3, 280 Abs. 1 BGB einen Anspruch auf Ersatz der vorgerichtlichen Rechtsanwaltskosten. Denn bei Lieferung eines mangelbehafteten Fahrzeugs steht einem Käufer gegen den Verkäufer nach diesen Vorschriften Schadensersatz neben der Leistung zu, der auch die notwendigen Rechtsverfolgungskosten umfasst.Die erforderlichen Anwaltskosten ergeben sich der Höhe nach aus einer 1,3 Geschäftsgebühr nach einem - zum Zeitpunkt der Klageeinreichung - berechtigten Wert von bis zu 80.000,00 € (unter Berücksichtigung einer Nutzungsentschädigung auf der Basis der zum Zeitpunkt der Klageeinreichung geschätzten gefahrenen Kilometer) in Höhe von 1.732,90 € zuzüglich Auslagenpauschale von 20,00 € und Umsatzsteuer = 2.085,95 €.Der Zinsanspruch folgt aus §§ 286, 288 Abs. 1 Satz 2 BGB.V.Die Kostenentscheidung beruht auf § 92 Abs. 2 Nr. 1 ZPO.Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus § 709 ZPO.VI.Der Streitwert wird auf 72.955,27 € festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2308154.html (https://oj.is/2308154)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

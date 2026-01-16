@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 18.09.2019 - 3 O 392/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 18.09.2019 - 3 O 392/18
+                      m. Fundstelle
+                      LG Köln, Urteil vom 18.09.2019 - 3 O 392/18 = openJur 2021, 4517
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 18.09.2019 - 3 O 392/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 4517
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Beklagte wird verurteilt, Zug um Zug gegen Rückgabe und Übereignung des PKW B mit der FIN W...# 38.177,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 07.02.2019 zu zahlen abzüglich einer Nutzungsentschädigung in Höhe von 9.793,93 €.2. Die Beklagte wird verurteilt, dem Kläger außergerichtlichen Anwaltskosten in Höhe von 1.590,91 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 07.02.2019 zu zahlen.3. Im Übrigen wird die Klage abgewiesen.4. Die Kosten des Rechtsstreits trägt der Kläger zu 1/4 und die Beklagte zu 3/4.5. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten um Ansprüche des Klägers gegen die Beklagte im Zusammenhang mit dem sogenannten "Abgasskandal".Der Kläger erwarb am 27.02.2012 den im Tenor zu 1. bezeichneten PKW der Marke B als Neuwagen zu einem Kaufpreis von 38.177,00 €. Der verbaute 2,0 l TDI-Motor zählt zu den Motoren des Typs ...# . Diese Motoren hat die Beklagte entwickelt, hergestellt und in Verkehr gebracht. Der Motor des Fahrzeuges war dergestalt programmiert, dass er von dem im normalen Betrieb geltenden Modus 0 auf einem Prüfstand des Neuen Europäischen Fahrzyklus (NEFZ) in den Modus 1 wechselte, der für einen - gegenüber dem Modus 0 - geringeren Ausstoß von Stickoxiden aufgrund erhöhter Abgasrückführung sorgte. Diese Funktionsweise des Motors offenbarte die Beklagte indes nicht, so dass den Motoren der Reihe ...# eine Typengenehmigung erteilt wurde.Nach Bekanntwerden dieser von dem Kraftfahrtbundesamt (KBA) als "unzulässige Abschalteinrichtung" bezeichneten Software entwickelte die Beklagte ein Update mit dem Ziel die Motoren des Typs ...# in einem einheitlichen Modus zu betreiben, der den Modus 1 modifizierte. Das Kraftfahrtbundesamt gab das Software-Update frei.Zum Zeitpunkt des Schlusses der mündlichen Verhandlung wies das Fahrzeug eine Laufleistung von 76.962 km auf.Der Kläger ist der Ansicht, in der verwendeten Software sei ein Sachmangel zu sehen, da der tatsächliche Ausstoß des Stickoxids verschleiert werde und die Beklagte ihn durch das Inverkehrbringen des Motors vorsätzlich und sittenwidrig geschädigt habe, da das Fahrzeug über eine unzulässige Abschalteinrichtung im Sinne von Art 5 Abs. 2 der VO EG 715/2007 verfüge. Die Durchführung eines Updates ändere daran nichts, da nicht ausgeschlossen werden könne, dass es zu Änderungen am Fahrverhalten, an den CO2-Emissionen, den Leistungswerten und den Verbrauchswerten komme. Dadurch, dass - insoweit unstreitig - das Fahrzeug nach dem Software-Update immer in einem einheitlichen (Prüfstand-)Modus betrieben werden wird, werde zwar möglicherweise der Stickoxidausstoß reduziert, jedoch würden sämtliche Aggregate des Motors mehr beansprucht, als eigentlich vorgesehen. Darauf seien die Motorteile nicht ausgelegt.Der Kläger beantragt:1. Die Beklagte wird verurteilt, Zug um Zug gegen Übereignung des Fahrzeugs B, Modell R, FIN W...# an ihn einen Betrag von 38.177,00 € nebst Zinsen hieraus i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.Hilfsweise:2. Die Beklagte wird verurteilt, einen in das Ermessen des Gerichts zu stellenden Schadensersatz in Höhe von mindestens 25 % des Kaufpreises des Fahrzeugs (38.177,00 €) mindestens somit 9.544,25 €, nebst Zinsen hieraus i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.3. Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klagepartei über dem Betrag aus Hilfsantrag zu eins hinausgehenden Schadensersatz für weitere Schäden, die aus der Ausstattung des Fahrzeugs, FIN W...#, mit der manipulieren Motorsoftware resultieren, zu zahlen.4. Die Beklagte wird verurteilt, an die Klagepartei Zinsen i.H.v. 4 % aus 38.177,00 € seit dem 27.02.2012 bis zu Beginn der Rechtshängigkeit zu bezahlen.5. Die Beklagte wird verurteilt, die Kosten des außergerichtlichen Vorgehens i.H.v. 1.832,01 € nebst Zinsen i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte ist der Ansicht, es liege schon kein Sachmangel vor. Sie behauptet, jedenfalls das Software-Update führe den ursprünglich angedachten Ausstoß von CO2 und Stickoxiden herbei, ohne sonstige negative Einwirkungen auf das streitgegenständliche Fahrzeug zu haben.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die wechselseitig zur Akte gereichten Schriftsätze nebst Anlagen sowie das Protokoll der mündlichen Verhandlung Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist im tenorierten Umfang begründet und im Übrigen unbegründet.I. Dem Kläger steht gegen die Beklagte unter dem Gesichtspunkt einer vorsätzlichen sittenwidrigen Schädigung gemäß § 826 BGB einen Anspruch auf Erstattung des für den streitgegenständlichen Pkw gezahlten Bruttokaufpreises in Höhe von 38.177,00 €, abzüglich gezogener Gebrauchsvorteile in Höhe von 9.793,93 €, Zug um Zug gegen Übereignung des Fahrzeugs, zu.1. Der Kläger hat durch ein Verhalten der Beklagten, nämlich durch das Inverkehrbringen des, wie die Beklagte wusste, technisch mangelbehafteten streitgegenständlichen Pkw-Motors, einen Schaden erlitten.a) Der vom Kläger erworbene PKW war im Zeitpunkt der Übergabe mit einem Sachmangel behaftet. Ein Durchschnittskäufer kann davon ausgehen, dass die gesetzlich vorgegebenen und im technischen Datenblatt aufgenommenen Abgaswerte nicht nur deshalb eingehalten und entsprechend attestiert werden, weil eine Software installiert worden ist, die dafür sorgt, dass der Prüfstandlauf erkannt und über entsprechende Programmierung der Motorsteuerung in gesetzlich unzulässiger Weise insbesondere der Stickoxidausstoß reduziert wird. Insoweit resultiert die Mangelhaftigkeit nicht etwa daraus, dass die unter Laborbedingungen (Prüfstandlauf) gemessenen Werte im alltäglichen Straßenverkehr nicht eingehalten werden, sondern basiert darauf, dass der Motor die Vorgaben im Prüfstandlauf nur aufgrund der manipulierten Software einhält.b) Auch wenn die Beklagte selbst nicht Herstellerin des streitgegenständlichen Fahrzeugs ist, so hat sie als Herstellerin des Motors die Softwaremanipulation und den damit eingetretenen Schaden zu verantworten. Die Beklagte kann sich insbesondere nicht darauf berufen, dass ihr ein etwaiges Fehlverhalten nicht zuzurechnen sei, weil es unterhalb der Ebene ihrer Organe stattgefunden haben soll. Denn auch wenn dies so sein sollte, müsste sich die Beklagte die Verstöße analog § 31 BGB zurechnen lassen. Im Übrigen ist, ohne dass es hierauf letztlich ankäme, von einer sekundären Darlegungslast der Beklagten hinsichtlich der verantwortlichen Stellen und dem Informationsfluss in ihrem Konzern ausgehen, der sie nicht ausreichend nachgekommen ist. Der Kläger hat ausreichend und unter Ausschöpfung der ihm zugänglichen Quellen hierzu vorgetragen. Ein näherer Vortrag ist ihm hinsichtlich dieser Tatsachen jedoch nicht möglich, da es sich um interne Betriebsabläufe der Beklagten handelt. Der Beklagten ist demgegenüber ein konkreter Vortrag hierzu insbesondere hinsichtlich der erfolgten Aufarbeitung durch ihre interne Revision und externe Rechtsanwaltskanzleien zumutbar; ein solcher Vortrag ist indes nicht erfolgt.c) Ein Schaden im Sinne des § 826 BGB ist nicht nur die Verletzung bestimmter Rechte oder Rechtsgüter oder eine nachteilige Einwirkung auf die Vermögenslage, sondern darüber hinaus jede Beeinträchtigung eines rechtlich anerkannten Interesses (BGH, Urteil vom 19.7.2004, Az. II ZR 402/02, juris Rz. 41; LG Offenburg, Urteil vom 12.5.2017, Az. 6 O 119/16, juris Rz. 28). Es genügt jede Schadenszufügung im weitesten Sinne, also jede nachteilige Einwirkung auf die Vermögenslage in ihrer Gesamtheit.Der Kläger hat ein Fahrzeug erworben, das mit einem von der Beklagten hergestellten Motor der Baureihe ...# ausgestattet, welches in einem bedeutsamen Gesichtspunkt anders beschaffen war, als ein vernünftiger Durchschnittskäufer dies erwarten durfte. Ein vernünftiger Durchschnittskäufer darf nämlich davon ausgehen, dass ein von ihm erworbener Pkw entweder zu Recht zugelassen oder zulassungsfähig ist. Hierzu gehört, dass der Hersteller die für das Fahrzeug erforderliche Typgenehmigung nicht durch Täuschung erwirkt hat. Das gilt auch, wenn der Käufer sich bis zum Bekanntwerden einer solchen Täuschung keine konkreten Vorstellungen von den technischen Einrichtungen und den rechtlichen Voraussetzungen für die Typgenehmigung gemacht hat (so auch OLG Köln, Beschluss vom 20.12.2017, Az. 18 U 112/17, juris Rz. 36, 38). Bei der von der Beklagten in das streitgegenständliche Fahrzeug implementierten Software handelt es sich nach der Beurteilung des Kraftfahrtbundesamtes um eine sog. "verbotene Abschalteinrichtung" gemäß Art. 3 Nr. 10, Art. 5 Abs. 2 VO (EG) 715/2007. Das Vorhandensein dieser Abschalteinrichtung begründet eine technische Mangelhaftigkeit des Fahrzeugs mit potentieller Gefahr seiner Stilllegung, was als Schaden im Sinne des § 826 BGB ausreicht. Entgegen der Auffassung der Beklagten kommt es für die Mangelhaftigkeit des streitgegenständlichen Fahrzeugs auch nicht darauf an, ob das Fahrzeug auf dem Prüfstand im NEFZ-Verfahren die EU-Abgasgrenzwerte einhält, oder auf den allgemein bekannten Umstand, dass es auch ohne Einsatz einer Manipulations-Software regelmäßig zu Abweichungen zwischen den in der Fahrzeugbeschreibung angegebenen Abgaswerten, die auf dem Prüfstand ermittelt werden, und den im realen Straßenverkehr erzielten Werten kommt. Der vernünftige Durchschnittskäufer darf nämlich nicht nur erwarten, dass das Fahrzeug auf dem Prüfstand die Abgasgrenzwerte einhält, sondern insbesondere auch, dass die emissionsverringernden Prozesse, die bei der Messung auf dem Prüfstand aktiv sind, auch im realen Fahrbetrieb aktiv bleiben und die Abweichungen zwischen den auf dem Prüfstand gemessenen Werten und den im realen Straßenverkehr erreichten Werten nicht über dasjenige hinausgehen, was bei einem unmanipulierten Betrieb des Motors zu erwarten wäre. Der dem streitgegenständlichen Fahrzeug anhaftende Sachmangel liegt gerade darin, dass durch die eingebaute Manipulationssoftware dem Prüfstandsverfahren die Aussagekraft in Bezug auf den realen Fahrbetrieb des Fahrzeugs genommen wird und damit die ohnehin durch die Beschränkung auf die Prüfstandswerte nur eingeschränkte staatliche Kontrolle der Abgasgrenzwerte Makulatur wird (so auch LG Aachen, Urteil v. 07.07.2017, Az. 8 O 12/16, zitiert nach: juris Rz. 29; LG Osnabrück, Urteil v. 09.05.2017, Az. 1 O 29/17, zitiert nach: juris Rz. 42; LG Arnsberg, Urteil v. 14.06.2017, Az. 1 O 25/17, zitiert nach: juris Rz. 22).d) Das schädigende Verhalten der Beklagten ist auch als sittenwidrig im Sinne des § 826 BGB zu beurteilen. Denn die Beklagte hat in großem Umfang und mit erheblichem technischem Aufwand vorsätzlich gesetzliche Umweltschutzvorschriften ausgehebelt und zugleich ihre Kunden und die ihrer Tochtergesellschaften getäuscht und geschädigt. Sie hat dabei nicht nur gesetzliche Abgaswerte außer Acht gelassen, sondern mit der Abschaltvorrichtung zugleich ein System zur planmäßigen Verschleierung ihres Vorgehens gegenüber den Aufsichtsbehörden und den Verbrauchern geschaffen, welches sich insgesamt als sittenwidriges Verhalten darstellt (so auch OLG Köln jeweils mit Beschluss vom 03.01.2019 und 29.11.2018 - 18 U 70/18 -, juris; LG Arnsberg, Urteil vom 14.6.2017, Az. 1 O 25/17, juris Rz. 52; LG Offenburg, Urteil vom 12.5.2017, Az. 6 O 119/16, juris Rz. 46). Aus dem Gesamtverhalten der Beklagten ist die Gesinnung zu entnehmen, aus Unfähigkeit oder Gewinnstreben massenhaft die Käufer zu täuschen. Zudem gilt der Grundsatz, dass eine bewusste Täuschung zur Herbeiführung eines Vertragsschlusses regelmäßig bereits den Vorwurf der Sittenwidrigkeit begründet (BGH, Urteil vom 28.6.2016, Az. I ZR 536/15, juris Rz. 17; LG Offenburg a. a. O.). Eine solche bewusste Täuschung liegt hier vor, da der Einbau einer unzulässigen Abschalteinrichtung denknotwendig nur bewusst und in Täuschungsabsicht geschehen kann.e) Das gegen die guten Sitten verstoßende Verhalten der Beklagten hat den Schaden des Klägers auch kausal und zurechenbar ausgelöst. Denn die durch die Beklagte manipulierten Werte des Prüfstandsverfahrens zur Untersuchung der Abgaswerte haben neben dem Bezug zur Umweltverträglichkeit auch Einfluss auf die Zulassung oder Zulassungsfähigkeit des Fahrzeugs. Insoweit ist bereits nach der allgemeinen Lebenserfahrung davon auszugehen, dass die Gesetzmäßigkeit und Zulassungsfähigkeit eines Fahrzeugs für die Kaufentscheidung eines potentiellen Käufers von wesentlicher Bedeutung ist, ohne dass es darauf ankommt, ob der Käufer konkrete Vorstellungen über die für die Zulassung und Zulassungsfähigkeit im Einzelnen erforderlichen technischen Einrichtungen, rechtlichen Voraussetzungen und Zulassungs- bzw. Genehmigungsverfahren macht (LG Köln vom 3. Mai 2018, 36 O 57/17). Denn ein Fahrzeugkäufer darf auch ohne solche detaillierten Vorstellungen davon ausgehen, dass ein von ihm für den Inlandsbetrieb erworbener Pkw eines namhaften Herstellers entweder zu Recht zugelassen oder zulassungsfähig ist (vgl. OLG Köln, Beschluss v. 20.12.2017, Az. 18 U 112/17, zitiert nach juris Rz. 36 ff.; ähnlich auch LG Arnsberg, Urteil vom 14.6.2017, Az. 1 O 25/17, juris Rz. 53). Da eine Täuschung in dem für den erlaubten Betrieb und die Zulassung des Fahrzeugs bedeutsamen Bereich sowohl die Allgemeine Betriebserlaubnis des Fahrzeugs gefährdet als auch erhebliche Einbußen des Verkehrswerts zur Folge haben kann, ist bereits nach der allgemeinen Lebenserfahrung davon auszugehen, dass der Kläger das streitgegenständliche Fahrzeug nicht erworben hätte, wenn er von der Manipulation gewusst hätte.f) Die Beklagte hat auch sämtliche vorbeschriebenen Merkmale der Schadenszufügung im Sinne des § 826 BGB in ihrer Person verwirklicht. Die Haftung einer juristischen Person aus § 826 BGB setzt voraus, dass einer ihrer verfassungsmäßig berufenen Vertreter im Sinne des § 31 BGB den objektiven und subjektiven Tatbestand dieser Anspruchsgrundlage verwirklicht hat (vgl. BGH, Urteil vom 28.6.2016, Az. VI ZR 536/15, juris Rz. 13). Dabei zählen zu den verfassungsmäßig berufenen Vertretern einer Gesellschaft im Sinne des § 31 BGB nicht nur die satzungs- oder gesetzmäßigen Organe einer juristischen Person, sondern alle Personen, denen durch die allgemeine Betriebsregelung und Handhabung bedeutsame, wesensmäßige Funktionen der juristischen Personen zur selbstständigen, eigenverantwortlichen Erfüllung zugewiesen sind und die die juristische Person insoweit repräsentieren. Der personelle Anwendungsbereich des § 31 BGB deckt sich damit in etwa mit dem Begriff des leitenden Angestellten im arbeitsrechtlichen Sinne (Palandt/Ellenberger, BGB, 77. Aufl. 2018, § 31 Rz. 6).Die Entwicklung eines Motortyps, der in Millionen von Fahrzeugen weltweit eingesetzt werden soll, ist zeit- und kostenaufwendig. Eine Vielzahl hochqualifizierter Mitarbeiter ist hierin eingebunden. Ein Entwicklungsauftrag dieser Größenordnung bedarf einer besonders engmaschigen Projektsteuerung einschließlich festgelegter Berichtspflichten, um in einem betriebswirtschaftlich vertretbaren Zeit- und Kostenrahmen zu bleiben. Es wäre daher lebensfern anzunehmen, sowohl der Vorstand der Beklagten als auch die leitenden Angestellten in der Motorenentwicklung hätten nachgeordneten Mitarbeitern freie Hand gelassen und sich über die Fortschritte oder auch Nicht-Fortschritte des Entwicklungsauftrags nicht regelmäßig unterrichtet. Wie es möglich gewesen sein soll, dass über einen langen Zeitraum eine Vielzahl von Diesel-Pkw mit manipulierter Motorsteuerung gebaut und in mehrere Staaten mit verschiedenen nationalen Abgasanforderungen ausgeliefert wurden, ohne diesen tatsächlich zu genügen, und ohne dass dies von einer verantwortungsvollen Produktausgangskontrolle und mindestens einem Vorstandsmitglied oder leitenden Angestellten bemerkt wurde, ist nicht ersichtlich (so auch OLG Celle vom 8.11.2017 - 9 W 86/17). Die Beklagte trägt dergleichen auch nicht vor, sondern hat zu den Einzelheiten der Durchführung ihres Entwicklungsauftrags keine Angaben gemacht.g) In subjektiver Hinsicht ist es im Rahmen des § 826 BGB nicht erforderlich, dass der Schädiger selbst zur Bewertung seines Tuns als sittenwidrig gelangt, es genügt die Kenntnis der die Sittenwidrigkeit begründenden Umstände. Eine solche Kenntnis der Beklagten ist zu bejahen. Die Beklagte handelte auch mit Schädigungsvorsatz im Sinne des § 826 BGB. Insoweit muss der Schädiger nicht im Einzelnen wissen, wer der durch sein Verhalten geschädigt sein wird. Er muss nur die Richtung, in der sich sein Verhalten zum Schaden anderer auswirken könnte, und die Art des möglichen Schadens vorausgesehen und mindestens billigend in Kauf genommen haben (BGH, Urteil vom 19. Juli 2004, Az. II ZR 402/02, juris Rz. 47; LG Offenburg, Urteil vom 12.5.2017, Az. 6 O 119/16, juris Rz. 48). Für die beteiligten Organe der Beklagten im Sinne des § 31 BGB war aufgrund ihrer Kenntnis von der Implementation der Software offensichtlich, dass die Kunden der Beklagten und ihrer Tochterfirmen künftig Fahrzeuge erwerben würden, welche ihren berechtigten Erwartungen an den gesetzeskonformen Erwerb der Typgenehmigung und die technische Mangelfreiheit nicht entsprachen und ihnen deshalb einen Schaden im Sinne des § 826 BGB zufügten. Ebenso war ersichtlich, dass auch die Kunden von Gebrauchtwagen getäuscht würden.2. Da - wie erörtert - alle Anspruchsmerkmale des § 826 BGB verwirklicht sind, hat der Kläger gegen die Beklagte aus dieser Norm in Verbindung mit § 249 BGB einen Anspruch auf Ersatz des ihm entstandenen Schadens, der hier auf Rückabwicklung des streitgegenständlichen Kaufvertrages gerichtet ist, da der Kläger, wenn er von der Täuschung gewusst hätte, den streitgegenständlichen Pkw nicht erworben hätte.Der Kläger muss sich auch nicht mit dem von der Beklagten entwickelten Software-Update zufrieden geben. Es ist nicht auszuschließen, dass die Durchführung des Software-Updates zu nachteiligen Folgen für die Lebensdauer des Motors des streitgegenständlichen Pkw führen wird. Auf anderslautende Angaben der Beklagten, muss der Kläger nicht vertrauen, weil die Beklagte ihn gerade in Bezug auf die Motorsteuerung getäuscht hat. Was immer die Beklagte nun zu den Eigenschaften und Auswirkungen des Software-Updates angibt, kann zutreffen, teilweise zutreffen oder nicht zutreffen.Schon diese naturgemäß prognostische Natur der Angaben der Beklagten betreffend mögliche Auswirkungen des Software-Updates auf die Dauerhaltbarkeit und/oder den Verschleiß einzelner Komponenten des Fahrzeugs berechtigt aus Klägersicht zu Zweifeln, die noch verstärkt werden, durch die "naheliegende Frage, warum die Beklagte (...) die jetzt beabsichtigten technischen Lösungen nicht von vornherein implementiert hat" (LG Arnsberg a. a. O., Rz. 35), sondern zu einer Manipulationssoftware greifen musste. Die von dem Kläger geäußerten Bedenken, dass sich das angebotene Software-Update sich unter Verschleißgesichtspunkten nachteilig auf die Lebensdauer des Fahrzeugs oder einzelner Komponenten auswirken könnte, sind also aus Sicht eines vernünftigen Durchschnittskäufers nachvollziehbar, weshalb er sich auf diese Form der Schadensregulierung nicht einlassen muss - zumal sich im Ernstfall auch kaum beweisen lassen wird, dass ein etwaiger frühzeitiger Verschleiß des Motors, der Feinstaubpartikelfilter oder sonstiger Fahrzeugkomponenten auf das Software-Update zurückzuführen ist, weshalb ein solcher Schaden voraussichtlich ersatzlos bei dem Käufer verbleiben würde.Die erteilte Einzelgenehmigung des Kraftfahrtbundesamtes führt hinsichtlich der berechtigten Besorgnis des Klägers in Bezug auf eine Verkürzung der Lebensdauer des Motors oder anderer Fahrzeugkomponenten schon deshalb nicht zu einer anderen Beurteilung, weil sie sich lediglich darüber verhält, dass nach Durchführung des Software-Updates an dem Fahrzeug des Klägers keine unzulässigen Abschaltungseinrichtungen mehr vorhanden und die Grenzwerte und weiteren Anforderungen eingehalten sind, nicht aber über die Möglichkeit einer Verkürzung der Lebensdauer des Motors oder eines in sonstiger Weise erhöhten Verschleißes.3. Jedoch muss sich der Kläger die Vorteile anrechnen lassen, die er durch den Gebrauch des Fahrzeugs hatte. Von dem Kaufpreis ist also ein Wertersatzanspruch für die Nutzung des Fahrzeugs in Abzug zu bringen. Der Wert der Nutzung des erworbenen Pkw durch den Käufer ist anhand des Bruttokaufpreises, der Fahrstrecke und der zu erwartenden Restlaufleistung auf der Grundlage linearer Wertminderung zu errechnen (OLG Hamm NJW-RR 2011, 1423). Der Berechnung ist eine Gesamtlaufleistung von 300.000 km zu Grunde zu legen. Das streitgegenständliche Fahrzeug ist mit einem 2,0 l TDI-Motor ausgestattet, der grundsätzlich langlebig ist; eine Gesamtlaufleistung von 300.000 km kann berechtigt erwartet werden. Andererseits ist eine höhere Laufleistung bei Zugrundelegung einer durchschnittlichen Nutzung des Mittelklassefahrzeugs nicht anzunehmen. Die Gebrauchsvorteile des Klägers sind im Zeitpunkt der letzten mündlichen Verhandlung mit 9.793,93 € anzusetzen. Der Kläger erwarb das Fahrzeug als Neuwagen, so dass er - durchschnittlich - 300.000 km mit dem Pkw hätte zurücklegen können. Tatsächlich wurden bis zum Zeitpunkt der letzten mündlichen Verhandlung 76.962 km mit dem Wagen gefahren. Die Gebrauchsvorteile errechnen sich demnach wie folgt: 76.962 km/300.000 km × 38.177,00 € = 9.793,93 €.III. Daneben schuldet die Beklagte Verzugszinsen ab Rechtshängigkeit, §§ 288, 291 BGB. Die Beklagte schuldet hingegen keine Zinsen ab Zahlung des Kaufpreises gemäß § 849 BGB. Die Vorschrift ist bei der Rückabwicklung synallagmatischer Vertragsverhältnisse nicht anwendbar, die gegenseitige Nutzung der ursprünglich gewährten Leistungen ist in die Schätzung der Nutzungsentschädigung eingeflossen.IV. Der Kläger kann daneben Zahlung vorgerichtlich entstandener Rechtsanwaltskosten in tenorierter Höhe, also einer 1,3-fachen Gebühr aus einem Gegenstandswert von 38.177,00 €, nebst Auslagenpauschale und Umsatzsteuer verlangen. Bei den W-Abgasfällen handelt es sich um Massenverfahren, die für die beteiligten Rechtsanwälte mit durchschnittlich wenig anwaltlicher Arbeit verbunden und nicht überdurchschnittlich komplex oder umfangreich sind, so dass eine 1,3-fache Gebühr angemessen ist.V. Die Kostenentscheidung beruht auf § 92 Abs. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit folgt § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2318117.html (https://oj.is/2318117)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

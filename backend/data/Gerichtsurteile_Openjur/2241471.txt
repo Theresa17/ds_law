@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG HammRechtsprechungBeschluss vom 25.06.2019 - 28 W 15/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Hamm, Beschluss vom 25.06.2019 - 28 W 15/19
+                      m. Fundstelle
+                      OLG Hamm, Beschluss vom 25.06.2019 - 28 W 15/19 = openJur 2020, 31755
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Hamm, Beschluss vom 25.06.2019 - 28 W 15/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 31755
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 4 OH 24/18
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				I. Auf die sofortige Beschwerde des Antragstellers wird der Beschluss der Einzelrichterin der 4. Zivilkammer des Landgerichts Paderborn vom 18.02.2019- unter Ausnahme der Wertfestsetzung - aufgehoben.Auf Antrag des Antragstellers wird im Wege des selbständigen Beweisverfahrens die Einholung eines schriftlichen Sachverständigengutachtens zu folgenden Beweisfragen angeordnet:1. Welche Emissionen an,a.Kohlenstoffmonoxid (CO),b.Stickstoffoxiden (NOx),c.Kohlenwasserstoffe insgesamt und Stickstoffoxide summiert undd.Partikelnweist das Fahrzeug, A mit der Fahrzeug-Identifizierungsnummer (FIN) 000 im NEFZ-Prüfzyklus auf, jeweils gemessen in Masse pro Fahrtstrecke (mg/km)?2. Welche Emissionen an;a.Kohlenstoffmonoxid (CO),b.Stickstoffoxiden (NOx),c.Kohlenwasserstoffe insgesamt und Stickstoffoxide summiert undd.Partikelnweist das unter 1. genannte Fahrzeug in der Worldwide Harmonized Light-Duty Vehicles Test Procedure (WLTP-Prüfzyklus) auf, jeweils gemessen in Masse pro Fahrstrecke (mg/km)?3. Welche Emissionen an;a.Kohlenstoffmonoxid (CO),b.Stickstoffoxiden (NOx),c.Kohlenwasserstoffe insgesamt und Stickstoffoxide summiert undd.Partikelnweist das unter 1. genannte Fahrzeug im tatsächlichen Fahrbetrieb auf, jeweils gemessen in Masse pro Fahrtstrecke (mg/km)?4.Wodurch kommt die Abweichung zwischen den Emissionswerten im NEFZ-Prüfzyklus, dem WLTP-Prüfzyklus und dem tatsächlichen Fahrbetrieb bei dem unter 1. genannten Fahrzeug zustande? Entspricht dabei insbesondere die Abweichung der Emissionswerte zwischen NEFZ- und WLTP-Prüfzyklus der durchschnittlichen Emissionsabweichung zwischen den beiden Zyklen?5.Ist auszuschließen, dass die Abweichung durch ein Konstruktionsteil verursacht wird, dass die Temperatur, die Fahrzeuggeschwindigkeit, die Motordrehzahl, den eingelegten Getriebegang, den Unterdruck im Einlasskrümmer oder sonstige Parameter ermittelt, um die Funktion eines beliebigen Teils des Emissionskontrollsystems zu aktivieren, zu verändern, zu verzögern oder zu deaktivieren, wodurch die Wirksamkeit des Emissionskontrollsystem im tatsächlichen Fahrbetrieb gegenüber dem Betrieb im Prüfzyklus verringert wird?6. Hält das Fahrzeug damit im;a.NEFZ-Prüfstand,b.WLTP-Prüfstand,c.tatsächlichen Fahrbetriebdie Emissionsgrenzwerte des Anhang 1, Tabelle 1 (Euro-5-Emissionsgrenzwerte, als ANLAGE 1 beigefügt), Fahrzeugklasse M / Selbstzündungsmotor (CI) ein?II. Die Benennung und Bestellung des Sachverständigen sowie die Anordnung der Vorschusszahlung für die Einholung des Gutachtens wird dem Landgericht übertragen.III. Die Kosten des Beschwerdeverfahrens trägt die Antragsgegnerin. Im Übrigen ist eine Kostenentscheidung derzeit nicht veranlasst.IV. Der Gegenstandswert des Beschwerdeverfahrens wird auf 30.100 EUR festgesetzt.  
+				Gründe
+				I.Der Antragsteller erwarb am 23.02.2016 ein im Jahr 2014 von der Antragsgegnerin hergestelltes, gebrauchtes Fahrzeug vom Typ A, das mit einem Dieselmotor ausgestattet ist.Nach seiner Darstellung besteht der Verdacht, dass die Schadstoffemissionen des Fahrzeugs nicht denen entsprechen, die für die Schadstoffklasse Euro 5 zur Erlangung der Typgenehmigung erforderlich sind, und dass in dem Fahrzeug eine unzulässige Abschalteinrichtung iSd Art 5 Abs. 2 2 S. 1, Art 3 Nr. 10 VO (EG) Nr. 715/2007 verbaut ist.Daraus resultiere ggfls. ein deliktischer Schadensersatzanspruch gegen die Antragstellerin als Fahrzeugherstellerin aus § 826 BGB bzw. § 823 Abs. 2 BGB iVm § 263 StGB.Weil die Klärung der Beweisfragen der Vermeidung eines Rechtsstreits dienen könne, bestehe ein rechtliches Interesse an der Durchführung des Beweisverfahrens gemäß § 485 Abs. 2 ZPO.Der Antragsteller hat sinngemäß beantragt, im Wege eines selbständigen Beweisverfahrens ein schriftliches Gutachten eines Sachverständigen über die im Beschlusstenor aufgeführten Beweisfragen einzuholen.Die Antragsgegnerin hat die Zurückweisung des Antrags beantragt.Sie hält den Beweissicherungsantrag für unzulässig.Er sei auf eine unzulässige Ausforschung gerichtet und inhaltlich zu unbestimmt. Es sei unklar, nach welchen Prüfbedingungen sich die beantragten Emissionsmessungen richten sollten. Im Übrigen übersehe der Antragsteller, dass der WLTP-Prüfzyklus und Prüfungen, die den realen Fahrbetrieb abbilden sollten, für das verfahrensgegenständliche Fahrzeug keine rechtliche Bedeutung hätten.Die begehrten Feststellungen führten in keinem Fall zu ihrer unstreitigen Haftung, weshalb das Verfahren einen künftigen Rechtsstreit nicht vermeide und deshalb das rechtliche Interesse des Antragstellers zu verneinen sei.Das Landgericht hat mit Beschluss vom 18.02.2019 den Antrag auf Durchführung des selbständigen Beweisverfahrens zurückgewiesen. Der Antragsteller habe nicht glaubhaft gemacht, dass er an der Durchführung des Beweisverfahrens ein rechtliches Interesse iSd § 485 Abs. 2 ZPO habe. Auf die Beschlussbegründung wird Bezug genommen.Mit der form- und fristgerecht eingelegten Beschwerde verfolgt der Antragsteller sein Beweiserhebungsbegehren weiter.Er vertieft hierzu seine Ausführungen dazu, dass ihm wegen des durch seine Beweisfragen zu klärenden Zustandes seines Fahrzeugs möglicherweise deliktische Ansprüche gegen die Antragsgegnerin zustehen, und beanstandet, dass das Landgericht eine im selbständigen Beweisverfahren unzulässige Schlüssigkeitsprüfung vorgenommen habe.Außerdem habe das Landgericht gegen die richterliche Hinweispflicht aus § 139 Abs. 3 ZPO verstoßen.Er beantragt,den Beschluss des Landgerichts Paderborn vom 18.02.2019 aufzuheben und zu den im Antrag auf Einleitung des selbständigen Beweisverfahrens vom 10.12.2018 gestellten Fragen einen Beweisbeschluss durch Einholung eines Sachverständigengutachtens zu erlassen.Die Antragsgegnerin beantragt,die Beschwerde zurückzuweisen.Sie verteidigt den angefochtenen Beschluss mit näheren Ausführungen als richtig.Das Landgericht hat der Beschwerde nicht abgeholfen, sondern sie dem Senat zur Entscheidung vorgelegt.II.Die sofortige Beschwerde ist begründet.Das Landgericht hat zu Unrecht den Antrag auf Durchführung des selbständigen Beweisverfahrens abgelehnt.Die Voraussetzungen des § 485 Abs. 2 ZPO für die Anordnung der Beweiserhebung durch Einholung eines schriftlichen Sachverständigengutachtens zu den im Antrag vom 10.12.2018 formulierten Beweisfragen sind gegeben.1. Die Beweisfragen sind auf die Feststellung des Zustandes des Fahrzeugs des Antragstellers gerichtet und können damit gemäß § 485 Abs. 2 S. 1, 2. Alt. ZPO zum Gegenstand eines selbständigen Beweisverfahrens gemacht werden.Entgegen der Auffassung der Antragsgegnerin, der das Landgericht gefolgt ist, sind sie auch hinreichend bestimmt formuliert. Nach welchen Prüfbedingungen die Emissionsmessungen erfolgen sollen, ergibt sich aus der Verwendung der Fachbegriffe NEFZ-Prüfzyklus und WLTP-Prüfzyklus. Hierfür gibt es - wie die Antragsgegnerin selbst hervorhebt - normierte Prüfbedingungen. Daraus ergibt sich zugleich, dass bei der Emissionsfeststellung im tatsächlichen Fahrbetrieb (Beweisfrage 3.) die ebenfalls standardisierten Prüfbedingungen zur Anwendung kommen sollen, die nach neuerer Rechtslage bei der RDE-Prüfung gelten.2. Das rechtliche Interesse des Antragstellers an der Beweisaufnahme lässt sich nicht verneinen.Nach § 485 Abs. 2 S. 2 ZPO ist ein solches Interesse an der Beweiserhebung anzunehmen, wenn die Feststellung der Vermeidung eines Rechtsstreits dienen kann.a) Nach der Rechtsprechung ist der Begriff des rechtlichen Interesses weit zu fassen. Dem Gericht ist es grundsätzlich verwehrt, bereits im Rahmen des selbständigen Beweisverfahrens eine Schlüssigkeits- oder Erheblichkeitsprüfung vorzunehmen.Dementsprechend kann ein rechtliches Interesse nur dann verneint werden, wenn ein Rechtsverhältnis, ein möglicher Prozessgegner oder ein Anspruch nicht ersichtlich ist. Dabei kann es sich nur um völlig eindeutige Fälle handeln, in denen evident ist, dass der behauptete Anspruch keinesfalls bestehen kann (BGH, Beschl. v. 16.09.2004, III ZB 33/04, NJW 2004, 3488; OLG Schleswig, Beschl. v. 25.02.2016, 16 W 9/16, NJW-RR 2016, 994).Der Antragsteller hat dargelegt, dass das Beweisverfahren zur Feststellung der Voraussetzungen eines deliktischen Schadensersatzanspruchs gegen die Antragsgegnerin als Herstellerin des verfahrensgegenständlichen Fahrzeugs wegen von ihm vermuteten normwidrigen Abgasverhaltens des Fahrzeugs dienen soll.Einer weiteren Substanziierung bedarf es im selbständigen Beweisverfahren nicht.Im Rahmen eines selbständigen Beweisverfahrens ist es dem Antragsteller grundsätzlich nicht verwehrt, bloß vermutete Tatsachen zum Gegenstand seines Begehrens zu machen.Die Grenze zu einem prozessual unzulässigen Vorgehen ist erst dann überschritten, wenn Vermutungen ohne jeden Anhaltspunkt willkürlich ins Blaue hinein aufgestellt werden und deswegen der Beweissicherungsantrag als rechtsmissbräuchlich erscheint.Ein solcher Fall liegt hier - angesichts der öffentlichen Berichterstattung über den sog. Abgasskandal, der auch Diesel-Fahrzeuge der Antragsgegnerin betrifft, - nicht vor.b) Das rechtliche Interesse des Antragsstellers lässt sich auch nicht insoweit verneinen, als seine Beweisfragen auf die Überprüfung der Emissionswerte im WLTP-Prüfzyklus und im tatsächlichen Fahrbetrieb abzielen.Die Frage, ob es hierauf zur Feststellung eines mangel-/normwidrigen Zustandes des verfahrensgegenständlichen Fahrzeugs ankommt, ist nicht im Rahmen des selbständigen Beweisverfahrens zu klären, weil hier - wie ausgeführt - keine Schlüssigkeitsprüfung zu erfolgen hat.c) Das rechtliche Interesse lässt sich letztlich auch nicht mit der Begründung verneinen, dass die Antragsgegnerin sich nicht auf eine gütliche Einigung mit dem Antragsteller einlassen will, so dass im Falle eines für sie ungünstigen Ausgangs des Beweisverfahrens ein Rechtsstreit nicht zu vermeiden wäre.Für die Bejahung des rechtlichen Interesses iSd § 485 Abs. 2 ZPO reicht aus, dass bei negativem Ausgang des Beweisverfahrens der Antragsteller von einem Rechtsstreit absehen würde (Musielak/Voit-Huber, 16. Aufl. 2019, § 485 ZPO Rn 13). Das hat der Antragsteller für sich geltend gemacht.III.Die Entscheidung über die Kosten des Beschwerdeverfahrens beruht auf der Regelung des § 91 Abs. 1 ZPO.Im Übrigen war eine Kostenentscheidung nicht veranlasst, weil über die Kosten des Beweisverfahrens erst im Hauptsacheverfahren oder im Verfahren nach § 494a Abs. 2 ZPO zu entscheiden ist.IV.Es erscheint sachgerecht, gemäß § 572 Abs. 3 ZPO die Benennung und Bestellung des Sachverständigen dem Landgericht zu übertragen, welches - ggfls. in Abstimmung mit dem Sachverständigen - auch über die Höhe des anzufordernden Kostenvorschusses zu befinden haben wird.V.Der Beschwerdewert entspricht den Angaben in der Antragsschrift.
+			
+			
+			
+			Permalink: https://openjur.de/u/2241471.html (https://oj.is/2241471)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

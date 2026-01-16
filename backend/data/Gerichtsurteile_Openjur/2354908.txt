@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG GießenRechtsprechungUrteil vom 09.09.2021 - 5 O 205/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Gießen, Urteil vom 09.09.2021 - 5 O 205/21
+                      m. Fundstelle
+                      LG Gießen, Urteil vom 09.09.2021 - 5 O 205/21 = openJur 2021, 29472
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Gießen, Urteil vom 09.09.2021 - 5 O 205/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 29472
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Das Verhalten eines Automobilherstellers ist nicht als besonders verwerflich zu werten - es fehlt bereits an der objektiven Sittenwidrigkeit - wenn und soweit es vom Kraftfahrtbundesamt nicht beanstandet wird (hier "Thermofenster" und "Fahrkurve"). Ein solches Verhalten verstößt nicht gegen das Anstandsgefühl aller billig und gerecht Denkenden. 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits hat der Kläger zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht Ansprüche im Zusammenhang mit dem Diesel-Abgasskandal geltend.Der Kläger erwarb das streitgegenständliche Fahrzeug, einen, mit der Fahrzeug-Identifikationsnummer, am 06.02. als Gebrauchtwagen zu einem Kaufpreis von 15.690 € mit einem Kilometerstand von 91.001. Das Fahrzeug wurde erstmals am 09.12. zugelassen und verfügt über einen Motor mit der Typenbezeichnung (Euro 6).Für das hier streitgegenständliche Fahrzeug(-modell) hat das Kraftfahrtbundesamt keinen amtlichen Rückruf angeordnet, jedoch hat es den Fahrzeugtyp der Beklagten mit der Bezeichnung ... ("..."), in welchem ebenfalls ein Motor mit der Bezeichnung ... verbaut ist, zurückrufen.In den Applikationsrichtlinien und Freigabevorgaben zum streitgegenständlichen Motor ... heißt es unter anderem:"Bedatung, Aktivierung und Nutzung der Fahrkurven zur Erkennung des Precon und des NEFZ um die Abgasnachbehandlungsevents (DeNOx-/DeSox-Events) nur streckengesteuert zu platzieren. Im normalen Fahrbetrieb strecken-und beladungsgesteuerte Platzierung der Events; Beladungssteuerung als führende Größe". Die Applikationsrichtlinien sehen vor, dass die Umschaltungen anhand der Fahrkurven für Fahrzeuge vor der Kalenderwoche 22 im Jahr (also bis zum 30.05. ) bestehen bleiben sollen. Ab dem 30.05. soll dann die Fahrkurve aus der Software entfernt werden. Für die weiteren Einzelheiten wird auf die Anlage zur Klage KF 5"Applikationsanweisung Diesel" (dort Seite 4) Bezug genommen.Das streitgegenständliche Fahrzeug verfügt zudem über ein sogenanntes "Thermofenster", welches die Abgasnachbehandlung in Abhängigkeit zur Umgebungstemperatur steuert. Das Fahrzeug verfügt nicht über einen SCR-Katalysator.Das Kraftfahrtbundesamt untersuchte den streitgegenständlichen Motortyp ... bereits ab dem Jahr 2016 eingehend und konnte dort keine unzulässigen Abschalteinrichtungen feststellen. Das KBA teilte daher im Untersuchungsbericht ... vom April ... mit:"Hinweise, die aktuell laufende Produktion der Fahrzeuge mit Motoren der Baureihe ... (Euro 6) seien ebenfalls von Abgasmanipulation betroffen, haben sich hierbei auf Grundlage der Überprüfungen als unbegründet erwiesen."Diese "KBA-Felduntersuchungen" umfassten insgesamt 56 Messungen an 53 Fahrzeugmodellen verschiedener Hersteller. 32 der untersuchten Fahrzeuge gehörten der Schadstoffklasse Euro 6 an. Dabei untersuchte das KBA 8 repräsentative ...-Fahrzeugemodelle (auch EU 6), die teilweise wie das streitgegenständliche Fahrzeug über einen NOx-Speicherkatalysator verfügten. Die Fahrzeuge der Beklagten wurden als "unauffällig" im Hinblick auf ihr Emissionsverhalten bewertet.Hinsichtlich der Fahrkurve hat das KBA in amtlichen Auskünften vom ... und ... mitgeteilt:"Ergebnis dieser Untersuchung war, dass eine Fahrkurve in dem Fahrzeug appliziert ist, welche jedoch keinen Einfluss auf die Emissionen hat. Es konnte keine Unzulässigkeit bei der softwareseitigen Überprüfung der Motorsteuerungs-Software festgestellt werden.""Die Funktion "Umschaltlogik" in der Motorsteuerung der Aggregate des Entwicklungsauftrags (EA) ... wird seitens des KBA nicht als unzulässige Abschalteinrichtung beurteilt. Der bloße Verbau einer Fahrkurvenerkennung ist nicht unzulässig, solange die Funktion nicht als Abschalteinrichtung gem. Art. 3 Abs. 10 der Verordnung (EG) ... genutzt wird. Prüfungen im KBA zeigen, dass auch bei Deaktivierung der Funktion die Grenzwerte in den Prüfverfahren zur Untersuchung der Auspuffemissionen nicht überschritten werden, sodass es sich nicht um eine unzulässige Abschalteinrichtung handelt."Bezüglich der Einzelheiten wird auf die Anlage B7 und Anlage B 8 verwiesen.Der Kläger ist der Meinung, dass in seinem Fahrzeug mehrere unzulässige Abschalteinrichtungen verbaut seien. Diesbezüglich behauptet er, dass es eine SCR-Dosierstrategie gebe, die im Zusammenhang mit dem NEFZ-Test die Zugabe von AdBlue optimiere, was wiederum dazu führe, dass die Abgasreinigung dort effektiver verlaufe als im realen Straßenbetrieb. Außerdem verfüge das Fahrzeug über eine Fahrzyklussoftware, die die Prüfstandsituation erkenne und somit ebenfalls dafür Sorge, dass die Abgasreinigung lediglich auf dem Prüfstand optimiert werde. Bezüglich des Thermofensters behauptet der Kläger, dass die Abgasnachbehandlung lediglich in einem Temperaturbereich von 20-30 °C optimal zu 100 % funktioniere.Der Kläger beantragt:1. Die Beklagte wird verurteilt, an die Klagepartei 10.675,26 € nebst Zinsen aus 10.675,26 € i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit ... zu bezahlen, Zug um Zug gegen Übereignung und Herausgabe des PKW Typs ..., FIN: ....2. Die Beklagte wird verurteilt, an die Klagepartei 1870,76 € Deliktzinsen zu bezahlen, Zug um Zug gegen Übereignung und Herausgabe des PKW Typs ..., FIN: ....3. Es wird festgestellt, dass sich die Beklagte mit der Annahme des im Antrag 1. genannten Fahrzeugs seit dem ... in Verzug befindet.4. Die Beklagte wird verurteilt, die Klagepartei von den Kosten der außergerichtlichen Rechtsverfolgung i.H.v. 1.212,61 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen. 
+				Gründe
+				I.Die zulässige Klage ist unbegründet. Dem Kläger stehen die geltend gemachten Ansprüche unter keinem rechtlichen Gesichtspunkt zu.Ein Anspruch nach § 826 BGB scheitert mangels sittenwidrigem Verhalten auf Beklagtenseite. Das Verhalten eines Automobilherstellers bzw. seiner Angestellten kann schon nicht als besonders verwerflich bewertet werden, sofern es nach der Einschätzung des Kraftfahrtbundesamtes nicht zu beanstanden ist. Es verstößt nicht gegen das Anstandsgefühl aller billig und gerecht Denkenden - es fehlt insofern bereits am Merkmal der objektiven Sittenwidrigkeit. Dabei kann hierbei letztlich dahinstehen, ob in der Verwendung eines sog. "Thermofensters" oder der "Fahrkurve" eine unzulässige Abschalteinrichtung im Sinne der Verordnung (EG) Nr. 715/2007 liegt.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann (st. Rspr., s. nur BGH, Urteil vom 30. Juli 2020 - VI ZR 5/20, ZIP 2020, 1715 Rn. 29 mwN). Schon zur Feststellung der objektiven Sittenwidrigkeit kann es daher auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen. Die Verwerflichkeit kann sich auch aus einer bewussten Täuschung ergeben. Insbesondere bei mittelbaren Schädigungen kommt es ferner darauf an, dass den Schädiger das Unwerturteil, sittenwidrig gehandelt zu haben, gerade auch in Bezug auf die Schäden desjenigen trifft, der Ansprüche aus § 826 BGB geltend macht.Aufgrund der Einschätzung des Kraftfahrtbundesamtes ist ein verwerfliches Verhalten der Beklagten im hier zu entscheidenden Fall ausgeschlossen. Die unbeschränkt gültige Typengenehmigung des KBA kommt als Verwaltungsakt eine Tatbestandswirkung in dem Sinne zu, dass seine Feststellungen für die Zivilgerichte bindend sind und deren Rechtmäßigkeit der Prüfung der Zivilgerichte entzogen ist (vgl. BGH, Urt. v. 30.04.2015 - BGH Aktenzeichen I ZR 13/14 - BeckRS 2015, 17161; OLG Oldenburg, Beschluss vom 27.01.2020 - 5 U 395/19 - BeckRS 2020, 8864). Verwaltungsakte binden in den Grenzen ihrer Bestandskraft andere Gerichte und Behörden (BGH, Beschluss vom 12.01.2006 - BGH Aktenzeichen IX ZB 29/04 - NJW-RR 2006, 913). Die Gerichte haben selbst fehlerhafte Verwaltungsakte zu beachten, solange diese nicht durch die zuständige Behörde oder durch ein zuständiges Gericht aufgehoben worden sind (BGH, Beschluss vom 12.01.2006 - BGH Aktenzeichen IX ZB 29/04 - NJW-RR 2006, 913). Sie haben die durch den Verwaltungsakt getroffene Regelung oder Feststellung unbesehen, ohne eigene Nachprüfung der Rechtmäßigkeit des Verwaltungsaktes, zu Grunde zu legen (BGH, Urt. v. 21.09.2006 - BGH Aktenzeichen IX ZR 89/05 - NJW-RR 2007, 398).Gemäß Art. 10 VO 715/2007/EG erteilt die nationale Zulassungsbehörde die Typgenehmigung, wenn das betreffende Fahrzeug den Vorschriften der Verordnung und ihrer Durchführungsmaßnahmen, insbesondere den in Anhang I heranzuziehenden Emissionsgrenzwerten entspricht. Nach Art. 5 Abs. 1 VO 715/2007/EG hat der Hersteller das Fahrzeug so auszurüsten, dass die Bauteile, die das Emissionsverhalten voraussichtlich beeinflussen, so konstruiert, gefertigt und montiert sind, dass das Fahrzeug unter normalen Betriebsbedingungen dieser Verordnung und ihren Durchführungsmaßnahmen entspricht. Anhaltspunkte dafür, dass sich das Kraftfahrtbundesamt bei der Erteilung der Typengenehmigung die vorgenannten Voraussetzungen bewusst ignoriert hätte, sind weder vorgetragen noch ersichtlich. Das Gegenteil ist vielmehr der Fall. Ausweislich der im Tatbestand auszugsweise wiedergegebenen Mitteilungen des KBA verfügt der hier streitgegenständliche Motortyp in sämtlichen Fahrzeugmodellen über keine unzulässige Abschalteinrichtung und hält die Emissionsvorgaben ein. Unzulässige Abschalteinrichtungen konnten demnach gerade nicht festgestellt werden, die vorhandenen Abschalteinrichtungen wurden vielmehr als zulässig eingestuft. Insbesondere gilt es dabei zu berücksichtigen, dass bereits seit Monaten in einer Vielzahl anderer Gerichtsverfahren der Vorwurf einer oder mehrerer unzulässiger Abschalteinrichtungen im Motor ... im Raum steht, und das KBA unverändert an seiner bereits im Jahr 2016 geäußerten Auffassung festhält. Insofern gibt es auch keinerlei Anhaltspunkte dafür, dass das KBA zum Zeitpunkt des Inverkehrbringens des Fahrzeugs zu einer anderen Einschätzung im Hinblick auf die Zulässigkeit der vorhandenen Abschalteinrichtungen gelangt wäre. Dass die Beklagte Softwares in ihren Fahrzeugen mit dem Motor ... verbaut hat, die, wie die "Fahrkurve" den Testzyklus erkennen, erfüllt daher selbst dann das Merkmal der (objektiven) Sittenwidrigkeit nicht, wenn sie von einem Zivilgericht sie als unzulässige Abschalteinrichtungen im Sinne der Verordnung (EG) Nr. 715/2007 einzustufen wären, wenn und soweit sie vom Kraftfahrtbundesamt nicht beanstandet werden. Ein solches Verhalten verstößt damit jedenfalls nicht gegen das Anstandsgefühl aller billig und gerecht Denkenden. Es gibt bereits kein allgemeines Verbot eine "Fahrkurve" bzw. "Zykluserkennung" zu installieren. Unzulässig werden die vorgenannten Abschalteinrichtungen erst, wenn sie das Emissionskontrollsystem so verändern, dass dessen Wirksamkeit im normalen Fahrbetrieb verringert wird. Dies ist - wie sich unschwer und eindeutig aus der Auskunft des KBA ergibt - hier nicht der Fall.Entgegen der Ansicht des Klägers kommt es insofern sogar erheblich auf die Einschätzung des Kraftfahrtbundesamtes an. Zwar ist dem Kläger noch dahingehend zuzustimmen, dass es sich bei der Frage nach der Unzulässigkeit einer Abschalteinrichtung um eine Rechtsfrage handelt, die von den Gerichten zu prüfen und zu beantworten ist; jedoch reicht es für die Annahme eines sittenwidrigen Verhaltens nicht aus, dass die Beklagte "nur" nach der Auffassung verschiedener (Zivil-)Gerichte unzulässige Abschalteinrichtungen verbaut hat.Die in der mündlichen Verhandlung beantragten Schriftsatznachlässe waren nicht zu gewähren, da weder der aktuelle Kilometerstand entscheidungserheblich, noch eine Erwiderung der Beklagten auf den letzten Schriftsatz des Klägers angezeigt war.Aus der Unbegründetheit des Antrags zu 1. ergibt sich die Unbegründetheit der übrigen Anträge.II.Als unterlegene Partei hat der Kläger die Kosten des Rechtsstreits zu tragen - § 91 Abs. 1 ZPO.Die Entscheidung zur vorläufigen Vollstreckbarkeit ergibt sich aus § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2354908.html (https://oj.is/2354908)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

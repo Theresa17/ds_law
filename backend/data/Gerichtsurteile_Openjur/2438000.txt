@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG MemmingenRechtsprechungEndurteil vom 11.06.2021 - 32 O 1964/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Memmingen, Endurteil vom 11.06.2021 - 32 O 1964/20
+                      m. Fundstelle
+                      LG Memmingen, Endurteil vom 11.06.2021 - 32 O 1964/20 = openJur 2022, 14046
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Memmingen, Endurteil vom 11.06.2021 - 32 O 1964/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 14046
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger begehrt vorliegend die Feststellung der Schadensersatzpflicht der Beklagten hinsichtlich der Schäden, die aus der behaupteten Manipulation seines Fahrzeugs der Marke ... resultieren.Der im hiesigen Bezirk wohnhafte Kläger erwarb am 15.09.2014 von der Firma ... einen neuen ... 2,0 TDI zum Preis von 26.349,01 €. Das Fahrzeug wurde in der Folgezeit übergeben und der Kaufpreis bezahlt. In dem Fahrzeug ist ein Dieselmotor des Typs EA189 verbaut, der von der Beklagten hergestellt wird. Die Beklagte ist Herstellerin des Fahrzeugs. Die in dem Fahrzeug bereits bei Übergabe installierte Software führte im Ergebnis zu einer Motorsteuerung, welche Prüfsituationen erkennt und dann den Stickoxidausstoß (sog. NOx-Werte) verringert. Die Motorsteuerungssoftware verfügt über eine Fahrzykluserkennung, welche erkennt, wenn das Fahrzeug den sogenannten NEFZ (Neuen Europäischen Fahrzyklus) durchfährt. Beim Durchfahren des Prüfzyklusses wird die Abgasrückführungsrate erhöht. Durch die Aktivierung dieses Modus (sog. Modus 1) werden durch die Rückführung von Abgasen in den Ansaugtrakt des Motors deutlich niedrigere Abgaswerte auf dem Prüfstand erreicht, so dass die gesetzlichen Vorgaben auf dem Prüfstand eingehalten werden. Im Straßenbetrieb (sog. Modus 0) kommt es unter Fahrbedingungen, die im normalen Straßenverkehr bestehen, zu einer geringeren Abgasrückführungsrate, so dass dort wesentlich höhere Stickoxidwerte verursacht werden. Das Fahrzeug ist laut EU-Typgenehmigung in der Schadstoffklasse Euro 5 eingestuft. Die EU-Typgenehmigung wurde bisher nicht entzogen und auch die Einstufung nicht geändert. Das Kraftfahrt-Bundesamt (KBA) hat allerdings die Herstellerin zur Aufrechterhaltung der Typgenehmigung zur Entfernung der sogenannten Abschalteinrichtung und zum Nachweis, dass die Fahrzeuge ohne diese Abschalteinrichtung alle Vorgaben erfüllen, aufgefordert und hat zwischenzeitlich ein zu diesem Zweck von der Beklagten entwickeltes Software-Update für das Fahrzeug genehmigt. Das Update wurde bei dem streitgegenständlichen Fahrzeug installiert.Der Kläger behauptet, dass bei der Beklagten hochrangige Führungspersönlichkeiten von der Manipulation gewusst hätten und diese angewiesen und gebilligt hätten. Ihm sei es auf die Zuordnung zu der angegebenen Schadstoffklasse (EU 5) und auf die Höhe der Verbrauchswerte angekommen. Er habe ein umweltfreundliches und wertstabiles Fahrzeug gewollt. Das Update würde neue Abschalteinrichtungen, insbesondere ein "Thermofenster", enthalten.Der Kläger meint, dass der gestellte Feststellungsantrag zulässig sei. Eine Bezifferung seiner Ansprüche sei derzeit nicht möglich, da nicht absehbar sei, welche Schäden ihm noch entstehen würden und wie hoch diese seien. Es würden steuerliche Schäden drohen. Der Nutzungsersatz sei noch in der Entwicklung. Auch die Frage der Deliktszinsen sei noch streitig. Ihm stünde ein Anspruch auf Schadensersatz gem. § 311 BGB bzw. § 443 BGB zu. Weiterhin stünden ihm Ansprüche auf Schadensersatz gem. §§ 823 Abs. 2 BGB i.V.m. § 263 StGB, § 823 II BGB i.V.m. § 16 UWG und §§ 826, 831 BGB zu. Die Beklagte habe durch die Manipulation der Software getäuscht, wäre aber zur Aufklärung verpflichtet gewesen. Insoweit würde ihr das Verhalten ihrer Mitarbeiter nach §§ 31, 278, 166 BGB zugerechnet. Die arglistige Täuschung über die tatsächlichen Emissionen durch eine Manipulation der Motorsteuerung sei sittenwidrig. Die Beklagte habe insoweit die Gewinnmaximierung und Marktführerschaft um jeden Preis gewollt. Die VO 715/2007 (EG) und die weiteren europarechtlichen Vorschriften schützten auch die Interessen des Klägers. Die Beklagte würde aufgrund eines Feststellungsurteils leisten, so dass das Ziel über eine Feststellungskalge erreicht werden könne. Der Kläger meint, dass er entweder die Rückabwicklung des Kaufvertrages oder auch Schadensersatzansprüche geltend machen könne. Er habe sich noch nicht entschieden, was er gelten machen wolle. Die Ansprüche seien auch nicht verjährt. Zum einen habe der Kläger keine Kenntnis gehabt. Das Update würde ein neues Delikt darstellen. Das Musterfeststellungsverfahren würde die Verjährung für alle Geschädigten hemmen, unabhängig von der Frage, ob sich diese der Musterfeststellungsklage angeschlossen hätten oder nicht. Hilfsweise habe er einen Anspruch gemäß § 852 BGB.Der Kläger beantragte zuletzt:Es wird festgestellt, dass die Beklagtenpartei verpflichtet ist, der Klägerpartei Schadensersatz zu leisten für Schäden, die aus der Manipulation des Fahrzeugs ... durch die Beklagtenpartei resultieren.Die Beklagte beantragte zuletzt,die Klage abzuweisen.Die Beklagte ist der Auffassung, dass der gestellte Feststellungsantrag unzulässig sei. Der Feststellung stünde der Vorrang der Leistungsklage entgegen. Ein feststellungsfähiges Rechtsverhältnis im Sinne des § 256 ZPO liege nicht vor. Da der Kläger in erster Linie Rückabwicklung wünsche, würde das Feststellungsurteil keine endgültige Erledigung des Rechtsstreits herbeiführen. Nachteile im Hinblick auf Steuernachforderungen würden dem Kläger nicht drohen. Die EU-Typgenehmigung sei unverändert wirksam. Durch diese sei bestandskräftig festgestellt, dass das Fahrzeug die Grenzwerte der Abgasnorm EU 5 einhalte. Eine Einschränkung bei der Befahrbarkeit von Umweltzonen sei nicht gegeben. Die Abgasnorm sei für die Finanzbehörden verbindlich festgestellt. Die Schadstoffklasse bleibe auch unverändert, sodass eine Steuernachforderung ausgeschlossen sei. Es genüge nicht, dass Mitarbeiter unterhalb der Vorstandsebene Kenntnis von der Manipulation gehabt hätten. Insoweit sei der Kläger darlegungs- und beweispflichtig. Insbesondere seien aber Ansprüche des Klägers bereits verjährt. Die Beklagte erhebt die Einrede der Verjährung.Hinsichtlich des weiteren Vorbringens der Parteien wird auf deren gewechselte Schriftsätze samt Anlagen sowie auf das Sitzungsprotokoll vom 21.05.2021 Bezug genommen. 
+				Gründe
+				I.: Die Klage ist bereits unzulässig.1) Das Landgericht Memmingen ist sachlich gem. §§ 23 Nr. 1, 71 Abs. 1 GVG und örtlich gemäß § 32 ZPO zuständig. Der Schaden dürfte auch im Bezirk des Landgerichts Memmingen eingetreten sein. Die Beklagte hat sich letztlich auch rügelos eingelassen (§ 39 ZPO).2) Der gestellte Feststellungsantrag ist bereits nicht bestimmt genug und schon deshalb unzulässig. Aus dem Antrag ergibt sich in keiner Weise, um welche angebliche Manipulation es gehen soll. Es ist schon unklar, ob eine Manipulation durch die ursprüngliche Software oder aufgrund des Updates gemeint ist. Es fehlt bereits an der Bezeichnung des zum Ersatz verpflichtenden Ereignisses. Der Antrag lässt nicht erkennen, aufgrund welcher konkreten Manipulation eine Schadensersatzpflicht festgestellt werden soll (vgl. OLG München, Beschluss vom 12.06.2018, Az. 8 U 3169/17). Es ist auch nicht Aufgabe des Gerichts im Anwaltsprozess, unbestimmte Anträge so auszulegen, dass sie zulässig werden. Es ist Aufgabe des Klägers, seine Anträge zulässig zu formulieren. Die Unzulässigkeit wurde von Anfang an durch die Beklagte moniert. Auch das Gericht hat bereits mit Verfügung vom 04.01.2021 auf seine Bedenken hingewiesen. Auch ist den Klägervertretern die Ansicht des Landgerichts Memmingen und des OLG München zur Zulässigkeit des Feststellungsantrags hinreichend bekannt, so dass weitere Hinweise darauf nicht mehr erforderlich und auch nicht zielführend sind.3) Der Feststellungsantrag ist auch unzulässig, weil dem Kläger das erforderliche Feststellungsinteresse im Sinne des § 256 ZPO fehlt. Für eine positive Feststellungsklage fehlt das Feststellungsinteresse, wenn der Kläger dasselbe Ziel mit einer Klage auf Leistung erreichen kann (vgl. BGH Urteil vom 09.06.1983 - III ZR 74/82). Es gilt grundsätzlich der Vorrang der Leistungsklage vor der Feststellungsklage. Ein Feststellungsinteresse im Sinne des § 256 Abs. 1 ZPO besteht daher grundsätzlich nur, wenn einem subjektiven Recht des Klägers eine gegenwärtige Gefahr der Unsicherheit dadurch droht, dass der Beklagte es ernstlich bestreitet oder er sich eines Rechts gegen den Kläger berühmt, und wenn das erstrebte Urteil in Folge seiner Rechtskraft geeignet ist, diese Gefahr zu beseitigen (vgl. Zöller, ZPO, 31. Auflage, § 256, Randnr. 7; BGH NJW 2010, 1877).a) Der Kläger hat sich grundsätzlich vor Klageerhebung zu entscheiden, welche Rechte er überhaupt geltend machen will. Es ist nicht ersichtlich, warum er sich bisher nicht entscheiden konnte. Eine rein subjektive Entscheidungsschwäche führt nicht dazu, dass er für alle Zeiten auf Feststellung klagen könnte. Dies hängt auch nicht von der Frage ab, ob sich bei der Installation von Updates weitere Nachteile herausstellen oder nicht. Der Kläger macht letztlich gegenüber der Beklagten, die nicht seine Vertragspartnerin geworden ist, ausschließlich Schadensersatzansprüche geltend. Die Frage, ob Nachteile für den Kläger eingetreten sind, ist daher bereits Anspruchsvoraussetzung für jeden geltend gemachten Anspruch.b) Dem Kläger kann vorliegend zugemutet werden, die von ihm begehrte Rückabwicklung gegenüber der Beklagten per Leistungsantrag geltend zu machen. Der Kläger kann sich insoweit auch nicht auf die Rechtsprechung berufen, wonach eine Feststellungsklage dann zulässig ist, wenn die Schadensentwicklung noch nicht abgeschlossen ist und das Feststellungsinteresse bejaht wird, auch wenn der Anspruch zumindest teilweise schon bezifferbar ist (vgl. BGH Urteil vom 30.03.1983, VIII ZR 3/82).aa) Der Kläger kann das Feststellungsinteresse nicht damit begründen, dass ihm eine Bezifferung des Anspruchs auf Nutzungsentschädigung nicht zumutbar sei, da die Beklagte für die Nutzungsentschädigung darlegungs- und beweisbelastet sei. Zunächst ist vorab festzustellen, dass der Kläger insoweit bereits widersprüchlich vorträgt. So hat der Kläger zunächst vorgetragen, dass ihm eine Bezifferung einer Nutzungsentschädigung unmöglich sei, da hierfür eine richterliche Schätzung bzw. ein gerichtliches Sachverständigengutachten zur Höhe einer zu zahlenden Nutzungsentschädigung nötig sei. Die Höhe der Nutzungsentschädigung lasse sich nur aus einem geminderten Wert des Kraftfahrzeuges berechnen. Später trägt der Kläger jedoch vor, dass gegenüber der Beklagtenpartei überhaupt kein Nutzungsersatz geschuldet sei. Nachdem dies wohl die Position ist, die der Kläger durchsetzen möchte, kann er sich nicht darauf berufen, dass er einen Leistungsantrag nicht beziffern könne, weil insoweit die Beklagte darlegungspflichtig sei. Nach seiner Argumentation könnte er die Rückzahlung des Kaufpreises gegen Rückgabe des Fahrzeugs ohne Abzug einer Nutzungsentschädigung verlangen. Die Frage, ob eine Nutzungsentschädigung zu zahlen ist, würde im Rahmen der Feststellungsklage ohnehin nicht geklärt werden.bb) Auch bei Zugrundlegung der erst genannten Argumentation, wonach eine Bezifferung aufgrund der Notwendigkeit einer richterlichen Schätzung bzw. eines Sachverständigengutachtens nicht möglich sei, kann das erstrebte Klageziel mit einem Feststellungsantrag gerade nicht erreicht werden. In diesem Zusammenhang ist zu berücksichtigen, dass der Streit zwischen den Parteien über die Notwendigkeit der Bezahlung einer Nutzungsentschädigung und gegebenenfalls deren Höhe, weiterhin strittig bliebe und auch in einem Folgeprozess insoweit eine Beweiserhebung erforderlich sein würde. Im Rahmen der begehrten Feststellung würde sich das Gericht gerade nicht zu der tatsächlichen Höhe der Ansprüche äußern und diese schon gar nicht schätzen, oder ein Gutachten zu einer nicht entscheidungserheblichen Tatsache erholen. Das Klageziel kann somit nicht effektiv in einem einzigen Prozess erreicht werden. Schon nach dem eigenen Vortrag des Klägers kann sein Ziel nur über eine Leistungsklage erreicht werden. Die Frage der Nutzungsentschädigung ist zwischen den Parteien höchst streitig, so dass es offensichtlich ist, dass die Beklagte aufgrund eines Feststellungsurteils nicht in der vom Kläger begehrten Höhe leisten würde. Ein weiteres Verfahren zur Höhe der Ansprüche wäre unumgänglich.cc) Vorliegend begehrt der Kläger nach seinem Vortrag vorwiegend die Rückabwicklung des Vertrages, schließt jedoch mögliche Schadensersatzansprüche nicht aus. Im Falle einer Rückabwicklung ist bereits nicht ersichtlich, dass dem Kläger ein darüber hinausgehender Schaden entstehen könnte, für welchen ein Feststellungsinteresse bezüglich etwaiger Ansprüche gegenüber der Beklagten bestehen könnte. Die Entstehung einer darüber hinausgehenden Wertminderung wäre bereits aus Rechtsgründen ausgeschlossen (vgl. OLG München Hinweisbeschluss vom 17.05.2018, Az. 224 U 762/18). Da der Kläger mit der Beklagten in keiner vertraglichen Beziehung steht, kommen gegenüber der Beklagten nur Ansprüche aus Delikt in Betracht. Einen Anspruch auf Ersatz der Wertminderung in Form des merkantilen Minderwerts aufgrund der Bemakelung als ein vom Diesel-Abgasskandal betroffenes Fahrzeug können die deliktischen Ansprüche nicht begründen. Ob aufgrund des Delikts ein zu ersetzender Vermögensschaden vorliegt, ist nach der sog. Differenzhypothese grundsätzlich durch einen Vergleich der infolge des haftungsbegründenden Ereignisses eingetretenen Vermögenslage mit derjenigen, die sich ohne dieses Ereignis ergeben hätte zu beurteilen. Der nach Deliktsrecht zum Schadensersatz Verpflichtete hat lediglich den Differenzschaden zu ersetzen. Der Kläger kann keinen Anspruch auf Ersatz des Erfüllungsinteresses geltend machen, d.h. er hat keinen Anspruch, so gestellt zu werden, als ob eine Verbindlichkeit ordnungsgemäß erfüllt worden wäre. Selbst bei unterstellter deliktischer Haftung der Beklagten könnte der Kläger nur verlangen, so gestellt zu werden, wie er ohne die Täuschung stünde. Dieser Anspruch würde sich auf Rückzahlung des Kaufpreises, ggf. unter Abzug von Nutzungsvorteilen, Zug um Zug gegen die Übereignung des Pkw richten. Letztlich begehrt der Kläger genau das. Auf einen erhöhten Verschleiß, einen erhöhten Verbrauch und zu erwartende Wartungskosten kommt es dann aber nicht mehr an. Er kann diesen Anspruch ohne weiteres als bezifferten Leistungsantrag geltend machen. Dass noch nicht feststeht, was der Kläger möchte, ändert daran nichts (im Ergebnis so auch OLG München, Beschluss vom 12.06.2018, Az. 8 U 3169/17).dd) Auch aus den weiteren behaupteten Schäden ergibt sich kein (teilweises) Feststellungsinteresse. Das Feststellungsinteresse kann vorliegend nicht mit möglichen Steuernachzahlungen begründet werden. Dies wäre nur dann der Fall, wenn die Möglichkeit besteht, dass solche Schäden eintreten. Ein berechtigtes Interesse besteht dagegen nicht, wenn aus Sicht des Klägers bei verständiger Würdigung kein Grund besteht, mit dem Eintritt eines Schadens zu rechnen (vgl. BGH Beschluss vom 25.08.16, Az. 2 StR 585/15). Die Gefahr einer möglichen Steuermehrbelastung vermag das Gericht vorliegend nicht zu erkennen. Nach Auffassung des Gerichts ist die EU-Typgenehmigung unverändert wirksam. Entgegen der Auffassung der Klagepartei verfügt das Fahrzeug über eine wirksame, ursprünglich erteilte EU-Typgenehmigung. Diese ist nicht kraft Gesetzes gem. § 19 Abs. 7, Abs. 2 Satz 2 Nr. 3 StVZO erloschen. Diese Vorschriften gelten nicht für den hier vorliegenden Fall, dass ein Fahrzeug schon vor In-Verkehr-Bringen durch den Hersteller nicht der maßgeblichen Typgenehmigung entspricht. Vielmehr soll die Vorschrift, wie sich aus der Begründung zur damaligen Neufassung des § 19 Abs. 2 StVZO (vgl. BR-Drucksache 629/93, 15 f.) ergibt, nur Änderungen von bereits im Verkehr befindlichen Fahrzeugen erfassen. Dies ergibt sich auch aus einer systematischen Auslegung des § 25 EG-FGV. Diese Vorschrift gibt dem KBA die Möglichkeit, mit nachträglichen Nebenbestimmungen zur ursprünglichen Typgenehmigung zu reagieren. § 25 Abs. 3 Nr. 2 EG-FGV ermöglicht den Widerruf der Typgenehmigung erst dann, wenn von dem Fahrzeug ein erhebliches Risiko für die Verkehrssicherheit ausgeht. Würde die Typgenehmigung kraft Gesetzes erlöschen, bestünde für die Vorschrift des § 25 Abs. 3 Nr. 2 EG-FGV kein Anwendungsbereich. Ein automatisches Erlöschen würde auch dem Bedürfnis nach Rechtssicherheit für die Teilnehmer am Rechtsverkehr widersprechen. Grundsätzlich darf sich jeder auf den Fortbestand einer behördlichen Typgenehmigung verlassen, bis diese ausdrücklich und erkennbar widerrufen ist. Ein Widerruf der Typgenehmigung droht vorliegend auch nicht, nachdem das KBA als zuständige Behörde das ihm zustehende Ermessen nicht dahingehend ausgeübt hat, eine Entziehung der Typgenehmigung in die Wege zu leiten, sondern nach § 25 II EG-FGV vorgegangen ist. Durch die wirksame Typgenehmigung ist gleichzeitig bestandskräftig festgestellt, dass das Fahrzeug rechtlich die Grenzwerte der Schadstoffklasse EU 5 einhält. Diese Abgasnorm ist auch für die Finanzbehörden verbindlich festgestellt. So sind nach § 2 II S. 2 KraftStG für die Beurteilung der Schadstoffemissionen und für die Beurteilung der Schadstoffklasse die Feststellungen der Zulassungsbehörde verbindlich und stellen insofern einen Grundlagenbescheid dar (vgl. BFH, Urteil vom 17.10.2006, VII R 13/06). Anhaltspunkte dafür, dass die Steuerbehörden entgegen den gesetzlichen Vorschriften oder der zugrundeliegenden Feststellungen der Zulassungsbehörde eine Besteuerung unabhängig von der erfolgten Einordnung in eine Schadstoffklasse vornehmen, sind nicht ersichtlich.ee) Es sind auch keine weiteren möglichen Schäden zu erkennen, die eine Feststellungsklage rechtfertigen könnten. Eine (erneute) Täuschung durch eine Manipulation wurde nicht ausreichend dargelegt.II.: Es kommt somit nicht mehr darauf an, dass eventuelle Ansprüche des Klägers bereits verjährt sind, und die Klage somit auch unbegründet wäre.III.: Die Kostenentscheidung beruht auf § 91 ZPO.IV.: Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 Satz 1 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2438000.html (https://oj.is/2438000)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

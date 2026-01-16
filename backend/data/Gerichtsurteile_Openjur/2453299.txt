@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG WiesbadenRechtsprechungUrteil vom 05.08.2021 - 2 O 2499/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Wiesbaden, Urteil vom 05.08.2021 - 2 O 2499/20
+                      m. Fundstelle
+                      LG Wiesbaden, Urteil vom 05.08.2021 - 2 O 2499/20 = openJur 2022, 19195
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Wiesbaden, Urteil vom 05.08.2021 - 2 O 2499/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 19195
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Zu den Voraussetzungen des § 852 BGB 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits trägt der Kläger.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger verlangt Rückerstattung des Kaufpreises abzüglich einer Nutzungsentschädigung für sein vom sogenannten "Dieselskandal" betroffenes Fahrzeug.Der Kläger erwarb am 23.03.2013 einen Neuwagen VW Tiguan 2.0 TDI, der mit einem Dieselmotor des Typs EA189 (Schadstoffnorm Euro 5) ausgestattet ist, zum Preis von 33.190,00 €. Die Beklagte ist Herstellerin des Fahrzeugs.Der Motor des Fahrzeugs war mit einer Software versehen, die erkennt, ob das Fahrzeug auf einem Prüfstand dem Neuen Europäischen Fahrzyklus (NEFZ) unterzogen wird, um sodann in einen Stickoxid-optimierten Modus zu schalten (sog. Umschaltlogik). Als Folge ergeben sich geringere Stickoxid-Emissionswerte auf dem Prüfstand als im Normalbetrieb. Die Stickoxidgrenzwerte der Euro 5-Norm wurden nur auf dem Prüfstand eingehalten.Ab Ende September 2015 wurde die breite Öffentlichkeit durch die Beklagte in Form von Pressemitteilungen darüber informiert, dass der Motor EA189 mit einer Abschalteinrichtung versehen sei, die vom Kraftfahrtbundesamt (KBA) als nicht ordnungsgemäß angesehen werde und daher zu entfernen sei. Die Öffentlichkeit wurde auch durch das KBA und die umfassende Medienberichterstattung zum sogenannten "Dieselskandal" informiert. Im Jahr 2016 schickte die Beklagte ein diesbezügliches Informationsschreiben an alle betroffenen Fahrzeughalter.Der Kilometerstand des streitgegenständlichen Fahrzeugs betrug zum Zeitpunkt der mündlichen Verhandlung 73645 km.Der Kläger behauptet, im Rahmen des Software-Updates zur Entfernung der ursprünglichen Abschalteinrichtung habe die Beklagte eine neue Abschalteinrichtung in Form eines "Thermofensters" in das streitgegenständliche Fahrzeug eingebaut. Dieses nehme Einfluss auf das Emissionsverhalten abhängig von der Außentemperatur. Die Abgasrückführung sei damit im tatsächlichen Fahrbetrieb niedriger und der Schadstoffausstoß höher, als auf dem Prüfstand.Der Kläger ist der Ansicht, er habe einen Anspruch gegen die Beklagte aufgrund der ursprünglichen Umschaltlogik wegen vorsätzlicher sittenwidriger Schädigung. Sein Schaden liege bereits in dem Abschluss des Kaufvertrages über das mangelhafte Fahrzeug. Daneben habe das Fahrzeug aber auch einen Wertverlust erlitten. In Bezug auf das durch das Software-Update eingebaute Thermofenster liege der Schaden zumindest in dem Verlust der Durchsetzbarkeit der Ansprüche auf Schadensersatz, da die Beklagte dem Kläger durch das Aufspielen des Software-Updates vorgegaukelt habe, einen gesetzeskonformen Zustand herzustellen, weshalb der Kläger es unterlassen habe, die Ansprüche auf Schadensersatz aufgrund der ursprünglichen Umschaltlogik zu verfolgen.Der Kläger ist der Ansicht, ihm stehe zumindest ein Anspruch auf Restschadensersatz nach § 852 BGB zu.Der Kläger beantragt,1. die Beklagte zu verurteilen, Zug um Zug gegen Herausgabe und Übereignung des Fahrzeugs Hersteller: ..., FIN: WVGZZZ5NZEW003838 an die Klagepartei einen Betrag in Höhe von 33.190,00 € nebst Zinsen hieraus in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit unter Anrechnung einer Nutzungsentschädigung für die Nutzung des Fahrzeugs zu erstatten, die sich aus folgender Formel ergibt: 75 % x 33.190,00 € ... (Kilometerstand im Zeitpunkt der mündlichen Verhandlung - Kilometerstand bei Kauf) / (in das Ermessen des Gerichts gestellte Gesamtlaufleistung - Kilometerstand bei Kauf).2. festzustellen, dass sich die Beklagte mit der Annahme der in dem Klageantrag zu 1) genannten Zug-um-Zug-Leistung im Annahmeverzug befindet.3. die Beklagte zu verurteilen, die Kosten des außergerichtlichen Vorgehens in Höhe von 2.199,36 € nebst Zinsen in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte erhebt die Einrede der Verjährung. Sie behauptet, der Kläger habe bereits im Jahr 2015, spätestens jedoch im Jahr 2016 Kenntnis von den anspruchsbegründenden Umständen gehabt, oder zumindest grob fahrlässig nicht gehabt.Die Beklagte behauptet, das verwendete Thermofenster sei zum sicheren Betrieb des Fahrzeugs notwendig und daher zulässig. Die Verwendung des Thermofensters sei auch im Rahmen der Antragsstellung auf Freigabe der Software-Updates gegenüber dem KBA offengelegt worden, welches daraufhin die Software-Updates freigegeben und daher als rechtlich zulässig bewertet habe.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze nebst zugehörigen Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.Die Ansprüche des Klägers aufgrund der unstreitig ursprünglich in dem streitgegenständlichen Fahrzeug verbauten Umschaltlogik sind verjährt.Gemäß § 195 BGB beträgt die regelmäßige Verjährungsfrist drei Jahre. Sie beginnt gemäß § 199 Abs. 1 BGB mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger von den den Anspruch begründenden Umständen Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste.Nach ständiger höchstrichterlicher Rechtsprechung ist die Kenntnis im Sinne von § 199 Abs. 1 Nr. 2 BGB vorhanden, wen dem Geschädigten die Erhebung einer Schadensersatzklage Erfolg versprechend, wenn auch nicht risikolos, möglich ist (vgl. BGH, Urteil vom 17.12.2020 - VI ZR 739/20 m.w.N.). Dabei kommt es nur auf die Kenntnis der tatsächlichen Umstände an, die die Grundlage des Anspruchs bilden (aaO). Von der erforderlichen Kenntnis ist auszugehen, wenn die dem Geschädigten bekannten Tatsachen ausreichen, um den Schluss auf ein schuldhaftes Fehlverhalten des Anspruchsgegners als naheliegend erscheinen zu lassen. Es muss dem Geschädigten lediglich zumutbar sein, aufgrund dessen, was ihm hinsichtlich des tatsächlichen Geschehensablaufs bekannt ist, Klage zu erheben, wenn auch mit dem verbleibenden Prozessrisiko (aaO).Unstreitig wurde die Öffentlichkeit ab September 2015 umfassend über die Umstände des Dieselskandals informiert. Zwar bestreitet der Kläger, im Jahr 2015 den Lauf der Verjährungsfrist auslösende Kenntnis gehabt zu haben. Der Kläger hat jedoch nicht bestritten, von der Beklagten im Jahr 2016 als betroffener Fahrzeughalter ein Informationsschreiben erhalten zu haben, aus der sich die Betroffenheit seines Fahrzeugs ergab. Spätestens im Jahr 2016 hat der Kläger also gewusst, dass eine unzulässige Abschalteinrichtung in seinem Fahrzeug verbaut wurde. Aufgrund der umfassenden Medienberichterstattung kann es dem Kläger auch nicht verborgen geblieben sein, dass ein schuldhaftes Fehlverhalten der Beklagten im Raum stand. Nicht umsonst etablierte sich schon bald der Begriff des "Skandals". Der Kläger bestreitet seine Kenntnis auch nicht substantiiert, sondern trägt nur allgemein vor, niemand sei zur Verfolgung der Berichterstattung verpflichtet. Nach alledem ist von dem Beginn der dreijährigen Verjährungsfrist, wenn nicht bereits zum Schluss des Jahres 2015, so doch spätestens zum Schluss des Jahres 2016 auszugehen. Die Verjährungsfrist lief somit mit Schluss des Jahres 2019 ab, weshalb die Klageerhebung des Klägers im Jahr 2020 zu spät erfolgte.Der Kläger hat auch keine Ansprüche gegen die Beklagte aufgrund der Verwendung eines sogenannten "Thermofensters", welches durch das Software-Update in das streitgegenständliche Fahrzeug verbaut worden sein soll.Es ist zwar unstreitig, dass die Beklagte in dem streitgegenständlichen Fahrzeug ein Thermofenster verwendet. Sie hat aber substantiiert vorgetragen, dass die Verwendung dieser Abschalteinrichtung dem Motorschutz diene und dem KBA bekannt war und das Software-Update dennoch durch das KBA freigegeben wurde. Es ist daher schon zweifelhaft, ob überhaupt eine unzulässige Abschalteinrichtung vorliegt. Auch Umstände, die eine Sittenwidrigkeit der Verwendung eines Thermofensters durch die Beklagte begründen würden, sind vom Kläger nicht dargetan. Dies kann aber im Ergebnis dahinstehen, da der Kläger zumindest nicht substantiiert vorgetragen hat, dass ihm ein kausaler Schaden durch die Verwendung des Thermofensters entstanden ist, für den er im Rahmen eines Schadensersatzanspruches Ersatz verlangen könnte. Im Rahmen eines Schadensersatzanspruches aufgrund der ursprünglichen Umschaltlogik hätte sich der Kläger noch darauf berufen können, dass sein Schaden in der Eingehung einer ungewollten Verbindlichkeit in Form des Abschlusses des Kaufvertrags über das streitgegenständliche, mit einer Umschaltlogik versehene Fahrzeug bestand. Dieser Vortrag greift aber im Falle des Thermofensters nicht mehr, da dieses unstreitig erst durch das Aufspielen des Software-Updates und damit lange nach dem Kaufvertragsschluss in das Fahrzeug eingebracht wurde. Soweit sich der Kläger nun darauf beruft, sein Schaden bestehe darin, dass er auf die Geltendmachung seiner Ansprüche gegen die Beklagte aufgrund der ursprünglichen Manipulation verzichtet habe, weil ihm durch das Aufspielen des Software-Updates vorgetäuscht worden sei, dass nunmehr ein gesetzeskonformer Zustand des Fahrzeugs erreicht worden sei, so kann dieser Argumentation nicht gefolgt werden. Der Kläger müsste vortragen, dass ihm aufgrund der Verwendung des Thermofensters ein kausaler Schaden entstanden ist. Das tut er aber vorliegend nicht. Er stellt allein darauf ab, dass er aufgrund des Aufspielens des Software-Updates auf die Geltendmachung seiner Ansprüche verzichtet habe. Dies stellt eine autonome Entscheidung des Klägers dar, hat aber nichts mit der Verwendung eines Thermofensters zu tun und stellt daher auch keinen kausalen Schaden dar.Der Kläger hat auch keinen Anspruch aus § 852 BGB auf Restschadensersatz gegen die Beklagte. Denn im vorliegenden Fall ist eine teleologische Reduktion von § 852 BGB angezeigt. Der Sinn und Zweck des § 852 BGB ist es, den Anspruchsteller eines deliktischen Schadensersatzanspruches bei unklaren Prozessaussichten auch nach Ablauf der Verjährungsfrist noch einen teilweisen Schadensersatzanspruch zu ermöglichen. Unterliegt der Anspruchsteller keinem besonderen Prozessrisiko, benötigt er also nicht unbedingt weitere Bedenkzeit, braucht der Anspruchsteller auch nicht den Schutz des § 852 BGB. Da der Wortlaut von § 852 BGB insoweit aber keine Unterschiede macht, muss die Norm teleologisch reduziert werden (vgl. OLG Frankfurt am Main, Beschluss vom 21.01.2021 - 19 U 170/20). So liegt es hier. Denn der Kläger hätte sich der Musterfeststellungklage gegen die Beklagte anschließen können, ohne einem Prozessrisiko zu unterliegen und daher Bedenkzeit zu benötigen. Die Musterfeststellungklage wurde auch gerade dafür geschaffen, den Verbrauchern das Risiko der unsicheren Prozessaussichten vor dem drohenden Verjährungseintritt zu nehmen. Hat sich eine Person - wie hier der Kläger - aber dennoch nicht der Musterfeststellungsklage angeschlossen, ist sie nicht mehr schutzbedürftig, sodass eine Anwendung des § 852 BGB nicht geboten erscheint.Mangels Hauptanspruch besteht auch kein Anspruch des Klägers auf Feststellung des Annahmeverzugs oder Erstattung von vorgerichtlichen Rechtsanwaltskosten.Die Kostenentscheidung folgt aus § 91 ZPO, die Entscheidung zur vorläufigen Vollstreckbarkeit beruht auf § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2453299.html (https://oj.is/2453299)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

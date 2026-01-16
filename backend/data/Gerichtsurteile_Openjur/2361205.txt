@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG BambergRechtsprechungUrteil vom 09.02.2021 - 5 U 188/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Bamberg, Urteil vom 09.02.2021 - 5 U 188/20
+                      m. Fundstelle
+                      OLG Bamberg, Urteil vom 09.02.2021 - 5 U 188/20 = openJur 2021, 31613
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Bamberg, Urteil vom 09.02.2021 - 5 U 188/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 31613
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Auf die Berufung der Beklagten wird das Urteil des Landgerichts Bamberg vom 21.04.2020, Az. 13 O 463/19, aufgehoben. Die Klage wird abgewiesen.2. Die Anschlussberufung der Klägerin wird zurückgewiesen.3. Die Klägerin hat die Kosten des Rechtsstreits zu tragen.4. Das Urteil ist vorläufig vollstreckbar. Die Klägerin kann die Vollstreckung durch Sicherheitsleistung in Höhe von 120% des vollstreckbaren Betrages abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 120% des zu vollstreckenden Betrages leistet.5. Die Revision gegen dieses Urteil wird nicht zugelassen.  
+				Gründe
+				A.Die Klägerin verfolgt mit ihrer Klage die Feststellung der Schadensersatzpflicht der Beklagten für Schäden, die aus der von der Beklagten vorgenommenen Manipulation des streitgegenständlichen Fahrzeugs, welches mit einem Motor EA 189 ausgestattet ist und unter den sog. "Abgasskandal" fällt, resultieren.Die Klägerin erwarb bei einem Autohaus mit Kaufvertrag vom 11.03.2016 das Fahrzeug X. als Gebrauchtfahrzeug mit 17.000 km Laufleistung zu einem Preis von 28.800,00 €.In das streitgegenständliche Fahrzeug ist ein Dieselmotor des Typs EA 189 eingebaut, der von der Beklagten entwickelt und produziert wurde. Der Motor verfügte zu dem Zeitpunkt, als er von der Beklagten in das streitgegenständliche Fahrzeug eingebaut und in den Verkehr gebracht wurde, über eine Software, die eine Veränderung der ausgestoßenen Stickoxid-Emissionswerte im behördlichen Prüfverfahren herbeiführte und so bewirkte, dass bei der Messung auf dem Prüfstand geringere Abgaswerte, als sie im Normalbetrieb ausgestoßen werden, erzeugt und gemessen wurden. Die Software erkannte, wenn sich das Fahrzeug auf einem Prüfstand befand und dem neuen europäischen Fahrzyklus unterzogen wurde. In diesem Fall schaltete sie die Motorsteuerung in den Abgasrückführungsmodus 1, bei dem ein stickoxidoptimierter Ausstoß bewirkt wurde, weil mehr produziertes Abgas über die Abgasrückführung in den Ansaugtrakt des Motors zurückgeführt wurde. Der Betriebsmodus 0, der im normalen Straßenbetrieb die Motorsteuerung regelt, wurde dabei nicht in Betrieb gesetzt. Durch diese Täuschung über die tatsächlich vorhandenen Abgaswerte erlangte die Klägerin die Typengenehmigung für das streitgegenständliche Fahrzeug durch das Kraftfahrtbundesamt. Im Jahr 2015 erließ das Kraftfahrtbundesamt einen inzwischen bestandskräftigen Bescheid, wonach es sich bei der geschilderten Software um eine unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2 S. 1 VO (EG) 715/2007 i.V.m. Art. 3 Nr. 10 VO (EG) 715/2007 handelt, und in dem es den Rückruf der betroffenen Fahrzeuge sowie deren Nachbesserung anordnete.Noch vor Abschluss des Kaufvertrags durch die Klägerin gab die Beklagte am 22.9.2015 eine Adhoc-Mitteilung nach § 15 WpHG sowie eine gleichlautende Presseerklärung heraus, die auszugsweise wie folgt lauten: "X. treibt die Aufklärung von Unregelmäßigkeiten einer verwendeten Software bei Diesel-Motoren mit Hochdruck voran ... Auffällig sind Fahrzeuge mit Motoren vom Typ EA189 mit einem Gesamtvolumen von weltweit rund elf Mio. Fahrzeugen. Ausschließlich bei diesem Motortyp wurde eine auffällige Abweichung zwischen Prüfstandswerten und realem Fahrbetrieb festgestellt. X. arbeitet mit Hochdruck daran, diese Abweichungen mit technischen Maßnahmen zu beseitigen. Das Unternehmen steht dazu derzeit in Kontakt mit den zuständigen Behörden und dem Deutschen Kraftfahrtbundesamt."Das von der Beklagten in Abstimmung mit dem Kraftfahrtbundesamt entwickelte Softwareupdate wurde zeitlich nach dessen Kauf durch die Klägerin auf den streitgegenständlichen PKW aufgespielt.Hinsichtlich der weiteren Einzelheiten wird auf den Tatbestand des angefochtenen Urteils Bezug genommen, § 540 Abs. 1 S. 1 Nr. 1 ZPO.Die Klägerin hat im Verfahren erster Instanz die Rechtsansicht vertreten, dass die von ihr erhobene Feststellungsklage zulässig sei. Ansprüche ergäben sich aus §§ 826, 31 BGB sowie aus § 823 Abs. 2 BGB i.V.m. verschiedenen Schutzgesetzen. Es bestehe ein Freistellungsanspruch hinsichtlich vorgerichtlicher Rechtsanwaltsgebühren in Höhe einer 2,0fachen Gebühr.Die Klägerin hat in der ersten Instanz beantragt,Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klagepartei Schadensersatz zu leisten für Schäden, die aus der Manipulation des Fahrzeugs X. (Fahrzeugidentifikationsnummer: ...) durch die Beklagtenpartei resultieren.Die Beklagte wird verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.307,51 € freizustellen.Die Beklagte hat beantragt,die Klage abzuweisen.Die Beklagte hat im Verfahren erster Instanz die Rechtsansicht vertreten, dass die Feststellungsklage unzulässig sei, da ein Feststellungsinteresse nicht gegeben und der Antrag zu unbestimmt sei.Das Landgericht hat der Klage stattgegeben. Zur Begründung hat es im Wesentlichen ausgeführt, dass ein Feststellungsinteresse gegeben und der Feststellungsantrag hinreichend bestimmt sei. Die Klage sei begründet, da der Klägerin ein Anspruch aus §§ 826, 31 BGB zustehe. Aus der Mitteilung der Beklagten vom 22.09.2015 könne eine Kenntnis der Klagepartei nicht abgeleitet werden. Die Klägerin habe im konkreten Fall auch keine Kenntnis aufgrund der Presseinformation der Beklagten oder sonstiger Berichterstattung haben müssen, da es sich um einen Spontankauf gehandelt habe. Ein Freistellungsanspruch ergebe sich in Höhe einer 1,3fachen Gebühr aus einem Streitwert von 19.200,00 €. Auf die Entscheidungsgründe des erstinstanzlichen Urteils wird Bezug genommen.Gegen dieses Urteil, das den Prozessbevollmächtigten der Beklagten am 22.04.2020 zugestellt wurde, hat die Beklagte mit Schriftsatz ihrer Prozessbevollmächtigten vom 19.05.2020, der beim Oberlandesgericht am selben Tag eingegangen ist, Berufung eingelegt und diese nach Verlängerung der Berufungsbegründungsfrist bis 22.07.2020 mit Schriftsatz vom 17.07.2020, eingegangen beim Oberlandesgericht am selben Tag, begründet.Zur Begründung wiederholt und vertieft die Beklagte ihren Vortrag aus dem Verfahren erster Instanz und vertritt die Rechtsansicht, dass Ansprüche der Klägerin nicht bestehen könnten, weil es sich um einen sog. "Spätkauf" nach dem 22.09.2015, dem Tag der Veröffentlichung der Adhoc-Mitteilung, handele. Durch das Softwareupdate seien keine technischen Nachteile gegeben. Der Einsatz eines Thermofensters im Softwareupdate sei nicht unzulässig, da es aus Gründen des Motorschutzes gerechtfertigt sei. Das Thermofenster im Softwareupdate sei im Rahmen des Genehmigungsverfahrens gegenüber dem KBA offen gelegt worden. Wegen der Einzelheiten wird ergänzend auf die Berufungsbegründung vom 17.07.2020 Bezug genommen.Die Beklagte beantragt im Berufungsverfahren,das am 21. April 2020 verkündete Urteil des Landgerichts Bamberg, 13 O 463/19 im Umfang der Beschwer der Beklagten abzuändern und die Klage vollumfänglich abzuweisen.Die Klägerin beantragt,die Berufung der Beklagten zurückzuweisen.Sie verteidigt das Ersturteil. Wegen der Einzelheiten wird auf den Inhalt der Berufungserwiderung vom 17.11.2020 Bezug genommen.Die Klägerin hat, nachdem ihr die Berufungsbegründung der Beklagten zur Berufungserwiderung unter Fristsetzung - zuletzt - bis 18.11.2020 zugestellt wurde, mit Schriftsatz ihrer Prozessbevollmächtigten vom 17.11.2020, eingegangen beim Oberlandesgericht am selben Tag, Anschlussberufung eingelegt.Mit der Anschlussberufung macht sie geltend, dass ihr ein Anspruch auf Freistellung von vorgerichtlichen Rechtsanwaltskosten in Höhe einer 2,0-fachen Gebühr aus einen Gegenstandswert von 28.800,00 € zusteht.Die Klägerin beantragt im Rahmen ihrer Anschlussberufung,Das Urteil des Landgerichts Bamberg vom 21.04.2020, 13 O 463/19, wird, soweit die Klage abgewiesen wurde, aufgehoben und wie folgt abgeändert.Die Beklagte wird verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.307,51 € freizustellen.Die Beklagte beantragt,die Berufung der Beklagten zurückzuweisen.Zur Begründung führt sie aus, dass vorgerichtliche Rechtsanwaltskosten schon nicht erforderlich oder zweckmäßig seien. Jedenfalls sei keine höhere Gebührt als eine 1,3-fache gerechtfertigt. Hinsichtlich des Gegenstandswerts sei der Abzug eines Nutzungsersatzes geboten.Wegen des weiteren Vortrags der Parteien nimmt der Senat Bezug auf die Schriftsätze der Parteivertreter nebst Anlagen.B.Die zulässige Berufung der Beklagten hat in vollem Umfang Erfolg (I). Der zulässigen Anschlussberufung der Klägerin bleibt der Erfolg versagt (II).I.Die Berufung der Beklagten hat Erfolg.1. Die Frage der Zulässigkeit der Feststellungsklage kann dahinstehen, weil der Klägerin auf der Grundlage des festgestellten Sachverhalts keine Schadensersatzansprüche zustehen, womit sich die Feststellungsklage als jedenfalls unbegründet erweist. In dieser Konstellation bedarf es keiner Entscheidung über die Zulässigkeit der Feststellungsklage und die Klage kann ohne Entscheidung über die Zulässigkeit der Feststellungsklage (als unbegründet) abgewiesen werden (vgl. BGH NJW 2006, 1124; BGHZ 130, 390 (399)).2. Der Klägerin stehen gegen die Beklagte keine allein in Betracht kommenden deliktischen Schadensersatzansprüche zu. Die in Fallkonstellationen wie der vorliegenden entscheidungserheblichen Rechtsfragen sind mittlerweile höchstrichterlich entschieden durch die Urteile des BGH vom 30.07.2020, Az. VI ZR 5/20 und 08.12.2020, Az. VI ZR 244/20. Danach gilt folgendes:a) Ein Anspruch der Klägerin gemäß § 826 BGB besteht nicht, da zum für die Bewertung maßgeblichen Zeitpunkt des Fahrzeugerwerbs das Verhalten der Beklagten nicht (mehr) als sittenwidrig zu beurteilen war.aa) Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann. Insbesondere bei mittelbaren Schädigungen kommt es darauf an, dass den Schädiger das Unwerturteil, sittenwidrig gehandelt zu haben, gerade auch in Bezug auf die Schäden desjenigen trifft, der Ansprüche aus § 826 BGB geltend macht (BGH, a.a.O., Urteil v. 07.05.2019, Az. VI ZR 512/17).Da für die Bewertung eines schädigenden Verhaltens als sittenwidrig in einer Gesamtschau (vgl. BGH, Urteil vom 25.05.2020, Az. VI ZR 252/19) dessen Gesamtcharakter zu ermitteln ist, ist ihr das gesamte Verhalten des Schädigers bis zum Eintritt des Schadens beim konkret Geschädigten zugrunde zu legen. Dies wird insbesondere dann bedeutsam, wenn die erste potenziell schadensursächliche Handlung und der Eintritt des Schadens zeitlich auseinanderfallen und der Schädiger sein Verhalten zwischenzeitlich nach außen erkennbar geändert hat. Zu kurz greift es daher, in solchen Fällen entweder nur auf den Zeitpunkt der "Tathandlung" bzw. der "Tat" oder nur auf den des Schadenseintritts abzustellen (BGH, Urteil vom 30.07.2020, Az. VI ZR 5/20, Tz. 30).Deshalb kann im Rahmen des § 826 BGB ein Verhalten, das sich gegenüber zunächst betroffenen (anderen) Geschädigten als sittenwidrig darstellte, aufgrund einer Verhaltensänderung des Schädigers vor Eintritt des Schadens bei dem konkret Geschädigten diesem gegenüber nicht mehr als sittenwidrig zu werten sein. Eine solche Verhaltensänderung kann somit bereits der Bewertung seines Gesamtverhaltens als sittenwidrig - gerade in Bezug auf den geltend gemachten, erst später eingetretenen Schaden und gerade im Verhältnis zu dem erst später Geschädigten - entgegenstehen und ist nicht erst im Rahmen der Kausalität abhängig von den Vorstellungen des jeweiligen Geschädigten zu berücksichtigen (BGH, a.a.O., Tz. 31).bb) Bei der demnach gebotenen Gesamtbetrachtung ist beim Erwerb des streitgegenständlichen Fahrzeugs im März 2016 das Verhalten der Beklagten im Zusammenhang mit der Verwendung der unzulässigen Abschalteinrichtung (Umschaltlogik) nicht als sittenwidrig zu beurteilen.Bereits die Adhoc-Mitteilung der Beklagten vom 22.09.2015 war objektiv geeignet, das Vertrauen potenzieller Käufer von Gebrauchtwagen mit X.-Dieselmotoren in eine vorschriftsgemäße Abgastechnik zu zerstören, diesbezügliche Arglosigkeit also zu beseitigen. Aufgrund der Verlautbarung und ihrer als sicher vorherzusehenden medialen Verbreitung war typischerweise nicht mehr damit zu rechnen, dass Käufer von gebrauchten X.-Fahrzeugen mit Dieselmotoren die Erfüllung der hier maßgeblichen Vorgaben noch als selbstverständlich voraussetzen würden. Für die Ausnutzung einer diesbezüglichen Arglosigkeit war damit kein Raum mehr; hierauf konnte das geänderte Verhalten der Beklagten nicht mehr gerichtet sein. Durch diese Verhaltensänderung der Beklagten wurden wesentliche Elemente, die das Unwerturteil ihres bisherigen Verhaltens gegenüber bisherigen Käufern begründeten, derart relativiert, dass der Vorwurf der Sittenwidrigkeit bezogen auf ihr Gesamtverhalten gerade gegenüber der Klägerin und gerade im Hinblick auf den Schaden, der bei ihr durch den Abschluss eines ungewollten Kaufvertrags im März 2016 entstanden sein könnte, nicht mehr gerechtfertigt ist (BGH a.a.O., Tz. 37 f.).Käufern, die sich, wie die Klägerin, erst für einen Kauf entschieden haben, nachdem die Beklagte ihr Verhalten geändert hatte, wurde deshalb - unabhängig von ihren Kenntnissen vom "Dieselskandal" im Allgemeinen und ihren Vorstellungen von der Betroffenheit ihres Fahrzeugs im Besonderen - nicht sittenwidrig ein Schaden zugefügt.Der Senat sieht sich auch unter Berücksichtigung des Berufungsvorbringens nicht veranlasst, hiervon abzuweichen.cc) Der Vortrag der Klägerin, es liege eine weitere Manipulation betreffend das On-BoardDiagnosesystem durch den Einbau einer gezielten Fehlfunktion vor, kann auch bei Annahme des Vorliegens einer solchen Manipulation einen Schadensersatzanspruch gemäß §§ 826, 31 BGB nicht begründen. Die Klägerin trägt insoweit bereits nicht vor, dass die Beklagte hierdurch bezweckt habe, bei der Ermittlung der Abgaswerte auf dem Prüfstand - zum Erhalt der öffentlichrechtlichen Genehmigung zur Zulassung im Straßenverkehr waren Grenzwerte einzuhalten - diese Messwerte zu manipulieren, um so die Genehmigung der Prüfbehörde zu erschleichen.Der Vortrag der Klägerin, das On-Board-Diagnosesystem habe im Rahmen von Inspektionen gezielt falsche Meldungen über die Ordnungsgemäßheit des Abgassystems erzeugt, kann nach Ansicht des Senats allenfalls als "Verschleierungshandlung" aufgefasst werden, durch welche die Entdeckung der eigentlichen unzulässigen Abschalteinrichtung (Umschaltlogik) erschwert werden sollte. Eine solche "Verschleierungshandlung" kann jedoch keine eigenständige vorsätzliche sittenwidrige Schädigungshandlung darstellen, da durch sie lediglich der primär von der Beklagten verfolgte Zweck, nämlich den des Erschleichens der Typengenehmigung durch die Verwendung der eigentlichen unzulässigen Abschalteinrichtung (Umschaltlogik), "unterstützt" und kein eigenständiges weitergehendes Ziel verfolgt wird, welches diese Handlung für sich genommen als sittenwidrig qualifizieren könnte.Zudem bewirkte die durch die Adhoc-Mitteilung vom 22.09.2015 erfolgte Verhaltensänderung der Beklagten den Entfall der Sittenwidrigkeit ihres Handelns in Bezug auf die ursprüngliche unzulässige Abschalteinrichtung (siehe bb), was denknotwendig den Entfall des Vorwurfs der Sittenwidrigkeit hinsichtlich der behaupteten gezielten Fehlfunktion des On-BoardDiagnosesystems als "Verschleierungshandlung" nach sich zieht.b) Ein Anspruch der Klägerin aus § 823 Abs. 2 BGB i.V.m. § 263 StGB, 31 BGB scheitert am Fehlen der Bereicherungsabsicht und der in diesem Zusammenhang erforderlichen Stoffgleichheit des erstrebten rechtswidrigen Vermögensvorteils mit einem etwaigen Vermögensschaden.Der subjektive Tatbestand des § 263 Abs. 1 StGB setzt die Absicht voraus, sich oder einem Dritten einen rechtswidrigen Vermögensvorteil zu verschaffen. Dabei müssen der vom Täter erstrebte Vermögensvorteil und der verursachte Vermögensschaden einander "spiegelbildlich" entsprechen. Einen Vermögensschaden hat der Käufer dann erlitten, wenn das von ihm erworbene Fahrzeug im Hinblick auf die Verwendung einer unzulässigen Abschalteinrichtung und etwaige damit verbundene Risiken den vereinbarten und bezahlten Kaufpreis nicht wert war. Zwischen dieser etwaigen Vermögenseinbuße mit den denkbaren Vermögensvorteilen, die ein verfassungsmäßiger Vertreter der Beklagten (§ 31 BGB) für sich oder einen Dritten, etwa den Fahrzeughändler, erstrebt haben könnte, besteht jedoch keine Stoffgleichheit (BGH, a.a.O., Tz. 17 ff.).c) Der Klägerin steht auch kein Anspruch gemäß § 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV, Art. 5 VO 715/2007/EG oder Art. 12, 18 RL Nr. 2007/46/EG zu. Diese Verordnungen bzw. diese Richtlinie stellen keine Schutzgesetze im Sinne von § 823 Abs. 2 BGB dar, da das Interesse, nicht zur Eingehung einer ungewollten Verbindlichkeit veranlasst zu werden, nicht im Aufgabenbereich dieser Normen liegt. Es sind keine Anhaltspunkte dafür ersichtlich, dass der Gesetz- und Verordnungsgeber mit den genannten Vorschriften (auch) einen Schutz der allgemeinen Handlungsfreiheit und speziell des wirtschaftlichen Selbstbestimmungsrechts der einzelnen Käufer bezweckte und an die (auch fahrlässige) Erteilung einer inhaltlich unrichtigen Übereinstimmungsbescheinigung einen gegen den Hersteller gerichteten Anspruch auf (Rück-)Abwicklung eines mit einem Dritten geschlossenen Kaufvertrags oder sonstige Schadensersatzansprüche hätte knüpfen wollen (BGH, a.a.O., Tz. 10 ff.).d) Soweit die Klägerin geltend macht, dass durch das auf das Fahrzeug aufgespielte Softwareupdate technische Probleme und Folgeschäden eintreten könnten bzw. das Update (Thermofenster) selbst wieder eine unzulässige Abschalteinrichtung enthalte, und eine eigenständige Haftung der Beklagten aus § 826, § 31 BGB hierauf stützen will, kann dies - selbst wenn der Sachvortrag der Klägerin zutreffen sollte - unter Berücksichtigung und Wertung des sonstigen Verhaltens der Beklagten nach dem 22.09.2015 nicht als sittenwidrig beurteilt werden. Denn das Aufspielen des Updates in Absprache und mit Billigung des KBA, dem gegenüber das Thermofenster des Softwareupdates durch die Beklagte offengelegt wurde, stellt eine nach dem Kauf erfolgte Nachbesserungsmaßnahme dar, um die Gefahr einer Betriebsuntersagung zu bannen. Die Entwicklung des Updates und dessen Aufspielen stellen eigenständige, vom Inverkehrbringen des Motors EA 189 mit seiner ursprünglichen Abschalteinrichtung unabhängige Handlungen dar, die nicht geeignet sind, einen Anspruch wegen vorsätzlicher sittenwidriger Schädigung zu begründen.Selbst wenn das Update seinerseits gesetzlichen Bestimmungen nicht genügen sollte, liegt aufgrund des mit dem Kraftfahrtbundesamt abgestimmten Vorgehens und der Offenlegung des Thermofensters im Softwareupdate im Rahmen des Genehmigungsverfahrens allenfalls eine fahrlässige Handlung der Beklagten vor, die den Schluss auf ein sittenwidriges Verhalten nicht rechtfertigt (vgl. BGH, Beschluss vom 19. Januar 2021 - VI ZR 433/19, bislang lediglich veröffentlicht im Rahmen der Pressemitteilung des BGH Nr. 016/2021 vom 26.01.2021; OLG München, Urt. v. 20.01.2020 - 21 U 5072/19, Tz. 33, 34; OLG Frankfurt, Urt. v. 13.11.2019 - 13 U 274/18, Tz. 61).Es kommt hinzu, dass der für einen Anspruch aus § 826 BGB erforderliche kausale Schaden nach der Rechtsprechung des BGH in dem Abschluss des Kaufvertrags über das (mit der unzulässigen Abschalteinrichtung) bemakelte Fahrzeug liegt (BGH, Urt. v. 25.05.2020 a.a.O., Tz. 44 ff.). Sollte es sich daher bei dem erst nach dem Kauf auf das Fahrzeug des Klägers aufgespielten Softwareupdate wieder um eine unzulässige Abschalteinrichtung handeln, führt dies nicht zu einem - einen eigenständigen Anspruch aus § 826 BGB auslösenden - Schaden, sondern lediglich dazu, dass der ursprüngliche Schaden nicht beseitigt worden ist.Nur ergänzend ist darauf zu verweisen, dass der Entscheidung des BGH vom 30.07.2020 (Az. VI ZR 5/20) eine identische Sachverhaltskonstellation einschließlich des Aufspielens des Softwareupdates zugrunde lag, ohne dass deswegen eine Haftung des Fahrzeugherstellers in Betracht gezogen worden wäre.e) Nachdem die Feststellungsklage in der Hauptsache keinen Erfolg hat, besteht auch kein Anspruch auf Freistellung von vorgerichtlichen Rechtsverfolgungskosten, weshalb die Berufung der Beklagten in vollem Umfang erfolgreich ist.II.Die Anschlussberufung der Klägerin hat keinen Erfolg.Da ein Anspruch der Klägerin auf Freistellung von vorgerichtlichen Rechtsanwaltskosten bereits dem Grunde nach nicht besteht (siehe oben), kann die Anschlussberufung der Klägerin, mit welcher sie eine Erhöhung des durch das Landgericht zugesprochenen Freistellungsbetrages verfolgt, keinen Erfolg haben.III.Nach alledem ist das Urteil des Landgerichts Bamberg auf die Berufung der Beklagten hin aufzuheben und die Klage abzuweisen. Die Anschlussberufung der Klägerin ist zurückzuweisen.C.Die Kostenentscheidung beruht auf §§ 91, 97 ZPO.Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 708 Nr. 10 Satz 1, § 711 ZPO.Die Revision ist nicht zuzulassen, weil die Voraussetzungen des § 543 ZPO nicht vorliegen. Die entscheidungserheblichen Rechtsfragen sind - wie oben dargelegt worden ist - zwischenzeitlich durch den Bundesgerichtshof entschieden.
+			
+			
+			
+			Permalink: https://openjur.de/u/2361205.html (https://oj.is/2361205)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate10
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

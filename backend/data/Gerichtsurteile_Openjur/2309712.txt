@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungUrteil vom 05.05.2020 - 9 U 171/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Urteil vom 05.05.2020 - 9 U 171/19
+                      m. Fundstelle
+                      OLG Köln, Urteil vom 05.05.2020 - 9 U 171/19 = openJur 2020, 79024
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Urteil vom 05.05.2020 - 9 U 171/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 79024
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 8 O 575/18
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Auf die Berufung der Beklagten wird das am 24.07.2019 verkündete Urteil des Landgerichts Aachen - 8 O 575/18 - abgeändert und die Klage insgesamt abgewiesen.Die Kosten des Rechtsstreits erster und zweiter Instanz trägt der Kläger.Der Kläger darf die Vollstreckung durch die Beklagte durch Sicherheitsleistung in Höhe von 110 % des aufgrund des Urteils vollstreckbaren Betrages abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrages leistet.Die Revision wird nicht zugelassen.  
+				Gründe
+				I.Der Kläger nimmt die Beklagte im Zuge des Dieselskandals als Herstellerin des von ihm erworbenen PKW VW A auf Schadenersatz einschließlich einer Verzinsung des Kaufpreises sowie auf Feststellung des Annahmeverzuges und Erstattung vorgerichtlicher Rechtsanwaltskosten in Anspruch.Der Kläger erwarb am 04.05.2012 gemäß geänderter Auftragsbestätigung bei der Fa. B GmbH ein Neufahrzeug der Marke VW A 2,0 l mit einem Kilometerstand von 8 km zum Kaufpreis von 32.065,02 € brutto (K 1 Bl. 13 d.A.), welches am 25.07.2012 erstmals zugelassen wurde (K 2 Bl. 14 d.A.). Darin eingebaut war ein von der Beklagten hergestellter Dieselmotor des Typs EA 189, der über eine Software verfügte, die die Stickstoff-Emissionswerte im behördlichen Prüfverfahren optimiert. Das Motorsteuerungsgerät ermöglicht dabei zwei Betriebsmodi bei der Abgasrückführung, einen Stickstoffoptimierten Modus 1 mit einer relativ hohen Abgasrückführungsrate und einen Partikeloptimierten-Modus 0, bei dem die Abgasrückführungsrate geringer ist. Die Software des Motorsteuerungsgerätes verfügt über eine Fahrzykluserkennung, die erkennt, ob sich das Fahrzeug im üblichen Straßenverkehr oder auf einem technischen Prüfstand zur Ermittlung der Emissionswerte befindet. Während des Prüfstandtests spielt die eingebaute Software beim Stickstoff-Ausstoß das Motorprogramm Modus 1 ab, so dass hierdurch geringere Stickoxidwerte (im Folgenden: NOx) erzielt und die gesetzlich vorgegebenen und im technischen Datenblatt aufgenommenen Abgaswerte wie auch die nach der Euro-5-Abgasnorm vorgegebenen NOx-Grenzwerte eingehalten werden. Unter realen Fahrbedingungen im Straßenverkehr wird das Fahrzeug hingegen im Abgasrückführungs-Modus 0 betrieben.Nach Bekanntwerden des Einsatzes des in der Öffentlichkeit als Manipulationssoftware bezeichneten Motorsteuerungsprogrammes in verschiedenen Diesel-Fahrzeugen verschiedener Herstellerfirmen, u.a. der Beklagten, legte das Kraftfahrt-Bundesamt (KBA) den Herstellerkonzernen im Herbst 2015 auf, die entsprechende Software aus allen Fahrzeugen zu entfernen. Das KBA gab in der Folgezeit nach Prüfung des vorgelegten Maßnahmenplans zeitlich gestaffelt die auf den jeweiligen Fahrzeugtyp abgestimmten Software-Updates frei. Der Kläger wurde nach Genehmigung durch das KBA über das Bereitstehen der Software-Lösung informiert und ließ die technische Maßnahme am 29.09.2016 durchführen.Mit anwaltlichem Schreiben seines Prozessbevollmächtigten vom 28.12.2018 (Anl. K 3 Bl. 15 d.A.) meldete der Kläger die jetzt klageweise geltend gemachten Schadenersatzansprüche gegenüber der Beklagten an und forderte diese unter Fristsetzung bis zum 04.01.2019 erfolglos zur Erstattung des Kaufpreises, Zugum-Zug gegen Rückgabe und Rückübereignung des Fahrzeugs sowie zu dessen Abholung auf.Mit der der Beklagten am 30.01.2019 zugestellten Klageschrift vom 29.12.2018 hat der Kläger der Beklagten vorsorglich nochmal die Rückgabe des streitgegenständlichen Fahrzeugs an seinem Wohnort Zugum-Zug gegen Rückerstattung des Kaufpreises angeboten unter Angabe der zu diesem Zeitpunkt aktuellen Laufleistung von 75.000 km (Bl. 4 d.A.).In der mündlichen Verhandlung vor dem Landgericht am 12.06.2019 wies der klägerische PKW eine Laufleistung von 82.006 km auf.Das Landgericht hat durch das angefochtene Urteil vom 24.07.2019 - 8 O 575/18 -, auf das wegen der Sachverhaltsdarstellung im Übrigen und der Anträge Bezug genommen wird, die Beklagte unter Abweisung der Klage im Übrigen zur Zahlung von 23.300,80 € nebst Zinsen in Höhe von 4 Prozentpunkten über dem jeweils gültigen Basiszins, jedoch nicht mehr als 4 %, seit dem 05.01.2019 verurteilt, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs VW A, Fahrzeugidentifikationsnummer C, und hat ferner festgestellt, dass sich die Beklagte mit der Annahme dieses Fahrzeugs seit dem 05.01.2019 in Annahmeverzug befindet.Zur Begründung wird ausgeführt, dem Kläger stehe gegenüber der Beklagten ein Anspruch aus § 826 I i.V.m. § 31 BGB auf Rückzahlung des Kaufpreises abzüglich einer Nutzungsentschädigung zu, weil die Beklagte dem Kläger in einer gegen die guten Sitten verstoßenden Weise vorsätzlich einen Schaden zugefügt habe.Die Beklagte habe den Kläger mit der Inverkehrgabe eines Fahrzeugs, welches über einen Motor mit eingebauter Manipulationssoftware verfügte, darüber getäuscht, dass dieses Fahrzeugs entsprechend seinem objektiven Verwendungszweck im Straßenverkehr eingesetzt werden dürfe, d.h. über eine uneingeschränkte Betriebserlaubnis verfüge, deren Fortbestand nicht aufgrund schon bei Auslieferung des Fahrzeugs vom Hersteller bekannter konstruktiver Eigenschaften gefährdet gewesen sei, obwohl dies entgegen dem konkludenten Erklärungswert der Inverkehrgabe aufgrund der im Fahrzeug installierten Motorsteuerungssoftware gerade nicht der Fall gewesen sei.Durch diese Täuschung sei dem Kläger ein Schaden entstanden, der schon im Abschluss des Kaufvertrags über das streitgegenständliche Fahrzeug zu sehen sei.Die Täuschung sei auch kausal für den Kaufvertragsabschluss gewesen, weil der Kläger nach der Überzeugung der Kammer aufgrund des feststehenden Erwerbs des Fahrzeugs zu dessen Nutzung im Straßenverkehr die danach hinreichende Vorstellung gehabt und nicht geglaubt habe, ein Fahrzeug zu erwerben, dessen Typengenehmigung und Betriebszulassung durch eine den Genehmigungs- und Zulassungsbehörden verheimlichte Manipulation der zur Motorsteuerung eingesetzten Software in Frage gestellt gewesen sei. Im Übrigen entspreche es der Lebenserfahrung, dass ein Fahrzeugkäufer vom Kauf eines Fahrzeugs Abstand nehmen würde, wenn ihm bekannt wäre, dass dieses zwar formal über eine EG-Typengenehmigung verfüge, aber wegen Verwendung einer unzulässigen Abschalteinrichtung diese nicht mehr hätte erhalten dürfen, weshalb Maßnahmen bis hin zur Stilllegung gedroht hätten.Die Täuschungshandlung sei auch als sittenwidrig i.S.d. § 826 BGB zu qualifizieren. Als Beweggrund für das Inverkehrbringen des mit einer unzulässigen Abschalteinrichtung versehenen Fahrzeugs komme allein eine angestrebte Kostensenkung und Gewinnmaximierung durch hohe Absatzzahlen in Betracht, weil lebensfremd sei, dass die Beklagte das mit der Verwendung einer Abschaltsoftware verbundene erhebliche Risiko ohne wirtschaftlichen Vorteil eingegangen wäre. Im Hinblick auf das eingesetzte Mittel erscheine das Handeln auch verwerflich. Eine Korrektur dieses Ergebnisses komme auch nicht unter Schutzzweckgesichtspunkten in Betracht, weil dafür vorliegend kein Anlass bestehe.Bei der Beklagten hätten auch die subjektiven Voraussetzungen einer Haftung gemäß §§ 826, 31 BGB vorgelegen, weil sie mit Schädigungsvorsatz gehandelt habe und die die Sittenwidrigkeit begründenden Umstände gekannt hätte. Es sei davon auszugehen, dass die Installation der Abschalteinrichtung in der Motorsteuerungssoftware mit Wissen und Wollen eine oder mehrerer Mitglieder des Vorstands der Beklagten erfolgt und somit der Beklagten zuzurechnen sei. Vorliegend treffe die Beklagte hinsichtlich der unternehmensinternen Entscheidungsprozesse eine sekundäre Darlegungslast. Aufgrund der unstreitigen äußeren Umstände bestehe eine tatsächliche Vermutung für die Kenntnis des Vorstands. Folge der sekundären Darlegungslast sei, dass einerseits die Behauptung des Klägers ausreiche, dass dem Vorstand der Beklagten sämtliche oben erörterten Umstände, die die Sittenwidrigkeit begründeten, bekannt gewesen seien, während andererseits das Vorbringen der Beklagten zu den internen Geschehnissen im Zusammenhang mit der Beauftragung, der Bezahlung, dem Empfang, der Kontrolle und der Verwendung der Motorsteuerungssoftware nicht einmal ansatzweise ausreiche.Der Schaden des Klägers bestehe im Erwerb des mit der manipulativ wirkenden Software zur Motorsteuerung ausgerüsteten Fahrzeugs, weil dieses infolge der eingesetzten Software hinter seinen Vorstellungen von der allgemein ordnungsgemäßen Ausrüstung des zu erwerbenden PKW zurückbleibe und sich dies schon wegen der damit zunächst verbundenen Unsicherheiten für die Typengenehmigung und die Betriebszulassung nachteilig auf den Vermögenswert des PKW auswirke. Da der Schadenersatzanspruch des Klägers schon mit Erwerb des Fahrzeugs entstanden und auf Restitution durch Rückabwicklung des Kaufs gerichtet sei, könne in der erfolgten Ausstattung des Fahrzeugs mit dem vom KBA erzwungenen Software-Update keine Erfüllung des Schadenersatzanspruchs liegen. Die Ausführungen zum vorsätzlichen Handeln der Mitarbeiter der Beklagten und dessen Zurechnung bei der Beklagten gemäß § 31 BGB gelten sinngemäß auch für den Vorsatz hinsichtlich des Schadens.Auf der Rechtsfolgenseite habe die Beklagte dem Kläger den Kaufpreis gegen Herausgabe des PKW zu erstatten, wobei dieser sich nach den Grundsätzen der Vorteilsausgleichung die von ihm gezogenen, gemäß § 287 ZPO zu schätzenden Nutzungen nach der von der Rechtsprechung anerkannten Formel anrechnen lassen müsse. Ausgehend von einem Bruttokaufpreis von 32.065,- € und einer zu erwartenden Gesamtlaufleistung von 300.000 km bei dem hier mit einer Laufleistung von 8 km bei Übergabe als Neufahrzeug anzusehenden Fahrzeugs ergebe sich ein in Abzug zu bringender Gebrauchsvorteil von 8.764,22 €, so dass ein Restanspruch des Klägers von 23.300,80 € verbleibe.Nicht begründet sei ein Zinsanspruch aus § 849 BGB in Höhe von 8.247,84 € für den Zeitraum vom 25.07.2012 - 29.12.2018, weil der Schaden nicht im Verlust des Geldes oder einer vermögenswerten Minderung in Höhe des Kaufpreises bestehe und der Kläger einen faktisch nutzbaren Ersatz für sein Geld erhalten habe. Der weitergehende Zinsanspruch aus 23.300,80 € in erkannter Höhe seit dem 05.01.2019 sei aus Verzugsgesichtspunkten begründet.Auch der Antrag zu 2) auf Feststellung des Annahmeverzugs sei begründet, weil die Beklagte sich in Annahmeverzug befinde, nachdem sie das Angebot im Schreiben vom 28.12.2018 auf Rücknahme des Fahrzeugs nicht angenommen habe. Dem stehe die Zuvielforderung des Klägers in diesem Schreiben nicht entgegen.Ein Anspruch des Klägers auf Erstattung vorgerichtlicher Anwaltskosten bestehe nicht, da er trotz Bestreitens der Beklagten innerhalb der ihm gewährten Schriftsatznachlassfrist keinen Beweis für das Vorliegen einer entsprechenden Ermächtigung des Rechtsschutzversicherers angetreten habe.Hiergegen richtet sich die form- und fristgerecht eingelegte sowie begründete Berufung der Beklagten, mit der sie die vollumfängliche Klageabweisung begehrt.Die Beklagte wendet ein, das Landgericht sei rechtsfehlerhaft von einem ihr zurechenbaren Schädigungsvorsatz als auch von einem kausalen Schaden des Klägers ausgegangen.Dem Kläger sei kein ersatzfähiger Schaden entstanden, weil der Kaufvertragsabschluss weder wirtschaftlich noch subjektiv konkret nachteilig sei. Das streitgegenständliche Fahrzeug habe durch Bekanntwerden der Software keinen Wertverlust erlitten, ein Schaden sei durch das Update, das keine negativen Auswirkungen auf die Lebensdauer von dadurch berührten Bauteilen habe, ausgeschlossen bzw. entfallen und das Fahrzeug sei bis heute für die Zwecke des Klägers uneingeschränkt brauchbar. Allein die nachträgliche Ungewolltheit einer Verbindlichkeit könne keinen Schaden begründen. Selbst bei Unterstellung der Mangelhaftigkeit des in Erfüllung des Kaufvertrags übergebenen und übereigneten Fahrzeugs infolge der streitgegenständlichen Software hätte der Kläger einen werthaltigen Nachbesserungsanspruch gegen seinen Verkäufer erhalten, der in den nach § 249 I BGB anzustellenden Gesamtvermögensvergleich mit und ohne das schädigende Ereignis einzustellen wäre. Das streitgegenständliche Fahrzeug sei nach wie vor jederzeit uneingeschränkt zulassungsfähig. Die Schadstoffklasseneingruppierung und die Fahrzeugzulassung auf Basis der Typengenehmigung seien damals wie heute ohne Einschränkung gegeben. Es liege auch eine gültige und richtige EG-Übereinstimmungsbescheinigung vor, so dass ein kausaler Einfluss auf die Kaufentscheidung des Klägers ausgeschlossen sei. Ein rechnerisches Minus lasse sich auch nicht durch ein vermeintliches Stilllegungsrisiko für das streitgegenständliche Fahrzeug begründen, weil ein solches aufgrund des durchgeführten Updates nicht mehr bestehe, aber auch davor zu keiner Zeit bestanden habe. Ein nachteiliger Vertrag ergebe sich auch nicht aus vermeintlich technischen Nachteilen im Zusammenhang mit der Durchführung des Updates, weil die EA 189-Fahrzeuge erfolgreich überarbeitet werden könnten und das Update keine Nachteile für relevante Parameter nach sich ziehe. Es liege auch kein Schaden ohne rechnerisches Minus i.S. einer subjektiven Zweckverfehlung vor, weil das Fahrzeug jederzeit voll brauchbar und der vermeintlich eingetretene Schaden nicht vom Schutzzweck der Norm erfasst sei.Das Landgericht habe im Rahmen der linearen Berechnung der Nutzungsentschädigung anhand der gefahrenen Kilometer die Besonderheiten des deliktischen Schadensrechts missachtet. Fernliegend sei, dass der Kläger in Kenntnis der Umstände betreffend das streitgegenständliche Fahrzeug vom Erwerb eines Fahrzeugs gänzlich abgesehen hätte. Vielmehr sei anzunehmen, dass er in jedem Fall ein Fahrzeug erworben hätte und sein Vermögen mit dem Wertverlust des Alternativverlustes belastet gewesen wäre, wobei dieser sich gewiss nicht linear entwickelt hätte, weil der Wertverlust eines Fahrzeugs in den ersten 10.000 km deutlich höher sei als der Wertverlust bei einer Laufleistung von 100.000 km bis zu 110.000 km.Bei der Unterstellung eines Kausalzusammenhangs zwischen der dem Kläger bei Kaufvertragsabschluss unbekannten Umschaltlogik und seiner Kaufentscheidung verkenne das Landgericht, dass der Kläger dafür aufgrund ihres Bestreitens vollumfänglich darlegungs- und beweisbelastet sei, weder die Grundsätze des Anscheinsbeweises noch Vermutungsregelungen anwendbar seien und der Kläger dafür beweisfällig geblieben sei. Über die klägerische Behauptung zu einem Kausalzusammenhang müsse im Wege der Parteivernehmung Beweis erhoben werden. Der Nachweis scheitere bereits an der Darlegung einer kausalen Täuschung des Klägers durch sie, weil sie am Kaufvertragsschluss nicht unmittelbar beteiligt gewesen sei. Eine aktive Täuschung durch die Programmierung scheide aus, weil darin weder ein kommunikativer Akt gegenüber dem Kläger noch eine gegen den Kläger gerichtete Handlung liege. Das Inverkehrbringen sei keine konkludente Täuschung, weil darin nicht die konkludente Erklärung liege, dass das Fahrzeug den gesetzlichen Bestimmungen in jeglicher Hinsicht entspreche. Ebenso wenig habe sie mangels Aufklärungspflicht ihrerseits gegenüber dem Kläger dessen Kaufentscheidung durch unterlassene Aufklärung beeinflusst. Gegen die Kausalität spreche im Übrigen das nachvertragliche Verhalten des Klägers, nämlich die beschwerdefreie, uneingeschränkte Nutzung des Fahrzeugs nach Kaufvertragsabschluss über Jahre hinweg bis heute.Schließlich scheide in der vorliegenden Konstellation die Annahme des erforderlichen konkreten Schädigungsvorsatzes aus. Sie verfüge derzeit über keine Erkenntnisse darüber, dass einzelne Vorstandsmitglieder i.S.d. Aktienrechts - einschließlich der auf Seite 46 der Berufungsbegründung namentlich benannten Herren - an der Entwicklung der Umschaltlogik beteiligt gewesen seien oder die Entwicklung oder Verwendung der Umschaltlogik des Dieselmotors EA189 EU4, EU5 bzw. EU6 seinerzeit in Auftrag gegeben oder gebilligt hätten. Die Beklagte bestreitet eine Kenntnis ihres damaligen Vorstandsvorsitzenden oder anderer Vorstandsmitglieder i.S.d. Aktienrechts von der Entwicklung der Umschaltlogik. Auf die Kenntnis der weiteren, auf Seite 46 4. Absatz namentlich benannten Personen, die zu keiner Zeit Vorstand i.S.d. Aktienrechts der VW AG gewesen seien, komme es nicht an.Die getroffenen Nebenentscheidungen seien materiellrechtlich fehlerhaft, zum einen weil dem Kläger kein Schadensersatzanspruch zustehe. Der Kläger habe überdies das Fahrzeug nicht in einer den Annahmeverzug begründenden Weise angeboten.In der mündlichen Verhandlung vom 03.03.2020 hat der Prozessbevollmächtigte der Beklagten - insoweit unbestritten - unter Vorlage eines entsprechenden Dokuments auf einem Notebook ergänzend vorgetragen, dass der Kläger etwaige bestehende und künftige Ansprüche aus unerlaubter Handlung gegen die Beklagte im Zusammenhang mit dem Abgasskandal an die Fa. D GmbH mit Sitz in E zum Zweck des Forderungseinzugs abgetreten und eine entsprechende schriftliche Erklärung unterschrieben habe. Außerdem hat die Beklagte mit nachgelassenem Schriftsatz vom 24.03.2020 als Anlage die "Allgemeinen Geschäftsbedingungen der D GmbH (F) im Abgasskandal" vorgelegt (Bl. 452 ff. d.A.).Die Beklagte beantragt,das am 24.07.2019 verkündete Urteil des Landgerichts Aachen, 8 O 575/18, im Umfang ihrer Beschwer abzuändern und die Klage vollumfänglich abzuweisen.Der Kläger beantragt,die Berufung zurückzuweisen.Der Kläger ist der Berufung der Beklagten unter Verteidigung des angefochtenen Urteils und Wiederholung seines erstinstanzlichen Vorbringens entgegengetreten. Wegen der Einzelheiten wird auf die Berufungserwiderung vom 09.12.2019 (Bl. 426 ff. d.A.) verwiesen.Mit nachgelassenem Schriftsatz vom 14.04.2020 hat der Kläger vorgetragen, die Fa. D habe mit vorgelegtem Schriftsatz vom 10.03.2020 die von ihr vor dem Landgericht Braunschweig im Rahmen des Musterverfahrens erhobene Klage, mit der sie seine - des Klägers - abgetretenen Schadensersatzansprüche gegen die hiesige Beklagte geltend gemacht hatte, zurückgenommen.II.Die zulässige Berufung der Beklagten ist auch begründet.Gegenstand der Berufung der Beklagten sind die im angefochtenen Urteil zuerkannten Klageanträge zu 1) und zu 2).Die Klage ist insgesamt unbegründet. Dem Kläger fehlt die erforderliche Aktivlegitimation für die Geltendmachung seines Schadensersatzanspruchs gegen die Beklagte aus §§ 826 Abs. 1, 30 BGB im Zusammenhang mit dem Dieselabgasskandal wegen des Erwerbs des streitgegenständlichen PKW Marke VW A 2,0 l mit eingebautem Dieselmotor der Baureihe EA 189 EU5, der beklagtenseits mit einer unzulässigen Software zur Steuerung der Abgasrückführung ausgestattet worden war.Nach dem unbestrittenen Vortrag der Beklagten in der mündlichen Verhandlung vom 03.03.2020 (Bl. 440 d.A.) hat der Kläger seine bestehenden und künftigen Ansprüche aus unerlaubter Handlung gegen die hiesige Beklagte im Zusammenhang mit dem Abgasskandal an die D GmbH mit Sitz in E zum Zwecke des Forderungseinzugs abgetreten. Das entsprechende Dokument über diese Abtretungsvereinbarung, welches nach der Bestätigung des Klägers auch seine Unterschrift aufwies, hat der Prozessbevollmächtigte der Beklagten dem Senat und der Klägerseite durch Vorlage seines Notebooks zur Kenntnis gegeben. Der Kläger persönlich hat hierzu lediglich noch erklärt, dass er an dieses Dokument kaum eine Erinnerung habe, weil es schon so lange her sei. Auch im nachgelassenen Schriftsatz vom 14.04.2020 hat der Kläger diese Abtretung seiner streitgegenständlichen Schadenersatzansprüche an die D GmbH nicht bestritten.Aufgrund dieser Abtretungsvereinbarung ist der Kläger nicht mehr Inhaber der streitgegenständlichen Schadenersatzforderung gegen die Beklagte und infolge dessen auch nicht berechtigt, diese im eigenen Namen im Klagewege im vorliegenden Rechtsstreit geltend zu machen. Alleinige Forderungsinhaberin und damit klageberechtigt ist insoweit aufgrund der besagten Abtretungsvereinbarung ausschließlich die D GmbH.Nach der Regelung in Ziff. 2.2 der "Allgemeinen Geschäftsbedingungen der D GmbH im Abgasskandal" hat die D GmbH die Durchsetzung der Entschädigungsansprüche des Klägers im Rahmen einer fiduziarischen Inkassozession für diesen übernommen (Bl. 453 d.A.).Eine solche Inkassozession bewirkt, dass der Zessionar - hier die D GmbH - im Außenverhältnis die volle Gläubigerstellung und gegenüber dem Schuldner alle Gläubigerrechte erlangt (Palandt/Grüneberg, BGB 79. Aufl. 2020, § 398 Rn. 24, 29). Der Zessionar kann die Forderung gerichtlich und außergerichtlich geltend machen (Palandt/Grüneberg a.a.O. § 398 Rn. 24). Das fiduziarische Merkmal der Inkassozession besteht darin, dass hinsichtlich der Rechtszuordnung der Forderung, also im Verhältnis zum Schuldner wie zu Dritten, ein Gläubigerwechsel stattfindet, während der Abtretungszweck eigentlich nur eine engere Wirkung verlangt, nämlich die Befugnis zur Einziehung (MK/Roth/Kieninger, BGB, 8. Aufl. 2019, § 398 Rn. 42). Bei der Inkassozession hat die treuhänderische Verpflichtung des Zessionars hauptsächlich und typischerweise zum Inhalt, dass er die Forderung für Rechnung und im Interesse des Zedenten einziehen, sich der Weiterabtretung und sonstiger Beeinträchtigungen enthalten, die Forderung auf Verlangen des Zedenten rückübertragen und eventuellen Weisungen Folge leisten muss etc. Dieses Letztere ist zumeist ein Auftrag oder eine Geschäftsbesorgung. In das Außenverhältnis schlägt diese Treuhandbindung jedoch grundsätzlich nicht durch (MK/ Roth/Kieninger a.a.O. § 398 Rn. 44).Danach ist die D GmbH aufgrund der mit dem Kläger geschlossenen Abtretungsvereinbarung nach wie vor Inhaberin der streitgegenständlichen Schadenersatzforderung des Klägers gegen die Beklagte aus § 826 BGB im Zusammenhang mit seinem vom Dieselabgasskandal betroffenen PKW Marke VW A. Dass er mit der D GmbH eine Rückabtretungsvereinbarung geschlossen hat, behauptet der Kläger nicht und ist auch sonst nicht ersichtlich.Ebenso wenig ist der streitgegenständliche Schadenersatzanspruch dadurch automatisch an den Kläger zurückgefallen, dass die D GmbH mit Schriftsatz vom 10.03.2020 ihre Klage, mit der sie mit dem Antrag zu 11506 die abgetretenen Schadenersatzansprüche des Klägers gegen die Beklagte beim Landgericht Braunschweig im Rahmen des dort anhängigen Musterverfahrens zunächst geltend gemacht hatte, gemäß § 269 I ZPO zurückgenommen hat (K1 a Bl. 463 d.A.). Diese Klagerücknahme und der damit entfallene ursprüngliche Abtretungszweck hatte auf den Fortbestand der zwischen ihr und dem Kläger abgeschlossenen Abtretungsvereinbarung keinen Einfluss, sondern berechtigte den Kläger nur zur Beendigung des der Abtretungsvereinbarung zugrunde liegenden Auftragsverhältnisses mit der D GmbH und begründete dieser gegenüber einen Rückabtretungsanspruch.Die Kostenscheidung beruht auf § 91 Abs. 1 ZPO.Der Ausspruch über die vorläufige Vollstreckbarkeit folgt aus §§ 708 Nr. 10, 711 ZPO.Es besteht kein Anlass, die Revision zuzulassen. Die Voraussetzungen des § 543 Abs. 2 ZPO liegen nicht vor. Es handelt sich um eine Einzelfallentscheidung ohne grundsätzliche Bedeutung.Streitwert für das Berufungsverfahren: 23.300,80 €
+			
+			
+			
+			Permalink: https://openjur.de/u/2309712.html (https://oj.is/2309712)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 19.04.2021 - 13 O 215/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 19.04.2021 - 13 O 215/20
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 19.04.2021 - 13 O 215/20 = openJur 2022, 1823
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 19.04.2021 - 13 O 215/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 1823
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger begehrt von der Beklagten Schadensersatz wegen des Erwerbs eines AA B, #.#0 XXX, Fahrzeug-Ident-Nr.: ...#.Der Kläger erwarb den streitgegenständlichen Gebrauchtwagen am 20.01.2015 von dem Autohaus I GmbH & Co. KG in C C zu einem Kaufpreis von 18.500,00 EUR brutto (vgl. Anl. K1, Bl. 63 d.A.). Zum Zeitpunkt des Erwerbs betrug der Kilometerstand 80.767 km.In dem Fahrzeug ist der von der Beklagten hergestellte Motor mit dem Kennbuchstaben DF ...# verbaut. Das Fahrzeug wurde als der Schadstoffklasse Euro 5 zugehörig verkauft. In den Motoren DF ...# setzt die Beklagte eine Software ein, die zwei unterschiedliche Betriebsmodi zur Steuerung der Abgasrückführung kannte. Im Modus 1 kam es zu einer höheren Abgasrückführung und somit zu einem geringeren Ausstoß von Stickoxiden als in Modus 0. Der Modus 1 war allerdings nur beim Durchfahren des Neuen Europäischen Fahrzyklus (NEFZ) aktiv. Im normalen Straßenverkehr wurde der im streitgegenständlichen Fahrzeug verbaute Motor nur im Betriebsmodus 0 betrieben. Ab September 2015 wurde die Verwendung dieser Software mit zwei Betriebsmodi zur Fahrzeugsteuerung erstmals bekannt. Später ordnete das Kraftfahrtbundesamt den Rückruf derjenigen Fahrzeuge an, die mit der oben genannten Software ausgerüstet worden waren. Es gab der Beklagten auf, Maßnahmen zu entwickeln und nach Freigabe zu ergreifen, um die betroffenen Fahrzeuge in einen ordnungsgemäßen Zustand zu versetzen. Im Rahmen der nach der Entwicklung der notwendigen Software und ihrer Freigabe durch das Kraftfahrtbundesamt schließlich folgenden Rückrufaktion bot die Beklagte den Kunden an, ihre Fahrzeug bzw. die hier installierte Software zur Motorsteuerung kostenfrei einem Software-Update zu unterziehen, das nach Aufspielen auf die betroffenen Fahrzeuge dazu führen solle, dass auch im normalen Betrieb die öffentlichrechtlichen Grenzwerte eingehalten würden. Nach der Installation des Updates würde der Motor des das Fahrzeugs durchgängig in einem angepassten Modus 1 betrieben. Im Februar 2016 schrieb die Beklagte alle betroffenen Halter der von ihr hergestellten Fahrzeuge mit dem Motortyp DF ...# an und informierte diese über das Update und den mit dem Kraftfahrtbundesamt abgestimmten Zeit- und Maßnahmenplan.Mit anwaltlichem Schreiben vom 27.07.2020 (Anl. K19 Bl. 121 d.A.) forderte die Klägerseite die Beklagte zur Anerkennung aller Schäden, die für den Kläger aus dem Autokauf resultieren, auf.Der Kläger trägt vor, es sei davon auszugehen, dass ein verfassungsmäßiger Vertreter der Beklagten den objektiven und subjektiven Tatbestand des § 826 BGB verwirklicht habe, was sich die Beklagte nach § 31 BGB zurechnen lassen müsse. Die durch das Inverkehrbringen entstandene Schädigung sei auch vorsätzlich gewesen, da ihr klar sein mussten, dass die Kunden wegen der Nichteinhaltung der Abgasvorschriften wirtschaftlich nachteilige Kaufverträge abschlossen. Er behauptet, er hätte das Fahrzeug nicht gekauft, wenn er gewusst hätte, dass die NOx-Grenzwerte nur durch eine Manipulation eingehalten werden, was zudem typengenehmigungswidrig sei. Sittenwidrigkeit sei zu bejahen, da die Beklagte in Kenntnis der Nichteinhaltung der Vorschriften ihrem Gewinnstreben Vorzug gegeben habe. Der Kläger ist der Ansicht, das Software-Update habe zudem den Schaden nicht beseitigt, vielmehr sei durch das Software-Update eine neue unzulässige Abschalteinrichtung ein sogenanntes "Thermofenster" installiert worden. Hier habe die Beklagte erneut eine sittenwidrige Schädigung begangen, da sie vorgegeben habe mit dem Software-Update eine ausreichende Behebung des Sachmangels bzw. Schadens herbeigeführt zu haben.Der Kläger ist der Ansicht, ihm stünde auch im Fall der einer Verjährung seines Anspruches nach § 826 BGB ein Restschadensersatzanspruch aus § 852 BGB zu.Der Kläger beantragt,1. Die Beklagte wird verurteilt, Zug um Zug gegen Herausgabe und Übereignung des Fahrzeugs Hersteller: A Fahrzeug-Identifizierungs-Nummer (FIN): ...# an die Klagepartei einen Betrag in Höhe von 18.500,00 € nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit unter Anrechnung einer Nutzungsentschädigung für die Nutzung des Fahrzeugs zu erstatten, die sich aus folgender Formel ergibt: 75 % x 18.500,00 € x (Kilometerstand im Zeitpunkt der mündlichen Verhandlung ‐ Kilometerstand bei Kauf) / (in das Ermessen des Gerichts gestellte Gesamtlaufleistung ‐ Kilometerstand bei Kauf).2. Es wird festgestellt, dass sich die Beklagte mit der Annahme der in dem Klageantrag zu 1) genannten Zugum-Zug-Leistung im Annahmeverzug befindet.3. Die Beklagte wird verurteilt, die Kosten des außergerichtlichen Vorgehens in Höhe von 1.637,92 € nebst Zinsen in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte tritt dem klägerischen Vortrag entgegen. Sie ist der Ansicht, bei dem von ihr vertriebenen Motor und der verwendeten Software läge keine unzulässige Abschalteinrichtung vor. Spätestens mit dem Aufspielen des Softwareupdates wäre das Fahrzeug völlig mangelfrei. Insgesamt sei der Beklagten kein deliktisches Verhalten vorzuwerfen. Sie erhebt zudem die Einrede der Verjährung.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die gewechselten Schriftsätze nebst vorgelegten Anlagen sowie das Protokoll des Termins zur mündlichen Verhandlung verwiesen. 
+				Gründe
+				Die insgesamt zulässige Klage hat in der Sache keinen Erfolg.I.Dem Kläger stehen ein Anspruch auf Schadensersatz gemäß §§ 826, 249 BGB jedenfalls nicht mehr zu, da die Beklagte erfolgreich die Einrede der Verjährung (§ 214 Abs. 1 BGB) geltend machen kann. Auch ein Anspruch aus § 852 BGB kommt nicht in Betracht.1.Dem Kläger steht aufgrund des Einsatzes der Software in dem Motor DF ...# grundsätzlich ein Anspruch gegen die Beklagte auf Schadensersatz gemäß § 826 BGB wegen sittenwidriger Schädigung zu (vgl. BGH, Urt. v. 25.05.20- VI ZR 252/19 -, BGHZ 225, 316 ff.), da er das Fahrzeug am 20.01.2015 und somit noch vor dem Bekanntwerden des Abgasskandals erworben hat.Der Anspruch ist jedoch nicht mehr durchsetzbar, da die Beklagte mit Erfolg die Einrede der Verjährung erhoben hat.Gemäß § 199 Abs. 1 BGB beginnt für den von Klägerseite geltend gemachten deliktischen Anspruch nach § 826 BGB die regelmäßige Verjährungsfrist von drei Jahren (§ 195 BGB) mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger von den den Anspruch begründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste.Kenntnis verlangt nicht, dass der Gläubiger alle Einzelheiten der dem Anspruch zugrunde liegenden Umstände überblickt. Ausreichend ist, dass der Gläubiger den Hergang in seinen Grundzügen kennt und weiß, dass der Sachverhalt erhebliche Anhaltspunkte für die Entstehung eines Anspruchs bietet. Aus den Umständen muss für den Gläubiger ferner ersichtlich sein, dass gerade er als Anspruchsinhaber in Betracht kommt. Maßgeblich ist, ob der Gläubiger auf Grund der ihm bekannten Tatsachen gegen eine bestimmte Person Klage erheben kann - sei es auch nur in Form einer Feststellungsklage -, die bei verständiger Würdigung der ihm bekannten Tatsachen so viel Aussicht auf Erfolg bietet, dass sie für ihn zumutbar ist (vgl. hierzu BGH, Urt. v. 17.12.2020 - VI ZR 739/20, ZIP 2021, 197; OLG Stuttgart, Urt. v. 14.04.2020 - 10 U 466/19, BeckRS 2020, 5745; OLG Köln, Beschl. v. 04.03.2020 - 26 U 73/19, BeckRS 2020, 4947). Grob fahrlässige Unkenntnis liegt vor, wenn die oben genannten Umstände dem Gläubiger nur deshalb nicht bekannt sind, weil er die im Verkehr erforderliche Sorgfalt in ungewöhnlich großem Maße verletzt und auch ganz nahe liegende Überlegungen nicht angestellt hat oder das nicht beachtet hat, was im gegebenen Fall jedem hätte einleuchten müssen, wie etwa dann, wenn sich dem Gläubiger die den Anspruch begründenden Umstände förmlich aufgedrängt haben und er leicht zugängliche Informationsquellen nicht genutzt hat; In diesem Fall liegt grob fahrlässige Unkenntnis aber erst zu dem Zeitpunkt vor, zu dem die Nachforschungen des Gläubigers zum Erfolg geführt hätten (vgl. Grothe in: MüKo-BGB, 8. Aufl. 2018, § 199 Rn. 31).Spätestens seit dem Erhalt des Schreibens der Beklagten im Februar 2016, in dem die Beklagte alle Fahrzeughalter informiert hat, hatte der Kläger Kenntnis von der Betroffenheit seines Fahrzeuges von dem sogenannten Abgasskandal. Demensprechend begann die Verjährung mit Ablauf des Jahres 2016 zu laufen und endete am 31.12.2019. Die Klage hat der Kläger erst am 10.12.2020 und somit nach Ablauf der Verjährungsfrist eingereicht.Verjährungshemmende Maßnahmen hatte der Kläger zuvor nicht ergriffen. Eine Beteiligung an der Musterfeststellungsklage ist nicht erfolgt.2.Durch das Aufspielen des Updates, welches nach Vortrag der Klägerseite die Funktion eines sogenannten "Thermofensters" beinhaltet, hat die Beklagte keine erneute unerlaubte Handlung im Sinne des § 826 BGB begangen bzw. dadurch ihr sittenwidriges Verhalten fortgesetzt.Dazu hat sich der Bundesgerichtshof sich mit Beschluss vom 09.03.2021 (vgl. BGH, Beschluss vom 09.03.21 - VI ZR 889/20 -, juris) geäußert und klargestellt, dass die Verwendung eines Thermofensters in der Gesamtbetrachtung nicht den Vorwurf einer besonderen Verwerflichkeit im Sinne des § 826 BGB rechtfertige.Es genügt für einen Anspruch nach § 826 BGB nicht, dass das Softwareupdate wohl als unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007 zu qualifizieren ist (vgl. zu Art. 5 der Verordnung (EG) Nr. 715/2007 auch EuGH, Urteil vom 17. Dezember 2020 - C-693/18, Celex-Nr. 62018CJ0693; OGH Österreich, Vorabentscheidungsersuchen vom 17. März 2020 - 10 Ob 44/19x, RZ 2020, 212 EÜ235 - beim EuGH geführt unter C-145/20). Es fehlt in Bezug auf einen Anspruch nach § 826 BGB an der vorsätzlichen sittenwidrigen Schädigung.Denn die Applikation einer temperaturabhängigen Steuerung des Emissionskontrollsystems ist nicht mit der Verwendung der ursprünglichen Prüfstandserkennungssoftware zu vergleichen. Die zunächst in den Motoren DF ...# installierte Software zielte unmittelbar auf die arglistige Täuschung der Typgenehmigungsbehörde ab und stand daher einer unmittelbaren arglistigen Täuschung der Fahrzeugerwerber gleich. Der Einsatz einer temperaturabhängigen Steuerung des Emissionskontrollsystems ist hingegen nicht von vornherein durch Arglist geprägt (BGH, Beschl. v. 19.01.21 - VI ZR 433/19 -, juris.). Denn diese Steuerung führt nicht dazu, dass bei erkanntem Prüfstandsbetrieb eine verstärkte Abgasrückführung aktiviert und der Stickoxidausstoß gegenüber dem normalen Fahrbetrieb reduziert wird.Die Steuerung über ein Thermofenster arbeitet hingegen bei jeder Fahrsituationen im Grundsatz in gleicher Weise.3.Ein Anspruch nach § 852 BGB auf Restschadensersatz scheidet schon aus, da der Kläger nichts dazu vorgetragen hat, was die Beklagte erlangt haben soll. Voraussetzung für eine Prüfung des § 852 BGB ist jedenfalls Vortrag des Klägers dazu, dass und in welcher Höhe die Beklagte etwas aus dem Fahrzeugverkauf erlangt hat (vgl. BGH, BGH, Urt. v. 17.12.2020 - VI ZR 739/20 -, juris Rn. 29).Das dies dem Kläger nicht möglich ist, entspricht im Übrigen der Ansicht des Oberlandesgericht Stuttgart (OLG Stuttgart, Urteil vom 02. Februar 2021 - 10 U 229/20 -, juris). Danach kann einem Käufer eines Gebrauchtwagen nach Verjährung des Anspruchs aus § 826 BGB kein Anspruch aus § 852 S. 1 BGB zustehen. Einem Anspruch nach § 852 BGB steht entgegen, dass die Beklagte aufgrund des von ihr durch Inverkehrbringen des Fahrzeugs begangenen unerlaubten Handlung nichts auf Kosten des Klägers erlangt.Der wirtschaftliche Vorteil der Beklagten ist durch den Verkauf des Fahrzeuges bereits durch die Erstveräußerung des Fahrzeuges vollumfänglich eingetreten und damit keine Folge des Erwerbs durch den Kläger und des bei ihm entstandenen Schadens. Der Gebrauchtwagenverkauf fand außerhalb der Wertschöpfungskette der Beklagten statt; die Beklagte konnte aus der Veräußerung weder einen unmittelbaren noch einen mittelbaren Vermögensvorteil ziehen (LG Osnabrück, Urteil vom 03.07.2020 - 6 O 842/20; Martinek, JM 2021, 9, 14). Der Herausgabeanspruch des Klägers läuft daher ins Leere.Der unter Ziffer 2. Begehrte Feststellungsantrag ist zwar zulässig, jedoch unbegründet. Mangels Hauptanspruch befindet sich die Beklagte auch nicht im Annahmeverzug mit der begehrten Leistung.Da der Kläger in der Hauptsache unterliegt, kann er auch die Nebenforderungen nicht mit Erfolg geltend machen.Die prozessualen Nebenentscheidungen folgen aus §§ 91 Abs. 1, 709 S. 1 ZPO.Ein Schriftsatznachlass auf den Schriftsatz der Beklagten vom 09.04.2021 war nicht zu gewähren, da der Schriftsatz lediglich Rechtsausführungen und Zitate enthielt. Aus dem gleichen Grund bot der nicht nachgelassene Schriftsatz der Klägerseite vom 23.04.2021 keinen Anlass die mündliche Verhandlung wieder zu eröffnen.Streitwert: 16.449,53 EURRechtsbehelfsbelehrung:Gegen die Streitwertfestsetzung ist die Beschwerde an das Landgericht Bonn statthaft, wenn der Wert des Beschwerdegegenstandes 200,00 EUR übersteigt oder das Landgericht die Beschwerde zugelassen hat. Die Beschwerde ist spätestens innerhalb von sechs Monaten, nachdem die Entscheidung in der Hauptsache Rechtskraft erlangt oder das Verfahren sich anderweitig erledigt hat, bei dem Landgericht Bonn, Wilhelmstr. 21, 53111 Bonn, schriftlich in deutscher Sprache oder zur Niederschrift des Urkundsbeamten der Geschäftsstelle einzulegen. Die Beschwerde kann auch zur Niederschrift der Geschäftsstelle eines jeden Amtsgerichtes abgegeben werden. Ist der Streitwert später als einen Monat vor Ablauf dieser Frist festgesetzt worden, so kann die Beschwerde noch innerhalb eines Monats nach Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses eingelegt werden.
+			
+			
+			
+			Permalink: https://openjur.de/u/2384603.html (https://oj.is/2384603)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate8
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

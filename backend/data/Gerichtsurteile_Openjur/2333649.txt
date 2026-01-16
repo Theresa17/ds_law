@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungUrteil vom 17.12.2020 - 15 U 260/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Urteil vom 17.12.2020 - 15 U 260/19
+                      m. Fundstelle
+                      OLG Köln, Urteil vom 17.12.2020 - 15 U 260/19 = openJur 2021, 14120
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Urteil vom 17.12.2020 - 15 U 260/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 14120
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 4 O 434/18
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Auf die Berufung des Klägers wird - unter Zurückweisung des weitergehenden Rechtsmittels - das Urteil des Landgerichts Köln vom 24.09.2019 abgeändert und wie folgt neugefasst:Das "Teilversäumnisurteil" des Landgerichts Köln - 4 O 434/18 - vom 21.05.2019 wird aufrechterhalten mit der Maßgabe, dass festgestellt wird, dass die Beklagte verpflichtet ist, dem Kläger Schadensersatz zu leisten für Schäden, die daraus resultieren, dass die Beklagte in den Motor Typ EA 189 des Fahrzeugs VW A (Fahrzeugidentifikationsnummer: B) mindestens eine unzulässige Abschalteinrichtung in der Form einer Software eingebaut hat, welche bei Erkennung standardisierter Prüfstandsituationen (NEFZ) die Abgasaufbereitung so optimiert, dass möglichst wenige Stickoxide (NOx) entstehen und Stickstoffimmissionsmesswerte reduziert werden, und die im Normalbetrieb Teile der Abgaskontrollanlage außer Betrieb setzt, so dass es zu einem höheren NOx-Ausstoß führt.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtstreites (1. und 2. Instanz) werden dem Kläger zu 5 % und der Beklagten zu 95 % auferlegt.Das Urteil und das angefochtene Urteil sind vorläufig vollstreckbar. Die Beklagte kann die Vollstreckung der Klagepartei abwenden durch Sicherheitsleistung in Höhe von 110 % des jeweils aufgrund der Urteile vollstreckbaren Betrags, wenn nicht die Klagepartei jeweils Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrags leistet.Die Revision wird zugelassen.  
+				Gründe
+				I.Der Kläger erwarb zum Kaufpreis von EURO 32.520,00 (brutto) bei der Firma C am 24.07.2012 einen Pkw VW A 2.0 TDI, 103 KW, der von der Beklagte hergestellt worden ist und in dem ein von dieser entwickelter und hergestellter Dieselmotor EA189 verbaut ist.Mit der Behauptung, bei der in dem Fahrzeug eingesetzten Software handle es sich um eine illegale Abschalteinrichtung, von der Manipulation der Motorprogrammierung habe der Vorstand bzw. leitende Angestellte der Beklagten zumindest gewusst, sodass die Beklagte aus unerlaubter Handlung verantwortlich sei, begehrt der Kläger die Feststellung der Schadensersatzverpflichtung der Beklagten sowie die Freistellung zu seinen Gunsten durch diese von vorgerichtlichen Rechtsanwaltskosten, berechnet nach einer Geschäftsgebühr von 2,0.Mit "Teilversäumnis- und Schlussurteil" vom 21.05.2019 hat das Landgericht Köln festgestellt, dass die Beklagtenpartei verpflichtet ist, der Klägerpartei Schadensersatz zu leisten für Schäden, die aus der Manipulation des Fahrzeugs VW A (Fahrzeugidentifikationsnummer: B) durch die Beklagtenpartei resultieren, und im Übrigen die auf Freistellung von den Anwaltskosten gerichtete Klage abgewiesen, da kein außergerichtliches Schreiben an die Beklagte vorgelegt worden sei, welches erkennbar im Auftrag des Klägers verfasst worden wäre (Bl. 414 ff. GA). Nachdem die Beklagte gegen das Versäumnisurteil Einspruch eingelegt hatte, hat das Landgericht durch Urteil vom 24.09.2019 (vgl. Bl. 476 ff. GA), auf das wegen des Sachverhalts, der dem Rechtsstreit zugrunde liegt, sowie der in erster Instanz gestellten Anträge Bezug genommen wird, unter Aufhebung des Teilversäumnisurteils die (auf Feststellung gerichtete) Klage als unzulässig abgewiesen.Allein gegen dieses Urteil hat der Kläger das Rechtsmittel der Berufung eingelegt (Bl. 508 f. d.A.). Ausweislich der Berufungsbegründung (Bl. 533 ff.GA) begehrt er auch die Abänderung des Schlussurteils vom 21.05.2019 und verfolgt sowohl sein Feststellungsbegehren als auch sein Begehren auf Freistellung von den vorgerichtlichen Anwaltskosten weiter.Der Kläger führt im Wesentlichen an, das Landgericht habe zu Unrecht sein Feststellungsbegehren für unzulässig gehalten. Insbesondere habe es verkannt, dass er zu der Zulässigkeit der Klage und zum Feststellungsinteresse substantiiert vorgetragen habe. Rechtsfehlerhaft gehe das Landgericht im Übrigen davon aus, dass dem Kläger kein Anspruch auf Freistellung von den vorgerichtlichen Kosten zustehe.Wegen aller weiteren Einzelheiten der Angriffe der Berufung wird auf die Berufungsbegründung vom 04.05.2020 (Bl. 532 - 618 d.A.) und den Schriftsatz vom 30.09.2020 (Bl. 660 - 927 d.A.) - jeweils nebst Anlagen - verwiesen.Nach dem der Kläger zunächst in der mündlichen Verhandlung vor dem Senat zur Feststellung beantragt hat, dass die Beklagtenpartei verpflichtet sei, ihm Schadensersatz zu leisten für Schäden, die aus der Manipulation des Fahrzeuges VW A, Fahrzeugidentifikationsnummer: B durch die Beklagtenpartei resultieren, beantragt er nunmehr wie folgt zu erkennen:1. Das Urteil des Landgerichts Köln vom 24.09.2019, 4 O 434/18 sowie das Schlussurteil vom 21.05.2019, 4 O 434/18 werden aufgehoben und wie folgt abgeändert:2. Es wird festgestellt, dass die Beklagte verpflichtet ist, dem Kläger Schadensersatz zu leisten für Schäden, die daraus resultieren, dass die Beklagte in den Motor Typ EA 189 des Fahrzeugs VW A (Fahrzeugidentifikationsnummer: B) mindestens eine unzulässige Abschalteinrichtung in der Form einer Software eingebaut hat, welche bei Erkennung standardisierter Prüfstandsituationen (NEFZ) die Abgasaufbereitung so optimiert, dass möglichst wenige Stickoxide (NOx) entstehen und Stickstoffimmissionsmesswerte reduziert werden, und die im Normalbetrieb Teile der Abgaskontrollanlage außer Betrieb setzt, so dass es zu einem höheren NOx-Ausstoß führt.3. Die Beklagte wird verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von Euro 1.419,08 freizustellen.Die Beklagte beantragt,die Berufung zurückzuweisen.Die Beklagte ist unter Verteidigung der angefochtenen Entscheidung gemäß hiermit in Bezug genommener Berufungserwiderung (Bl. 632 - 659 d.A.) sowie gemäß Schriftsatz vom 23.10.2020 (Bl. 937 - 939 d.A.) der Berufung entgegengetreten: Sie ist der Ansicht, die Feststellungsklage sei unzulässig und führt im Übrigen zur Sache im Wesentlichen an, ein etwaiger Schaden sei jedenfalls nicht kausal.Wegen aller weiteren Einzelheiten des beidseitigen Vorbringens wird auf die gewechselten Schriftsätze nebst Anlagen Bezug genommen.II.Die Berufung des Klägers ist teilweise begründet, soweit der Kläger die Aufrechterhaltung des Teil-Versäumnisurteil vom 21.05.2019 begehrt.1.Die erhobene Feststellungsklage ist zulässig und begründet.Entgegen den Erwägungen des Landgerichtes ist schon der Feststellungsantrag nach seiner ursprünglichen Formulierung bezogen auf die Formulierung "Schäden, die aus der Manipulation des Fahrzeuges" bei gebotener Auslegung im Grundsatz als genügend bestimmt im Sinne von § 253 Abs. 2 Nr. 2 ZPO anzusehen (vgl. OLG Karlsruhe, Urteil vom 6.11.2019 - 13 U 12/19, BeckRS 2019, 27013 Rn. 11). Dies ergibt sich schlussendlich aus dem Tatbestand des angefochtenen Urteils, in dem gerade die von Klägerseite als unzulässig angeführte Abschaltvorrichtung referiert wird, was indes für die zulässige und gebotene Auslegung des Antrages heranzuziehen ist. Wenn demgegenüber das Landgericht in Anlehnung an die Erwägungen des Oberlandesgerichtes München in dessen Hinweisbeschluss vom 12.06.2018 - 8 U 3169/17 (NJW-RR 2019, 184) darauf verweist, der Kläger behaupte in vielfacher Hinsicht Manipulationen des Fahrzeuges, so ist demgegenüber darauf zu verweisen, dass dies allein als Reaktion auf die Behauptung der Beklagten, ein Schaden bestehe jedenfalls nicht (mehr) im Hinblick auf das durchgeführte Softwareupdate, geschehen ist (Replik vom 24.04.2019, Bl. 359 ff., ab Bl. 361 d.A.). Letztlich ist eine weitere Vertiefung angesichts der nunmehrigen Formulierung nicht mehr veranlasst, da diese unzweifelhaft den Bestimmtheitsanforderungen des § 253 Abs. 2 Nr. 2 ZPO gerecht wird.Auch das gemäß § 256 Abs. 1 ZPO erforderliche Feststellungsinteresse ist zu bejahen, insbesondere steht dem Feststellungspetitum des Klägers nicht der sogenannte Grundsatz des "Vorranges einer Leistungsklage" (vgl. BeckOK ZPO/Bacher, 38. Ed. 1.9.2020, ZPO § 256 Rn. 26) entgegen. Richtig ist zwar, dass grundsätzlich das Feststellungsinteresse fehlen kann, wenn der Kläger dasselbe Ziel mit einer Klage auf Leistung erreichen kann (BGH, Urteil vom 19.04.2016 - VI ZR 506/14, juris Rn. 6). Die Klagepartei muss sich jedoch vorliegend nicht auf eine Leistungsklage verweisen lassen, weil die Schadensentwicklung noch nicht vollständig abgeschlossen ist (vgl. BGH, Urteil vom 30.03.1983 - VIII ZR 3/82, juris Rn. 27). Nach ständiger Rechtsprechung des Bundesgerichtshofs ist nämlich ein Kläger grundsätzlich nicht gehalten, seine Klage in eine Leistungs- und in eine Feststellungsklage aufzuspalten, wenn bei Klageerhebung ein Teil des Schadens schon entstanden, die Entstehung weiteren Schadens aber noch zu erwarten ist. Denn es besteht keine allgemeine Subsidiarität der Feststellungsklage gegenüber der Leistungsklage. Vielmehr ist eine Feststellungsklage trotz der Möglichkeit, Leistungsklage zu erheben, zulässig, wenn die Durchführung des Feststellungsverfahrens unter dem Gesichtspunkt der Prozesswirtschaftlichkeit zu einer sinnvollen und sachgemäßen Erledigung der aufgetretenen Streitpunkte führt. Dementsprechend kann der Kläger in vollem Umfang die Feststellung der Ersatzpflicht verlangen, wenn die Schadensentwicklung noch nicht abgeschlossen ist (vgl. nur BGH, Urteil vom 30.03.1983 - VIII ZR 3/82, juris Rn. 27; BGH, Urteil vom 19.04.2016 - VI ZR 506/14, juris). Dabei setzt die Zulässigkeit der Feststellungsklage zumindest eine hinreichende Wahrscheinlichkeit eines auf die Verletzungshandlung zurückzuführenden Schadenseintritts voraus, wenn nicht die Ersatzpflicht für künftige Schadensfolgen aus einer bereits eingetretenen Verletzung eines absoluten Rechtsguts, sondern - wie hier - für reine Vermögensschäden festgestellt werden soll. Die Wahrscheinlichkeit eines Schadenseintritts muss der Kläger nach allgemeinen Grundsätzen substantiiert dartun (vgl. BGH, Beschluss vom 04.03.2015 - IV ZR 36/14, juris Rn. 15; BGH, Urteil vom 07.05.2019 - II ZR 278/16, juris Rn. 30 ff.). Allerdings ist die Frage, ob der Kläger die Wahrscheinlichkeit künftiger Schäden hinreichend dargelegt hat, mit Rücksicht auf die drohende Verjährung großzügiger zu bewerten, wenn bereits eine erste Vermögenseinbuße eingetreten ist (vgl. BGH, Urteil vom 26.07.2018 - I ZR 274/16, juris Rn. 26).Gemessen an diesen Grundsätzen ist das Feststellungsinteresse zu bejahen.Dabei ist zunächst zu sehen, dass der Kläger, auch wenn er in den Vordergrund seiner Argumentation stellt, es sei eine Rückabwicklung des geschlossenen Kaufvertrages in Betracht zu ziehen (vgl. etwa Klageschrift dort Seite 127, Bl. 129 d.A.), (auch) alternativ auf einen etwaigen Minderwert abstellt (vgl. etwa Schriftsatz vom 24.04.2019 Seite 22, Bl. 380 d.A.). Unabhängig davon, ob die hier allein zu erwägende deliktische Haftung der Beklagten, die auf den Ersatz des Vertrauensschadens, und nicht auf den Ausgleich des Erfüllungsschaden abzielt, allein auf die Rückabwicklung des angeblich nachteiligen Kaufvertrages, nicht aber auf eine Minderung zu richten ist (vgl. etwa Oberlandesgericht Karlsruhe, Urteil vom 18.12.2019 - 13 U 670/19, NJW-RR 2020, 347; Oberlandesgericht München, Urteil vom 10.08.2020, 21 U 2719/2019 und OLG Frankfurt, Urteil vom 17.06.2020 - 17 U 732/19 -jeweils veröffentlicht in juris), steht der Umstand, dass bisher eine Entscheidung des Klägers, ob er Rückabwicklung oder Minderung als Schadensersatz geltend machen will, nicht getroffen wurde, er sich diese Entscheidung vielmehr ersichtlich zum jetzigen Zeitpunkt vorbehalten will, nicht der Annahme eines berechtigten Feststellungsinteresses entgegen. Im Grundsatz gilt allerdings, dass der durch die Verletzung von Mitteilungs- oder Aufklärungspflichten zum Vertragsschluss veranlasste Geschädigte nach ständiger Rechtsprechung des Bundesgerichtshofes (etwa BGH, Urteil vom 06.02.2018 - II ZR 17/17, NJW 2018, 1675) im Rahmen des Vertrauensschadensersatzes zwischen zwei Möglichkeiten des Schadensausgleichs wählen kann. Er kann entweder die Rückabwicklung des Vertrags verlangen oder stattdessen an dem Vertrag festhalten und den Ersatz der durch das Verschulden des anderen Teils veranlassten Mehraufwendungen verlangen (sog. "kleiner Schadensersatz"). Dem Geschädigten wird in diesem Zusammenhang von der höchstrichterlichen Rechtsprechung ein "Wahlrecht" zugebilligt (vgl. MükoBGB/Emmerich, 8. Aufl. 2019, BGB § 311 Rn. 214), bei einem Kaufvertrag soll der Geschädigte auch die Herabsetzung des Kaufpreises auf das tatsächlich angemessene Maß ("Minderung") verlangen können. Ob diese Grundsätze auch auf eine rein deliktische Haftung übertragbar sind, kann hier dahinstehen. Bei einer Anwendung gilt zwar, dass der Geschädigte nicht beides zugleich geltend machen kann, bezogen auf ein entsprechendes Zahlungspetitum würde vielmehr bei gleichzeitiger klageweiser Geltendmachung im Ergebnis eine alternative Antragstellung anzunehmen sein, die aber grundsätzlich mangels Bestimmtheit im Sinne von § 253 Abs. 2 Nr. 2 ZPO unzulässig ist (Zöller/Greger, ZPO, 33. Aufl. 2020, § 260 Rdnr. 5). All dies steht im Ergebnis aber grundsätzlich nicht der Zulässigkeit des streitgegenständlichen Feststellungsbegehrens entgegen. Denn ausgehend von der Überlegung, dass einerseits eine Feststellungsklage trotz der Möglichkeit, Leistungsklage zu erheben, zulässig ist, wenn die Durchführung des Feststellungsverfahrens unter dem Gesichtspunkt der Prozesswirtschaftlichkeit zu einer sinnvollen und sachgemäßen Erledigung der aufgetretenen Streitpunkte führt, anderseits im Grundsatz dem Geschädigten ein Wahlrecht zuzugestehen ist, verbietet es sich über einen "prozessualen Zwang" schon im Rahmen des Feststellungspetitums eine frühzeitige Festlegung zu verlangen (vgl. BGH, Urteil vom 04.06.1996 - VI ZR 123/95, NJW 1996, 2725 für den Fall, dass der Geschädigte sein ihm nach § 249 Abs. 2 BGB zustehendes Wahlrecht noch nicht ausgeübt hat, ebenso BeckOK ZPO/Bacher, 38. Ed. 1.9.2020, ZPO § 256 Rn. 30). Gerade für den vorliegenden Fall gilt, dass der Schaden, dessen Feststellung im Kern begehrt wird, in der Belastung mit einem nachteiligen, da mit dem Makel der Zulassungsgefährdung behafteten Kaufvertrag liegt, während die Frage, ob dies bei deliktischer Haftung auch ein Minderungsbegehren rechtfertigen kann, was -um es zu wiederholen - zweifelhaft ist (so etwa OLG Karlsruhe a.a.O. Rn. 15 - allein den Bereich der Schadensabwicklung und Regulierung betrifft.Zu beachten ist allerdings, dass der Bundesgerichtshof in seiner Entscheidung vom 30.7.2020 (VI ZR 397/19, juris Rn. 29) ausgeführt hat, ein auf den Ersatz künftiger Schäden gerichteter Feststellungsantrag könne nur dann Erfolg haben, wenn die sachlichen und rechtlichen Voraussetzungen eines Schadensersatzanspruchs vorlägen, also ein haftungsrechtlich relevanter Eingriff gegeben sei, der zu möglichen künftigen Schäden führen könne. Soweit der Schädiger nicht aus der Verletzung eines deliktsrechtlich geschützten absoluten Rechtsgutes, sondern wegen der sittenwidrigen vorsätzlichen Herbeiführung eines ungewollten Vertragsschlusses hafte, werde danach der in dem Vertragsschluss selbst liegende Schaden bereits von der Verurteilung zur Kaufpreiserstattung erfasst. Insofern müsse - so der Bundesgerichthof weiter - der Geschädigte zu den behaupteten weiteren Schäden aus dem Fahrzeugerwerb substantiiert vortragen. (ein Feststellungsinteresse verneinend z. B. auch: OLG Koblenz, Urteil vom 30.09.2020 - 5 U 1970/19, OLG Köln, Beschluss vom 22.10.2020 4 U 79/20, OLG Hamm, Urteil vom 07.07.2020 - 19 U 882/19 -, jeweils juris) Diese Voraussetzungen sind hier erfüllt, dies allein schon deswegen, weil nicht ausgeschlossen werden kann, dass bis zur Rückabwicklung möglicherweise noch weitere erstattungsfähige Aufwendungen (und nicht nur "sowieso-Kosten") für das Fahrzeug anfallen (vgl. dazu auch Senat, Urt. v. 27.8.2020 - 15 U 264/19). Gerade der Umstand, dass ein Geschädigter nach dem Grundsatz der Schadenseinheit zur Hemmung der Verjährung seines Ersatzanspruchs regelmäßig innerhalb von drei Jahren nach der ersten Vermögenseinbuße Feststellungsklage erheben und die Wahrscheinlichkeit eines Schadenseintritts darlegen muss, lässt nämlich eine großzügige Beurteilung der Frage geboten erscheinen, ob der Geschädigte die Wahrscheinlichkeit eines Vermögensschadens hinreichend dargelegt hat (so auch BGH, Urt. v. 26.7.2018 - I ZR 274/16, NJW-RR 2018, 1301).Die danach zulässige Feststellungsklage ist auch begründet. Die Haftung der Beklagten auf Schadensersatz ergibt sich im Hinblick auf die von ihr nach den Grundsätzen der sekundären Darlegungslast zu verantwortende unternehmerische Entscheidung zum Inverkehrbringen des mit einer unzulässigen Abschalteinrichtung versehenen Motors vom Typ EA 189 dem Grunde nach aus § 826 BGB, da die danach sittenwidrige und vorsätzliche Schädigung den Abschluss eines nachteiligen Kaufvertrages verursacht hat, wie der Senat in ständiger Rechtsprechung vertritt und wie dies nunmehr auch durch den Bundesgerichtshof (Urt. v. 25.5.2020 - VI ZR 252/19; Urt. v. 30.7.2020 - VI ZR 354/19, veröffentlicht bei juris) bejaht wurde. Dies wird ersichtlich von der Beklagten im Berufungsrechtzug auch nicht mehr in Abrede gestellt, vielmehr verweist sie allein darauf, es fehle an der erforderlichen individuellen Kausalität zwischen dem Schädigungsvorwurf und der Entscheidung des Klägers zum Abschluss des Kaufvertrages, ohne dass dies indes weiter zielführend wäre. Bei einem - wie hier - zur eigenen Nutzung erworbenen Kraftfahrzeug sind dessen Gebrauchsfähigkeit und ständige Verfügbarkeit für den Eigentümer von so großer Bedeutung, dass die vorübergehende Entziehung eines Kraftfahrzeugs auch bei der Anlegung des gebotenen strengen Maßstabs einen Vermögensschaden darstellt. Der Verlust der Nutzungsmöglichkeit eines Kraftfahrzeugs wirkt sich typischerweise als solcher auf die materiale Grundlage der Lebenshaltung signifikant aus; bei generalisierender Betrachtung erfolgen Anschaffung und Unterhaltung eines Kraftfahrzeugs in erster Linie um des wirtschaftlichen Vorteils willen, der in der Zeitersparnis liegt. Das rechtfertigt nach der allgemeinen Lebenserfahrung allerdings für die gemäß § 286 ZPO erforderliche Überzeugungsbildung die Annahme, dass ein Käufer, der - wie hier der Kläger - ein Fahrzeug zur eigenen Nutzung erwirbt, bei der bestehenden Gefahr einer Betriebsbeschränkung oder -untersagung von dem Erwerb des Fahrzeugs abgesehen hätte (vgl. BGH, Urteil vom 25.05.2020 - VI ZR 252/19, juris Rn. 51). Festzuhalten ist also, dass dem Abschluss des Kaufvertrages im Rahmen des hier anzuwenden § 286 ZPO regelmäßig durchschlagende Indizwirkung dahingehend zukommt, dass der Käufer auf eine dauerhaft beanstandungsfreie Typengenehmigung des Fahrzeugs vertraut hat. Der weiter beklagtenseits angeführte Umstand, der Kläger habe das streitgegenständliche Fahrzeug nach Vertragsschluss über einen langen Zeitraum hinweg beschwerdefrei und ohne Einschränkungen genutzt, zumal seit dem Bekanntwerden der EA-189-Thematik im September 2015 Jahre vergangen seien, der Kläger also über einen langen Zeitraum nach dem Bekanntwerden der EA-189-Thematik untätig geblieben sei, vermag hieran nichts zu ändern. Richtig ist zwar, dass sich relevante Indizien für die fehlende Kausalität der Täuschung aus dem Verhalten nach Kenntniserlangung von der Täuschung ergeben können (vgl. BGH, Urteil vom 08.05.2012 - XI ZR 262/10, NJW 2012, 2427, 2432 Rn. 50). Dass - wie beklagtenseits im Kern in diesem Zusammenhang angeführt wird - von Seiten des Klägers mit seinem Schadensersatzbegehren auch nach Bekanntwerden des Dieselskandal längere Zeit bei fortdauernder Nutzung zugewartet wurde, besagt indes nicht zwangsläufig, dass er bezogen auf den Kaufvertragsabschluss als maßgeblichen Zeitpunkt der Schädigung bereit gewesen wäre, den Kaufpreis zu zahlen, ohne dass der vertragsgemäße Nutzen, d.h. ohne eine - zumindest latent - bestehende Gefahr einer Betriebsuntersagung oder -beschränkung das betroffene Fahrzeug (vgl. grundsätzlich BGH, Hinweisbeschluss vom 08.01.2019 - VIII ZR 225/17, NJW 2019, 1133), gewährleistet gewesen wäre.2.Soweit der Kläger weiterhin die Freistellung von den vorgerichtlichen Anwaltskosten auch im nunmehrigen Berufungsverfahren verlangt, geht dies allerdings fehl.Zunächst ist sich zu vergegenwärtigen, dass die Berufung ausweislich der Berufungsschrift vom 07.10.2019 allein gegen das Urteil des Landgerichts Köln vom 24.09.2019 eingelegt worden ist. Eine Berufung ist klägerseits nicht eingelegt worden, soweit das Landgericht durch sein von ihm so bezeichnete "Teilversäumnis- und Schlussurteil" vom 21.05.2019 die auf Freistellung von den Anwaltskosten gerichtete Klage als unbegründet abgewiesen hat. Wenn demgegenüber erst mit der am 04.05.2020 eingegangenen Berufungsbegründung unter Ziffer 1 die Aufhebung und Änderung auch des "Schlussurteils vom 21.05.2019" angetragen wird, mag hierin ggf. auch eine Berufungseinlegung gegen dieses Urteil liegen, die indes verfristet ist, da dieses dem Kläger schon am 27.05.2019 zugestellt war. Zwar ist nicht zu verkennen, dass in der Rechtsbehelfsbelehrung des Urteiles vom 21.05.2019 allein über die Möglichkeit der Einspruchseinlegung belehrt worden ist. Gemäß § 232 S. 2 ZPO war hier allerdings der anwaltlich vertretene Kläger nicht darüber zu belehren, dass gegen den den Freistellungsantrag als unbegründet abweisende und der Rechtskraft fähige Teil als Endurteil (vgl. Zöller/Feskorn a.a.O. § 301 Rnr. 22) gemäß § 511 Abs. 1 ZPO gesondert Berufung einzulegen war. Das Fehlen oder die Unrichtigkeit einer Rechtsbehelfsbelehrung gemäß § 232 ZPO hat im Übrigen keinen Einfluss auf die Wirksamkeit und Rechtmäßigkeit der Entscheidung oder den Lauf der Rechtsmittelfrist (Zöller/Greger a.a.O. § 233 Rnr. 1a.). Damit ist das Teilversäumnis- und Schlussurteil vom 21.05.2019, soweit es die auf Freistellung von den Anwaltskosten gerichtete Klage als unbegründet abgewiesen hat, jedenfalls in materielle Rechtskraft erwachsen. Vor diesem Hintergrund stellt sich dann aber der Antrag aus der Berufungsbegründung unter Z. 3, die Beklagte zu verurteilen, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von Euro 1.419,08 freizustellen, allenfalls als Klageerweiterung dar, über die allerdings in der Sache schon rechtskräftig durch das "Teilversäumnis- und Schlussurteil" des Landgerichtes entschieden worden ist, sodass jede erneute Verhandlung und Entscheidung unzulässig ist ("ne bis in idem"; vgl. Zöller/Vollkommer a.a.O. vor § 322 Rndr. 17).Der Kläger hat zu den vom Senat im Termin am 08.10.2020 erteilten Hinweisen nicht mehr Stellung genommen.Die prozessualen Nebenentscheidungen folgen aus §§ 92, 97, 708 Nr. 10, 711 ZPO. Das Unterlegen des Klägers mit den vorgerichtlichen Anwaltskosten ist bei der Quotierung durch Bildung eines sogenannten "fiktiven Streitwert" berücksichtigt worden.Die Revisionszulassung beruht auf § 543 Abs. 2 ZPO.Streitwert für Verfahren 1. Instanz und Berufungsverfahren: EURO 26.016,00 (80 % von EURO 32.520,00, da positive Feststellungsklage), im Übrigen ohne Ansatz im Hinblick auf § 43 GKG.
+			
+			
+			
+			Permalink: https://openjur.de/u/2333649.html (https://oj.is/2333649)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate17
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen4
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

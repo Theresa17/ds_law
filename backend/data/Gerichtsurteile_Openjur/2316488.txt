@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG WiesbadenRechtsprechungUrteil vom 10.12.2019 - 4 O 49/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Wiesbaden, Urteil vom 10.12.2019 - 4 O 49/19
+                      m. Fundstelle
+                      LG Wiesbaden, Urteil vom 10.12.2019 - 4 O 49/19 = openJur 2021, 3397
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Wiesbaden, Urteil vom 10.12.2019 - 4 O 49/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 3397
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Zu den Voraussetzungen der Verjährung eines Anspruches gegen den Hersteller eines vom Abgasskandal betroffenen Fahrzeuges 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits hat der Kläger zu tragen.3. Das Urteil ist für die Beklagte gegen Sicherheitsleistung i.H.v. 110 % des zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Klägerin nimmt die Beklagte mit im Jahr 2019 zugestellter Klage auf Schadensersatz nach Kauf eines Dieselfahrzeugs in Anspruch.Der Kläger kaufte am 27.11.2012 beim xxx GmbH einen gebrauchten PKW Skoda Yeti 2.0 TDI mit der Fahrzeug-ID-Nummer: TMBLD75LXD6060500 zu einem Kaufpreis von 25.391,32 € netto (= 32.840,00 € brutto). Den Kaufpreis bezahlte er bei Lieferung am 2.4.2019 in bar. Das Fahrzeug ist mit einem Dieselmotor Typ EA 189 ausgestattet. Der Motor beinhaltet ein Programm, welches eine auf dem Prüfstand erhöhte Rückführung und Verbrennung von Abgasen (Modus 1) bei Fahrten auf Straßen abschaltet (Modus 0).Der Kläger ließ im Mai 2017 ein Softwareupdate aufspielen, welches die vorhandene von der Beklagten bezeichnete " Umschaltlogik" beseitigte.Der Kilometerstand betrug am 25.10.2019 114110 Km.Der Kläger behauptet, die Softwareprogrammierung sei gesetzeswidrig gewesen. Die Beklagte habe Abschaltvorrichtungen verwendet, welche die Wirkung von Emissionskontrollsystemen markant verringern. Diese Vorgehensweise sei als Verstoß gegen Art. 5 Abs. 2 i.V.m. Art. 3 Nr. 10 der Verordnung (EG) Nr. 715/2007 des europäischen Parlaments und des Rates vom 20.6.2007 über die Typengenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen und über den Zugang zur Reparatur und Wartungsinformationen für Fahrzeuge anzusehen. Es habe sich bei der Programmierung um eine unzulässige Abschalteinrichtung gehandelt, da sie die zu einem geringeren Stickoxidaussstoß führende ausschließlich für den Prüfstand bestimmte Programmierung der Motorsteuerung im Modus 1 für den Fahrbetrieb auf der Straße außer Kraft setzte.Die Beklagte habe ihm seiner Auffassung nach in einer gegen die guten Sitten verstoßenden Weise vorsätzlich Schaden zugefügt (§ 826 BGB). Er behauptet, er habe in Unkenntnis der nicht gesetzeskonformen Motorsteuerungssoftware den streitgegenständlichen Pkw erworben und damit einen ihr wirtschaftlich nachteiligen Vertrag geschlossen. Er habe davon ausgehen dürfen, dass das Fahrzeug die gesetzlichen Vorgaben zu Schadstoffbegrenzung nicht nur im Betrieb auf dem Prüfstand, sondern auch unter den konkreten Bedingungen im Straßenverkehr einhalte. Hätte er gewusst, dass die Motorsteuerung manipuliert sei, hätte er das Fahrzeug nicht gekauft. Kein verständiger Kunde würde ein Fahrzeug kaufen, wenn er vor dem Kauf darauf hingewiesen wurde, dass die Software nicht den gesetzlichen Vorgaben entspreche und er deshalb jedenfalls mit Problemen rechnen müsse, falls die manipulierte Steuerungssoftware von Behörden, insbesondere dem Kraftfahrtbundesamt entdeckt würde. Der Schaden bestehe in dem wirtschaftlich nachteiligen Vertrag.Der Vorstand der Beklagten habe von der nicht gesetzeskonformen Motorsteuerungssoftware gewusst. Eine derart wesentliche strategische Entscheidung für die Einführung einer manipulierten Motorsteuerungssoftware mit den damit einhergehenden wirtschaftlichen Risiken könne nicht von in der Betriebshierarchie nachrangigen Mitarbeitern in eigener Verantwortung getroffen worden sein. Nach der Lebenserfahrung sei davon auszugehen, dass eine solche Entscheidung zumindest mit Wissen des Vorstands getroffen und umgesetzt werden sollte. Sie stehe außerhalb des Geschehens. Er habe keine nähere Kenntnis der maßgebenden Tatsachen. Diese habe hingegen die Beklagte, der es auch zumutbar sei, nähere Angaben zu machen. Sie allein habe die Möglichkeit, die Vorgänge und Entscheidungsprozesse darzulegen, welche die Programmierung und Implementierung der Steuerungssoftware betreffen. Die Täuschung habe dem Zweck gedient, zur Kostensenkung nicht rechtlich und technisch einwandfreie, aber teurere Lösungen der Abgasreinigung bereitzustellen, sondern stattdessen mit Hilfe der scheinbar umweltfreundlichen Prüfstandwerte Wettbewerbsvorteile zu erzielen. Schon dieses Gewinnstreben um den Preis der bewussten Täuschung und Benachteiligung von Kunden gebe dem Handel das Gepräge der Sittenwidrigkeit und lasse das teilweise in den Medien verharmlosend als Schummelei bezeichnete Vorgehen weder als Kavaliersdelikt noch als lässliche Sünde erscheinen. Die Beklagte habe darauf hoffen können, niemals erwischt zu werden. Ein solches die Verbraucher und damit auch den Kläger täuschende Verhalten sei sittenwidrig und wiege umso schwerer, als es sich bei einem Kauf eines PKW für viele Verbraucher um eine wirtschaftliche Entscheidung von erheblichem Gewicht mit oft bedeutsamen finanziellen Belastungen handelt. Das Bestreben des Käufers, durch den Kauf eines möglichst umweltschonenden Produkts ein Beitrag zum Umweltschutz zu leisten, sei durch eine gezielte Täuschung unterlaufen worden. Dieses Verhalten sei auch angesichts des beträchtlichen Schadens für eine nicht absehbare Zahl von Personen als besonders verwerflich einzustufen. Es zeige sich ein selbstherrliches, verantwortungsloses Geschäftsgebaren, dass die unabsehbaren Folgen und Schäden ignoriere.Das Verhalten der Beklagten erfülle auch den Tatbestand eines Betruges gemäß § 823 Abs. 2, 263 StGB. Als Herstellerin des Motors wäre die Beklagte bzw. ihre Organe verpflichtet gewesen, sowohl das Kraftfahrtbundesamt über die technische Abweichung des Motors von den gesetzlichen Vorgaben für den Erhalt der Typengenehmigung (Art. 4 Abs. 2 VO/EG 715/20017) als auch den jeweiligen Käufern eines Fahrzeugs mit einem solchen manipulierten Motor zu unterrichten. Durch dieses Verschweigen habe die Beklagte auch bei ihr einen Irrtum erregt. Ihr sei bei Kauf nicht bekannt gewesen, dass eine auf dem Prüfstand erfolgte Rückführung und Verbrennung von Stickoxiden aufgrund der Programmierung bei normalem Betrieb auf öffentlichen Straßen abgeschaltet werde. Bei Kenntnis dieser verschwiegenen Tatsache hätte sie das Fahrzeug nicht gekauft. Durch den Abschluss des Kaufvertrages und Zahlung des Kaufpreises gegen Übergabe des Fahrzeugs sei ihr ein Schaden entstanden. Das Fahrzeug habe bei Kaufvertragsabschluss nur einen verbleibenden Materialwert aufgewiesen. Im Umfang des bei ihr eingetretenen Schadens sei unmittelbar und stoffgleich die Verkäuferin des Fahrzeugs bereichert worden. Diese habe mehr als den bloßen Materialwert erhalten. Die Beklagte habe vorsätzlich und mit Absicht gehandelt, die Verkäuferin zu bereichern. Der Einbau einer solchen Programmierung könne nur vorsätzlich vorgenommen werden. Aus dem Verschweigen einer solchen gegen die Typengenehmigung verstoßenden Einrichtung gegenüber jedem Käufer Folge, dass dessen Täuschung, Irrtum, Schaden und Entreicherung von der Beklagten gewollt und ihr bewusst gewesen sei. Dabei sei der Beklagten klar und wichtig gewesen, dass die Verkäufer von Fahrzeugen mit einem solchen manipulierten Motor statt des tatsächlichen Wertes die am marktüblichen Preis erzielen und erhalten würden. Auf diese Weise habe die Beklagte ihren weiteren Absatz solcher Fahrzeuge gefördert. Die zur Vertretung der Beklagten berufenen Organe hätten bereits seit der Verwendung der Programmierung diesen Vorsatz besessen.Rechtsfolge der gegen die guten Sitten verstoßenden vorsätzlichen Schädigung und der unerlaubten Handlung in Form eines Betrugs sei ein Anspruch auf Schadensersatz. Er sei so zu stellen, als ob er den Kauf nicht getätigt hätte. Deshalb habe die Beklagte ihm den Kaufpreis gegen Rückgabe des Fahrzeugs zu erstatten.Der Kläger behauptet, er habe erst durch Anschreiben der Beklagten am 2.11.2016 zur Vornahme eines Softwareupdates Kenntnis von der Betroffenheit seines Fahrzeugs von der Dieselproblematik erlangt.Der Kläger beantragt,die Beklagte zu verurteilen, an ihn 25.391,32 € nebst Zinsen i.H.v. 4 Prozentpunkten seit 2.4.2013 bis zur Rechtshängigkeit der Klage sowie in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs Skoda Yeti 2.0 TDI, Fahrzeug-ID-Nummer: TMBLD75LXT6060500 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte bestreitet mit Nichtwissen, dass konkrete NOx-Werte oder die Umweltfreundlichkeit des streitgegenständlichen Fahrzeugs für die Entscheidung des Klägers relevant gewesen seien. Die Motorsteuergerätesoftware habe vor Durchführung des Updates über eine Fahrzykluserkennung verfügt, die erkannt habe, wenn das Fahrzeug den NEFZ durchfahre. Generell müsse bei jedem Fahrzeug ein Prüfstandmodus aktiviert werden, wenn es auf dem Prüfstand betrieben werde. Dies sei auch bei anderen Herstellern üblich. Nach der erfolgten Installation des Softwareupdates werde das Fahrzeug nur noch im Modus 1 adaptiert betrieben, der bisher im Ursprungsmodus 1 praktisch ausschließlich in Prüfsituation aktiv gewesen sei. Die ursprünglich vorhandene Umschaltlogik sei damit beseitigt worden. Das Kraftfahrtbundesamt habe das von der Beklagten dem Kläger angebotene und aufgespielte Update geprüft und freigegeben. Es sei technisch sicher und uneingeschränkt fahrbereit. Das Update habe keine negativen Folgen, insbesondere auch keinen negativen Einfluss auf die Dauerhaltbarkeit des Motors und seiner Komponenten.Das Fahrzeug habe auch keinen Wertverlust erlitten. Die Verkaufswerte der Fahrzeuge mit dem Motor des Typs EA 189 seien seit Bekanntwerden des Umstands, dass die Fahrzeuge über eine Umschaltlogik verfügten und technisch überarbeitet wurden, über knapp 2 Jahre stabil geblieben. Sie habe den Kläger weder sittenwidrig getäuscht, noch habe sie den Kläger mit dem Ergebnis einer Vermögensverfügung getäuscht und bei ihm einen Irrtum erregt. Auch fehle es an einem kausalen Vermögensschaden aufgrund eines nachteiligen Vertrages. Ihr obliege mangels schlüssigen Vortrags des Klägers zu einem vorsätzlichen, die Sittenwidrigkeit begründenden Verhalten von Vorstandsmitgliedern im Sinne des Aktienrechts im Zeitpunkt des Kaufvertragsschlusses auch keine sekundäre Darlegungslast.Schließlich müsse sich der Kläger für den Fall, dass seine Klage Erfolg hätte, Nutzungsvorteile anrechnen lassen. Die zugrunde zulegende Gesamtlaufleistung sei mit 200.000-200.500 km anzusetzen.Die Beklagte beruft sich im Übrigen auf die Einrede der Verjährung. Diese begründet sie mit der öffentlichen Bekanntmachung und Presseberichterstattung über die Thematik im Jahr 2015, der Information der Öffentlichkeit und Partnerunternehmen auch auf anderen Wegen und der Erstellung und Veröffentlichung einer Internetseite im Oktober 2015, auf der jedermann durch Eingabe einer Fahrzeugidentifikationsnummer überprüfen konnte, ob sein konkretes Fahrzeug mit der Umschaltlogik ausgestattet gewesen sei.. Sie meint, es liege außerhalb jeglicher Lebenserfahrung, dass der Kläger bereits im Jahr 2015 keine Kenntnis sowohl von der generellen Thematik als auch von der Betroffenheit des streitgegenständlichen Fahrzeugs erlangt habe.Wegen des weiteren Vorbringens der Parteien wird auf die gewechselten Schriftsätze verwiesen. 
+				Gründe
+				Die Klage ist unbegründet.Es kann dahinstehen, ob dem Kläger ein Schadensersatzanspruch gegen die Beklagte zusteht.Ein etwaiger Anspruch wäre Ende 2018 verjährt (§ 195 BGB). Die vorliegende Klage wurde erst 2019 erhoben.Die regelmäßige Verjährungsfrist begann mit dem Schluss des Jahres 2015 und endete mit Ablauf des Jahres 2018 (§ 199 Abs. 1 BGB). Gemäß dieser Vorschrift beginnt die Verjährung mit dem Schluss des Jahres in dem der Anspruch entstanden ist und der Gläubiger von den anspruchsbegründenden Tatsachen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste. Bei dem Kläger lag zumindest grob fahrlässige Unkenntnis vor. Aufgrund der nationalen und internationalen Medienberichterstattung im Herbst 2015 zur Betroffenheit aller Konzernfahrzeuge mit dem Dieselmotor des Typs E8 189 hätte sich dem Kläger die Betroffenheit des eigenen Fahrzeugs aufdrängen müssen. Grob fahrlässige Unkenntnis liegt dann vor, wenn der Geschädigte die Kenntnis nur deswegen nicht besitzt, weil er vor einer sich ihm ohne weiteres anbietenden, auf der Hand liegenden Erkenntnismöglichkeit, die weder Kosten noch eine besondere Mühe verursacht, die Augen verschließt (BGH NJW-RR 2010,6 W 81,682). Sind für den Gläubiger konkrete Anhaltspunkte für das Bestehen eines Anspruchs ersichtlich und drängt sich ihm der Verdacht einer möglichen Schädigung auf, so ist er, um eine grob fahrlässige Unkenntnis auszuschließen, zu Ermittlungen gehalten, wenn deren Unterlassen aus der Sicht eines verständigen und auf seine Interessen bedachten Geschädigten unverständlich erscheint (BGH NJW-RR 2016,11 187). Ein Gläubiger muss daher Indizien nachgehen, die darauf hindeuten, dass ihm ein bestimmter Anspruch gegen eine bestimmte Person zusteht (Grothe in Mü-Ko BGB 5. Aufl. § 199 Rz. 31.). Die Beklagte hat eingehend dargelegt, dass sie die Öffentlichkeit ab dem 22. September 2015 umfassend informiert und dass die nationalen sowie internationalen Medien hierüber in unzähligen fast täglich erscheinenden Artikeln sowie im Fernsehen und in Rundfunkbeiträgen berichteten. Insbesondere ging aus der Information der Öffentlichkeit und der Berichterstattung in den Medien im Herbst 2015 deutlich hervor, dass alle Konzernfahrzeuge mit einem Dieselmotor des Typs E 189 von der beanstandeten Software betroffen sind. Dem Kläger hätte sich als Fahrer eines Dieselfahrzeugs des xxx-Konzerns mit dem vorgenannten Motortyp aufgrund der Medienberichterstattung die Möglichkeit aufdrängen müssen, dass das streitgegenständliche Dieselfahrzeug ebenfalls betroffen ist. Denn nach dem unbestrittenen Vortrag der Beklagten hatte auch xxx eine Pressemitteilung veröffentlicht und eine Website eingerichtet, über welche die Betroffenheit des Fahrzeugs individuell durch Eingabe der FIN-Nummer festzustellen war. Es liegt auch auf der Hand, dass dann, wenn zwischen öffentlicher Berichterstattung und einem persönlichen Eiereignis, wie einem Autokauf, eine besondere Verbindung besteht, die öffentliche Berichterstattung aufmerksamer verfolgt wird, als bei Themen, zu denen kein Bezug besteht. Von daher war es sehr naheliegend, dass der Kläger als Käufer eines Dieselfahrzeugs mit dem betreffenden Motortyp die Berichterstattung mit besonderer Aufmerksamkeit verfolgte. Hätte sich der Kläger entsprechend informiert, wäre es ihm möglich und zumutbar gewesen, bereits im Jahre 2015 eine schlüssige Klage zu erheben. Dabei spielt es keine Rolle, ob der Kläger die Rechtslage zu diesem Zeitpunkt bereits zuverlässig einschätzen konnte. Dem Verjährungsbeginn steht auch nicht entgegen, dass ein Schuldner seine Verantwortlichkeit bestreitet (OLG Düsseldorf, NJW-RR 1998,1244; Ellenberger/Palandt 78. Aufl. § 199 Rz. 28). Deshalb ist es auch nicht entscheidend, dass die Beklagte versuchte, ihre Verantwortlichkeit herunterzuspielen und die Käufer im Unklaren zu lassen, welche Personen in ihrem Konzern die Manipulationen an der Motorsteuerung zu verantworten hatte.Die Kostenentscheidung folgt aus § 91 ZPO.Die Vollstreckbarkeitsentscheidung folgt aus § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2316488.html (https://oj.is/2316488)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

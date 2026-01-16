@@ -1,0 +1,144 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BielefeldRechtsprechungUrteil vom 13.12.2019 - 18 O 90/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bielefeld, Urteil vom 13.12.2019 - 18 O 90/19
+                      m. Fundstelle
+                      LG Bielefeld, Urteil vom 13.12.2019 - 18 O 90/19 = openJur 2021, 16240
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bielefeld, Urteil vom 13.12.2019 - 18 O 90/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 16240
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							nachfolgend: Az. 35 U 35/20
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits werden dem Kläger auferlegt.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar.Der Streitwert wird auf 80.944,99 EUR festgesetzt. 
+				Tatbestand
+				Der Kläger verlangt von der Beklagten zu 1) als Verkäuferin und von der Beklagten zu 2) als Herstellerin des von ihm erworbenen Pkw Schadensersatz aufgrund des sog. Dieselskandals.Der Kläger erwarb von der Beklagten zu 1) ausweislich deren Rechnung vom 26.04.2012 (K30) einen O. E. Diesel V6 TDI EU5, 3,0l ("E. Diesel V6 EU5"), 180 kW (245 PS) zu einem Preis von 80.944,99 EUR, welcher 2011 gebaut worden ist und über die Emissionsklasse EU5 verfügt. Der in dem Pkw verbaute Motor wurde indes nicht von der Beklagten zu 2) hergestellt, sondern von Seiten Dritter.Der Kläger behauptet, das Fahrzeug sei von der Beklagten zu 2) manipuliert, worden. Hätte der Kläger dies gewusst, so hätte er den Pkw nicht gekauft, weil er ein umweltfreundliches Auto hätte haben wollen. Das Fahrzeug der Klägerpartei sei unstreitig von der Manipulation betroffen. Dies bedeutet, dass ein Dieselmotor verbaut worden sei, für den eine illegale Abschalteinrichtung vorgesehen ist. In der Motorsteuerung habe die Beklagte zu 2) eine illegale Abschalteinrichtung nach Art. 5 Abs. 2 der Verordnung Nr. 715/2007 verwendet, um die geltenden Abgasnormen zu umgehen. Die installierte Software, die für die Abgaskontrollanlage zuständig ist, erkenne die Prüfungssituation. Die standardisierten Testsituationen seien durch ein "unnatürliches Fahrverhalten" (hohe Raddrehzahlen ohne Bewegung des Fahrzeugs) erkennbar. Bei diesen Bedingungen sei die Abgasaufbereitung so optimiert, dass möglichst wenige Stickoxide (NOx) entstehen. Im normalen Fahrbetrieb würden dagegen Teile der Abgaskontrollanlage außer Betrieb gesetzt, weshalb die NOx-Emissionen dann erheblich höher seien. Das streitgegenständliche Fahrzeug könne aufgrund der massiv erhöhten Emissionen nach der o.g. VO nicht in die Euro-Norm eingestuft werden. Es erfülle nicht die gesetzlichen Voraussetzungen, weil die tatsächlichen Werte an Stickoxiden, die das Fahrzeug ausstößt, massiv überhöht seien. Die Einstufung in die Euro-Norm habe nur deshalb erfolgen können, weil Porsche eine unerlaubte Abschalteinrichtung eingesetzt und damit ihre Kunden betrogen habe. Auch alle beteiligten Behörden seien belogen worden. Es sei eine Zulassung erschlichen worden, die es unter diesen Voraussetzungen nie gegeben hätte. Das KBA habe deshalb den Rückruf diverser Fahrzeuge angeordnet und Porsche aufgegeben, die Fahrzeuge in den Zustand zu versetzen, den die öffentlich rechtlichen Vorschriften vorschreiben. Zudem enthalte der Motor ein sog. Thermofenster, wobei bei entsprechender AußentemperaturDer Kläger beantragt:1. Die Beklagtenpartei zu 1) wird verurteilt, an die Klagepartei € 80.944,99 nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit 09.02.2018 zu bezahlen, Zugum-Zug gegen Übereignung und Herausgabe des PKW O. E. Diesel, FIN XXX und Zugum Zug gegen Zahlung einer von der Beklagtenpartei zu 1) noch darzulegenden Nutzungsentschädigung, hilfsweise 1,00 Euro, für die Nutzung des PKW.2. Es wird festgestellt, dass die Beklagtenpartei zu 2) verpflichtet ist, der Klagepartei Schadensersatz zu bezahlen für Schäden, die daraus resultieren, dass die Beklagtenpartei zu 2) das Fahrzeug O. E. Diesel Fahrzeugidentifikationsnummer: XXX dahingehend beeinflusst hat, dass dieses hinsichtlich der Abgasstoffmenge im Prüfstandbetrieb einen geringeren Ausstoß aufweist als im regulären Betrieb im Straßenverkehr.hilfsweise:2. Es wird festgestellt, dass die Beklagtenpartei zu 2) verpflichtet ist, der Klagepartei Schadensersatz zu leisten für Schäden, die daraus resultieren, dass die Beklagtenpartei zu 2) in den Motor, Typ 3.0 l V6 Dieselmotor, des Fahrzeugs O. E. Diesel Fahrzeugidentifikationsnummer: XXX) eine unzulässige Abschalteinrichtung in der Form einer Software eingebaut hat, welche bei Erkennung standardisierter Prüfstandsituationen (NEFZ) die Abgasaufbereitung so optimiert, dass möglichst wenige Stickoxide (NOx) entstehen und Stickoxidemissionsmesswerte reduziert werden, und die im Normalbetrieb Teile der Abgaskontrollanlage außer Betrieb setzt, so dass es zu einem höheren NOx -Ausstoß führt.höchst hilfsweise:2a. Die Beklagtenpartei zu 2) wird verurteilt, an die Klagepartei € 80.944,99 nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit 21.02.2018 zu bezahlen, Zugum-Zug gegen Übereignung und Herausgabe des PKW O. E. Diesel, FIN XXX.2b. Es wird festgestellt, dass die Beklagtenpartei zu 2) verpflichtet ist, der Klägerpartei Schadensersatz zu bezahlen für weitere Schäden, die daraus resultieren, dass die Beklagtenpartei zu 2) das Fahrzeug O. E. Diesel (Fahrzeugidentifikationsnummer: XXX) dahingehend beeinflusst hat, dass dieses hinsichtlich der Abgasstoffmenge im Prüfstandbetrieb einen geringeren Ausstoß aufweist als im regulären Betrieb im Straßenverkehr.hilfsweise:2b. Es wird festgestellt, dass die Beklagtenpartei zu 2) verpflichtet ist, der Klagepartei Schadensersatz zu leisten für weitere Schäden, die daraus resultieren, dass die Beklagtenpartei zu 2) in den Motor, Typ 3.0 l V6 Dieselmotor, des Fahrzeugs O. E. Diesel Fahrzeugidentifikationsnummer: XXX) eine unzulässige Abschalteinrichtung in der Form einer Software eingebaut hat, welche bei Erkennung standardisierter Prüfstandsituationen (NEFZ) die Abgasaufbereitung so optimiert, dass möglichst wenige Stickoxide (NOx) entstehen und Stickoxidemissionsmesswerte reduziert werden, und die im Normalbetrieb Teile der Abgaskontrollanlage außer Betrieb setzt, so dass es zu einem höheren NOx -Ausstoß führt.2c. Es wird festgestellt, dass sich die Beklagtenpartei zu 2) mit der Rücknahme des im Klageantrag Ziffer 2a. genannten PKW im Annahmeverzug befindet.3. Es wird festgestellt, dass sich die Beklagtenpartei zu 1) mit der Rücknahme des im Klageantrag Ziffer 1. genannten PKW im Annahmeverzug befindet.Die Beklagten beantragen,die Klage abzuweisen.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die wechselseitig geführten Schriftsätze nebst Anlagen verwiesen. 
+				Gründe
+				Die Klage ist zulässig, aber weder in den Haupt- noch Hilfsanträgen begründet.Dem Kläger stehen weder kaufrechtliche noch deliktsrechtliche Ansprüche gegen die Beklagten zu.A. Ansprüche gegen die Beklagte zu 1)I. Der Kläger hat keinen Anspruch auf Rückzahlung des Kaufpreises gemäß § 346 Abs. 1 BGB i. V. m. §§ 434, 437 Nr. 2, 323 BGB. Unabhängig von dem Vorliegen eines Sachmangels fehlt es jedenfalls an der erforderlichen Fristsetzung zur Nacherfüllung. Der Kläger hat der Beklagten zu 1) die nach §§ 437 Nr. 2, 343 Abs. 1 BGB erforderliche Frist zur Nacherfüllung nicht gesetzt. Eine solche war weder nach § 440 S. 1, 3. Fall BGB noch nach § 323 Abs. 2 BGB entbehrlich. Schließlich scheitern Ansprüche aufgrund der beklagtenseits erhobenen Verjährungseinrede.1. Nach § 440 Satz 1 3. Fall bedarf es außer in den Fällen des § 281 Abs. 2 BGB und des § 323 Abs. 2 BGB einer Fristsetzung auch dann nicht, wenn dem Käufer die ihm zustehende Art der Nacherfüllung unzumutbar ist. Eine Unzumutbarkeit im Sinne dieser Vorschrift kann sich sowohl aus der Art des Mangels als auch aus anderen tatsächlichen Umständen, wie einer Störung des Vertrauensverhältnisses zwischen den Parteien, ergeben und ist aus Sicht des Käufers zu beurteilen. Zwar ist anerkannt, dass nach Aufdeckung einer arglistigen Täuschung des Verkäufers die Einräumung einer Nachbesserungsmöglichkeit für den Käufer in der Regel unzumutbar ist (vgl. BGH Beschluss vom 08.12.2006 - V ZR 249/05; Urteil vom 09.01.2008 - VIII ZR 210/06). Allerdings hat der Kläger nicht dargelegt, die Beklagte zu 1) selbst habe eine Täuschung verübt. Eine etwaige Täuschung der Beklagten zu 2) ist im Rahmen der Beurteilung der Unzumutbarkeit einer Nachbesserung nicht maßgeblich. Eine solche gibt keinen Anlass, die Vertrauensgrundlage zwischen den Vertragsparteien als gestört anzusehen. Insbesondere muss sich der Verkäufer das arglistige Handeln des Herstellers nicht zurechnen lassen (vgl. OLG Köln Urteil vom 04.06.2018 - 16 U 173/17; OLG Celle Beschluss vom 30.06.2016 - 7 W 26/16; OLG München Urteil vom 03.07.2017 - 21 U 4818/16). Etwas anders ergibt sich auch nicht daraus, dass das zur Abhilfe erforderliche Software-Update von der Herstellerin entwickelt wird (OLG Köln Urteil vom 04.06.2018 - 16 U 173/17). Die Freigabe der Software-Aktualisierung erfolgte durch das KBA. Durch die Beteiligung einer unabhängigen Behörde und deren Prüfung besteht für den Käufer kein Anlass für generelles Misstrauen gegenüber dem Software-Update. Die Einräumung einer Nachbesserungsmöglichkeit ist auch nicht unter dem Gesichtspunkt unzumutbar, dass ein genereller oder konkreter "Mangelverdacht" dahingehend bestehen könnte, dass das Fahrzeug nach dem von der Herstellerin zur Verfügung gestellten und als Nachbesserungsmöglichkeit angebotenen sog. "Software-Update" weiterhin mangelhaft sein würde. Gerade weil generell die hypothetische Möglichkeit besteht, dass nach erfolgter Nacherfüllung Mängel verbleiben oder entstehen, hat der Gesetzgeber in § 440 Satz 2 BGB geregelt, dass eine Nacherfüllung grundsätzlich nach dem erfolglosen zweiten Versuch als fehlgeschlagen gilt. Sollte das Update nicht zum gewünschten Erfolg führen, stünde der Käufer nicht rechtlos, sondern könnte grundsätzlich weitere Gewährleistungsansprüche geltend machen (vgl. OLG Köln Urteil vom 04.06.2018 - 16 U 173/17; LG Marburg Urteil vom 26.06.2018 - 7 O 90/16). 2) Es liegen auch keine Umstände vor, die gem. § 323 Abs. 2 Nr. 3 BGB eine Fristsetzung unter Abwägung der beiderseitigen Interessen entbehrlich machen und den sofortigen Rücktritt rechtfertigen würden. Insbesondere war es dem Kläger zumutbar den Zeitraum bis zur Installation des Updates abzuwarten. Anders als bei "klassischen" Mängeln, war der Kaufgegenstand - das Fahrzeug - ohne Einschränkungen in rechtlicher und tatsächlicher Hinsicht nutzbar und auch optisch nicht beeinträchtigt (vgl. auch LG Marburg Urteil vom 26.06.2018 - 7 O 90/16). Mangels der erforderlichen Fristsetzung (vgl. Ausführungen zu I.) kann der Kläger die Rückzahlung des Kaufpreises Zugum-Zug gegen Rückgabe des Fahrzeuges auch nicht im Wege des großen Schadensersatzes nach §§ 433 Abs. 1, 434, 437 Nr. 3,440 Satz 1, 280 Abs. 1 und 3, 281 BGB verlangen.2. Etwaige kaufrechtliche Ansprüche scheiden zudem deshalb aus, weil das Rücktrittsrecht gemäß § 438 Abs. 4, 218 Abs. 1 S. 1 i. V. m. § 437 Nr. 2, 438 Abs. 1 Nr. 3 BGB infolge der Verjährung des Anspruchs auf Nacherfüllung verfristet ist. Ausweislich der Anlage K 30 erwarb der Kläger das Fahrzeug im Dezember 2011. Das streitgegenständliche Fahrzeug wurde ferner am 05.05.2012 übergeben. Etwaige Ansprüche aus Gewährleistung sind daher angesichts der Einreichung der Klage bei Gericht am 5. April 2019 und ihrer Zustellung an die Beklagte zu 1) am 14.05.2019 bereits verjährt. Mithin scheiden etwaige kaufvertragliche Ansprüche bereits deshalb gemäß § 438 Abs. 4, 218 Abs. 1 S. 1 i. V. m. § 437 Nr. 2, 438 Abs. 1 Nr. 3 BGB aus.II. Andere Anspruchsgrundlagen kommen nicht in Betracht. Insbesondere hat der Kläger keine eigene schuldhafte Pflichtverletzung oder gar eine Täuschung der Beklagten zu 1) vorgetragen. Auch bereicherungsrechtliche Ansprüche sind wegen des wirksamen Kaufvertrages als Rechtsgrund nicht ersichtlich. Eine Nichtigkeit folgt insbesondere nicht aus § 134 BGB i. V. m. § 27 Abs. 1 EG-FGV (vgl. OLG München (21. Zivilsenat), Endurteil vom 09.09.2019 - 21 U 1216/19BeckRS 2019, 23400).III. Mangels eines begründeten Hauptanspruchs gegenüber der Beklagten zu 1) bestehen auch die geltend gemachten Nebenansprüche gegenüber dieser nicht.B. Ansprüche gegen die Beklagten zu 2)I. Der Kläger hat keinen Anspruch auf Schadensersatz in Form der begehrten Rückabwicklung des Kaufvertrages gegen die Beklagte zu 2). Insoweit kommen mangels vertraglicher Beziehung der Parteien nur deliktische Anspruchsgrundlagen in Betracht, bspw. §§ 826 oder 823 Abs. 2 BGB iVm § 263 StGB. Diese Anspruchsgrundlagen setzen jedoch die vorsätzliche Zufügung eines Schadens durch die Beklagte zu 2) voraus. Ein solcher Anspruch steht dem Kläger nicht zu, weil für die Kammer keine unzulässige Abschaltvorrichtung beim Fahrzeug des Klägers feststellbar ist.1. Dies gilt jedenfalls hinsichtlich der behaupteten Ausstoßminimierung auf dem Prüfstand. Die Beklagte zu 2) hat mehrfach darauf hingewiesen, dass jedenfalls für das streitgegenständliche Fahrzeug kein Rückrufbescheid des KBA vorliegt. Die in der Klage aufgestellte gegenteilige Behauptung des Klägers ist nicht substantiiert oder gar belegt. Vielmehr ergibt sich aus der Anlage B1, dass für den Pkw des Klägers kein Rückruf angeordnet ist. Insoweit fehlt es an hinreichenden Anknüpfungstatsachen, aus denen sich eine Unzulässigkeit der Motorsteuersoftware ergeben könnte. Letztlich beschränkt sich der Klägervortrag auf Sachverhalte und gerichtliche Entscheidungen anderer Fahrzeugtypen, wobei lediglich pauschal behauptet wird, dass diese auch auf den vorliegenden Fall übertragbar seien, was der Kläger letztlich in der Replik auch einräumen muss. Dies ist jedenfalls nicht ausreichend (vgl. OLG München, Endurteil vom 05.09.2019 - 14 U 416/19, BeckRS 2019, 26072, beckonline; OLG München NJW-RR 2019, 1497; zum hier vorliegenden Fahrzeugtyp OLG Köln (28. Zivilsenat), Beschluss vom 09.01.2019 - 28 U 36/18, BeckRS 2019, 26076).2. Die Frage, ob eine unzulässige Abschalteinrichtung wegen des sog. Thermofensters vorliegt, kann dahinstehen, da der für eine deliktische Haftung erforderliche zurechenbare Schädigungsvorsatz, gleich bei welcher der möglicherweise verantwortlichen Personen, nicht festgestellt werden kann. Insofern führt das Oberlandesgericht Stuttgart in seiner Entscheidung vom 30. Juli 2019 zum Az. 10 U 134/19, juris überzeugend aus, dass dieser bei der Verwendung eines Thermofensters erfordere, dass Anhaltspunkte dafür erkennbar wären, dass der Einbau der Einrichtung mit der in Rede stehenden Funktionsweise in den streitgegenständlichen Motor in dem Bewusstsein geschehen sei, hiermit möglicherweise gegen die gesetzlichen Vorschriften zu verstoßen und dieser Gesetzesverstoß billigend in Kauf genommen worden sei. Bei Abschalteinrichtungen, die vom Grundsatz her im normalen Fahrbetrieb in gleicher Weise arbeiteten wie auf dem Prüfstand und bei denen Gesichtspunkte des Motor- bzw. Bauteilschutzes als Rechtfertigung ernsthaft angeführt werden könnten, könne es bei Fehlen von konkreten Anhaltspunkten nicht ohne weiteres unterstellt werden, dass die Handelnden bzw. Verantwortlichen in dem Bewusstsein gehandelt hätten, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden. Denn der Einschätzung im Hinblick auf das Thermofenster könne auch eine möglicherweise falsche, aber dennoch vertretbare Gesetzesauslegung zugrunde liegen, dass es sich um eine zulässige Abschalteinrichtung handele (OLG Stuttgart, aaO, Rn. 81 ff.). Dieser Sichtweise schließt sich auch das Schleswig-Holsteinische Oberlandesgericht in seinem Hinweisbeschluss vom 23.08.2019 zum Az. 3 U 13/19, juris an. Auch das Oberlandesgericht Köln vertritt in einem Beschluss vom 04.07.2019 zum Az. 3 U 148/18, juris die Auffassung, dass in einem solchen Fall der erforderliche Schädigungsvorsatz nicht festzustellen sei. Dies ist für die Kammer überzeugend, denn anders als in den "VW-Fällen" verhält es sich hier so, dass nicht grundsätzlich auf dem Prüfstand und auf der Straße unterschiedliche Abgasrückführungsmodi aktiviert wurden, sondern die Abgasrückführung temperaturabhängig stärker oder weniger stark aktiviert wird. Bei einer Abschalteinrichtung, die vom Grundsatz her im normalen Fahrbetrieb in gleicher Weise arbeitet wie auf dem Prüfstand und bei der Gesichtspunkte des Motors bzw. Bauteilschutzes als Rechtfertigung ernsthaft angeführt werden können, kann nicht ohne weiteres unterstellt werden, dass die Handelnden bzw. Verantwortlichen bei der Beklagten in dem Bewusstsein gehandelt haben, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden (so auch OLG Stuttgart, Urteil vom 30.07.2019, Az. 10 U 134/19, juris, Rn. 82). Denn anders als die "Schummelsoftware" des Motors EA 189 unterscheidet das Thermofenster nicht zwischen Prüfstand und realem Betrieb, sondern richtet sich nach der Umgebungstemperatur und ist damit nicht offensichtlich auf eine "Überlistung" der Prüfungssituation ausgelegt (OLG Naumburg, BeckRS 2019, 23793, beckonline; OLG München a. a. O.).3. Es kann damit offen bleiben, ob der Vorsatz des Vorstandes der Beklagten zu 2) (§ 31 BGB), insbesondere die wissentliche Täuschung des Klägers über das Bestehen einer wirksamen EG-Typengenehmigung und das Nicht-Vorhandensein von Abschalteinrichtungen, die seitens des KBA als unzulässig eingestuft werden, wurde von Seiten des Klägers ausreichend dargelegt wurde. Die Behauptung des Klägers, der konstruktive Mangel der 3,0 Liter V 5 Dieselmotoren sei sowohl dem Konzernvorstand VW als auch den Markenvorständen bekannt gewesen, erscheint nicht hinreichend substantiiert. Woraus sich diese Kenntnis bei der Beklagten zu 2) ergeben sollte, ist nicht ersichtlich; dies insbesondere da der Motor - vom Kläger unbestritten - von einer Tochtergesellschaft von Audi produziert wurde. Nähere Darlegungen des Klägers dazu, wie der Vorstand der Beklagten zu 2) konkret vor dem Kauf des streitgegenständlichen Fahrzeugs Kenntnis von Abschalteinrichtungen erlangt haben soll, sind auch angesichts des substantiierten Bestreitens der Beklagten zu 2) erforderlich. Dies kann aber, wie ausgeführt, dahin stehen.II. Mangels eines begründeten Hauptanspruchs gegenüber der Beklagten zu 2) bestehen auch die geltend gemachten Nebenansprüche gegenüber dieser nicht. Gleiches gilt für die Feststellungsbegehren.C. Die prozessualen Nebenentscheidungen beruhen auf §§ 91 Abs. 1, 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2336676.html (https://oj.is/2336676)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate10
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

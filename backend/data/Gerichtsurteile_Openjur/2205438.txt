@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNiedersachsenOrdentliche GerichtsbarkeitLG BraunschweigRechtsprechungUrteil vom 06.07.2018 - 11 O 3017/17 (498)
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Braunschweig, Urteil vom 06.07.2018 - 11 O 3017/17 (498)
+                      m. Fundstelle
+                      LG Braunschweig, Urteil vom 06.07.2018 - 11 O 3017/17 (498) = openJur 2020, 9165
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Braunschweig, Urteil vom 06.07.2018 - 11 O 3017/17 (498)
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 9165
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Klägerin trägt die Kosten des Rechtsstreits.Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages. 
+				Tatbestand
+				Die Klägerin macht im Rahmen des von der Beklagten als „Dieselthematik“ bezeichneten sog. „Abgasskandals“ im Zusammenhang mit einem PKW-Kauf gegen die Beklagte als Herstellerin Schadensersatzansprüche geltend.Im Januar 2013 erwarb die Klägerin gegen Zahlung 16.490 € von einem Autohaus einen gebrauchten PKW ... . Verbaut ist darin ein Motor vom Typ EA 189.Das Fahrzeug wurde aufgrund einer entsprechenden Typgenehmigung nach EU5 zugelassen.Der Umfang der NOX-Emissionen des Fahrzeugs hängt u.a. davon ab, in welchem Umfang Abgase aus dem Auslassbereich des Motors über ein Abgasrückführungsventil in den Ansaugtrakt des Motors zurückgeleitet werden: Je mehr Abgase zurückgeführt werden, desto weniger Stickoxide werden emittiert. Die das Abgasventil steuernde Software des Motorsteuerungsgeräts erkannte, ob sich das Fahrzeug innerhalb oder außerhalb der Bedingungen des zur Erlangung der Typengenehmigung durchgeführten Testlauf nach dem NEFZ befindet, der aus fünf exakt vorgegebenen synthetischen Fahrkurven besteht. Befand sich das Fahrzeug außerhalb der Bedingungen des NEFZ wurden relativ weniger Abgase in den Ansaugtrakt des Motors zurückgeleitet als wenn sich das Fahrzeug innerhalb der Bedingungen des NEFZ befand.Das Kraftfahrtbundesamt (im Folgenden: KBA) als zuständige Behörde erkannte in der genannten Software - die der Klägerin bei Abschluss des Kaufvertrages unbekannt war - eine unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2, Art. 3 Ziffer 10 der VO (EG) 715/2017 und ordnete einen Rückruf an. Die Beklagte entwickelte daraufhin ein Softwareupdate, welches vom KBA mit Schreiben vom 03.11.2016 - redaktionell berichtigt am 21.11.2016 - freigegeben wurde. Die Klägerin ließ das Update am 18.01.2017 aufspielen, worüber ihr eine Bescheinigung entsprechend der Anlage B3 - auf die Bezug genommen wird - ausgestellt wurde.Die Klägerin ist der Auffassung, dass die Beklagte Zug-um-Zug gegen Rückgabe des streitgegenständlichen Fahrzeugs aus Deliktsrecht zur Zahlung von Schadensersatz in Höhe des damals gezahlten Kaufpreises abzüglich einer Nutzungsentschädigung verpflichtet sei, hilfsweise zur Zahlung von Schadensersatz in Höhe eines behaupteten Minderwertes des Fahrzeugs infolge der streitgegenständlichen Software.Die Klägerin behauptet, sie sei von der Beklagten über die Umwelttauglichkeit des Fahrzeugs getäuscht worden, weil sie nämlich großen Wert darauf gelegt habe, eine grüne Umweltplakette zu erhalten.Weiter behauptet die Klägerin, das Update führe zu einer erhöhten Belastung des Fahrzeugs und damit zu einer höheren Fehleranfälligkeit; „so sollen insbesondere Abgasrückführungsventile öfters kaputt gehen“.Das Fahrzeug sei infolge der streitgegenständlichen Software nicht zulassungsfähig. Dieser Mangel werde auch durch das Update nicht behoben.Infolge der streitgegenständlichen Software sei das streitgegenständliche Fahrzeug quasi unverkäuflich, mindestens ein merkantiler Minderwert von 30% eingetreten. Fahrzeuge mit EU5-Motoren würden teilweise mit Abschlägen von bis zu 50% gehandelt, was der - nicht vorgelegten - Tagespresse zu entnehmen sei.Die Klägerin ist der Auffassung, die Beklagte hafte auch nach § 826 BGB, §§ 823 Abs. 2 BGB, 16 UWG, und nach § 823 Abs. 2 BGB in Verbindung mit den illegale Abschalteinrichtungen der streitgegenständlichen Art verbietenden Vorschriften der VO (EG) 715/2007.Die Klägerin beantragt,1. die Beklagte zu verurteilen, an sie einen Betrag in Höhe von 14.799,25 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 04.01.2013 Zug um Zug gegen Rückgabe des ... mit der FIN ... zu zahlen,2. festzustellen, dass sich die Beklagte mit der Annahme des o.g. Fahrzeugs im Annahmeverzug befindet und3. die Beklagte zu verurteilen, ihr vorgerichtliche Rechtsanwaltskosten in Höhe von 3.363,13 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinnsatz seit dem 23.08.2017 zu erstatten.Hilfsweise zu 1. beantragt die Klägerin,1. die Beklagte zu verurteilen, an sie einen in das Ermessen des Gerichts zu stellenden Schadensersatz in Höhe mindestens 4.947 € zu zahlen und2. festzustellen, dass die Beklagte verpflichtet ist, ihr alle Schäden zu ersetzen, die ihm im Zusammenhang mit dem Kauf des o.g. Fahrzeugs entstanden sind oder zukünftig entstehen werden.Die Beklagte beantragt,die Klage abzuweisen.Das Gericht hat der Klägerin mit Verfügung vom 08.03.2018 (Bl. 56 d. A.) rechtliche Hinweise erteilt, auf die Bezug genommen wird. 
+				Gründe
+				Die zulässige Klage ist nicht begründet.I. Zum Klageantrag zu Ziffer 1.:Der Klägerin steht gegen die Beklagte kein Anspruch auf Zahlung von Schadensersatz in Höhe des Kaufpreises unter Abzug einer Nutzungsentschädigung Zug-um-Zug gegen Rückgabe des streitgegenständlichen Fahrzeugs zu:1. Ein Anspruch auf Rückabwicklung des Kaufvertrages im Wege des Schadensersatzes gem. § 826 BGB scheidet aus:a) Zunächst ist bereits eine sittenwidrige Schädigung nicht dargelegt:Die Klägerin behauptet, sie sei über die Umweltverträglichkeit des Fahrzeugs getäuscht worden, weil sie nämlich großen Wert darauf gelegt habe, eine grüne Umweltplakette zu erhalten, freilich ohne darzulegen, dass sie nicht tatsächlich über eine solche verfügt.Der Verstoß gegen die ein Verbot von illegalen Abschalteinrichtungen vorsehende VO (EG) 715/2007 ist ebenfalls nicht geeignet, einen Schadenersatzanspruch der Klägerin unter dem Gesichtspunkt des sittenwidrigen Verhaltens auszulösen: Für Ansprüche aus unerlaubten Handlungen - auch für solche aus § 826 BGB - gilt, dass die Ersatzpflicht auf solche Schäden beschränkt ist, die in den Schutzbereich des verletzten Ge- oder Verbots fallen (BGH, Urteil vom 11.11.1985, II ZR 109/84, zit. nach juris, Rn. 15). Die VO (EG) 715/2007 dient ersichtlich nicht dem Schutz des von der Klägerin geltend gemachten Vermögensinteresses.Die vorgenannte Frage kann aber sogar dahinstehen. Letztlich geht es um die Frage, ob das Verschweigen von Mängeln durch einen Hersteller einen Anspruch aus § 826 BGB auszulösen vermag. Die Kammer geht diesbezüglich davon aus, dass allenfalls das Verschweigen von schwerwiegenden Mängeln durch den Hersteller, denen der Markt eine ganz erhebliche Bedeutung beimisst oder die dazu führen, dass das Fahrzeug unkorrigierbar nur erheblich eingeschränkt oder gar gar nicht mehr genutzt werden kann, den Vorwurf der Sittenwidrigkeit zu begründen vermag. Dies beruht auf folgenden Überlegungen:Schon zwischen Vertragspartnern rechtfertigt das Verschweigen eines Umstandes, der für den Vertragsschluss relevant ist, nicht ohne weiteres den Vorwurf eines Sittenverstoßes, sondern nur dann, wenn eine Seite der anderen zu entsprechender Offenbarung verpflichtet ist. Eine Offenbarungspflicht entsteht, wenn die andere Seite nach Treu und Glauben mit Rücksicht auf die Verkehrssitte eine Mitteilung erwarten darf. Eine vollumfängliche Information über alle Belange des Geschäftes darf der Vertragspartner nach Treu und Glauben nicht erwarten; es besteht also keine allgemeine Offenbarungspflicht. Im Vertragsrecht ist zunächst jedes Privatrechtssubjekt für die Verteidigung seiner Interessen selbst verantwortlich. Das gilt insbesondere für den Kaufvertrag, der von gegensätzlichen Interessen geprägt ist: Jeder möchte möglichst viel für sich selbst rausholen. Die Grenze des nach der Verkehrsauffassung Hinnehmbaren ist erst dann überschritten ist, wenn es um erhebliche wertbildende Umstände beim Kaufvertragsabschluss geht (so ausdrücklich Palandt/Sprau, BGB, 77. Aufl., § 826, Rn. 20; Bamberger/Roth, BGB,3. Aufl., § 826, Rn. 23, Fn. 148; m Ergebnis auch Staudinger/Oechsler, BGB, 2014, § 826, Rn. 159, der zunächst nur betreffend erhebliche Umstände eine Aufklärungspflicht annimmt, einen verborgenen Sachmangel dann als regelmäßig erheblichen Umstand bezeichnet, um dann nur Fälle aufzuzählen, in denen es um erhebliche wertbildende Faktoren geht; ähnlich auch BayObLG, Beschluss vom 09.12.1993, 3 St RR 127/93, zit. nach juris, Rn. 24, indes für die Aufklärungspflicht im Rahmen von § 263 StGB, s.o.).Dazu „passt“, dass sich der Gesetzgeber bei Schaffung der Regelungen für das auf Rückabwicklung des Kaufvertrages gerichtete Rücktrittsrecht der Figur des arglistig handelnden Verkäufers bewusst war, was aus §§ 218 Abs. 1 S. 1, 438 Abs. 3 S. 1, Abs. 1, 437 Nr. 1, 439 BGB folgt. Dennoch hat der Gesetzgeber nicht ausdrücklich geregelt, dass der Rücktritt im Falle eines arglistigen Verkäufers unabhängig von einer vorherigen Fristsetzung zur Mangelbeseitigung möglich ist und der arglistige Verkäufer damit nicht durch Nachbesserung eine Rückabwicklung des Kaufvertrages verhindern kann. Auch fehlt eine Regelung dahingehend, dass eine Berufung des arglistigen Verkäufers auf die Unerheblichkeit der Pflichtverletzung gem. § 323 Abs. 5 S. 2 BGB ausgeschlossen ist. Entsprechend wird auch von der Rechtsprechung nur angenommen, dass die Arglist des Verkäufers eine Fristsetzung zur Mangelbeseitigung nur „in der Regel“ entbehrlich macht und auch nur „in der Regel“ eine Anwendung des § 323 Abs. 5 S. 2 BGB ausschließt. Würde man jegliches Verschweigen eines Mangels als sittenwidrig im Sinne von § 826 BGB ansehen, hieße es anzunehmen, dass der Gesetzgeber einen Käufer u.U. trotz der Sittenwidrigkeit an einem Kaufvertrag festgehalten wollte, was ausgeschlossen sein dürfte (Anmerkung: Aus demselben Grund kann auch nicht jegliches Verschweigen eines Mangels ein strafbewehrtes Unterlassen im Sinne von §§ 263 Abs. 1, 13 StGB darstellen.)Zu beachten ist weiterhin: Die vorgenannten Argumente gelten schon im Verhältnis zwischen Käufer und Verkäufer, die miteinander ein gewisses Vertrauen begründend über einen Vertrag miteinander verbunden sind, welches der arglistige Verkäufer „verrät“. Im Verhältnis des Herstellers zum Käufer fehlt es an an dieser vertrauensbegründenden Verbindung, die der Hersteller durch Verschweigen des Mangels „verraten“ würde.Schließlich hat der Gesetzgeber durch Einführung des ProdHaftG eine Haftung des Herstellers für fehlerhafte Produkte eingeführt. Das wirtschaftliche Nutzungs- und Äquivalenzinteresse des Käufers, dass die Sache keine Mängel aufweist, sollte dadurch aber gerade nicht geschützt werden (Palandt/Sprau, BGB, 77. Aufl., § 3 ProdHaftG, Rn. 1).Wenn- das arglistige Verschweigen von Mängeln durch den Verkäufer nicht in jedem Fall einen Anspruch aus § 826 BGB auslösen soll,- obwohl dort ein gewisses Vertrauensverhältnis „verraten“ wird, welches der Hersteller nicht „verraten“ kann und- der Gesetzgeber auf die Einführung einer Haftung des Herstellers für das Nutzungs- und Äquivalenzinteresse des Käufers verzichtet hat,erscheint es im Ergebnis sachgerecht, eine Haftung des Herstellers für verschwiegene Mängel über § 826 BGB nur für die o.g. besonders schweren Fälle anzunehmen.Letztlich kann diese Frage aber dahinstehen. Die Klägerin hat nicht vereinzelt dargelegt, dass - was die Aufklärungspflicht eines Verkäufers ausgelöst hätte - die Fehlerhaftigkeit der verfahrensgegenständlichen Motorsteuerungssoftware am Markt einen wertbildenden Faktor von ganz besonderem Gewicht darstellt, dergestalt, dass es zu einem erheblichen Preisverfall der davon betroffenen Fahrzeuge gekommen ist. Trotz eines entsprechenden gerichtlichen Hinweises hat die Klägerin pauschal einen merkantilen Minderwert von mind. 30% bzw. behauptet, Fahrzeuge mit EU5-Motoren würden mit Abschlägen von bis zu 50% gehandelt, ohne klarzustellen, ob dies auf der streitgegenständlichen Softwareproblematik und nicht etwa darauf beruht, dass Dieselfahrzeuge markenübergreifend in der Gunst des Publikums nachgelassen haben. Die in Bezug genommene Tagesspresse wurde ebenfalls nicht vorgelegt. Die Klägerin hätte aber der entgegenstehenden vereinzelten Darlegung der Beklagten entgegentreten müssen. Eine am Markt orientierte vereinzelte Darlegung wäre nämlich ggf. auch der Klägerin möglich, da der Kraftfahrzeugmarkt generell durch eine erhebliche Transparenz gekennzeichnet ist (vgl. z.B. die monatlichen sog. „Schwacke-Listen“) und die Preisentwicklung von gebrauchten Dieselfahrzeugen zudem - offenkundig, nämlich dem Gericht durch zuverlässige Presseberichte und Internetseiten gekannt (Zöller/Greger, ZPO, 30. Aufl., § 291, Rn. 1) unter besonderer medialer Aufmerksamkeit steht.Weiter verweist die Klägerin darauf, dass das Fahrzeug wegen der streitgegenständlichen Software nicht zulassungsfähig sei und dies auch durch das Upgrade nicht werde. Tatsächlich hat das Fahrzeug aber durchgehend über eine Zulassung verfügt und entsprechen Fahrzeuge, die mit dem Motor EA189 EU 5 ausgestattet sind, wenn sie dem Nachrüstverlangen des KBA nachgekommen sind. Dies hat das KBA, als es die entsprechenden Software-Updates freigegeben hat, bestätigt. Dem Klägervortrag lassen sich keine Gründe dafür entnehmen, dass die Einschätzung der auf technische Fragen dieser Art spezialisierten Fachbehörde unrichtig sein könnte (so auch VG Düsseldorf, Urteil vom 24.01.2018, 6 K 12341/17, zit. nach juris, Rn. 349 wobei diesem im Rahmen der Amtsermittlung sogar weitere Akten vorgelegen haben dürften). Entsprechend ist die Behauptung der Klägerin, das streitgegenständliche Fahrzeug sei nach dem das Softwareupgrade nicht zulassungsfähig, als unzulässige sog. „Behauptung ins Blaue hinein“ anzusehen.Im Übrigen und entsprechend hat die Klägerin auch nicht dargelegt, dass ihr wegen der streitgegenständliche Software durch Vertragsschluss ein Schaden entstanden ist. Der Umstand, dass jemand durch eine Täuschung zu einem Vertragsschluss bewegt wurde, von dem er in Kenntnis der Täuschung abgesehen hätte, begründet nicht ohne weiteres einen Schadensersatzanspruch auf Freistellung von den Verpflichtungen aus dem Vertrag. Voraussetzung ist vielmehr, dass Leistung und Gegenleistung objektiv nicht gleichwertig sind oder aber - bei objektiver Gleichwertigkeit von Leistung und Gegenleistung - die Leistung für den Getäuschten trotzdem nicht voll brauchbar ist (so auch OLG Braunschweig, Beschluss vom 11.01.2018, 7 U 155/17). Umstände der genannten Art hat die Klägerin nicht dargelegt. Konkrete Angaben zum Wert von Leistung und Gegenleistung wären dabei auch deswegen notwendig, weil die Klägerin noch nicht einmal vereinzelt darlegt, dass die Preise von vom sog. „Abgasskandal“ betroffene Fahrzeuge selbst weit über 2 Jahre nach Bekanntwerden desselben gerade wegen der streitgegenständlichen Softwareproblematik sinken.2) Der geltend gemachte Schadensersatzanspruch ergibt sich auch nicht aus §§ 823 Abs. 2 BGB, 16 UWG.Die Klägerin hat zunächst keine einzige Werbemaßnahme der Beklagten konkret dargelegt.Weiter und erst Recht hat die Klägerin nicht dargelegt, dass die Beklagte im Sinne von § 16 Abs. 1 UWG den Anschein eines besonders günstigen Angebots hervorrufen wollte. Dem Täter des § 16 Abs. 1 UWG muss es darum gehen, das der Verkehr die Leistung, die er tatsächlich anbietet, für besonders günstig hält, weil die Leistung in Bezug auf Qualität und Preis - besonders - vorteilhaft ist und/oder die Bedürfnisse des angesprochenen Verkehrs in Bezug auf das angebotene Produkt aus anderen Gründen - besonders - befriedigt, was tatsächlich nicht der Fall ist. Nach den Vorstellungen des Täters muss die Entscheidung des Adressaten für das Erwerbsgeschäft von dem angepriesenen - besonderen - Vorteil, der tatsächlich nicht gegeben ist, beeinflusst werden (Hart-Bavendamm/Henning-Bodewig/Dreyer, UWG, 3. Aufl., § 16, Rn. 31, 32; für § 4 UWG aF auch BGHSt 27, 293 - 295, zit. nach juris Rn. 6, 7).3) Der geltend gemachte Schadensersatzanspruch ergibt sich schließlich aus nicht aus §§ 823 Abs. 2 BGB in Verbindung mit den den Verbot von illegalen Abschalteinrichtungen vorsehenden Vorschriften der VO (EG) 715/2007.Zum einen dient die VO (EG) 715/2007 nicht den geltend gemachten Vermögensinteressen, sondern Interessen der Allgemeinheit.Diese Frage kann aber letztlich sogar dahinstehen: Die Klägerin hat nicht dargelegt, dass ihr durch den Verstoß gegen die Vorschriften überhaupt ein Schaden entstanden ist. Auf die obigen Vorschriften wird verwiesen.4) Ob eine deliktische Haftung der Beklagten für „behauptete“ negative Folgen des Updates überhaupt in Frage kommt - Das Update ist behördlich angeordnet worden, was deliktischen Ansprüchen entgegenstehen dürfte. - kann dahinstehen. Die Klägerin hat negative Folgen des Updates nicht vereinzelt dargelegt:Die Darlegungslast für behauptete negative Folgen trägt entgegen der von der Klägerin vertretenen Rechtsauffassung nach allgemeinen Regeln diese. Die vom Klägervertreter zitierte Entscheidung des OLG Köln (BEschluss vom 27.04.2018, 18 U 134/179 betrifft Gewährleistungsansprüche, um die es vorliegend nicht geht, und begegnet zudem ohnehin Zweifeln, jedenfalls soweit es um die Parameter geht, die Gegenstand der o.g. behördlichen Schreiben - genauer: Bescheide - vom 03./21.11.2016 sind, da es sich bei diesen Schreiben um öffentliche Urkunden im Sinne von § 417 f. ZPO mit den sich daraus ergebenden Wirkungen für die Darlegungs- und Beweislast handelt.Die Klägerin behauptet dann zunächst einen höheren Verbrauch infolge des Updates. Dies indes pauschal, also nicht hinreichend vereinzelt, obwohl der Klägerin aus eigener Erfahrung - Das Update wurde vor 17 Monaten aufgespielt! - vereinzelte Angaben möglich sein müssten. So werden die diesbezüglich vergleichsweise heranzuziehenden Herstellerangaben nicht genannt. Auch ist zu berücksichtigen, dass für die Frage eines überhöhten Kraftstofferbrauchs auf die Prüfbedingungen nach dem NEFZ abzustellen ist (vgl. etwa OLG Hamm, Urteil vom 08.06.2015, I-2 U 163/14, zit. nach juris, Rn. 17). Die „Angaben“ der Klägerin aber lassen keinerlei Schluss darauf zu, dass das Fahrzeug innerhalb der Bedingungen des NEFZ, die (nicht) dargelegten Herstellerangaben nicht einhält.Soweit die Klägerin eine geringere Lebensdauer infolge des Updates insbesondere von Abgasreinigungssystemen behauptet, ist folgendes zu beachten: Schon gegenüber dem Verkäufer geht der Nacherfüllungsanspruch des Käufers nicht weiter als der ursprüngliche Erfüllungsanspruch (BGH, Urteil vom 17.12.2012, VIII ZR 226/11, zit. nach juris, Rn. 24). Daher kann auch der Hersteller allenfalls das schulden, was er herstellermäßig ursprünglich zugesagt hat. Irgendwelche verbindliche Angaben der Beklagten betreffend die Dauerhaltbarkeit des streitgegenständlichen Fahrzeugs hat die Klägerin aber nicht dargelegt.II. Zum Klageantrag zu Ziffer 2):Da die Klägerin keinen Anspruch auf Schadenersatz hat, befindet sich die Beklagte auch nicht mit der Rücknahme des streitgegenständlichen Fahrzeugs in Verzug.III. Zum Klageantrag zu Ziffer 3):Mangels Anspruchsgrundlage - s.o. - steht der Klägerin gegen die Beklagte auch kein Anspruch auf Erstattung vorgerichtlicher Rechtsanwaltskosten zu.IV. Zum Hilfsantrag zu Ziffer 1.:Der Antrag ist zwar zulässig, aber nicht begründet. Die Klägerin hat den geltend gemachten Schadenersatzanspruch weder dem Grunde, noch der Höhe nach schlüssig dargelegt. Auf die obigen Ausführungen wird verwiesen.V. Zum Hilfsantrag Ziffer 2.:Der Antrag ist bereits nicht zulässig, (mindestens) weil es an einem Feststellungsinteresse mangelt. Bei reinen Vermögensschäden, die Gegenstand der Klage sind, hängt bereits die Zulässigkeit der Feststellungsklage von der Wahrscheinlichkeit eines auf die Verletzungshandlung zurückzuführenden Schadenseintritts ab (BGH, Urteile vom 15. Oktober 1992 - IX ZR 43/92, WM 1993, 251, 260, vom 14. Dezember 1995 - IX ZR 242/94, WM 1996, 548, 549, vom 2. Dezember 1999 - IX ZR 415/98, WM 2000, 199, 202, vom 22. Februar 2001 - IX ZR 293/99, WM 2001, 741, 742, vom 25. Oktober 2001 - IX ZR 427/98, WM 2002, 29, 32 und vom 6. Juli 2004 - XI ZR 250/02, BGHReport 2005, 78, 79). Eine solche Wahrscheinlichkeit hat die Klägerin vorliegend nicht dargelegt: Die behauptete Verletzungshandlung der Beklagten besteht in der Verwendung einer illegalen Abschalteinrichtung. Diese ist entfernt und es ist nicht ersichtlich, warum die Software im Nachhinein noch Schäden am Fahrzeug bewirken soll.VI. Prozessuale Nebenentscheidungen:Die prozessualen Nebenentscheidungen beruhen auf §§ 91, 709 ZPO.VII. Streitwert: Wertstufe bis 16.000 €.
+			
+			
+			
+			Permalink: https://openjur.de/u/2205438.html (https://oj.is/2205438)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate9
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

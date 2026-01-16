@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 18.12.2019 - 1 O 243/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 18.12.2019 - 1 O 243/19
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 18.12.2019 - 1 O 243/19 = openJur 2021, 19748
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 18.12.2019 - 1 O 243/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 19748
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreites trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht gegenüber der Beklagten Ansprüche im Zusammenhang mit dem sogenannten Dieselabgasskandal wegen eines von der Beklagten hergestellten Fahrzeuges geltend.Der Kläger erwarb bei der Firma A GmbH, in B, unter dem 10.04.2017 einen gebrauchten Pkw U V Diesel, (Erstzulassung 14.02.2013, Laufleistung 21000 km, 130 KW = 177 PS, 1.9... ccm = 2,0 l) zu einem Kaufpreis von 23.440,00 EUR. Die Übergabe des Fahrzeugs an den Kläger erfolgte am 25.04.2019.Das Fahrzeug ist mit einem Dieselmotor des Typs XY ...# ausgestattet, der von der Beklagten hergestellt und in den Verkehr gebracht wurde und mit der Abgasnorm EURO 5 zertifiziert ist. Die verbaute Software der Motorsteuergeräte verfügt über eine Umschaltlogik, die erkennt, wenn das Fahrzeug den sogenannten Neuen Europäischen Fahrzyklus (NEFZ) durchfährt.Bei dem NEFZ handelt es sich um einen gesetzlich vorgegebenen Testlauf, der aus fünf synthetischen Fahrkurven besteht. Im NEFZ werden bei Testfahrzeugen unter Laborbedingungen die für die Erlangung einer Typengenehmigung maßgeblichen Abgaswerte gemessen. Denn Hersteller von Fahrzeugen müssen nach der VO (EG) Nr.715/2007 (Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20.06.2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge nachweisen, dass die von ihnen produzierten (Neu-) Fahrzeuge über eine Typengenehmigung verfügen. Zur Erlangung dieser Typengenehmigung müssen die Fahrzeuge bestimmte, unter diesen Laborbedingungen gemessene, Emissionsgrenzwerte einhalten.Erkennt die im streitgegenständlichen Fahrzeug ursprünglich installierte Software diese Testbedingungen des NEFZ, so wird die Abgasrückführung des Fahrzeuges so gesteuert, dass möglichst wenig Stickoxide (NOx) ausgestoßen werden ("NOxoptimierter Modus 1"). Im normalen Fahrbetrieb und Straßenverkehr ist hingegen der "Abgasrückführungs-Modus 0" aktiv, weshalb die NOx-Emissionen dann höher sind.Das Kraftfahrt-Bundesamt ordnete zunächst den Rückruf aller mit dem Motortyp XY...# EU5 und der beschrieben Umschaltlogik versehenen Fahrzeuge an und genehmigte später ein von der Beklagten für diesen Motortyp entwickeltes Softwareupdate. Dieses wurde bei dem streitgegenständlichen Fahrzeug des Klägers zu einem nicht näher bekannten Zeitpunkt aufgespielt; die Aufspielung des Software-Uptades zur Beseitigung der Manipulationssoftware war jedenfalls bei Erwerb des Fahrzeuges durch den Kläger bereits vollzogen, welches dem Kläger auch bekannt war.Darüber hinaus war dem Kläger aufgrund der umfangreichen Presseberichterstattung sowie der Presseerklärungen der Beklagten seit September 2015 und damit bei Erwerb des Fahrzeuges bekannt, dass das Fahrzeug mit einer softwaregestützten "Abschalteinrichtung" zur Manipulation der Abgaswerte ausgestattet war und inzwischen ein Software-Update aufgespielt worden war, aufgrund dessen die Genehmigung des Motortyps durch das Kraftfahrtbundesamt erfolgte.Der Kläger behauptet, die Emissionswerte und die Funktionstüchtigkeit des Fahrzeuges seien für seine Entscheidung, das streitgegenständliche Fahrzeug zu erwerben, maßgeblich gewesen. Allerdings sei der (merkantile) Wert des Fahrzeugs durch das aufgespielte Software-Update negativ beeinträchtigt; insoweit bestehe zumindest das Risiko eines Wertverlustes bei einer Weiterveräußerung des Fahrzeuges. In diesem Zusammenhang sei inzwischen mehrfach in Presseartikeln der konkrete Verdacht geäußert worden sei, dass die Entfernung der Manipulationssoftware durch das Software-Update negative Auswirkungen auf den Motorverschleiß, die Emissionswerte und den Kraftstoffverbrauch könne. Bei Testfahrzeugen sei es dem Aufspielen des Software-Updates zu einem "Ruckeln" des Fahrzeugs gekommen sei. Damit sei jedenfalls zweifelhaft, dass die Entfernung der Manipulationssoftware durch das Software-Update zu einer (dauerhaften) Mangelfreiheit des Fahrzeuges führen könne und werde.Der Kläger, der von der Beklagten Schadensersatz begehrt, beantragt,1. die Beklagte zu verurteilen, an ihn 23.440,00 EUR nebst Zinsen in Höhe von 2.047,09 EUR sowie weiterer Zinsen aus 23.440,00 EUR in Höhe von 4 % p.a. seit dem 01.07.2019 Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs U V mit der Fahrzeug-Identifikationsnummer $$$$$$#$$$$... zu zahlen;2. festzustellen, dass sich die Beklagte mit Annahme des in Ziffer 1. genannten Fahrzeuges seit dem 11.09.2019 in Annahmeverzug befindet.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte geht davon aus, dass durch die Abstimmung und Überprüfung der technischen Maßnahmen mit dem Kraftfahrt-Bundesamt im Rahmen des vollzogenen Software-Updates sichergestellt sei, dass sich die technischen Maßnahmen nicht negativ auf den Kraftstoffverbrauch und die CO²-Emissionen auswirken würden. Durch das bei dem streitgegenständlichen Fahrzeug aufgespielte Software-Update arbeite die Abgasrückführung dann nur noch in einem einheitlichen Betriebsmodus, dem "adaptierten Modus 1". Zugleich erfolge damit eine Optimierung des Verbrennungsprozesses durch eine Anpassung der Einspritzcharakteristik. Das vom Kläger erworbene Fahrzeug halte nach dem Software-Update hinsichtlich des Kraftstoffverbrauchs und der Stickoxydemissionen alle relevanten Standards bezüglich der vom Kraftfahrtbundesamt erteilten Typengenehmigung ein.Mit Rücksicht auf den Umstand, dass der Kläger bei Abschluss des Kaufvertrages Kenntnis von allen relevanten Umständen in Bezug auf den Motortyp XY ...# im Rahmen des sogenannten Abgasskandals gehabt habe, seien ihm auch schon deshalb Schadensersatzansprüche verwehrt.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze sowie die zu den Akten gereichten Unterlagen sowie das Vorbringen der Prozessbevollmächtigten des Klägers in der mündlichen Verhandlung (vgl. Sitzungsprotokoll v. 27.11.2019, Bl. 191 f. d.A.) Bezug genommen. 
+				Gründe
+				Die Klage ist nicht begründet.Dem Kläger stehen unter keinem rechtlichen Gesichtspunkt Schadensersatzansprüche gegenüber der Beklagten aufgrund des Erwerbes des streitbefangenen Fahrzeuges zu.Zwar kann nach Auffassung der Kammer mit dem Erwerb eines Fahrzeuges mit dem Diesel-Motortyp XY ...# grundsätzlich eine Haftung des Fahrzeugherstellers gemäß §§ §§ 826, 831 BGB bzw. §§ 826, 31 BGB in Betracht kommen (vgl. nur OLG Köln, Beschl. v. 03.01.2018 - 18 U 70/18 -).In der konkreten Fallgestaltung liegen die Voraussetzungen für eine solche Haftung jedoch nicht vor.Im Hinblick auf einen Schadensersatzanspruch aus § 826 BGB fehlt es im Streitfall jedenfalls an der notwendigen besonderen Verwerflichkeit des Handelns der Beklagten zum maßgeblichen Zeitpunkt des Schadenseintritts, d.h. zum Zeitpunkt des Fahrzeugserwerbs im April 2017.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann (vgl. nur BGH, Urt. V. 28.06.2016 - VI ZR 536/15 -, WM 2016, 1975 ff.). Ein Unterlassen verletzt die guten Sitten nur dann, wenn das geforderte Tun einem sittlichen Gebot entspricht. Hierfür reicht die Nichterfüllung einer allgemeinen Rechtspflicht oder einer vertraglichen Pflicht nicht aus. Insoweit müssen vielmehr besondere Umstände hinzutreten, die das schädigende Verhalten nach den Maßstäben der allgemeinen Geschäftsmoral und des als "anständig" Geltenden verwerflich machen (BGH, a.a.O, m.w.N.). Zur Feststellung der Sittenwidrigkeit kann es daher auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen (vgl. BGH, Urt. v. 15.10.2013 - VI ZR 124/12, MDR 2014, 88 f.; BGH, Urt. v. 22.06.1992 - II ZR 178/90 -, NJW 1992, 3167, 3174). Gemessen an diesem Maßstab ist das Verhalten der Beklagten zum maßgeblichen Zeitpunkt des Erwerbs des in Rede stehenden Fahrzeugs durch den Kläger im April 2017 nicht als besonders verwerflich und damit nicht als sittenwidrige Schädigung i.S.v. § 826 BGB zu bewerten. Unter anderem die Beklagte hat seit Einräumung der Unregelmäßigkeiten im Rahmen des sogenannten Dieselabgasskandals im Jahre 2015 mit den zuständigen Behörden - in Deutschland insbesondere mit dem Kraftfahrtbundesamt - zusammengearbeitet und explizit veröffentlicht, welche konkreten Fahrzeugtypen bzw. Motortypen vom sogenannten "Dieselskandal" betroffen sind. Daher kann auch der Beklagten jedenfalls in Bezug den hier in Rede stehenden Gebrauchtwagenkauf im April 2017 kein verwerfliches Verhalten vorgeworfen werden, welches eine Haftung nach § 826 begründen könnte (vgl. OLG Celle, Beschl. v. 29.04.2019 - 7 U 159/19 -), zumal der Kläger mit seinem eigenen Vorbringen einräumt, bei Erwerb des Fahrzeugs durch die Presseberichterstattung umfassend über die Abgasproblematik und auch deren Nachbesserung durch das Aufspielen eines Software-Updates informiert gewesen zu sein. Vor diesem Hintergrund der Kenntnisse des Klägers fehlt es zudem an der vom Kläger darzulegenden und erforderlichenfalls zu beweisenden Kausalität des Verhaltens der Beklagten für einen Schaden, welcher ggf. im Erwerb des Fahrzeugs lag.Dem Kläger stehen die geltend gemachten Ansprüche auch nicht nach § 823 Abs. 2 i.V.m. § 263 StGB bzw. § 16 UWG, nach § 823 Abs. 2 i.V.m. §§ 6, 27 EG-FGV, nach § 280, 241 Abs. 2, 311 Abs. 3 BGB, oder aufgrund eines Auskunfts- oder Garantievertrags zu.Hierbei fehlt es für deliktische Ansprüche gegenüber der Beklagten bereits an einer Täuschung des Klägers, der nach seinem eigenen Vorbringen Kenntnisse über die Manipulationssoftware und das Software-Update hatte. Soweit der Kläger in diesem Zusammenhang anführt, es bestehe aufgrund des vorgenommenen Software-Update die Gefahr eines merkantilen Mindererlöses bei einer Weiterveräußerung des erworbenen Fahrzeugs, ist nicht erkennbar und dargetan, dass dem Kläger dieser Umstand - selbst seine Richtigkeit unterstellt - bei Erwerb des Fahrzeuges verborgen geblieben wäre und damit auch hierdurch eine Täuschung des Klägers ausgeschlossen ist. Darüber hinaus ist das Vorbringen des Klägers hierzu nicht konkret auf das erworbene Fahrzeug bezogen, sondern verliert sich vielmehr in einer bloßen Befürchtung für die konkrete Anhaltspunkte nicht dargetan sind.Es kann in diesem Zusammenhang hier auch dahingestellt bleiben, ob die Regelungen in §§ 6, 27 EG-FGV Schutzgesetze mit Individual-Rechtsschutzcharakter für den einzelnen Kunden sind. Denn es fehlt bereits an einem Verstoß der Beklagten gegen § 6 Abs. 1 Satz 1 EG-FGV. Nach dieser Vorschrift hat der Hersteller als Inhaber einer EG-Typgenehmigung für jedes dem genehmigten Typ entsprechende Fahrzeug nach Art. 18 in Verbindung mit Anhang IX der Richtlinie 2007/46/EG eine Übereinstimmungsbescheinigung auszustellen und dem Fahrzeug beizufügen. Sodann aber fehlt es auch an einem Verstoß gegen § 27 Abs. 1 EG-FVG, der an § 6 Abs. 1 EG-FGV anknüpft und eine Veräußerung neuer Fahrzeuge im Inland nur mit gültiger Übereinstimmungsbescheinigung zulässt. Dem ist mit Aufspielen des Software-Updates ausreichend Rechnung getragen. Das konkrete Fahrzeug hat seine uneingeschränkte Zulassung für den Straßenverkehr; damit ist die zulassungstechnische Typgenehmigung vorhanden als auch auf eine zutreffend erteilte Übereinstimmungsbescheinigung gegeben.Ansprüche des Klägers aus einem selbständigen Garantievertrag gemäß oder entsprechend § 443 BGB, gestützt auf die Presseerklärung der Beklagten vom 16.12.2015, sind ebenfalls bereits dem Grunde nach nicht gegeben. Der vorgenannten Presseerklärung fehlt es bereits an einer entsprechenden auf Abschluss eines Garantievertrages gerichteten Erklärung der Beklagten gegenüber dem (potentiellen) Kunden, weil die Erklärung ihrer Sache nach und nach ihrem objektiven Inhalt bereits für eine derartige Auslegung nichts hergibt. Aus der Erklärung einen entsprechenden Rechtsbindungswillen der Beklagten für eine Garantie gegenüber einer nicht überschaubaren Anzahl von potentiellen Fahrzeugerwerbern herleiten zu wollen, geht fehl. Eine Garantieerklärung im Kaufrecht ist dadurch gekennzeichnet, dass der Verkäufer in vertragsmäßig bindender Weise für eine vereinbarte Beschaffenheit, deren Dauer oder die anderen nicht die Mängelfreiheit betreffenden Anforderungen die Gewähr übernehmen will und damit zu erkennen gibt, dass er für die Folgen ihres Fehlens einstehen will (vgl. Palandt-Weidenkaff, BGB, 78. Aufl, 2019, Rz. 5 zu § 443). Geringer können auch die an eine Garantie der Herstellerin zu stellenden Anforderungen nicht sein.Die bloße Aussage, dass das Fahrzeug nach dem Software-Update technisch sicher und fahrbereit ist und zudem im Straßenverkehr genutzt werden kann, stellt hier jedenfalls keine solche Individualgarantie im Sinne eines vertraglichen verbindlichen Garantieübernahme für die hierin bestätigten Umstände dar und ist im Übrigen nach der Aufspielung des Software-Updates nicht als unrichtig zu bewerten. Hierauf hat die Kammer den Kläger in der mündlichen Verhandlung vom 27.11.2019 ausdrücklich hingewiesen.In Ermangelung eines Schadensersatzanspruchs gegenüber der Beklagten ist auch der mit dem Klageantrag zu 2. Verfolgte Anspruch zur Feststellung des Annahmeverzuges der Beklagten nicht begründet.Mangels Hauptforderung stehen dem Kläger gegenüber der Beklagten schließlich auch die geltend gemachten Nebenforderungen nicht zu.Die Kostenentscheidung beruht auf § 91 Abs.1 ZPO, der Ausspruch zur vorläufigen Vollstreckbarkeit auf § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2342402.html (https://oj.is/2342402)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

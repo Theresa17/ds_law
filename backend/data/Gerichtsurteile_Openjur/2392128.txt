@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungUrteil vom 02.03.2022 - 5 U 104/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Urteil vom 02.03.2022 - 5 U 104/21
+                      m. Fundstelle
+                      OLG Köln, Urteil vom 02.03.2022 - 5 U 104/21 = openJur 2022, 6588
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Urteil vom 02.03.2022 - 5 U 104/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 6588
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 4 O 188/20
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Auf die Berufung des Klägers wird das Urteil des Landgerichts Aachen vom 14.05.2021 - 4 O 188/20 - teilweise abgeändert und insgesamt wie folgt neu gefasst:Die Beklagte wird verurteilt, an den Kläger 35.127,14 € nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 24.11.2020 Zug um Zug gegen Übergabe und Übereignung des Fahrzeuges Audi Q5 2.0 mit der Fahrgestellnummer A zu zahlen.Im Übrigen wird die Klage abgewiesen.Die weitergehende Berufung wird zurückgewiesen.Die Kosten des Rechtsstreits erster Instanz tragen der Kläger zu 7 % und die Beklagte zu 93 %. Die Kosten des Rechtsstreits zweiter Instanz tragen der Kläger zu 8 % und die Beklagte zu 92 %.Das vorliegende Urteil ist vorläufig vollstreckbar. Beiden Parteien bleibt nachgelassen, die Vollstreckung durch Sicherheitsleistung in Höhe von 110 % des vollstreckbaren Betrages abzuwenden, wenn nicht die vollstreckende Partei vor der Vollstreckung Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrages leistet.Die Revision wird zugelassen.  
+				Gründe
+				I.Der Kläger erwarb im Juni 2013 von der Fa. B GmbH & Co. KG einen Audi Q5 2.0 zu einem Kaufpreis von 49.983 € brutto. Das Fahrzeug wurde von der Audi AG, einem Tochterunternehmen der Beklagten, hergestellt. In ihm ist der durch die Beklagte entwickelte und produzierte Dieselmotor EA 189 verbaut. Bei Übergabe wies das Fahrzeug einen Kilometerstand von 5 km auf. Zum Zeitpunkt der mündlichen Verhandlung vom 19.01.2022 betrug die Laufleistung des Fahrzeuges 89.169 km.Der Motor EA 189 stand in Verbindung mit einer Software, die die Stickstoff-Emissionswerte im behördlichen Prüfverfahren optimierte. Das Motorsteuerungsgerät ermöglichte dabei zwei Betriebsmodi bei der Abgasrückführung: einen Stickstoffoptimierten Modus 1 mit einer relativ hohen Abgasrückführungsrate und einen Partikeloptimierten Modus 0, bei dem die Abgasrückführungsrate geringer war. Die Software des Motorsteuerungsgerätes verfügte über eine Fahrzykluserkennung, die erkannte, ob sich das Fahrzeug im üblichen Straßenverkehr oder auf einem technischen Prüfstand zur Ermittlung der Emissionswerte befand. Während des Prüfstandtests spielte die eingebaute Software beim Stickstoff-Ausstoß Modus 1 ab, wodurch geringere Stickoxidwerte erzielt und die gesetzlich vorgegebenen und im technischen Datenblatt aufgenommenen Abgaswerte eingehalten wurden. Unter realer Fahrbewegung im Straßenverkehr wurde das Fahrzeug im Abgasrückführung-Modus 0 betrieben.Nach Bekanntwerden des Einsatzes des in der Öffentlichkeit als "Manipulationssoftware" bezeichneten Motorsteuerungsprogrammes in verschiedenen Diesel-Fahrzeugen des Volkswagen-Konzerns legte das Kraftfahrt-Bundesamt (KBA) den Herstellerinnen im Herbst 2015 auf, die Software aus allen Fahrzeugen zu entfernen. Das entsprechende Softwareupdate ließ der Kläger aufspielen.Der Kläger meldete im Jahr 2018 beim Bundesamt für Justiz Ansprüche gegen die Beklagte zu der im Klageregister öffentlich bekannt gemachten Musterfeststellungsklage beim Oberlandesgericht Braunschweig an. Zu "Gegenstand und Grund" gab der Kläger folgendes an:"Mein Fahrzeug - Audi Q5 Baujahr 12/2013 - ist vom "Dieselskandal" betroffen. Das Fahrzeug ist nach Euronorm 5 zugelassen. Ein Softwareupdate wurde vom Hersteller bereits durchgeführt. In Zukunft werde ich in bestimmten Städten und Stadtautobahn C in bestimmten Bereichen mit meinem Fahrzeug nicht mehr fahren dürfen."Wegen der weiteren Einzelheiten der Anmeldung wird auf das Schreiben des Bundesamts für Justiz vom 27.08.2020 (Bl. 98 f d.A.) Bezug genommen.Die Musterfeststellungsklage beim Oberlandesgericht Braunschweig wurde am 30.04.2020 zurückgenommen.Mit seiner am 30.10.2020 eingegangenen und am 24.11.2020 zugestellten Klage hat der Kläger die Beklagte auf Rückabwicklung des Kaufvertrags in Anspruch genommen. Sie hafte ihm gegenüber wegen vorsätzlich sittenwidriger Schädigung aus § 826 BGB. Der Anspruch sei nicht verjährt. Kenntnis von den anspruchsbegründenden Umständen habe er jedenfalls nicht vor Ablauf des Jahres 2016 gehabt. Zudem sei ihm eine Klageerhebung bis zur Entscheidung des BGH vom 25.05.2020 (VI ZR 252/19) unzumutbar gewesen, weil die Rechtslage unsicher und zweifelhaft gewesen sei. Sollten Ansprüche verjährt sein, stehe ihm zumindest ein Anspruch aus § 852 BGB zu.Der Kläger hat beantragt,1. die Beklagte zu verurteilen, an ihn 49.983 € nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit abzüglich einer Nutzungsentschädigung in Höhe von 11.857,99 € Zug um Zug gegen Rückgabe und Übereignung des Fahrzeuges Audi Q5 2.0 mit der Fahrgestellnummer WAUZZZ8R5EA053474 zu zahlen;2. festzustellen, dass sich die Beklagte seit Rechtshängigkeit mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstandes in Annahmeverzug befindet.Die Beklagte hat beantragt,die Klage abzuweisen.Sie hat die Einrede der Verjährung erhoben.Wegen der Einzelheiten des streitigen Vorbringens der Parteien und der tatsächlichen Feststellungen des Landgerichts wird gemäß § 540 Abs. 1 Nr. 1 ZPO auf die Ausführungen in dem angefochtenen Urteil (Bl. 805 ff d.A.) Bezug genommen.Das Landgericht hat die Klage abgewiesen. Die geltend gemachten Schadensersatzansprüche seien verjährt. Dem Kläger stehe auch kein Anspruch aus § 852 BGB zu. Kenntnis von der Betroffenheit seines Fahrzeuges habe der Kläger spätestens mit Erhalt eines Anschreibens der Beklagten im Jahr 2016 gehabt, in dem er darüber informiert worden sei, dass der in seinem Fahrzeug eingebaute Dieselmotor von einer Software betroffen sei, durch welche die Stickoxidwerte im Vergleich zwischen Prüfstand und realem Fahrbetrieb verschlechtert seien. Die Verjährung sei auch nicht durch die Anmeldung der Ansprüche zum Musterfeststellungsverfahren gehemmt gewesen. Die Anmeldung sei unwirksam gewesen und habe damit keine hemmende Wirkung gehabt. Der Kläger habe seine Ansprüche entgegen § 608 Abs. 2 ZPO nicht hinreichend individualisiert. Ein Anspruch aus § 852 BGB stehe dem Kläger ebenfalls nicht zu. Es fehle ausreichender Vortrag dazu, in welcher Höhe die Beklagte, die weder Verkäuferin noch Herstellerin des Fahrzeuges war, überhaupt etwas aus dem Fahrzeugverkauf erlangt habeWegen der weiteren Einzelheiten wird auf die Ausführungen in der angefochtenen Entscheidung Bezug genommen.Mit der Berufung verfolgt der Kläger seine erstinstanzlichen Klageanträge weiter. Er wiederholt und vertieft seine erstinstanzlichen Ausführungen. Seine Ansprüche aus den §§ 826, 831 BGB seien nicht verjährt. Die Verjährung sei durch die Anmeldung seiner Ansprüche zur Musterfeststellungsklage gehemmt worden. Der angemeldete Anspruch sei ausreichend individualisiert gewesen. Die Angabe von Einzelheiten, wie sie zur Substantiierung der Klage erforderlich seien, bedürfe es bei der Anmeldung zur Musterfeststellungsklage nicht. Da er lediglich über dieses Auto verfügt habe, sei der Anspruch für die Beklagte eindeutig zuzuordnen gewesen. Der Kläger meint, ihm stünde jedenfalls ein Anspruch aus § 852 BGB gegen die Beklagte zu. Die Beklagte habe das Entgelt gemindert um die Vertragshändlermarge auf Kosten des Klägers erlangt. Die Marge habe 5 % des Bruttokaufpreises betragen. Den um diese Marge geminderten Kaufpreis habe der Vertragshändler an die Beklagte gezahlt. Soweit die Beklagte meine, ihr sei ein geringerer Betrag zugeflossen, treffe sie eine sekundäre Darlegungslast.Die Beklagte beantragt die Zurückweisung der Berufung. Sie wiederholt und vertieft ihr erstinstanzliches Vorbringen.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zur Akte gereichten Schriftsätze der Parteien nebst Anlagen Bezug genommen.II.Die zulässige Berufung ist begründet.1. Die Beklagte haftet dem Kläger dem Grunde nach gemäß §§ 826, 31 BGB wegen einer vorsätzlichen sittenwidrigen Schädigung auf Schadensersatz. Dies hat der Bundesgerichtshof für einen Fall, dem ein identischer Sachverhalt zugrunde lag, mit Urteil vom 25.5.2020 (VI ZR 252/19) bestätigt und entschieden.a) Das Verhalten der Beklagten ist im Verhältnis zum Kläger objektiv als sittenwidrig zu qualifizieren. Die Beklagte hat auf der Grundlage einer für ihren Konzern getroffenen grundlegenden strategischen Entscheidung bei der Motorenentwicklung im eigenen Kosten- und damit auch Gewinninteresse durch bewusste und gewollte Täuschung des Kraftfahrt-Bundesamtes systematisch, langjährig und in Bezug auf den Dieselmotor der Baureihe EA 189 in siebenstelligen Stückzahlen in Deutschland Fahrzeuge in Verkehr gebracht, deren Motorsteuerungssoftware bewusst und gewollt so programmiert war, dass die gesetzlichen Abgasgrenzwerte mittels einer unzulässigen Abschalteinrichtung nur auf dem Prüfstand eingehalten wurden. Damit ging einerseits eine erhöhte Belastung der Umwelt mit Stickoxiden und andererseits die Gefahr einher, dass bei einer Aufdeckung dieses Sachverhalts eine Betriebsbeschränkung oder -untersagung hinsichtlich der betroffenen Fahrzeuge erfolgen könnte. Ein solches Verhalten ist im Verhältnis zu einer Person, die eines der bemakelten Fahrzeuge in Unkenntnis der illegalen Abschalteinrichtung erwirbt, besonders verwerflich und mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht zu vereinbaren.b) Die grundlegende Entscheidung in Bezug auf die Entwicklung und Verwendung der unzulässigen Software ist von den im Hause der Beklagten für die Motorenentwicklung verantwortlichen Personen entweder selbst, zumindest aber mit ihrer Kenntnis und Billigung getroffen und jahrelang umgesetzt worden. Die Beklagte trifft insoweit eine sekundäre Darlegungslast, der sie nicht entsprochen hat. Hinreichende Anhaltspunkte für eine Kenntnis des Vorstands von der Verwendung der unzulässigen Abschalteinrichtung ergeben sich daraus, dass es sich bei der Verwendung einer unzulässigen Abschalteinrichtung um eine grundlegende, weltweit alle Fahrzeuge mit Motoren der Serie EA 189 betreffende Strategieentscheidung handelte, die mit erheblichen Risiken für den gesamten Konzern und auch mit persönlichen Haftungsrisiken für die handelnden Personen verbunden war.c) Dem Kläger ist durch das sittenwidrige Verhalten ein Schaden entstanden. Er ist veranlasst durch das einer arglistigen Täuschung gleichstehende sittenwidrige Verhalten eine ungewollte Verpflichtung eingegangen. Er hat durch den ungewollten Vertragsschluss eine Leistung erhalten, die für seine Zwecke nicht voll brauchbar war. In Kenntnis der illegalen Abschaltreinrichtung hätte er den Kaufvertrag nicht abgeschlossen. Nach der Lebenserfahrung ist es auszuschließen, dass ein Käufer ein Fahrzeug erwirbt, dem eine Betriebseinschränkung oder -untersagung droht und bei dem im Zeitpunkt des Erwerbs in keiner Weise absehbar ist, ob dieses Problem behoben werden kann.d) Der Schädigungsvorsatz der handelnden Personen bezog sich auch auf die Käufer der mit der unzulässigen Abschalteinrichtung versehenen Fahrzeuge und ihren Schaden. Als für die zentrale Aufgabe der Entwicklung und des Inverkehrbringens der Fahrzeuge zuständigem Organ war ihnen nach der Lebenserfahrung bewusst, dass in Kenntnis des Risikos einer Betriebseinschränkung oder -untersagung der betroffenen Fahrzeuge niemand ein damit belastetes Fahrzeug erwerben werde.e) Der Kläger kann von der Beklagten Rückgängigmachung der Folgen des für ihn nachteiligen Kaufvertrages, also Erstattung der für den Erwerb des Fahrzeugs verauslagten Kosten von 49.983 € abzüglich einer Entschädigung für die gezogenen Nutzungen von 14.855,86 € Zug um Zug gegen Herausgabe und Übereignung des erworbenen Fahrzeugs an die Beklagte verlangen. Hieraus errechnet sich ein Betrag von 35.127,14 €.Nach den Grundsätzen der Vorteilsausgleichung dürfen dem Geschädigten neben einem Ersatzanspruch nicht die Vorteile verbleiben, die ihm durch das schädigende Ereignis zugeflossen sind. Gleichartige Gegenansprüche sind automatisch zu saldieren. Auch bei der hier vorliegenden sittenwidrigen Schädigung ist eine Abweichung von diesem Grundsatz nicht veranlasst (BGH, Urteil vom 25.05.2020 - VI ZR 252/19, juris Rn. 66 ff). Bei der Berechnung der Entschädigung für die gezogenen Nutzungen ist der für jeden gefahrenen Kilometer in Abzug zu bringende Betrag in der Weise zu ermitteln, dass der vereinbarte (Brutto-)Kaufpreis durch die im Kaufzeitpunkt zu erwartende Restlaufleistung geteilt wird. Der Senat schätzt die Gesamtlaufleistung des mit einem Dieselmotor ausgestatteten Fahrzeugs auf 300.000 km. Der Bundesgerichtshof hat eine entsprechende Schätzung im Urteil vom 25.05.2020 gebilligt (aaO., Rn. 78 ff). Im Zeitpunkt der letzten mündlichen Verhandlung hatte der Kläger mit dem Audi Q5 89.164 km zurückgelegt.Nach der Formel "Bruttokaufpreis x gefahrene Kilometer / (Gesamtlaufleistung -- Kilometerstand bei Kauf)" beläuft sich die vom Kaufpreis abzuziehende Nutzungsentschädigung auf 14.855,86 € (49.983 € x 89.164 km : 299.995 km).f) Entgegen der Auffassung des Landgerichts ist der Schadensersatzanspruch des Klägers nicht verjährt.aa) Die Frage der Verjährung ist entscheidungserheblich. Die Voraussetzungen eines bei Verjährung von Ansprüchen aus unerlaubter Handlung möglichen Restschadensersatzanspruchs gemäß § 852 S. 1 BGB sind nicht schlüssig dargetan.Da bei § 852 BGB der verjährte Anspruch aus § 826 BGB - wenn auch eingeschränkt - als solcher bestehen bleibt, ist für die Vermögensverschiebung eine wirtschaftliche Betrachtungsweise maßgebend. Es sind daher nicht die Voraussetzungen der §§ 812ff. BGB heranzuziehen (BGH, Urteil vom 14.02.1978 - X ZR 19/76 -, juris Rn. 62; OLG Oldenburg Urteil vom 22.04.2021 - 14 U 225/20 -, juris Rn. 24 f.). Eine unmittelbare Vermögensverschiebung zwischen dem Schädiger und dem Geschädigten ist danach nicht erforderlich. Entscheidend ist vielmehr, dass der Vermögensverlust beim Geschädigten einen entsprechenden Vermögenszuwachs beim Schädiger zur Folge gehabt hat (vgl. BGH, Urteil vom 14.02.1978 - X ZR 19/76 -, juris Rn. 62).Der Kläger hat - worauf das Landgericht bereits im angefochtenen Urteil hingewiesen hat - nicht schlüssig dargelegt, worin hier das erlangte Etwas im Sinne von § 852 BGB liegen soll. Soweit der Kläger behauptet, die Beklagte habe den Kaufpreis abzüglich einer Händlermarge erlangt, trifft dies schon deswegen nicht zu, weil der Kläger das Fahrzeug nicht von einem Vertragshändler der Beklagten, sondern von einem Vertragshändler der Audi AG erworben hat. Mangels gegenteiligen Vortrags ist dafvon auszugehen, dass der Vertragshändler den Kaufpreis abzüglich einer Händlermarge nicht an die Beklagte, die lediglich den Motor hergestellt hat, sondern an die Audi AG als Herstellerin des Fahrzeuges gezahlt hat. Zu dem Betrag, den die Beklagte von der Audi AG für den von der Beklagten hergestellten Motor erhalten hat, ist nichts vorgetragen.bb) Deliktische Ansprüche unterliegen der dreijährigen Verjährungsfrist gemäß §§ 195, 199 Abs. 1 BGB. Die Verjährungsfrist beginnt gemäß § 199 Abs. 1 BGB mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Anspruchsteller Kenntnis von den den Anspruch begründenden Umständen sowie der Person des Schuldners erlangt hat oder eine solche Kenntnis infolge grober Fahrlässigkeit nicht erlangt hat.cc) Eine entsprechende Kenntnis des Klägers im Sinne von § 199 Abs. 1 Nr. 2 BGB lag im Jahre 2016 vor. Er erhielt im Februar 2016 ein Schreiben der Beklagten, in dem er darüber informiert wurde, dass in seinem Fahrzeug ein Motor mit der streitgegenständlichen Umschaltlogik verbaut worden war.Für eine frühere, noch im Jahr 2015 erlangte Kenntnis des Klägers liegen hingegen keine Anhaltspunkte vor.Dem Kläger ist auch nicht vorzuwerfen, er habe infolge grober Fahrlässigkeit nicht bereits im Jahr 2015 Kenntnis von den anspruchsbegründenden Umständen erlangt. Grobe Fahrlässigkeit setzt einen objektiv schweren und subjektiv nicht entschuldbaren Verstoß gegen die Anforderungen der im Verkehr erforderlichen Sorgfalt voraus. Grob fahrlässige Unkenntnis liegt dann vor, wenn dem Gläubiger die Kenntnis fehlt, weil er die im Verkehr erforderliche Sorgfalt in ungewöhnlich grobem Maße verletzt und auch ganz naheliegende Überlegungen nicht angestellt oder das nicht beachtet hat, was jedem hätte einleuchten müssen. Ihm muss persönlich ein schwerer Obliegenheitsverstoß in seiner eigenen Angelegenheit der Anspruchsverfolgung vorgeworfen werden können (BGH, Urteil vom 26.05.2020 - VI ZR 186/17, juris Rn. 19). Selbst wenn dem Kläger die sog. "ad hoc Mitteilung" der Beklagten vom 22.09.2015 und die sich anschließende mediale Berichterstattung über den Abgasskandal bekannt gewesen sein sollte und es ihm möglich gewesen sein sollte, die Betroffenheit seines eigenen Fahrzeugs über die im Oktober 2015 freigeschaltete Online-Plattform zu ermitteln, und er davon keinen Gebrauch machte, ist ihm kein schwerwiegender Obliegenheitsverstoß in eigenen Angelegenheiten vorzuwerfen. Mit Rücksicht darauf, dass die Beklagte seit September 2015 mit zahlreichen Informationen an die Öffentlichkeit getreten war und auch weitere Erklärungen angekündigt hatte, war ein Zuwarten des Klägers zumindest bis zum Ende des Jahres 2015 nicht schlechterdings unverständlich.dd) Die mit Ablauf des Jahres 2016 laufende dreijährige Verjährungsfrist wurde durch die Zustellung der Musterfeststellungsklage, die gegen die Beklagte im November 2018 beim Oberlandesgericht Braunschweig (4 MK 1/18) anhängig gemacht wurde, gehemmt.aaa) Gemäß § 204 Abs. 1 Nr. 1a BGB wird die Verjährung gehemmt durch die Erhebung einer Musterfeststellungsklage für einen Anspruch, den ein Gläubiger zu dem zu der Klage geführten Klageregister wirksam angemeldet hat, wenn dem angemeldeten Anspruch derselbe Lebenssachverhalt zugrunde liegt wie den Feststellungszielen der Musterfeststellungsklage. Nur wirksam angemeldete Ansprüche hemmen die Verjährung (BeckOGK/Meller-Hannich, Stand 01.12.2021, § 204 BGB, Rn. 113; MüKoBGB/Grothe, 9. Auflage 2021, § 204 BGB, Rn. 32).bbb) Der Kläger hat am 14.12.2018 beim Bundesamt für Justiz seine Ansprüche zur Musterfestellungsklage beim Oberlandesgericht Braunschweig (Az. 4 MK 1/18), welche der Beklagten Ende des Jahres 2018 zugestellt wurde, angemeldet. Diese Anmeldung war entgegen der vom Landgericht vertretenen Auffassung nicht unwirksam.Gemäß § 608 Abs. 2 ZPO ist die Anmeldung wirksam, wenn sie frist- und formgerecht erfolgt und Angaben zu Namen und Anschrift des Verbrauchers (Nr. 1.), Bezeichnung des Gerichts und Aktenzeichen der Musterfeststellungsklage (Nr. 2), Bezeichnung des Beklagten der Musterfeststellungsklage (Nr. 3), Gegenstand und Grund des Anspruchs oder des Rechtsverhältnisses des Verbrauchers (Nr. 4) enthält und die Richtigkeit und Vollständigkeit der Angaben versichert wird (Nr. 5).Die am 14.12.2018 erfolgte Anmeldung beim Bundesamt für Justiz, die durch die jetzigen Prozessbevollmächtigten des Klägers in dessen Vertretung erfolgte, war frist- und formgerecht. Sie bezeichnete das für die Musterfeststellungsklage zuständige Oberlandesgericht Braunschweig, das gerichtliche Aktenzeichen, den Namen der Beklagten und enthielt eine Versicherung der Richtigkeit und Vollständigkeit der Angaben.Die Anmeldung enthielt auch hinreichende Angaben zu Gegenstand und Grund des Anspruchs (§ 608 Abs. 2 Nr. 4 ZPO).Zur Darlegung des Gegenstandes und Grund des Anspruchs gemäß § 608 Abs. 2 S. 1 Nr. 4 ZPO gehört die Darstellung des Lebenssachverhaltes, aus dem der Anspruch abgeleitet wird. Die Anforderungen an die Darstellung entsprechen denjenigen der Klageschrift gemäß § 253 Abs. 2 ZPO (BeckOK ZPO/Lutz ZPO § 608 Rn. 11; Saenger/Rathmann, 9. Auflage 2021, § 608 ZPO, Rn. 3; vgl. auch der Gesetzesentwurf der Bundesregierung, Bundesrat Drucksache 176/18, S. 23; a.A. wohl Zöller/Vollkommer, 34. Auflage 2022, § 608 ZPO, Rn. 4). § 253 Abs. 2 Nr. 2 fordert die bestimmte Angabe des Gegenstands und des Grunds des erhobenen Anspruchs. Zur Erfüllung dieser gesetzlichen Vorgaben kommt es nicht darauf an, ob der maßgebende Lebenssachverhalt bereits in der Klageschrift vollständig beschrieben oder der Klageanspruch schlüssig und substanziiert dargelegt worden ist. Vielmehr ist es im Allgemeinen ausreichend, wenn der Anspruch als solcher identifizierbar ist, indem er durch seine Kennzeichnung von anderen Ansprüchen so unterschieden und abgegrenzt wird, dass er Grundlage eines der materiellen Rechtskraft fähigen Vollstreckungstitels sein kann (BGH, Urteil vom 25.06.2020 - IX ZR 47/19, NJW 2020, 3102, Rn. 22, zitiert nach beckonline, m.w.N.).Diesen Voraussetzungen wird die Anmeldung des Klägers gerecht. Aus der Anmeldung ergibt sich, dass dem Kläger ein Fahrzeug der Marke Audi Q5, Baujahr 12/2013, Euronorm 5 gehört, welches vom sog. "Dieselskandal" betroffen ist. Damit war der Anspruch des Klägers identifizierbar und von anderen Ansprüchen abgrenzbar. Die Angabe des Kaufvertragsabschlusses und der Fahrzeugidentifikationsnummer (FIN) war hierzu nicht erforderlich, weil der Kläger unstreitig kein weiteres, vom Dieselskandal betroffenes Fahrzeug Audi Q5, Baujahr 12/2013 besitzt. Für die Wirksamkeit der Anmeldung von Ansprüchen zur Eintragung in das Klageregister (§ 608 Abs. 2 Nr. 4 ZPO) kommt es nicht darauf an, dass die Beklagte - infolge der Masse an betroffenen Fahrzeugen - das betroffene Fahrzeug anhand der Angaben des Klägers nicht identifizieren kann. Weitere Angaben wie beispielsweise die FIN oder das Datum des Kaufvertrags sind erst für die Begründetheit des nachfolgenden Klageverfahrens - abgesehen vom Klageantrag, der das betroffene Fahrzeug mit FIN bezeichnen muss - zu fordern (vgl. Beschluss des Senat vom 21.09.2021- 5 U 125/21, bislang nicht veröffentlicht; vgl. auch OLG Köln, Urteil vom 16.12.2021 - 18 U 85/21, bislang nicht veröffentlicht; a.A. OLG Schleswig, Urteil vom 11.01.2022 - 7 U 130/21, juris Rn. 52; LG Köln - 14 O 212/20, Rn. 17 ff).Gegen zu hohe Anforderungen an die Darstellung von Gegenstand und Grund des Anspruchs spricht auch Folgendes: Das Bundesamt für Justiz, das auf Grundlage von § 3 der VO über das Register für Musterfeststellungsklagen vom 24.10.2018 (BGBl I 1804, 1845) für die Anmeldung zur Eintragung von Ansprüchen oder Rechtsverhältnissen in das Klageregister nach § 608 Abs. 1 ZPO Verbrauchern unentgeltlich ein Formular gemeinsam mit einer Auffüllanleitung zur Verfügung stellt, fordert die Angabe einer FIN in der im Internet unter www.bundesjustizamt.de abrufbaren Ausfüllanleitung bis heute nicht. Es ist jedenfalls für den anwaltlich nicht vertretenen Verbraucher nicht ersichtlich, dass es für die Wirksamkeit der Anmeldung seiner Ansprüche auf die Angabe der FIN ankommt.ccc) Die Hemmung der Verjährung endete gemäß § 204 Abs. 2 S. 1 BGB sechs Monate nach Beendigung des Verfahrens durch Rücknahme der Klage beim Oberlandesgericht Braunschweig. Dies war der 30.10.2020. Durch die am 30.10.2020 beim Landgericht eingegangene und am 24.11.2020 zugestellte Klage wurde die Verjährung erneut gehemmt, § 204 Abs. 1 Nr. 1 BGB, § 167 ZPO.2. Der zuerkannte Zinsanspruch ergibt sich aus § 291 BGB.3. Die Klage unterliegt der Abweisung, soweit der Kläger die Feststellung des Annahmeverzuges der Beklagten verlangt. Der Kläger hat nicht dargelegt, dass er der Beklagten vorgerichtlich ein tatsächliches Angebot (§ 294 BGB) oder ein wörtliches Angebot (§ 295 BGB) zur Übereignung und Übergabe des streitgegenständlichen Fahrzeuges unterbreitet hat. Die Beklagte ist auch nicht dadurch in Annahmeverzug gekommen, dass sie auf den im Prozess gestellten Klageantrag auf Rückzahlung des Kaufpreises abzüglich einer Nutzungsentschädigung Zug um Zug gegen Übereignung und Übergabe des Fahrzeuges nicht zu Annahme der angebotenen Leistung bereit war. Der Kläger hat bis zuletzt den Nutzungsvorteil zu gering berechnet und damit einen zu hohen Zahlungsbetrag gefordert hat. Er hat damit kein zur Begründung von Annahmeverzug der Beklagten geeignetes wörtliches Angebot abgegeben.4. Die prozessualen Nebenentscheidungen beruhen auf § 92 Abs. 1, 708 Nr. 11, 711 ZPO.5. Die Revision war gemäß § 543 Abs. 1 Nr. 1, Nr. 2 Alt. 2 ZPO zuzulassen. Die Frage, wie eindeutig die Angaben zu Gegenstand und Grund des Anspruchs sein müssen, ist bislang höchstrichterlich nicht geklärt. Schon im Hinblick auf die große Zahl der Anmeldungen zum Klageregister für das Musterfeststellungsverfahren gegen die Beklagte beim Oberlandesgericht Braunschweig besteht ein über den Einzelfall hinausgehendes Bedürfnis an der Klärung dieser Rechtsfrage.Berufungsstreitwert: 38.125,01 EUR
+			
+			
+			
+			Permalink: https://openjur.de/u/2392128.html (https://oj.is/2392128)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate8
+				
+				
+					 Zitiert5
+				
+
+				
+					 Referenzen3
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

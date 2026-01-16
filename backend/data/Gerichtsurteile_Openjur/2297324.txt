@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG MünchenRechtsprechungBeschluss vom 08.10.2019 - 29 U 1647/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG München, Beschluss vom 08.10.2019 - 29 U 1647/19
+                      m. Fundstelle
+                      OLG München, Beschluss vom 08.10.2019 - 29 U 1647/19 = openJur 2020, 72139
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG München, Beschluss vom 08.10.2019 - 29 U 1647/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 72139
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Berufung des Klägers gegen das Urteil des Landgerichts München I vom 28.02.2019 wird verworfen.2. Der Kläger hat die Kosten des Berufungsverfahrens zu tragen.3. Der Streitwert des Berufungsverfahrens wird auf 21.102,22 € festgesetzt.  
+				Gründe
+				I.Der Kläger macht gegen die Beklagte deliktische Schadensersatzansprüche im Zusammenhang mit einem Autokauf geltend.Der Kläger erwarb am 05.08.2017 ein Fahrzeug der Marke Audi A6 2.0 TDI, in dem der Motortyp EA 189 verbaut war, von einem privaten Autoverkäufer.Die Beklagte ist Herstellerin des Motors EA 189, der vom sog. "VW-Abgasskandal" betroffen ist. Der Motor EA 189 enthielt eine Software, welche die Prüfstandsituation erkannte und zwischen zwei Betriebsmodi unterschied. Die Software schaltete nach Erkennen der Prüfstandsituation in einen besonderen Modus einer optimierten Abgasaufbereitung, der eine höhere Abgasrückführungsrate bewirkte. Die Beklagte entwickelte ein Software-Update. Der Vorbesitzer und Verkäufer des streitgegenständlichen Fahrzeuges ließ das Software-Update am 20.01.2017 aufspielen.Der Kläger hat seine Schadensersatzansprüche erstinstanzlich darauf gestützt, dass er im Zeitpunkt des Kaufvertragsabschlusses davon ausgegangen sei, ein Fahrzeug erworben zu haben, welches nach Aufspielen des Software-Updates den gesetzlichen Vorschriften entspreche und mangelfrei sei, was jedoch nicht der Fall sei. Hätte er bei Ankauf des Fahrzeugs Kenntnis davon gehabt, dass das Aufspielen des Software-Updates nicht zur Mangelfreiheit des Fahrzeugs führe, hätte er das Fahrzeug nicht gekauft. Die Täuschung über die Eigenschaften des SoftwareUpdates begründeten Schadensersatzansprüche gemäß § 826 BGB und gemäß § 823 Abs. 2 BGB i.V.m. § 263 StGB.Im Rahmen seiner Anhörung im Termin zur mündlichen Verhandlung erster Instanz am 13.12.2018 gab der Kläger an, dass er gar nicht wisse, ob ein Software-Update vor dem Verkauf stattgefunden habe und im Übrigen habe er im Zeitpunkt des Fahrzeugkaufs nichts vom Diesel-Skandal gewusst.Das Landgericht hat mit Urteil vom 28.02.2019 die Klage vollumfänglich abgewiesen und dies darauf gestützt, ein Anspruch gemäß § 826 BGB scheide jedenfalls mangels haftungsbegründender Kausalität aus. Da der Kläger gar nicht gewusst habe, ob ein Software-Update vor dem Verkauf stattgefunden habe, könne die Versicherung der Beklagten hinsichtlich der SoftwareUpdates nicht kaufentscheidend gewesen sein. Ein Anspruch aus § 823 BGB i.V.m. § 263 StGB stehe dem Kläger nicht zu, da eine Täuschung bezüglich der Wirkung des Software-Updates mangels Kenntnis des vorgenommenen Updates von vornherein ausscheide. Auf die Feststellungen und Ausführungen im erstinstanzlichen Urteil wird ergänzend Bezug genommen.Gegen dieses Urteil wendet sich der Kläger mit seiner Berufung, die er mit Schriftsatz vom 08.07.2019 begründet hat. Die Berufungsbegründung enthält Ausführungen dazu, dass die Beklagte in einem Verfahren vor dem Landgericht Stuttgart zugestanden habe, dass auch das Softwareupdate eine unzulässige Abschalteinrichtung beinhalte (Ziffer II. 1. der Berufungsbegründung), dass der Anspruch aus § 823 Abs. 2 i.V.m. § 263 StGB bestehe, weil die Beklagte die Klagepartei über die Wirksamkeit des Software-Updates getäuscht habe (Ziffer II. 2. der Berufungsbegründung), ein Anspruch aus § 826 BGB bestehe, weil der Kläger keine Kenntnis davon gehabt habe, dass das Software-Update zwar die illegale Abschaltvorrichtung beseitige, jedoch zu weiteren, vermutlich unbehebbaren Mängeln führen werde (Ziffer II. 3. der Berufungsbegründung), das Landgericht den Anspruch der Klagepartei gegen die Beklagte aus § 823 Abs. 2 BGB i.V.m. Art. 5 Abs. 2 VO (EG) Nr. 715/2007 verkannt habe (Ziffer II.4. der Berufungsbegründung) und das Landgericht verkannt habe, dass der Klagepartei gegen die Beklagte ein Anspruch aus § 823 Abs. 2 i.V.m. § 16 UWG zustehe (Ziffer II.5. der Berufungsbegründung). Wegen der weiteren Einzelheiten wird auf die Berufungsbegründung Bezug genommen.Der Kläger beantragt, unter Aufhebung des Urteils des LG München I vom 28.02.2019 - 30 O 4472/18 - wie folgt zu entscheiden:1. Die Beklagte wird verurteilt, an den Kläger 15.466,25 EUR nebst Zinsen aus 16.300,00 in Höhe von 4 Prozent pro Jahr seit dem 01.03.2018 zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Audi A6 2.0 TDI mit der Fahrzeugidentifikationsnummer ...92.2. Es wird festgestellt, dass die Beklagte verpflichtet ist, dem Kläger alle weiteren Schäden zu ersetzen, die dieser aus der Manipulation des Motors und/oder entsprechender Behebungsmaßnahmen des im Antrag zu 1 genannten Fahrzeugs erleidet.Der Senat hat durch Beschluss vom 12.08.2019 darauf hingewiesen, dass er beabsichtigt, die Berufung als unzulässig zu verwerfen und unter Fristsetzung bis 30.08.2019, verlängert bis 30.09.2019, dem Kläger Gelegenheit zur Stellungnahme gegeben. Hiervon hat der Kläger mit Schriftsatz vom 30.09.2019 Gebrauch gemacht. Auf den Senatsbeschluss vom 12.08.2019 und den Schriftsatz der Klagepartei vom 30.09.2019 wird ergänzend Bezug genommen.II.1. Die Berufung war gemäß § 522 Abs. 1 Satz 2 ZPO als unzulässig zu verwerfen. Die Berufungsbegründung entspricht nicht den Erfordernissen des § 520 Abs. 3 Satz 2 Ziff. 2-4 ZPO. Sie lässt jeglichen Bezug zur angefochtenen Entscheidung vermissen. Weder sind die Umstände, aus der sich die Rechtsverletzung und deren Erheblichkeit für die angefochtene Entscheidung ergibt, bezeichnet (vgl. § 520 Abs. 3 Satz 2 Nr. 2 ZPO), noch konkrete Anhaltspunkte, die Zweifel an der Richtigkeit oder Vollständigkeit der Tatsachenfeststellungen im angefochtenen Urteil begründen (vgl. § 520 Abs. 3 Satz 2 Nr. 3 ZPO), noch neue Angriffs- und Verteidigungsmittel sowie die Tatsachen, auf Grund derer die neuen Angriffs- und Verteidigungsmittel nach § 531 Abs. 2 ZPO zuzulassen sind (vgl. § 520 Abs. 3 Nr. 3 ZPO). Im Einzelnen:a) Die Ausführungen zu einem Verfahren vor dem Landgericht Stuttgart, in dem die Beklagte angeblich zugestanden hat, dass das Software-Update auch eine unzulässige Abschalteinrichtung beinhalte, werden in keinen Bezug zu dem angegriffenen Urteil gesetzt, in dem der allein auf § 826, § 823 Abs. 2 BGB i.V.m. § 263 StGB gestützte Anspruch verneint wurde, weil der Kläger von dem erfolgten Update nach seinen Angaben in der Anhörung keine Kenntnis hatte.b) Hinsichtlich des angeblichen Anspruchs aus § 823 Abs. 2 BGB i.V.m. 263 StGB wird in der Berufungsbegründung ausdrücklich auf die Klageschrift und die darauffolgenden Schriftsätze Bezug genommenen und nochmals wiederholt, die Beklagte habe die Klagepartei über die Wirksamkeit des Software-Updates getäuscht. Mit den das Urteil tragenden Gründen, dass eine Täuschung und eine haftungsbegründende Kausalität mangels Kenntnis des Klägers vom Dieselskandal und dem Software-Update ausscheiden, setzt sich die Berufungsbegründung nicht auseinander. Eine Rechtsverletzung und deren Erheblichkeit für die angefochtene Entscheidung sind somit nicht dargetan. Die Ausführungen des Klägers im Schriftsatz vom 30.09.2019, es würde in der Berufungsbegründung ausdrücklich auf die Unkenntnis des Klägers im Hinblick auf die ursprüngliche Abschalteinrichtung eingegangen, sind in Anbetracht der Wiederholung des Vortrags, der Kläger sei durch die Behauptung, das Software-Update führe zur Mangelfreiheit der Fahrzeuge, getäuscht worden, nicht nachvollziehbar.c) Auch hinsichtlich des angeblichen Anspruchs aus § 826 BGB enthält die Berufungsbegründung keine Ausführungen dazu, warum die Auffassung des Erstgerichts, dass es an der haftungsausfüllenden Kausalität fehlt, weil der Kläger seinen Angaben in der Anhörung nach keine Kenntnis von dem Softwareupdate hatte, unzutreffend sein soll. Stattdessen wird in der Berufungsbegründung im Zusammenhang mit dem Anspruch aus § 826 BGB ausgeführt (vgl. Seite 8 der Berufungsbegründung):Hinsichtlich des Einwands des erstinstanzlichen Gerichts, dass die Klagepartei beim Kauf des Fahrzeugs Kenntnis von der streitgegenständlichen Thematik hatte, verweisen wir... Im angegriffenen Urteil hat das erstinstanzliche Gericht gerade nicht eine Kenntnis des Klägers von der streitgegenständlichen Problematik eingewandt, sondern die Ansprüche vielmehr wegen der fehlenden Kenntnis des Klägers von der Problematik abgelehnt. Die Berufungsbegründung besteht aus nicht auf den vorliegenden Fall bezogenen Versatzstücken aus anderen Verfahren.d) Auch die Ausführungen des Klägers in der Berufungsbegründung zum Anspruch aus § 823 Abs. 2 BGB i.V.m. Art. 5 Abs. 2 VO (EG) Nr. 715/2007 stehen in keinem Bezug zum angegriffenen Urteil. Entgegen den Ausführungen des Klägers in der Berufungsbegründung hat das erstinstanzliche Gericht den Anspruch der Klagepartei aus § 823 Abs. 2 BGB i.V.m. Art. 5 Abs. 2 VO (EG) Nr. 715/2007 nicht "verkannt", sondern dieser war nicht geltend gemacht worden und konsequenterweise vom erstinstanzlichen Gericht nicht geprüft worden. Der Kläger hatte erstinstanzlich gar nicht vorgetragen, dass trotz des unstreitig erfolgten Software-Updates eine unzulässige Abschaltvorrichtung vorliegen soll, so dass kein Anlass für eine diesbezügliche Prüfung bestand. Auch auf Seite 8 der Berufungsbegründung führt der Kläger noch aus, "dass das angebotene Software-Update zwar die illegale Abschalteinrichtung beseitigen, jedoch zu weiteren, vermutlich unbehebbaren, Mängeln führen wird...". Soweit in der Berufungsbegründung in sich widersprüchlich an anderer Stelle (Ziffer II.1 und II.4 der Berufungsbegründung) nunmehr erstmals geltend gemacht wird, es bestehe ein Anspruch aus § 823 Abs. 2 BGB i.V.m. Art. 5 Abs. 2 VO (EG) Nr. 715/2007 wegen unzulässiger Abschalteinrichtungen, ist bei den Ausführungen unter Ziffer II. 4 schon unklar, ob es um die ursprüngliche Abschaltsoftware oder das Software-Update geht. Der Bezug zum vorliegenden Fall und zum angegriffenen Urteil fehlt. Die Ausführungen erschöpfen sich darin, dass Art. 5 Abs. 2 VO (EG) Nr. 715/2007 ein Schutzgesetz sei. Ausführungen dazu, warum der neue Vortrag zu der angeblich auch nach dem Software-Update vorhandenen unzulässigen Abschalteinrichtung gemäß § 531 Abs. 2 ZPO zuzulassen sei (vgl. § 520 Abs. 3 Nr. 4 ZPO), sind nicht vorhanden.e) Auch die Ausführungen zum Anspruch aus § 823 Abs. 2 i.V.m. § 16 UWG lassen jeglichen Bezug zum vorliegenden Urteil vermissen. Auch insoweit hat das erstinstanzliche Gericht den Anspruch nicht "verkannt", sondern er wurde - zu Recht - gar nicht geltend gemacht und erstinstanzlich hierzu nicht vorgetragen. Ausführungen dazu, dass die Beklagte den Anschein eines besonders günstigen Angebots hervorrufen wollte und sich in der öffentlichen Wahrnehmung als besonders umweltfreundlich gegeben habe, auf die in der Berufungsbegründung Bezug genommen wird, finden sich im erstinstanzlichen Vortrag nicht. Bei den diesbezüglichen Ausführungen in der Berufungsbegründung handelt es sich erkennbar um ein auf den vorliegenden Fall nicht passendes Versatzstück aus anderen Verfahren, bei denen der Erwerb eines Fahrzeugs der Beklagten vor Bekanntwerden des "Abgasskandals" erfolgte, und nicht wie vorliegend Schadensersatz wegen des Erwerbs eines Audis nach Bekanntwerden des Diesel-Skandals und Nachrüstung des Fahrzeugs mit einem Software-Update verlangt wird.2. Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO.Die Streitwertentscheidung beruht auf § 47 Abs. 1 GKG, § 3 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2297324.html (https://oj.is/2297324)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

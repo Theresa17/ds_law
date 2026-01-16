@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG AachenRechtsprechungUrteil vom 08.12.2022 - 1 O 441/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Aachen, Urteil vom 08.12.2022 - 1 O 441/21
+                      m. Fundstelle
+                      LG Aachen, Urteil vom 08.12.2022 - 1 O 441/21 = openJur 2024, 8287
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Aachen, Urteil vom 08.12.2022 - 1 O 441/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2024, 8287
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages. 
+				Tatbestand
+				Die Parteien streiten über Schadensersatzansprüche im Zuge des sog. "Abgasskandals".Der Kläger erwarb mit Kaufvertrag vom 00.00.2016 von der Firma O. C. GmbH in B. einen PKW der Marke VW Golf 2,0 l, 110 kW, Euronorm 6, FIN N01, mit einer Laufleistung von 3 km zu einem Kaufpreis von 28.135,80 Euro ("Fahrzeug").In dem Fahrzeug ist ein von der Beklagten entwickelter und hergestellter Motor des Typs "EA 288" verbaut.Das Fahrzeug wurde am 00.03.2016 an den Kläger ausgeliefert.Am 10.11.2022 betrug die Laufleistung 85.370 km.Ein Rückrufbescheid des Kraftfahrtbundesamtes ("KBA") besteht nicht.Im Rahmen einer amtlichen Auskunft an das Landgericht Wuppertal vom 12.10.2021 im Verfahren 30 U 2585/20 (Bl. 281 f. dA) hat das KBA erklärt:Im Rahmen einer amtlichen Auskunft an das Landgericht Bayreuth vom 15.12.2020 im Verfahren 21 O 1367/20 (Bl. 431 f. dA) hat das KBA erklärt:Der Kläger behauptet, dass in dem Motor des Fahrzeugs mindestens eine Abschalteinrichtung verbaut sei, die im Sinne von Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007 die Wirkung von Emissionskontrollsystemen verringere.Anhand einer werkseitig verbauten Software (= Fahrkurvenerkennung) werde ein spezieller Betriebsmodus aktiviert, in dem die Abgasrückführungsrate über das AGR-Ventil substantiell erhöht werde und dadurch die Entstehung von Stickoxiden minimiert werde. Im normalen Fahrbetrieb außerhalb des Prüfstands werde das Fahrzeug hingegen mit einer niedrigeren Abgasrückführungsrate betrieben, weshalb der Stickoxidausstoß erheblich höher sei.An die Erkennung der Fahrkurve (Prüfstandbedingungen NEFZ) anknüpfend, erfolge zudem eine Vorkonditionierung des NSK - dem zentralen Element der Abgasreinigung im gegenständlichen Pkw -, indem dieser stets nach Erkennung der Fahrkurve (NEFZ-Bedingungen) regeneriert werde, wohingegen die Regeneration im Normalbetrieb abhängig von anderen Parametern vorgenommen werde.Der Kläger behauptet, dass er das Fahrzeug nicht erworben hätten, wenn er von dem Vorhandensein der verbotenen Abschalteinrichtung gewusst hätte-Der Kläger beantragt,1. Die Beklagte zu verurteilen, an den Kläger 28.135,80 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit, Zug um Zug gegen Übereignung und Herausgabe des Fahrzeuges Volkswagen Golf 2.0 TDI Fahrgestellnummer FIN: N01, zu zahlen, abzüglich einer Nutzungsentschädigung in EUR pro gefahrenem km seit dem 00.02.2016, die sich nach folgender Formel berechnet: (28.135,80 EUR x gefahrene Kilometer) : 350.000;2. festzustellen, dass sich die Beklagte mit der Rücknahme des Fahrzeuges Volkswagen Golf 2.0 TDI Fahrgestellnummer FIN: N01, in Annahmeverzug befindet;3. festzustellen, dass die Beklagte verpflichtet ist, an die Klagepartei Schadensersatz zu zahlen für Schäden, die aus der Ausstattung des Fahrzeuges Volkswagen Golf 2.0 TDI Fahrgestellnummer FIN: N01, mit einer unzulässigen Abschaltvorrichtung resultieren.Zudem beantragt der Kläger,das Verfahren nach § 148 Abs. 1 ZPO analog bis zu der Entscheidung des EuGH in den Verfahren C-100/21 auszusetzen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, dass in dem streitgegenständlichen Fahrzeug - bzw. in dessen Motor - keine unzulässige Abschalteinrichtung verbaut sei. Dies habe das KBA für das streitgegenständliche Aggregat bestätigt.In dem streitgegenständlichen Fahrzeug komme keine unzulässige Abschalteinrichtung in der Form einer unzulässigen Fahrkurvenerkennung zum Einsatz. Der gesetzliche NOx-Emissionsgrenzwert von 80 mg/km werde vom streitgegenständlichen Fahrzeug unabhängig von der Fahrkurvenerkennung eingehalten.Weiter behauptet die Beklagte, dass das KBA seit Herbst 2015 Kenntnis von der Existenz der Fahrkurvenerkennung in EA288-Fahrzeugen gehabt und diese nicht beanstandet habe.Im streitgegenständlichen Fahrzeug sei auch keine unzulässige Abschalteinrichtung in Form eines unzulässigen Thermofensters verbaut.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze und die zu den Akten gereichten Unterlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I.Der Kläger hat keinen Schadensersatzanspruch gegen die Beklagte aus § 826 i.V.m. § 831, § 31 BGB analog sowie § 823 Abs. 2 BGB i.V.m. § 263 StGB. Auch ein Anspruch aus §§ 311 Abs. 3, 241, 280 BGB; §§ 823 Abs. 2 BGB in Verb. mit §§ 6 Abs. 1, 27 Abs. 1 EG-FGV bzw. mit Art. 5 VO(EG) 715/2007; §§ 823 Abs. 2, 4 Nr. 11 UWG a.F., 16 UWG oder § 831 BGB besteht nicht.1.Der Kläger hat weder das Vorhandensein der behaupteten Abschalteinrichtungen noch das Vorhandensein eines Schadens schlüssig dargelegt.a)Der insoweit darlegungs- und beweispflichtige Kläger hat bezüglich der angeblich vorhandenen Abschalteinrichtungen keine ausreichenden Anknüpfungstatsachen vorgebracht, die seinen Anspruch stützen und die Durchführung einer Beweisaufnahme durch Einholung eines Sachverständigengutachtens bzw. einer anzunehmenden sekundären Darlegungslast der Beklagten rechtfertigen könnten.Der Kläger trägt die Darlegungs- und Beweislast für den äußeren Tatbestand der Rechtsgutverletzung sowie der dazugehörigen inneren Schädigungsabsicht. Ein Sachvortrag zur Begründung eines Klageanspruchs ist schlüssig und damit als Prozessstoff erheblich, wenn der Kläger Tatsachen vorträgt, die in Verbindung mit einem Rechtssatz geeignet sind, das mit der Klage geltend gemachte Recht als in der Person des Klägers entstanden erscheinen zu lassen. Das Gericht muss in der Lage sein, auf Grund des tatsächlichen Vorbringens zu entscheiden, ob die gesetzlichen Voraussetzungen für das Bestehen des geltend gemachten Anspruchs vorliegen (vgl. OLG Köln, Urteil vom 20.11.2020 - 19 U 22/20).Dem Kläger ist dabei grundsätzlich zuzugeben, dass einer Partei nicht verwehrt werden darf, eine tatsächliche Aufklärung auch hinsichtlich solcher Punkte zu verlangen, über die sie selbst kein zuverlässiges Wissen besitzt und auch nicht erlangen kann. Sie kann deshalb genötigt sein, eine von ihr nur vermutete Tatsache zu behaupten und unter Beweis zu stellen, ohne weitere Hintergründe darlegen zu können.Jedoch wird ein solches prozessuales Vorgehen in den Fällen unzulässig, in denen die Partei ohne greifbare Anhaltspunkte für das Vorliegen eines bestimmten Sachverhalts willkürlich Behauptungen "aufs Geratewohl" oder "ins blaue Hinein" aufstellt. Bei der Annahme eines solchen missbräuchlichen Verhaltens ist grundsätzlich Zurückhaltung geboten, d.h. nur bei Fehler jeglicher Anhaltspunkte gerechtfertigt (BGH, Urteil vom 07.02.20219 - III ZR 498/16). Wird das klägerische Vorbringen in dieser Hinsicht den Anforderungen allerdings nicht gerecht sind die Ansprüche schon alleine deshalb zurückzuweisen.In den Fällen behaupteter Abgasmanipulationssoftware bedarf es keiner genauen Darlegung der Funktionsweise der Motorsteuerungssoftware. Der eigene Vortrag kann teilweise auf Vermutungen gestützt werden. Es bedarf dann allerdings wiederum konkreter Anhaltspunkte für den Einbau einer Manipulationssoftware in den streitgegenständlichen Motorentyp (erneut OLG Köln, Urteil vom 20.11.2020 - 19 U 22/20).Anerkannt ist jedenfalls, dass konkrete Anhaltspunkte nicht erst dann vorliegen, wenn das KBA einen Rückruf für den konkreten Fahrzeugtyp angeordnet hat (BGH, Beschluss vom 28.01.2020 - VIII ZR 57/19).Ausgehend von den dargestellten Grundsätzen ist es dem Kläger vorliegend allerdings nicht gelungen für die behaupteten Vorwürfe in objektiver und subjektiver Hinsicht ausreichend konkrete Anhaltspunkte vorzubringen.aa)Das klägerische Fahrzeug ist nicht von einem amtlichen Rückruf des KBA erfasst. Die Tatsache, dass in dem Vorgängermotor EA189 eine unzulässige Abschalteinrichtung zum Einsatz kam, kann nicht pauschal die Herstellerhaftung der Beklagten auch im Hinblick auf andere Motoren rechtfertigen. Ein konkreter Anhaltspunkt für die Betroffenheit der Beklagten hinsichtlich des Einbaus einer Manipulationssoftware wird nicht benannt. Es ist zu werten, dass ausweislich der seitens der Beklagten vorgelegten Unterlagen durch das KBA amtlich bestätigt wurde, dass bei der konkreten Motorreihe keine unzulässige Abschalteinrichtung aufgefunden wurde.Bei dieser Sachlage stellt sich der Vorwurf einer prüfstandsoptimierten Abschalteinrichtung als Vortrag "ins Blaue hinein" dar. Der Kläger behauptet vorliegend lediglich pauschal, dass der Stickoxidausstoß der Motorreihe im normalen Betrieb höher sei als auf dem Prüfstand. Er legt jedoch keine entsprechenden in Bezug auf den streitgegenständlichen Motor erhobenen Daten oder Untersuchungen vor, die seine Behauptung belegen. Die Bedingungen auf dem Prüfstand bedingen nach Kenntnis des Gerichts, etwa aufgrund des fehlenden Luftwiderstandes bzw. der Abschaltung aller sog. "Komfortverbraucher" einen niedrigen Kraftstoffverbrauch und damit eine geringere Schadstofflast. Das vorliegend lediglich behauptete Auseinanderfallen der Werte lässt sich demnach auch durch die anzunehmende Realitätsferne des Testzyklusses erklären.bb)Im Rahmen einer amtlichen Auskunft im Verfahren 21 O 1367/20 vor dem Landgericht Bayreuth (Bl. 431 f. dA) hat das KBA erklärt, dass in keinem bislang untersuchten Fahrzeug, welches ein Aggregat des EA 288 aufweist, eine unzulässige Abschalteinrichtung festgestellt worden ist.In einer weiteren amtlichen Auskunft im Verfahren 30 U 2585/20 vor dem Landgericht Wuppertal (Bl. 281 f. dA) hat das KBA insbesondere bezüglich eines Aggregates des EA 288 mit einer Leistung von 110 Kw - wie der des streitgegenständlichen Fahrzeugs - ausgeführt, dass illegale Abschalteinrichtungen nicht festgestellt worden seien.cc)Ebensowenig bieten die sich in dem klägerischen Fahrzeug im Auslieferungszustand implementierte "Fahrkurve/Umschaltstrategie" mit "nur streckengesteuerter" und "im normalen Fahrbetrieb strecken- und beladungsgesteuerter Platzierung von DeNOx-/DeSOx-Events" für sich genommen hinreichenden Anlass für die Annahme des Verbaus einer unzulässigen Abschalteinrichtung in dem Fahrzeug des Klägers.Eine Fahrkurvenerkennung ist nicht an sich unzulässig. Vielmehr ist dies gemäß § 5 Abs. 2 Satz 1 VO (EG) Nr. 715/2007 nur dann der Fall, wenn dadurch eine Abschalteinrichtung im Sinne des Art. 3 Nr. 10 VO (EG) Nr. 715/2007 aktiviert wird, die die Wirkung des Emissionskontrollsystems verringert.Zu den Hintergründen der Verwendung der Fahrkurvenerkennung hat die Beklagte dezidiert vorgetragen, dass sich keinerlei Auswirkungen auf das Emissionsverhalten des streitgegenständlichen Fahrzeugs ergäben. Hintergrund der Fahrkurvenerkennung im streitgegenständlichen Fahrzeug sei, dass die gleiche Software-Basis für EA288 EU6- und EA288 EU5-Konzepte in den jeweiligen Motorsteuerungsgeräten der EA288-Aggregate genutzt worden sei. In EA288-EU6-Fahrzeugen mit NSK habe die Fahrkurvenerkennung insbesondere bewirkt, dass der NSK am Ende der einem NEFZ stets vorgeschalteten Vorkonditionierungsfahrt, sog. Preconditioning oder "Precon”, vollständig regeneriert worden sei, damit er zu Beginn der NEFZ-Prüffahrt leer sei und dass innerhalb des NEFZ der NSK an zeitlich genau definierten Punkten regeneriere. Dies diene der Sicherstellung repräsentativer und reproduzierbarer Testergebnisse bei EA288-EU6-Konzepten mit NSK. Die Fahrkurvenerkennung sei also Bestandteil der EA288-Softwarestruktur. Aufgrund der gleichen Software-Basis sei die Fahrkurvenerkennung in EA288 EU6- und EU5-Konzepten enthalten, sei jedoch für die EU5-Konzepte u. a. aufgrund des fehlenden NSK folgenlos. Dementsprechend sei trotz zahlreicher vom KBA durchgeführter Tests an EA288-EU5-Fahrzeugen keine Beanstandung durch das KBA erfolgt.dd)Dem Kläger ist es im Übrigen hinsichtlich des "Thermofensters" nicht in ausreichendem Maß gelungen, Umstände darzulegen, welche die Annahme rechtfertigen würden, dass er von der Beklagten in einer gegen die guten Sitten verstoßenden Weise vorsätzlich geschädigt worden ist.Dass in dem streitgegenständlichen Fahrzeug eine Software eingebaut ist, die als unzulässige Abschalteinrichtung einzuordnen ist und insbesondere ein sittenwidriges Verhalten der Beklagten darstellt, konnte der Kläger nicht substantiiert darlegen. Zwar geht das Gericht mit dem EuGH (Urteil vom 17.12.2020, Rechtssache C-693/18) davon aus, dass es sich bei einem "Thermofenster" objektiv um eine nach Art. 5 Abs. 2 VO (EG) 715/2007 unzulässige Abschalteinrichtung handelt. Der Kläger hat jedoch nicht ausreichend vorgetragen, dass der Einsatz solcher Optimierungsmechanismen wie etwa die Thermofenster-Software besonders verwerflich ist und damit eine objektiv sittenwidrige Schädigung darstellt.Denn anders als die Prüfstandbetrieb-Software, die bei anderen Motortypen Anwendung findet und bei eine Sittenwidrigkeit angenommen werden kann, dient die Thermofenster-Software nicht der manipulativen Überlistung des KBA bei der Erlangung der erforderlichen Typengenehmigung. Der Einsatz zielt nicht auf die Abweichungen der Werte des Prüf- zu denen des Fahrbetriebes ab und wird zumindest auch mit dem Bauteilschutz gerechtfertigt. Vielmehr variiert der Schadstoffausstoß abhängig von verschiedenen Parametern, wie Temperatur, Lenkbewegung aber auch Umständen wie dem individuellen Fahrverhalten. Dabei werden die Mechanismen wie etwa die Abgasrückführung jedoch auf dem Prüfstand und im Straßenverkehr identisch verwandt. Dass dabei etwa auf dem Prüfstand Temperaturen herrschen, bei denen die Abgasrückführung üblicherweise läuft, stellen Zufälligkeiten dar. Maßgeblich ist, dass die Abgasoptimierung abhängig ist von verschiedenen Parametern, ohne dabei auf dem Prüfstand zu unterschieden.Der klägerisch erhobene Vorwurf, dass die Beklagte im Rahmen des Typengenehmigungsverfahrens unzutreffende Angaben getätigt habe und sich die Typengenehmigung erschlichen habe, wird gänzlich unsubstantiiert erhoben.ee)Hinsichtlich der angeblichen Manipulation durch Nutzung eines sogenannten OBD-Systems ist darauf zu verweisen, dass es sich hierbei um ein bloßes Fahrzeugdiagnosesystem handelt, welches während des Fahrbetriebes bestimmte (gesetzlich nicht festgelegte) abgasrelevante Bauteile auf ihre grundsätzliche Funktionsfähigkeit überwacht. Das System dient der Überprüfung der Fahrtüchtigkeit des Fahrzeugs sowie der Erkennung eventuell auftretender Fehler im System. Auch unter Beachtung des Sachvortrags des Klägers ist nicht ersichtlich, inwieweit durch eine Manipulation des OBD-Systems tatsächlich auf das Abgasverhalten sowie auf die Höhe der im Fahrbetrieb verursachten Immissionen in Bezug auf das von dem Kläger erworbene Fahrzeug konkret eingewirkt worden sein soll. Das OBD-System regelt nicht etwa das Abgassystem die Abgaswerte, sondern zeigt lediglich den nicht ordnungsgemäßen Betrieb des Abgassystems im Normalbetrieb an. Ein Zusammenhang zwischen einer unzulässigen, das Emissionsverhalten des Fahrzeugs beeinflussende Abschalteinrichtung und dem OBD kann auf Grundlage des Kläger Vortrages nicht festgestellt werden (vgl. OLG Köln, Urteil vom 14.04.2022 - 7 U 101/21 -, n.V.).b)Der Kläger zudem nicht nachvollziehbar dargelegt und unter Beweis gestellt, dass ihm aufgrund des Vertragsschlusses ein Schaden entstanden ist. Zwar kann ein Schaden darin liegen, dass der Vertragsschluss aus objektiver Sicht des Klägers als unvernünftig anzusehen ist. Dies kann dann der Fall sein, wenn der Kläger durch den ungewollten Vertragsschluss eine Leistung erhalten hat, die für seine Zwecke nicht voll brauchbar ist (BGH, Urteil vom 25.05.2020 - VI ZR 252/19 -, BGHZ 225, 316-352). Vorliegend kann der Schaden jedoch nicht im Abschluss des streitgegenständlichen Kaufvertrages vor dem Hintergrund liegen, dass das Risiko der Nichtbenutzbarkeit aufgrund eines zu befürchtenden Widerrufs der Typengenehmigung durch das Inverkehrbringen eines nicht verkehrsfähigen Fahrzeugs besteht. Hierfür fehlen jedwede greifbaren Anhaltspunkte, insbesondere weil das KBA den streitgegenständlichen Motor EA 288 mehrfach untersucht keinen Grund zur Beanstandung gefunden hat (OLG Köln, Urteil vom 14.04.2022 - 7 U 101/21 -, n.V. mwN).2.Aus den vorstehenden Gründen besteht auch kein Schadensersatzanspruch aus §§ 311 Abs. 3, 241, 280 BGB; §§ 823 Abs. 2 BGB in Verb. mit §§ 6 Abs. 1, 27 Abs. 1 EG-FGV bzw. mit Art. 5 VO(EG) 715/2007; §§ 823 Abs. 2, 4 Nr. 11 UWG a.F., 16 UWG oder § 831 BGB besteht nicht.II.Aus den vorstehenden Gründen sind auch die Klageanträge zu 2) und 3) unbegründet.III.Das Verfahren war nicht gemäß § 148 ZPO auszusetzen. Da der Kläger das Vorhandensein einer illegalen Abschalteinrichtung bereits nichts substantiiert dargelegt hat ist, die Frage, ob - bei Vorhandensein einer illegalen Abschalteinrichtung - die Kraftfahrzeug-Rahmenrichtlinie in Verbindung mit Art. 5 der Verordnung (EG) Nr. 715/2007 eine drittschützende Wirkung hat, wie der Generalanwalt im Verfahren C-100/21 vor dem EuGH geltend gemacht hat, für den hiesigen Rechtsstreit nicht vorgreiflich i.S.v. § 148 ZPO.IV.Kosten: § 91 ZPOSofortige Vollstreckbarkeit: § 709 S. 1, 2 ZPODer Streitwert wird auf 24.844,76 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2494282.html (https://oj.is/2494282)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

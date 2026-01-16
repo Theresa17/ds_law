@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KleveRechtsprechungUrteil vom 08.01.2020 - 2 O 142/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Kleve, Urteil vom 08.01.2020 - 2 O 142/18
+                      m. Fundstelle
+                      LG Kleve, Urteil vom 08.01.2020 - 2 O 142/18 = openJur 2020, 960
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Kleve, Urteil vom 08.01.2020 - 2 O 142/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 960
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte wird verurteilt, an die Klägerin 64.639,50 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 04.04.2018 zu zahlen, Zug um Zug gegen Rückgabe und Rückübereignung des Fahrzeugs Porsche Cayenne 3.0 TDI mit der Fahrgestellnummer xxxxxxx.Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des vorgenannten Fahrzeuges in Annahmeverzug befindet.Die Beklagte wird verurteilt, an die Klägerin außergerichtliche Rechtsanwalts kosten in Höhe von 2.085,95 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 04.04.2018 zu zahlen.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits tragen die Klägerin zu 8 % und die Beklagte zu 92 %.Das Urteil ist vorläufig vollstreckbar, für die Klägerin jedoch nur gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrages. Der Klägerin bleibt nachgelassen, die Vollstreckung gegen Sicherheitsleistung in Höhe von 120 % des vollstreckbaren Betrages abzuwenden, wenn nicht die Beklagte zuvor Sicherheit in Höhe von 120 % des jeweils zu vollstreckenden Betrages leistet. 
+				Tatbestand
+				Die Klägerin begehrt die Rückabwicklung eines Kaufvertrags über einen mit einem Dieselmotor des I AG der Baureihe EA 897 ausgestatteten Porsche Cayenne 3,0 l TDI mit der Fahrgestellnummer xxxxxxxxx und einer Laufleistung von 8.875 km, den er mit Kaufvertrag vom 23.05.2017 von der Beklagten zum Preis von 70.000,00 € erworben hatte.Der Klägerin wurde im Rahmen der EU-Typgenehmigung eine EU-Konformitätsbescheinigung ausgestellt, die angibt, dass das Fahrzeug den Bestimmungen Euro 6 entspricht.Im Herbst 2015 wurde bekannt, dass die VW AG allein in Deutschland mehr als 2 Millionen Fahrzeuge mit dem Motor EA 189 mit einer Steuerungssoftware ausgestattet hatte, die das reguläre Betriebsverhalten des Motors dahingehend veränderte, dass die Rückführung von Abgas in den Motor zur Verringerung des Ausstoßes von Stickoxid während des Testvorgangs erhöht wurde. Beim Durchlaufen des so genannten Neuen Europäischen Fahrzyklus (NEFZ) wurde durch die Software ein Modus eingeschaltet, durch den die Abgasrückführung erhöht wurde. Im normalen Straßenbetrieb schaltete die Software diesen Modus nicht ein, so dass es in diesem Betriebsmodus nicht zu einer erhöhten Abgasrückführung und der dadurch erzielten Schadstoffreduzierung kam. Zudem fand eine Leistungsreduzierung statt, um den Verbrauch und damit die CO2-Werte deutlich nach unten zu senken.Bei dem Motor EA 897 entdeckte das Kraftfahrt-Bundesamt (KBA) im Jahr 2017 ebenfalls Abschaltvorrichtungen, die dafür sorgten, dass ein geringerer Ausstoß bestimmter Schadstoffe gemessen wurde, als er tatsächlich auftritt. Das Verkehrsministerium verhängte ein Zulassungsverbot für den Porsche Cayenne Typ 92 A, der mit einem 3,0-Liter-V6-Diesel ausgestattet ist.Mit Bescheid vom 28.07.2017 wurde der Porsche AG vom KBA aufgegeben, für Fahrzeuge des Typs Cayenne 3,0 Liter V6 Diesel (EU6) eine Aktualisierung der Motorsoftware vorzunehmen. Mit Bescheid vom 18.10.2017 (Bl. 409 f. GA) bestätigte das KBA gegenüber der Porsche AG zunächst, dass keine unzulässigen Abschaltvorrichtungen festgestellt worden seien. Mit Schreiben vom 22.12.2017 teilte die Q GmbH der Klägerin mit, dass ein Softwareupdate verfügbar sei. Am 22.01.2018 ordnete das KBA schließlich den Rückruf des Porsche Cayenne mit 3,0 l V6 TDI Euro 6-Motor der Baujahre 2014 bis 2017 zur "Entfernung der unzulässigen Abschaltvorrichtung" an (Bl. 415 GA).Mit anwaltlichem Schreiben vom 29.01.2018 forderte die Klägerin die Beklagte zur Nacherfüllung auf und setzte ihr zur Unterbreitung eines Nacherfüllungsangebots, das nicht im Aufspielen eines Softwareupdates besteht, eine Frist bis zum 07.02.2018, für die Nacherfüllung einer Alternative zum Softwareupdate selbst, insbesondere durch Neulieferung eines unbelasteten Benzinfahrzeugs, eine Frist bis zum 14.02.2018. Nachdem eine Reaktion der Beklagten ausgeblieben war, erklärte die Klägerin mit anwaltlichem Schreiben vom 23.03.2018 den Rücktritt vom Kaufvertrag und forderte die Beklagte zur Rückzahlung des Kaufpreises Zug um Zug gegen Rückgabe des Fahrzeugs bis zum 03.04.2018 auf.Zum Zeitpunkt des Schlusses der mündlichen Verhandlung wies das streitgegenständliche Fahrzeug eine Gesamtfahrleistung von 27.340 km auf.Die Klägerin behauptet, das Fahrzeug weise eine illegale Abschalteinrichtung auf, die erreiche, dass das Fahrzeug in die Schadstoffklasse Euro 6 eingruppiert werden konnte, nach der der Kohlenmonoxidausstoß 500 mg/km und der Stickstoffdioxidausstoß 80 mg/km nicht überschreiten darf. Diese Grenzwerte würden aber ohne die Manipulation nicht eingehalten werden, da der nach der EU-Übereinstimmungsbescheinigung (Bl. 116 ff. GA) bescheinigte Stickoxidausstoß von 45,9 mg/km tatsächlich ca. 800 mg/km betrage.Die verwendete Motorsteuerungssoftware führe zu einem um mehr als 10 % erhöhten Kraftstoffverbrauch, da der tatsächliche Verbrauch von mindestens 9,5 l den Verbrauch nach Herstellerangaben von 7,2 l im Drittelmix übersteige. Zudem werde sie Probleme mit dem Befahren von Umweltzonen verursachen, könne sich nachteilig auf die Kfz-Steuer auswirken und den Wiederverkaufswert um 20 % verringern.Diese Mängel seien auch erheblich, da das Softwareupdate ungeeignet sei, die Abschaltvorrichtung zu beseitigen.Die Klägerin beantragt,1. die Beklagte zu verurteilen, an sie 70.000,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 04.04.2018 Zugum-Zug gegen Rückgewähr des Fahrzeuges Porsche Cayenne 3.0 TDI mit der Fahrgestellnummer xxxxxxxxxx zu zahlen,2. festzustellen, dass sich die Beklagte spätestens seit dem 04.04.2018 mit der Rücknahme des im Klageantrag zu 1) bezeichneten Gegenstands in Annahmeverzug befindet,3. die Beklagte zu verurteilen, 2.403,21 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 08.02.2018 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Sie behauptet, das Fahrzeug sei nicht mangelhaft, da es nicht die aus EA 189-Motoren bekannte Umschaltlogik aufweise. Gegenstand des Abgasskandals seien nur Euro 5 Dieselmotoren mit 2 l, 1,6 l und 1,2 l. Der Selektive Catalytische Katalysator (SCR-Katalysator), der mit Ad-Blue betrieben werde, um Stickoxidemissionen des Fahrzeugs zu reduzieren, benötige eine ausreichende Betriebstemperatur. Damit seine Wirksamkeit nach einem Kaltstart nicht eingeschränkt sei, sorge der sogenannte Warmlaufmodus des Fahrzeugs für ein schnelleres Aufheizen des Katalysators. Bei diesem Warmlaufmodus handele es sich nicht um einen alternativen Betriebsmodus für den Motor im Prüfstandbetrieb und damit nicht um eine unzulässige Abschaltvorrichtung.Der ggf. allein in dem Vorhandensein der Abschalteinrichtung liegende Mangel sei jedenfalls als unerheblich anzusehen, da er durch ein Update beseitigt werden könne, dessen Kosten sich lediglich auf 100,00 € beliefen.Die Klägerin müsse sich im Wege der Vorteilsausgleichung die gezogenen Nutzungen anrechnen lassen. Bei der Berechnung des Abzugsbetrages sei von einer zu erwartenden Gesamtlaufleistung von 250.000 km auszugehen.Wegen der weiteren Einzelheiten des Verfahrens wird auf die Schriftsätze der Parteien nebst Anlagen Bezug genommen. 
+				Gründe
+				Die Klage ist zulässig und überwiegend begründet.I.Die Klägerin hat gegen die Beklagte einen Anspruch auf Rückzahlung des Kaufpreises abzüglich einer Nutzungsentschädigung Zug um Zug gegen Rückgabe des Fahrzeugs gem. §§ 437 Nr. 2, 323, 346 Abs. 1, 348 BGB..Die Klägerin ist wirksam von dem Kaufvertrag zurückgetreten.Bei dem Kaufvertrag handelt es sich nicht um einen Verbrauchsgüterkauf nach §§ 474 ff. BGB, da die Klägerin als GmbH kein Verbraucher i.S.d. § 13 BGB ist.1.Mit Schreiben vom 23.03.2018 hat die Klägerin gegenüber der Beklagten den Rücktritt von dem zuvor abgeschlossenen Kaufvertrag über den streitgegenständlichen Pkw erklärt.2.Das Rücktrittsrecht folgt aus §§ 437 Nr. 2, 433 Abs.1, 434 Abs.1 S. 2 Nr. 2, 326 Abs. 5, 323 BGB.a)Das der Klägerin übereignete Fahrzeug war im Zeitpunkt der Übergabe mangelhaft im Sinne des § 434 Abs.1 BGB, da es jedenfalls nicht die Beschaffenheit aufwies, die der Käufer nach der Art der Sache gemäß § 434 Abs. 1 S. 2 Nr. 2 Var. 2 BGB erwarten kann.Zu den insoweit rechtlich geschützten Erwartungen gehört im Falle des Verkaufs von Fahrzeugen auch, dass diese derart beschaffen sind, dass sie im Zeitpunkt des Verkaufes die einschlägigen gesetzlichen Vorgaben einhalten und keine Betriebsuntersagung nach § 5 FZV droht (vgl. LG Lübeck, Urteil vom 12.12.2017, Az.: 3 O 155/17, Rn. 41 m.w.N.). Ein Sachmangel ergibt sich unter diesen Voraussetzungen bereits daraus, dass das Kraftfahrbundesamt im Jahr 2017 unzulässige Abschalteinrichtungen in diesem Fahrzeugtyp festgestellt, deren Beseitigung gefordert und den Rückruf des Fahrzeugtyps am 22.01.2018 angeordnet hat. Aufgrund des verpflichtenden Rückrufs droht eine Betriebsuntersagung bei Nichtdurchführung der Rückrufmaßnahme zum Zwecke der Entfernung der unzulässigen Abschaltvorrichtung.Mit Beschluss vom 17.04.2019 (Bl. 498 GA) wurde die Beklagte darauf hingewiesen, dass es, soweit sie der Auffassung ist, der "Warmlauf-Modus" stelle im Gegensatz zur Rechtsauffassung des Kraftfahrtbundesamtes keine "Abschaltvorrichtung" dar, näherer Darlegungen zur genauen Funktionsweise des "Warmlauf-Modus", insbesondere zu der Frage, unter welchen Bedingungen er aktiviert wird und welche technischen Auswirkungen er hat, bedarf.Dieser Darlegungslast ist die Beklagte mit Schriftsatz vom 05.06.2019 (Bl. 505 GA) nicht nachgekommen. Insbesondere fehlen Ausführungen dazu, warum der Warmlauf-Modus gerade keine "Abschaltvorrichtung" darstellen soll. Auch wurde der Bescheid des Kraftfahrtbundesamtes, der der Rückrufaktion zugrunde lag, nicht, wie seitens des Gerichts aufgegeben, vorgelegt.Das nicht hinreichend substantiierte Bestreiten der Beklagten, es handele sich bei dem Warmlaufmodus nicht um eine unzulässige Abschaltvorrichtung, ist gemäß § 138 Abs. 3 ZPO unbeachtlich.b)Dem Rücktritt steht nicht entgegen, dass es an einer vergeblichen Nacherfüllungsaufforderung mit Fristsetzung fehlt.Zwar hat die Klägerin der Beklagten mit dem Schreiben der Klägerin vom 29.01.2018 eine Frist zur Nacherfüllung bis zum 14.02.2018 gesetzt. Allerdings hat sie darin eine Nachbesserung durch ein Softwareupdate ausdrücklich ausgeschlossen, sodass kein taugliches Nacherfüllungsverlangen gegeben ist. Die Klägerin durfte durchaus zur Beseitigung des Mangels zwischen Nachbesserung und Nachlieferung wählen, vgl. § 439 Abs. 1 BGB, die Auswahl der Methode steht aber letztlich dem Verkäufer, hier der Beklagten zu (vgl. BeckOK BGB, Bamberger/Roth/Hau/Poseck, 51. Edition, Stand: 01.08.2019, § 439 Rn. 20).Die Klägerin war jedoch auch ohne Fristsetzung gemäß §§ 437 Nr. 2, 326 Abs. 5, 275 Abs. 1 BGB zum Rücktritt berechtigt.Demnach ist eine Fristsetzung entbehrlich, wenn der Schuldner wegen Unmöglichkeit beider Arten der Nacherfüllung nicht zu leisten braucht.Dies ist vorliegend der Fall. Sowohl Nachlieferung als auch Nacherfüllung sind der Beklagten unmöglich.Eine Nachlieferung, die auch bei einem Gebrauchtwagenkauf nicht generell ausgeschlossen ist, scheidet vorliegend jedoch bereits aus, da der erworbene Fahrzeugtyp als solcher - also die gesamte Gattung - von dem Rückrufbescheid des KBA aufgrund der unzulässigen Abschalteinrichtung betroffen und somit mangelbehaftet ist.Eine Nachbesserung in der in einzig Frage kommenden Form eines Software-Updates ist hingegen nicht geeignet, den Mangel vollständig zu beseitigen.Die Nachbesserung muss ohne jede Einschränkung zu einem vertragsgemäßen Zustand der Sache führen. Es reicht also nicht aus, wenn die Kaufsache deutliche Spuren der Reparatur- oder Austauschmaßnahmen des Verkäufers aufweist oder wegen verbliebener und nicht behebbarer Umstände auch in Zukunft Nachbesserungsmaßnahmen nötig sind (Münchener Kommentar zum BGB/Westermann, 8. Auflage 2019, § 439 Rn. 12).Selbst wenn das Fahrzeug nach dem Aufspielen eines Software-Updates die Grenzwerte der Euro-Abgasnorm ohne manipulativen Eingriff in die Motorsteuerung einhalten würde, ohne dabei anderweitige technische Nachteile zu erleiden, bliebe das Fahrzeug weiterhin mangelhaft, denn die Eigenschaft des Fahrzeugs als ein solches Fahrzeug, dass von dem sogenannten "Abgasskandal" betroffen war, haftet diesem auch nach dem Aufspielen eines Software-Updates weiterhin als Makel an und kann nicht beseitigt werden.c)Das Rücktrittsrecht ist auch nicht gemäß § 323 Abs. 5 S. 2 BGB wegen Unerheblichkeit des Mangels ausgeschlossen.Ob die Pflichtverletzung als unerheblich einzustufen, der Mangel also als geringfügig anzusehen ist, beurteilt sich im Wege einer umfassenden Interessenabwägung (BGH, Urteil vom 28. Mai 2014, Az.: VIII ZR 94/13).Unter Würdigung aller Umstände liegt ein unerheblicher Mangel nicht vor.Zwar stellt ein unbehebbarer Mangel nicht per se auch einen nicht unerheblichen Mangel i.S.d. § 323 Abs. 5 S. 2 BGB dar (BGH, Urteil vom 12.03.2008, Az.: VIII ZR 253/05).Das Gericht ist jedoch davon überzeugt, dass die Verkäufer von den betroffenen Dieselfahrzeugen mit erheblichen Preisabschlägen rechnen müssen undhält es gemäß § 287 ZPO in Anbetracht der allgemeinen Bekanntheit der Problematik bei dem Motor EA 897, bei den potentiellen Autokäufern für sehr wahrscheinlich, dass der merkantile Minderwert über einem Prozent des Kaufpreises liegen wird.Ein zu erwartender Verlust von über einem Prozent des Kaufpreises übersteigt aber die Bagatellgrenze des § 323 Abs. 5 S. 2 BGB, denn er ist bereits so spürbar, dass eine verständige Partei nicht ohne Weiteres am Vertrag festhalten würde (vgl. auch BGH, Urteil vom 12.03.2008, Az.: VIII ZR 253/05; LG München I, Urteil vom 14.04.2016 , Az.: 23 O 23033/15; LG Oldenburg Urteil vom 01.09.2016, Az.: 16 O 790/16).3.Die Klägerin kann den Kaufpreis jedoch nur abzüglich der erlangten Gebrauchsvorteile für die Nutzung des Fahrzeugs erlangen. Die Nutzungsvorteile nach einem Gebrauchtwagenkauf sind nach folgender Formel zu berechnen (vgl. OLG Düsseldorf BeckRS 2014, 14180):Gebrauchsvorteile = Bruttokaufpreis x gefahrene Kilometer : erwartbare Restlaufleistung.Das Gericht geht nach freiem Ermessen gemäß § 287 ZPO von einer zu erwartenden Gesamtlaufleistung von 250.000 km aus.Demnach ergibt sich ein Anspruch auf Nutzungsersatz in Höhe von 5.360,50 € (70.000,00 € Bruttokaufpreis x 18.465 gefahrene km [27.340 km Gesamtlaufleistung abzüglich 8.875 km Laufleistung im Erwerbszeitpunkt] dividiert durch 241.125 km zu erwartende Restlaufzeit im Erwerbszeitpunkt [250.000 km geschätzte Gesamtlaufzeit abzüglich 8.875 km Laufleistung im Erwerbszeitpunkt].II.Ein Anspruch aus § 812 Abs. 1 S. 1 Alt. 1 BGB steht der Klägerin gegen die Beklagte nicht zu.Der Kaufvertrag ist nicht nach § 134 BGB wegen Verstoßes gegen § 27 Abs. 1 EG-FGV nichtig. Es kann dahingestellt bleiben, ob ein Verstoß gegen § 27 Abs. 1 EG-FGV vorliegt.Selbst wenn ein Verstoß gegen § 27 Abs. 1 EG-FGV vorläge, hat dieser jedenfalls keine Unwirksamkeit des Kaufvertrages nach § 134 BGB zur Folge. Nach der Grundstruktur des § 134 BGB ist die Nichtigkeit als Folge eines Verstoßes gegen ein Verbotsgesetz in der Regel nur dann anzunehmen, wenn sich das Verbotsgesetz gegen beide Parteien eines Vertrages richtet und ein beiderseitiger Verstoß vorliegt (vgl. BGH, Urteil vom 14.12.1999, Az.: X ZR 34/98). § 27 Abs. 1 EG-FGV richtet sich jedoch nur gegen den Verkäufer. Richtet sich das Verbotsgesetz nur gegen eine Partei eines Vertrages, kann eine Nichtigkeit nur dann angenommen werden, wenn es mit Sinn und Zweck der Verbotsnorm nicht vereinbar wäre, den Vertrag als wirksam anzusehen. Dies ist aber bei § 27 Abs. 1 EG-FGV nicht der Fall (OLG Köln, Beschluss vom 16.07.2018, Az.: 5 U 82/17).Ein Verstoß gegen § 27 Abs. 1 EG-FGV führt schon deswegen nicht zu einer Nichtigkeit etwaiger Kaufverträge, weil die Folgen einer Nichtübereinstimmung der Produktion mit dem genehmigten Typ in § 25 EG-FGV normiert sind. Danach kann das KBA die erforderlichen Maßnahmen anordnen, wenn es feststellt, dass Fahrzeuge nicht mit dem genehmigten Typ übereinstimmen. Auch würde eine Nichtigkeit dem Käufer die Gewährleistungsrechte aus § 437 BGB entziehen (vgl. OLG Köln, Beschluss vom 16.07.2018, Az.: 5 U 82/17).III.Der Zinsanspruch ergibt sich aus den §§ 286, 288 Abs. 1 BGB. Hinsichtlich des Kaufpreises ist die Beklagte am 04.04.2018 in Verzug geraten, da sie mit dem Rücktrittsschreiben vom 23.03.2018 zur Zahlung bis zum 03.04.2018 aufgefordert wurde.IV.Der Feststellungsantrag, der im Hinblick auf den Nachweis in der Zwangsvollstreckung (§ 756 Abs. 1 ZPO) zulässig ist, ist auch begründet.Die Beklagte befindet sich gemäß § 293 BGB in Annahmeverzug, da die Klägerin die Rückübereignung Zug um Zug gegen Rückzahlung des Kaufpreises mit Schreiben vom 23.03.2018 wörtlich angeboten hat. Das wörtliche Angebot reicht gemäß den §§ 295, 298 BGB aus, weil die Beklagte den Rücktritt spätestens durch ihren Antrag auf Klageabweisung zurückgewiesen und damit die Rückzahlung des Kaufpreises Zug um Zug gegen Rücknahme des Pkw abgelehnt hat.V.Des Weiteren hat die Klägerin gegen die Beklagte gemä?§§ 437 Nr. 3, 280 Abs. 1 BGB einen Anspruch auf Ersatz der vorgerichtlichen Rechtsanwaltskosten. Denn bei Lieferung eines mangelbehafteten Fahrzeugs steht einem Käufer gegen den Verkäufer nach diesen Vorschriften Schadensersatz neben der Leistung zu, der auch die notwendigen Rechtsverfolgungskosten umfasst.Die geltend gemachte Geschäftsgebühr von 1,5 ist allerdings übersetzt; angemessen ist lediglich eine 1,3-Geschäftsgebühr. Dies ergibt einen Betrag in Höhe von 2.085,95 €.Die Klärung des vorliegenden Sachverhaltes ist weder mit besonderen Schwierigkeiten verbunden, noch handelt es sich hinsichtlich des Umfangs oder des rechtlichen Schwierigkeitsgrades um einen überdurchschnittlichen Fall, der den Ansatz einer höheren Gebühr rechtfertigen könnte.Der Zinsanspruch ergibt sich aus den §§ 286, 288 Abs. 1 BGB. Hinsichtlich der vorgerichtlichen Rechtsanwaltskosten ist die Beklagte am 04.04.2018 in Verzug geraten, da sie mit dem Rücktrittsschreiben vom 23.03.2018 zur Zahlung bis zum 03.04.2018 aufgefordert wurde.VI.Die Kostenentscheidung beruht auf § 92 Abs. 1 S. 1 ZPO.Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus §§ 708 Nr. 11, 709, 711 ZPO.VII.Der Streitwert wird auf 70.000,00 € (davon 70.000,00 € für den Klageantrag zu 1), 0 € für den Klageantrag zu 2), da neben dem Klageantrag zu 1) ohne eigenen wirtschaftlichen Wert und 0 € für den Klageantrag zu 3) gemäß § 4 ZPO) festgesetzt.Unterschriften
+			
+			
+			
+			Permalink: https://openjur.de/u/2193490.html (https://oj.is/2193490)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen3
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

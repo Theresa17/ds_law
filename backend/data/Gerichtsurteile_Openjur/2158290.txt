@@ -1,0 +1,144 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BochumRechtsprechungUrteil vom 07.12.2007 - I-6 O 88/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bochum, Urteil vom 07.12.2007 - I-6 O 88/17
+                      m. Fundstelle
+                      LG Bochum, Urteil vom 07.12.2007 - I-6 O 88/17 = openJur 2019, 23162
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bochum, Urteil vom 07.12.2007 - I-6 O 88/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 23162
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							nachfolgend: Az. I-30 U 29/18
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte wird verurteilt, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs W mit der Fahrgestellnummer ...# an den Kläger 10.794,19 € nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 19.4.2017 zu zahlen.Es wird festgestellt, dass sich die Beklagte seit dem 11.3.2017 mit der Rücknahme des zuvor bezeichneten Fahrzeugs im Annahmeverzug befindet.Die Beklagte wird verurteilt, an den Kläger weitere 742,56 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 11.3.2017 zu zahlen.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits trägt die Beklagte.Das Urteil ist gegen Leistung einer Sicherheit in Höhe von 120% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger kaufte am 6.4.2016 von einer Privatperson einen Pkw W zu einem Preis von 11.700,00 €. In dem Pkw ist ein Motor des Typs F verbaut, der, wie sich später herausstellte, vom sogenannten W-Abgasskandal betroffen ist.Der W-Abgasskandal gründet im Wesentlichen darauf, dass die betroffenen W Motoren über zwei Betriebsmodi verfügen (0 und 1). Im Modus 1 kommt es zu einer höheren Rückführung von Abgasen, also auch von Stickoxiden (NOx). Hierdurch wird der Ausstoß nach außen vermindert und die entsprechenden Emissionswerte des Pkw werden verbessert. Im Modus 0 werden die Abgase vermehrt nach außen abgegeben, was zu schlechteren Emissionswerten führt. Der Skandal bestand darin, dass die angewendete Software der Motoren erkannte, wann ein Testlauf unter Laborbedingungen durchgeführt wird (in Europa sogenannter Neuer Europäischer Fahrzyklus - NEFZ). In einem solchen Fall lief der Motor im Modus 1 und produzierte hierdurch geringere Emissionen. Im alltäglichen Gebrauch schaltete der Motor in den Modus 0 und produzierte mehr Emissionen. Unklar ist, welche genauen Unterschiede sich durch die beiden Modi hinsichtlich der Leistungsfähigkeit und der Abnutzung verschiedener Autoteile ergibt. Durch die hierdurch im NEFZ erreichten besseren Abgaswerte erfüllten die Fahrzeuge die Voraussetzung der EU Norm 5 ("Grüne Plakette") gemäß der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20.06.2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6). Da es sich um eine rein softwareseitige Problematik handelt, konnte durch ein Update der Motor dauerhaft in den Modus 1 geschaltet werden, der daher die unter Testbedingungen erfassten Werte erreicht. Dieses Softwareupdate wurde für den im streitgegenständlichen Pkw verbauten Motor mit Bestätigung des Kraftfahrbundesamtes (KBA) vom 20.06.2016 freigegeben. In dieser Bestätigung wurde unter anderem festgehalten, dass "die von der W AG für die betroffenen Fahrzeuge dem KBA vorgestellte Änderung der Applikationsdaten geeignet ist, die Vorschriftsmäßigkeit der genannten Fahrzeuge herzustellen". Auch wurde festgestellt, dass die Grenzwerte und andere Anforderungen an Schadstoffemissionen und Dauerhaltbarkeit von emissionsmindernden Einrichtungen eingehalten wurden. Zudem wurden die ursprünglich vom Hersteller angegebenen Kraftstoffverbrauchswerte und CO2-Emissionen bestätigt, ebenso wie eine fehlende Beeinträchtigung der Motorleistung. Die EU Norm 5 ("Grüne Plakette") wurde dem streitgegenständlichen Fahrzeug zu keinem Zeitpunkt entzogen.Nach Kenntniserlangung davon, dass sein Fahrzeug von dem Abgasskandal betroffen ist, forderte der Kläger die Beklagte vorgerichtlich mit Schreiben vom 21.2.2017 und unter Fristsetzung auf den 10.3.2017 zur Rücknahme des erworbenen Pkw gegen Rückzahlung des Kaufpreises in Höhe von 11.700,00 € (abzüglich gezogener Nutzungen) auf. Die Beklagte reagierte auf dieses Schreiben nicht.Der Kläger behauptet, dass namentlich benannte Führungspersonen der Beklagten Kenntnis von dem Einsatz der Manipulationssoftware gehabt hätten. Für den Kläger sei gerade die Werbung der Beklagten und ihrer Tochterunternehmen mit der besonderen Umweltfreundlichkeit ein besonders schlagendes Kaufargument gewesen. Es spreche eine Vermutung dafür, dass sich der umweltbewusste und rechtstreue Kläger aufgrund der falschen Beschaffenheitsangabe sowohl über die Gesetzeskonformität der Muttersteuerungssoftware als auch über die Richtigkeit der von dem Fahrzeug auf dem Prüfstand der NEFZ zu erzielenden Schadstoffwerte, insbesondere den Stickoxidwert geirrt hat. In Folge des Abgasskandals müsse mit einem erheblichen Wertverlust von etwa 30 % gerechnet werden. Der Kläger behauptet, durch das Softwareupdate würde entweder der Verbrauch (und damit auch die CO2-Werte) steigen oder das Fahrzeug würde denselben Mangel haben wie zuvor (NOx-Ausstoß zu hoch). Ferner drohten Versottungsschäden und auch der Wertverlust würde nicht beseitigt werden. Der Kläger ist der Ansicht, er habe Ansprüche gegen die Beklagte auf Schadensersatz, da diese ihn durch fehlende Aufklärung über die erfolgte Softwaremanipulation u.a. sittenwidrig geschädigt habe. Aufgrund dieser Schadensersatzansprüche könne er die Rückabwicklung des Kaufvertrages verlangen.Der Kläger beantragt,1. die Beklagte zu verurteilen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs W mit der Fahrgestellnummer ...# an den Kläger 11.700,00 € unter Anrechnung einer noch zu beziffernden Nutzungsentschädigung nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen,2. festzustellen, dass sich die Beklagte seit dem 10.3.2017 im Annahmeverzug befindet,3. die Beklagte zu verurteilen, außergerichtliche Anwaltskosten in Höhe von 742,56 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 10.3.2017 zu zahlen.Die Beklagte beantragtdie Klage abzuweisen.Die Beklagte moniert zunächst, dass der Klägervortrag unsubstatiiert sei, da der Kläger nicht vortrage, was genau er mit "Abgasskandal" meint. Die Beklagte bestreitet, dass ihre Führungsorgane Kenntnis von Einsatz und Entwicklung der Manipulationssoftware gehabt hätten. Jedenfalls sei dies nicht sicher und Gegenstand momentaner interner Untersuchungen. Wer wann Kenntnis von dem Einsatz gehabt haben solle, trage der Kläger nicht vor. Eine Zurechnung nur von Mitarbeitern, die nicht den Führungsorganen angehören, sei nicht möglich. Ferner liege auch kein höherer Schadstoffausstoß als angegeben vor. Für die Einhaltung der Emissionsgrenzwerte der EG-Typgenehmigung sei der Neue Europäische Fahrzyklus (NEFZ) zugrunde zu legen; im Rahmen des NEFZ werde aber gerade auf "Laborwerte" und damit nicht auf die Emissionen im normalen Straßenbetrieb abgestellt. Eine diesbezügliche Abweichung sei daher der gesetzgeberischen Entscheidung immanent. Es liege schon begrifflich keine Abschalteinrichtung, sondern vielmehr eine innermotorische Maßnahme bzw. eine Umschaltlogik vor. Ohnehin sei eine mögliche Täuschung nicht kausal für die Kaufentscheidung des Klägers gewesen, da nach wie vor eine wirksame EG-Typengenehmigung vorliege und der Kläger das Fahrzeug nach wie vor und ohne jede Einschränkung nutzen könne. Das Fahrzeug des Klägers weiche daher nicht von seiner Sollbeschaffenheit ab. Dem Kläger entstünde ohnehin kein Schaden, da das erforderliche Update der Motorensoftware keinen negativen Einfluss auf Kraftstoffverbrauchswerte, CO2-Emissionswerte, Motorleistung, Drehmoment und Geräuschemissionen habe, für ihn kostenlos und daher zumutbar sei. Auch eine Wertminderung bestreitet die Beklagte. 
+				Gründe
+				Die zulässige Klage ist begründet.Der Kläger hat einen Schadensersatzanspruch gegen die Beklagte aus § 826 BGB wegen sittenwidriger Schädigung und kann die mit dem Antrag zu 1) geltend gemachte Erstattung des gezahlten Kaufpreises unter Anrechnung der erfolgten Nutzungen und Zug um Zug gegen Übergabe und Übereignung des streitgegenständlichen Fahrzeuges verlangen.Die Beklagte hat den Kläger sittenwidrig getäuscht.Die Beklagte hat den Kläger konkludent darüber getäuscht, dass die Zulassung des Fahrzeuges zum Straßenverkehr und die Einstufung in die angegebene Schadstoffklasse gesetzmäßig erfolgten. Sie hat konkludent dadurch getäuscht, dass sie unter anderem den in das Fahrzeug des Klägers eingebauten Motor mit einer manipulierten Motorensoftware in Verkehr brachte, ohne hierüber aufzuklären. Es liegt folglich eine konkludente Täuschung durch Unterlassen vor. Das Gericht verkennt dabei nicht, dass eine Täuschung durch Unterlassen das Bestehen einer Offenbarungspflicht des Herstellers zugunsten des Fahrzeugkäufers voraussetzt und dass eine solche Pflicht einen begründungsbedürftigen Ausnahmefall darstellt. Eine Offenbarungspflicht besteht jedoch dann, wenn Umstände vorliegen, deren Eintritt den Vertragszweck aus Sicht des Käufers vereiteln könnte und die der Käufer selbst nicht zu erkennen vermag. Dies ist vorliegend der Fall, denn das Fahrzeug des Klägers hätte die für die sogenannte "grüne Plakette" erforderliche Schadstoffklasse nicht eingehalten, wäre die Software nicht manipuliert worden. Hierfür spricht, dass der streitgegenständliche Fahrzeugtyp Gegenstand des Bescheides des KBA vom 20.6.2016 ist. In diesem Bescheid ist hinsichtlich des streitgegenständlichen Fahrzeugtyps davon die Rede, dass die W AG mit einem vorher gehenden Bescheid vom 14.10.2015 verpflichtet wurde, bei allen betroffenen Fahrzeugen mit dem Aggregat EA 189 die unzulässige Abschalteinrichtung zu entfernen. Das im Widerspruch hierzu vorgetragene Bestreiten der Beklagten, wonach es sich bei der verwendeten Software nicht um eine unzulässige Abschalteinrichtung, sondern um eine innermotorische Maßnahme bzw. eine Umschaltlogik handele, ist demgegenüber unzureichend qualifiziert und daher unbeachtlich. Die erfolgte Zulassung des Fahrzeugs zum Straßenverkehr beruhte daher nicht auf einer ordnungsgemäßen Prüfung, sondern auf der Manipulation der Motorensoftware und war demnach gerade nicht ordnungsgemäß.Die Täuschung war kausal für die Kaufentscheidung des Klägers. Es ist anerkannt, dass bei täuschendem Verhalten für die Darlegung des ursächlichen Zusammenhangs zwischen Täuschung und Abgabe der Willenserklärung es ausreichend ist, dass die Tatsachen, über die getäuscht wurde, für den Entschluss des Getäuschten nach der Lebenserfahrung bei der Art des zu beurteilenden Rechtsgeschäfts Einfluss auf die Entschließung gehabt haben können (vgl. etwa BGH v. 12.05.1995, Az. BGH NJW 1995, 2361 zu § 123 BGB; vgl. auch Sprau in Palandt, BGB, 75. Aufl. 2016, § 826 Rn. 20). Vorliegend hat die Beklagte über eine Manipulation der Motorensoftware und somit über die ordnungsgemäße Prüfung und Zulassung des Fahrzeugs getäuscht. Sowohl die Eigenschaft des Motors als zentrales Element eines Fahrzeuges als auch die ordnungsgemäße Zulassung als Voraussetzung der Nutzung des Fahrzeuges im Straßenverkehr lassen nur den Schluss zu, dass der Kläger bei Kenntnis der Manipulation das Fahrzeug nicht gekauft hätte. Dabei wäre es auch unerheblich, wenn im Wege der Manipulation in erster Linie die Stickstoffemissionen manipuliert worden wären und der Kläger sich zu diesem Wert keine Gedanken gemacht hätte, wie es die Beklagte vorträgt. Wesentlich ist die Tatsache der Softwaremanipulation, die sich auf den Vorgang der Prüfung des Fahrzeuges und somit auch auf die Zulassung auswirkte.Die Kausalität entfällt auch nicht allein deshalb, weil der Kläger das streitgegenständliche Fahrzeug erst im Jahr 2016 und damit nach Bekanntwerden des Dieselskandals kaufte. Denn dieser hat in der öffentlichen Sitzung vom 16.11.2017 ausgeführt, er sei davon ausgegangen, dass von der Abgasproblematik nur die größeren Motoren betroffen seien und sein Auto habe ja einen eher kleinen Motor.Die Täuschung war auch sittenwidrig. Sittenwidrig ist eine Handlung, die nach Inhalt und Gesamtcharakter, der durch zusammenfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt, das heißt mit grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist (BGH NJW-RR 2013, 550; Sprau, a.a.O., Rn. 4). Beweggrund der Beklagten zur Vornahme der Softwaremanipulation und der entsprechenden Täuschung hierüber war allein die Erzielung eines höheren Gewinns. Die Beklagte nutzte bei ihrer Täuschung aus, dass der Endverbraucher darauf vertraut, dass ein Fahrzeug, das von einem Hersteller für den Verkauf freigegeben wurde, die Zulassungsprüfungen ordnungsgemäß durchlaufen hat und dementsprechend die gesetzlich vorgegebenen Werte ohne Weiteres einhält. Unter Berücksichtigung dieser Aspekte verstößt die Täuschung der Beklagten gegen das Gerechtigkeitsgefühl aller billig und gerecht Denkenden. Dem kann auch nicht entgegengehalten werden, dass der Kläger nicht unmittelbar dem Schutzweck der verletzten EG-Verordnung unterfällt, da diese Verordnung in erster Linie dem Umweltschutz dienen soll. Die Auswirkungen der Verletzung dieser Verordnung und der sich daraus ergebenden rechtlichen Folgen treffen auch unmittelbar den Kläger als Eigentümer des streitgegenständlichen Fahrzeugs, das stets jedenfalls mit dem Makel behaftet ist, von dem Abgasskandal betroffen zu sein.Dem Kläger ist dementsprechend auch ein Schaden entstanden. Unabhängig davon, dass ein Ausbleiben eines objektiven Wertverlustes der vom Abgasskandal betroffenen Fahrzeuge zweifelhaft ist, ist ein Schaden bereits in dem Abschluss des Vertrages zu sehen, der jedenfalls zu den damaligen Bedingungen von dem Kläger nach Überzeugung der Kammer nicht abgeschlossen worden wäre (so im Ergebnis auch LG Hildesheim, Urt. v. 17.01.2017, Az. 3 O 139/16 = VuR 2017, 111; LG Paderborn, Urteil vom 07.04.2017 - 2 O 118/16 und LG Kleve LG Kleve, Urt. v. 31.03.2017, Az. 3 O 252/16 = VuR 2017, 232; Harke, VuR 2017, 83 (90)). Dass es sich bei diesem Vertrag um einen für den Kläger wirtschaftlich nachteiligen handelt, zeigt schon die Überlegung, dass kein verständiger Kunde ein Fahrzeug mit dieser Motorsoftware erwerben würde, wenn die Beklagte ihn vor dem Kauf darauf hinweisen würde, dass die Software nicht gesetzeskonform sei und er deshalb jedenfalls mit Problemen für den Fall der Entdeckung der Manipulation durch das KBA rechnen müsse. Der Kläger hat folglich nicht das bekommen, was ihm aus dem Kaufvertrag zustand, nämlich ein technisch einwandfreies, den gesetzlichen Bestimmungen entsprechendes Fahrzeug. Die Tatsache, dass der Kläger aufgrund des Verschweigens der Beklagten über den Einsatz der Software einen für ihn wirtschaftlich nachteiligen Vertrag geschlossen hat, hat seine Dispositionsfreiheit verletzt, sodass sein Vermögen nunmehr mit einer ungewollten Verpflichtung negativ belastet ist. Dabei ist es nicht entscheidend, ob der Kauf des Fahrzeugs für den Kläger einen messbaren Vermögensnachteil durch einen entstehenden Wertverlust bewirkt, da nach der höchstrichterlichen Rechtsprechung die Belastung mit einer ungewollten Verbindlichkeit bereits einen Schaden im Sinne des § 826 BGB darstellt.Ein Anderes ergibt sich auch nicht unter Zugrundelegung der Differenzhypothese. Ein Schaden aufgrund einer sittenwidrigen Schädigung ist grundsätzlich im Rahmen der Differenzhypothese zu ermitteln, das heißt durch ein Gegenüberstellen der jetzigen Vermögenslage des Geschädigten und der, die ohne eine Schädigung bestehen würde. Es kann jedoch auch ein Schaden vorliegen, wenn eine objektive Werthaltigkeit der vertraglichen Gegenleistung vorliegt. Die Differenzhypothese muss nämlich stets einer normativen Kontrolle unterzogen werden, weil sie eine wertneutrale Rechenoperation darstellt. Der Schadensersatz dient dazu, den konkreten Nachteil des Geschädigten auszugleichen. Danach kann ein Schaden auch darin gesehen werden, dass jemand durch ein haftungsbegründendes Verhalten zum Abschluss eines Vertrages gebracht worden ist (BGH NJW-RR 2005, 611, 612). Es ist daher anerkannt, dass der Schaden auch darin liegen kann, dass ein - wäre eine Täuschung nicht erfolgt - ungewollter Vertrag abgeschlossen wird. Dann richtet sich der Schaden nach dem negativen Interesse des Geschädigten (Sprau a.a.O., Rn. 15).Die Beklagte erfüllte auch den subjektiven Tatbestand der sittenwidrigen Schädigung. Ihr sind das Wissen und der Vorsatz der an der Softwaremanipulation und der Täuschung hierüber beteiligten Organmitglieder und sonstigen Mitarbeiter zuzurechnen. Eine solche Zurechnung erfolgt bei einer juristischen Person wie der Beklagten nach den allgemeinen Regeln der §§ 831, 31 BGB (Wagner, in Münchener Kommentar, BGB, 7. Aufl. 2017, § 826 Rn. 37). Grundsätzlich muss, damit eine Zurechnung erfolgen kann, das jeweilige Wissens- bzw. Vorsatzelement bei dem jeweiligen Organmitglied oder Mitarbeiter festgestellt werden (Wagner, a.a.O.). Kann eine solche Feststellung nicht erfolgen, geht dies grundsätzlich zu Lasten des hier beweisbelasteten Klägers. Vorliegend ist jedoch die Beklagte nach den Grundsätzen der sekundären Darlegungslast darlegungspflichtig. Dies folgt daraus, dass der Kläger nicht mehr vortragen kann, als er vorliegend getan hat. Der Kläger muss davon ausgehen, dass etwa der damalige Vorstandsvorsitzende Kenntnis von der Softwaremanipulation hatte oder diese sogar angewiesen hat. Es ist ihm aber nicht möglich, hierzu näher vorzutragen, da dies Kenntnis von den internen Strukturen und Abläufen sowie konkreter im Einflussbereich der Beklagten liegender Geschehnisse voraussetzen würde. Insofern obliegt es der Beklagten, zu den Kenntnissen ihrer Organmitglieder und Mitarbeiter vorzutragen, was ihr auch zumutbar ist. Dies hat sie jedoch versäumt. Sie hat lediglich vorgetragen, dass eine Aufarbeitung des Abgasskandals momentan erfolge. Dies geht zu ihren Lasten, weswegen von entsprechenden zurechenbaren Kenntnissen und dem daraus folgenden Vorsatz auszugehen ist (so auch LG Hildesheim, Urt. v. 17.01.2017, Az. 3 O 139/16 = VuR 2017, 111; LG Paderborn, Urteil vom 07.04.2017 - 2 O 118/16 und LG Kleve LG Kleve, Urt. v. 31.03.2017, Az. 3 O 252/16 = VuR 2017, 232).Der Kläger ist demnach so zu stellen, wie er ohne Täuschung stehen würde.Da der Kläger den Vertrag nach Überzeugung des Gerichts in der vorliegenden Ausgestaltung nicht abgeschlossen hätte, ist ihm der gezahlte Kaufpreis zu erstatten. Der Kläger muss sich jedoch das anrechnen lassen, was er in Folge des ungewollten Vertrages erlangt hat (vgl. Grüneberg in Palandt, BGB, 75. Aufl. 2016, vor § 249 Rn. 94). Der Kläger hat im Termin vom 16.11.2017 ein Foto vorgelegt, welches einen Kilometerstand am 16.11.2017 von 94.826 km auswies. Ausweislich des Kaufvertrages vom 6.4.2016 wies das Fahrzeug im Zeitpunkt der Übernahme durch den Kläger einen Kilometerstand von 71.600 km aus, sodass der Kläger insgesamt 23.226 km mit dem Fahrzeug zurückgelegt hat. Das Gericht schätzt die Gesamtlaufleistung des Fahrzeuges auf 300.000 km. Gemessen daran ist eine Nutzungsentschädigung in Höhe von 11.700,00 € * 23.226 km / 300.000 km = 905,81 € angemessen, die von dem zu erstattenden Kaufpreis in Abzug zu bringen ist. Dieser beträgt folglich 10.794,19 €. Daneben ist das streitgegenständliche Fahrzeug an die Beklagte herauszugeben und an sie rückzuübereignen.Der Anspruch auf Rechtshängigkeitszinsen ergibt sich aus §§ 288, 291 BGB.Soweit der Kläger mit ihrem Antrag zu 2) die Feststellung begehrt, dass die Beklagte sich mit der Rücknahme des Fahrzeuges im Verzug befindet, ist die Klage zulässig und begründet. Das Feststellungsinteresse für diesen Antrag ergibt sich aus einer Vereinfachung der Zwangsvollstreckung des Zahlungsanspruchs gem. §§ 756, 765 ZPO (BGH NJW 2000, 2663, 2664). Die Begründetheit des Antrages zu 2) ergibt sich aus dem Bestehen eines Rücknahmeanspruchs des Klägers. Gemäß §§ 187, 188 BGB ist die Beklagte allerdings nicht schon am 10.3.2017 - dem letzten Tag der mit Schreiben vom 21.2.2017 gesetzten Frist -, sondern erst am 11.3.2017 in Annahmeverzug geraten.Die Begründetheit des Antrages zu 3) ergibt sich aus ebenfalls aus § 826 BGB. Als Schaden unterliegen außergerichtliche Rechtsanwaltskosten nämlich dem allgemeinen Schadensrecht der §§ 249?ff.?BGB (Hunecke, NJW 2015, 3745 (3746)). Vorliegend war die Beauftragung eines Rechtsanwalts auch erforderlich und zweckmäßig. Gemäß §§ 187, 188 BGB liegt der Zinsbeginn auch hier nicht am 10., sondern am 11.3.2017.Dem Kläger war im Hinblick auf den Beklagtenschriftsatz vom 8.11.2017 kein Schriftsatznachlass zu gewähren, da dieser keinen wesentlichen neuen, für die Entscheidung des Gerichts relevanten Vortrag enthielt. Ebenso war der Beklagten im Hinblick auf neuen Tatsachenvortrag des Klägers in der mündlichen Verhandlung kein Schriftsatznachlass zu gewähren. Denn die Beklagte hat sich zu diesem neuen Tatsachenvortrag des Klägers bereits umfassend im Termin erklärt.Die Nebenentscheidungen beruhen auf §§ 92 Abs. 2 Nr. 1, 709 ZPO.Rechtsbehelfsbelehrung:Gegen dieses Urteil ist das Rechtsmittel der Berufung für jeden zulässig, der durch dieses Urteil in seinen Rechten benachteiligt ist,1. wenn der Wert des Beschwerdegegenstandes 600,00 EUR übersteigt oder2. wenn die Berufung in dem Urteil durch das Landgericht zugelassen worden ist.Die Berufung muss innerhalb einer Notfrist von einem Monat nach Zustellung dieses Urteils schriftlich bei dem Oberlandesgericht Hamm, Heßlerstr. 53, 59065 Hamm, eingegangen sein. Die Berufungsschrift muss die Bezeichnung des Urteils (Datum des Urteils, Geschäftsnummer und Parteien) gegen das die Berufung gerichtet wird, sowie die Erklärung, dass gegen dieses Urteil Berufung eingelegt werde, enthalten.Die Berufung ist, sofern nicht bereits in der Berufungsschrift erfolgt, binnen zwei Monaten nach Zustellung dieses Urteils schriftlich gegenüber dem Oberlandesgericht Hamm zu begründen.Die Parteien müssen sich vor dem Oberlandesgericht Hamm durch einen Rechtsanwalt vertreten lassen, insbesondere müssen die Berufungs- und die Berufungsbegründungsschrift von einem solchen unterzeichnet sein.Mit der Berufungsschrift soll eine Ausfertigung oder beglaubigte Abschrift des angefochtenen Urteils vorgelegt werden.
+			
+			
+			
+			Permalink: https://openjur.de/u/2158290.html (https://oj.is/2158290)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen3
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

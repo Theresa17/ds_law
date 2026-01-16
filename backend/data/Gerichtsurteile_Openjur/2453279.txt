@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG KasselRechtsprechungUrteil vom 02.06.2022 - 8 O 2099/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Kassel, Urteil vom 02.06.2022 - 8 O 2099/20
+                      m. Fundstelle
+                      LG Kassel, Urteil vom 02.06.2022 - 8 O 2099/20 = openJur 2022, 19174
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Kassel, Urteil vom 02.06.2022 - 8 O 2099/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 19174
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist gegen eine Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht gegen die Beklagte im Rahmen des sog. Abgasskandals Ansprüche betreffend den Erwerb eines Fahrzeugs geltend.Am 24.05.2013 kaufte der Kläger beim Autohaus "..." in "..." den Pkw Volkswagen Golf 1.6 mit der Fahrzeugidentifizierungsnummer "..." zum Preis von 21.570,00 Euro. Bei Übergabe des Fahrzeugs betrug der Kilometerstand 0. Das Fahrzeug enthielt den Motor des Typs EA288 mit der Abgasnorm EU 5.Am 03.07.2018 veräußerte der Kläger das streitgegenständliche Fahrzeug zum Preis von 7.500,00 Euro. Beim Verkauf betrug der Kilometerstand 60.000.Der Kläger berechnet den von ihm geltend gemachten Betrag wie folgt:21.570,00 Euro Kaufpreisabzgl.7.500,00 Euro Verkaufspreisabzgl.4.314,00 Euro NutzungsentschädigungKlagebetrag9.756,00 Euro.Das Kraftfahrtbundesamt (KBA) überprüfte den Motortyp EA288. Im Jahre 2016 stellte es fest, dass darin keine unzulässige Abschalteinrichtung zum Einsatz komme. Im Untersuchungsbericht vom April 2016 (Bl. 382 d.A.) heißt es:"Hinweise, die aktuell laufende Produktion der Fahrzeuge mit Motoren der Baureihe EA288 .... seien ebenfalls von Abgasmanipulationen betroffen, haben sich hierbei auf Grundlage der Überprüfung als unbegründet erwiesen."Das Bundesministerium für Verkehr und Infrastruktur (BMVI) gab am 12.09.2016 folgende Twittermitteilung heraus (Bl. 503 d.A.):"Zur Einordnung der aktuellen Meldungen zu den VW-Modellen mit dem Motor EA288:Die Vorwürfe sind nicht neu. Das KBA hat bereits 2016 eigene Messungen, Untersuchungen ...Analysen durchgeführt. Unzulässige Abschalteinrichtungen konnten dabei nicht festgestellt werden ... und zwar auch nicht in Gestalt einer unzulässigen Zykluserkennung."In einer amtlichen Auskunft gegenüber dem Landgericht Bonn vom 11.11.2020 bestätigte das KWA, dass der dort untersuchte EA288-Motor mit der Abgasnorm EU 5 keine unzulässige Abschalteinrichtung enthalte (Bl. 716 f. d.A.).Der Kläger behauptet, dass der von ihm erworbene Pkw eine unzulässige Abschalteinrichtung in Form eines Thermofensters, einer Zykluserkennung sowie eines Onboard-Diagnosesystems enthalte (Beweis: Sachverständigengutachten). Es sei davon auszugehen, dass der Vorstand der Beklagten über den vorbezeichneten Sachverhalt umfassend informiert gewesen sei und diesen nicht nur gebilligt, sondern zur Erreichung einer Gewinnmaximierung veranlasst habe.Der Kläger beantragt,1.) die Beklagte zu verurteilen, an ihn, den Kläger, EUR 9.756,00 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 13.11.2020 zu zahlen,2.) die Beklagte zu verurteilen, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von EUR 994,12 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 14.11.2020 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Sie bestreitet, dass das Fahrzeug eine unzulässige Abschalteinrichtung habe.Zur Ergänzung des Sach- und Streitstandes wird auf den weiteren Inhalt der wechselseitigen Schriftsätze nebst Anlagen und das Protokoll der mündlichen Verhandlung verwiesen. 
+				Gründe
+				Die Klage hat insgesamt keinen Erfolg.Die geltend gemachten Ansprüche stehen dem Kläger unter keinem rechtlichen Gesichtspunkt zu, insbesondere nicht gem. § 826 BGB. Denn der Kläger hat nicht substantiiert vorgebracht, dass der Pkw VW Golf 1.6 mit der Fahrzeugidentitätsnummer "..." und der darin befindliche EA288 Motor der Abgasnorm EU 5 eine unzulässige Abschalteinrichtung i.S.v. Art. 5 Abs. 2 EG-VO 715/2007 enthalten, weswegen kein Beweis zu erheben und insbesondere kein Sachverständigengutachten einzuholen war.Ein Sachvortrag zur Begründung eines Anspruchs ist bereits dann schlüssig und erheblich, wenn die Partei Tatsachen vorträgt, die in Verbindung mit einem Rechtssatz geeignet und erforderlich sind, das geltend gemachte Recht als in der Person der Partei entstanden erscheinen zu lassen. Die Angabe näherer Einzelheiten ist nicht erforderlich, soweit diese für die Rechtsfolgen nicht von Bedeutung sind. Dies gilt insbesondere dann, wenn die Partei keine unmittelbare Kenntnis von den Vorgängen hat. Das Gericht muss nur in die Lage versetzt werden, aufgrund des tatsächlichen Vorbringens der Partei zu entscheiden, ob die gesetzlichen Voraussetzungen für das Bestehen des geltend gemachten Rechts vorliegen. Sind diese Anforderungen erfüllt, ist es Sache des Tatrichters, in die Beweisaufnahme einzutreten und dabei ggf. die benannten Zeugen oder die zu vernehmende Partei nach weiteren Einzelheiten zu befragen, oder einem Sachverständigen die beweiserheblichen Streitfragen zu unterbreiten. Weiterhin ist es einer Partei grundsätzlich nicht verwehrt, eine tatsächliche Aufklärung hinsichtlich solcher Umstände zu verlangen, über die sie selbst kein zuverlässiges Wissen besitzt und auch nicht erlangen kann, die sie aber nach Lage der Verhältnisse für wahrscheinlich oder möglich hält. Dies gilt insbesondere dann, wenn sie sich nur auf vermutete Tatsachen stützen kann, weil sie mangels Sachkunde und Einblick in die Produktion des von der Gegenseite hergestellten und verwendeten Fahrzeugmotors einschl. des Systems der Abgasrückführung oder -verminderung keine sichere Erkenntnis von einzelnen Tatsachen haben kann. Eine Behauptung ist erst dann unbeachtlich, wenn sie ohne greifbare Anhaltspunkte für das Vorliegen eines bestimmten Sachverhaltes willkürlich "aufs Geradewohl" oder "ins Blaue hinein" aufgestellt worden ist. Bei der Annahme von Willkür in diesem Sinne ist Zurückhaltung geboten; in der Regel wird sie nur beim Fehlen jeglicher tatsächlicher Anhaltspunkte gerechtfertigt werden können (vgl. BGH NJW 2020, 1740 m.w.N.).Greifbare Anhaltspunkte für das Vorhandensein einer unzulässigen Abschalteinrichtung sind gegeben, wenn Tatsachen vorgetragen werden, die sich auf einen vergleichbaren Fahrzeugtyp beziehen, der einem behördlichen Rückruf unterliegt oder bei dem andere Erkenntnisse vorliegen, die auf eine unzulässige Abschalteinrichtung hindeuten. Von einem vergleichbaren Fahrzeugtyp ist in der Regel auszugehen, wenn das Fahrzeug über den gleichen Motor oder Motortyp verfügt und in dieselbe Schadstoffklasse eingestuft ist. Eine Abweichung des Schadstoffausstoßes im Realbetrieb gegenüber dem für die Einhaltung der jeweiligen EU-maßgeblichen Werte stellt keinen greifbaren Anhaltspunkt für das Vorliegen einer unzulässigen Abschalteinrichtung dar (OLG Stuttgart, Urteil vom 16.06.2020, 16a U 228/19). Allein der Umstand, dass das Kraftfahrtbundesamt nicht für den betroffenen Motor, hier EA288, sondern bei anderen Fahrzeugen des Konzerns der Beklagten mit anderen Motoren bzw. anderen Schadstoffklassen einen Rückruf ausgesprochen hat, lässt nicht den Rückschluss zu, es müsse auch beim streitgegenständlichen Fahrzeug eine unzulässige Abschalteinrichtung vorliegen. Entsprechendes gilt hinsichtlich von Studien der Deutschen Umwelthilfe, die sich nicht auf das streitgegenständliche Fahrzeug beziehen und bei denen nicht entsprechend dem NEFZ-Zyklus getestet worden ist. Allein das behauptete Vorliegen eines Thermofensters ist kein Indiz dafür, dass Manipulationen des Abgasverhaltens auf dem Prüfstand vorgenommen wurden. Es müssten vielmehr zusätzliche Indizien vorgetragen werden, die darauf hindeuten, dass die Abschaltfunktion den zulässigen Umfang überschreitet (vgl. LG Osnabrück, Urteil vom 28.08.2019, 8 O 1209/19).Der Kläger hat vorliegend aber keine greifbaren Anhaltspunkte i.S.d. höchstrichterlichen Rechtsprechung hinsichtlich des Vorliegens einer unzulässigen Abschalteinrichtung im Motor EA288 des streitgegenständlichen Fahrzeugs vorgebracht. Er hat insbesondere weder Tatsachen vorgetragen, die sich auf ein vergleichbares Fahrzeug beziehen, das einem Rückruf des Kraftfahrtbundesamts unterliegt, noch hat er Umstände vorgebracht, welche die Annahme, in dem Motor EA288 könne sich eine unzulässige Abschalteinrichtung befinden, plausibel begründen könnten. Gegen das Vorhandensein einer unzulässigen Abschalteinrichtung in dem streitgegenständlichen Motor spricht vielmehr der Umstand, dass das Kraftfahrtbundesamt keinen Rückrufbescheid bzw. keine Umrüstanordnung erlassen hat, die im Abgasverhalten des streitgegenständlichen Motors ihren Grund hat. Darüber hinaus hat das Kraftfahrtbundesamt in seiner amtlichen Auskunft vom 11.11.2020 gegenüber dem Landgericht Bonn bestätigt, dass nach Prüfung des Sachverhaltes bei dem EA288-Motor mit der Abgasnorm EU 5 keine unzulässige Abschalteinrichtung festgestellt worden sei. Anhaltspunkte, dass diese Auskunft unzutreffend sein könnte, hat aber weder der Kläger vorgebracht noch sind derartige Umstände ersichtlich. Die Kammer weist in diesem Zusammenhang auf die Urteile des Oberlandesgerichts Frankfurt/Main vom 28.09.2021 (24 U 208/21), vom 08.03.2022 (25 U 390/21) und vom 06.05.2022 (25 U 185/21) sowie den Beschluss des Bundesgerichtshofs vom 21.03.2022 (Via ZR 334/21) hin. Vorliegend bedurfte es daher keiner Einholung eines Sachverständigengutachtens hinsichtlich des vom Kläger vorgebrachten Vorhandenseins von unzulässigen Abschalteinrichtungen.Mangels Schadensersatzanspruches kann der Kläger auch keine Zinsen und keine Erstattung außergerichtlicher Rechtsverfolgungskosten beanspruchen.Danach war die Klage insgesamt abzuweisen.Der Kläger hat die Kosten des Rechtsstreits zu tragen, weil er unterliegt (§ 91 ZPO).Die Entscheidung über die vorläufige Vollstreckbarkeit und die Sicherheitsleistung beruht auf § 709 S. 1 und 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2453279.html (https://oj.is/2453279)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

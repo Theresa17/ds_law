@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG KemptenRechtsprechungEndurteil vom 05.03.2021 - 32 O 2105/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Kempten, Endurteil vom 05.03.2021 - 32 O 2105/20
+                      m. Fundstelle
+                      LG Kempten, Endurteil vom 05.03.2021 - 32 O 2105/20 = openJur 2022, 21211
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Kempten, Endurteil vom 05.03.2021 - 32 O 2105/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 21211
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu  vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 17.079,24 € festgesetzt. 
+				Tatbestand
+				I. Am 04.09.2012 wurde bei der Auto S.  GbR in U. ein gebrauchter Pkw der Marke Skoda, Fahrgestellnummer TM...9, der zu diesem Zeitpunkt einen Kilometerstand von 50 km aufwies.Für das Fahrzeug war eine Typgenehmigung nach EU-Recht erteilt worden. In dem Fahrzeug ist der von der Beklagten hergestellte Dieselmotor des Typs EA189 verbaut, in dem eine Software installiert war, welche erkennt, ob sich das Fahrzeug im sog. NEFZTestzyklus befindet oder im Realbetrieb. Erkennt die Software den Testbetrieb im NEFZPrüfzyklus, kommt es zu höheren Abgasrückführungsraten als im Realbetrieb. Hierdurch wurde auf dem Prüfstand ein niedrigerer Stickoxidwert erzeugt, um die Grenzwerte der Schadstoffklasse "Euro 5" einzuhalten. Die Software wurde seitens des Kraftfahrtbundesamts als unzulässige Abschalteinrichtung qualifiziert. Hierauf entwickelte die Beklagte ein Softwareupdate für die betroffenen Motoren. Das Kraftfahrtbundesamt hat diese technische Maßnahme freigegeben. Der km-Stand des Fahrzeugs belief sich zum 01.03.2021 auf 141.628 km.II. Der Kläger behauptet, er habe das vorgenannte Fahrzeug am 04.09.2012 käuflich erworben. Bei dem in der Anlage K1 aufgeführten Nachnamen handele es sich um einen Schreibfehler.Er sei von der Beklagten sittenwidrig und betrügerisch geschädigt worden zu sein. Das gekaufte Fahrzeug würde unter den sog. Abgasskandal fallen, und wäre mit einer Technik versehen, die die Messwerte bei Abgasprüfungen manipuliere und im Vergleich zum tatsächlichen Fahrbetrieb niedrigere Abgaswerte ausweise. Die Vorstandschaft der straff und streng hierarchisch geführten Beklagten sei von Anfang an informiert gewesen und habe den Einsatz der Software angeordnet. Der Kläger behauptet, es fehle an einer EU-rechtlichen Typengenehmigung, weil die für den streitgegenständlichen Pkw erwirkte Genehmigung auf einer Täuschung über die Abgaswerte beruhe. Darüber hinaus behauptet der Kläger, er sei hinsichtlich der Abgas- und CO₂-Werte getäuscht worden. Weiter behauptet er, er sei bei seiner Kaufentscheidung auf der Suche nach einem umweltfreundlichen Fahrzeug gewesen. Die Nachrüstung würde zu zahlreichen Folgeproblemen führen. Das im Zuge des Updates - unstreitig installierte sog. Thermofenster stelle (mindestens) eine weitere unzulässige Abschalteinrichtung dar. Außerdem sei während des Updates eine sog. Zykluserkennung installiert worden, die dafür sorge, dass das Fahrzeug im Echtbetrieb weiterhin ein erhöhtes Emissionsverhalten an den Tag lege. Das Fahrzeug habe aufgrund der Manipulation darüber hinaus auch einen erheblichen Wertverlust erlitten. Jedenfalls ergebe sich ein Ersatzanspruch aus § 852 BGB.Zur Rechtfertigung seines Begehrens beruft sich der Kläger auf Schadensersatzansprüche.III. Der Kläger beantragt,Die Beklagte wird verurteilt, Zug um Zug gegen Herausgabe und Übereignung des Fahrzeugs Hersteller: Skoda Fahrzeug-Identifizierungs-Nummer (FIN): TM...9 an die Klagepartei einen Betrag in Höhe von 19.500,00 € nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit unter Anrechnung einer Nutzungsentschädigung für die Nutzung des Fahrzeugs zu erstatten, die sich aus folgender Formel ergibt: 75% x 19.500,00 € x (Kilometerstand im Zeitpunkt der mündlichen Verhandlung - Kilometerstand bei Kauf) / (in das Ermessen gestellte Gesamtlaufleistung - Kilometerstand bei Kauf).Es wird festgestellt, dass sich die Beklagte mit der Annahme der in dem Klageantrag zu 1) genannten Zugum-Zug-Leistung im Annahmeverzug befindet.Die Beklagte wird verurteilt, die Kosten des außergerichtlichen Vorgehens in Höhe von 1.744,64 € nebst Zinsen in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklagte beantragt Klageabweisung.IV. Die Beklagte bestreitet die Aktivlegitimation des Klägers. Der vorgelegten Anlage K1 lasse sich entnehmen, dass die Rechnung auf einen Herrn ..., jedoch nicht auf einen Herrn ... ausgestellt worden sei. Sonstige Beweismittel für den Fahrzeugerwerb durch den Kläger lägen nicht vor.Die Beklagte bestreitet, eine Manipulation am Fahrzeug vorgenommen zu haben, die eine unzulässige Abschaltseinrichtung darstelle. Der Einbau einer Software, die den Stickoxidausstoß im Prüfstand beeinflusse, ändere nichts am Bestand der Typgenehmigung für das Fahrzeug. Dieses sei technisch sicher und uneingeschränkt gebrauchstauglich. Durch das angebotene Softwareupdate könne ein unterstellter Mangel jedenfalls vollständig behoben werden. Diese Maßnahme hätte auch keine negativen Auswirkungen auf das Fahrzeug. Bei dem sog. Thermofenster handele es sich um keine unzulässige Abschalteinrichtung. Das Fahrzeug sei noch immer in die Schadstoffklasse "Euro 5" einzustufen. Ein Fahrzeugminderwert sei durch die Motorsteuerungssoftware nicht gegeben. Die aktuellen Entwicklungen des Dieselgebrauchtwagenmarktes würden innerhalb der üblichen Schwankungsbreite liegen.Ein Schadensersatzanspruch gegenüber der Beklagte bestehe unter keinem rechtlich denkbaren Gesichtspunkt. Die Beklagte habe weder vorsätzlich noch sittenwidrig gehandelt. Der Vortrag der Klägerin hierzu sei unsubstantiiert. Der Beklagten könne auch kein arglistiges Verhalten vorgeworfen werden.Die Beklagte erhebt die Einrede der Verjährung. Die Regelung des § 852 BGB sei vorliegend bereits nicht anwendbar bzw. die entsprechenden Tatbestandsmerkmale nicht erfüllt.V. Das Gericht hat am 02.03.2021 mündlich zur Sache verhandelt. Beweis wurde nicht erhoben. Wegen des übrigen Parteivortrags wird auf sämtliche gewechselten Schriftsätze und Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist insgesamt unbegründet.A. Etwaige Schadensersatzansprüche des Klägers sind bereits seit langem verjährt. Die Verjährung trat vorliegend spätestens mit dem 31.12.2018 ein, §§ 195, 199 BGB.I. Die Beklagtenseite kann sich mit Erfolg auf die erhobene Einrede der Verjährung berufen. Zwar hat grundsätzlich diejenige Partei, die sich auf Verjährung beruft, die Voraussetzungen für den Verjährungseintritt darzulegen und zu beweisen. Unabhängig vom insoweit von Beklagtenseite getätigten Vortrag besteht im gegenständlichen Fall jedoch die Besonderheit,"dass der individuelle Verjährungsbeginn, d.h. der Zeitpunkt der Kenntnis oder grob fahrlässigen Unkenntnis des Gläubigers von den den Anspruch begründenden Umständen und der Person des Schuldners, § 199 Abs. 1 BGB, regelmäßig mit dem unstreitigen Zeitpunkt des allgemeinen Bekanntwerdens des "Dieselskandals" übereinstimmt. Denn über die der Beklagten vorgeworfene Täuschung wurde ab Herbst 2015 umfassend in sämtlichen Medien berichtet; dass ein in Deutschland lebender Kunde des Konzerns hiervon keine Kenntnis gehabt haben sollte, ihm jedenfalls nicht grob fahrlässige Unkenntnis im Sinne von § 199 Abs. 1 Nr. 2 Alt. 2 BGB vorzuwerfen wäre, ist nicht vorstellbar.Damit ist jedenfalls für das Jahresende 2015 von Verjährungsbeginn bezüglich des klägerischen Anspruchs auszugehen; die Verjährung endete mit dem Schluss des Jahres 2018, §§ 195, 199 Abs. 1 BGB".OLG München, Hinweisbeschluss v. 03.12.2019 - 20 U 5741/19"Der individuelle Verjährungsbeginn im Rahmen von Verfahren gegen VW wegen des sogenannten "Diesel-Skandals" stimmt regelmäßig mit dem unstreitigen Zeitpunkt des allgemeinen Bekanntwerdens des "Dieselskandals" im Jahr 2015 überein, so dass eine mögliche Forderung mit Ablauf des Jahres 2018 verjährt ist."OLG München, Hinweisbeschluss vom 20.07.2020 - 3 U 3018/20Dieser Rechtsauffassung schließt sich das erkennende Gericht vollumfänglich an. Die erst im Jahr 2020 erhobene Klage konnte die bereits abgelaufene Verjährung damit nicht mehr unterbrechen. Auch ist keine Verjährungshemmung ersichtlich.B. Abgesehen davon, dass durch die Klagepartei schon gar nicht vorgetragen wird, wann genau das sog. Software-Update aufgespielt wurde, bei dem es zur Installation weiterer unzulässiger Abschalteinrichtungen gekommen sein soll, vermag das hier unstreitig vorhandene sog. Thermofenster keine Schadensersatzansprüche i. S. v. § 826 BGB zu begründen.Insoweit kann das OLG München, Hinweisbeschluss vom 10.02.2020 - 3 U 7524/19, NJW-RR 2020, 664 (665) zitiert werden:"Legt man diese Maßstäbe zugrunde, ist das Verhalten der Bekl., ein mit einem so genannten Thermofenster ausgestattetes Fahrzeug in den Verkehr zu bringen, vorliegend nicht als sittenwidrige Handlung zu bewerten. Dabei kommt es vorliegend nicht darauf an, ob das im streitgegenständlichen Fahrzeug installierte Thermofenster eine objektiv unzulässige Abschalteinrichtung darstellt oder nicht. Zwar mag bei einer so genannten "Schummelsoftware", wie sie in dem VW-Motor EA 189 verwendet worden war, von Teilen der obergerichtlichen Rechtsprechung die Sittenwidrigkeit des Handelns per se aus der Verwendung einer Umschaltlogik abgeleitet worden sein, weil die Verwendung einer solchen Abschalteinrichtung eindeutig unzulässig und dies den Handelnden bzw. den Verantwortlichen auch bewusst ist. Bei einer anderen die Abgasreinigung (Abgasrückführung und Abgasnachbehandlung) beeinflussenden Motorsteuerungssoftware, wie hier dem Thermofenster, die vom Grundsatz her im normalen Fahrbetrieb in gleicher Weise arbeitet wie auf dem Prüfstand, und bei der Gesichtspunkte des Motor respektive Bauteilschutzes als Rechtfertigung ernsthaft angeführt werden können, kann bei Fehlen jedweder konkreter Anhaltspunkte nicht ohne Weiteres unterstellt werden, dass die Handelnden bzw. Verantwortlichen bei der Bekl. in dem Bewusstsein gehandelt hatten, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden. Demgegenüber muss bei dieser Sachlage, auch wenn - einmal unterstellt - hinsichtlich des Thermofensters von einer objektiv unzulässigen Abschalteinrichtung ausgegangen werden sollte, eine möglicherweise falsche aber dennoch vertretbare Gesetzesauslegung und - anwendung durch die Organe in Betracht gezogen werden (vgl. OLG Köln ZVertriebsR 2019, 370 Rn. 6). Eine Sittenwidrigkeit käme daher hier nur in Betracht, wenn über die bloße Kenntnis von der Verwendung einer Software mit der in Rede stehenden Funktionsweise im streitgegenständlichen Motor hinaus zugleich auch Anhaltspunkte dafür erkennbar wären, dass dies vonseiten der Bekl. in dem Bewusstsein geschah, hiermit möglicherweise gegen die gesetzlichen Vorschriften zu verstoßen, und dieser Gesetzesverstoß billigend in Kauf genommen wurde (OLG Köln ZVertriebsR 2019, 370)."Entsprechender konkreter und substantiierter Vortrag im letztgenannten Sinn liegt hier jedoch nicht vor.Das OLG München führt weiter aus:"Wie die kontrovers geführte Diskussion über Inhalt und Reichweite der Ausnahmevorschrift des Art. 5 II 2 a VO (EG) Nr. 2007/715 zeigt, ist die Gesetzeslage an dieser Stelle nicht unzweifelhaft und eindeutig. Nach Einschätzung der vom Bundesverkehrsministerium eingesetzten Untersuchungskommission Volkswagen liegt ein Gesetzesverstoß durch die von allen Autoherstellern eingesetzten Thermofenster jedenfalls nicht eindeutig vor. So heißt es im Bericht der Kommission zur Auslegung der vorerwähnten Ausnahmevorschrift ausdrücklich (Bericht Stand Apr. 2016, 123): "Zudem verstößt eine weitere Interpretation durch die Fahrzeughersteller und die Verwendung von Abschalteinrichtungen mit der Begründung, dass eine Abschaltung erforderlich ist, um den Motor vor Beschädigung zu schützen und um den sicheren Betrieb des Fahrzeugs zu gewährleisten, angesichts der Unschärfe der Bestimmung, die auch weite Interpretationen zulässt, möglicherweise nicht gegen die VO (EG) Nr. 715/2007. Konsequenz dieser Unschärfe der europäischen Regelung könnte sein, dass unter Berufung auf den Motorschutz die Verwendung von Abschalteinrichtungen letztlich stets dann gerechtfertigt werden könnte, wenn vonseiten des Fahrzeugherstellers nachvollziehbar dargestellt wird, dass ohne die Verwendung einer solchen Einrichtung dem Motor Schaden droht, sei dieser auch noch so klein." Zudem zeigt auch der in der Literatur (etwa Führ NWVZ 2017, 265) betriebene erhebliche Begründungsaufwand, um das "Thermofenster" als unzulässige Abschalteinrichtung einzustufen, dass keine klare und eindeutige Rechtslage gegeben war, gegen welche die Bekl. seinerzeit bewusst verstoßen hätte (vgl. OLG Köln ZVertriebsR 2019, 370; OLG Stuttgart NJW-RR 2019, 1489 Rn. 89).Von daher ist eine Auslegung, wonach ein Thermofenster eine zulässige Abschalteinrichtung darstellt, jedenfalls nicht unvertretbar. Ein Handeln unter vertretbarer Auslegung des Gesetzes kann nicht als besonders verwerfliches Verhalten angesehen werden (vgl. OLG Stuttgart NJW-RR 2019, 1489 Rn. 90). Letztlich bestand auch - trotz entsprechender Sensibilisierung der Öffentlichkeit und der Behörden für diese Materie - kein Anlass zu einem Rückruf seitens des Kraftfahrtbundesamts und zu einer Aufforderung an die Bekl., die Abgasreinigung auf andere Weise vorzunehmen."Dem Kläger stehen insoweit auch keine Ansprüche aus § 823 Abs. 2 BGB i.V.m. § 263 StGB zu, da vor dem Hintergrund des fehlenden Nachweises eines sittenwidrigen täuschenden Verhaltens der Beklagten kein Raum für eine deliktische Haftung der Beklagten i.V.m. § 263 StGB ist.Im Übrigen besteht insoweit auch kein Anspruch gegen die Beklagte aus § 823 Abs. 2 BGB i.V.m. §§ 6, 27 EG-FGV zu, da es sich bei §§ 6, 27 EG-FGV nicht um Schutzgesetze i.S.v. § 823 Abs. 2 BGB handelt (vgl. OLG Koblenz, Urteil vom 11.05.2020, BeckRS 2020, 9863).III. Substantiierter Vortrag und greifbare Anhaltspunkte dafür, dass mit der Installation des Updates eine Zykluserkennung eingefügt wurde, die als unzulässige Abschalteinrichtung anzusehen ist, liegen nicht vor.C. Ansprüche aus § 852 S. 1 BGB scheiden vorliegend aus, da es an der erforderlichen Kausalität der schädigenden Handlung für einen Vermögensvorteil der Beklagten fehlt. Der Kläger hatte vorliegend einen Gebrauchtwagen erworben und zwar nicht unmittelbar von der Beklagten, sondern über eine dritte Person. Bei dieser Sachlage fehlt es an der erforderlichen Kausalität der schädigenden Handlungen für einen Vermögensvorteil der Beklagten. Infolge des schädigenden Ereignisses (Abschluss des gegenständlichen Kaufvertrags durch den Kläger) hat die Beklagte nichts erlangt. Dieser Weiterverkauf fand entgegen der Sachlage beim Verkauf eines Neuwagens außerhalb der Wertschöpfungskette statt, so dass die Beklagte aus dem gegenständlichen Vertragsabschluss und dessen Vollzug weder einen unmittelbaren noch einen mittelbaren Vermögensvorteil gezogen hat.D. Die Nebenforderungen und -anträge teilen das Schicksal der Hauptforderung.E. Die Kostenentscheidung beruht auf § 91 Abs. 1 S. 1 ZPO.F. Die Entscheidung über die vorläufige Vollstreckbarkeit ergibt sich aus § 709 S. 1 und S. 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2457270.html (https://oj.is/2457270)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

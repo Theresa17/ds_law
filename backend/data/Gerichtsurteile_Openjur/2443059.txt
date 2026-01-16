@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG SchweinfurtRechtsprechungEndurteil vom 29.10.2020 - 12 O 402/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Schweinfurt, Endurteil vom 29.10.2020 - 12 O 402/20
+                      m. Fundstelle
+                      LG Schweinfurt, Endurteil vom 29.10.2020 - 12 O 402/20 = openJur 2022, 14058
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Schweinfurt, Endurteil vom 29.10.2020 - 12 O 402/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 14058
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1.Die Beklagte wird verurteilt, an den Kläger 16.312,57 Euro zu zahlen nebst Zinsen  hieraus in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 22.05.2020  Zug um Zug gegen Übergabe und Übereignung des Pkws Seat Alhambra Style 2.0 TDI, Fahrgestellnummer2.Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des in Ziffer 1) ge-  nannten Fahrzeugs in Annahmeverzug befindet.  3.Die Beklagte wird verurteilt, an den Kläger vorgerichtliche Anwaltskosten in Höhe von 1.100,51 Euro nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 30.05.2020 zu bezahlen.4.Im Übrigen wird die Klage abgewiesen.5.Die Kosten des Rechtsstreits werden gegeneinander aufgehoben.6.Das Urteil ist für jede Partei gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 31.300,01 € festgesetzt. 
+				Tatbestand
+				Der Kläger begehrt von der Beklagten die Rückabwicklung eines Pkw-Kaufvertrags im Zusammenhang mit dem sog. Abgasskandal.Im Februar 2014 kaufte der Kläger von der GmbH & -Co. KG in den streitgegenständlichen Pkw Seat Alhambra Style 2.0 TDI zu 31.300,01 Euro (Rechnung, Kl).Der Neuwagen mit der Schadstoffklasse EU 5 wurde dem Kläger mit einem Stand von 100 km am 12.02.2014 übergeben.Hersteller des in dem Fahrzeug verbauten Dieselmotors ist die Beklagte. Dieser Dieselmotor (Typ EA 189) ist mit einer Software ausgestattet, welche den Prüfstandlauf erkennt und über eine entsprechende Programmierung der Motorsteuerung insbesondere den Stickstoffausstoß reduziert. Das hat zur Folge, dass der Motor nur bei Prüfstandfahrt in einen Modus mit höherer Abgasrückführung (Modus 1) und dadurch bedingt geringere NOx-Werte gebracht wird, wohingegen der Motor im realen Fährbetrieb (Modus 0) eine geringere Abgasrückführung und damit höhere NOx-Werte aufweist.Am 22.09.2015 hat die Beklagte eine Pressemitteilung herausgeben, in der sie die Unregelmäßigkeiten hinsichtlich der Abgaswerte der Motoren Typ EA 189 eingeräumte. In der Folge kam es zu einer ausführlichen Berichterstattung über diese Vorwürfe in allen Medien. Im Oktober 2015 stellte die Beklagte eine Webseite online, anhand derer jedermann durch Eingabe der Fahrzeugidentifikationsnummer überprüfen konnte, ob ein konkretes Fahrzeug mit der streitgegenständlichen Umschaltlogik ausgestattet ist.Im Oktober 2015 legte das Kraftfahrtbundesamt der Beklagten auf, die entsprechende Software aus den betroffenen Motoren zu entfernen, d.h. ein Software-Update durchzuführen. Die für die betroffenen Fahrzeuge erteilte EG-Typengenehmigung wurde nicht widerrufen.In der Folgezeit wurde von diesem sog. Abgasskandal in den nationalen und internationalen Medien ausführlich berichtet.Das Software-Update wurde am 23.02.2017 durchgeführt (Anlage K7).Mit Anwaltsschreiben vom 30.04.2020 (Anlage K3) begehrte der Kläger von der Beklagten erfolglos die Erstattung des Kaufpreises gegen Rückgabe des Fahrzeugs bis zum 21.05.2020.Im Zeitpunkt der letzten mündlichen Verhandlung hatte das Fahrzeug einen km-Stand von 119.760.Der Kläger meint, dass ihm der Beklagten gegenüber ein deliktischer Schadensersatzanspruch, insbesondere gern. § 826 BGB zusteht. Er hätte das Fahrzeug nie gekauft, wenn er gewusst hätte, dass es mit der besagten Software ausgestattet ist. Die Beklagte habe ihn durch das Inverkehrbringen des Motors mit der besagten Software vorsätzlich und sittenwidrig geschädigt und sei im Wege der Naturalrestitution zur Rückzahlung des Kaufpreises Zug um Zug gegen Rückgabe des Fahrzeugs verpflichtet. Gezogene Gebrauchsvorteile lasse er sich nicht anrechnen. Durch das Software-Update wurde der Mangel am Fahrzeug nicht beseitigt. Selbst wenn, bleibe aufgrund der bloßen Betroffenheit seines Fahrzeugs von der Abgasproblematik ein merkantiler Minderwert.Der Kläger beantragt,die Beklagte zu verurteilen, an 31.300,01 € nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 22.05.2020, Zug um Zug gegen Übergabe und Übereignung des Pkw Seat Alhambra Style 2.0 TDI, Fahrgestellnummer zu bezahlen,die Beklagte zu verurteilen, an ihn außergerichtliche Anwaltskosten in Höhe von 1.698,13 € nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu bezahlen undfestzustellen, dass sich die Beklagte in Annahmeverzug befindet.Die Beklagte beantragt,die Klage abzuweisen.Sie meint, dass der Kläger nicht durch eine sittenwidrige Schädigung ihrerseits zum Kauf des streitgegenständlichen Fahrzeugs veranlasst wurde. Auch andere deliktische Anspruchsgrundlagen bestünden nicht. Eine Handlung eines ihrer Verantwortlichen, die als sittenwidrige oder arglistige Täuschung zu qualifizieren sei, läge nicht vor.Dem Kläger sei auch kein Schaden entstanden, weil das Fahrzeug trotz der Ausstattung mit der besagten Software und dem zwischenzeitlichen Software-Update weiterhin technisch sicher und in seiner Fahrbereitschaft nicht beeinträchtigt sei. Die Typgenehmigung bestehe weiterhin und durch das Software-Update wurde das Problem in der Motorsteuerung ohne negative Folgewirkungen beseitigt. Folglich habe das Fahrzeug auch keine Wertminderung erlitten.Selbst wenn ein Schadenersatzanspruch bestehe, müsse sich der Kläger die zwischenzeitlich gezogenen Nutzungen, also die Gebrauchsvorteile, auf der Basis einer Gesamtlaufleistung von 200.000 bis 250.000 km anrechnen lassen.Letztlich seien etwaige Schadensersatzansprüche des Klägers verjährt.Im Übrigen wird auf die Schriftsätze nebst Anlagen verwiesen. 
+				Gründe
+				Die zulässige Klage hat teilweise Erfolg.Die Klage ist zulässig, insbesondere ist das Landgericht Schweinfurt gern. § 32 ZPO örtlich zuständig. Der Wohnort des Klägers im Zeitpunkt des Erwerbs und aktueller Standort des Fahrzeugs liegt in 2.Dem Kläger steht der Beklagten gegenüber ein Schadensersatzanspruch gern. §§ 826 i.V.m. 31 BGB zu.a) Indem die Beklagte den Motor für das streitgegenständliche Fahrzeug mit der streitgegenständlichen Software zur Prüfstanderkennung ausgestattet und in den Warenverkehr gebracht hat, liegt eine vorsätzliche sittenwidrige Handlung vor, die beim Kläger zu einen Vermögensschaden geführt hat (vgl. für den streitgegenständliche EA189-Motor: BGH, Urteil vom 25.05.2020 - VI ZR 252/19 - Rz. 12 ff.).b) Die schädigende Handlung ihrer Mitarbeiter ist der Beklagten über § 31 BGB zuzurechnen (BGH, Urteil vom 25.05.2020 - VI ZR 252/19 - Rz. 29 ff.).c) Der Schaden der Klagepartei geht bei der sittenwidrigen Herbeiführung eines Vertragsschlusses auf den Ersatz des sog. negativen Interesses. Das heißt der Kläger ist so zu stellen, als hätte er bei Erwerb des Fahrzeugs von der besagten Software gewusst. Dann hätte er das Fahrzeug nicht erworben.Der für einen Anspruch aus § 826 BGB erforderliche Schaden des Klägers ist nicht dadurch entfallen, dass dieser das von der Beklagten entwickelte Software-Update hat durchführen lassen (BGH, Urteil vom 30. Juli 2020 - VI ZR 367/19 -).Als Rechtsfolge ergibt sich der von dem Kläger geltend gemachte Anspruch auf Rückzahlung des Kaufpreises Zug um Zug gegen Herausgabe des Fahrzeugs. Der Käufer muss sich jedoch gezogene Nutzungen anrechnen lassen (BGH, Urteil vom 25.05.2020 - VI ZR 252/19-Rz. 64ff).Das Gericht bewertet die vom Kläger gezogenen Gebrauchsvorteile mit 14.987,43 Euro.Die Berechnung des Nutzungsvorteils gern. § 287 ZPO erfolgt (vgl. etwa auch BGH, Urteil vom 25.5.2020 -VI ZR 252/19 - Rz. 80), indem der Bruttokaufpreis (hier: 29.375,99 Euro) mit den gefahrenen Kilometern multipliziert und das Produkt durch die bei Vertragsschluss zu erwartende Restlaufleistung des Fahrzeugs dividiert wird.Die gefahrenen Kilometer ergeben sich aus der Differenz des Kilometerstandes zum Zeitpunkt der mündlichen Verhandlung von unstreitig 119.760 km und dem Kilometerstand bei Vertragsschluss von ebenfalls unstreitig 100 km.Die zu erwartende Gesamtlaufleistung schätzt das Gericht gemäß § 287 ZPO auf 250.000 km.Hieraus ergeben sich gezogene Nutzungen im Wert von 14.987,43 Euro [= (31.300,01 Euro X 119.660 km)./. 249.900 km].Der Kläger kann vom Kaufpreis also nur 16.312,57 Euro erstattet bekommen.d) Der Schadensersatzanspruch des Klägers ist auch nicht verjährt, § 214 BGB.Der Anspruch des Klägers verjährt regelmäßig binnen 3 Jahren nach § 195 BGB. Die Verjährungsfrist beginnt nach § 199 Abs. 1 BGB mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger von den anspruchsbegründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste. Die Darlegungslast für das Vorliegen dieser Voraussetzungen trägt der Schuldner (vgl. Ellenberger in Palandt, BGB, 79. Auflage 2020, Überbl v § 194 Rn 24 m.w.N.).aa) Eine positive Kenntnis der anspruchsbegründenden Umstände vor Ende des Jahres 2015 nach § 199 Abs. 1 Nr. 2 Alt. 1 BGB liegt nicht vor.Diese würde voraussetzen, dass dem Kläger die konkrete Betroffenheit seines Fahrzeugs bekannt war. Erst mit dieser Information besteht für den Käufer die Möglichkeit einer erfolgversprechenden Rechtsverfolgung gegen die Beklagte.Zwar ist gerichtsbekannt, dass die Beklagte 22.09.2015 in einer Mitteilung nach § 15 WpHG über Unregelmäßigkeiten der verwendeten Software bei Dieselmotoren des Typ EA 189 informiert hat. Dies reicht im konkreten Fall allerdings nicht aus, um von einer den Beginn der Verjährung auslösenden Kenntnis nach § 199 BGB der Klagepartei bereits im Jahr 2015 auszugehen. Zwar ist nicht unbedingt erforderlich, dass der Gläubiger alle Tatumstände in tatsächlicher und rechtlicher Weise zutreffend würdigt, auch nicht im Wege der Parallelwertung in der Laiensphäre {Grothe in Münchner Kommentar zum BGB, 8. Auflage 2018, § 199 Rn. 29). Bei einfach gelagerten Sachverhalten mag es ausreichen, wenn ersieh aus den ihm bekannten Tatsachen seine Gläubigerstellung erschließen kann. Bei komplizierten Sachverhalten, zu denen das Gericht den vorliegenden zählt, sind höhere Anforderungen zu stellen.Zwar ist zutreffend, dass es für die Klagepartei ohne weiteres möglich gewesen wäre, die entsprechenden Informationen zu erlangen, so etwa über die zu diesem Zweck aufgesetzte Website der Beklagten. Dies ist jedoch keine Frage der Kenntniserlangung, sondern allenfalls der fahrlässigen Unkenntnis.Der Umstand, dass das streitgegenständliche Problem einen breiten Raum in den öffentlichen Medien eingenommen hat, vermittelte dem Kläger definitiv nicht positive die Kenntnis, dass sein Fahrzeug konkret betroffen ist.Die Beklagte ist eines Beweises, dass das "Rückrückrufschreiben" bereits im Jahr 2016 dem Kläger zugegangen ist, schuldig geblieben. Der Kläger behauptet, das Schreiben erst Anfang 2017 erhalten zu haben.bb) Auch eine grob fahrlässige Unkenntnis der anspruchsbegründenden Tatsachen lag nicht vor.Grobe Fahrlässigkeit setzt einen objektiv schwerwiegenden und subjektiv nicht entschuldbaren Verstoß gegen die Anforderungen der im Verkehr erforderlichen Sorgfalt voraus, insbesondere, wenn dem Gläubiger die Kenntnis deshalb fehlt, weil ihm persönlich ein schwerer Obliegenheitsverstoß in seiner eigenen Angelegenheit der Anspruchsverfolgung vorgeworfen werden kann, weil sich ihm die den Anspruch begründenden Umstände förmlich aufgedrängt haben, er davor aber letztlich die Augen verschlossen hat (vgl. etwa Grothe in Münchner Kommentar zum BGB, 8. Auflage 2018, § 199 Rn. 31).Insofern gilt, wie ausgeführt, dass es für den Kläger ohne weiteres möglich gewesen wäre, die Betroffenheit seines Fahrzeugs zu ermitteln, dies nach eigenen Angaben jedoch nicht getan hat. Ein grob fahrlässiges Verhalten in eigener Sache vermag das Gericht hierin jedoch nicht zu erkennen. Diesbezüglich ist zunächst zu sehen, dass bei gesetzlichen Ansprüchen, wie im vorliegenden Fall, die Voraussetzungen für die Annahme einer grob fahrlässigen Unkenntnis grundsätzlich höher anzusetzen sind als bei vertraglichen Ansprüchen. Im Falle einer bewussten vertraglichen Bindung wird man vom Gläubiger eher erwarten können, sich um hinreichende Informationen in seinen eigenen Angelegenheiten zu bemühen. In diesem Zusammenhang ist schließlich auch das Verhalten der Beklagten nach Bekanntwerden der Vorwürfe zu sehen. So führt die Beklagte in ihrer Pressemitteilung vom 22.09.2015 unter anderem aus, dass die Steuersoftware bei der Mehrheit der betroffenen Motoren keinerlei Auswirkungen habe. In einerweiteren Pressemitteilung vom 29.09.2015 teilte die Beklagte mit, dass an einer Umrüstung gearbeitet werde und die betroffenen Kunden in den nächsten Wochen und Monaten informiert würden. Die Beklagte verfolgte mithin eine Strategie, bei der die vorgenommenen Manipulationen am Abgasrückführungssystem verharmlost und gleichzeitig eine enge Einbindung der betroffenen Fahrzeugbesitzer in Aussicht gestellt wurde. Unter diesen Umständen drängte sich für den Inhaber eines Fahrzeugs aus dem Volkswagenkonzern aber keinesfalls auf, dass er nun seinerseits tätig werden musste, um seine Rechte zu wahren.Zudem könne eine problematische und ungeklärte Rechtslage den Verjährungsbeginn hinausschieben. Verjährungsbeginn tritt erst dann ein, wenn eine zutreffende Einschätzung der Rechtslage möglich ist (vgl. dazu etwa Piekenbrock in beckonline.GROSSKOMMENTAR, Stand 01.05.2020, § 199 BGB Rn. 130 ff). Bei den Fällen der Abgasmanipulation in Zusammenhang mit dem Motor EA 189 gibt es erst seit dem Mai 2020 eine abschließende rechtliche Klärung durch den BGH (Urteil vom 25.05.2020 - VI ZR 252/19 -).3. Zinsen sind gern. §§ 280 Abs. 1, 2, 286, 288 BGB ab dem 22.05.2020 zu zahlen. Die mit Anwaltsschreiben vom 30.04.2020 gesetzte Zahlungsfrist bis zum 21.05.2020 ist erfolglos abgelaufen.II.Darüber hinaus kann der Kläger auch die Feststellung des Annahmeverzuges verlangen, da sich die Beklagte mit der Rücknahme des Fahrzeuges zumindest seit Klageerhebung in Annahmeverzug befindet. Das erforderliche Feststellungsinteresse (§ 256 Abs. 1 ZPO) ist im Hinblick auf die besonderen Voraussetzungen bei der Zwangsvollstreckung einer Zug um Zug zu erbringenden Leistung (§§ 756 Abs. 1,765 Nr. 1 ZPO) gegeben.III.Der Kläger hat auch einen Anspruch auf Ersatz bzw. Freistellung seiner vorgerichtlichen Rechtsanwaltskosten aus §§ 826, 249 Abs. 1 BGB.Der Höhe nach beschränkt sich der Anspruch jedoch auf den ausgeurteilten Betrag von 1.100,51 Euro, da für die Berechnung lediglich eine 1,3 Geschäftsgebühr ausgehend vom Wert der erfolgreichen Klage zuzüglich Auslagenpauschale zu Grunde zu legen war.Es handelt sich vorliegend sowohl hinsichtlich des Umfangs als auch hinsichtlich des rechtlichen Schwierigkeitsgrads nicht um einen überdurchschnittlichen Rechtsstreit. Die diskutierten Rechtsfragen sind Gegenstand unzähliger Rechtsstreitigkeiten und Gerichtsentscheidungen, so dass standardisierte Schreiben und Textbausteine formularmäßig in einer Vielzahl von Fällen verwendet werden können.Die Rechtsanwaltskosten sind gern. §§ 280 Abs. 1, 2, 286, 288 BGB ab dem 30.05.2020 zu verzinsen, denn die Klage wurde am 29.05.2020 zugestellt.Die Kostenentscheidung beruht auf § 92 Abs. 1 Nr. 1 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit aus § 709 ZPO.Der Streitwert beläuft sich auf 31.300,01 Euro, nämlich:Klageantrag 1)31.300,01 Euro Klageantrag 2)0,00 Euro. § 43 Abs. 1 GKGKlageantrag 3)0,00 Euro (vgl. Noethen in Schneider/Herget, StreitwertKommentar, 14. Aufl. 2016, Rn. 2316 ff).
+			
+			
+			
+			Permalink: https://openjur.de/u/2443059.html (https://oj.is/2443059)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

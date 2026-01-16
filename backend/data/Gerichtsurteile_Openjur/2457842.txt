@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitOLG Frankfurt am MainRechtsprechungUrteil vom 13.01.2022 - 15 U 219/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Frankfurt am Main, Urteil vom 13.01.2022 - 15 U 219/21
+                      m. Fundstelle
+                      OLG Frankfurt am Main, Urteil vom 13.01.2022 - 15 U 219/21 = openJur 2022, 21508
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Frankfurt am Main, Urteil vom 13.01.2022 - 15 U 219/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 21508
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das am 1. Juni 2021 verkündete Urteil der 8. Zivilkammer des Landgerichts Kassel wird zurückgewiesen.Die Kosten des Berufungsverfahrens hat der Kläger zu tragen.Dieses und das angefochtene Urteil des Landgerichts vom 1. Juni 2021 sind ohne Sicherheitsleistung vorläufig vollstreckbar. Dem Kläger bleibt nachgelassen, die Vollstreckung durch die Beklagte durch Sicherheitsleistung in Höhe von 110 Prozent des aufgrund des Urteils insgesamt vollstreckbaren Betrages abzuwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 Prozent des jeweils zu vollstreckenden Betrages leistet.Der Wert des Streitgegenstands für das Berufungsverfahren wird festgesetzt auf 6.861,42 Euro.Die Revision wird zugelassen.  
+				Gründe
+				I.Der Kläger nimmt die Beklagte mit der am 6. Januar 2021 zugestellten Klage auf Zahlung von Restschadensersatz in Anspruch, hilfsweise im Wege der Stufenklage nach Auskunft und Rechnungslegung, wegen des Erwerbs eines Fahrzeugs der Marke VW vom Typ Passat Variant 2.0 TDI mit der Fahrzeug-Identifikationsnummer (FIN) ... (im Folgenden kurz: Passat).Der Kläger erwarb das Fahrzeug mit Kaufvertrag vom 6. März 2014 als Neuwagen von der X GmbH zum Kaufpreis von 28.368,40 Euro (vgl. die Rechnung vom 11. April 2014, K1, Bl. 35 Bd. I d. A.), das mit einem Dieselmotor des Typs EA189 ausgestattet ist. Die Beklagte ist die Herstellerin des Fahrzeugs.Die im Zusammenhang mit dem Motor verwendete Software erkennt, ob das Fahrzeug auf einem Prüfstand dem Neuen Europäischen Fahrzyklus (NEFZ) unterzogen wird und schaltet in diesem Fall in den Abgasrückführungsmodus 1, einen Stickoxid (NOx) - optimierten Modus. In diesem Modus findet eine Abgasrückführung mit niedrigem Stickoxidausstoß statt. Im normalen Fahrbetrieb außerhalb des Prüfstands schaltet der Motor dagegen in den Abgasrückführungsmodus 0, bei dem die Abgasrückführungsrate geringer und der Stickoxidausstoß höher ist. Für die Erteilung der Typgenehmigung der festgestellten Emissionsklasse maßgeblich war der Stickoxidausstoß auf dem Prüfstand. Die Stickoxidgrenzwerte der maßgeblichen Euro 5-Norm wurden nur im Abgasrückführungsmodus 1 eingehalten.Im September 2015 räumte die Beklagte öffentlich die Verwendung einer entsprechenden Software ein. Unter dem 15. Oktober 2015 erging gegen sie ein bestandskräftiger Bescheid des Kraftfahrt-Bundesamts (KBA) mit nachträglichen Nebenbestimmungen zur Typgenehmigung, der auch das Fahrzeug des Klägers betrifft. Das KBA ging vom Vorliegen einer unzulässigen Abschalteinrichtung aus und gab der Beklagten auf, diese zu beseitigen und die Einhaltung der maßgeblichen Grenzwerte anderweitig zu gewährleisten. Die Beklagte gab mit Pressemitteilung vom 25. November 2015 bekannt, Software-Updates durchzuführen, mit denen diese Software aus allen Fahrzeugen mit Motoren des Typs EA189 mit 2,0-Liter-Hubraum entfernt werden sollte.In der Folge ließ der Kläger das auch ihm angebotene Software-Update an dem Passat aufspielen.Der Kläger hat zunächst die Ansicht vertreten, er habe einen - nicht verjährten - Anspruch aus § 826 BGB gegen die Beklagte auf Ersatz des Kaufpreises Zug um Zug gegen Übereignung und Herausgabe des Passats. Auf seinen Schadensersatzanspruch lasse er sich Nutzungsvorteile für bei Klageeinreichung am 10. Dezember 2020 gefahrene 155.000 Kilometer anrechnen. Er hat behauptet, bei Erwerb habe die zu erwartende Gesamtlaufleistung des Neufahrzeugs 300.000 Kilometer betragen, woraus sich ein Wert des Nutzungsvorteils von 14.657,01 Euro ergebe. Verjährungsbeginn sei frühestens mit Ablauf des Jahr 2017 eingetreten. Zuletzt hat der Kläger die Auffassung vertreten, mit Ablauf des Jahres 2019 sei Verjährung seines Anspruchs eingetreten, so dass die Beklagte die Leistung zu Recht nach § 214 BGB verweigere. Allerdings habe er nunmehr Anspruch auf Herausgabe des Erlangten gemäß §§ 852, 818 Abs. 1 und 2 BGB im Rahmen eines Restschadensersatzanspruchs. Dass die Beklagte selbst am Kaufvertrag nicht beteiligt gewesen sei, spiele dabei keine Rolle. Es sei ihm nicht bekannt, ob die Beklagte das von ihr hergestellte Fahrzeug durch Direktverkauf an den Vertragshändler oder im Wege eines Kommissionsgeschäftes mit diesem vertrieben habe. Weil er den Passat als Neufahrzeug von einem VW-Vertragshändler erworben habe, müsse die Beklagte den verbleibenden Erlös, den sie abzüglich der entsprechenden Kosten aus dem Inverkehrbringen des Fahrzeugs erlangt habe, also die Gewinnmarge, herausgeben.Nachdem der Kläger zunächst in der Hauptsache Zahlung eines Betrags von 13.711,39 Euro Zug um Zug gegen Herausgabe des Passats an die Beklagte verlangt hatte, hat er zuletzt - im Wege der Stufenklage - beantragt,1. die Beklagte zu verurteilen, Auskunft zu erteilen und Rechnung zu legen über die aus dem In-Verkehr-Bringen des PKW VW Passat Variant, Fahrgestellnummer ... erlangte,2. für den Fall, dass die Auskunft bezüglich der Gewinnmarge nicht mit der erforderlichen Sorgfalt erteilt wurde, die Beklagte zu verurteilen, die Richtigkeit der Auskunft an Eides statt zu versichern,3. die Beklagte zu verurteilen, an ihn den sich aus der Auskunft ergebenden Betrag nebst Zinsen hieraus in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit der Klage zu zahlen.Die Beklagte hat beantragt,die Klage abzuweisen.Die Beklagte hat die Auffassung vertreten, eine Ersatzpflicht bestehe nicht, weil dem Kläger kein durch ihr Verhalten kausal hervorgerufener Schaden entstanden sei. Sie hat außerdem die Einrede der Verjährung erhoben und behauptet, der Kläger habe noch im Jahr 2015 die für einen Verjährungsbeginn hinreichende Kenntnis erlangt. Die Voraussetzungen für einen Anspruch des Klägers aus § 852 BGB seien bei der gebotenen wirtschaftlichen Betrachtung nicht erfüllt. Wenn überhaupt, sei nach dem der Vorschrift zugrundeliegenden Zweck einer Gewinnabschöpfung der von ihr erzielte Nettogewinn herauszugeben. Dieser belaufe sich - entsprechend einem Bußgeldbescheid der Staatsanwaltschaft gegen sie vom Juni 2018 - auf 93,00 Euro je betroffenem Fahrzeug. Zudem müsse der Kläger im Falle einer Gewinnabschöpfung entsprechend § 255 BGB sein Fahrzeug an die Beklagte herausgeben. Das Auskunftsbegehren des Klägers sei mangels Bestimmtheit unzulässig. Außerdem bestehe schon dem Grunde nach kein materiell-rechtlicher Auskunftsanspruch. Eine Anspruchsgrundlage sei nicht ersichtlich, ein nur ausnahmsweise bestehender Anspruch nach Treu und Glauben scheitere bereits daran, dass sie die Auskunft nicht "unschwer erteilen" könne. Sie hat behauptet, das Datum "Gewinn pro Fahrzeug" für EA189-Fahrzeuge habe sie auf dem deutschen Markt nicht gesondert erhoben.Im Übrigen wird Bezug genommen auf die Feststellungen im angefochtenen Urteil, Blatt 293 ff. Band II der Akten.Das Landgericht hat die Klage abgewiesen. Zur Begründung hat es im Wesentlichen ausgeführt, ein etwaiger Anspruch des Klägers aus § 826 BGB sei verjährt. Er habe auch keinen Restschadensersatzanspruch gemäß § 852 BGB. Es bedürfe keiner Entscheidung, ob § 852 BGB überhaupt Anwendung finden könne. Selbst wenn, könne der Kläger allenfalls Schadensersatz in Höhe der Gewinnmarge verlangen. Es sei aber ausgeschlossen, dass diese den Betrag des auf den (Rest-) Schadenersatz anzurechnenden Nutzungsvorteils von jedenfalls 14.657,39 Euro erreiche.Hiergegen wendet sich der Kläger mit seiner innerhalb der gesetzlichen Fristen eingelegten und begründeten Berufung. Er rügt im Wesentlichen, das Landgericht habe zu Unrecht einen Restschadensersatzanspruch aus § 852 BGB verneint. Erstmals im Berufungsverfahren behauptet er, die Beklagte habe im Zuge des Verkaufs des Fahrzeugs an ihn 85 Prozent des Netto-Kaufpreises (23.838,99 Euro), mithin einen Betrag von 20.263,14 Euro erhalten. Die übrigen 15 Prozent habe der Vertragshändler als Händlermarge einbehalten. Dieser Betrag stellte die Obergrenze für den nach § 852 BGB verlängerten Schadenersatzanspruch aus § 826 BGB dar, so dass die Beklagte den vom ihm unter Berücksichtigung des Nutzungsvorteils verlangten Betrag von 13.711,39 Euro zu ersetzen habe Zug um Zug gegen Herausgabe des Fahrzeugs an die Beklagte. Hilfsweise habe die Beklagte den Erstverkaufspreis abzüglich Herstellungskosten herauszugeben. Erstmals im Berufungsverfahren bestreitet der Kläger, dass die Beklagte einen durchschnittlichen Gewinn pro Fahrzeug von unter 600,00 Euro erwirtschaftet habe und nicht imstande sei, die Gewinnmarge zu ermitteln.Mit seiner Berufung hat der Kläger zunächst in der Hauptsache erneut sein erstinstanzlich aufgegebenes Zahlungsbegehren weiterverfolgt, hilfsweise die in erster Instanz begehrte Zahlung nach Auskunft im Wege der Stufenklage. Nunmehr verlangt der Kläger im Berufungsverfahren Zahlung in Höhe des Kaufpreises (28.368,40 Euro) abzüglich eines Nutzungsvorteils für die von ihm gefahrenen 158.701 Kilometer bei einer zu erwartenden Gesamtfahrleistung des Neufahrzeugs von 300.000 Kilometern (15.006,98 Euro) und des von ihm erzielten Veräußerungserlöses (6.500,00 Euro), nachdem er am 11. Juli 2021 das Fahrzeug zu einem Preis von 6.500,00 Euro mit einer Laufleistung von 158.701 Kilometern veräußert hat. Im Übrigen erklärt er den Rechtsstreit im Schriftsatz vom 30. Dezember 2021 einseitig für erledigt.Der Kläger beantragt,unter Abänderung des am 1. Juni 2021 verkündeten Urteils des Landgerichts Kassel, 8 O 2355/20,1. die Beklagte zu verurteilen, an ihn 6.861,42 Euro nebst Zinsen hieraus in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen,2. die Beklagte zu verurteilen, an ihn Zinsen in Höhe von fünf Prozent über dem jeweiligen Basiszinssatz der EZB 6.500,00 Euro für die Zeit ab Rechtshängigkeit der Klage bis zum 11. Juli 2021 zu zahlen, sowie3. festzustellen, dass sich der Rechtsstreit im Übrigen erledigt hat.Die Beklagte beantragt,die Berufung zurückzuweisen.Die Beklagte verteidigt das erstinstanzliche Urteil. Sie behauptet, der vom Kläger erzielte Veräußerungserlös stehe im deutlichen Missverhältnis zum tatsächlichen Widerverkaufswert des Fahrzeugs. Die Differenz zu einem marktgerechten Veräußerungserlös müsse sich der Kläger neben dem Nutzungsvorteil auf einen unterstellten Schadensersatzanspruch anrechnen lassen.Bezüglich der weiteren Einzelheiten des Sach- und Streitstands im Berufungsverfahren wird auf den vorgetragenen Inhalt der zwischen den Parteien gewechselten Schriftsätze nebst Anlagen sowie die Sitzungsniederschrift vom 13. Januar 2022 Bezug genommen.II.Die gemäß §§ 517, 519 ZPO form- und fristgerecht eingelegte und darüber hinaus gemäß § 520 Abs. 2 ZPO rechtzeitig begründete Berufung des Klägers ist zulässig.In der Sache hat sie allerdings keinen Erfolg.Der Kläger verfolgt im Berufungsverfahren nur noch einen Anspruch auf Zahlung von Restschadensersatz aus § 852 BGB weiter und zwar in Höhe des Kaufpreises abzüglich des von ihm bezifferten Nutzungsvorteils und des Veräußerungserlöses.Ein Anspruch nach § 852 BGB auf Herausgabe dessen, was die Beklagte durch die unerlaubte Handlung erlangt hat, steht dem Kläger indes nicht zu.Zwar wäre ein solcher Anspruch, der in zehn Jahren von seiner Entstehung an verjährt (§ 852 Satz 2 BGB), noch durchsetzbar. Es fehlt jedoch am Vorliegen der tatbestandlichen Voraussetzungen, weshalb der Senat nicht zu entscheiden hat, ob die Vorschrift von ihrem Normzweck her überhaupt Anwendung auf den vorliegenden Fall finden kann (verneinend: OLG Düsseldorf, Urteil vom 20. Mai 2021 - I-5 U 57/20 -, Rn. 54 ff., juris; OLG Bamberg, Urteil vom 4. August 2021 - 3 U 110/21 -, Rn. 8 ff., juris).Hat der Ersatzpflichtige durch eine unerlaubte Handlung auf Kosten des Verletzten etwas erlangt, so ist er nach § 852 Satz 1 BGB auch nach Eintritt der Verjährung des Anspruchs auf Ersatz des aus einer unerlaubten Handlung entstandenen Schadens zur Herausgabe nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung verpflichtet.Der Anspruch aus § 852 Satz 1 BGB behält die Rechtsnatur als Schadensersatzanspruch und erfordert dieselben Voraussetzungen wie der weitergehende verjährte Schadensersatzanspruch. Er hat den Charakter einer Rechtsverteidigung gegenüber der Einrede der Verjährung. Der verjährte Deliktsanspruch bleibt als solcher bestehen. Er wird nur in seinem Umfang auf das durch die unerlaubte Handlung auf Kosten des Geschädigten Erlangte beschränkt (vgl. BGH, Urteil vom 14. Februar 1978 - X ZR 19/76 -, juris, Rn. 61 zum bis 31. Dezember 2001 geltenden gleichlautenden § 852 Abs. 3 BGB). Sobald die Verjährungseinrede erhoben wird, muss das entscheidende Gericht von sich aus auch prüfen, ob ein Anspruch aus § 852 Satz 1 BGB gegeben ist (vgl. BGH, Urteil vom 13. Oktober 2015 - II ZR 281/14 -, juris, Rn. 31). Eine solche Prüfung setzt allerdings Vortrag dazu voraus, dass und in welcher Höhe die nach § 826 BGB ersatzpflichtige, sich auf die Verjährung des Anspruchs berufende Beklagte etwas aus dem Fahrzeugverkauf erlangt hat (vgl. BGH, Urteil vom 17. Dezember 2020 - VI ZR 739/20 -, juris, Rn. 29).Hier fehlt es allerdings an einer Bereicherung der Beklagten auf Kosten des Klägers als Verletzten. Aus der Verwendung der Worte "auf Kosten ... erlangt" kann zwar nicht hergeleitet werden, dass die Voraussetzungen der Bereicherungshaftung den §§ 812 ff. BGB zu entnehmen sind. Nach dem mit § 852 Satz 1 BGB verfolgten Zweck soll derjenige, der durch eine unerlaubte Handlung einen anderen geschädigt und dadurch sein eigenes Vermögen vermehrt hat, nicht im Genuss dieses unrechtmäßig erlangten Vorteils bleiben. Die Vermögensverschiebung muss sich daher nicht unmittelbar zwischen dem Schädiger und dem Geschädigten vollziehen (BGH, Urteil vom 14. Februar 1978 - X ZR 19/76 -, juris, Rn. 62, zum bis 31. Dezember 2001 geltenden gleichlautenden § 852 Abs. 3 BGB; BGH, Urteil vom 26. März 2019 - X ZR 109/16 -, juris, Rn. 21). Maßgeblich ist vielmehr eine wirtschaftliche Betrachtung. Wenn der Vermögensverlust beim Geschädigten einen entsprechenden Vermögenszuwachs beim Schädiger zur Folge gehabt hat, so ist er nach § 852 Satz 1 BGB, soweit auch die übrigen Voraussetzungen des Anspruchs vorliegen, auch dann herauszugeben, wenn diese Vermögensverschiebung dem Schädiger durch seine Vertragspartner vermittelt worden ist (BGH, Urteil vom 14. Februar 1978 - X ZR 19/76 -, juris, Rn. 63, zum bis 31. Dezember 2001 geltenden gleichlautenden § 852 Abs. 3 BGB).Eine unmittelbare Vermögensverschiebung im Verhältnis der Parteien lässt sich nicht feststellen. Denn ein Direktverkauf des Fahrzeugs von der Beklagten an den Kläger liegt schon nach dessen eigenem Vorbringen nicht vor. Die vom Kläger selbst vorgelegte Bestellung vom 6. März 2014 (K1, Bl. 36 ff. Bd. I d. A.) spricht dagegen, auch wenn Werksauslieferung in der Autostadt vereinbart worden ist. Die Bestellung bezeichnet ausdrücklich die X GmbH als Verkäuferin ("bestelle ... ich ... bei obengenannter Firma in serienmäßigem Lieferumfang") und nimmt auf deren "Verkaufsbedingungen" Bezug. Außerdem ist der Kaufpreis als "Hauspreis" bezeichnet. Zudem trägt der Kläger im Berufungsverfahren selbst vor, dass der Vertragshändler, also die Verkäuferin als seine Vertragspartnerin, von dem "erhaltenen" Kaufpreis 15 Prozent als Händlermarge einbehalten habe.Aber auch bei einer wirtschaftlichen Betrachtung fehlt es im vorliegenden Fall daran, dass der Vermögensverlust bei dem Kläger als Geschädigtem in Form der Zahlung des Kaufpreises einen entsprechenden Vermögenszuwachs bei der Beklagten zur Folge gehabt hat. Der Vermögenszuwachs ist bei der Beklagten als Herstellerin bereits und allein dadurch eingetreten, dass sich die Verkäuferin des vom Kläger erworbenen (Neu-) Fahrzeugs als (Zwischen-) Händlerin gegenüber der Beklagten zur Zahlung verpflichtet hat. Dieser Vermögenszuwachs verbleibt ihr auch dann, wenn der Käufer des Händlers - aus welchen Gründen auch immer - von dem Kaufvertrag mit dem Händler Abstand nimmt oder der Kauf aus sonstigen Gründen nicht zur Umsetzung gelangt (vgl. OLG Düsseldorf, Urteil vom 20. Mai 2021 - I-5 U 57/20 -, Rn. 61, juris).Soweit vertreten wird, dass der wirtschaftliche Zusammenhang nur entfallen soll, wenn der Zwischenhändler das Fahrzeug unabhängig von einer konkreten Bestellung vom schädigenden Hersteller oder nicht als Neu- sondern als Gebrauchtwagen erworben hat, dem Käufer eines mit einer unzulässigen Abschalteinrichtung ausgestatteten (Neu-) Fahrzeugs aber ein Anspruch aus § 852 BGB bei Erwerb vom Zwischenhändler dann zustehen soll, wenn dieser nur aufgrund dieses speziellen Kaufvertrages eine Bestellung beim schädigenden Hersteller platziert hat (so OLG Stuttgart, Urteil vom 9. März 2021 - 10 U 339/20 -, Rn. 44f., juris), vermag der Senat dem nicht zu folgen. Denn dieses Kriterium eignet sich nicht als hinreichendes Unterscheidungsmerkmal bei der erforderlichen wirtschaftlichen Betrachtungsweise. Es ist nicht nachvollziehbar die Frage des "auf Kosten des Verletzten Erlangten" im Sinne des § 852 BGB davon abhängig zu machen, wie der Zwischenhändler agiert: Wenn er die bei ihm bereits auf Lager befindliche Sache dem Kunden übergibt, soll ein wirtschaftlicher Zusammenhang nicht bestehen, bestellt er sie aber neu beim Hersteller, soll ein solcher Zusammenhang gegeben sein (OLG Düsseldorf, Urteil vom 20. Mai 2021 - I-5 U 57/20 -, Rn. 62, juris).Die Kostenentscheidung folgt aus § 97 ZPO, die zur vorläufigen Vollstreckbarkeit aus den §§ 708 Nr. 10, 71, 709 Satz 2 ZPO.Die Revision wird gemäß § 543 Abs. 2 Satz 1 Nr. 1 und Nr. 2 ZPO zugelassen beschränkt auf die bei Erwerb eines Neufahrzeugs durch den Verletzten uneinheitlich beantwortete Frage, wann der Hersteller noch etwas auf Kosten des Fahrzeugerwerbers erlangt hat im Sinne von § 852 BGB, insbesondere ob bei der Feststellung des Erlangten lediglich auf den "Erstverkauf" oder auch auf weitere Verkäufe abgestellt werden kann.
+			
+			
+			
+			Permalink: https://openjur.de/u/2457842.html (https://oj.is/2457842)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

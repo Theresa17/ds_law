@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 29.03.2021 - 17 O 438/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 29.03.2021 - 17 O 438/20
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 29.03.2021 - 17 O 438/20 = openJur 2021, 33405
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 29.03.2021 - 17 O 438/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 33405
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits trägt der Kläger.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten über die Verpflichtung der Beklagten zur Leistung von Schadenersatz.Die Klagepartei erwarb am 06.03.2013 einen X 2.0. Der Kaufpreis betrug 33.815 €. Zu diesem Zeitpunkt wies das Fahrzeug einen Kilometerstand in Höhe von 0 km auf. Der Kläger finanzierte den Fahrzeugkauf, wodurch Finanzierungskosen in Höhe von 1.985,78 € entstanden sind. Das Fahrzeug ist mit einem Dieselmotor des Typs $$...# EU5 ausgestattet, bei dem die Motorsoftware so konfiguriert ist, dass im Prüfbetrieb auf dem Rollenprüfstand (NEFZ) die Stickoxidemissionswerte (NOx) optimiert werden, wohingegen im realen Fahrbetrieb die Abgaswerte für Stickoxid höher liegen. Diesen Motortyp und auch diesen Motor im Konkreten hat die Beklagte entwickelt und an die Z AG verkauft.Nach Aufkommen des sog. X-Abgasskandals entwickelte die Beklagte ein Software-Update, das durch das Kraftfahrt-Bundesamt (KBA) für den hier in Rede stehenden Fahrzeugtyp freigegeben wurde. Die durchgeführte technische Überarbeitung des Fahrzeugs mit dem Software-Update benötigte in einer Vertragswerkstatt eine Arbeitszeit von rund einer halben Stunde und die Kosten beliefen sich auf weniger als 100 €.Der Kläger veräußerte das Fahrzeug am 16.02.2017 bei einer Laufleistung von 60.365 km zu einem Preis in Höhe von 16.900,00 €.Er unterschrieb eine Abtretungserklärung für die Q GmbH (im Folgenden auch nur Inkasso), damit diese seine Rechte gegen die Beklagte im Wege der Musterfeststellungsklage geltend machen sollte. Wegen der Allgemeinen Geschäftsbedingungen der Q GmbH wird auf die Anlage B04 verwiesen. Die Q GmbH ist ein eingetragener Inkassodienstleister. Eine Rückabtretungserklärung erfolgte nicht vor Ablauf des Musterfeststellungsverfahrens.Die Beklagte hat die Einrede der Verjährung erhoben.Die Klagepartei trägt vor, verweist im Wesentlichen auf die Entscheidung des BGH vom 25.05.2020 zu VI ZR 252/19. Sie behauptet, sie sei Eigentümerin des Fahrzeuges. Die Abtretung zur Geltendmachung im Wege der Musterfeststellungsklage sei wirksam. Auch im Hinblick auf das Update sei sie getäuscht worden.Die Klagepartei beantragt mit der am 11.12.2020 eingegangenen und der Beklagten am 13.01.2021 zugestellten Klage,1. die Beklagte zu verurteilen, an sie 10.118,19 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 03.12.2020 und weitere 1.985,78 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen;2. die Beklagte zu verurteilen, an sie vorgerichtliche Kosten in Höhe von 1.424,48 nebst Zinsen in Höhe von 5 %-Punkten über dem Basiszinssatz seit dem 03.12.2020 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte tritt dem klägerischen Vortrag entgegen und verweist darauf, dass sie insbesondere keine sekundäre Darlegungslast im Hinblick auf §§ 826, 31 BGB treffe. Im Hinblick auf die - einzeln dargelegte - Presseberichterstattung habe bei dem Kläger jedenfalls Ende des Jahres 2015 grob fahrlässige Unkenntnis im Hinblick auf einen Schadenersatzanspruch bestanden. Die Abtretung an die Inkasso sei wegen Verstoß gegen §§ 3, 4 RDG unwirksam gemäß § 134 BGB.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die gewechselten Schriftsätze nebst vorgelegten Anlagen sowie das Protokoll des Termins zur mündlichen Verhandlung verwiesen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.Die Klagepartei hat gegen die Beklagte keinen Anspruch auf die begehrte Zahlung. Hierbei kann die Kammer dahinstehen lassen, welche Anspruchsgrundlagen in Betracht kommen. Ebenso kann dahinstehen, ob der Kläger tatsächlich Eigentum an dem Fahrzeug erworben hat. Denn sämtliche in Betracht kommende Ansprüche sind jedenfalls verjährt. Die regelmäßige Verjährungsfrist von drei Jahren (§ 195 BGB) war zum Zeitpunkt der Klageeinreichung im Mai 2019 bereits abgelaufen. Denn die Verjährungsfrist hatte mit Ablauf des Jahres 2015 begonnen.Zu diesem Zeitpunkt hatte der Kläger jedenfalls grob fahrlässige Unkenntnis der anspruchsbegründenden Tatsachen im Sinne des § 199 Abs. 1 Nr. 2 BGB. Der Verjährungsbeginn nach § 199 Abs. 1 Nr. 2 setzt Kenntnis oder grob fahrlässige Unkenntnis des Gläubigers von den anspruchsbegründenden Umständen sowie von der Person des Schuldners voraus. Kenntnis verlangt nicht, dass der Gläubiger alle Einzelheiten der dem Anspruch zugrunde liegenden Umstände überblickt. Ausreichend ist, dass der Gläubiger den Hergang in seinen Grundzügen kennt und weiß, dass der Sachverhalt erhebliche Anhaltspunkte für die Entstehung eines Anspruchs bietet. Aus den Umständen muss für den Gläubiger ferner ersichtlich sein, dass gerade er als Anspruchsinhaber in Betracht kommt. Maßgeblich ist, ob der Gläubiger auf Grund der ihm bekannten Tatsachen gegen eine bestimmte Person Klage erheben kann - sei es auch nur in Form einer Feststellungsklage -, die bei verständiger Würdigung der ihm bekannten Tatsachen so viel Aussicht auf Erfolg bietet, dass sie für ihn zumutbar ist (vgl. hierzu m.w.N. MüKoBGB/Grothe, 8. Aufl. 2018, BGB § 199 Rn. 28). Grob fahrlässige Unkenntnis liegt vor, wenn die oben genannten Umstände dem Gläubiger nur deshalb nicht bekannt sind, weil er die im Verkehr erforderliche Sorgfalt in ungewöhnlich großem Maße verletzt und auch ganz nahe liegende Überlegungen nicht angestellt hat oder das nicht beachtet hat, was im gegebenen Fall jedem hätte einleuchten müssen, wie etwa dann, wenn sich dem Gläubiger die den Anspruch begründenden Umstände förmlich aufgedrängt haben und er leicht zugängliche Informationsquellen nicht genutzt hat; In diesem Fall liegt grob fahrlässige Unkenntnis aber erst zu dem Zeitpunkt vor, zu dem die Nachforschungen des Gläubigers zum Erfolg geführt hätten (MüKoBGB/Grothe, 8. Aufl. 2018, BGB § 199 Rn. 31).Im Hinblick auf die von der Beklagten vorgetragene und auch allgemein bekannte Situation der Pressberichtserstattung lag jedenfalls grob fahrlässige Unkenntnis vor, sollte der Kläger Ende des Jahres 2015 tatsächlich angenommen haben, keinen Schadenersatzanspruch gegen die Beklagte zu haben. Insbesondere ist auch und gerade das klägerische Fahrzeug seit dem 25.09.2015 (E.de) mit als betroffen gelistet. In sämtlichen - auch den leicht zugänglichen - Medien wurde bereits im Oktober 2015 über die Betroffenheit des X berichtet. Hierdurch stellt es ein schweres Verschulden gegen sich selbst dar (vgl. Begr. RegE, BT-Drs. 14/6040, 108; aus der neueren Rspr. etwa BGH NJW-RR 2010, 681 (683)), wenn die Klägerin sich nicht weiter informiert und in Folge dessen einen Anspruch nicht geahnt haben sollte.Die Verjährung ist auch nicht durch die Abtretungserklärung an die Inkasso und deren Beteiligung an dem Musterfeststellungsverfahren gegen die Beklagte gehemmt gewesen. Die klägerische Forderung ist nicht in die Musterfeststellungsklage mit ein bezogen worden. Die Abtretung ist jedenfalls wegen Verstoßes gegen §§ 3, 4 RDG unwirksam, § 134 BGB. Die Tätigkeit der Inkasso hat sich nicht innerhalb der Inkassodienstleistungsbefugnis gem. § 10 I 1 Nr. 1 RDG gehalten. Ob sich die Tätigkeit in diesem Rahmen bewegt, ist im Wege einer am Schutzzweck des Rechtsdienstleistungsgesetzes orientierten Würdigung der Umstände des Einzelfalls einschließlich einer Auslegung der hinsichtlich der Forderungseinziehung getroffenen Vereinbarungen zu ermitteln, wobei die Wertentscheidungen des Grundgesetzes in Gestalt der Grundrechte der Beteiligten sowie der Grundsatz des Vertrauensschutzes zu berücksichtigen und den Veränderungen der Lebenswirklichkeit Rechnung zu tragen ist (BGH NJW 2020, 208, beckonline). Hierbei ist der mit dem Gesetz verfolgte Schutzzweck, die Rechtsuchenden, den Rechtsverkehr und die Rechtsordnung vor unqualifizierten Rechtsdienstleistungen zu schützen (§ 1 I 2 RDG) zu beachten (BGH a.a.O.). Auch wenn der Bundesgerichtshof in der zitierten Entscheidung zu dem Schluss gekommen ist, dass auch eine gerichtliche Geltendmachung als Ziel der Abtretung der Forderung an den Dienstleister (noch) von der Dienstleistungsbefugnis umfasst sein kann, ist dieses von dem Bundesgerichtshof betonte "noch" in der hiesigen Konstellation der Abtretung zur Beteiligung an der Musterfeststellungsklage überschritten. Hierdurch rückt die gerichtliche Geltendmachung in den Forderung, weshalb der Inkasso in ihren Allgemeinen Geschäftsbedingungen diesbezüglich auch (vgl. Vergleichsschluss) mannigfaltige Ermächtigungen erteilt werden (Prütting, ZIP 2020, 1434, 1440). Neben diesem Verstoß gegen § 3 RDG liegt auch wegen der entstehenden Interessenkollision ein Verstoß gegen § 4 RDG vor. Denn die Leistungspflicht der Inkasso gegenüber dem Prozessfinanzierer ist im Verhältnis der Inkasso zu dem Kläger wiederum eine "andere Leistungspflicht": So muss die Inkasso bei ihrer Prozessführung die Fragen der Einlegung von Rechtsmitteln, die Finanzierung von Sachverständigengutachten und andere kostenauslösende Maßnahmen unter den ökonomischen Interessen des Prozessfinanzierers entscheiden, ob und in welchem Umfang dieser bereit ist, die erforderlichen Mittel zur Verfügung zu stellen; Die Interessen des Klägers bzw. der Zedenten insgesamt werden durch diesen Interessengegensatz der Inkasso zum Prozessfinanzierer gefährdet (Prütting, ZIP 2020, 1434, 1440f.). Letztlich würde sich bei Billigung derartiger Inkassoaufträge im krassen Wertungswiderspruch zu den anwaltlichen Berufspflichten ein neuer Rechtsdienstleistungszweig unter Umgehung aller Berufspflichten entwickeln (Prütting, ZIP 2020, 1434, 1442). Dies steht jedoch im Widerspruch zu dem bereits dargestellten Gesetzeszweck des RDG.Andere Anspruchsgrundlagen, welche der Klage zum Erfolg verhelfen würden, sind nicht ersichtlich. Insbesondere resultiert kein Schadenersatzanspruch aus der Aufspielung des Updates. Denn die Genehmigung dessen durch das Kraftfahrtbundesamt lässt jedenfalls die Vorsätzlichkeit einer etwaigen sittenwidrigen Schädigung entfallen. Die Beklagte durfte mit einer legalen Wirkung des Updates rechnen.Auch einen Anspruch aus § 852 BGB, der dem Grunde nach wohl besteht, hat die Klagepartei der Höhe nach nicht ausreichend dargelegt. Der Vortrag ist derart pauschal gehalten, dass die Beklagte insoweit auch keine sekundäre Darlegungslast trifft. Denn der Anspruch nach § 852 BGB zielt nicht auf denselben Betrag ab wie der ursprüngliche Schadenersatzanspruch sondern nur auf die Händlermarge (Martinek, jM 2021, 9, 13). Diesbezüglich hätte der Kläger in den leicht zugänglichen und in dem vorgenannten Aufsatz zitierten Quellen zunächst recherchieren müssen, eine Behauptung aufstellen müssen, damit die Beklagte überhaupt eine Pflicht zur Erwiderung trifft. Hierauf war im Termin hingewiesen worden.Mangels Anspruch in der Hauptsache kommt ein Anspruch auf die geltend gemachten Nebenforderungen nicht in Betracht.Die Kostenentscheidung beruht auf § 92 ZPO, die Entscheidung zur vorläufigen Vollstreckbarkeit auf § 709 ZPO.Streitwert: bis 13.000,00 €Rechtsbehelfsbelehrung:Gegen dieses Urteil ist das Rechtsmittel der Berufung für jeden zulässig, der durch dieses Urteil in seinen Rechten benachteiligt ist,1. wenn der Wert des Beschwerdegegenstandes 600,00 EUR übersteigt oder2. wenn die Berufung in dem Urteil durch das Landgericht zugelassen worden ist.Die Berufung muss innerhalb einer Notfrist von einem Monat nach Zustellung dieses Urteils schriftlich bei dem Oberlandesgericht Köln, Reichenspergerplatz 1, 50670 Köln, eingegangen sein. Die Berufungsschrift muss die Bezeichnung des Urteils (Datum des Urteils, Geschäftsnummer und Parteien) gegen das die Berufung gerichtet wird, sowie die Erklärung, dass gegen dieses Urteil Berufung eingelegt werde, enthalten.Die Berufung ist, sofern nicht bereits in der Berufungsschrift erfolgt, binnen zwei Monaten nach Zustellung dieses Urteils schriftlich gegenüber dem Oberlandesgericht Köln zu begründen.Die Parteien müssen sich vor dem Oberlandesgericht Köln durch einen Rechtsanwalt vertreten lassen, insbesondere müssen die Berufungs- und die Berufungsbegründungsschrift von einem solchen unterzeichnet sein.Mit der Berufungsschrift soll eine Ausfertigung oder beglaubigte Abschrift des angefochtenen Urteils vorgelegt werden.
+			
+			
+			
+			Permalink: https://openjur.de/u/2363694.html (https://oj.is/2363694)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

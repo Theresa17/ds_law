@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG KemptenRechtsprechungEndurteil vom 11.04.2019 - 22 O 2077/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Kempten, Endurteil vom 11.04.2019 - 22 O 2077/18
+                      m. Fundstelle
+                      LG Kempten, Endurteil vom 11.04.2019 - 22 O 2077/18 = openJur 2020, 70268
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Kempten, Endurteil vom 11.04.2019 - 22 O 2077/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 70268
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Beklagte wird verurteilt, an den Kläger einen Betrag in Höhe von 8.827,95 € nebst Zinsen in Höhe von jährlich 4 % für die Zeit vom 14.9.2014 bis zum 9.1.2019 und in Höhe von 5 Prozentpunkten über dem Basiszinssatz für die Zeit ab dem 10.1.2019 zu bezahlen, Zug um Zug gegen Übergabe und Übereignung des PKWs VW Touran 1.6 l mit der Fahrzeug-Identifizerungsnummer ...2. Die Beklagte wird verurteilt, den Kläger von vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.029,35 € freizustellen.3. Im Übrigen wird die Klage abgewiesen.4. Von den Kosten des Rechtsstreits hat der Kläger 40/100, die Beklagte 60/100 zu tragen.5. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Kläger begehrt die Rückgängigmachung eines Kaufvertrags über einen PKW.Der Kläger kaufte mit Datum vom 13.9.2014 privat einen gebrauchten VW Touran mit 105 PS. Bei Kaufvertragsschluss hatte das Fahrzeug eine Laufleistung von 47360 km. Zum Schluss der mündlichen Hauptverhandlung hatte das Fahrzeug eine Laufleistung von 134.793 km.In dem Fahrzeug ist ein Dieselmotor des Typs EA 189 verbaut. Die Motorsteuerung war ursprünglich so programmiert, dass sie erkennt, ob sich der PKW zur Messung der Schadstoffemissionen auf einem Prüfstand befindet. In diesem Fall arbeitet sie im sogenannten Modus 1, während das Fahrzeug im Straßenverkehr im Modus 0 betrieben wird. Im Modus 1 ist die Abgasrückführungsrate höher und deshalb der Ausstoß von Stickoxiden niedriger als im Modus 0.Der Kläger hat am 25.1.2017 ein Software-Update an der Motorsteuerung durchführen lassen.Der Kläger ist unter anderem unter Berufung auf Presseberichterstattung der Ansicht, dass ihm Schadenersatz im beantragten Umfang aus deliktischem Handeln zustehe.Der Kläger beantragt:Die Beklagte wird verurteilt, an den Kläger einen Betrag in Höhe von 13.500,00 € nebst Zinsen in Höhe von 4 % p.a. seit dem 14.9.2014 bis zum Eintritt der Rechtshängigkeit und in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit Zug um Zug gegen Übergabe und Übereignung des PKWs VW Touran 1.6 l mit der Fahrzeug-Identifizerungsnummer ... zu zahlen.Die Beklagte wird verurteilt, den Kläger von vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.029,35 € freizustellen.Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des PKW VW Touran 1.6 l mit der Fahrzeug-Identifizerungsnummer ... in Annahmeverzug befindet.Hilfsweise für den Fall, dass das Gericht den Antrag zu 1. auf Rückzahlung des Kaufpreises abweist:Es wird festgestellt, dass die Beklagte verpflichtet ist, dem Kläger sämtliche Schäden zu ersetzen, die dadurch entstanden sind, dass die Beklagte den PKW VW Touran 1.6 l mit der Fahrzeug-Identifizerungsnummer ... in den Verkehr gebracht hat, obwohl dieser mit einer unzulässigen Abschalteinrichtung ausgestattet war und daher keinem genehmigten Fahrzeugtyp entspricht, entstanden sind bzw. entstehen.Die Beklagte beantragt:Klageabweisung.Für das Vorbringen der Parteien im Übrigen wird auf deren Schriftsätze Bezug genommen.Das Gericht hat den Kläger im Hauptverhandlungstermin am 11.4.2019 angehört. Für das Ergebnis der Anhörung wird auf das Hauptverhandlungsprotokoll Bezug genommen. Eine Beweisaufnahme wurde nicht durchgeführt. 
+				Gründe
+				Die zulässige Klage ist teilweise begründet.I.Das angerufene Gericht ist gemäß §§ 23,71 GVG sachlich zuständig. Die örtliche Zuständigkeit folgt aus § 32 ZPO. Der Feststellungsantrag (Ziffer 3. der Klageanträge) erwies sich als zulässig.II.Die Klage ist in der Sache begründet. Der Kläger kann gem. § 826 BGB i.V.m. § 249 Abs. 1 BGB von der Beklagten verlangen, so gestellt zu werden, als habe er keinen Kaufvertrag über das streitgegenständliche Fahrzeug geschlossen. Nutzungsvorteile des Klägers waren anzurechnen, sodass sich ein Teilunterliegen des Klägers ergab.1. Das Verhalten der Beklagten erfüllt den objektiven Tatbestand der sittenwidrigen vorsätzlichen Schädigung im Sinne des § 826 BGB.Sittenwidrig ist dabei ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt (m.w.N. BGH NJW 2014, 383). Im Allgemeinen ist es nicht ausreichend, dass der Handelnde vertragliche Pflichten oder das Gesetz verletzt oder bei einem anderen einen Vermögensschaden hervorruft. Es muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zu Tage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann (BGH a.a.O.).Dies ist hier der Fall. Die streitgegenständliche Abschalteinrichtung betraf alle EA189-Motoren und spiegelte auf dem Rollenprüfstand Abgaswerte vor, die im realen Fahrbetrieb nicht eingehalten wurden. Dieses Vorgehen war systematisch und geplant: es diente dazu, nicht genehmigungsfähige Fahrzeuge abzusetzen, um Gewinn zu generieren. Dieses Vorgehen ist sittenwidrig und ist durch die Beklagtenseite nicht hinreichend entkräftet worden.Dem Kläger ist hierdurch auch ein Schaden entstanden. Schaden ist jede nachteilige Einwirkung auf die Vermögenslage, Beeinträchtigung eines rechtlich anerkannten Interesses oder Belastung mit einer ungewollten Verpflichtung (BGH NJW 04, 2971). Der Kläger hat hier ein Fahrzeug mit manipulierter Motorsoftware erworben. Das Gericht legt dabei zugrunde, dass dabei die typisierte Vorstellung der Käuferseite ausreichte, ein Fahrzeug zu erwerben, dessen Typengenehmigung und Betriebserlaubnis ohne Manipulationen erwirkt wurden (so auch OLG Köln, v. 3.1.2019, 18 U 70/18). Es liegt insoweit auch ein Mangel des Fahrzeugs vor (vgl. nur OLG München v. 23.3.2017, 3 U 4316/16, in RAW 2017, 134; BGH, Beschluss vom 8.1.2019, VIII ZR 225/17), der einen entsprechenden Vermögensschaden begründet. Das sogenannte Softwareupdate lässt diesen Schaden nicht entfallen (vgl. instruktiv OLG Köln v. 3.1.2019, 18 U 70/18). Der Kläger bekundete darüber hinaus in der mündlichen Hauptverhandlung glaubhaft, dass seit der Durchführung des Updates am 25.1.2017 der Verbrauch auf 100 Kilometer um 1 bis 1,5 Liter angestiegen, und das Fahrzeug auch an "Spritzigkeit" verloren hat.2. Auch der subjektive Tatbestand ist erfüllt.Schädigungsvorsatz setzt voraus, dass durch die Handlung/Unterlassung einem anderen Schaden zugefügt wird. Ausreichend ist, dass der Schädiger spätestens im Zeitpunkt des Schadenseintritts Art und Richtung des Schadens und die Schadensfolgen vorausgesehen und die Schädigung jedenfalls im Sinne eines bedingten Vorsatzes billigend in Kauf genommen hat (BGH NJW 17, 250). Subjektiv ist darüber hinaus eine Kenntnis der Tatumstände erforderlich, die eine Sittenwidrigkeit begründen (BGH NJW 17, 250).Die Kenntnis der vorstehenden Manipulation (unter 1.) in systematischer Weise begründet die Kenntnis der Sittenwidrigkeit. Es begründet darüber hinaus jedenfalls die sichere Kenntnis der Möglichkeit, dass die Manipulation aufgedeckt und offenbar wird, dass das Fahrzeug nicht die Zulassungskriterien erfüllt. Folgen wie Wertverlust und möglicher Entzug der Zulassung bzw. Probleme im Zusammenhang mit einer unsicheren Rechtslage, die beim Eigentümer/Halter auflaufen, lassen sich von dort aus leicht vorhersehen. Diese Kenntnis musste sich auf Erstkäufer, aber auch zwingend auf solche, die belastete Fahrzeuge gebraucht erwarben, beziehen: die technischen Voraussetzungen sind insoweit die exakt gleichen.3. Das sittenwidrige, vorsätzliche Handeln war der Beklagten auch zuzurechnen. Ihr ist jedenfalls vorzuwerfen, dass nach Kenntniserlangung durch ein Vorstandsmitglied die Kenntnis von der Manipulationssoftware nicht offenbart wurde. Aus den vorhergehenden Manipulationen resultierte eine entsprechende Aufklärungspflicht (vgl. Heese, NJW 2019, 261). Das Unterlassen der Aufklärung konnte sich somit auch kausal auf den Kaufentschluss des Klägers auswirken und tat dies auch: der Kläger bekundete in der mündlichen Hauptverhandlung glaubhaft, dass er das Fahrzeug nicht erworben hätte, wenn er von den Problemen, insbesondere dem höheren Treibstoffverbrauch nach dem Update, gewusst hätte.Eine Schädigungshandlung, die im Rahmen des § 826 BGB erforderlich ist, muss von einer natürlichen Person vorgenommen werden. Damit eine solche Schädigungshandlung einer juristischen Person wie der Beklagten zugerechnet werden kann, bedarf es hierfür gemäß § 31 BGB der Kenntnis und der bewussten Täuschungshandlung eines ihrer Organe bzw. verfassungsmäßig berufenen Vertreters (siehe zu diesem Begriff BGHZ 49, 19 (21)). Unabhängig davon, welche konkrete Täuschung der Beklagten zu 2) vorgeworfen werden könnte, stellt der Bundesgerichtshof in seiner Entscheidung vom 28.06.2016 (VI ZR 536/15 Tz. 28 m.z.w.N.) fest, dass die Kenntnis anderer Angehöriger der juristischen Person dieser nicht zugerechnet werden kann. Erforderlich ist konkreter Vortrag, welches Organmitglied oder welcher Repräsentant wann und auf welcher Grundlage was gewusst haben soll (so auch OLG München, Beschluss vom 25.07.2017, Az. 13 U 566/17).Diesen Anforderungen genügt der klägerische Sachvortrag.Der Kläger hatte bereits in der Klageschrift ausgeführt, dass die Beklagte auf eine "Betrugssoftware" zurückgriff, der Entwicklungsvorstand, He.-Ja. Ne., ab 2011 davon wusste und 2012 deren Genehmigung verbesserte (Bl. 23 d.A.). Der Kläger trägt weiter unter Bezug auf das "plea agreement" vor, dass die als "Vorgesetzter A" und "Vorgesetzter E" bezeichneten He.-Ja. Ne. und Be. Go. die Ingenieure der Abteilung für Motorentwicklung im Juli 2012 anwiesen, ein Dokument zu vernichten, in dem diese niedergelegt hatten, wie die Abschaltvorrichtung arbeitete. Die Vorbenannten Ne. und Go. taten dies, obwohl sie den Zweck und die Bedeutung der Software verstanden. Der Kläger bringt diesen Vortrag im Zusammenhang mit der bei dem streitgegenständlichen Fahrzeug verwendeten Motorsteuerungssoftware und behauptet, der Wechsel zwischen "Modus 0" und "Modus 1" sei in manipulativer Absicht programmiert worden.Die Beklagte ist auf diesen konkreten Vortrag nicht näher eingegangen, obwohl ihr eine Darstellung der innerbetrieblichen Abläufe möglich wäre. Der pauschale Verweis auf die laufenden Ermittlungen genügt nunmehr, mehrere Jahre nach Beginn der Ereignisse, nicht mehr. Zwar ist zutreffend, dass der Kläger sich grundsätzlich nicht auf Beweiserleichterungen im Sinne einer sekundären Darlegungslast durch die Beklagte in der Weise stützen kann, dass es ausreichte, pauschale Angaben zu Betrugsvorwürfen zu machen und die Beklagte hierauf verpflichtet sei, umfassend zu erwidern. Dies stellte letztendlich eine Art ausforschenden Vortrag dar, den die Prozessordnung nicht vorsieht. Vielmehr hängt das Ausmaß der sekundären Darlegungslast vom gegnerischen Vortrag ab (BGH NJW-RR 1998, 712), Wenn sich dieser als hinreichend konkret erweist, muss die Beklagte substantiiert erwidern. Dies ist hier der Fall.Der Abschluss des streitgegenständlichen Kaufvertrags fällt auch zusammen mit dem Zeitpunkt, in dem die zurechenbare Kenntnis eines Vorstandsmitglieds vorlag, nämlich vor September 2014.4. Als Rechtsfolge ist der Kläger so zu stellen, als hätte er das ihn benachteiligende Geschäft nicht getätigt. Die Beklagte hat ihm daher den gezahlten Kaufpreis Zug-um-Zug gegen Übergabe und Übereignung des Fahrzeugs zu erstatten (vgl. OLG Köln, a.a.O). Die während der Besitzzeit gezogenen Nutzungen sind zu erstatten (BGH NJW 06, 1582; Grüneberg, in: Palandt-BGB, 78. A. 2018, v. § 249 Rn 94 m.w.N.).Die Nutzungsentschädigung berechnet sich ausgehend von einer vom Gericht gem. § 287 ZPO geschätzten Gesamtlaufleistung des streitgegenständlichen Fahrzeugs von 300.000 Kilometern wie folgt;Bruttokaufpreis × zurückgelegte Fahrstrecke/voraussichtliche Restlaufleistung bei Kauf13.500 € × (87433: 252.640) = 4.672,05 €(Die zurückgelegte Fahrtstrecke errechnet sich anhand der Angaben in der Anlage K1, sowie den unstreitigen Angaben des Klägers in der Hauptverhandlung: 134.793 - 47360)5. Der Ausspruch zu den vorgerichtlichen Rechtsanwaltsgebühren beruht auf §§ 826, 249 Abs. 1 BGB. Der Zinsausspruch beruht auf §§ 280, 291, 849 BGB (siehe hierzu BGH NJW 2018, 2479).6. Soweit der Kläger die Feststellung des Annahmeverzugs begehrt, war die Klage abzuweisen, da der Kläger davon ausging, keinen Nutzungsersatz zu schulden, er seinerseits die von ihm begehrte Leistung nicht in dieser Höhe fordern konnte.III.Die Kostenentscheidung beruht auf § 92 Abs. 1 S. 1 ZPO, die Entscheidung zur vorläufigen Vollstreckbarkeit auf § 709 S. 1, S. 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2294652.html (https://oj.is/2294652)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate8
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

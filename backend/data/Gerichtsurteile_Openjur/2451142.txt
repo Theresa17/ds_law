@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 28.09.2021 - 2 O 48/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 28.09.2021 - 2 O 48/21
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 28.09.2021 - 2 O 48/21 = openJur 2022, 17817
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 28.09.2021 - 2 O 48/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 17817
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger trägt die Kosten des Rechtsstreits.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten um Ansprüche des Klägers gegen die Beklagte nach dem Erwerb eines Dieselfahrzeuges.Der Kläger erwarb das streitgegenständliche Fahrzeug, einen A B 2.0 mit der Fahrzeugidentifikationsnummer (FIN) XXXXX...X...#, am 18.02.2013 als Neufahrzeug von einem Händler zu einem Preis von 22.990,00 EUR brutto (Anlage K1, Bl. 86 d.A.). Der Kläger finanzierte den Kaufpreis über fünf Jahre mittels eines Darlehens bei der A Bank. Die in diesem Zusammenhang angefallenen Kreditkosten betrugen 741,48 EUR (Anlage K1a, Bl. 88 d.A.).Zur Verminderung von Stickoxid (NOx) wird seit vielen Jahren bei Dieselmotoren eine Abgasrückführung vorgenommen. Bei der Verbrennung entsteht durch Sauerstoff und Stickstoff NOx. Ausgetretenes Abgas aus dem Auslassbereich des Motors wird durch ein Abgasrückführungsventil wieder in den Ansaugtrakt des Motors zurückgeleitet. Das zurückgeleitete Abgas ersetzt einen Teil der erforderlichen Frischladung, die es zur Verbrennung braucht. Das zurückgeleitete Abgas verlässt den Motor nicht, bleibt also im Kreislauf. Im Ergebnis führt das zu geringeren NOx-Emissionen.Für die Erlangung einer nach der VO (EG) Nr. 715/2007 erforderlichen Typengenehmigung müssen Fahrzeuge den sogenannten Neuen Europäischen Fahrzyklus absolvieren (im Folgenden: NEFZ). Beim NEFZ handelt es sich um einen gesetzlich vorgegebenen Testlauf, der aus fünf synthetischen Fahrkurven besteht. Dabei werden bei Testfahrzeugen unter Laborbedingungen die für die Erlangung einer Typengenehmigung maßgeblichen Abgaswerte gemessen.Die Beklagte ist Entwicklerin und Herstellerin des in dem Fahrzeug verbauten Dieselmotors des Typs XX...#. In dem Fahrzeug des Klägers wie auch in anderen Fahrzeugen mit demselben Motortyp wurde eine Software eingesetzt, die zwei unterschiedliche Betriebsmodi zur Steuerung der Abgasrückführung kennt. Im Modus 1, der im NEFZ aktiviert wird, kommt es zu einer erhöhten Abgasrückführung und damit zu einem reduzierten Schadstoffausstoß. In diesem Modus halten die Fahrzeuge mit dem Motor XX...# die Vorgaben des NEF-Zyklus ein. Unter normalen Fahrbedingungen im Straßenverkehr ist hingegen der Modus 0 aktiv, in dem es zu einer verringerten Abgasrückführung und einem deutlich erhöhten Schadstoffausstoß kommt. Gäbe es bei dem Fahrzeug nur diesen im Straßenbetrieb aktiven Modus, würde das Fahrzeug im Prüfstand die Grenzwerte nicht einhalten. Die Beklagte brachte den Motor in Verkehr, ohne die Verwendung dieser Software offenzulegen.Am 22.09.2015 informierte die Beklagte die Öffentlichkeit erstmals durch die Veröffentlichung einer Pressemitteilung bzw. adhoc Mitteilung über den Einsatz der Software. Am selben Tag informierte die Beklagte ihre Vertriebspartner über den Einsatz der Software. Ab dem 22.09.2015 wurde hierüber auch in allen Medien berichtet. Anfang Oktober 2015 richteten die Beklagte sowie weitere Konzernmarken eine sogenannte FIN-Abfrage ein, mit der es möglichen Betroffenen unter Eingabe der FIN ihres Fahrzeugs möglich war, herauszufinden ob dieses betroffen ist.Mit Bescheid gegenüber der Beklagten vom 15. Oktober 2015 ordnete das Kraftfahrtbundesamt die Entfernung der als unzulässige Abschalteinrichtung bewerteten Software sowie Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit der Fahrzeuge an. Der Bescheid wurde bestandskräftig. In Absprache mit dem Kraftfahrtbundesamt wurde in diesem Zusammenhang ein Software-Update entwickelt, wonach der Motor auch im Straßenverkehr in einem entsprechend der technischen Entwicklung adaptierten Modus 1 verbleibt. Im Februar 2016 wurden die Halter der betroffenen Fahrzeuge von der Beklagten und deren Tochtergesellschaften angeschrieben und über die Rückrufaktion informiert.Das Software-Update wurde auf das klägerische Fahrzeug aufgespielt. Im Rahmen des Software-Updates wurde auch ein sogenanntes Thermofenster, das die Abgasrückführung in einem bestimmten Temperaturbereich verringert, installiert. Dessen genaue Funktion und Zulässigkeit sind zwischen den Parteien streitig.Mit Schreiben vom 12.08.2020 forderten die Prozessbevollmächtigten des Klägers unter Bezugnahme auf eine Bevollmächtigung durch Frau Z Z - Z die Beklagte auf, bis zum 19.08.2020 den Kaufpreis für das Fahrzeug in Höhe von EUR 22.990,00 + Darlehenszinsen in Höhe von EUR 741,48 abzgl. einer auf der Basis des aktuellen Kilometerstands in Höhe von 89.000 km zu ermittelnden Nutzungsentschädigung Zugum-Zug gegen Übergabe und Übereignung des vorbezeichneten Fahrzeugs zu erstatten (Anlage K13, Bl. 271 d.A.).Der Kläger schloss sich der Musterfeststellungsklage gegen die Beklagte, OLG Braunschweig 4 MK 1/18, nicht an. Bei Klageverfassung wies das streitgegenständliche Fahrzeug einen Kilometerstand von 89.000 km auf. Am Tag der mündlichen Verhandlung betrug der Kilometerstand 98.279 km.Der Kläger behauptet, er hätte das Fahrzeug nicht erworben, wenn er gewusst hätte, dass es mit einer nicht gesetzeskonformen Motorsteuerungssoftware ausgestattet ist. Von dem Einsatz der Software in der Motorsteuerung habe der Vorstand der Beklagten zumindest gewusst. Der Kläger hingegen habe von dem Einsatz der Software keine Kenntnis gehabt und hätte eine solche Kenntnis auch nicht haben müssen. Vielmehr sei es ihm bis zur höchstrichterlichen Entscheidung vom 25.05.2020 unzumutbar gewesen, eine Klage gegen die Beklagte anzustrengen. Durch das Software-Update komme es zudem zu Folgemängeln und es sei ein erneuter Rückruf zu befürchten. Es seien neue Abschalteinrichtungen in Form eines Thermofensters, einer drehmoment- bzw. drehzahlgesteuerten Abschaltung sowie einer Manipulation des OBD-Systems implementiert worden. Er ist der Ansicht, ihm stünden Schadensersatzansprüche, jedenfalls aber ein Anspruch aus § 852 BGB zu. Mit dem Hilfsantrag begehrt er für den Fall, dass das Gericht die Auffassung vertreten sollte, die Beklagte könne sich trotz der Regelung des § 819 BGB auf Entreicherung berufen, die bei der Beklagten verbliebenen Vermögensvorteile.Der Kläger beantragt unter teilweiser Erledigungserklärung im Übrigen, der sich die Beklagte nicht angeschlossen hat, zuletzt,1. die Beklagte zu verurteilen, an ihn 22.990,00 EUR zuzüglich Finanzierungskosten in Höhe von EUR 741,48 nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 20.08.2020 abzüglich einer Nutzungsentschädigung in Höhe von 7.531,45 EUR Zugum-Zug gegen Rückgabe und Übereignung des Fahrzeuges A B 2.0 mit der Fahrgestellnummer XXXXX...X#X...# zu zahlen;2. festzustellen, dass sich die Beklagte seit dem 20.08.2020 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befindet;3. die Beklagte zu verurteilen, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.234,24 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 20.08.2020 zu zahlen.Hilfsweise zum Antrag zu 1) beantragt er,die Beklagte zu verurteilen, an ihn 5.747,50 EUR zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte erhebt die Einrede der Verjährung. Sie behauptet, dass der Kläger bereits im Jahr 2015 positive Kenntnis von der generellen XX...#-Thematik als auch seiner individuellen Betroffenheit gehabt habe oder hätte haben müssen. Ferner hätte der Kläger das streitgegenständliche Fahrzeug auch bei Kenntnis der Abschalteinrichtung gekauft. Durch das Aufspielen des Softwareupdates werde, wie vom Kraftfahrtbundesamt bestätigt, die Umschaltlogik jedenfalls entfernt, ohne dass negative Auswirkungen aufträten. Die Ausgestaltung des Thermofensters sei aus Gründen des Motorschutzes und zum sicheren Betrieb des Fahrzeugs erforderlich.Die Klageschrift vom 04.02.2021 ist der Beklagten am 02.03.2021 zugestellt worden. Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die wechselseitigen Schriftsätze der Parteien nebst Anlagen sowie das Protokoll der mündlichen Verhandlung vom 24.08.2021 ergänzend Bezug genommen. 
+				Gründe
+				Die Klage ist unbegründet.I.Der Kläger hat gegen die Beklagte weder einen Anspruch auf Rückzahlung des Kaufpreises Zugum-Zug gegen Herausgabe und Übereignung des Fahrzeuges unter Anrechnung einer Nutzungsentschädigung noch hilfsweise auf Zahlung von 5.747,50 EUR. Weil die Klage von Vornherein unbegründet war, hat er auch keinen Anspruch auf die Feststellung, dass teilweise Erledigung eingetreten ist.Die Ansprüche stehen dem Kläger unter keinem rechtlichen Gesichtspunkt zu. Etwaige Schadensersatzansprüche sind verjährt. Ein Anspruch gemäß § 852 BGB auf Restschadensersatz gegen die Beklagte scheidet in der vorliegenden Konstellation aus.1.Der Kläger kann aus dem Inverkehrbringen des ursprünglich von der Beklagten hergestellten, mit der Umschaltlogik ausgerüsteten Motors XX...# keine Ansprüche mehr herleiten, weil diese verjährt sind.Die allein in Frage kommenden deliktischen Schadenersatzansprüche des Klägers unterliegen gemäß §§ 195, 199 Abs. 1 BGB einer dreijährigen Verjährungsfrist, die mit dem Schluss des Jahres beginnt, in dem der Anspruch entstanden ist und der Gläubiger von den anspruchsbegründenden Umständen und der Person des Schuldners Kenntnis erlangt hat oder ohne grobe Fahrlässigkeit hätte erlangen müssen.Mit dem Erwerb des streitgegenständlichen Fahrzeugs im Jahr 2013 entstanden die in Frage kommenden Ansprüche des Klägers. Von den seine Ansprüche begründenden Umständen hätte der Kläger jedenfalls spätestens im Jahr 2016 Kenntnis erlangen müssen, sodass die dreijährige Verjährungsfrist zum 31.12.2019 ablief, weil der Kläger keine verjährungshemmenden Maßnahmen ergriffen hat.Der Kläger hat den Erhalt des persönlichen Anschreibens der Beklagten zur Information über die Durchführung des Software-Updates im Rahmen des Rückrufs im Verlauf des Jahres 2016 nicht in Abrede gestellt. Danach musste er selbst in Unkenntnis der zu diesem Zeitpunkt allgegenwärtigen Presseberichterstattung zum sogenannten Abgasskandal davon ausgehen, dass sein Fahrzeug ebenfalls hiervon betroffen ist, weil der Kläger ansonsten die im Verkehr erforderliche Sorgfalt in besonders hohem Maße verletzt hätte, sich mithin grob fahrlässig den Tatsachen verschlossen hätte. Auf die tatsächliche Kenntniserlangung durch den Kläger kam es deswegen nicht mehr an.Soweit sich der Kläger darauf beruft, dass ihm die Erhebung der Klage bis zur Grundsatzentscheidung des Bundesgerichtshofs zum YY-Abgasskandal vom 25.05.2020, VI ZR 252/19, nicht zugemutet werden konnte, kann dem nicht gefolgt werden. Denn nach der ständigen höchstrichterlichen Rechtsprechung, der sich die erkennende Kammer anschließt, ist es für den Beginn des Laufs der Verjährungsfrist nicht erforderlich, dass der Geschädigte risikolos Klage erheben kann. Vielmehr reicht es aus, wenn ihm die Erhebung einer Schadensersatzklage, sei es auch nur in Form der Feststellungsklage Erfolg versprechend möglich ist. Dabei ist weder notwendig, dass der Geschädigte alle Einzelumstände kennt, die für die Beurteilung möglicherweise Bedeutung haben, noch muss er bereits hinreichend sichere Beweismittel in der Hand haben (vgl. zuletzt BGH, Urteil v. 17.12.2020 - VI ZR 739/20, BeckRS 2020, 37753 Rn. 8). Auch danach hätte der Kläger vorliegend spätestens im Jahr 2016 die notwendige Tatsachenkenntnis zur Klageerhebung gehabt.Der Kläger kann sich auch nicht mit Erfolg auf eine Hemmung der Verjährung nach § 204 Abs. 1 Nr. 1a BGB berufen. Eine Anmeldung zur Musterfeststellungsklage erfolgte nicht.Schließlich ist es nicht treuwidrig, sich auf die Einrede der Verjährung zu berufen. Insoweit erforderliche herausragende Umstände im Einzelfall, die eine Loslösung von der gesetzlichen Regelungssystematik rechtfertigen würden, hat der Kläger bereits nicht dargetan. Die alleinige Heranziehung der haftungsbegründenden Umstände kann hier nicht genügen.2.Diesbezüglich scheidet auch ein Anspruch des Klägers gegen die Beklagte auf Auskehr des sogenannten Restschadens gemäß § 852 BGB aus. Dabei kann dahinstehen, ob der Kläger die Höhe des Anspruchs hinreichend dargelegt hat, weil dieser jedenfalls dem Grunde nach nicht besteht.Gemäß § 852 BGB ist der Ersatzpflichtige auch nach Eintritt der Verjährung des Anspruchs auf Ersatz des aus einer unerlaubten Handlung entstandenen Schadens zur Herausgabe nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung verpflichtet, wenn er durch eine unerlaubte Handlung auf Kosten des Verletzten etwas erlangt hat.Erforderlich für den Anspruch aus § 852 BGB ist, dass das erlangte Etwas vom Ersatzpflichtigen auf Kosten des Verletzten erlangt worden sein muss. Dazu muss der Zufluss beim Ersatzpflichtigen mit einem entsprechenden Nachteil - in Form eines Abflusses oder eines entgangenen Zuflusses - beim Geschädigten korrespondieren, wobei es unerheblich ist, ob der Zufluss unmittelbar und ohne Zwischenschritte aus dem Vermögen des Geschädigten zum Ersatzpflichtigen erfolgte. Entscheidend ist allein ein Zusammenhang des Zuflusses mit dem Schaden des Verletzten (vgl. BeckOGK/Eichelberger, Stand 01.12.2020, BGB § 852 Rn. 19 f.).In der vorliegenden Konstellation ist dies nicht anzunehmen. Der Schaden des Klägers - hier die täuschungsbedingte Eingehung einer ungewollten vertraglichen Verpflichtung - kann bereits nicht mit dem Gewinnzufluss der Beklagten in Übereinstimmung gebracht werden. Denn die Bereicherung bzw. der Vermögenszuwachs der Beklagten liegt in dem durch den Verkauf des streitgegenständlichen Fahrzeugs erzielten Gewinn (erzielter Kaufpreis abzüglich der Händlermarge). Der Schaden des Klägers hingegen besteht nicht in dem durch die Beklagten erzielten Gewinn, sondern in dem Abschluss eines Vertrages, den er bei Kenntnis um die Manipulationssoftware nicht abgeschlossen hätte. Diese Eingehung einer ungewollten Verbindlichkeit kann über § 852 BGB jedoch nicht rückgängig gemacht werden (vgl. hierzu auch OLG Oldenburg, Hinweisbeschluss v. 05.01.2021 - 2U 168/20, BeckRS 2021, 1641 Rn. 18). Für eine mangelnde Korrespondenz spricht überdies auch, dass sich der Schaden des Klägers mit jedem Kilometer den er mit dem streitgegenständlichen Fahrzeug zurücklegt, laufend verändert, der bei der Beklagten entstandene Vermögenszuwachs jedoch stets unverändert bleibt.3.Schließlich hat der Kläger unter keinem rechtlichen Gesichtspunkt einen Anspruch auf Schadensersatz gegen die Beklagte im Hinblick auf das zwischenzeitlich aufgespielte Software-Update. Insbesondere besteht kein deliktischer Anspruch gemäß § 826 BGB. In dem Inverkehrbringen des Software-Updates kann keine neuerliche sittenwidrige Schädigung erkannt werden.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann. Schon zur Feststellung der Sittenwidrigkeit kann es daher auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen. Die Verwerflichkeit kann sich auch aus einer bewussten Täuschung ergeben (vgl. insgesamt BGH, Urteil vom 25.05.2020, VI ZR 252/19, Rn. 15 ff. m.w.N. - zitiert nach juris).Danach ist ein (erneutes) sittenwidriges Verhalten der Beklagten nicht anzunehmen. Es kann dahinstehen, ob das unstreitig verwendete Thermofenster nach Art. 5 Abs. 2 Nr. 1 VO (EG) 715/2007 zulässig ist und in der Ausgestaltung des OBD-Systems überhaupt denklogisch eine Abschalteinrichtung gesehen werden kann. Insgesamt hat sich die Beklagte bezüglich sämtlicher von der Klägerseite behaupteten Abschalteinrichtungen jedenfalls nicht sittenwidrig verhalten. Denn in der Freigabebestätigung vom 1. Juni 2016 hat das KBA als zuständige Behörde das ihm vorgestellte Software-Update akzeptiert und ausdrücklich ausgeführt, dass keine unzulässige Abschalteinrichtung festgestellt wurde und dass die vorhandenen Abschalteinrichtungen als zulässig eingestuft wurden. Hält danach die zuständige Behörde die ausgemachten Abschalteinrichtungen für zulässig, hat die Beklagte die Fahrzeughalter (im Unterschied zu der seinerzeit verschwiegenen unzulässigen Umschaltlogik) nicht (nochmals) der Gefahr einer drohenden Betriebsbeschränkung oder -untersagung ausgesetzt (vgl. OLG Celle, Urteil vom 29. Januar 2020 - 7 U 575/18 -, Rn. 51, zitiert nach juris). Daneben durfte die Beklagte aufgrund der Zusammenarbeit mit dem KBA dann auch von der Rechtmäßigkeit ihres Handels ausgehen. Abschalteinrichtungen, worunter beispielsweise auch ein Thermofenster zunächst einmal fallen kann, sind nicht per se gesetzeswidrig, sondern in bestimmten Fällen durchaus erlaubt, Artikel 5 Abs. 2 Nr. 1 VO (EG) 715/2007. Dabei ist durch Auslegung zu ermitteln, welche Vorrichtungen von der Norm erfasst und mithin zulässig sind. Wenn aber ein dementsprechendes Verständnis der Regelung wie vorliegend vertretbar ist, liegt kein sittenwidriges und vorsätzliches Verhalten der Beklagten vor (vgl. OLG Köln, Beschluss vom 04.07.2019 - 3 U 148/18; Beschluss vom 18.05.2020 - 16 U 270/19; OLG Stuttgart, Urteil vom 30.07.2019 - 10 U 134/19; OLG Koblenz, Urteil vom 09.12.2019 - 12 U 555/19).II.Annahmeverzug ist nicht eingetreten, denn der Kläger hat die Rückgabe des Fahrzeugs nur im Rahmen eines von ihm angenommenen, in Wirklichkeit aber nicht bestehenden Anspruchs angeboten.III.Die geltend gemachten Nebenforderungen - Zinsen sowie vorgerichtliche Rechtsanwaltskosten - teilen das Schicksal der unbegründeten Hauptforderung.IV.Die prozessualen Nebenentscheidungen folgen aus § 91 Abs. 1 ZPO und § 709 ZPO.Der Streitwert beläuft sich auf bis 19.000,00 EUR (16.169,63 EUR + 741,48 EUR).Rechtsbehelfsbelehrung:Gegen die Streitwertfestsetzung ist die Beschwerde an das Landgericht Bonn statthaft, wenn der Wert des Beschwerdegegenstandes 200,00 EUR übersteigt oder das Landgericht die Beschwerde zugelassen hat. Die Beschwerde ist spätestens innerhalb von sechs Monaten, nachdem die Entscheidung in der Hauptsache Rechtskraft erlangt oder das Verfahren sich anderweitig erledigt hat, bei dem Landgericht Bonn, Wilhelmstr. 21, 53111 Bonn, schriftlich in deutscher Sprache oder zur Niederschrift des Urkundsbeamten der Geschäftsstelle einzulegen. Die Beschwerde kann auch zur Niederschrift der Geschäftsstelle eines jeden Amtsgerichtes abgegeben werden. Ist der Streitwert später als einen Monat vor Ablauf dieser Frist festgesetzt worden, so kann die Beschwerde noch innerhalb eines Monats nach Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses eingelegt werden.Hinweis zum elektronischen Rechtsverkehr:Die Einlegung ist auch durch Übertragung eines elektronischen Dokuments an die elektronische Poststelle des Gerichts möglich. Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet und mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg gemäß § 130a ZPO nach näherer Maßgabe der Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach (BGBl. 2017 I, S. 3803) eingereicht werden. Weitere Informationen erhalten Sie auf der Internetseite www.justiz.de.
+			
+			
+			
+			Permalink: https://openjur.de/u/2451142.html (https://oj.is/2451142)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

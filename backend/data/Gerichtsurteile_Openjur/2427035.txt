@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG IngolstadtRechtsprechungEndurteil vom 27.07.2020 - 61 O 1711/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Ingolstadt, Endurteil vom 27.07.2020 - 61 O 1711/19
+                      m. Fundstelle
+                      LG Ingolstadt, Endurteil vom 27.07.2020 - 61 O 1711/19 = openJur 2022, 21301
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Ingolstadt, Endurteil vom 27.07.2020 - 61 O 1711/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 21301
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Das Versäumnisurteil vom 03.02.2020 wird mit der Maßgabe aufrechterhalten, dass sich seine vorläufige Vollstreckbarkeit nach diesem Urteil richtet.2. Der Kläger hat die weiteren Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des zu vollstreckenden Betrages vorläufig vollstreckbar. Die Vollstreckung aus dem Versäumnisurteil darf nur gegen Leistung dieser Sicherheit fortgesetzt werden. 
+				Tatbestand
+				Die Klagepartei begehrt Rückzahlung des Kaufpreises für ein angeblich mit unzulässigen Abschalteinrichtungen versehenes Fahrzeug nebst Zinsen Zugum-Zug gegen Rückgabe des Fahrzeugs an die Beklagte.Die Klagepartei erwarb am 15.03.2016 einen Audi A3 Sportback 2.0 TDI mit der FIN W...45 beim Autohaus ... in M. zu einem Kaufpreis von EUR 27.400,00 brutto. Das Fahrzeug war ein Gebrauchtwagen und wies zum Kaufzeitpunkt einen Kilometerstand von 7.963 km auf. Es hat die Schadstoffklasse Euro 6 bzw. Euro 6 plus. Die Beklagte hat das Fahrzeug hergestellt. Das Fahrzeug ist mit einem Dieselmotor der Baureihe EA 288 ausgestattet. Bei der Baureihe EA 288 handelt es sich um die Nachfolgebaureihe zu der vom sog.,,Abgasskandal" betroffenen Baureihe EA 189. Betreffend die Baureihe EA 288 gibt es - anders als betreffend die Baureihe EA 189 - keinen Bescheid des Kraltfahrtbundesamts bzw. einer anderen zuständigen Genehmigungsbehörde (,,KBA"), der das Vorliegen einer unzulässigen Abschalteinrichtung feststellt. Das Fahrzeug ist dementsprechend auch von keiner Maßnahme betroffen und unterliegt auch keinem Rückruf.Mit Schreiben ihrer Prozessbevollmächtigten vom 02.04.2019 forderte die Klagepartei die Beklagte unter Fristsetzung bis zum 09.04.2019 auf, ihr den Kaufpreis gegen Rückgabe des Fahrzeugs abzüglich einer Nutzungsentschädigung zu erstatten. Die Beklagte kam dem nicht nach. Das Fahrzeug wies am 22.06.2020, dem Tag des Schlusses der mündlichen Verhandlung, einen Kilometerstand von 84.590 km auf. Es verfügt über einen NOx-Speicherkatalysator (NSK) jedoch keinen SCR-Katalysator.Die Klagepartei behauptet im wesentlichen,das Fahrzeug sei vom sog. "Abgasskandal" betroffen. Es sei mit einer illegalen Abschalteinrichtung versehen, um im Falle eines Abgastests die zulässigen Abgaswerte zu erreichen.Die sog. "Akustikfunktion" der EA 189 - Motoren sei auf die EA 288 - Motoren übertragen worden. Die Emissionsbehandlung erfolge dabei unterschiedliche je nachdem, ob sich das Fahrzeug im NEFZ im Modus 1 oder im Normalbetrieb im Modus 0 befinde. Die Motorsteuerung erkenne den NEFZ-Prüfzyklus und schalte die Abgasrückführung im Normalbetrieb ab. Die Motorsteuerung knüpfe dabei ausschließlich an die Feststellung des NEFZ an, ziele also bewusst auf eine Steuerung der Emissionen für den Ausnahmefall der Genehmigungsprüfung. Neben der von den EA 189 - Motoren bekannten Abschalteinrichtung verfügten die Motoren der Baureihe EA 288 auch noch über ein sog. Thermofenster. Die Klagepartei habe darauf vertraut, dass das Fahrzeug den gesetzlichen Bestimmungen entspreche. Anhaltspunkte für das Vorliegen der unzulässigen Abschalteinrichtung bei den EA 288 - Motoren ergäben sich zudem aus einer Entscheidungsvorlage der Beklagten zu den EA 288 - Motoren, aus gemessener Überschreitung der Grenzwerte auf der Straße sowie aus der Parallele zu den EA 189 - Motoren.In der mündlichen Verhandlung vom 03.02.2020 erging auf Antrag der Beklagten ein klageabweisendes Versäumnisurteil, nachdem der Prozessbevollmächtigte des Klägers keinen Antrag gestellt hatte. Der Beklagte hat gegen das am 05.02.2020 zugestellte Versäumnisurteil am 19.02.2020 form- und fristgerecht Einspruch eingelegt.Der Kläger beantragt zuletzt,Das Versäumnisurteil vom 03.02.2020 wird aufgehoben.Die Beklagte wird verurteilt, an die Klagepartei 27.400,00 € nebst Zinsen in Höhe von 4% seit dem 16.03.2016 bis 09.04.2019 und seither 5 Prozentpunkten über dem Basiszinssatz abzüglich einer auf 6.138,46 € zu beziffernden Nutzungsentschädigung Zug um Zug gegen Rückgabe und Übereignung des Fahrzeugs Audi A3 mit der Fahrgestellnummer ...45 zu zahlenEs wird festgestellt, dass sich die Beklagte seit dem 10.04.2019 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befindetDie Beklagte wird verurteilt, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 2.077,74 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 10.04.2019 zu zahlen.Die Beklagte beantragtDas Versäumnisurteil aufrechtzuerhalten und die Klage abzuweisen.Die Beklagte trägt im wesentlichen vor, dass der Motor des Fahrzeugs keine unzulässige Abschalteinrichtung enthalte. Der Vortrag der Klagepartei sei insoweit unsubstantiiert und ins Blaue hinein. Das KBA habe die EA 288 - Motoren untersucht und festgestellt, dass diese nicht die aus den EA 189 - Motoren bekannte Umschaltlogik enthielten. Es werde auf dem Prüfstand auch kein optimierter Modus angewendet. Der Einsatz eines Thermofensters stelle keine unzulässige Abschalteinrichtung dar.Wegen des weiteren Vorbringens wird auf die zwischen den Parteien gewechselten Schriftsätze Bezug genommen. ln der mündlichen Verhandlung vom 03.02.2020 hat das Gericht die Klagepartei persönlich angehört. Wegen der Einzelheiten der mündlichen Verhandlung wird auf das Sitzungsprotokoll Bezug genommen. 
+				Gründe
+				A.Der Einspruch ist zulässig, insbesondere form- und fristgerecht eingelegt.In der Sache hat er jedoch keinen Erfolg.I. Die Klage ist zulässig.Die örtliche Zuständigkeit des Gerichts folgt aus § 17 ZPO.II. Die zulässige Klage ist aber unbegründet.Die Klagepartei hat gegen die Beklagte keinen Anspruch auf Rückzahlung des Kaufpreises nebst Zinsen, auch nicht Zugum-Zug gegen Rückgabe des Fahrzeugs und Anrechnung einer Nutzungsentschädigung (1).Der Klagepartei stehen die geltend gemachten Ansprüche gegen die Beklagte unter keinem rechtlichen Gesichtspunkt zu. Die tatsächlichen Voraussetzungen einer mangels vertraglicher Beziehung zwischen den Parteien allein denkbaren deliktischen Haftung der Beklagten sind von der Klagepartei nicht schlüssig vorgetragen.Aus diesem Grund befindet sich die Beklagte auch nicht mit der Rücknahme des Fahrzeugs in Annahmeverzug (2).1. Ein Anspruch nach § 826 BGB besteht nicht.Nach § 826 BGB ist zum Schadensersatz verpflichtet, wer einem anderen in einer gegen die guten Sitten verstoßenden Weise vorsätzlich Schaden zufügt.Die Klagepartei hat die Voraussetzungen des von ihr geltend gemachten Anspruchs nach § 826 BGB nicht schlüssig vorgetragen.Sowohl der Vortrag der Klagepartei, das Fahrzeug sei mit diversen unzulässigen Abschalteinrichtung wie bei den EA 189 - Motoren ausgestattet, als auch der Vortrag der Klagepartei, das Fahrzeug enthalte ein unzulässiges Thermofenster, begründen keine Ansprüche gegen die Beklagte, weil er als Vortrag ,,ins Blaue hinein" anzusehen ist bzw. weil die Klagepartei den Vorsatz der Beklagten nicht dargelegt hat.a) Die Klagepartei bringt vor, der Motor des streitgegenständlichen Fahrzeugs enthalte eine illegale Abschalteinrichtung die derjenigen der EA 189 - Motoren entspreche, auch wenn es sich um einen Motor einer anderen Baureihe handele.Hierzu verweist die Klagepartei auf die allgemein bekannte Funktionsweise der Software in den EA 189 - Motoren, die den Schadstoffausstoß gezielt manipuliere, in dem sie erkenne, ob das Fahrzeug auf einem Prüfstand oder im allgemeinen Straßenverkehr betrieben werde, und bei einer Fahrzeugnutzung auf einem Prüfstand den Schadstoffausstoß zur gezielten Veränderung des Prüfergebnisses durch Umschaltung auf einen hierfür programmierten Modus verringere Dieser Sachvortrag weist keine Substanz auf und ist willkürlich aus der Luft gegriffen. Er 61 O 1711/19 - Seite 5 - rechtfertigt daher nicht die Veranlassung einer Beweisaufnahme (vgl. dazu auch OLG Koblenz, Urt. v.18.06.2019, Az. 3 U 416/19 m.w.N.).Grundsätzlich ist bei der Annahme einer,,ins Blaue hinein" aufgestellten Behauptung Zurückhaltung geboten. Die Annahme eines willkürlichen Sachvortrags kommt nur im Ausnahmefall in Betracht. Es muss einer Partei möglich sein, im Zivilprozess Tatsachen zu behaupten, über die sie keine genaue Kenntnis haben kann, die sie aber nach Lage der Dinge für wahrscheinlich hält.Eine zivilprozessual unzulässige Ausforschung ist aber dann gegeben, wenn eine Partei ohne greifbaren Anhaltspunkt für das Vorliegen eines bestimmten Sachverhalts willkürlich,,aufs Geratewohl" oder "ins Blaue hinein" Behauptungen aufstellt und jegliche tatsächlichen Anhaltspunkte für diese Behauptung fehlen (vgl. etwa BGH NJW-RR 2003, 69, 70).Diese Voraussetzungen sind vorliegend gegeben, da jeglicher tatsächliche Anhaltspunkt für den Einsatz der Manipulationssoftware aus den EA 189 - Motoren in dem EA 288 - Motor im Fahrzeug der Klagepartei fehlt.aa) Die Klagepartei beschränkt sich mit Blick auf die Beschaffenheit der behaupteten Steuerungssoftware darauf, zu der aus dem sog. ,,Abgasskandal" bekannten Funktionsweise der Manipulationssoftware des Motors EA 189 vorzutragen und die Übertragbarkeit zu behaupten. Hierin liegt kein hinreichender Sachvortrag. Das Vorbringen bezieht sich unstreitig auf einen Motor einer Baureihe, der unstreitig nicht im Fahrzeug der Klagepartei verbaut ist. Das Vorbringen der Klagepartei zu der auf diese Baureihe bezogenen Abschalteinrichtung und der Anordnung eines Rückrufs durch das KBA geht daher am tatsächlichen Sachverhalt vorbei.Es kann auch nicht ohne weiteres der Schluss gezogen werden, dass eine bestimmte Manipulationssoftware vorhanden ist, weil die Vorgängergeneration über eine solche verfügt hat (vgl. dazu auch OLG Köln, Beschluss vom04.07.2019, Az.3 U 148/18). Es gibt keinen Erfahrungssatz, der einen Generalverdacht gegenüber sämtlichen Dieselmotoren eines Konzerns begründen kann. Dagegen spricht auch, dass das KBA eine Rückrufaktion für den streitgegenständlichen Motor nicht angeordnet hat.bb) Anhaltspunkte für das Vorliegen einer unzulässigen Abschalteinrichtung bei den EA 288 - Motoren folgen auch nicht aus dem weiteren Vorbringen der Klagepartei.Die von der Klagepartei angeführte Entscheidungsvorlage der Beklagten vom 18.11. 2015 "Applikationsrichtlinien & Freigabevorgaben EA 288" (Anlage K3) betrifft zwar das streitgegenständliche Fahrzeug mit der Schadstoffklasse Euro 6 mit NSK - Technologie. Allerdings folgen daraus keine Anhaltspunkte für das Vorliegen einer unzulässigen Abschalteinrichtung. Es gehen aus der Entscheidungsvorlage bestimmte Zielwerte im NEFZ sowie in anderen Prüzyklen sowie Applikationsanweisungen hervor. Eine unzulässige Abschalteinrichtung ist daraus aber nicht ersichtlich. Auch dass es dort auf Seite 4 unter,Applikationsanweisungen Diesel" heißt:,NSK Bedatung, Aktivierung und Nutzung der Fahrkurven zur Erkennung des Precon NEFZ, um die Abgasnachbehandlungsevents(DeNOx/DeSOx-Events) nur streckengesteuei zu platzieren." folgt keine unzulässige Abschalteinrichtung. Denn dies wurde dem folgenden Satz gegenübergestellt, wonach,,Im normalen Fahrbetrieb strecken- und beladungsgesteuerte Platzierung der Events; Beladungssteuerung als führende Größe" erfolgen sollte. Daraus folgt also allein, dass außerhalb des NEFZ auch die Beladungssituation bei der Abgasnachbehandlung eine Rolle spielen sollte.Aus Seite 22 folgt zudem, dass diese Funktion ohne Emissionseinfluss ist. Die Hintergründe dieser Präsentation hat die Klagepartei zudem auch nicht dargelegt.cc) Aus der auf Seite 4 der Klageschrift zitierten "Information zu so genannter Akustikfunktion" ergibt sich gerade nicht ein Eingeständnis der Konzernmutter der Beklagten zur Verwendung einer - den EA 189 Motoren vergleichbaren - illegalen Abschalteinrichtung in den EA 288 - Motoren. Dort wird vielmehr explizit ausgeführt, dass die in der Software des Motors EA 288 hinterlegten Fahrkurven nicht zu einer Optimierung der NOx - Emissionen im Prüfstandbetrieb, wie beim EA 189, genutzt wird.dd) Aus einer Überschreitung der Grenzwerte auf der Straße folgt ebenfalls nicht das Vorhandensein einer unzulässigen Abschalteinrichtung.Es ist gerichtsbekannt, dass Emissionswerte wie auch Kraftstoffverbrauch branchenweit im normalen Fahrbetrieb höher sind als im NEFZ-Prüfzyklus. Der NEFZ-Prüfuyklus soll insofern vor allem ein Vergleichbarkeit verschiedener Fahzeugmodelle und Motoren gewährleisten. Dies war auch der Grund für die Einführung anderer, normalbetriebsähnlicherer Prüfzyklen wie RDE und WLTP. In diesem Zusammenhang ist ferner der Vortrag der Beklagten zu berücksichtigen, wonach hinsichtlich des streitgegenständlichen Fahrzeugs bzw. der streitgegenständlichen Motorenbaureihe kein Rückruf vorliege. Schließlich hat die Beklagte vorgetragen, dass der streitgegenständliche Fahrzeugtyp einschließlich des Motors nach Bekanntwerden des Abgasskandals beim KBA vorgestellt und untersucht worden sei und dass es gleichwohl zur Anordnung eines Rückrufs nicht gekommen sei. Auch dies hat die Klagepartei nicht substantiiert widerlegt.Nach alledem liegen die strengen Anforderungen eines rechtsmissbräuchlichen und damit unzureichenden Sachvortrags vor (vgl. dazu auch OLG Koblenz, Urt. v. 18.06.2019, Az.3 U 416/19 m.w.N.).b) Auch der Vorwurf der Klagepartei, das Fahrzeug sei mit einem als unzulässige Abschalteinrichtung anzusehenden sog. Thermofenster ausgestattet, begründet keinen Anspruch aus § 826 BGB gegen die Beklagte.Ob es sich bei dem konkreten Thermofenster des streitgegenständlichen Fahrzeugs um eine unzulässige Abschalteinrichtung handelt, kann im Ergebnis dahinstehen.Selbst wenn das Thermofenster eine unzulässige Abschalteinrichtung sein sollte, geht damit keine vorsätzliche sittenwidrige Schädigung einher. Thermofenster sind allgemein anerkannte und von sämtlichen Herstellern eingesetzte technische Einrichtungen. Sie werden branchenweit bei allen Dieselmotoren eingesetzt. Ihr Zweck besteht darin, eine,,Versottung" zu verhindern. Sie dienen daher dem Motorschutz und können auch zulässig sein. Nicht jedes Thermofenster stellt zwingend eine unzulässige Abschalteinrichtung dar. Von der Manipulationssoftware beim Motortyp EA 189 unterscheidet sich das von der Klagepartei behauptete Thermofenster zudem grundlegend. Beim Thermofenster handelt es sich anders als bei der Manipulationssoftware der EA 189 - Motoren nicht um eine Programmierung zum Erkennen des Betriebs des Fahrzeugs auf dem Prüfstand. Das Thermofenster arbeitet gleichermaßen im Straßenbetrieb und auf dem Prüfstand.Zudem fehlt es in diesem Zusammenhang an einer Darlegung der subjektiven Haftungsvoraussetzungen.Das bloße Vorhandensein einer (behaupteten) objektiv unzulässigen Abschalteinrichtung allein ist nicht geeignet, Ansprüche der Klagepartei aus § 826 BGB zu begründen. Ein Schädigungsvorsatz kann nur dann angenommen werden, wenn über die bloße Kenntnis von dem Einbau einer Einrichtung mit der in Rede stehenden Funktionsweise in den streitgegenständlichen Motor hinaus zugleich auch Anhaltspunkte dafür erkennbar wären, dass dies von Seiten der Beklagten in dem Bewusstsein geschah, hiermit möglicherweise gegen die gesetzlichen Vorschriften zu verstoßen, und dieser Gesetzesverstoß billigend in Kauf genommen wurde.Es ist aber weder ersichtlich noch von der Klagepartei dargelegt, dass die Beklagte mit der Unzulässigkeit des eingesetzten Thermofensters gerechnet hätte. Ein Thermofenster kann durchaus zulässig sein. Bei der gegebenen Sachlage kann - anders als beim Einsatz einer versteckten Software - nicht ohne weiteres von einem vorsätzlichen Rechtsverstoß ausgegangen werden. Im vorliegenden Fall kann insofern bei Fehlen jedweder konkreter Anhaltspunkte ein Vorsatz der Beklagten nicht ohne weiteres unterstellt werden. Vielmehr kann dann eine möglicherweise falsche, aber dennoch vertretbare Gesetzesauslegung und -anwendung durch die Organe der Beklagten in Betracht gezogen werden. Eine Verkennung der Rechtslage begründet aber selbst im Falle eines fahrlässigen oder gar grob fahrlässigen Handelns keinen Schädigungsvorsatz.2. Auch aufgrund anderer Grundlage hat die Klagepartei keine Ansprüche gegen die Beklagte.Ein Anspruch aus § 823 Abs. 2 BGB i.V.m. § 263 StGB scheitert angesichts der vorstehenden Ausführungen jedenfalls daran, dass nicht ersichtlich ist, inwiefern die Beklagte die Klagepartei vorsätzlich getäuscht hat (vgl. OLG Koblenz, Urt. V. 18.06.2019, Az.3 U 416/19).Ein Anspruch aus § 823 Abs. 2 BGB i.V.m. § 27 EG-FGV kommt schon deshalb nicht in Betracht, weil es sich beim der EG-FGV nicht um ein Schutzgesetz handelt; darüber hinaus liegt aber jedenfalls eine ungültige Übereinstimmungsbescheinigung nicht vor, weil - wie vorstehend ausgeführt - nicht festgestellt ist, dass eine unzulässige Abschalteinrichtung vorliegt.Es liegt insofern insbesondere kein Bescheid des KBA vor.Ein Anspruch aus § 831 BGB scheitert daran, dass das Vorliegen einer unerlaubten Handlung eines Verrichtungsgehilfen der Beklagten nicht dargelegt ist.3. Mangels Anspruchs in der Hauptsache war nicht festzustellen, dass die Beklagte mit der Rücknahme des Fahrzeugs in Annahmeverzug ist (Antrag zu 2.).III. Auch der Antrag der Klagepartei, ihr vorgerichtliche Rechtsanwaltskosten zu erstatten ist mangels Anspruch in der Hauptsache unbegründet.C.Die Kostenentscheidung beruht auf § 91 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf § 709 S. 1 und 3 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2427035.html (https://oj.is/2427035)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

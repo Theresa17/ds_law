@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSachsen-AnhaltOrdentliche GerichtsbarkeitOLG NaumburgRechtsprechungUrteil vom 16.12.2021 - 8 U 42/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Naumburg, Urteil vom 16.12.2021 - 8 U 42/21
+                      m. Fundstelle
+                      OLG Naumburg, Urteil vom 16.12.2021 - 8 U 42/21 = openJur 2022, 5793
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Naumburg, Urteil vom 16.12.2021 - 8 U 42/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 5793
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das am 17.06.2021 verkündete Urteil des Landgerichts Magdeburg wird auf seine Kosten zurückgewiesen.Dieses und das angefochtene Urteil sind ohne Sicherheitsleistung vorläufig vollstreckbar. Der Kläger kann die Vollstreckung durch Sicherheitsleistung i.H.v. 110 % des zu vollstreckenden Betrages abwenden, wenn nicht die Beklagte zuvor Sicherheit in gleicher Höhe leistet.und beschlossen:Der Streitwert für das Berufungsverfahren wird auf die Stufe bis 30.000,00 € festgesetzt.  
+				Gründe
+				I.Der Kläger nimmt die Beklagte im Zusammenhang mit dem sog. Dieselskandal auf Rückabwicklung eines am 27.11.2017 getätigten Erwerbs eines gebrauchten VW Passat 2.0 TDI (damaliger Kilometerstand: 13.431 km) in Anspruch In dem Fahrzeug ist ein Motor des Typs EA288 EU6 NSK verbaut, in dessen Steuerung unstreitig eine sog. Fahrkurve hinterlegt ist, anhand derer das Fahrzeug erkennt, ob es sich innerhalb eines bestimmten Zeit-Strecken-Korridors wie dem Precon oder dem NEFZ befindet.Dem Senat ist hierzu aus verschiedenen Parallel verfahren Folgendes (gerichts-) bekannt:In einer E-Mail des (Name geschwärzt) Senior Counsel und Dipl.-Ing. Fahrzeugtechnik der Beklagten an das KBA vom 01.10.2015 wird zu Dieselmotoren mit Emissionsstufe EU 6 der Beklagten Folgendes ausgeführt:"Die Motor-Software enthält eine Fahrkurve zur Präkonditionierung sowie eine Temperatur- und eine Weg-Zeit-Sensierung, die mit Toleranzzugabe die Weg-Zeit-Funktion des NEFZ erkennt, wird eine der Toleranzgrenzen dieser Erkennung einmal überschritten geht der Funktionsmodus in die Applikation für den Straßenbetrieb über und kann bis zum nächsten Motorstart nicht mehr in den NEFZ-Modus zurückkehren. Die Motorapplikation für beide Funktionsmodi ist identisch. Eine Lenkwinkel- oder Raddrehzahlsensierung oder sonstige Sensierung von Fahrzeugdaten findet zu diesem Zweck nicht statt".Aus einem mit "Technisches Statement: Fahrzyklus-Erkennung" überschriebenen Dokument der Beklagten vom 19.10.2015 ergeben sich folgende Parameter.. an welche die oben beschriebene Fahrzyklus-Erkennung (Fahrkurve) beim EA288 anknüpft.EinschaltenMotorstatt-Temperetur-50 bis 140°CÖltemperatur -50 bis 140°CKraftstofftemperatur -50 bis 140° CHöhe (Umgebungsdruck) 795 hPaAusschaltenZeit-Weg-Funktion Definierte FunktionDarunter ist zu den obigen Parametern vermerkt:"Umschaltung in der Software teilweise enthalten, jedoch ohne Einfluss auf Emissionen".In einer 13-seitigen Stellungnahme der von der Beklagten beauftragten Kanzlei F. B. D. vom 04.10.2015 wird unter B. II. 2.2. die (an die Fahrkurve anknüpfende) Funktionsweise des NSK-Systems wie folgt beschrieben:"Aufgrund der Tatsache, dass der Testlauf auf dem Rollenprüfstand nach den EU-rechtlichen Vorgaben des NEFZ strikt auf einen bestimmten Zeitraum festgelegt ist (4 x 195 sec Simulation innerstädtischer Verkehr, insgesamt 4.052 km anschließend 400 sec Simulation außerstädtischer Verkehr Wegstrecke 6.955 km), innerhalb dessen nicht sicher damit gerechnet werden kann, ob/wann die Speichergrenze von 1-1,5g erreicht ist, der Prüfzyklus indes widerspiegeln sollte, dass es tatsächlich eine Regeneration des NSK gibt, sowie die Testergebnisse reproduzierbar sein sollen, wird im Rollenprüfstandsmodus die Regeneration des NSK zeitgesteuert nämlich durch Regeneration im NSK zu zwei festgelegten Zeitpunkten im ersten Drittel des außerstädtischen Verkehrs (bei 70 km/h und 120 km/h). Die tatsächliche Wirksamkeit des NSK unterscheidet sich nicht, sie ist damit im normalen Fahrbetrieb nicht verringert.Würde der NSK auf dem Rollenprüfstand nicht zeit-, sondern beladungs- und streckengesteuert, so hatte dies keinen Einfluss darauf, dass die EU6-Emissionsgrenzwerte weiterhin eingehalten werden".Unter C. II. I 1: und 2 des vorgenannten Dokuments wird der obige Sachverhalt dann einer rechtlichen Würdigung unterzogen, und zwar dahingehend, dass die Umstellung des NSK auf eine Zeitsteuerung bei Durchfahren des NEFZ keine unzulässige Abschalteinrichtung darstelle, weil sie nicht zu einer Verringerung der Wirksamkeit des Emissionsminderungssystems bzw. des NSK unter normalen Fahrbedingungen führe; darüber hinaus sei."äußerst zweifelhaft ob schon im Ausgangspunkt eine Abschalteinrichtung" vorliege, da die "beladungsgesteuerte Reduktion des NSK ... der Grund- und Normalmodus für den Fahrbetrieb des Fahrzeugs" sei.In einem mit "Umschaltstrategie Bedatungsebenen EA288 EUG NSK" überschriebenen Dokument der Beklagten vom 19.10.2015 heißt es:"Die Funktion unterscheidet zwei NSK-Regenerationsstrategien.Strategie 1: aktiv ab Motorstart, Regeneration erfolgt streckengesteuertStrategie 2: aktiv nach Verlassen des Strecken-Zeit-Korridors, Regeneration erfolgt beladungs- und streckengesteuert"Daneben ist vermerkt:"EmissionseinflussNein"Der "Applikationsanweisung Diesel Fahrkurven EA288 NSK" der Beklagten vom 18.11.2015 lässt sich Folgendes entnehmen:,,Anwendungsbeschreibung:NSK: Bedatung, Aktivierung und Nutzung der Fahrkurven zur Erkennung des Precon und des NEFZ, um die Abgasnachbehandlungsevents (DeNOx-/DeSOx-Events) nur streckengesteuert zu platzieren. Im normalen Fahrbetrieb strecken- und beladungsgesteuerte Platzierung der Events; Beladungssteuerung als führende Größe.Applikationsrichtlinie:SPO vor 22/16 (für SOP, Modellpflege und KD-Master). Die o.g. Umschaltungen anhand dar Fahrkurven bleiben bestehen unter Einhaltung der gesetzlichen Vorgaben für Roh- und Endrohremissionen.SOP ab 22/16 (für SOP, Modellpflege): Bei neuen Freigaben sind die Fahrkurven aus der Software entfernt. Umschaltungen oder die Platzierung von Abgasnachbehandlungsevents muss auf der Basis physikalischer Randbedingungen unter Einhaltung der gesetzlichen Vorgaben für Roh- und Endrohremissionen erfolgen.SOP ab 22/16 (für KD-Master): In KD-Mastern werden nur Fehler-Abstellmaßnahmen umgesetzt Die Steuerung der NSK-Events erfolgt unverändert zur Basis der in Serie freigegebenen Software und Bedatung. Abweichende Einzelfallentscheidung durch EAD/EAE-Leitung möglich".Der Kläger hat vorgetragen, das Fahrzeug verfüge über eine unzulässige Zykluserkennung. Die vor jeder Prüfung erfolgende Entleerung des NSK-Katalysators und dessen dort im Folgenden nur streckengesteuert erfolgende Regeneration sei unzulässig. Außerhalb des Prüfstandes werde die AdBlue-Dosierung vermindert. Zudem sei ein unzulässiges Thermofenster installiert. Im Übrigen sei das OBD manipuliert.Der Kläger hat erstinstanzlich beantragt,die Beklagte zu verurteilen,Zug um Zug gegen Herausgabe und Übereignung des VW mit der FIN: ... an ihn 31.600,00 € unter Anrechnung einer Nutzungsentschädigung, welche sich aus folgender Formel ergibt; 75 % x 31.600,00 C x (Kilometerstand der mündlichen Verhandlung - Kilometerstand bei Kauf) / in das Ermessen des Gerichts gestellte Gesamtlaufleistung - Kilometerstand bei Kauf), zu zahlen,und die Kosten des außergerichtlichen Vorgehens i.H.v. 2.256,24 € zu erstatten,jeweils nebst Zinsen hieraus i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit.sowie festzustellen, dass sich die Beklagte mit der vorgenannten Zug-um-Zug-Leistung im Annahmeverzug befindet,Die Beklagte hat beantragt,die Klage abzuweisen.Die Beklagte hat vorgetragen, die Fahrkurvenerkennung sei zulässig, weil sie nicht grenzwertrelevant sei. Das Thermofenster sei ebenfalls zulässig. Es liege kein Rückruf des KBA vor. Jedenfalls habe sie. die Beklagte, ohne Unrechtsbewusstsein bzw. Vorsatz gehandelt Mangels Stilllegungsgefahr sei auch kein Schaden entstanden.Das Landgericht hat die Klage abgewiesen. Zur Begründung hat es ausgeführt, es liege kein Rückruf des KBA vor; vielmehr habe dieses mit amtlicher Auskunft vom 12.10.2020 gegenüber dem LG Freiburg bestätigt, dass keine unzulässige Abschalteinrichtung verbaut sei Dementsprechend bestehe auch keine Stilllegungsgefahr Der entgegenstehende klägerische Vortrag sei unsubstanziiert. Die Verwendung eines Thermofensters sei jedenfalls nicht sittenwidrig.Hiergegen wendet sich der Kläger unter Wiederholung und Vertiefung seines erstinstanzlichen Vorbringens mit der Berufung, mit der er seine erstinstanzlichen Anträge in vollem Umfang weiterverfolgt. Ergänzend trägt er vor, sein Vortrag sei hinreichend substanziiert. Der Begriff der Grenzwertkausalität finde sich in der VO (EG) Nr. 715/2007 nicht: deren Art. 5 Abs. 2 lit. c) sei insoweit nicht einschlägig. Entscheidend sei allein, dass die Wirksamkeit des Emissionskontrollsystems außerhalb des Prüfstandes verringert werde. Eines Rückrufe durch das KBA bedürfe es nicht, zumal letzteres im vorliegendem Zusammenhang massiv an Glaubwürdigkeit eingebüßt hätte.Die Beklagte verteidigt die angefochtene Entscheidung. Sie trägt unter Verweis auf verschiedene weitere amtliche Auskünfte des KBA weiterhin vor, dass weder die Fahrkurve noch die streckengesteuerte Regeneration des NSK-Katalysators auf dem Prüfstand grenzwertkausal seien, sodass es bereits am Vorhandensein einer unzulässigen Abschalteinrichtung fehle. Ferner verweist die Beklagte darauf, dass die Fahrkurve dem KBA (unstreitig) offengelegt worden ist, gleichwohl aber kein Rückruf erfolgt ist, und auch künftig keine Stilllegungsgefahr bestehe. Jedenfalls habe ihr, der Beklagten, das erforderliche Unrechtsbewusstsein bzw der Vorsatz für eine vorsätzliche sittenwidrige Schädigung gefehlt. Außerdem fehle es an einem Schaden.Der Kilometerstand zum 16.12.2021 betrug unstreitig 79.976 km.II.Die zulässige Berufung hat in der Sache keinen Erfolg.Der Kläger hat gegen die Beklagte keinen Anspruch aus §§ 826, 31 BGB bzw. § 831 BGB. Die diesbezüglichen Ausführungen des Landgerichts sind zutreffend. Ergänzend ist lediglich darauf hinzuweisen, dass das Fahrzeug zwar über unzulässige Abschalteinrichtungen verfügt, mangels Täuschung des KBA sowie wegen fehlendem Unrechtsbewusstsein der Beklagten aber keine vorsätzliche sittenwidrige Schädigung i.S.d. § 826 BGB vorliegt und infolge Nichtbestehen einer Stilllegungsgefahr auch kein Schaden entstanden ist.Nach höchstrichterlicher Rechtsprechung liegt eine vorsätzliche sittenwidrige Schädigung eines Fahrzeugkäufers vor, wenn der Motorenhersteller auf der Grundlage einer grundlegenden strategischen Entscheidung durch bewusste und gewollte Täuschung des KBA einen Motor in Verkehr bringt, dessen Steuerungssoftware bewusst und gewollt so programmiert ist, dass die gesetzlichen Abgasgrenzwerte mittels einer unzulässigen Abschalteinrichtung nur auf dem Prüfstand eingehalten werden, denn damit geht einerseits die Gefahr einer erhöhten Umweltbelastung, und andererseits die Gefahr einer Betriebsbeschränkung- oder -untersagung einher (vgl. BGH, Urt. v. 25.05.2020, VI ZR 252/19, Rn. 16; OLG Hamm, Urt. v. 22.06.2021, 13 U 194/20. Rn. 49; jeweils zitiert nach juris).Im streitgegenständlichen Fahrzeug ist unstreitig eine Akustikfunktion inklusive Fahrkurve verbaut (vgl. Bl. 7, 137 I. 3, 17 III d.A.). Ausweislich der im Tatbestand zitierten E-Mail der Beklagten vom 01.10.2021 sowie deren eigenem Vortrag (vgl. Bl. 131 II d.A. 8 U 1/21) bedeutet deren Vorhandensein, dass das Fahrzeug erkennt, ob es sich innerhalb eines bestimmten Zeit-Strecken-Korridors wie dem Precon oder dem NEFZ befindet Zwar ist die Fahrkurve selbst keine Abschalteinrichtung (vgl. OLG Naumburg: Uri: v. 31.05.2021, 12 U 35/21, Rn. 16; OLG Stuttgart, Urt. v. 18.05.2021, 16a U 1576/20, Rn. 26, OLG Düsseldorf, Urt. v. 12.05.2021, 18 U 526/19, Rn 43; jeweils zitiert nach juris); sie stellt jedoch ein starkes Indiz für das Vorhandensein einer solchen dar, weil ihre Installation ansonsten gar keinen Sinn ergäbe. Der diesbezüglichen Erläuterung der Beklagten, wonach das Fahrzeug erkennen müsse, dass es sich auf dem Prüfstand befinde, damit dort verschiedene Sicherheitssysteme abgeschaltet werden könnten, vermag der Senat nicht zu folgen, denn allein hierfür wäre keine Anknüpfung an eine komplexe mathematische Weg-Zeit-Funktion erforderlich (a.A. offenbar OLG Düsseldorf, Urt. v. 12.05.2021, 18 U 526/19, Rn. 47, zitiert nach juris).Erkennt das Fahrzeug anhand der Fahrkurve, dass es sich am Ende des Precon und am Beginn des NEFZ befindet, wird der NSK-Katalysator unstreitig zunächst unabhängig von seinem Beladungszustand regeneriert, d.h. vollständig geleert; sodann erfolgt eine rein streckengesteuerte Regeneration, wohingegen im Normalbetrieb eine beladungs- und streckengesteuerte (mit der Beladungssteuerung als führender Größe) Regeneration stattfindet (vgl Bl. 33 ff, 54 ff II, 20 f III d.A.). Aufgrund dieser unterschiedlichen Betriebsarten liegt eine Abschalteinrichtung i.S.d. Art. 3 Nr. 10 VO (EG) Nr. 715/2007 vor. Daran hält der Senat fest, zumal die Beklagte zwischenzeitlich zusätzlich eingeräumt hat. dass die im streitgegenständlichen Fahrzeug hinterlegte Fahrkurvenerkennung dazu geführt habe, "dass in Abhängigkeit von der Alterung des NSK eine Heizmaßnahme im NEFZ aktiviert werden konnte", in diesem Falle habe dies dazu geführt, "dass die Temperatur des NSK im NEFZ unmittelbar vor dem ersten NSK-Regenerationsevent erhöht" worden sei (Bl. 21 III d.A.). Die Beklagte kann sich in diesem Zusammenhang auch nicht darauf berufen, dass nur durch die Entleerung des NSK vor dem Prüflauf eine Vergleichbarkeit der Messergebnisse gewährleistet werden könne. Vielmehr müssen die Grenzwerte unabhängig von dem vor dem NEFZ ohne die Entleerung bestehenden Beladungszustand im Prüfstand auf jedem 11 km-Intervall eingehalten werden; alles andere läuft darauf hinaus auf dem Prüfstand im Vergleich zum Normalbetrieb die Massenemission pro km (mg/km) zu verringern (OLG Naumburg. Urt. v. 09.04.2021, 8 U 68/20, Rn 27, zitiert nach juris).Dass ausweislich des Schreibens der Beklagten an das KBA vom 29.12.2015 (Anlage B 22) die "sog. Akustikfunktion inklusive Fahrkurve" (vgl. OLG Hamm, Urt. v. 22.06.2021, 13 U 194/20, Rn. 61: OLG Naumburg, Urt. v. 31.05.2021, 12 U 35/21. Rn. 16; OLG Düsseldorf, Urt. v. 12.05.2021, 18 U 526/19, Rn. 45; jeweils zitiert nach juris) bzw. ausweislich der mit dem vorgenannten Schreiben dem KBA übermittelten Entscheidungsvorlage Applikationsrichtlinien & Freigabevorgaben EA 288 vom 18.11.2015 die Umschaltung von der im Testbetrieb allein streckengesteuerten Regeneration des NKD auf eine beladungs- und streckengesteuerte Regeneration im Realbetrieb (vgl. OLG Hamm. Urt. v. 22.06.2021, 13 U 194/20, Rn. 62; OLG Naumburg, Urt. v. 31.05.2021, 12 U 35/21, Rn. 16) keinen Einfluss auf die Emissionen haben soll, rechtfertigt keine andere Beurteilung Entgegen der von der Beklagten vertretenen Rechtsauffassung fällt eine fehlende Grenzwertkausalität nämlich nicht unter den Ausnahmetatbestand des Art 5 Abs. 2 S 2 lit. c) VO (EG) Nr. 715/2007; vielmehr würde dies den Sinn und Zweck des Testverfahrens ad absurdum führen (vgl. OLG Naumburg. Urt. v. 09.04.2021, 8 U 68/20, Rn. 30. 31; OLG Dresden, Beschl. v. 29.07.2021, 9a U 378/20, Rn. 38)Ein danach vorliegender Gesetzesverstoß genügt allerdings nicht, um das Gesamtverhalten der Beklagten als sittenwidrige Schädigung i S.d. § 826 BGB zu qualifizieren.Hierfür fehlt es an einer Täuschung des KBA durch die Beklagte (vgl. BGH, Beschl. v. 09.03.2021, VI ZR 889/20. Rn. 24: OLG Frankfurt, Urt. v. 28.09.2021, 24 U 208/20, Rn. 38, 44; OLG Hamm, Urt. v. 29.06.2021, 13 U 434/20, Rn. 94, 95: OLG Naumburg, Urt. v. 31.05.2021, 12 U 35/21, Rn 21; OLG Oldenburg, Urt. v. 14.05.2021. 6 U 310/20, Rn. 57: jeweils zitiert nach juris) Vielmehr geht aus deren Schreiben an das KBA vom 29.12.2015 (Anlage S 22) sowie aus den von der Beklagten (speziell zum streitgegenständlichen Fahrzeug bzw. zum Aggregat EA288 EU 6 NSK) vorgelegten amtlichen Auskünften des KBA an das OLG München vom 25.02.2021 (Anlage BE 12), das OLG Celle vom 07.05.2021 (Anlage BE 13), das LG Berlin vom 01.02.2021 (enthalten im Anlagenkonvolut B 18), das Landgericht Mannheim vom 04.05.2021 (Anlage BE 10) und das Landgericht Hof vom 05.05.2021 (Anlage BE 7) hervor, dass die Fahrkurvenerkennung beim KBA seit Ende 2015 bekannt war. Das KBA hat in den vorgenannten Auskünften nämlich ausgeführt, die Fahrkurve sei nicht unzulässig, solange sie nicht als Abschalteinrichtung genutzt werde: Prüfungen im KBA zeigten, dass auch bei Deaktivierung der Funktion die Grenzwerte in den Prüfverfahren zur Untersuchung der Auspuffemissionen nicht überschritten werden, sodass es sich nicht um eine unzulässige Abschalteinrichtung handele (vgl. OLG Köln, Urt. v. 20.06.2021, 5 U 254/19, Rn. 38; OLG Hamm, Urt. v. 29.06.2021, 13 U 434/20, Rn 88, 89, OLG München, Urt. v. 15.06.2021, 9 U 5466/20, Rn. 38 ff, OLG Hamm, Urt. v. 14.06.2021, 8 U 156/20, Rn. 40, OLG Stuttgart, Urt. v. 18.05.2021, 16a U 1576/20. Rn. 39; OLG Oldenburg, Urt. v. 14.05.2021, 6 U 310/20, Rn. 90; jeweils zitiert nach juris).Vor diesem Hintergrund kann auch kein Unrechtsbewusstsein bzw. kein Vorsatz der Beklagten festgestellt werden. Wenn das KBA als zuständige Fachbehörde die Rechtsauffassung vertritt, dass eine Fahrkurvenerkennung für sich betrachtet unproblematisch und eine hieran anknüpfende Umschaltung erst dann eine unzulässige Abschalteinrichtung sei, wenn sie sich auf die Einhaltung der Grenzwerte auswirke, kann man der Beklagten diesbezüglich kein unvertretbares Rechtsverständnis vorhalten (vgl. OLG Hamm, Urt. v. 29.06.2021, 13 U 175/20, Rn. 49, 60; OLG Hamm, Urt. v. 01.06.2021, 34 U 81/20, Rn. 112; OLG Naumburg, Urt. v. 31.05.2021, 12 U 35/21, Rn. 21; Urt. v. 20.05.2021, 4 U 176/20, Rn. 39: jeweils zitiert nach juris).Zudem fehlt es an einem Schaden des Klägers, da keine Stilllegung des Fahrzeugs droht (vgl OLG Frankfurt. Urt. v. 28.09.2021, 24 U 208/20. Rn. 46, 49; OLG München Urt. v. 15.06.2021. 9 U 5465/20, Rn. 34; OLG Hamm. Urt. v. 14.06.2021, 8 U 156/20, Rn. 36; OLG Frankfurt, Urt. v. 19.05.2021, 4 U 247/19, Rn. 28; jeweils zitiert nach juris) Insoweit kann sich der Kläger auch nicht auf den Beschluss des BGH vom 28.01.2020. VIII ZR 57/19. stützen, wonach greifbare Anhaltspunkte für eine Abschalteinrichtung nicht erst nach Anordnung eines Rückrufs vorlägen. denn damit war lediglich der Fall gemeint, dass das KBA den betreffenden Motor noch nicht auf unzulässige Abschalteinrichtungen hin untersucht hatte, nicht aber der vorliegende umgekehrte Fall, dass bei diesbezüglichen Untersuchungen keine unzulässigen Abschalteinrichtungen festgestellt worden sind (vgl OLG Oldenburg, Urt. v. 14.05.2021, 6 U 310/20. Rn 74 zitiert nach juris) Auf den lediglich wegen einer Konformitätsabweichung erfolgten Rückruf 23Z7 von T-6 Modellen (OLG Hamm, Urt. v. 01.06.2021, 34 U 81/20, Rn. 62 ff; OLG Naumburg. Urt. v. 20.05.2021, 4 U 176/20, Rn. 43 ff; jeweils zitiert nach juris) oder auf die freiwilligen Servicemaßnahmen 23X4, 23AV und 23YC (vgl OLG Hamm, Urt. v. 01.06.2021, 34 U 81/20, Rn. 101, zitiert nach juris) kann sich der Kläger in vorliegendem Zusammenhang nicht berufen.An seiner hinsichtlich der vorgenannten drei Punkte (fehlende Täuschung des KBA, fehlendes Unrechtsbewusstsein bzw. fehlender Vorsatz der Beklagten, fehlender Schaden) abweichenden Rechtsauffassung im Urteil vom 09.04.2021 (8 U 68/20) hält der Senat nicht weiter fest.Sein Vortrag, wonach das OBD fehlerhaft anzeige, in dem Fahrzeug ein Thermofenster verbaut sei, und außerhalb des Prüfstandes zum einen über einen Timer nach 1400 Sekunden eine Abschaltung/Reduktion der AGR erfolge und zum anderen eine Reduzierung der AdBlue- Dosierung vorgenommen werde, hilft dem Kläger ebenfalls nicht weiter.Beim OBD-System handelt es sich um ein Fahrzeugdiagnosesystem und damit um keine Abschalteinrichtung (vgl OLG Oldenburg, Urt. v. 14.05.2021, 6 U 310/20, Rn. 91 ff; OLG Düsseldorf. Urt. v. 12.05.2021, 18 U 526/19, Rn. 37 ff; jeweils zitiert nach juris).Hinsichtlich des Thermofensters liegt zwar eine unzulässige Abschalteinrichtung vor (vgl. EuGH, Urt. v. 17.12.2020, C 693/18). Da diese im Prüf- und im Realbetrieb im Grundsatz gleich arbeitet, kann von einem Unrechtsbewusstsein bzw Vorsatz der Beklagten aber nur bei Hinzutreten weiterer Umstände ausgegangen werden (BGH, Beschl. v. 19.01.2021, VI ZR 433/19, Rn. 17 ff; Beschl. v. 09.03.2021. VI ZR 889/20, Rn. 25 ff). Daran fehlt es vorliegend; insbesondere hat die Beklagte die Abhängigkeit der Abgasrückführungsrate von der Außenlufttemperatur nicht verschleiert (vgl. OLG Naumburg, Urt. v. 20.05.2021, 4 U 176/20, Rn. 37; OLG Frankfurt. Urt. v. 19.05.2021, 4 U 247/19, Rn 41; jeweils zitiert nach juris). Aber auch wenn die Beklagte im Typgenehmigungsverfahren - erforderliche - Angaben zu den Einzelheiten der Motorsteuerung unterlassen haben sollte, wäre das KBA nach dem Amtsermittlungsgrundsatz gehalten gewesen, diese zu erfragen, um sich in die Lage zu versetzen, die Zulässigkeit der Abschalteinrichtung im streitgegenständlichen Fahrzeug zu prüfen (vgl. BGH. Hinweisbeschluss vom 13.10.2021, VII ZR 99/21 Rn. 17 OLG Naumburg, Urt. v. 20.05.2021, 4 U 176/20, Rn. 37, zitiert nach juris; OLG Frankfurt, Urt. v. 19.05.2021. 4 U 247/19, Rn 41, zitiert nach juris).Dasselbe wie zum Thermofenster gilt auch für eine an andere Schaltkriterien als die Außentemperatur anknüpfende Ansteuerung der Abgasrückführung, sofern diese auf dem Prüfstand und im Realbetrieb im Grundsatz gleich arbeitet (vgl. OLG Hamm, Urt. v. 29.06.2021, 13 U 175/20. Rn. 67; Urt. v. 01.06.2021, 34 U 81/20, Rn. 80; Urt. v. 01.06.2021, 34 U 81/20, Rn. 111).Der klägerische Vortrag zur Abschaltung bzw. Reduzierung der Abgasrückführung ab einer Fahrzeit von ca. 1400 Sekunden ist im Hinblick darauf, dass die von der Beklagten vorgelegten amtlichen Auskünfte des KBA, wonach beim EA288 keine unzulässigen Abschalteinrichtungen festgestellt worden seien, und der durch das BMVI veröffentlichte Bericht der der Untersuchungskommission V. sowie die im Rahmen der freizugebenden Software-Updates für das Nationale Forum Diesel und im Rahmen spezifischer Feldüberwachungen durchgeführten Untersuchungen die Anforderungen an die dem Kläger zum Vorliegen einer unzulässigen Abschalteinrichtung obliegende Darlegungslast erhöhen (vgl. OLG Köln, Urt. v. 20.06.2021, 5 U 254/19, Rn. 39: OLG Hamm, Urt. v. 29.06.2021, 13 U 434/20, Rn 98, 99; Urt. v. 29.06.2021, 13 U 175/20, Rn. 54 ff jeweils zitiert nach juris), nicht hinreichend substanziiert (vgl. OLG Düsseldorf, Urt. v. 12.05.2021, 18 U 526/19, Rn. 46; jeweils zitiert nach juris). Im Übrigen bezogen sich die dieser klägerischen Behauptung zu Grunde liegenden Messungen (Anlage K 13) auf ein Fahrzeug der Schadstoffklasse 5, wohingegen es vorliegend um ein Fahrzeug der Schadstoffklasse 6 geht.Eine Verminderung der AdBlue-Dosierung außerhalb des Prüfstandes kann es im vorliegenden Fall von vornherein nicht geben, weil im Fahrzeug unstreitig kein SCR-, sondern ein NSK-Katalysator verbaut ist.Der Kläger hat auch keinen Anspruch aus § 823 Abs. 2 BGB i. V. m. Schutzgesetzen (vgl. hierzu im Einzelnen OLG Hamm, Urt. v. 01.06.2021, 34 U 81/20, Rn 115 ff, m.w.N., zitiert nach juris).III.Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit ergeht gem. §§ 708 Nr. 10, 709 S. 2. 711 ZPO.Die Revision ist nicht gem. § 543 Abs. 2 S. 1 ZPO zuzulassen, weil die Sache weder grundsätzliche Bedeutung hat. noch die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Revisionsgerichts erfordert (vgl BGH, Beschl. v. 13.10.2021, VII ZR 99/21, Rn. 9).Der Streitwert wurde gem. §§ 43 Abs 1, 47 Abs 1, 48 Abs. 1 GKG, 3 ZPO festgesetzt (vgl. BGH, Beschl. v. 26.01.2021, VI ZR 281/20, Rn. 7; Beschl. v. 23.02.2021, VI ZR 1191/20, Rn. 4 ff; jeweils zitiert nach juris).
+			
+			
+			
+			Permalink: https://openjur.de/u/2390682.html (https://oj.is/2390682)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate23
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

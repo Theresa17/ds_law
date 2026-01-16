@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG München IRechtsprechungEndurteil vom 21.11.2019 - 20 O 6318/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG München I, Endurteil vom 21.11.2019 - 20 O 6318/18
+                      m. Fundstelle
+                      LG München I, Endurteil vom 21.11.2019 - 20 O 6318/18 = openJur 2021, 47171
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG München I, Endurteil vom 21.11.2019 - 20 O 6318/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 47171
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Beklagte zu 1) wird verurteilt, an den Kläger 52.552,26 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz hieraus seit dem 08.06.2018 Zug-um-Zug gegen Rückgabe und Übereignung des PKW Porsche Cayenne Diesel Tiptronic, 193 kw/262 PS, moonlightbluemetallic, FIN: ... mit vier Alukompletträdern mit Reifendruckkontrollsystem 275/45, 20, 110 Michelin Wheelworld Wh26 zu bezahlen. Im Übrigen wird die Klage abgewiesen.2. Von den Kosten des Rechtsstreites trägt der Kläger die außergerichtlichen Kosten der Beklagten zu 2) und 3) in voller Höhe sowie 25 % der außergerichtlichen Kosten der Beklagten zu 1). Die Beklagte zu 1) trägt 25 % der außergerichtlichen Kosten des Klägers. Von den Gerichtskosten trägt der Kläger 75 % und die Beklagte zu 1) 25 %. Im Übrigen tragen die Parteien ihre eigenen Kosten selbst.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 69.997,74 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten über Schadensersatzansprüche wegen einer Betroffenheit des klägerischen Kraftfahrzeuges vom sog. Abgasskandal.Der Kläger erwarb am 19.04.2017 bei der ... den streitgegenständlichen, gebrauchten PKW Porsche Cayenne (Erstzulassung: 16.02.2016; km-Stand: 10.300) zum Kaufpreis von 65.000 €. Auf die Anlage K 1 wird Bezug genommen. Das Fahrzeug erhielt die EU-Typengenehmigung nach der Euro-6-Norm. Dementsprechend erfolgte die Fahrzeugzulassung. Die Beklagte zu 1) ist die Verkäuferin des Fahrzeuges, die nunmehr als ... firmiert. Die Beklagte zu 2) ist die Herstellerin des streitgegenständlichen Fahrzeuges. Die Beklagte zu 3) ist die Herstellerin des streitgegenständlichen Motors.Der im Fahrzeug des Klägers verbaute 3,0 Liter-Motor Diesel V6 EU6 enthält eine Motorensteuerungsgerätesoftware, die erkennt, wenn das Fahrzeug auf dem Prüfstand den Neuen Europäischen Fahrzyklus (NEFZ) durchfährt, und die dann einen besonderen Modus aktiviert (sog. Umschaltlogik). In diesem wird die Rückführung von Abgasen im Vergleich zu dem normalen Betriebsmodus verändert, wodurch der nach der Euro-6-Norm vorgegebene NOx-Grenzwert während des Durchfahrens des NEFZ eingehalten wird. Im normalen Fahrbetrieb - auch unter vergleichbaren Bedingungen wie im NEFZ - wird dieser Modus deaktiviert, wodurch es zu einem höheren Schadstoffausstoß kommt. Der streitgegenständliche Dieselmotor wurde von der Beklagten zu 3) entwickelt und hergestellt und von der Beklagten zu 2) lediglich zugekauft.Das Kraftfahrt-Bundesamt verpflichtete die Beklagte zu 2) am 28.07.2017, in sämtlichen betroffenen Fahrzeugen die aus Sicht des Bundesamtes unzulässige Abschaltvorrichtung zu entfernen und nachzuweisen, dass die gesetzlichen Anforderungen erfüllt werden. Die Beklagte zu 2) bietet ein Update für die Motorensteuerungsgerätesoftware, nach dessen Einspielen das Fahrzeug nur noch über einen einheitlichen Betriebsmodus verfügt. Das Kraftfahrt-Bundesamt sieht das Aufspielen des Updates als verpflichtend an. Wer davon absieht, muss damit rechnen, dass der Zustand des Fahrzeugs von den Prüforganisationen im Rahmen der Hauptuntersuchung als erheblicher Mangel eingestuft wird. Unter Umständen ist auch mit einem Entzug der Zulassung zu rechnen.Der Kläger hat das angebotene Update bisher nicht in Anspruch genommen.Der Kilometerstand des streitgegenständlichen Fahrzeuges betrug im Zeitpunkt der letzten mündlichen Verhandlung 51.493 km.Der Kläger hat am 31.01.2018 gegenüber der Beklagten zu 1) die Anfechtung des Kaufvertrages wegen arglistiger Täuschung über die Beschaffenheit des Fahrzeuges erklärt und zugleich eine Frist zur Nacherfüllung bis zum 14.02.2018 gesetzt. Er ist schließlich mit Schreiben vom 15.03.2018 vom Kaufvertrag zurückgetreten. Gegenüber den Beklagten zu 2) und 3) hat er am gleichen Tag Schadensersatz aus §§ 826, 249 BGB verlangt.Der Kläger behauptet, dass das streitgegenständliche Fahrzeug mangelhaft sei, weil es eine unzulässige Abschalteinrichtung enthalte. Er habe bei Erwerb des Fahrzeuges nicht davon ausgehen müssen, dass eine entsprechende Abschalteinrichtung verbaut sei. Er sei hier getäuscht worden, weil die vorgenommenen Eintragungen nicht den vorhandenen Fahrzeugeigenschaften entsprechen würden.Er ist der Auffassung, dass ihm neben vertraglichen Ansprüchen gegen den Verkäufer auch gegen die Hersteller deliktische Ansprüche, insbesondere aus §§ 826 BGB, 823 Abs. 2 BGB i.V.m. 263 StGB zustünden.Der Kläger beantragt:1. Die Beklagten werden verurteilt, als Gesamtschuldner an die Klagepartei 65.000 Euro nebst Zinsen in Höhe von 4 % vom 21.04.2017 bis Rechtshängigkeit sowie weitere Zinsen hin Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu bezahlen,hilfsweiseabzüglich der Zahlung einer Nutzungsentschädigung in Euro pro gefahrenem km seit dem 09.05.2017 (Laufleistung zum Zeitpunkt der Übergabe: 10.300 km), die sich nach folgender Formel berechnet: (65.000 Euro × gefahrene Kilometer) : 500.000 kmZug-um-Zug gegen Übereignung und Herausgabe des Fahrzeuges Porsche Cayenne Diesel Tiptronic, 193 kw/262 PS, moonlightbluemetallic, FIN: ...2. Die Beklagten werden als Gesamtschuldner verurteilt, an den Kläger 1.879 Euro nebst Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.3. Die Beklagten werden als Gesamtschuldner verurteilt, den Kläger von außergerichtlichen Rechtsverfolgungskosten in Höhe von 2.085,95 Euro freizuhalten.4. Es wird festgestellt, dass sich die Beklagten mit der Rücknahme des PKW des Klägers, Porsche Cayenne Diesel Tiptronic, 193 kw/262 PS, moonlightbluemetallic, FIN: ..., in Annahmeverzug befinden.5. Es wird festgestellt, dass die Beklagten verpflichtet sind, an den Kläger Schadensersatz zu zahlen für Schäden, die aus der Ausstattung des Fahrzeugs Porsche Cayenne Diesel Tiptronic, 193 kw/262 PS, moonlightbluemetallic, FIN: ..., mit der manipulierenden Motorsoftware resultieren.Die Beklagten beantragen,die Klage abzuweisen.Die Beklagten behaupten, dass das streitgegenständliche Fahrzeug nicht mangelhaft war und jedenfalls mit der technisch möglichen Überarbeitung ("Software-Update") nicht mehr mangelbehaftet wäre. Auch bestünden keine negativen Auswirkungen auf die Haltbarkeit des Motors und des Verbrauches. Ein Minderwert bestehe nicht.Die Beklagten sind der Ansicht, dass auch deliktische Ansprüche nicht gegeben seien.Das Gericht hat zuletzt am 31.07.2019 mündlich zur Sache verhandelt. Auf die Sitzungsniederschriften wird zur Ergänzung des Tatbestandes ebenso Bezug genommen, wie auf die wechselseitig ausgetauschten Schriftsätze der Parteien nebst Anlagen und sonstigen Aktenteilen. 
+				Gründe
+				Die zulässige Klage ist teilweise begründet. Dem Kläger steht gegen die Beklagte zu 1) ein Zahlungsanspruch in Höhe von 52.552,26 Euro Zug-um-Zug gegen Rückgabe und Übereignung des streitgegenständlichen Fahrzeuges nebst Winterreifen zu, §§ 433, 434, 437, 323, 280 BGB. Im Übrigen war die Klage abzuweisen.I.Die Klage ist im Wesentlichen zulässig. Ordnungsgemäße Klageerhebung und die persönlichen Sachurteilsvoraussetzungen begegnen keinen rechtlichen Bedenken. Das Landgericht München I ist örtlich und sachlich zuständig nach §§ 23 Nr. 1, 71 Abs. 1 GVG, 17, 29, 32, 35 ZPO. Die eingeklagte Summe übersteigt einen Betrag von 5.000,- Euro; mindestens eine der behaupteten unerlaubten Handlungen durch die Beklagten zu 2) und 3) fand bei Kaufvertragsabschluss im Landgerichtsbezirk statt. Die Beklagte zu 1) hat ihren Sitz in München. Hier fand auch die Erfüllung des streitgegenständlichen Kaufvertrages statt.Hinsichtlich des Feststellungsantrages, dass die Beklagten auch künftige Schäden zu ersetzen haben, die aus der Ausstattung des Fahrzeuges mit der "manipulierenden Motorsoftware" resultieren, fehlt es am Feststellungsinteresse. Die Klage ist insoweit unzulässig. Die Klageseite konnte nicht aufzeigen, inwieweit tatsächlich weitere Schäden drohen, insbesondere da sie im ersten Klageantrag die Rückgabe des Fahrzeuges erstrebt.II.Die Klage ist nur teilweise begründet. Dem Kläger steht ein Zahlungsanspruch gegen die Beklagte zu 1) in tenorierter Höhe gegen Rückgabe und Übereignung des streitgegenständlichen Kraftfahrzeuges aus §§ 433, 434, 437, 323, 346, 349 BGB zu. Hinsichtlich der Beklagten zu 2) und 3) war die Klage abzuweisen.Im Einzelnen:1. Ansprüche gegen die Beklagte zu 1)a) Beide Parteien band zunächst ein Kaufvertrag vom 19.04.2017 (K1).b) Die klägerseits erklärte Anfechtung des Kaufvertrages greift nicht durch, weil es hinsichtlich des Vorwurfs einer arglistigen Täuschung an ausreichend vorgetragenen Anhaltspunkten dafür fehlt, dass die Beklagte zu 1) im Zeitpunkt des Kaufvertrages von der Art und Funktion der verwendeten Motorsteuerungssoftware wusste. Eine Wissenszurechnung über die Beklagte zu 2) und/oder 3) ist nicht erkennbar.c) Der Kläger hat aber Rückgewähransprüche der Kaufsache gegen die Beklagte zu 1).(1) Der Kläger ist vom Kaufvertrag am 15.03.2018 wirksam zurückgetreten, § 349 BGB.(2) Das im Jahr 2017 übergebene Fahrzeug war im Zeitpunkt des Rücktrittes mangelhaft, weil es nicht die übliche Beschaffenheit aufwies, § 434 Abs. 1 S. 2 Nr. 2 BGB. Das Gericht sieht den Sachmangel bereits darin, dass der interessierende Pkw einem Software-Update unterzogen werden muss, um die Auflagen des Kraftfahrt-Bundesamtes zu erfüllen und um den Entzug der Betriebserlaubnis zu verhindern. Es ist der Auffassung, dass ein Käufer annimmt, dass der Hersteller eines Fahrzeuges die erforderlichen Erlaubnisse und Genehmigungen nicht durch Täuschung erwirkt hat. Der vernünftige Durchschnittskäufer muss, wenn er ein für den Betrieb im Straßenverkehr vorgesehenes Fahrzeug erwirbt, davon ausgehen, dass das betreffende Fahrzeug entweder zu Recht zugelassen oder zulassungsfähig ist.Hier hatte der Kläger das Fahrzeug nach Bekanntwerden des sog. "Diesel-Abgasskandals" gekauft. Dabei konnte er ohne weiteres davon ausgehen, dass nach der Entdeckung der unzulässigen Abschalteinrichtung keine weiteren Fahrzeuge des VW-Konzerns mit dieser Technik veräußert werden. Dies gilt hier besonders deshalb, weil die Erstzulassung im Februar 2016 und damit gut 5 Monate nach Bekanntwerden des Dieselskandals erfolgte. Dementsprechend durfte er bei Abschluss des Kaufvertrages davon ausgehen, dass sich der Hersteller rechtmäßig verhalten und die für den Betrieb seines Pkws sowie für die Zulassung desselben erforderlichen Zulassungen, Genehmigungen und Erlaubnisse nicht durch Täuschung und nicht unter Anwendung einer Manipulations-Software erwirkt hatte. Da dies tatsächlich aber nicht der Fall war und in dem vom Kläger erworbenen Pkw vom Hersteller eine Manipulations-Software eingesetzt worden war, wies das Fahrzeug nicht die übliche Beschaffenheit im Sinne des § 434 Absatz 1 S. 2 Nr. BGB auf. Diese Abweichung betrifft auch einen für den vernünftigen Durchschnittskäufer bedeutsamen Gesichtspunkt.(3) Weil das Fahrzeug im Zeitpunkt des Rücktrittes mangelhaft war und damit die Beklagte zu 1) den Vertrag nicht ordnungsgemäß erfüllt hat, konnte der Kläger vom Vertrag zurücktreten, §§ 434, 437 Nr. 2, 323, 349 BGB. Dies auch deshalb, weil eine Unerheblichkeit der Pflichtverletzung sowie ein unerheblicher Sachmangel bei Gefahrübergang gemäß § 323 Abs. 5 S. 2 BGB nicht vorliegen.So mag es zwar richtig sein, dass das zur Beseitigung des Mangels erforderliche Ersetzen der Manipulations-Software durch die vom Kraftfahrt-Bundesamt geprüfte und zugelassene, neu entwickelte Software lediglich einen geringen zeitlichen Aufwand sowie geringe Kosten verursacht. Darüber hinaus ist aber zu berücksichtigen, dass die notwendige Software nicht zur Verfügung stand, als die vom Hersteller zu verantwortende, flächendeckende Täuschung und der Einsatz der Manipulations-Software entdeckt wurden. Vielmehr bedurfte es gerade erst ihrer Entwicklung und Genehmigung durch die Behörden, weshalb klar wird, dass der Mangel nicht ohne weiteres zu beheben war.(4) Eine Fristsetzung war gemäß §§ 437 Nr. 2, 440, 323 II Nr. 3 BGB entbehrlich.Der Bestimmung einer angemessenen Frist zur Nacherfüllung bedarf es dann nicht, wenn besondere Umstände vorliegen, die unter Abwägung der beiderseitigen Interessen den sofortigen Rücktritt des Käufers rechtfertigen (BGH NJW 2007, 835).Zur Überzeugung des Gerichts liegen solche Umstände hier vor. Der Kläger musste sich nicht auf eine Nachbesserung seitens der Beklagten zu 1) einlassen, sondern konnte sogleich vom Kaufvertrag zurücktreten.Hierfür spricht der massive Verlust des Vertrauens des Klägers in die Beklagtenseite zum Zeitpunkt des Rücktritts. Die Typenzulassung wurde durch objektiv gesetzwidriges Verhalten der Beklagten zu 2), d.h. durch Täuschung erlangt. Dadurch wurde das Vertrauen des Klägers in das gesetzmäßige Verhalten der Beklagten zu 2) erschüttert. Dies wirkt sich mittelbar auch auf ihr Verhältnis zu der Beklagten zu 1) als ... aus. Das Vertrauensverhältnis des Klägers zu der Beklagten zu 1), die zumindest in einem Näheverhältnis zur Herstellerin, der Beklagten zu 2), steht, war demnach zum Zeitpunkt des Rücktritts nachhaltig beeinträchtigt. Auf die eigene Kenntnis der Beklagten zu 1) von den Manipulationen kommt es dabei folglich nicht an.Die Beklagte zu 1) hatte im Schreiben vom 14.02.2018 (Anlage K10) deutlich gemacht, dass die möglichen Abhilfemaßnahmen und technischen Lösungen allein durch die Beklagte zu 2) entwickelt wurden. Angesichts des vorangegangenen rechtswidrigen Verhaltens der Beklagten zu 2) bei Erlangung der Typengenehmigung und der Einhaltung der Umweltstandards, war dem Kläger nicht zuzumuten, sich hierauf einzulassen.Auch die von der Beklagtenseite vorgetragenen Bescheinigungen und Absichtserklärungen des Herstellers vermochten das zerrüttete Vertrauensverhältnis des Klägers zu der Beklagtenseite - insbesondere aufgrund des Ausmaßes und Umfangs der Manipulationen insgesamt - nicht wiederherzustellen. Schließlich ist der Kläger auch weiter mit der erheblichen Unsicherheit konfrontiert, dass der sog. "Diesel-Abgasskandal" noch weitere Folgen auslöst. Bis heute sind die Auswirkungen des Softwareupdates auf Fahrleistung und Fahrzeug zumindest umstritten. In der Gesamtabwägung der beiderseitigen Interessen lagen daher besondere Umstände vor, die eine Fristsetzung für die Nacherfüllung entbehrlich machten.(5) Infolge des erklärten Rücktrittes wandelt sich das Schuldverhältnis in ein Rückgewährschuldverhältnis um, so dass die Beklagte zu 1) verpflichtet ist, dem Kläger den erhaltenen Kaufpreis Zug um Zug gegen Rückerhalt des verkauften Fahrzeuges zu erstatten. Hierbei sind aber die gezogenen Nutzungen zu berücksichtigen und vom Kaufpreis abzuziehen, § 346 BGB.Es errechnet sich hier ein Nutzungswertersatz in Höhe von 13.387,72 Euro (Kaufpreis × gefahrene Kilometer/Gesamtlaufleistung). Das Gericht nimmt dabei eine durchschnittliche Laufleistung des Fahrzeuges von 200.000 km an.(6) Im Ergebnis war daher die Beklagte zu 1) zu einer Zahlung in Höhe von 51.612,28 € Zug um Zug gegen Rückgabe des streitgegenständlichen Fahrzeuges zu verurteilen.d) Darüber hinaus hat die Beklagte zu 1) im Rahmen des §§ 433, 434, 437, 280 ff BGB dem Kläger auch Ersatz für die am 06.12.2017 erworbenen Winterreifen von der ... zu leisten. Der Erwerb von Winterreifen gehört zum notwendigen Zubehör eines Kraftfahrzeuges, damit dieses ganzjährig genutzt werden kann. Allerdings muss sich der Kläger auch hierbei die Gebrauchsvorteile anrechnen lassen. Allgemein hält ein Satz Winterreifen durchschnittlich 40.000 km. Hier ist der Kläger insgesamt 41.193 km gefahren. Ein Aufziehen der Winterreifen ist in hiesigen Breiten zwischen Oktober und Ostern, mithin über die Zeitspanne eines halben Jahres, erforderlich. Im Ergebnis dürften daher die Reifen ihre hälftige Nutzungszeit erreicht haben, so dass dem Kläger gemäß § 287 ZPO lediglich 939,98 Euro als Schadensersatz zustehen. Zudem sind die Reifen an die Beklagte zu 1) zu übergeben.e) Dagegen war der Klageantrag auf Feststellung des Annahmeverzugs unbegründet. Ein Annahmeverzug im Sinne des § 293 BGB liegt nicht vor, da der Kläger die Leistung so, wie sie zu bewirken ist, hätte anbieten müssen (§ 294 BGB). Die Klageseite hat die gezogenen Nutzungen nicht angesetzt und damit kein ausreichendes Angebot der Beklagten zu 1) für die Rücknahme des Fahrzeugs unterbreitet.2. Ansprüche gegen die Beklagte zu 2) und 3)Der Kläger hat keine deliktischen Ansprüche gegen die Beklagten zu 2) und 3). Solche sind schon nicht ausreichend schlüssig dargestellt.a) Soweit sich der Kläger auf § 823 Abs. 2 in Verbindung mit § 263 StGB stützt, fehlt es schon an der sogenannten Stoffgleichheit. Die von der Beklagten angestrebte Einsparung an Entwicklungskosten ist nicht die Kehrseite des klägerischen Schadens.b) Hinsichtlich eines Anspruches aus § 826 BGB fehlt es an einem ausreichenden Vortrag zum Vorsatz eines verfassungsmäßig berufenen Vertreters im Sinne von § 31 BGB. Insofern ist erforderlich, dass die vorsätzliche oder sittenwidrige Schädigungshandlung einem Verantwortlichen oder Repräsentanten zugerechnet werden kann, da die §§ 823, 826 BGB eine Haftung für personalisiertes Unrecht darstellen (vgl. dazu BGH NJW 2017, 250).Fehlt es an der Feststellung, dass ein verfassungsmäßig berufener Vertreter der für die Motorsteuerung verantwortlichen juristischen Person von dem Mangel Kenntnis gehabt hat, so lässt sich der Vorwurf der Sittenwidrigkeit nicht dadurch begründen, dass unter Anwendung der Grundsätze der Wissenszurechnung und -zusammenrechnung auf die "im Hause" der juristischen Person vorhandenen Kenntnisse abgestellt wird. Insbesondere lässt sich eine die Sittenwidrigkeit begründende bewusste Täuschung nicht dadurch konstruieren, dass bei Mitarbeitern einer juristischen Person vorhandene kognitive Elemente mosaikartig zusammengesetzt werden. Das Wollenselement des Schädigungsvorsatzes gemäß § 826 BGB setzt grundsätzlich korrespondierende Kenntnisse derselben natürlichen Person voraus. Auch dies steht der Anwendung der Grundsätze der Wissenszurechnung und - zusammenrechnung im Rahmen des § 826 BGB regelmäßig entgegen (BGH a.a.O.). Um einem derartigen Anspruch nachzugehen, wäre es erforderlich, dass der Kläger vorträgt, welcher Verantwortliche wann in welcher Weise von der Verwendung der Motorsteuerungssoftware Kenntnis gehabt hat, und dies ggf. unter Beweis stellt.Hierzu hat der Kläger aber nicht ausreichend konkret vorgetragen. Hinzu kommt vorliegend, dass unstreitig der Motor nicht aus dem Hause der Beklagten zu 2) stammt, sondern lediglich zugekauft wurde, so dass die Schwelle für eine Wissenszurechnung bei der Beklagten zu 2) nochmals erhöht ist.Im Übrigen ist ein Vorsatz im Hinblick auf eine Schädigung von Erwerbern durch die von der Beklagten zu 2) und 3) hergestellten Fahrzeuge infolge eines Publikwerdens der Manipulationen auch zweifelhaft. Denn auch bei Unterstellung einer Kenntnis von Vertretern im Sinne des § 31 BGB von den Manipulationen wäre jedenfalls davon auszugehen, dass die betreffenden Personen darauf vertrauten, dass die Manipulationen unentdeckt bleiben würden. Dass die Aufdeckung - mit den nunmehr eingetretenen verheerenden Auswirkungen auch für die Beklagten zu 2) und 3) - dagegen billigend in Kauf genommen worden wäre, ist dem Vortrag des Klägers nicht zu entnehmen. Dies gilt auch dafür, dass hier die Grenze zwischen bewusster Fahrlässigkeit ("wird schon gutgehen") hin zum bedingten Vorsatz ("und wenn schon") tatsächlich überschritten wurde.3. Weil schließlich auch kein anderer rechtlicher Gesichtspunkt erkennbar ist, der den Klageantrag stützt, war die Klage gegen die Beklagten abzuweisen.4. Hinsichtlich des begehrten Feststellungsantrages ist schon keine Anspruchsgrundlage für die Rücknahme des Fahrzeuges durch die Beklagten zu 2) und 3) ersichtlich. Diese sind nicht Vertragspartner des Klägers. Im Übrigen würde mangels eines Hauptanspruches auch ein Annahmeverzug ausscheiden.3. Nebenforderungena) Dagegen waren die vorgerichtlichen Rechtsanwaltskosten nicht ersatzfähig, da die Beklagte zu 1) erst infolge des Rücktrittsschreibens in Schuldnerverzug geriet. Ein den Verzug (mit-) begründendes Schreiben kann jedoch keinen Verzugsschaden darstellen, somit auch keinen diesbezüglichen Anspruch auf außergerichtliche Anwaltskosten.Der Anspruch ergibt sich auch nicht aus §§ 433, 434, 437 Nr. 2, 281 BGB. Zwar kommt Schadensersatz für eine mangelhafte Leistung wegen schuldhafter Verletzung der Pflicht zur Lieferung einer mangelfreien Kaufsache in Betracht (Vgl. Weidenkaff in Palandt, BGB, 77. Aufl., § 437 Rn. 38). Macht der Kläger neben der Rückabwicklung einen Schaden aufgrund der ihm entstandenen Anwaltskosten geltend, müssen die Voraussetzungen des § 281 BGB vorliegen. Die dort vorgesehene Fristsetzung vor der Einschaltung eines Rechtsanwaltes liegt jedoch nicht vor. Sofern er daher die Anwaltskosten als Schaden geltend machen will, fehlt es an der erforderlichen Fristsetzung nach § 281 Abs. 1 S. 1 BGB. Besondere Umstände im Verhältnis zwischen dem Kläger und der Beklagten zu 1), die eine entsprechende Fristsetzung nach § 281 Abs. 2 entbehrlich gemacht hätten, liegen nicht vor.b) Die begehrten Nebenforderungen aus § 849 BGB sind ebenso nicht ersatzfähig. Die Beklagten haften nicht aus Deliksrecht; die Beklagte zu 1) allein aus Vertragsrecht. Insoweit wäre dort die Verzinsung nur als Schaden ersetzbar, der aber nach Auffassung des Gerichts nicht vorliegt, weil der Kläger das Fahrzeug bislang im gewünschten Umfang nutzen konnte.c) Rechtshängigkeitszinsen sind dagegen seit dem 08.06.2018 ersatzfähig, § 291. Die Zustellung der Klage erfolgte am 07.06.2018.III.Die Kostenentscheidung beruht auf § 92 Abs. 1 S. 1, 100 ZPO. Die Regelung zur vorläufigen Vollstreckbarkeit hat ihre Grundlage jeweils in § 709 S. 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2380452.html (https://oj.is/2380452)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG HammRechtsprechungBeschluss vom 17.12.2020 - 18 U 145/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Hamm, Beschluss vom 17.12.2020 - 18 U 145/20
+                      m. Fundstelle
+                      OLG Hamm, Beschluss vom 17.12.2020 - 18 U 145/20 = openJur 2021, 44919
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Hamm, Beschluss vom 17.12.2020 - 18 U 145/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 44919
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 2 O 747/18
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung der Klägerin gegen das am 10.8.2020 verkündete Urteil des Landgerichts Arnsberg (Az. I-2 O 747/18) wird zurückgewiesen.Die Kosten der Berufung trägt die Klägerin.Das angefochtene Urteil und der vorliegende Beschluss sind ohne Sicherheitsleistung vorläufig vollstreckbar.Die Revision wird nicht zugelassen.  
+				Gründe
+				A.Auf die Darstellung des Sachverhalts im Hinweisbeschluss vom 2.11.2020 wird Bezug genommen.Die Klägerin hat innerhalb der ihr gewährten Stellungnahmefrist mit Schriftsatz vom 25.11.2020 erneut dargelegt, ihr Vortrag zur Existenz unzulässiger Abschalteinrichtungen in dem Fahrzeug sei auch nach den Maßstäben des VIII. Zivilsenats des Bundesgerichtshofs (Beschluss vom 8.1.2019, Az. VIII ZR 225/17) ausreichend.Sodann sei zu berücksichtigen, dass die Beklagte - auch nach eigener Darstellung - ihre Verpflichtung gegenüber "den Prüfbehörden" zur Offenbarung wesentlicher Aspekte der Emissionskontrolle verletzt habe. Namentlich habe sie es an Angaben zu Funktionsweisen des AGR-Systems bei niedrigen Temperaturen und zu den Auswirkungen auf das Emissionsverhalten (Art. 3 Nr. 9 VO(EG) 692/2008) fehlen lassen. Insoweit sei von Vorsatz auszugehen, den die Beklagte auszuräumen habe.Dass in ihrem Fahrzeug unzulässige Abschalteinrichtungen vorhanden seien, ergebe sich aus einer Reihe von Indizien, u.a. durch das Gutachten der Deutschen Umwelthilfe und durch das "heimliche" Aufspielen eines Updates. Namentlich finde eine umgebungstemperaturabhängige Reduzierung der Abgasreinigung statt, die als unzulässige Abschalteinrichtung gem. Art. 3 Nr. 10 VO(EG) 715/2007 anzusehen sei.Die Beklagte treffe eine sekundäre Darlegungslast sowohl in Bezug auf Einzelheiten der Motorsteuerung als auch hinsichtlich des (fehlenden) Vorsatzes ihres Vorstands.Unzutreffend sei es, die Sittenwidrigkeit der Beklagten im Hinblick auf ihre sog. Adhoc-Mitteilung vom 22.9.2015 entfallen zu lassen. Diese Mitteilung sei weder an die betroffenen Endverbraucher gerichtet gewesen noch habe sie nach den im Einzelnen betroffenen Fahrzeugfabrikaten oder -motorisierungen unterschieden. Für die Sittenwidrigkeit sei vielmehr auf den Zeitpunkt des Inverkehrbringens des jeweils betroffenen Fahrzeugs abzustellen. Im Übrigen sei auch in den weiteren Informationen der Beklagten keine vollständige Offenlegung der Verstöße und der daraus möglicherweise folgenden Konsequenzen vorgenommen worden.Überdies sei das Aufspielen des Updates mit den darin enthaltenen "neuen Abschalteinrichtungen" als ein in Ansehung der Verjährung eigenständiges Delikt aufzufassen.Es bleibe dabei, dass durch das Software-Update der Mangel, der seinen Grund letztlich in "unzureichenden Hardware-Teilen" habe, nicht beseitigt worden sei, sondern vielmehr weitere unzulässige Abschalteinrichtungen installiert worden seien.Die Klägerin begehrt ferner die Zulassung der Revision.B.Die Voraussetzungen für eine Zurückweisung der Berufung durch Beschluss gem. § 522 Abs. 2 ZPO liegen auch unter Berücksichtigung des Vortrags der Klägerin in ihrem Schriftsatz vom 25.11.2020 vor.I.Die Berufung hat offensichtlich keine Aussicht auf Erfolg.1.Zunächst bleibt der Senat bei seiner Einschätzung, dass es an greifbaren Anhaltspunkten für das Vorhandensein unzulässiger Abschalteinrichtungen fehlt. Aus der Adhoc-Mitteilung der Beklagten, die die gesamte Baureihe EA189 erfasste, lässt sich angesichts der Vielzahl der produzierten Varianten ("Unterbaureihen") nicht entnehmen, dass auch der hier betroffene Motor mit einer unzulässigen Steuerung ausgestattet worden ist. Die Klägerin legt selbst einen Wikipedia-Eintrag vor, der für den im A verwendeten Dieselmotor 2.0 TDI der Baureihe EA189 für den Zeitraum von 10/2009 bis 09/2016 fünf unterschiedliche Ausführungen, erkennbar an spezifischen Motorkennbuchstaben (hier: X1, so auch im "Fahrzeugschein"), ausweist.Den Erkenntnissen der Deutschen Umwelthilfe kommt, wie dargelegt, schon deshalb keine ausreichende indizielle Bedeutung zu, weil sich die Untersuchungen auf den Motor mit 132 kW beziehen; es handelt sich laut Wikipedia-Eintrag dabei um den Motorkennbuchstaben X2 (das Aggregat verfügt - anders als der Motor im Fahrzeug der Klägerin - über einen sog. Bi-Turbolader).2.Abgesehen davon kommt es jedoch letztlich nicht darauf an, ob der von der Klägerin im Jahr 2017 erworbene A unzulässige Abschalteinrichtungen aufweist, ggf. auch solche, die erst mit dem Software-Update aufgespielt worden sind.Denn die Voraussetzungen für eine deliktische Haftung der Beklagten sind nach den Maßstäben, die der Bundesgerichtshof in seinen Urteilen vom 25.5.2020 (Az. VI ZR 252/19), vom 30.7.2020 (Az. VI ZR 5/20) und vom 8.12.2020 (Az. VI ZR 244/20 betr. den Kauf eines B mit einem Motor der Baureihe EA189) aufgestellt hat, nicht erfüllt.a)Unabhängig von der Frage, ob der im Fahrzeug befindliche Motor nun im Zeitpunkt des Erwerbs durch die Klägerin eine unzulässige Abschalteinrichtung aufwies oder nicht, hat die Beklagte mit ihrer Adhoc-Mitteilung, die sich auf sämtliche Motoren der Baureihe EA189 bezog (ein Motor "EA189" befindet sich auch im Fahrzeug der Klägerin), einem Vertrauen der Eigentümer, Verkäufer und auch der künftigen Erwerber jeglicher mit einem Motor der Baureihe EA189 ausgerüsteter Fahrzeuge in die Einhaltung der (bei Inverkehrbringen geltenden) Emissionsvorschriften die Grundlage entzogen.Für die Annahme einer über diesen Zeitpunkt fortdauernden Täuschung ist daher die Grundlage entfallen.b)Vor diesem Hintergrund bliebe nur dann noch Raum für eine Täuschung zu Lasten der Klägerin, wenn die Beklagte - noch vor dem Zeitpunkt des Kaufvertragsabschlusses, hier also des 18.7.2017 - (wieder) zu einer Täuschung übergegangen wäre, nämlich des Inhalts, dass das betreffende Fahrzeugmodell (A 2,0 TDI Motorbaureihe EA189, Motorkennbuchstabe X1) von den emissionsrechtlichen Problemen nicht betroffen sei bzw. keine unzulässigen Abschalteinrichtungen aufweise.aa)Schon dies lässt sich dem Vortrag der Klägerin nicht entnehmen. Namentlich ergibt sich eine solche Täuschung der Beklagten nicht aufgrund der Äußerung des Verkäufers, das Fahrzeug sei "nicht betroffen", weil schon unklar ist, worauf sich diese Information bezog (etwa nur auf Maßnahmen des KBA?) und woher der Verkäufer seine Kenntnis genommen hatte.bb)Überdies ist nicht ersichtlich, dass eine etwaige (neuerliche) Täuschung auch vom Vorstand der Beklagten bzw. einem sonstigen verfassungsmäßig berufenen Vertreter (§ 31 BGB) vorgenommen worden ist. Dafür fehlt es an ausreichenden Anhaltspunkten.Dies gilt auch im Hinblick auf die von der Beklagten selbst in ihrer Klageerwiderung erwähnte, vom "Leiter Vertrieb Deutschland" C verantwortete Mitteilung, wonach das Fahrzeug der Klägerin nicht von der Software betroffen sei, die "die Stickoxidwerte ... im Prüfstandlauf (NEFZ) optimiert".Abgesehen davon, dass nicht mitgeteilt wird, ob diese Mitteilung bereits vor dem 18.7.2017 abrufbar war, fehlt es auch dann, wenn C als verfassungsmäßig berufener Vertreter anzusehen sein sollte, an Anhaltspunkten dafür, dass er mit dieser Aussage eine Täuschung beging. Voraussetzung dafür wäre, dass ihm die Unrichtigkeit der Erklärung bewusst war. Die Annahme eines solchen Täuschungsvorsatzes liegt schon deshalb fern, weil der Vorstand selbst mit der Adhoc-Mitteilung vorgegeben hatte, sämtliche Motoren der Baureihe EA189 prüfen und "nachbessern" zu wollen, um Vertrauen zurückzugewinnen. Dem entspräche es nicht, bezüglich einiger "Unterbaureihen" nunmehr zu (neuen) Täuschungen Zuflucht zu nehmen, zumal die Beklagte wusste, unter scharfer Beobachtung der Medien und von Umweltlobbyisten zu stehen.cc)Aus diesem Grund fehlt es auch an Anhaltspunkten für einen Haftungstatbestand der Beklagten gem. § 831 Abs. 1 S. 1 BGB. Soweit es durch Mitarbeiter der Beklagten unterhalb der Ebene des Vorstands oder sonstiger verfassungsmäßig berufener Vertreter (Verrichtungsgehilfen) nach dem 22.9.2015 zu Erklärungen gegenüber Fahrzeughaltern, -verkäufern oder interessierten Kreisen gekommen sein sollte, dass das hier in Rede stehende Fahrzeugmodell von keinen emissions- bzw. zulassungsrechtlichen Problemen betroffen sei, fehlt es aus den soeben genannten Gründen an Anhaltspunkten daran, dass solche Verlautbarungen bewusst falsch erfolgten.Erst wenn sich solche Anhaltspunkte ergäben, bestünde Anlass für eine sekundäre Darlegungslast der Beklagten.3.Schließlich überzeugt der Vortrag im Schriftsatz der Klägerin vom 25.11.2020 auch deshalb nicht, weil dort an mehreren Stellen (vgl. dort S. 12 u. S. 16) darauf abgestellt wird, dass es sich bei dem streitgegenständlichem Fahrzeug nicht um einen A handelt. Dies ist unrichtig.II.Auch die weiteren Voraussetzungen (§ 522 Abs. 2 S. 1 Nr. 2. - 4. ZPO) für eine Zurückweisung der Berufung im Beschlussweg liegen vor.Dies gilt namentlich im Hinblick auf die Rechtsprechung des Bundesgerichtshof zur (Nicht-)Fortdauer sittenwidrigen Verhaltens der Beklagten in Bezug auf die Motorbaureihe EA189 über den 22.9.2015 hinaus.
+			
+			
+			
+			Permalink: https://openjur.de/u/2379539.html (https://oj.is/2379539)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSachsen-AnhaltOrdentliche GerichtsbarkeitLG MagdeburgRechtsprechungUrteil vom 21.03.2019 - 10 O 371/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Magdeburg, Urteil vom 21.03.2019 - 10 O 371/18
+                      m. Fundstelle
+                      LG Magdeburg, Urteil vom 21.03.2019 - 10 O 371/18 = openJur 2020, 45844
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Magdeburg, Urteil vom 21.03.2019 - 10 O 371/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 45844
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2.Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht Ansprüche aus der sogenannten "VW-Abgasproblematik" geltend.Am 14.03.2014 kaute der Kläger mittels Barzahlung bei dem Autohaus X in Halberstadt einen gebrauchten VW Tiguan 2.0 TDI zum Preis von 25.490,00 €.. Die Erstzulassung erfolgte am 10.05.2010 und die Laufleistung betrug 62.060 km.Verbaut ist in den Pkw ein Motor von dem Typ EA189. Dieses Fahrzeug wurde aufgrund einer entsprechend Typgenehmigung nach der EU-Abgasnorm 5 zugelassen.Der Umfang der NOX-Emissionen des Fahrzeugs hängt u.a. davon ab, in welchem Umfang Abgase aus dem Auslassbereich des Motors über ein Abgasrückführungsventil in den Ansaugtrakt des Motors zurückgeleitet werden: Je mehr Abgase zurückgeführt werden, desto weniger Stickoxide werden emittiert. Die das Abgasventil steuernde Software des Motorsteuerungsgeräts erkannte, ob sich das Fahrzeug innerhalb oder außerhalb der Bedingungen des zur Erlangung der Typengenehmigung durchgeführten Testlauf nach dem NEFZ befindet. Befand sich das Fahrzeug außerhalb der Bedingungen des NEFZ wurden relativ weniger Abgase in den Ansaugtrakt des Motors zurückgeleitet als wenn sich das Fahrzeug innerhalb der Bedingungen des NEFZ befand.Darauf erfolgte ein verbindlicher Rückruf durch das Kraftfahrzeugbundesamt (KBA). Der Hersteller entwickelte sodann ein Softwareupdate, das vom Kraftfahrzeugbundesamt am 01.06.2016 (Bl. 59 d.A.) freigegeben wurde.Die Klagepartei meint, die Beklagte hafte aus § 826 BGBDie Klagepartei beantragt,1. Die Beklagte wird verurteilt, an die Klagepartei 25.490,00 € nebst Zinsen in Höhe von 4 % seit dem 02.04.2014 bis zum Eintritt der Rechtshängigkeit sowie in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen,hilfsweise: abzüglich einer Nutzungsentschädigung in EUR pro gefahrenen km seit dem 02.04.2014, die sich nach folgender Formel berechnet:(25.490,00 € x gefahrene Kilometer): 500.000 kmZug um Zug gegen Übereignung und Herausgabe des Fahrzeuges VW Tiguan TDI R-Line, ...2. festzustellen, dass sich die Beklagte mit der Übergabe und Übereignung des PKW VW Tiguan TDI R-Line, ..., in Annahmeverzug befindet.3. festzustellen, dass die Beklagte verpflichtet ist, dem Kläger sämtliche Schäden zu ersetzen, die aus der Ausstattung des Fahrzeuges VW Tiguan TDI R-Line, ..., mit der manipulierenden Motorsteuerungssoftware resultieren.4. die Beklagte zu verurteilen, an den Kläger für die vorgerichtliche Rechtsverfolgung gegenüber der Beklagten weitere 1.242,84 € zzgl. Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz hieraus seit Rechtshängigkeit zu zahlen.Die Beklagte beantragt,die Klage abzuweisen. 
+				Gründe
+				Der Klagepartei steht gegenüber der Beklagten kein Anspruch auf Zahlung von Schadensersatz in Höhe des Kaufpreises unter Abzug einer Nutzungsentschädigung Zug um Zug gegen Rückgabe des streitgegenständlichen Fahrzeuges zu.Da zwischen dem Kläger und der Beklagten keine vertraglichen Beziehungen bestehen, kommen als Anspruchsgrundlage nur §§ 823 BGB ff. in Betracht, wovon auch die Klagepartei Kläger ausgeht. Eine Täuschungshandlung im Sinne des § 263 StGB der Beklagten gerade gegenüber der Klagepartei, die das Fahrzeug gebraucht von einem Autohaus, das dieses wiederum von einem Voreigentümer erworben hat, ist nicht ersichtlich. In Betracht kommt daher allenfalls § 826 BGB.Das Unterlassen einer für die Kaufentscheidung erheblichen Information in einem Prospekt oder Werbeankündigungen ist für sich genommen nicht verwerflich. Gegen die guten Sitten verstößt ein Verantwortlicher aber dann, wenn er Kauf Interessenten durch eine bewusste Täuschung zum Kauf bewegt (vgl. BGH Urt. vom 28.07.2016 - VI ZR 536/15 = NJW 2017, 250 ff.).Eine vorsätzliche sittenwidrige Schädigung nach § 826 BGB läge aber nur dann vor, wenn die Beklagte etwa bei einem Direktverkauf oder beim Verkauf von Neuwagen durch Händler die Erstkäufer bewusst getäuscht hätte, wenn sie die Konstruktion, die NOx-Werte nur im Prüfstandbetrieb zu minimieren, nicht publizierte. Zweck für diese Konstruktion wäre dann gewesen, die Fahrzeuge für umweltbewusste Käufer interessant zu machen und dadurch eine größere Anzahl von Fahrzeugen zu verkaufen.Diese Überlegung gilt jedoch nicht für eine Klagepartei, die ein mehrere Jahre altes Fahrzeug gebraucht gekauft hat. Von dem Kauf des Klägers vom Voreigentümer hatte die Beklagte zudem überhaupt keine Vorteile (Oberlandesgericht München, Hinweisbeschluss vom 29.01.2019, 32 U 2720/18 - bislang unveröffentlicht).Die Kostenentscheidung beruht auf § 91 ZPO, die zur vorläufigen Vollstreckbarkeit auf § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2262432.html (https://oj.is/2262432)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert2
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

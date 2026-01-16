@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSaarlandOrdentliche GerichtsbarkeitLG SaarbrückenRechtsprechungUrteil vom 23.04.2021 - 12 O 534/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Saarbrücken, Urteil vom 23.04.2021 - 12 O 534/20
+                      m. Fundstelle
+                      LG Saarbrücken, Urteil vom 23.04.2021 - 12 O 534/20 = openJur 2021, 16662
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Saarbrücken, Urteil vom 23.04.2021 - 12 O 534/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 16662
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Stellt das Kraftfahrt-Bundesamt nach Durchführung einer anlassbezogenen Überprüfung fest, dass in Fahrzeugen mit Motoren eines bestimmten Typs keine unzulässigen Abschalteinrichtungen zum Einsatz kommen, ist eine Haftung des Motorenherstellers nach § 826 BGB grundsätzlich ausgeschlossen (hier: Haftung der Volkswagen AG für Motoren des Typs EA 288). 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits trägt die Klägerin.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 120% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Klägerin macht gegen die Beklagte Schadensersatzansprüche wegen behaupteter unzulässiger Abschalteinrichtungen in ihrem Fahrzeug geltend.Die Klägerin kaufte am 20.03.2017 bei der ... einen Seat Alhambra 2.0 TDI mit einer Laufleistung von 24.942 km zum Preis von 28.040,- €. In dem Fahrzeug ist ein von der Beklagten hergestellter Motor des Typs EA 288 Euro 6 eingebaut.Das Fahrzeug hatte am 16.04.2021 eine Laufleistung von 130.807 km.Die Klägerin behauptet, ihr Fahrzeug sei vom sog. Dieselskandal betroffen. Der in dem Fahrzeug eingesetzte Motor enthalte - ähnlich dem Motor EA 189 - eine unzulässige Zykluserkennung/Prüfstanderkennung. Die Beklagte habe trotz positiver Kenntnis über die Funktionsweise der verwendeten Abschalteinrichtungen deren Einbau in das Fahrzeug gebilligt und insoweit eine EG-Typgenehmigung erschlichen. Die Klägerin hätte das Fahrzeug nicht erworben, wenn sie von diesen Umständen Kenntnis gehabt hätte.Die Klägerin beantragt zuletzt unter Anrechnung einer entsprechenden Nutzungsentschädigung:1. Die Beklagte wird verurteilt, an die Klägerin einen Betrag in Höhe von 21.674,- EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit 07.12.2019 Zug um Zug gegen Übergabe und Rückübereignung des Fahrzeugs Seat Alhambra, ... zu zahlen;2. Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des im Klageantrag zu 1. genannten Fahrzeugs seit dem 07.12.2019 im Annahmeverzug befindet;3. Die Beklagte wird verurteilt, die Klägerin von den Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.899,24 EUR freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, das Fahrzeug entspreche in seinem Abgasverhalten den Vorgaben der Euro-6-Norm. Es unterliege zudem keinem Rückruf des KBA, obwohl entsprechende Untersuchungen stattgefunden hätten. In dem Fahrzeug kämen keine unzulässigen Abschalteinrichtungen zum Einsatz.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die gewechselten Schriftsätze nebst Anlagen sowie auf das Protokoll der mündlichen Verhandlung vom 16.04.2021 verwiesen. 
+				Gründe
+				I.Die zulässige Klage ist unbegründet.1. Der Klägerin steht gegen die Beklagte kein Anspruch aus vorsätzlicher sittenwidriger Schädigung (§ 826 BGB) zu.a) Richtig ist zwar, dass bei dem von der Beklagten hergestellten Motor EA 189 eine Software verwendet wurde, die unzulässig ist und im Hinblick auf das Verhalten der Beklagten im Übrigen zu Ansprüchen aus § 826 BGB i.V.m. § 31 BGB analog führen kann (vgl. dazu grundlegend BGH, Urteil vom 25.05.2020 - VI ZR 252/19, NJW 2020, 1962 m.w.N.). So liegt der Fall hier aber nicht. Denn zum einen kann die für den Motortyp EA 189 Euro 5 durch die Rechtsprechung entwickelte Herstellerhaftung der Beklagten nicht ohne weiteres auf einen anderen Motor wie den streitgegenständlichen Motor des Typs EA 288 Euro 6 übertragen werden. Zum anderen sind vorliegend keine konkreten Tatsachen nachgewiesen, aus denen mit der erforderlichen Gewissheit auf ein vorsätzliches sittenwidriges Verhalten der Beklagten geschlossen werden könnte.b) Aus dem Umstand, dass es sich bei dem streitgegenständlichen Motor EA 288 Euro 6 um den Nachfolgemotor des Motors EA 189 Euro 5 handelt, kann die Klägerin nichts für eine Haftung der Beklagten ableiten. Anhaltspunkte dafür, dass in dem Motortyp EA 288 Euro 6 dieselbe oder jedenfalls eine vergleichbare Art von Manipulationssoftware zum Einsatz kommt wie in dem Vorgängertyp EA 189 Euro 5, sind nicht vorhanden, wie die Kammer bereits entschieden hat und seitdem in ständiger Rechtsprechung und in Übereinstimmung mit der weit überwiegenden Auffassung in der obergerichtlichen Rechtsprechung vertritt.aa) Zwar hat die Klägerin die Verwendung einer Manipulationssoftware, insbesondere einer entsprechenden "Umschaltlogik" bzw. einer Zykluserkennung wie bei dem Motor EA 189 Euro 5, behauptet. Diese Behauptungen sieht die Kammer indes durch die Untersuchungen des KBA als widerlegt an, deren Ergebnisse im Bericht der Untersuchungskommission "Volkswagen" veröffentlicht sind. Danach wurde vom KBA derselbe Motortyp (EA 288 Euro 6 2.0 TDI) (vgl. insbesondere S. 60 des Berichts) auf etwaige unzulässige Abschalteinrichtungen untersucht, ohne dass unzulässige Abschalteinrichtungen festgestellt werden konnten (Bericht der Untersuchungskommission "Volkswagen", hrsg. vom BMVI, vorgelegt und abrufbar über die Homepage des KBA, https://www.kba.de/DE/Marktueberwachung/Abgasthematik/erster_ber_uk_vw_nox_pdf.pdf;jsessionid=82320B02CF0F87F14A1B919438DE3F09.live11294?__blob=publicationFile&v=4; vgl. auch "VW-Fall - Bericht der Untersuchungskommission" vom 09.12.2015, S. 76, abrufbar über das Informationssystem des Deutschen Bundestages, http://dipbt.bundestag.de/dip21/btd/18/CD12900/Dokumente/Dok.%20085%20-%20MAT%20A%20KBA-2-1,%20Ordner%20A117_%207,%20Bl.%2075-84.pdf und Beschlussempfehlung und Bericht des 5. Untersuchungsausschusses gemäß Artikel 44 des Grundgesetzes, BT-Drs. 18/12900, S. 393, 526). Wie sich aus einem Tweet des BMVI vom 12.09.2019 unmissverständlich ergibt, bezogen sich die Untersuchungen des KBA dabei auch auf das Vorhandensein etwaiger unzulässiger Zykluserkennungen. Dieser Tweet ist hier vorgelegt worden (vgl. Anlageband Beklagte), der Kammer im Übrigen aus zahlreichen Parallelverfahren bekannt und lässt sich zudem durch eine einfache Internetrecherche mit einer gängigen Suchmaschine finden und abrufen (https://twitter.com/bmvi/status/1172088470040436737?lang=de), sodass er als allgemeinkundige Tatsache im Sinne des § 291 ZPO keines Beweises bedarf (vgl. dazu allgemein OLG München, Endurteil vom 16.11.2018 - 10 U 1563/18, BeckRS 2018, 31435; OLG Köln, NJOZ 2016, 1410; Pfälz. OLG, Beschluss vom 13.12.2013 - 3 W 147/13, BeckRS 2014, 13307).bb) Konkrete Anhaltspunkte, die die Richtigkeit dieser Feststellungen des KBA in Zweifel ziehen könnten, hat die Klägerin weder aufgezeigt noch sind solche ersichtlich. Vielmehr bestätigen aktuelle Auskünfte des KBA in gleichgelagerten Fällen (vgl. die vorgelegten Auskünfte des KBA vom 18.02.2021 zu OLG Koblenz 3 U 1162/20 und OLG Karlsruhe zu 14 U 153/20; gegenüber dem OLG Stuttgart vom 13.11.2020 zu 16a U 202/19; gegenüber dem OLG München vom 23.02.2021 zu 30 U 7413/19; gegenüber dem LG Bayreuth vom 08.10.2020 zu 21 O 183/20 und vom 15.12.2020 zu 21 O 367/20, dem LG Freiburg vom 12.10.2020 zu 6 O 283/19; dem LG Aschaffenburg vom 08.03.2021 zu 12 O 138/20 und gegenüber dem LG Bielefeld vom 16.03.2020 zu 19 O 386/18 - alle Anlageband Beklagte) und auch eine aktuelle Einschätzung des ADAC nach Durchführung entsprechender Tests ("Fahrzeuge der VW-Gruppe (Audi, Seat, Skoda, Porsche, VW) von Manipulationssoftware betroffen" vom 08.01.2021, S. 4, abrufbar über https://www.adac.de/verkehr/abgas-diesel-fahrverbote/abgasskandal-rechte/rechte-verbraucher/vw/) die Richtigkeit der vorstehenden Einschätzung. Insbesondere die vorgelegte Auskunft des KBA vom 18.02.2021 enthält dabei eine aktuelle und ausdrückliche Bestätigung der bisherigen Untersuchungen und der bereits in der Vergangenheit durch das KBA getroffenen allgemeinen Feststellung, dass trotz eingehender Untersuchungen (auch im Hinblick auf unzulässige sog. "Thermofenster" und "Fahrkurvenerkennungen") in Fahrzeugen der Beklagten mit dem Motortyp EA 288 (Euro 5 und 6) keine unzulässigen Abschalteinrichtungen enthalten sind (Auskunft vom 18.02.2021 Az.: 511-180/001#096).cc) Auf die Richtigkeit der vom KBA getroffenen Feststellungen kommt es insoweit nicht entscheidend an. Denn selbst dann, wenn sich die Einschätzung des KBA als rechtlich fehlerhaft erwiese, könnte kein die deliktische Haftung begründendes vorsätzliches sittenwidriges Verhalten der Beklagten angenommen werden. Der Vorwurf der Sittenwidrigkeit scheidet nämlich ebenso wie die Annahme eines vorsätzlichen Handelns aus, soweit sich eine Tathandlung im Einzelfall als rechtlich vertretbar erweist (vgl. BGH, Beschluss vom 09.03.2021 - VI ZR 889/20, WM 2021, 652; Kammer, Urteil vom 04.12.2020 - 12 O 260/19, DAR 2021, 96 m.w.N.).dd) Soweit dem entgegengehalten wird, die Untersuchungen des KBA stellten mangels ausreichender Überprüfung keine verlässliche Grundlage dar, das KBA habe mit den jeweiligen Herstellern kollusiv zusammengewirkt bzw. die Fahrzeughersteller hätten das KBA sowohl im Typgenehmigungs- als auch in den anschließenden Untersuchungsverfahren und den Verfahren zur Freigabe von Software-Updates betr. das Vorhandensein unzulässiger Abschalteinrichtung getäuscht, vermag dem die Kammer nicht zu folgen.Für die hier maßgeblichen Prüfverfahren (im Hinblick auf das Vorliegen unzulässiger Abschalteinrichtungen) ist das KBA für die Bundesrepublik Deutschland zuständige Fachbehörde. Kommt eine solche Fachbehörde im Rahmen einer komplexen tat-sächlichen wie rechtlichen Überprüfung und noch einmal im Rahmen einer anlass-bezogenen ergänzenden Überprüfung - wie hier - zur Überzeugung, dass keine unzulässigen Abschalteinrichtungen zum Einsatz kommen, kann unabhängig von der Richtigkeit dieser Beurteilung zulasten des betroffenen Fahrzeugherstellers jedenfalls nicht von einem sittenwidrigen oder vorsätzlichen Handeln ausgegangen werden (vgl. eingehend Kammer, Urteil vom 04.12.2020 aaO m.w.N.). Ob anderes gilt, wenn der Fachbehörde ein Verhalten zur Last fällt, das Gründe für eine Nichtigkeit bietet, oder wenn sich das Verwaltungshandeln jedenfalls als offensichtlich rechtswidrig darstellt, bedarf hier keiner Entscheidung. Denn hierfür bestehen im Streitfall keinerlei Anhaltspunkte.Zunächst fehlen jegliche Hinweise, dass das KBA kollusiv mit der Beklagten zum Nachteil der Verbraucher zusammengewirkt hat. Ferner fehlen konkrete Anhaltspunkte, dass die Feststellungen des KBA und die von ihm vorgenommene Auslegung offensichtlich gegen die Regelungen der EG-Verordnung Nr. 715/2007 verstoßen. Dabei ist im Hinblick auf die Stellung des KBA als die für die vorliegenden Fragestellungen zuständige Bundesoberbehörde grundsätzlich davon auszugehen, dass anlassbezogene Feststellungen des KBA zum Vorliegen unzulässiger Abschalteinrichtungen - wie hier - auf der Grundlage einer unabhängigen, umfassenden Überprüfung unter Anwendung aller geltenden Regelungen und - unabhängig von etwaigen Angaben des betroffenen Herstellers - unter vollständiger Ausschöpfung des Sachverhalts getroffen werden. Das schließt zwar täuschungsbedingte Fehleinschätzungen, die auf einen Fahrzeughersteller zurückgehen, nicht allgemein aus. Dass eine solche täuschungsbedingte Fehleinschätzung vorliegen könnte, ist indes weder konkret dargelegt noch sonst ersichtlich.Für die Frage einer etwaigen Täuschung im Rahmen des ursprünglichen EG-Typgenehmigungsverfahrens hat die Kammer bereits entschieden, dass ein Fahrzeughersteller zu einer über die in dem Verfahren nach der EG-VO Nr. 692/2008 geforderten Daten hinausgehenden Information nicht gehalten war. Denn es ist keine Verpflichtung erkennbar, wonach im Rahmen eines gesetzlich geregelten Verfahrens über die in diesem Verfahren notwendigen Informationen weitergehende Mitteilungen über die Funktionsweise eines Fahrzeugs und dessen Motor gemacht werden müssen. Dass vorliegend nach Art. 3 Nr. 9 der EG-VO Nr. 692/2008 im Rahmen des EG-Typgenehmigungsverfahrens nähere Angaben über die konkrete Funktionsweise von Abschalteinrichtungen hätten gemacht werden müssen, ist aber wegen des Fehlens eines entsprechenden Feldes auf dem Muster-Beschreibungsbogen nach Anhang I Anlage 3 dieser Verordnung keinesfalls eindeutig. Dafür spricht auch, dass erst im Jahr 2016 durch die EU-VO Nr. 646/2016 eine ausdrückliche Pflicht zur Angabe von Emissionsstrategien, die in Abhängigkeit von spezifischen Umwelt- oder Betriebsbedingungen für einen bestimmten Zweck aktiv werden, im Typgenehmigungsverfahren eingeführt worden ist. Selbst wenn die Beklagte etwa Angaben zur Funktionsweise des "Thermofensters" im Rahmen des ursprünglichen EG-Typgenehmigungsverfahrens unterlassen hätte, ließe sich daher hieraus allein kein zwingender Rückschluss auf ein vorsätzliches sittenwidriges Verhalten der Beklagten ziehen (vgl. zu allem Kammer, Urteil vom 04.12.2020 aaO m.w.N.; zuletzt Urteil vom 19.03.2021 - 12 O 393/20, juris).Für die Untersuchungen des KBA nach Bekanntwerden des Dieselskandals ist wiederum zu berücksichtigen, dass - wie das KBA noch einmal in den zur Akte gereichten Auskünften ausdrücklich bestätigt hat - die Prüfungen ausdrücklich auf unzulässige Abschalteinrichtungen, insbesondere in Form von Prüfzykluserkennungen, ausgerichtet waren. Angesichts eines solchen, vom KBA selbst bestimmten und unabhängig geführten Prüfauftrages lässt sich aber eine kausale, das Prüfergebnis beeinflussende Täuschungshandlung der Beklagten auch insoweit nicht beweissicher nachvollziehen.c) Die Klägerin kann auch aus dem Umstand, dass für ein Fahrzeug der Beklagten mit einem Motor des Typs EA 288 (VW T6 EA 288 Euro 6) unstreitig ein verpflichtender Rückruf durch das KBA angeordnet ist, nichts für eine Haftung der Beklagten hinsichtlich des streitgegenständlichen Fahrzeugs ableiten. Entscheidend hierfür ist, wie die Kammer bereits entschieden hat, dass der das Fahrzeug VW T6 betreffende Rückruf nicht wegen unzulässiger Abschalteinrichtungen erfolgt ist, sondern wegen des Stickoxid-Emissionsverhaltens während der Regeneration des Diesel-Partikelfilters und zur Sicherstellung eines für die Ki-Familie des streitgegenständlichen Fahrzeugs repräsentativen Ki-Werts (vgl. Kammer, Urteil vom 23.10.2020 - 12 O 49/20).d) Dass im Übrigen in dem Fahrzeug Systeme der Abgasrückführung und -nachbehandlung eingebaut sind, bei denen der Stickstoffoxidausstoß im Realbetrieb von dem im Prüfstand abweicht, lässt nicht beweissicher auf eine Sittenwidrigkeit des Verhaltens der Beklagten schließen. Denn es kann schon nicht erwartet werden, dass sich Werte, die in einem standardisierten Verfahren unter besonderen Bedingungen erzielt werden, unverändert auf den Realbetrieb übertragen lassen (vgl. KG, Urteil vom 26.09.2019 - 4 U 77/18, juris; OLG Frankfurt, Urteil vom 07.10.2020 - 4 U 171/18, juris).e) Ob das streitgegenständliche Fahrzeug von einem Rückruf bedroht ist, ist nicht entscheidungserheblich. Denn allein der Umstand, dass ein Fahrzeug von einem verpflichtenden Rückruf betroffen war, ist oder auch sein wird, reicht für die Begründung einer deliktsrechtlichen Haftung des Herstellers vor dem Hintergrund der vorstehenden Ausführungen nicht aus (vgl. Kammer, Urteile vom 29.11.2019 - 12 O 76/19 und vom 04.12.2020 aaO; vgl. auch OLG Koblenz, WM 2019, 2222).f) Für eine weitergehende Beweiserhebung bestand danach kein Anlass (vgl. hierzu auch OLG Frankfurt, Hinweisbeschluss vom 17.02.2020 - 12 U 353/19, BeckRS 2020, 2626; Urteile vom 06.11.2019 - 13 U 217/19, juris und vom 07.10.2020 - 4 U 171/18, juris; OLG Stuttgart, Urteil vom 19.01.2021 - 16a U 196/19, juris; OLG München, Beschluss vom 10.02.2020 - 3 U 7524/19, juris; OLG Brandenburg, Beschluss vom 20.04.2020 - 1 U 103/19, juris und Beschluss vom 14.05.2020 - 1 U 103/19, juris; OLG Köln, Beschluss vom 06.08.2019 - 7 U 119/19, BeckRS 2019, 25896; OLG Koblenz, Urteil vom 20.04.2020 - 12 U 1570/19, BeckRS 2020, 6348; OLG Oldenburg, Hinweisbeschluss vom 11.10.2019 - 6 U 240/19, BeckRS 2019, 38715; OLG Dresden, Urteil vom 10.03.2020 - 9a U 2520/19, juris und vom 04.12.2020 - 9a U 2074/19, juris; OLG Bamberg, Urteil vom 26.11.2020 - 1 U 368/19, juris).2. Auch andere deliktische Grundlagen kommen nicht in Betracht.a) Ein Anspruch aus § 831 Abs. 1 BGB i.V.m. § 826 BGB scheitert aus den gezeigten Gründen.b) Ein Anspruch aus § 823 Abs. 2 BGB i.V.m. § 263 StGB scheitert ebenfalls. Zum einen hat die Klägerin insoweit keine hinreichenden Tatsachen vorgetragen (vgl. hierzu OLG Köln aaO; OLG Stuttgart aaO). Zum anderen ist zu berücksichtigen, dass im maßgeblichen Zeitpunkt des Inverkehrbringens des Fahrzeugs aus den gezeigten Gründen jedenfalls nicht von einem Tatvorsatz ausgegangen werden kann (vgl. hierzu OLG Stuttgart, WM 2019, 1704). Dass es schließlich bei einem Gebrauchtwagenkauf in Fällen wie hier an der im Rahmen des § 263 StGB erforderlichen Stoffgleichheit fehlt, hat der Bundesgerichtshof bereits entschieden (vgl. BGH, Urteil vom 30.07.2020 - VI ZR 5/20, NJW 2020, 2798).c) Ansprüche aus § 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV (Fahrzeuggenehmigungsverordnung) kommen nicht in Betracht, wie der Bundesgerichtshof ebenfalls bereits entschieden hat (BGH, Urteil vom 30.07.2020 aaO).3. Mangels Hauptanspruchs scheitern auch der Antrag auf Feststellung des Annahmeverzugs sowie die geltend gemachten Nebenforderungen.II.Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2338427.html (https://oj.is/2338427)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate25
+				
+				
+					 Zitiert3
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

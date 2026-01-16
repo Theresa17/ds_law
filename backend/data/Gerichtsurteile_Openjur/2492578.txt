@@ -1,0 +1,166 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteThüringenOrdentliche GerichtsbarkeitLG ErfurtRechtsprechungUrteil vom 02.08.2024 - 8 O 1373/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Erfurt, Urteil vom 02.08.2024 - 8 O 1373/21
+                      m. Fundstelle
+                      LG Erfurt, Urteil vom 02.08.2024 - 8 O 1373/21 = openJur 2024, 7605
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Erfurt, Urteil vom 02.08.2024 - 8 O 1373/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2024, 7605
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+				
+					
+						Europarecht Zivilrecht 
+						
+					
+				
+
+			
+			
+			
+			
+				 
+					
+				document.addEventListener('DOMContentLoaded', function () {
+				  document.getElementById('togglerubrum')
+				          .addEventListener('click', function toggleRubrum() { var tb = document.getElementById('rubrumToggleButton'); tb.classList.toggle('fa-plus-square'); tb.classList.toggle('fa-minus-square'); });
+				});
+				 Rubrum
+				
+				 
+				 IM NAMEN DES VOLKESUrteilIn dem Rechtsstreit...- Kläger -Prozessbevollmächtigte:...gegen...- Beklagte -Prozessbevollmächtigte:...wegen Schadensersatzes ("Dieselskandal")hat die 8. Zivilkammer des Landgerichts Erfurt durchRichter am Landgericht ...als Einzelrichter am 02.08.2024 auf Grund der mündlichen Verhandlung vom 06.06.2024für Recht erkannt:
+				 
+				
+				Tenor
+				1. Die Beklagte wird verurteilt, an den Kläger 6.670,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 16.01.2024 zu zahlen.2. Im Übrigen wird die Klage abgewiesen.3. Von den Kosten des Rechtsstreits tragen der Kläger 87 Prozent und die Beklagte 13 Prozent.4. Das Urteil ist für den Kläger wie die Beklagte gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht im Zusammenhang mit dem "Dieselskandal" Ansprüche auf "kleinen Schadensersatz" in Höhe von 10.005,00 € geltend.Der Kläger erwarb im Februar 2016 einen PKW BMW 750 D X-Drive mit der Fahrzeugidentifikationsnummer ... bei einem Fahrzeughändler. Der Kaufpreis betrug 66.700,00 €. Der Kilometerstand belief sich zum Zeitpunkt des Kaufes auf 15.780 km. Das Fahrzeug verfügt über einen Dieselmotor des Typs N57 (Abgasnorm Euro 6).Im Zuge des Rechtsstreits wurde ein Software-Update durchgeführt. Am 15. Januar 2022 verkaufte der Kläger sein Fahrzeug an einen Dritten für 38.400,00 € bei einem behaupteten Kilometerstand von 96.500 km.Das Fahrzeug wies auch nach Durchführung des Updates ein "Thermofenster" auf. Einzelheiten sind streitig.Der Kläger behauptet, das Fahrzeug enthalte in Gestalt des Thermofensters weiterhin eine unzulässige Abschalteinrichtung. Eine Abgasrückführung erfolge nur in einem Temperaturbereich zwischen +17 Grad Celsius und +33 Grad Celsius. Über +33 Grad Celsius werde die Abgasrückführung vollständig deaktiviert, ebenso unter -11 Grad Celsius. In dem Zwischenbereich zwischen -11 Grad Celsius und +17 Grad Celsius werde die Abgasrückführung temperaturabhängig drastisch reduziert, was zu einer gravierenden Verschlechterung der Emissionswerte führe.Der Kläger vertrat ursprünglich die Ansicht, die Beklagte hafte ihm gegenüber wegen der Verwendung einer manipulierten Software aus §§ 826, 852 BGB auf "großen Schadensersatz", nämlich auf Rückabwicklung des Kaufvertrages. Er verlangte die Zahlung von 52.739,56 € Zug um Zug gegen Rückgabe seines Fahrzeuges. Nach Weiterverkauf des Fahrzeuges machte der Kläger mit Schriftsatz vom 9. Januar 2023 die Rückzahlung des ursprünglichen Kaufpreises abzüglich eines Nutzungsersatzes und des Erlöses aus dem Weiterverkauf, d. h. einen Betrag in Höhe von 14.287,13 € geltend.Nach dem wegweisenden Urteil des Gerichtshofes der Europäischen Union vom 21. März 2023 (Az.: C-100/21) und der hierauf folgenden Leitentscheidung des Bundesgerichtshofes vom 26. Juni 2023 (Az.: VIa ZR 335/21) verlangt der Kläger nur noch Ersatz des sog. Differenzschadens, mithin "kleinen Schadensersatz". Das unstrittig verbaute Thermofenster sei unzulässig und verstoße gegen Unionsrecht. Die zumindest fahrlässig handelnde Beklagte vermöge sich auch nicht auf einen unvermeidbaren Verbotsirrtum zu berufen. Sein Schaden sei schließlich auch nicht aufgezehrt. Er liege bei mindestens 15 Prozent des ursprünglichen Kaufpreises.Der Kläger beantragt zuletzt, mit am 15. Januar 2024 zugestelltem Schriftsatz vom 2. Januar 2024:1. Die Beklagte wird verurteilt, an den Kläger einen Entschädigungsbetrag bezüglich des Fahrzeuges der Marke BMW 750 D X-Drive mit der Fahrzeugidentifikationsnummer ... zu zahlen, dessen Höhe in das Ermessen des Gerichts gestellt wird, der jedoch mindestens EUR 10.005,00 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit betragen muss.2. Die Beklagte wird verurteilt, dem Kläger die durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von EUR 3.515,26 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte vertritt die Ansicht, das verwandte Thermofenster sei zulässig. Es diene dem Motorschutz und dem sicheren Betrieb des Fahrzeuges. Die konkrete Bedatung sei als Betriebsgeheimnis nicht mitzuteilen. Zudem sei ein etwaiger Vertrauensschaden bereits vollständig aufgezehrt.Wegen sämtlicher Einzelheiten des Sach- und Streitstandes sowie des Vorbringens der Parteien, insbesondere zu den vom Kläger erlangten Vorteilen und zur konkreten Schadenshöhe, wird auf die gewechselten Schriftsätze samt Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist teilweise begründet.Der Kläger hat gegen die Beklagte Anspruch auf Erstattung des Differenzschadens in Höhe von 6.670,00 € nach § 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV.Das streitgegenständliche Fahrzeug weist auch nach dem zwischenzeitlich erfolgten Software-Update unstreitig eine Abschalteinrichtung auf, nämlich in Gestalt einer temperaturgeführten AGR-Regelung ("Thermofenster"). Das Gericht geht davon aus, dass dieses Thermofenster im Lichte der unionsrechtlichen Vorgaben unzulässig ist.Der Kläger hat mehrfach substantiiert vorgebracht, eine ordnungsgemäße Abgasrückführung erfolge nur in einem Temperaturbereich zwischen +17 Grad Celsius und +33 Grad Celsius. Über +33 Grad Celsius werde die Abgasrückführung vollständig deaktiviert, ebenso unter -11 Grad Celsius. In dem Zwischenbereich zwischen -11 Grad Celsius und +17 Grad Celsius werde die Abgasrückführung temperaturabhängig drastisch reduziert, was zu einer gravierenden Verschlechterung der Emissionswerte führe.Dem ist die Beklagte nicht in erheblicher Weise entgegengetreten. Zur konkreten Bedatung trägt die Beklagte nicht vor, wobei sie sich auf ein Betriebsgeheimnis nicht zu berufen vermag. Für ein erhebliches Bestreiten einer von Käuferseite ausreichend, d.h. unter Angabe des konkreten Temperaturbereichs dargelegten Abschalteinrichtung ist es nämlich erforderlich, dass der Hersteller den nach seiner Behauptung zutreffenden Temperaturbereich des Thermofensters seinerseits konkret benennt. Dabei kann er sich nicht darauf berufen, dass ihm eine solche Offenlegung unzumutbar sei (OLG Celle, Urteil vom 6. März 2024 – 7 U 120/22, juris).Auf einen amtlichen Rückruf kommt es bekanntlich nicht an. Auch auf einen unvermeidbaren Verbotsirrtum vermag sich die zumindest fahrlässig handelnde Beklagte nach den jüngst klargestellten hohen Anforderungen des Bundesgerichtshofes (BGH, Urteil vom 25. September 2023 – VIa ZR 1/23, juris) nicht zu berufen. Soweit ersichtlich, fehlt es ohnehin an einschlägigem Vortrag der Beklagten.Nach alledem steht dem Kläger Schadensersatz in einer Bandbreite zwischen 5 und 15 Prozent des ursprünglichen (Brutto)Kaufpreises zu (BGH, Urteil vom 26. Juni 2023 – VIa ZR 335/21, juris Rn. 72 f.).Zwar begegnet diese Grenzziehung Zweifeln. Bekanntlich hat das Landgericht Ravensburg die Vorgaben des Bundesgerichtshofes für die Schadensbemessung durch mehrere Vorlagen an den Europäischen Gerichtshof auf den unionsrechtlichen Prüfstand gestellt. Hieran ist das vorliegend entscheidende Gericht jedoch nicht gebunden, das nur mit Blick auf einen Schadensersatzanspruch aus § 826 BGB wegen sittenwidriger vorsätzlicher Schädigung - in dem Vorlageverfahren C-276/20 - ergänzende Fragen an den Europäischen Gerichtshof gerichtet hat.Nach § 287 Abs. 1 Satz 1 ZPO ist die Höhe des Schadens unter Würdigung aller Umstände des Einzelfalls und nach freier Überzeugung zu schätzen. Im vorliegenden Fall erscheint eine Entschädigung in Höhe von 10 Prozent des ursprünglichen Kaufpreises - 6.670,00 € - angemessen. Der Schaden des Klägers ist nämlich im mittleren Bereich anzusiedeln.Die Beklagte berief sich in der letzten mündlichen Verhandlung zwar auf einen Usus, bei einem zwischenzeitlichen Weiterverkauf eines Fahrzeuges lediglich die Untergrenze von 5 Prozent des ursprünglichen Kaufpreises anzusetzen. Dem vermag das Gericht jedoch nicht zu folgen.Die Annahme des Mittelwertes - 10 Prozent - entspricht zunächst dem unionsrechtlichen Effektivitätsgrundsatz. Weiter ist der Sanktionsgedanke zu berücksichtigen. Das Risiko behördlicher Anordnungen war und ist nicht zu unterschätzen. Der Rechtsverstoß der Beklagten hat beträchtliches Gewicht.Eigenrechte der Natur treten schutzverstärkend hinzu, die sich aus der Charta der Grundrechte der Europäischen Union ergeben. Diese Rechte der Natur sind - wie in zahlreichen anderen Rechtsordnungen, etwa in Südamerika - von Amts wegen und unabhängig von entsprechendem Vortrag der Parteien oder einer ausdrücklichen Berufung hierauf zu berücksichtigen.Da in den Dieselfällen Unionsrecht einschlägig ist, ist die Charta - wie ein "Schatten" des Unionsrechts - ebenfalls anwendbar, Art. 51 Abs. 1. Aus den Rechten der Charta, insbesondere aus Art. 2 und Art. 3 Abs. 1 i.V.m. Art. 37, lassen sich Eigenrechte der Natur begründen, die auch im vorliegenden Fall Berücksichtigung verlangen. Diese Grundrechte sind nämlich ihrem Wesen nach auf die Natur oder einzelne Ökosysteme – ökologische Personen – anwendbar. Es kann dabei offenbleiben, ob vorliegend die Natur als solche oder aber einzelne durch Abgase (besonders) geschädigte Ökosysteme Schutz verlangen. Aus der Charta ergibt sich das umfassende Recht ökologischer Personen, dass ihre Existenz, ihr Erhalt und die Regenerierung ihrer Lebenszyklen, Struktur, Funktionen und Entwicklungsprozesse geachtet und geschützt werden.Der Anerkennung solcher Rechte steht nicht entgegen, dass sie der im Jahr 2000 tagende Grundrechtekonvent noch nicht in den Blick genommen hatte. Bekanntlich stellt der Originalism in Europa keinen maßgeblichen Auslegungstopos dar. Zudem war der Grundrechtekonvent für ökologische Belange und Anliegen durchaus aufgeschlossen.Insbesondere ist die Charta - wie die Europäische Menschenrechtskonvention - ein lebendiges Instrument ("living instrument"), mit dem auf neue Gefährdungslagen angemessen reagiert werden kann. Die Anerkennung von spezifischen Rechten ökologischer Personen durch Auslegung und Anwendung des geltenden Unionsrechts ist aufgrund der Wichtigkeit und Dringlichkeit der ökologischen Herausforderungen - Klimawandel, Artensterben und Globalvermüllung - und angesichts drohender irreversibler Schäden geboten.Die Gewährung von Rechtssubjektivität für ökologische Personen, wie es vor kurzem in Spanien für die Salzwasserlagune Mar Menor durch den Gesetzgeber erfolgt ist, entspricht dem Menschenbild der Charta. Deren Präambel betont die Verantwortung und die Pflichten sowohl gegenüber den Mitmenschen als auch gegenüber der menschlichen Gemeinschaft und den künftigen Generationen. Nach Art. 37 der Charta müssen zudem ein hohes Umweltschutzniveau und die Verbesserung der Umweltqualität in die Politik der Union einbezogen und nach dem Grundsatz der nachhaltigen Entwicklung sichergestellt werden. Diesem wesentlichen Ziel der Union dient die Anerkennung von Eigenrechten der Natur.Der in der Charta vielfach verwendete, offene Begriff "Person" umfasst – als weitere Rechtssubjekte neben dem Menschen – die Natur oder Ökosysteme wie Flüsse und Wälder. Im ersten Titel der Charta mit den fundamentalen Rechten wird im ursprünglichen deutschen Text wie in zahlreichen weiteren Sprachfassungen nicht der Begriff "Mensch", vielmehr der deutungsoffene Begriff "Person" ("personne") verwandt. Das englische "everyone" kann dem gleichgestellt werden. Da fundamentale Rechte wie das Recht auf Leben in Art. 2 der Charta nicht juristischen Personen zukommen, liegt der überschießende Wert, der Mehrwert des Begriffs "Person" darin, neben dem Menschen ökologische Personen zu achten und zu schützen.Es ist im Übrigen kein Grund dafür ersichtlich, zwar juristische Personen – oder künftig Künstliche Intelligenz - umfassend grundrechtlich zu schützen, nicht jedoch ökologische Personen. Letztlich wird nur eine "Waffengleichheit" hergestellt.Die Garantie der Menschenwürde in Art. 1 der Charta steht der Anerkennung von Rechten der Natur nicht entgegen, verlangt diesen Schritt vielmehr. Die Anerkennung von Eigenrechten der Natur trägt nämlich dazu bei, dass Menschen auch in Zukunft ein freies und selbstbestimmtes Leben in Würde führen können.Weiter steht nicht entgegen, dass Art. 2 und sonstige Chartarechte der EMRK entlehnt sind und die Konvention - bisher - wohl keine Eigenrechte der Natur kennt. Art. 52 Abs. 3 S. 2 der Charta lässt es nämlich ausdrücklich zu, dass das Recht der Union einen weiter gehenden Schutz als die Konvention gewährt.Schließlich gebietet Art. 53 der Charta, rechtsvergleichende Gesichtspunkte in deren Auslegung einfließen zu lassen. In zahlreichen Rechtsordnungen, vor allem im globalen Süden, aber auch in den USA oder in Neuseeland, finden Eigenrechte der Natur verfassungsrechtlich, im Wege der Gesetzgebung oder des Richterrechts Anerkennung und Durchsetzung. Dieser weltweiten, zunehmenden Tendenz verschließt sich der europäische Rechtskreis nicht.Vor diesem Hintergrund erscheint es rechtsdogmatisch gerechtfertigt, richterrechtlich Eigenrechten der Natur auch in Europa Wirkmacht zu verleihen. Hierbei kann dem Beispiel kolumbianischer oder peruanischer Gerichte gefolgt werden, die – auch ohne einschlägige Gesetzgebung – solche Rechte aus einer Gesamtschau ihrer Rechtsordnungen abgeleitet haben.Da zwar nicht in wissenschaftlicher Hinsicht, wohl aber in der Rechtsprechung Neuland betreten wird, wurde den Parteien umfassend rechtliches Gehör gewährt. Bereits mit Verfügung vom 18. Dezember 2023 wurden sie darauf hingewiesen, dass Eigenrechte der Natur schutzverstärkend zu berücksichtigen sind. Die mündliche Verhandlung vom 6. Juni 2024 war - auf der Grundlage eines Hinweisbeschlusses vom 4. Juni 2024 - im Schwerpunkt dieser Thematik gewidmet.Es ist schließlich nicht erkennbar, dass der Vertrauensschaden des Klägers - 6.670,00 € - zum maßgeblichen Zeitpunkt des Weiterverkaufs durch eine Vorteilsausgleichung bereits "aufgezehrt" gewesen wäre. Die vom Kläger erlangten Nutzungsvorteile und der tatsächliche, vom Kläger belegte Restwert - Marktwert - des Fahrzeuges übersteigen addiert nicht den Preis des Fahrzeuges bei Abschluss des ursprünglichen Kaufvertrages. Dies gilt selbst dann, wenn man den ursprünglichen tatsächlichen Wert annimmt, d. h. den Kaufpreis von 66.700,00 Euro abzüglich 10 Prozent.Es geht dabei nicht zu Lasten des Klägers, dass er einen höheren Preis als den tatsächlichen Marktwert erzielt hat. Für die Berechnung ist nämlich der tatsächliche - objektive und somit intersubjektiv nachprüfbare - Restwert des Fahrzeuges und nicht ein ggf. hiervon abweichender Verkaufspreis maßgeblich. Es ist zur Wertfindung zulässig, anerkannte Restwertplattformen wie DAT zu Rate zu ziehen. Hier werden objektive Merkmale wie das Fahrzeugmodell, das Datum der Erstzulassung und die Laufleistung berücksichtigt. Für das streitgegenständliche Modell ergibt sich nach der Plattform DAT ein Restwert von 20.500,00 €.Bei der Berechnung der Nutzungsentschädigung für den Zeitraum zwischen Ankauf und Verkauf ist eine Gesamtlaufleistung von 300.000 km zugrunde zu legen. Dies beruht darauf, dass es sich um einen hochwertigen Fahrzeugtyp handelt. Weiter ist die Laufleistung im Zeitpunkt des Weiterverkaufs in Höhe von 96.500 km urkundlich belegt. Die anzusetzende Nutzungsentschädigung beträgt somit 18.943,16 €. Addiert man den objektiven Restwert und die Nutzungsentschädigung, gelangt man zu einer Summe von 39.443,16 €, ein Betrag, der weit unter dem ursprünglichen Kaufpreis von 66.700,00 € liegt. Selbst wenn man den vom Kläger beim Weiterverkauf erzielten Preis von 38.400,00 € ansetzte, läge der Gesamtbetrag von 57.343,16 € immer noch unter dem ursprünglichen Kaufpreis von 66.700,00 € bzw. unter dem ursprünglichen tatsächlichen Wert von 60.000,00 € (Kaufpreis minus 10 Prozent).Die Zinsen waren – wie geltend gemacht – als Prozesszinsen zuzusprechen.Ein Anspruch des Klägers auf Ersatz vorgerichtlicher Rechtsanwaltskosten besteht hingegen nicht. Vorgerichtliche Rechtsanwaltskosten sind von der Ersatzpflicht aus § 823 Abs. 2 BGB i.V.m. §§ 6, 27 EG-FGV nicht umfasst (vgl. BGH, Urteil vom 26. Juni 2023 – VIa ZR 335/21, juris Rn. 75; BGH, Urteil vom 16. Oktober 2023 – VIa ZR 3721, juris Rn. 19). Verzug lag nicht vor.Die Entscheidung über die Kosten beruht auf §§ 91 Abs. 1 S. 1, 92 ZPO, während sich der Ausspruch zur vorläufigen Vollstreckbarkeit aus § 709 S. 1 ZPO ergibt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2492578.html (https://oj.is/2492578)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert1
+				
+
+				
+					 Faksimile
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Themenverwandt
+				
+				
+					· LG Erfurt Fortf.
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

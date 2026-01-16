@@ -1,0 +1,157 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBremenOrdentliche GerichtsbarkeitOLG BremenRechtsprechungBeschluss vom 08.02.2022 - 1 U 66/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Bremen, Beschluss vom 08.02.2022 - 1 U 66/21
+                      m. Fundstelle
+                      OLG Bremen, Beschluss vom 08.02.2022 - 1 U 66/21 = openJur 2022, 6501
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Bremen, Beschluss vom 08.02.2022 - 1 U 66/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 6501
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+				
+					
+						Zivilrecht 
+						
+					
+				
+
+			
+			
+			
+			
+				1. Weder Art. 4, 8, 12 und 46 der Richtlinie 2007/46/EG (Typengenehmigungsrichtlinie) noch die Verordnung Nr. 715/2007 bezwecken den Schutz des Fahrzeugkäufers vor Schäden aus dem Erwerb eines Fahrzeugs, dessen Motor über eine unzulässige Abschalteinrichtung verfügt.2. Der Bundesrepublik Deutschland ist weder ein hinreichend qualifizierter Verstoß gegen die Verpflichtung des Art. 46 der RL 2007/46/EG, wirksame und abschreckenden Sanktionen vorzusehen, vorzuwerfen, noch hat sie vorwerfbar ihre Kontroll- und Überwachungspflichten im Rahmen des Typengenehmigungsverfahrens in qualifizierter Weise verletzt.3. Die Bundesrepublik Deutschland hat bei der Umsetzung der Richtlinie 2007/46/EG ihren Ermessensspielraum weder offenkundig noch erheblich überschritten. Die vorgesehenen strafrechtlichen, ordnungswidrigkeitenrechtlichen und verwaltungsrechtlichen Sanktionsmöglichkeiten sind jedenfalls nicht offensichtlich ungeeignet. (Leitsätze: RLG Frauke Wesemüller)
+					
+				document.addEventListener('DOMContentLoaded', function () {
+				  document.getElementById('togglerubrum')
+				          .addEventListener('click', function toggleRubrum() { var tb = document.getElementById('rubrumToggleButton'); tb.classList.toggle('fa-plus-square'); tb.classList.toggle('fa-minus-square'); });
+				});
+				 Rubrum
+				
+				 
+				 Hanseatisches Oberlandesgericht in BremenBeschlussIn dem Rechtsstreit...,Klägerin und Berufungsklägerin,Prozessbevollmächtigte:...gegen...,Beklagte und Berufungsbeklagte,Prozessbevollmächtigte:...hat der 1. Zivilsenat des Hanseatischen Oberlandesgerichts in Bremen durch den Vorsitzenden Richter am Oberlandesgericht Dr. S..., den Richter am Oberlandesgericht Dr. B... und die Richterin am Landgericht W...am 08.02.2022 beschlossen:
+				 
+				
+				Tenor
+				1. Die Parteien werden darauf hingewiesen, dass der Senat beabsichtigt, die Berufung der Klägerin gegen das Urteil des Landgerichts Bremen vom 18.08.2021 (1 O 2360/20) aus den auch unter Berücksichtigung des Berufungsvorbringens für zutreffend gehaltenen Gründen der angefochtenen Entscheidung durch einstimmigen Beschluss gemäß § 522 Abs. 2 ZPO auf ihre Kosten zurückzuweisen.2. Die Klägerin erhält gemäß § 522 Abs. 2 S. 2 ZPO eine Frist zur Stellungnahme bis zum 03.03.2022.3. Der Wert des Streitgegenstands für die Berufungsinstanz wird auf 26.950,00 € festgesetzt.  
+				Gründe
+				I.Die Klägerin macht unionsrechtliche Staatshaftungsansprüche geltend und begehrt Feststellung, dass die Beklagte ihr Schäden ersetzt, die ihr im Zusammenhang mit dem Kauf eines … entstanden sind, der mit einer verbotenen Abschalteinrichtung versehen war, zu Unrecht eine Typengenehmigung erhalten hatte und auf den ein von der Beklagten genehmigtes Software-Update aufgespielt worden war.Die Klägerin erwarb auf Bestellung vom 14.01.2016 bei dem Autohaus … in Verden einen von der … AG hergestellten gebrauchten Pkw … mit der FIN: …, welcher am 25.11.2014 erstmals zugelassen worden war. Er wies eine Laufleistung von 4.290 km auf. Der Kaufpreis betrug 26.950,00 € brutto. Im Kaufvertrag wurde darauf hingewiesen, dass der in dem Fahrzeug eingebaute Dieselmotor vom Typ E… von einer Software betroffen ist, die Stickoxide (NOx) im Prüfstandlauf (NEFZ) optimiert. Das vom Kraftfahrzeugbundesamt (KBA) freigegebene Softwareupdate wurde auf dem klägerischen Fahrzeug installiert.Die Klägerin ist der Ansicht, sie sei durch Unionsrechtsverstöße der Beklagten zum Abschluss des Kaufvertrages gebracht worden. Das Softwareupdate beseitige den Mangel nicht, da wiederum eine Abschalteinrichtung in Gestalt eines Thermofensters installiert worden sei. Außerdem führe das Update zu einem höheren Kraftstoffverbrauch und schnellerem Verschleiß. Die Beklagte habe die Richtlinie 2007/46/EG unzureichend umgesetzt, in dem sie nicht im ausreichenden Maß die nach Art. 46 RL 2007/46/EG erforderlichen Sanktionen im EG-FGV geschaffen habe. Auch die Sanktionen aus dem Strafgesetzbuch (StGB) und dem Ordnungswidrigkeitengesetz (OWiG) würden keine hinreichenden Sanktionen bieten. Daher habe das nationale Sanktionssystem nicht die Wirkung gehabt, … oder andere Hersteller von rechtswidrigen Manipulationen abzuhalten. Die Beklagte habe eine fehlerhafte Überwachung vorgenommen und die Typengenehmigung zu Unrecht erteilt. Auch die erteilte EG-Übereinstimmungsbescheinigung sei falsch.Die Beklagte rügt die Zulässigkeit der Feststellungsanträge. Ein unionsrechtlicher Erstattungsanspruch stehe der Klägerin nicht zu. Die einschlägige Richtlinie sei nicht drittschützend. Darüber hinaus liege kein qualifizierter Verstoß gegen das Unionsrecht vor, der noch dazu einen kausalen Schaden verursacht habe.Wegen der erstinstanzlichen Anträge und des ergänzenden Sachverhalts wird auf den Tatbestand des landgerichtlichen Urteils verwiesen.Das Landgericht hat die Klage abgewiesen. Ob das gemäß § 256 ZPO erforderliche Feststellungsinteresse bestehe, könne dahinstehen, weil die Klage als unbegründet abzuweisen sei. Es sei darüber hinaus zweifelhaft, ob der Klägerin überhaupt ein auf die behauptete Verletzungshandlung zurückzuführender Schaden entstanden sei, weil die Klägerin das Fahrzeug in Kenntnis der Betroffenheit des Fahrzeugs vom Abgasskandal erworben habe und ein etwaiger Minderwert bereits beim Erwerb durch die Klägerin berücksichtigt worden sei.Der Klägerin stehe kein Schadensersatzanspruch zu. Bei den behaupteten Unionsrechtsverstößen – der angeblich unzureichenden Umsetzung des gebotenen Sanktionssystems und den angeblichen Fehlern im Typengenehmigungsverfahren – fehle es bereits an einer europarechtlichen Norm, die dem Schutz der Fahrzeugkäufer diene und bezwecke, diesen insoweit eigene Rechte zu verleihen. Darüber hinaus fehle es auch an einem hinreichend qualifizierten Verstoß. Die Beklagte habe das ihr zustehende Ermessen bei der Umsetzung des Art. 46 der RL 2007/46/EG rechtsfehlerfrei ausgeübt und durch die EG-FGV hinreichende Sanktionen geschaffen, zumal daneben auch die Regelungen des StGB und des OWiG zur Anwendung kämen. Außerdem fehle es an der Darlegung des notwendigen Kausalzusammenhangs. Es stelle lediglich eine Mutmaßung dar, dass … bei verschärften Regelungen von Manipulationen der Abgasbehandlung an Dieselfahrzeugen Abstand genommen hätte.Es fehle auch an einem hinreichend qualifizierten Verstoß des KBA bei der Überwachung und Erteilung der Typengenehmigung für das streitgegenständliche Fahrzeug. Das KBA sei seinen Verpflichtungen zur Prüfung der Genehmigungsvoraussetzungen bei Erteilung der EG-Typengenehmigung sowie zur laufenden Überwachung der Einhaltung der Genehmigungsvoraussetzungen nachgekommen. Das KBA habe auf die Herstellerangaben vertrauen dürfen, da erst im Herbst 2015, also nach Erteilung der Typengenehmigung für das streitgegenständliche Fahrzeug, öffentlich bekannt geworden sei, dass die … AG unzulässige Abschalteinrichtungen in Fahrzeuge eingebaut habe.Die Freigabe des Softwareupdates durch das KBA begründe auch unter Berücksichtigung des Umstandes, dass eine Abschalteinrichtung in Gestalt eines Thermofensters enthalten sein möge, keinen hinreichend qualifizierten Verstoß gegen Unionsrecht. Ob das Thermofenster eine unzulässige Abschalteinrichtung sei, könne die Kammer hinsichtlich des streitgegenständlichen Fahrzeugs nicht beurteilen. Außerdem sei nicht ersichtlich, warum das KBA nicht vom Vorliegen eines Ausnahmetatbestandes habe ausgehen dürfen. Dafür, dass sich die Mitarbeiter des KBA bewusst dazu entschlossen hätten, auf Kosten der Fahrzeugkäufer eine unzulässige Abschalteinrichtung freizugeben, gebe es keine Anhaltspunkte, zumal die Beklagte die Abschalteinrichtung für zulässig gehalten habe.Ansprüche aus Amtshaftung gemäß § 839 BGB iVm Art. 34 GG seien nach § 839 Abs. 1 S. 2 BGB ausgeschlossen. Ein Anspruch aus dem Rechtsinstitut des enteignenden oder enteignungsgleichen Eingriffs bestünde nicht.Gegen dieses, ihr am 23.08.2021 zugestellte Urteil, hat die Klägerin mit Schriftsatz vom 23.09.2021 Berufung eingelegt und diese am 22.10.2021 begründet.Mit ihrer Berufung verfolgt die Klägerin ihr erstinstanzliches Begehren unter Wiederholung und Vertiefung ihres erstinstanzlichen Vorbringens weiter. Die Feststellungsklage sei zulässig. Ein Feststellungsinteresse sei gegeben, weil von der öffentlichen Hand zu erwarten sei, dass sie sich bereits einem Feststellungsurteil beugen werde. Die Klägerin habe sich noch nicht entschieden, ob sie den Kauf rückabwickeln wolle. Außerdem bestehe die Gefahr der Inanspruchnahme durch die Finanzbehörden wegen der Kfz-Steuer. Die weitere Schadensentwicklung sei im Hinblick auf möglichen Nutzungsersatz und mögliche Deliktszinsen sowie deswegen unklar, weil weitere Maßnahmen zur Beseitigung unzulässiger Abschalteinrichtungen und auch der Rückruf des streitgegenständlichen Fahrzeugs nicht ausgeschlossen werden könnten. Die Klage sei auch begründet. Der Klägerin stehe ein unionsrechtlicher Staatshaftungsanspruch gegen die Beklagte zu, da die Vorschriften über das Verfahren zur Erteilung der Typengenehmigung nach Art. 8 iVm Art 12 der RL 2007/46/EG sowie die Verpflichtung zur Festlegung von Sanktionen gem. Art. 46 RL 2007/46/EG individualschützend seien und die Beklagte hiergegen verstoßen habe.Die Klägerin beantragt,unter Abänderung des am 18.08.2021 verkündeten Urteils des Landgericht Bremen – 1 O 2360/20 – wie folgt zu erkennen:1. Es wird festgestellt, dass die Beklagtenpartei verpflichtet ist, der Klagepartei bezüglich des Fahrzeugs … mit der FIN … die Schäden zu ersetzen, die ihr daraus entstehen,a) Dass es die Beklagtenpartei unterlassen hat, aufgrund Art. 46 der Richtlinie 2007/46/EG wirksame, verhältnismäßige und abschreckende Sanktionen zu erlassen;b) hilfsweise: dass die Beklagtenpartei die Typengenehmigung vom ….. mit der Typengenehmigungsnummer … erteilt und die Typengenehmigung mit einer Nebenbestimmung versehen hat, die es dem Hersteller ermöglicht, die illegale Abschalteinrichtung durch Softwareupdate zu beseitigen.2. Es wird festgestellt, dass die Beklagtenpartei verpflichtet ist, der Klagepartei bezüglich des Fahrzeugs … mit der FIN …die Schäden zu ersetzen, die ihra) aus der Freigabe des Software-Updates für den Fahrzeugtyp mit der Typengenehmigungsnummer … entstehen;b) hilfsweise: nach Freigabe des Software-Updates für den Fahrzeugtyp mit der Typengenehmigungsnummer … durch Aufspielen des Software-Updates entstehen,hilfsweise, und zwar unter der Bedingung, dass das Gericht den Klageantrag zu 1. für unzulässig hält, stattdessen wie folgt zu erkennen:1. Die Beklagtenpartei wird verurteilt, an die Klagepartei € 26.950,00 nebst Zinsen hieraus in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu bezahlen, Zug um Zug gegen eine durch die Beklagtenpartei dazulegende und zu beweisende Entschädigung für die Nutzung des Pkw des Herstellers … des Modells … (…) und Zug um Zug gegen Übereinung und Herausgabe des vorbenannten Fahrzeugs.2. Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klagepartei Schadensersatz zu bezahlen für weitere Schäden, die daraus resultieren, dass in den Motor, Typ …, des in Klageantrag zu Ziff. 1. genannten Fahrzeugs mindestens eine unzulässige Abschalteinrichtung in der Form einer Software eingebaut wurde, die bei Erkennung standardisierter Prüfstandsituation (NEFZ) die Abgasaufbereitung so optimiert, dass möglichst wenige Stickoxide (NOx) entstehen und Stickstoffemissionswerte reduziert werden, und die im Normalbetrieb Teile  der Abgaskontrollanlage außer Betrieb setzt, so dass es zu einem höheren NOx-Ausstoß führt bzw. in Gestalt einer Funktion, die durch Bestimmung der Außentemperatur die Parameter der Abgasbehandlung so verändert, dass die Abgasnachbehandlung außerhalb des Temperaturfensters von 17°C bis 33°C reduziert wird (sog. "Thermofenster").3. Es wird festgestellt, dass sich die Beklagte mit der Entgegennahme des in Klageantrag Ziff. 1. genannten Fahrzeugs in Annahmeverzug befindet.Die Beklagte beantragt,die Berufung zurückzuweisen.Die Beklagte verteidigte das landgerichtliche Urteil mit näherer Darlegung.Wegen der Einzelheiten wird auf die von den Parteien gewechselten Schriftsätze nebst Anlagen und den weiteren Akteninhalt verwiesen.II.Der Senat beabsichtigt, die form- und fristgerecht eingelegte Berufung der Klägerin durch einstimmigen Beschluss gemäß § 522 Abs. 2 ZPO zurückzuweisen. Weder beruht das angefochtene Urteil auf einer Rechtsverletzung noch rechtfertigen nach § 529 ZPO zugrunde zu legenden Tatsachen eine andere Entscheidung, § 513 ZPO. Die Rechtssache hat keine grundsätzliche Bedeutung. Ebenso wenig erfordern die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Berufungsgerichts aufgrund mündlicher Verhandlung. Auch im Übrigen ist nicht ersichtlich, dass die Durchführung einer mündlichen Verhandlung geboten wäre. Die Berufung hat nach derzeitiger Sach- und Rechtslage offensichtlich keine Aussicht auf Erfolg. Das Landgericht hat die Klage zu Recht abgewiesen.1. Das Landgericht hat die Zulässigkeit der Feststellungsanträge zu recht offengelassen, da die Klage mangels Bestehens eines Schadensersatzanspruchs jedenfalls unbegründet ist. Wenn die Unbegründetheit der Klage bereits feststeht, ist das Bestehen eines Feststellungsinteresses keine Prozessvoraussetzung (vgl. BGH, Beschluss vom 26.09.1995 – KVR 25/94, juris Rn. 47, BGHZ 130, 390; BGH, Urteil vom 27.10.2009 – XI ZR 225/08, juris Rn. 12, NJW 2010, 361).2. Der Klägerin steht aus keinem der mit Haupt- und Hilfsanträgen geltend gemachten Gesichtspunkte ein unionsrechtlicher Staatshaftungsanspruch gegen die Beklagte zu.Ein unionsrechtlicher Staatshaftungsanspruch setzt voraus, dass die Rechtsnorm, gegen die verstoßen worden ist, bezweckt, dem Einzelnen Rechte zu verleihen, dass der Verstoß hinreichend qualifiziert ist und dass zwischen dem Verstoß gegen die dem Staat obliegende Verpflichtung und dem der geschädigten Person entstandenen Schaden ein unmittelbarer Kausalzusammenhang besteht (EuGH, Urteil vom 05.03.1996 – C-46/93, C-48/93, juris Rn. 51, NJW 1996, 1267; BGH, Urteil vom 17.01.2019 – III ZR 209/17, juris Rn. 22, NJW-RR 2019, 528). Diese Voraussetzungen sind nicht erfüllt.a) Weder die Art. 4, 8, 12 und 46 der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 05.09.2007 noch die Verordnung Nr. 715/2007 des Europäischen Parlaments und Rates vom 20.06.2007 verfolgen den Zweck, einen Fahrzeugkäufer vor wirtschaftlichen Nachteilen zu schützen, die ihm entstehen, wenn er ein Fahrzeug erwirbt, dessen Motor über eine unzulässige Abschalteinrichtung verfügt. Aus den Nrn. 2, 4 und 23 der Erwägungsgründe der RL 2007/46/EG ergibt sich, dass Ziel der Richtlinie die Vollendung des Binnenmarktes durch die Einführung eines verbindlichen Systems für alle Fahrzeugklassen ist, so auch EuGH, Urteil vom 04.10.2018 – C-668/16, juris Rn. 87, der darüber hinaus noch ausführt, dass die in der Richtlinie vorgesehenen Sanktionen auch gewährleisten sollen, dass der Käufer eines Fahrzeugs im Besitz einer Übereinstimmungsbescheinigung ist, die es ihm erlaube, das Fahrzeug gemäß Anhang IX der Richtlinie in jedem Mitgliedstaat zuzulassen, ohne zusätzliche technische Unterlagen vorlegen zu müssen. Aus Nr. 14 der Erwägungsgründe kann entnommen werden, dass ein hohes Sicherheits- und Umweltschutzniveau durch die Umsetzung der Richtlinie erreicht werden sollte. Individualinteressen, insbesondere Vermögensinteressen von Kraftfahrzeugerwerbern finden in den Erwägungsgründen keine Erwähnung (vgl. auch OLG Karlsruhe, Beschluss vom 18.03.2021 – 1 U 183/20, juris Rn. 27, MDR 2021, 934, OLG Köln, Beschluss vom 17.12.2020 – 7 U 50/20, juris Rn. 19; OLG Brandenburg, Beschluss vom 11.01.2021 – 2 U 102/20, BeckRS 2021, 3617, Rn. 17; OLG Dresden, Beschluss vom 09.08.2021 – 1 U 2429/21, juris Rn. 11-16; KG Berlin, Beschluss vom 03.11.2020 – 9 U 1033/20, juris Rn. 6, NVwZ 2021, 1399).Auch die Verordnung 715/2007/EG dient, wie sich aus Nrn. 1, 4-7, 27 ihrer Erwägungsgründe ergibt, der Vollendung des Binnenmarktes durch Einführung gemeinsamer technischer Vorschriften zur Begrenzung der Emissionen von Kraftfahrzeugen sowie dem Umweltschutz, insbesondere der Verbesserung der Luftqualität, auch erwähnt sind die Senkung der Gesundheitskosten und der Gewinn an Lebensjahren. Es fehlt jeglicher Anhaltspunkt dafür, dass die Verordnung dem Schutz des Vermögensinteresses der einzelnen Fahrzeugerwerber dienen könnte (vgl. BGH, Urteil vom 30.07.2020 – VI ZR 5/20, juris Rn. 13, NJW 2020, 2798).b) Der Beklagten ist weder ein hinreichend qualifizierter Verstoß gegen die Verpflichtung des Art. 46 RL 2007/46/EG, wirksame und abschreckende Sanktionen vorzusehen, vorzuwerfen, noch hat die Beklagte vorwerfbar ihre Kontroll- und Überwachungspflichten im Rahmen des Typengenehmigungsverfahren in qualifizierter Weise verletzt. Ein Verstoß ist dann hinreichend qualifiziert, wenn der Mitgliedstaat die Grenzen, die seinem Ermessen gesetzt sind, offenkundig und erheblich überschritten hat (EuGH, Urteil vom 05.03.1996 – C-46/93, C-48/93, juris Rn. 55, NJW 1996, 1267). Bei der Beurteilung dieser Frage ist das Maß an Klarheit und Genauigkeit der verletzten Vorschrift, der Umfang des Ermessensspielraums, den die verletzte Vorschrift den nationalen Behörden belässt, die Frage, ob der Verstoß vorsätzlich oder nicht vorsätzlich begangen oder der Schaden vorsätzlich oder nicht vorsätzlich zugefügt wurde, die Entschuldbarkeit oder Unentschuldbarkeit eines etwaigen Rechtsirrtums und der Umstand, dass die Verhaltensweisen eines Gemeinschaftsorgans möglicherweise dazu beigetragen haben, dass nationale Maßnahmen oder Praktiken in gemeinschaftsrechtswidriger Weise unterlassen, eingeführt oder aufrechterhalten wurden, zu berücksichtigen (EuGH, aaO, juris Rn. 56). Jedenfalls ist ein Verstoß gegen das Gemeinschaftsrecht offenkundig qualifiziert, wenn er trotz des Erlasses eines Urteils, in dem der zur Last gelegte Verstoß festgestellt wird, oder eines Urteils im Vorabentscheidungsverfahren oder aber einer gefestigten einschlägigen Rechtsprechung des Gerichtshofs, aus denen sich die Pflichtwidrigkeit des fraglichen Verhaltens ergibt, fortbestanden hat (EuGH, aaO, juris Rn. 57).Nach diesen Maßstäben liegt kein hinreichend qualifizierter Verstoß vor.aa) Die Beklagte hat bei der Umsetzung der Richtlinie ihren Ermessensspielraum weder offenkundig noch erheblich überschritten. Nach Art. 288 Abs. 3 AEUV ist eine Richtlinie für jeden Mitgliedstaat, an den sie gerichtet wird, hinsichtlich des zu erreichenden Zieles verbindlich. Jedoch wird den innerstaatlichen Stellen die Wahl der Form und Mittel überlassen. Es war damit in das Ermessen der Beklagten gestellt, mit welchen Mitteln sie Verstöße gegen das europäische Typengenehmigungsrecht in wirksamer und abschreckender Art und Weise sanktioniert. Die von der Beklagten mit Einführung des § 37 EG-FGV und den vorhandenen Sanktionen aus dem Strafrecht (§§ 263, 267 StGB) und Ordnungswidrigkeitenrecht (§ 30 OWiG) vorgesehenen Sanktionen und den verwaltungsrechtlichen Sanktionsmöglichkeiten (§ 25 EG-FGV) sind jedenfalls nicht offenkundig ungeeignet (vgl. OLG Dresden, Beschluss vom 09.08.2021 – 1 U 2429/21, juris Rn. 20, KG Berlin, Beschluss vom 03.11.2020 – 9 U 1033/20, juris Rn. 11, NVwZ 2021, 1399; OLG Brandenburg, Beschluss vom 11.01.2021 – 2 U 102/20, BeckRS 2021, 3617, Rn. 20).bb) Auch eine qualifizierte Rechtsverletzung der Beklagten bei der Erteilung der Typengenehmigung ist nicht erkennbar. Ein Verschulden der Mitarbeiter des KBA bei der Erteilung der Typengenehmigung für das streitgegenständliche Fahrzeug und ein hinreichend qualifizierter Verstoß gegen das europäische Typengenehmigungsrechts (das, wie oben dargelegt, keine das Vermögen des Fahrzeugerwerbers schützende Norm enthält) hat die Klägerin nicht dargelegt. Gemäß § 4 Abs. 4 EG-FGV iVm Art. 8 der RL 2007/46/EG ist das KBA verpflichtet, die Angaben der Hersteller auf Vollständigkeit und Vereinbarkeit mit unionsrechtlichen Vorgaben zu prüfen. Das Vorhandensein einer unzulässigen Abschalteinrichtung ist der Beklagten von der Herstellerin nicht mitgeteilt worden (vgl. BGH, Urteil vom 25.05.2020 – VI ZR 252/19, juris Rn. 25, NJW 2020, 1962, der annahm, die Beklagte sei von den Herstellern arglistig getäuscht worden). Dass die Beklagte im Zeitpunkt der Erteilung der Typengenehmigung für das streitgegenständliche Fahrzeug Kenntnis von den Manipulationen der Hersteller betreffend die Abschalteinheit hatte, ist nicht ersichtlich. Der Klägervortrag zeigt auch keine hinreichenden Verdachtspunkte auf, die die Beklagte hätten veranlassen müssen, über die europarechtlich vorgesehenen Prüfungen hinaus nach verbotenen Abschalteinrichtungen zu forschen (vgl. OLG Dresden, Beschluss vom 09.08.2021 – 1 U 2429/21, juris Rn. 23, OLG Brandenburg, Beschluss vom 24.08.2021 – 2 U 16/21, juris Rn. 35, OLG Oldenburg, Beschluss vom 13.08.2020 – 6 U 4/20, S. 10).cc) Eine qualifizierte Rechtsverletzung der Beklagten bei der Genehmigung des Software-Updates ist nicht erkennbar. Die Beklagte war nach Art. 30 Abs. 1 RL 2007/46/EG verpflichtet, notwendige Maßnahmen zu ergreifen, damit die Fahrzeuge mit dem genehmigten Typ in Übereinstimmung gebracht werden. Dem ist die Beklagte durch Anordnung der Nebenbestimmungen zur Typengenehmigung und Freigabe des Software-Updates nachgekommen. Ermessenfehler bei der Entscheidung des KBA sind nicht erkennbar.Dass die Beklagte/das KBA im Jahr 2016 bei Erteilung der Genehmigung für das Software-Update wusste oder es jedenfalls billigend in Kauf genommen oder es auch nur für möglich gehalten hat, dass durch das Update möglicherweise bislang nicht näher dargelegte Beeinträchtigungen an dem streitgegenständlichen Fahrzeug auftreten könnten, hat die Klägerin nicht hinreichend dargelegt. Vielmehr ist auch der BGH in seiner Entscheidung vom 30.07.2020 – VI ZR 5/20, juris Rn. 37, NJW 2020, 2798, davon ausgegangen, dass das Software-Update geeignet ist, den gesetzeswidrigen Zustand zu beseitigen. Davon ist auch das KBA ausgegangen.c) Die Klägerin legt auch mit der Berufungsbegründung keine Schäden dar, die ihr mit hinreichender Wahrscheinlichkeit drohen. Der Klägerin war bei Abschluss des Kaufvertrages bekannt, dass das streitgegenständliche Fahrzeug eine unzulässige Abschalteinrichtung enthielt und dass Reparaturmaßnahmen erforderlich sein werden. Allein in dem Umstand, dass es zu Rückrufaktionen und Aufspielen von Software-Updates kommen kann, liegt kein kausaler Schaden. Auch die angeführten Steuernachzahlungen drohen der Klägerin nicht mit der erforderlichen Wahrscheinlichkeit (vgl. dazu die obergerichtliche Rechtsprechung, zB OLG Brandenburg, Beschluss vom 11.01.2021 – 2 U 102/20, BeckRS 2021, 3617, Rn. 7 f; OLG Köln, Beschluss vom 21.12.2020 – 7 U 56/20, juris Rn. 9 f; OLG Oldenburg, Beschluss vom 13.08.2020 – 6 U 4/20, S. 4 f., Thüringer OLG, Beschluss vom 10.11.2020 – 4 U 364/20, S. 3, OLG Hamm, Urteil vom 19.03.2021 – I-11 U 122/20, S. 5; OLG Karlsruhe, Beschluss vom 18.03.2021 – 1 U 183/20, S. 5). Die Klägerin hat nicht dargelegt, dass eine nachteilige Steuerfestsetzung im Zusammenhang mit dem als "Dieselskandal" nun schon seit mehr als 5 Jahren bekannten Vorgang von den Steuerbehörden auch nur in Erwägung gezogen wäre. Bemessungsgrundlage für die Festsetzung der Kfz-Steuer sind gemäß § 8 Nr. 1 b) KraftStG die Kohlendioxid-Emissionen und der Hubraum. Die unzulässige Abschalteinrichtung beeinflusst den Stickoxidausstoß, nicht die Kohlendioxid-Emissionen. Warum dennoch Steuernachzahlungen drohen, hat die Klägerin nicht plausibel dargelegt.Bezüglich des Antrags zu 2. (Schäden durch Freigabe des Software-Update) hat die Klägerin auch keinen durch die Beklagte verursachten Schaden substantiiert dargelegt. Die Klägerin hat behauptete Mehrkosten, die aufgrund des Aufspielens des Software-Updates für den Motor entstanden sein sollen oder künftig entstehen sollen, nicht substantiiert dargelegt. Insbesondere ist nicht dargelegt worden, ob und ggfs. in welchem Umfang das klägerische Fahrzeug nach dem Update einen höheren Kraftstoffverbrauch hatte. Auch bezüglich des Verschleißes einzelner Bauteile sind lediglich theoretische Überlegungen angestellt worden, jedoch weder am klägerischen Fahrzeug noch an baugleichen Fahrzeugen aufgezeigt worden, dass es zu einem vorzeitigen Verschleiß gekommen ist. Hinzu kommt, dass die Klägerin einen Kaufvertrag abgeschlossen hat, aus dem sich ausdrücklich ergibt, dass … die Kosten für alle Maßnahmen übernimmt, die erforderlich sind, damit das Fahrzeug die aktuellen gesetzlichen Vorschriften wieder vollumfänglich erfüllt. Der Klägerin war der Mangel des Fahrzeugs ebenso wie der Umstand bekannt, dass an Mangelbeseitigungsmaßnahmen gearbeitet wird und dass ihr Fahrzeug auf Kosten von … diesen Mängelbeseitigungsmaßnahmen unterzogen werden wird.Hinzu kommt, dass kein unmittelbarer Kausalzusammenhang zwischen dem Unterlassen der Anordnung weiterer Sanktionen für die Produktion von Fahrzeugen mit verbotener Abschalteinrichtung und den vermeintlichen Schäden der Klägerin besteht. Zum einen gibt es keine Erkenntnisse dazu, ob überhaupt Sanktionen denkbar gewesen wären, die die Herstellerin von den Manipulationen abgehalten hätten. Auch die von den USA angeordneten schärferen Sanktionen haben die Herstellerin … AG nicht davon abgehalten, auch dort manipulierte Fahrzeuge genehmigen zu lassen und in den Verkehr zu bringen. Zum anderen ist ein etwaiger Kausalzusammenhang jedenfalls mit der bewussten Entscheidung der Klägerin für den Kauf eines Fahrzeugs mit verbotener Abschaltautomatik unterbrochen worden.Selbiges gilt auch für den Vorwurf der Erteilung der Typengenehmigung.3. Die Klägerin hat keine Amtshaftungsansprüche gegen die Beklagte gemäß § 839 BGB iVm Art. 34 GG. Das der Beklagten von der Klägerin vorgeworfene unzureichende Tätigwerden bei der Anordnung von Sanktionen verletzt keine drittgerichteten Amtspflichten zu Lasten der Fahrzeugkäufer. Bei der Pflicht zum Tätigwerden im Rahmen der Gesetzgebungsaufgaben nimmt der Gesetzgeber in der Regel ausschließlich Aufgaben gegenüber der Allgemeinheit wahr (vgl. BGH, Urteil vom 24.10.1996, III ZR 127/91, juris Rn. 9, NJW 1997, 123), so auch hier.Auch hinsichtlich Erteilung der Typengenehmigung und der Genehmigung des Software-Updates ist eine Amtspflichtverletzung der Beklagten nicht erkennbar.Ob ein Amtshaftungsanspruch – wie vom Landgericht angenommen – gemäß § 839 Abs. 1 S. 2 BGB an der Subsidiarität gegenüber etwaigen Ansprüchen gegenüber der … AG als Hersteller scheitert, kann dahinstehen. Da die Klägerin das Fahrzeug in Kenntnis der Betroffenheit des Motors vom "Abgasskandal" erworben hat, dürften Primäransprüche gegen die Herstellerin zweifelhaft sein.4. Selbst wenn durch die Freigabe des Software-Updates die Grundlage für einen Eingriff in das Eigentum des Klägers durch das Aufspielen des Software-Updates geschaffen worden sein sollte, so handelt es sich nicht um einen rechtswidrigen Eingriff. Der Eingriff war erforderlich, weil das Fahrzeug der Klägerin nicht der Typengenehmigung entsprach. Dass Nachbesserungsmaßnahmen erforderlich sein werden, war der Klägerin beim Kauf des streitgegenständlichen Fahrzeugs bekannt. Die Klägerin hatte ein mangelhaftes Fahrzeug in Kenntnis des Mangels und in Kenntnis der Erforderlichkeit der Nachbesserung erworben.5. Mangels Vorliegens einer Anspruchsgrundlage ist auch der hilfsweise gestellte Leistungsantrag unbegründet.Nach alledem sind Rechtsfehler des landgerichtlichen Urteils nicht erkennbar.III.Den Parteien wird Gelegenheit zur Stellungname innerhalb der im Tenor genannten Frist gegeben. Es wird darauf hingewiesen, dass bei Rücknahme der Berufung Gerichtsgebühren gespart werden können (Ermäßigung der Gebühr für das Verfahren im Allgemeinen gemäß Nrn. 1220, 1222 KV von 4,0 auf 2,0).
+			
+			
+			
+			Permalink: https://openjur.de/u/2391984.html (https://oj.is/2391984)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate13
+				
+				
+					 Zitiert0
+				
+
+				
+					 Faksimile
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

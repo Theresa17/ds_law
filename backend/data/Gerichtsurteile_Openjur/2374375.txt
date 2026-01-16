@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungUrteil vom 30.06.2021 - 5 U 254/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Urteil vom 30.06.2021 - 5 U 254/19
+                      m. Fundstelle
+                      OLG Köln, Urteil vom 30.06.2021 - 5 U 254/19 = openJur 2021, 40949
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Urteil vom 30.06.2021 - 5 U 254/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 40949
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 12 O 85/19
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das Urteil des Landgerichts Köln vom 06.11.2019 - 12 O 85/19 - wird zurückgewiesen.Die Kosten des Berufungsverfahrens trägt der Kläger.Das vorliegende Urteil und die angefochtene Entscheidung sind vorläufig vollstreckbar.Die Revision wird nicht zugelassen.  
+				Gründe
+				I.Der Kläger erwarb am 18.08.2016 einen erstmals am 29.05.2015 zugelassenen, neuen VW T6 2.0 l Diesel zum Preis von 36.672,37 € von der Autohaus A GmbH & Co. KG. Finanziert wurde der Kaufpreis durch einen Darlehensvertrag bei der C. Das Fahrzeug ist mit einem Motor der Kennung EA 288 ausgestattet und unterfällt der Abgasnorm Euro 6.Der streitgegenständliche Motor verfügt über ein Thermofenster, das bewirkt, dass in bestimmten Außentemperaturbereichen die Abgasrückführung reduziert und dadurch der Schadstoffausstoß erhöht wird. Das Fahrzeug ist mit einem SCR-Katalysator ausgestattet. Dieser reduziert Stickoxide voll wirksam ab einer Betriebstemperatur von ca. 200°C. Unterhalb dieser Temperatur erfolgt eine Reduzierung der Stickoxide durch die Abgasrückführung. Oberhalb einer Temperatur von 200°C wird im SCR-System das Motorkennfeld grundsätzlich auf eine geringere Abgasrückführungsrate umgestellt. Bei dem streitgegenständlichen Motor war - wie bei allen Motoren des Typs EA 288, Euro 6, mit SCR-Katalysator und Produktionszeitpunkt vor dem 30.05.2016 - eine Fahrkurvenerkennung enthalten. Diese führte dazu, dass die Abgasrückführungsrate im Prüfstand auch nach Erreichen einer Betriebstemperatur des SCR-Katalysators von ca. 200°C nicht reduziert wurde. Nach Erreichen der für die optimale Funktionsfähigkeit des SCR erforderlichen Betriebstemperatur im letzten NEFZ-Zyklus blieb die bis dahin hohe Abgasrückführungsrate weiter parallel bestehen.Am 30.06.2017 wurde die Fahrkurvenerkennung im Rahmen einer Serviceaktion entfernt.Das Kraftfahrt-Bundesamt veröffentlichte am 17.04.2019 einen Rückruf für Fahrzeuge der Beklagten des Typs T6 wegen einer Konformitätsabweichung. Wegen der Einzelheiten wird auf den Auszug aus der Datenbank des Kraftfahrt-Bundesamtes zur Rückrufaktion Bezug genommen (Bl. 346a d.A.). Das Kraftfahrt-Bundesamt hat das von der Beklagten entwickelte Software-Update mit Bestätigung vom 19.11.2018 freigegeben.Der Kläger hat die Auffassung vertreten, dass ihm ein Schadensersatzanspruch gegen die Beklagte wegen einer vorsätzlichen sittenwidrigen Schädigung zustehe. Er hat behauptet, das streitgegenständliche Fahrzeug verfüge über mehrere unzulässige Abschalteinrichtungen im Sinne von Art. 5 Abs. 2 EG-VO 715/2007. Es enthalte eine Software, die erkennen könne, ob das Fahrzeug im Prüfstand oder auf der Straße betrieben werde. Die für die Zulassung des Fahrzeuges der Abgasnorm Euro 6 einzuhaltenden Schadstoffwerte würden nur auf dem Prüfstand eingehalten, während die tatsächlichen Schadstoffwerte des Fahrzeuges im normalen Fahrbetrieb erheblich oberhalb der gesetzlichen Vorgaben lägen. Zudem führe das in seinem Fahrzeug eingebaute sogenannte Thermofenster dazu, dass nur auf dem Prüfstand eine den gesetzlichen Vorgaben entsprechende Abgasrückführung erreicht werde, im realen Straßenverkehr hingegen nicht. Zudem werde bei dem Fahrzeug beim Durchfahren des NEFZ eine erhöhte Menge an Harnstoff (AdBlue) in das SCR-System beigemischt, um bessere Stickoxid-Ergebnisse zu erzielen.Mit einem nach Schluss der mündlichen Verhandlung eingereichten Schriftsatz vom 17.09.2019 hat der Kläger auf ein internes Dokument der Beklagten "Entscheidungsvorlage: Applikationsrichtlinien & Freigabevorgaben EA288" hingewiesen und eine illegale Prüfzyklenerkennung behauptet.Der Kläger hat beantragt,1. die Beklagte zu verurteilen, an ihn 14.566,65 € nebst Zinsen hieraus i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 04.04.2019 zu bezahlen, Zug um Zug gegen Herausgabe des PKW VW Transporter, FIN B;2. die Beklagte zu verurteilen, ihn von den weiteren primären Verpflichtungen aus dem Darlehensvertrag bei der C GmbH, D Straße 57, E mit der externen Vorgangsnummer F freizustellen;3. festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag Ziff. 1 genannten Pkw im Annahmeverzug befindet.Die Beklagte hat beantragt,die Klage abzuweisen.Sie hat das Vorliegen einer unzulässigen Abschalteinrichtung bestritten.Das Landgericht hat eine vorsätzliche sittenwidrige Schädigung verneint und die Klage abgewiesen. Wegen der Einzelheiten der Begründung wird auf die Entscheidungsgründe des angefochtenen Urteils verwiesen.Gegen dieses Urteil wendet sich der Kläger mit seiner Berufung. Zu Unrecht habe das Landgericht seinen unter Beweis gestellten Vortrag zum Thermofenster und zur Strategieumschaltung als Vorbringen ins Blaue hinein gewertet. Es habe die der Beklagten obliegende sekundäre Darlegungs- und Beweislast verkannt. Es sei unstreitig geblieben, dass das Fahrzeug nach einem Update einen Mehrverbrauch an AdBlue im Vergleich zu den Herstellerangaben und dem allgemein bekannten Verbrauch zum Zeitpunkt des Kaufs haben werde. Ebenfalls sei unstreitig geblieben und durch das Kraftfahrtbundesamt mit Schreiben vom 01.09.2020 bestätigt worden, dass das streitgegenständliche Fahrzeug ohne Aufspielen des Softwareupdates von der örtlichen Zulassungsbehörde zwangsstillgelegt werde. Er sei seiner Darlegungslast ausreichend nachgekommen. Er habe vorgetragen und durch das von ihm vorgelegte interne Dokument der Beklagten vom 18.11.2015 "Entscheidungsvorlage: Applikationsrichtlinien & Freigabevorgaben EA 288" unter Beweis gestellt, dass in dem streitgegenständlichen Fahrzeug eine Motorsteuerung verwendet werde, die insgesamt fünf Fahrzyklen der Genehmigungsbehörden und des G erkenne. Die Motorsteuerung schalte in Abhängigkeit der Erkennung dieser Fahrzyklen zwischen Strategie 1 und Strategie 2 um. Dies stelle eine illegale Umgehung der gesetzlichen Abgaskontrollen und eine illegale Reduzierung der Abgasaufbereitung dar.Der Kläger hat zunächst beantragt,das Urteil des Landgerichts Köln vom 06.11.2019 aufzuheben und1. die Beklagte zu verurteilen, an den Kläger 16.629,04 € nebst Zinsen hieraus i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 04.04.2019 zu zahlen, Zug um Zug gegen Herausgabe des Pkw VW Transporter, FIN B;2. die Beklagte zu verurteilen, ihn von den weiteren primären Verpflichtungen aus dem Darlehensvertrag bei der C GmbH, D Straße 57, E mit der externen Vorgangsnummer F freizustellen;3. festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag Ziff. 1 genannten Pkw seit dem 04.04.2019 im Annahmeverzug befindet.Nachdem die Finanzierung für das Fahrzeug im August 2020 ausgelaufen ist und der Kläger zur Finanzierung der Schlussrate das Fahrzeug zu einem Preis von 15.000 € brutto (12.605,04 € netto) verkauft und das Darlehen vollständig abgelöst hat, verlangt er nunmehr Ersatz der Anschaffungskosten für das Fahrzeug i.H.v. 35.324,73 € netto abzüglich eines Nutzungsersatzes i.H.v. 15.143 € abzüglich des Verkaufspreises i.H.v. 12.605,04 € netto.Der Kläger beantragt,unter Abänderung des Urteils des Landgerichts Köln vom 06.11.2019, Az. 12 O 85/191. die Beklagte zu verurteilen, an den Kläger 6.776,92 € nebst Zinsen hieraus i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 04.04.2019 zu zahlen;2. festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag Ziffer 1. genannten Pkws vom 04.04.2019 bis 01.07.2020 im Annahmeverzug befand.Im Übrigen erklärt der Kläger den Rechtsstreit für erledigt.Die Beklagte beantragt,die Berufung zurückzuweisenSie verteidigt das angefochtene Urteil nach Maßgabe der Berufungserwiderung. Der Vortrag des Klägers gehe auch in zweiter Instanz nicht über Mutmaßungen und pauschale Behauptungen "ins Blaue hinein" hinaus. Eine vorsätzliche Täuschung durch eine prüfstandsoptimierenden Umschaltlogik sei nicht gegeben. Das KBA habe in seiner Freigabe-Bestätigung vom 19.11.2018 betont, dass bei dem streitgegenständlichen Fahrzeugtyp keine unzulässige Abschalteinrichtung festgestellt worden sei.Auch eine Täuschung wegen eines Thermofensters scheide aus. Dieses stelle keine unzulässige Abschalteinrichtung dar, sondern entspreche dem allgemeinen Stand von Wissenschaft und Technik. Es finde auch keine völlige Abrampung in einem engen Temperaturbereich statt. Vielmehr sei das Thermofenster sehr weit gefasst und reiche von -15 °C bis +42 °C und in den meisten Fällen sogar noch über 42 °C hinaus. Die Konformationsabweichung, die Gegenstand des Rückrufs des Kraftfahrt-Bundesamtes gewesen sei, stehe in keinem Zusammenhang mit einer unzulässigen Abschalteinrichtung. Der Kläger habe auch eine Täuschung im Hinblick auf eine unzulässige Erhöhung von AdBlue im NEFZ nicht ausreichend dargelegt. Der SCR-Katalysator sei sowohl auf dem Prüfstand als auch im realen Fahrbetrieb hinsichtlich seines Wirkungsgrades sowie der AdBlue-Dosierung absolut identisch. Die ursprünglich installierte Fahrkurvenerkennung habe keine über die Messstreuung hinausgehenden Auswirkungen gehabt. Sie behauptet unter Hinweis auf Untersuchungen des Kraftfahrt-Bundesamtes, dass auch bei Deaktivierung der Fahrkurvenerkennung die Grenzwerte für Stickoxide eingehalten würden.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zu den Akten gereichten Schriftsätze nebst Anlagen Bezug genommen.II.Die zulässige Berufung ist unbegründet.Das Landgericht hat die Klage zu Recht abgewiesen. Dem Kläger, der im Jahr 2016 einen mit einem Motor des Typs EA 288 ausgestatteten VW T6 Transporter 2.0 Diesel von der Autohaus A GmbH & Co. KG erworben hat, steht gegen die Beklagte als Herstellerin des Motors und Fahrzeuges weder aus § 826 BGB noch aus einem anderen Rechtsgrund Schadensersatz zu. Da die Klage von Anfang unbegründet war, ist auch keine teilweise Erledigung des Rechtsstreits auszusprechen.1.Von einer vorsätzlichen sittenwidrigen Schädigung durch die Beklagte kann nicht ausgegangen werden. Eine bewusste Täuschung des Kraftfahrt-Bundesamtes, welches für die Erteilung der Typengenehmigung zuständig war, der Fahrzeugkäufer oder ein einer Täuschung gleich stehendes Verhalten, das den Vorwurf der Sittenwidrigkeit begründen würde, hat der Kläger nicht schlüssig dargelegt.a) Soweit das Kraftfahrt-Bundesamt mit Bescheid vom 17.04.2019 (Anlage zum Sitzungsprotokoll des LG Köln vom 17.07.2019, Bl. 346 d.A.) den Volkswagen T6 des Klägers zurückgerufen hat, liegt dem eine technische Konformitätsabweichung zugrunde, die im Zusammenhang mit der Regeneration des Dieselpartikelfilters steht. Ausweislich des Bescheides des Kraftfahrt-Bundesamtes vom 19.11.2018 (Anlage B1, Bl. 253 f d.A.) hat die Beklagte mit Schreiben vom 14.11.2018 das Ausbringen einer Softwaremaßnahme für die Fahrzeuge VW T6 2.0 l Euro 6 beantragt, "mit der das Stickoxid-Emissionsverhalten während der Regeneration des Diesel-Partikels verbessert und ein für die Ki-Familie repräsentativer Ki-Wert ... sichergestellt wird." Das Kraftfahrt-Bundesamt hat nach Bewertung der Emissionsstrategien keine unzulässigen Abschalteinrichtungen festgestellt und die Umrüstung der Fahrzeuge mit der Software freigegeben. Für eine unzulässige Abschalteinrichtung im Sinne von Art. 3 Nr. 10, 5 Abs. 2 S. 1 der VO (EG) 715/2007, bei der das Motorsteuerungsgerät bestimmte Parameter ermittelt, die Funktion des Emissionskontrollsystems verändert und dessen Wirksamkeit verringert, ergibt sich danach im Zusammenhang mit dem erfolgten Rückruf des Fahrzeuges nichts.b) Die Behauptung des Klägers, dass der Motor - vor einer am 30.06.2017 erfolgten Entfernung im Rahmen einer Serviceaktion - eine Fahrkurvenerkennung aufwies, mit der auf das Emissionsverhalten des Fahrzeuges eingewirkt wurde, begründet nicht den Vorwurf einer sittenwidrigen Täuschung durch Verwendung einer unzulässigen Abschalteinrichtung. Dies gilt auch unter Berücksichtigung des Vorbringens der Beklagten im Schriftsatz ihrer Prozessbevollmächtigten vom 25.01.2021, bis zum Modellwechsel in der 22. Kalenderwoche des Jahres 2016 (30.05. bis 05.06.2016) habe die in bestimmten T6-Fahrzeugen enthaltene Fahrkurvenerkennung dazu geführt, dass die AGR-Rate auch nach Erreichen einer Betriebstemperatur des SCR-Katalysators von ca. 200°C nicht reduziert worden sei, und dass nach Erreichen der für die optimale Funktionsfähigkeit des SCR erforderlichen Betriebstemperatur im letzten Teil des NEFZ-Zyklus die bis dahin hohe Abgasrückführungsrate weiter parallel bestanden habe. Denn mit der Fahrkurvenerkennung ist nach dem Vortrag der Beklagten eine grenzwertrelevante Einwirkung auf das Emissionskontrollsystems nicht verbunden gewesen.Eine Abschalteinrichtung im Sinne von Art. 3 Nr. 10 VO (EG) 715/2007 setzt ein Konstruktionsteil voraus, welches bestimmte Parameter ermittelt, um auf ein Element des Emissionskontrollsystems einzuwirken, wodurch die Wirksamkeit des Emissionskontrollsystems unter Bedingungen verringert wird, die bei normalen Fahrzeugbetrieb vernünftigerweise zu erwarten sind. Die Wirksamkeit des Emissionskontrollsystems wird nicht verringert, wenn die gesetzlichen Emissionsgrenzwerte auch ohne eine Einwirkung auf das System eingehalten werden. Eine Abschalteinrichtung im Sinne von Art. 3 Nr. 10 der VO (EG) 715/2007 liegt nur dann vor, wenn sie die Höhe der Fahrzeugemissionen anhand von ihr ermittelter Fahrbedingungen verändert und die Einhaltung der Emissionsgrenzwerte nur unter Bedingungen gewährleistet, die denen der Zulassungstests entsprechen (EuGH, Urteil vom 17.12.2020 - 693/18 -, NJW 2021, 1216, Rn. 99).Nach dem Vortrag der Beklagten ist mit der Fahrkurvenerkennung eine grenzwertrelevante Einwirkung auf das Emissionskontrollsystems nicht verbunden gewesen. Die Grenzwerte seien, so der Beklagtenvortrag, auch ohne Verwendung der zu überprüfenden Funktion eingehalten worden. Aus der von der Beklagten vorgelegten amtlichen Auskunft des Kraftfahrt-Bundesamtes vom 11.02.2021 (Anlage B7, Bl. 640 f d.A.) geht hervor, dass die Fahrkurvenerkennung beim Motor EA 288 dort bekannt war und nicht als unzulässige Abschalteinrichtung bewertet wurde. Die Fahrkurvenerkennung habe, so das Kraftfahrt-Bundesamt, als ein zusätzliches Kriterium zur Umschaltung von Emissionsminderungsstrategien gedient und funktioniere auf dem Prüfstand und im Straßenbetrieb gleichermaßen und habe keinen wesentlichen Einfluss auf die Schadstoffemissionen. Die amtliche Auskunft des Kraftfahrt-Bundesamtes bestätigt den Vortrag der Beklagten, nach der auch bei Deaktivierung der Fahrkurvenerkennung die Grenzwerte für Stickoxide eingehalten werden. Auch der Bericht der Untersuchungskommission "Volkswagen" aus April 2016 bestätigt die Angaben der Beklagten. Danach ergaben die unter anderem bei einem Audi A6 2.0 l Diesel, Motor EA 288, Euro 6 mit SCR-Katalysator durchgeführten Untersuchungen, dass sowohl die im Prüfstand als auch im "NEFZ Straße" gemessenen Stickoxidemissionen unterhalb der maßgeblichen Grenzwerte lagen (Seite 22 des Berichts der Untersuchungskommission "Volkswagen"). Das untersuchte Fahrzeug Audi A6 2.0 l wurde - wie sich Seite 23 des Berichts der Untersuchungskommission entnehmen lässt - erstmals am 15.04.2015 zugelassen und gehörte damit - wie das streitgegenständliche Fahrzeug auch - zu der Gruppe der vor dem 30.05.2016 produzierten Fahrzeuge, bei denen die Fahrkurvenerkennung noch enthalten war.Die von der Beklagten vorgelegte und konkret in Bezug genommene amtliche Auskunft des Kraftfahrt-Bundesamt und der durch das Bundesministerium für Verkehr und Infrastruktur veröffentliche Bericht der Untersuchungskommission "Volkswagen" erhöhen die Anforderungen an die dem Kläger zum Vorliegen einer unzulässigen Abschalteinrichtung ohnehin obliegende Darlegungslast. Seiner Darlegungslast ist der Kläger nicht hinreichend nachgekommen. Er bestreitet lediglich, dass die zulässigen Emissionswerte, insbesondere die Stickoxidwerte auch ohne die Zykluserkennung eingehalten worden sind. Sofern der Kläger behaupten möchte, die Grenzwerte seien im Zeitpunkt des Kaufvertrages, als die Fahrkurvenerkennung noch nicht entfernt gewesen sei, überschritten worden, stellt sich dies vor dem Hintergrund des durch die amtliche Auskunft des Kraftfahrt-Bundesamtes und den Bericht der Untersuchungskommission "Volkswagen" untermauerten Vortrags der Beklagten als unbeachtliches Vorbringen ins Blaue hinein dar. Greifbare Anhaltspunkte für die Richtigkeit seiner Behauptung zeigt der Kläger nicht auf. Einer Beweiserhebung durch Einholung eines Sachverständigengutachtens bedarf es daher nicht.c) Soweit der Kläger in erster Instanz behauptet hat, dass im Prüfstand eine erhöhte Menge an AdBlue dem SCR-System beigemischt werde, während dies im realen Betrieb nicht der Fall sei, ist der Vortrag des Klägers ebenfalls als unbeachtliches Vorbringen in Blaue hinein zu bewerten. Würde der Vortrag des Klägers zutreffen, müssten sich die Stickoxidemissionen im Betrieb auf der Straße in erheblichem Umfang schlechter darstellen. Dies ist nach den Ergebnissen der umfangreichen Untersuchungen, die das Kraftfahrt-Bundesamt an Fahrzeugen mit dem Motor EA 288 durchgeführt hat, und nach dem dargestellten Inhalt des Berichts der Untersuchungskommission "Volkswagen" bei Fahrzeugen mit dem Motor EA 288 und einem SCR-Katalysator gerade nicht der Fall.d) In Bezug auf das von dem Kläger behauptete Thermofenster hat das Landgericht einen Anspruch aus § 826 BGB mit zutreffender Begründung verneint.Ob in dem Fahrzeug des Klägers ein im Prüfstand und im realen Fahrbetreib gleichermaßen zur Anwendung kommendes Thermofenster vorliegt, bei dem die Abgasrückführung temperaturabhängig gesteuert wird und ab welchen Temperaturen die Abgasrückführung zurückgefahren wird, kann ebenso dahin stehen wie die Frage, ob dies unter Berücksichtigung des Urteils des EuGH vom 17.12.2020 - C 693/18 - (juris) in rechtlicher und tatsächlicher Hinsicht eine unzulässige Abschalteinrichtung darstellt. Denn nach den Beschlüssen des Bundesgerichtshofs vom 19.01.2021 - VI ZR 433/19 - und vom 09.03.2021 - VI ZR 889/20 - (juris) ist das Verhalten der für einen Kraftfahrzeughersteller handelnden Personen nicht bereits deshalb als sittenwidrig zu qualifizieren, weil sie einen Fahrzeugtyp aufgrund einer grundlegenden unternehmerischen Entscheidung mit einer temperaturabhängigen Steuerung des Emissionskontrollsystems ausgestattet und in den Verkehr gebracht haben. Der objektive Tatbestand der Sittenwidrigkeit bedarf des Hinzutretens weiterer Umstände, die das Verhalten der handelnden Personen als besonders verwerflich erscheinen lassen. Die Annahme objektiver Sittenwidrigkeit setzt jedenfalls voraus, dass die handelnden Personen bei der Entwicklung und/oder Verwendung der temperaturabhängigen Steuerung des Emissionskontrollsystems in dem Bewusstsein handelten, eine unzulässige Abschalteinrichtung zu verwenden, und den darin liegenden Gesetzesverstoß billigend in Kauf nahmen.Entsprechende Anhaltspunkte hat der Kläger nicht schlüssig dargelegt. Fehlerhafte Angaben im Verfahren zur Erteilung der Typengenehmigung behauptet er nicht. Die Darlegung der genauen Wirkungsweise des Thermofensters war im Typengenehmigungsverfahren nach der damals bestehenden Rechtslage nicht erforderlich. Hinweise für einen vorsätzlichen Verstoß ergeben sich auch nicht aus der konkreten Ausgestaltung des Thermofensters. Eine nur punktuelle, exakt auf den Prüfstand begrenzte Wirkungsweise legt der Kläger nicht konkret dar. Dem Senat, der mit zahlreichen Fällen aus dem Bereich des sogenannten Abgasskandals befasst ist, ist kein Fall bekannt, in dem das Kraftfahrt-Bundesamt ein Thermofenster beanstandet hat. Auch der Kläger zeigt Entsprechendes nicht auf.2.Ein Anspruch aus § 823 Abs. 2 BGB i.V.m § 263 BGB ist mangels beachtlicher Darlegung eine vorsätzlichen Täuschung über die Verwendung einer unzulässigen Abschalteinrichtung zu verneinen. Der Kläger hat keine Indizien dargelegt, aus denen sich ergibt, dass die für die Beklagte handelnden Personen bei der Entwicklung und/oder Verwendung des Thermofensters in dem Bewusstsein handelten, eine unzulässige Abschalteinrichtung zu verwenden.3.Ein Anspruch aus § 823 Abs. 2 BGB i.V.m Art. 5 Abs. 1 VO (EG) 715/2007 EG oder § 27 Abs. 1, 6 Abs. 1 EG-FGV steht dem Kläger nicht zu, weil das streitgegenständliche Interesse, nicht zu einer ungewollten Verbindlichkeit veranlasst zu werden, nicht im Aufgabenbereich der Vorschriften liegt (vgl. BGH, Urteil vom 30.7.2020 - VI ZR - 5/20, juris Rn. 10 ff.).4.Mangels Hauptanspruchs bestehen auch die geltend gemachten Nebenansprüche nicht.5.Die Kostenentscheidung beruht auf §§ 97 Abs. 1 ZPO, der Ausspruch zur vorläufigen Vollstreckbarkeit folgt aus §§ 708 Nr. 10, 713 ZPO. Die Voraussetzungen für die Zulassung der Revision liegen nicht vor (§ 543 Abs. 2 ZPO). Die entscheidungserheblichen Fragen sind durch die Rechtsprechung des Bundesgerichtshofs, die der Senat zugrunde gelegt hat, geklärt oder solche des Einzelfalls.Berufungsstreitwert:Zunächst: 37.000 €Seit dem 14.01.2021: 17.776,92 € (6.776,92 € + 11.000 € [Kosten des erledigten Teils])
+			
+			
+			
+			Permalink: https://openjur.de/u/2374375.html (https://oj.is/2374375)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert19
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

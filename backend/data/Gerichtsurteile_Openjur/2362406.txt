@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG MünchenRechtsprechungEndurteil vom 29.09.2021 - 7 U 2983/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG München, Endurteil vom 29.09.2021 - 7 U 2983/21
+                      m. Fundstelle
+                      OLG München, Endurteil vom 29.09.2021 - 7 U 2983/21 = openJur 2021, 32462
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG München, Endurteil vom 29.09.2021 - 7 U 2983/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 32462
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Auf die Berufung des Klägers wird das Urteil des Landgerichts München II vom 16.04.2021, Az. 13 O 4214/20, aufgehoben.2. Die Beklagte wird verurteilt, an die Klagepartei 26.648,92 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 25.08.2020 Zug-um-Zug gegen Rückgabe und Übereignung des Fahrzeugs VW Eos (1968 ccm/103 kW/140 PS) mit der Fahrgestellnummer ...94 zu zahlen.3. Es wird festgestellt, dass sich die Beklagte seit dem 25.08.2020 mit der Rücknahme des in Ziff. 2 dieses Urteils bezeichneten PKWs in Annahmeverzug befindet.4. Die Beklagte wird verurteilt, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.324,60 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 25.08.2020 an die Klagepartei zu zahlen.5. Im Übrigen bleibt die Klage abgewiesen und wird die Berufung zurückgewiesen.6. Die Beklagte hat die Kosten des Rechtsstreits zu tragen.7. Das Urteil ist vorläufig vollstreckbar. Die Beklagte kann die Vollstreckung aus diesem Urteil durch Sicherheitsleistung in Höhe von 110% des vollstreckbaren Betrages abwenden, wenn die Klagepartei nicht Sicherheit in Höhe von 110% des zu vollstreckenden Betrages leistet.8. Die Revision gegen dieses Urteil wird nicht zugelassen.  
+				Gründe
+				I.Die Parteien streiten um die Rückabwicklung eines Pkw-Kaufvertrages im sogenannten "VW-Diesel-Skandal".Der Kläger erwarb am 04.03.2013 von der A. E. GmbH & Co.KG einen VW Eos als Neuwagen (km-Stand: 0 km) mit der Fahrzeug-Identifikationsnummer ...94, der mit einem 2,0-Liter Dieselmotor des Typs EA 189, Schadstoffnorm Euro 5, ausgestattet ist, zum Preis von 39.770 € (Anlage K1). Die Beklagtenpartei ist die Herstellerin des in dem Fahrzeug verbauten Motors.Die im Zusammenhang mit dem Motor EA 189 verwendete Software erkennt, ob das Fahrzeug auf einem Prüfstand dem Neuen Europäischen Fahrzyklus (NEFZ) unterzogen wird und schaltet in diesem Fall in den Abgasrückführungsmodus 1, einen Stickoxid (NOx)-optimierten Modus. In diesem Modus findet eine Abgasrückführung mit niedrigem Stickoxidausstoß statt. Im normalen Fahrbetrieb außerhalb des Prüfstands schaltet der Motor dagegen in den Abgasrückführungsmodus 0, bei dem die Abgasrückführungsrate geringer und der Stickoxidausstoß höher ist. Für die Erteilung der Typgenehmigung der Emissionsklasse Euro 5 maßgeblich war der Stickoxidausstoß auf dem Prüfstand. Die Stickoxidgrenzwerte der Euro 5-Norm wurden nur im Abgasrückführungsmodus 1 eingehalten.Das Kraftfahrtbundesamt (KBA) ging vom Vorliegen einer unzulässigen Abschalteinrichtung aus und erließ 2015 - dem Jahr des Bekanntwerdens des Diesel-Skandals - Nebenbestimmungen zur EG-Typgenehmigung. Die Beklagtenpartei bot daraufhin die Durchführung von Software-Updates an, mit denen diese Software aus allen Fahrzeugen mit Motoren des Typs EA189 mit 2,0-Liter-Hubraum entfernt werden sollte. Das Update wurde 2018 aufgespielt. Für VW Eos liegt ein erneuter KBAüberwachter Rückruf nach Software-Update vor (vgl. Replik vom 01.03.2021, S 83f.).Der Kläger hat seine Ansprüche noch 2018 zur Eintragung in das Klageregister der am 01.11.2018 eingereichten und am 12.11.2018 zugestellten Musterfeststellungsklage angemeldet (Replik vom 01.03.2021, S. 65). Die Musterfeststellungsklage wurde mit beim Gericht am 30.04.2020 eingegangenen Schriftsatz der klageführenden qualifizierten Einrichtung zurückgenommen. Die Zustimmung der Gegenseite ging am 04.05.2021 bei Gericht ein (vgl. Anlage BB7). Eine Abmeldung des Klägers war nicht erfolgt (vgl. auch Anlage K16).Mit Schreiben der Klägervertreter vom 17.08.2020 forderte die Klägerin, vertreten durch ihre Prozessbevollmächtigte, die Beklagtenpartei zur Zahlung des Kaufpreises abzüglich Nutzungsentschädigung (Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs) sowie zur Zahlung vorgerichtlicher Anwaltskosten mit Frist bis zum 24.08.2020 auf.Am 29.10.2020 betrug der Kilometerstand 81.470 km, am 16.03.2021 82.251 km (Bl. 205 d.A.) und am 28.09.2021 82.481 km (Bl. 428 d.A.).Die Klagepartei führt aus, die Beklagtenpartei habe durch die Verwendung einer Manipulations-Software die Klagepartei vorsätzlich sittenwidrig geschädigt. Wenn sie Kenntnis von dieser Software gehabt hätte, hätte sie den Pkw nicht gekauft. Der Vorstand der Beklagtenpartei habe von der Software gewusst. Dies müsse sich die Beklagtenpartei nach § 31 BGB zurechnen lassen. Durch das angebotene Software-Update lasse sich die Gesetzwidrigkeit nicht beheben. Sie enthalte erneute vorsätzlich sittenwidrige Schädigungen.Der Kläger beantragte in erster Instanz:1. Die Beklagte wird verurteilt, an die Klagepartei EUR 39.770,00 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 25.08.2020 abzüglich einer Nutzungsentschädigung in Höhe von EUR 12.960,25 Zug-um-Zug gegen Rückgabe und Übereignung des Fahrzeuges VW Eos (1968 ccm/103 kW/140 PS) mit der Fahrgestellnummer...94 [sic] zu zahlen.2. Es wird festgestellt, dass sich die Beklagte seit dem 25.08.2020 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befindet.3. Die Beklagte wird verurteilt, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von EUR 2.077,74 außergerichtliche Kosten [sic] nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 25.08.2020 zu zahlen.Die Beklagte beantragteKlageabweisung.Die Beklagte ist der Ansicht, das Fahrzeug der Klagepartei sei in seiner Fahrbereitschaft nicht eingeschränkt, somit weder mangel- noch schadhaft. Es habe auch keinen merkantilen Minderwert. Die Beklagte verfüge über keine Erkenntnisse, wonach einzelne Vorstandsmitglieder an der Entwicklung der Umschaltlogik beteiligt gewesen seien oder die Entwicklung/Verwendung in Auftrag gegeben oder gebilligt hätten oder von ihr gewusst hätten. Sie erhebt die Einrede der Verjährung.Das Landgericht hat mit dem Kläger am 20.04.2021 zugestelltem Urteil - auf dessen Tatbestand und Entscheidungsgründe Bezug genommen wird (§ 540 Abs. 1 ZPO) - die Klage abgewiesen. Es ging davon aus, dass dem Kläger zwar Ansprüche aus vorsätzlich sittenwidriger Schädigung (§§ 826, 31 BGB) im Grundsatz zustünden (LGU 5-10), die Ansprüche aber verjährt seien. Dabei ging es von einem Anlauf der Verjährungsfrist bereits Ende 2015 aus. Die Teilnahme an der Musterfeststellungsklage hemme vorliegend vom 12.11.2018 - dem Tag der Zustellung der Musterfeststellungsklage - bis zum 30.04.2021. Daraus errechne sich unter Berücksichtigung der 6-Monatsfrist nach § 204 Abs. 2 Satz 1 BGB unter Hinzurechnung der Hemmungszeit 2018 ein Ablauf der Verjährungsfrist mit dem 18.12.2020. Der Kläger habe seine Klage zwar bereits am 29.10.2020 bei Gericht eingereicht, jedoch - trotz Aufforderung hierzu am 04.11.2020 - den Gerichtskostenvorschuss erst am 22.12.2020, also mehr als sechs Wochen später, eingezahlt. Es könne daher bei der am 08.01.2021 bewirkten Zustellung der Klage nicht von einer Zustellung "demnächst" im Sinne von § 167 ZPO ausgegangen werden.Der Kläger wendet sich mit seiner am 19.05.2021 beim Oberlandesgericht eingelegten und dort am (Montag, den) 21.06.2021 begründeten Berufung, mit der er insbesondere die Annahme der Verjährung angreift.Er beantragt unter Abänderung des Urteils des Landgerichts München II - 13 O 4214/20 zu erkennen:1. Die Beklagte wird verurteilt, an die Klagepartei EUR 39.770,00 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 25.08.2020 abzüglich einer Nutzungsentschädigung in Höhe von EUR 12.960,25 Zug-um-Zug gegen Rückgabe und Übereignung des Fahrzeuges VW Eos (1968 ccm/103 kW/140 PS) mit der Fahrgestellnummer ...94 [sic] zu zahlen;2. festzustellen, dass sich die Beklagte seit dem 25.08.2020 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befindet;3. die Beklagte zu verurteilen, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von EUR 2.077,74 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 25.08.2020 zu zahlen Die Beklagte beantragt die Zurückweisung der Berufung.Sie verteidigt die Annahme von Verjährung und wendet sich vorsorglich gegen eine Inanspruchnahme aus § 852 BGB. Außerdem macht sie Ausführungen zur Nutzungsentschädigung und zu vorgerichtlichen Rechtsanwaltskosten.Der Senat hat mit Verfügung vom 02.07.2021 Hinweise erteilt (Bl. 351 d.A.) und über die Berufung am 29.09.2021 mündlich verhandelt. Auf die Sitzungsniederschrift und die gewechselten Schriftsätze wird ergänzend Bezug genommen.II.Die Berufung hat - weitestgehend - Erfolg. Der Klagepartei stehen Ansprüche aus §§ 826, 31 BGB zu, die nicht verjährt sind.1. Wie das Landgericht unter ausführlicher, von der Berufungserwiderung nicht angegriffener Begründung zutreffend ausführt, besteht im Grundsatz ein Anspruch des Klägers gegen die Beklagte aus §§ 826, 31 BGB. Der Senat macht sich die Ausführungen zwecks Vermeidung überflüssiger Wiederholungen zueigen und verweist ergänzend auf die Erwägungen der einschlägigen BGH-Entscheidung vom 25.05.2020 - VI ZR 252/19 Rn. 13-63. Aus den dort dargestellten Gründen greifen die erstinstanzlichen Einwendungen der Beklagten insbesondere gegen eine Annahme von Vorsatz der Leitungsorgane und von Kausalität zwischen Pflichtverletzung und Schaden nicht durch.2. Entgegen der Ansicht des Landgerichts sind die Ansprüche vorliegend nicht verjährt. Dabei unterstellt der Senat zugunsten der Beklagten, dass die Verjährungsfrist wegen grob fahrlässiger Unkenntnis des Klägers tatsächlich bereits Ende 2015 - dem Jahr der ad-hoc-Mitteilung der Beklagten und einer erstmaligen bundesweiten Medienberichterstattung über den Diesel-Abgasskandal - anlief. Danach ergäbe sich an sich ein Ablauf der Verjährungsfrist Ende 2018, §§ 195, 199 Abs. 1 BGB.Wie auch das Landgericht sieht, hemmt die Teilnahme des Klägers an der Musterfeststellungsklage gemäß § 204 Abs. 1 Nr. 1a BGB die Verjährung - allerdings in zeitlich größerem Umfang, als es das Landgericht annimmt.Die Hemmung beginnt nicht erst mit der Zustellung der Musterfeststellungsklage am 12.11.2018, sondern wegen der Vorwirkung nach § 167 ZPO bereits mit der Einreichung der Klage am 01.11.2018 (Peters/Jacoby in Staudinger, Neubearbeitung 2019, Stand: 18.06.2020, § 204 Rn. 48h). Es sind keine Gründe ersichtlich, warum auf Musterfeststellungsklagen § 167 ZPO keine Anwendung finden sollte. Dem Wortlaut der Norm nach (verkürzt lautet er: "Soll die Verjährung nach § 204 des Bürgerlichen Gesetzbuchs gehemmt werden, tritt diese Wirkung bereits mit Eingang des Antrags oder der Erklärung ein, wenn die Zustellung demnächst bewirkt wird.") fällt die Musterfeststellungsklage unproblematisch in ihren Anwendungsbereich. Es wäre auch schlechterdings sinnwidrig, wollte man die Rechtswirkung von gegen Ende eines Jahres eingereichten Musterfeststellungsklagen von Zufälligkeiten des Zustellbetriebs abhängig machen. Dies aber wäre die Folge, wenn man die Anwendung von § 167 ZPO auf sie verweigerte.Vorliegend hat der Kläger unstreitig bis zum Ende an dem Musterfeststellungsverfahren teilgenommen. Dieses endete nicht schon mit dem Eingang der Klagerücknahme beim zuständigen Oberlandesgericht. Da bereits eine mündliche Verhandlung (etwa am 30.09.2019) stattgefunden hatte, setzte die Rücknahme die Zustimmung der Gegenseite, die dem Gericht gegenüber zu erklären war, voraus (§ 269 Abs. 1 und 2 Satz 1, § 610 Abs. 5 Satz 1 ZPO; zur Anwendbarkeit vgl. Menges, in MüKo ZPO, 6. Aufl., § 610 Rn. 15, 20; Waßmuth/Asmus, ZIP 2018, 657, 663). Die Zustimmung zur Klagerücknahme ging - wie das Oberlandesgericht Braunschweig in seinem Beschluss vom 05.05.2020 - 4 MK 1/18 ausgeführt hat - dort erst am 04.05.2020 ein. Erst damit war das Musterfeststellungsverfahren beendet. Die Hemmungswirkung endete folglich erst sechs Monate nach dem Abschluss des Verfahrens, § 204 Abs. 2 Satz 1 BGB, mithin mit Ablauf des 04.11.2020 (ebenso OLG Frankfurt, Urteil vom 08.07.2021 - 26 U 5/21, juris-Rn. 53).Damit trat aber noch nicht Verjährung ein. Vielmehr ist die Zeitspanne vom 01.11.2018 bis zum 31.12.2018 (61 Tage) - während derer der Lauf der regelmäßigen Verjährungsfrist gehemmt war - hinzuzurechnen, § 209 BGB.Demnach endete die Verjährungsfrist erst mit Ablauf des 04.01.2021.Zu diesem Zeitpunkt war die Klage des Klägers bereits (nämlich am 29.10.2020) eingereicht. Wenn die Zustellung erst am 08.01.2021 (aufgrund richterlicher Verfügung vom 04.01.2021) erfolgte, ist dies unschädlich, denn die Zustellung erfolgte - gerechnet ab Ablauf der zu wahrenden Frist - noch innerhalb eines Zeitraums von 14 Tagen und somit noch "demnächst" im Sinne von § 167 ZPO, ohne dass es darauf ankäme, ob der die Zustellung betreibende Kläger eine Verzögerung verursacht hat (statt vieler: Greger in Zöller, ZPO, 33. Aufl., § 167 Rn. 11). Irrelevant ist, ob der Kläger vor Ablauf der Verjährungsfrist Verzögerungen verursacht hat, denn ein Kläger darf für die Einreichung seiner Klage die ihm zur Verfügung stehende Zeit vollumfänglich ausnutzen. Folglich dürfen ihm aus dem Umstand vorzeitiger Einreichung der Klage keine Nachteile erwachsen (vgl. BGH, Urteil vom 25.09.2015 - V ZR 203/14 Rn. 11).Überdies hatte vorliegend - ohne dass es hierauf noch ankäme - der Kläger zum Zeitpunkt des Ablaufs der Verjährungsfrist schon alles getan, um eine zeitnahe Klagezustellung zu bewirken, insbesondere hatte er bereits am 22.12.2020 den Gerichtskostenvorschuss eingezahlt.Nur ergänzend sei angemerkt, dass aus den genannten Gründen folgt, dass selbst bei der Berechnung des Landgerichts, wonach die Verjährungsfrist bereits am 18.12.2020 geendet haben soll, nicht von Verjährung ausgegangen werden könnte, da dem Kläger - wiederum gerechnet ab dem Tag des errechneten Fristablaufs - nur eine unschädliche Verzögerung von lediglich fünf Tagen bis zur Einzahlung des Gerichtskostenvorschusses angelastet werden könnte.Die Teilnahme an der Musterfeststellungsklage ist, wie der BGH zwischenzeitlich entschieden hat (BGH, Urteil vom 29.07.2021 - VI ZR 1118/20, juris-Rn. 38 ff.), selbst dann nicht rechtsmissbräuchlich, wenn der Kläger eine spätere individuelle Geltendmachung seiner Ansprüche erstrebt. So liegt der Fall aber nicht einmal. Der Kläger hat sich vielmehr durch seine Teilnahme am Musterfeststellungsverfahren über die erste mündliche Verhandlung hinaus einem etwaigen streitigen Ergebnis dieses Verfahrens unterworfen (§ 608 Abs. 3 ZPO). Die Verweigerung der Teilnahme an einem - hier außergerichtlichen - Vergleich ist in keinem Fall rechtsmissbräuchlich (vgl. § 611 Abs. 4 Sätze 2-4, Abs. 5 Satz 4 ZPO).3. Der Klagepartei steht damit ein Anspruch auf Befreiung von der ungewollt eingegangenen Verbindlichkeit, also auf Zahlung des Kaufpreises von 39.770 € Zug-um-Zug gegen Übereignung des streitgegenständichen Fahrzeugs, zu. Anzurechnen sind allerdings die gezogenen Nutzungsvorteile, wie dies auch die Klagepartei annimmt.Der Senat folgt dabei für deren Bemessung im Wege der Schätzung nach § 287 ZPO dem klägerischen Ansatz einer Gesamtlaufleistung von 250.000 km. Sie wird auch in der Rechtsprechung geteilt (für 250.000 km etwa die Vorinstanz zu OLG Stuttgart, Urteil vom 11.02.2020 - 10 U 314/19; sogar für 300.000 km: Brandenburgisches OLG, Urteil vom 08.06.2021 - 3 U 124/20; OLG Koblenz vom 30.06.2020 - 3 U 123/20, juris-Rn. 37; OLG Stuttgart, Urteil vom 28.11.2019 - 14 U 89/19, juris-Rn. 69).Die Beklagte nimmt in der Berufung den Ansatz einer Gesamtlaufleistung von 250.000 km hin (Berufungserwiderung, S. 53, Bl. 406 d.A.). Dies erscheint sachgerecht. Die Beklagte selbst bewirbt ihre Autos mit deren Langlebigkeit. Weiterhin ist bei der Schätzung einzubeziehen, dass es sich um ein Fahrzeug mit einer Erstzulassung im Jahr 2013 handelt, bei dem aufgrund fortschreitender technischer Entwicklung von einer höheren Haltbarkeit ausgegangen werden muss, als das bei älteren Fahrzeugen der Fall ist. Dabei kann auch nicht außer Acht gelassen werden, dass im heutigen Straßenbild eine Vielzahl von Fahrzeugen der Konzernmarken der Beklagtenpartei zu sehen sind, die ohne weiteres - deutlich - älter als zehn Jahre sind.Die übrigen Einwendungen der Beklagten gegen die Berechnung der Nutzungsentschädigung verfangen nicht. Der Ansatz einer linearen Berechnung der Nutzungsvorteile erscheint sachgerecht (vgl. BGH, Urteile vom 30.07.2021 - VI ZR 397/19, juris-Rn. 35; vom selben Tag - VI ZR 354/19 Rn. 12). Es geht nicht um den Ansatz von - auf dem Markt tatsächlich degressiv verlaufenden - Abschreibungen (BGH, Urteil vom 30.07.2020 - VI ZR 354/19, juris-Rn. 15), sondern - was je nach Fallgestaltung zum Vorteil oder zum Nachteil des Autokäufers ausfallen kann - um eine adäquate Bemessung des Nutzungsvorteils des Autokäufers. Sein Fahrnutzen ist jedoch nicht von dem km-Stand abhängig. Schließlich zwingt das konkrete Alter des Fahrzeugs von vorliegend nur 8 Jahren nicht zu einer anderen Berechnung des Nutzungsvorteils, da eine weitere langjährige Nutzung und ein Erreichen der Gesamtlaufleistung des zurückzugebenden Fahrzeugs durch einen anderen Halter nicht ausgeschlossen erscheint.Daraus ergibt sich ein Ansatz von Nutzungsvorteilen nach der Formel "gefahrene Kilometer multipliziert mit Kaufpreis, geteilt durch Restlaufzeit bei Kauf". Einzusetzen sind: 82.481 gefahrene Kilometer (unstreitiger km-Stand: 82.481 km; gekauft wurde das Fahrzeug als Neufahrzeug), Kaufpreis von 39.770 € und eine Restlaufleistung bei Kauf von 250.000 km. Soweit die Beklagtenvertreterin in der Sitzung monierte, der km-Stand stamme vom gestrigen Tag, sieht der Senat keinen Grund, diesen km-Stand nicht zugrundezulegen. Der Kläger hat das Fahrzeug in den vergangenen 8 Jahren ohnehin nur maßvoll genutzt. Der km-Stand bei Klageerhebung am 29.10.2020 betrug 81.470 km, am 16.03.2021 82.251 km. Der Senat kann daraus schließen, dass der Kläger das Fahrzeug in letzter Zeit nahezu gar nicht mehr nutzt.Der Nutzungsvorteil beträgt demnach 13.121,08 €, der zuzuerkennende Betrag somit 26.648,92 €.Die Beklagte kann nicht verlangen, dass das Urteil nach der sog. Karlsruher Formel - d.h. unter Angabe der Berechnungsformel - tenoriert wird, die künftige Nutzungen berücksichtigen soll. Der Senat hat bereits Bedenken gegen die hinreichende Bestimmbarkeit und Vollstreckbarkeit einer solchen Formel (so auch Brandenburgisches OLG, Urteil vom 08.06.2021 - 3 U 124/20, juris-Rn. 42). Jedenfalls hat die Beklagte keinen Anspruch auf eine solche Tenorierung, da der gewählte konkret ausgerechnete Tenor den für die Urteilsfällung maßgeblichen Sachstand im Zeitpunkt der letzten mündlichen Verhandlung vor dem Senat widerspiegelt.4. Die zuerkannte Hauptsacheforderung ist ab dem 25.08.2020 zu verzinsen, da der Kläger den Beklagten mit Fristsetzung bis zum 24.08.2020 zur Zahlung aufgefordert, mithin gemahnt und Verzug begründet hat (§ 280 Abs. 1, 2, § 286, § 288 Abs. 1 BGB).5. Auch der Annahmeverzug war festzustellen, da der Kläger dem Beklagten die Rücknahme des Fahrzeugs bei Anrechnung von adäquat berechneten Nutzungsvorteilen angeboten hat. Dass der Kläger vergessen hat, den zutreffend errechneten erstinstanzlichen Klageantrag an die zwischenzeitlich gefahrenen Kilometer anzupassen (vorliegend um nicht einmal 200,- €), lässt den Annahmeverzug nicht entfallen, weil darin keine Erklärung gesehen werden kann, nunmehr nur noch bei voller Zahlung des zuerkannten Betrages die Rücknahme anzubieten.6. Entgegen der Auffassung der Beklagtenpartei hat die Klagepartei gemäß §§ 826, 249 Abs. 1 BGB Anspruch auf Erstattung vorgerichtlicher Rechtsanwaltskosten, allerdings nur in Höhe einer 1,3-Gebühr zzgl. Telekommunikationspauschale und Umsatzsteuer aus einem Gegenstandswert von bis zu 30.000 €.6.1. Zuzustimmen ist der Beklagtenpartei zwar insoweit, als ein Schädiger nicht schlechthin alle durch ein Schadensereignis adäquat verursachten Rechtsverfolgungskosten des Geschädigten, sondern nur solche Kosten zu ersetzen hat, die aus der ex ante-Sicht einer vernünftigen, wirtschaftlich denkenden Person in der Situation des Geschädigten nach den Umständen des Falles zur Wahrung und Durchsetzung seiner Rechte erforderlich und zweckmäßig waren. Ob die Erforderlichkeit und Zweckmäßigkeit der ergriffenen Maßnahme gegeben ist, entzieht sich dabei einer generalisierenden Betrachtung. Dabei gilt, dass in einfach gelagerten Fällen, bei denen mit rechtlichen oder tatsächlichen Schwierigkeiten nicht zu rechnen ist, der Geschädigte eine erstmalige Geltendmachung seiner Rechte grundsätzlich selbst vornehmen kann, und dass es unter diesen Umständen zur sofortigen Einschaltung eines Rechtsanwalts zusätzlicher Voraussetzungen in der Person des Geschädigten wie etwa eines Mangels an geschäftlicher Gewandtheit oder einer Verhinderung zur Wahrnehmung seiner Rechte bedarf (vgl. BGH, Beschluss vom 31. Januar 2012 - VIII ZR 277/11, Rdnr. 4). Um einen solchen einfach gelagerten Fall handelt es sich streitgegenständlich jedoch gerade nicht, da die "Rückabwicklung" des streitgegenständlichen Autokaufs weder in tatsächlicher noch in rechtlicher Hinsicht einfach gelagert ist.6.2. Der Berechnung der vorgerichtlichen Rechtsanwaltsgebühren war jedoch nicht - wie die Klagepartei meint - eine 2,0-Gebühr, sondern nur eine 1,3-Gebühr zuzüglich der Kostenpauschale und der - corona-bedingt reduzierten - 16-prozentigen Umsatzsteuer (vgl. auch Klageschrift, S. 8) zu Grunde zulegen. Zwar wirft der streitgegenständliche Fall eine Fülle komplexer tatsächlicher und rechtlicher Probleme auf, jedoch handelt es sich gleichzeitig um ein Massenverfahren, in dem in den klägerischen Schriftsätzen erkennbar Textbausteine zur Anwendung kamen (vgl. OLG Stuttgart, Urteil vom 27. Februar 2020 - 7 U 325/19, Rdnr. 76).6.3. Die 1,3-Gebühr errechnet sich dabei aus einem Gegenstandswert von bis zu 30.000 €. Kostenerstattung aufgrund des materiell-rechtlichen Kostenerstattungsanspruchs kann der Geschädigte vom Schädiger grundsätzlich nur insoweit verlangen, als seine Forderung - im Zeitpunkt der Anspruchsstellung - diesem gegenüber auch objektiv berechtigt ist.6.4. Auf die Bezahlung der vorgerichtlichen Anwaltskosten durch die Klagepartei kommt es im Hinblick auf die ernsthafte und endgültige Weigerung der Beklagtenpartei, die Anwaltskosten zu begleichen, nicht an (§ 250 BGB). Die Beklagte weist selbst darauf hin, dass sie sich zu einer freiwilligen Leistung außergerichtlich nicht hätte bewegen lassen (Berufungserwiderung, S. 57f., Bl. 410 d.A.). Die Beklagte hatte zur Zahlung bis zum 24.08.2020 aufgefordert.III.Die Kostenentscheidung beruht auf § 92 Abs. 2 Nr. 1 ZPO, diejenige zur vorläufigen Vollstreckbarkeit auf § 708 Nr. 10, § 711 ZPO. Eine Zulassung der Revision war nicht veranlasst, weil die maßgeblichen Rechtsfragen des vorliegenden Falles höchstrichterlich geklärt sind, sich somit keine Fragen von grundsätzlicher Bedeutung im Sinne von § 543 Abs. 2 ZPO stellen.
+			
+			
+			
+			Permalink: https://openjur.de/u/2362406.html (https://oj.is/2362406)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate9
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG DüsseldorfRechtsprechungUrteil vom 12.12.2019 - 8 O 458/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Düsseldorf, Urteil vom 12.12.2019 - 8 O 458/18
+                      m. Fundstelle
+                      LG Düsseldorf, Urteil vom 12.12.2019 - 8 O 458/18 = openJur 2019, 37921
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Düsseldorf, Urteil vom 12.12.2019 - 8 O 458/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 37921
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1.Die Klage wird als unzulässig abgewiesen.2.Die Kosten des Rechtsstreits trägt der Kläger.3.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar 
+				Tatbestand
+				Die Parteien streiten über deliktische Schadensersatzansprüche im Zusammenhang mit einem PKW-Kauf im Rahmen des sog. "Diesel - Abgasskandals".Die Beklagte ist ein weltweiter Hersteller von Kraftfahrzeugen. Sie entwickelte unter der Bezeichnung "EA 189 EU 5" einen Dieselmotor, in welchen sie eine Software zur Abgassteuerung bzw. Abgasreinigung implementierte. Diese im Fahrzeug verbaute Motorsteuerungssoftware verfügt über eine Fahrzykluserkennung, die erkennt, wenn das Fahrzeug den Neuen Europäischen Fahrzyklus (NEFZ) durchfährt. Sie verfügt zudem über zwei unterschiedliche Betriebsmodi, die die Abgasrückführung steuern. In dem im Hinblick auf den Stickoxidausstoß optimierten sog. "Modus 1", welcher beim Durchfahren des Neuen Europäischen Fahrzyklus (nachfolgend: NEFZ), dem für die amtliche Bestimmung der Fahrzeugemissionen maßgeblichen Prüfverfahren, automatisch aktiviert wird, kommt es zu einer höheren Abgasrückführungrate, wodurch die gesetzlich geforderten Grenzwerte für Stickoxidemissionen eingehalten werden. Unter Fahrbedingungen, die im normalen Straßenverkehr vorzufinden sind, ist der partikeloptimierte sog. "Modus 0" aktiv. Im normalen Straßenbetrieb ist es praktisch ausgeschlossen, den NEFZ nachzufahren, weswegen sich das Fahrzeug außerhalb der NEFZ-Prüfung durchgehend im "Modus 0" befindet. In diesem Modus werden die im Prüfstandbetrieb erzielten Stickoxidwerte überschritten. Der Dieselmotor vom Typ EA 189 EU 5 wurde massenhaft in diversen Fahrzeugen der Beklagten sowie derer Konzernunternehmen verbaut.Der Kläger erwarb am 23.03.2016 von der Automobile x GmbH in Hilden für 15.290 € einen gebrauchten PKW der Marke VW Passat mit der Fahrzeugidentifikationsnummer (FIN) WVWZZZ3CZCE070726. Verbaut ist darin ein Motor vom Typ EA 189. Der Kilometerstand betrug 61.000 km.Am 15.10.2015 erließ das Kraftfahrt-Bundesamt gegenüber der Beklagten einen Bescheid, in welchem es gem. § 25 Abs. 2 EG-FGV den Rückruf aller nach damaligem Kenntnisstand in Deutschland vom VW-Abgasskandal betroffenen Fahrzeuge anordnete. Grund dafür war laut Bescheid, dass mit der in den Fahrzeugen verbauten Manipulationssoftware eine unzulässige Abschalteinrichtung vorlag. Am 22.09.2015 veröffentlichte die Beklagte eine Adhoc Mitteilung, aus der sich ergab, dass Unregelmäßigkeiten im Zusammenhang mit Dieselmotoren des Typs EA189 aufgeklärt werden. Mit Schreiben vom 01.06.2016 bestätigte das Kraftfahrt-Bundesamt der Beklagten im Hinblick auf den hier streitgegenständlichen Antrieb unter anderem, dass unzulässige Abschalteinrichtungen nicht (mehr) festgestellt wurden, dass weiterhin vorhandene Abschalteinrichtungen als zulässig eingestuft wurden, dass die Grenzwerte bei den Schadstoffemissionen und dass die Dauerhaltbarkeit von emissionsmindernden Einrichtungen den Anforderungen genügen würden. Wegen der weiteren Einzelheiten des Schreibens wird auf die als Anl. B 2 zur Akte gereichte Kopie desselben Bezug genommen.Die Beklagte rief in der Folge die betroffenen Fahrzeuge zurück und führte Modifikationen auch am streitgegenständlichen Fahrzeug durch. Zweck dieser Modifikation war es, die Motorsoftware, die auch die Abgasreinigung steuert, so umzuprogrammieren, dass der Motor sowohl auf dem Prüfstand, als auch im Alltagsbetrieb im Stickoxidoptimierten Modus arbeitet. Das Software-Update wurde sodann bei dem Fahrzeug des Klägers aufgespielt.Der Kläger nutzt das Kfz bis heute ohne jede Einschränkung. Der Tachostand zeigte zum Zeitpunkt der letzten mündlichen Verhandlung 102.342 km an.Der Kläger ist der Ansicht, er sei von der Beklagten über die Umwelttauglichkeit des Fahrzeugs arglistig getäuscht und in sittenwidriger Weise geschädigt worden. Er behauptet, er sei auf der Suche nach einem besonders umweltfreundlichen Fahrzeug gewesen und zu keinem Zeitpunkt davon ausgegangen, durch den Betrieb des KFZ in höherem Maß als gesetzlich zulässig an der Belastung der Luft mit Abgasen beteiligt zu sein. Bei Kenntnis dieses Umstandes hätte er vom Kauf Abstand genommen. Es liege eine unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2 der Verordnung (EG) Nr. 715/2007 vor. Dies habe das KBA in seinem Bescheid vom 15.10.2015 - auch für die Zivilgerichte verbindlich - festgestellt.Weiterhin behauptet der Kläger, der Vorstand der Beklagten habe Kenntnis von der Implementierung von unzulässigen Abgasmanipulationen gehabt und diese zur Erreichung von Unternehmenszielen zumindest gebilligt. Dies ergebe sich aus der organschaftlichen Organisation der Beklagten.Der Kläger behauptet weiter, das streitgegenständliche Fahrzeug entspreche auch nach dem Aufspielen des Software-Updates durch die Beklagte nicht den gesetzlichen Anforderungen. Das Fahrzeug weise außerdem seit dem Software-Update einige Folgemängel auf. Schließlich sei bei dem streitgegenständlichen Fahrzeug eine Lebenslaufleistung von 300.000 km anzunehmen.Der Kläger beantragt sinngemäß,1.die Beklagte zu verurteilen, an ihn 15.290,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen. Die Verurteilung erfolgt Zugum-Zug gegen Übereignung und Herausgabe des Fahrzeugs der Marke VW Passat mit der Fahrzeugidentifikationsnummer (FIN) WVWZZZ3CZCE070726,hilfsweise,1. die Beklagte zu verurteilen, einen in das Ermessen des Gerichts gestellten Schadensersatz i.H.v. mindestens 25% des Kaufpreises des Fahrzeugs 15.290,00 €, mindestens somit 3.822,50 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu erstatten,2. festzustellen, dass die Beklagte verpflichtet ist, dem Kläger über dem Betrag aus dem Hilfsantrag zu 1. hinaus Schadensersatz zu zahlen für weitere Schäden, die aus der Ausstattung des Fahrzeugs (FIN) WVWZZZ3CZCE070726 mit der manipulierenden Motorsoftware resultieren,2.Die Beklagte zu verurteilen, an den Kläger Zinsen in Höhe von 4% aus 15.290,00 € seit dem 22.03.2016 bis zum Beginn der Rechtshängigkeit zu zahlen,3.die Beklagte zu verurteilen, dem Kläger die Kosten des außergerichtlichen Vorgehens in Höhe von 1.184,05 € zu erstatten.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte hält sich bereits nicht für passivlegitimiert, da die Klägerin das Fahrzeug nicht von ihr erworben habe.Die Beklagte behauptet, die Software im Fahrzeug des Klägers stelle keine unzulässige Abschalteinrichtung dar. Eine Abschalteinrichtung setze voraus, dass im Laufe des realen Fahrbetriebs die Wirksamkeit des Emissionskontrollsystems (Abgasreinigung) reduziert wird. Dies sei bei der verwendeten Software jedoch nicht der Fall, da das durch diese gesteuerte Abgasrückführungssystem nicht Bestandteil des Emissionskontrollsystems ist, sondern diesem als innermotorische Maßnahme vorgelagert sei und die Software nicht im realen Fahrbetreib auf das Emissionskontrollsystem einwirke.Die Beklagte ist der Ansicht, es fehle bereits an einer Täuschung sowie an einer Schädigung des Klägers. Dieser habe durch den Abschluss des Kaufvertrages einen gleichwertigen Anspruch auf Übergabe und Übereignung des streitgegenständlichen Fahrzeugs erhalten. Nach der Differenzhypothese liege kein Schaden vor. Der Kläger könne das Fahrzeug weiterhin im Straßenverkehr vertragsgemäß verwenden. Das Update habe keine negativen Auswirkungen für den Kläger. Es entstünden dadurch keine Folgemängel. Ein Entzug der Typgenehmigung drohe nicht. Das Fahrzeug sei nach wie vor als solches der Abgasnorm EU-5 qualifiziert. Durch das Software - Update werde die ursprünglich verwendete Umschaltlogik beseitigt. Außerdem seien allein die im künstlichen Fahrzyklus ermittelten Werte maßgeblich. Von einem Wertverlust könne in Bezug auf das streitgegenständliche Fahrzeug ebenfalls keine Rede sein. Weiterhin liege auch kein Schädigungsvorsatz des Vorstands der Beklagten vor. Eine sekundäre Darlegungslast der Beklagten sei nicht anzunehmen.Unabhängig davon habe sich der Kläger jedenfalls die Nutzungsvorteile anrechnen zu lassen, die ihr durch den Gebrauch des Fahrzeugs zugeflossen sind. Für deren Berechnung sei eine zu erwartende ‚Gesamtlaufleistung von 200.000 - 250.000 km zugrunde zu legen.Wegen des weiteren Sach- und Streitstandes wird auf den vorgetragenen Inhalt der gewechselten Schriftsätze Bezug genommen. 
+				Gründe
+				I.Die Klage ist bereits unzulässig.1.Allerdings ist das Landgericht Düsseldorf gem. § 32 ZPO örtlich zuständig.Hiernach kann die Klage an jedem Ort erhoben werden, an dem ein Teilakt der unerlaubten Handlung begangen worden ist. Die Klage kann daher sowohl an dem Ort, an dem die unerlaubte Handlung begangen worden ist (Handlungsort) als auch an dem Ort, an dem der Erfolg eingetreten ist (Erfolgsort) erhoben werden. Gehört zum Tatbestand der Verletzungsnorm der Eintritt eines Vermögensschadens, so ist als Erfolgsort auch der Belegenheitsort des Vermögens des Verletzten, also regelmäßig dessen Wohnsitz, anzusehen (vgl. zu Art. 5 Nr. 3 EuGVVO: BGH, Urteil v. 12.10.2010, Az. XI ZR 394/08, Rn. 30 ff. - zitiert nach juris; OLG Frankfurt a.M., Beschluss v. 19.07.2007, Az. 1 W 41/07, NJOZ 2007, 4637, 4638; OLG Celle, Urteil v. 25.02.2010, Az. 16 U 55/09; Touissant, in: BeckOK ZPO, Vorwerk/Wolf, 31. Edition, Stand: 01.12.2018, § 32 ZPO, Rn. 12.1, 13).Zwar hatte der Kläger zum Zeitpunkt des Erwerbs seinen Wohnsitz nicht im Bezirk des Landgerichts Düsseldorf, indes hat er den Kaufvertrag mit einem Händler in Hilden abgeschlossen. Dies begründet gemäß § 32 ZPO einen Gerichtsstand der unerlaubten Handlung im hiesigen Bezirk.Zum einen können Ansprüche wegen sittenwidriger Schädigung aus § 826 BGB jedenfalls dann, wenn es sich um einen mehraktigen Vorgang handelt, nicht anders beurteilt werden, als bei einem Anspruch aus § 823 Abs. 2 BGB i.V.m. § 263 StGB. Für letzteren gilt, dass der Erfolgsort dort liegt, wo die Täuschungshandlung einen Irrtum erregt bzw. die - schädigende - Vermögensverfügung ausgelöst hat (BeckOK ZPO/Toussaint, 34. Ed. 1.9.2019, ZPO § 32 Rn. 12.3 unter Verweis auf: BGHZ 124, 237 (245) = NJW 1994, 1413 (1415) m.w.N.; BayObLG NJOZ 2004, 2528 (2529 f.)). Dies gilt insbesondere wenn - wie hier - der Schaden nicht erst in der Hingabe des Kaufpreises sondern bereits in dem Erwerb eines nicht den rechtlichen Normen entsprechenden Fahrzeugs zu sehen ist.Zum anderen folgt die örtliche Zuständigkeit hier auch daraus, dass sich die Beklagte - jedenfalls nach dem klägerischen Vortrag - im Rahmen der Täuschung des Händlers in Hilden als Tatmittler bediente, der diese durch die Einwirkung auf die Kaufentscheidung des Klägers am Ort des Vertragsschlusses ausführte (so OLG Düsseldorf, Beschluss vom 23.07.2019, I-5 Sa 28/19, n.v.).2.Die Klage ist jedoch wegen der Sperrwirkung gemäß § 610 Abs. 3 ZPO unzulässig.Unstreitig hat sich der Kläger an dem Musterfeststellungsverfahren nach § 606 ZPO gegen die Beklagte beteiligt. Eine dennoch erhobene Klage ist unzulässig (BeckOK, ZPO, Vorwerk/Wolf, Lutz 34. Ed. § 610, Rn. 39; Röthemeyer: Musterfeststellungsklage, 2019, § 610 Rn. 37).Zwar soll die Sperrwirkung mit der Rücknahme der Anmeldung entfallen (BeckOK a.a.O. Rn. 43), indes hat der Kläger dazu bereits nicht substantiiert vorgetragen.Die Anmeldung kann gem. § 608 Abs. 3 ZPO bis zum Ablauf des Tages des Beginns der mündlichen Verhandlung in der ersten Instanz zurückgenommen werden. Der Tag der ersten mündlichen Verhandlung in der Musterfeststellungsklage gegen die Beklagte war der 30.09.2019.In dem Nachgelassenen Schriftsatz vom 21.11.2019 hat der Kläger lediglich vortragen lassen, er habe die Anmeldung postalisch zurückgenommen und diese pauschale Behauptung unter Parteivernehmung gestellt. Dem Vortrag lässt sich jedoch bereits nicht entnehmen, zu welchem Datum er den Antrag zurückgenommen haben will. Noch im Termin zur mündlichen Verhandlung ist dazu vorgetragen worden, der Kläger habe die Anmeldung nach Klageauftrag zurücknehmen wollen. Auch daraus ergibt sich kein hinreichender Schluss auf das genaue Datum.Ungeachtet des Umstandes, dass die Anmeldung zur Musterfeststellungsklage zwar im Rahmen der Prozessvoraussetzungen von Amts wegen zu prüfen, aber nach hiesiger Auffassung nicht von Amts wegen zu ermitteln ist, hat der zuständige Einzelrichter im Anschluss an die mündliche Verhandlung eine entsprechende Anfrage an das zuständige Bundesamt für Justiz gestellt, die binnen 4 Wochen unter dem 03.12.2019 unter Hinweis auf die Beschränkung der Auskunftsrechte nach § 609 Abs. 4 ZPO sowie Verweis auf das Auskunftsrecht der im Klageregister angemeldeten Verbraucher abschlägig beschieden worden ist, was wohl gängige Praxis ist (vgl. BeckOK a.a.O. Rn. 55).Damit war die Klage bereits als unzulässig abzuweisen.II.Die Klage wäre darüber hinaus auch unbegründet.1.Dem Kläger steht der mit dem Antrag zu 1) geltend gemachte Zahlungsanspruch auch dem Grunde nach nicht zu.a)Zwar kann nach der ständigen Rechtsprechung der Kammer in der gegebenen Fallkonstellation des Erwerbs eines Fahrzeugs mit dem streitgegenständlichen Dieselmotor EA189 EU 5 grundsätzlich eine Haftung des Herstellers gemäß §§ 826, 831 BGB bzw. §§ 826, 31 BGB in Betracht kommen. In der konkreten Fallgestaltung liegen die Voraussetzungen einer solchen Haftung aber nicht vor. Es fehlt vorliegend an der vom Kläger darzulegenden und ggf. zu beweisenden Kausalität des Verhaltens der Beklagten für den von ihm vorgetragen Schaden, welcher im Erwerb des manipulierten Fahrzeugs lag.aa)Hierfür besteht kein Anscheinsbeweis, eine Beweislastumkehr oder eine sonstige Beweiserleichterung, sondern es gilt der Beweismaßstab des § 286 ZPO (vgl. BGH, NJW 2007, 2693, Rn. 41; NJW-RR 2013, 1451; Rn. 25; Palandt/Sprau, BGB, 78. Auflage 2019, § 826, Rn. 18). Insbesondere kommen dem Geschädigten im Rahmen des § 826 BGB nicht die Beweiserleichterungen zu Gute, die bei Ansprüchen wegen der Verletzung vertraglicher Hinweis- oder Beratungspflichten gelten (BGH, WM 2013, 306 ff, Rn. 15; Palandt/Sprau, a.a.O., § 826, Rn. 18).Bei einem täuschenden bzw. manipulativen Verhalten genügt es für die Darlegung des ursächlichen Zusammenhangs zwischen Täuschung und Abgabe der Willenserklärung, dass der Getäuschte Umstände dargetan hat, die für seinen Entschluss von Bedeutung sein konnten und nach der Lebenserfahrung bei der Art des zu beurteilenden Rechtsgeschäfts Einfluss auf die Entschließung gehabt haben können (vgl. etwa BGH, Urteil vom 12.05.1995 - V ZR 34/94, NJW 1995, 2361; LG Frankfurt (Oder), Urteil vom 17.07.2017 - 13 O 174/16, zitiert nach juris, Rn. 113).bb)Der Kläger hat nach diesem Maßstab nicht dargelegt und bewiesen, dass er das in Rede stehende Fahrzeug nicht erworben hätte, wenn ihm bekannt gewesen wäre, dass dieses über einen Motor des Typs EA189 EU 5 verfügt, welcher von einer Softwaremanipulation betroffen war. Der eigene Sachvortrag des Klägers lässt hieran bereits zweifeln.Der Kläger trägt dazu lediglich vor, dass er aufgrund der ad hoc-Mitteilung der Beklagten vom 22.09.2015 noch nicht von einer Betroffenheit des von ihm später erworbenen Fahrzeugs ausgehen musste. Erst durch das an ihn gerichtete personalisierte und fahrzeugbezogene Rückrufschreiben des KBA habe er daher entsprechende Kenntnis erlangt. Diese Schreiben seien erst im Jahr 2016, teilweise auch erst 2017 verschickt worden. Das ist für sich gesehen schon nicht schlüssig.Das Kraftfahrt-Bundesamt (KBA) hat gegenüber der Beklagten mit Schreiben vom 15. Oktober 2015 den Rückruf von 2,4 Millionen VW-Markenfahrzeugen angeordnet. Die getroffene Anordnung erstreckte auf Fahrzeuge mit EURO 5 Dieselmotoren der Größe 2 Liter, 1,6 Liter und 1,2 Liter Hubraum. Der Rückruf fand auch breite Resonanz in der öffentlichen Berichterstattung. Der Abgasskandal wurde publik, nachdem die Beklagte am 22.09.2015 eine Adhoc Mitteilung veröffentlichte, aus der sich ergab, dass Unregelmäßigkeiten im Zusammenhang mit Dieselmotoren des Typs EA189 aufgeklärt werden. Aus der Mitteilung ergab sich weiterhin, dass weltweit rund 11 Millionen Fahrzeuge betroffen sind und zwar nicht nur Fahrzeuge der Marke "Volkswagen", sondern auch Fahrzeuge konzernverbundener Unternehmen. Noch am selben Tag wurde diese Mitteilung der Beklagten - was gerichts- und allgemeinbekannt ist - durch die Medien aufgegriffen und ab dem 23.09.2015 war der so genannte "Abgasskandal" Dauerthema in nahezu allen gängigen Medien (Fernsehen, Zeitungen, Radio, Internet). Am 02.10.2015 veröffentlichte auch die AUDI AG eine entsprechende Pressemitteilung. Auch diese wurde unmittelbar in den Medien aufgegriffen.Jedenfalls ab diesem Zeitpunkt war es Käufern von betroffenen Fahrzeugen der Marke VW möglich zu erkennen, ob auch ihr Fahrzeug davon betroffen war. Bereits im November desselben Jahres wurde bekannt, dass auch in den entsprechenden Motorvarianten der Marke Audi eine solche Abschalteinrichtung eingebaut war. Damit konnten betroffene Fahrzeughalter ab diesem Zeitpunkt auch wissen, dass diese und ggfs. auch weitere Modelle von Konzerntöchtern betroffen waren.Der Vertragsschluss über das gegenständliche Fahrzeug erfolgte erst fünf Monate später am 23.03.2016.Der Dieselskandal beherrschte die täglichen Nachrichten seit der Adhoc Meldung der Beklagten und der kurz darauf erfolgten Mitteilung der AUDI AG monatelang. Die entsprechenden Nachrichten und täglichen Mitteilungen konnten dem Kläger bis zum Vertragsschluss am 23.03.2016 nicht verborgen geblieben sein. Der Kläger hat nicht dargelegt, warum er trotz all der Berichterstattung nichts davon erfahren haben will, dass auch sein Pkw über eine den Prüfzyklus erkennende und dann die Abgasrückführung verändernde Motorsteuerungs-Software verfügte. Es liegt auf der Hand, dass der Kläger zur von ihm behaupteten Erregung eines Irrtums über Tatsachen weiter substantiiert vortragen muss, wenn es um ein die täglichen Nachrichten beherrschendes Thema geht, das schon nach seiner Bezeichnung ("Dieselgate"; "Diesel-Skandal"; "Abgasskandal"), aber auch nach der betroffenen Motorenbauart (Dieselmotoren mit 1,2 l, 1,6 l und 2,0 l Hubraum) auch seinen Pkw betreffen konnte und worüber sich nach Bekanntwerden aller Lebenserfahrung jeder Halter oder Fahrer eines mit dem streitgegenständlichen VW-Motor ausgestatteten Dieselmodells hinsichtlich seines eigenen oder hinsichtlich des von ihm noch (gebraucht) zu erwerbenden Pkw informiert hat. Dass und warum dies bei dem Kläger nicht zutraf, hat er weder auf den Hinweis der Kammer, noch auf das entsprechende Vorbringen der Beklagten ausgeführt. #Damit bestand für den Kläger beim Erwerb des Fahrzeugs objektiv der Verdacht, dass das Fahrzeug mit einem manipulierten Motor ausgestattet sein könnte. Sofern er gleichwohl den Verkäufer nicht gefragt hat, ob dies der Fall ist, indiziert, dass dieser Aspekt keine entscheidende Rolle für die Kaufentscheidung gespielt hat bzw. hypothetisch bei positiver Kenntnis eine solche gespielt hätte. Dass der Kläger weitere Maßnahmen zur Rückabwicklung des Fahrzeugkaufs - wie etwa die Geltendmachung kaufrechtlicher Ansprüche gegen den Verkäufer und/oder die Erklärung der Anfechtung - ergriffen hätte, ist nicht ersichtlich. Auch dies deutet darauf hin, dass die Manipulation der Motorsteuerung keine entscheidende Rolle für die Kaufentscheidung der Klägerin gespielt hat bzw. hypothetisch bei positiver Kenntnis eine solche gespielt hätte (vgl. auch OLG Köln, Urteil vom 06. Juni 2019 - 24 U 5/19 -, Rn. 48 ff., juris; ebenso Saarländisches Oberlandesgericht Saarbrücken, Urteil vom 28. August 2019 - 2 U 94/18 -, Rn. 43 - 44, juris; LG Düsseldorf, Urteil vom 28.08.2018, 5 O 336/17 n.v.).Insgesamt bestehen deshalb so erhebliche Zweifel, dass der dem Kläger obliegende Kausalitätsnachweis nicht als erbracht anzusehen ist. In derartigen Fällen kann sich der Erwerber eines Fahrzeugs mit einer unzulässigen Abschalteinrichtung nach dem Grundsatz "volenti non fit iniuria" nicht auf eine sittenwidrige Schädigung i.S.v. § 826 BGB berufen (ebenso: LG Braunschweig, Urteil vom 14.01.2018, 3 O 1211/17, juris Rn. 20; LG Mönchengladbach, Urteil vom 05.12.2018, 6 O 355/17, juris Rn. 18).b)Dem Kläger stehen die geltend gemachten Ansprüche auch nicht nach § 823 Abs. 2 BGB i. V. m. § 263 StGB oder nach § 823 Abs. 2 BGB i. V. m. §§ 6, 27 EG-FGV zu. Auch diese Ansprüche scheitern an der wie erörtert unbewiesenen Kausalität.III.Mangels Hauptsacheanspruch sind auch die mit den weiteren Anträgen einschließlich der Hilfsanträge geltend gemachten Ansprüche unbegründet.Die Nebenforderungen teilen das Schicksal der Hauptforderung.IV.Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus § 709 ZPO.Der Streitwert wird auf 15.290,00 Euro festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2191222.html (https://oj.is/2191222)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate11
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen3
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

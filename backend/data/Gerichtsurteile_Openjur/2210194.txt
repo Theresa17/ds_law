@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNiedersachsenOrdentliche GerichtsbarkeitOLG OldenburgRechtsprechungUrteil vom 26.11.2019 - 13 U 33/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Oldenburg, Urteil vom 26.11.2019 - 13 U 33/19
+                      m. Fundstelle
+                      OLG Oldenburg, Urteil vom 26.11.2019 - 13 U 33/19 = openJur 2020, 81422
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Oldenburg, Urteil vom 26.11.2019 - 13 U 33/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 81422
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Bei Erwerb eines vom sog. VW-Abgasskandal betroffenen Fahrzeugs nach der Ad-hoc-Mitteilung der Volkswagen AG vom 22. September 2015 und der anschließenden Medienberichterstattung haftet diese nicht mehr wegen sittenwidriger Schädigung nach § 826 BGB, da es an dem notwendigen Zurechnungszusammenhang zwischen Sittenverstoß und Schadenseintritt fehlt (Anschluss an OLG Stuttgart, Urteil vom 07.08.2019 – 9 U 9/19, juris-Rdnr. 42). 
+				
+				Tenor
+				Die Berufung der Klägerin gegen das das am 23. Januar 2019 verkündete Urteil der Einzelrichterin der 8. Zivilkammer des Landgerichts Oldenburg wird auf ihre Kosten zurückgewiesen.Das Berufungsurteil und das angefochtene Urteil sind vorläufig vollstreckbar. Der Klägerin bleibt nachgelassen, die Vollstreckung durch die Beklagte durch Sicherheitsleistung in Höhe von 110 Prozent des aufgrund des Urteils vollstreckbaren Betrags abzuwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrags leistet.Die Revision wird zugelassen.  
+				Gründe
+				I.Die Klägerin begehrt von der Beklagten Schadenersatz aufgrund des Kaufs eines von dem sogenannten Abgasskandal betroffenen Fahrzeugs.Mit Kaufvertrag vom TT.MM.2015 erwarb die Klägerin einen gebrauchten (…) TDI zu einem Kaufpreis von 35.600,- €. Die Klägerin hat eine Anzahlung von 10.000,- € geleistet und den restlichen Kaufpreis finanziert.Das Fahrzeug ist mit einem von der Beklagten hergestellten Dieselmotor des Typs EA 189 ausgestattet. Die Motorsoftware erkennt, wenn sich das Fahrzeug auf einem technischen Prüfstand zur Ermittlung der Emissionswerte befindet und schaltet dann von der Einstellung beim Betrieb im Straßenverkehr (Modus 0) auf den Prüfstandbetrieb (Modus 1) um. Dadurch wurden bei der Prüfung die zulässigen Grenzwerte eingehalten und das Fahrzeug erhielt die Zulassung nach der Schadstoffklasse Euro 5. Im Zeitpunkt des Kaufs war das von der Beklagten entwickelte Software-Update bereits installiert.Die Klägerin behauptet, sie habe bei Abschluss des Kaufvertrages zwar Kenntnis von dem Dieselskandal gehabt, sie habe aber nicht gewusst, dass auch ihr Auto davon betroffen sei.Mit der Klage verlangt sie Rückzahlung des Kaufpreises Zug um Zug gegen Rückgabe des Fahrzeugs, Feststellung des Annahmeverzugs seitens der Beklagten sowie Ersatz vorgerichtlicher Anwaltskosten.Das Landgericht hat die Klage abgewiesen, da es an der Kausalität zwischen der Täuschungshandlung der Beklagten und dem Kaufentschluss der Klägerin fehle.Wegen der weiteren Feststellungen wird auf das Urteil des Landgerichts verwiesen (§ 540 Abs. 1 S. 1 ZPO).Mit der Berufung verfolgt die Klägerin ihr Klagebegehren weiter.Der Senat hat die Klägerin zu den Umständen des Kaufs persönlich angehört. Auf das Protokoll der mündlichen Verhandlung vom 29.10.2019 wird Bezug genommen.II.Die Berufung ist zulässig. In der Sache hat sie keinen Erfolg. Ein Schadenersatzanspruch aus § 826 BGB steht der Klägerin nicht zu.Zwar hat der Senat durch Urteil vom 21.10.2019 (13 U 73/19) eine Schadenersatzpflicht der Beklagten als Herstellerin des mit der manipulierten Software ausgestatteten Motors EA 189 wegen vorsätzlicher sittenwidriger Schädigung dem Grunde nach bejaht. Die sittenwidrige Schädigung liegt nach Auffassung des Senats darin, dass die Beklagte den Motor mit einer verbotenen Abschaltautomatik gebaut und in den Verkehr gebracht hat und den Käufer durch Täuschung dazu veranlasst hat, mit dem Ankauf des mit der manipulierten Software versehenen Autos einen Vertrag zu schließen, den er bei Kenntnis der Sachlage nicht geschlossen hätte. Die Entscheidung bezieht sich jedoch auf Käufe vor Aufdeckung des sog. Abgasskandals.Im vorliegenden Fall eines Kaufs nach der sog. Ad-hoc-Mitteilung scheitert eine Schadenersatzhaftung jedoch am fehlenden Zurechnungszusammenhang (so auch OLG Stuttgart, Urteil vom 07.08.2019 – 9 U 9/19, juris Rn. 42). Ein Rechtswidrigkeitszusammenhang und damit eine Zurechenbarkeit des Schadens besteht nur dann, wenn der Schaden sich innerhalb des Schutzbereichs der verletzten Norm verwirklicht; es muss ein innerer Zusammenhang mit der durch den Schädiger getroffenen Gefahrenlage bestehen (BGH, Urteil vom 14.10.1971, VII ZR 313/69, NJW-RR 1972, 36, 37).Ein solcher Zusammenhang bestand im Zeitpunkt des Kaufs durch die Klägerin nicht mehr. Es ist vielmehr mit dem Bekanntwerden des Abgasskandals nachträglich entfallen. Denn die Täuschungshandlung der Beklagten bestand nicht nur darin, dass sie Fahrzeuge mit einer gesetzwidrigen Motorsteuerung in den Verkehr brachte, sondern darin, dass sie dies unter Verschweigen der gesetzwidrigen Softwareprogrammierung tat und dadurch bei den Endabnehmern den Eindruck erweckte, das Fahrzeug entspreche den gesetzlichen Zulassungsbestimmungen. Die Schadenshaftung der Beklagten beruht darauf, dass sie den Käufer des von ihr in den Verkehr gebrachten Fahrzeugs zum Abschluss eines Vertrags brachte, den er bei Kenntnis der gesetzwidrigen Software nicht getroffen hätte. Dies stellt einen ersatzfähigen Schaden dar, weil die Belastung mit einer ungewollten Verbindlichkeit schon isoliert betrachtet einen Schaden darstellen kann. Der Schutzzweck der Norm besteht damit im konkreten Zusammenhang darin, Käufer davor zu schützen, Waren zu erwerben, die unter Verschweigen für seinen Kaufentschluss wesentlicher Informationen angeboten werden. Hinsichtlich der vor Aufdeckung der Softwaremanipulationen getäuschten Käufer besteht kein Zweifel am Vorliegen eines Zurechnungszusammenhangs.Hinsichtlich der nach Aufdeckung getätigten Käufe gilt dies nach Auffassung des Senats jedoch nicht. Denn für diese Bewertung kommt es auf den Zeitpunkt an, in dem der jeweilige Kauf vorgenommen wurde. Wer ausschließlich auf den Zeitpunkt des erstmaligen Inverkehrbringens des betroffenen Fahrzeugs abstellt, berücksichtigt nicht den Umstand, dass sich der deliktische Schutz der Verbraucher im vorliegenden Fall nicht auf den Zeitpunkt des Inverkehrbringens beschränkt. Mit dem Inverkehrbringen des mit der manipulierten Abschalteinrichtung versehenen Pkws auf den Markt beabsichtigte die Beklagte eine fortdauernde Täuschung der Käufer für die gesamte „Lebensdauer“ des fraglichen Modells für mehrere Jahre. Dabei war ihr bewusst, dass ein Pkw in dieser Zeit gehandelt und sich regelmäßig in der Hand mehrerer Halter befindet, so dass nicht nur der Ersterwerber, sondern auch künftige Zweit- oder Dritterwerber durch die verschwiegene Manipulation getäuscht würden. Wer daher bei der Zurechnung des Täterverhaltens nur auf den Zeitpunkt des Inverkehrbringens abstellt, berücksichtigt die der konkreten Täuschungshandlung innewohnende Dauerwirkung nicht. Dass in Fällen, in denen der Sittenverstoß des Täters nicht in einem einmaligen Akt liegt, sondern in einer Dauerhandlung besteht oder eine Dauerwirkung zeitigt, eine Haftung aus § 826 BGB begründet werden kann, ist allgemein anerkannt. Vollstreckt etwa der Gläubiger gutgläubig aus einem unrichtigen Urteil, so reicht es für die aus § 826 BGB hergeleitete Rechtskraftdurchbrechung aus, wenn er nachträglich Kenntnis von der Fehlerhaftigkeit des zu durchbrechenden Ersturteils erlangt (vgl. BGHZ 101, 380, 385; Staudinger/Oechsler, (2014) BGB § 826 Rdn. 90). Im Zusammenhang mit der Beurteilung der Sittenwidrigkeit von Unterlassungen wurden Rückrufpflichten des Herstellers aus folgender Überlegung heraus entwickelt: „Aber auch dann, wenn er [der Täter] von einem Fehler dieser Art, den das Fahrzeug zur Zeit des Inverkehrbringens gehabt hat, nachträglich erfährt, ist er verpflichtet, der dadurch von ihm gesetzten Gefahr nach Kräften entgegen zu steuern“ (RGZ 163, 21, 26; Staudinger/Oechsler, a.a.O. Rdn. 91).Diese Erwägungen für die Begründung einer nachträglichen Deliktshaftung bei Handlungen mit Dauerwirkung gelten nach Ansicht des Senats mit gleicher Berechtigung auch für die nachträgliche Beendigung der Haftung. Andernfalls würde man dem Täter, der in sittenwidriger Weise eine fehlerhafte Ware in den Verkehr gebracht hat, auch die Rückkehr in die Legalität und Verhinderung weiterer Schädigungen potenzieller Käufer durch Aufdeckung des Mangels verwehren.Zur Beendigung ihrer deliktischen Haftung musste die Beklagte die ursprünglich verschwiegene manipulierte Programmierung aufdecken. Dies ist durch die Ad-hoc-Mitteilung vom 22.09.2015, die von der Beklagten vorgenommenen weiteren Maßnahmen und insbesondere durch die durch die Ad-hoc-Mitteilung ausgelöste Medienberichterstattung geschehen. Dabei kommt es nicht darauf an, ob schon die Ad-hoc-Mitteilung, die nicht an die Käufer bzw. potenziellen künftigen Erwerber der betroffenen Fahrzeuge gerichtet war, sondern einen börsenrechtlichen Hintergrund hatte, ausreichend war. Denn der Umfang der von der Beklagten vorzunehmenden Maßnahmen bestimmt sich jeweils nach den Umständen des Einzelfalls. Im vorliegenden Fall hätte die Beklagte eine größere Medienwirkung als durch die Berichterstattung nach der Ad-hoc-Mitteilung selbst nicht erzielen können, so dass sich ihre eigenen Verpflichtungen dementsprechend reduzierten und die von der Beklagten ergriffenen Maßnahmen ausreichend waren. Im Herbst 2015 ist die Beklagte in die Öffentlichkeit getreten und hat bekannt gegeben, dass die von ihr hergestellten Dieselmotoren des Typs EA 189 wegen Ungereimtheiten nachgebessert werden müssen. Wie allgemein bekannt ist, hatte der damalige Vorstandsvorsitzende der Beklagten CC auf einer Pressekonferenz am 22. September 2015 mitgeteilt, dass es bei den in ihren Fahrzeugen verbauten Dieselmotoren des Typs EA 189 zu Unregelmäßigkeiten gekommen sei. Zugleich hatte die Beklagte am 22. September 2015 eine Ad-hoc-Mitteilung herausgegeben, mit der sie die Öffentlichkeit darüber informiert hatte, dass sie „die Aufklärung von Unregelmäßigkeiten einer verwendeten Software bei Diesel-Motoren mit Hochdruck“ vorantreibt. In dieser Mitteilung heißt es u.a. weiter: „Auffällig sind Fahrzeuge mit Motoren vom Typ EA 189 mit einem Gesamtvolumen von weltweit rund elf Millionen Fahrzeugen. Ausschließlich bei diesem Motortyp wurde eine auffällige Abweichung zwischen Prüfstandswerten und realem Fahrbetrieb festgestellt. (…) arbeitet mit Hochdruck daran, diese Abweichungen mit technischen Maßnahmen zu beseitigen. Das Unternehmen steht dazu derzeit in Kontakt mit den zuständigen Behörden und dem Deutschen Kraftfahrtbundesamt“. Entsprechend der in dieser Mitteilung enthaltenen Ankündigung, die Öffentlichkeit über den weiteren Vorgang der Ermittlungen fortlaufend zu informieren, hatte die Beklagte in den Folgemonaten Pressemitteilungen herausgegeben. So hatte die Beklagte, nachdem ihr durch Bescheid des Kraftfahrtbundesamtes vom 14. Oktober 2015 aufgegeben worden war, tätig zu werden, in ihrer Pressemitteilung vom 15. Oktober 2015 mitgeteilt, dass von ihr die schnelle Entscheidung des Kraftfahrtbundesamtes (KBA) begrüßt werde, den in der vergangenen Woche vorgelegten Zeit- und Maßnahmenplan durch einen Rückruf umzusetzen, und dass mit Hochdruck die im Maßnahmenplan festgelegten technischen Lösungen mit dem Ziel erarbeitet würden, ab Januar 2016 mit der Nachbesserung der Fahrzeuge zu beginnen. In ihrer Pressemitteilung vom 25. November 2015 hat die Beklagte sodann mitgeteilt, dass die Aufarbeitung und Lösung der Diesel-Thematik voranschreite und dass nach der Umsetzung der technischen Maßnahmen die Fahrzeuge die jeweils gültigen Abgasnormen erfüllen würden; ferner, dass es das Ziel sei, ab Januar 2016 die ersten Fahrzeuge im Rahmen eines Rückrufes auf den erforderlichen technischen Stand zu bringen. (Chronologie nach OLG Celle, Beschluss vom 27. Mai 2019 – 7 U 335/18 –, juris-Rdnr. 22 ff.).Hierdurch hat die Beklagte das Erforderliche unternommen, um die Gefahr weiterer Schädigungen von künftigen Käufern betroffener Modelle einzudämmen. Da es sich bei den potenziellen künftigen Erwerbern um eine vollkommen ungewisse und anonyme Gruppe handelte, kam eine direkte Kontaktaufnahme nicht in Betracht. Einer Beendigung der deliktischen Haftung steht auch nicht entgegen, dass die Beklagte ihre deliktische Verantwortung, jedenfalls in den von ihr geführten Schadenersatzprozessen, in Abrede stellt und die unzulässige Abschalteinrichtung lediglich als „Umschaltlogik“ bezeichnet. Maßgeblich ist, dass nicht nur der Umstand der Manipulationen der Software, sondern auch die damit für den Erwerber eines betroffenen Fahrzeugs verbundenen negativen Folgen (Entziehung der Zulassung, wirtschaftlicher Minderwert) in breitem Umfang Gegenstand der öffentlichen Berichterstattung war, so dass sich, der Käufer nach der Aufdeckung des Abgasskandals informieren und entscheiden konnte, ob er sich den diskutierten Risiken beim Kauf des Fahrzeuges aussetzen wollte oder nicht.Mangels Zurechnungszusammenhangs scheidet eine Haftung der Beklagten auch aus anderen Anspruchsgrundlagen aus.Da die Klage in der Hauptsache nicht begründet ist, war sie auch wegen der Nebenforderungen (Zinsen und Anwaltskosten) und der Feststellung eines Annahmeverzugs abzuweisen.Die Nebenentscheidungen beruhen auf den §§ 97 Abs. 1, 708 Nr. 10, 711 ZPO.Der Senat hat die Revision mit Blick auf die Vielzahl gleichartiger anhängiger Verfahren wegen ihrer grundsätzlichen Bedeutung und zur Sicherung einer einheitlichen Rechtsprechung zugelassen.
+			
+			
+			
+			Permalink: https://openjur.de/u/2210194.html (https://oj.is/2210194)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert20
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

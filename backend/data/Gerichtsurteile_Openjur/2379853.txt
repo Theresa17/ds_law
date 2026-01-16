@@ -1,0 +1,144 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 18.08.2020 - 2 O 28/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 18.08.2020 - 2 O 28/20
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 18.08.2020 - 2 O 28/20 = openJur 2021, 45145
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 18.08.2020 - 2 O 28/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 45145
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							nachfolgend: Az. VII ZR 589/21
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger nimmt die Beklagte aus unerlaubter Handlung in Anspruch.Er kaufte am 26.08.2013 von privat das Fahrzeug A D, Fahrzeugidentifizierungsnummer $$$...#$..., mit einem Kilometerstand von 986 km zum Preis von 69.493,72 Euro. Zum Zeitpunkt der mündlichen Verhandlung war das Fahrzeug 76.615 km gelaufen.Das Dieselfahrzeug, dessen Herstellerin die Beklagte ist, hat einen Motor mit der Bezeichnung $$ ...# Euronorm 6. Es unterliegt einem verpflichtenden Rückruf des Kraftfahrtbundesamts, im Zuge dessen die Beklagte angehalten ist, die Software für das Motorsteuerungsgerät zu aktualisieren (vgl. das Schreiben der Beklagten an den Kläger, Anlage K 1 b).In dem Fahrzeug ist ein sogenanntes "Thermofenster" vorhanden. Zwischen den Parteien ist unstreitig, dass die Abgasreinigung im Motor in Abhängigkeit des konkreten Betriebszustands des Fahrzeugs erfolgt, den auch die Außentemperatur bestimmt.Der Kläger hatte die Beklagte bereits mit anwaltlichem Schreiben vom 28.10.2019 unter Fristsetzung bis zum 11.11.2019 aufgefordert, den beanspruchten Schadensersatz anzuerkennen und den Kaufpreis Zug um Zug gegen Herausgabe des streitgegenständlichen Fahrzeugs zu erstatten.Der Kläger meint, das Fahrzeug sei mit einer unzulässigen Abschaltvorrichtung nach Art. 5 Abs. 2 Satz lit a) VO 715/2007/EG ausgestattet. Dies folge bereits aus dem sogenannten "Thermofenster", das zu höheren Emissionen im Realbetrieb als auf dem Prüfstand führe. Der Kläger behauptet, dass die Abgasreinigung des streitgegenständlichen Motors bei Außentemperaturen von 7 Grad Celsius und darunter um bis zu 48 % niedriger als bei höheren Außentemperaturen sei.Der Kläger behauptet zudem, der im streitgegenständlichen Fahrzeug verbaute Motor sei mit einer Software ausgestattet, die erkenne, ob sich das Fahrzeug in einer Prüfungssituation oder im regulären Straßenbetrieb befinde und die Abgasreinigung dergestalt steuere, dass der Stickstoffausstoß im Realbetrieb steige.Dies geschehe, indem auf dem Prüfstand - den das Fahrzeug anhand der konstanten Außentemperatur und Luftfeuchte erkenne - künstlich eine niedrigere Kühlmitteltemperatur generiert werde, die das Aufwärmen des Motoröls verzögere. Die hierdurch erzeugte verminderte Verbrennungstemperatur im Motor führe dazu, dass weniger Stickoxide ausgestoßen würden ("Kühlmittel-Solltemperatur-Regelung").Der Kläger behauptet zudem, während des Durchfahrens des NEFZ werde eine erhöhte Menge Harnstoff (AdBlue) dem SCR System beigemischt, was die Effizienz der Abgasreinigung steigere.Er behauptet weiter, dass eine unter der Bezeichnung "B" bekanntgewordene Kalibrierung des Motors anhand von Geschwindigkeit und Beschleunigung erkennt, ob sich das Fahrzeug auf dem Prüfstand befindet und hiernach die AdBlue Dosierung beeinflusst.Schließlich behauptet der Kläger, dass das Fahrzeug nach 1200 Sekunden in einen "schmutzigen Abgasmodus" wechselt. Hierdurch werde der NEFZ umgangen, der 1180 Sekunden andauere.Der Kläger behauptet weiter, bei Kenntnis der unzulässigen Abschaltvorrichtung hätte er das Fahrzeug nicht gekauft. Bei ihm sei der Eindruck erweckt worden, es handele sich um ein vorschriftsgemäßes Fahrzeug.Der Kläger begehrt die Erstattung des Kaufpreises abzüglich einer Nutzungsentschädigung nebst Delikts- und Rechtshängigkeitszinsen sowie die Feststellung des Annahmeverzugs der Beklagten hinsichtlich der Rücknahme seines Fahrzeuges sowie die Feststellung der Einstandspflicht für jedwede Schäden, die aus der Ausstattung des Fahrzeugs mit unzulässigen Abschalteinrichtungen resultieren.Der Kläger beantragt,1. Die Beklagte zu verurteilen, an sie 69.493,72 EUR nebst Zinsen in Höhe von 4% seit dem 26.08.2013 bis zum Eintritt der Rechtshängigkeit sowie Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit, Zug um Zug gegen Übereignung und Herausgabe des Fahrzeuges A D, Fahrgestellnummer $$$1...#$..., abzüglich der Zahlung einer Nutzungsentschädigung in EUR pro gefahrenem km seit dem 26.08.2013 die sich nach folgender Formel berechnet:(69.493,72 EUR x gefahrene Kilometer) : 500.000 kmzu zahlen.2. Die Beklagte zu verurteilen, sie von außergerichtlichen Rechtsverfolgungskosten in Höhe von 2.085,95 EUR freizustellen.3. Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des Fahrzeuges der Klagepartei A D, Fahrgestellnummer $$$...#$..., in Annahmeverzug befinden.4. Es wird festgestellt, dass die Beklagte verpflichtet ist, an die Klagepartei Schadensersatz zu zahlen für Schäden, die aus der Ausstattung des Fahrzeuges A D, Fahrgestellnummer $$$...#$..., mit unzulässigen Abschaltvorrichtungen resultieren.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte hält den klägerischen Vortrag für unsubstantiiert. Sie verweist darauf, dass die EG-Typengenehmigung für das streitgegenständliche Fahrzeug weiterhin wirksam sei, das Fahrzeug entspreche den Abgasgrenzwerten der Euronorm 6. Die Kritik des Klägers, das Fahrzeug weise außerhalb der Prüfbedingungen andere Werte auf, sei unerheblich, denn hierauf komme es für die Erfüllung der Abgasgrenzwerte nicht an.Die im Fahrzeug des Klägers eingebaute Steuerung zur Abgasreinigung sei nach Art. 5 Abs. 2 Satz lit a) VO 715/2007/EG zulässig, denn sie diene dazu, den Motor vor Beschädigungen zu schützen und damit der Gewährleistung des sicheren Betriebes. Zwar werde die Abgasrückführung auch in Abhängigkeit von der Außentemperatur reguliert, sie sei indes bis zu zweistelligen Minusgraden aktiv und werde keinesfalls gänzlich abgeschaltet.Die Beklagte behauptet, dass im klägerischen Fahrzeug keine Programmierung verwendet worden sei, die so ausgestaltet sei, dass die Abgasreinigung in Abhängigkeit von einer Prüfstandserkennung intensiviert werde. Soweit der Kläger auf eine "Kühlmittel-Sollwert-Regelung" abstelle, könne er hiermit nicht gehört werden, da das Fahrzeug über keine Kühlmitteltemperaturregelung verfüge.Die Beklagte erhebt die Einrede der Verjährung.Die Klage ist der Beklagten am 23.03.2020 zugestellt worden. Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die gewechselten Schriftsätze nebst Anlagen sowie auf das Protokoll der mündlichen Verhandlung vom 07.07.2020 (Bl. 357 ff. d.A.) Bezug genommen.Mit Schriftsatz vom 16.07.2020 hat der Kläger vorgetragen, dass die Abgasreinigung abhängig von einem Lenkwinkeleinschlag von mehr als 15 Grad geändert werde. 
+				Gründe
+				I. Die Klage ist weitestgehend zulässig.Die Anträge zu 1) bis 3) sind zulässig. Für den Antrag zu 4) ist ein Feststellungsinteresse i.S.d. § 256 ZPO indes nicht ersichtlich. Der Kläger begehrt die Rückabwicklung des Kaufvertrages aus unerlaubter Handlung und hat seinen Schaden insoweit beziffert. Es ist weder vorgetragen noch ersichtlich, welche weitergehenden Schäden dem Kläger drohen, insbesondere mit Blick darauf, dass der Kläger das streitgegenständliche Fahrzeug doch herausgeben will.II. Soweit die Klage zulässig ist, ist sie aber unbegründet. Die von dem Kläger geltend gemachten Ansprüche bestehen unter keinem rechtlichen Gesichtspunkt.1. Der Kläger hat keinen Anspruch gegen die Beklagte aus § 826 BGB auf Zahlung von 69.493,72 EUR, auch nicht abzüglich einer Nutzungsentschädigung für die gefahrenen Kilometer.Nach dieser Vorschrift ist zum Schadensersatz verpflichtet, wer einem anderen in einer gegen die guten Sitten verstoßenden Weise vorsätzlich Schaden zufügt. Voraussetzung ist also eine Schadenszufügung, die auf einer schädigenden Handlung beruht, die aus objektiver Sicht als sittenwidrig einzustufen ist, weil diese nach ihrem Inhalt bzw. Gesamtcharakter im Widerspruch zum Anstandsgefühl aller billig und gerecht Denkenden steht und daher mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist (vgl. BGH NJW 2014, 383, 384; NJW 2017, 250, 251 f.). Erforderlich ist darüber hinaus ein mit den objektiven Voraussetzungen korrespondierender Schädigungsvorsatz.Die Voraussetzungen einer sittenwidrigen Schädigung durch die Beklagte liegen auf der Grundlage des Sachvortrags des Klägers nicht vor.a) Der Vorwurf des Klägers, das streitgegenständliche Fahrzeug sei mit einem als unzulässige Abschalteinrichtung anzusehenden sogenannten Thermofenster ausgestattet, erweist sich nicht als schlüssiger Vortrag im Sinne des § 826 BGB.aa) Es mangelt der Klage bereits an einem substantiiertem Vortrag zur Funktionsweise der mit einem sogenannten Thermofenster versehenen Abgasreinigung im streitgegenständlichen Fahrzeug. Der Kläger beschränkt sich auf die Behauptung, dass ab einer Temperatur von 7 Grad Celsius und darunter die Abgasrückführung um bis zu 48 % niedriger sei. Hierdurch überschreite der Stickstoffausstoß im Realbetrieb den auf dem Prüfstand um ein Vielfaches.Diese pauschalen Angaben, die die Beklagte zutreffend als unsubstantiiert gerügt hat, sind aber dem Sachverständigenbeweis mangels konkreter Anknüpfungstatsachen nicht zugänglich. Der Kläger hat auch keinen Beweis insoweit angetreten.Er zieht sich darauf zurück, dass das streitgegenständliche Fahrzeug einem verpflichtenden Rückruf des Kraftfahrtbundesamts unterliege, weshalb es der Beklagten obliege darzulegen, in welchem Umfang das Kraftfahrtbundesamt die Motorsteuerung zur Abgasreinigung moniert haben.Das Gericht sieht jedoch anders als der Kläger keine sekundäre Darlegungslast der Beklagten, im Rahmen derer sie den Inhalt Rückrufbescheids des Kraftfahrtbundesamts offenlegen müsste. Ebenso wenig ist das Gericht gehalten, der Beklagten aufzugeben, diesen Bescheid vorzulegen.Nach der ständigen Rechtsprechung des Bundesgerichtshofs besteht eine sogenannte sekundäre Behauptungslast, wenn die primär darlegungsbelastete Partei außerhalb des darzulegenden Geschehensablaufs steht und keine Kenntnisse von den maßgeblichen Tatsachen besitzt, während der Prozessgegner zumutbar nähere Angaben machen kann. Im Rahmen des Zumutbaren kann vom Prozessgegner insbesondere das substantiierte Bestreiten einer negativen Tatsache unter Darlegung der für das Positivum sprechenden Tatsachen und Umstände verlangt werden (BGH, Urteil vom 18.05.2005, VIII ZR 368/03 Rn. 22 m.w.N.)Es ist bereits fraglich, ob die Offenlegung des Inhalts des Bescheids vom Kraftfahrzeugbundesamt der Beklagten mit Rücksicht auf Geschäfts- und Betriebsgeheimnisse überhaupt zuzumuten ist. Der Kläger steht jedoch auch nicht außerhalb des darzulegenden Geschehensablaufs. Denn er begehrt die Offenlegung des betreffenden Bescheids, um seine Behauptung einer illegalen Prüfstandserkennungssoftware im Motor des streitgegenständlichen Pkw zu substantiieren. Der Pkw aber befindet sich in seinem Besitz und es steht ihm frei, diesen (privat) sachverständig untersuchen zu lassen, um eine behauptete Schädigung in einem Schadensersatzprozess darlegen zu können. Auch in den Fällen zum C-Abgasskandal ist eine sekundäre Darlegungslast lediglich für den Vortrag zum Vorliegen des Vorsatzes der verantwortlichen Mitarbeiter angenommen worden, da dem Verbraucher insoweit jeglicher Einblick in die Organisationsstrukturen fehlt, nicht jedoch für das Vorhandensein einer illegalen Abschalteinrichtung und mithin des Schadensereignisses selbst.bb) Es kann auch dahinstehen, ob es sich bei der im streitgegenständlichen Fahrzeug verwendeten temperaturabhängigen Abgasreinigung um eine unzulässige Abschalteinrichtung im Sinne des Art. 5 VO 715/2007/EG handelt. Selbst wenn das vorhandene "Thermofenster" unzulässig sein sollte, vermag dies unter Umständen einen Sachmangel zu begründen, nicht aber ein sittenwidriges Handeln der Beklagten oder ihrer Organe. Denn das EU-Recht lässt in Art. 5 Abs. 2 VO 715/2007/EG jedenfalls vertretbar das Verständnis zu, dass der von der Beklagten ins Feld geführte Motorschutz ein solches Thermofenster erlaubt. Wenn ein solches Verständnis aber vertretbar ist, liegt kein sittenwidriges und vorsätzliches Verhalten der Beklagten vor (vgl. OLG Köln, Beschluss vom 04.07.2019 - 3 U 148/18; OLG Stuttgart, Urteil vom 30.07.2019 - 10 U 134/19; OLG Koblenz, Urteil vom 18. Juni 2019 - 3 U 416/19; OLG Schleswig, Urteil vom 18. September 2019 - 12 U 123/18). Zwar hat die Klägerin in ihrer Klageschrift bestritten, dass das Abgasrückführungssystem ohne ein "Thermofenster" eine Versottung erleiden und der Motor Schaden nehmen kann. Den detaillierten Ausführungen der Beklagten zur Beeinträchtigung der Abgasreinigung bzw. -rückführung durch sehr niedrige und sehr hohe Außentemperaturen und die hieraus folgenden Gefahren für den Motor ist die Klägerin nicht entgegengetreten.b) Der weitergehende Vorwurf des Klägers, der im streitgegenständlichen Fahrzeug verbaute Motor sei mit einer Software ausgestattet, die die Abgasrückführung abhängig davon steuere, ob sich das Fahrzeug auf dem Prüfstand oder im Straßenbetrieb befindet, ist lediglich pauschal und unsubstantiiert erhoben und vermag eine sittenwidrige Schädigung im Sinne des § 826 BGB ebenfalls nicht zu begründen.Soweit der Kläger auf eine "Kühlmittel-Solltemperatur-Regelung" abhebt, tritt er dem Bestreiten der Beklagte, wonach das streitgegenständliche Fahrzeug über keine Kühlmitteltemperaturregelung verfüge, nicht substantiiert entgegen, sondern zieht sich darauf zurück, dass der streitgegenständliche Motor Gegenstand staatsanwaltschaftlicher Ermittlungen sei und eine solche Abschalteinrichtung bereits beim A F Euro 5 festgestellt worden sei. Inwieweit hierdurch Schlussfolgerungen für den streitgegenständlichen Motor gezogen werden können, erklärt der Kläger nicht.Soweit der Kläger weiter behauptet, bei Durchfahren des Neuen Europäischen Fahrzyklus und mithin auf dem Prüfstand werde - anders als im Realbetrieb - eine erhöhte Menge an Harnstoff (AdBlue) beigemischt, bleibt sein Vortrag auch insoweit pauschal und durch keine Anhaltspunkte belegt. Er ist dem Bestreiten der Beklagten auch insoweit nicht entgegengetreten. Der bloße Verweis auf bereits existierende Rechtsprechung ersetzt den erforderlichen Sachvortrag im Zivilprozess nicht. Anders als in der zitierten Entscheidung (LG Stuttgart, Urteil vom 09.05.2019, 23 O 220/18) geht das Gericht wie bereits ausgeführt auch nicht von einer sekundären Darlegungslast der Beklagten hinsichtlich der Funktionsweise der Abgasreinigung und der vom Kraftfahrtbundesamt hieran geübten Kritik aus.Auch der klägerische Vortrag zur sogenannten "B" Funktion, die anhand von Geschwindigkeit und Beschleunigung erkenne, ob das Fahrzeug auf dem Prüfstand steht und abhängig hiervon die AdBlue-Einspritzung regele, bleibt trotz Hinweises des Gerichts pauschal und unsubstantiiert.Der Vorwurf der mangelnden Substantiiertheit trifft auch die vorgetragene Prüfstandserkennung, indem das Fahrzeug nach mehr als 1200 Sekunden bzw. der Emissionvon 17,6 g Stickoxiden die Abgasreinigung verändere. Denn der Kläger beschränkt sich insoweit wie die Beklagte zu Recht bemängelt auf die stichwortartige Aufzählung verschiedener Möglichkeiten der Prüfstandserkennung und setzt diese noch nicht einmal in konkreten Bezug zum streitgegenständlichen Fahrzeug, sondern beschränkt sich auf den Verweis auf Berichterstattung zu Fahrzeugen der Beklagten generell.Soweit der Kläger mit Schriftsatz vom 16.07.2020 nach Schluss der mündlichen Verhandlung nunmehr darüber hinaus behauptet, die Motorsteuerungssoftware erkenne den Prüfstand auch anhand des Lenkwinkels, ist auch dieser Vortrag unsubstantiiert. Zudem erfolgt er verspätet. Schriftsatznachlass ist dem Kläger nur insoweit gewährt worden, als ihn das Gericht in der mündlichen Verhandlung darauf hingewiesen hatte, dass sein Vortrag zur "B" Technik zu pauschal ist.2. Ein Anspruch nach § 823 Abs. 2 BGB i.V.m. § 263 StGB scheitert ebenso daran, dass nicht schlüssig dargelegt ist, inwiefern die Beklagte den Kläger getäuscht haben soll.3. Auch eine Haftung der Beklagten aus § 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV kommt nicht in Betracht. Die Vorschriften sind schon nicht als Schutzgesetz i.S.d. § 823 Abs. 2 BGB zu verstehen, da sie nicht dazu dienen, das Vermögen des Erwerbers eines Kraftfahrzeuges zu schützen, sondern vor allem auf hohe Verkehrssicherheit, Gesundheits- und Umweltschutz sowie rationelle Energienutzung abzielen (OLG Braunschweig, Urteil vom 19.02.2019 - 7 U 134/17 Rn. 137 ff.).4. Da schon kein Hauptanspruch besteht, scheidet ein Anspruch auf Zahlung von Zinsen ebenfalls aus.Zinsen aus § 849 BGB hätte der Kläger ohnehin nicht beanspruchen können. Er hat für sein Geld einen Gegenwert erhalten, so dass ihm gerade kein monetärer Schaden durch entgangene Nutzungsmöglichkeiten entstanden ist. Es gilt der Grundsatz, dass ein Geschädigter Ausgleich von Nachteilen erhalten muss, nicht aber Vorteile aus einem Schadensereignis ziehen soll. § 849 BGB, der dem Geschädigten einer unerlaubten Handlung einen pauschalen Schadensersatz in Form eines Zinsschadens zubilligt, ist auf die Konstellationen, in denen der entrichteten Geldzahlung eine Gegenleistung gegenübersteht, nicht anwendbar (vgl. OLG Köln, U. v. 24.03.2020, 9 U 88/19, jetzt auch BGH, U. v. 30.07.2020, VI ZR 354/19).5. Auch der Antrag auf Ersatz vorgerichtlicher Rechtsanwaltskosten teilt als Nebenforderung das Schicksal der Hauptforderung.6. Schließlich befindet sich die Beklagte mangels Verpflichtung zur Rücknahme des streitgegenständlichen Fahrzeugs auch nicht im Annahmeverzug.III. Die prozessualen Nebenentscheidungen beruhen auf §§ 91, 709 ZPO.Streitwert: 76.443,09 Euro (Antrag 1: 69.493,72 Euro, Antrag 4: 6.949,37 Euro)
+			
+			
+			
+			Permalink: https://openjur.de/u/2379853.html (https://oj.is/2379853)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

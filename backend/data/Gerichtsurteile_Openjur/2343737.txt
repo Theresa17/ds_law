@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG BambergRechtsprechungEndurteil vom 06.04.2021 - 42 O 259/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bamberg, Endurteil vom 06.04.2021 - 42 O 259/20
+                      m. Fundstelle
+                      LG Bamberg, Endurteil vom 06.04.2021 - 42 O 259/20 = openJur 2021, 20655
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bamberg, Endurteil vom 06.04.2021 - 42 O 259/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 20655
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf ... € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatzansprüche im Zusammenhang mit dem sog. "Diesel-Abgasskandal".Der Kläger erwarb am 13.01.2018 einen gebrauchten Pkw Porsche Macan 3.0 TDI Euro 6 zum Preis von ... € und einer Laufleistung von 102.690 km. Das Fahrzeug wurde von der Beklagten produziert und in den Verkehr gebracht, der in dem Pkw verbaute 3 l Dieselmotor wurde demgegenüber von der ... AG entwickelt und hergestellt. Bei der Beklagten und der ... AG handelt es sich um Schwestergesellschaften innerhalb eines Konzerns.Am ... erließ das Kraftfahrtbundesamt (im folgenden: KBA) einen Rückruf-Bescheid zum Porsche Cayenne Diesel V6 Euro 6, ....Der Kläger stützt seine Klage auf Ansprüche aus §§ 826 BGB, 823 Abs. 2 BGB in Verbindung mit §§ 6 Abs. 1, 27 Abs. 1 EG-FGV und in Verbindung mit § 263 StGB.Er behauptet, die Beklagte verwende eine Motorsteuerungssoftware, die anhand bestimmter Parameter erkenne, ob sich das Fahrzeug auf einem technischen Prüfstand zur Ermittlung der Emissionswerte oder im üblichen Straßenverkehr befinde. Auf dem Rollenprüfstand rufe die eingebaute Software beim Stickstoffausstoß ein anderes Motorprogramm (Modus 1) als im Normalbetrieb (Modus 0) ab. Dabei werde der Schwerpunkt der Motorsteuerung auf eine bevorzugte Abgasreinigung zulasten der Performance gelegt, nur deswegen würden auf dem Prüfstand geringere und im Bereich der zulässigen Grenzwerte liegende Stickoxidwerte erzielt, während die Werte bei gleicher Belastung im sogenannten Normalbetrieb nicht eingehalten würden. Darüber hinaus sei in dem streitgegenständlichen Fahrzeug ein sogenanntes "Thermofenster" verbaut, dass die Abgasrückführung (AGR) als Teil der Abgasreinigung ... reduziere. Es sei davon auszugehen, dass der Vorstand der Beklagten hiervon informiert war, dies schon allein deswegen, da sich bei der ... AG um eine Schwestergesellschaft der Beklagten handele. Es bestehe eine Pflicht zur Organisation und zum Informationsaustausch zwischen den Gesellschaften, etwaiges Wissen werde zugerechnet. Es sei im Übrigen davon auszugehen, dass bei der Bestellung des Motors Berichtspflichten gegenüber dem Vorstand bestünden. Zudem treffe die Beklagte eine Verpflichtung zur Überprüfung des Motors nebst der darin enthaltenen Motorsteuerungssoftware auf deren Gesetzmäßigkeit.Der Kläger ist der Meinung, es handele sich bei den zuvor genannten Funktionen der Motorsteuerungssoftware um unzulässige Abschalteinrichtungen im Sinne von Art. 5 Abs. 2 S. 1 VO (EG) 715/2007 i.V.m. Art. 3 Nr. 10 VO (EG) 715/2007 - dies sei bereits durch den Bescheid des KBA bindend festgestellt. Die Beklagte habe mit Schädigungsvorsatz und sittenwidrig gehandelt, da davon auszugehen sei, dass der Vorstand über die Verwendung der unzulässigen Abschalteinrichtungen informiert gewesen sei.Der Kläger beantragt zuletzt:...Die Beklagte beantragtKlageabweisung.Sie behauptet, bis Juni 2017 hätten die Vorstandsmitglieder der Beklagten auf Aussagen der ... AG vertraut, in denen ihnen bestätigt worden sei, dass der in dem Fahrzeug verbaute Motor nebst Motorsteuerungssoftware die gesetzlichen Anforderungen einhalten würde. Der seitens des KBA bei den Modellen Porsche Cayenne monierte ... habe sich zunächst auch in der Modellreihe Porsche Macan V6 Euro 6 befunden, sei jedoch vor Erwerb durch den Kläger bereits durch ein Software-Update durch die ... AG entfernt worden. Eine vorsätzliche Aufsichtspflichtverletzung sei auch nach umfangreichen Ermittlungen der Staatsanwaltschaft Stuttgart nicht erwiesen worden, Grundlage eines Bußgeldbescheides vom 07.05.2019 sei ein Fahrlässigkeitsvorwurf gewesen, nach den durchgeführten Ermittlungen sei es zu einer einfach fahrlässigen Aufsichtspflichtverletzung weit unter der Vorstandsebene bei der Beklagten gekommen.Im Blick auf den weiteren Sach- und Streitstand wird auf die gewechselten Schriftsätze nebst Anlagen und das Protokoll der mündlichen Verhandlung vom 02.02.2021 Bezug genommen. 
+				Gründe
+				Die zulässige Klage hat in der Sache keinem Erfolg.I.Dem Kläger steht weder ein Anspruch auf Schadensersatz nach § 826, 31 BGB noch nach weiteren denkbaren Anspruchsgrundlagen wie § 823 Abs. 2 BGB i.V.m. § 263 Abs. 1 StGB bzw. § 823 Abs. 2 i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV zu.Dies folgt bereits daraus, dass der Kläger das Tatbestandsmerkmal des Vorsatzes - mithin die auf Seiten der Beklagten bestehende Kenntnis vom Vorhandensein der behaupteten Manipulationssoftware und ihren Auswirkungen - nicht hinreichend dargelegt hat. Somit kann letztlich dahingestellt bleiben, ob der streitgegenständliche Pkw über die behaupteten Funktionen der Motorsteuerungssoftware verfügt oder nicht.1. Hat die Fahrzeugherstellerin den eingebauten Motor nicht selbst hergestellt und entwickelt, muss der Käufer darlegen und nachweisen, dass sie Kenntnis von einer im Motor verbauten unzulässigen Abschalteinrichtung hatte.In subjektiver Hinsicht setzt § 826 BGB Schädigungsvorsatz sowie Kenntnis der Tatumstände voraus, die das Verhalten sittenwidrig erscheinen lassen. Der erforderliche Schädigungsvorsatz bezieht sich hierbei darauf, dass durch die Handlung einem anderen Schaden zugefügt wird. Er enthält ein Wissens- und Wollenselement: Der Handelnde muss die Schädigung des Anspruchstellers gekannt bzw. vorausgesehen und in seinen Willen aufgenommen haben. Dabei setzt § 826 BGB keine Schädigungsabsicht im Sinne eines Beweggrundes oder Zieles voraus. Es genügt bedingter Vorsatz hinsichtlich der für möglich gehaltenen Schadensfolgen, wobei dieser nicht den konkreten Kausalverlauf und den genauen Umfang des Schadens, sondern nur Art und Richtung des Schadens umfassen muss. Insoweit ist zu berücksichtigen, dass ein Schaden im Sinn des § 826 BGB nicht nur in der Verletzung bestimmter Rechte oder Rechtsgüter liegt, sondern vielmehr jede nachteilige Einwirkung auf die Vermögenslage genügt, einschließlich der sittenwidrigen Belastung fremden Vermögens mit einem Verlustrisiko. Im Rahmen des § 826 BGB kann sich im Einzelfall aus der Art und Weise des sittenwidrigen Handelns, insbesondere dem Grad der Leichtfertigkeit des Schädigers, die Schlussfolgerung ergeben, dass er mit Schädigungsvorsatz gehandelt hat. Dies kann insbesondere dann naheliegen, wenn der Schädiger sein Vorhaben trotz starker Gefährdung des Rechtsguts durchgeführt hat und es dem Zufall überlässt, ob sich die erkannte Gefahr verwirklicht. Stets ist aber eine umfassende Würdigung sämtlicher Umstände erforderlich. Für den getrennt davon erforderlichen subjektiven Tatbestand der Sittenwidrigkeit genügt die Kenntnis der tatsächlichen Umstände, die das Sittenwidrigkeitsurteil begründen. Die Haftung einer juristischen Person aus § 826 BGB in Verbindung mit § 31 BGB setzt schließlich voraus, dass ein "verfassungsmäßig berufener Vertreter" im Sinne des § 31 BGB den objektiven und subjektiven Tatbestand verwirklicht hat (OLG Bamberg Urt. v. 17.12.2020 - 1 U 8/20).2. All diese Voraussetzungen lassen sich dem Klägervortrag angesichts der Besonderheit, dass die Beklagte den streitgegenständlichen Motor nicht selbst hergestellt und entwickelt hat, nicht entnehmen.Vielmehr wird wiederholt die pauschale Behauptung aufgestellt, "es sei davon auszugehen, dass der Vorstand über die Verwendung der Motorsteuerungssoftware informiert" gewesen sei. Begründet wird dies, wenn überhaupt, mit der rechtlichen Verflechtung der Herstellerin des Motors und der Beklagten als Schwestergesellschaft sowie die aus Sicht des Klägers bestehende Pflicht zur Organisation und zum Informationsaustausch. Des Weiteren sieht die Klagepartei eine Pflicht zur Überprüfung der erworbenen und lediglich verbauten Motoren auf deren Gesetzmäßigkeit hin.Selbst wenn man den klägerischen Sachvortrag genügen lassen wollte, um eine sekundäre Darlegungslast der Beklagten anzunehmen, so hätte die Beklagte dieser genügt. Denn sie hat substantiierten Vortrag zu den Umständen der durch die AG vermittelten Kenntniserlangung von Auffälligkeiten respektive der Unzulässigkeit der Motorsteuerung gehalten. Es wäre vor diesem Hintergrund, eine sekundäre Darlegungslast unterstellt, erneut Sache des Klägers, sich mit diesen Ausführungen dezidiert zu befassen und darzulegen, dass und wodurch welche für die Beklagte handelnde Person schon früher Kenntnis hatte, woran es aber - abgesehen von Behauptungen "ins Blaue hinein" - fehlt (OLG Bamberg a.a.O.).3. Für ein allenfalls fahrlässiges Verhalten spricht auch der gegen die Beklagte ergangene Bußgeldbescheid vom 07.05.2019 der Staatsanwaltschaft Stuttgart. Danach wird zwar der Beklagten eine Mitverantwortung für den Einbau der mangelhaften, von der ... AG entwickelten und hergestellten Motoren zugewiesen. Es wird dabei aber lediglich die fahrlässige Verletzung von Aufsichtspflichten in einer Abteilung des Entwicklungsbereichs der Beklagten festgestellt und kein vorsätzliches Handeln (vgl. auch OLG Koblenz, Urteil v. 30.09.2020, Az. 5 U 1970/19).Auch die vom Kläger hierzu vorgetragenen personellen Verflechtungen innerhalb des Konzerns insbesondere im Vorstandsbereich führen zu keiner anderen Bewertung. Es besteht im Falle eines Wechsels des Arbeitgebers innerhalb des Konzerns keine Pflicht zur konzernübergreifenden Weitergabe persönlicher Kenntnisse, die Mitarbeiter oder Vorstandsmitglieder im Rahmen eines Anstellungsverhältnisses bei einer anderen Konzerngesellschaft erlangt haben. Dies gilt umso mehr angesichts des Umstands, dass die ... AG und die Beklagte mit den von ihnen hergestellten Fahrzeugen am Markt im Wettbewerb stehen (vgl. OLG München, Beschluss v. 09.09.2020, Az. 27 U 1634/20).Zuletzt kommt auch eine Zurechnung eventueller Erkenntnisse von Mitarbeitern der ... AG nicht in Betracht. Hierfür genügt insbesondere die Verbundenheit in einem Konzern nicht, zumal es im Streitfall nicht um die Zurechnung des Wissens einer Tochtergesellschaft zulasten der Konzernmutter geht, sondern um zwei Schwestergesellschaften (vgl. OLG Frankfurt, Urteil v. 04.09.2019, Az. 13 U 136/18; zum Ganzen erneut OLG Bamberg Urt. v. 17.12.2020 - 1 U 8/20).Deliktische Ansprüche des Klägers gegenüber der Beklagten bestehen demnach nicht.II.Die Ansprüche auf Feststellung von Annahmeverzug sowie Zahlung von Zinsen und vorgerichtlichen Rechtsanwaltskosten scheiden mangels Hauptforderung aus.III.Die Kostenentscheidung ergibt sich aus § 91 Abs. 1 ZPO.Der Ausspruch über die vorläufige Vollstreckbarkeit richtet sich nach § 709 Satz 1, 2 ZPO.Verkündet am 06.04.2021
+			
+			
+			
+			Permalink: https://openjur.de/u/2343737.html (https://oj.is/2343737)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

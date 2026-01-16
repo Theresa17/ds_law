@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG AmbergRechtsprechungEndurteil vom 30.04.2020 - 14 O 1317/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Amberg, Endurteil vom 30.04.2020 - 14 O 1317/19
+                      m. Fundstelle
+                      LG Amberg, Endurteil vom 30.04.2020 - 14 O 1317/19 = openJur 2023, 2385
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Amberg, Endurteil vom 30.04.2020 - 14 O 1317/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2023, 2385
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist für die Beklagte gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 24.708,92 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um Ansprüche nach einem Pkw-Kauf im Zusammenhang mit dem "VW-Abgasskandal".Der Kläger ist Eigentümer eines Pkw’s VW Golf, FIN: ... Diesen erwarb der Kläger am 22.03.2011 als Gebrauchtfahrzeug (Erstzulassung: 10.05.2010) mit einem Kilometerstand von 9.350 km zu einem Kaufpreis von 23.800,00 € bei Koller Automobile in R.-V.. Am 25.05.2011 ließ der Kläger bei ... Automobile in ... an dem vorgenannten Fahrzeug zum Preis von 908,92 € eine Anhängerkupplung nachrüsten.Zum 25.04.2020 betrug der Kilometerstand 326.473 km.Das Fahrzeug verfügt über einen Dieselmotor vom Typ EA 189 der Beklagten. Für den Fahrzeugtyp wurde die Typengenehmigung nach Verordnung VO (EG) Nr. 715/2007 erteilt mit der Schadstoffklasse EURO 5. Voraussetzung für die Genehmigung ist die Einhaltung bestimmter Emissionsgrenzwerte. Geprüft wird dies unter Laborbedingungen an Testfahrzeugen in bestimmten vorgegebenen Testläufen.Das Fahrzeug ist vom so genannten "Abgasskandal" betroffen. In der Motorsteuerung wurde eine vom Kraftfahrtbundesamt beanstandete Software eingebaut. Die von der Beklagten installierte Software, die für die Abgaskontrollanlage zuständig ist, erkennt die Prüfungssituation. Während im Testlauf unter Laborbedingungen die Motorsteuerung dergestalt erfolgt, dass mittels einer Abgasrückführung eine Reinigung der Abgase erfolgt und im Ergebnis die Emissionsgrenzwerte entsprechend der vorgenannten Verordnung eingehalten werden (Abgasrückführungsmodus 1), ist im Betriebsmodus des normalen Straßenverkehrs der Abgasrückführungsmodus 0 aktiv, in dem keine bzw. eine deutlich geringere Abgasrückführung und damit Abgasreinigung stattfindet.Das Kraftfahrtbundesamt hat den Rückruf aller betroffenen Fahrzeuge angeordnet und der Beklagten aufgegeben, die Fahrzeuge in den Zustand zu versetzen, der den öffentlich-rechtlichen Vorschriften entspricht. Ein von der Beklagten entwickeltes Software-Update ist nach Einschätzung des Kraftfahrtbundesamtes geeignet, den vom Kraftfahrtbundesamt beanstandeten Zustand zu beseitigen.Mit Schreiben vom 02.10.2019 wurde die Beklagte zur Rücknahme des vorbezeichneten Fahrzeugs Zug um Zug gegen Rückzahlung des Kaufpreises aufgefordert. Dies hat die Beklagte mit Schreiben vom 16.10.2019 abgelehnt.Mit Schriftsatz vom 05.02.2020 erhob die Beklagte die Einrede der Verjährung.Der Kläger behauptet, die von der Beklagten installierte Software der Motorsteuerung stelle eine unzulässige Abschalteinrichtung dar. Das Fahrzeug entspreche nicht den Vorschriften der EURO 5-Norm und sei gem. § 8 FZVO nicht zulassungsfähig. Weiterhin verfüge das Fahrzeug auch nicht über eine wirksame allgemeine Betriebserlaubnis nach § 19 StVZO. Es drohe ein massiver Wertverlust des Fahrzeugs, ebenso wie eine zukünftige Erhöhung der Kfz-Steuer.Diese Umstände habe die Beklagte bei Inverkehrbringen dieses Fahrzeugs mit dieser Software verschwiegen.Der Kläger behauptet weiterhin, dass es ihm beim Kauf des Fahrzeugs um den Kauf eines besonders umweltfreundlichen und wertstabilen Fahrzeugs mit geringem Kraftstoffverbrauch gegangen sei. Die Emissionen hätten eine erhebliche Rolle bei der Kaufentscheidung gespielt.Der Kläger meint, dass eine vorsätzliche sittenwidrige Schädigung durch die Beklagte vorliege, da er das Fahrzeug bei Kenntnis der wahren Sachlage nicht gekauft hätte. Der Kläger sei zu stellen, als wenn er das Fahrzeug nicht erworben hätte.Der Kläger beantragt zuletzt:1. Die Beklagte wird verurteilt, Zug um Zug gegen Rückgabe und Übereignung des Fahrzeugs VW Golf mit der Fahrgestellnummer ... an den Kläger 24.708,92 € nebst Zinsen in Höhe von 5 % über dem Basiszinssatz seit dem 22.03.2011 zu zahlen.2. Es wird festgestellt, dass sich die Beklagte seit dem 17.10.2019 mit der Rücknahme des im Klageantrag Ziffer 1 bezeichneten Fahrzeugs in Annahmeverzug befindet.3. Die Beklagte wird verurteilt, den Kläger von den außergerichtlichen Rechtsanwaltskosten seines Rechtsanwalts M. H. in Höhe von 1.711,70 € nebst Zinsen in Höhe von 5 %-Punkten über dem Basiszinssatz seit Rechtshängigkeit freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte ist der Auffassung, dass keine unzulässige Abschalteinrichtung vorliege. Es fehle bereits an einer vorsätzlichen sittenwidrigen Schädigung.Die Beklagte behauptet, der Schadstoffausstoß würde nicht höher liegen als angegeben. Umweltzonen seien nach wie vor befahrbar, der Entzug der Typengenehmigung drohe nicht, ebenso wenig eine höhere Steuerlast. Eine Wertminderung des Fahrzeugs sei ebenso nicht gegeben. Das angebotene Update sei geeignet, um den vom Kraftfahrtbundesamt geforderten Zustand herbeizuführen.Die Beklagte ist der Auffassung, dass die Ansprüche verjährt sind.Die mündliche Verhandlung fand am 27.04.2020 statt. Auf das Protokoll der öffentlichen Sitzung wird Bezug genommen.Wegen des weiteren Vorbringens der Parteien und der Einzelheiten wird auf die gewechselten Schriftsätze nebst übergebener Anlagen verwiesen. 
+				Gründe
+				Die zulässige Klage hat in der Sache keinen Erfolg.A)Die Klage ist unbegründet.Dies bereits deswegen, da der Kläger einen Gebrauchtwagen erwarb.Eine Täuschungshandlung im Sinne des § 263 StGB der Beklagten gerade gegenüber dem Kläger, der sein Fahrzeug gebraucht von einem Autohaus erwarb, ist nicht ersichtlich. In Betracht kommt daher allenfalls § 826 BGB. Das Unterlassen einer für die Kaufentscheidung erheblichen Information in einem Prospekt oder Werbeankündigungen ist für sich genommen nicht verwerflich. Gegen die guten Sitten verstößt ein Verantwortlicher aber dann, wenn er Kaufinteressenten durch eine bewusste Täuschung zum Kauf bewegt (vgl. BGH Urt. vom 28.07.2016 - VI ZR 536/15 = NJW 2017, 250 ff.).Das Gericht hält es bereits für fraglich, ob die Beklagte nur bei einem Direktverkauf oder beim Verkauf von Neuwagen durch Händler die Erstkäufer bewusst getäuscht hätte, wenn sie die Konstruktion, die NOx-Werte nur im Prüfstandbetrieb zu minimieren, nicht publizierte. Diese Überlegung gilt erst Recht nicht für den Kläger, der das Fahrzeug gebraucht gekauft hat. Von dem Kauf des Klägers vom Voreigentümer hatte die Beklagte keine Vorteile (OLG München, Beschluss v. 29.01.2019, 32 U 2720/18).Die Klage ist aber auch unbegründet, selbst wenn das gekaufte Kfz ein Neuwagen wäre.1. § 823 Abs. 1 BGBEin Anspruch gem. § 823 Abs. 1 BGB kommt schon deshalb nicht in Betracht, da nach dem eigenen Vortrag des Klägers bereits ein mangelhaftes Fahrzeug übergeben wurde, sodass der Kläger zu keinem Zeitpunkt ein mangelfreies Fahrzeug hatte.2. § 823 Abs. 2 BGB i.V.m. § 263 StGBEin Schadensersatzanspruch gegen die Beklagte gem. § 823 Abs. 2 BGB i.V.m. § 263 StGB besteht ebenfalls nicht.Eine Täuschung des Klägers durch die Beklagte, die für den Vermögensschaden kausal wäre, ist durch den Kläger weder dargelegt noch ersichtlich.Selbst wenn man von einer Täuschung der Beklagten ausgeht, so liegt allenfalls eine Täuschung gegenüber einer Behörde, nämlich dem Kraftfahrzeugbundesamt, vor. Unrichtige Angaben bei dem Erhalt der EU Typengenehmigung begründen keine Täuschung des Klägers, sondern eine Täuschung des nicht am Rechtsstreit beteiligten Kraftfahrzeugbundesamtes.Daneben liegt zumindest keine Täuschung der Beklagten und auch kein Irrtum des Klägers hinsichtlich der Typengenehmigung und der Einordnung in Euro 5 vor, da beides weiterhin vorliegt. Die Beklagte hat nicht über die Nutzungsmöglichkeit des Fahrzeugs in Umweltzonen oder den Erhalt der grünen Plakette getäuscht. Das streitgegenständliche Fahrzeug, das die EURO 5 Norm erfüllt, darf nach Durchführung des Software-Updates in den Umweltzonen fahren, die die grüne Umweltplakette erfordern.Der Kläger hat auch keine Absicht rechtswidriger Bereicherung der Beklagten dargelegt. Bereicherungsabsicht setzt voraus, dass die Tat subjektiv auf die Erlangung eines rechtswidrigen Vermögensvorteils für den Täuschenden oder einen Dritten gerichtet ist: Dabei muss der Vorteil die Kehrseite des Schadens und ihm "stoffgleich" sein, er muss unmittelbare Folge der täuschungsbedingten Verfügung sein, die den Schaden des Opfers herbeiführt; maßgeblich ist die Unmittelbarkeit der Verschiebung. Dem Täter muss es darauf ankommen, sich oder einem Dritten einen Vermögensvorteil zu verschaffen. An dieser erforderlichen Absicht fehlt es, wenn der Täter die Vorteilserlangung nur als notwendige Folge eines anderen Zwecks in Kauf nimmt. Vorliegend erscheint bereits fraglich, ob es der Beklagten bei der Verwendung der eingebauten Software um einen Wettbewerbsvorteil durch die Reduzierung ansonsten erforderlicher Entwicklungs- und Produktionskosten ging. Soweit der Kläger einen Schaden durch den Vertragsschluss mit dem Vertragshändler und die Belastung mit der Verpflichtung zur Zahlung des Kaufpreises geltend macht, fehlt es an der Unmittelbarkeit der Vermögensverschiebung.3. § 823 Abs. 2 BGB i.V.m. Verstößen gegen EG-TypV bzw. EG-FGVAuch Schadensersatzansprüche gemäß § 823 Abs. 2 BGB i.V.m. den europarechtlichen Vorschriften bezüglich Typengenehmigung und Übereinstimmungsbescheinigung bestehen nicht.Eine Schadensersatzpflicht scheidet aus, da das harmonisierte Typengenehmigungsrecht, insbesondere die Vorschriften über die Übereinstimmungsbescheinigung, keine Schutzgesetze i.S.d. § 823 Abs. 2 BGB darstellen.Eine Norm ist nur dann ein Schutzgesetz i.S.v. § 823 Abs. 2 BGB, wenn sie nach ihrem Zweck und Inhalt zumindest auch den Schutz des Einzelnen oder einzelner Personenkreise gegen die Verletzung eines bestimmten Rechtsguts bezweckt. Dabei kommt es nicht auf die Wirkung, sondern auf Inhalt und Zweck des Gesetzes sowie darauf an, ob der Gesetzgeber bei Erlass des Gesetzes gerade einen Rechtsschutz wegen der behaupteten Verletzung zu Gunsten von Einzelpersonen oder bestimmten Personenkreisen gewollt oder jedenfalls auch gewollt hat (vgl. BGH NJW 2015, Seite 2737 ff., NJW 2012, Seite 1800 ff.).Das Europäische Typengenehmigungsrecht sowie die Vorschriften über die Übereinstimmungsbescheinigung sind im Interesse der Allgemeinheit erlassen worden, bezwecken aber keinen individuellen Vermögensschutz des einzelnen Fahrzeugerwerbers.Die für die Anwendung des § 823 Abs. 2 BGB erforderliche drittschützende Wirkung zugunsten des Klägers liegt damit nicht vor.4. § 823 Abs. 2 BGB i.V.m. § 16 UWGEin Anspruch gem. § 823 Abs. 2 BGB i.V.m. § 16 UWG ist nicht ersichtlich. Es ist nicht ersichtlich, durch welche Aussage der Beklagten der Kläger zum Abschluss des Kaufvertrages bestimmt worden sein soll.Der Kläger hat nicht dargelegt, dass von der Beklagten herausgegebene Prospekte und Angaben unwahr und irreführend i.S.v. § 16 UWG waren und seine Kaufentscheidung auf diesen Angaben beruht habe.Ein Anspruch gem. § 823 Abs. 2 BGB i.V.m. § 16 UWG besteht nicht.5. § 823 Abs. 2 BGB i.V.m. § 1 GWB/Art. 101 AEUVEin Zusammenhang von den behaupteten kartellrechtlichen Absprachen mit dem Kauf des Fahrzeugs ist nicht ersichtlich und wurde vom Kläger auch nicht dargetan. Ein Schadensersatzanspruch aufgrund der behaupteten kartellrechtlichen Verstöße ist daher nicht gegeben.6. § 826 BGBAuch ein Schadensersatzanspruch gem. § 826 BGB besteht nicht, da das Verhalten der Beklagten zumindest nicht als sittenwidrig gerade gegenüber dem Kläger einzustufen ist.Ein Verstoß gegen Art. 3 Nr. 10, 5 Abs. 2 EUVO 715/2007, wonach unter bestimmten Voraussetzungen die Verwendung von Abschalteinrichtungen, die die Wirkungen von Emissionskontrollsystemen verringern, unzulässig ist, im Zusammenhang mit der Zulassung kann unterstellt werden, da dies der Klage nicht zum Erfolg verhilft.Ein Verhalten ist objektiv sittenwidrig, wenn es nach dem Inhalt und Gesamtcharakter, welcher durch eine zusammenfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht denkenden Menschen verstößt, mithin mit den grundlegenden Wertungen des Rechts und Sittenordnung nicht vereinbar ist. Nicht ausreichend ist hingegen, dass das Verhalten gesetzes- oder vertragswidrig ist, unbillig erscheint oder einen Schaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit des Verhaltens, die sich aus dem erfolgten Zweck, den eingesetzten Mitteln, der zutage tretenden Gesinnung oder den eingetretenen Folgen ergeben kann, gegeben sein. Nach allgemeiner Auffassung in Rechtsprechung und Literatur führt ein Gesetzesverstoß nicht zwingend zum Vorliegen der Sittenwidrigkeit, vielmehr muss die relevante Norm Ausdruck einer sittlichen Wertung und nicht wertneutral sein.Gemessen an diesem Maßstab würde der Einbau und das Verschweigen einer unzulässigen Abschalteinrichtung kein sittenwidriges Verhalten gegenüber dem Kläger darstellen.Für eine sittenwidrige Handlung des Beklagten im Sinne des § 826 BGB fehlt es zumindest an der besonderen Verwerflichkeit gerade gegenüber dem Kläger. Das Sittenwidrigkeitsurteil für ein bestimmtes Verhalten ist immer in Bezug auf die Person des Geschädigten zu treffen.Die einschlägigen europarechtlichen Bestimmungen (Art. 3 Nr. 10, 5 Abs. 2 EUVO 715/2007), gegen die der Beklagte verstoßen haben soll, sind kein Ausdruck einer sittlichen Gesinnung, sondern stellen sich vielmehr als Regelung zum Schutz der Umwelt dar. Daneben sollen die Regelungen der EUVO 715/2007 der Harmonisierung der nationalen Regelungen und damit der Stärkung des Binnenmarktes dienen (vgl. insbesondere: Präambel Ziffer (1)). Mit den Vorschriften soll in erster Linie eine Reduzierung der Schadstoffemissionen von Fahrzeugen zur Minimierung der Umweltbelastung erzielt werden. Damit ist keine sittliche Wertung verbunden. Schließlich ist zu beachten, dass die Abschalteinrichtung lediglich unter Laborbedingungen zum Einsatz kommt, während eine Auswirkung im tatsächlichen Fahrbetrieb nicht gegeben ist. Somit wirkt sich die vorhandene Abschalteinrichtung nicht zum Nachteil des Klägers aus, da diese während der Benutzung des Fahrzeugs im Alltag eben gerade nicht aktiviert wird. Die Folgen der verletzten Vorschriften betreffen daher allein den Schadstoffausstoß für Messfahrten unter Laborbedingungen, während diese Vorschriften keine Wirkungen für den Schadstoffausstoß im realen Fahrbetrieb zeigten.Im Übrigen wäre ein unterstellter beim Kläger eingetretener Schaden nicht vom Schutzzweck der verletzten EUVO 715/2007 umfasst. Eine Schadensersatzpflicht besteht nur, wenn der geltend, gemachte Schaden nach Art und Entstehungsweise unter den Schutzzweck der verletzten Norm fällt, mithin muss es sich um Nachteile handeln, die aus dem Bereich der Gefahren stammen, zu deren Abwendung die verletzte Norm erlassen worden ist. Diese Voraussetzungen sind vorliegend nicht erfüllt, da die einschlägige EUVO 715/2007 primär dem Umweltschutz dient und der Kläger ausschließlich Nachteile geltend macht, die mit dem verordnungsrechtlich bezweckten Schutz der Umwelt in keinem Zusammenhang stehen.Die vorsätzliche Zufügung eines Schadens allein begründet noch nicht die Haftung aus § 826 BGB. Auf sie muss noch das Urteil der Sittenwidrigkeit zutreffen. Macht der Geschädigte weiterhin geltend, er sei durch die sittenwidrige Handlung des Täters zur schädlichen Vermögensdisposition veranlasst worden, dann genügt es nicht, dass der Täter die Möglichkeit eines solchen Kausalverlaufs erkennt und gebilligt hat, vielmehr trifft ihn der haftungsbegründende Vorwurf der sittenwidrigen Schädigung nur dann, wenn der Geschädigte die ihn schädigende Handlung gerade deswegen vorgenommen hat, weil er dazu sittenwidrig veranlasst worden ist. Andernfalls hat sich das Tatbestandsmerkmal der Sittenwidrigkeit bei der Schädigung nicht verwirklicht (vgl. dazu BGH NJW 1979, 1599, 1600).Vor diesem Hintergrund ist der Beklagten im konkreten Fall ein sittenwidriges Verhalten gegenüber dem Kläger nicht vorzuwerfen.Ein Anspruch nach § 826 BGB besteht damit nicht.B)Die prozessualen Nebenentscheidungen beruhen auf §§ 91, 709 ZPO, 63 Abs. 2 GKG.
+			
+			
+			
+			Permalink: https://openjur.de/u/2463949.html (https://oj.is/2463949)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

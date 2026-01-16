@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG PaderbornRechtsprechungUrteil vom 19.09.2016 - 2 O 55/16
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Paderborn, Urteil vom 19.09.2016 - 2 O 55/16
+                      m. Fundstelle
+                      LG Paderborn, Urteil vom 19.09.2016 - 2 O 55/16 = openJur 2019, 12981
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Paderborn, Urteil vom 19.09.2016 - 2 O 55/16
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 12981
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger trägt die Kosten des Rechtsstreits.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger begehrt die Rückabwicklung eines Kaufvertrags über ein seinerzeit erworbenes Neufahrzeug.Der Kläger kaufte bei der Beklagten ein Neufahrzeug W 2.0 TDI Diesel, Fahrzeugidentifikationsnummer …, zu einem Kaufpreis von 39.000,00 Euro brutto. Das Fahrzeug wurde dem Kläger am 07.02.2014 übergeben.In dem streitgegenständlichen Fahrzeug ist ein Dieselmotor des Typs EA 189 verbaut. Die Abgasrückführung wird bei diesem Dieselmotor von einer speziellen Software gesteuert, die zwischen zwei verschiedenen Betriebsmodi wechseln kann. Die Schaltung zwischen den Betriebsmodi 1 und 0 erfolgt in Abhängigkeit davon, ob der für die Prüfung unter Laborbedingungen festgelegte künstliche Fahrzyklus durchfahren wird. Ist dies der Fall, aktiviert die Software den Betriebsmodus 1. Im normalen Straßenverkehr wird das Fahrzeug automatisch im Betriebsmodus 0 betrieben. Das Durchfahren des modellierten synthetischen Fahrzyklus während des realen Fahrzeugbetriebs ist ausgeschlossen. Die NOx- Emissionen, also die Freisetzung von Stickoxiden, sind im Betriebsmodus 0 höher als im Betriebsmodus 1. Nach Bekanntwerden dieser Softwareproblematik entwickelte die Beklagte in Abstimmung mit dem Kraftfahrt-Bundesamt einen Zeit- und Maßnahmenplan, nach dem die technische Überarbeitung der Fahrzeuge mit dem Dieselmotor des Typs EA 189 vorgesehen ist.Die Herstellerin des Fahrzeugs informierte den Kläger mit einer E-Mail darüber, dass der in seinem Fahrzeug eingebaute Dieselmotor von der Software betroffen sei, die Stickoxidwerte im Prüfstandlauf optimiere und sein W Partner schnellstmöglich auf ihn zukommen werde, um ihn über die notwendigen Maßnahmen zu informieren. Mit Schreiben seines Prozessbevollmächtigten vom 02.11.2015 wendete sich der Kläger an die Beklagte und forderte zur Nachbesserung bis zum 16.11.2015 auf. Die Beklagte reagierte mit Schreiben ihres Prozessbevollmächtigten vom 16.11.2015, in dem sie u. a. mitteilen ließ, dass W dem Kraftfahrt-Bundesamt am 07.10.2015 einen Maßnahmenplan vorgelegt habe, der vorsehe, dass die notwendigen technischen Lösungen entwickelt werden und er sobald wie möglich näher über den Zeitplan und die erforderlichen Maßnahmen informiert werde. Mit Schreiben vom 17.11.2015 setzte der Kläger über seinen Prozessbevollmächtigten nochmals erfolglos eine Frist zur Nachbesserung bis zum 26.11.2015. Mit Schreiben vom 04.12.2015 ließ der Kläger sodann den Rücktritt vom Kaufvertrag erklären und forderte zur Rückabwicklung des Kaufvertrages auf. Die Beklagte ließ den Rücktritt mit Schreiben vom 17.11.2015 über ihren Prozessbevollmächtigten zurückweisen.Mit der Klage verfolgt der Kläger sein Rückabwicklungsbegehren nunmehr weiter.Der Kläger behauptet, dass er bereits im Juli 2015 beabsichtigt habe, das streitgegenständliche Fahrzeug zu veräußern. Nach Bekanntwerden des „W-Abgasskandals“ im September 2015 und entsprechender medialer Berichterstattung sei das Fahrzeug für ihn nur unter erheblichem Wertverlust veräußerbar. Er meint, dass das Fahrzeug insgesamt mangelbehaftet sei und behauptet hierzu, dass es die vorgeschriebenen Abgasnormen im normalen Straßenbetrieb nicht erfülle, da der Schadstoffausstoß im realen Fahrzeugbetrieb den Grenzwert deutlich überschreite. Die Verwendung von zwei unterschiedlichen Modi für den Testzyklus sowie den normalen Fahrtbetrieb stelle zudem eine unzulässige Abschaltvorrichtung dar und führe auch dazu, dass das Fahrzeug nicht mehr dem genehmigten Fahrzeugtyp und der Betriebserlaubnis entspreche. Er meint weiter, dass jedenfalls mittlerweile eine angemessene Frist zur Nacherfüllung abgelaufen und ihm ein weiteres Zuwarten auch nicht zumutbar sei, zumal auch unklar sei, ob der Zeit- und Maßnahmenplan eingehalten werde. Es sei auch unklar, ob das angekündigte Software-Update nicht negative Auswirkungen, u. a. auf die Motorisierung, den Kraftstoffverbrauch und die Emissionen des Fahrzeugs habe oder zu einer stärkeren Verrußung des Dieselpartikelfilters führe. Es müsse auch nach dem Software-Update mit einem verbleibenden merkantilen Minderwert gerechnet werden. Entgegen der Behauptung der Gegenseite seien die Kosten der Nachbesserung auch nicht nur geringfügig. Es müsse auf die Kosten abgestellt werden, die für einen Dritten bei einem Erwerb der Software auf dem Markt anfallen würden. Unter Berücksichtigung betriebswirtschaftlicher Gesichtspunkte würden sich die Kosten im Falle einer freien Veräußerung eines entsprechenden Software-Updates, so behauptet der Kläger, auf mindestens 2.500,00 Euro belaufen.Bei der Rückabwicklung seien ihm die geleistete Anzahlung in Höhe von 16.600,00 Euro zuzüglich der bis einschließlich Januar 2016 geleisteten 23 Nettokreditraten in Höhe von insgesamt 1.782,04 Euro, mithin 18.382,04 Euro zu erstatten. Zudem sei ihm eine Nutzungsentschädigung in Höhe von 4.259,23 Euro zu zahlen, da die Beklagte mit der Zahlung des Betrages einen Überziehungskredit bedient und sich damit Sollzinsen in Höhe von 12 Prozentpunkten erspart habe. Seinerseits habe er sich bei gefahrenen 23.000 km und einer zu erwartenden Gesamtlaufleistung des Fahrzeugs von 300.000 km eine Nutzungsentschädigung von 2.990,00 Euro anrechnen zu lassen, so dass bei entsprechender Verrechnung ein Betrag von 19.651,27 Euro zurückzuzahlen sei.Der Kläger beantragt,die Beklagte zu verurteilen, an den Kläger Zug- um- Zug gegen Herausgabe des PKW W mit der FIN … einen Betrag in Höhe von 19.651,27 Euro nebst Nutzungsentschädigung in Höhe von 12 Prozentpunkten aus 18.382,04 Euro seit dem 18.02.2016, sowie eine Nebenforderung in Höhe von 1.348,27 Euro zu zahlen,festzustellen, dass sich die Beklagte seit dem 19.12.2015 bezüglich der Rücknahme des PKW W mit der FIN … in Annahmeverzug befindet.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte meint, dass das Fahrzeug schon keinen Mangel aufweise, da es technisch sicher, in seiner Fahreigenschaft nicht eingeschränkt und über alle erforderlichen Genehmigungen, insbesondere der EG-Typengenehmigung verfügen würde. Das Fahrzeug weise auch keine unzulässige Abschalteinrichtung auf. Eine solche läge nur dann vor, wenn im realen Fahrzeugbetrieb die Wirksamkeit der Abgasreinigungsanlage reduziert werden würde, was hier nicht der Fall sei. Es komme auch nicht darauf an, dass es im normalen Straßenbetrieb zu einer Erhöhung der Emissionen komme. Für die Einhaltung der Emissionsgrenzwerte zur Erlangung der EG-Typengenehmigung sei nach den gesetzlichen Vorgaben allein der synthetische Fahrzyklus unter Laborbedingungen maßgeblich. Gleichwohl seien technische Überarbeitungen sämtlicher Fahrzeuge mit dem Dieselmotor EA 189 auf Kosten der W AG vorgesehen, wobei für das streitgegenständliche Fahrzeug ein reines Software-Update ausreiche. Die Umsetzung der geplanten Maßnahmen würden voraussichtlich nur rund eine halbe Stunde in der Vertragswerkstatt in Anspruch nehmen. Die Kosten der technischen Überarbeitung würden, so behauptet die Beklagte weiter, voraussichtlich deutlich weniger als 100,00 Euro betragen, so dass, so meint die Beklagte, ein Rücktritt schon wegen Unerheblichkeit ausgeschlossen sei. Die technische Überarbeitung habe keine nachteiligen Auswirkungen auf den Verkehrswert des Fahrzeugs. Es sei, entgegen der Einwendungen des Klägers, auch nicht mit unbekannten Spätfolgen zu rechnen, da die Umsetzung der Maßnahmen zu keiner Veränderung der Motorleistung, des Kraftstoffverbrauchs oder der Emissionen führen werde. Zudem sei bei unterschiedlichen Baureihen und Modellen bereits eine erfolgreiche Überarbeitung erfolgt. Die Beklagte ist zudem der Auffassung, dass der Kläger ihr keine angemessene Frist zur Nachbesserung eingeräumt habe. Die gesetzten Fristen seien zu kurz bemessen. Die Maßnahmen erforderten wegen der Vielzahl betroffener Fahrzeuge und Motorvarianten eine Gesamtkoordination, die längere Zeit in Anspruch nehme und die in enger Abstimmung mit dem Kraftfahrtbundesamt durchgeführt werde. Dem Kläger sei auch ohne weiteres ein Zuwarten zuzumuten, da das Fahrzeug uneingeschränkt weiter genutzt werden könne.Schließlich bestreitet die Beklagte die Richtigkeit der vom Kläger vorgenommenen Berechnung der im Falle der Rückabwicklung bestehenden gegenseitigen Ansprüche. Insbesondere habe die Beklagte durch die erhaltene Zahlung keine Schuldzinsen erspart, da sie den erhaltenen Betrag an die Herstellerin weitergeleitet habe. Unabhängig hiervon sei allenfalls ein Zinssatz von 6,75 % zugrunde zu legen. Bei der Berechnung der Nutzungsentschädigung sei auch nur eine Gesamtfahrleistung von 200.000 km zugrunde zu legen.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I. Dem Kläger steht gegen die Beklagte kein Anspruch auf Rückzahlung des Kaufpreises einschließlich Nutzungsentschädigung in Höhe von insgesamt 19.651,27 Euro Zug- um- Zug gegen Rückgabe und Rückübereignung des streitgegenständlichen Fahrzeugs aus § 346 Abs. 1 BGB i. V .m. den §§ 437 Nr. 2, 323 Abs. 1, 320, 322, 348 BGB zu.Der Kläger ist mit Schreiben seines Prozessbevollmächtigten vom 04.12.2015 nicht wirksam vom Vertrag zurückgetreten.1.Zwar geht das Gericht davon aus, dass das vom Kläger gekaufte Fahrzeug einen Sachmangel im Sinne des § 434 Abs. 1 S. 2 Nr. 2 BGB aufweist. Nach der vorgenannten Vorschrift ist eine Sache frei von Sachmängeln, wenn sie sich für die gewöhnliche Verwendung eignet und eine Beschaffenheit aufweist, die bei Sachen der gleichen Art üblich ist und die der Käufer nach der Art der Sache erwarten kann. Im vorliegenden Fall eignet sich das streitgegenständliche Fahrzeug grundsätzlich für den Fahrbetrieb und somit für die gewöhnliche Verwendung. Jedoch verfügt es nicht über eine Beschaffenheit, die bei Sachen gleicher Art üblich ist und die ein Käufer nach der Art der Sache erwarten kann. Ein Käufer eines Neufahrzeugs kann davon ausgehen, dass die gesetzlich vorgegebenen und im technischen Datenblatt aufgenommenen Abgaswerte auch tatsächlich im gewöhnlichen Straßenbetrieb eingehalten werden und dieses Ergebnis nicht aufgrund einer speziellen, in dem Fahrzeug verbauten Software suggeriert wird, die den künstlichen Fahrzyklus erkennt und in einen Betriebsmodus schaltet, der den Stickoxidausstoß reduziert.2.Eine der Beklagten zuzubilligende angemessene Frist zur Nacherfüllung nach § 323 Abs. 1 BGB ist aber bislang nicht abgelaufen. Nach vorgenannter Vorschrift kann der Gläubiger im Fall einer nicht vertragsgemäß erbrachten Leistung des Schuldners vom Vertrag nur dann zurücktreten, wenn er dem Schuldner erfolglos eine angemessene Frist zur Nacherfüllung bestimmt hat. Diese Voraussetzungen liegen nicht vor. Die vom Kläger über seinen Prozessbevollmächtigten zuletzt mit Schreiben vom 17.11.2015 bis zum 26.11.2015 gesetzte Nacherfüllungsfrist war deutlich zu kurz. Soweit durch diese Fristsetzung jedenfalls eine objektiv angemessene Frist in Gang gesetzt wurde, ist diese auch im Zeitpunkt der gerichtlichen Entscheidung noch nicht abgelaufen.Die Beurteilung der Angemessenheit der Länge der Frist richtet sich nach objektiven Maßstäben auf Grund der Umstände des Einzelfalles. Dies führt im vorliegenden Fall dazu, dass die objektiv angemessen Frist noch nicht abgelaufen ist.Das Gericht verkennt nicht, dass die Zuerkennung einer angemessenen Nacherfüllungsfrist von bis zu gut einem Jahr im Vergleich zu den üblichen Fallkonstellationen ungewöhnlich lang ist. Im vorliegenden Fall ist aber zu berücksichtigen, dass der von dem Kläger beanstandete Mangel in Form des erhöhten Abgasausstoßes im gewöhnlichen Fahrbetrieb zu keinerlei funktionellen Beeinträchtigung in der Nutzung des Fahrzeugs führte. Insbesondere verfügt das Fahrzeug nach wie vor über alle erforderlichen Genehmigungen zur Nutzung im öffentlichen Straßenverkehr. Der Kläger war und ist nach wie vor in der Lage, das Fahrzeug bis zum Nachbesserungstermin ohne für ihn spürbare Beeinträchtigungen weiter nutzen. Erhebliche, über die bloße Zeitspanne bis zur tatsächlichen Vornahme der Nachbesserungsarbeiten hinausgehende Unannehmlichkeiten oder sonstige Nachteile, die eine Rückabwicklung innerhalb der vom Kläger gesetzten kurzen Frist oder gar eine sofortige Rückabwicklung im Zeitpunkt der Rücktrittserklärung rechtfertigen könnten, sind von dem Kläger jedenfalls nicht hinreichend substantiiert vorgetragen worden und auch sonst nicht ersichtlich. Insbesondere hat die Herstellerin auf die Einrede der Verjährung für Ansprüche im Zusammenhang mit der Verwendung der Software bis zum 31.12.2017 verzichtet.Weiterhin war bei der Bemessung der Frist zu berücksichtigen, dass aufgrund der hohen Anzahl der betroffenen Fahrzeuge sowie der Notwendigkeit der Einbeziehung der beteiligten Behörden der Beklagten bzw. der hinter ihr stehenden Herstellerin, von deren Tätigwerden sie abhängig ist, ein längerer Zeitraum zuzugestehen ist, um eine Problemlösung zu entwickeln und eine Strategie zur Umsetzung derselben zu entwerfen. Der Kläger ist durch die Einräumung einer längeren Frist wegen der uneingeschränkten weiteren Nutzungsmöglichkeit nicht wesentlich beeinträchtigt.Der Kläger kann sich nach Auffassung des Gerichts auch nicht mit Erfolg darauf berufen, dass eine erfolgreiche Nachbesserung von vornherein nicht möglich sei, ohne dass es zu negativen Auswirkungen komme im Hinblick auf Leistung, Kraftstoffverbrauch, Verschleiß und Abgaswerten. Zwar ist dem Kläger darin zuzustimmen, dass eine ordnungsgemäße Nacherfüllung nur dann vorliegt, wenn durch die Mangelbeseitigung nicht gleichzeitig andere Mängel am Fahrzeug hervorgerufen werden. Dafür, dass die beabsichtigte und von der Beklagten beschriebene Nachbesserung von vornherein nicht erfolgreich sein kann und sogar ein Fall der Unmöglichkeit vorliegt, bestehen derzeit keine ausreichenden Anknüpfungspunkte. Insoweit ist derzeit auch keine Beweisaufnahme veranlasst. Dies gilt insbesondere vor dem Hintergrund der vorgelegten Bescheinigung des Kraftfahrtbundesamt vom 21.07.2016, ausweislich derer Tests gerade keine der beschriebenen negativen Auswirkungen ergeben haben. Insoweit, als dass die von der Beklagten beabsichtigte Nacherfüllung jedenfalls nicht von vornherein untauglich erscheint, den Mangel zu beheben, ohne anderweitige negative Auswirkung auf das Fahrzeug zu haben, ist der Käufer wegen des geltenden „Vorrangs der Nacherfüllung“ zunächst gehalten, sich hierauf einzulassen. Dies gilt auch vor dem Hintergrund, dass es allein Sache des Verkäufers ist, mit welchen Mitteln und auf welchem Wege er die geschuldete Nacherfüllung leistet, ohne dass er im Detail gehalten wäre, seine beabsichtigten Nacherfüllungsmethode im Vorfeld bereits einer „Tauglichkeitsüberprüfung“ durch den Käufer unterziehen zu lassen. Sollte der Nacherfüllungsversuch entsprechend der klägerischen Befürchtung tatsächlich nicht erfolgreich verlaufen oder zu dem befürchteten Wertverlust bzw. einem merkantilen Minderwert führen, was derzeit noch kaum absehbar ist, so stünden dem Kläger dann, aber eben erst nach der Erfolglosigkeit der Nacherfüllungsbemühungen der Beklagten, ggfls. entsprechende Gewährleitungsrechte zu. Vor dem Hintergrund dieses im Gewährleistungsrecht verankerten Grundsatzes des „Vorrangs der Nacherfüllung“ führt auch das von dem Kläger dargelegte Veräußerungsinteresse zu keiner anderen Bewertung des Falls. Es ist dem Kläger auch bei beabsichtigter Veräußerung des Fahrzeugs im Ergebnis zuzumuten, die beabsichtigte Nachbesserung innerhalb einer angemessenen Frist bis Ende 2016 zunächst abzuwarten.Auf die weitere streitige Frage, ob der Rücktritt wegen Unerheblichkeit der Pflichtverletzung nach § 323 Abs. 5 S. 2 BGB ausgeschlossen ist, kam es nicht mehr an.3.Mangels wirksamen Rücktritts hat der Kläger auch keinen Anspruch auf Nutzungsentschädigung und Erstattung vorgerichtlicher Rechtsanwaltskosten aus den §§ 280 Abs. 1 und 2, 286 BGB sowie auf gerichtliche Feststellung des Annahmeverzuges der Beklagten.II.Die Kostenentscheidung folgt aus § 91 Abs. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 S. 1 und S. 2 ZPO.Der Streitwert wird auf bis 22.000,00 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2148105.html (https://oj.is/2148105)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

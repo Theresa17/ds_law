@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBaden-WürttembergOrdentliche GerichtsbarkeitLG FreiburgRechtsprechungUrteil vom 11.01.2019 - 2 O 84/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Freiburg, Urteil vom 11.01.2019 - 2 O 84/18
+                      m. Fundstelle
+                      LG Freiburg, Urteil vom 11.01.2019 - 2 O 84/18 = openJur 2021, 28104
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Freiburg, Urteil vom 11.01.2019 - 2 O 84/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 28104
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				1. Eine unzulässige Abschalteinrichtung im Abgasreinigungssystem begründet einen Schadensersatzanspruch wegen vorsätzlicher sittenwidriger Schädigung aus § 826 BGB.2. Dem Hersteller obliegt auch eine sekundäre Darlegungslast bezüglich der Kenntnis des Vorstands vom Einsatz einer solchen unzulässigen Abschalteinrichtung.3. Der Anspruch umfasst die Zahlung des Kaufpreises des Fahrzeugs an den Kläger Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs an die Beklagte.4. Der Kläger hat sich einen Nutzungswertersatz auf den Kaufpreis anrechnen zu lassen. 
+				
+				Tenor
+				1. Die Beklagte wird verurteilt, an die Klägerin 5.770,65 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit 21.02.2018 Zug um Zug gegen Rückgabe und Übereignung des Fahrzeugs der Marke Volkswagen, Typ Touran Trendline 1,6 TDI mit der FIN ... zu bezahlen.2. Es wird festgestellt, dass sich die Beklagte seit dem 21.02.2018 mit der Rücknahme des in Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befindet.3. Im Übrigen wird die Klage abgewiesen.4. Von den Kosten des Rechtsstreits tragen die Klägerin 75 % und die Beklagte 25 %.5. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Die Klägerin macht gegen die Beklagte Schadensersatzansprüche im Zusammenhang mit dem VW-Abgasskandal geltend.Am 20.11.2013 schloss die Klägerin mit dem Autohaus ... in Freiburg einen Kaufvertrag zum Erwerb eines Neuwagens der Marke VW, Typ Touran Trendline 1,6 l TDI, 77 kW, mit Sonderausstattungen zum "Hauspreis" von 24.610,92 EUR (Anlage K 1) ab. In dem am 12.12.2013 der Klägerin übergebenen und auf diese zugelassenen Fahrzeug ist ein von der Beklagten entwickelter Dieselmotor des Typs EA 189 Euro 5 verbaut.Zur Zulassung des Fahrzeugs musste die Herstellerin gemäß Art. 4 Abs. 1 VO (EG) 715/2007 nachweisen, dass die von ihr hergestellten Neufahrzeuge über eine Typgenehmigung gemäß der Verordnung verfügen. Eine solche Typgenehmigung setzt voraus, dass die in der Verordnung vorgesehenen Abgasgrenzwerte eingehalten werden. Die Werte werden gemäß der zugehörigen Durchführungsverordnung unter Laborbedingungen in dem sogenannten "Neuen Europäischen Fahrzyklus" (NEFZ) ermittelt.In dem von der Klägerin erworbenen Fahrzeug war eine von der Beklagten entwickelte Software verbaut, welche den NEFZ erkannt und sodann das Abgasrückführungssystem in den Modus 1 geschaltet hat. In diesem Modus kam es zu einer höheren Abgasrückführungsrate und somit zu einem geringeren Schadstoffausstoß. Im Normalbetrieb wurde das Abgasrückführungssystem demgegenüber im Modus 0 betrieben, so dass es zu einem höheren, die Vorgaben deutlich überschreitenden, Schadstoffausstoß gekommen ist.Mit Bescheid des Kraftfahrt-Bundesamtes vom 14.10.2015 wurde die Beklagte verpflichtet, bei allen betroffenen Fahrzeugen mit dem Motor EA 189 die aus Sicht des Bundesamtes vorliegenden unzulässigen Abschaltvorrichtungen zu entfernen und nachzuweisen, dass nun die gesetzlichen Anforderungen erfüllt werden. Mit Bescheid vom 03.11.2016 (Anlage B 7) hat das Kraftfahrt-Bundesamt die für das streitgegenständliche Fahrzeug von der Beklagten entwickelte technische Lösung "23R7 - Motorsteuergerät NOx" durch Aufspielen eines Software-Updates freigegeben.Mit Schreiben vom 06.02.2018 (Anlage K 10) erklärten die Prozessbevollmächtigten der Klägerin gegenüber der Beklagten, dass diese "das Fahrzeug zurückgeben und ihren Kaufpreis abzüglich einer Nutzungsentschädigung zurückerhalten" möchte. Eine weitere Nutzung des Fahrzeugs sei für sie, als umweltbewusster und rechtstreuer Bürgerin, nicht hinnehmbar. Die Prozessbevollmächtigten der Klägerin forderten die Beklagte auf, bis zum 20.02.2018 den Kaufpreis für das Fahrzeug in Höhe von EUR 24.610,00 Zug-um-Zug gegen Hergabe und Übereignung des vorbezeichneten Fahrzeugs sowie die Kosten der außergerichtlichen Rechtsverfolgung zu erstatten. Das Fahrzeug wurde der Beklagten zur Abholung angeboten. Die Beklagte lehnte dies ab.Die Klägerin ließ im Oktober 2018 die von der Beklagten im Dezember 2017 (Anlage K 10) nochmals angebotene "Servicemaßnahme", d.h. das Softwareupdate "23R7 - Motorsteuergerät NOx", an ihrem Fahrzeug durchführen.Unstreitig betrug der Kilometerstand des streitgegenständlichen Fahrzeugs zum Zeitpunkt der letzten mündlichen Verhandlung 108.399 Kilometer.Die Klägerin macht geltend, das streitgegenständliche Fahrzeug sei bei Übergabe mit einem Mangel behaftet gewesen. Bei der verwendeten Software der Motorsteuerung handele es sich um eine unzulässige Abschalteinrichtung. Im tatsächlichen Betrieb erzeuge das Fahrzeug einen höheren Stickoxidausstoß als dies nach der Verordnung (EG) Nr. 715/2007 zulässig sei. Die Haftung der Beklagten auf Schadensersatz ergebe sich insbesondere aus Delikt. Der Vorstand der Beklagten habe gewusst, dass in Fahrzeuge mit dem streitgegenständlichen Motortyp EA 189 eine Software in die Motorsteuerung eingebaut worden sei, die die Abgasrückführung auf dem Prüfstand anders als im realen Fahrbetrieb regele, um die Abgasgrenzwerte einzuhalten. Die Beklagte müsse sich die Kenntnis ihres Vorstands über die manipulierte Software zurechnen lassen. Jedenfalls sei die Beklagte ihrer sekundären Darlegungslast zur Frage der Kenntnis des Vorstands von der Manipulation der Motorsteuerungssoftware nicht nachgekommen. Die Manipulation ihrer unmittelbar handelnden Ingenieure müsse sie sich nach § 831 BGB zurechnen lassen. Ein ersetzbarer Schaden ergebe sich nicht nur aus einem Minderwert des Fahrzeugs infolge einer zu erwartenden Funktionsbeeinträchtigung oder fehlenden Zulassungsfähigkeit. Ein zum Ersatz verpflichtender Schaden bestehe schon in der unerwünschten Vertragsbindung, die einen zweckwidrigen Einsatz des Vermögens des Klägers darstelle. Der Klägerin stünden seit dem Schadensereignis (Kaufvertragsschluss) gesetzliche Zinsen nach § 849 BGB iVm § 246 BGB zu.Die Klägerin beantragt zuletzt:1. Die Beklagte wird verurteilt, an die Klägerin 24.610,92 EUR nebst Zinsen in Höhe von vier Prozentpunkten über dem Basiszinssatz seit 31.10.2013 bis Rechtshängigkeit und seither in Höhe von fünf Prozentpunkten über dem Basiszinssatz Zug um Zug gegen Rückgabe und Übereignung des Fahrzeugs der Marke Volkswagen, Typ Touran Trendline 1,6 TDI mit der FIN ... zu bezahlen.2. Es wird festgestellt, dass sich die Beklagte seit dem 21.02.2018 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befindet.3. Die Beklagte wird verurteilt, an die Klägerin die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.899,24 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit 21.02.2018 zu bezahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, dass die verbaute Software keine unzulässige Abschalteinrichtung oder einen Mangel des Fahrzeugs darstelle. Die Beklagte habe die Klägerin nicht getäuscht. Ihr Vorstand habe von der Entwicklung der manipulierten Software nichts gewusst und auch keine Kenntnis von deren Verwendung im Zeitpunkt des Kaufvertragsabschlusses gehabt. Die Beklagte meint außerdem, die Softwarekonfiguration bei Dieselmotoren des Typs EA 189 EU5 habe weder sittenwidrigen Zwecken gedient noch seien durch deren Verwendung Schutzgesetze im Sinne von § 823 Abs. 2 BGB verletzt worden. Im Übrigen sei dem Kläger auch kein Schaden entstanden. Durch das Softwareupdate lasse sich zudem ein vorschriftsmäßiger Fahrzeugzustand herstellen, ohne dass hierdurch finanzielle Nachteile entstünden. Die behaupteten negativen Auswirkungen des Updates stünden in Widerspruch zu der als Anlage B 7 vorgelegten Freigabebestätigung des KBA, der als öffentliche Urkunde Beweiskraft nach § 417 ZPO zukomme. Laut der Rechtsprechung des BGH sei der Schadensbegriff im Ansatz subjektbezogen. Deshalb sei Voraussetzung für einen Schaden auch, dass die Leistung für die Zwecke des Geschädigten nicht voll brauchbar sei. Dies habe die Klägerin weder vorgetragen, noch sei es sonst ersichtlich. Der Beklagten obliege keine sekundäre Darlegungslast. Es sei weder dargelegt noch ersichtlich, dass die Beklagte mit dem notwendigen Schädigungsvorsatz gehandelt habe. Schließlich fehle es an besonderen Umständen, die den Vorwurf der besonderen Verwerflichkeit begründen könnten. Die Klägerin müsse sich Nutzungsersatz für das Fahrzeug anrechnen lassen, da selbst ein unterstellter Mangel die Gebrauchstauglichkeit des Fahrzeugs nicht erheblich eingeschränkt haben könne. Die Anrechnung finde von Amts wegen statt, ohne dass es einer entsprechenden Parteierklärung bedürfe.Wegen des weiteren Vorbringens der Parteien wird auf die gewechselten Schriftsätze, die dazu vorgelegten Anlagen sowie die Niederschrift der mündlichen Verhandlung vom 16.11.2018 verwiesen. 
+				Gründe
+				Die zulässige Klage ist teilweise begründet.I.Die Klägerin hat gegen die Beklagten Anspruch auf Schadenersatz aus §§ 826, 31 BGB in Höhe von 5.770,65 EUR Zug um Zug gegen Rückgabe und Übereignung des Fahrzeugs der Marke Volkswagen, Typ Touran Trendline 1,6 TDI mit der FIN ... .1. Das Inverkehrbringen von Fahrzeugen mit eingebauter Abschaltvorrichtung durch die Beklagte stellt ein sittenwidriges Verhalten dar.1.1. Objektiv sittenwidrig ist eine Handlung, die gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Wer bewusst täuscht, um einen anderen zu einem Vertragsschluss zu bringen, handelt in der Regel sittenwidrig (BGH, Urteil vom 21.12.2004, VI ZR 306/03, BGHZ 161, 361).1.2. Das Inverkehrbringen von Fahrzeugen mit Abschalteinrichtungen war nach diesen Maßstäben sittenwidrig. Denn die Beklagte hat in großem Umfang und mit erheblichem technischen Aufwand gegen wichtige gesetzliche Umweltschutzvorschriften verstoßen. Andere Gründe als das Streben nach Gewinn sind nicht erkennbar und auch nicht vorgetragen. Die Beklagte hat dabei nicht einfach nur gesetzliche Abgaswerte außer Acht gelassen, sondern mit der Abschaltvorrichtung zugleich ein System zur planmäßigen Verschleierung ihres Vorgehens gegenüber den Aufsichtsbehörden und den Verbrauchern geschaffen. Im Rahmen einer Gesamtwürdigung ist dieses Verhalten als Sittenverstoß zu werten.2. Die Klägerin hat ein Fahrzeug mit der von der Beklagten eingebauten Steuerungs-Software (Abschaltautomatik) erworben und daher einen Schaden erlitten.2.1. § 826 BGB stellt hinsichtlich des Schadens begrifflich nicht auf die Verletzung bestimmter Rechte oder Rechtsgüter ab: Schaden ist danach nicht nur jede nachteilige Einwirkung auf die Vermögenslage, sondern darüber hinaus jede Beeinträchtigung eines rechtlich anerkannten Interesses und jede Belastung mit einer ungewollten Verpflichtung (BGH, Urteil vom 19. Juli 2004 - II ZR 402/02 -, BGHZ 160, 149-159, Rn. 41). Es genügt jede Schadenszufügung im weitesten Sinne, also jede nachteilige Einwirkung auf die Vermögenslage in ihrer Gesamtheit (BeckOK BGB/Förster, BGB, 42. Edition, § 826 Rn. 25, beck-online). Nach dem subjektbezogenen Schadensbegriff stellt bereits der Abschluss eines Geschäfts, welches nicht den Zielen des Geschädigten entspricht, einen Schaden im Rahmen des § 826 BGB dar, ohne dass es darauf ankäme, ob die erhaltene Leistung wirtschaftlich betrachtet hinter der Gegenleistung zurückbleibt (vgl. BGH, Urteil vom 28. Oktober 2014 - VI ZR 15/14 -, Rn. 18 f. m.w.N., juris; Harke, VuR 2017, 83, 90).2.2. Unter Berücksichtigung dieses Maßstabes hat die Klägerin durch den Erwerb des streitgegenständlichen Fahrzeugs einen Schaden erlitten.Die von der Beklagten verbaute Software führt - auch unabhängig von dem europarechtlichen Begriff der verbotenen Abschaltvorrichtung gemäß Art. 3 Nr. 10, Art. 5 Abs. 2 VO (EG) 715/2007 - zu erheblichen Nachteilen für den Kunden. Zum einen entsprechen die Abgaswerte nicht jenen, die er aufgrund der Fahrzeugbeschreibung und der gesetzlichen Grenzwerte erwarten durfte. Zwar geht der Kunde davon aus, dass die bekanntermaßen unter Laborbedingungen ermittelten Verbrauchs- und Abgaswerte im Alltagsbetrieb regelmäßig nicht erreicht werden können. Er erwartet jedoch nicht, dass diese Abweichung durch den Einsatz einer unzulässigen Software zusätzlich und erheblich vergrößert wird. Zum anderen besteht für den Kunden das rechtliche Risiko, dass die zuständigen Behörden den Einsatz der Software als unzulässige Abschalteinrichtung qualifizieren und gegen den Betrieb des Fahrzeugs vorgehen. Diese Sorge teilt offenbar auch die Beklagte, da sie Kunden mitteilt, dass den betroffenen Fahrzeugen die Stilllegung drohe, wenn die Nachrüstung nicht durchgeführt werde. Dass die Gefahr bestand, zeigt aber auch die spätere Entwicklung, insbesondere der Umstand, dass die Beklagte den Bescheid des Kraftfahrtbundesamtes vom 14.10.2015, in dem die verbaute Software als verbotene Abschaltvorrichtung gemäß Art. 3 Nr. 10, Art. 5 Abs. 2 VO (EG) 715/2007 eingestuft wurde, akzeptiert hat.Es ist bereits nach der allgemeinen Lebenserfahrung davon auszugehen, dass ein Neuwagenkäufer stillschweigend davon ausgeht, dass das erworbene Fahrzeug den gesetzlichen Vorschriften genügt und ohne Einschränkungen am öffentlichen Straßenverkehr teilnehmen darf und dass diese Vorstellungen für seinen Kaufentschluss von Bedeutung sind (vgl. BGH, Urteil vom 12. Mai 1995 - V ZR 34/94 -, Rn. 17 m.w.N., juris; Harke, VuR 2017, 83). Es kommt daher nicht darauf an, ob in einem Verkaufsgespräch konkrete Angaben zu der Umweltverträglichkeit des Fahrzeugs gemacht wurden.2.3. Es besteht kein Anlass, dieses Ergebnis unter Schutzzweckgesichtspunkten zu korrigieren. Der Schadensersatzanspruch aus § 826 BGB folgt - anders als ein möglicher Anspruch aus § 823 Abs. 2 BGB - nicht unmittelbar aus dem Verstoß gegen die Verordnung, sondern aus dem Inverkehrbringen eines gesetzeswidrigen Fahrzeugs. Diese Verstöße sind für den Rechtskreis des Kunden ersichtlich von Bedeutung. Denn der Verstoß gegen gesetzliche Vorschriften kann dazu führen, dass dem Fahrzeug behördliche Maßnahmen bis hin zur Stilllegung drohen.3. Die subjektiven Voraussetzungen des § 826 BGB haben bei der Beklagten vorgelegen.3.1. Der Schädiger braucht nicht im Einzelnen zu wissen, wer durch sein Verhalten geschädigt wird. Er muss nur die Richtung, in der sich sein Verhalten zum Schaden anderer auswirken könnte, und die Art des möglichen Schadens vorausgesehen und mindestens billigend in Kauf genommen haben (BGH, Urteil vom 19. Juli 2004 - II ZR 402/02 -, BGHZ 160, 149-159, Rn. 47 m.w.N., juris). Ein Bewusstsein der Sittenwidrigkeit nicht erforderlich. Der Schädiger muss aber die Tatumstände kennen, die sein Verhalten als sittenwidrig erscheinen lassen (vgl. Palandt/Sprau, BGB, 77. Aufl. 2018, § 826 BGB, Rn 8).3.2. Nach diesen Grundsätzen lagen bei der Beklagten auch die subjektiven Voraussetzungen des § 826 BGB vor. Die Beklagte hat mit Schädigungsvorsatz gehandelt und kannte die die Sittenwidrigkeit begründenden Umstände.3.2.1. Aus prozessualen Gründen ist der Entscheidung zugrunde zu legen, dass der Einbau der Abschalteinrichtung mit Wissen und Wollen des seinerzeitigen Vorstands der Beklagten erfolgte und somit der Beklagten gemäß § 31 BGB analog zurechenbar ist. Der Kläger hat eine solche Kenntnis hinreichend substantiiert behauptet. Er hat keinen Einblick in die inneren Abläufe der Beklagten und kann deswegen dazu nicht im Einzelnen vortragen. Prüfungsmaßstab ist damit lediglich, ob sein Vortrag ohne greifbare Anhaltspunkte ins Blaue hinein erfolgt (vgl. Zöller/Greger, ZPO, 32. Aufl. 2018, vor § 284 Rn. 34 m.w.N.). Dies ist vorliegend nicht der Fall, da es sich - nicht zuletzt nach Erlass des gegen den seinerzeitigen Vorstandsvorsitzenden Winterkorn gerichteten U.S.-amerikanischen Haftbefehls - geradezu aufdrängt, dass der millionenfache Einbau der Software und die damit verbundenen positiven Folgen für die Beklagte nicht ohne Wissen des Vorstandes erfolgen konnte.Die klägerische Behauptung hat die Beklagte nicht wirksam bestritten. Die Behauptung betrifft Umstände, die die interne Organisation der Beklagten betreffen und in welche der Kläger keinen Einblick hat. Die Beklagte konnte sich nicht mit einem einfachen Bestreiten begnügen. Sie musste sich vielmehr gemäß § 138 Abs. 2 und 4 ZPO im Rahmen ihrer sekundären Darlegungslast (vgl. Reinking/Eggert, Der Autokauf, 13. Auflage, Rn. 1898f; Zöller/Greger, ZPO, 32. Aufl. 2018, vor § 284 Rn. 34) im Einzelnen zu der klägerischen Behauptung erklären. Dieser Verpflichtung, im Einzelnen darzulegen, auf wessen Veranlassung es zur Entwicklung und zum Einbau der Software gekommen ist und wer davon Kenntnis gehabt hat, ist die Beklagte nicht nachgekommen. Soweit die Beklagte darauf verweist, dass ihr nach dem derzeitigen Stand ihrer internen Untersuchungen keine Erkenntnisse dazu vorlägen, dass Vorstandsmitglieder den Einbau der Software gebilligt hätten, genügt auch dies den Anforderungen an den Vortrag der Beklagten im Rahmen ihrer sekundären Darlegungslast nicht. Zum einen fehlt es insofern an einem detaillierten Vorbringen dazu, was Gegenstand der Ermittlungen durch die Beklagte gewesen ist und was diese Ermittlungen im Einzelnen ergeben haben, was die ehemaligen Vorstände auf Frage ausgesagt haben, welche Unterlagen gesichtet worden sind und welches Ergebnis die Sichtung dieser Unterlagen im Einzelnen ergeben hat. Zudem war der Beklagten zwar - wie geschehen - ein gewisser Zeitraum für Erkundigungen einzuräumen, sie hätte sich jedoch nach Ablauf dieses Zeitraums abschließend und entsprechend ihrer sekundären Darlegungslast erklären müssen. Da die Beklagte dem nicht nachkommen kann oder will und stattdessen darauf verweist, dass die vorläufigen Ermittlungen noch nicht abgeschlossen seien, ist der klägerische Vortrag gemäß § 138 Abs. 3 ZPO als zugestanden zu behandeln.3.2.2. Für den Vorstand der Beklagten war daher ohne weiteres erkennbar, dass Kunden Fahrzeuge erwerben würden, welche nicht ihren Vorstellungen entsprachen und objektiv mangelhaft waren. Die sich daraus ergebende Schädigung der Kunden hat die Beklagte damit billigend in Kauf genommen. Daher kannte der Vorstand der Beklagten auch die die Sittenwidrigkeit begründenden Umstände.4. Als Rechtsfolge kann die Klägerin von der Beklagten im Rahmen des Schadensersatzes aus § 826 BGB die Rückgewähr des gezahlten Kaufpreises unter Abzug einer Nutzungsentschädigung Zug-um-Zug gegen Übergabe und Übereignung des streitgegenständlichen Fahrzeugs verlangen.4.1. Im Rahmen des § 826 BGB richtet sich die Rechtsfolge des Schadenersatzanspruchs auf den Ersatz des sog. "negativen Interesses". Der Geschädigte hat einen Anspruch, so gestellt zu werden, wie er ohne Eintritt des schädigenden Ereignisses stünde (vgl. Oechsler in Staudinger BGB, Neubearbeitung 2014, § 826, Rn. 153; Palandt/Sprau, BGB, 77. Auflage, 2018, § 826, Rn. 15 m.w.N.). Die Beklagte muss die Klägerin so stellen, wie sie ohne die vorsätzliche sittenwidrige Schädigung durch die nicht gesetzeskonforme Motorsteuerungssoftware gestanden hätte. Die Klägerin ist daher so zu stellen, als wenn sie den schädigenden Vertrag nicht abgeschlossen hätte und hat folglich einen Anspruch auf Rückabwicklung des Kaufvertrages gegenüber der Beklagten. Der Kaufvertrag ist analog § 346 Abs.1 BGB rückabzuwickeln und der Klägerin ist der Kaufpreis zurückzuerstatten - gemindert um die von der Klägerin zu leistende Nutzungsentschädigung im Wege der Vorteilsausgleichung.4.2. Da die Nutzungen, die Fahrten mit dem PKW, nicht in Natur herausgegeben werden können, schuldet die Klägerin hierfür entsprechend § 346 Abs. 2 Nr. 1 BGB Wertersatz. Die Nutzungen berechnen sich wie folgt: Bruttokaufpreis mal gefahrene Kilometer geteilt durch voraussichtliche Restlaufleistung (vgl. Reinking/Eggert, Der Autokauf, 13. Aufl. 2017, Rn. 1166, Rn. 3564). Das Gericht schätzt die Gesamtlaufleistung in Übereinstimmung mit der höchstrichterlichen Rechtsprechung auf 250.000 km (§ 287 Abs. 1 ZPO analog). Die Laufleistung eines PKW ist von zahlreichen Faktoren abhängig, etwa Motorleistung, Nutzungsverhalten des Fahrers (kurze Fahrtstrecke oder lange Fahrtstrecke, Nutzungsverhalten kurz nach Start etc.) und dem Verbraucherverhalten bei Neuanschaffung von Fahrzeugen. Vorliegend ist davon auszugehen, dass Dieselfahrzeuge wie der im Streit befangene PKW durchschnittlich eine Laufleistung von 250.000 km haben.Danach ergibt sich unter Berücksichtigung der mit dem streitgegenständlichen Fahrzeug gefahrenen Kilometer bis zum Schluss der mündlichen Verhandlung von 108.399 Kilometern eine Nutzungsentschädigungen in Höhe von 18.840,27 Euro.4.3. Die Klägerin kann den Schadenersatz unter Anrechnung des Nutzungsersatzes nur Zug um Zug gegen Rückgabe des streitgegenständlichen Fahrzeugs verlangen. Denn ihr dürfen neben dem Schadensersatzanspruch nicht die Vorteile verbleiben, die ihr durch das schädigende Ereignis zugeflossen sind. Dem Prinzip der Vorteilsausgleichung wird in dem Fall, dass Ersatzanspruch und Vorteil nicht gleichartig sind, durch den tenorierten Zug-um-Zug-Vorbehalt Rechnung getragen (st. Rspr. des BGH, vgl. Urteil vom 23.06.2015 - XI 536/14, NJW 2015, 3160, Rn. 22 m. w. N.).II.Die Klägerin hat Anspruch auf gerichtliche Feststellung, dass sich die Beklagte mit der Rücknahme des streitgegenständlichen Fahrzeugs in Annahmeverzug befindet.Die Beklagte befindet sich mit der Annahme des Fahrzeugs in Verzug gemäß § 293 BGB. Die Klägerin hat der Beklagten mit Schreiben vom 06.02.2018 (Anlage K 10) die Rückgabe des Fahrzeugs angeboten. Ein wörtliches Angebot war gemäß §§ 295 S.1 BGB ausreichend, da die Beklagte angesichts des einheitlichen Erfüllungsortes wie bei einem Rückgewährschuldverhältnis als Gläubigerin das Fahrzeug bei der Klägerin als Schuldnerin gemäß § 269 Abs.1 BGB abzuholen hat. Das nach § 256 ZPO erforderliche Feststellungsinteresse der Klägerin besteht, weil die Feststellung der erleichterten Vollstreckung des geltend gemachten Leistungsanspruchs dient und hierzu erforderlich ist, § 756 ZPO.III.Die Klägerin hat gegen die Beklagte einen Anspruch auf Freistellung von vorgerichtlichen Anwaltskosten gemäß §§ 826, 249 BGB in Höhe von 571,44 EUR.Die außergerichtliche Beauftragung eines Rechtsanwalts durch den Kläger ist erforderlich und zweckmäßig gewesen, zumal es um die vorgerichtliche Durchsetzung von Ansprüchen gegenüber einem Weltkonzern ging.Vorgerichtliche Rechtsanwaltskosten können nur aus einem Gegenstandswert geltend gemacht werden, der vorgerichtlich berechtigt gewesen ist, vorliegend also aus 5.770,65 EUR.Angemessen ist eine 1,3 Geschäftsgebühr aus diesem Gegenstandswert. Eine Gebühr von mehr als 1,3 kann nach RVG VV 2300 nur verlangt werden, wenn die Tätigkeit umfangreich oder schwierig war. Abzustellen ist dabei auf den Zeitpunkt der vorgerichtlichen Tätigkeit. Auf den Umfang und die Schwierigkeit der Tätigkeit kann dabei nicht aus dem Umfang der Akte geschlossen werden, zumal es sich um ein Massenverfahren handelt. Zudem hat die Klägerin nicht hinreichend dargetan, dass ihre Prozessbevollmächtigten im vorliegenden Verfahren Tätigkeiten entfaltet haben, die über ein vorformuliertes einfaches Standardschreiben (hier: K 10) hinausgehen.Zusammen mit der Kommunikationspauschale von 20 EUR und der gesetzlichen Umsatzsteuer beläuft sich der Freistellungsanspruch somit auf 571,44 EUR.IV.Die Zinsentscheidung beruht auf §§ 286, 288 BGB. Die Beklagte befand sich - wie bereits ausgeführt - mit Ablauf der ihr mit Schreiben gem. Anlage K 10 gesetzten Frist in Verzug.Ein Anspruch aus §§ 849, 246 BGB besteht nicht. Nach § 849 BGB kann der Verletzte Zinsen des zu ersetzenden Betrags von dem Zeitpunkt an verlangen, welcher der Bestimmung des Wertes zugrunde gelegt wird, wenn wegen der Entziehung einer Sache der Wert oder wegen der Beschädigung einer Sache die Wertminderung zu ersetzen ist. Der Anspruch stellt somit eine pauschale Nutzungsentschädigung durch Verzinsung des Ersatzanspruchs dar. Dies gilt allerdings nur für die in § 849 BGB genannten Ersatzleistungen. Vorliegend begehrt die Klägerin Schadenersatz in Form der Rückabwicklung und macht somit keine Wertminderung geltend. Nach § 849 BGB zu verzinsen ist nur der für die endgültig verbleibende Einbuße an Substanz und Nutzbarkeit der Sache als Schadenersatz zu leistende Betrag, nicht auch ein anderer Betrag, der wegen der Entziehung oder Beschädigung der Sache geschuldet wird, wie Reparatur- oder Darlehenskosten (vgl. Palandt/Sprau, BGB, 77. Aufl. 2018, § 849 Rn. 1).V.Die Kostenentscheidung beruht auf § 92 Abs. 1 ZPO.Der Ausspruch zur vorläufigen Vollstreckbarkeit folgt aus § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2353587.html (https://oj.is/2353587)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen6
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

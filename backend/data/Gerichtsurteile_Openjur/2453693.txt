@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG AugsburgRechtsprechungEndurteil vom 12.04.2022 - 021 O 3107/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Augsburg, Endurteil vom 12.04.2022 - 021 O 3107/21
+                      m. Fundstelle
+                      LG Augsburg, Endurteil vom 12.04.2022 - 021 O 3107/21 = openJur 2022, 19479
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Augsburg, Endurteil vom 12.04.2022 - 021 O 3107/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 19479
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatzansprüche aufgrund behaupteter Abgasmanipulation.Am 31.07.2019 erwarb die Klagepartei von der ... in M. das Fahrzeug Audi Q 7 3.0 TDI quattro für brutto 45.900 € als Gebrauchtwagen mit einem km-Stand von 90.321 km.Am 26.03.2022 hatte das streitgegenständliche Fahrzeug einen Kilometerstand von 140.473 km.Die Beklagte bzw. die mit ihr verbundene V.  AG ist Herstellerin von Motoren und Fahrzeugen, insbesondere auch des in den sogenannten Dieselskandal verwickelten Dieselmotors Typ EA 189.Im streitgegenständlichen Fahrzeug ist ein Dieselmotor EA 897, bzw. 3.0 Liter Turbodieselmotor verbaut, der der Abgasnorm Euro 6 unterliegt. Die Beklagte ist Herstellerin des Motors sowie des streitgegenständlichen Fahrzeugs.Verschiedene Ausführungen von Motoraggregaten der Beklagten hat das Kraftfahrtbundesamt in den letzten Jahren technisch überprüft und - soweit sich hierbei eine Gesetzeswidrigkeit verbauter Komponenten ergab - durch die Herstellerin zurückrufen lassen.Bezüglich des streitgegenständlichen Fahrzeugs wurde eine Konfirmitätsabweichung betreffend eines technischen Fehlers beim Sensor zur Erkennung und Warnung vor einer Falschbetankung des AdBlue-Tanks festgestellt. Das von der Beklagten daraufhin entwickelte Software-Update wurde vom KBA geprüft und am 07.08.2019 freigegeben. Ein verbindlicher Rückruf wegen einer unzulässigen Abschalteinrichtung existiert bezüglich des streitgegenständlichen Fahrzeugs nicht.Die Beklagte hatte vor dem Erwerb des streitgegenständlichen Fahrzeugs ihre Vertragshändler und Servicepartner mittels einer internetbasierten Informationsplattform, das sog. "Audi Partner Portal" (APP) über die Beanstandungen am streitgegenständlichen Fahrzeugtyp informiert. Dieses Portal enthält alle wesentlichen Informationen für die Tätigkeit des Händlers und wird von diesem mehrmals wöchentlich eingesehen.Durch Nachricht vom 18.09.2018 unter Beifügung eines an die Kaufinteressenten gerichteten Aufklärungsschreibens (Anlagen B10 und B11) wurden Vertragshändler und Servicepartnern der A.  AG über das InfoNet von der Rückrufaktion unterrichtet. Hierbei wurden die Händler über die Konformitätsabweichung sowie darüber informiert, dass an Fahrzeugen des streitgegenständlichen Typs ein Software-Update notwendig ist.Die Klagepartei behauptet, dass das Fahrzeug über unzulässige Abschaltvorrichtungen in Form der schnellen Aufwärmfunktion und des Thermofensters sowie der Manipulation des On-Board-Diagnosegeräts (kurz "OBD") verfüge, wonach die gesetzlichen Abgaswerte nur auf dem Prüfstand eingehalten werden und das Fahrzeug deshalb überhaupt nicht genehmigungsfähig und verkehrsfähig sei.Nachdem das KBA im Zusammenhang mit den 3-Liter Modellen der Beklagten amtliche Rückrufe angeordnet hat und entsprechende Manipulationen der Motorsteuerung auch im gegenständlichen Fahrzeug vorhanden sein, hätte auch im vorliegenden Falle ein amtlicher Rückruf des KBA ergehen müssen. Die Klagepartei ist der Auffassung, dass entsprechend der Rechtsprechung des BGH in dessen Beschluss vom 25.11.2021, III ZR 202/20 auch im vorliegenden Fall angesichts der Schilderung der deutlichen Überschreitung der Grenzwerte im Realbetrieb von substantiiertem Klägervortrag im Hinblick auf vorhandene Abschalteinrichtungen auszugehen sei.Ein Software-Update - das, wie der Klägervertreter im Termin behaupte - gar nicht aufgespielt worden sei, könne den Schaden nicht beseitigen, weil der Zeitpunkt des Vertragsschlusses maßgeblich sei. Außerdem habe ein Software-Update andere Nachteile.Die Beklagte sei der Klagepartei deshalb nach Deliktsrecht (§§ 826, 831, 31 BGB; § 823, BGB i.V.m. § 263 StGB) zum Schadensersatz verpflichtet. Hätte die Klagepartei von den Manipulationen gewusst oder diese auch nur geahnt, hätte sie den Wagen nicht gekauft.Die Klagepartei beantragt zuletzt:1. Die Beklagte wird verurteilt, an die Klagepartei Euro 42.656,47 nebst Zinsen aus Euro 42.656,47 hieraus in Höhe von 5 % Punkten über dem jeweiligen Basiszinssatz seit 16.03.2021 zu bezahlen, Zug-um-Zug gegen die Übereignung und Herausgabe des PKW Typs Audi Q7, FIN: ....2. Die Beklagte wird verurteilt, an die Klagepartei Euro 2.992,93 Deliktszinsen zu bezahlen, Zug-um-Zug gegen die Übereignung und Herausgabe des PKW Typs Audi Q7, FIN: ....3. Es wird festgestellt, dass sich die Beklagte mit der Annahme des in Antrag genannten Fahrzeugs seit dem 17.03.2021 in Verzug befindet.4. Die Beklagte wird verurteilt, die Klagepartei von den Kosten der außergerichtlichen Rechtsverfolgung in Höhe von Euro 2.162,23 vorgerichtliche Rechtsanwaltskosten freizustellen.Die Beklagte beantragte,die Klage abzuweisen.Das streitgegenständliche Fahrzeug enthalte keine unzulässige Schalteinrichtung. Zum einen habe das KBA unter Hinweis auf Emissionstests an dem auch im streitgegenständlichen Fahrzeug verbauten Motor mehrfach bestätigt, dass der Rückruf für den streitgegenständlichen Fahrzeugtyp nicht aufgrund einer unzulässigen Abschalteinrichtung erfolgt sei. Zum anderen sei durch das KBA ferner bestätigt worden, dass das sogenannte Thermofenster keine unzulässige alt Abschalteinrichtung darstelle.Das Software-Update sei beim klägerischen Fahrzeug am 25.09.2019 aufgespielt worden.Die Beklagte meint, angesichts der vom A.  Konzern ergriffenen Maßnahmen sei nach den jüngsten Vorgaben des BGH im Urteil vom 30. Juli 2020, Az. VI ZR 5/20, im Zeitpunkt des Kaufs kein Raum für den Vorwurf des sittenwidrigen Verhaltens seitens der A.  AG. Eine Haftung der Beklagten scheide aufgrund der dargestellten Maßnahmen - unabhängig von einer tatsächlichen Kenntnis der Klagepartei - aus.Zur Ergänzung des Sach- und Streitstands wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen sowie das Protokoll der mündlichen Verhandlung vom 29.03.2022 Bezug genommen. 
+				Gründe
+				Die zulässige Klage erwies sich als unbegründet.A. ZulässigkeitI. ZuständigkeitDie örtliche Zuständigkeit des Landgerichts Augsburg ergibt sich aus § 32 ZPO, da die Klagepartei ihre Ansprüche unter anderem auf die deliktische Anspruchsgrundlage des § 823 Abs. 2 BGB iVm § 263 StGB stützt. Nachdem § 263 StGB den Schutz des Vermögens verfolgt und den Eintritt eines Vermögensschadens als Tatbestandsmerkmal verlangt, liegt Erfolgsort der vorgeworfenen Handlung am Wohnsitz der Klagepartei als Belegenheitsort ihres Vermögens (vgl. BGH, Urteil v. 28.02.1996, Az. XII ZR 181/94, NJW 1996, 1411).B. BegründetheitDie Klage erwies sich als unbegründet. Die Beklagte haftet nicht aus Delikt.I. Kein Anspruch aus § 826 BGBDie Voraussetzungen des § 826 BGB konnten nicht dargelegt werden.1. Prüfstandserkennung und -regelungDer Vortrag der Klagepartei, das streitgegenständliche Fahrzeug verfüge über eine Motorsteuerungssoftware, die den Ausstoß von Stickoxid unter den Bedingungen des Prüfstandbetriebs (NEFZ) derart "optimiert", dass nur unter den Bedingungen des Prüfstands die Abgasreinigung vollständig aktiviert sei, stellt eine reine Behauptung ins Blaue hinein dar.Soweit die Beklagte unter Hinweis auf eine amtliche Auskunft des KBA vom 31.03.2021 (Anlage B1) im Hinblick auf den streitgegenständlichen Fahrzeugtyp darauf verweist, dass der Rückruf des Kraftfahrtbundesamts nur eine Konformitätsabweichung im Hinblick auf einen technischen Fehler beim Sensor zur Erkennung und Warnung vor einer Falschbetankung des AdBlue-Tanks betreffe, und eine Prüfstandserkennungssoftware gerade nicht festgestellt worden sei, im Gegenteil das KBA ausdrücklich auf Emissionstests verweise, die das Vorliegen einer unzulässigen Abschalteinrichtung widerlegt hätten, tritt die Klägerseite dieser Feststellung nicht substantiiert entgegen.Der Vortrag, dass im vorliegenden Fall ebenfalls ein Rückruf hätte ergehen müssen, da die Abschalteinrichtung identisch sei zu den Fahrzeugen, bei denen ein Rückruf ergangen sei, stellt insoweit eine Behauptung ins Blaue dar, ebenso wie die Behauptung des Vorliegens einer Steuerungssoftware, welche eine Prüfstandmessung erkenne und die Abgasreinigung optimiere.Eine Behauptung ins Blaue liegt vor, wenn eine Partei ohne greifbare Anhaltspunkte für das Vorliegen eines bestimmten Sachverhalts willkürlich Behauptungen aufs Geratewohl oder ins Blaue hinein aufstellt (BGH NJW-RR 2015, 829).Dabei verkennt das Gericht die Entscheidung des VIII Senat des BGH vom 28.01.2020 nicht. Aber auf den Beschluss des BGH vom 28.01.2020 (VIII ZR 57/19, WM 2020, 476) kann sich der Kläger nicht stützen: Dort steht nämlich eine kaufvertragliche Verbindung der Parteien inmitten, sodass es nach der Symptomtheorie genügt, wenn der Kläger ein "Verhalten" der Kaufsache vorträgt, das auf einen Mangel im Sinne des § 434 BGB schließen lässt. Hier jedoch geht es um eine Schädigung des Klägers durch unerlaubte Handlung mit vom Kläger zu beweisendem Vertreten müssen, sodass in diesem konkreten Einzelfall allein der Vortrag eines (denkbaren) Mangels nicht ausreicht, um eine hinreichende Substantiierung ohne Annahme einer Behauptung ins Blaue hinein anzunehmen (so auch OLG München 17 U 7360/19 vom 31.03.2020). So führt auch das OLG Schleswig (Urteil vom 01.04.2020, 12 U 75/19) an, dass es in vorliegenden Streitfällen nicht um die Darstellung der genauen Funktionsweise des Abgasrückführungssystems zur Begründung von Mängelgewährleistungsansprüchen, sondern um Tatsachenbehauptungen, die Rückschlüsse auf das Vorhandensein des Vorsatzes bei einer deliktischen Haftung zulassen sollen. In dem hier vorliegenden Fall fehlt es - ebenso wie in dem Sachverhalt, welcher der Entscheidung des OLG Schleswig zugrunde lag - sowohl am konkreten Vortrag zum Vorsatz als auch an entsprechenden Beweisangeboten.Ergänzend nimmt das Gericht Bezug auf die Ausführungen des OLG München, NJW-RR 2019, 1497. Dass sich die Rechtsprechung insoweit - auch nicht beim BGH - nicht einheitlich darstellt (vertragliche oder deliktische Haftung), ergibt sich auch aus der Entscheidung des VI Zivilsenats des BGH, welcher für das Deliktsrecht zuständig ist, und in einem vergleichbaren Fall die Nichtzulassungsbeschwerde eines Klägers gegen die hiesige Beklagte zurückgewiesen hat (vgl. BGH VI ZR 514/19 vom 10.03.2020).Etwas anderes ergibt sich auch nicht aus der klägerseits zitierten Entscheidung des BGH, Beschluss vom 25.11.2021 - III ZR 202/20. Im Gegensatz zum dort entschiedenen Fall hat vorliegend die Klagepartei auch in der Gesamtbetrachtung keine zureichende Anhaltspunkte dafür vorgetragen hat, weshalb das streitgegenständliche Fahrzeug im Gegensatz zu den insoweit klar anderslautenden Auskünften des KBA vom 31.03.2021 (Anlage B1) bzw. vom 15.09.2021 (Anlage B2) über eine unzulässige Abschalteinrichtung in Gestalt einer Prüfstanderkennungssoftware verfügt.Vor diesem Hintergrund kam eine Beweiserhebung nicht in Betracht. Diese darf gerade nicht der bloßen Ausforschung dienen.2. ThermofensterEin Anspruch folgt auch nicht aus den Ausführungen zu dem verbauten Thermofenster.Nach inzwischen gefestigter Rechtsprechung des Bundesgerichtshofs reicht der Umstand, dass die Abgasrückführung im Fahrzeug der Klagepartei unstreitig durch eine temperaturabhängige Steuerung des Emissionskontrollsystems bei geringeren Außentemperaturen reduziert (und möglicherweise ganz abgeschaltet) wird, für sich genommen nicht aus, um dem Verhalten der für die Beklagte handelnden Personen ein sittenwidriges Gepräge zu geben. Dabei kann zugunsten des Klägers in tatsächlicher und rechtlicher Hinsicht unterstellt werden, dass eine derartige temperaturbeeinflusste Steuerung der Abgasrückführung als unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2 Satz 1 VO (EG) Nr. 715/2007 zu qualifizieren ist. Selbst wenn die Beklagte mit der Entwicklung und dem Einsatz dieser Steuerung eine Kostensenkung und die Erzielung von Gewinnen erstrebt hat, wäre der darin liegende Gesetzesverstoß für sich genommen nicht geeignet, den Einsatz dieser Steuerungssoftware durch die für die Beklagte handelnden Personen als besonders verwerflich erscheinen zu lassen. Hierfür bedarf es vielmehr weiterer Umstände. Bereits der objektive Tatbestand der Sittenwidrigkeit setzt voraus, dass diese Personen bei der Entwicklung und/oder Verwendung der temperaturabhängigen Steuerung des Emissionskontrollsystems in dem Bewusstsein handelten, eine unzulässige Abschalteinrichtung zu verwenden, und den darin liegenden Gesetzesverstoß billigend in Kauf nahmen (BGH Beschl. v. 25.11.2021 - III ZR 202/20, BeckRS 2021, 41003 Rn. 14, beck-online m.w.N.). Dafür fehlen vorliegend greifbare Anhaltspunkte.Der Umstand, dass das Kraftfahrt-Bundesamt bis dato aufgrund des Thermofensters keine Maßnahmen einleitet, zeigt, dass dieses offenbar bislang nicht von der Unzulässigkeit überzeugt ist. Wenn aber die zuständige Behörde sich auch in Kenntnis der aufkommenden Diskussion und nach Prüfung der Sach- und Rechtslage nicht zu Maßnahmen veranlasst sieht, kann den Verantwortlichen der Beklagten kein vorsätzlicher Gesetzesverstoß unterstellt werden (vgl. OLG München, Beschluss vom 16.03.2020 - 3 U 7524).Eine Auslegung, wonach ein Thermofenster eine zulässige Abschalteinrichtung darstellt, war aus Sicht der Beklagten daher jedenfalls nicht unvertretbar (vgl. auch OLG Stuttgart, Urteil vom 30.07.2019, Az. 10 U 134/19; OLG München, Hinweisbeschluss vom 20.07.2020, 27 U 7565/09; OLG München, Hinweisbeschluss vom 11.08.2020, 2 U 7448/19, je m.w.N.). Umstände, die dies in Frage stellen würden, wurden vom Kläger weder vorgetragen, noch sind diese sonst ersichtlich.Ein Handeln unter einer Auslegung des Gesetzes, das nicht von vornherein als unvertretbar angesehen werden musste, kann jedoch nicht - mit Rückwirkung auf das Baujahr des Fahrzeuges - als besonders verwerfliches Verhalten bewertet werden.Zu gleichen Ergebnis kommt zuletzt - auch in Bezug auf das Software-Update nebst vorgetragenem Thermofensters - das OLG München im Beschluss vom 29.09.2020 (8 U 201/20).3. NOx-EmissionsgrenzwerteDie nach den für den streitgegenständlichen Fahrzeugtyp maßgeblichen Anforderungen gemäß dem Rollprüfstandtest "Neuer Europäischer Fahrzyklus" NEFZ sind eingehalten. Soweit realen Verbrauchswerte davon abweichen, ist dies nach der damaligen Prüfmethode ohne nähere Bedeutung.4. OBDDas On Board Diagnosesystem überwacht nach dem unwidersprochenen Vortrag der Beklagten während des Fahrbetriebes alle abgasbeeinflussenden Systeme und häufig auch weitere wichtige Steuergeräte des Fahrzeuges. Soweit die Beklagte in vertretbarer Weise davon ausgehen durfte, dass eine temperaturabhängige Steuerung der Abgasrückführung im Interesse des Motor- und Bauteilschutzes zulässig ist und mithin bei bestimmten Betriebszuständen im realen Fahrbetrieb die für den Prüfstandsbetrieb geltenden Grenzwerte überschritten werden, liegt bereits eine anzeigepflichtige Fehlfunktion bei Überschreitung der Emissionsgrenzwerte im realen Fahrbetrieb nicht vor.5. Keine SittenwidrigkeitEtwas anderes ergibt sich auch nicht aus dem Rückruf des Kraftfahrzeugbundesamtes. Dieser Rückruf des Kraftfahrtbundesamtes betrifft nur den Sensor zur Erkennung und Warnung vor einer Falschbetankung des Adblue-Tanks.Durch das angebotene Software-Update wird vorliegende Fehlfunktion beseitigt. Während die Klageseite im Schriftsatz vom 31.01.2022, dort Seite 10 ausführt, dass das Software Update später aufgespielt worden sei, wurde im Termin entgegen des Vortrags der Beklagten, dies sei am 25.09.2019 erfolgt, behautet, der Kläger habe das Software-Update noch nicht aufspielen lassen. Letztlich kommt es hierauf nicht an.Selbst wenn man von Sittenwidrigkeit und Schädigungsvorsatz ausginge, hat sie diesen vor Kaufvertragsschluss aufgegeben und ihr Verhalten geändert."Fallen die erste potenziell schadensursächliche Handlung und der Eintritt des Schadens - wie im Streitfall - zeitlich auseinander, ist der Bewertung eines schädigenden Verhaltens als (nicht) sittenwidrig das gesamte Verhalten des Schädigers bis zum Eintritt des Schadens bei dem konkreten Geschädigten zugrunde zu legen. Denn im Falle der vorsätzlichen sittenwidrigen Schädigung gem. § 826 BGB wird das gesetzliche Schuldverhältnis erst mit Eintritt des Schadens bei dem konkreten Geschädigten begründet; der haftungsbegründende Tatbestand setzt die Zufügung eines Schadens zwingend voraus. Deshalb kann im Rahmen des § 826 BGB ein Verhalten, das sich gegenüber zunächst betroffenen (anderen) Geschädigten als sittenwidrig darstellte, aufgrund einer Verhaltensänderung des Schädigers vor Eintritt des Schadens bei dem konkreten Geschädigten diesem gegenüber als nicht sittenwidrig zu werten sein." BGH, Beschluss vom 9.3.2021 - VI ZR 889/20, NJW 2021, 1814 ff.Die Verhaltensänderung ergibt sich in diesem Fall aus den von der Beklagten vorgetragenen und von der Klagepartei nicht bestrittenen Maßnahmen der Beklagten, mit denen sie sicherzustellen suchte, dass auch Gebrauchtwagenkäufer wie die Klagepartei von der Rückrufmaßnahme des KBA erfahren und die ihr möglichen Maßnahmen ergriffen, um auch Gebrauchtwagenverkäufer ohne das vom KBA freigegebene Update zu verhindern.II. Kein Anspruch aus §§ 823 Abs. 2 BGB, 263 StGBAuch ein Anspruch aus §§ 823 Abs. 2 BGB i.V.m. 263 StGB kommt vorliegend nicht in Betracht. Hierfür wäre eine zurechenbare vorsätzliche Täuschung im Sinne eines Betruges erforderlich. Eine solche kann nach den obigen Ausführungen aber gerade nicht festgestellt werden.III. Kein Anspruch aus § 823 Abs. 1 i.V.m. RL 2007/46/EG, VO 715/2007, §§ 4, 6 und 25, 27 EG-FGV.Der Klagepartei steht auch kein Anspruch aus § 823 Abs. 2 BGB i.V.m. § 6 Abs. 1, § 27 Abs. 1 EG-FGV zu.Denn bei § 6 Abs. 1, § 27 Abs. 1 EG-FGV handelt es sich um kein Schutzgesetz im Sinne des § 823 Abs. 2 BGB (dazu OLG München, Beschluss vom 29.08.2019, Az. 8 U 1449/19). Schutzgesetze im Sinne des § 823 Abs. 2 BGB sind Normen, die zumindest auch dazu dienen sollen, den Einzelnen oder einzelne Personenkreise gegen die Verletzung eines bestimmten Rechtsguts zu schützen (vgl. Sprau in: Palandt, BGB, 76. Auflage 2017, § 823, Rn. 58). Nach Absatz 3 der Erwägungsgründe zu Richtlinie 2007/46/EG sollen die in diesem Zusammenhang zu erlassenden Rechtsakte aber vor allem auf eine hohe Verkehrssicherheit, hohen Gesundheits- und Umweltschutz, rationelle Energienutzung und wirksamen Schutz gegen unbefugte Benutzung abzielen, also gerade keine Schutzwirkung zugunsten des Einzelnen entfalten. Insbesondere sind gerade auch keine Sanktionen mit einem individuellen Schutzcharakter für ein Individuum vorgesehen.IV. NebenforderungenMangels Anspruchs in der Hauptsache besteht auch kein Anspruch auf Zinsen, Feststellung des Annahmeverzugs oder Erstattung der außergerichtlich angefallenen Rechtsverfolgungskosten.C. Kosten und vorläufige VollstreckbarkeitDie Kostenentscheidung beruht auf § 91 ZPO. Die Entscheidung zur vorläufigen Vollstreckbarkeit beruht auf § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2453693.html (https://oj.is/2453693)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

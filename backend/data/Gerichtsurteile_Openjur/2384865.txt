@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungBeschluss vom 03.05.2021 - 5 U 172/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Beschluss vom 03.05.2021 - 5 U 172/20
+                      m. Fundstelle
+                      OLG Köln, Beschluss vom 03.05.2021 - 5 U 172/20 = openJur 2022, 2048
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Beschluss vom 03.05.2021 - 5 U 172/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 2048
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 16 O 414/19
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das am 25. August 2020 verkündete Urteil der 16. Zivilkammer des Landgerichts Köln - 16 O 414/19 - wird zurückgewiesen.Die Kosten des Berufungsverfahrens werden dem Kläger auferlegt.Das angefochtene Urteil und dieser Beschluss sind ohne Sicherheitsleistung vorläufig vollstreckbar. Der Kläger kann die Zwangsvollstreckung durch Sicherheitsleistung oder Hinterlegung in Höhe von 110 % des vollstreckbaren Betrags abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 % des zu vollstreckenden Betrags leistet.  
+				Gründe
+				I.Der Kläger erwarb am 19.2.2018 einen am 9.9.2016 erstmals zugelassenen VW T6 Multivan Comfortline 2.0 TDI für 48.890 € von der A GmbH. In dem Fahrzeug ist der von der Beklagten entwickelte und hergestellte Motor EA 288 verbaut. Der Motor verfügt über ein Thermofenster. Durch die entsprechende Software des Motorsteuerungsgeräts wird die Abgasrückführung bei kälteren und besonders warmen Temperaturen verringert. Ferner ist das Fahrzeug mit einem SCR-Katalysator ausgestattet.Mit seiner Klage hat der Kläger von der Beklagten die Zahlung von 48.890 € Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs nebst Zinsen aus § 849 BGB und Verzugszinsen, die Feststellung von Annahmeverzug und die Erstattung vorgerichtlicher Anwaltskosten von 2.099,76 € begehrt. Der Kläger hat die Auffassung vertreten, dass ihm ein Schadensersatzanspruch wegen einer vorsätzlichen sittenwidrigen Schädigung gegen die Beklagte zustehe. Wegen des Vorbringens der Parteien in erster Instanz, insbesondere der vom Kläger erhobenen Täuschungsvorwürfe in Bezug auf das Thermofenster und die höhere Harnstoffdosierung im Prüfstand, sowie der gestellten Anträge wird auf den Tatbestand des landgerichtlichen Urteils Bezug genommen.Das Landgericht hat eine vorsätzliche sittenwidrige Schädigung verneint und die Klage abgewiesen. Wegen der Einzelheiten der Begründung wird auf die Entscheidungsgründe verwiesen.Hiergegen wendet sich der Kläger mit der Berufung. Das Landgericht habe den Vortrag auf S. 17 bis 24 des Schriftsatzes vom 23.6.2020 nicht gewürdigt. Der Motor weise eine Prüfstanderkennung und eine Manipulation des SCR-Katalysators auf. Sie führe zu einer höheren Harnstoffdosierung im Prüfstand als bei einem Betrieb auf der Straße. Ferner verfüge der Motor über ein Thermofenster. Ab einer Außentemperatur von unter 17° schalteten sich das Thermofenster und die Abgasrückführung ab. Nach eigenen Angaben der Beklagten erfolge eine signifikante Reduktion der Abgasreinigung bei 15° und darunter liegenden Temperaturen. Die Beklagte sei ihrer Verpflichtung aus Art. 3 Nr. 9 VO 692/08 EG nicht nachgekommen. Mittlerweile habe er insgesamt vier Rückrufschreiben der Beklagten und des Kraftfahrt-Bundesamtes erhalten, zuletzt unter dem 1.9.2020 durch die Behörde (Anlagen BK 1 bis 4, Bl. 1037 ff.). Erkenne die Software den Prüfstand, werde ein spezieller Betriebsmodus aktiviert, der die Abgasrückführungsquote über das AGR-Ventil erhöhe. Während sich im normalen Straßenbetrieb die Abgasrückführungsquote reduziere, wenn der SCR-Katalysator seine Betriebstemperatur erreicht habe, werde im Prüfstand auch nach Erreichen der SCR-Betriebstemperatur an der hohen AGR-Rate festgehalten.Der Kläger beantragt,1. die Beklagte zu verurteilen, an ihn 48.890,00 € nebst jährlichen Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 6.7.2019 Zugum-Zug gegen Übereignung und Übergabe des Fahrzeuges der Marke Volkswagen des Typs T6 Multivan Comfortline 2.0 l TDI, FIN: B, zu zahlen abzüglich einer Nutzungsentschädigung in Euro, die nach folgender Formel zu berechnen ist: Bruttokaufpreis mal gefahrene Kilometer geteilt durch Restlaufleistung im Erwerbszeitpunkt,2. festzustellen, dass sich die Beklagte mit der Rücknahme des vorbezeichneten Fahrzeugs in Verzug befindet,3. die Beklagte zu verurteilen, an ihn weitere 2.099,76 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.Die Beklagte beantragt,die Berufung zurückzuweisen.Sie verteidigt das angefochtene Urteil und vertieft ihren erstinstanzlichen Vortrag. Wegen des weiteren Vorbringens der Parteien wird auf die gewechselten Schriftsätze nebst Anlagen Verwiesen.II.Die Berufung des Klägers war gemäß § 522 Abs. 2 ZPO durch Beschluss zurückzuweisen.1. Die Berufung hat nach einstimmiger Überzeugung des Senats offensichtlich keine Aussicht auf Erfolg. Hierzu wird auf den Senatsbeschluss vom 29.3.2021 verwiesen, in dem der Senat folgendes ausgeführt hat:"Das Landgericht hat die Klage zu Recht abgewiesen. Dem Kläger, der am 19.2.2018 einen mit dem Motor EA 288 ausgestatteten, gebrauchten VW T6 Multivan Comfortline 2.0 TDI von der A GmbH erworben hat, steht gegen die Beklagte als Herstellerin des Motors und des Fahrzeugs weder aus § 826 BGB noch aus einem anderen Rechtsgrund ein Schadensersatzanspruch zu.Von einer vorsätzlichen sittenwidrigen Schädigung kann nicht ausgegangen werden. Eine bewusste Täuschung des Kraftfahrt-Bundesamtes, welches für die Erteilung der Typengenehmigung zuständig war, der Fahrzeugkäufer oder ein einer Täuschung gleich stehendes Verhalten, das den Vorwurf der Sittenwidrigkeit begründen würde, hat der Kläger nicht schlüssig dargelegt.a) Soweit zunächst die Beklagte wegen erhöhter Stickoxidemissionen während der Regeneration des Dieselpartikelfilters und sodann das Kraftfahrt-Bundesamt mit Bescheid vom 1.9.2020 (Anlage BK 4, Bl. 1043 d.A.) den Volkswagen T 6 des Klägers zurückgerufen haben, liegt dem, wie das Kraftfahrt-Bundesamt in der von der Beklagten vorgelegten amtlichen Auskunft vom 26.2.2020 bestätigt hat (Anlage B 4, Bl. 654 d.A.), eine Komformitätsabweichung zugrunde. Die Regeneration des Dieselpartikelfilters läuft bei den Fahrzeugen des betroffenen Fertigungszeitraums anders ab als im Typengenehmigungsverfahren. Für eine unzulässige Abschalteinrichtung im Sinne von Art. 3 Nr. 10, 5 Abs. 2 S. 1 der VO 715/2007 EG, bei der das Motorsteuerungsgerät bestimmte Parameter ermittelt, die Funktion des Emissionskontrollsystems verändert und dessen Wirksamkeit verringert, und eine Täuschung ist danach im vorliegenden Zusammenhang weder etwas dargetan noch ersichtlich.b) Die Verwendung eines Thermofensters, das im Prüfstand und im realen Fahrbetrieb gleichermaßen zur Anwendung kommt, begründet den Vorwurf sittenwidrigen Handelns im vorliegenden Fall nicht. Dabei kann dahinstehen, ob es sich bei einem Thermofenster und der entsprechenden Software des Motorsteuerungsgeräts unter Berücksichtigung des Urteils des EuGH vom 17.12.2020 - C 693/18 (juris) in rechtlicher und tatsächlicher Hinsicht um eine unzulässige Abschalteinrichtung handelt. Nach den Beschlüssen des Bundesgerichtshofs vom 19.1.2021 - VI ZR 433/19 (juris) und vom 9.3.2021 - VI ZR 889/20 ist das Verhalten der für einen Kraftfahrzeughersteller handelnden Personen nicht bereits deshalb als sittenwidrig zu qualifizieren, weil sie einen Fahrzeugtyp aufgrund einer grundlegenden unternehmerischen Entscheidung mit einer temperaturabhängigen Steuerung des Emissionskontrollsystems ausgestattet und in den Verkehr gebracht haben. Der objektive Tatbestand der Sittenwidrigkeit ist nur gegeben, wenn weitere Umstände hinzutreten, die das Verhalten der handelnden Personen als besonders verwerflich erscheinen lassen. Die Annahme objektiver Sittenwidrigkeit setzt jedenfalls voraus, dass die handelnden Personen bei der Entwicklung und/oder Verwendung der temperaturabhängigen Steuerung des Emissionskontrollsystems in dem Bewusstsein handelten, eine unzulässige Abschalteinrichtung zu verwenden, und den darin liegenden Gesetzesverstoß billigend in Kauf nahmen (aaO Rdn. 13 ff.).Hierfür ist weder seitens des Klägers schlüssig etwas dargetan worden noch ersichtlich. Ein Verstoß gegen Art. 3 Nr. 9 der Verordnung 692/2008 der Kommission vom 18.7.2008 wird nur pauschal behauptet. Die konkrete Ausgestaltung des Thermofensters, die zwischen den Parteien streitig ist, lässt ebenfalls nicht auf einen vorsätzlichen Gesetzesverstoß der für die Beklagte handelnden Personen schließen. Nach dem Vorbringen des Klägers soll die Reduzierung und Abschaltung der Abgasrückführung ab Außentemperaturen von 17° oder 15° einsetzen. Dass Gründe des Motorenschutzes in jedem Fall als Rechtfertigung für eine Verringerung der Abgasrückführung angenommen werden konnten, wird durch das Verhalten des Kraftfahrt-Bundesamtes nach Bekanntwerden des Dieselskandals belegt. Wie sich aus den von der Beklagten vorgelegten amtlichen Auskünften des Kraftfahrt-Bundesamtes vom 15.12.2020 und vom 13.11.2020 (Anlage BE 1 und BE 2, im Anlagenheft zur Berufungserwiderung) ergibt, hat es in Bezug auf den Motor EA 288 trotz umfassender Untersuchungen von mit diesem Motor ausgestatteten Fahrzeugen keinen Grund für eine Beanstandung gesehen. Nichts spricht daher dafür, dass die für die Beklagte handelnden Personen zu einem früheren Zeitpunkt in dem Bewusstsein tätig waren, bei dem Motor EA 288 und der Nutzung des Thermofensters eine unzulässige Abschalteinrichtung zu verwenden.c) Die Behauptung, dass der Motor eine Prüfstanderkennung und eine Manipulation des SCR-Katalysators aufweise, die zu einer höheren Harnstoffdosierung im Prüfstand als bei einem Betrieb auf der Straße führe, stellt sich nach dem Sach- und Streitstand des Verfahrens als unbeachtliches Vorbringen ins Blaue hinein dar. Die Beklagte behauptet eine identische Wirkungsweise des SCR-Katalysator im Prüfstand und im realen Fahrbetrieb. Eine Behauptung ist erst dann unbeachtlich, wenn sie ohne greifbare Anhaltspunkte für das Vorliegen eines bestimmten Sachverhalts willkürlich "aufs Geratewohl" oder "ins Blaue hinein" aufgestellt worden ist (BGH, Beschluss vom 28.1.2020 - VIII ZR 57/19 , juris Rdn. 8). Allgemein gilt aber, dass die Anforderungen an die Darlegungslast sich nach den Umständen des Einzelfalls richten und im Wechselspiel zur Tiefe des Vortrags der anderen Partei stehen (vgl. BGH, Urteil vom 25.6.2019 - VI ZR 12/17, juris Rdn. 11 m.w.Nachw.). Die von der Beklagten vorgelegten und konkret in Bezug genommenen amtlichen Auskünfte des Kraftfahrt-Bundesamtes und Veröffentlichungen des Bundesministeriums für Verkehr und digitale Infrastruktur erhöhen die Anforderungen an die Darlegungslast des Klägers. Aus den amtlichen Auskünften des Kraftfahrt-Bundesamtes vom 15.12.2020 und vom 13.11.2020 (Anlagen BE 1 und BE 2, im Anlagenheft zur Berufungserwiderung) geht hervor, dass die für die Erteilung der Typengenehmigung zuständige Behörde trotz umfassender Untersuchungen an Fahrzeugen, die mit dem Motor EA 288 ausgestattet sind, keine unzulässige Abschalteinrichtung festgestellt hat. Weiter weisen Fahrzeuge wie der Audi A6 2,0 l Euro 6 und der VW Passat 2,0 l Euro 6, in die ebenfalls der Motor EA 288 und ein SCR-Katalysator eingebaut sind, nach dem Bericht der Untersuchungskommission "Volkswagen" im Prüfstand und im NEFZ Straße Stickoxidemissionen unterhalb des maßgeblichen Grenzwerts auf. Beim VW Passat 2,0 l Euro 6 überschreiten sogar die Stickoxidemissionen der RDE-Fahrt den Grenzwert nicht. Mit der Behauptung des Klägers, dass die Harnstoffdosierung im Prüfstand höher sei als bei einem Betrieb außerhalb, ist dieser Sachverhalt nicht vereinbar. Läge die behauptete Manipulation vor, müsste sich dies in erheblichem Umfang nachteilig auf die Stickoxidemissionen auf der Straße auswirken. Nichts spricht daher für die Richtigkeit der Behauptung des Klägers, was deren Einordnung als Vortrag ins Blaue hinein rechtfertigt.d) Die in der Berufungsbegründung aufgestellte Behauptung, der Motor des Fahrzeugs habe eine Prüfstanderkennung, die im Prüfstand im Gegensatz zum Straßenbetrieb auch nach dem Erreichen der Betriebstemperatur des SCR-Katalysators eine hohe Abgasrückführung aufrechterhalte, ist nach § 531 Abs. 2 S. 1 Nr. 1 bis 3 ZPO schon nicht zuzulassen. Die Voraussetzungen, unter denen neue Angriffs- und Verteidigungsmittel ausnahmsweise zulässig sind, hat der Kläger nicht dargetan. Insbesondere hat er die Verspätung des Vorbringens nicht entschuldigt. Die Beklagte hat das Vorliegen einer unzulässigen Abschalteinrichtung auch in diesem Punkt bestritten. Sie hat behauptet, dass die ursprünglich vorhandene Fahrkurvenerkennung, die sich auf die Wirksamkeit des Abgasemissionskontrollsystems allerdings nicht ausgewirkt habe, am 20.5.2017 und damit vor dem am 19.2.2018 erfolgten Erwerb des Fahrzeugs durch den Kläger mittels eines Softwareupdates entfernt worden sei.Im Übrigen ist der Vortrag des Klägers auch in diesem Punkt nach dem Sach- und Streitstand des Verfahrens als unbeachtliches Vorbringen in Blaue hinein zu bewerten. Dies folgt aus den rechtlichen und tatsächlichen Ausführungen unter I 3. Es fehlt an greifbaren Anhaltspunkten für das Vorhandensein einer unzulässigen Abschalteinrichtung. Hätte die Aufrechterhaltung der hohen Abgasrückführung nach dem Erreichen der Betriebstemperatur des SCR-Katalysators im Prüfstand eine Auswirkung auf die Wirksamkeit des Emissionskontrollsystems, müssten sich die Stickoxidemissionen im Betrieb auf der Straße in erheblichem Umfang schlechter darstellen. Dies ist nach den Ergebnissen der umfangreichen Untersuchungen, die das Kraftfahrt-Bundesamt an Fahrzeugen mit dem Motor EA 288 durchgeführt hat, und nach dem dargestellten Inhalt des Berichts der Untersuchungskommission "Volkswagen" bei Fahrzeugen mit dem Motor EA 288 und einem SCR-Katalysator gerade nicht der Fall."2. Die Stellungnahme des Klägers vom 29.4.2021, die nur auf die Punkte II 1 b und d eingeht, rechtfertigt keine andere Beurteilung.a) Soweit es um das Thermofenster geht, hat der Kläger auch im Schriftsatz vom 29.4.2021 keine auf einen vorsätzlichen Verstoß der Beklagten gegen Art. 5 Abs. 2 S. 1 und 2 der VO 715/2007 EG hinweisenden Umstände und Indizien dargelegt. Der von ihm angeführte Rechtsgrundsatz, dass Ausnahmevorschriften insbesondere nach dem maßgeblichen Europarecht eng auszulegen seien, besagt nicht, dass die für die Beklagte handelnden Personen nicht annehmen durften, dass die Voraussetzungen der Ausnahme in rechtlicher und tatsächlicher Hinsicht vorlagen. Dafür, dass eine entsprechende Annahme der Handelnden vertretbar war, spricht das Verhalten des Kraftfahrt-Bundesamtes nach Bekanntwerden des Dieselskandals, das in Bezug auf den Motor EA 288 trotz umfassender Untersuchungen von mit diesem Motor ausgestatteten Fahrzeugen keinen Grund für eine Beanstandung gesehen hat. Dies schließt den Aspekt Thermofenster auch dann ein, wenn die Verringerung und Ausrampung der Abgasrückführung - wie der Kläger in seiner Stellungnahme geltend macht - bereits bei üblichen und nach den Wetterbedingungen in Deutschland häufig vorkommenden Temperaturen einsetzt.b) Es kann zugunsten des Klägers davon ausgegangen werden, dass die erstmals in der Berufungsbegründung aufgestellte Behauptung, der Motor des Fahrzeugs habe eine Prüfstanderkennung aufgewiesen, die im Prüfstand im Gegensatz zum Straßenbetrieb auch nach dem Erreichen der Betriebstemperatur des SCR-Katalysators eine hohe Abgasrückführung aufrechterhalte, nicht nach § 531 Abs. 2 S. 1 Nr. 1 bis 3 ZPO zurückzuweisen ist.Der Kläger bestreitet in seiner Stellungnahme nicht, dass die ursprünglich vorhandene Fahrkurvenerkennung am 20.5.2017 und damit vor dem am 19.2.2018 erfolgten Erwerb des Fahrzeugs durch ihn mittels eines Softwareupdates beseitigt worden ist, sondern geht selbst von einer Entfernung der Fahrkurve aus. Damit fehlte im vorliegenden Zusammenhang im Zeitpunkt des Schadenseintritts mit Erwerb des Fahrzeugs, auf den bei der Prüfung der Sittenwidrigkeit abzustellen ist (vgl. BGH, Urteil vom 30.7.2020 - VI ZR 5/20, juris Rdn. 30 ff.), jeder Ansatzpunkt für das Vorhandensein einer unzulässigen Abschalteinrichtung, für eine Täuschung und für eine vorsätzlich sittenwidrige Schädigung. Ist die Prüfstanderkennung entfernt worden, die im Prüfstand im Gegensatz zum Straßenbetrieb auch nach dem Erreichen der Betriebstemperatur des SCR-Katalysators eine hohe Abgasrückführung aufrechterhalten hat, fehlt es beim weiteren Betrieb des Fahrzeugs - vergleicht man Prüfstand und Straßenverkehr - an einer Veränderung der Funktion des Emissionskontrollsystems und damit auch an einer Verringerung seiner Wirksamkeit.Zudem ist der in der Stellungnahme erhobene Einwand des Klägers nicht nachvollziehbar, dass die Entfernung der Prüfstanderkennung eine Auswirkung auf die Stickoxidemissionen im Betrieb auf der Straße haben soll, die nach den auf die Untersuchungsergebnisse des Kraftfahrt-Bundesamtes gestützten Feststellungen des Senats im Beschluss vom 29.3.2021 bereits vor der Entfernung der Fahrkurvenerkennung gegen das Vorliegen einer unzulässigen Abschalteinrichtung stritten. Die Beseitigung einer Prüfstanderkennung kann nur zu Veränderungen des Emissionskontrollsystems im Prüfstand, nicht aber im Realbetrieb führen. Etwas anderes ist weder dargetan noch erkennbar.3. Die Rechtssache hat auch keine grundsätzliche Bedeutung. Die aufgeworfenen Fragen lassen sich anhand der Rechtsprechung des Bundesgerichtshofs beantworten. Weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen Rechtsprechung erfordern eine Entscheidung des Senats aufgrund mündlicher Verhandlung, die auch sonst nicht geboten ist.Die prozessualen Nebenentscheidungen folgen aus §§ 97 Abs. 1, 708 Nr. 10, 711 ZPO.Berufungsstreitwert: 48.890 €
+			
+			
+			
+			Permalink: https://openjur.de/u/2384865.html (https://oj.is/2384865)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

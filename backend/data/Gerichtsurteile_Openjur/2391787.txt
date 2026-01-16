@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG MünsterRechtsprechungUrteil vom 14.01.2021 - 14 O 440/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Münster, Urteil vom 14.01.2021 - 14 O 440/19
+                      m. Fundstelle
+                      LG Münster, Urteil vom 14.01.2021 - 14 O 440/19 = openJur 2022, 6345
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Münster, Urteil vom 14.01.2021 - 14 O 440/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 6345
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung i. H.v. 120 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar.Der Streitwert wird auf bis 40.000 € festgesetzt. 
+				Tatbestand
+				Der Kläger nimmt die Beklagte im Wege der Feststellungsklage auf Schadensersatz im Zusammenhang mit dem Erwerb eines vom sogenannten "Abgasskandal" betroffenen Fahrzeugs in Anspruch.Am 12.09.2014 erwarb der Kläger einen gebrauchten Audi A4 zum Preis von 35.440 € und einer Gesamtfahrleistung von 11.303 km.Das Fahrzeug ist mit einem von der VW AG hergestellten Dieselmotor mit der Bezeichnung EA 189 ausgestattet und in die Schadstoffklasse EU 5 eingeordnet. Unstreitig war in der Motorsteuerung eine Software installiert, die erkennt, ob sich das jeweilige Fahrzeug auf dem Rollenprüfstand oder auf der Straße im realen Fahrbetrieb befindet. Die Software steuerte das Abgasverhalten des Fahrzeugs auf dem Rollenprüfstand im Modus 1in der Weise, dass eine erhöhte Abgasrückführungsrate aktiviert wurde, wodurch die gesetzlichen Grenzwerte der einschlägigen Euro Norm, insbesondere die NOx- Werte eingehalten werden. Im realen Straßenverkehr wurde der Modus 0 aktiviert, der zu einer wesentlich geringeren Abgasrückführungsrate führt, die die Grenzwerte der einschlägigen EU Verordnung mit hoher Wahrscheinlichkeit überschreitet. Nach Bekanntwerden des sogenannten Abgasskandals hat das Kraftfahrtbundesamt am 15.10.2015 einen Rückrufbescheid bezüglich des streitgegenständlichen Fahrzeugs erlassen. Das im Zuge der Rückrufaktion zwischen der VW AG und dem Kraftfahrtbundesamt entwickelte Software Update wurde am Fahrzeug des Klägers bisher nicht aufgespielt.In dem Rechtsstreit des Klägers gegen die Volkswagen AG wurde in dem bisher nicht rechtskräftigen Urteil vom 13.05.2020 festgestellt, dass die dortige Beklagte verpflichtet ist, dem Kläger Schadensersatz zu leisten für Schäden, die aus der Installation der Software resultieren.Vorliegend nimmt der Kläger die beklagte Bundesrepublik Deutschland auf Schadensersatz auf der Basis des unionsrechtlichen Staatshaftungsrechts in Anspruch. Der Kläger ist der Ansicht, die Beklagte habe Art. 46 der Richtlinie nicht ausreichend umgesetzt und kein ausreichendes Sanktionensystem erlassen. Zudem habe das Kraftfahrtbundesamt eine fehlerhafte Typengenehmigung erlassen, da es seiner Überwachungspflicht nicht ausreichend nachgekommen sei. Hierzu macht der Kläger umfangreiche Ausführungen. Das Verhalten der Beklagten sei unmittelbar kausal für den bei ihm eingetretenen Schaden. Dieser gliedrige sich in einen bezifferbaren und ein unbezifferterbaren Teil. Bezifferbar sei der Minderwert des Fahrzeugs, den er durch die verbaute unzulässige Abschalteinrichtung erlitten habe. Als künftigen Schaden führt er die Neufestsetzung der Kraftfahrzeugsteuer an, deren Schadensentwicklung noch nicht abgeschlossen sei. Gemäß § 12 Abs. 2 Nr. 4 S. 1 KraftStG sei zur Beseitigung eines Fehlers die Kraftfahrzeugsteuer neu festzusetzen, wenn eine Steuerfestsetzung fehlerhaft sei.Der Kläger beantragt,1.festzustellen, dass die Beklagtenpartei verpflichtet ist, der Klagepartei bezüglich des Fahrzeugs Audi A4 Avant 2,0 TDI mit FIN WAUZZZ8K8EA... die Schäden zu ersetzen die ihr daraus entstehen,a. dass es die Beklagtenpartei unterlassen hat, aufgrund Art. 46 der Richtlinie 2007/46/EG wirksame, verhältnismäßige und abschreckende Sanktionen zu erlassen und dass die Beklagtenpartei leichtfertig die Erteilung der Typengenehmigung vom 12.12.2013 mit der EG-Typengenehmigungsnummer e1*2001/116*0430*30 zugelassen und das entsprechende Verfahren unzureichend überwacht hat.b. hilfsweise: dass die Beklagtenpartei es unterlassen hat, das Typengenehmigungsverfahreb mit der EG-Typengenehmigungsnummer e1*2001/116*0430*30 ausreichend zu überwachen.c. hilfsweise: dass die Beklagtenpartei entgegen Art. 46 der RL 46/2007 für Verstöße gegen diese Richtlinie keine wirksamen, verhältnismäßigen und abschreckenden Sanktion vorsieht.d. hilfsweise: dass die Beklagtenpartei die Typengenehmigung vom 12.12.2013 mit EG-Typengenehmigungsnummer e1*2001/116*0430*30 erteilt hat.2.hilfsweise: festzustellen, dass die Beklagtenpartei verpflichtet ist, der Klagepartei Schadensersatz zu bezahlen für die Schäden, die aus der Manipulation des Fahrzeugs Audi A4 Avant 2,0 TDI mit FIN WAUZZZ8K8EA... entstehen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte vertritt die Auffassung, die Feststellungsklage sei wegen Vorrangs der Leistungsklage bereits unzulässig. Des Weiteren habe sie Art. 46 der Richtlinie 2007/46/EG ausreichend und fristgemäß umgesetzt und ein qualifizierter Verstoß läge nicht vor. Zudem sei das Kraftfahrtbundesamt im Rahmen des Typengenehmigungsverfahrens der Prüfungsüberwachungspflicht nachgekommen. Die Beklagte macht insgesamt ebenfalls umfangreiche Ausführungen hierzu.Wegen der weiteren Einzelheiten des beiderseitigen Parteivorbringens wird auf die gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die Klage ist unzulässig.Die Haupt und Hilfsanträge sind unzulässig, denn dem Kläger fehlt das für eine Feststellungsklage nach § 256 Abs. 1 ZPO erforderliche Feststellungsinteresse.Gemäß § 256 Abs. 1 ZPO kann eine Klage auf Feststellung des Bestehens eines Rechtsverhältnisses erhoben werden, wenn der Kläger ein rechtliches Interesse an alsbaldiger Feststellung des Rechtsverhältnisses hat. Dieses Feststellungsinteresse ist jedoch dann nicht gegeben, soweit dem Kläger ein einfacherer oder zumindest gleich effektiver Weg zur Erreichung seines Rechtsschutzziels zur Verfügung steht (OLG Karlsruhe Urteil vom 21.01.2020 - 17 U 2/19 Rz. 96 beckonline). Dies ist insbesondere dann der Fall, wenn die Erhebung einer Leistungsklage möglich und zulässig ist, wodurch der Streitstoff in einem Prozess einer endgültigen Klärung zugeführt werden kann (Zöller/Greger, ZPO, 33. Aufl. § 256 Rn. 7a).Vorliegend sind die Ansprüche des Klägers bezifferbar, sodass die Feststellungsanträge in Haupt- und Hilfsanträgen bereits wegen des Vorrangs der Leistungsklage unzulässig sind. Dem Kläger ist eine auf Zahlung von Schadensersatz gerichtete Leistungsklage zumutbar und möglich.Soweit der Kläger behauptet, die Schadensentwicklung sei aufgrund der unvorhersehbaren Folgen der Nachrüstung durch das Softwareupdate nicht abgeschlossen, kann dem nicht gefolgt werden. Grundsätzlich kann der Geschädigte im Rahmen eines Staatshaftungsanspruchs nach unionsrechtlichen Vorgaben gemäß § 249 Abs. 1 BGB das negative Interesse ersetzt verlangen. Der Schaden kann darin gesehen werden, dass der Kläger durch ein haftungsbegründendes Verhalten der Beklagten zum Abschluss eines für ihn ungünstigen Vertrages gebracht worden ist, den er ansonsten nicht abgeschlossen hätte. Um den Kläger so zu stellen, als sei der nachteilige Kaufvertrag nie geschlossen worden, kann er zwischen der Rückabwicklung des Vertrags und dem Ersatz der durch die unerlaubte Handlung entstandenen Nachteile wählen. Die Schadensentwicklung ist abgeschlossen. Im Rahmen der Rückabwicklung des Kaufvertrages (abzüglich einer Nutzungsentschädigung) kommt es gerade nicht darauf an, ob noch weitere zukünftige Schäden durch das Software Update (z.B. erhöhter Kraftstoffverbrauch, verkürzte Lebensdauer des Motors) zu befürchten sind. Solche scheiden bei der Rückabwicklung des Kaufvertrages von vornherein aus. Auch ein merkantiler Minderwert ließe sich heute schon abschließend beziffern. Der Ersatz eines angeblichen Minderwerts nach der Differenzhypothese kommt nur dann in Betracht, wenn der Kläger substantiiert nachweist, dass er ohne die unerlaubte Handlung der Beklagten einen anderen günstigeren Vertrag abgeschlossen hätte. Der Kläger kann sich daher ohne weiteres für eine Form der Schadensberechnung entscheiden und seinen konkreten Anspruch im Rahmen einer Leistungsklage geltend (vgl. u.a. LG Stuttgart Urteil vom 27.08.2020 - 7 O 67/20 Rz. 23-25 m.w.N.; BeckRS 2020, 27409).Soweit der Kläger darüber hinaus einen Schaden darin sieht, dass ihm möglicherweise noch unbezifferbare Steuernachforderungen durch die Neufestsetzung der Kfz-Steuer als Folge des Abgasskandal drohen, ist dies nicht ausreichend, um das erforderliche Feststellungsinteresse zu begründen. Die zuständigen Steuerbehörden haben eine solche Vorgehensweise in den vom "Abgasskandal "betroffenen Fahrzeugen bislang nicht im Ansatz ernsthaft in Erwägung gezogen. Bisher ist kein Fall bekannt geworden, in dem ein Halter tatsächlich nachbesteuert wurde. Allein die theoretische Möglichkeit eines drohenden Steuerschadens kann das für § 256 Abs. 1 erforderliche Feststellungsinteresse nicht begründen (so unter anderem LG Stuttgart, a.a.O Rz. 26; LG Freiburg Urteil vom 10.07.2019 - 2 O 24/18, LG Osnabrück, Urteil vom 29.11.2019 - 5 O 2157/19 Anl. WP1 und 2)Da bereits das Feststellungsinteresse fehlt, erübrigen sich Ausführungen dazu, dass zudem der Folgeprozess nicht vermieden würde.Die Kostenentscheidung beruht auf § 91 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf § 709 ZPO.Rechtsbehelfsbelehrung:Hinweis zum elektronischen Rechtsverkehr:Die Einlegung ist auch durch Übertragung eines elektronischen Dokuments an die elektronische Poststelle des Gerichts möglich. Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet und mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg gemäß § 130a ZPO nach näherer Maßgabe der Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach (BGBl. 2017 I, S. 3803) eingereicht werden. Weitere Informationen erhalten Sie auf der Internetseite www.justiz.de.
+			
+			
+			
+			Permalink: https://openjur.de/u/2391787.html (https://oj.is/2391787)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

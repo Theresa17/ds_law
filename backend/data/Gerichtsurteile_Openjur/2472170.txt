@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG DüsseldorfRechtsprechungUrteil vom 22.02.2022 - 16 O 248/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Düsseldorf, Urteil vom 22.02.2022 - 16 O 248/20
+                      m. Fundstelle
+                      LG Düsseldorf, Urteil vom 22.02.2022 - 16 O 248/20 = openJur 2023, 7198
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Düsseldorf, Urteil vom 22.02.2022 - 16 O 248/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2023, 7198
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte wird verurteilt, an den Kläger 6.399,03 € nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 05.10.2020 zu zahlen.Die Beklagte wird verurteilt, den Kläger von den durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 650,34 € freizustellen.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits trägt die Beklagte.Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags. 
+				Tatbestand
+				Der Kläger erwarb am 05.07.2017 das Fahrzeug Audi A5 Sportback 2.0 TDI mit der Fahrzeugidentifizierungsnummer N01 zu einem Kaufpreis von 31.995,15 €, den der Kläger mittels eines Darlehens finanzierte. Das Fahrzeug wurde zunächst sicherungsübereignet. Die Schlussrate des Darlehens war am 07.08.2020 fällig; hiernach wurde der Kläger Eigentümer des Fahrzeugs. Auf die Anlage K1a (Anlagenband Kläger) wird Bezug genommen. Bei Übergabe des Fahrzeugs an den Kläger betrug die Laufleistung 58.000 Kilometer. Das Fahrzeug ist mit einem Motor mit der Bezeichnung EA 288 ausgestattet, dessen Herstellerin die Beklagte ist. Im Fahrzeug ist ein SCR-Katalysator (sog. Ad-Blue-Technologie) verbaut sowie eine Software, welche anhand diverser Parameter erkennt, ob sich das Fahrzeug auf dem Prüfstand zum Durchfahren des Neuen europäischen Fahrzyklus (NEFZ) befindet. Diese Fahrkurvenerkennung ist nach wie vor im Fahrzeug verbaut.Erkennt die verbaute Fahrkurvenerkennung einen Testzyklus, wird die Abgasrückführung in einer anderen Weise geregelt als im normalen Straßenverkehr. Die Fahrkurvenerkennung bewirkt im Wesentlichen, dass bei Durchfahren des NEFZ nach Erreichen der für die optimale Funktionsfähigkeit des SCR erforderlichen Betriebstemperatur von ca. 200 Grad ein bis dahin bestehende hohe Abgasrückführungsrate (AGR-Rate) weiter parallel bestehen bleibt, wohingegen im normalen Straßenverkehr die AGR-Rate bei Erreichen der Betriebstemperatur von ca. 200 Grad reduziert wird. Dies führt in den Fällen, in denen die Betriebstemperatur von 200 Grad des SCR-Katalysators während des Durchfahrens des NEFZ nicht erreicht wird, zu keiner unterschiedlichen Abgasbehandlung bei den Emissionen im Vergleich zur Fahrt im normalen Straßenverkehr. In Fällen, in denen die Betriebstemperatur während des Durchfahrens des NEFZ jedoch erreicht wird, führt die parallel bestehende hohe AGR-Rate zu geringeren Emissionen. Ob diese sich im Ergebnis auf die Einhaltung der Grenzwerte auswirken, ist zwischen den Parteien streitig.Bei Bekanntwerden des sog. Diesel-Abgasskandals spätestens mit der adhoc Mitteilung aus September 2015 wurde das die adhoc-Mitteilung auslösende Aggregat EA 189 bereits nicht mehr hergestellt; zu diesem Zeitpunkt wurde im Rahmen der Produktion bereits der hier streitgegenständliche Motor EA 288 verbaut.Am 02.10.2015 stellte die Beklagte in den Räumlichkeiten des KBA eine Präsentation den streitgegenständlichen Motor betreffend vor. Hierbei wurde gegenüber dem KBA offengelegt, dass die Fahrzeuge, in denen die Motoren mit der Bezeichnung EA 288 verbaut sind, über eine Fahrkurvenerkennung verfügen.In einem internen Dokument vom 18.11.2015 aus der Abteilung der technischen Entwicklung der Beklagten, welches als "Entscheidungsvorlage: Appllikationsrichtlinien und & Freigabevorgaben EA 288" bezeichnet wurde, heißt es: "SCR: Bedatung, Aktivierung und Nutzung der Erkennung des NEFZ, um die Umschaltung der Rohemissionsbedatung (AGR High / Low) streckengesteuert auszulösen". In diesem Dokument wurde außerdem die Absicht der Beklagten aufgeführt, bei allen EA 288 Fahrzeugen ab der 22. KW 2016 die Fahrkurvenerkennung nicht mehr zu verwenden. Diese Applikationsrichtlinie wurde dem KBA Ende des Jahres 2015 übersandt.Der Vorstand der Beklagten sowie zahlreiche Mitarbeiter wussten von dem Einbau der Zykluserkennung und deren Wirkungsweise.Im Jahr 2016 überprüfte das KBA eine Vielzahl von Fahrzeugen der Beklagten mit dem Motor EA 288. Im Untersuchungsbericht aus April 2016 heißt es hierzu: "Hinweise, die aktuell laufende Produktion der Fahrzeuge mit Motoren der Baureihe EA 288 (Euro 6) seien ebenfalls von Abgasmanipulationen betroffen, haben sich hierbei auf der Grundlage der Überprüfungen als unbegründet erwiesen." In einer Twitter-Mitteilung vom 12.09.2019 des Bundesministeriums für Verkehr und Infrastruktur lautet es: "Das #KBA hat bereits 2016 eigene Messungen, Untersuchungen & Analysen durchgeführt. Unzulässige #Abschalteinrichtungen konnten dabei NICHT festgestellt werden." Diese Mitteilung wurde in der Folge wie folgt ergänzt: "und zwar auch nicht in Gestalt einer unzulässigen Zykluserkennung."Die VW Financial Services AG, die 1,2 Mio. Leasingfahrzeuge im Bestand hat, verdreifachte ihre Risikorückstellungen nach Bekanntwerden des Diesel-Abgasskandals. Auf den Artikel der "Wirtschaftswoche" vom 26.07.2016 (Anlage K29) wird Bezug genommen.Mit Schreiben vom 24.07.2020 forderten die Prozessbevollmächtigten des Klägers die Beklagte zur Zahlung von Schadensersatz in Form von "Rückabwicklung" des Vertrags auf. Auf die Anlage K30 wird Bezug genommen.Der Kläger behauptet, die Prüfstanderkennung und die damit verbundene Änderung der Abgasrückführung diene dazu, die vorgeschriebenen Grenzwerte einzuhalten. Ohne Einsatz der Software würden die Grenzwerte im Prüfstand nicht eingehalten. Erkenne die Software den Prüfstand, so werde zudem ausreichend AdBlue eingespritzt; im normalen Straßenverkehr werde hingegen weniger AdBlue eingespritzt zur Vermeidung des Verbrauchs größerer Mengen von AdBlue.Die Entwicklung der Fahrkurvenerkennung sei allein zur Verschaffung eines Wettbewerbs- und Kostenvorteils erfolgt, damit bei ausreichend hoher Marge die Fahrzeuge der Beklagten auch mit Blick auf Wartungsintervalle und Häufigkeit des Nachfüllens von AdBlue interessant blieben.Der merkantile Minderwert des Fahrzeugs belaufe sich auf 20% des Kaufpreises des Fahrzeugs.Der Kläger beantragt,1. die Beklagte zu verurteilen, an den Kläger Schadensersatz in Höhe von 6.399,03 € nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen,2. die Beklagte zu verurteilen, die Klägerschaft von vorgerichtlichen Rechtsverfolgungskosten in Höhe von 2.591,23 € freizustellen,3. hilfsweise zu Ziff. 1festzustellen, dass die Beklagte verpflichtet ist, dem Kläger Schadensersatz zu bezahlen für Schäden, die aus der Manipulation des Fahrzeugs der Marke Audi vom Typ A5 Sportback 2.0 TDI mit der Fahrzeugidentifikationsnummer (FIN) N01 durch die Beklagte resultieren.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte ist der Ansicht, eine unzulässige Abschalteinrichtung liege schon deshalb nicht vor, weil das KBA eine solche - was unstreitig ist - nach umfassenden Untersuchungen nicht annahm. Eine solche setze voraus, dass die Wirksamkeit des Emissionskontrollsystems in grenzwertkausaler Weise verringert werde, allein das Vorliegen einer Fahrkurvenerkennung sei hierzu nicht ausreichend. Das Risiko einer Betriebsuntersagung belaufe sich auf Null, nachdem das KBA die eigenen Untersuchungen des streitgegenständlichen Aggregats abgeschlossen habe.Die Beklagte behauptet hierzu, die unstreitige Einwirkung auf die Abgasrückführung durch die Software sei nicht grenzwertkausal; die vorgeschriebenen Grenzwerte würden auch ohne die Zykluserkennung und deren Einwirkung auf die Abgasrückführung eingehalten. In Fahrzeugkonzepten, in welchen die Betriebstemperatur von 200 Grad erreicht werde seien die Einwirkungen nicht relevant für das Einhalten des gesetzlich vorgeschriebenen Emissionsgrenzwerts. Dies zeige beispielhaft die Untersuchung eines VW Golf Sportsvan mit dem Motor EA 288 (NSK), der unter sechs den NEFZ abwandelnden Testverfahren in jeder Variante die gesetzlichen Grenzwerte eingehalten habe sowie der Test eines Audi A6 2.0 l mit dem Motor EA 288 (SCR). Auf die Grafiken auf Seite 22 und 26 des Schriftsatzes der Beklagten vom 29.11.2021 nebst zugehörigem Vortrag (Bl. 256 bzw. 260 GA) wird Bezug genommen..Die Klage ist der Beklagten am 05.10.2020 zugestellt worden. Die Kammer hat der Beklagten in der mündlichen Verhandlung einen Hinweis erteilt, wegen dessen Inhalts auf das Sitzungsprotokoll vom 07.12.2021 Bezug genommen wird. 
+				Gründe
+				Die zulässige Klage ist überwiegend begründet.I.Dem Kläger steht gegen die Beklagte ein Anspruch auf Zahlung i.H.v. 6.399,03 € gemäß § 826 BGB zu.1.Gemäß § 826 BGB hat, wer einem anderen in einer gegen die guten Sitten verstoßenden Art und Weise vorsätzlich Schaden zufügt, diesem den Schaden zu ersetzen.Die Beklagte hat dem Kläger in sittenwidriger Art und Weise vorsätzlich einen Schaden zugefügt, da sie die Typengenehmigung für das streitgegenständliche Fahrzeug durch arglistige Täuschung des KBA erschlichen hat und das Fahrzeug sodann in den Verkehr gebracht hat.Es steht wertungsmäßig einer unmittelbaren arglistigen Täuschung der Fahrzeugkäufer gleich, wenn ein Fahrzeughersteller im Rahmen einer von ihm bei der Motorenentwicklung getroffenen strategischen Entscheidung, die Typgenehmigungen der Fahrzeuge durch arglistige Täuschung des Kraftfahrt-Bundesamts zu erschleichen und die derart bemakelten Fahrzeuge alsdann in Verkehr zu bringen, die Arglosigkeit und das Vertrauen der Fahrzeugkäufer gezielt ausnutzt (BGH NJW 2020, 1962, beckonline).Die Beklagte hat die Typengenehmigung durch arglistige Täuschung des KBA erschlichen. Das Fahrzeug verfügt über eine Fahrkurvenerkennung, die bewirkt, dass die Abgasreinigung des Fahrzeugs im Prüfstand anders als im regulären Straßenverkehr erfolgt. Zwischen den Parteien ist unstreitig, dass das KBA von der Fahrkurvenerkennung in den Motoren mit der Bezeichnung EA 288 erst im Oktober 2015 Kenntnis erlangt hat; zu diesem Zeitpunkt lief bereits die Produktion der Fahrzeuge mit EA 288 - Motoren, mithin war das Typengenehmigungsverfahren bereits abgeschlossen. Der Verbau einer Fahrkurvenerkennung, die unstreitig nur im Prüfstand unter bestimmten Voraussetzungen das Emissionsverhalten des Fahrzeugs verbessert, stellt eine arglistige Täuschung des KBA dar, mittels derer die Beklagten die Typengenehmigung erschlichen hat. Denn die Beklagte hat im Rahmen des Typengenehmigungsverfahrens vorgespiegelt, das Fahrzeug werde im Prüfstand unter denselben Motorbedingungen betrieben wie außerhalb des Prüfstands.Dies ist, was zwischen den Parteien unstreitig ist, nicht der Fall. Denn die Fahrkurvenerkennung bewirkt unstreitig, dass bei Erreichen einer Betriebstemperatur von 200 Grad allein im Prüfstand dennoch die AGR-Rate hoch gehalten wird, während diese im Normalbetrieb bei Erreichen der Betriebstemperatur gesenkt wird. Die fehlende Absenkung der AGR-Rate bei gleichzeitig vollem Einsatz des SCR-Katalysators im Prüfstand bewirkt eine Verbesserung des Emissionsverhaltens des streitgegenständlichen Fahrzeugs.Bei dieser Einwirkung im Prüfstandsbetrieb handelt es sich um eine unzulässige Abschalteinrichtung i.S.d. Art. 5 Abs. 2 VO (EU) 715/2007. Dabei kann letztlich dahinstehen, ob eine unzulässige Abschalteinrichtung nur dann vorliegt, wenn diese das Emissionskontrollsystem in grenzwertkausaler Weise beeinflusst. Denn der Vortrag des Klägers, dass der Eingriff in das Emissionskontrollsystem zum Zwecke der Einhaltung der Grenzwerte im Prüfstand erfolgt ist, gilt gemäß § 138 Abs. 1, 2 ZPO als zugestanden. Die Beklagte hat sich entgegen § 138 Abs. 1 ZPO nicht vollständig erklärt. Denn sie hat sich trotz Hinweises der Kammer nicht dazu erklärt, aus welchem Grund überhaupt eine Fahrkurvenerkennung in die Software implementiert wurde, zumal diese darüber hinaus unstreitig in das Emissionskontrollsystem eingreift, wenn nicht um im Prüfstand Vorteile hieraus zu ziehen. Wird in einem Fahrzeug eine Fahrkurvenerkennung implementiert, welche dazu führt, dass das Emissionskontrollsystem im Prüfstand in anderer Weise arbeitet als im normalen Straßenverkehr, so begründet dies ein hinreichendes Indiz dafür, dass die Software der Einhaltung der Grenzwerte auf dem Prüfstand dienen sollte. Möchte die Beklagte dies bestreiten, so muss sie detailliert dazu vortragen, welchen Sinn die Implementierung einer solchen Funktion ansonsten hatte. Eine solche Erklärung hat die Beklagte jedoch auch nach Hinweis der Kammer im nachgelassenen Schriftsatz nicht geliefert, weshalb dieser auch keinen Anlass zur Wiedereröffnung der mündlichen Verhandlung bot.Nichts anderes ergibt sich mit Blick auf die durch das KBA durchgeführten Untersuchungen. Das Bestreiten der Beklagten ist auch nicht insoweit hinreichend, als sie sich auf die Vielzahl an Untersuchungen des KBA beruft, die letztlich nicht zu einem amtlichen Rückruf geführt haben und wobei nach Angaben des KBA keine unzulässigen Abschalteinrichtungen festzustellen waren. Die von der Beklagten auszugsweise aus dem Untersuchungsbericht zitierten Untersuchungsergebnisse lassen die Indizien für eine grenzwertrelevante Einwirkung auf das Emissionskontrollsystem gerade nicht entfallen. Soweit die Beklagte Ergebnisse der Untersuchungen von Fahrzeugen mit NOx-Speicherkatalysator zitiert, kommt es hierauf nicht an, da das streitgegenständliche Fahrzeug mit einem solchen nicht ausgestattet ist, sondern mit einem SCR-Katalysator. Die von der Beklagten hierfür zitierten Untersuchungsergebnisse eines Audi A6 zeigen hingegen, dass zwar im Rahmen sämtlicher Prüfstandstestungen die Grenzwerte eingehalten werden; die durchgeführte RDE-Fahrt zeigt jedoch deutlich nach oben abweichende Ergebnisse, die von der Beklagten nicht ansatzweise nachvollziehbar erläutert werden. So gibt die Beklagte an, dass die Abweichung zum NEFZ kalt etwa das dreifache betrage, was bereits rechnerisch nicht nachvollziehbar ist. Bei einem Wert von 55mg/km im NEFZ kalt und einem solchen von 246mg/km der RDE-Fahrt liegt deren Wert um nahezu das 4,5-fache über dem Wert des NEFZ kalt. Wie diese massive Abweichung zu Stande kommt, erläutert die Beklagte jedoch nicht nachvollziehbar. Dabei verkennt die Kammer nicht, dass die Randbedingungen einer RDE-Fahrt mit Fahrten im Prüfstand nicht vergleichbar ist und bei letzterer typischerweise auf Grund der Besonderheiten des NEFZ (z.B. geringe Beschleunigung) höhere Werte zu erwarten sind. Der pauschale Vortrag, dass bei einer RDE-Fahrt höhere Werte zu erwarten sind, genügt ebenfalls nicht den Anforderungen an substantiiertes Bestreiten, wie es schon nicht geeignet ist das durch die Implementierung der Fahrkurvenerkennung gegebene Indiz für eine grenzwertkausale Beeinflussung des Emissionskontrollsystems zu erschüttern. Es bedurfte mithin auch angesichts der dargelegten Untersuchungsergebnisse einer konkreten Darlegung der Beklagten zum Grund des Einbaus der Fahrkurvenerkennung, zumal diese offenbar je nach Modell deutliche Abweichungen aufzeigen.Dass das KBA anhand dieser Untersuchungsergebnisse zu der Erkenntnis gelangt ist, dass eine unzulässige Abschalteinrichtung nicht vorliegt, bindet die Kammer nicht und lässt auch den Vorwurf der Sittenwidrigkeit nicht entfallen.Für die Beurteilung der Sittenwidrigkeit des Verhaltens der Beklagten kommt es zunächst auf die strategische Entscheidung der Beklagten an, im Typengenehmigungsverfahren zu täuschen und die Fahrzeuge mit der so erworbenen Typengenehmigung in den Verkehr zu bringen und dabei die Arglosigkeit und das Vertrauen der Fahrzeugkäufer auszunutzen. Dabei ist das Verhalten der Vorstandsmitglieder der Beklagten zuzurechnen gemäß § 31 BGB. Dass der Vorstand zum Zeitpunkt des Verkaufs des streitgegenständlichen Fahrzeugs von der Fahrkurvenerkennung nebst deren Einwirkung auf das Emissionskontrollsystem Kenntnis hatte, bestreitet die Beklagte schon nicht; dies wäre mit Blick auf die unstreitig deswegen mit dem KBA geführten Gespräche auch abwegig.Die ab Oktober 2015 mit dem KBA geführten Gespräche sowie die daran anschließenden Untersuchungen des KBA lassen den Vorwurf der Sittenwidrigkeit nicht entfallen.Für die Bewertung eines schädigenden Verhaltens als (nicht) sittenwidrig ist allerdings nicht nur das Verhalten im Zeitpunkt des Typengenehmigungsverfahrens zu beachten, sondern in einer Gesamtschau dessen Gesamtcharakter zu ermitteln; dabei ist das gesamte Verhalten des Schädigers bis zum Eintritt des Schadens beim konkreten Geschädigten, also dem Kaufvertragsschluss, zugrunde zu legen (vgl. BGH NJW 2020, 2798). Im Gegensatz zu den Fällen, in welchen der Motor EA 189 betroffen war, hatte die Beklagte ihre sittenwidrige Gesinnung jedoch bis zum Zeitpunkt des hiesigen Kaufvertragsschlusses am 05.07.2017 nicht aufgegeben.Allein die Offenlegung der Fahrkurvenerkennung gegenüber dem KBA lässt den Vorwurf der Sittenwidrigkeit nicht entfallen. Dieser Offenlegung folgte zunächst eine umfangreiche Untersuchung der EA 288-Motoren, die mit einem ersten Bericht aus April 2016 endete, dessen Ergebnisse den Vorwurf sittenwidrigen Verhaltens jedoch ebenfalls nicht entfallen lässt. Eine Offenlegung gegenüber der Öffentlichkeit, welche ebenfalls zumindest die Arglosigkeit potentieller Käufer hätte beseitigen können, erfolgte hinsichtlich des Motors EA 288 ebenso wenig wie eine Information der Vertragshändler, dass auch der Motor EA 288 eine Fahrkurvenerkennung aufweist, die auf das Emissionskontrollsystem einwirkt. Auch die Kooperation mit dem KBA und dessen derzeitige Rechtsauffassung, dass eine unzulässige Abschalteinrichtung nicht vorliegt, genügt hierfür nicht. Denn nach den vorstehenden Ausführungen ist von dem Vorliegen einer unzulässigen Abschalteinrichtung auszugehen, die nach wie vor eine Betriebsuntersagung zur Folge haben kann. Dass das KBA eine solche unzulässige Abschalteinrichtung bislang nicht erkannt haben will, bindet das KBA für zukünftige Entscheidungen nicht. Sollte sich im weiteren Verlauf das Vorliegen einer unzulässigen Abschalteinrichtung auch aus Sicht des KBA bestätigen, ist nach wie vor mit einer Betriebsuntersagung zu rechnen. Daran ändert auch der Umstand nichts, dass die Untersuchungen des KBA nach deren Auskunft abgeschlossen sind; das KBA kann im Weiteren nicht nur auf Grund von Erkenntnissen durch eigene Untersuchungen tätig werden, sondern auch, wenn sich auf Grund anderer Umstände das Vorliegen einer unzulässigen Abschalteinrichtung ergeben sollte. Da die Beklagte von der Fahrkurvenerkennung und deren Grenzwertkausalität nach Vorstehendem Kenntnis hat, entfällt der Vorwurf sittenwidrigen Verhaltens nicht.Vor diesem Hintergrund war das Verhalten der Beklagten zum Zeitpunkt des Kaufvertragsschlusses nach wie vor als sittenwidrig zu qualifizieren.2.Der Höhe nach besteht ein Anspruch des Klägers auf Zahlung des merkantilen Minderwerts des Fahrzeugs von 6.399,03 €.Ein Geschädigter, der durch das deliktische Handeln eines Dritten zum Abschluss eines Kaufvertrags über ein Dieselfahrzeug mit Prüfstanderkennungssoftware bestimmt worden ist, kann, wenn er die Kaufsache behalten möchte, als Schaden von dem Dritten den Betrag ersetzt verlangen, um den er den Kaufgegenstand - gemessen an dem objektiven Wert von Leistung und Gegenleistung - zu teuer erworben hat (sogenannter kleiner Schadensersatz). Für die Bemessung dieses kleinen Schadensersatzes ist grundsätzlich zunächst der Vergleich der Werte von Leistung (Fahrzeug) und Gegenleistung (Kaufpreis) im Zeitpunkt des Vertragsschlusses maßgeblich. Eine etwaige Aufwertung des Fahrzeugs durch eine nachträgliche Maßnahme (hier: Software-Update) des Schädigers, die gerade der Beseitigung der Prüfstanderkennungssoftware dienen sollte, ist im Rahmen der Vorteilsausgleichung zu berücksichtigen; dabei sind etwaige mit dem Software-Update verbundene Nachteile in die Bewertung des Vorteils einzubeziehen (BGH NJW 2021, 3041).Dem steht der Umstand nicht entgegen, dass der Kläger das Fahrzeug finanziert hat, da er zwischenzeitlich nach Fälligkeit der Schlussrate Eigentümer des Fahrzeugs geworden ist.Der Höhe nach ist der Vortrag des Klägers gemäß § 138 Abs. 1,2 ZPO als unstreitig zu behandeln, da die Beklagte auf den Vortrag des Klägers nicht substantiiert Stellung genommen hat. Der Umfang der Substantiierung folgt aus dem Wechselspiel von Vortrag und Gegenvortrag. Zwischen den Parteien ist unstreitig, dass die VW Financial Services AG als Konzerntochter ihre Risikorückstellungen nach Bekanntwerden des Diesel-Abgasskandals in Erwartung der Rückgabe betroffener Leasingfahrzeug erhöht hat. Hierzu hat die Beklagte keinerlei Stellung genommen, sondern sich lediglich darauf beruft "davon auszugehen", dass das Fahrzeug sich in den üblichen Spannbreiten vergleichbarer Gebrauchtwagenfahrzeuge befinde. Wenn dies tatsächlich der Fall wäre, erschließt sich nicht, weshalb die Risikorückstellungen in dem vorgeschilderten Umfang erhöht wurden.III.Der Zinsanspruch des Klägers folgt aus § 291 ZPO und besteht seit Zustellung der Klage am 05.10.2020.IV.Da der Hauptantrag begründet ist, war über den Hilfsantrag nicht zu entscheiden.V.Dem Kläger steht schließlich gegen die Beklagte ein Anspruch auf Freistellung von Rechtsanwaltsgebühren i.H.v. 650,34 € gemäß § 826 BGB zu, der sich wie folgt berechnet:1,3 Geschäftsgebühr gem. Nr. 2300 VV RVG i.d.F. bis 31.12.2020 526,50 €Zzgl. Auslagenpauschale gem. Nr. 7002 VV RVG 20,00 €Zwischensumme 546,50 €Zzgl. MwSt. gem. Nr. 7008 VV RVG 103,84 €Summe 650,34 €Zum Schaden gehören grundsätzlich auch die Kosten der Rechtsverfolgung, wobei es unschädlich ist, dass der Kläger im vorgerichtlichen Schreiben noch die Rückabwicklung des Kaufvertrags begehrt hat, da der Anspruch auch insoweit begründet gewesen wäre.Dem Kläger steht allerdings nur Ersatz hinsichtlich der Gebühren nach einem Gebührensatz von 1,3 zu; mit Blick auf die Vielzahl an Vertretungen gleicher Art, wobei gerichtsbekannt im Wesentlichen mit Textbausteinen gearbeitet wird, ist ein höherer Gebührensatz nicht gerechtfertigt.VI.Die prozessualen Nebenentscheidungen folgen aus §§ 92 Abs. 2 Nr. 1 ZPO, 709, 708 Nr. 11, 711 ZPO.Der Streitwert des Rechtsstreits wird auf 6.399,03 € festgesetzt.C.
+			
+			
+			
+			Permalink: https://openjur.de/u/2472170.html (https://oj.is/2472170)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG München IRechtsprechungEndurteil vom 08.08.2019 - 20 O 4293/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG München I, Endurteil vom 08.08.2019 - 20 O 4293/17
+                      m. Fundstelle
+                      LG München I, Endurteil vom 08.08.2019 - 20 O 4293/17 = openJur 2022, 12812
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG München I, Endurteil vom 08.08.2019 - 20 O 4293/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 12812
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 23.730,50 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um vertragliche Ansprüche der Klägerin wegen eines vom sogenannten "Diesel-Abgasskandal" betroffenen Kraftfahrzeuges.Der Kläger erwarb von der Beklagten am 06.11.2014 einen gebrauchten PKW VW Golf Plus 1,6 TDI zum Kaufpreis von 20.248,- Euro (Erstzulassung: 28.11.2013, Km-Stand: 8.391). Auf die Anlage K1 wird Bezug genommen. Das Fahrzeug erhielt die EU-Typengenehmigung nach der Euro-5-Norm. Dementsprechend erfolgte die Fahrzeugzulassung.In das Fahrzeug des Klägers ist ein Motor des Typs EA 189 eingebaut und zugleich eine Motorensteuerungsgerätesoftware installiert, die erkennt, wenn das Fahrzeug auf dem Prüfstand den Neuen Europäischen Fahrzyklus (NEFZ) durchfährt, und die dann einen besonderen Modus aktiviert (sog. Umschaltlogik). In diesem wird die Rückführung von Abgasen im Vergleich zu dem normalen Betriebsmodus verändert, wodurch der nach der Euro-5-Norm vorgegebene NOx-Grenzwert während des Durchfahrens des NEFZ eingehalten wird. Im normalen Fahrbetrieb - auch unter vergleichbaren Bedingungen wie im NEFZ - wird dieser Modus deaktiviert, wodurch es zu einem höheren Schadstoffausstoß kommt.Das Kraftfahrt-Bundesamt verpflichtete die Herstellerin des Fahrzeuges, in sämtlichen betroffenen Fahrzeugen mit dem Motor EA 189 die aus Sicht des Bundesamtes unzulässige Abschaltvorrichtung zu entfernen und nachzuweisen, dass die gesetzlichen Anforderungen erfüllt werden. Die Herstellerin hat ein Update für die Motorensteuerungsgerätesoftware entwickelt, nach dessen Einspielen das Fahrzeug nur noch über einen einheitlichen Betriebsmodus verfügt. Das Kraftfahrt-Bundesamt sieht das Aufspielen des Updates als verpflichtend an. Die erteilte EG-Typengenehmigung für das Fahrzeug der Klägerin wurde vom Kraftfahrt-Bundesamt bisher nicht widerrufen.Der Kläger hat am 02.06.2016 seine Willenserklärung angefochten und die Beklagte hilfsweise zur Nachbesserung aufgefordert. Am 18.07.2016 hat er sodann den Rücktritt vom Vertrag erklärt. Der Kläger hat im April 2019 das obige Update aufspielen lassen. Am 20.05.2019 betrug der Kilometerstand 54.336 km.Der Kläger behauptet, dass das streitgegenständliche Fahrzeug mangelhaft sei, weil es eine unzulässige Abschalteinrichtung enthalte. Er habe bei Erwerb des Fahrzeuges nicht davon ausgehen müssen, dass eine entsprechende Abschalteinrichtung verbaut sei. Er sei hier getäuscht worden, weil die vorgenommenen Eintragungen nicht den vorhandenen Fahrzeugeigenschaften entsprechen würden.Er ist der Auffassung, dass eine Nachbesserung unzumutbar sei, weil das Vertrauensverhältnis zur Marke nachhaltig gestört sei. Er habe darüber hinaus nutzlose Aufwendungen durch Inspektionen und Reparaturen gehabt, welche die Beklagte erstatten müsse.Der Kläger beantragt,1. Die Beklagtenpartei wird verurteilt,a) an die Klagepartei 18.519,56 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 14.11.2014 zu bezahlen,hilfsweise für den Fall, dass gerichtlicherseits von einem Rücktritt statt von einer Anfechtung ausgegangen wirdb) an die Klagepartei 18.519,56 Euro Zug um Zug gegen Herausgabe des Fahrzeuges VW Golf Plus 1,6 TDI DPF, ...33 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 19.07.2016 zu bezahlen.2. Die Beklagte wird verurteilt,a) an die Klagepartei gezogene Nutzungen in Höhe von 5% aus einem Betrag von 18.519,56 Euro seit 14.11.2014 zu bezahlenb) an die Klagepartei 614,56 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu bezahlenc) an die Klagepartei 1.682,18 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu bezahlen.3. Es wird festgestellt, dass sich die Beklagte seit 19.06.2016 in Annahmeverzug befindet.4. Es wird festgestellt, dass die Beklagte verpflichtet ist, sämtliche Kosten der Rückgabe des gegenständlichen Fahrzeuges zu tragen.5. Die Beklagte wird verurteilt, an die Klagepartei außergerichtliche Rechtsanwaltskosten in Höhe von 1.430,38 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu bezahlen.Die Beklagte beantragt,Die Klage wird abgewiesen.Die Beklagte behauptet, dass das streitgegenständliche Fahrzeug nicht mangelhaft war und jedenfalls seit der technischen Überarbeitung ("Software-Update") nicht mehr mangelbehaftet ist.Sie ist der Auffassung, dass für eine arglistige Täuschung schon nicht ausreichend vorgetragen sei. Die Beklagte sei ein rechtlich selbständiges Unternehmen und habe von der streitgegenständlichen Abschalteinrichtung zum Zeitpunkt des Kaufvertrages auch keine Kenntnis gehabt.Das Gericht hat zuletzt am 22.05.2019 mündlich zur Sache verhandelt. Auf die Sitzungsniederschriften wird zur Ergänzung des Tatbestandes ebenso Bezug genommen, wie auf die wechselseitig ausgetauschten Schriftsätze der Parteien nebst Anlagen und sonstigen Aktenteilen. 
+				Gründe
+				Die zulässige Klage ist unbegründet. Dem Kläger stehen unter keinem rechtlichen Gesichtspunkt die geltend gemachten Ansprüche zu.I. Die Klage ist zulässig. Ordnungsgemäße Klageerhebung und die persönlichen Sachurteilsvoraussetzungen begegnen keinen rechtlichen Bedenken. Das Landgericht München I ist örtlich und sachlich zuständig nach §§ 23 Nr. 1, 71 Abs. 1 GVG, 29 ZPO. Die eingeklagte Summe übersteigt einen Betrag von 5000,- Euro; die Erfüllung des Vertragsverhältnisses fand auch im Landgerichtsbezirk statt.II. Die Klage ist unbegründet.1. Die Voraussetzungen für eine erfolgreiche Anfechtung gemäß §§ 142ff, 123, 433 BGB liegen nicht vor.Insofern fehlt es bereits an ausreichend konkretem Vortrag dazu, dass die Beklagte als Verkäufer des streitgegenständlichen Fahrzeuges im Zeitpunkt des Kaufvertrages tatsächlich Kenntnis von der unzulässigen Abschalteinrichtung hatte. Solches ist auch zweifelhaft. Eine automatische Zurechnung von Wissen des Herstellers kommt aber vorliegend nicht allein deshalb in Betracht, weil die Beklagte als eine Art Vertragshändler des Herstellers auftritt.2. Die Voraussetzungen für einen erfolgreichen Rücktritt nach §§ 433, 434, 437, 323, 346 BGB liegen gleichfalls nicht vor.a) Die Parteien sind über einen Kaufvertrag vom 06.11.2014 über das streitgegenständliche Fahrzeug miteinander verbunden.b) Das im Jahr 2014 übergebene Fahrzeug war im Zeitpunkt der Geltendmachung des Nacherfüllungsanspruches am 02.06.2016 mangelhaft, weil es nicht die übliche Beschaffenheit aufwies, § 434 Abs. 1 S. 2 Nr. 2 BGB. Das Gericht sieht den Sachmangel bereits darin, dass der interessierende Pkw einem Software-Update unterzogen werden muss, um die Auflagen des Kraftfahrt-Bundesamtes zu erfüllen und um den Entzug der Betriebserlaubnis zu verhindern. Es ist der Auffassung, dass ein Käufer annimmt, dass der Hersteller eines Fahrzeuges die erforderlichen Erlaubnisse und Genehmigungen nicht durch Täuschung erwirkt hat. Der vernünftige Durchschnittskäufer muss, wenn er ein für den Betrieb im Straßenverkehr vorgesehenes Fahrzeug erwirbt, davon ausgehen, dass das betreffende Fahrzeug entweder zu Recht zugelassen oder zulassungsfähig ist.Hier hatte der Kläger das Fahrzeug vor Bekanntwerden des sog. "Diesel-Abgasskandals" gekauft. Dementsprechend durfte und musste er bei Abschluss des Kaufvertrages noch davon ausgehen, dass sich der Hersteller rechtmäßig verhalten und die für den Betrieb seines Pkws sowie für die Zulassung desselben erforderlichen Zulassungen, Genehmigungen und Erlaubnisse nicht durch Täuschung und nicht unter Anwendung einer Manipulations-Software erwirkt hatte. Da dies tatsächlich aber nicht der Fall war und in dem vom Kläger erworbenen Pkw vom Hersteller eine Manipulations-Software eingesetzt worden war, wies das Fahrzeug nicht die übliche Beschaffenheit im Sinne des § 434 Absatz 1 S. 2 Nr. BGB auf. Diese Abweichung betrifft auch einen für den vernünftigen Durchschnittskäufer bedeutsamen Gesichtspunkt.c) Nach Auffassung des Gerichts behebt aber das vom Hersteller angebotene Update, welches der Kläger im April 2019 aufgespielt hat, den obigen Mangel.Hiervon ist das Gericht deshalb überzeugt, weil ausweislich der Anlage B5 das zuständige Kraftfahrt-Bundesamt die vom Hersteller vorgeschlagene Mangelbeseitigungsmethode überprüft, genehmigt und für den streitgegenständlichen Motor als geeignet bestätigt hat, um die Vorschriftsmäßigkeit der Fahrzeuge wiederherzustellen. Danach liegen nach Aufspielen des Updates keine unzulässigen Abschalteinrichtungen mehr vor. Das Kraftfahrt-Bundesamt als öffentliche Behörde, deren Aufgabengebiet u.a. explizit die Überwachung der Einhaltung der gesetzlichen Vorschriften ist, steht dabei sowohl für eine unabhängige wie auch eine ordnungsgemäße Prüfung. Es sind bislang behördenseits auch keine belastbaren Argumente vorgebracht worden, die die Tauglichkeit der Softwarelösung ist Frage gestellt hätten. Daher ist dem Kläger die Nachbesserungsmaßnahme auch zuzumuten.Dass dem konkreten Fahrzeug konkrete Nachteile durch das Update entstehen oder entstanden sind, ist nicht ersichtlich. Nicht ausreichend ist jedenfalls der subjektive Verdacht eines trotz Nachbesserung verbleibenden Nachteils, der lediglich auf einem Misstrauen gegenüber dem Hersteller beruht.d) Dem Kläger ist ausweislich der Anlage B6 mit Schriftsatz vom 02.06.16 das Update zur Mangelbeseitigung angeboten worden. Insofern stand eine geeignete Mangelbeseitigungsmethode rechtzeitig zur Verfügung. Weil - wie dargelegt - das Update auch geeignet ist, den Mangel zu beheben, lag zum Zeitpunkt des Rücktrittes am 18.07.2016 letztlich kein mangelhaftes Fahrzeug mehr vor.Der Rücktritt war damit nicht wirksam, so dass etwaige Ansprüche des Klägers hieraus ausscheiden.3. Da anderweitige rechtliche Gesichtspunkte, die den Klageantrag stützen, nicht erkennbar sind, war die Klage abzuweisen. Weil der Kläger zunächst das Update nicht zugelassen hat, befand sich die Beklagte auch nicht im Annahmeverzug. Die übrigen Nebenforderungen teilen das Schicksal der Hauptforderung.III. Die Kostenentscheidung beruht auf § 91 Abs. 1. S. 1 ZPO. Die Regelung zur vorläufigen Vollstreckbarkeit hat ihre Grundlage in § 709 S. 2 ZPO
+			
+			
+			
+			Permalink: https://openjur.de/u/2383467.html (https://oj.is/2383467)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

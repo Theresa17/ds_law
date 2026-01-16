@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG MarburgRechtsprechungUrteil vom 29.04.2021 - 7 O 231/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Marburg, Urteil vom 29.04.2021 - 7 O 231/20
+                      m. Fundstelle
+                      LG Marburg, Urteil vom 29.04.2021 - 7 O 231/20 = openJur 2022, 19190
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Marburg, Urteil vom 29.04.2021 - 7 O 231/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 19190
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits hat der Kläger zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar.Der Streitwert wird auf bis 30.000,00 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten über Ansprüche des Klägers im Zusammenhang mit dem sogenannten VW-Abgasskandal.Der Kläger erwarb am 05.10.2013 von der Beklagten einen VW Tiguan 2.0 TDI (FIN: ...) mit einem Kilometerstand von 0 km zu einem Kaufpreis in Höhe von 34.637,50 € (vgl. die Rechnung vom 05.10.2013; Bl. 13 Bd. I d. A.). Zum Zeitpunkt der Klageerhebung lag die Laufleistung bei 62.000 km, zum 01.04.2021 wiederum bei 65.689 km. Das Fahrzeug ist mit einem von der Beklagten entwickelten Dieselmotor des Typs EA 189 ausgestattet.Für diesen Fahrzeugtyp wurde die Typgenehmigung nach der Verordnung (EG) Nr. 715/2007 mit der Schadstoffklasse Euro 5 erteilt. Die im Zusammenhang mit dem Motor verwendete Software erkennt, ob das Fahrzeug auf einem Prüfstand dem Neuen Europäischen Fahrzyklus (NEFZ) unterzogen wird und schaltet in diesem Fall in den Abgasrückführungsmodus 1, einen Stickoxid (NOx)-optimierten Modus. In diesem Modus findet eine Abgasrückführung mit niedrigem Stickoxidausstoß statt. Im normalen Fahrbetrieb außerhalb des Prüfstands schaltet der Motor dagegen in den Abgasrückführungsmodus 0, bei dem die Abgasrückführungsrate geringer und der Stickoxidausstoß höher ist. Für die Erteilung der Typgenehmigung der Emissionsklasse Euro 5 maßgeblich war der Stickoxidausstoß auf dem Prüfstand. Die Stickoxidgrenzwerte der Euro 5-Norm wurden nur im Abgasrückführungsmodus 1 eingehalten.Im September 2015 räumte die Beklagte öffentlich die Verwendung einer entsprechenden Software ein. Sie gab durch ihren damaligen Vorstandsvorsitzenden auf einer Pressekonferenz am 22.09.2015 bekannt, dass es bei den in ihren Fahrzeugen verbauen Dieselmotoren des Typs EA 189 "zu Unregelmäßigkeiten gekommen sei" und gab am gleichen Tag eine entsprechende ad-hoc-Mitteilung heraus. In der Folgezeit wandte sich die Beklagte mit weiteren Pressemitteilungen an die Öffentlichkeit und informierte über den Fortgang der Entwicklung sowie über die zur Problembehebung vorgesehenen Maßnahmen, insbesondere erstellte und veröffentlichte die Beklagte mit Pressemitteilung vom 02.10.2015 eine Internetseite, auf der mit der Eingabe der Fahrzeugidentifikationsnummer festgestellt werden konnte, ob das jeweilige Fahrzeug betroffen ist.Das Kraftfahrt-Bundesamt (KBA) ordnete deshalb den Rückruf der betroffenen PKWs an und gab der Beklagten auf, diese in einen Zustand zu versetzen, den die öffentlich-rechtlichen Vorschriften vorschreiben. Die Beklagte entwickelte daraufhin ein Software-Update für die Motorsoftware, das auch für den streitgegenständlichen PKW zur Verfügung gestellt und auf diesen aufgespielt wurde. Dabei sind die Auswirkungen der vom KBA freigegebenen nachträglichen Änderungen an der Software zwischen den Parteien streitig. Die EG-Typengenehmigung nach Abgasnorm Euro 5 wurde für das streitgegenständliche Fahrzeug erteilt und bislang nicht widerrufen.Mit anwaltlichem Schreiben vom 02.09.2020 (Bl. 17 ff. Bd. I d. A.) forderte der Kläger die Beklagte mit Frist bis zum 30.09.2020 zur Rückerstattung des Kaufpreises auf.Mit am 23.10.2020 eingegangener Klage macht der Kläger sein Begehren nunmehr gerichtlich geltend.Der Kläger hat Unterlagen zu einer Eintragung seinerseits in das Klageregister der Musterfeststellungsklage gegen die Beklagte vor dem Oberlandesgericht Braunschweig (Az. 4 MK 1/18) vorgelegt (Bl. 206 f. Bd. I d. A.).Die Beklagte erhebt mit Schriftsatz vom 29.12.2020 die Einrede der Verjährung (Bl. 46 Bd. I d. A.).Der Kläger behauptet im Wesentlichen, er sei bei Abschluss des Kaufvertrages über den tatsächlichen Zustand des Fahrzeugs von der Beklagten bewusst getäuscht worden. Hätte er gewusst, dass das Fahrzeug den gesetzlichen Anforderungen nicht genügt, so hätte er den Kaufvertrag nicht geschlossen. Infolge der Täuschung sei ihm ein Schaden entstanden, der bereits im Abschluss des Kaufvertrages liege. Zudem meint er, dass sich die Beklagte nicht mit Erfolg auf die Einrede der Verjährung berufen könne. Er habe sich wirksam zur Musterfeststellungsklage angemeldet. Im Übrigen sei durch das Aufspielen des von der Beklagten entwickelten Software-Update erneut der Tatbestand der vorsätzlichen sittenwidrigen Schädigung verwirklicht worden, weil das im Update enthaltene Thermofenster ebenfalls als unzulässige Abschalteinrichtung einzustufen sei. Zumindest aber stehe ihm nach § 852 BGB ein Restschadensersatzanspruch zu.Der Kläger beantragt,1. die Beklagte kostenpflichtig und vorläufig vollstreckbar zu verurteilen, an ihn 29.268,69 € nebst jährlichen Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 01.10.2020 Zug-um-Zug gegen Übereignung und Übergabe des Fahrzeugs VW Tiguan 2.0 TDI, FIN ...., zu zahlen und zwar abzüglich einer weiteren Nutzungsentschädigung in EUR, die sich nach der folgenden Formel beziffert: Kaufpreis x gefahrene Kilometer / Restlaufleistung im Erwerbszeitpunkt;2. festzustellen, dass sich die Beklagte mit der Rücknahme des vorbezeichneten Fahrzeugs in Verzug befindet;3. die Beklagte kostenpflichtig und vorläufig vollstreckbar zu verurteilen, an ihn weitere 1.524,82 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte erhebt die Einrede der Verjährung (Bl. 46 Bd. I d. A.). Sie ist der Auffassung, dass die vom Kläger behauptete Anmeldung zum Klageregister der Musterfeststellungsklage nicht wirksam erfolgt sei. Überdies sei § 852 BGB vorliegend überhaupt nicht anwendbar.Darüber hinaus ist sie der Auffassung, das Fahrzeug sei trotz des Rückrufs und nach erfolgtem Software-Update uneingeschränkt nutzbar und ohne Einschränkung für den öffentlichen Straßenverkehr zugelassen. Zudem liege keine ihr zurechenbare Täuschungshandlung sowie kein Schaden des Klägers vor. Zudem behauptet die Beklagte, wie sich schon aus der Freigabeentscheidung für das Software-Update durch das KBA ergebe, ziehe dieses keinerlei Nachteile oder gar Schäden für den jeweils überarbeiteten PKW nach sich. Schließlich ist sie der Auffassung, das im Software-Update enthaltene Thermofenster sei nicht als unzulässig einzustufen.Die Klage ist der Beklagten am 03.12.2020 zugestellt worden (vgl. Bl. 34 Bd. I d. A.).Zur Vertiefung des Sach- und Streitstandes und wegen der Einzelheiten wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen sowie das Protokoll der mündlichen Verhandlung vom 08.04.2021 Bezug genommen und verwiesen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I. Dem Kläger steht gegen die Beklagte gemäß § 826 BGB in Verbindung mit § 31 BGB analog wegen vorsätzlicher sittenwidriger Schädigung allerdings dem Grunde nach ein Schadensersatzanspruch zu (vgl. nur BGH, Urt. v. 25.05.2020 - VI ZR 252/19 -, juris, Rn. 1-5, 11-83; OLG Koblenz, Urt. v. 12.06.2019 - 5 U 1318/18 -, NJW 2019, 2237, Rn. 14 ff.).1. Die hier in Rede stehende Fallgestaltung entspricht nämlich derjenigen, die vom Bundesgerichtshof und vom Oberlandesgericht Koblenz in den vorstehend genannten Entscheidungen entschieden worden ist. Die Kammer mach sich insoweit die dortigen Ausführungen zu eigen. Die vom Bundesgerichtshof und dem Oberlandesgericht Koblenz zugrunde gelegten Tatsachen waren insoweit auch gemäß § 291 ZPO dem vorliegenden Rechtsstreit zugrunde zu legen, weil es sich um offenkundige Tatsachen handelt. Zur Begründung des Schadensersatzanspruchs dem Grunde nach wird im Übrigen auf die genannten Entscheidungen verwiesen. Die Parteien haben keinen Vortrag zu halten vermocht, welcher die Kammer veranlasst, diese Tatsachen anders zu werten oder sie der Entscheidung nicht zugrunde zu legen.2. Die Ansprüche des Klägers sind jedoch verjährt, §§ 194 Abs. 1, 195, 199 Abs. 1, 214 BGB.a) Das Recht, von einem anderen ein Tun oder Unterlassen zu verlangen (Anspruch), unterliegt nach den genannten Vorschriften der Verjährung. Der vorliegend in Rede stehende Schadensersatzanspruch unterliegt der regelmäßigen Verjährungsfrist des § 195 BGB von drei Jahren. Diese beginnt mit der Anspruchsentstehung und der Kenntnis bzw. grob fahrlässigen Unkenntnis des Gläubigers von den anspruchsbegründenden Umständen und der Person des Schuldners. Zudem muss die Einrede erhoben werden.Der Anspruch ist jedenfalls mit dem Vollzug des Kaufvertrags im Jahr 2013 entstanden.Die Kammer schließt sich in Bezug auf die Voraussetzungen des § 199 Abs. 1 Nr. 2 BGB der in der obergerichtlichen Rechtsprechung vertretenen Ansicht an, nachdem einem in Deutschland lebenden Eigentümer eines vom Dieselskandal betroffenen PKW nur grob fahrlässig im Jahr 2015 unbekannt bleiben konnte, dass ihm Ansprüche gegen die Beklagte zustehen könnten (vgl. OLG München, Beschl. v. 09.06.2020 - 3 U 2049/20 -, BeckRS 2020, 13124, Rn. 12 ff. m. w. N.). Aus dem Vortrag des Klägers geht nichts hervor, was dieser Annahme im vorliegenden Fall entgegenstehen könnte.Es war dem Kläger auch zuzumuten, im Jahr 2015 Klage zu erheben (vgl. BGH, Urt. v. 17.12.2020 - VI ZR 739/20 -, juris, Rn. 10 ff., 20 ff.).b) Die Verjährung ist auch nicht durch die vom Kläger vorgetragene Anmeldung zur Musterfeststellungsklage vor dem Oberlandesgericht Braunschweig (Az. 4 MK 1/18) im Sinne von § 204 Abs. 1 Nr. 1a BGB gehemmt worden.Die verjährungshemmende Wirkung der Anmeldung zur Musterfeststellungsklage setzt voraus, dass diese wirksam erfolgt ist. Dazu gehört vor allem, dass die von § 608 Abs. 2 Nr. 1-5 ZPO geforderten Mindestangaben vonseiten des Anmeldenden gemacht worden sind. Ausweislich § 608 Abs. 2 Nr. 4 ZPO sind dabei Angaben zum Gegenstand und Grund des Anspruchs oder des Rechtsverhältnisses des Verbrauchers zu machen. Wie sich schon aus der Gesetzesbegründung ergibt, entsprechen die an die Benennung des geltend gemachten Anspruchs bzw. des betroffenen Rechtsverhältnisses zu stellenden Anforderungen denjenigen an eine Klageschrift gemäß § 253 Abs. 2 ZPO. Es soll dadurch unter anderem sichergestellt werden, dass anhand der genauen Bezeichnung des potentiellen Streitgegenstandes den Parteien - und den Gerichten - in einem nachfolgenden Rechtsstreit die Prüfung, ob die Verjährung im konkreten Fall gehemmt wurde, ermöglicht wird (vgl. BT-Drs. 19/2057, S. 24; Lutz, in: BeckOK ZPO, 39. Edition, Stand: 01.12.2020, § 608, Rn. 11).Diesen Anforderungen genügt die vom Kläger vorgelegte Anmeldung zur Musterfeststellungsklage (Bl. 206 f. Bd. I d. A.) nicht, so dass sie nicht als wirksam angesehen werden kann. Es finden sich dort keinerlei Angaben zum betroffenen Fahrzeug, sondern unter dem Punkt "Gegenstand und Grund" lediglich pauschaler Vortrag zur Betroffenheit vom Abgasskandal (Falschangaben über Emissionswerte, Nachteile des Software-Updates, drohende Fahrverbote etc.). Es fehlt sowohl an einer Angabe zum betroffenen Fahrzeugtyp als auch der Fahrzeugidentifikationsnummer des Fahrzeugs.c)Ein anderes Ergebnis lässt sich ebenso wenig unter Rekurs auf das von der Beklagten angebotene Software-Update mit dem Vortrag, dieses sei nicht geeignet, gesetzeskonforme Zustände herzustellen und enthalte sogar selbst ein als illegal zu erachtendes Thermofenster, rechtfertigen.Zum einen geht es der Kläger bei der Geltendmachung von Ansprüchen nach § 826 BGB oder den anderen deliktischen Normen um einen Schaden, der auf die Hingabe des Kaufpreises zurückzuführen ist, ohne zugleich eine adäquate Gegenleistung erhalten zu haben. Ein solcher Schaden lässt sich unter Rekurs auf das Aufspielen des Software-Updates von vornherein nicht begründen, da die Kläger den Kaufvertrag schon längst abgeschlossen hatte, bevor das Update auf ihr Fahrzeug überhaupt aufgespielt werden konnte.Zum anderen würde ein deliktischer Schadensersatzanspruch wegen des Aufspielens eines ein Thermofenster enthaltenden Software-Updates voraussetzen, dass die für die Beklagte agierenden Personen bei der Entwicklung und/oder Applikation der temperaturabhängigen Steuerung des Emissionskontrollsystems in dem Bewusstsein handelten, eine (weitere) unzulässige Abschalteinrichtung zu verwenden, und den darin liegenden Gesetzesverstoß billigend in Kauf nahmen. Wenn es daran aber fehlt, ist der objektive Tatbestand der Sittenwidrigkeit nicht erfüllt (vgl. BGH, Beschl. v. 09.03.2021 - VI ZR 889/20 -, juris, Rn. 23 ff.). In diesem Zusammenhang ist ferner zu berücksichtigen, dass die Frage, ob es sich bei dem Thermofenster um eine unzulässige Abschalteinrichtung handelt, stark umstritten ist und die Auslegung als zulässige Abschalteinrichtung jedenfalls nicht unvertretbar ist (vgl. nur OLG Frankfurt, Urt. v. 07.11.2019 - 6 U 119/18; v. 13.11.2019 - 13 U 274/18). Angesichts dessen ist für ein derartiges Bewusstsein bei den für die Beklagte handelnden Personen vorliegend nichts ersichtlich. Zu einer anderweitigen Bewertung veranlasst auch nicht der klägerische Hinweis auf eine Mitteilung des KBA, wonach es bei Fahrzeugen des Typs VW Eos, bei welchen bereits die Rückrufaktion zur Beseitigung der ursprünglichen illegalen Software-Funktion durchgeführt wurde, zu einem neuerlichen Rückruf zur "Entfernung der unzulässigen Abschalteinrichtung bzw. erhöhte(r) Emissionswerte auch nach Durchführung der Aktion 23R7", gekommen ist. Zum einen beschränkt sich die neuerliche Rückrufanordnung, wie sich aus der Mitteilung des KBA selbst ergibt, auf eine sehr geringe Zahl von Fahrzeugen - weltweit lediglich 5.771 - und es sind keine durchgreifenden Anhaltspunkte dafür ersichtlich, dass ebenfalls das Fahrzeug des Klägers von diesem Sachverhalt betroffen sein könnte. Zum anderen ist der Kläger dem ausführlichen Vortrag der Beklagten, wonach es bei der in Rede stehenden Rückrufaktion "23AO" nicht um die Beseitigung einer illegalen Abschalteinrichtung gehe (vgl. Bl. 278 f. Bd. II d. A.), nicht substantiiert entgegengetreten.Im Übrigen spielt es auch keine Rolle, inwieweit das Software-Update tatsächlich negative Auswirkungen auf den Kraftstoffverbrauch oder den Verschleiß von Bauteilen der betroffenen Fahrzeuge haben könnte (vgl. dazu BGH, a. a. O., Rn. 30).II. Darüber hinaus sind auch die anderen in Betracht kommenden deliktischen Schadensersatzansprüche nach §§ 823 Abs. 2, 31 BGB in Verbindung mit § 263 StGB, den unionsrechtlichen Vorschriften über das Typgenehmigungsverfahren, den §§ 3, 16 UWG, § 27 Abs. 1 EG-FGV oder nach § 831 BGB verjährt.III. Schließlich steht dem Kläger gegen die Beklagte kein Anspruch nach § 852 BGB zu.Nach § 852 S. 1 BGB ist der Ersatzpflichtige, wenn er durch eine unerlaubte Handlung auf Kosten des Verletzten etwas erlangt hat, auch nach Eintritt der Verjährung des Anspruchs auf Ersatz des aus der unerlaubten Handlung entstandenen Schadens zur Herausgabe des Erlangten nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung verpflichtet.1. Bei diesem Anspruch handelt es sich um eine Fortsetzung des deliktischen Schadensersatzanspruchs in einem anderen rechtlichen Gewand. Vor diesem Hintergrund ist im Hinblick auf das Vorliegen einer Vermögensverschiebung eine wirtschaftliche Betrachtungsweise notwendig. Voraussetzung für den in Rede stehenden Anspruch ist daher, dass der Vermögensverlust beim Geschädigten einen entsprechenden Vermögenszuwachs bei Schädiger zur Folge hat (vgl. OLG Oldenburg, Beschl. v. 05.01.2021 - 2 U 168/20 m. w. N.).Der Schaden des Klägers besteht demgegenüber aber gerade nicht in einem rechnerischen und damit wirtschaftlichen Minus als Saldo des Vergleichs zwischen der infolge des haftungsbegründenden Ereignisses in Gestalt der vorsätzlichen sittenwidrigen Schädigung eingetretenen Vermögenslage mit derjenigen, die ohne dieses Ereignis eingetreten wäre. Vielmehr besteht der Schaden in der Eingehung einer ungewollten Verbindlichkeit, die sich nach objektiver Verkehrsanschauung unter Berücksichtigung der Umstände des Vertragsschlusses als unvernünftig, den konkreten Vermögensinteressen nicht angemessen und damit als nachteilig darstellt, weil dem Fahrzeug das Risiko einer Betriebsbeschränkung oder -untersagung innewohnte.Weil aber ein Anspruch aus § 852 BGB keinen normativen, sondern einen rein wirtschaftlichen Schaden der Kläger voraussetzt, ist der Anwendung dieser Norm von vornherein der Boden entzogen, wenn sich ein solcher wirtschaftlicher Schaden - wie in der vorliegenden Konstellation - nicht feststellen lässt (vgl. ebenfalls OLG Oldenburg, a. a. O.).2. Wollte man § 852 BGB in der vorliegenden Konstellation dennoch zur Anwendung gelangen lassen, so bestünde aber auch ein Anspruch des Klägers gegen die Beklagte der Höhe nach nicht (mehr) (vgl. grundlegend: OLG Oldenburg, Beschl. v. 21.01.2021 - 2 U 168/20 -, BeckRS 2021, 1642, Rn. 9-11).Der Kläger könnte keinesfalls mehr verlangen als die Gewinnmarge der Beklagten aus dem Verkauf des Fahrzeugs an ihn. Wie der Bundesgerichtshof weiterhin festgestellt hat (BGH, Urt. v. 25.05.2020 - VI ZR 252/19 -, juris, Rn. 11-83), ist der Schadensersatzanspruch des Klägers im Wege der Vorteilsausgleichung zu kürzen. Dies kann erst erfolgen, nachdem zuvor der erstattungsfähige Schaden festgestellt wurde. Dieser kann bei § 852 BGB nur in der Gewinnmarge bestehen. Im Rahmen des Vorteilsausgleichs hat der Kläger nicht nur das Fahrzeug herauszugeben, sondern sich auch Nutzungen anrechnen zu lassen bei einer unterstellten Gesamtlaufleistung, die die Klägerseite vorliegend mit 400.000 km ansetzen möchte, und bei Klageerhebung bereits unstreitig gefahrener 62.000 km Laufleistung und einem Kaufpreis von 34.637,50 €. Dies führt zu einer vom Schaden abzuziehenden Nutzungsentschädigung von 5.368,81 € bei Klageerhebung. Es ist demgegenüber ausgeschlossen, dass die Gewinnmarge der Beklagten diesen Betrag erreicht, so dass der geltend gemachte Restschadensersatzanspruch auch unter diesem Blickwinkel ausscheiden muss.IV. Mangels Erfolg in der Hauptsache stehen dem Kläger auch keine Ansprüche auf die noch mit dem Klageantrag zu 1. begehrten Zinsen, die Feststellung des Annahmeverzugs (Klageantrag zu 2.) sowie die Erstattung vorgerichtlicher Rechtsanwaltskosten zuzüglich Zinsen (Klageantrag zu 3.) zu.V. Die Kostenentscheidung folgt aus § 91 Abs. 1 ZPO.VI. Die Entscheidung über die vorläufige Vollstreckbarkeit ergibt sich aus § 709 S. 1, 2 ZPO.VII. Die Streitwertfestsetzung beruht auf §§ 63 Abs. 2, 48 GKG in Verbindung mit § 3 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2453294.html (https://oj.is/2453294)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

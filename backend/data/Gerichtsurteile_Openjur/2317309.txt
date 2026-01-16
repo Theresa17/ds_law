@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG PaderbornRechtsprechungUrteil vom 20.05.2020 - 3 O 612/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Paderborn, Urteil vom 20.05.2020 - 3 O 612/19
+                      m. Fundstelle
+                      LG Paderborn, Urteil vom 20.05.2020 - 3 O 612/19 = openJur 2021, 3919
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Paderborn, Urteil vom 20.05.2020 - 3 O 612/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 3919
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger nimmt die Beklagte wegen behaupteter deliktischer Produktmanipulation auf Schadensersatz Zug um Zug gegen Rückgabe des von ihm erworbenen Fahrzeugs der Beklagten in Anspruch.Der Kläger erwarb am 04.05.2016 das streitgegenständliche Fahrzeug W 2.0 TDI (Fahrzeugidentifikationsnummer: ...) bei dem Autohaus L in C zu einem Kaufpreis 27.900 €. Dabei handelte es sich um einen Gebrauchtwagen. Zum Zeitpunkt des Kauvertragsabschlusses wies das streitgegenständliche Fahrzeug einen Kilometerstand von 24.700 km auf.Der klägerische Pkw verfügt über einen Dieselmotor vom Typ EA 189 und ist von der Beklagten, der Herstellerin, mit einer Software ausgestattet worden, die den Stickoxidausstoß im Prüfstandbetrieb optimiert, sogenannter "Modus 1". Nur aufgrund dieser Software, die erkennt, ob das Fahrzeug einem Prüfstandtest unterzogen wird oder sich auf der Straße befindet und entsprechend das "Verhalten" des Motors in Bezug auf die Abgase verändert, hält der genannte Motor während des Prüfstandtests die gesetzlich vorgegebenen und im technischen Datenblatt aufgenommenen Abgaswerte ein. Unter realen Fahrbedingungen im Straßenverkehr wird das Fahrzeug anderweitig, nämlich im sogenannten "Modus 0" mit einer geringeren Abgasrückführungsrate betrieben - der Stickoxidausstoß ist dann höher.Nach Bekanntwerden dieser Softwareproblematik verpflichtete das Kraftfahrt-Bundesamt (KBA) mit Bescheid die Beklagte zur Entfernung der nach Einschätzung der Behörde unzulässigen Abschalteinrichtung. Die Beklagte entwickelte in der Folge in Abstimmung mit dem KBA einen Zeit- und Maßnahmenplan für die Umsetzung der zur technischen Überarbeitung der Fahrzeuge notwendigen Maßnahmen. Mit der Umsetzung dieser Maßnahmen darf erst begonnen werden, wenn die für das Fahrzeugmodell zugeordnete Freigabeerklärung des KBA vorliegt. Das KBA gab in einer Bestätigung die technische Maßnahme frei und bestätigte, "dass die von der W für die betroffenen Fahrzeuge [...] dem KBA vorgestellte Änderung der Applikationsdaten geeignet ist, die Vorschriftsmäßigkeit der genannten Fahrzeuge herzustellen".Bei dem klägerischen Fahrzeug wurde in Umsetzung dieser Maßnahme ein Software-Update vorgenommen. In der Konsequenz wird der Motor nunmehr nur noch in dem - allerdings geänderten - "Modus 1" betrieben.Mit anwaltlichem Schreiben vom 04.12.2019 forderte der Kläger die Beklagte zur Zahlung von 27.900 € auf, verringert um eine Nutzungsentschädigung. Eine Reaktion der Beklagten hierauf erfolgte nicht.Der Kläger meint, dass die Beklagte ihn vorsätzlich und in sittenwidriger Weise geschädigt habe, wobei der Schaden darin bestehe, dass er ein Geschäft abgeschlossen habe, das er bei Kenntnis der Sachlage nicht getätigt hätte. Er sei von der Beklagten daher so zu stellen, als habe er das Fahrzeug nicht gekauft. Die sittenwidrige Handlung der Beklagten bestehe darin, dass sie allein aus Habgier den Vertrauensverlust der Marktteilnehmer in den Fahrzeugmarkt billigend in Kauf genommen habe. Das klägerische Fahrzeug habe jedenfalls hinsichtlich der Abgaswerte ursprünglich nicht den geltenden Vorschriften entsprochen und Schadstoffgrenzwerte nicht eingehalten. Weiterhin sei ein Software-Update nicht geeignet, einen gesetzeswidrigen Zustand zu beseitigen. Hierdurch käme es innerhalb der Abgasrückführung zu Erhöhung der zurückgeführten Abgase und somit zu einer zwangsläufig höheren Abnutzung und einem zwangsläufig höheren Verschleiß.Der Kläger meint, dass die Manipulation durch die Motorsteuerungssoftware der Beklagten zuzurechnen sei. Insofern behauptet er, dass die Entscheidung zum Einbringen der Software durch den Vorstand der Beklagten getroffen worden sei. Der Vorstand habe es billigend in Kauf genommen, dass Kunden über das Vertriebsnetz an Vertragshändlern und Tochterunternehmen nicht gesetzeskonforme Fahrzeuge erwerben. In Anbetracht der Tragweite der Abgasmanipulation sei nicht denkbar, dass die Entwicklung und der Einsatz der streitgegenständlichen Software nicht vom Vorstand der Beklagten ausgingen.Ferner liege eine Wertminderung in Form eines merkantilen Minderwerts am Fahrzeug vor. Es sei ein erheblicher Vertrauensverlust in die Dieselmotoren der Beklagten eingetreten, der dazu führe, dass die Fahrzeuge der Beklagten nur mit einem erheblichen Abschlag veräußert werden könnten.Der Kläger meint, dass die Beklagte ihm daher den Kaufpreis auszahlen müsse, Zug um Zug gegen Rückgabe des streitgegenständlichen Fahrzeugs. Ferner verlangt er Ersatz der ihm entstandenen vorgerichtlichen Rechtsanwaltskosten sowie Zinsen nach § 849 BGB.Er behauptet, im Zeitpunkt des Kaufs des streitgegenständlichen Fahrzeugs nicht gewusst zu haben, dass auch dieses Fahrzeug vom sog. Abgasskandal betroffen ist. Insbesondere sei er von der Betroffenheit seines Fahrzeugs nicht im Rahmen des Kaufvertragsgesprächs aufgeklärt worden. In Kenntnis von der Betroffenheit hätte er das Fahrzeug jedenfalls nicht erworben.Der Kläger hat ursprünglich beantragt,1. die Beklagte zu verurteilen, an ihn 20.266,80 € nebst Zinsen in Höhe von 4 % aus einem Betrag in Höhe von 27.900,00 seit dem 4. Mai 2016 bis zum Eintritt der Rechtshängigkeit sowie in Höhe von 5 Prozentpunkten über dem Basiszinssatz aus einem Betrag in Höhe von 20.266,80 € seit Rechtshängigkeit zu zahlen. Die Verurteilung erfolgt Zugum-Zug gegen Übereignung und Herausgabe des Fahrzeugs der Marke W mit der Fahrzeugidentifikationsnummer (FIN) ... nebst zwei Fahrzeugschlüsseln, Kfz-Schein und Kfz-Brief,2. hilfsweise festzustellen, dass die Beklagte verpflichtet ist, dem Kläger Schadensersatz zu zahlen für Schäden, die aus dem Einbau einer unzulässigen Abschalteinrichtung i.S.v. Art. 5 Abs. 2 EG-VO 715/2007 durch die Beklagte in das Fahrzeug der Marke W mit der (FIN) ... resultieren,3. festzustellen, dass sich die Beklagte mit der Annahme der in vorgenannten Klageanträgen genannten Zugum-Zug-Leistung im Annahmeverzug befindet,4. festzustellen, dass der in Antrag zu 1) bezeichnete Anspruch aus einer vorsätzlichen unerlaubten Handlung der Beklagten herrührt,5. die Beklagte zu verurteilen, den Kläger von den durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 2.077,74 € freizustellen.Im Termin zur mündlichen Verhandlung hat der Prozessbevollmächtigte den Rechtsstreit in Bezug auf den Antrag zu 1) in Höhe der Differenz zwischen dem ursprünglich gestellten Zahlungsanspruch in Höhe von 20.262,80 und dem in der mündlichen Verhandlung gestellten Zahlungsanspruch in Höhe von 19.234,68 € für erledigt erklärt.Die Beklagte schloss sich der Erledigungserklärung nicht an.Der Kläger beantragt nunmehr,1. die Beklagte zu verurteilen, an ihn 19.234,68 € nebst Zinsen in Höhe von 4 % aus einem Betrag in Höhe von 27.900,00 seit dem 2. Mai 2016 bis zum Eintritt der Rechtshängigkeit sowie in Höhe von 5 Prozentpunkten über dem Basiszinssatz aus einem Betrag in Höhe von 19.762,08 € seit Rechtshängigkeit zu zahlen. Die Verurteilung erfolgt Zugum-Zug gegen Übereignung und Herausgabe des Fahrzeugs der Marke W mit der Fahrzeugidentifikationsnummer (FIN) ... nebst zwei Fahrzeugschlüsseln, Kfz-Schein und Kfz-Brief,2. hilfsweise festzustellen, dass die Beklagte verpflichtet ist, dem Kläger Schadensersatz zu zahlen für Schäden, die aus dem Einbau einer unzulässigen Abschalteinrichtung i.S.v. Art. 5 Abs. 2 EG-VO 715/2007 durch die Beklagte in das Fahrzeug der Marke W mit der Fahrzeugidentifikationsnummer (FIN) ... resultieren,3. festzustellen, dass sich die Beklagte mit der Annahme der in vorgenannten Klageanträgen genannten Zugum-Zug-Leistung im Annahmeverzug befindet,4. festzustellen, dass der in Antrag zu 1) bezeichnete Anspruch aus einer vorsätzlichen unerlaubten Handlung der Beklagten herrührt,5. die Beklagte zu verurteilen, den Kläger von den durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 2.077,74 € freizustellen,6. festzustellen, dass sich die Forderung des Antrags unter 1. in der Höhe des vom Gericht festgesetzten Anspruchs der Beklagten auf Nutzungsersatz für die vom Kläger zwischen Rechtshängigkeit der Klage und dem Termin der letzten mündlichen Verhandlung gezogenen Nutzungen erledigt hat.Die Beklagte beantragt,die Klage abzuweisen.Sie meint, dass eine vorsätzliche, sittenwidrige Schädigung des Klägers nicht vorliege. Dieser stehe u.a. entgegen, dass er von der streitgegenständlichen Software gewusst habe. Auch habe sie den Kläger nicht getäuscht. Da der Kläger das Fahrzeug von einem Dritten erworben hat, liege schon deshalb keine Täuschungshandlung der Beklagten vor. Da sie im Zeitpunkt des Kaufs des Fahrzeugs den Einbau der Software im streitgegenständlichen Motor EA 189 auch bereits offengelegt habe, liege auch kein Vorsatz und keine Schädigungsabsicht vor.Sie bestreitet, dass der Vorstand der Beklagten im Zeitpunkt des Abschlusses des Kaufvertrages Kenntnis von dem Einsatz der sog. Prüfstandsentdeckungssoftware gehabt habe.Sie behauptet weiter, dass es keine negativen Folgen des Softwareupdates gebe. Insbesondere bestehe kein negativer Einfluss auf die Dauerhaltbarkeit des Motors und seiner Komponenten, wie etwa dem Dieselpartikelfilter. Mit dem Update seien keine technischen Nachteile verbunden. Vielmehr sei bei dem streitgegenständlichen Fahrzeug auch kein Wertverlust aufgrund der verwendeten streitgegenständlichen Software eingetreten.Die Beklagte bestreitet ferner, dass der Kläger das Fahrzeug nicht erworben hätte, wenn er von der Funktionsweise der streitgegenständlichen Software Kenntnis gehabt hätte. Zudem liege für den Kläger auch gar kein nachteiliger Vertrag vor. Weder die Brauchbarkeit des Fahrzeugs sei eingeschränkt noch lägen wirtschaftliche Nachteile vor. Sie ist der Ansicht, es liege kein kausaler Schaden vor. Jedenfalls sei ein etwaiger Schaden nicht vom Schutzzweck einer etwaig verletzten Norm erfasst.Die Beklagte behauptet, dass der Kläger im Zeitpunkt des Erwerbes des Fahrzeugs gewusst habe, dass das Fahrzeug vom sog. Abgasskandal betroffen ist. Aufgrund der Maßnahmen der Beklagten zur Information der Öffentlichkeit sei zumindest davon auszugehen.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die im Wesentlichen zulässige Klage ist unbegründet.I.Dem Kläger steht gegen die Beklagte kein Anspruch auf Zahlung von Schadensersatz aus § 826 BGB oder § 823 Abs. 1 BGB oder § 823 Abs. 2 BGB in Verbindung mit § 263 StGB, §§ 6 Abs. 1, 27 Abs. 1 EG-FGV zu.1.Soweit grundsätzlich nach § 826 BGB ein Schadensersatzanspruch wegen einer vorsätzlichen sittenwidrigen Schädigung des Klägers durch die Beklagte in Betracht kommt, scheitert dieser jedenfalls daran, dass es dem Kläger nicht gelungen ist, das Gericht davon zu überzeugen, dass sich der von der Beklagten heimlich vorgenommene Einbau der optimierenden Motorsteuersoftware und das Inverkehrbringen der betroffenen Motoren ohne Aufklärung über den Einbau der Software kausal auf seine Willenserklärung, den Kaufvertrag im Mai 2016 zu schließen, ausgewirkt haben.Im Rahmen des § 826 BGB ist der Schädiger nur dann zum Ersatz des Schadens verpflichtet, wenn dieser kausal auf eine vorsätzliche sittenwidrige Schädigungshandlung des Schädigers zurückzuführen ist. Der Kläger hat in seiner Klageschrift vorgetragen, dass er das streitgegenständliche Fahrzeug nicht gekauft hätte, wenn er Kenntnis von der Abgas- und Softwareproblematik gehabt hätte.Dieses schriftsätzliche Vorbringen vermochte das Gericht nach Durchführung der mündlichen Verhandlung nicht zu überzeugen. Das Gericht hat den Kläger zu dem Termin zur mündlichen Verhandlung mittels Verfügung vom 18.03.2020 geladen und das persönliche Erscheinen angeordnet, um ihn insbesondere zu den Aspekten des Zeitpunktes der persönlichen Kenntnis vom sog. Abgasskandal, der Kaufmotivation und dem Verhalten bei unterstellter Kenntnis von der Software persönlich anzuhören. Der Empfang ist von den Prozessbevollmächtigten des Klägers mittels Empfangsbekenntnis vom 17.04.2020 bestätigt worden. Auch ist die Kammer davon überzeugt, dass der Kläger persönlich Kenntnis von der Terminsladung hatte, da er einen Tag zuvor seinen Prozessbevollmächtigen bzw. seinem Terminsvertreter Lichtbilder zum aktuellen Kilometerstand übersandte.Nachdem der Kläger zum Termin zur mündlichen Verhandlung am 20.05.2020 nicht erschienen ist, war es der Kammer nicht möglich, sich durch die persönliche Anhörung des Klägers ein Bild von seiner Kaufmotivation und seinem Kaufverhalten bei unterstellter Kenntnis von der Software zu machen und die so gewonnenen Erkenntnisse in ihre Überzeugungsbildung einzubeziehen. Zwar erklärte der Sohn des Klägers auf telefonische Nachfrage im Termin, dass der Kläger aufgrund der aktuellen Corona-Situation und aufgrund seines fortgeschrittenen Alters nicht erscheinen werde. Dies wurde dem Gericht jedoch erst auf telefonische Nachfrage während des Termins mitgeteilt, was für eine hinreichende Entschuldigung von seinem Fernbleiben nicht ausreicht.Aufgrund des Nichterscheinens des Klägers war es dem Gericht ferner nicht möglich, sich davon zu überzeugen, dass der Kläger im Zeitpunkt des Kaufs des streitgegenständlichen Fahrzeugs tatsächlich keine Kenntnis vom sog. Abgasskandal hatte. Die von dem Kläger schriftsätzlich vorgetragene Behauptung erscheint der Kammer nicht lebensnah, da zu diesem Zeitpunkt bereits umfangreiche Berichte über den sog. Abgasskandal der Öffentlichkeit zugänglich waren. Die Beklagte gab am 22. September 2015 eine an den Kapitalmarkt gerichtete ad hoc Mitteilung heraus, in der sie über die Dieselproblematik informierte und auch mitteilte, dass "die betreffende Steuerungssoftware auch in anderen Diesel-Fahrzeugen des Volkswagen Konzerns vorhanden" sei. Hinzu kommt eine unmittelbar anschließende umfassende Information der Öffentlichkeit durch die Beklagte selbst. Sie hat in einer Mitteilung vom 2. Oktober 2015 die Presse über die Dieselproblematik informiert und eine in zahlreichen Medien erwähnte Internetwebseite geschaltet, über die sich die Fahrzeughalter informieren konnten, ob ihr konkretes Fahrzeug mit der fraglichen Software-Konfiguration ausgestattet ist. Bereits zu diesem Zeitpunkt war die Thematik Gegenstand einer sehr intensiven Berichterstattung in nahezu allen Zeitungen sowie Fernsehsendern und Onlinemedien in Deutschland. Auch die Händler und Vertriebspartner wurden von der Beklagten informiert.2.Schadensersatzansprüche aus § 823 Abs. 1 BGB und § 823 Abs. 2 BGB in Verbindung mit § 263 StGB, §§ 6 Abs. 1, 27 Abs. 1 EG-FGV scheitern - sollten die zuletzt genannten Vorschriften überhaupt als Schutzgesetze im Sinne des § 823 Abs. 2 BGB einzustufen sein - ebenfalls am Fehlen eines kausal durch eine Handlung der Beklagten verursachten Schadens.II.Mangels Hauptforderung besteht auch kein Anspruch auf Zahlung von Zinsen aus § 849 BGB oder Rechtshängigkeitszinsen, Feststellung des Annahmeverzugs oder Freistellung von vorgerichtlichen Rechtsanwaltskosten.III.Aus den dargelegten Gründen ist auch der Feststellungsantrag zu 6) unbegründet. Denn dem Kläger stand schon vor Rechtshängigkeit kein Zahlungsanspruch zu, der sich durch ein nach Rechtshängigkeit eintretendes Ereignis hätte erledigen können.IV.Zwar war wegen der Unbegründetheit des Hauptantrages zu 1) auch über den Hilfsantrag zu 2) zu entscheiden. Dieser hilfsweise gestellte Feststellungsantrag ist aber mangels Feststellungsinteresses gemäß § 256 ZPO unzulässig. Der Kläger hat schon nicht substantiiert dargetan, dass ein (weiterer) auf die Verletzungshandlung beruhender Schadenseintritt wahrscheinlich ist (BGH, Urteil vom 24. Januar 2006 - XI ZR 384/03 -, BGHZ 166, 84-117, Rn. 29 m.w.N.). Er macht insoweit allein geltend, dass eine Stilllegung des Fahrzeugs drohe und in verschiedenen Städten Dieselfahrverbote diskutiert werden. Dies genügt nicht. Nachdem das Software-Update installiert ist, droht eine Stilllegung des Fahrzeugs nicht mehr; die mögliche Betroffenheit von Dieselfahrverboten stellt keinen Schaden dar, der auf der geltend gemachten Verletzungshandlung beruht.V.Die Entscheidung über die Kosten folgt aus § 91 Abs. 1 S. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit ergibt sich aus § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2317309.html (https://oj.is/2317309)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

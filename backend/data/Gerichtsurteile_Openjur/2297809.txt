@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG TraunsteinRechtsprechungEndurteil vom 10.05.2019 - 5 O 3366/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Traunstein, Endurteil vom 10.05.2019 - 5 O 3366/18
+                      m. Fundstelle
+                      LG Traunstein, Endurteil vom 10.05.2019 - 5 O 3366/18 = openJur 2020, 72698
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Traunstein, Endurteil vom 10.05.2019 - 5 O 3366/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 72698
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger trägt die Kosten des Rechtsstreits.3. Das Urteil ist vorläufig vollstreckbar. Der Kläger kann die Zwangsvollstreckung der Beklagten durch Sicherheitsleistung in Höhe von 110 % des zu vollstreckenden Betrages abwenden, wenn nicht die Beklagte zuvor Sicherheit in gleicher Höhe leistet.BeschlussDer Streitwert wird auf 9.246,59 € festgesetzt. 
+				Tatbestand
+				Die Klagepartei begehrt von der Beklagten Schadensersatz aus dem sog. "VW-Abgasskandal".Die Beklagte ist eine Aktiengesellschaft deutschen Rechts und ist im Handelsregister des Amtsgerichts ... unter der Nr. HRB ... eingetragen. Sie ist Automobilhersteller.Die Klagepartei erwarb am 22.04.2016 bei dem ... (in Folge: "Verkäufer") den PKW Audi A6 Avant 2,0 TDI zum Bruttokaufpreis von 23.980,00 € mit Kilometerstand 121.000 km (Anlage K 1). Das Fahrzeug verfügte über eine EG-Typengenehmigung für die Emissionsklasse EU5. Zur Erlangung dieser Typengenehmigung müssen die Fahrzeuge bestimmte Emissionsgrenzwerte einhalten, die unter Laborbedingungen gemessen werden. Der im klägerischen Fahrzeug verbaute Dieselmotor des Typs EA189 Eu5, der von der Beklagten entwickelt wurde, und in Fahrzeugen aus anderen Marken des Konzerns der Beklagten Verwendung findet, ist mit einer Software ausgestattet, welche die Abgasrückführung steuert (in Folge: "AGRS"). Das AGRS erkennt, wenn das Fahrzeug den Testlauf für das Typengenehmigungsverfahren den sog. neuen europäischen Fahrzyklus (in Folge: "NEFZ") durchläuft. Im NEFZ ist das AGRS im Modus 1 aktiv, welcher zu einer höheren Abgasrückführungsrate führt. Im Straßenverkehr ist beim AGRS der Modus 0 aktiv, durch den die Abgasrückführung dauerhaft nur in einem geringeren Maß stattfindet. Das Kraftfahrt-Bundesamt (in Folge: "KBA") hat mit Bescheid vom 15.10.2015 die Beklagte verpflichtet, bei allen betroffenen Fahrzeugen mit dem Aggregat EA 189 EU5 "die unzulässige Abschalteinrichtung" zu entfernen. Die Beklagte hat zwischenzeitlich selbst und über entsprechende Autohäuser ein Softwareupdate angeboten, das die Klägerin nicht hat aufspielen lassen, weil sie nachteilige Folgen befürchtet. Die Klagepartei hat mit Schreiben vom 24.01.2018 (Anlage K 27) Schadensersatzansprüche geltend gemacht, und die Beklagte aufgefordert, diese innerhalb eines Monats anzuerkennen. Hierauf erfolgte keine Reaktion.Die Klageseite trägt vor, sie hätte den Kauf bei Kenntnis der Sachlage nicht getätigt. Die von der Beklagten verbaute Software sei nicht gesetzeskonform. Sie habe deshalb jedenfalls mit Problemen im Fall der Entdeckung durch das KBA rechnen müssen.Sie ist der Rechtsansicht, mit der Software werde gegen Art. 5 Abs. 2 i.V.m. Art. 3 Nr. 10 der VO (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20.06.2007 über die Typengenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur und Wartungsinformationen für Fahrzeuge verstoßen. Bei verständiger Auslegung handele es sich bei der Programmierung um eine Abschalteinrichtung, dies unabhängig davon, ob lediglich auf innermotorische Vorgänge oder direkt auf das Emissionskontrollsystem eingewirkt würde. Das Verhalten der Beklagten erfülle den Tatbestand des § 826 BGB i.V.m. § 31 BGB. Im Hinblick auf die Voraussetzungen des § 31 BGB träfe die Beklagte eine sekundäre Darlegungslast, da die Klageseite keinen Einblick in die internen Entscheidungsvorgänge habe. Dieser Darlegungslast sei die Beklagte bisher nicht nachgekommen. Im Übrigen sei es naheliegend, dass die millionenfache Verwendung der Software nicht ohne Wissen des Vorstands erfolgen könnte. Es sei auch von ein vorsätzliches Handeln zu bejahen, da mangels entgegenstehender Anhaltspunkte davon ausgegangen werden müsse, dass den Organen der Beklagten völlig klar gewesen sei, dass die Abgaswerte nicht den einschlägigen Vorschriften entsprächen und somit die Kunden der Beklagten wirtschaftlich nachteilige Kaufverträge abschlössen. Dies würde auch ein gegen die guten Sitten verstoßendes Verhalten darstellen. Die Täuschung durch die Beklagte diene dem Zweck zur Kostensenkung die teure Lösung der Abgasreinigung zu vermeiden und Wettbewerbsvorteile zu erzielen. Schon das Gewinnstreben um den Preis der bewussten Täuschung und Benachteiligung der Kunden gäbe dem Handeln der Beklagten das Gepräge der Sittenwidrigkeit Darüber hinaus sei auch der Tatbestand der §§ 823 Abs. 2, 31 BGB i.V.m. § 263 BGB erfüllt. Die Beklagte habe über die Gesetzeskonformität des Fahrzeugs getäuscht. Zudem habe sie durch die Angaben der Schadstoffwerte in der Prospektwerbung getäuscht. Die Klagepartei habe auf die Richtigkeit dieser Umstände vertraut. Sie habe im Vertrauen darauf, durch den Abschluss des Kaufvertrages über ihr Vermögen verfügt und einen Schaden erlitten, da sie bei Kenntnis der Sachlage den Kaufvertrag nicht abgeschlossen hätte. Der erlittene Schaden stelle auch einen stoffgleichen Vermögensnachteil zu dem der Beklagten erwachsenen Vorteil dar. Es würde ausreichen, dass die Beklagte einem Dritten einen Vorteil verschaffen wollte.Die Klagepartei beantragt zuletzt:I. Die Beklagte wird verurteilt, an den Kläger 23.980,00 € nebst Zinsen hieraus in Höhe von 5 % über dem jeweiligen Basiszinssatz seit 31.10.2018, Zug-um-Zug gegen Rückgabe und Rückübereignung des Fahrzeugs Audi A 6 Avant 2,0 TDI Fahrzeugidentnummer ..., und Zahlung einer Nutzungsentschädigung i.H.v. EUR 14.733,41 zu bezahlen.II. Die Beklagte wird verurteilt, den Kläger von vorgerichtlichen Rechtsanwaltskosten in Höhe von EUR 1.242,84 freizustellen.III. Es wird festgestellt, dass sich die Beklagte mit der Abnahme des Fahrzeugs in Verzug befindet.Die Beklagte beantragt:Klageabweisung.Die Beklagte trägt im Wesentlichen vor, das Fahrzeug verfüge über eine wirksame EG-Typengenehmigung und über eine wirksame Betriebserlaubnis. Die Tatsache, dass das verfahrensgegenständliche Fahrzeug mit der beschriebenen Software ausgestattet sei, ändere am Bestand der EG-Typengenehmigung nichts. Das Fahrzeug entspräche unter Laborbedingungen den Anforderungen, die im Typengenehmigungsverfahren für Laborbedingungen gestellt würden. Der Normgeber habe bewusst auf eine Prüfung im praktischen Fahrbetrieb verzichtet. Die Software-Programmierung stelle auch keine gesetzeswidrige Abschaltvorrichtung dar. Die Software sei weder Bestandteil des Emissionskontrollsystems noch wirke sie im realen Fahrbetrieb auf dieses ein Sie sei vielmehr als innermotorische Maßnahme vorgelagert und beträfe ausschließlich die Abgasrückführung. Durch das Software-Update drohe der klagenden Seite kein Entzug der Zulassung.Die Beklagtenseite ist der Rechtsansicht, dass es bei § 826 BGB bereits an der die Klagepartei betreffenden Handlung der Beklagten fehle. Es läge auch kein sittenwidriges Verhalten vor. Dafür sei nicht ausreichend, dass das Verhalten gegen ein Gesetz verstößt, sondern es müsse eine besondere Verwerflichkeit des Handelns gegenüber der Klagepartei hinzu kommen. Etwaige bestrittene Verstöße gegen die VO (EG) Nr. 715/2007 oder falsche Angaben nach der Pkw-EnVKV würden kein sittenwidriges Verhalten gegenüber der Klagepartei begründen. Der Klageseite sei auch kein Schaden entstanden. Es fehle auch am Schädigungsvorsatz und an der Kausalität. Auch für einen Betrugstatbestand (§ 263 StGB) fehle es an der Täuschung. Darüber hinaus liege kein täuschungsbedingter Irrtum vor. Ebenso wenig sei von einer irrtumsbedingten Vermögensverfügung auszugehen. Auch ein Vermögensschaden sei nicht gegeben. Hinsichtlich des subjektiven Tatbestands fehle es an einer konkreten Darlegung durch die Klagepartei, dass die Beklagte in der Absicht gehandelt. 
+				Gründe
+				Die zulässige Klage ist unbegründet.Der Klagepartei steht weder aus § 826 BGB noch aus §§ 280 I 1, 311 III, 249 II 1 BGB ein Schadensersatzanspruch zu, den der Kläger in Form der Rückabwicklung des Pkw-Kaufvertrags begehrt.I.Ein Anspruch der Klagepartei aus § 826 BGB kommt nicht in Betracht.Der Kläger trägt vor, dass die vorsätzliche sittenwidrige Schädigung i.S.d. § 826 BGB vorliegend darin bestehe, dass durch den bewussten Einbau der Betrugssoftware durch die Entwicklungsingenieure der Beklagten in Kenntnis des Vorstandes eine Täuschung der Verbraucher und Käufer des Fahrzeugs erfolgt sei. Diese hätten auf die Richtigkeit der angegebenen Schadstoffemissionen und auf die Konformität mit den Schadstoffklassen vertraut. Diese Täuschung liege gegenüber jedem Erwerber eines Fahrzeugs mit einem Motor dieser Baureihe vor, ohne dass es auf die Täuschung durch einen Händler - der ebenso auf die Konformität und Richtigkeit der ihm erteilten Informationen vertraut hat - ankomme.Vorliegend ist jedoch dem der Nachweis dafür, dass er getäuscht wurde, nicht gelungen.Der Kläger hat den PKW im April des Jahres 2016 erworben. Zu diesem Zeitpunkt war die "Dieselthematik" nicht nur in der Automobilbranche, sondern der breiten Öffentlichkeit durch die Thematisierung in Presse, Rundfunk und Fernsehen bereits bekannt.Die Beklagte hatte bereits im Jahr 2015 darauf hingewiesen, dass eine Motorsoftware verbaut wurde, die Unregelmäßigkeiten aufweise. In der Folge wurde vielfach in Politik und Öffentlichkeit diskutiert, wie mit der "Dieselthematik" zu verfahren sei, so dass zur Überzeugung des Gerichts jedem allgemein informierten Kunden der Beklagten bzw. Kaufinteressenten für aus dem Konzern der Beklagten stammender PKW bewusst sein musste, dass es bezüglich zahlreicher PKWs des Konzerns bzw. der Konzerntöchter zu Problemen hinsichtlich der Motorsteuerung gekommen war.Dem Kläger standen daher zum Zeitpunkt des Kaufvertragsschlusses ausreichende Möglichkeiten zur Verfügung, sich ohne größere Anstrengung vorab zu informieren bzw. davon Kenntnis zu erhalten, ob bzw. dass der streitgegenständliche PKW ebenfalls mit der monierten Software ausgestattet ist.Der Kläger hat im Rahmen der informatorischen Anhörung zwar angegeben, dass ihm zum Zeitpunkt des Kaufvertragsschlusses nicht bewusst gewesen sei, dass ein Betrug vorliegend könnte und auf die Angaben der Herstellerin, hier der Beklagten, vertraut habe.Zu dem Zeitpunkt des Kaufvertragsschlusses hatte aber die Beklagte bereits bekannt gegeben, dass es zu Problemen hinsichtlich der Motorsteuerungssoftware gekommen war, sodass ein Vertrauensschutz des Klägers auf die Einhaltung gesetzlicher Vorschriften nicht mehr bestehen konnte.Daneben kommt auch die für einen Anspruch aus § 826 BGB erforderliche Arglist jedenfalls dann nicht (mehr) in Betracht, wenn - wie hier zum Zeitpunkt des streitgegenständlichen Kaufvertragsschlusses - der potentiell Täuschende über die den Täuschungsvorwurf begründenden Umstände informiert hat. Damit ist jedenfalls der Arglistvorwurf im Verhältnis zu Kunden, die nach dieser Information einen von der "Schadsoftware" betroffenen Pkw kaufen, nicht mehr nachweisbar.Ein Nachweis der klägerseits behaupteten vorsätzlichen sittenwidrigen Schädigung durch Täuschung seitens der Beklagten ist damit nicht geführt, ein Anspruch aus § 826 BGB kommt somit nicht in Betracht.II.Auch steht der Klagepartei kein Anspruch auf Schadensersatz gemäß §§ 280 I 1, 311 III, 249 II 1 BGB zu.Ausreichende Anhaltspunkte dafür, dass der Kläger den Kaufvertrag geschlossen hat, weil die Beklagte als Herstellerin des streitgegenständlichen PKWs durch Inanspruchnahme eines besonderen Vertrauens, das die Vertragsverhandlungen und den Vertragsschluss erheblich beeinflusst hat, für den Kläger eine Garantie gesetzeskonformen Handelns bot, sind nach der Veröffentlichung der ad-hoc-Mitteilung vom 22.09.2015, jedenfalls aber infolge der sich daran anschließenden breiten öffentlichen Diskussion, zum Zeitpunkt des Kaufvertragsschlusses nicht mehr gegeben.III.Nachdem kein Anspruch des Klägers gegen die Beklagte in Betracht kommt, sind auch vorgerichtliche Rechtsanwaltskosten nicht zu erstatten.Die Kostenentscheidung ergibt sich aus § 91 ZPO,der Ausspruch zur vorläufigen Vollstreckbarkeit beruht auf § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2297809.html (https://oj.is/2297809)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

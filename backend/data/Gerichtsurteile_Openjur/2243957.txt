@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 01.07.2020 - 1 O 448/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 01.07.2020 - 1 O 448/19
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 01.07.2020 - 1 O 448/19 = openJur 2020, 32375
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 01.07.2020 - 1 O 448/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 32375
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt die Klägerin.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 Prozent des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Klägerin macht gegenüber der Beklagten Amtshaftungsansprüche im Hinblick auf den sogenannten "Diesel-Abgasskandal" geltend.Die Klägerin, wohnhaft in X, erwarb am 30.07.2015 den streitgegenständlichen Pkw der Marke W Y 2,0 $$$ zum Kaufpreis von 30.051,76 € (Anlage K3).Das streitgegenständliche Fahrzeug ist mit einem von der Beklagten hergestellten Dieselmotor des Typs $$...# ausgestattet und mit der Abgasnorm EURO 5 zertifiziert. Die ursprünglich verbaute Software der Motorsteuergeräte verfügte über eine Umschaltlogik, die erkennt, wenn das Fahrzeug den sogenannten Neuen Europäischen Fahrzyklus (NEFZ) durchfährt.Bei dem NEFZ handelt es sich um einen gesetzlich vorgegebenen Testlauf, der aus fünf synthetischen Fahrkurven besteht. Im NEFZ werden bei Testfahrzeugen unter Laborbedingungen die für die Erlangung einer Typengenehmigung maßgeblichen Abgaswerte gemessen. Denn Hersteller von Fahrzeugen müssen nach der VO (EG) Nr.715/2007 (Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20.06.2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge nachweisen, dass die von ihnen produzierten (Neu-) Fahrzeuge über eine Typengenehmigung verfügen. Zur Erlangung dieser Typengenehmigung müssen die Fahrzeuge bestimmte, unter diesen Laborbedingungen gemessene, Emissionsgrenzwerte einhalten.Erkennt die im streitgegenständlichen Fahrzeug ursprünglich installierte Software diese Testbedingungen des NEFZ, so wird die Abgasrückführung des Fahrzeuges so gesteuert, dass möglichst wenig Stickoxide (NOx) ausgestoßen werden ("NOxoptimierter Modus 1"). Im normalen Fahrbetrieb und Straßenverkehr ist hingegen der "Abgasrückführungs-Modus 0" aktiv, weshalb die NOx-Emissionen dann höher sind.Am 22.09.2015 informierte die I AG die Öffentlichkeit per Ad-Hoc-Mitteilung über Unregelmäßigkeiten bei der verwendeten Motorsteuerungssoftware und eine festgestellte auffällige Abweichung zwischen Emissionswerten auf dem Prüfstand und realem Fahrbetrieb. Das Kraftfahrt-Bundesamt ordnete mit Bescheid vom 15.10.2015 zunächst den Rückruf aller mit dem Motortyp $$...# EU5 und der beschrieben Umschaltlogik versehenen Fahrzeuge an, wobei es der I AG aufgab nachzuweisen, dass die beschriebene Umschaltlogik, welche als unzulässige Abschalteinrichtung eingestuft werde, entfernt worden sei. Dies machte das Kraftfahrt-Bundesamt durch Pressemitteilung vom 16.10.2015 öffentlich. Später genehmigte das Kraftfahrt-Bundesamt ein von der I AG für diesen Motortyp entwickeltes Softwareupdate, welches die Klägerin in der Folgezeit auch aufspielen ließ.Die Klägerin behauptet, Halterin und Eigentümerin des streitgegenständlichen Fahrzeugs zu sein. Ein bei dem Landgericht Bonn unter dem Aktenzeichen 17 O 382/19 anhängiges Klageverfahren vom 10.12.2019 sei noch nicht abgeschlossen und eine Ausgleichszahlung und Rückabwicklung noch nicht vorgenommen worden. Durch das Aufspielen des Software-Updates drohten der Klägerin erhebliche Nachteile, etwa in Form des Mehrverbrauchs von Kraftstoff, einer Minderleistung, höheren Partikelausstoßes, Verkürzung der Lebenszeit des Dieselpartikelfilters sowie des Motors und sonstiger Teile, sowie eine höhere Geräuschentwicklung. Insoweit entstünden der Klägerin nicht vorgesehene zusätzliche Kosten von ca. 3.000,00 € bis 4.000,00 €. Außerdem weise das streitgegenständliche Fahrzeug infolge der Manipulation einen merkantilen Minderwert von mindestens 10 Prozent auf, es sei nur noch mit erheblichen Abschlägen verkäuflich. Zudem sei die Klägerin infolge der Manipulation Kfz-Steuernachforderungen ausgesetzt. Hätte die Klägerin von der Manipulation des Fahrzeugs gewusst, hätte sie es nicht erworben. Sie hätte den behaupteten Schaden nicht erlitten, wenn die Beklagte wirksame und abschreckende Sanktionen im Sinne des Art. 46 der RL 46/2007/EG in Umsetzung der Richtlinie geschaffen und nicht rechtswidrig eine Typengenehmigung für das streitgegenständliche Fahrzeug erteilt hätte. Hätte die Beklagte eine entsprechende Umsetzung vorgenommen, wäre die Herstellerin des steitgegenständlichen Fahrzeugs das Risiko der Manipulation nicht eingegangen. Die Typengenehmigung wäre zu versagen gewesen, wenn die Beklagte ihren Überwachungspflichten gegenüber der Automobilindustrie ordnungsgemäß nachgekommen wäre. Auch sei der Beklagten bereits lange Zeit vor Bekanntwerden des Dieselskandals in 2015, spätestens ab 2007 bzw. 2008 infolge des Vorliegens von Anhaltspunkten für Manipulationen in der Automobilindustrie, das Vorliegen unzulässiger Abschalteinrichtungen bekannt gewesen. Auch nach dem öffentlichen Bekanntwerden des Abgasskandals in 2015 habe die Beklagte unzureichende Kontrollen vorgenommen und den weiteren Verkauf von manipulierten Fahrzeugen erst ermöglicht. Die Klägerin ist weiter der Auffassung, ohnehin liege infolge der Einleitung eines europäischen Vertragsverletzungsverfahrens ein hinreichend qualifizierter Verstoß der Beklagten gegen Unionsrecht vor.Die Klägerin beantragt,festzustellen, dass die Beklagte verpflichtet ist, ihr bezüglich des Fahrzeugs W Y 2,0 $$$ mit der FIN $$$$$$#$$$$... die Schäden zu ersetzen, die ihr daraus entstehen,a. dass es die Beklagtenpartei unterlassen hat, aufgrund Art. 46 der Richtlinie 2007/46/EG wirksame, verhältnismäßige und abschreckende Sanktionen zu erlassen;b. hilfsweise: dass die Beklagtenpartei die Typengenehmigung vom 29.09.2014 mit der Typengenehmigungsnummer e1*2001/116*0450*20 erteilt hat.Die Beklagte beantragt,die Klage abzuweisen.Sie behauptet, die I AG habe bereits im Jahr 2015 zugesagt, etwaige Nachzahlungen bei der KfZ-Steuer zu übernehmen und insoweit auch die EU-Finanzminister darum ersucht, mögliche Steuernachzahlungen direkt dem Konzern in Rechnung zu stellen. Das Fahrzeug entspreche durch Aufspielen des Software-Updates den Vorgaben der EG-Typengenehmigung und es bestehe aus diesem Grund kein Risiko der Fahrzeugstillegung. Sie ist der Auffassung, die Klägerin könne einen erstattungsfähigen Schaden nicht geltend machen, da sie sich bei dem Hersteller bzw. Verkäufer des Fahrzeugs schadlos halten könne. Ohnehin bezwecke das harmonisierte Typengenehmigungsrecht nicht die Verleihung individueller Rechte für einzelne Fahrzeugkäufer. Auch habe die Beklagte die genannte Richtlinie ermessensfehlerfrei umgesetzt, insbesondere unionsrechtskonforme Sanktionen in Form von Geldbußen sowie straf- und verwaltungsrechtlichen Maßnahmen vorgehalten, bzgl. derer die Beklagte behauptet, dass sie auch tatsächlich verhängt worden seien. Weiter gehe ohnehin der Kauf des manipulierten Fahrzeugs auf das fehlerhafte Verhalten des Herstellers und nicht auf eine vermeintlich unzureichende Richtlinienumsetzung zurück. Auch seien die Prüf- und Überwachungspflichten eingehalten worden. Des Weiteren hätten weder das Kraftfahrtbundesamt noch die Beklagte Kenntnis oder einen begründeten Verdacht betreffend der Verwendung unzulässiger Abschalteinrichtungen gehabt.Wegen der weiteren Einzelheiten des Sach- und Streitstands wird auf die wechselseitigen Schriftsätze der Parteien und die diesen beigefügten Anlagen sowie auf das Protokoll des Termins zur mündlichen Verhandlung vom 10.06.2020 Bezug genommen. 
+				Gründe
+				I.Die zulässige Klage ist sowohl betreffend des Haupt- als auch des Hilfsantrags unbegründet.Ein unionsrechtlicher Staatshaftungsanspruch der Klägerin ergibt sich unabhängig von der Frage ihrer Eigentümerstellung weder aus einer rechtswidrigen Umsetzung des Art. 46 der Richtlinie 2007/46/EG, noch aus einer rechtswidrigen Erteilung der Typengenehmigung für das streitgegenständliche Fahrzeug.Denn sowohl bei der Umsetzung der genannten Richtlinie, als auch bei der Erteilung der Typengenehmigung fehlt es ungeachtet der Frage, ob die zugrunde liegenden Regelungen überhaupt dem Individualschutz dienen, nach Auffassung der Kammer jedenfalls an einem erforderlichen hinreichend qualifizierten Verstoß.Mit Rücksicht auf das in der Regel unerlässlich weite Ermessen bei der Durchführung einer Gemeinschaftspolitik wird eine Haftung der Union insoweit nur dann ausgelöst, wenn das betreffende Organ die Grenzen seiner Befugnisse offenkundig und erheblich überschreitet (vgl. BeckOGK/Dörr, 15.4.2020, BGB § 839 Rn. 901; EuGH Urt. v. 5.3.1996 -C-46/93 u. EUGH n C-48/93). Zur Beurteilung, wann ein solcher qualifizierter Verstoß vorliegt, haben die nationalen Gerichte das Maß an Klarheit und Genauigkeit der verletzten Vorschrift, den Umfang des Ermessensspielraums, die Frage, ob der Schaden vorsätzlich oder nicht vorsätzlich zugefügt wurde, die Entschuldbarkeit oder Unentschuldbarkeit eines etwaigen Rechtsirrtums und den Umstand, dass möglicherweise ein Verhalten eines Unionsorgans zu dem unionsrechtswidrigen Verhalten des Mitgliedstaates beigetragen hat, heranzuziehen (MüKoBGB/Papier/Shirvani, 7. Aufl. 2017 Rn. 100b, BGB § 839 Rn. 100b-100c; EuGH Slg. 1996, I-1029 = NJW 1996, 1267 Rn. 56).1.Die Beklagte hat das ihr bei der Umsetzung des Art. 46 der Richtlinie 2007/46/EG gemäß Art. 288 AEUV zustehende Ermessen rechtsfehlerfrei ausgeübt. Art. 288 AEUV sieht insoweit für die Umsetzungspflicht vor, dass die Richtlinie für jeden Mitgliedsstaat, an den sie gerichtet wird, hinsichtlich des zu erreichenden Ziels verbindlich ist, sie überlässt jedoch den innerstaatlichen Stellen die Wahl der Form und Mittel. Nach Art. 46 der Richtlinie 2007/46/EG legen die Mitgliedstaaten die Sanktionen fest, die bei Verstößen gegen diese Richtlinie, insbesondere gegen die in Artikel 31 vorgesehenen oder sich daraus ergebenden Verbote und die in Anhang IV Teil I aufgeführten Rechtsakte, anzuwenden sind, und ergreifen alle für ihre Durchführung erforderlichen Maßnahmen, wobei diese Sanktionen wirksam, verhältnismäßig und abschreckend sein müssen.Die Beklagte hat zum Zwecke der Umsetzung der genannten Richtlinie die folgenden Sanktionen geschaffen, die nach Auffassung der Kammer die soeben genannten Kriterien in hinreichendem Umfang erfüllen:Zum einen hat sie in § 25 EG-FGV umfassende verwaltungsrechtliche Sanktionen geschaffen, die insbesondere einen Widerruf sowie die Rücknahme der Typengenehmigung ermöglichen.Zum anderen hat die Beklagte in § 37 EG-FGV einen Ordnungswidrigkeitentatbestand geschaffen, nach dessen Abs. 1 ordnungswidrig im Sinne des § 24 Absatz 1 Satz 1 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 27 Absatz 1 Satz 1, Absatz 2 Satz 1, 2 oder 4, Absatz 3 Satz 1, Absatz 4, 5 oder § 28 Absatz 2 Satz 2 ein Fahrzeug, eine selbstständige technische Einheit, ein Bauteil, ein Teil oder eine Ausrüstung feilbietet, veräußert oder in den Verkehr bringt und nach dessen Abs. 2 wiederum ordnungswidrig im Sinne des § 23 Absatz 2 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig eine Handlung nach Absatz 1 begeht, indem er ein Fahrzeug, eine selbstständige technische Einheit, ein Bauteil, ein Teil oder eine Ausrüstung gewerbsmäßig feilbietet.Des Weiteren können Manipulationen im Hinblick auf die Erlangung der Typengenehmigung als Straftaten nach den allgemeinen Straftatbeständen der §§ 263, 267 StGB Sanktionierung finden.Dieses differenzierte Sanktionsinstrumentarium ist nach Auffassung der Kammer auch wirksam, verhältnismäßig und abschreckend im Sinne des Art. 46 der Richtlinie 2007/46/EG. Hiergegen spricht insbesondere nicht, wie die Klägerin meint, dass das Sanktionskonzept in den USA ihrer Auffassung nach drastischer und damit abschreckendender und wirksamer erscheine. Denn zum einen unterliegt das US-amerikanische Recht bereits einem anderen als dem hier allein entscheidenden unionsrechtlichen Maßstab. Zum anderen müssen nach dem ausdrücklichen Wortlaut des Art. 46 der Richtlinie 2007/46/EG die Sanktionen nicht nur wirksam und abschreckend, sondern eben auch verhältnismäßig sein. Nicht zuletzt ist insoweit auch der erforderliche Kausalzusammenhang nicht herzustellen, da die Klägerin ihre Vermutung, die I AG hätte bei Vorliegen effektiverer Sanktionen im Rahmen ihrer Kosten-Nutzen-Rechnung bzw. der entsprechenden Risikoabwägung von dem Einbau der Manipulationssoftware abgesehen, zum einen mit keinerlei Tatsachen belegt und zum anderen auch die entsprechend eingeleiteten Ermittlungsverfahren in den USA jedenfalls nicht für deren Richtigkeit streiten.Aus den genannten Gründen liegt jedenfalls eine offenkundige und erhebliche Ermessensüberschreitung durch die Beklagte nicht vor. Hieran vermag auch die Einleitung eines etwaigen Vertragsverletzungsverfahrens nichts zu ändern.2.Des Weiteren fehlt es nach Auffassung der Kammer an einem hinreichend qualifizierten Verstoß der Beklagten bei der Erteilung der Typengenehmigung für das streitgegenständliche Fahrzeug durch das Kraftfahrtbundesamt.Öffentlich bekannt wurde das Vorliegen einer unzulässigen Abschalteinrichtung in den Fahrzeugen der Herstellerin I AG erst mit deren Adhoc-Mitteilung im Herbst 2015, wobei zwischen den Parteien unstreitig ist, dass die Klägerin das streitgegenständliche Fahrzeug bereits zuvor im Sommer 2015 erworben hat und dieses über eine entsprechende Abschalteinrichtung verfügte.Da die Klägerin das Fahrzeug vor der genannten Veröffentlichung erworben hat, kommt es im Hinblick auf den Hilfsantrag zu 1b. allein darauf an, ob der Beklagten die fehlende objektive Genehmigungsfähigkeit infolge des Vorliegens der Abgasmanipulationssoftware bereits zum Zeitpunkt der Erteilung der Typengenehmigung für das hier streitgegenständliche Fahrzeug bekannt war bzw. bis zum Zeitpunkt des Erwerbs durch die Klägerin am 30.07.2015 bekannt geworden ist. Ein etwaig ordnungswidriges Verhalten der Beklagten nach dem öffentlichen Bekanntwerden des sog. Dieselabgasskandals ist mit Blick auf den Erwerbszeitpunkt des Fahrzeugs ohne Relevanz, wobei sich der diesbezügliche klägerische Vortrag ohnehin ausschließlich auf Fahrzeuge der Marke B bezieht.Gemäß § 4 Abs. 4 EG-FGV i.V.m. Art 8 der Richtlinie 2007/46/EG ist das Kraftfahrtbundesamt verpflichtet, die Angaben der Hersteller auf Vollständigkeit und Vereinbarkeit mit den unionsrechtlichen Vorgaben zu prüfen. Unstreitig hat die I AG jedoch bei Beantragung der streitgegenständlichen Typengenehmigung nicht angegeben, dass in das Fahrzeug der Klägerin eine unzulässige Abschalteinrichtung eingebaut worden ist. Dass die Beklagte demgegenüber in allgemeiner Hinsicht anderweitig von diesem Umstand Kenntnis erlangt hätte, ergibt sich nach Auffassung der Kammer aus den in den Anlagen K11 bis K14 enthaltenen Protokollen des 5. Untersuchungsausschusses bereits nicht. Insoweit bemühen beide Parteien schriftsätzlich zur Untermauerung ihrer jeweiligen Ansicht jeweils unterschiedliche Auszüge des genannten Protokolls, die jedoch ein eindeutiges Ergebnis in die ein oder andere Richtung nicht zulassen. Ohnehin enthält der diesbezügliche klägerische Vortrag keinerlei fahrzeugspezifische Angaben betreffend des streitgegenständlichen Fahrzeugs, sondern vielmehr lediglich umfangreiche Ausführungen zu etwaigen Verdachtsmomenten betreffend der "Automobilindustrie" im Allgemeinen. Dies kann zur Begründung eines Schadensersatzanspruchs wegen der vermeintlich zu Unrecht erfolgten Erteilung der Typengenehmigung für das konkrete streitgegenständliche Fahrzeug nicht ausreichen.Etwaige Ansprüche gemäß § 839 Abs. 1 S. 1 BGB, Art. 34 GG sind zudem nach § 839 Abs. 1 Satz 2 BGB ausgeschlossen. Denn nach dem vorgetragenen Sachverhalt kommt eine Haftung der Herstellerin gemäß § 826 BGB in Betracht. Das diesbezügliche Verfahren vor der 17. Zivilkammer des Landgerichts Bonn ist schon nach dem klägerischen Vortrag nicht abgeschlossen.II.Die Kostenentscheidung folgt aus § 91 Abs. 1 ZPO; die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 S. 1, 2 ZPO.IV.Der Streitwert wird auf 12.020,70 € festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2243957.html (https://oj.is/2243957)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG AschaffenburgRechtsprechungEndurteil vom 14.10.2021 - 13 O 310/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Aschaffenburg, Endurteil vom 14.10.2021 - 13 O 310/20
+                      m. Fundstelle
+                      LG Aschaffenburg, Endurteil vom 14.10.2021 - 13 O 310/20 = openJur 2023, 1861
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Aschaffenburg, Endurteil vom 14.10.2021 - 13 O 310/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2023, 1861
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.Der Streitwert wird auf 38.639,74 € festgesetzt. 
+				Tatbestand
+				Die Klagepartei macht gegen die Beklagte zu 2) (im Folgenden: Beklagte) als Automobil- und Motorenherstellerin Schadensersatzansprüche wegen des Kaufs eines Dieselfahrzeugs im Zusammenhang mit dem sog. "Abgasskandal" geltend. Die Klage gegen die Beklagte zu 1) hat die Klagepartei vor Klagezustellung zurückgenommen.Die Klagepartei kaufte das streitgegenständliche Fahrzeug Porsche Cayenne Diesel mit einem Motor der Beklagten der Baureihe EA896Gen2 darlehensfinanziert am 13.11.2019 gebraucht bei der ...GmbH zu einem Kaufpreis in Höhe von 39.500,00 €.Die Klagepartei trägt vor:Das Fahrzeug verfüge über unzulässige Abschalteinrichtungen zur Täuschung über die Einhaltung der zulässigen Schadstoffwerte auf dem Prüfstand, die im realen Fahrbetrieb tatsächlich erheblich überschritten würden. So werde durch eine außentemperaturgesteuerte Abschaltvorrichtung (sog. Thermofenster) bewirkt, dass die Abgasreinigung nur in einem für den Testbetrieb relevanten Temperaturbereich uneingeschränkt aktiv sei. Darüber hinaus verfüge das Fahrzeug über weitere Systeme, die aufgrund verschiedener Parameter, wie Prüfzyklen, Reifendruck, Lenkwinkel und Umgebungsluftdruck zwischen Prüfmodus und Fahrbetrieb unterscheiden und die Abgasrückführung entsprechend anpassen würden. Zudem sei das OnBoard-Diagnose-System (OBD) manipuliert, sodass es bei Überschreitung der zulässigen Schadstoffgrenzwerte im Fahrbetrieb nicht warne. Da das Fahrzeug die zulässigen Grenzwerte lediglich auf dem Prüfstand einhalte, sei die Klagepartei insoweit von der Beklagten getäuscht worden. Tatsächlich genüge das Fahrzeug nicht den gesetzlichen Anforderungen, sodass es mangelbehaftet und der Klagepartei durch den Kauf ein Schaden entstanden sei.Die Klagepartei beantragt zuletzt, wie folgt zu erkennen:1. Die Beklagte wird verurteilt, an die Klagepartei 16.741,12 € sowie Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz ab dem 24.07.2020 zu zahlen und die Klagepartei von den aktuell noch bestehenden Verbindlichkeiten gegenüber der ... Bank aus dem Darlehensvertrag zur Darlehensvertragsnummer ... in Höhe von derzeit noch 22.000,00 € freizustellen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeuges Porsche Cayenne Diesel mit der Fahrzeugidentifikationsnummer ...2. Es wird festgestellt, dass sich die Beklagte mit der Annahme des Fahrzeuges Porsche Cayenne Diesel mit der Fahrzeugidentifikationsnummer ... seit dem 24.07.2020 in Annahmeverzug befindet.3. Die Beklagte wird verurteilt, an die ...R.  AG, ... zur Schadennummer ... vorgerichtliche Rechtsanwaltskosten in Höhe von 678,45 € (netto), zuzüglich der gesetzlich geltenden Umsatzsteuer sowie Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte trägt vor:Das Kraftfahrt-Bundesamt (KBA) habe keine unzulässige Abschalteinrichtung bei dem streitgegenständlichen Fahrzeugtyp festgestellt. Insoweit existiere auch kein durch das KBA angeordneter Rückruf. Eine temperaturabhängige Abgasrückführung ("Thermofenster") sei zum Motor- und Bauteileschutz notwendig. So drohten namentlich bei niedrigen Temperaturen außerhalb des Temperaturfensters ohne Korrektur der Abgasrückführung Funktionsstörungen und Schäden durch Rußablagerungen (sog. Versottung). Das streitgegenständliche Fahrzeug verfüge auch nicht über andere Prüfstanderkennungssysteme. Bei der Herstellung des betroffenen Fahrzeugs habe es auch keine rechtliche Verpflichtung zur Messung der Emissionen im realen Fahrbetrieb gegeben. Daher hätten sich die OBD-Schwellenwerte ausschließlich auf Prüfstandsmessungen bezogen.Wegen der Einzelheiten des Sach- und Streitstandes wird auf den Akteninhalt vollumfänglich Bezug genommen. 
+				Gründe
+				I. Die Klage ist zulässig aber in der Sache unbegründet.Die Klagepartei hat gegen die Beklagte keine Schadensersatzansprüche wegen des Kaufs des streitgegenständlichen Fahrzeugs.1. Ein schuldrechtlicher Anspruch gemäß § 311 Abs. 2 Nr. 3, Abs. 3 BGB der Klagepartei gegen die Beklagte ist nicht gegeben. Die Beklagte war unstreitig an dem Vertrag über den Kauf des streitgegenständlichen Fahrzeuges durch die Klagepartei nicht beteiligt, es ist nicht einmal ersichtlich, dass die Beklagte hiervon Kenntnis hatte. Anknüpfungspunkt für eine Haftung gemäß § 311 Abs. 2 Nr. 3, Abs. 3 BGB ist insbesondere nicht darin zu sehen, dass die Beklagte durch Ausstellen der EG-Übereinstimmungsbescheinigung für sich besonderes Vertrauen in Anspruch genommen und deshalb die Klagepartei beim Vertragsschluss erheblich beeinflusst hat. Selbst wenn die EG-Übereinstimmungsbescheinigung unwirksam sein sollte, weil das Fahrzeug nicht allen maßgeblichen Rechtsakten entspricht, ergeben sich daraus keine Ansprüche der Klagepartei. Dies folgt daraus, dass die EG-Übereinstimmungsbescheinigung zunächst keine Garantieerklärung darstellt. Anhaltspunkte dafür, dass der Hersteller die ihn schon nicht treffende (so er denn nicht ausnahmsweise gegenüber dem Verbraucher als Verkäufer auftritt) übliche Gewährleistung verstärken und ergänzen wollte, enthält die EGÜbereinstimmungsbescheinigung nicht. Weiter ist davon auszugehen, dass auch der Verordnungsgeber mit der o.g. Richtlinie und der o.g., die Richtlinie konkretisierenden Verordnung nicht einen neuen / neuartigen Anspruch des Käufers schaffen wollte, indem die Übereinstimmungsbescheinigung eine Garantieerklärung darstellen sollte. Ein solcher neuer / neuartiger Anspruch würde nämlich eine Sanktionierung von Regelverstößen des Herstellers darstellen. Die Schaffung von Sanktionen bei Regelverstößen des Herstellers sollte aber gem. Art. 46 der RL 2007/46/EG ausdrücklich dem nationalen Gesetzgeber vorbehalten bleiben. Dafür, dass die EG-Übereinstimmungsbescheinigung nicht vertrauensbegründend wirken soll, dürfte ferner sprechen, dass sie nach Art. 18 Abs. 2 der RL 2007/46EG noch nicht einmal zwingend in einer vom konkreten Verbraucher beherrschten Sprache formuliert werden muss. Überdies dienen die RL 2007/46/EG und die sie konkretisierende VO (EG) 385/2009 ausweislich ihrer Gründe ausschließlich gesamtgesellschaftlichen Zielen, nämlich der Weiterentwicklung des Binnenmarktes und der Sicherstellung eines hohen Sicherheits- und Umweltschutzniveaus, was der Anerkennung von sich aus der EG-Übereinstimmungserklärung ergebenden individualrechtlichen Ansprüchen, wie dem vorliegend geltend gemachten, insgesamt entgegensteht (LG Braunschweig, Urteil vom 07. Juli 2017 - 11 O 3672/16 (34) -, Rn. 35 ff, juris). Daher scheidet vorliegend § 311 Abs. 2 Nr. 3, Abs. 3 BGB als Anspruchsgrundlage aus.2. Ein Anspruch ergibt sich auch nicht aus § 826 BGB. Die Beklagte ist den Angriffen der Klage substantiiert entgegengetreten und hat ausführlich dargelegt, dass nach ihrem Verständnis keine unzulässige Abschalteinrichtung vorliegt. Dabei kommt es letztlich nicht darauf an, ob die von der Klagepartei vorgetragenen Umstände objektiv einen Mangel des streitgegenständlichen Fahrzeugs begründen, da die deliktische Haftung an andere Voraussetzungen geknüpft ist als die vertragliche Mängelhaftung. So würde die Feststellung eines Mangels für sich genommen nicht ausreichen, um eine für § 826 BGB erforderliche besondere Verwerflichkeit des Pflichtenverstoßes anzunehmen (vgl. OLG Bamberg Hinweisbeschluss v. 31.3.2020 - 3 U 57/19, BeckRS 2020, 9901, Rn. 14). Die Beklagte hat vorgetragen, dass für das streitgegenständliche Fahrzeug kein verpflichtender Rückruf auf Anordnung des KBA vorliegt. Dem ist die Klagepartei nicht substantiiert entgegengetreten. Demgemäß liegt die behördliche Feststellung einer unzulässigen Abschalteinrichtung, die das KBA zum Handeln veranlasst hätte, für das streitgegenständliche Fahrzeug nicht vor. Sog. Abschalteinrichtungen sind auch nicht schon per se rechtswidrig, sondern können zum Bauteilschutz nach Art. 5 Abs. 2 S. 2 EGVO 715/2007 gerechtfertigt sein. Die Kriterien, aus denen sich eine aus Bauteilschutzgesichtspunkten zulässige Abschalteinrichtung ergibt, sind nicht eindeutig bestimmt und umstritten (OLG Bamberg, a.a.O., Rn. 18). Bei Abschalteinrichtungen, die vom Grundsatz her im normalen Fahrbetrieb in gleicher Weise arbeiten wie auf dem Prüfstand und bei denen Gesichtspunkte des Motor- bzw. Bauteilschutzes als Rechtfertigung ernsthaft angeführt werden können, kann bei Fehlen konkreter Anhaltspunkte jedenfalls nicht ohne Weiteres angenommen werden, dass der Hersteller in dem Bewusstsein gehandelt hat, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden (OLG Bamberg Urt. v. 17.12.2020 - 1 U 8/20, BeckRS 2020, 39666, Rn. 19). Hinsichtlich des "Thermofensters" hat die Beklagte eine Verwendung unter Bauteilschutzgesichtspunkten und zu der von ihr vertretenen technischen Notwendigkeit der Einrichtung substantiiert vorgetragen. Auch unter Berücksichtigung einer fehlenden Beanstandung durch das KBA kann nicht ein (bewusst) rechtswidriges Verhalten der Beklagten zugrundegelegt werden. Ein solches ist jedenfalls nicht nachgewiesen. Damit scheiden Ansprüche nach § 826 BGB aus.3. Auch andere deliktische Ansprüche, die eine vorsätzliche Täuschung durch die Beklagte voraussetzen würden, kommen nach den vorstehenden Ausführungen nicht in Betracht (vgl. OLG Bamberg BeckRS 2020, 9901, Rn. 24).II. Die Nebenentscheidungen beruhen auf §§ 91, 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2463144.html (https://oj.is/2463144)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

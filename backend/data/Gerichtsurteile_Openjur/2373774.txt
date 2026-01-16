@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG MemmingenRechtsprechungEndurteil vom 27.11.2019 - 32 O 1723/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Memmingen, Endurteil vom 27.11.2019 - 32 O 1723/18
+                      m. Fundstelle
+                      LG Memmingen, Endurteil vom 27.11.2019 - 32 O 1723/18 = openJur 2021, 40578
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Memmingen, Endurteil vom 27.11.2019 - 32 O 1723/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 40578
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger erhebt Ansprüche auf Schadensersatz gegen die Beklagte aus dem Kauf eines Pkws der Marke Mercedes-Benz, welcher nach klägerischem Vortrag von dem sog. "Abgasskandal" betroffen sein soll.Der Kläger erwarb am 14.01.2016 bei der Firma ... einen Gebrauchtwagen der Marke Mercedes-Benz, Typ B180 CDI mit Dieselmotor der Baureihe OM 607 zum Kaufpreis von 23.500,00 € (EZ 25.09.2014). Das Fahrzeug wies einen Kilometerstand von 12.700 km auf. Hinsichtlich der weiteren Einzelheiten des Erwerbs wird auf die Anlage K1 Bezug genommen. Mit anwaltlichem Schreiben vom 17.10.2018 (Anlage K 3) ließ der Kläger die Beklagte unter Fristsetzung bis zum 31.10.2018 vergeblich auffordern, die gegenständlichen Ansprüche wegen - nach Auffassung der Klägerseite - vorliegender "unzulässiger Abschalteinrichtung" anzuerkennen. Am Sitzungstag wies das streitgegenständliche Fahrzeug einen Kilometerstand von 68.890 km auf.Der Kläger trägt im Wesentlichen vor, dass der im streitgegenständlichen Fahrzeug verbaute Dieselmotor OM 607 über eine Motorsteuerungssoftware verfüge, welche den Ausstoß von Stickoxid (NOx) unter den Bedingungen des Prüfstandbetriebes optimiere. Nach den Feststellungen des Kraftfahrbundesamtes (KBA) habe die Beklagte in dem hier streitgegenständlichen Fahrzeug Mechanismen eingebaut, die nur unter den Bedingungen des Prüfstands die Abgasreinigung vollständig aktiviere. Werde im Straßenbetrieb eine bestimmte Temperatur überschritten oder unterschritten, z.B. beim Lauf kalter Motoren, im Stadtverkehr, im Stau, unter Last oder bei schneller Autobahnfahrt, dann schalte die Elektronik ab, um Bauteile vor der Überhitzung zu bewahren. Dies geschehe oft schon bei 10 oder sogar 17 Grad nach den Untersuchungen des KBA. Nur hierdurch könnten die Grenzwerte für NOx unter den Bedingungen des Testbetriebs eingehalten werden. Im Straßenbetrieb indes würden diese um ein Vielfaches überschritten. Das Kraftfahrtbundesamt habe die Motorsteuerungssoftware des Dieselmotors OM 607 untersucht und sei zu dem Ergebnis gekommen, dass diese nicht gesetzeskonform sei und habe angeordnet, dass eine Überarbeitung der Software zu erfolgen habe. Dies ergebe sich aus dem am 11.06.2018 verkündeten Zwangsrückruf. Im Übrigen sei das Fahrzeug Teil der "freiwilligen" Kundendienstmaßnahme. Die Klagepartei habe ein den gesetzlichen Bestimmungen entsprechendes Fahrzeug bei dem Erwerb erwartet, ein solches jedoch nicht erhalten. In Kenntnis der Umstände hätte die Klägerseite das Fahrzeug nicht erworben.Der Kläger ist der Auffassung, er habe Anspruch auf Rückzahlung des Kaufpreises Zug um Zug gegen Rückgabe des streitgegenständlichen Fahrzeugs unter Anrechnung einer Nutzungsentschädigung, die aus einer Gesamtlaufleistung von 500.000 km zu berechnen sei. Der Anspruch der Klagepartei ergebe sich insbesondere aus §§ 826, 823 Abs. 2, 31 BGB i.V.m. § 263 StGB, §§ 6 Abs. 1 27 Abs. 1 EG-FGV sowie § 831 BGB. Die Klagepartei meint, die Beklagte sei im Rahmen einer sekundären Darlegungs- und Beweislast verpflichtet, näher zu den konzerninternen Abläufen in Bezug auf die streitgegenständliche Softwareentwicklung und -implementierung vorzutragen.Der Kläger beantragte zuletzt:Die Beklagte wird verurteilt, Zug um Zug gegen Übereignung des Fahrzeugs der Marke Mercedes Benz B 180 CDI, mit der Fahrgestellnummer ... an die Klagepartei 21.578,41 € nebst ZinsenEs wird festgestellt, dass sich die Beklagte mit der Rücknahme des Fahrzeugs gemäß vorstehender Ziffer 1 in Annahmeverzug befindet.Die Beklagte wird verurteilt, der Klagepartei die Kosten des außergerichtlichen Vorgehens in Höhe von 1.171,67 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 17.10.2018 zu erstatten.Die Beklagte beantragte zuletzt,die Klage abzuweisen.Die Beklagte trägt im Wesentlichen vor, dass der Vortrag aus der Klage bereits unschlüssig und unsubstantiiert sei. Das Fahrzeug besitze eine nach wie vor gültige EG-Typgenehmigung und sei ordnungsgemäß zugelassen worden. Es entspreche vollumfänglich den geltenden Abgasgrenzwerten und der Euro-5-Norm. Die Behauptungen der Klagepartei seinen in weiten Teilen nicht einlassungsfähig und begründeten nicht die erhobenen Ansprüche. Das streitgegenständliche Fahrzeug unterfalle bereits keinem behördlichen Rückruf, es sei von einem lediglich auf einige Fahrzeuge bezogenen Rückruf nicht erfasst. Die Klagepartei trage nicht ansatzweise in einlassungsfähiger Weise vor, welche konkrete Funktion im Fahrzeug sie für unzulässig halte. Bei der Abgasrückführung verhalte es sich so, dass bei der Rückführung bei zu niedrigen Temperaturen es zur Kondensation der Abgasbestandteile im Abgasrückführkühler komme und damit zur Versottung. Bei wiederholtem Betrieb könne dies zur Zusetzung des Abgasrückführungssystems führen und so zu einer dauerhaften Schädigung oder gar einem Motorausfall. Die Abgasrückführung im gegenständlichen Fahrzeug sei bis zu zweistelligen Minusgraden aktiv. Die entsprechende Funktionsweise sei in Fachkreisen und auch bei den Genehmigungsbehörden bekannt.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf den Inhalt der von den Parteien gewechselten Schriftsätze samt Anlagen sowie auf das Protokoll der mündlichen Verhandlung vom 02.10.2019 Bezug genommen. 
+				Gründe
+				I.: Die Klage ist zulässig. Insbesondere ist das Landgericht Memmingen das örtlich gem. § 32 ZPO und sachlich gem. § 1 ZPO i.V.m. §§ 23 Nr. 1, 71 Abs. 1 GVG zuständige Gericht. Die Beklagte hat sich auch rügelos eingelassen.II.: Die Klage ist aber unbegründet, so dass die Klage vollumfänglich abzuweisen war. Die Klagepartei hat gegen die Beklagte keinen Anspruch auf Rückabwicklung des Kaufvertrages aus § 823 Abs. 2 BGB i.V.m. § 263 StGB, §§ 823 Abs. 2, 31 BGB i.V.m. §§ 6, 27 EG-FGV oder § 826 i.V.m. § 31 BGB.1) Die Ansprüche scheitern bereits im Ausgangspunkt daran, dass die Klägerseite nicht einmal schlüssig dargelegt hat, dass die Beklagte vorliegend eine "unzulässige Abschalteinrichtung" verbaut hat. Die Verwendung dieser Bezeichnung und die rechtliche Ausschmückung derselben mit Überlegungen zum europäischen Recht ersetzen keinen konkreten Tatsachenvortrag, welcher dem Gericht eine Subsumption der technischen Parameter unter die rechtlichen Bestimmungen erlauben würde. Die Klagepartei hat auch ihre Behauptung, dass das gegenständliche Fahrzeug von einem Rückruf des KBA erfasst sein soll, nicht unter Beweis gestellt. Dem Gericht jedenfalls ist, mit dem Beklagtenvortrag, ein solcher, einschlägiger bestandskräftiger Rückruf nicht bekannt. Soweit die Klagepartei dann später auf eine "freiwillige Kundendienstmaßnahme" Bezug nimmt, ergibt sich daraus keinerlei Anhaltspunkt dafür, dass hier eine unzulässige Abschalteinrichtung vorliegt.2) Soweit die Klägerseite das Vorliegen einer nach ihrer Auffassung unzulässigen Abschalteinrichtung mit der Installation eines "Thermofensters" begründet, so verkennt sie dabei, dass die temperaturabhängige Reduzierung der Menge der zurückgeführten Abgase zur Vermeidung von Motorschäden durchaus als eine zulässige Abschaltvorrichtung im Sinne des Art. 5 Abs. 2 lit. A) der VO (EG) Nr. 715/2007 gewertet werden kann (vgl. LG Hanau, Urteil vom 31.01.2019, Az.: 4 O 748/19; sowie - zur Urteilsabfassung lediglich als Beck-Presse-Mitteilung vorliegend -: OLG Stuttgart, Urteil vom 30.07.2019, Az.: 10 U 134/1 becklink 2013785). Dass vorliegend aber eine andere Konfiguration zum Motorschutz, ohne die hier gegenständliche Funktion, möglich war und durch die Beklagte hätte ausgeführt werden können, ist weder vorgetragen noch sonst ersichtlich. Ein konkreter Vortrag der Klägerseite zum Nichteingreifen der verordnungsrechtlich vorgesehenen und zulässigen Ausnahme fehlt gänzlich. Insgesamt war daher nach dem getätigten Vortrag der Klägerseite bereits nicht von einer pauschal behaupteten "unzulässigen Abschalteinrichtung" auszugehen. Aufgrund des fehlenden Tatsachenvortrags hierzu ist auch eine Beweisaufnahme nicht möglich. Damit ist die Klage schon aus diesem Grund abzuweisen.3) Selbst aber eine solche Vorrichtung unterstellt, scheitert der klägerische Anspruch an den weiteren Anspruchsvoraussetzungen, bzw. an völlig unzureichendem Sachvortrag. Ein gerichtlicher Hinweis zum Sachvortrag war nicht veranlasst, da die Beklagte bereits ausführlich auf die Mängel des klägerischen Vortrages hingewiesen hat und insoweit im Rahmen der sorgfältigen Prozessführung ein Auseinandersetzen hiermit erwartet werden darf (Musielak/Voit/Stadler, 16. Aufl. 2019, ZPO § 139 Rn. 6). Im Einzelnen:a) Die Klagepartei hat aufgrund des erfolgten Vortrags keinen Anspruch gegen die Beklagte aus § 823 Abs. 2 BGB i.V.m. § 263 StGB.aa) Es fehlt vorliegend bereits an einer Täuschungshandlung i.S.v. § 263 StGB b.z.w. jedenfalls an ausreichend substantiiertem Vortrag hierzu. In der vorliegenden Konstellation des Gebrauchtwagenkaufs von einem Autohaus scheidet bereits eine Täuschungshandlung der Beklagten gegenüber der Klagepartei aus. Es ist nicht ersichtlich, wie die Beklagte als Herstellerin des Fahrzeugs die Klagepartei bei dem Kauf des zum Kaufzeitpunkt gebrauchten Kraftwagens mit einem Kilometerstand von 12.700 km von einem dritten Autohaus i.S.v. § 263 StGB getäuscht haben soll (vgl. OLG München, Hinweisbeschluss vom 29.01.2019 - Az. 32 U 2720/18). Es fehlt von Klageparteiseite auch an jeglichem Vortrag, wer konkret auf Seiten der Beklagten wie über welche Tatsachen getäuscht haben soll und wie dies zu einem Vermögensschaden geführt haben könnte. Das Gericht sieht sehr wohl, dass es der Klagepartei (derzeit) nicht möglich ist, mehr Details über konzerninterne Vorgänge vorzutragen. Soll die erhobene Schadensersatzforderung erfolgreich sein, ist aber genau das erforderlich. Spekulationen oder Mutmaßungen können dagegen die Regeln des Bürgerlichen Gesetzbuches und der Zivilprozessordnung nicht außer Kraft setzen. Im vorliegenden Fall gilt insofern nichts anderes als in anderen vergleichbaren Fällen (zum Beispiel bei Anlegerverfahren im Bereich des sog. "Grauen Kapitalmarktes", vgl. OLG München, Beschluss vom 25.07.2017 - 13 U 566/17). Eine Beweiserhebung war damit auf der von der Klagepartei vorgetragenen Grundlage nicht veranlasst.bb) Angesichts des fehlenden Vortrages zu beteiligten Personen und deren jeweiliger Verwirklichung einzelner Tatbestandsmerkmale ist die Beklagte auch nicht im Rahmen einer sekundären Darlegungs- und Beweislast zu weiterem Vortrag verpflichtet (anders als in der Entscheidung des OLG München vom 15.10.2019, Az. 24 U 797/19). Es kann damit dahinstehen, ob die Beklagte überhaupt eine sekundäre Darlegungs- und Beweislast trifft. Hieran bestehen allerdings Zweifel, weil der Umstand, dass Tatsachen außerhalb des Wahrnehmungsbereichs des darlegungs- und beweisbelasteten Partei liegen, eine Partei nicht berechtigt, ohne greifbare Anhaltspunkte und damit willkürlich Behauptungen ins Blaue hinein aufzustellen und diese unter Beweis zu stellen (vgl. Pfeiffer, ZIP 2017, 2077, 2078). Selbst wenn man aber eine Darlegungs- und Beweislast der Beklagten annehmen wollte, so könnte von der Beklagten nicht mehr Vortrag verlangt werden, als bisher erfolgt. Im Rahmen einer sekundären Darlegungs- und Beweislast kann die nicht beweisbelastete Partei nur dazu verpflichtet werden, Tatsachen vorzutragen. Hieraus ergibt sich, dass die nicht beweisbelastete Partei die nach ihren internen Ermittlungsergebnissen möglichen Geschehensabläufe oder Anhaltspunkte für mögliche Geschehensabläufe, nicht aber Schlussfolgerungen aus bloßen Indizien oder sonstige Tatsachenbewertungen vortragen muss (vgl. Pfeiffer, a.a.O.). Vorliegend steht überhaupt ein Fehlverhalten selbst in Streit. Mehr als der bereits beklagtenseitig getätigte Vortrag ist, auch gemessen am überaus dünnen Vortrag der Klagepartei, nicht zu verlangen.cc) Darüber hinaus ist auch eine Schädigung des Vermögens des Klägers durch Täuschungshandlungen der Beklagten nicht schlüssig und hinreichend dargelegt.(1) Der Kläger hat das streitgegenständliche Fahrzeug bisher uneingeschränkt nutzen können. Dem Kläger ist bislang kein Schaden in Form von erhöhten Steuern oder Nachrüstungskosten u.s.w., entstanden. Ein zwingendes Update oder ähnliches ist vorliegend im Gegensatz zu den "VW-Fällen" gerade nicht durchzuführen oder überhaupt zu erwarten. Ein Schaden durch die technische Ausgestaltung des behaupteten "Thermofensters" aber ist weder substantiiert vorgetragen noch sonst ersichtlich, vielmehr dient die entsprechende Konfiguration sogar unstreitig dem Schutz von Bauteilen.(2) Es ist auch mehr als fraglich, ob auf Grund der nunmehrigen Diskussion um generelle Diesel-Fahrverbote durch einen Sachverständigen überhaupt ein eigenständiger merkantiler Minderwert bezogen auf die durch den sog. "Abgasskandal" betroffenen Diesel-Fahrzeuge - eine Betroffenheit des hiesigen Fahrzeuges einmal unterstellt - bestimmt werden kann. Selbst wenn die drohenden Diesel-Fahrverbote in Deutschlands Großstädten hätten vermieden werden können, wenn sämtliche Dieselmotorenhersteller im normalen Fahrbetrieb einen erheblich geringeren Stickoxidausstoß der Motoren erreicht hätten, so wäre damit noch nichts darüber gesagt, ob gerade der Einsatz der streitgegenständlichen Software in Motoren der Beklagten als kausal für die Fahrverbote angesehen werden kann.(3) Ferner besteht für das klägerische Fahrzeug keine Gefahr des Entzuges der Zulassung. Das Fahrzeug der Klagepartei unterfällt der für den Typ bestehenden Typgenehmigung. Diese ist weder kraft Gesetzes erloschen, noch ist ein Widerruf zu befürchten (vgl. hierzu LG Braunschweig, Urteil vom 16.10.2017 - 11 O 4092/16). Das KBA als zuständige Behörde hat die Typgenehmigung nicht widerrufen. Es ist auch nicht ersichtlich, dass eine derartige Maßnahme droht. Das Fahrzeug ist nach wie vor ohne rechtliche oder tatsächliche Einschränkung nutzbar.dd) Es bestehen daneben erhebliche Bedenken im Hinblick auf das Vorliegen eines Schädigungsvorsatzes der Beklagten - eine Betroffenheit des Fahrzeuges einmal unterstellt -.(1) Die Klagepartei trägt auch für die Erfüllung des subjektiven Tatbestands die Darlegungs- und Beweislast. Sie hat also darzulegen, wer aus dem Daimler-Konzern für die Entwicklung und den Einsatz der fraglichen Software verantwortlich war und wer hiervon vor Vertragsschluss der Klagepartei Kenntnis hatte. Nur in einem solchen Fall können aber auch die Voraussetzungen für eine etwaige Haftung der Beklagten gemäß § 31 BGB vertreten durch den Vorstand bzw. dessen Repräsentanten festgestellt werden. Der Vortrag der Klagepartei hierzu enthält (wie oben bei der Täuschungshandlung ausgeführt) Vermutungen ins Blaue hinein, die sich auf andere Vermutungen aus der Presse stützten und damit nicht geeignet sind, eine Beweisaufnahme anzustoßen.(2) Im Rahmen des subjektiven Tatbestands gem. § 263 StGB fehlt es außerdem an der erforderlichen Stoffgleichheit des Schadens. Es ist nicht substantiiert vorgetragen, dass gerade eine von Beklagtenseite erfolgte Täuschung (durch Unterlassen) zu einer Schädigung der Klagepartei geführt hätte, die auf der anderen Seite zu einem ebensolchen Vermögensvorteil der Beklagten geführt hätte. Dies ist zumindest bei einem vorliegenden Gebrauchtwagenkauf von einem unabhängigen Händler nicht ersichtlich.b) Der Klagepartei steht auch kein Anspruch auf Schadensersatz gegen die Beklagte gemäß § 823 Abs. 2 BGB i.V.m. § 27 Abs. 1 EG-FGV aufgrund des von der Klagepartei behaupteten Umstandes zu, dass die Beklagte ein Fahrzeug in den Verkehr gebracht habe, welches nicht mit einer gültigen Übereinstimmungsbescheinigung ausgestattet gewesen sei. § 27 Abs. 1 EG-FGV stellt kein Schutzgesetz i.S.d. § 823 Abs. 2 BGB dar, das den von der Klagepartei geltend gemachten Schaden betrifft (vgl. LG Hagen, Urteil v. 16.06.2017 - 8 O 218/16 LG Landgerichts Braunschweig, Urteil v. 31.08.2017 - 3 O 21/17). §§ 6 Abs. 1, 27 Abs. 1 EG-FGV schützen nicht die Vermögensinteressen von Fahrzeugkäufern, sondern die Verkehrssicherheit und die Gesundheit der Verbraucher, wie auch die Umwelt. Nach ständiger Rechtsprechung des BGH ist eine Norm als Schutzgesetz im Sinne von § 823 Abs. 2 BGB anzusehen, wenn sie nach Zweck und Inhalt zumindest auch dazu dienen soll, den einzelnen oder einzelne Personenkreise gegen die Verletzung eines bestimmten Rechtsguts zu schützen. Dafür kommt es nicht auf die Wirkung, sondern auf Inhalt und Zweck des Gesetzes sowie darauf an, ob der Gesetzgeber bei Erlass des Gesetzes gerade einen Rechtsschutz, wie er wegen der behaupteten Verletzung in Anspruch genommen wird, zugunsten von Einzelpersonen oder bestimmten Personenkreisen gewollt oder mitgewollt hat (vgl. BGH, Beschl. v. 09.04.2015 - VII ZR 36/14). Die Richtlinie 2007/46/EG bezweckt jedoch die Vollendung des Binnenmarkts und dessen ordnungsgemäßes Funktionieren, wie sich eindeutig aus den Erwägungsgründen 2,4 und 23 der Richtlinie ergibt. Darüber hinaus sollten die technischen Anforderungen harmonisiert und spezifiziert werden. Ziel ist ein hohes Sicherheits- und Umweltschutzniveau sowie der Schutz der Gesundheit und der Sicherheit der Verbraucher. Nicht geschützt sind dagegen die Vermögensinteressen des Klägers.c) Auch auf einen Anspruch aus sittenwidriger vorsätzlicher Schädigung nach § 826 BGB kann die Klagepartei ihre Klageanträge nicht stützen. Selbst wenn man hier einen Schaden der Klagepartei durch Kauf des streitbefangenen Pkws unterstellen würde, woran aber bereits erhebliche Zweifel bestehen (s.o.), so hat die Klagepartei nicht hinreichend dargelegt, dass eine etwaige Schädigung ihrer Person sittenwidrig wäre.aa) Der Beklagten könnte nur dann ein haftungsbegründender Vorwurf der sittenwidrigen Schädigung gemacht werden, wenn die Klagepartei gerade deswegen den Vertrag abgeschlossen hätte, weil sie hierzu sittenwidrig veranlasst worden ist. Es ist schon nicht ersichtlich, dass die Kaufentscheidung der Klagepartei durch das Abgasverhalten des Fahrzeugs im Hinblick auf die Labor- und Alltagsbedingungen beeinflusst wurde. Das Unterlassen einer für die Kaufentscheidung erheblichen Information in einem Prospekt oder einer Werbeankündigung ist als solches noch nicht verwerflich. Gegen die guten Sitten verstößt ein Verantwortlicher nur dann, wenn der Kaufinteressenten durch eine bewusste Täuschung zum Kauf bewegt (vgl. BGH, Urt. v. 28.07.2016 - Az. VI ZR 536/15). Dies kommt allenfalls bei einem Direkterwerb von der Beklagten oder bei dem Erwerb eines Neuwagens von einem Händler durch ein Unterlassen der Publikation des Einsatzes der streitgegenständlichen Software in Betracht. Der Zweck für diese Konstruktion könnte es nach klägerischer Argumentation gewesen sein, die Fahrzeuge für umweltbewusste Käufer interessant zu machen und dadurch eine größere Anzahl an Fahrzeugen zu verkaufen. Diese Überlegung gilt - sollte sie denn zutreffend - jedoch nicht für die Klagepartei, welche das Fahrzeug gebraucht von einem Dritten erworben hat. Durch diesen Gebrauchtwagenkauf hatte die Beklagte keine Vorteile (vgl. OLG München, Hinweisbeschluss vom 29.01.2019 - Az. 32 U 2720/18).bb) Weiter gilt, dass auch in einem Verstoß der eingebauten Software gegen öffentlich-rechtliche Abgasvorschriften per se noch kein sittenwidriges Handeln mangels der erforderlichen besonderen Verwerflichkeit zu erblicken wäre. Soweit nämlich die Überprüfung der Abgaswerte durch öffentliche Prüfstellen vorgenommen wird, so führt dies nicht explizit gerade zu einer Sittenwidrigkeit im Verhältnis zur Klagepartei selbst. Die entsprechende Verordnung des EU-Rechts (VO (EG) Nr. 715 2007) dient zumindest vorrangig der Verbesserung der Luftqualität. Hierbei handelt es sich jedoch um eine Verhaltensnorm mit allgemein schützendem öffentlich-rechtlichen Charakter. Ein Gebot der guten Sitten gerade im Verhältnis zur Klagepartei mit individuellem Schutzzweck lässt sich aus der Verordnung nicht ableiten (vgl. LG Ellwangen/Jagst, Urteil vom 10.06.2016 - 5 O 385/15; LG Memmingen Urteil vom 17.05.2018 - 34 O 725/17).cc) Auch der Schädigungsvorsatz auf Seiten der Beklagten ist nach Auffassung des Gerichts nicht schlüssig dargelegt. Die Klagepartei hat schon nicht substantiiert vorgetragen, dass relevante Vertreter der Beklagten, deren Wissen ihr zuzurechnen wäre, von den Unregelmäßigkeiten vor Vertragsschluss Kenntnis erlangt haben (s.o.) und insbesondere in dem Bewusstsein gehandelt hätten, der Klagepartei sittenwidrig Schaden zuzufügen.d) Zuletzt besteht auch kein Anspruch gemäß § 831 Abs. 1 BGB. Obwohl § 831 BGB an eine Sorgfaltspflichtverletzung des Geschäftsherrn selbst anknüpft und insofern die Beweislast umkehrt, bedarf es zusätzlich eines Delikts, um die Haftung auszulösen (vgl. Wagner in: MüKo BGB, 7. Auflage 2017, § 831 Rn. 29). Hierfür fehlt es jedoch an einem deliktischen Handeln der jeweiligen Verrichtungsgehilfen. Die Klagepartei hat nicht substantiiert dargetan, dass auf Seiten der Verrichtungsgehilfen die objektive und subjektive Tatseite konkret vorliegt. Insofern fehlen jegliche Ausführungen der Klagepartei dazu, inwiefern welche Verrichtungsgehilfen die objektive oder subjektive Tatseite der in Betracht kommenden deliktischen Normen verwirklicht haben. Die Ausführungen der Klagepartei sind damit nicht geeignet, ein deliktisches Handeln der jeweiligen Verrichtungsgehilfen nachzuvollziehen (vgl. LG Hagen, Urteil vom 16.06.2017 - 8 O 218/16).4) Die geltend gemachten Nebenforderungen teilen das Schicksal der nicht bestehenden Hauptforderung.III.: Die Kostenentscheidung ergibt sich aus § 91 Abs. 1 S. 1 ZPO.IV.: Die Entscheidung zur vorläufigen Vollstreckbarkeit folgt aus § 709 S. 1, S. 2 ZPO.Verkündet am 27.11.2019
+			
+			
+			
+			Permalink: https://openjur.de/u/2373774.html (https://oj.is/2373774)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

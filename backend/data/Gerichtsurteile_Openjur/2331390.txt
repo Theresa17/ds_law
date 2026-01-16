@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG AschaffenburgRechtsprechungEndurteil vom 29.11.2019 - 32 O 110/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Aschaffenburg, Endurteil vom 29.11.2019 - 32 O 110/19
+                      m. Fundstelle
+                      LG Aschaffenburg, Endurteil vom 29.11.2019 - 32 O 110/19 = openJur 2021, 21047
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Aschaffenburg, Endurteil vom 29.11.2019 - 32 O 110/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 21047
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu  vollstreckenden Betrags vorläufig vollstreckbar.Beschluss:Der Streitwert wird auf 25.569,00 € festgesetzt.  
+				Tatbestand
+				Der Kläger begehrt Schadensersatz aufgrund des Erwerbs eines Fahrzeugs mit der FahrzeugIdentifizierungsnummer ..., dessen Motor von dem sogenannten Abgasskandal betroffen ist.Der Kläger kaufte am 29.06.2016 (Anlage K1, Bl. 39 d.A.) einen VW Sharan 2.0 TDI von zum Preis von 25.569,00 €. Zum Kaufzeitpunkt betrug die Gesamtlaufleistung des Fahrzeugs 20.647 km (Anlage K 1, Bl. 39 d.A.).Am 29.11.2019 beträgt der Kilometerstand des streitgegenständlichen Fahrzeugs 74.854 km.In dem Fahrzeug ist ein von der Beklagten hergestellter Motor der Baureihe EA 189 verbaut. Es verfügt über eine Typgenehmigung nach Euro 5. Die Einhaltung der dafür maßgeblichen Grenzwerte für Stickoxide (Art. 10 Verordnung EG Nr. 715/2007, Anhang I, Tabelle 1) hängt davon ab, in welchem Ausmaß Abgase aus dem Auslassbereich des Motors über ein Abgasrückführungsventil in den Ansaugtrakt des Motors zurückgeleitet werden. Im streitgegenständlichen Fahrzeug lässt - bis zum Software-Update - die das Abgasrückführungsventil steuernde Software des Motorsteuerungsgerätes eine Abgasrückführung im zur Einhaltung der Grenzwerte nötigen Umfang nur unter den Bedingungen des zum Erlangen der Typgenehmigung durchgeführten gesetzlich vorgeschriebenen Testlaufs zu. Es ist nahezu ausgeschlossen, dass im normalen Straßenverkehr die Fahrkurven dieses Testlaufs - neuer europäischer Fahrzyklus (NEFZ) - exakt nachgefahren werden.Der Kläger trägt im Wesentlichen vor, ihm stehe gegen die Beklagte ein Anspruch auf Schadensersatz auf der Grundlage deliktischer Haftung zu, im Ergebnis sei die Beklagte verpflichtet, das Fahrzeug des Klägers gegen Zahlung des Kaufpreises zurückzunehmen.Der Kläger habe sich am 19.12.2018 der Musterfeststellungsklage beim OLG Braunschweig, Az. 4 MK 1/18, angeschlossen. Am 14.03.2019 sei die Rücknahme der klägerseitigen Anmeldung erfolgt.Der Kläger beantragt zuletzt,1. Es wird festgestellt, dass die Beklagtenpartei verpflichtet ist, der Klagepartei Schadensersatz zu bezahlen für Schäden, die daraus resultieren, dass die Beklagtenpartei das Fahrzeug VW Sharan 2.0 TDI (Fahrzeugidentifikationsnummer: ...) dahingehend beeinflusst hat, dass dieses hinsichtlich der Abgasstoffmenge im Prüfstandbetrieb einen geringeren Ausstoß aufweist als im regulären Betrieb im Straßenverkehr.Hilfsweise:1. Es wird festgestellt, dass die Beklagtenpartei verpflichtet ist, der Klagepartei Schadensersatz zu leisten für Schäden, die daraus resultieren, dass die Beklagtenpartei in den Motor, Typ EA 189, des Fahrzeugs VW Sharan 2.0 TDI, FIN: ...eine unzulässige Abschalteinrichtung in der Form einer Software eingebaut hat, welche bei Erkennung standardisierter Prüfsituationen (NEFZ) die Abgasaufbereitung so optimiert, dass möglichst wenige Stickoxide (Nox) entstehen und Stickoxidemissionswerte reduziert werden, und die im Normalbetrieb Teile der Abgaskontrollanlage außer Betrieb setzt, so dass es zu einem höheren NOx-Ausstoß führt.2. Die Beklagte wird verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 2.077,74 € freizustellen.Hilfsanträge:1. Die Beklagtenpartei wird verurteilt, an die Klagepartei 25.569,00 € nebst Zinsen hieraus in Höhe von 4%-Punkten seit dem 25.06.2016 zu bezahlen, Zugum-Zug gegen Übereignung und Herausgabe des PKW VW Sharan 2.0 TDI FIN ...2. Es wird festgestellt, dass die Beklagtenpartei verpflichtet ist, der Klagepartei Schadensersatz zu bezahlen für weitere Schäden, die daraus resultieren, dass die Beklagtenpartei das Fahrzeug VW Sharan 2.0 TDI (Fahrzeugidentifikationsnummer: ...) dahingehend beeinflusst hat, dass dieses hinsichtlich der Abgasstoffmenge im Prüfstandbetrieb einen geringeren Ausstoß aufweist als im regulären Betrieb im Straßenverkehr.hilfsweise:2. Es wird festgestellt, dass die Beklagtenpartei verpflichtet ist, der Klagepartei Schadensersatz zu leisten für weitere Schäden, die daraus resultieren, dass die Beklagtenpartei in den Motoren, Typ EA 189, des Fahrzeugs VW Sharan 2.0 TDI, FIN: ...eine unzulässige Abschalteinrichtung in der Form einer Software eingebaut hat, welche bei Erkennung standardisierter Prüfsituationen (NEFZ) die Abgasaufbereitung so optimiert, dass möglichst wenige Stickoxide (Nox) entstehen und Stickoxidemissionswerte reduziert werden, und die im Normalbetrieb Teile der Abgaskontrollanlage außer Betrieb setzt, so dass es zu einem höheren NOx-Ausstoß führt.3. Es wird festgestellt, dass sich die Beklagtenpartei mit der Rücknahme des im Klageantrag Ziffer 1. genannten PKW im Annahmeverzug befindet.4. Die Beklagte wird verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 2.077,74 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte trägt im Wesentlichen vor, nicht haftbar zu sein, die Beklagte habe den Kläger nicht getäuscht, auch sei ihm kein Schaden entstanden und deliktische Haftungsnormen seien nicht verwirklicht. Außerdem sei der Kauf des Fahrzeugs nach Veröffentlichung der adhocMitteilung vom 22.09.2015 erfolgt. Es sei daher zum Kaufzeitpunkt am 29.06.2016 davon auszugehen, dass der Kläger Kenntnis von der Dieselproblematik hatte. Jedenfalls liege seitens der Beklagten keine Täuschung im Sinne einer deliktischen Haftung vor, da die Beklagte die Öffentlichkeit zum Zeitpunkt des streitgegenständlichen Kaufs bereits über die Dieselproblematik informiert habe.Die Beklagte erhebt die Einrede der Verjährung. Seitens des Klägers habe bereits im Jahre 2015 die Möglichkeit der Kenntnisnahme eines etwaigen Anspruchs gegen die Beklagte bestanden. Der vorgetragene Anschluss zur o.g. Musterfeststellungsklage wird mit Nichtwissen bestritten. Im Übrigen sei dieser rechtsmissbräuchlich, da er allein zur Herbeiführung einer Verjährungshemmung stattgefunden habe.Am 29.11.2019 wurde eine mündliche Verhandlung durchgeführt. Auf das Protokoll wird verwiesen.Hinsichtlich des übrigen Parteivortrags wird auf die gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist als unbegründet abzuweisen.Dem Kläger steht aus keinem rechtlichen Gesichtspunkt ein Anspruch gegen die Beklagte zu. Weder der Hauptklageantrag noch die Hilfsanträge sind begründet. Gleiches gilt für den Antrag, mit dem außergerichtliche Rechtsanwaltskosten geltend gemacht werden.Vor dem Hintergrund, dass der Kläger das streitgegenständliche Fahrzeug im Juni 2016 erworben hat und damit zu einem Zeitpunkt, zu dem in der Öffentlichkeit und Presse bekannt war, dass Fahrzeuge des VW-Konzerns, und damit auch der streitgegenständliche VW Sharan von der Dieselproblematik betroffen sind. Eine haftungsauslösende Täuschung der Beklagten liegt weder gemäß § 826 BGB, noch gemäß § 823 Abs. 2 BGB iVm § 263 StGB vor. Eine Haftung gemäß § 823 Abs. 2 BGB iVm §§ 6 Abs. 1, 27 Abs. 1 EG-FGV scheitert mangels Schutznormcharakters der §§ 6 Abs. 1, 27 Abs. 1 EG-FGV (vgl. auch OLG Bamberg, Urteil vom 24.07.2019, Az. 8 U 38/19, BeckRS 2019, 21335).I.1. Eine Haftung der Beklagten gemäß §§ 826, 31 BGB scheidet aus, da zum Zeitpunkt des Vertragsabschlusses im Juni 2016 kein sittenwidriges schädigendes Verhalten der Beklagten kausal für den Abschluss des Kaufvertrages war.Da in dem von dem Kläger im Juni 2016 erworbenen Gebrauchtwagens von der Beklagten als Herstellerin eine unzulässige Abschalteinrichtung installiert worden ist, das Fahrzeug bei Übergabe deshalb mit einem Sachmangel behaftet gewesen ist, ist bei dem Kläger zwar vordergründig ein Schaden eingetreten, der auf das Verhalten der Beklagten als Herstellerin des mangelbehafteten Motors zurückgeht. Ein mit dem Kauf des Fahrzeugs eingetretener Schaden des Klägers ist seitens der Beklagten aber nicht in einer gegen die guten Sitten verstoßenden Weise herbeigeführt worden.Ein Verhalten ist objektiv sittenwidrig, wenn es nach Inhalt oder Gesamtcharakter, der durch zusammenfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt, d.h. mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist (Palandt/Sprau, BGB, 78. Auflage, zu § 826 Rn. 4 m.w.N.). Dass das Verhalten gegen vertragliche Pflichten oder gegen das Gesetz verstößt, ist hierfür nicht ausreichend; hinzutreten muss eine besondere Verwerflichkeit des Verhaltens, die sich aus dem mit der Handlung verfolgten Zweck, dem zur Durchsetzung verwendeten Mittel, der dabei gezeigten Gesinnung oder den entstandenen Folgen ergeben kann (Palandt/Sprau, aaO, m.w.N.).Maßgeblicher Zeitpunkt für die Beurteilung des Verhaltens des Anspruchsgegners als sittenwidrig ist der Zeitpunkt der Schadensherbeiführung, d.h. hier der Zeitpunkt des Abschlusses des Kaufvertrages (vgl. BGH, NJW-RR 2013, 1448, 1449 Rn. 13). Bezogen auf den maßgeblichen Zeitpunkt des Abschlusses des Kaufvertrages im Juni 2016 stellt sich das Verhalten der Beklagten nicht (mehr) als sittenwidrig dar.Wie allgemein bekannt ist, hatte der damalige Vorstandsvorsitzende der Beklagten Dr. Winterkorn aus seiner Pressekonferenz am 22.09.2015 mitgeteilt, dass es bei den Fahrzeugen mit Dieselmotor des Typs EA 189 zu Unregelmäßigkeiten gekommen sei. Zugleich hatte die Beklagte eine Adhoc-Mitteilung herausgegeben, mit der sie die Öffentlichkeit darüber informierte, dass die Aufklärung von Unregelmäßigkeiten einer verwendeten Software bei Diesel-Motoren mit Hochdruck vorangetrieben würde. In dieser Mitteilung heißt es u. a. weiter: "Weitere bisherige interne Prüfungen haben ergeben, dass die betreffende Steuerungssoftware auch in anderen Diesel-Fahrzeugen des Volkswagen Konzerns vorhanden sind. Bei der Mehrheit dieser Motoren hat die Software keinerlei Auswirkungen. Auffällig sind Fahrzeuge mit Motoren vom Typ EA 189 mit einem Gesamtvolumen von weltweit rund 11 Millionen Fahrzeugen. Ausschließlich bei diesem Motortyp wurde eine auffällige Abweichung zwischen Prüfstandswerten und realem Fahrbetrieb festgestellt. Volkswagen arbeitet mit Nachdruck diese Abweichungen mit technischen Maßnahmen zu beseitigen."Dieser Ankündigung entsprechend hat die Beklagte die Öffentlichkeit über den weiteren Fortgang der Ermittlungen informiert und Pressemitteilungen herausgegeben. In der Pressemitteilung vom 15.10.2015 wurde seitens der Beklagten beispielsweise mitgeteilt, dass von ihr die schnelle Entscheidung des Kraftfahrtbundesamtes (KBA) begrüßt werde und mit Hochdruck die festgelegten technischen Lösungen mit dem Ziel erarbeitet würden ab Januar 2016 mit der Nachbesserung der Fahrzeuge zu beginnen. Am 25.11.2015 teilte die Beklagte mit, dass die Aufarbeitung und Lösung der Diesel-Thematik voranschreite und dass nach der Umsetzung der technischen Maßnahmen die Fahrzeuge die jeweils gültigen Abgasnormen erfüllen würden und das Ziel sei ab Januar 2016 die ersten Fahrzeuge im Rahmen eines Rückrufes auf den erforderlichen Stand zu bringen. Am 16.12.2015 informierte die Beklagte darüber, dass sie dem KBA die konkreten technischen Maßnahmen für die betroffenen EA-189 Motoren vorgestellt habe und dass das KBA nach intensiven Prüfungen alle Maßnahmen vollumfänglich bestätigt habe. Zugleich wurden mitgeteilt, dass die jeweiligen Fahrzeughalter über die jeweiligen Schritte informiert würden.Indem die Beklagte ihr vorangegangenes Tun nach Aufdecken des Abgasskandals nicht vertuscht hat, sondern sich mit der Aufarbeitung der Problematik befasst hat und die Öffentlichkeit informiert hat, kann ihr jedenfalls in Bezug auf potentielle Gebrauchtwagenkäufer ab Herbst 2015 kein verwerfliches Verhalten angelastet werden. Die Beklagte hatte im Herbst 2015 letztlich den Fehler bei der Abgasrückführung ihrer Dieselmotoren EA 189 eingeräumt und seine Beseitigung in Abstimmung mit dem Kraftfahrtbundesamt angekündigt. Die Gründe aufgrund derer man von einer Sittenwidrigkeit der Handlung bis Herbst 2015 ausgehen könnte, sind zumindest ab Herbst 2015 weggefallen.Nachdem im Herbst 2015 die Mitteilung seitens der Beklagten hinsichtlich der vorgenommenen Manipulation am Dieselmotor setzte eine umfangreiche mediale Berichterstattung über den "VW-Dieselskandal" ein. In den Printmedien, Funk und Fernsehen wurde seit diesem Zeitpunkt ausführlich über den sog. "VW-Dieselskandal" berichtet und allgemein auch in der breiten Öffentlichkeit diskutiert.Im Rahmen dieser Berichterstattung wird zwar auch die Frage gestellt, ob die Nachbesserungsmaßnahme dahingehend, mittels Aufspielen des Software-Updates überhaupt eine geeignete Mängelbeseitigungsmaßnahme darstellt. In diesem Zusammenhang wird vorgebracht, dass nicht ausgeschlossen werden könne, dass das Update der Motorsteuerungssoftware nicht folgenlos sein werde, wobei eine Erhöhung der Emissionswerte, des Kraftstoffverbrauchs, eine Einschränkung der Motorleistung und da Auftreten von vorzeitigen Verschleißerscheinungen angesprochen wird. Zudem wird den betroffenen Fahrzeugen allgemein nachgesagt, dass sie mit einem nicht behebbaren Makel behaftet seien, was sich nachteilig auf ihren Wert auswirke.Ob diese Einwände gegen das Update berechtigt sind kann vorliegend dahinstehen. Denn diese Gesichtspunkte führen nicht dazu, das Verhalten der Beklagten ab Herbst 2015 weiterhin als verwerflich i.S.d. § 826 BGB einzustufen. Die Beklagte hat die Abgasthematik öffentlich gemacht und der Allgemeinheit bekanntgegeben, dass die Dieselfahrzeuge, weil sie nicht uneingeschränkt in Ordnung sind, nachgebessert werden; zugleich hat sie die Allgemeinheit darüber informiert, welche Maßnahmen sie in Abstimmung mit dem Kraftfahrtbundesamt zur Behebung des Mangels anstrebt. Damit hat die Beklagte es jedem einzelnen potentiellen Gebrauchtwagenkäufer überlassen, selbst darüber zu entscheiden, ob er wegen möglicherweise offen gebliebener Fragen Abstand vom Kauf ihrer Fahrzeuge nimmt (vgl. statt vieler: OLG Celle, Hinweisbeschluss vom 01.07.2019, Az. 7 U 33/19 m.w.N.).Im Ergebnis ist daher im vorliegenden Fall eine vorsätzliche sittenwidrige Schädigung der Beklagten zu verneinen.2. Ein Schadensersatzanspruch gemäß §§ 823 Abs. 2 BGB iVm 263 StGB steht dem Kläger nicht zu.Eine Täuschung bezogen auf den Zeitpunkt des Erwerbs des Fahrzeuges im Juni 2016 kommt wie oben bereits ausgeführt, nachdem sich die Beklagte ab Herbst 2015 zur Abgasmanipulation an ihren Dieselmotoren Typ EA 189 bekannt hat, nicht in Betracht.Mangels Täuschungshandlung der Beklagten zum streitgegenständlichen Zeitpunkt des Abschlusses des Kaufvertrages ist bereits der objektive Tatbestand des § 263 StGB nicht gegeben, so dass ein Anspruch aus den §§ 823 Abs. 2 BGB iVm 263 StGB ausscheidet.3. Der geltend gemachte Schadensersatzanspruch kann nicht aus § 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV hergeleitet werden, da den Vorschriften der EG-FGV kein Individual- bzw. Individualvermögensschutz zukommt (vgl. LG Marburg, Urteil vom 02.03.2017, Az.: 5 O 49/16; Beschluss des OLG München vom 22.02.2018, Az.: 27 U 2827/17).Eine Norm ist als Schutzgesetz im Sinne von § 823 Abs. 2 BGB anzusehen, wenn sie nach Zweck und Inhalt zumindest auch dazu dienen soll, den Einzelnen oder einzelne Personenkreise gegen die Verletzung eines bestimmten Rechtsguts zu schützen. Dafür kommt es nicht auf die Wirkung, sondern auf Inhalt und Zweck des Gesetzes sowie darauf an, ob der Gesetzgeber bei Erlass des Gesetzes gerade einen Rechtsschutz, wie er wegen der behaupteten Verletzung in Anspruch genommen wird, zu Gunsten von Einzelpersonen oder bestimmten Personenkreisen gewollt oder doch mit gewollt hat. Es genügt, dass die Norm auch das in Frage stehende Interesse des Einzelnen schützen soll, mag sie auch in erster Linie das Interesse der Allgemeinheit im Auge haben. Andererseits soll der Anwendungsbereich von Schutzgesetzen nicht ausufern. Deshalb reicht es nicht aus, dass der Individualschutz durch Befolgung der Norm als ihr Reflex objektiv erreicht werden kann; er muss vielmehr im Aufgabenbereich der Norm liegen (BGH, EuGH-Vorlage vom 09. April 2015 - VII ZR 36/14 -, Rn. 20, juris). Bei Vorschriften, die - wie hier die Regelungen der EG-FGV - Richtlinien umsetzen, kommt es nach der gebotenen richtlinienkonformen Auslegung insoweit maßgeblich auf den Inhalt und Zweck der Richtlinie - hier der RL 2007/46/EG - an (vgl. BGH, EuGH-Vorlage vom 09. April 2015 - VII ZR 36/14 -, Rn. 23, juris). Den Erwägungsgründen (2), (4) und (23) zufolge bezweckt die RL 2007/46/EG die Verwirklichung sowie das Funktionieren des Binnenmarkts und verfolgt das Ziel der Vollendung des Binnenmarktes durch die Einführung eines verbindlichen Systems gemeinschaftlicher Typgenehmigungen für alle Fahrzeugklassen. Darüber hinaus sollen die technischen Anforderungen in Rechtsakten harmonisiert und spezifiziert werden, wobei die Rechtsakte vor allem auf eine hohe Verkehrssicherheit, hohen Gesundheits- und Umweltschutz, rationelle Energienutzung und wirksamen Schutz gegen unbefugte Benutzung abzielen (Erwägungsgrund 2. der Richtlinie). Einen konkreten Hinweis dafür, dass der Richtliniengeber darüber hinaus den Schutz des einzelnen Fahrzeugerwerbers bzw. -besitzers gegen Vermögensbeeinträchtigungen im Blick hatte, lässt sich den Erwägungsgründen der Richtlinie hingegen nicht entnehmen. In der Begründung des nationalen Gesetzgebers zur EGFGV (Seite 36 der BR-Drucks. 190/09) wird dementsprechend ebenfalls darauf verwiesen, dass die Rahmenrichtlinie 2007/46/EG, zu deren Umsetzung die EG-FGV veranlasst ist, dem Abbau von Handelshemmnissen sowie der Verwirklichung des Binnenmarktes der Gemeinschaft dienen und die EG-FGV darüber hinaus zur Rechtsvereinfachung und zum Bürokratieabbau beitragen soll (vgl. LG Braunschweig, Urteil vom 10. Januar 2018 - 3 O 622/17 -, Rn. 36, juris).In Anbetracht dessen kann hinsichtlich der Regelungen der EG-FGV das Vorliegen eines Schutzgesetzes im Sinne des § 823 Abs. 2 BGB nicht angenommen werden, so dass bereits aus diesem Grund § 823 Abs. 2 BGB i.V.m. §§ 27, 26, 6 EG-FGV als Anspruchsgrundlage für den geltend gemachten Schadensersatzanspruch ausscheidet.4. Die Hilfsanträge waren ebenfalls mangels Anspruchsgrundlage aus den oben genannten Gründen abzuweisen.Die geltend gemachten Nebenforderung in Form von außergerichtlichen Rechtsanwaltskosten teilt das Schicksal der Hauptforderung und war damit ebenfalls als unbegründet abzuweisen.Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO. Der Ausspruch zur vorläufigen Vollstreckbarkeit basiert auf § 709 Satz 2 ZPO.III.Die Festsetzung des Streitwertes ergibt sich aus §§ 3 ZPO i.V. m. 45 ff. GKG.
+			
+			
+			
+			Permalink: https://openjur.de/u/2331390.html (https://oj.is/2331390)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

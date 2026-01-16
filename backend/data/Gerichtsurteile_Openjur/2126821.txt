@@ -1,0 +1,155 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSchleswig-HolsteinOrdentliche GerichtsbarkeitLG KielRechtsprechungUrteil vom 30.10.2018 - 12 O 406/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Kiel, Urteil vom 30.10.2018 - 12 O 406/17
+                      m. Fundstelle
+                      LG Kiel, Urteil vom 30.10.2018 - 12 O 406/17 = openJur 2018, 6582
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Kiel, Urteil vom 30.10.2018 - 12 O 406/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2018, 6582
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+				
+					
+						Zivilrecht 
+						
+					
+				
+
+			
+			
+			
+			
+				 
+					
+				document.addEventListener('DOMContentLoaded', function () {
+				  document.getElementById('togglerubrum')
+				          .addEventListener('click', function toggleRubrum() { var tb = document.getElementById('rubrumToggleButton'); tb.classList.toggle('fa-plus-square'); tb.classList.toggle('fa-minus-square'); });
+				});
+				 Rubrum
+				
+				 
+				 Landgericht KielSchlussurteilIm Namen des VolkesIn dem Rechtsstreit...- Kläger -Prozessbevollmächtigte: ...gegen1)	...- Beklagte -Prozessbevollmächtigte: ...2)	...- Beklagte -Prozessbevollmächtigte: ...wegen Abschalteinrichtungenhat die 12. Zivilkammer des Landgerichts Kiel durch den Richter am Landgericht Dr. B... als Einzelrichter auf Grund der mündlichen Verhandlung vom 07.09.2018 für Recht erkannt:
+				 
+				
+				Tenor
+				1. Es wird festgestellt, dass die Beklagte zu 2 verpflichtet ist, dem Kläger den Schaden aus dem Kauf des mit unzulässigen Abschalteinrichtungen versehenen Porsche Macan S Diesel, FIN WP1ZZZ95ZFLB78721, zu ersetzen.2. Die Beklagte zu 2 wird verurteilt, den Kläger von dem Anspruch seiner Prozessbevollmächtigten auf Zahlung vorgerichtlicher Rechtsanwaltskosten in Höhe von 2.085,95 € freizustellen.3. Die weitere Klage wird abgewiesen.4. Von den Gerichtskosten und den außergerichtlichen Kosten des Klägers tragen der Kläger und die Beklagte zu 2 je 50%. Die außergerichtlichen Kosten der Beklagten zu 1 trägt der Kläger. Die außergerichtlichen Kosten der Beklagten zu 2 werden nicht erstattet.5. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.Beschluss:Der Streitwert wird auf 74.500,00 € festgesetzt.Gründe:Soweit die klagende Partei die Feststellung der Ersatzpflicht der Beklagten zu 2 begehrt (Klageantrag zu 1), ist der Wert auf 74.500 € zu veranschlagen. Die klagende Partei beansprucht an Schadensersatz nicht nur die Rückzahlung des Kaufpreises. Sie hält es auch für möglich, dass ihr weitere unbezifferte Kosten entstehen, unter anderem Kosten der Rechtsverfolgung für den Fall einer behördlichen Betriebsuntersagung. Andererseits ist wegen des Feststellungsantrags ein Abschlag zu machen. Insgesamt erscheint ein Betrag von 74.500 € angemessen. Soweit die klagende Partei die Beklagte zu 1 auf Rückzahlung des Kaufpreises von 74.500 € abzüglich einer unbezifferten Nutzungsentschädigung verklagt hat (ursprünglicher Klageantrag zu 1), liegt wirtschaftliche Identität vor. Dem ursprünglichen Feststellungsantrag zu 3 kommt kein eigenständiger Wert zu.  
+				Tatbestand
+				Der Kläger bestellte bei der Beklagten zu 1 im Jahr 2013 für 74.500 € ein Neufahrzeug Porsche Macan S Diesel. 2014 wurde das im Tenor bezeichnete Fahrzeug geliefert. Es war von dem Hersteller, der Beklagten zu 2, mit einem Dieselmotor ausgerüstet worden, welchen die Firma Audi hergestellt hatte. Das Fahrzeug verfügt über eine EG-Typgenehmigung nach der EU6-Abgasnorm. Nach dem NEFZ erfolgte die Emissionsmessung nach einem Kaltstart bei einer Umgebungstemperatur zwischen 20 und 30 °C.Nach Bekanntwerden des „Abgasskandals“ stellte eine Untersuchungskommission „Volkswagen“ im Jahr 2016 für den streitgegenständlichen Fahrzeugtyp fest: Wird der NEFZ mit warmem Motor durchlaufen, verdoppeln sich die NOx-Emissionen und überschreiten den Grenzwert bei weitem. Im NEFZ 10 °C-Test zeigen sich NOx-Werte in Höhe des 3-fachen Grenzwertes. Die Abgasrückführungsraten wurden unterhalb einer Umgebungstemperatur von 17°C ausgerampt, was zu erhöhten NOx-Emissionen führte. Die Kommission äußerte Zweifel an der Zulässigkeit der Abschalteinrichtung aus Motorschutzgründen. Die Beklagte zu 2 stellte zur Beseitigung dieser Zweifel 2016 ein Softwareupdate zur Verfügung, welches höhere Abgasrückführungsraten in niederen Umgebungstemperaturbereichen (bis hinunter zu 5 °C) vorsah. Das Kraftfahrbundesamt bescheinigte der Beklagten zu 2, dass nach Durchführung des Updates keine unzulässige Abschalteinrichtung in Bezug auf die Umgebungstemperatur festgestellt worden sei.Der Kläger beauftragte seine jetzigen Prozessbevollmächtigten mit der zunächst außergerichtlichen Geltendmachung von Ansprüchen. Der Kläger fordert insbesondere Rückzahlung des Kaufpreises. Die Beklagten wiesen Ansprüche des Klägers zurück.Im Jahr 2018 stellte das Kraftfahrbundesamt nach Überprüfung des klägerischen Fahrzeugtyps unzulässige Abschalteinrichtungen fest, aufgrund derer es im Betrieb zu erhöhten NOx-Emissionen kommen kann. Es ordnete einen verpflichtenden Rückruf an und verpflichtete die Beklagte zu 2 zur Entfernung der unzulässigen Abschalteinrichtungen. Die Beklagte zu 2 bietet dazu wiederum ein Softwareupdate an. Das Kraftfahrt-Bundesamt sieht das Aufspielen des Updates als verpflichtend an. Wer davon absieht, muss damit rechnen, dass der Zustand des Fahrzeugs von den Prüforganisationen im Rahmen der Hauptuntersuchung als erheblicher Mangel eingestuft wird. Unter Umständen ist auch mit einer behördlichen Betriebsuntersagung zu rechnen.Das Fahrzeug des Klägers weist aktuell eine Fahrleistung von 38.518 km auf. Der Kläger hat keines der beklagtenseits angebotenen Softwareupdates einspielen lassen, weil er Nachteile befürchtet.Der Kläger behauptet, der Motor seines Fahrzeugs sei im Einzelnen mit folgenden drei unzulässigen Abschalteinrichtungen ausgestattet worden: ein unnötiges Thermofenster, eine Prüfstanderkennung zur Aktivierung eines emissionsarmen Getriebeschaltprogramms sowie unzureichende Harnstoffdosierung außerhalb des Prüfstands.Der Kläger geht davon aus, dass der Vorstand der Beklagten zu 2 einschließlich des damaligen Vorstandsvorsitzenden […] sowie ihr Leiter der Elektronikentwicklung Herr […] Kenntnis von den unzulässigen Abschalteinrichtungen hatte und deren Verwendung zur Einhaltung der Abgasnormen in Kauf nahm.Nach Abweisung der gegen die Beklagte zu 1 gerichteten Klage mit Teilurteil vom 27.04.2018 beantragt der Kläger noch,1. festzustellen, dass die Beklagte zu 2 verpflichtet ist, dem Kläger Schadensersatz zu bezahlen für Schäden, die aus der Manipulation des Fahrzeugs in Bezug auf eine oder mehrere unzulässige Abschalteinrichtungen am Porsche Macan S Diesel, FIN WP1ZZZ95ZFLB78721 durch die Beklagtenpartei resultieren,2. die Beklagten jeweils getrennt und nicht gesamtschuldnerisch zu verurteilen, den Kläger von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von jeweils 3.196,34 € freizustellen,hilfsweise zu 1.,a) die Beklagte zu 2 zu verurteilen, an die Klagepartei 74.500 € nebst Zinsen in Höhe von 4 Prozentpunkten seit dem 26.06.2014 bis zum 04.10.2017 und seit dem 05.10.2017 in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz zu zahlen undb) festzustellen, dass die Beklagte zu 2 verpflichtet ist, der Klagepartei Schadensersatz zu bezahlen für über den Antrag a) hinausgehende Schäden, die aus der Manipulation des Fahrzeugs Porsche Macan S Diesel, FIN WP1ZZZ95ZFLB78721 durch die Beklagtenpartei darüber hinaus gehend resultieren.Der Kläger hält seinen Feststellungsantrag unter anderem deshalb für zulässig, weil sich - nach seiner Behauptung - die Schadenshöhe nicht bestimmen lasse. Aus einer Auseinandersetzung mit Zulassungsbehörden könnten dem Kläger weitere Kosten erwachsen. Ebenso könnten Steuernachforderungen wegen unzutreffender Angaben der Beklagten zu 2 zu Emissionswerten drohen.Die Beklagte zu 2 beantragt,die Klage abzuweisen.Die Beklagte zu 2 hält die Feststellungsklage für unzulässig und subsidiär gegenüber einer Leistungsklage. Sie hält die Klage für unschlüssig und den Vortrag des Klägers zum Vorsatz für unsubstantiiert. 
+				Gründe
+				A. Soweit die Klage mit ihrem zweiten Antrag gegen die Beklagte zu 1 gerichtet ist, ist sie unzulässig, weil die Klage insoweit bereits mit Urteil vom 27.04.2018 abgewiesen worden ist.B. I. Die Feststellungsklage ist nach dem erkennbaren Willen der klagenden Partei präzisierend dahin auszulegen, dass die Ersatzpflicht der Beklagten zu 2 für Schäden aus dem Kauf des mit unzulässigen Abschalteinrichtungen versehenen Fahrzeugs durch die klagende Partei festgestellt werden soll.II. Die Feststellungsklage ist zulässig. Es steht nicht fest, dass die Schadensentwicklung bereits abgeschlossen wäre. Der Kläger hat die Möglichkeit weiterer Schäden dargetan, unter anderem Kosten der Rechtsverfolgung für den Fall einer behördlichen Betriebsuntersagung. Nachdem die von den Behörden für erforderlich gehaltenen technischen Nachbesserungsmaßnahmen zur Beseitigung von Abschalteinrichtungen vom Kläger nicht durchgeführt worden sind, ist es nicht ausgeschlossen, dass es zu einer behördlichen Betriebsuntersagung kommen kann (vgl. Oberverwaltungsgericht für das Land Nordrhein-Westfalen, Beschluss vom 17. August 2018 – 8 B 548/18 und 8 B 865/18 –, juris; VG Karlsruhe, Beschluss vom 26. Februar 2018 – 12 K 16702/17 –, juris; VG Sigmaringen, Beschluss vom 04. April 2018 – 5 K 1476/18 –, juris; VG Stuttgart, Beschluss vom 27. April 2018 – 8 K 1962/18 –, juris; VG Magdeburg, Beschluss vom 02. Juli 2018 – 1 B 268/18 –, juris; VG Potsdam, Beschluss vom 14. Juni 2018 – 10 L 303/18 –, juris).III. Die Feststellungsklage ist auch begründet. Die klagende Partei hat gegen die Beklagte zu 2 einen Anspruch auf Ersatz des Schadens aus dem Kauf des mit unzulässigen Abschalteinrichtungen versehenen, im Tenor bezeichneten Fahrzeugs aus § 826 BGB.Gemäß § 826 BGB ist derjenige, der in einer gegen die guten Sitten verstoßenen Weise einem anderen vorsätzlich einen Schaden zufügt, dem anderen zum Ersatz des Schadens verpflichtet. Diese Voraussetzungen liegen hier vor. Die klagende Partei ist im Sinne des § 826 BGB vorsätzlich sittenwidrig durch die Beklagte zu 2 geschädigt worden.1. Die klagende Partei ist von der Beklagten zu 2 geschädigt worden.a) Die schädigende Handlung liegt in dem arglistigen Inverkehrbringen des mangelhaften Fahrzeugs unter Geheimhaltung der bewusst eingebauten Abschalteinrichtungen zur Beeinflussung der Emissionswerte auf dem Prüfstand.Abschalteinrichtung ist ein Konstruktionsteil, das bestimmte Parameter ermittelt, um die Funktion des Emissionskontrollsystems zu verändern, wodurch die Wirksamkeit des Emissionskontrollsystems unter Bedingungen, die bei normalem Fahrzeugbetrieb vernünftigerweise zu erwarten sind, verringert wird (Art. 3 Nr. 10 der Verordnung (EG) Nr. 715/2007 vom 20. Juni 2007).Dass das streitgegenständliche Fahrzeug mangelhaft ist, ergibt sich schon daraus, dass das Kraftfahrbundesamt in diesem Jahr unzulässige Abschalteinrichtungen in diesem Fahrzeugtyp festgestellt und deren Beseitigung gefordert hat. Der Zustand des Fahrzeugs der klagenden Partei, wie ausgeliefert, kann aufgrund der eingebauten Abschalteinrichtungen von den Prüforganisationen im Rahmen der Hauptuntersuchung als erheblicher Mangel eingestuft werden und es kann auch eine behördliche Betriebsuntersagung drohen. Damit ist die Nutzbarkeit des Fahrzeugs in dem ausgelieferten Zustand nicht gewährleistet.Die Beklagte zu 2 stellt nicht in Abrede, dass das klägerische Fahrzeug zur Einhaltung der EU6-Abgasnorm mit unzulässigen Abschalteinrichtungen versehen wurde. Die Beklagte zu 2 bestreitet zwar, dass die Abschalteinrichtungen wie vom Kläger beschrieben funktionieren. Nicht bestritten wird aber, dass überhaupt die vom Kraftfahrbundesamt festgestellten unzulässigen Abschalteinrichtungen eingebaut wurden, um die Abgasnorm zu erfüllen. Welcher Art die Abschalteinrichtungen im Einzelnen sind, ist unerheblich, zumal nur der Beklagten zu 2 der entsprechende Bescheid des Kraftfahrbundesamts vorliegt.Dass das streitgegenständliche Fahrzeug mangelhaft ist, ergibt sich auch daraus, dass die EG-Typengenehmigung nach der Schadstoffklasse EU6 nur durch Einsatz unzulässiger Abschalteinrichtungen erschlichen wurde und die Grenzwerte ohne diese Einrichtungen nicht erreicht worden wären. Fahrzeugkäufern musste zwar bekannt sein, dass die Schadstoffgrenzwerte der Abgasnorm nur auf dem Prüfstand einzuhalten waren. Fahrzeugkäufer mussten aber nicht damit rechnen, dass der Schadstoffausstoß unter normalen Fahrbedingungen außerhalb des Prüfstands mithilfe von Abschalteinrichtungen gezielt verändert wird. Vielmehr kann ein Käufer erwarten, dass die Emissionswerte seines Fahrzeugs jedenfalls dann ähnlich hoch ausfallen wie im Prüfstand (NEFZ), wenn im realen Fahrbetrieb vergleichbare Bedingungen gegeben sind (§ 434 Abs. 1 BGB). Dass dies bei dem streitgegenständlichen Fahrzeugtyp nicht gewährleistet ist, ergibt sich schon aus dem Bericht der Untersuchungskommission „Volkswagen“. Wird der NEFZ warm durchlaufen, verdoppeln sich die NOx-Emissionen danach und überschreiten den Grenzwert bei weitem. Im NEFZ 10 °C-Test zeigen sich NOx-Werte in Höhe des 3-fachen Grenzwertes.b) Die klagende Partei hat dadurch auch einen Schaden erlitten. Der Schaden der klagenden Partei liegt in dem Abschluss eines ungewollten Kaufvertrags über ein mangelhaftes Fahrzeug.Der Schaden ist unabhängig davon eingetreten, ob das streitgegenständliche Fahrzeug durch die verwendeten Abschalteinrichtungen einen Wertverlust erlitten hat oder ob das streitgegenständliche Fahrzeug, verglichen mit vergleichbaren Modellen anderer Hersteller, im realen Fahrbetrieb vergleichsweise emissionsarm und kraftstoffsparend ist. Ein Schaden im Sinne des § 826 BGB ist nicht nur jede nachteilige Einwirkung auf die Vermögenslage, sondern darüber hinaus jede Beeinträchtigung eines rechtlich anerkannten Interesses und jede Belastung mit einer ungewollten Verpflichtung (BGH, NJW 2004, 2971-2974 Rn. 41; BGH NJW-RR 2015, 275 Rn. 19). Der gemäß § 826 BGB ersatzfähige Schaden wird weit verstanden und beschränkt sich gerade nicht auf die Verletzung bestimmter Rechte oder Rechtsgüter. Erfasst wird ganz allgemein jede nachteilige Einwirkung auf die Vermögenslage. Das Vermögen wird nicht nur als ökonomischer Wert geschützt, sondern zugleich auch die auf das Vermögen bezogene Dispositionsfreiheit des jeweiligen Rechtssubjektes (Münchener Kommentar, BGB, 7. Aufl. 2017, § 826 Rn. 42). Folglich stellt bereits die Belastung mit einer ungewollten Verpflichtung einen gemäß § 826 BGB zu ersetzenden Schaden dar, ohne dass es darauf ankäme, ob die erhaltene Leistung wirtschaftlich betrachtet hinter der Gegenleistung zurückbleibt; denn im Fall der vorsätzlichen sittenwidrigen Schädigung dient der Schadensersatzanspruch nicht nur dem Ausgleich jeder nachteiligen Einwirkung durch das sittenwidrige Verhalten auf die objektive Vermögenslage des Geschädigten. Vielmehr muss sich der Geschädigte auch von einer auf dem sittenwidrigen Verhalten beruhenden Belastung mit einer ungewollten Verpflichtung wieder befreien können (BGH NJW-RR 2015, 275).Das Inverkehrbringenlassen von mangelhaften Fahrzeugen dieser Bauart unter Geheimhaltung der bewusst eingebauten Einrichtungen zur Veränderung der Emissionswerte auf dem Prüfstand war auch ursächlich für den Kauf des streitgegenständlichen Fahrzeugs durch die klagende Partei. Wären mangelhafte Fahrzeuge dieser Art nicht in Verkehr gebracht worden, hätte die klagende Partei ein solches Fahrzeug nicht erwerben können.Wollte man auf das Verschweigen des Mangels abstellen, ergibt sich nichts anders: Wäre die Klagepartei über den Mangel aufgeklärt worden, hätte sie den Kaufvertrag nicht geschlossen. Kein vernünftiger Käufer würde sich auf die Unsicherheit einer möglichen behördlichen Betriebsuntersagung oder der möglichen Beanstandung im Rahmen der gesetzlich vorgeschriebenen technischen Untersuchungen einlassen und ein solches Fahrzeug erwerben. Der Käufer eines Neuwagens will vernünftigerweise auch nicht die Unsicherheiten und Unannehmlichkeiten einer erforderlichen Nachbesserung zur Beseitigung unzulässiger Abschalteinrichtungen in Kauf nehmen, sondern erwartet ein im ausgelieferten Zustand dauerhaft nutzbares Fahrzeug.2. Die Schadenszufügung ist sittenwidrig erfolgt.Ein Verhalten ist sittenwidrig, wenn es gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. In diese rechtliche Beurteilung ist einzubeziehen, ob die Handlung nach ihrem aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter mit den guten Sitten nicht zu vereinbaren ist (BGH, WM 2014, 71 Rn. 23 m.w.N.). Für die Annahme einer Sittenwidrigkeit genügt es im Allgemeinen nicht, dass der Handelnde vertragliche Pflichten oder das Gesetz verletzt oder bei einem anderen einen Vermögensschaden hervorruft (BGH, NJW 2014,1380 Rn. 8 m.w.N.).Von diesen Grundsätzen ausgehend stellt sich das Verhalten der Beklagten zu 2 als sittenwidrig dar:Es gilt der Grundsatz, dass eine bewusste Täuschung zur Herbeiführung eines Vertragsschlusses – insbesondere unwahre Angaben über vertragswesentliche Umstände – regelmäßig die Sittenwidrigkeit begründet (Palandt, BGB, 77. Aufl., § 826 Rn. 20). Insbesondere hat die Rechtsprechung dies für das arglistige Verschweigen eines Mangels durch Verkäufer angenommen (BGH, Urteil vom 20. April 1988 – VIII ZR 35/87 –, Rn. 12; vgl. auch Staudinger/Oechsler (2018) BGB § 826, Rn. 184). Ebenso als sittenwidrig anerkannt ist die vorsätzliche Herbeiführung eines (Sach-)Mangels (Staudinger/Oechsler (2018) BGB § 826, Rn. 184 m.w.N.). Dass die Beklagte zu 2 vorsätzlich mangelhafte Fahrzeuge unter Geheimhaltung der bewusst eingebauten Funktion zur Veränderung der Emissionswerte auf dem Prüfstand im Vergleich zum normalen Betrieb in Verkehr gebracht hat, stellt sich danach als sittenwidrig dar. Der Wertung des § 323 Abs. 5 S. 2 BGB widerspricht dies entgegen der Auffassung der Beklagten zu 2 nicht, weil der oben im Einzelnen aufgezeigte Mangel erheblich ist (näher dazu OLG Köln, Beschluss vom 20. Dezember 2017 – 18 U 112/17 –, Rn. 41 ff.; OLG Nürnberg, Urteil vom 24. April 2018 – 6 U 409/17 –, Rn. 44 ff.; a.A. OLG München, Urteil vom 3. Juli 2017, – 21 U 4818/16 –, Rn. 28; OLG Koblenz, Beschluss vom 27. September 2017, – 2 U 4/17 –, Rn. 22).Die Beklagte zu 2 hat bei den von ihr eingebauten Motoren durch eingebaute Abschalteinrichtungen bewirkt, dass das Fahrzeug nur im Prüfstand die gesetzlichen Abgasgrenzwerte einhielt. Dabei kommt es nicht darauf an, ob die erteilte EG-Typengenehmigung wirksam erteilt wurde und dass allgemein bekannt sein mag, dass die unter Laborbedingungen ermittelten Herstellerangaben nicht den Emissionswerten im normalen Straßenverkehr entsprechen. Vielmehr ist für die Entscheidung, ob das Verhalten der Beklagten verwerflich ist, darauf abzustellen, dass für das Genehmigungsverfahren Abschalteinrichtungen entwickelt und eingebaut wurden, deren Zweck in der Veränderung des Schadstoffausstoßes im Prüfstand im Rahmen des Genehmigungsverfahrens bestand. Wenn üblicherweise im Labor andere Messwerte erzielt werden als im realen Fahrbetrieb, so liegt dies daran, dass die äußeren Rahmenbedingungen eben nicht dem normalen Fahrbetrieb entsprechen, nicht jedoch an einer gezielten Veränderung des Emissionsverhaltens, die dem Verbraucher bewusst verschwiegen wird.Das schädigende Verhalten der Beklagten zu 2 ist sowohl wegen seines Zwecks als auch wegen des angewandten Mittels als auch mit Rücksicht auf die dabei gezeigte Gesinnung als verwerflich anzusehen. Die Beklagte zu 2 hat mit dem bewussten Einbau des mit unzulässigen Abschalteinrichtungen versehenen Motors massenhaft und mit erheblichem technischen Aufwand gesetzliche Vorschriften zum Umwelt- und Gesundheitsschutz ausgehebelt und zugleich Kunden getäuscht. Sie hat damit nicht einfach nur Abgasvorschriften außer Acht gelassen und erhebliche Umweltverschmutzung herbeigeführt, sondern war zugleich an einer planmäßigen Verschleierung dieses Vorgehens gegenüber den Genehmigungsbehörden, den Verbrauchern und Mitwettbewerbern beteiligt, um sich einen Wettbewerbsvorteil zu verschaffen oder sich wettbewerbsfähig zu halten, weil die Beklagte zu 2 entweder nicht über eine Technik verfügte, um die gesetzlichen Abgasvorschriften einzuhalten, oder weil sie aus Gewinnstreben den Einbau der ansonsten notwendigen teureren Vorrichtungen unterließ. Die daraus zu entnehmende Gesinnung, aus Gewinnstreben massenhaft die Käufer der so produzierten Fahrzeuge bei ihrer Kaufentscheidung zu täuschen, die Wettbewerber zu benachteiligen und die Umwelt zu schädigen, lässt das Verhalten insgesamt als sittenwidrig erscheinen. Dies gilt insbesondere vor dem Hintergrund, dass es sich bei der Anschaffung eines Fahrzeugs für einen Verbraucher in der Regel um eine wirtschaftliche Entscheidung von erheblichem Gewicht handelt und ein Verbraucher als technischer Laie die Abschalteinrichtungen nicht erkennen kann. Die Beklagte zu 2 hat die Ahnungslosigkeit des Verbrauchers bewusst zu ihrem Vorteil ausgenutzt, was eine besonders verwerfliche Vorgehensweise darstellt.Die Beklagte zu 2 hat bewusst das ihr entgegengebrachte Vertrauen der Verbraucher ausgenutzt. Sie verfügt über ein über viele Jahre gewachsenes überdurchschnittliches Vertrauen, das auf einer in der Vergangenheit erfolgreichen Unternehmenspolitik sowie einem Qualitätsanspruch beruhte, von dem der Durchschnittsbürger annahm, dass die Beklagte zu 2 ihm überwiegend gerecht wird. Verbraucher haben die Einhaltung der angegebenen Abgasnorm insbesondere auch deshalb nicht infrage gestellt, weil die Beklagte zu 2 insofern als glaubwürdig galt. Tatsächlich haben die Fahrzeuge nur aufgrund der unzulässigen Abschalteinrichtungen den gesetzlichen Anforderungen entsprochen. Dieses Verhalten ist als verwerflich einzuordnen. Zwar ist es nicht schon verwerflich, wenn ein Unternehmen seinen eigenen Ansprüchen oder denjenigen der Verbraucher nicht genügt. Ein Unternehmen darf sich auch auf den Erfolgen der Vergangenheit ausruhen, wenn es dies will. Die unternehmerische Freiheit findet ihre Grenze jedoch dort, wo - wie hier - das besondere Vertrauen unter Inkaufnahme einer essenziellen Schädigung der potentiellen Kunden ausgenutzt wird, um aus Gewinnstreben sich Wettbewerbsvorteile zu verschaffen.Die Beklagte zu 2 ist ein bedeutender Fahrzeughersteller und -exporteur Deutschlands, so dass die mit ihrem Wissen vorgenommenen gezielten Manipulationen in Genehmigungsverfahren geeignet sind, das Vertrauen einer Vielzahl von Kunden in die Einhaltung der rechtlichen Rahmenbedingungen zu untergraben.3. Die sittenwidrige Schädigung erfolgte auch vorsätzlich.a) Der Kläger trägt vor, dass der Vorstand der Beklagten zu 2 einschließlich deren Vorstandsvorsitzender […] zum Zeitpunkt des Inverkehrbringens des klägerischen Fahrzeugs Kenntnis von den unzulässigen Abschalteinrichtungen in dem von Audi bezogenen Motor hatte, den Motor aber gleichwohl einbauen ließ und die Schädigung des Vermögens der Käufer durch ungewollte Fahrzeugkäufe in Kauf nahm. Dies ist als unstreitig anzusehen, nachdem die Beklagte zu 2 Vorsatz nicht bestreitet, sondern lediglich rechtsirrig eine nähere Substantiierung für erforderlich hält. Hinsichtlich des Schriftsatzes vom 29.10.18 gilt § 296a ZPO.§ 826 BGB setzt kein absichtliches oder arglistiges Verhalten in dem Sinne voraus, dass es dem Täter gerade auf die Schädigung des Dritten ankommen müsste. Es ist auch nicht erforderlich, dass der Täter den Erfolgseintritt für sicher gehalten hat, sondern es reicht das Bewusstsein, dass die Schädigung im Bereich des Möglichen liegt sowie das billigend in Kauf nehmen des Schädigungsrisikos (Münchener Kommentar, BGB, 7. Aufl. 2017, § 826 Rn. 27).Davon ausgehend lag vorsätzliches Handeln seitens des Vorstands der Beklagten zu 2 vor. Die Abschalteinrichtungen wurden vom Motorenhersteller zu dem Zweck eingebaut, die Abgaswerte im Prüfstand im Vergleich zu dem normalen Fahrbetrieb zu verändern und die EG-Typgenehmigung nach der EU6-Abgasnorm zu erhalten und Fahrzeuge mit dieser vertreiben zu können. Es ist gerade Sinn dieser Abschalteinrichtungen, den Rechtsverkehr, d.h. Genehmigungsbehörden, Kunden und Wettbewerber zu täuschen. Dabei nahm der darüber informierte Vorstand der Beklagten zu 2 billigend in Kauf, dass der Einsatz der Abschalteinrichtungen unredlich im Verhältnis zu den potentiellen Kunden und gesetzeswidrig sein konnte. Dass Endverbraucher wie die klagende Partei sittenwidrig geschädigt würden, haben die Verantwortlichen als mögliche Folge in Kauf genommen, auch wenn sich ihre unmittelbare Absicht auf die Einhaltung der Grenzwerte bezogen haben mag. Konkret nahm der Vorstand der Beklagten zu 2 in Kauf, Käufer wie die klagende Partei zum Erwerb eines Fahrzeugs zu veranlassen, von dem diese in Kenntnis der Sachlage abgesehen hätten. Wie oben aufgezeigt, kann ein Käufer erwarten, dass die Emissionswerte seines Fahrzeugs jedenfalls dann ähnlich hoch ausfallen wie im Prüfstand, wenn im realen Fahrbetrieb vergleichbare Bedingungen gegeben sind. Dass die in den streitgegenständlichen Fahrzeugen eingebauten Abschalteinrichtungen dies verhinderten und Fahrzeugkäufer keine Kenntnis davon haben konnten, war dem Vorstand der Beklagten zu 2 bewusst. Er hat überdies zumindest billigend in Kauf genommen, dass die Abschalteinrichtungen zur Beeinflussung des Schadstoffausstoßes im Prüfstand bei Bekanntwerden von den zuständigen Behörden als unzulässig eingestuft und deren Beseitigung gefordert werden würde, wofür schon die Geheimhaltung dieser Einrichtungen spricht. Dass die eingebauten Abschalteinrichtungen in der Folge von den Prüforganisationen im Rahmen der Hauptuntersuchung als erheblicher Mangel eingestuft werden würden und deswegen auch eine behördliche Betriebsuntersagung drohen könnte, sind naheliegende Risiken, welche der Vorstand der Beklagten zu 2 ebenfalls billigend in Kauf nahm, als er sich zum Einbau eines zur Erreichung der Schadstoffgrenzwerte mit Abschalteinrichtungen versehenen Motors entschloss.b) Auch die unerlaubte Handlung eines Mitarbeiters der Beklagten zu 2 ist dieser zuzurechnen. Die Haftung der Beklagten zu 2 ergibt sich insoweit aus § 831 BGB.Nach dem unbestrittenen Vortrag der Klägerseite hatte der Leiter der Elektronikentwicklung der Beklagten zu 2 Herr […] zum Zeitpunkt des Inverkehrbringens des klägerischen Fahrzeugs Kenntnis von den unzulässigen Abschalteinrichtungen in dem von Audi bezogenen Motor, ließ diesen aber gleichwohl einbauen und nahm die Schädigung des Vermögens der Käufer durch ungewollte Fahrzeugkäufe in Kauf.Bei dem Mitarbeiter […] handelt es sich wenn nicht um einen Repräsentanten, so doch zumindest um einen von der Beklagten zu 2 bestellten Verrichtungsgehilfen.Trotz eines richterlichen Hinweises auf § 831 BGB macht die Beklagte zu 2 nicht geltend, dass sie den verantwortlichen Mitarbeiter sorgfältig ausgewählt und überwacht habe oder die Schädigung selbst in diesem Falle eingetreten wäre. Vor diesem Hintergrund erübrigt sich eine Auseinandersetzung hiermit.Wenn sich der Bundesgerichtshof gegen eine Wissenszusammenrechnung zur Begründung von Sittenwidrigkeit und Vorsatz im Sinne des § 826 BGB ausgesprochen hat (BGH, Urteil vom 28. Juni 2016 – VI ZR 536/15 –), so bedeutet dies lediglich, dass sämtliche Merkmale der unerlaubten Handlung in Person eines einzigen Verrichtungsgehilfen erfüllt sein müssen. Dass Herr S... sämtliche Merkmale des § 826 BGB verwirklicht hat, ist oben dargestellt worden.C. Der klagenden Partei steht ein Anspruch auf Freistellung von vorgerichtlichen Rechtsanwaltskosten in Höhe von 2.085,95 € aus den §§ 826, 249 Abs. 1 BGB zu. Die klagende Partei durfte es für erforderlich halten, ihre jetzigen Prozessbevollmächtigten mit der außergerichtlichen Geltendmachung ihrer Ansprüche gegen die Beklagte zu 2 zu beauftragen. Die Fälligkeit der Anwaltsvergütung ist nicht Voraussetzung eines Befreiungsanspruchs. Die erforderlichen Anwaltskosten für die vorgerichtliche Tätigkeit der Prozessbevollmächtigten des Klägers ergeben sich der Höhe nach aus einer 1,3 Geschäftsgebühr nach einem berechtigten Wert von 74.500 € in Höhe von 1.732,90 €, zuzüglich Auslagenpauschale von 20 € und 19% Mehrwertsteuer (333,05 €). Eine über eine 1,3-fache Geschäftsgebühr hinausgehende Geschäftsgebühr zu zahlen darf die klagende Partei nicht für erforderlich halten. Es handelt sich vorliegend sowohl hinsichtlich des Umfangs als auch hinsichtlich des rechtlichen Schwierigkeitsgrades nicht um einen überdurchschnittlichen Fall. Die diskutierten Rechtsfragen sind Gegenstand unzähliger Rechtsstreitigkeiten und Gerichtsentscheidungen, die Beteiligten verwenden standardisierte Schreiben und Textbausteinsteine formularmäßig in einer Vielzahl von Fällen.D. Die Kostenentscheidung folgt aus § 92 Abs. 1 ZPO. Das Obsiegen und Unterliegen der klagenden Partei ist etwa gleich zu bewerten. Im Übrigen wird auf den Streitwertbeschluss Bezug genommen.E. Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2126821.html (https://oj.is/2126821)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate14
+				
+				
+					 Zitiert5
+				
+
+				
+					 Referenzen3
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

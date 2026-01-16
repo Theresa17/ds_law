@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungBeschluss vom 14.05.2020 - 3 U 173/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Beschluss vom 14.05.2020 - 3 U 173/19
+                      m. Fundstelle
+                      OLG Köln, Beschluss vom 14.05.2020 - 3 U 173/19 = openJur 2020, 76843
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Beschluss vom 14.05.2020 - 3 U 173/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 76843
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 24 O 368/18
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das am 09.08.2019 verkündete Urteil der 24. Zivilkammer des Landgerichts Köln - Az. 24 O 368/18 - wird zurückgewiesen.Der Kläger trägt die Kosten des Berufungsverfahrens.Dieser Beschluss und das angefochtene Urteil sind ohne Sicherheitsleistung vorläufig vollstreckbar. Dem Kläger wird nachgelassen, die Vollstreckung durch Sicherheitsleistung in Höhe von 110 % des zu vollstreckenden Betrages abzuwenden, wenn die Beklagte nicht vor der Vollstreckung Sicherheit in gleicher Höhe leistet.  
+				Gründe
+				I.Der Kläger kaufte am 14.04.2016 bei der A GmbH in B (im folgenden: Verkäuferin) ein gebrauchtes Fahrzeug des Typs VW C 2,0 TDI DSG BMT Comfortline Panorama (EU 5, Erstzulassung 27.04.2015) mit einer Laufleistung von 23.500 km zum Preis von 29.900 €. Die Verkäuferin teilte dem Kläger bei Kaufvertragsschluss mit, das Fahrzeug sei "von der Abgasthematik EA189 betroffen". Tatsächlich ist das streitgegenständliche Fahrzeug mit einem Dieselmotor der Beklagten vom Typ EA 189 ausgestattet. Dieser Motor verfügte zum Zeitpunkt des Kaufvertrages über eine Fahrzykluserkennungssoftware, die zwei unterschiedliche Betriebsmodi zur Steuerung der Abgasrückführung aufwies: Im Modus 1, der ausschließlich in dem unter Laborbedingungen festgelegten Fahrzyklus (NEFZ) aktiviert wurde, kam es zu einer höheren Abgasrückführung und damit zu einem reduzierten Schadstoffausstoß, so dass das Fahrzeug die Abgasgrenzwerte des NEF-Zyklus einhielt. Unter normalen Fahrbedingungen im Straßenverkehr wurde hingegen der Modus 0 aktiv, in dem es zu einer verringerten Abgasrückführung und infolgedessen einem deutlich erhöhten Schadstoffausstoß kam. Bereits am 22.09.2015 hatte die Beklagte in diesem Zusammenhang eine Adhoc-Mitteilung veröffentlicht, in der sie Unregelmäßigkeiten im Zusammenhang mit einer in Dieselmotoren des Typs EA 189 verwendeten Software offen legte und eine umfassende Aufklärung avisierte. Wegen der Einzelheiten dieser Mitteilung wird auf die Anlage B9 Bezug genommen (Bl. 18 f. AnlH II). An diese Mitteilung schloss sich eine breite Berichterstattung über den sogenannten "VW-Abgasskandal" in sämtlichen Medien an. Im Oktober 2015 ordnete das Kraftfahrtbundesamt den Rückruf sämtlicher Fahrzeuge mit einem Motor des Typs EA 189 an. In der Folge wurde seitens der Beklagten ein Software Update entwickelt. Im Dezember 2016 wurde das Software Update für den streitgegenständlichen Fahrzeugtyp vom Kraftfahrtbundesamt freigegeben und am 20.02.2017 auf das Fahrzeug des Klägers aufgespielt.Unter dem 07.07.2016 ließ der Kläger das streitgegenständliche Fahrzeug nach einem Vollkaskoschaden in einer Werkstatt reparieren. Hierfür fielen Reparaturkosten in Höhe von 3.894,28 € an, von denen der Kläger im Rahmen der von ihm in der Vollkaskoversicherung vereinbarten Eigenbeteiligung einen Teilbetrag in Höhe von 1.000,00 € selbst trug. Mit anwaltlichem Schreiben vom 14.11.2018 (Bl. 191 ff. AnlH I) forderte der Kläger die Beklagte unter Fristsetzung auf den 27.11.2018 erfolglos zur Rückzahlung des Kaufpreis für das streitgegenständliche Fahrzeug Zug um Zug gegen dessen Herausgabe und Übereignung auf, darüber hinaus zur Erstattung der Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.666,95 €. Die Laufleistung des Fahrzeuges betrug am 12.03.2019 44.932 km.Mit der Klage hat der Kläger seinen Anspruch auf Rückabwicklung des Kaufvertrages gegen die Beklagte weiter verfolgt. Er hat die Auffassung vertreten, die Beklagte sei ihm aus deliktsrechtlichen Grundsätzen zum Schadensersatz verpflichtet. Hierzu hat er behauptet, die Beklagte habe ihn vorsätzlich und sittenwidrig über die Gesetzeskonformität der in dem streitgegenständlichen Fahrzeug vorhandenen Motorsteuerung und die Einhaltung der zulässigen Abgaswerte getäuscht und ihm das Vorhandensein einer unzulässigen Abschalteinrichtung verschwiegen. Dadurch sei ihm ein Schaden entstanden, der in dem Abschluss des Kaufvertrages über das streitgegenständliche Fahrzeug liege. Er hat weiter behauptet, das Fahrzeug in Kenntnis der nicht gesetzeskonformen Motorsoftware nicht erworben zu haben. Das Aufspielen des Software Updates sei nicht geeignet, seinen Schaden zu kompensieren. Denn dieses habe den Mangel nicht behoben. Darüber hinaus sei zu bestreiten, dass das Software Update keine nachteiligen Auswirkungen auf sein Fahrzeug habe. Zu befürchten seien insbesondere ein erhöhter Kraftstoffverbrauch und erhöhter Verschleiß. Darüber hinaus verbleibe dauerhaft ein merkantiler Minderwert. Die Beklagte habe auch vorsätzlich gehandelt. Von der Ausstattung des Motors mit der unzulässigen Abschalteinrichtung hätten bedeutende Führungspersönlichkeiten der Beklagten, darunter deren damaliger Vorstand, gewusst und diese mindestens gebilligt. Darüber hinaus hat der Kläger die Auffassung vertreten, die Beklagte treffe eine Repräsentantenhaftung. Er hat bestritten, bei Abschluss des Kaufvertrages von dem Vorhandensein einer unzulässigen Abschalteinrichtung gewusst zu haben. Zwar hat er eine Mitteilung der Verkäuferin über die Betroffenheit des Fahrzeuges von der Abgasthematik EA 189 ebenso zugestanden wie eine allgemeine Kenntnis von der Existenz eines Abgasskandals. Indes hat er behauptet, die konkreten Auswirkungen desselben für das von ihm erworbene Fahrzeug seien ihm nicht vollumfänglich bekannt gewesen.Im Hinblick auf die Höhe des Schadensersatzanspruches hat der Kläger gemeint, die im Wege des Vorteilsausgleichs anzurechnenden Nutzungsvorteile seien unter Zugrundelegung einer zu erwartenden Gesamtlaufleistung des streitgegenständlichen Fahrzeugs von 300.000 km zu berechnen. Darüber hinaus sei die Beklagte verpflichtet, ihm die aufgewendeten Reparaturkosten sowie seine vorgerichtlichen Anwaltskosten zu ersetzen.Der Kläger hat beantragt, 1. die Beklagte zu verurteilen, an ihn 29.900,00 € nebst Zinsen hieraus in Höhe von 4% seit dem 14.04.2016 bis zum 27.11.2018 und seither in Höhe von 5 Prozentpunkten über dem Basiszinssatz abzüglich eines Betrages in Höhe von 2.317,60 € zuzüglich von Reparaturkosten in Höhe von 1.000,00 € Zug um Zug gegen Rückgabe und Übereignung des Fahrzeugs mit der Fahrgestellnummer D zu zahlen; 2. festzustellen, dass sich die Beklagte seit dem 28.11.2018 mit der Rücknahme des im Klageantrag zu 1) bezeichneten Gegenstands in Annahmeverzug befindet; 3. die Beklagte zu verurteilen, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.666,95 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 28.11.2018 zu zahlen. Die Beklagte ist dem entgegen getreten und hat die Abweisung der Klage beantragt.Sie hat die örtliche Zuständigkeit des angerufenen Gerichts gerügt und im übrigen gemeint, eine Täuschung des Käufers komme bereits deshalb nicht in Betracht, weil dieser das streitgegenständliche Fahrzeug erst nach Publikwerden der Abgasthematik in Kenntnis der Betroffenheit des streitgegenständlichen Fahrzeuges erworben habe. Durch die breite Berichterstattung in den Medien sei dem Kläger das Vorhandensein der Steuerungssoftware zum Zeitpunkt des Kaufvertragsschlusses bekannt gewesen.Darüber hinaus hat die Beklagte sich auf den Standpunkt gestellt, die in dem Motor vorhandene Steuerungssoftware stelle keine unzulässige Abschalteinrichtung dar. Es sei auch nicht erkennbar, dass einzelne Vorstandsmitglieder an der Entwicklung der Software beteiligt gewesen seien oder die Entwicklung in Auftrag gegeben hätten. Die Beklagte hat behauptet, diese Entscheidung sei vielmehr von Mitarbeitern der Beklagten unterhalb der Vorstandsebene getroffen worden. Sie hat gemeint, der Kläger habe auch keinen wirtschaftlichen Schaden erlitten, da das streitgegenständliche Fahrzeug uneingeschränkt gebrauchs- und verkehrstauglich sei. Darüber hinaus sei spätestens durch das Aufspielen des Software Updates die vom Kraftfahrtbundesamt beanstandete Software entfernt worden, so dass die Gefahr des Entzugs der Typengenehmigung nicht mehr bestehe. Die Beklagte hat nachteilige Auswirkungen des Software Updates auf das streitgegenständliche Fahrzeug ebenso in Abrede gestellt wie einen verbleibenden merkantilen Minderwert desselben.Das Landgericht hat sich mit am 09.08.2019 verkündetem, dem Kläger am 14.08.2019 zugestelltem Urteil für zuständig gehalten, die Klage jedoch als unbegründet abgewiesen. Hierzu hat es ausgeführt, zwar komme grundsätzlich eine Haftung der Beklagten gemäß § 826 BGB gegenüber den Fahrzeugkäufern in Betracht. Der Anspruch des Klägers scheitere jedoch daran, dass er nicht habe beweisen können, dass das der Beklagten vorgeworfene Verhalten für seine Kaufentscheidung kausal geworden sei. Dies habe die Beklagte substantiiert bestritten. Hieran bestünden mit Rücksicht auf die zeitlichen Abläufe auch durchgreifende Zweifel. Denn bereits im September 2015 sei die Abgasthematik im Hinblick auf Motoren vom Typ EA 189 publik geworden und in der Folge in der Medienberichterstattung breit diskutiert worden. Es habe daher zum Zeitpunkt des Kaufvertragsschlusses der Verdacht bestanden, dass auch das streitgegenständliche Fahrzeug mit einem "manipulierten" Motor ausgestattet gewesen sei. Hinzu komme, dass der Kläger sogar von der Verkäuferin hierüber explizit informiert worden sei. Dass gleichwohl eine Nachfrage zu den konkreten Auswirkungen nicht erfolgt sei, zeige, dass dieser Umstand für seine Kaufentscheidung keine Relevanz gehabt habe. Soweit der Kläger sich durch Mitteilungen der Beklagten über die Wirkungsweise des Software Updates getäuscht sehe, behaupte er selbst nicht, dass ihm derartige Aussagen seinerzeit bei Abschluss des Kaufvertrages schon bekannt und Grundlage seiner Kaufentscheidung gewesen seien. Die zum Kausalitätsbeweis angebotene eigene Parteivernehmung sei zivilprozessual nicht zulässig. Der geltend gemachte Anspruch des Klägers sei auch aus keinem anderen rechtlichen Gesichtspunkt gegeben. Wegen der weiteren Einzelheiten wird auf das angefochtene Urteil Bezug genommen. Hiergegen richtet sich die am 13.09.2019 bei Gericht eingegangene und nach Fristverlängerung bis zum 12.12.2019 am 11.12.2019 begründete Berufung des Klägers.Mit der Berufung verfolgt der Kläger sein erstinstanzliches Begehren unter Wiederholung und Vertiefung seines erstinstanzlichen Sachvortrages weiter. Er bestreitet nunmehr, zum Zeitpunkt des Kaufvertragsschlusses überhaupt Kenntnis von der konkreten Betroffenheit des streitgegenständlichen Fahrzeuges von dem Diesel-Abgasskandal gehabt zu haben, und verweist darauf, dass nach allgemeiner Lebenserfahrung allgemein davon auszugehen sei, dass potenzielle Käufer in Kenntnis der Abgasmanipulation vom Erwerb eines betroffenen Fahrzeuges Abstand nähmen. Der Kläger meint, dies gelte auch für ihn und den vorliegend in Rede stehenden Fahrzeugerwerb. Zumindest sei das Landgericht in prozessualer Hinsicht gehalten gewesen, ihn hierzu als Partei zu vernehmen oder mündlich anzuhören. Er vertritt darüber hinaus die Auffassung, selbst eine bestehende Kenntnis von der konkreten Betroffenheit des streitgegenständlichen Fahrzeuges führe nicht zum Anspruchsausschluss. Jedenfalls fehle es auch dann an der umfassenden Kenntnis aller in diesem Zusammenhang relevanter Umstände. Ihm sei etwa seinerzeit nicht bewusst gewesen, dass die Anordnung zur Verwendung der unzulässigen Abschaltsoftware von den Vorständen der Beklagten gestammt habe. Auch habe er nicht gewusst, dass die Beseitigung der unzulässigen Abschaltsoftware durch das Aufspielen eines Software Updates und nicht durch ein Hardware Update erfolgen würde. Auch seien ihm zwar die mit dem erst noch zu entwickelnden Software Update verbundenen Unwägbarkeiten, nicht aber die negativen Auswirkungen desselben auf sein Fahrzeug bewusst gewesen oder dessen nach wie vor fehlende Eignung zur Herbeiführung der Gesetzeskonformität des Fahrzeuges und zur Einhaltung der gesetzlich normierten Abgaswerte durch dieses.Der Kläger beantragt,unter Abänderung des Urteils des Landgerichts Köln, Az.: 24 O 368/18, verkündet am 09.08.2019 und zugestellt am 14.08.2019,1. die Beklagte zu verurteilen, an die Klägerpartei 29.900 € nebst Zinsen in Höhe von 4 Prozent seit dem 14.04.2016 bis zum 27.11.2018 und seither 5 Prozentpunkten über dem Basiszinssatz abzüglich einer Nutzungsentschädigung in Höhe von 2.317,60 € zuzüglich von Reparaturkosten in Höhe von 1.000 € Zugum-Zug gegen Rückgabe und Übereignung des Fahrzeuges mit der Fahrgestellnummer D zu zahlen,2. festzustellen, dass sich die Beklagte seit dem 28.11.2018 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befindet,3. die Beklagte zu verurteilen, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.666,95 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 28.11.2018 zu zahlen,hilfsweise:das erstinstanzliche Urteil des Landgerichts Köln, Az.: 24 O 368/18, verkündet am 09.08.2019 und zugestellt am 14.08.2019, aufzuheben und zur erneuten Verhandlung zurück zu verweisen,hilfsweise:die Revision zuzulassen.Die Beklagte beantragt,die Berufung zurückzuweisen.Die Beklagte verteidigt das landgerichtliche Urteil nach Maßgabe der Berufungserwiderung unter Wiederholung und Vertiefung ihres erstinstanzlichen Sachvortrages. Sie beruft sich insbesondere auf eine Kenntnis des Klägers von dem Vorhandensein einer unzulässigen Abschalteinrichtung in dem streitgegenständlichen Fahrzeug bei Erwerb des streitgegenständlichen Fahrzeuges.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die im Berufungsrechtszug gewechselten Schriftsätze sowie die zu den Akten gereichten Urkunden Bezug genommen.II.Die Berufung des Klägers war gemäß § 522 II ZPO durch einstimmigen Beschluss zurückzuweisen, weil das Rechtsmittel offensichtlich keine Aussicht auf Erfolg hat (§ 522 II 1 Nr. 1 ZPO). Es ist nicht ersichtlich, dass die angefochtene Entscheidung auf einer Rechtsverletzung beruht (§ 546 ZPO) oder nach § 529 ZPO zugrunde zu legende Tatsachen eine andere Entscheidung rechtfertigen (§ 513 I ZPO). Die Rechtssache hat auch keine grundsätzliche Bedeutung (§ 522 I ZPO). Ebenso wenig ist eine Entscheidung des Senats durch Urteil zur Fortbildung des Rechts oder zur Sicherung einer einheitlichen Rechtsprechung erforderlich (§ 522 II 1 Nr. 3 ZPO) oder aus anderen Gründen eine mündliche Verhandlung geboten (§ 522 II 1 Nr. 4 ZPO).Der Kläger ist auf die beabsichtigte Zurückweisung der Berufung und die Gründe hierfür mit Beschluss des Senats vom 12.03.2020 (Bl. 611 ff. d.A.) hingewiesen worden. Er hat innerhalb der ihm gesetzten und verlängerten Frist mit Schriftsatz vom 22.04.2020 (Bl. 628 ff. d.A.) Stellung genommen. Auch unter Berücksichtigung dieser Stellungnahme hält der Senat an seinen im vorgenannten Beschluss geäußerten Erwägungen, auf die Bezug genommen wird, fest.1.Soweit sich die Stellungnahme des Klägers vordringlich zu der Frage verhält, ob die Beklagte alles ihr Mögliche und Zumutbare zur Aufklärung des sogenannten "Diesel-Abgasskandals" getan hat, ist nicht zu erkennen, inwieweit diese Ausführungen als Stellungnahme zu dem Hinweisbeschluss des Senates zu verstehen sind. Gleiches gilt für die von dem Kläger in seiner Stellungnahme aufgeworfene Frage des Bestehens einer Nachforschungspflicht der potentiellen Käufer vor dem Erwerb eines Dieselfahrzeuges der Beklagten. Der Senat hat diese Fragen an keiner Stelle seines Beschlusses vom 12.03.2020 thematisiert, geschweige denn die ihm von dem Kläger in den Mund gelegte rechtliche Position bezogen. Die klägerseits aufgeworfenen Fragensind für den vorliegend zur Entscheidung stehenden Rechtsstreit nicht rechtserheblich. Es geht aus Sicht des Senates nicht um die Frage, ob einer der Parteien, ggf. welcher, zum Vorwurf gemacht werden kann, dass der Kläger zum Zeitpunkt des Fahrzeugerwerbs über dessen Ausstattung mit einer unzulässigen Abschalteinrichtung in Unkenntnis war. Denn nach dem in prozessualer Hinsicht zugrunde zu legenden übereinstimmenden Vortrag der Parteien (vgl. hierzu Ziffer 2 des Hinweisbeschlusses am Ende, Seite 5, Bl. 613R d.A.) war der Kläger darüber zum Zeitpunkt des Fahrzeugerwerbs gerade nicht in Unkenntnis. Vielmehr war ihm dieser Umstand aufgrund der Mitteilung der Verkäuferin, das streitgegenständliche Fahrzeug sei "von der Abgasthematik EA 189 betroffen" positiv bekannt. Vor dem Hintergrund dieser unstreitigen Kenntnis ist es entgegen der in der Stellungnahme wiederholten Auffassung des Klägers auch keineswegs lebensfremd, anzunehmen, dass der Kläger das Fahrzeug in Kenntnis dieses Umstandes erworben hätte. Dies steht vielmehr auf der Grundlage des unstreitigen Parteivortrages fest, weil der Kläger sich bewusst und eigenverantwortlich in Kenntnis sämtlicher für die Kaufentscheidung relevanter Umstände, zu denen der Senat in seinem Hinweisbeschluss im Einzelnen ausgeführt hat (vgl. Seiten 3 ff., Bl. 612 ff. d.A.), für den Erwerb des streitgegenständlichen Fahrzeuges entschied. Aus diesem Grund ist es dem Kläger verwehrt, nunmehr die von ihm nunmehr behaupteten nachteiligen Auswirkungen seiner Entscheidung auf die Beklagte abzuwälzen. Denn selbst wenn die Beklagte mit dem Inverkehrbringen des streitgegenständlichen Fahrzeuges konkludent über die Gesetzeskonformität der in dem Fahrzeug vorhandenen Motorsteuerung getäuscht hätte, befand sich jedenfalls der Kläger zum Zeitpunkt des Fahrzeugerwerbs nicht in einem täuschungsbedingten Irrtum, so dass sich der Kaufvertrag nicht als kausale Folge dieser Täuschung darstellt.2.Auf die negativen Auswirkungen, die das Software Update nach den Behauptungen des Klägers auf das streitgegenständliche Fahrzeug hat, können die geltend gemachten Ansprüche aus den bereits im Hinweisbeschluss vom 12.03.2020 dargelegten Gründen (vgl. Seiten 7 f. des Beschlusses, Bl. 614 f. d.A.), auf die vollumfänglich Bezug genommen wird, ebenfalls nicht gestützt werden. Da sich die Stellungnahme des Klägers hierzu nicht verhält, sind weitergehende Ausführungen des Senates ebenfalls nicht veranlasst.3.Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO; die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus §§ 708 Nr. 10, 711 ZPO.4.Der Senat hat keine Veranlassung, die Revision zuzulassen, weil die dafür erforderlichen Voraussetzungen nach § 543 II 1 Nr. 1 und 2 ZPO nicht vorliegen. Die Rechtssache hat weder grundsätzliche Bedeutung noch erfordert die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Revisionsgerichts. Bei der vorliegenden Entscheidung handelt es sich um eine Einzelfallentscheidung, die den konkreten Umständen des zu entscheidenden Sachverhalts geschuldet ist. Die sich im Rahmen der juristischen Aufarbeitung des sogenannten "Diesel-Abgasskandals" in einer Vielzahl gleichgelagerter Fälle gleichermaßen stellenden grundsätzlichen Rechtsfragen, hinsichtlich derer zur Sicherung einer einheitlichen Rechtsprechung auch aus Sicht des Senates eine Entscheidung des Bundesgerichtshofes sinnvoll und geboten erscheint, bedürfen mit Rücksicht auf die Besonderheiten der zur Entscheidung stehenden Sachverhaltsgestaltung vorliegend keiner abschließenden Entscheidung.Der Streitwert für das Berufungsverfahren wird auf 28.582,40 € festgesetzt (29.900 € - 2.317,60 € + 1.000 €).
+			
+			
+			
+			Permalink: https://openjur.de/u/2306319.html (https://oj.is/2306319)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

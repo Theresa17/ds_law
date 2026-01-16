@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG AschaffenburgRechtsprechungUrteil vom 07.06.2021 - 32 O 307/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Aschaffenburg, Urteil vom 07.06.2021 - 32 O 307/20
+                      m. Fundstelle
+                      LG Aschaffenburg, Urteil vom 07.06.2021 - 32 O 307/20 = openJur 2023, 780
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Aschaffenburg, Urteil vom 07.06.2021 - 32 O 307/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2023, 780
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Klägerin hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist für die Beklagte gegen Sicherheitsleistung in Höhe von 1 10% des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf ... € festgesetzt. 
+				Tatbestand
+				Die Klagepartei begehrt Schadensersatz aufgrund des Erwerbs eines vermeintlich vom sogenannten Abgasskandal betroffenen Fahrzeugs mit der Fahrzeug-IdentifizierungsnummerDie Klagepartei kaufte den streitgegenständlichen PKW, einen Porsche, am 14.02.2019 zu einem Kaufpreis von ... Euro.Am 16.05.2021 betrug der Kilometerstand des streitgegenständlichen Fahrzeugs 154.276 km.In dem streitgegenständlichen Porsche ist ein Motor verbaut, welcher von der zugeliefert wurde. Der Motor wurde weder von der Beklagten entwickelt, noch hergestellt.Die Klagepartei trägt im Wesentlichen vor, dass auch beim streitgegenständlichen Motor, einem solchen des Typs EA 897, eine illegale Abschalteinrichtung verbaut sei. Das streitgegenständliche Fahrzeug verfüge über eine Motorsteuerungssoftware, die den Ausstoß von Stickoxid im Prüfstandsbetrieb optimiere. Die Software des Fahrzeugs erkenne, ob das Fahrzeug einer Abgasprüfung auf dem Prüfstand unterzogen werde und reduziere in einem solchen Fall den Abgasausstoß des Fahrzeugs. Die Euro-6 Grenzwerte können daher nur im Test-, nicht jedoch im Realbetrieb eingehalten werden.Die Klagepartei ist daher insgesamt der Ansicht, dass sie einen Anspruch auf Schadensersatz in Form der Rückabwicklung habe.Ein solcher Anspruch könne auch gegen die Beklagte geltend gemacht werden, da diese Herstellerin des Fahrzeugs sei.Der Klagepartei beantragt zuletzt,...Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte trägt vor, dass in dem streitgegenständlichen Porsche schon kein Motor des Typs EA 897 verbaut sei, es handele sich vielmehr um einen V6 EIJ6 Dieselmotor. Im Übrigen halte das streitgegenständliche Fahrzeug alle maßgeblichen Grenzwerte ein, es verfüge nicht über unzulässige Abschalteinrichtungen. Ein Anspruch auf Schadensersatz könne gerade nicht durch eine Bezugnahme auf die Umschaltlogik der EA189 Dieselmotoren hergeleitet werden. Die Behauptung, dass die Abgaswerte beim streitgegenständlichen PKW deutlich über dem erlaubten Grenzwert liegen erfolge seitens der Klagepartei ins Blaue hinein. In dem streitgegenständlichen Fahrzeug werde gerade keine unzulässige Abschalteinrichtung verwendet, das Fahrzeug sei mithin nicht manipuliert.Auch liege keine Täuschung oder ein sittenwidriges Verhalten durch die Beklagte vor, sodass der Klagepartei keinerlei Schadensersatzansprüche zustünden.Im Übrigen sei die Beklagte bereits nicht passiv legitimiert, da allein diesen Motor entwickelt und hergestellt hat.Das Gericht hat am 17.05.2021 mündlich verhandelt. Es wird insoweit auf das Protokoll (BI. 223 d. A.) verwiesen. Hinsichtlich des weiteren Sach- und Streitstandes wird auf die zwischen den... Parteien gewechselten Schriftsätze nebst deren Anlagen Bezug genommen. 
+				Gründe
+				Dem Kläger steht unter keinem rechtlichen Gesichtspunkt ein Schadensersatzanspruch gerichtet auf Rückgängigmachung des Kaufs seines Kraftfahrzeugs mit der Fahrgestellnummer ... zu.Ein mangels vertraglicher Beziehungen zwischen den Parteien allenfalls in Betracht kommender Schadensersatzanspruch aus unerlaubter Handlung gemäß S. 826 BGB oder S. 823 Abs. 2 BGB in Verbindung S. 263 StGB scheitert schon daran, dass die Beklagte jedenfalls nicht Schuldnerin eines etwaigen Schadensersatzanspruchs ist, weil eine eigene Schadenshandlung der Beklagten nicht feststellbar, eine Zurechnung einer etwaigen Schadenshandlung der -über S. 31 BGB analog nicht möglich ist und die Beklagte für eine Schadensersatzverbindlichkeit der ... nicht haftet.Es kann offen bleiben, um welchen genauen Motortyp es sich vorliegend letztlich handelt. Es ist nämlich unstreitig, dass der Motor von der zugeliefert wurde. Eine Haftung gemäß der oben genannten Normen lässt sich aber gerade nur in Bezug auf das Unternehmen annehmen, das den streitgegenständlichen Motor auch entwickelt und hergestellt hat (OLG Köln, Beschluss vom 21. April 2020* - 16 U 273/19 Rn. 4). Der Motor einschließlich Motorsteuerung ist vorliegend von der Beklagten weder entwickelt, hergestellt, noch vertrieben worden.b) Das etwaige Handeln der Vorstandsmitglieder der das möglicherweise als unerlaubte Handlung nach 823 ff. BGB zu werten ist, kann analog S. 31 BGB auch lediglich der ... zugerechnet werden.Bei der Anwendung von S. 826 BGB ist Voraussetzung für die Zurechnung, dass ein verfassungsmäßig berufener Vertreter der Beklagten im Sinne von S. 31 BGB den objektiven und subjektiven Tatbestand dieser Anspruchsgrundlage verwirklicht hat (vgl. hierzu BGH, Urteil vom 28.06.2016 VI ZR 536/15, NJW 2017, 250 ff.). Um die Voraussetzungen des für S. 826 BGB charakteristischen moralischen Unwerturteils als erfüllt betrachten zu können, bedarf es der Feststellung, was welche konkrete Person zum maßgeblichen Zeitpunkt wusste und wollte (BGH, Urteil vom 28.06.2016 - VI ZR 536/15, a.a.O.). Dabei mag zugunsten des für die anspruchsbegründenden Umstände darlegungspflichtigen Klägers grundsätzlich von einer Erleichterung seiner Darlegungslast auszugehen sein, da er außerhalb des-für seinen Anspruch erheblichen Geschehensablaufs steht. Zu berücksichtigen ist jedoch wiederum, dass der streitgegenständliche Motor des unstreitig von der entwickelt wurde und diese eine von der Beklagten zu unterscheidende Rechtspersönlichkeit ist. Eine generelle Zurechnung von Wissen und Kenntnissen im Konzern ist dem Deliktsrecht fremd (OLG Köln, Beschluss vom 21. April 2020 - 16 U 273/19 Rn. 6).Es wäre daher zunächst einmal näherer Vortrag des Klägers dazu erforderlich, dass die Beklagte überhaupt auf einer für S. 31 BGB relevanten Ebene Kenntnis von der Verwendung der streitgegenständlichen Software zur Motorsteuerung in dem streitgegenständlichen Kraftfahrzeug gehabt haben könnte. Angesichts des Umstandes, dass die Beklagte gerade nicht Entwicklerin des Motors ist, kann für die Beklagte nämlich nicht ohne weiteres angenommen werden, dass ihr Vorstand, jedenfalls aber die Mitarbeiter ihres oberen Managements Kenntnis von dem Einsatz einer Software zur Motorsteuerung und ihrer Funktionsweise hatten. Richtig ist zwar, dass die Entwicklung der entsprechenden Software und ihr Einsatz ein systematisches, koordiniertes und planvolles Vorgehen erfordert hätte, so dass es für die Entwicklerin des streitgegenständlichen Motors mehr als fernliegend erscheint, dass nicht wenigstens Mitarbeiter des oberen Managements über ihren Einsatz unterrichtet waren. Die Beklagte war jedoch eben in die Entwicklung der Motorsteuerungssoftware und des Motors selbst nicht eingebunden, so dass es ohne weiteres denkbar ist, dass der Beklagten der streitgegenständlichen Motor ohne Aufklärung über den Einsatz der Motorsteuerungssoftware und ihre Funktionsweise überlassen wurde (so z.B. OLG Köln, Beschluss vom 21. April 2020 - 16 U 273/19 -, Rn. 7). Etwas anderes folgt auch nicht daraus, dass die Beklagte die Motoren in ihren Produkten verbaut hat.Insgesamt ist daher eine eigene Schadenshandlung der Beklagten nicht feststellbar ist und eine Zurechnung einer etwaigen Schadenshandlung derüber S. 31 BGB analog nicht möglich, so dass keine Ansprüche gegen die Beklagte geltend gemacht werden können (so auch OLG Köln, Beschluss vom 26. August 2020 Az.: 26 U 10/20).Aufgrund der fehlenden Passivlegitimation der Beklagten ist auch der Feststellungsantrag (Ziffer 2) und die Nebenforderung in Form vorgerichtlicher Rechtsanwaltskosten (Ziffer 3) in der Sache nicht erfolgreich und unterliegen der Klageabweisung.Die Kostenentscheidung folgt aus S. 91 ZPO.Die vorläufige Vollstreckbarkeit ergibt sich aus S. 709 S. 2 ZPO.Der Streitwert bemisst sich anhand der SS 39 ff., 47 GKG; S. 3 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2461663.html (https://oj.is/2461663)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

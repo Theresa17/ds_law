@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG AachenRechtsprechungUrteil vom 30.08.2017 - 8 O 505/16
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Aachen, Urteil vom 30.08.2017 - 8 O 505/16
+                      m. Fundstelle
+                      LG Aachen, Urteil vom 30.08.2017 - 8 O 505/16 = openJur 2021, 46550
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Aachen, Urteil vom 30.08.2017 - 8 O 505/16
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 46550
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zuvollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger begehrt die Rückabwicklung eines Kaufvertrages über ein gebrauchtes Kraftfahrzeug.Mit Kaufvertrag vom 06.01.2015 erwarb der Kläger von der Beklagten über deren Zweigstelle in Geilenkirchen einen PKW B A4 Avant mit einer Laufleistung von 17.007 km zum Preis von 41.400 € brutto. Mit anwaltlichem Schreiben vom 12.12.2016 ließ der Kläger den Rücktritt vom Kaufvertrag erklären und forderte die Beklagte fruchtlos auf, das Fahrzeug Zug um Zug gegen Erstattung des Kaufpreises zurückzunehmen.In dem Fahrzeug ist ein von der B AG hergestellter Dieselmotor vom Typ EA189 EU 5 eingebaut, welcher vom sogenannten Abgasskandal betroffen ist. Der Motor stand bei Auslieferung des Fahrzeuges an den Kläger in Verbindung mit einer Software, die die Stickstoffemissionswerte im behördlichen Prüfverfahren optimiert. Das Motorsteuerungsgerät ermöglicht dabei 2 Betriebsmodi bei der Abgasführung, einen Stickstoffoptimierten Modus 1 (NEFZ) mit einer relativ hohen Abgasrückführungsrate und einen Partikeloptimierten Modus 0 (Fahrbetrieb), bei dem die Abgasrückführungsrate geringer ist. Die Software des Motorsteuerungsgerätes erkennt, ob sich das Fahrzeug im üblichen Straßenverkehr oder auf einem technischen Prüfstand zur Ermittlung der Emissionswerte befindet. Während des Prüfstandtests spielt die eingebaute Software beim Stickstoff-Ausstoß dann das andere Motorprogramm ab, nämlich Modus 1 anstatt Modus 0, so dass hierdurch geringere Stickoxidwerte (NOx) erzielt und die gesetzlich vorgegebenen und im technischen Datenblatt aufgenommen Abgaswerte wie auch die nach der Euro-5- Abgasnorm vorgegebenen NOx Grenzwerte eingehalten werden. Unter realen Fahrbewegung im Straßenverkehr wird das Fahrzeug hingegen im Abgasrückführungsmodus 0 betrieben.Auf die Fahrbereitschaft und Verkehrssicherheit der betroffenen Pkw hatte die Software keine Auswirkungen.Das Kraftfahrtbundesamt (KBA) legte dem Herstellerkonzern nach Bekanntwerden des Einsatzes dieser Manipulationssoftware in verschiedenen Dieselfahrzeugen des VW-Konzerns auf, die entsprechende Software aus allen Fahrzeugen zu entfernen. In der Folgezeit prüfte das KBA einen von der W AG vorgelegten Maßnahmeplan und gab zeitlich gestaffelt bis Ende 2016 die auf den jeweiligen Fahrzeugtyp abgestimmten Software-Updates frei. Die EG -Typengenehmigung wurde nicht entzogen, wobei das Kraftfahrtbundesamt den von der W AG vorgeschlagenen Zeit und Maßnahmenplan für verbindlich erklärt hat. Hinsichtlich der Bestätigung für Fahrzeuge des Typs B A 4 wird auf die Anlage B4, Bl. 61 ff. GA Bezug genommen.Bei dem streitgegenständlichen Fahrzeug wurde am 16.09.2016/ 27.09.2017 in einer B Vertragswerkstatt mit Zustimmung des Klägers bereits ein entsprechendes Software-Update durchgeführt. Diese Maßnahme erfolgte auf Kosten der B AG. Das Software-Update führt dazu, dass das Fahrzeug nur noch im Modus 1 adaptiert sowohl im Zulassungslauf als auch auf der Straße betrieben wird.Neben der Rückabwicklung des Kaufvertrages fordert der Kläger die Freistellung von der Gebührenforderung seiner jetzigen Prozessbevollmächtigten für deren außergerichtliche Tätigkeit in einer Höhe von 1706,94 € sowie die Feststellung des Annahmeverzuges.Das Fahrzeug wies am 7.6.2017 eine Laufleistung von 61.320 km auf.Der Kläger ist der Ansicht, dass das von ihm erworbene Fahrzeug zum Zeitpunkt des Gefahrübergangs nicht die zu erwartende Beschaffenheit aufgewiesen habe und daher mangelhaft gewesen sei. Das Fahrzeug habe zwingend einem Software-Update unterzogen werden müssen, um den Auflagen des KBA zu genügen und keine Betriebsuntersagung gemäß § 5 FZV zu riskieren. Daher sei er auch nicht frei in seiner Entscheidung gewesen, dass Update durchführen zu lassen. Er behauptet, dass sich durch das Software-Update die Motorleistung verringert, der Kraftstoffverbrauch erhöht und die CO2-Emissionen gestiegen seien. Auch der Stickoxidaustoß übersteige nach dem Software-Update im Straßenbetrieb die erlaubten 180 mg/km.Mit nachgelassenem Schriftsatz vom 12.7.2017 trägt der Kläger weiter vor, es sei zu befürchten, dass die vom Abgasskandal betroffenen Fahrzeuge schneller verschleißen.Des weiteren sei ein merkantiler Minderwert zu befürchten. Er ist der Ansicht, dass eine Fristsetzung zur Nachbesserung entbehrlich gewesen, weil die Beklagte bereits außergerichtlich das Vorhandensein eines Mangels bestritten und lediglich auf die Möglichkeit der Durchführung des werksseitig vorgegebenen Software-Updates hingewiesen habe, durch das aber eine Mangelfreiheit nicht erreicht werden könne.Der Rücktritt sei auch nicht deshalb ausgeschlossen, weil die Pflichtverletzung unerheblich sei. Jedenfalls sei insoweit zu berücksichtigen, dass die Entwicklung der Software einen Zeitraum von mehr als einem Jahr in Anspruch genommen und diese einer Freigabe durch das KFB bedurft habe.Der Kläger beantragt,1. die Beklagte zu verurteilen, an ihn 41.400 € nebst Zinsen i.H.v. 5 Prozentpunkten über dem Basiszinssatz seit dem 16.02.2017 zu zahlen, Zug um Zug gegen Herausgabe des PKW B A4 Avant 2,0 TDI, mit der Fahrzeugidentifikationsnummer X,2. festzustellen, dass die Beklagte sich mit der Annahme des im Klageantrag zu 1 benannten PKW in Verzug befindet,3. die Beklagte zu verurteilen, den Kläger gegenüber der Gebührenforderung der Rechtsanwälte L, N, i.H.v. 1706,94 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze und die zu den Akten gereichten Unterlagen verwiesen. 
+				Gründe
+				Die zulässige Klage hat in der Sache selbst keinen Erfolg.1.Dem Kläger steht gegen die Beklagte kein Anspruch auf Rückabwicklung des Kaufvertrages gemäß §§ 346 Abs.1, 348, 437 Abs.2, 323, 434 BGB zu.Der Kläger ist nicht berechtigt wegen eines Sachmangels vom Kauf zurückzutreten.Nach § 434 Abs.1 S.2 Nr.2 BGB ist ein Kaufgegenstand frei von Sachmängeln, wenn er sich für die gewöhnliche Verwendung eignet und eine Beschaffenheit aufweist, die bei Sachen gleicher Art üblich ist und die der Käufer nach der Art der Sache verlangen kann. Maßgeblich ist die objektiv berechtigte Käufererwartung (vgl. BGH, Urteil vom 29.6.2011, VIII ZR 202/109, zitiert nach juris).Bei der Beurteilung der Frage, ob die Rücktrittsvoraussetzungen vorliegen, ist auf den Zeitpunkt der Rücktrittserklärung, die hier mit Schreiben vom 12.12.2016 erfolgt ist, abzustellen (BGH, Urteil vom 5.11.2008 - VIII ZR 166/07 -, juris).Maßgeblich ist daher, ob das streitgegenständliche Fahrzeug am 12.12.2016 frei von Sachmängeln gewesen ist. Zu diesem Zeitpunkt war unstreitig das von der W AG entwickelte und vom Kraftfahrt-Bundesamt freigegebene Software-Update bereits beim Fahrzeug des Klägers aufgespielt, so dass ein Rücktritt nur dann noch erfolgen konnte, wenn das Fahrzeug nach dieser Maßnahme einen Mangel aufwies. Auf eine mögliche Mangelhaftigkeit zum Zeitpunkt der Übergabe kommt es daher nicht an, wenn durch das Software-Update ein vorliegender Mangel behoben worden ist.Dem steht dabei nicht entgegen, dass der Kläger sich darauf beruft, er sei bei der Entscheidung, das Update aufspielen zu lassen, nicht frei gewesen, sondern habe die Entscheidung vor dem Hintergrund des bestehenden Risikos einer Betriebsuntersagung getroffen. Der Kläger trägt keine konkreten Umstände vor, aufgrund derer er mit einer unmittelbar bevorstehenden Betriebsuntersagung rechnen musste, so dass nicht ersichtlich ist, dass ihm die rechtliche Prüfung der Situation und der ihm zustehenden Gewährleistungsansprüche vor der von ihm erteilten Zustimmung zu der Maßnahme nicht möglich gewesen sein soll.Der Kläger als Käufer trägt dabei die Darlegungs- und Beweislast dafür, dass der Mangel aufgrund einer Erfolglosigkeit eines Nachbesserungsversuches fortbesteht bzw, in Folge der Nachbesserung neue Mängel aufgetreten sind (vgl. Palandt-Weidenkaff, 76. Auflage, § 440, Rdn. 11).Dass das Fahrzeug trotz des Software-Updates nicht frei von Sachmängeln ist, begründet der Kläger mit weiterhin bestehendem erhöhten Ausstoß von Stickstoff-Emissionen, einer Verringerung der Motorleistung, erhöhtem Kraftstoffverbrauch mit dem damit verbundenen Anstieg von CO2-Emissionen und der Möglichkeit einer merkantilen Wertminderung.Angesichts des Umstandes, dass seitens des Kraftfahrt-Bundesamtes gemäß dessen Bestätigung vom 10.8.2016 die von W AG vorgestellte Änderung zur Reduzierung der Stickstoffemissionen ausdrücklich, siehe Anlage B 4, u.a. auch auf den Sachverhalt "Schadstoffemissionen und Dauerhaltbarkeit von emissionsmindernden Einrichtungen" mit dem Ergebnis "die Grenzwerte und die anderen Anforderungen wurden eingehalten" geprüft wurde, ist der gegenteilige pauschale Vortrag des Klägers unter Hinweis auf eine Berichterstattung bei T1 online über interne Dokumente von VW aus November 2015 betreffend die zu diesem Zeitpunkt bei VW angeblich verfolgte Absicht, den Ausstoß der Stickstoffemissionen nicht in hinreichendem Maße zu senken, nicht geeignet, einen Mangel schlüssig darzulegen.Konkreter Vortrag, der die Befürchtung eines trotz Software-Updates verbleibenden merkantilen Minderwertes stützen könnte, fehlt ebenfalls.Soweit der Kläger sich darauf beruft, dass die Kraftstoffverbrauchswerte und damit auch CO 2 -Emissionen nach dem Update gestiegen seien, ergibt sich aus dem vorgelegten Bericht des Kraftfahrt-Bundesamtes vom 10.8.2016, dass auch dieser Sachverhalt ebenso wie die Motorleistung überprüft worden sind mit dem Ergebnis, dass die ursprünglich vom Hersteller angegebenen Kraftstoffverbrauchswerte und CO2 Emissionen in Prüfungen durch einen Technischen Dienst bestätigt wurden und die Motorleistung unverändert geblieben sei. Die pauschale Behauptung, dass dies nicht zutreffe, kann angesichts des Umstandes, dass der Kläger seit September 2016 das Fahrzeug mit dem Update nutzt, nicht genügen, da der Kläger einen angeblichen Mehrverbrauch seines Fahrzeuges oder eine Verringerung der Motorleistung vor diesem Hintergrund konkret hätte darlegen können. Daher kann dahinstehen, ob sich der Mangel, wovon der Kläger offensichtlich ausgeht, aus einer nachteiligen Abweichung vom Ist- Zustand bei Gefahrübergang ergibt.Eines Hinweises hierauf bedurfte es nicht, da der Kläger der Beklagten vor der Rücktrittserklärung nicht die erforderliche Frist zur Nachbesserung in Bezug auf einen von dieser im Rahmen des Software-Updates verursachten neuen Mangel gesetzt hat. Eine solche Fristsetzung zur Behebung von Mängeln war nicht entbehrlich. Zwar ist von Seiten der Beklagten im Rechtsstreit bestritten worden, dass diese Mängel überhaupt vorhanden sind. Allein das prozessuale Verhalten der Beklagten lässt aber nicht den sicheren Rückschluss darauf zu, dass sich diese bei entsprechender Aufforderung zur Beseitigung von nachteiligen Auswirkungen auf Motorleistung und Kraftstoffverbrauch der Nachbesserung entzogen hätte. Dass eine Nachbesserung unmöglich gewesen wäre, weil das Software-Update von Seiten des Herstellers als einzige Möglichkeit zur Beseitigung der Ursachen des Abgasskandals angeboten worden ist, ist ebenfalls nicht dargetan. Insoweit hat die Beklagte in der mündlichen Verhandlung zutreffend darauf hinweisen lassen, dass mangels der ihr gewährten Nachbesserungsmöglichkeit die Ursachen für einen gegebenenfalls erhöhten Kraftstoffverbrauch und eine Verringerung der Motorleistung beim Fahrzeug des Klägers gar nicht geklärt werden konnten.Soweit der Kläger erstmals mit nachgelassenem Schriftsatz vom 12.7.2017 unter Bezugnahme auf einen bereits am 28.10.2016 unter www.t.de veröffentlichten Artikel auf eine bestehende Befürchtung verweist, dass die vom Abgasskandal betroffenen Fahrzeuge nach einer Umrüstung schneller verschleißen, geht dies über eine Erwiderung auf neues Vorbringen im Schriftsatz der Gegenseite vom 23.6.2017 hinaus und rechtfertigt keine Wiedereröffnung der mündlichen Verhandlung.Da das Rücktrittsbegehren keinen Erfolg hat, ist auch der Antrag zur Feststellung des Annahmeverzuges unbegründet. Zudem ist auch der Anspruch auf Ersatz der außergerichtlichen Anwaltskosten unbegründet.Die prozessualen Nebenentscheidungen beruhen auf §§ 91, 709 ZPO.Streitwert: 41.400,00 €
+			
+			
+			
+			Permalink: https://openjur.de/u/2381511.html (https://oj.is/2381511)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

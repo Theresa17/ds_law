@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG TraunsteinRechtsprechungEndurteil vom 06.08.2020 - 5 O 3359/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Traunstein, Endurteil vom 06.08.2020 - 5 O 3359/19
+                      m. Fundstelle
+                      LG Traunstein, Endurteil vom 06.08.2020 - 5 O 3359/19 = openJur 2021, 40510
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Traunstein, Endurteil vom 06.08.2020 - 5 O 3359/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 40510
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 21.200,00 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatz im Rahmen des "Diesel-Skandals".Die Klagepartei schloss am 25.03.2015 mit der Beklagten einen Kaufvertrag über einen Pkw VW Touran, Fahrzeug-Indentifizierungsnummer ...29, mit einem Dieselmotor EA 189 und einem Kilometerstand von 89.900 km zu einem Kaufpreis von 21.200,00 € (Anlage K1) ab.Die Beklagte selbst ist Entwicklerin und Herstellerin des in dem Fahrzeug verbauten Dieselmotors EA189. In dem Fahrzeug des Klägers wie auch in anderen Fahrzeugen mit demselben Motortyp wurde eine Software eingesetzt, die zwei unterschiedliche Betriebsmodi zur Steuerung der Abgasrückführung kennt. Im Modus 1, der im unter Laborbedingungen festgelegten Fahrzyklus (NEFZ) aktiviert wird, kommt es zu einer erhöhten Abgasrückführung und damit zu einem reduzierten Schadstoffausstoß. In diesem Modus halten die Fahrzeuge mit einem entsprechenden Motor die Vorgaben des NEF-Zyklus ein. Unter normalen Fahrbedingungen im Straßenverkehr ist hingegen der Modus 0 aktiv, in dem es zu einer verringerten Abgasrückführung und einem um ein Vielfaches erhöhten Schadstoffausstoß kommt.Die EG-Typgenehmigung hatte die Beklagte bei Kraftfahrt-Bundesamt beantragt.Das Kraftfahrt-Bundesamt hat mit Bescheid vom 15.10.2015 festgestellt, dass die Beklagte verpflichtet ist, bei allen betroffenen Fahrzeugen mit dem Aggregat EA 189 die nach Art. 9, 10 Richtlinie 2007/46/EG unzulässigen Einrichtungen zu entfernen.Die Klagepartei hat das Fahrzeug mit einer kostenfrei von der Beklagten bereitgestellten Programmaktualisierung nachrüsten zu lassen, die dazu führt, dass sich das Fahrzeug durchgängig im Modus 1 befindet. Die zuständige Behörde hat die Programmaktualisierung freigegeben.Die Klagepartei hat mit Schreiben vom 14.11.2019 die Rückzahlung des Kaufpreises Zug um Zug gegen Übereignung des Fahrzeuges bis 21.11.2019 geltend gemacht.Die Klagepartei hat am 13.02.2019 den hier streitgegenständlichen Anspruch zum Musterfeststellungsverfahren vor dem OLG Braunschweig angemeldet und die Anmeldung noch vor Klageerhebung wieder zurückgenommen.Die Klagepartei trägt vor, das Aggregat im Pkw der Klagepartei sei mit einer unzulässigen Abschalteinrichtung ausgestattet gewesen. Im Tenor des Bescheides des Kraftfahr-Bundesamtes vom 15.10.2015 sei die von der Beklagten verwendete Motorsteuersoftware als unzulässige Abschalteinrichtung entsprechend Art. 3 Nr. 10, 5 Abs. 2 S. 1 der VO (EG) Nr. 715/2007 bezeichnet worden. Die Abschalteinrichtung sei nicht in der Typgenehmigung nach der EU-Richtlinie 2007/46/EG erwähnt. Die Typgenehmigung sei nach Art. 5 Nr. 10 der VO 692/2008/EG und nach § 19 Abs. 2 S. 2 Nr. 3, Abs. 7 StVZO automatisch erloschen. Die Regelungen §§ 6 Abs. 1, 27 Abs. 1 EG-FGV seien Schutzgesetze im Sinne des § 823 Abs. 2 BGB. Die Beklagte habe systematisch gegen Regelungen des EG-Typgenehmigungsrechts verstoßen und habe einen Motor mit einer unzulässigen Abschalteinrichtung gebaut, der weder zur Verwendung im Straßenverkehr verkauft noch in Verkehr gebracht hätten werden dürfen. Von der Manipulation der Motorprogrammierung habe der Vorstand der Beklagten zumindest gewusst, sodass auch die Beklagte aus unerlaubter Handlung selbst verantwortlich für den Abgasskandal und seine Folgen sei. Die Klagepartei habe ein umweltschonendes und verbrauchsgünstiges Fahrzeug erwerben wollen. Hätte sie den tatsächlichen Schadstoffausstoß bei Vertragsschluss gewusst, hätte er das Fahrzeug nicht gekauft. Die Umrüstung mit dem seitens der Beklagten angebotenen Software-Update führe voraussichtlich nicht nur zu erhöhtem Kraftstoffverbrauch und reduzierter Leistung, sondern angesichts der höheren Partikelbelastung bei Erhöhung der Abgasrückführmenge auch zu einer Beeinträchtigung der Lebensdauer, Zuverlässigkeit und Instandhaltbarkeit von Motor, Dieselrußpartikelfilter, Abgasrückführungsventil- und kühler sowie des Fahrzeuges im Ganzen. Eine Nachbesserung sei daher weder möglich noch dem Kläger auch zumutbar. Es sei von einer zu erwartenden Gesamtlaufleistung von 500.000 km auszugehen.Die Klagepartei behauptet, bei der in dem Fahrzeug eingesetzten Software handle es sich um eine illegale Abschalteinrichtung. Das Fahrzeug sei deswegen mangelhaft.Die Klagepartei beantragt zu erkennen:Die Beklagte wird verurteilt, Zug um Zug gegen Herausgabe und Übereignung des Fahrzeugs Marke Volkswagen Typ Touran Fahrzeug-Identifizierungsnummer: ...29 an die Klagepartei einen Betrag in Höhe von 21.200,00 € nebst Zinsen hieraus in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.Die Beklagte wird verurteilt, an die Klagepartei Zinsen in Höhe von 4 % aus 21.200,00 € seit dem 25.03.2015 bis zu Beginn der Rechtshängigkeit zu bezahlen.Es wird festgestellt, dass sich die Beklagte mit der Annahme des im Klageantrag zu 1) genannten Zug-um-Zug-Leistung in Annahmeverzug befindet.Die Beklagte wird verurteilt, die Kosten des außergerichtlichen Vorgehens in Höhe von 1789,76 € nebst Zinsen in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklage beantragtKlageabweisung.Die Beklagte trägt vor, es handele sich bei den Regelungen des Typenrechts nicht um Schutzgesetze im Sinne des § 823 Abs. 2 BGB. Auch habe die Klagepartei keinen Schaden, da das Fahrzeug weiterhin sicher und fahrbereit sei und über alle Genehmigungen verfüge. Das streitgegenständliche Fahrzeug sei wirksam zugelassen worden. Das Fahrzeug verfüge nicht über eine unzulässige Abschalteinrichtung, sondern die streitgegenständliche Software führe dazu, dass beim Durchfahren des sog. Neuen Europäischen Fahrzyklus mehr Abgase in den Motor zurückgeführt würden als im normalen Straßenverkehr. Es handele sich um eine innermotorische Maßnahme. Diese Software beeinflusse den Bestand und die Wirksamkeit der EG-Typgenehmigung nicht. Diese sei auch nicht durch das Kraftfahr-Bundesamt aufgehoben worden. Die Beklagte habe nicht vorsätzlich gehandelt. Es lägen keine Erkenntnisse vor, dass Vorstandsmitglieder im Sinne des Aktienrechts an der Entwicklung der Software beteiligt gewesen seien oder Kenntnis von der Programmierung und Verwendung der Software gehabt hätten. Die Entwicklung und Verwendung des Programms im EA189-Motor sei von den Organen der Beklagten zudem nicht entschieden worden oder ihnen zur Kenntnis gelangt. Die mit der Umschaltlogik ausgerüsteten Fahrzeuge seien technisch sicher und uneingeschränkt gebrauchstauglich. Die seitens des Kraftfahrt-Bundesamtes freigegebene technische Maßnahme führe weder zu Leistungseinbußen, noch zur Kraftstoffverbrauchserhöhung noch zu einer verringerten Lebensdauer. Durch die technische Maßnahme werde sichergestellt, dass das Fahrzeug nurmehr in einem einheitlichen Betriebsmodus arbeite. Das Brennverfahren wurde zudem optimiert. Die angebotene Nachrüstung der EA189-Motoren sei keine Mängelbeseitigung, sondern eine freiwillige Leistung des Herstellers. Die Klagepartei behaupte nur allgemein Nachteile wegen der technischen Maßnahme. Sie selbst habe jedoch diese technische Maßnahme durchführen lassen und trage nichts zu Nachteilen bei seinem eigenen Fahrzeug vor. Die Klagepartei habe keine wirtschaftlichen Verluste erlitten. Das Fahrzeug sei nicht wertlos und es seien ihr keine Mehrkosten entstanden. Ein Zusammenhang der Nachfrageverschiebung von Dieselfahrzeugen zu Benzinfahrzeugen und dem Vorhandensein der Umschaltlogik bestehe nicht. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV seien keine Schutzgesetze im Sinne des § 823 Abs. 2 BGB. Die Nachrüstung führe zudem zu keinerlei Nachteilen für die Klagepartei.Es sei von einer Gesamtlaufleistung von 200.000 bis 250.000 km auszugehen, wobei maßgeblich auf die Gesamtnutzungsdauer des Fahrzeuges abzustellen sei und nicht auf deren Lebensdauer.In Hinblick auf den weiteren Sach- und Streitstand wird auf den gesamten Akteninhalt insbesondere auf die gewechselten Schriftsätze jeweils nebst Anlagen und auf die Sitzungsprotokolle vom 16.07.2020 ausdrücklich und vollumfänglich Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I.Die Klage ist zulässig, insbesondere ist das angegangene Gericht örtlich gemäß § 32 ZPO zuständig.Wird ein Anspruch aus § 826 BGB geltend gemacht, gehört zum Tatbestand der unerlaubten Handlung der Eintritt eines Vermögensschadens. Das nach § 32 ZPO zuständige Gericht ist daher in diesen Fällen nicht nur anhand des Ortes zu bestimmen, in dem der Täter gehandelt hat, sondern auch dort begründet, wo der Rechtsgutseingriff erfolgt und der Schaden entstanden ist (OLG Hamm, Beschluss vom 26.10.2018 - 32 SA 32/18, NJW-RR 2019, 186, 187). Bei Vermögensschäden aus unerlaubter Handlung liegt dabei der Ort des Schadenseintritts dort, wo in das Vermögen als geschütztes Rechtsgut eingegriffen wurde (BGH, Beschl. v. 27.11.2018 - X ARZ 321/18, NJW-RR 2019, 238).Der Erfolgsort einer unerlaubten Handlung der Vermögensschädigung ist deshalb am Wohnsitz der Geschädigten begründet, weil sich dort sein Vermögen befindet.II.Der Anspruch des Klägers ist jedenfalls verjährt.Die Verjährung des Anspruchs aus § 826 ZPO richtet sich ebenso wie die eines Anspruchs aus § 823 Abs. 1 oder Abs. 2 BGB nach §§ 195, 199 BGB. Die Verjährungsfrist beträgt drei Jahre und beginnt mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger von den den Anspruch begründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste. Für das Vorliegen der tatsächlichen Voraussetzungen der Verjährungseinrede ist derjenige darlegungs- und beweisbelastet, der sich auf Verjährung beruft, hier also die Beklagte.Der Schadensersatzanspruch ist wohl bereits mit dem Erwerb des Fahrzeugs im Jahr 2015 entstanden. Zu diesem Zeitpunkt hatte der Kläger aber noch keine Kenntnis vom Bestehen des Anspruchs und der Person des Schuldners.Die erforderliche Kenntnis im Sinne des § 199 Abs. 1 Nr. 2 BGB liegt vor, wenn dem Geschädigten die Erhebung einer Schadensersatzklage, sei es auch nur in Form der Feststellungsklage, erfolgversprechend, wenn auch nicht risikolos, möglich ist. Es ist weder notwendig, dass der Geschädigte alle Einzelumstände kennt, die für die Beurteilung möglicherweise Bedeutung haben, noch muss er bereits hinreichend sichere Beweismittel in der Hand haben, um einen Rechtsstreit im Wesentlichen risikolos führen zu können (BGH, Urteil vom 3. Juni 2008 - XI ZR 319/06). Die Erhebung einer Klage muss bei verständiger Würdigung in einem Maße Erfolgsaussicht haben, dass sie zumutbar ist (BGH, Urteil vom 28. Oktober 2014 - XI ZR 17/14). Nicht ausreichend ist die Kenntnis von Anknüpfungstatsachen. Hinzukommen muss vielmehr, dass der Geschädigte aus den Anknüpfungstatsachen den Schluss auf eine Pflichtverletzung durch eine bestimmte Person zieht oder infolge grober Fahrlässigkeit nicht gezogen hat (BGH, Versäumnisurteil vom 17. Juni 2016 - V ZR 134/15).Der Verjährungsbeginn setzt grundsätzlich nicht voraus, dass der Gläubiger aus den ihm bekannten Tatsachen die zutreffenden rechtlichen Schlüsse zieht (BGH, Urteil vom 4. Juli 2017 - XI ZR 562/15, BGHZ 215, 172). Der Gläubiger muss zumindest aufgrund der Tatsachenlage beurteilen können, ob eine rechtserhebliche Handlung von dem üblichen Vorgehen abweicht (Spindler in BeckOK BGB, § 199 Rn. 26). Ausnahmsweise kann die Rechtsunkenntnis des Gläubigers den Verjährungsbeginn aber hinausschieben, wenn eine unsichere und zweifelhafte Rechtslage vorliegt, die selbst ein rechtskundiger Dritter nicht zuverlässig einzuschätzen vermag. In diesen Fällen fehlt es an der Zumutbarkeit der Klageerhebung als übergreifender Voraussetzung für den Verjährungsbeginn. Das gilt erst recht, wenn der Durchsetzung des Anspruchs eine gegenteilige höchstrichterliche Rechtsprechung entgegensteht (BGH, Urteil vom 4. Juli 2017 - XI ZR 562/15, BGHZ 215, 172).Ausgehend von diesen Grundsätzen wären die Voraussetzungen für eine Klageerhebung bereits im Jahr 2015 vorgelegen.Insbesondere wäre dem Verjährungsbeginn nicht die fehlende Zumutbarkeit einer Klageerhebung im Jahr 2015 entgegengestanden. Eine Unzumutbarkeit ergibt sich wohl weder aus der "schleppenden Aufarbeitung des Abgas-Skandals und seiner Ausmaße durch die Beklagte" noch aus der sich "anfangs sehr zögerlich entwickelnden Instanzenrechtsprechung". Die Beklagte hat die breite Öffentlichkeit und damit nicht nur die potentiellen Erwerber von Kraftfahrzeugen, die mit dem Motor EA 189 ausgestattet sind, sondern auch die Besitzer solcher Fahrzeuge, in Form von Pressemitteilungen ab Ende September 2015 bis Mitte Oktober 2015 darüber informiert, dass dieser Motor mit einer Abschalteinrichtung versehen ist, die vom KBA als nicht ordnungsgemäß angesehen wird und daher zu entfernen ist (OLG München Beschluss vom 10.3.2020 - 3 U 7392/19, BeckRS 2020, 3135, beck-online; OLG München, Beschluss vom 3.12.2019 - 20 U 5741/19, ZVertriebsR 2020, 51). Zeitgleich war der sog. Diesel- oder Abgasskandal Gegenstand einer sehr umfassenden Presseberichterstattung. Die Öffentlichkeit wurde ferner durch das KBA über das Vorhandensein einer unzulässigen Abschalteinrichtung bei Fahrzeugen mit dem Dieselmotor EA 189 informiert. Die Beklagte schaltete Anfang Oktober 2015 eine Website frei, auf der durch Eingabe der FIN überprüft werden kann, ob ein konkretes Fahrzeug mit der Abschalteinrichtung versehen ist, also von dem sog. Dieselskandal betroffen ist. Dies wurde ebenfalls in einer Pressemitteilung bekannt gegeben und war, wie allgemein bekannt ist, Gegenstand einer umfangreichen Presseberichterstattung.Damit ist jedenfalls für das Jahresende 2015 von einem Verjährungsbeginn bezüglich des klägerischen Anspruchs auszugehen; die Verjährung endete mit dem Schluss des Jahres 2018, §§ 195, 199 Abs. 1 BGB.Die Verjährung war nicht durch zwischenzeitliche Anmeldung des Klägers zum Klageregister des Musterfeststellungsverfahrens vor dem OLG Braunschweig gemäß § 204 Abs. 1 Nr. 1 a BGB gehemmt.Die Klagepartei hat vorgetragen, dass sie am 13.02.2019 den hier streitgegenständlichen Anspruch zum Musterfeststellungsverfahren vor dem OLG Braunschweig angemeldet und die Anmeldung noch vor der hier erfolgten Klageerhebung wieder zurückgenommen hat.Diese Anmeldung erfolgte jedoch rechtsmissbräuchlich und entfaltet daher keine Wirkung. Nach derzeit herrschendem Verständnis ermöglicht § 204 Abs. 1 Nr. 1 a BGB zwar dem Verbraucher, durch eine fristgerechte Anmeldung rückwirkend eine Verjährungshemmung für verjährte Ansprüche herbeizuführen. Einzige Voraussetzung ist, dass die Musterfeststellungsklage in unverjährter Zeit erhoben wurde.Die Anmeldung zur Musterfeststellungsklage zu einem Zeitpunkt, zu dem der geltendgemachte Anspruch, wie hier, bereits verjährt ist, und die zurückgenommen wird, um anschließend Individualklage zu erheben, ist jedoch rechtsmissbräuchlich, wenn der Verbraucher nicht ein nachvollziehbares Interesse an der Teilnahme am Musterfeststellungsprozess hat (OLG München, Beschl. v. 09.06.2020 - - 3 U 2049/20, BeckRS 2020, 13124). Denn eine Anmeldung eines schon verjährten Anspruchs zum Register zum alleinigen Zweck der Verjährungshemmung mit alsbaldiger Abmeldung und Durchführung eines Individualverfahrens ist als Zweckentfremdung der Hemmungsvorschriften und mithin als Rechtsmissbrauch auszulegen (vgl. OLG München, Beschl. v. 09.06.2020 - - 3 U 2049/20, BeckRS 2020, 13124).Die Konstellation eines Rechtsmissbrauchs liegt hier vor. Einerseits wäre, nachdem der Kläger die Auffassung vertritt, dass mangels Information durch die Beklagte in 2015 eine Verjährung mit Ablauf des Jahres 2018 nicht eintreten würde, die Anmeldung schlicht unnötig gewesen. Andererseits sollte der Weg über die Musterfeststellungsklage, wie sich aus dem Verhalten des Klägers ergibt, gar nicht weiter verfolgt werden.Die erst im Dezember 2019 erhobene Klage konnte die bereits abgelaufene Verjährung nicht mehr unterbrechen.III.Die Kostenentscheidung beruht auf § 91 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf § 709 ZPO.IV.Der Streitwert ergibt sich aus dem geltend gemachten Klagebetrag.
+			
+			
+			
+			Permalink: https://openjur.de/u/2370628.html (https://oj.is/2370628)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate8
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

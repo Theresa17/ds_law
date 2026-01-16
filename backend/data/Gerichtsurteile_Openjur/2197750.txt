@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitOLG Frankfurt am MainRechtsprechungUrteil vom 27.11.2019 - 17 U 290/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Frankfurt am Main, Urteil vom 27.11.2019 - 17 U 290/18
+                      m. Fundstelle
+                      OLG Frankfurt am Main, Urteil vom 27.11.2019 - 17 U 290/18 = openJur 2020, 44721
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Frankfurt am Main, Urteil vom 27.11.2019 - 17 U 290/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 44721
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Selbst bei bestehenden deliktischem Anspruch kommt im Falle der Manipulation an der Steuerungssoftware des Motors EA189 ein Anspruch auf Deliktszinsen gem. § 849 BGB gegen den Fahrzeughersteller nicht in Betracht, wenn nicht ein Minderwert des Fahrzeugs bei Erwerb konkret dargelegt wird. 
+				
+				Tenor
+				Die Berufung wird zurückgewiesen.Die Urteilsformel des angefochtenen Urteils wird unter Ziff. 1. dahin berichtigt, dass die Beklagte verurteilt wird, an den Kläger 12.626,82 € nebst Zinsen aus einem Betrag von 13.080,59 € in Höhe von 4 Prozentpunkten über dem Basiszinssatz seit dem 26.01.2018 Zug um Zug gegen Übergabe und Übereignung des Modell1 Typ1 mit der Fahrzeugidentifikationsnummer ... zu zahlen.Der Kläger hat die Kosten des Berufungsverfahrens zu tragen.Das Urteil und das angefochtene Urteil sind ohne Sicherheitsleistung vorläufig vollstreckbar.Dem Kläger bleibt nachgelassen, die Vollstreckung durch Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages abzuwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110% des jeweils zu vollstreckenden Betrages leistet.Der Streitwert für das Berufungsverfahren wird auf bis zu 4.000,00 € festgesetzt.Die Revision wird zugelassen.  
+				Gründe
+				I.Der Kläger wendet sich mit der Berufung gegen die Abweisung der Klage, soweit Deliktzinsen wegen des käuflichen Erwerbs eines Fahrzeugs seit dem 29. Mai 2013 in Höhe von 4 Prozentpunkten aus dem Kaufpreis von 16.955,00 € versagt worden sind.Der Kläger erwarb von einem Vertragshändler am 29. Mai 2013 das Gebrauchtfahrzeug Modell1 Typ1, das mit dem Motor mit der Bezeichnung EA 189 ausgestattet und dessen Hersteller die Beklagte ist, mit einer Laufleistung von 61.500 km zu dem vorgenannten Kaufpreis.Das Fahrzeug verfügte über eine Typgenehmigung. Die Motorsteuerung war derart programmiert, dass im Falle des Durchlaufens des Neuen Europäischen Fahrzyklus (NEFZ), der Teil des Typgenehmigungsverfahrens ist, die Abgasrückführung in einen NOx - optimierten Betriebsmodus (Modus 1) versetzt wird, während sie außerhalb des NEFZ im Straßenverkehr im nicht NOx - optimierten Betriebsmodus (Modus 0) mit einer geringeren Abgasrückführung operiert.Das Kraftfahrtbundesamt (KBA) stufte im Oktober 2015 die aufgezeigte Programmierung als unzulässige Abschalteinrichtung ein und ordnete einen obligatorischen Rückruf für alle Fahrzeuge mit der Motorbezeichnung EA 189 zur Entfernung der Abschalteinrichtung an. Mitte 2016 erfolgte die Freigabe des von der Beklagten präsentierten Software - Update durch das KBA zur Beseitigung der Abschalteinrichtung.Der Kläger forderte die Beklagte mit Schreiben vom 29. September 2017 unter Fristsetzung bis zum 17. Oktober 2017 ohne Erfolg zur Erstattung des Kaufpreises Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs auf. Das Fahrzeug wies zu diesem Zeitpunkt eine Laufleistung von ca. 116.000 km auf.Das Fahrzeug des Klägers wurde Mitte 2018 mit dem Software-Update ausgestattet.Der Kläger hat die Auffassung vertreten, die in dem von ihm erworbenen Fahrzeug eingesetzte Programmierung der Motorsteuerung stelle eine gesetzeswidrige Abschalteinrichtung dar, die das Risiko des Entzugs der Betriebserlaubnis beinhalte. Dies rechtfertige deliktische Schadensersatzansprüche gegen die Beklagte als Herstellerin gemäß §§ 826 BGB; 823 Abs. 2 BGB i. V. m. § 263 StGB und §§ 6 Abs. 1, 27 Abs. 1 EG-FGV sowie Art. 5 Abs. 2 VO (EG) 715/2007 und wegen der Werbung der Beklagten mit dem hier maßgeblichen Motor aus§ 16 UWG als jeweils in Betracht kommende Schutzgesetze, wobei der Schaden bereits in dem Abschluss des Kaufvertrages mit dem Fahrzeughändler liege.Er hat mit der der Beklagten am 7. März 2018 zugestellten Klage behauptet, es sei bei der Aktivierung des Abgaskontrollsystems mit erheblichen Einschränkungen der Funktionsfähigkeit zu rechnen. Hierauf, so meint der Kläger, käme es "jedoch im Rahmen der Anspruchsbegründung nicht an". Vorsorglich werde die gegenteilige Behauptung der Beklagten bestritten.Der Kläger hat ferner behauptet, das Fahrzeug nicht erworben zu haben, wenn er gewusst hätte, dass die gesetzlichen Anforderungen nicht eingehalten worden seien und das Risiko des Entzugs der Betriebserlaubnis bestanden habe. Es sei ihm auf die Umweltfreundlichkeit des Fahrzeugs angekommen.Nach Kapitalisierung des Zinsanspruchs in Höhe von 3.159,28 € (4 Prozent aus 16.955,00 € vom 29. Mai 2013 bis zum 25. Januar 2018) und nach Abzug eines dem Kläger erwachsenen Nutzungsvorteils von 3.874,71 € hat er beantragt,1.die Beklagte zu verurteilen, an ihn 16.239,87 € nebst Zinsen aus 16.955,00 € in Höhe von 4 Prozent pro Jahr seit dem 26. Januar 2018 zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Modell1 Typ1 mit der Fahrzeugidentifikationsnummer ...;2.festzustellen, dass sich die Beklagte mit der Annahme des in Ziff. 1 genannten Fahrzeuges seit dem 16. November 2017 in Annahmeverzug befindet;3.die Beklagte zu verurteilen, an ihn vorgerichtliche Rechtsanwaltskosten in Höhe von 1.266,16 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 8. März 2018 zu erstatten sowie von weiteren Rechtsanwaltskosten in Höhe von 248,47 € freizustellen;4.festzustellen, dass die Beklagte verpflichtet ist, dem Kläger allen weiteren Schaden zu ersetzen, den dieser aufgrund des Kaufs des im Antrag zu 1 genannten Fahrzeugs erleidet.Die Beklagte hat beantragt,die Klage abzuweisen.Sie hat behauptet, das Fahrzeug sei in der Gebrauchstauglichkeit nicht beeinträchtigt.Sie meint, es handele sich um eine gesetzeskonforme Motorprogrammierung. Ein Zinsanspruch ab Vertragsschluss komme nicht in Betracht.Das Landgericht hat - soweit für die Berufung des Klägers noch von Bedeutung - mit dem angefochtenen Urteil unter Klageabweisung im Übrigen die Beklagte unter Ziff. 1 wie folgt verurteilt: "...Die Beklagte wird verurteilt, an den Kläger 12.626,82 € nebst Zinsen aus einem Betrag von 13.080,59 € in Höhe von 4 Prozentpunkten über dem Basiszinssatz Zug um Zug gegen Übergabe und Übereignung des Modell1 Typ1 mit der Fahrzeugidentifikationsnummer ... zu zahlen".Darüber hinaus hat es den Annahmeverzug der Beklagten und deren Verpflichtung zur Zahlung weiteren Schadensersatzes aus dem Fahrzeugkauf festgestellt und zudem die Beklagte zur Zahlung von vorgerichtlichen Rechtsverfolgungskosten verurteilt und zur Begründung ausgeführt, die Beklagte hafte gemäß § 831 BGB, weil die in dem Fahrzeug eingebaute Motorsteuerung einen systematischen Betrug darstelle, der sich auf die Zulassungsfähigkeit des Fahrzeugs auswirke. Diese sittenwidrige vorsätzliche Schädigung durch ihre Mitarbeiter müsse sich die Beklagte zurechnen lassen. Den Entlastungsbeweis habe sie nicht geführt. Der Kläger müsse sich einen Nutzungsvorteil in Höhe von 4.328,18 € wegen der bis zum 1. Oktober 2018 mit dem Fahrzeug zurückgelegten 122.383 km anrechnen lassen.Eine Verzinsung des Kaufpreises gemäß § 849 BGB scheide aus, weil die Beklagte diesen nicht erhalten habe und der veräußernde Händler kein doloser Teilnehmer sei. Zinsen seien daher erst ab dem 26. Januar 2018 in Höhe von 4 Prozentpunkten über dem Basiszinssatz gemäß §§ 286 Abs. 1, 288 Abs. 1 BGB und nur aus einem um den Nutzungsvorteil reduzierten Betrag von insgesamt 13.080,59 € zu zahlen.Auf die tatsächlichen Feststellungen in dem angefochtenen Urteil wird im Übrigen Bezug genommen.Die Beklagte hat die Berufung gegen das Urteil zurückgenommen.Der Kläger verfolgt mit der Berufung den versagten Zinsanspruch in Höhe von 4 vom Hundert aus dem Kaufpreis von 16.955,00 € seit dem 29. Mai 2013 - nunmehr kapitalisiert bis zum 16. Januar 2019 in Höhe von 3.823,93 € - und unter Anrechnung des von dem Landgericht ermittelten Nutzungsvorteils auf den Kaufpreis weiter.Das Fahrzeug wies am 31. Juli 2019 eine Laufleistung von 128.170 km auf.Er meint, das Landgericht habe bei der Verneinung des Zinsanspruchs fehlerhaft darauf abgestellt, die Beklagte habe den Kaufpreis nicht erhalten. Es komme allein auf die auf einem deliktischen Handeln beruhende und von ihm bewirkte Zahlung des Kaufpreises am 29. Mai 2013 an.Der Kläger beantragt unter teilweiser Abänderung des angefochtenen Urteils,die Beklagte zu verurteilen, an ihn 16.450,75 € nebst Zinsen aus einem Betrag von 16.955,00 € in Höhe von 4% p. a. ab dem 17. Januar 2019 Zug um Zug gegen Übergabe und Übereignung des VW Modell1 Typ1 mit der Fahrzeugidentifikationsnummer ... zu zahlen.Die Beklagte beantragt,die Berufung zurückzuweisen.Abgesehen von einem bereits nicht bestehenden Anspruch dem Grunde nach scheitere die beantragte Verzinsung an der Überlassung des uneingeschränkt gebrauchsfähigen Fahrzeugs als Gegenleistung und (auch) daran, dass der Kläger jedenfalls ein anderes als das gegenständliche Fahrzeug mit dem eingesetzten Geld erworben hätte.II.Die Berufung war zurückzuweisen, sie hat in der Sache keinen Erfolg.Das Landgericht hat einen Zinsanspruch in Höhe von 4 Prozent seit dem 29. Mai 2013 aus dem Kaufpreis von 16.955,00 € im Ergebnis zu Recht verneint, weil die Voraussetzungen für eine derartige Verzinsung (§ 849 BGB) nicht vorliegen.Es kann vorliegend offen bleiben, ob dem Kläger dem Grunde nach ein Schadensersatzanspruch wegen vorsätzlicher sittenwidriger Schädigung (§ 826 BGB) und/oder wegen einer Schutzgesetzverletzung gemäß §§ 823 Abs. 2 BGB i. V. m. § 263 StGB und §§ 6 Abs. 1, 27 Abs. 1 EG-FGV sowie Art. 5 Abs. 2 VO (EG) 715/2007 und wegen der behaupteten Werbung der Beklagten mit dem hier maßgeblichen Motor über § 16 UWG zusteht (vgl. wegen der Haftung der Beklagten dem Grunde nach gemäß § 826 BGB Beschluss des Senats vom 25. September 2019 - 17 U 45/19 -, BeckRS 2019, 22222), weil die Verzinsung in Höhe des hingegebenen Kaufpreises selbst im Falle des Vorliegens des deliktischen Haftungsgrundes ausscheidet.Soweit das Landgericht freilich die Verzinsung gemäß § 849 BGB abgelehnt hat, weil die Beklagte "dieses Geld nie erhalten" habe, trägt dies die Versagung des Zinsanspruchs nicht, weil § 849 BGB die Verzinsung des Wertersatzes an die aufgehobene oder eingeschränkte Nutzbarkeit der entzogenen Sache und nicht an den Zufluss eben dieser Sache bei dem Schädiger bindet.Die Klageabweisung erweist sich indessen aus einem anderen Gesichtspunkt als zutreffend.Der Kläger hat vorliegend keinen Anspruch gemäß § 849 BGB auf Verzinsung des Kaufpreises in Höhe von 16.955,00 € mit 4 Prozent (§ 246 BGB) ab dem Zeitpunkt des Vertragsschlusses am 29. Mai 2013 und der damit einhergehenden Zahlung des Kaufpreises, weil er sich den Wert des ihm nach der vertraglichen Absprache überlassenen Fahrzeuges und damit die Gegenleistung auf den gezahlten Kaufpreis anrechnen lassen muss.Nach § 849 BGB kann der Verletzte für den Fall, dass wegen einer Entziehung der Sache der Wert oder wegen der Beschädigung der Sache die Minderung des Wertes zu ersetzen ist, Zinsen des zu ersetzenden Betrages von dem Zeitpunkt an verlangen, welcher der Bestimmung des Wertes zugrunde gelegt wird.Hierdurch soll dem Verletzten ein Mindestbetrag an Kompensation für die erlittene Einbuße an Nutzungsmöglichkeit gewährt werden. Der letztlich endgültig verbleibende Verlust an Nutzbarkeit der Sache, der durch einen späteren Gebrauch derselben oder einer anderen Sache nicht mehr nachgeholt werden kann, soll so ausgeglichen werden. Dem Verletzten wird über die Verzinsung eine Beweiserleichterung eröffnet. Es bedarf hier (noch) nicht der konkreten Bezifferung und des Nachweises eines Nutzungsausfallschadens. Der Zinsanspruch gemäß § 849 BGB ist als pauschalierter Ersatz für den Verlust oder die Beeinträchtigung der Nutzungsmöglichkeit zu verstehen (vgl. BGH, Urteil vom 24. Februar 1983 - VI ZR 191/81 -, BeckRS 9998, 102054), wobei es ausreicht, dass ihm die Sache - worunter normspezifisch und losgelöst von § 90 BGB jede Art von Geld fällt - durch eine unerlaubte Handlung entzogen wird, und sei es mit seinem Willen (vgl. BGH, Versäumnisurteil vom 26. November 2007 - II ZR 167/06 -, Rz. 4 - 6, BeckRS 2008, 02103).Aus § 849 BGB lässt sich freilich kein allgemeiner Grundsatz entnehmen, wonach alle Ansprüche aus einer unerlaubten Handlung stets und unabhängig vom Vorliegen des Verzuges vom Zeitpunkt ihrer Entstehung an zu verzinsen sind. Bereits dem Wortsinn des § 849 BGB ist zu entnehmen, dass im Falle der Entziehung (nur) der als Wertersatz geschuldete Betrag zu ersetzen ist (vgl. BGH, Urteil vom 15. März 1962 - III ZR 17/61 -, Ziff. II. 1, 2, BeckRS 1962, 31183446).Nach den Grundsätzen der Vorteilsausgleichung sind dem Geschädigten diejenigen Vorteile zuzurechnen, die ihm im adäquat-kausalen Zusammenhang mit dem Schadensereignis zufließen. Hierüber soll ein gerechter Ausgleich zwischen den bei einem Schadensfall widerstreitenden Interessen bewirkt werden. Der Geschädigte darf nicht bessergestellt werden, als er ohne das schädigende Ereignis stünde. Die Anrechnung muss dabei dem Zweck des Ersatzanspruchs entsprechen, sie muss dem Geschädigten zumutbar sein und darf den Schädiger nicht unangemessen entlasten (vgl. BGH, Urteil vom 6. August 2019 - X ZR 165/18 - Rz. 9, juris, hier wegen der Anrechnung von Zahlungen nach der Fluggastrechteverordnung auf vertragliche Schadensersatzansprüche, m. w. N.). Die Vor- und Nachteile müssen bei wertender Betrachtung gleichsam zu einer Rechnungseinheit verbunden sein (vgl. BGH, Urteil vom 16. Januar 1990 - VI ZR 170/89 -, Rz. 10, juris). Sie unterliegen einer Gesamtsaldierung (vgl. BGH, Urteil vom 18. Oktober 2018 - III ZR 497/16 -, Rz. 28, juris, dort wegen der Rückabwicklung von zwei auf einem Beratungsgespräch beruhender Anlagen).Soweit der Bundesgerichtshof vereinzelt eine Verzinsung der Gesamtsumme der von dem Anspruchssteller hingegebenen Geldsumme angenommen hat, kam eine Gesamtsaldierung nicht in Betracht, weil die vereinbarte Gegenleistung nicht werthaltig war (ebenso KG, Urteil vom 26. September 2019 - 4 U 51/19 -, Rz. 152 ff., wobei schon der "Sachentzug" mittels der Kaufpreiszahlung verneint wird [Rz. 162], juris). So hatte der Beklagte nach dem Urteil des 9. Zivilsenats (IX ZR 116/06 vom 13. Dezember 2007, juris) Entnahmen aus dem Gesellschaftsvermögen bewirkt, die zur Insolvenz der Gesellschaft führten. Nach dem Urteil des 11. Zivilsenats (XI ZR 54/09, Urteil vom 15. November 2011, Rz. 65, BeckRS 2011, 28301) war von einer vorsätzlichen sittenwidrigen Schädigung durch die Vermittlung von vornherein chancenloser Termingeschäfte auszugehen, wobei der Senat in dieser Entscheidung betont, dass die Hauptforderung der Verzinsung gemäß § 849 BGB unterliege. Der 2. Zivilsenat hatte in dem Versäumnisurteil vom 26. November 2007 über einen Verstoß gegen § 7 Abs. 1 AuslInvestmG zu befinden (II ZR 167/06, juris), so dass sich dort die Werthaltigkeit der Gegenleistung nicht stellte (so zutreffend auch Riehm, NJW 2019, 1105 ff., 1109).Der saldierenden Betrachtung bei dem Entzug der Nutzungsmöglichkeit durch Zahlung des Kaufpreises steht nicht etwa die Verbrauchsgüterkaufrichtlinie 1999/44/EG entgegen, weil die vorliegend mangels Vertragsbeziehung zwischen den Parteien maßgeblichen deliktischen Ansprüche nicht von Art. 3 und damit von dem Regelungsgehalt der Richtlinie erfasst sind (vgl. wegen des Rücktritts BGH, Urteil vom 16. September 2009 - VIII ZR 243/08 -, Rz. 15, juris; OLG Koblenz, Urteil vom 16. September 2019 - 12 U 61/19 -, Rz. 75, juris).Ferner rechtfertigt die normative Schadensbetrachtung vorliegend die Berücksichtigung der dem Kläger mit der Zahlung des Kaufpreises überlassenen Gegenleistung.Wie der Senat bereits in dem Beschluss vom 25. September 2019 in dem Verfahren 17 U 45/19 (BeckRS 2019, 22222) ausgeführt hat, ist ein Vorteilsausgleich in der auch vorliegend gegebenen Konstellation sachgerecht, weil von einem adäquat kausalen Zusammenhang zwischen dem Schadensereignis und dem Vorteil des Klägers auszugehen ist (so auch Bruns, NJW 2019, 801 ff, 803 f. m. w. N., freilich mit abweichender Folgerung im Übrigen) und generalpräventive oder bestrafende Gesichtspunkte nicht rechtserheblich sind. Dass die Beklagte wegen der Haftung dem Grunde und der Höhe nach eine von der des Klägers abweichende Rechtsauffassung vertritt, gereicht ihr nicht zum Nachteil, weil es vorliegend keine Verpflichtung gibt, die "richtige Rechtsauffassung" zu vertreten (vgl. BGH, Urteil vom 19. September 2017 - XI ZR 523/15 -, Rz. 22, juris, eine dahingehende vertragliche Nebenpflicht verneinend).Gemessen daran, hat sich der Kläger selbst bei der vorliegend noch eröffneten Pauschalierung im Gegenzug auf den Nutzungsverlust der Kaufpreissumme den Fahrzeugwert anrechnen zu lassen. Zwischen beiden besteht ein aus den Hauptleistungspflichten des Kaufvertrages herzuleitender adäquat kausaler Zusammenhang im Sinne einer Rechnungseinheit (ebenso zuletzt OLG Koblenz, Urteil vom 16. September 2019 - 12 U 61/19 -, Rz. 69 ff., 84; juris; KG, Urteil vom 26. September 2019 - 4 U 51/19 -, Rz. 158 - 160, juris; ähnlich OLG Hamm, Urteil vom 10. September 2019 - 13 U 149/18 -, Rz. 99, juris; a. A. wohl OLG Oldenburg, Urteil vom 2. Oktober 2019 - 5 U 47/19 -, Rz. 42, BeckRS 2019, 23205; OLG Köln, Beschluss vom 27. Juni 2019 - 27 U 14/19 -, Rz. 33 ff, juris).Der Kläger unterliegt durch die Berücksichtigung des Fahrzeugwertes nicht etwa einer (ungerechtfertigten) zweifachen Benachteiligung, weil ihm die durch die spätere Nutzung des Fahrzeuges erwachsenen Nutzungsvorteile - wie auch immer - ebenfalls anzurechnen sind (vgl. hierzu Beschluss des Senats vom 25. September 2019 - 17 U 45/19 -, Rz. 35 ff., BeckRS 2019, 22222) und zugleich Deliktzinsen gemäß § 849 BGB versagt werden. Infolge der bestimmungsgemäßen Nutzung des Fahrzeuges erwächst dem Kläger vielmehr ein (weiterer) Vorteil, der den zugrundeliegenden Leistungsaustausch unberührt lässt. Unterließe der Kläger die Nutzung des Fahrzeugs, so entfiele notwendigerweise die Anrechnung des ihm durch die Nutzung zugeflossenen Vermögensvorteils.Der Kläger hat durch den Abschluss des Kaufvertrages am 29. Mai 2013 und dessen Vollzug keinen Nutzungsausfall wegen des gezahlten Kaufpreises erlitten. Die Kaufpreiszahlung ging mit der Übertragung des Eigentums an dem Fahrzeug Modell1 Typ1 und dessen uneingeschränkter Nutzbarkeit einher. Der Kläger konnte das Fahrzeug nach Übereignung durch Übergabe am 29. Mai 2013 durchgehend bis heute nutzen, so dass es an einem nach § 849 BGB verzinslichen Wertersatzanspruch fehlt.Der Kläger hat nicht dargelegt, welche "erheblichen Einschränkungen der Funktionstauglichkeit" des Fahrzeuges Modell1 Typ1 zum Zeitpunkt der hier maßgeblichen Überlassung am 29. Mai 2013 infolge der installierten Abschalteinrichtung konkret vorlagen. Er hat mit dem Fahrzeug zudem 66.670 km zurückgelegt, ohne dass sich bereits zum Zeitpunkt des Erwerbs des Fahrzeuges etwa schon die Gefahr der Betriebsuntersagung gemäß § 5 FZV in dessen Verkehrswert abgebildet hatte. Eine Schadensschätzung gemäß § 287 ZPO kommt von daher vorliegend nicht in Betracht (abweichend OLG Koblenz, Urteil vom 16. September 2019 - 12 U 61/19 -, Rz. 84, juris, wonach ein Minderwert des Fahrzeugs gemäß § 287 ZPO in Höhe von 10% des Kaufpreises wegen der Gefahr des Entzugs der Zulassung anzunehmen sei).Die Urteilsformel des angefochtenen Urteils war gemäß § 319 Abs. 1 ZPO dahin zu berichtigen, dass die Beklagte verurteilt wird, an den Kläger 12.626,82 € nebst Zinsen aus einem Betrag von 13.080,59 € in Höhe von 4 Prozentpunkten über dem Basiszinssatz seit dem 26.01.2018 Zug um Zug gegen Übergabe und Übereignung des Modell1 Typ1 mit der Fahrzeugidentifikationsnummer ... zu zahlen.Das Landgericht hat in der Urteilsformel den Beginn der Verzinsung in Höhe von 4 Prozentpunkten aus dem Betrag von 13.080,59 € nicht benannt. Aus den Entscheidungsgründen des Urteils ergibt sich allerdings, dass Zinsen ab dem 26. Januar 2018 zugesprochen werden. Damit hat das Landgericht seinen Willen, über den Zinsanspruch einschließlich des Zinsbeginns zu entscheiden, deutlich zum Ausdruck gebracht, so dass die unterlassene Aufnahme des Zinsbeginns in die Urteilsformel ein offenbares Versehen ist, das vom Senat in der Berufung gemäß § 319 ZPO berichtigt werden kann (vgl. BGH, Urteil vom 18. Juni 1964 - VII ZR 152/62 -, Rz. 74 - 77, juris).Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO.Der Ausspruch über die vorläufige Vollstreckbarkeit ergibt sich aus den§§ 708 Nr. 10, 711 ZPO.Bei der Bemessung des Streitwerts wegen der Berufung des Klägers hat der Senat die von dem Kläger begehrten Zinsen zugrunde gelegt. Der vorliegend noch isoliert geltend gemachte Zinsanspruch ist keine Nebenforderung.Die Revision wird zugelassen. Sie ist zur Sicherung einer einheitlichen Rechtsprechung erforderlich, § 543 Abs. 2 Nr. 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2197750.html (https://oj.is/2197750)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate16
+				
+				
+					 Zitiert34
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

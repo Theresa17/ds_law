@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG MemmingenRechtsprechungEndurteil vom 17.12.2020 - 34 O 1606/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Memmingen, Endurteil vom 17.12.2020 - 34 O 1606/20
+                      m. Fundstelle
+                      LG Memmingen, Endurteil vom 17.12.2020 - 34 O 1606/20 = openJur 2022, 17212
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Memmingen, Endurteil vom 17.12.2020 - 34 O 1606/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 17212
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Klägerin hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 30.510,00 € festgesetzt. 
+				Tatbestand
+				Die Klagepartei erhebt Ansprüche auf Schadensersatz gegen die Beklagte aus dem Kauf eines Pkws der Marke ..., welcher von dem sog. "Abgasskandal" betroffen ist.Die Klagepartei erwarb gemäß Kaufvertrag vom 26.05.2015 (Anlage K 1) bei dem ... einen neuen Pkw der Marke ..., mit der Fahrzeugidentifikationsnummer ... zu einem Kaufpreis von 33.750,- €. Das Fahrzeug wurde an die Klagepartei übergeben und der Kaufpreis beglichen. Zum Zeitpunkt der Übergabe hatte das Fahrzeug einen Kilometerstand von 0 km (Neufahrzeug).In dem Fahrzeug ist ein Motor der Baureihe "EA 189" verbaut. Das Fahrzeug verfügt über eine Typengenehmigung nach Euro 5. Der verbaute Motor ist von dem sog. "Abgasskandal" betroffen. Die in dem Fahrzeug installierte Software führte im Ergebnis - jedenfalls vor Durchführung des unten benannten Softwareupdates - zu einer Motorsteuerung, welche Prüfsituationen erkannte und dann den Stickoxidausstoß (sog. NOx-Werte) verringerte. Die Motorsteuerungssoftware verfügte über eine Fahrzykluserkennung, welche erkannte, wenn das Fahrzeug den sog. NEFZ (Neuer Europäischer Fahrzyklus) durchfuhr. Die installierte Software führte dazu, dass Abgase beim Durchfahren des Prüfzyklusses in einer hohen Rate in den Motor zurückgeführt wurden, bevor sie überhaupt das Emissionskontrollsystem erreichten. Durch Aktivierung dieses Modus (sog. Modus 1) wurden durch die hohe Rückführungsrate von Abgasen in den Motorraum deutlich niedrigere Werte auf dem Prüfstand erreicht. Im Straßenbetrieb (sog. Modus 0) dagegen kam es unter Fahrbedingungen, die im normalen Straßenverkehr bestehen, zu einer geringeren Abgasrückführung, sodass dort wesentlich höhere Stickstoffoxidwerte erreicht wurden.Das Kraftfahrbundesamt (KBA) ordnete als nachträgliche Nebenbestimmungen zur Typengenehmigung die technische Überarbeitung der streitgegenständlichen Software an. Auf der Grundlage eines mit dem KBA abgestimmten Zeit- und Maßnahmenplans werden die betroffenen Fahrzeuge auf Kosten der Beklagten im Rahmen eines Softwareupdates technisch überarbeitet. Bei dem streitgegenständlichen Fahrzeug wurde das Softwareupdate durchgeführt.Die Klagepartei trägt im Wesentlichen vor, dass sie den Kaufvertrag nicht abgeschlossen hätte, wenn sie von der mangelnden Zulassungsfähigkeit des Fahrzeuges gewusst hätte. Sie habe sich beim Abschluss des Kaufvertrages darauf verlassen, ein vorschriftsgemäßes, zulassungsfähiges Fahrzeug zu erwerben. Das streitgegenständliche Fahrzeug habe durch die behauptete Manipulation einen erheblichen Wertverlust durch einen gesunkenen Marktwert erlitten. Dies liege vor allem an der eingebrochenen Nachfrage. Der Erwerb des Fahrzeugs habe für die Klagepartei zur Konsequenz, dass sie ein Fahrzeug besitze, das einen erheblich höheren Schadstoffausstoß besitze als seitens der Beklagten angegeben. Die Klagepartei trage das Risiko, dass das streitgegenständliche Fahrzeug aufgrund unmittelbarer Anwendung des § 19 Abs. 2 S. 2 Nr. 3, Abs. 7 StVZO mangels EU-Typengenehmigung stillgelegt werde. Weiter trägt die Klagepartei, es sei zu besorgen, dass nach den im Rahmen der Rückrufaktion durchgeführten Maßnahmen an den vom "Abgasskandal" betroffenen Fahrzeugen der Mangel der erhöhten NOX-Werte entweder immer noch bestehe oder sich neue Mängel zeigten, wie etwa ein erhöhter Verbrauch und ein erhöhter CO2-Ausstoß.Zu den Vorgängen bei der Beklagten trägt die Klagepartei vor, dass die Organe der Beklagten Kenntnis von der Entwicklung, Weiterentwicklung und Inverkehrbringung der "illegalen Abschalteinrichtung" und deren Einbau in Fahrzeugen der Beklagten und ihrer Töchter Audi, Seat und Skoda gehabt hätten. Die Klägerseite schildert den sich aus ihrer Sicht darstellenden Gang der Entwicklung und Implementierung der Software und der beteiligten Personen.Die Klagepartei ist der Auffassung, sie habe einen Schadensersatzanspruch gerichtet auf Rückabwicklung unter Anrechnung eines angemessenen Nutzungsersatzes. Der Anspruch der Klagepartei ergebe sich insbesondere aus §§ 826, 823 Abs. 2 BGB i.V.m. § 263 StGB, §§ 6 Abs. 1 27 Abs. 1 EG-FGV sowie § 831 BGB. Die Klagepartei ist der Auffassung, die Beklagte sei im Rahmen einer sekundären Darlegungs- und Beweislast verpflichtet, näher zu den konzerninternen Abläufen in Bezug auf die streitgegenständliche Softwareentwicklung und -implementierung vorzutragen.Verjährung sei nicht eingetreten, da die Klagepartei in den Jahren 2015 und 2016 noch keine Kenntnis etwaiger bestehender Schadensersatzansprüche gehabt habe. Sie habe nicht gewusst, dass ihr Fahrzeug betroffen sei. Eine Klageerhebung sei im Übrigen erst nach Klärung der Rechtslage zumutbar gewesen.Die Klagepartei beantragt zuletzt:Die Beklagte wird verurteilt, an die Klägerin ein Betrag in Höhe von 30.198,60 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 30.07.2020 Zug um Zug gegen Übergabe und Rückübereignung des Fahrzeuges ... zu zahlen.Die Beklagte wird verurteilt, an die Klägerin ein Betrag in Höhe von 7095,- € sowie weiteren Zinsen aus ein Betrag in Höhe von 33.750,- € in Höhe von 4 Prozentpunkten seit dem 30.07.2020 bis zur Rechtshängigkeit sowie in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen.Die Beklagte wird verurteilt, die Klägerin von den Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 2.373,36 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte trägt weiter im Wesentlichen vor, dass das zuständige Kraftfahrtbundesamt das für das streitgegenständliche Fahrzeug vorgesehene Software-Update geprüft und freigegeben habe. Zum einen seien die konkreten Emissionswerte nicht Gegenstand der Vertragsverhandlungen gewesen. Zum anderen seien allein die Emissionsgrenzwerte im Rahmen des synthetischen Fahrzyklusses unter Laborbedingungen (sog. NEFZ) als maßgeblich anzusehen. Es bestehe noch nicht einmal eine gesetzlich vorgegebene Korrelation zwischen Prüfstandwerten und Werten aus dem normalen Fahrbetrieb. Vielmehr sei der Emissionswert im tatsächlichen Fahrbetrieb von zahlreichen Faktoren, darunter auch dem individuellen Fahrverhalten, abhängig. Im Rahmen des maßgeblichen NEFZ handele es sich bei dem System zur Abgasrückführung um eine zulässige innermotorische Maßnahme, die der Kontrolle der Verbrennung diene.Die EG-Typengenehmigung habe auch weiterhin Bestand und sei nicht nichtig. Zudem seien die Maßnahmen zur technischen Überarbeitung des streitgegenständlichen Fahrzeugs bereits freigegeben worden. Das Fahrzeug verfüge über alle erforderlichen Genehmigungen sowie über eine gültige Zulassung. Durch das Software-Update werde die ursprüngliche Unterscheidung der beiden Betriebsmodi in der Einspritz- und Abgasrückführungsstrategie aufgehoben. Die beiden Betriebsmodi würden im Rahmen der technischen Überarbeitung der Fahrzeuge vereinheitlicht, soweit sie Bezug zur Abgasrückführung hätten. Auch habe die bisher verwendete Software keine negativen Auswirkungen auf das Abgassystem. Das Abgassystem werde durch die Software nicht stärker belastet als ohne sie. Die eingebaute Software stelle auch keine unzulässige Abschalteinrichtung dar. Ein Einfluss auf den Kraftstoffverbrauch sowie den CO2-Ausstoß nehme die Software nicht. Es gebe auch keine Anhaltspunkte, dass das Software-Update die Lebensdauer des streitgegenständlichen Fahrzeugs oder einzelner Teile negativ beeinflusse. Zu einem erhöhten Partikelausstoß komme es ebenso nicht.Ein merkantiler Minderwert sei bei dem streitgegenständlichen Fahrzeug nicht zu verzeichnen. Das vorliegende Fahrzeug habe mit dem Dieselmotor des Typs EA 189 auch keinerlei Wertverlust erfahren.Die Beklagte ist der Auffassung, dass eine klägerseits nicht näher substantiiert vorgetragene Täuschung durch die Beklagte - auch durch Unterlassung - nicht gegeben sei. Insbesondere trage die Klägerseite nicht vor, wer genau welches Tatbestandsmerkmal, insbesondere Vorsatz und Kenntnis, wie und wann verwirklicht habe.Ein Anspruch auf Schadensersatz nach § 823 Abs. 2 BGB i.V.m. § 263 StGB bestehe nicht. Durch die Beklagte liege bereits keine Täuschung der Klagepartei vor. Der Vortrag durch die Klägerseite sei unsubstantiiert. Die Beklagte habe weder unrichtige Angaben über die konkrete Gebrauchstauglichkeit des streitgegenständlichen Fahrzeugs noch über das Vorliegen der EU-5-Typengenehmigung gemacht. Im Zeitpunkt des Kaufvertragsschlusses habe das Fahrzeug schließlich über eine rechtswirksame Euro-5-Zulassung verfügt. Eine Aufhebung der Genehmigung drohe auch nicht. Vielmehr werde gerade der mit dem Kraftfahrtbundesamt abgestimmte Zeit- und Maßnahmenplan umgesetzt. Das Fahrzeug sei technisch sicher und könne nach wie vor genutzt werden. Weder sei es zu einem täuschungsbedingten Irrtum noch zu einer irrtumsbedingten Vermögensverfügung der Klagepartei gekommen. Es fehle auch an einem kausalen Vermögensschaden. Die Software habe keine nachteiligen Auswirkungen.Weiterhin bestünden bereits keine Anhaltspunkte für ein vorsätzliches Handeln des Vorstands oder seiner Repräsentanten im Zeitpunkt des Vertragsschlusses. Die Beklagte sei auch nicht im Rahmen einer etwaigen sekundären Beweislast zu weitergehenden Angaben verpflichtet.Auch ein Anspruch aus § 826 BGB komme nicht in Betracht, da der Beklagten keine sittenwidrige Handlung vorzuwerfen sei. Darüber hinaus fehle es auch an der besonderen Verwerflichkeit, die Voraussetzung für die Anwendbarkeit dieser Norm als Ausnahmetatbestand sei.Die Beklagte erhebt zudem die Einrede der Verjährung, da über die "Dieselthematik" ab Herbst 2015 in der Presse ausführlich berichtet worden sei, so dass der Kläger zu diesem Zeitpunkt Kenntnis von etwaigen Ansprüchen gehabt habe, zumindest aber grob fahrlässig keine Kenntnis hatte. Zu diesem Zeitpunkt habe auch bereits die Möglichkeit bestanden, eine schlüssige Klage zu erheben. Dies sei dem Kläger zum damaligen Zeitpunkt auch bereits zumutbar gewesen. Mit Ablauf des Jahres 2018 sei deshalb Verjährung eingetreten.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf den Inhalt der von den Parteien gewechselten Schriftsätze samt Anlagen sowie auf das Protokoll der mündlichen Verhandlung vom 03.12.2020 Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet, so dass sie insgesamt abzuweisen war.I.Die Klage ist zulässig. Das Landgericht Memmingen ist das örtlich gemäß § 32 ZPO und sachlich gem. § 1 ZPO i.V.m. §§ 23 Nr. 1, 71 Abs. 1 GVG zuständige Gericht.II.Die Klage ist jedoch unbegründet.1. Die in der Rechtsprechung lange umstrittene Frage, ob die Klagepartei gegen die Beklagte einen Schadensersatzanspruch in Folge der ursprünglich bei dem streitgegenständlichen Fahrzeug installierten Motorsteuerungssoftware insbesondere aus den §§ 311 Abs. 2 Nr. 3, Abs. 3, 280 Abs. 1 BGB, § 823 Abs. 2 BGB i.V.m. § 263 StGB, §§ 823 Abs. 2, 31 BGB i.V.m. § 27 EG-FGV, § 826 i.V.m. § 31 BGB oder § 831 BGB hat, kann vorliegend dahinstehen bleiben.2. Denn die vorliegende Klage ist bereits deshalb abzuweisen, da der geltend gemachte Anspruch bei Klageerhebung bereits verjährt war und die Beklagte die Einrede der Verjährung im Rahmen der Klageerwiderung wirksam erhoben hat, § 214 Abs. 1 BGB.a) Das verfahrensgegenständliche Fahrzeug wurde im Mai 2015 durch den Kläger erworben. Das Gericht geht vorliegend davon aus, dass die Klagepartei angesichts medialer Dauerberichterstattung und sowohl breiter öffentlicher gesellschaftlicher als auch politischer Diskussion über den sog. "Abgasskandal" zumindest ab Herbst 2015 Kenntnis von etwaigen Ansprüchen hatte (§ 199 Abs. 1 Nr. 2 Alt. 1 BGB), nachdem auch das Wort "Betrug" zu diesem Zeitpunkt bereits in aller Munde war. In jedem Fall aber wird man bei einer etwaigen Unkenntnis von einer grob fahrlässiger Unkenntnis (§ 199 Abs. 1 Nr. 2 Alt. 2 BGB) ausgehen müssen, da es für die Klagepartei noch im Herbst 2015 ein Leichtes gewesen wäre, sich über das Internet und/oder örtliche Vertragshändler darüber zu informieren, ob das klägerische Fahrzeug von der Rückrufaktion betroffen ist. Auch über diese Informationsmöglichkeiten wurde in allen Medien ausführlich berichtet. Im Übrigen liegt nach ständiger Rechtsprechung des Bundesgerichtshofs (vgl. zuletzt BGH, Urteil vom 03.06.2008 - XI ZR 319/06) die erforderliche Kenntnis im Allgemeinen vor, wenn dem Geschädigten die Erhebung einer Schadensersatzklage, sei es auch nur in Form der Feststellungsklage, Erfolg versprechend, wenn auch nicht risikolos, möglich ist (vgl. BGH, Urteile vom 14.10.2003 - VI ZR 379/02 und vom 9.11.2007 - V ZR 25/07). Weder ist notwendig, dass der Geschädigte alle Einzelumstände kennt, die für die Beurteilung möglicherweise Bedeutung haben, noch muss er bereits hinreichend sichere Beweismittel in der Hand haben, um einen Rechtsstreit im Wesentlichen risikolos führen zu können (BGH, Urteile vom 18.01.1994 - VI ZR 190/93 und vom 31.10.2000 - VI ZR 198/99). Auch kommt es - abgesehen von Ausnahmefällen - nicht auf eine zutreffende rechtliche Würdigung an. Vielmehr genügt aus Gründen der Rechtssicherheit und Billigkeit im Grundsatz die Kenntnis der den Ersatzanspruch begründenden tatsächlichen Umstände (BGH Urteile vom 11.01.2007 - III ZR 302/05 und vom 03.03.2005 - III ZR 353/04). Diese Umstände, die sich in den letzten Jahren insbesondere auf Grund der durchgeführten Ermittlungsverfahren und den zwischenzeitlich erfolgten Anklageerhebungen gegen Entscheidungsträger des VW-Konzerns verdichtet haben, waren auch 2015 auf Grund der breiten medialen Berichterstattung ausreichend allgemein bekannt, um darauf eine Schadensersatzklage stützen zu können. Es wäre der Klagepartei auch frei gestanden, eine auf die damaligen Erkenntnisse gestützte Klage zu erheben und zugleich die Aussetzung des Zivilverfahrens im Hinblick auf die anhängigen Ermittlungsverfahren gemäß § 149 Abs. 1 ZPO zu beantragen. Im Übrigen handelt es sich bei der wohl strittigsten Frage im streitgegenständlichen sog. "Abgasskandal" - nämlich ob die Beklagte eine sekundäre Beweislast trifft - um eine reine Rechtsfrage, die bei Aufkommen des "Skandals" und bis heute von den Instanz- und Obergerichten unterschiedlich beurteilt wurde bzw. wird. Die klägerischen Ansprüche sind daher nach Ablauf der regelmäßigen Verjährungsfrist von drei Jahren (§ 195 BGB) zum 31.12.2018 verjährt (vgl. auch OLG München, Beschluss vom 19.06.2020 - 3 U 1867/20), sodass die gegenständliche erst im Jahr 2020 erhobene Individualklage die Verjährung nicht mehr hemmen konnte.b) Hemmungstatbestände sind durch die Klägerseite weder vorgetragen worden noch sonst ersichtlich.3. Die geltend gemachten Nebenforderungen teilen das Schicksal der nicht (mehr) durchsetzbaren Hauptforderung.III.Die Kostenentscheidung ergibt sich aus § 91 Abs. 1 S. 1 ZPO.IV.Die Entscheidung zur vorläufigen Vollstreckbarkeit folgt aus § 709 S. 1, S. 2 ZPO.V.Der Streitwert wurde nach §§ 63, 39 ff. GKG, 3 ff. ZPO festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2450249.html (https://oj.is/2450249)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

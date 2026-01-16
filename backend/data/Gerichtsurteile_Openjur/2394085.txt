@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSaarlandOrdentliche GerichtsbarkeitLG SaarbrückenRechtsprechungUrteil vom 29.03.2022 - 12 O 136/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Saarbrücken, Urteil vom 29.03.2022 - 12 O 136/21
+                      m. Fundstelle
+                      LG Saarbrücken, Urteil vom 29.03.2022 - 12 O 136/21 = openJur 2022, 8105
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Saarbrücken, Urteil vom 29.03.2022 - 12 O 136/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 8105
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Zur Darlegung eines Minderwerts wegen behaupteter unzulässiger Abschalteinrichtungen bei einem weiterverkauften Fahrzeug. 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Klägerin trägt die Kosten des Rechtsstreits einschließlich der Kosten der Streithelferin der Erstbeklagten.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.4. Der Streitwert wird für die Gerichtskosten und Verfahrensgebühren auf bis zu 65.000,- € und für die Terminsgebühren auf bis zu 19.000,- € festgesetzt. 
+				Tatbestand
+				Die Klägerin macht gegen die Beklagten Ansprüche wegen behaupteter unzulässiger Abschalteinrichtungen im Zusammenhang mit dem sogenannten Dieselabgasskandal geltend.Die Klägerin erwarb gemäß verbindlicher Bestellung vom 20.4.2019 bei der Erstbeklagten ein Wohnmobil des Typs Chausson 727 GA als Neufahrzeug zu einem Kaufpreis von 59.780,- €. Die Übergabe an die Klägerin erfolgte am 6.7.2019. Der Aufbau des Wohnmobils wurde von der Streithelferin der Erstbeklagten hergestellt. Das Basisfahrzeug des Wohnmobils, ein Fiat Ducato, Baujahr 2018, ist mit einem 2,3l-Multijet-Motor der Schadstoffklasse Euro 6 ausgestattet.Die Klägerin veräußerte das Wohnmobil am 7.11.2021 mit einer Laufleistung von 12.313 km zu einem Preis von 50.000,- € an einen Händler.Die Zweitbeklagte, eine Aktiengesellschaft niederländischen Rechts, ist im Jahr 2021 aus der Fusion der F., einer Aktiengesellschaft niederländischen Rechts, und der P., einer Aktiengesellschaft französischen Rechts, hervorgegangen. Ihr gehören sämtliche Anteile an der Drittbeklagten, einer Aktiengesellschaft italienischen Rechts. Die Drittbeklagte ist in der EG-Übereinstimmungsbescheinigung als Herstellerin des Basisfahrzeugs ausgewiesen.Im Jahr 2016 informierte das Bundesministerium für Verkehr und digitale Infrastruktur (im Folgenden: BMVI) die zuständige italienische Typgenehmigungsbehörde, das Ministero delle Infrastrutture dei Transporti (im Folgenden: MIT), dass in verschiedenen Fahrzeugen der Marke Fiat mit Motoren der Schadstoffklasse Euro 6 nach Untersuchungen des Kraftfahrt-Bundesamts (im Folgenden: KBA) unzulässige Abschalteinrichtungen enthalten seien. Das MIT ergriff nach eigenen Tests der Fahrzeuge keine weiteren Maßnahmen. Die EU-Kommission leitete daraufhin im Jahr 2017 ein Vertragsverletzungsverfahren gegen Italien ein, das bislang nicht abgeschlossen ist. Ein Software-Update für das Basisfahrzeug wird nicht angeboten.Mit Schreiben ihrer Prozessbevollmächtigten vom 23.12.2020, dem keine Originalvollmacht beigefügt war, setzte die Klägerin gegenüber der Erstbeklagten eine Frist zur Nachlieferung eines mangelfreien Fahrzeugs. Zur Begründung führte sie an, es seien mehrere unzulässige Abschalteinrichtungen im Fahrzeug vorhanden. Der Geschäftsführer der Erstbeklagten wies mit E-Mail vom 30.12.2020 die Ansprüche der Klägerin mangels Vorlage einer Originalvollmacht zurück. Zuletzt erklärte die Klägerin gegenüber der Erstbeklagten die Minderung des Kaufpreises.Mit ihrer am 9.4.2021 bei Gericht eingegangenen und der Erstbeklagten am 12.5.2021 zugestellten Klage verfolgt die Klägerin gegen die Erstbeklagte kaufrechtliche Mängelgewährleistungsansprüche und gegen die Zweit- und Drittbeklagte Schadensersatzansprüche aus Deliktsrecht, insbesondere sittenwidriger Schädigung, zuletzt gerichtet auf Erstattung eines behaupteten Minderwerts. Sie trägt vor, in dem Fahrzeug sei eine Abschalteinrichtung eingebaut, bei der die Abgasreinigung nach 21,8 Minuten reduziert bzw. vollständig abgeschaltet werde. Diese sei ebenso unzulässig wie das im Fahrzeug eingesetzte sog. "Thermofenster". Das On-Board-Diagnosesystem (OBD-System) des Fahrzeugs erkenne entgegen seiner eigentlichen Bestimmung diese Manipulationen nicht, da es selbst entsprechend programmiert worden sei. Die Zweitbeklagte bzw. ihre Rechtsvorgängerin sei maßgeblich an der Entwicklung und Herstellung des Basisfahrzeugs, des dort eingebauten Motors sowie dieser Motorsteuerungssoftware beteiligt gewesen. Die Drittbeklagte hafte als Herstellerin des Basisfahrzeugs, da sie die strategische Entscheidung zum Einbau unzulässiger Abschalteinrichtungen getroffen habe. Die Zweit- und Drittbeklagte hätten daneben auch den Sprit- sowie den CO2-Verbrauch des Fahrzeugs manipuliert. Die Klägerin behauptet weiter, sie hätte den Kaufvertrag über das streitgegenständliche Fahrzeug bei Kenntnis der gesetzeswidrigen Software nicht geschlossen. Ein merkantiler Minderwert, der hier mindestens 25 % bzw. mindestens 30 % des Kaufpreises betrage, sei auch im Rahmen deliktischer Schadensersatzansprüche ersatzfähig. Eine Nachbesserung durch die Erstbeklagte sei weder durch ein Software-Update noch durch den Einbau eines anderen Motors möglich. Die Klägerin ist zuletzt der Ansicht, auch die Lieferung eines Nachfolgemodells sei unmöglich.Die Klägerin hat zunächst angekündigt zu beantragen,1. die Beklagte zu 1) zu verurteilen, der Klägerpartei ein mangelfreies fabrikneues typengleiches Ersatzfahrzeug aus der aktuellen Serienproduktion des Herstellers mit gleichartiger und gleichwertiger Ausstattung wie das Fahrzeug des Modells 727 GA Special des Herstellers Chausson mit der Fahrzeugidentifikationsnummer (FIN) ... Zug um Zug gegen Rückgabe und Rückübereignung des mangelhaften Fahrzeugs des Modells 727 GA Special des Herstellers mit der (FIN) ... nachzuliefern;2. festzustellen, dass sich die Beklagte zu 1) mit der Rücknahme des im Klagantrag Ziffer 1 genannten Fahrzeugs in Verzug befindet;3. festzustellen, dass die Beklagte zu 1) verpflichtet ist, der Klägerpartei notwendige Verwendungen im Sinne des § 347 Abs. 2 S. 1 BGB zu ersetzen;4. festzustellen, dass die Beklagte zu 1) verpflichtet ist, der Klägerpartei andere Verwendungen im Sinne des § 347 Abs. 2 S. 2 BGB zu ersetzen, soweit sie dadurch bereichert wird oder die Kosten für den Ausbau aus dem streitgegenständlichen Fahrzeug und den Einbau in das nach Ziff. 1 zu liefernde Fahrzeug zu ersetzen;5. festzustellen, dass die Beklagte zu 1) verpflichtet ist, der Klägerpartei Aufwendungen im Sinne von §§ 284, 304 BGB zu ersetzen, die diese für das im Klageantrag Ziffer 1. genannte Fahrzeug gemacht hat oder noch machen wird;6. festzustellen, dass die Beklagten zu 2) und zu 3) verpflichtet sind, der Klägerpartei Schadensersatz zu bezahlen für Schäden, die aus der Manipulation des Fahrzeugs FIAT (Fahrzeugidentifikationsnummer: ...) durch die Beklagten zu 2) und zu 3) resultieren;7. die Beklagten zu verurteilen, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtliche Rechtsanwaltskosten in Höhe von € 3.196,34 jeweils getrennt und gesondert und in voller Höhe freizustellen.Die Klägerin beantragt zuletzt,1. die Beklagten zu verurteilen, der Klägerpartei einen Betrag bezüglich des Fahrzeugs des Modells 727 GA Special des Herstellers Chausson mit der Fahrzeugidentifikationsnummer (FIN) ..., dessen Höhe in das Ermessen des Gerichts gestellt wird, jedoch mindestens € 14.945,00 betragen muss, zu bezahlen nebst Zinsen in Höhe von 5%-Punkten über dem Basiszinssatz seit Rechtshängigkeit;2. die Beklagten zu verurteilen, die Klägerpartei von den durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen vorgerichtliche Rechtsanwaltskosten in Höhe von € 3.196,34 jeweils getrennt und gesondert und in voller Höhe freizustellen.Die Beklagten beantragen,die Klage abzuweisen.Die Erstbeklagte, die die Einrede der Unverhältnismäßigkeit der Nachlieferung erhebt, behauptet, die Nacherfüllung würde voraussichtlich nur geringfügige Kosten verursachen und sei ohne Weiteres möglich. Die Streithelferin der Erstbeklagten ist der Ansicht, es liege kein taugliches Nacherfüllungsverlangen und keine wirksame Fristsetzung zur Nacherfüllung durch die Klägerin vor. Hinsichtlich des geltend gemachten Minderwerts fehle es unter Berücksichtigung der Veräußerung an jeglichen Anhaltspunkten für einen Schaden. Die Zweitbeklagte behauptet, sie sei lediglich eine Finanzholding, die keinen Einfluss auf unternehmerische Entscheidungen ihrer Tochtergesellschaften nehme. Sie meint, der Klägerin stünden Ansprüche gegen sie bereits deshalb nicht zu, da sie nicht die Entwicklerin und Herstellerin des streitgegenständlichen Motors und des streitgegenständlichen Basisfahrzeugs sei. Die Drittbeklagte, die hilfsweise die Einrede der Verjährung erhebt, ist der Ansicht, dass die gültige EG-Typgenehmigung der Annahme einer unzulässigen Abschalteinrichtung entgegenstehe.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die gewechselten Schriftsätze nebst Anlagen sowie auf das Protokoll der mündlichen Verhandlung vom 8.3.2022 verwiesen. 
+				Gründe
+				I.Die zulässige Klage ist unbegründet.A.Die Klage ist zulässig. Insbesondere ist die Erweiterung der Klage auf die Drittbeklagte zulässig. Dabei kann dahinstehen, ob auf eine Parteierweiterung auf Beklagtenseite die Vorschriften über die Klageänderung nach §§ 263 f. ZPO anwendbar sind (so für den Beklagtenwechsel in der ersten Instanz BGH, Urteil vom 13.11.1961 - II ZR 202/60, NJW 1962, 347). Denn die Drittbeklagte hat sich auf die Klage in der mündlichen Verhandlung vom 8.3.2022 eingelassen, ohne der Erweiterung zu widersprechen, weshalb ihre Einwilligung vermutet wird (§ 267 ZPO).B.Die Klage ist unbegründet.1. Der Klägerin stehen gegen die Erstbeklagte keine Ansprüche auf Kaufpreisminderung aus § 437 Nr. 2, § 441 Abs. 1 BGB zu. Dabei kann dahinstehen, ob die tatbestandlichen Voraussetzungen für eine wirksame Minderung vorliegen. Denn es fehlt bereits an einer schlüssigen Darlegung eines Minderwerts des streitgegenständlichen Wohnmobils.a) Nach der Rechtsprechung des Bundesgerichtshofs ist ein Sachvortrag zur Begründung eines Anspruchs bereits dann schlüssig und erheblich, wenn die Partei Tatsachen vorträgt, die in Verbindung mit einem Rechtssatz geeignet und erforderlich sind, das geltend gemachte Recht als in der Person der Partei entstanden erscheinen zu lassen. Die Angabe näherer Einzelheiten ist nicht erforderlich, soweit diese für die Rechtsfolgen nicht von Bedeutung sind. Das gilt insbesondere dann, wenn die Partei keine unmittelbare Kenntnis von den Vorgängen hat. Das Gericht muss nur in die Lage versetzt werden, aufgrund des tatsächlichen Vorbringens der Partei zu entscheiden, ob die gesetzlichen Voraussetzungen für das Bestehen des geltend gemachten Rechts vorliegen. Sind diese Anforderungen erfüllt, ist es Sache des Tatrichters, in die Beweisaufnahme einzutreten und dabei gegebenenfalls die benannten Zeugen oder die zu vernehmende Partei nach weiteren Einzelheiten zu befragen oder einem Sachverständigen die beweiserheblichen Streitfragen zu unterbreiten. Dabei ist es einer Partei grundsätzlich nicht verwehrt, eine tatsächliche Aufklärung auch hinsichtlich solcher Umstände zu verlangen, über die sie selbst kein zuverlässiges Wissen besitzt und auch nicht erlangen kann, die sie aber nach Lage der Verhältnisse für wahrscheinlich oder möglich hält. Sie darf auch von ihr nur vermutete Tatsachen insbesondere dann als Behauptung in einen Rechtsstreit einführen, wenn sie mangels entsprechender Erkenntnisquellen oder Sachkunde keine sichere Kenntnis von entscheidungserheblichen Einzeltatsachen hat. Eine Behauptung ist aber dann unbeachtlich, wenn sie ohne greifbare Anhaltspunkte für das Vorliegen eines bestimmten Sachverhalts willkürlich "aufs Geratewohl" oder "ins Blaue hinein" aufgestellt worden ist. Bei der Annahme von Willkür in diesem Sinne ist Zurückhaltung geboten; in der Regel wird sie nur beim Fehlen jeglicher tatsächlicher Anhaltspunkte gerechtfertigt sein können (st.Rspr.; vgl. zuletzt BGH, Beschluss vom 8.12.2021 - VIII ZR 280/20, NJW 2022, 935 m.w.N.). Im Hinblick auf die Substantiierungspflicht des Käufers eines vom sogenannten Abgasskandal betroffenen Fahrzeugs bezüglich eines merkantilen Minderwerts hat es der VIII. Zivilsenat des Bundesgerichtshofs in Bezug auf Fahrzeuge der VW AG zuletzt für ausreichend gehalten, wenn der Käufer behauptet, die ungewissen Auswirkungen eines vom Hersteller entwickelten Software-Updates sowie das infolge des Abgasskandals allgemein gesunkene Vertrauen in von der VW AG produzierte Dieselfahrzeuge führe dazu, dass allein aufgrund des Makels "vom Abgasskandal betroffenes Fahrzeug" ein Kraftfahrzeug auf dem freien Markt einen erheblichen Wertverlust erfahre (vgl. BGH, Beschluss vom 8.12.2021 - VIII ZR 280/20, WM 2022, 243).b) Unabhängig davon, ob die vom VIII. Zivilsenat für Käufer von Fahrzeugen der VW AG aufgestellten Grundsätze auch auf einen Fall wie hier übertragbar sind, bei dem das Fahrzeug weder einem verbindlichen Rückruf unterliegt noch ein vom Hersteller entwickeltes Software-Update zur Anpassung der Motorsteuerung angeboten wird, fehlen vorliegend jegliche greifbaren Anhaltspunkte dafür, dass das Wohnmobil zum Zeitpunkt des Kaufs durch die Klägerin einen Minderwert im Sinne des § 441 BGB aufwies.aa) Nach § 441 Abs. 3 BGB ist bei der Minderung der Kaufpreis in dem Verhältnis herabzusetzen, in welchem zur Zeit des Vertragsschlusses der Wert der Sache in mangelfreiem Zustand zu dem wirklichen Wert gestanden haben würde. Minderwert ist daher die auf den Zeitpunkt des Abschlusses des Kaufvertrags zu ermittelnde Differenz zwischen dem Wert der Sache in mangelfreiem Zustand und ihrem tatsächlichen Wert (vgl. BGH, Urteil vom 5.11.2010 - V ZR 228/09, NJW 2011, 1217 Rn. 20; Grüneberg/Weidenkaff, BGB, 81. Aufl., § 441 Rn. 15). Decken sich beide Werte, entfällt eine Minderung (vgl. BGH, Urteil vom 5.11.2010 aaO). Zwar sind bei der Ermittlung des Minderwerts nach dem Vertragsschluss liegende, den Wert der Sache beeinflussende Umstände, wie etwa ein bei einem Weiterverkauf erzielter Mehrerlös, nicht zu berücksichtigen. Denn Ziel der Minderung ist, das Äquivalenzverhältnis des Kaufvertrages aufrechtzuerhalten, indem dem Käufer ein Ausgleich für die Mängel unter Aufrechterhaltung des vereinbarten Preis-/Leistungsverhältnisses gewährt wird, und nicht, den Kaufpreis an den Verkehrswert der Sache anzupassen (vgl. BGH, Urteile vom 27.5.2011 - V ZR 122/10, NJW 2011, 2953 Rn. 9 und vom 15.6.2012 - V ZR 198/11, NJW 2012, 2793 Rn. 32). Nachträgliche Entwicklungen sind aber insoweit zu berücksichtigen, als sich aus ihnen Rückschlüsse auf die zu vergleichenden Werte am Wertermittlungsstichtag ziehen lassen (vgl. BGH, Urteil vom 5.11.2010 aaO Rn. 27).bb) Hieran gemessen fehlt es an einer schlüssigen Darlegung des von der Klägerin behaupteten Minderwerts in Höhe von mindestens 25% bzw. mindestens 30% des Kaufpreises.Die Klägerin hat das Wohnmobil, dessen Übergabe am 6.7.2019 erfolgt ist, für einen Preis von 59.780,- € erworben und am 7.11.2021, mithin nach 2 Jahren und 4 Monaten, zu einem Preis von 50.000,- € an einen Händler weiterveräußert. Dabei ist mangels gegenteiliger Anhaltspunkte davon auszugehen, dass es sich um einen marktgerechten Verkaufserlös gehandelt und die Klägerin hierbei keinen Mehrerlös erzielt hat (vgl. dazu auch Saarl. OLG, Urteil vom 26.1.2022 - 2 U 139/21). Denn beim Ankauf eines Fahrzeugs durch einen Händler - wie hier - ist anzunehmen, dass dieser das Fahrzeug letztlich mit Gewinn weiterverkaufen möchte und bereits deshalb keinen über dem Marktpreis liegenden Betrag zahlen wird. Wenn darüber hinaus zugunsten der Klägerin unterstellt wird, dass bei Neufahrzeugen ohne eine tatsächliche Nutzung allein durch die erstmalige Zulassung bereits ein Wertverlust von 25% bis 30 % des Kaufpreises eintritt (vgl. Schriftsatz vom 3.1.2022, S. 12, Bl. 427 d.A.; zu einem Wertverlust nach Kauf eines Neuwagens vgl. auch BGH, Urteil vom 21.7.2021 - VIII ZR 254/20, BGHZ 230, 296), so ist bei einem Verkaufspreis, der bei der Weiterveräußerung - wie hier - lediglich rund 17% unter dem ursprünglich gezahlten Kaufpreis liegt, schon nach dem eigenen Vorbringen der Klägerin ein mangelbedingter Minderwert zum Zeitpunkt des Fahrzeugkaufs nicht nachvollziehbar. Dies gilt erst recht, wenn man berücksichtigt, dass das Wohnmobil im Zeitpunkt des Weiterverkaufs eine Laufleistung von 12.313 km hatte, die Klägerin mithin das Wohnmobil zwischen Kauf und Weiterverkauf genutzt hat.Auch im Übrigen hat die Klägerin trotz Hinweises der Kammer (vgl. Verfügung vom ...) keine greifbaren Anhaltspunkte aufgezeigt, die einen Minderwert des Wohnmobils schlüssig begründen könnten. Dies gilt insbesondere, soweit die Klägerin pauschal behauptet, Fahrzeuge, die mit einer Abschalteinrichtung versehen seien, seien unverkäuflich oder jedenfalls besonders schwer verkäuflich und ihr Wohnmobil könne nur als "Teilelager" verkauft werden (vgl. Schriftsatz vom ...). Denn bereits durch die tatsächlichen Umstände des Weiterverkaufs und des dabei von der Klägerin erzielten Erlöses ist diese Behauptung konkret widerlegt.Die Klägerin kann sich auch nicht auf einen Vergleich mit Fällen des Motors EA 189 der VW AG stützen (vgl. die zitierten Entscheidungen im Schriftsatz vom ...). Denn anders als dort unterliegt das streitgegenständliche Wohnmobil bis heute unstreitig keinem Rückruf wegen einer unzulässigen Abschalteinrichtung, so dass weder im Zeitpunkt des Kaufs noch im Zeitpunkt des Weiterverkaufs eine erhöhte Gefahr einer Stilllegung des Fahrzeugs vorlag. Das vom Bundesgerichtshof im Hinblick auf die von der VW AG hergestellten Motoren des Typs EA 189 anerkannte, die Wertbildung beeinflussende Risiko behördlicher Anordnungen bezüglich eines mit einer Prüfstandserkennungssoftware ausgestatteten Fahrzeuges (vgl. BGH, Urteil vom 6.7.2021 aaO Rn. 23) hat sich für die Klägerin danach nicht ausgewirkt, und zwar unabhängig davon, ob im streitgegenständlichen Fahrzeug unzulässige Abschalteinrichtungen zur Anwendung kommen. Daran ändert auch der zuletzt gehaltene Vortrag der Klägerin nichts, dass der auch im streitgegenständlichen Wohnmobil eingebaute 2,3l-Motor vom KBA als "verdächtig" beanstandet worden sei und zuletzt vom KBA mehrere ebenfalls als "verdächtig" eingestufte Fahrzeuge zurückgerufen worden seien (vgl. Schriftsatz vom ...). Denn das Fahrzeug der Klägerin gehört gerade nicht zu diesen zurückgerufenen Fahrzeugen. Auch ein Rückruf des Fahrzeugs durch die italienische Typgenehmigungsbehörde ist weder ersichtlich noch vorgetragen. Inwieweit schließlich ein für das Wohnmobil unstreitig nicht vorhandenes Software-Update Auswirkungen auf den Wert des Fahrzeugs haben soll, erschließt sich der Kammer nicht (vgl. grundsätzlich zur Berücksichtigung der Auswirkungen eines vorhandenen Software-Updates bei der Ermittlung des Minderwerts BGH, Urteil vom 6.7.2021 aaO).Der zum Beweis des Minderwerts angebotene Sachverständigenbeweis war danach nicht zu erheben.2. Der Klägerin steht gegen die Zweit- und Drittbeklagte kein Anspruch aus § 826 BGB zu.a) Zwar kann nach neuerer Rechtsprechung des Bundesgerichtshofs ein Geschädigter, der durch das deliktische Handeln eines Fahrzeugherstellers zum Abschluss eines Kaufvertrags über ein Dieselfahrzeug mit Prüfstanderkennungssoftware bestimmt worden ist, soweit er die Kaufsache behalten möchte, als Schaden von dem Dritten den Betrag ersetzt verlangen, um den er den Kaufgegenstand - gemessen an dem objektiven Wert von Leistung und Gegenleistung - zu teuer erworben hat, wobei es weder darauf ankommt, ob der Verkäufer sich auf den Kaufvertrag zu einem niedrigeren Kaufpreis eingelassen hätte, noch ob der Geschädigte ohne die schädigende Handlung bereit gewesen wäre, den Kaufvertrag zu einem niedrigeren Kaufpreis zu schließen (sog. kleiner Schadensersatz; BGH, Urteile vom 24.1.2022 - VIa ZR 100/21, juris, und vom 6.7.2021 - VI ZR 40/20, BGHZ 230, 224). Diese Voraussetzungen liegen im Streitfall aber nicht vor.b) Unabhängig davon, dass - wie bereits gezeigt - ein Minderwert nicht hinreichend dargelegt ist, fehlt es an einem ersatzfähigen Schaden.aa) Nach der Rechtsprechung des Bundesgerichtshofs ist bei der Geltendmachung des kleinen Schadensersatzes eine schadensmindernde Berücksichtigung später eintretender Umstände im Rahmen der Vorteilsausgleichung nicht ausgeschlossen (BGH, Urteile vom 24.1.2022 und vom 6.7.2021 aaO). Dabei sind Nutzungsvorteile und der Restwert des Fahrzeugs auf den Anspruch auf kleinen Schadensersatz dann und insoweit schadensmindernd anzurechnen, als sie den tatsächlichen Wert des Fahrzeugs bei Abschluss des Kaufvertrags übersteigen (vgl. BGH, Urteil vom 24.1.2022 aaO).bb) Hiervon ausgehend - die Behauptung der Klägerin als richtig unterstellt, das Fahrzeug habe bei Vertragsschluss einen um mindestens 25% geminderten tatsächlichen Wert gehabt, sei mithin lediglich 44.835,- € wert gewesen, - scheidet ein Anspruch auf kleinen Schadensersatz bereits unter Berücksichtigung des von der Klägerin beim Verkauf des Wohnmobils erzielten Preises von 50.000,- € aus, der auch im Rahmen einer Vorteilsausgleichung auf einen etwaigen Schadensersatzanspruch der Klägerin anzurechnen wäre (vgl. BGH, Urteil vom 20.7.2021 - VI ZR 533/20, NJW 2021, 3594). Nach welcher Berechnungsmethode die darüber hinausgehend im Wege der Vorteilsausgleichung zu berücksichtigenden Nutzungsvorteile für die mehr als zweijährige Nutzung des Wohnmobils im Umfang von mehr als 12.000 km zu ermitteln wären, kann hier dahinstehen (vgl. hierzu die unterschiedlichen Auffassungen bei OLG Düsseldorf, NZV 1995, 69; OLG Stuttgart, Urteil vom 12.5.2016 - 1 U 133/13, juris; OLG Hamm, Urteil vom 18.12.2014 - 28 U 135/13, juris; OLG Nürnberg, DAR 2002, 219; OLG Celle, NJW-RR 2007, 353; OLG München, DAR 1989, 187; Urteil vom 24.10.2012 - 3 U 197/11, juris; Reinking/Eggert, Der Autokauf, 14. Aufl., Rn. 3579; Staudinger/Kaiser, BGB, Neubearbeitung 2012, § 346 Rn. 262).3. Aus den gleichen Gründen scheitern auch deliktische Schadensersatzansprüche gegen die Zweit- und Drittbeklagte aus § 831 i.V.m. § 826 BGB, § 830 Abs. 1 BGB, § 823 Abs. 2 BGB i.V.m. § 263 StGB sowie aus § 823 Abs. 2 BGB i.V.m. § 16 UWG bzw. § 4 Nr. 11 UWG a.F.Etwaige Ansprüche aus § 280 Abs. 1, § 311 Abs. 3 bzw. § 443 BGB scheitern im Übrigen auch daran, dass nicht ersichtlich ist, inwiefern die Zweit- und Drittbeklagte ein besonderes persönliches Vertrauen der Klägerin i.S.d. § 311 Abs. 3 BGB in Anspruch genommen haben sollen (vgl. OLG Stuttgart, AG 2021, 119).4. Mangels Hauptanspruchs scheitert auch der Anspruch auf Freistellung von vorgerichtlichen Rechtsanwaltskosten.II.Die Kostenentscheidung beruht auf §§ 91 Abs. 1, 101 Abs. 1 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit findet ihre Grundlage in § 709 Satz 1 und 2 ZPO.Die Entscheidung über den Streitwert folgt aus §§ 39, 43, 48 GKG i.V.m. §§ 3, 4, 5 ZPO.Hinsichtlich der ursprünglichen Feststellungsanträge zur Feststellung der Ersatzpflicht der Erstbeklagten im Hinblick auf Aufwendungen und Verwendungen schätzt die Kammer den Wert dieser Ansprüche auf insgesamt höchstens 500,- €. Soweit die Klägerin vorträgt, es komme typischerweise zu nachträglichen Einbauten in ein Wohnmobil und das Fahrzeug müsste gewartet und instandgehalten werden, fehlen im Streitfall konkrete Angaben zu Einbauten oder Inspektionen, die eine höhere Streitwertfestsetzung rechtfertigen könnten.Bei der Bewertung des ursprünglich gegen die Zweit- und Drittbeklagte gestellten Feststellungsantrags war zu beachten, dass das darin liegende Interesse über das Interesse in der Hauptsache hinausging, da die Klägerin auch die Feststellung einer Schadensersatzpflicht für künftige Schäden begehrte. Die Kammer schätzt den Wert dieses Feststellungsanspruchs in Übereinstimmung mit der Rechtsprechung des Bundesgerichtshofs (vgl. BGH, Beschlüsse vom 1.7.2021 - III ZR 253/20, juris, und vom 26.1.2021 - VI ZR 281/20, juris) und der neueren Rechtsprechung des Berufungsgerichts (vgl. Saarl. OLG, Urteil vom 21.2.2022 - 2 U 344/21) auf 1.000,- €. Weitergehende Schäden, die diesen Betrag überschreiten könnten, sind weder dargelegt noch ersichtlich.Bei der Bemessung der Terminsgebühren war neben dem bezifferten Minderwert von 14.945,- € ein Teil der außergerichtlichen Rechtsanwaltskosten, die nicht mehr von der Hauptforderung abhängig sind, streitwerterhöhend zu berücksichtigen. Der Betrag beläuft sich auf 1.463,70 €. Er ergibt sich aus einer Differenzrechnung, bei der von den gesamten nach der Klagedarstellung vorprozessual angefallenen Rechtsanwaltskosten (3.196,34 €) diejenigen (fiktiven) Kosten (1.732,64 €) abgezogen werden, die entstanden wären, wenn die Prozessbevollmächtigten der Klägerin auch vorprozessual den Anspruch nur in Höhe von 14.945,- € geltend gemacht hätten, wie er zuletzt Gegenstand der Klage war (vgl. BGH, Beschluss vom 7.7.2020 - VI ZB 66/19, NJW 2020, 3174 m.w.N.).
+			
+			
+			
+			Permalink: https://openjur.de/u/2394085.html (https://oj.is/2394085)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate17
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG MünsterRechtsprechungUrteil vom 19.12.2019 - 2 O 170/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Münster, Urteil vom 19.12.2019 - 2 O 170/19
+                      m. Fundstelle
+                      LG Münster, Urteil vom 19.12.2019 - 2 O 170/19 = openJur 2022, 256
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Münster, Urteil vom 19.12.2019 - 2 O 170/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 256
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten über Ansprüche nach einem Pkw-Kauf.Der Kläger erwarb von dem M Zentrum F aufgrund Bestellung vom 15.04.2014 und späterer Übergabe einen Porsche Macan S Diesel zu einem Bruttopreis von 74.392,01 € als Neuwagen.Eingebaut in das Fahrzeug ist ein Dieselmotor des Typs 3.0 l TDI V6 EU6. Das streitgegenständliche Fahrzeug wurde von der Beklagten produziert, der Motor jedoch von der I AG entwickelt und gebaut und von der Beklagten sodann zugekauft. Der verbaute Dieselmotortyp enthält eine Software, deren genaue Funktionsweise zwischen den Parteien streitig ist.Das Kraftfahrtbundesamt beanstandete diese Software 2016 per Bescheid und vertrat die Auffassung, dass es sich bei der Software um eine unzulässige Abschalteinrichtung handelt. Es legte der Beklagten auf, die Software aus den betroffenen Fahrzeugen zu entfernen und geeignete Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit zu ergreifen. Mit entsprechenden Schreiben vom 12.09.2016 erklärte das Kraftfahrtbundesamt gegenüber der Beklagten bzgl. des deshalb von ihr geplanten Software-Updates, dass mit der entwickelten Maßnahme keine Nachteile verbunden seien. Per Bescheid aus Juli 2018 ordnete das KBA zudem per Nebenbestimmung an, dass bestimmte Elemente des seit 2016 durchgeführten Softwareupdates verbindlich angeordnet werden. Die Freigabe des Updates durch das KBA erfolgte am 01.08.2018.Es ist gerichtsbekannt, dass das Kraftfahrtbundesamt bei Nichtaufspielen der Software androht, die Betriebserlaubnis des betroffenen Fahrzeugs zu entziehen. Der Kläger ließ das Update an dem streitgegenständlichen Fahrzeug aufspielen.Mit außergerichtlichem Schreiben forderte der Kläger die Beklagte erfolglos zur Rückabwicklung im Wege des Schadensersatzes mit Fristsetzung auf.Der Kläger vertritt mit näherer Begründung die Auffassung, die Beklagte hafte gemäß § 823 Abs. 2 BGB und § 826 BGB. Es sei eine unzulässige Abschalteinrichtung in den Motor eingebaut worden. Der Vorstand der Beklagten habe auch Kenntnis von der von der Herstellerin des Motors bewusst eingebauten, manipulativen Software gehabt. Dies ergebe sich aus den konzernrechtlichen und teilweise auch personellen Verflechtungen insbesondere zur C AG und I AG. Die Vorstände der Konzerngesellschaften hätten gemeinsam die Verwendung der Software aus wirtschaftlichen Erwägungen für sämtliche Konzernfahrzeuge beschlossen. Auch habe die Beklagte die von der I AG hergestellten Motoren nicht bloß zugekauft, sondern vor dem Einbau in die Fahrzeuge modifiziert, weshalb sie die Software kennen müsse. Jedenfalls komme die Beklagte ihrer sekundären Darlegungslast nicht nach. Ohne die Manipulation und Täuschung hätte er, der Kläger, das streitgegenständliche Fahrzeug nicht erworben. In der Erwerbsaufwendung liege sein Schaden.Der Kläger beantragt,1. festzustellen, dass die Beklagte verpflichtet ist, ihm Schadensersatz zu zahlen für Schäden, die aus der Manipulation des Fahrzeugs der Marke Porsche vom Typ Macan S mit der Fahrzeugidentifikationsnummer (FIN) 00000000000000000 durch die Beklagte resultieren,2. die Beklagte zu verurteilen, dem Kläger die durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 3.196,34 freizustellen.Die Beklagte beantragt,die Klage abzuweisen.In der Sache macht sie geltend, die eingebaute Software stelle keine Abschalteinrichtung dar, erst recht keine unzulässige. Dem Kläger sei wirtschaftlich kein Schaden entstanden, da das Fahrzeug uneingeschränkt gebrauchstauglich und von dem Kläger auch über Jahre beanstandungslos verwendet worden sei, ein Wertverlust oder merkantiler Minderwert sei nicht eingetreten, ferner die Dispositionsfreiheit des Klägers nicht beeinträchtigt worden. Die Vorgaben des KBA seien umgesetzt worden, mit Aufspielung des Updates seien alle Vorgaben eingehalten und keinerlei negative Folgen der technischen Maßnahmen nach Überprüfung eingetreten oder sonst zu besorgen. Die maßgebliche Übereinstimmungsbescheinigung sei weder ungültig, noch unzutreffend, die EG-Übereinstimmungsbescheinigung nicht erloschen, so dass das Fahrzeug über alle erforderlichen Genehmigungen verfüge.Sie, die Beklagte, habe den Kläger schon nicht über Tatsachen getäuscht. Jedenfalls aber habe sich der Kläger nicht täuschungsbedingt geirrt und seine Kaufentscheidung sei unabhängig von den Angaben zum Motor erfolgt, zumal Umweltaspekte und ein bestimmter Abgasausstoß nicht für die Kaufentscheidung des Klägers maßgeblich gewesen seien.Jedenfalls aber lägen die subjektiven Voraussetzungen des Betruges nicht vor. Die Beklagte sei an der Entwicklung und Herstellung des Motors nebst Software nicht beteiligt gewesen. Sie bestreitet das gesamte Vorbringen des Klägers zur subjektiven Tatseite, insbesondere die Kenntnis ihres Vorstands vom Vorhandensein einer etwaigen gesetzeswidrigen Abschalteinrichtung. Auch obliege ihr keine sekundäre Darlegungslast, die teilweise vertretene Rechtsprechung im Zuge des sog. "VW-Abgasskandals" zum Motor der Baureihe EA 189 sei nicht übertragbar.Wegen der Einzelheiten des Parteivortrags wird auf den Inhalt der gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die Klage ist mit sämtlichen Anträgen bereits dem Grunde nach unberechtigt. Denn die Beklagte als Herstellerin des Fahrzeugs haftet dem Kläger nicht auf Schadensersatz im Zusammenhang mit einer etwaig unzulässigen Abschalteinrichtung des zugekauften Motors.Der Kläger konnte die Voraussetzungen eines Schadensersatzanspruches nicht hinreichend substantiiert darlegen, dies gilt insbesondere für die subjektiven Voraussetzungen der grundsätzlich in Betracht kommenden deliktischen Schadensersatzansprüche (Kenntnis/Vorsatz des Schädigers). Denn der Kläger lässt im Wesentlichen unberücksichtigt, dass die Beklagte den streitgegenständlichen Motor nicht entwickelt hat. Seine Schlussfolgerung, Vorstandsmitglieder der Beklagten müssten zwangsläufig Kenntnis von der verbauten Software gehabt haben, stützt er im Wesentlichen auf die Annahme, die Beklagte sei Teil des Volkswagenkonzerns.I. Dem Kläger steht ein Anspruch aus den §§ 826, 31 BGB bzw. § 823 Abs. 2 BGB gegen die Beklagte auf Rückzahlung des Kaufpreises abzüglich einer Nutzungsentschädigung Zug um Zug gegen Rückgabe und Rückübereignung des von der Beklagten hergestellten Pkw nicht zu.Ein Schadensersatzanspruch wegen vorsätzlicher sittenwidriger Schädigung nach § 826 BGB setzt grundsätzlich Schädigungsvorsatz voraus. Der erforderliche Vorsatz bezieht sich darauf, dass durch eine Handlung bzw. Unterlassung einem anderen ein Schaden zugefügt wird (Sprau, in: Palandt, 77. Aufl., § 826 Rz. 10); für einen Anspruch aus § 823 Abs. 2 BGB i.V.m. § 263 StGB ist die Feststellung eines Täuschungsvorsatzes erforderlich. Danach wäre in beiden Fällen Kenntnis der Beklagten davon erforderlich, dass in dem streitgegenständlichen Motor eine tatsächlich unzulässige Software zur Optimierung des Stickstoffausstoßes verbaut/installiert war. Umstände dafür, dass der Vorstand, ein Mitglied des Vorstandes oder ein anderer verfassungsmäßig berufener Vertreter im Sinne des § 31 BGB der Beklagten Kenntnis von einer solchen Software hatte, hat der Kläger nicht plausibel vorgetragen. Auch hat er keine Umstände vorgetragen, die eine Kenntnis der vorgenannten Personen besonders naheliegend erscheinen lassen. Der Kläger argumentiert vor allem mit der Struktur des Volkswagenkonzerns und den personellen, tatsächlichen und rechtlichen Verflechtungen sowie dem Erkenntnisstand rund um den sog. "Konzernmotor" (EA 189).Diesen zwingenden Rückschluss des Klägers vermag die Kammer indes auch weiterhin nicht zu ziehen. Unzweifelhaft hat die Beklagte den im Streit stehenden Motor weder entwickelt, noch gebaut. Soweit der Kläger ins Feld führt, die Beklagte würde den zugekauften Motor vor Einbau in seine Fahrzeuge modifizieren, ist dies Vortrag ins Blaue; zudem würde dies nicht zwingend den Schluss zulassen, dass bei der Beklagten Kenntnis der (unzulässigen) Vorrichtung bestehen müsste, zumal die Klägerin auch nicht substantiiert darlegt, was sie mit "modifizieren" genau meint.Dies vorausgesetzt, ist es allerdings keineswegs zwingend, dass Mitglieder des Vorstandes oder andere verfassungsmäßig berufene Vertreter der Beklagten Kenntnis von der Verwendung der Software hatten. Der Kläger berücksichtigt bei seinen Rückschlüssen nicht hinreichend, dass er vorliegend nicht die Entwicklerin des Motors, die I AG, oder die Konzernmutter in Anspruch nimmt. Die Kammer ist zwar der Auffassung, dass es durchaus naheliegend sein dürfte, dass Vorstandsmitglieder der I AG Kenntnis vom Vorhandensein der etwaig unzulässigen Software hatten, da es schlechterdings kaum vorstellbar ist, dass wesentliche "Funktionen" des Motors den Vorstandsmitgliedern des entwickelnden Unternehmens unbekannt geblieben sein sollen. Für die Beklagte, die die von einem anderen Unternehmen entwickelten Motoren lediglich in ihren Fahrzeugen verbaut, vermag die Kammer diesen zwingenden Rückschluss indes nicht zu ziehen. Dabei verkennt die Kammer auch nicht, dass die Beklagte konzernangehöriges Tochterunternehmen der C AG bzw. "Schwesterunternehmen" der I AG ist. Aus diesem Umstand allein kann aber nicht der Rückschluss gezogen werden, die Vorstände eines jeden Tochterunternehmens seien über die Funktionsweise der von einer Konzerngesellschaft entwickelten Komponenten notwendigerweise umfassend informiert bzw. - so die ins Blaue hinein aufgestellte Vermutung des Klägers - es sei einvernehmlich zwischen sämtlichen Vorständen aller Konzerngesellschaften in Kenntnis aller Umstände verabredet und vereinbart worden, eine unzulässige Abschaltvorrichtung in sämtliche Motoren des Konzerns und damit in letztlich in alle Dieselfahrzeuge einzubauen.Auch besteht nicht zulasten der Beklagten, die aufgrund der nicht durch sie erfolgten Entwicklung des Motors eine Kenntnis vom Vorliegen einer unzulässigen Software bestreitet, eine weitergehende sekundäre Darlegungslast. Auch dies mag im Rahmen eines Verfahrens gegen die C AG betreffend Motoren des Typs EA 189 unter Umständen anders zu beurteilen sein, weil die Entwicklung des Motors notwendigerweise die Kenntnis von der Optimierungssoftware voraussetzt, weshalb es der C AG in solchen Verfahren obliegen dürfte, im Einzelnen dazu vorzutragen, welcher Mitarbeiter Kenntnis vom Vorliegen der Software hatte; entsprechendes könnte daher auch für die Entwicklerin des hier im Streit stehenden Motortyps gelten. Da hinsichtlich der hiesigen Beklagten mangels Entwicklung durch sie aber schon nicht zwingend angenommen werden kann, dass überhaupt irgendwelche Mitarbeiter oder Vorstandsmitglieder entsprechende Kenntnisse hatten, kann von der Beklagten auch kein weitergehender, über das Bestreiten hinausgehender Vortrag verlangt werden. Insofern kann die im Zusammenhang mit der Haftung der Konzernmutter diskutierte und von vielen Gerichten - auch dem erkennenden - im Sinne der jeweiligen Kläger beantwortete Frage, welche sich auf den "Konzernmotor" EA 189 bezieht, nicht übertragen werden.Soweit überdies eine Kenntnis von der im Streit stehenden Software von Vorstandsmitgliedern oder verfassungsmäßig berufenen Vertretern der C AG oder der I AG in Betracht kommt, ist diese der Beklagten nicht ohne weiteres zuzurechnen. Auch wenn es sich insoweit um Mutter- und Tochterunternehmen bzw. Schwesterunternehmen handelt, ist die rechtliche Selbstständigkeit jedes einzelnen Unternehmens zu berücksichtigen. Nur aufgrund einer Verflechtung von Unternehmen im Konzern kann nicht jedem konzernangehörigen Unternehmen die Kenntnis von Vorstandsmitgliedern und verfassungsgemäß berufenen Vertretern der jeweils anderen Unternehmen grenzenlos zugerechnet werden.II. Mangels Bestehens des Hauptanspruches bestehen auch keine weiteren Ansprüche.Die Nebenentscheidungen folgen aus §§ 91 Abs. 1, 709 ZPO.Rechtsbehelfsbelehrung:Gegen dieses Urteil ist das Rechtsmittel der Berufung für jeden zulässig, der durch dieses Urteil in seinen Rechten benachteiligt ist,1. wenn der Wert des Beschwerdegegenstandes 600,00 EUR übersteigt oder2. wenn die Berufung in dem Urteil durch das Landgericht zugelassen worden ist.Die Berufung muss innerhalb einer Notfrist von einem Monat nach Zustellung dieses Urteils schriftlich bei dem Oberlandesgericht Hamm, Heßlerstr. 53, 59065 Hamm, eingegangen sein. Die Berufungsschrift muss die Bezeichnung des Urteils (Datum des Urteils, Geschäftsnummer und Parteien) gegen das die Berufung gerichtet wird, sowie die Erklärung, dass gegen dieses Urteil Berufung eingelegt werde, enthalten.Die Berufung ist, sofern nicht bereits in der Berufungsschrift erfolgt, binnen zwei Monaten nach Zustellung dieses Urteils schriftlich gegenüber dem Oberlandesgericht Hamm zu begründen.Die Parteien müssen sich vor dem Oberlandesgericht Hamm durch einen Rechtsanwalt vertreten lassen, insbesondere müssen die Berufungs- und die Berufungsbegründungsschrift von einem solchen unterzeichnet sein.Mit der Berufungsschrift soll eine Ausfertigung oder beglaubigte Abschrift des angefochtenen Urteils vorgelegt werden.
+			
+			
+			
+			Permalink: https://openjur.de/u/2382593.html (https://oj.is/2382593)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

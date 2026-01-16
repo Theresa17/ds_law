@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 20.12.2019 - 4 O 171/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 20.12.2019 - 4 O 171/19
+                      m. Fundstelle
+                      LG Köln, Urteil vom 20.12.2019 - 4 O 171/19 = openJur 2020, 2776
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 20.12.2019 - 4 O 171/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 2776
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckende Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatz im Zusammenhang mit einem vom sog. "Abgasskandal" betroffenen Personenkraftwagen.Der Kläger kaufte am 09.04.2014 das seinerzeit fabrikneue Fahrzeug vom Typ T mit der FIN ...76 zu einem Kaufpreis von 28.300,00 EUR.In dem vorgenannten Fahrzeug war ein Dieselmotor vom Typ EA189 verbaut, den die Beklagte für ihre eigene Automarke sowie für die ihrer Konzernschwestern - u.a. der hier betroffenen Marke T - entwickelt hatte. In der Motorensteuerungssoftware war ein Unterprogramm enthalten, welches an den Lenkbewegungen erkennen konnte, ob das Fahrzeug auf einem Rollprüfstand betrieben wird. Erkannte sie dies, schaltete die Motorsteuerung von dem im normalen Fahrbetrieb auf der Straße gebräuchlichen Modus 0 in den Modus 1: Wird der Motor im Modus 1 betrieben, stößt er weniger Stickoxide (NOx) aus als im Modus 0. Beim Betrieb im Modus 1 erfüllt der Motor die gesetzlichen Vorgaben der Euroabgasklasse 5, im Modus 0 hingegen nicht.Diese differenzierte Betriebsart des Motors EA189 war dem Kläger sowie dem Rest der Öffentlichkeit unbekannt. Erst im Jahr 2014 wurde eine breitere Öffentlichkeit darauf aufmerksam, nachdem Messungen von Wissenschaftlern der West Virginia University in den USA weit höhere Stickoxid-Werte ergeben hatten als im Prospekt angegeben. Am 22.09.2015 veröffentlichte die Beklagte eine Adhoc-Mitteilung betreffend das Unterprogramm. In der Folge ordnete das Kraftfahrtbundesamt den Rückruf der betroffenen Fahrzeuge an.Wegen gleichgelagerter Ansprüche ist beim OLG Braunschweig - Az. 4 MK 1/18 - eine Musterfeststellungsklage im Sinne von §§ 606 ff. ZPO anhängig.Am Tag vor mündlichen Verhandlung hatte das fragliche Fahrzeug eine Laufleistung von 184.366 km.Der Kläger behauptet, der Beklagten sei seit 2007 bekannt, dass es sich bei der zuvor dargestellten Programmierung um eine unzulässige Abschalteinrichtung im Sinne von Art. 3 Nr. 10 der EG-VO Nr. 715/2007 handele. Es sei ausgeschlossen, dass irgendwelche "nachrangigen Motorentwickler" diese Manipulation ohne Kenntnis des Vorstandes vorgenommen hätten.Er ist der Auffassung, die geltend gemachten Ansprüche seien jedenfalls deshalb nicht verjährt, weil deren Ablauf durch die Anmeldung zur Musterfeststellungsklage vor dem OLG Braunschweig rechtzeitig gehemmt worden sei. Hierzu behauptet er, sich der beim OLG Braunschweig geführten Musterfeststellungsklage bereits im Jahr 2018 angeschlossen zu haben. Den Anschluss hätten seine Prozessbevollmächtigten dann am 04.04.2019 rechtswirksam zurückgenommen.Er beantragt,1. die Beklagte zu verurteilen, Zug um Zug gegen Herausgabe und Übereignung des FahrzeugsMarke: TTyp: T1Fahrzeug-Identifizierungsnummer: ...76an ihn einen Betrag in Höhe von 28.300,00 EUR nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen;2. Die Beklagte wird verurteilt, an ihn Zinsen in Höhe von 4 % aus 28.300,00 EUR seit dem 09.04.14 bis zu Beginn der Rechtshängigkeit zu bezahlen;3. festzustellen, dass sich die Beklagte mit der Annahme der in dem Klageantrag zu 1) genannten Zugum-Zug-Leistung im Annahmeverzug befindet;4. die Beklagte zu verurteilen, die Kosten des außergerichtlichen Vorgehens in Höhe von 2.077,74 EUR nebst Zinsen in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklagte beantragt,die Klage abzuweisen.Sie beruft sich auf die Einrede der Verjährung. Sie ist der Auffassung, auf die Hemmungswirkung infolge des Anschlusses zur Musterfeststellungsklage könne sich der Kläger wegen § 242 BGB nicht berufen, da dies treuwidrig sei. Dies folge daraus, dass der Anschluss nur zur Verjährungshemmung erfolgt sei, nicht aber zur Rechtsverfolgung in jenem Verfahren.Im Übrigen ist sie der Auffassung, ein relevanter Fehler des Fahrzeugs sei nicht gegeben, da dieses nach wie vor über eine zulässige EG-Typengenehmigung verfüge und sich sicher im allgemeinen Straßenverkehr gebrauchen lasse. Hierfür käme es allein auf die Werte des Fahrzeugs, welche auf dem Rollprüfstand gemessen werden, an, nicht hingegen auf den realen Verbrauch im Gebrauch auf der Straße. Sie behauptet, ein Verlust der Typengenehmigung drohe auch nicht.Sie meint außerdem, es handele sich nicht um eine Abschaltvorrichtung, da die Software, welche die Ausführung eines Fahrzyklus auf dem Rollprüfstand erkenne, nicht Bestandteil des Emissionskontrollsystems sei und diesen daher auch nicht abschalten könne. Sie behauptet, das vom Hersteller angebotene Softwareupdate sei geeignet und ausreichend, um die im Betriebsmodus 0 erhöhten Stickoxidausstoß ausreichend zu verringern und so einen eventuellen Mangel zu beseitigen. Dadurch entstünden Kosten von weniger als 1 % des Anschaffungspreises des gegenständlichen Fahrzeugs und die Anpassung der Software habe auch keine negativen Auswirkungen auf die Leistung des Motors.Hinsichtlich des weiteren Sachvortrages der Parteien wird auf die gewechselten Schriftsätze nebst Anlagen verwiesen.Die Klageschrift ist am 13.05.2019 beim Landgericht Köln eingegangen (vgl. Bl. 1 GA) und der Beklagten am 19.06.2019 (vgl. Bl. 55 GA) zugestellt worden. 
+				Gründe
+				Die Klage ist zulässig, hat in der Sache keinen Erfolg.Dabei kann es letztlich dahinstehen, ob dem Kläger gegen die Beklagte ein Anspruch auf Ersatz des geltend gemachten Schadens zusteht oder nicht, da sämtliche Ansprüche jedenfalls dauerhaft nicht durchsetzbar sind. Insofern beruft sich die Beklagte erfolgreich auf die Einrede der Verjährung.Es kommen allenfalls deliktische Ansprüche - insbesondere aus § 826 BGB - in Betracht. Diese sind jedenfalls verjährt.Der Beginn der Verjährung richtet sich nach § 199 Abs. 1 BGB, beginnt also mit dem Schluss des Jahres, in dem der Anspruch entstanden ist (Nr. 1) und die Klägerin bzw. ihre Organvertreter von den den Anspruch begründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste (Nr. 2). Letzteres war spätestens im Laufe des Jahres 2015, als die Beklagte die den sog. "Abgasskandal" betreffende Adhoc-Mitteilung herausgab und das KBA den Rückruf der betroffenen Fahrzeuge anordnete, der Fall. Angesichts des gerichtsbekannt erheblichen Echos in den allen Medienformen - TV, Print, Social Media - lag mindestens dann eine grob fahrlässige Unkenntnis, wenn nicht gar positive Kenntnis, des Klägers vor, dass in dem hier gegenständlichen Fahrzeug ebenfalls die vom KBA beanstandete Umschaltlogik vorhanden war. Entsprechend begann die regelmäßige Verjährungsfrist von drei Jahren (§ 195 BGB) am 01.01.2016 und endete am 31.12.2018.Den Ablauf dieser Verjährungsfrist hat die Rechtsverfolgung im hiesigen Verfahren nicht rechtzeitig gemäß § 204 Abs. 1 Nr. 1 BGB gehemmt, nachdem die Klage am 19.06.2019 mit Zustellung an die Beklagte erhoben und auch die Klageschrift erst am 13.05.2019 beim Landgericht Köln eingegangen ist.Im Ergebnis kann sich der Kläger auch nicht auf die Hemmungswirkung durch einen Anschluss an die vor dem OLG Braunschweig geführte Musterfeststellungsklage gemäß § 204 Abs. 1 Nr. 1a BGB berufen, da dies treuwidrig wäre. Es ist anerkannt und entspricht der Rechtsprechung des BGH zu anderen Hemmungstatbeständen des § 204 Abs. 1 BGB, dass diese im Falle des Rechtsmissbrauchs keine Wirkung entfalten. Generell kann der Gläubiger sich daher nicht auf eine Verjährungshemmung berufen, wenn die dem zugrunde liegende Handlung der Rechtsverfolgung allein zu diesem Zweck vorgenommen worden ist. Ein Indiz dafür kann es sein, wenn die betroffene Rechtsverfolgungsmaßnahme kurzfristig wieder zurückgenommen wird, weil sich darin in der Regel niederschlägt, dass der Gläubiger an der Durchführung des entsprechenden Verfahrens kein Interesse hat, sondern allein die Verjährungshemmung anstrebt (so auch Mansel, WM 2019, 1621 m. w. N.; vgl. auch BGH, Urteil vom 28.10.2015 - IV ZR 526/14, NJW 2016, 233). Dass auch der Gesetzgeber bei Schaffung der §§ 606 ff. ZPO solch rein prozesstaktischen Anschlüsse vermeiden wollte, ergibt sich daraus, dass dessen Rücknahme nur bis zum Ablauf des Tages des Beginns der mündlichen Verhandlung erfolgen kann (§ 608 Abs. 3 ZPO), was im Vergleich zu einer früheren Planung im Gesetzgebungsverfahren einer deutlichen Einschränkung der Möglichkeit der Rücknahme gleichkam. Zudem widerspräche es dem Sinn und Zweck des Musterfeststellungsverfahrens, welches der Konzentration solcher Massenverfahren wie wegen des sog. "Abgasskandals" dienen sollte.Von solch einer Situation geht die Kammer im hiesigen Fall aus, wenn man von Klägerseite dargestellten Zeitablauf zugrunde legt. Danach sei der Anschluss im Jahr 2018 erklärt worden. Diesen zog er jedoch nach wenigen Monaten wieder zurück und erhob kurz danach die hiesige Klage. Dieser nur kurzfristige Anschluss erfolgte ersichtlich allein zur - kostenvorschussfreien - Verjährungshemmung, nicht weil man ernsthaft seine Rechte im Musterfeststellungsverfahren verfolgen wollte, welches bekanntermaßen wesentlich langwieriger ist als das hiesige Individualverfahren.Da der in der Hauptsache geltend gemachte Anspruch nicht besteht, fehlt auch den ebenfalls anhängigen Nebenansprüchen die Grundlage.Die prozessualen Nebenbestimmungen folgen aus §§ 91 Abs. 1 S. 1, 709 ZPO.Streitwert: 28.300,00 EUR
+			
+			
+			
+			Permalink: https://openjur.de/u/2196746.html (https://oj.is/2196746)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert2
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

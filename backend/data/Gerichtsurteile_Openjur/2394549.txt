@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG PassauRechtsprechungEndurteil vom 05.09.2019 - 1 O 1043/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Passau, Endurteil vom 05.09.2019 - 1 O 1043/18
+                      m. Fundstelle
+                      LG Passau, Endurteil vom 05.09.2019 - 1 O 1043/18 = openJur 2022, 12874
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Passau, Endurteil vom 05.09.2019 - 1 O 1043/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 12874
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird als derzeit unzulässig abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist für die Beklagte im Kostenpunkt Ziffer 2. gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 26.250,00 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten über Schadensersatzansprüche mit dem Ziel des Klägers auf Rückabwicklung eines Kaufvertrags über den Erwerb eines Pkw im Zusammenhang mit der sog. "VW-Abgasthematik".Der Kläger erwarb am 13.03.2017 bei der Firma ... in ... einen Pkw Audi Q5, 2,0 TDI, Erstzulassung: 19.10.2012, Kilometerstand: 87.600 km, zum Preis von 26.250,00 € brutto. Die Beklagte ist nicht Herstellerin des Fahrzeugs. Dieses verfügt jedoch über einen von der Beklagten stammenden Dieselmotor des Typs EA 189, welcher zum Zeitpunkt des Verkaufs mit einer Motorsteuerungssoftware ausgestattet war, die über zwei unterschiedliche Betriebsmodi verfügte, welche die Abgasrückführung steuern. Demnach erkannte diese Motorsteuerungssoftware, ob sich der Pkw im regulären Straßenbetrieb oder auf einem Rollenprüfstand zur Durchführung des NEFZ (Neuer Europäischer Fahrzyklus) befand, wo die Einhaltung der geltenden Emissionsgrenzwerte durch den Pkw geprüft werden sollten. Im Abgasrückführungsmodus 1, welcher im NEFZ aktiv war, kam es zu einer NOX-optimierten höheren Abgasrückführungsrate, während unter den im normalen Straßenverkehr auftretenden Fahrbedingungen ein partikeloptimierter Modus 0 aktiv wurde. Der Betriebsmodus 1 wurde über die Motorsoftware selbständig in Prüfsituationen aktiviert. Das streitgegenständliche Fahrzeug verfügt über eine Euro-5-Typengenehmigung.Die Beklagte bot dann für die Dieselmotoren des Typs EA 189 auf Herstellerkosten die Durchführung eines Softwareupdates an, welches dazu führte, dass das Fahrzeug sich durchgehend sowohl im regulären Straßenbetrieb als auch auf dem Prüfstand in einem adaptierten Modus 1 befindet. Das von der Beklagten bereitgestellte Softwareupdate wurde auf das Fahrzeug des Klägers zwischenzeitlich aufgespielt.Der Kläger ist der Auffassung, dass sein Fahrzeug zum Kaufzeitpunkt eine unzulässige Abschalteinrichtung aufgewiesen habe, die dem sog. "Abgasskandal" zugrunde liege. Die Beklagte habe die Messwerte für NOX manipuliert, um so die Grenzwerte der Euro 5-Norm zum Zweck der Erlangung der EU-Typengenehmigung einzuhalten. Der Kläger besitze nunmehr ein Fahrzeug, das tatsächlich einen erheblich höheren Schadstoffausstoß aufweise als herstellerseitig angegeben. Das Fahrzeug sei nicht zulassungsfähig und verfüge über keine wirksame allgemeine Betriebserlaubnis; die tatsächlichen Abgasgrenzwerte für die Euro-5-Norm seien im regulären Fahrbetrieb nicht eingehalten. Der Kläger sei jederzeit dem Risiko ausgesetzt, dass die Betriebserlaubnis entzogen werde. Er müsse künftig auch mit einer Erhöhung der Kfz-Steuer rechnen. Zudem liege ein erheblicher Wertverlust vor. Das angebotene Softwareupdate führe seinerseits zu Leistungseinbußen bei dem Fahrzeug, einem erhöhten Kraftstoffverbrauch und einem höheren CO2-Ausstoß sowie zu einer Verringerung der allgemeinen Lebensdauer des Fahrzeugs wegen eines höheren Verschleißes.Der Kläger meint deswegen, dass ihm Schadensersatzansprüche gegen die Beklagte zustünden. Die Beklagte hafte ihm auf Rückzahlung des Kaufpreises Zug um Zug gegen Herausgabe des erworbenen Fahrzeugs. Durch den Einbau der Manipulationssoftware habe die Beklagte ihn in vorsätzlicher und sittenwidriger Weise getäuscht. Sein Vermögensschaden liege darin, dass er bei Kenntnis der wahren Sachlage das Fahrzeug nicht gekauft hätte und dieses weniger wert sei als ein Fahrzeug ohne einen derartigen Mangel. Er sei daher im Wege der Naturalrestitution so zu stellen, als ob er das Fahrzeug nie erworben hätte. Die Beklagte hafte daher wegen vorsätzlicher sittenwidriger Schädigung nach § 826 BGB. Zudem sei von den Organen der Beklagten der Tatbestand des Betrugs gegenüber dem Kläger erfüllt, § 823 Abs. 2 BGB i.V.m. § 263 StGB. Eine Nutzungsentschädigung - sofern man entgegen der Rechtsansicht des Klägers eine solche in Anrechnung bringen wolle - könne vom Kläger der Höhe nach noch nicht bestimmt werden. Deshalb, und weil weitere Schadensersatzansprüche bestehen könnten, sei die Erhebung einer Feststellungsklage zulässig.Der Kläger beantragt zuletzt:Es wird festgestellt, dass die Beklagtenpartei verpflichtet ist, der Klägerpartei Schadensersatz zu leisten für Schäden, die aus der Manipulation des Fahrzeugs Audi Q5 (Fahrzeugidentifikationsnummer: ...) durch die Beklagtenpartei resultieren.Die Beklagte wird verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.307,51 € freizustellen.Hilfsweise:Die Beklagte wird verurteilt, an den Kläger 26.250,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu bezahlen Zug um Zug gegen Übereignung und Herausgabe des streitgegenständlichen Fahrzeugs (...).Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte meint zunächst, der Feststellungsantrag sei bereits unzulässig, weil dem Kläger die Erhebung einer - vorrangigen - Leistungsklage insoweit möglich sei.Die Klage sei aber auch in der Sache unbegründet. Die Beklagte ist dabei der Auffassung, dass der Kläger keine Ansprüche gegen sie habe, da sie ihn weder sittenwidrig geschädigt noch getäuscht habe. Das streitgegenständliche Fahrzeug sei technisch sicher und fahrbereit. Für die Einhaltung von Emissionsgrenzwerten im normalen Straßenbetrieb gäbe es keine gesetzliche Vorgabe, so dass der Pkw keinen höheren Schadstoffausstoß als angegeben aufweise. Durch die ursprünglich vorhandene Software sei die Sicherheit oder Gebrauchstauglichkeit des Fahrzeugs nicht beeinträchtigt gewesen. Eine Wertminderung sei nicht festzustellen, ebenso wenig drohe ein Entzug der Typengenehmigung. Durch das angebotene Softwareupdate sei die vom Kläger monierte Umschaltlogik mit geringstem Aufwand beseitigt worden, ohne dass sich negative Auswirkungen auf Kraftstoffverbrauch, CO2-Emissionen, Motorleistung, Drehmoment oder Geräuschemissionen ergeben würden. Das Update sei deswegen zumutbar, zumal es kostenfrei zur Verfügung gestellt worden sei. Zugunsten des Klägers bestünden daher weder deliktische Schadensersatzansprüche noch - mangels vertraglicher Beziehungen zwischen den Streitteilen - solche aus Gewährleistungsrecht. Insbesondere ein Schaden sei dem Kläger nicht entstanden. Die Beklagte habe auch nicht sittenwidrig gehandelt.Zur Ergänzung, Vertiefung und Vervollständigung wird auf die wechselseitigen Schriftsätze der Parteien nebst Anlagen sowie auf das Protokoll zur mündlichen Verhandlung vom 01.08.2019 Bezug genommen.Eine Beweisaufnahme hat nicht stattgefunden. Das Gericht hat den Kläger informatorisch angehört. Zum Ergebnis hierzu wird auf das Protokoll zum Termin vom 01.08.2019 verwiesen. Mit Beschluss vom 06.05.2019 wurde der Rechtsstreit von der Kammer übernommen.Der Bundesverband der Verbraucherzentralen und Verbraucherverbände hat gegen die Beklagte im Zusammenhang mit der streitgegenständlichen Motorsteuerungssoftware eine Musterfeststellungklage zum Oberlandesgericht Braunschweig erhoben (Geschäftszeichen: 4 MK 1/18), welche am 26.11.2018 öffentlich bekannt gemacht wurde. Der Kläger hat sich am 28.11.2018 zum Klageregister der Musterfeststellungsklage angemeldet. Seine verfahrensgegenständliche Klage hat der Kläger am 19.12.2018 bei dem Landgericht Passau eingereicht. Wegen seiner Anmeldung zur Musterfeststellungsklage hat der Kläger im Termin vom 01.08.2019 Frist zur Nachreichung von Unterlagen bis 08.08.2019 erhalten. Mit Schriftsatz vom 26.08.2019, bei Gericht eingegangen per Fax am 26.08.2019 und im Original am 28.08.2019, hat der Kläger mitgeteilt, seine Anmeldung zum Klageregister der Musterfeststellungsklage am 26.08.2019 zurückgenommen zu haben. 
+				Gründe
+				Die Klage ist jedenfalls derzeit unzulässig. Unzulässig erweist sich aus weiteren Gründen zudem der gestellte Hauptantrag (Feststellung), der Hilfsantrag (Leistung) wäre jedenfalls auch unbegründet.I.1. Das Landgericht Passau ist für die Entscheidung sachlich gemäß §§ 23 Nr. 1, 71 Abs. 1 GVG und örtlich gemäß § 32 ZPO zuständig.2. Prozesshindernis wegen Anmeldung zur MusterfeststellungsklageDie Klage ist derzeit bereits unzulässig.Der Kläger hat sich am 28.11.2018 zum Klageregister der durch den Bundesverband der Verbraucherzentralen und Verbraucherverbände erhobenen Musterfeststellungsklage vor dem Oberlandesgericht Braunschweig (Gz. 4 MK 1/18) angemeldet, § 608 ZPO. Die Musterfeststellungsklage war am 26.11.2018 öffentlich bekannt gemacht worden, § 607 ZPO. Erst mit Schriftsatz seiner Prozessbevollmächtigten vom 19.12.2018, eingegangen bei dem Landgericht Passau am selben Tag, hat der Kläger gegen die Beklagte wegen des auch der Musterfeststellungsklage zugrunde liegenden Lebenssachverhalts Individualklage eingereicht, welche am 18.01.2019 der Beklagten zugestellt worden ist.Gemäß § 610 Abs. 3 ZPO kann während der Rechtshängigkeit der Musterfeststellungsklage ein angemeldeter Verbraucher keine Klage erheben, deren Streitgegenstand denselben Lebenssachverhalt und dieselben Feststellungsziele betrifft, wie dies hier jedoch der Fall ist. Nach § 610 Abs. 3 ZPO entfaltet eine rechtshängige Musterfeststellungsklage für Individualklagen angemeldeter Verbraucher eine Sperrwirkung (Musielak/Voit, ZPO, 16. Aufl. 2019, § 610 Rn. 5) und statuiert ein Prozesshindernis, welches zur Klageabweisung als (derzeit) unzulässig führt (Musielak/Voit a.a.O. § 613 Rn. 6).Lediglich der Fall, dass ein Verbraucher, der von dem Massenschadensereignis betroffen ist, bereits vor der Musterfeststellungsklage eine individuelle Feststellungs- oder Leistungsklage erhoben hat, ist in § 613 Abs. 2 ZPO geregelt und führt zur Aussetzung des Individualprozesses. Stichtag ist die Bekanntmachung der Musterfeststellungsklage nach § 607 Abs. 1 ZPO (Musielak/Voit a.a.O. § 613 Rn. 6). Hier hat der Kläger die verfahrensgegenständliche Klage bei dem erkennenden Gericht erst am 19.12.2018 eingereicht, mithin nach öffentlicher Bekanntmachung der gegen die Beklagte bei dem Oberlandesgericht Braunschweig geführten Musterfeststellungsklage und auch zeitlich nach seiner eigenen Anmeldung zu dem Klageregister der Musterfeststellungsklage.Die Rücknahme seiner Anmeldung zum Klageregister der Musterfeststellungsklage hat der Kläger überhaupt erst am 26.08.2019 erklärt (vgl. Schriftsatz vom 26.08.2019) und damit nach Schluss der mündlichen Verhandlung und auch nicht mehr innerhalb der im Termin vom 01.08.2019 nachgelassenen Schriftsatzfrist bis 08.08.2019.Die verfahrensgegenständlich erhobene Klage ist folglich (derzeit) unzulässig sowohl im Haupt- als auch im Hilfsantrag.3. Hauptantrag unbestimmt; Leistungsklage vorrangigUngeachtet der vorstehenden Ausführungen erweist sich der Hauptantrag Ziffer 1. der Klageschrift vom 19.12.2018, mit dem die Feststellung der Schadensersatzpflichtigkeit der Beklagten "wegen Manipulation" des streitgegenständlichen Kraftfahrzeugs begehrt wird, auch aus weiteren Gründen als unzulässig. Denn der Klageantrag ist einerseits zu unbestimmt. Andererseits fehlt ihm auch das gemäß § 256 Abs. 1 ZPO erforderliche besondere Feststellungsinteresse; der Kläger hätte - worauf die Beklagtenpartei schon in der Klageerwiderung hingewiesen hat - hier die grundsätzlich vorrangige Leistungsklage erheben können.a. Der Feststellungsantrag Ziffer 1. der Klage vom 19.12.2018 ist wegen Unbestimmtheit unzulässig.Auch eine Feststellungsklage muss den Anforderungen des § 253 ZPO genügen. Insbesondere muss der Klageantrag im Sinne von § 253 Abs. 2 Nr. 2 ZPO bestimmt sein, denn der Umfang der Rechtshängigkeit und der Rechtskraft muss feststehen. Die erforderliche Bestimmtheit verlangt, dass das festzustellende Rechtsverhältnis genau bezeichnet wird. Dazu genügt es, dass der Kläger die rechtsbegründenden Tatsachen näher angibt. Soweit es sich um Schadensersatzansprüche handelt, ist eine bestimmte Bezeichnung des zum Ersatz verpflichtenden Ereignisses erforderlich (BGH, Urteil vom 10. Januar 1983 - VIII ZR 231/81 -, Rn. 39 ff. m.w.N., juris).Diesen Anforderungen genügt der Feststellungsantrag aus der Klage vom 19.12.2018 nicht.Der Antrag festzustellen, dass die Beklagtenpartei verpflichtet ist, der Klägerpartei "Schadenersatz zu leisten für Schäden, die aus der Manipulation des Fahrzeugs ... durch die Beklagtenpartei resultieren", ist unbestimmt und damit unzulässig. Diesem Antrag fehlt es bereits an einer bestimmten Bezeichnung des zum Ersatz verpflichtenden Ereignisses. Er lässt nicht erkennen, aufgrund welcher konkreten "Manipulation" eine Schadensersatzpflicht festgestellt werden soll (vgl. OLG München, Beschluss vom 12.06.2018, Az.: 8 U 3169/17). Es ist im Anwaltsprozess auch nicht Aufgabe des Gerichts, unbestimmte Anträge der Parteien so auszulegen, dass sie zulässig werden (Anschluss an BGH, NJW 1983, 2247).b. Es fehlt jedoch aus das besondere Feststellungsinteresse im Sinne von § 256 Abs. 1 ZPO, nachdem es dem Kläger möglich und zumutbar wäre, eine - vorrangige - Leistungsklage zu erheben. Die Kammer schließt sich auch insoweit der vorerwähnten Entscheidung des OLG München in seinem Beschluss vom 12.06.2018, Az. 8 U 3169/17, an.Die Feststellungsklage ist danach aus den nachstehenden Erwägungen unzulässig, weil der Kläger dasselbe Ziel mit einer - vorrangigen - Leistungsklage erreichen könnte (OLG München a.a.O.).aa. Eine Ausnahme von diesem Grundsatz besteht dann, wenn davon ausgegangen werden kann, dass eine Erledigung der Streitpunkte durch ein rechtskräftiges Feststellungsurteil zu erwarten ist (z.B. BGH NJW 1996, 2727; vgl. BeckOK ZPO/Bacher ZPO § 256 Rn. 26-30.1, beck-online; wohl enger BGH, Urteil vom 24.1.2017 - XI ZR 183/15: Es müsse im konkreten Fall gesichert sein, dass auch ein bloßes Feststellungsurteil die Meinungsverschiedenheiten der Parteien endgültig bereinige).Dafür ist vorliegend schon deshalb nichts ersichtlich, weil der Kläger geltend macht, seinen Gesamtschaden noch nicht abschließend beziffern zu können, sodass auch nicht erwartet werden kann, dass die Streitpunkte durch ein rechtskräftiges Feststellungsurteil erledigt werden. Hinzu kommt, dass im Streitfall das Vorbringen der Parteien in den ganz überwiegenden Punkten streitig ist, so dass auch deshalb nicht zu erwarten ist, dass die Beklagte auf ein Feststellungsurteil hin ihren - unterstellten - rechtlichen Verpflichtungen nachkommen würde.bb. Eine Feststellungsklage ist daneben dann zulässig, wenn die Schadensentwicklung noch nicht abgeschlossen ist und der Kläger seinen Anspruch deshalb ganz oder teilweise nicht beziffern kann (BGH NJW 1984, 1552 (1554); für eine Freistellungsklage BGH BeckRS 2013, 11005 Rn. 14; NJW 1996, 2725 (2726)). Ist bereits ein Teil des Anspruchs bezifferbar, steht es dem Kläger frei, diesen Teil durch Leistungsklage und den Rest durch einen ergänzenden Feststellungsantrag geltend zu machen. Er darf stattdessen aber auch den gesamten Anspruch im Wege der Feststellungsklage einklagen (BGH NJW 1984, 1552 (1554); NJW-RR 1988, 445). Dies gilt auch dann, wenn der Schaden bereits eingetreten ist, aber noch nicht geklärt ist, auf welche Weise und mit welchen Kosten er behoben werden kann (BGH NJW-RR 2008, 1520; vgl. zum Ganzen BeckOK ZPO/Bacher ZPO § 256 Rn. 26-30.1, beck-online).Im Streitfall ist jedoch ausweislich der Klagebegründung die Rückgabe des Fahrzeugs gegen Erstattung des Kaufpreises das vorrangig vom Kläger verfolgte Ziel, bei welcher die Leistungen Zug um Zug zurückzugewähren sind. Soweit der Kläger für die Zeit der Nutzungsdauer eine Nutzungsentschädigung zu zahlen hat, ist der Kammer aus zahlreichen vergleichbaren Fällen bekannt, dass er diese schätzen oder durch einen Sachverständigen feststellen lassen kann.Soweit der Kläger meint, dass er Anspruch auf Ersatz weiterer Schäden habe, die bis heute nicht bezifferbar seien, insbesondere drohende steuerliche Schäden, hat er nicht schlüssig dargelegt, welche Steuernachforderungen in seinem Fall zu gewärtigen sind.Da dem Kläger im Fall der Rückabwicklung des Kaufvertrages der Kaufpreis zurückzuerstatten ist, den er beziffern kann, ist die Klage schon unzulässig. Auch eine etwaige Vorteilsausgleichung ändert daran nicht, da auch ein solcher Vorteil bereits heute bezifferbar wäre. Da es bereits an schlüssigem Klagevortrag zu konkreten einzelnen Schadensersatzpositionen fehlt, kann darauf das Feststellungsinteresse des Klägers nicht mit Erfolg gestützt werden.II.Soweit der Kläger hilfsweise Leistungsantrag auf Rückzahlung des Kaufpreises Zug um Zug gegen Übereignung und Herausgabe des streitgegenständlichen Fahrzeugs gestellt hat, erweist sich die - auch insoweit unzulässige Klage (vgl. oben Ziffer 1.2.) - jedenfalls als unbegründet, wel es an einer Haftung dem Grunde nach fehlt. Deswegen hat der Kläger überdies auch keine Ansprüche auf Erstattung (Freistellung) seiner vorgerichtlichen Rechtsanwaltskosten. Der Kläger hat gegen die Beklagte keine - gegenwärtigen oder künftigen - Schadensersatzansprüche.1. Ein Schadensersatzanspruch ergibt sich nicht aus § 826 BGB. Zwar kommt bei - unterstellter - Veranlassung einer unzulässigen Abschaltvorrichtung durch verfassungsmäßig berufene Vertreter der Beklagten durchaus Sittenwidrigkeit bzw. ein Schädigungsvorsatz in Betracht. Vorliegend ist der Kläger aber unstreitig nicht Vertragspartner der Beklagten, sondern des Kfz-Händlers, der ihm gegenüber als Verkäufer des Fahrzeugs aufgetreten ist (Anlage K 50). Bei der Fa. ... handelt es sich um eine selbständige Rechtsperson, die als Verkäuferin aufgetreten ist. Daraus folgt, dass es sich bei dem Kläger jedenfalls nicht um den Ersterwerber des Fahrzeugs handelt. Die Erstzulassung des Fahrzeugs datiert ausweislich der Anlage K 50 bereits vom 19.10.2012 und hat damit bereits deutlich vor dem Erwerb des Pkw durch den Kläger am 13.03.2017 stattgefunden.Da der Pkw mit der streitgegenständlichen Motorsteuerungssoftware schon mit dem Verkauf an den Ersterwerber und Zulassung auf ihn in Verkehr gebracht wurde und der vom Kläger geltend gemachte Schaden aus dem Fahrzeugminderwert wegen dieser Motorsteuersoftware abgeleitet wird, ist der - nach dem Vorbringen des Klägers unterstellte - Schaden mithin schon beim Ersterwerber eingetreten. Folglich hat der Kläger den Schaden lediglich entdeckt, ohne dass er deswegen an die Stelle des eigentlich geschädigten Ersterwerbers tritt. Weder ist vorliegend ersichtlich oder vorgetragen, dass etwaige Schadensersatzansprüche des Ersterwerbers abgetreten wurden, noch liegt hier ein Fall der sog. Drittschadensliquidation durch den Kläger vor. Das Auseinanderfallen von Geschädigtem und Anspruchsinhaber müsste dabei nämlich auf einer zufälligen Schadensverlagerung beruhen, woran es im Regelfall des Pkw-Erwerbs vom Händler fehlt.2. Ein Schadensersatzanspruch des Klägers folgt des Weiteren nicht aus §§ 823 Abs. 2, 31 BGB i.V.m. § 263 StGB. Zwar trifft es zu, dass der Betrugstatbestand ein Schutzgesetz i.S.d. § 823 Abs. 2 BGB ist. Jedoch fehlt es schon an einer zurechenbaren, unmittelbaren oder mittelbaren Täuschung des Klägers. Unstreitig ist der Kläger bei Abschluss des gegenständlichen Kaufvertrags nicht mit der Beklagten selbst, sondern mit einem dazwischen geschalteten Pkw-Händler in Kontakt getreten. Eine vom Hersteller ausgehende Täuschung im Sinne des Betrugstatbestandes würde deswegen nur dann vorliegen, wenn der Händler als Werkzeug für eine Täuschung durch die verfassungsmäßigen Organe des Beklagten instrumentalisiert worden wäre. Hierzu wurde weder substantiiert vorgetragen, noch ist dies sonst aus der Akte - oder der allgemeinen Lebenserfahrung - ersichtlich oder auch nur naheliegend.Im Übrigen fehlt es an der erforderlichen Stoffgleichheit von erstrebtem Vermögensvorteil und Vermögensschaden i.S.v. § 263 StGB. Durch die Kaufpreiszahlung ergibt sich ein messbarer Vermögensvorteil zunächst nur beim Autohändler, der mit dem Vermögensabfluss beim Kläger korrespondiert. Ein unmittelbarer Vermögenszufluss bei der Beklagten durch die Kaufentscheidung und deren Abwicklung ist hingegen nicht ersichtlich. Ein messbarer wirtschaftlicher Nachteil des Klägers durch den Erhalt eines - nach seinem Vortrag - mangelhaften und mit einem merkantilen Minderwert bemakelten Fahrzeugs wird zudem kompensiert durch die gleichzeitig erworbenen Nacherfüllungsansprüche gegen seinen Händler.3. Der klägerische Anspruch ergibt sich auch nicht aus §§ 823 Abs. 2 BGB i.V.m. § 27 EG-FGV. § 27 Abs. 1 EG-FGV verweist über die Richtlinie 2007/46/EG auf die Vorordnung Nr. 715/2007. Hierbei handelt es sich um kein Schutzgesetz i.S.v. § 823 Abs. 2 BGB. Insbesondere verfolgt die Verordnung (EG) Nr. 715/2007 nicht den Schutz individueller Vermögensinteressen, sondern soll der Weiterentwicklung des EG-Binnenmarkts durch Harmonisierung technischer Vorschriften über die Typengenehmigung von Kraftfahrzeugen sowie der Sicherstellung eines hohen Umweltschutzniveaus dienen (vgl. LG Köln, Urteil vom 24.05.2017, Az: 7 O 120/16 - nach JURIS). Dies ergibt sich nicht zuletzt aus der Präambel der Verordnung selbst, dort Nrn. (1), (5), (7) und (27) sowie Artikel 1 der Richtlinie 2007/46/EG vom 05.09.2007. Soweit die zitierten Normen auch zum Schutz von Individualinteressen führen, handelt es sich hierbei um Rechtsreflexe, die gerade nicht vom Normgeber als Grundlage ihres Erlasses herangezogen wurden. Ein individueller Rechtsschutz kann auch nicht, nur weil er rechtspolitisch als wünschenswert erachtet wird, in die Norm hinein gelesen werden. Dies muss gerade im Aufgabenbereich der Norm und damit in der Intension des Normgebers liegen (vgl. BGH NJW 2010, 3651 zu § 34 a WPHG).Im Übrigen gilt hier das zu § 826 BGB bereits ausgeführte. Da kein Fall der zufälligen Schadensverlagerung vorliegt, kann der Kläger als Zweiterwerber auch insoweit nicht einen etwaigen, beim Ersterwerber eingetretenen Schaden geltend machen.4. Nur ergänzend ist darauf hinzuweisen, dass sich ein Schadensersatzanspruch auch nicht aus §§ 823 Abs. 2 BGB i.V.m. § 4 Nr. 11 UWG ergibt. Auch insoweit hat die Norm keinen Drittschutz zum Zweck. Analogien zur Prospekthaftung lassen sich vorliegend ebenfalls nicht ziehen.5. Die weiteren geltend gemachten Schadenspositionen - vorprozessuale Rechtsanwaltsgebühren, welche vom Kläger mit Klageantrag Ziffer 2. begehrt werden, sowie Zinsen - sind mangels eines Hauptsacheanspruchs bzw. Verzugs nicht begründet. Ungeachtet dessen bestehen mit Blick auf den Beschluss des OLG München vom 12.06.2018, Az. 8 U 3169/17, auch Bedenken gegen die generelle Erstattungsfähigkeit der vorgerichtlichen Rechtsanwaltsgebühren. Darauf kam es jedoch letztlich nicht mehr entscheidend an. Die Klage hat sich insgesamt als abweisungsreif erwiesen.III.Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO.IV.Der Ausspruch zur vorläufigen Vollstreckbarkeit ergibt sich aus § 709 ZPO.V.Streitwert: §§ 45 Abs. 1 S. 3, 48 GKG i.V.m. 3 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2394549.html (https://oj.is/2394549)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate9
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen3
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitOLG Frankfurt am MainRechtsprechungUrteil vom 17.02.2021 - 17 U 210/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Frankfurt am Main, Urteil vom 17.02.2021 - 17 U 210/19
+                      m. Fundstelle
+                      OLG Frankfurt am Main, Urteil vom 17.02.2021 - 17 U 210/19 = openJur 2021, 14348
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Frankfurt am Main, Urteil vom 17.02.2021 - 17 U 210/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 14348
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				1. Bei der Ermittlung des den Schadensersatz mindernden Nutzungsvorteils ist das Abstellen auf den seit dem Kauf konkret (ggf. mit Hilfe eines Sachverständigengutachtens) erlittenen Wertverlust des Fahrzeugs gegenüber der Methode der Schätzung mittels einer linearen Teilwertabschreibung nach der Formel "gefahrene Kilometer x Kaufpreis / Gesamtlaufleistung" grundsätzlich vorzugswürdig. Die Anwendung der laufleistungsbezogenen Formel bildet die gerade nicht linear verlaufende Wertentwicklung unzureichend ab und kann dazu führen, dass der Geschädigte an dem Schadensfall "verdient".2. Wird nach Bekanntwerden des Dieselskandals ein hiervon betroffener Pkw veräußert, ist mangels abweichenden konkreten Vortrags davon auszugehen, dass die Veräußerung zum tatsächlichen Marktwert erfolgt. Die Differenz zwischen Anschaffungspreis und Veräußerungserlös bildet dann den Nutzungswert als Wertverzehr im Rahmen des Vorteilsausgleichs vollständig ab.3. Eine zeitweise fehlende Nutzungsmöglichkeit des Käufers begründet neben dem Anspruch auf Zahlung des Kaufpreises gegen Rückgabe des Fahrzeugs keinen (neuen) eigenständigen Anspruch auf Schadensersatz, sondern fließt in den Schadensersatzanspruch über die Betrachtung des abzuziehenden Nutzungswerts bereits ein. 
+				
+				Tenor
+				Auf die Berufung der Beklagten wird unter Zurückweisung der Anschlussberufung des Klägers das am 13. Februar 2019 verkündete Urteil des Landgerichts Gießen abgeändert und wie folgt neu gefasst:Die Klage wird abgewiesen.Die Kosten des Rechtsstreits fallen dem Kläger zur Last.Das Urteil ist vorläufig vollstreckbar.Die Revision wird nicht zugelassen.  
+				Gründe
+				I.Die Beklagte wendet sich mit ihrer Berufung gegen die Verurteilung zur Zahlung von Schadensersatz wegen des Inverkehrbringens eines mit einer unzulässigen Abschalteinrichtung für das Abgasreinigungssystem versehenen Fahrzeugs. Der Kläger verfolgt mit der Anschlussberufung sein Klageziel weiter, soweit er vor dem Landgericht erfolglos geblieben ist.Der Kläger erwarb am 7. Mai 2012 bei der X GmbH einen gebrauchten Skoda Fabia 1.6 TDI zum Preis von 11.790,00 € mit einer Laufleistung von 8.604 km, der erstmals im Jahr 2010 zugelassen worden war. Das Fahrzeug ist mit dem Dieselmotor des Typs EA 189 ausgestattet, welcher von der Beklagten entwickelt worden war. Die Motorsteuerung dieses Motors war zum Zeitpunkt des Erwerbs so programmiert, dass im Falle des Durchlaufens des Neuen Europäischen Fahrzyklus (NEFZ), welcher Teil des Typgenehmigungsverfahrens ist, die Abgasrückführung in einen NOx-optimierten Betriebsmodus (Modus 1) versetzt wurde, während sie außerhalb des NEFZ im Straßenverkehr im nicht NOx-optimierten Betriebsmodus (Modus 0) operierte. Im Modus 0 war die Abgasrückführungsrate geringer.Das Kraftfahrtbundesamt verpflichtete die Beklagte sowie die weiteren Konzernhersteller, bei Fahrzeugen, die mit dem Motor des Typs EA 189 ausgestattet waren, die "unzulässige Abschalteinrichtung" zu entfernen und dies durch geeignete Nachweise zu belegen. Die Beklagte entwickelte in der Folge ein Softwareupdate für die betroffenen Motoren, durch das das Abgasrückführungssystem überarbeitet wurde.Das Softwareupdate wurde im Januar 2019 in dem vom Kläger erworbenen Fahrzeug installiert.Der Kläger hat die Ansicht vertreten, die Beklagte sei gem. § 826 BGB, § 823 Abs. 2 BGB i.V.m. § 263 StGB, § 823 Abs. 2 BGB i.V.m. § 16 UWG, § 823 Abs. 2 BGB i.V.m. § 6 Abs. 1, 27 Abs. 1 EG-FGV zum Schadensersatz verpflichtet, da er beim Fahrzeugkauf von der Beklagten durch vorsätzliche Täuschung bzw. in einer gegen die guten Sitten verstoßenden Weise geschädigt worden sei. Die Beklagte habe eine unzulässige Abschalteinrichtung in die Motorsteuerung implementiert, ohne dies gegenüber den Endkunden und dem Kraftfahrbundesamt als Genehmigungs- und Aufsichtsbehörde zu offenbaren. Der Vorstand der Beklagten habe von der unzulässigen Abschalteinrichtung Kenntnis gehabt. Die Beklagte sei daher zur Erstattung des Kaufpreises Zug um Zug gegen Übergabe des Fahrzeugs und Zahlung eines Nutzungsersatzes verpflichtet. Weiterhin habe die Beklagte Deliktszinsen in Höhe von 4 % seit dem Fahrzeugkauf aus dem Kaufpreis und die vorgerichtlichen Rechtsanwaltskosten zu zahlen. Es sei des Weiteren festzustellen, dass sich die Beklagte im Annahmeverzug befinde und die Forderung des Klägers aus einer vorsätzlichen unerlaubten Handlung der Beklagten herrühre.Wegen des der Entscheidung zugrundeliegenden Lebenssachverhaltes wird im Übrigen auf die tatsächlichen Feststellungen im angefochtenen Urteil Bezug genommen.Das Landgericht hat die Beklagte verurteilt, an den Kläger 4.663,77 € Zug um Zug gegen Übergabe des Fahrzeugs und vorgerichtliche Rechtsanwaltskosten in Höhe von 492,54 € zu zahlen. Zudem hat es den Annahmeverzug der Beklagten festgestellt. Im Übrigen hat das Landgericht die Klage abgewiesen.Zur Begründung hat das Landgericht ausgeführt, der Kläger habe einen Anspruch gegen die Beklagte auf Schadensersatz in der zugesprochenen Höhe gem. § 826 BGB, da die Beklagte einen Dieselmotor mit unzulässiger Abschalteinrichtung in den Verkehr gebracht und damit den Kläger vorsätzlich sittenwidrig geschädigt habe. Der Schaden des Klägers liege im Abschluss eines für ihn nachteiligen Kaufvertrags. Der Kläger müsse sich die Vorteile, die er aus der Nutzung des Fahrzeugs gezogen habe, anrechnen lassen. Diese seien auf der Grundlage der vom Klägerfahrzeug zurückgelegten Strecke unter Berücksichtigung einer geschätzten Gesamtlaufleistung von 250.000 km zu berechnen. Ein Anspruch auf Deliktzinsen nach § 849 BGB bestehe hingegen nicht. Der Kläger könne lediglich Verzugszinsen verlangen. Zudem sei festzustellen, dass sich die Beklagte im Annahmeverzug befinde. Auch habe der Kläger einen Anspruch auf Erstattung eines Teils der geltend gemachten vorgerichtlichen Rechtsanwaltskosten. Die begehrte Feststellung zum deliktischen Ursprung des Schadensersatzanspruchs sei nicht zu treffen. Es fehle am erforderlichen Feststellungsinteresse. Dem Kläger erwachse aus der Feststellung vollstreckungsrechtlich kein Vorteil, da es sich bei der Beklagten nicht um eine natürliche Person handele.Mit ihrer Berufung möchte die Beklagte die vollständige Abweisung der Klage erreichen. Sie macht geltend, das Landgericht sei zu Unrecht davon ausgegangen, dass ein Anspruch auf Schadensersatz gem. § 826 BGB bestehe. Die Voraussetzungen dieser Haftungsnorm lägen nicht vor. Der Kläger sei nicht aktivlegitimiert. Nachdem die Ehefrau des Klägers das Fahrzeug am 27. Juli 2019 durch Inzahlunggabe im Zusammenhang mit dem Erwerb eines Neuwagens bei einem anderen Hersteller zu einem Preis von 2.000,00 € veräußert habe (Bl. 564 d. A., Anl. BK 2) und eine Reparaturbestätigung an die Ehefrau des Klägers adressiert sei, sei offen, wer Eigentümer des Fahrzeugs ist. Abgesehen davon sei ein durch den Kauf des Fahrzeugs eventuell dem Kläger entstandener Schaden zwischenzeitlich vollständig kompensiert worden.Die Beklagte beantragt,das am 13. Februar 2019 verkündete Urteil des Landgerichts Gießen, 2 O 469/18, im Umfang der Beschwer der Beklagten abzuändern und die Klage abzuweisen.Der Kläger verteidigt insoweit das angefochtene Urteil. Er ist weiterhin der Auffassung, die Beklagte müsse für das Inverkehrbringen des mit einer unzulässigen Abschalteinrichtung versehenen Fahrzeugs gem. § 826 BGB haften.Mit seiner Anschlussberufung wendet sich der Kläger zunächst gegen die Höhe des zuerkannten Schadensersatzanspruchs. Er ist der Ansicht, das Landgericht sei bei der Bemessung des Nutzungsvorteils von einer zu geringen Gesamtlaufleistung des Fahrzeugs ausgegangen. Dieselfahrzeuge mit dem Motor EA 189 erreichten eine Gesamtlaufleistung von mindestens 300.000 km. Das Landgericht habe zudem rechtsfehlerhaft den geltend gemachten Anspruch auf Deliktszinsen aberkannt. Die Voraussetzungen des § 849 BGB lägen vor. Auf die durch den Fahrzeugkauf zugeflossene Gegenleistung komme es in diesem Zusammenhang nicht an, da Sinn und Zweck des § 849 BGB die Kompensation des Zinsnachteils sei, auf den der Gebrauchsvorteil durch die Nutzung des Fahrzeugs keinen Einfluss habe. Entgegen der Ansicht des Landgerichts bestehe das notwendige Interesse an der Feststellung der vorsätzlichen unerlaubten Handlung. Dieses folge aus § 393 BGB, wonach die Aufrechnung mit einer Forderung aus vorsätzlicher unerlaubter Handlung nicht zulässig sei. Des Weiteren habe das Landgericht zu Unrecht die in Ansatz gebrachte 2,0-Gebühr bei den vorgerichtlichen Rechtsanwaltskosten unberücksichtigt gelassen. Die Komplexität des Falles rechtfertige die Gebührenerhöhung. Schließlich regt der Kläger an, das Verfahren auszusetzen und den Gerichtshof der Europäischen Union im Vorabentscheidungsverfahren zu fragen, ob Art. 18 Abs. 1, 26 Abs. 1, 46 der Richtlinie 2007/46/EG und §§ 6 Abs. 1, 27 Abs. 1 EG-FGV drittschützende Wirkung zukomme und ob bei Verletzung dieser Normen der daraus resultierende Schadensersatzanspruch um die Nutzungsvorteile gekürzt werden dürfe.Der Kläger hat die Klage um 1.026,00 € erweitert und macht geltend, er habe an dem Fahrzeug vom 12. Juni 2019 bis 8. Juli 2019 Reparaturen durchführen lassen müssen, die auf das Softwareupdate zurückzuführen seien. Da ihm das Fahrzeug während der Reparaturzeit nicht zur Verfügung gestanden habe, schulde ihm die Beklagte Nutzungsersatz in dieser Höhe.In Höhe der Differenz des bei Klageerhebung in Anrechnung gebrachten Nutzungsersatzes und des zuletzt geltend gemachten Nutzungsersatzes hat der Kläger die Klage für erledigt erklärt.Der Kläger beantragt,die Berufung der Beklagten zurückzuweisen.Mit der Anschlussberufung beantragt der Kläger,die Beklagte zu verurteilen, an den Kläger 11.790,00 € nebst Zinsen in Höhe von 4 % seit dem 7. Mai 2012 bis zum Eintritt der Rechtshängigkeit sowie in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Zahlung eines Weiterverkaufserlöses in Höhe von 2.000,00 € sowie Zahlung eines Nutzungsersatzes in Höhe von 5.903,66 €,festzustellen, dass der vorstehend bezeichnete Anspruch aus einer vorsätzlichen unerlaubten Handlung der Beklagten herrührt,die Beklagte zu verurteilen, dem Kläger die durch die Beauftragung seiner Prozessbevollmächtigten entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 808,19 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen und ihn von weiteren 653,13 € freizustellen,die Beklagte zu verurteilen, an den Kläger einen Nutzungswertersatz in Höhe von 1.026,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen.Die Beklagte beantragt,die Anschlussberufung zurückzuweisen.Die Beklagte verteidigt insoweit unter Wiederholung und Vertiefung ihres erstinstanzlichen Sachvortrags die angefochtene Entscheidung. Zur Klageerweiterung bringt sie vor, der Kläger habe bereits nicht nachvollziehbar dargelegt, dass der Werkstattaufenthalt auf das Softwareupdate zurückzuführen sei. Einen solchen Kausalzusammenhang gebe es auch nicht. Nach den Feststellungen des Kraftfahrbundesamtes habe das Softwareupdate keine Auswirkungen auf den Kraftstoffverbrauch, die Motorleistung oder Geräuschemissionen.II.Die Berufung der Beklagten ist zulässig. Sie hat auch in der Sache Erfolg.Soweit eine Haftung der Beklagten als Herstellerin des im Gebrauchtfahrzeug des Klägers verbauten Dieselmotors EA 189 gem. §§ 826, 31 BGB grundsätzlich in Betracht kommt, schuldet die Beklagte dem Kläger keinen Ersatz in Höhe des Kaufpreises. Ein etwaiger Kaufpreiserstattungsanspruch des Klägers ist - unabhängig von der Rechtsgrundlage - im Wege der Vorteilsanrechnung um die vom Kläger gezogenen Nutzungsvorteile und den durch den Weiterverkauf erlösten Kaufpreis zu reduzieren, was unter den besonderen Umständen des vorliegenden Falles zu einem vollständigen Wegfall des Schadens des Klägers führt.Es entspricht ständiger Rechtsprechung des Bundesgerichtshofs wie auch des erkennenden Senats, dass ein schadensersatzrechtlicher Kaufpreiserstattungsanspruch im Wege der Vorteilsanrechnung um die vom geschädigten Fahrzeugkäufer gezogenen Nutzungsvorteile zu reduzieren ist (vgl. BGH, Urteil vom 12. März 2009 - VII ZR 26/06 -, Rn. 15, juris; Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 64, 78-82, juris; Urteil vom 30. Juli 2020 - VI ZR 354/19 -, Rn. 11, juris; Urteil vom 30. Juli 2020 - VI ZR 354/19 -, Rn. 11, juris; Senat, Beschluss vom 25. September 2019 - 17 U 45/19 -, Rn. 37 ff., juris). Sind Ersatzanspruch und Vorteil gleichartig, wird die Vorteilsausgleichung durch Anrechnung bewirkt. Der Vorteil wird somit vom Schadensersatzanspruch abgezogen, ohne dass es einer Gestaltungserklärung des Geschädigten bedarf (vgl. BGH, Urteil vom 13. November 2012 - XI ZR 334/11 -, Rn. 21, juris m.w.N.). Dies kann unter besonderen Umständen zu einem vollständigen Wegfall des Schadens des Anspruchstellers führen (vgl. BGH, Urteil vom 30. Juli 2020 - VI ZR 354/19 -, Rn. 11, juris).Maßgebend für die Bewertung der Gebrauchsvorteile ist deren tatsächlicher, objektiver Wert, also der Wert, den der Gebrauchsvorteil allgemein für Nutzende der betreffenden Art hat (vgl. Stresemann in: MünchKomm, BGB, 8. Aufl. 2018, § 100 Rn. 10; Palandt/Ellenberger, BGB, 79. Aufl. 2020, § 100 Rn. 1 f.; s. auch BGH, Urteil vom 30. Juli 2020 - VI ZR 354/19 -, Rn. 13 f., juris). Dabei ist es anerkannt, dass der Gebrauchswert einer beweglichen Sache nach dem "Wertverzehr" der Sache ermittelt werden kann (vgl. BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 78 ff., juris; Urteil vom 31. März 2006 - V ZR 51/05 -, BGHZ 167, 108-118, Rn. 12; Palandt/Ellenberger, BGB, 79. Aufl. 2020, § 100 Rn. 2). Dem liegt die Erwägung zugrunde, dass derjenige, der die zunächst erworbene Sache nutzt, hierdurch Ausgaben erspart, weil der durch den Gebrauch eintretende Wertverlust nicht zu Lasten des eigenen, sondern des fremden Vermögens geht (vgl. BGH, Urteil vom 31. März 2006 - V ZR 51/05 -, BGHZ 167, 108-118, Rn. 13, Urteil vom 25. Oktober 1995 - VIII ZR 42/94 -, Rn. 16, juris). Die Höhe des Wertersatzanspruchs bemisst sich nach der Differenz des Wertes des betroffenen Gegenstands bei Beginn und Ende der Nutzung. Hierbei ist eine Anknüpfung an Erfahrungssätze ebenso zulässig wie die Berechnung auf der Grundlage des Verhältnisses der tatsächlichen Laufleistung zur durchschnittlichen Gesamtlaufleistung oder eine konkrete Ermittlung des Wertverlustes anhand von Gutachten, welche den Wert des betroffenen Gegenstands zu Beginn und Ende des Nutzungszeitraums dokumentieren (BGH, Urteil vom 08. September 2016 - IX ZR 52/15 -, Rn. 9 f., juris zu § 21 InsO).Der Kläger hat nach seinem Vortrag das streitgegenständliche Fahrzeug am 27. Juli 2019 zum Preis von 2.000,00 € im Zusammenhang mit dem Ankauf eines anderen Fahrzeugs veräußert. Weitere Einzelheiten oder Besonderheiten etwa zur Bemessung des Kaufpreises hat er nicht mitgeteilt. Insbesondere ist weder vorgetragen noch sonst ersichtlich, dass die Weiterveräußerung nicht zum objektiven Marktwert erfolgt ist. Solche Umstände sind auch im Zuge der Erörterung der Sach- und Rechtslage in der Berufungsverhandlung nicht vorgebracht worden. Die Differenz zwischen dem Weiterveräußerungserlös und dem ursprünglichen Kaufpreis stellt damit den nutzungsbedingten Wertverlust des Fahrzeugs dar, der gleichzeitig den Gebrauchsvorteil abbildet, der vom Kaufpreiserstattungsanspruch in Abzug zu bringen ist. Der dem Kläger damit zugeflossene Nutzungsvorteil führt unter Berücksichtigung des ebenfalls dem Kläger zugeflossenen Verkaufserlös zu einer vollständigen Aufzehrung des Kaufpreiserstattungsanspruchs, sodass, wie von der Beklagten eingewandt, zum maßgeblichen Zeitpunkt der letzten mündlichen Verhandlung kein liquidationsfähiger Schaden verbleibt.Dass der Kläger nach seinem Vortrag das Fahrzeug im Zeitraum 12. Juni 2019 bis 8. Juli 2019 wegen der Reparatur durch das Softwareupdate verursachter Schäden an der Abgasanlage nicht nutzen konnte, fällt bei der Bemessung des Nutzungsvorteils nicht ins Gewicht. Bei lebensnaher Betrachtung ist der Nutzungswert, der sich aus dem Wertverzehr der Sache ergibt, durch die kurze Standzeit am Ende der Nutzungszeit des Klägers nicht beeinflusst worden (§ 287 ZPO).Die Berufung hat ebenfalls Erfolg, soweit sich die Beklagte gegen die Feststellung des Annahmeverzugs durch das Landgericht wendet. Nachdem der Kläger das streitgegenständliche Fahrzeug veräußert hat, kann und will er das Fahrzeug nicht mehr an die Beklagte herausgeben. Es fehlt damit am erforderlichen Interesse, den Annahmeverzug der Beklagten feststellen zu lassen. Abgesehen davon hat der Kläger der Beklagten das Fahrzeug nicht in einer den Annahmeverzug begründenden Weise angeboten, da er von der Beklagten bis in die Berufungsinstanz die Zahlung von Deliktszinsen verlangt und damit die Übergabe und Übereignung des Fahrzeugs nicht zu den Bedingungen angeboten hat, von denen er sie hätte abhängig machen dürfen. Er hat durchgängig die Zahlung eines deutlich höheren Betrags verlangt, als er hätte beanspruchen können. Ein zur Begründung von Annahmeverzug auf Seiten der Beklagten geeignetes Angebot ist unter diesen Umständen nicht gegeben (vgl. BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 85, juris).Schließlich kann der Kläger von der Beklagten auch keinen Ersatz wegen der von ihm vorgerichtlich aufgewendeten Rechtsanwaltskosten verlangen. Wie die Beklagte mit der Berufung vom Kläger unangegriffen vorgetragen hat, war allgemein bekannt, dass die Beklagte nicht zahlungswillig war. Unter diesen Umständen waren die Kosten, die der außergerichtliche Versuch der Forderungsdurchsetzung ausgelöst hat, nicht zweckmäßig und mithin nicht erstattungsfähig (vgl. BGH, Urteil vom 28. Mai 2013 - XI ZR 148/11 -, Rn. 35, juris).Die Anschlussberufung des Klägers ist zulässig, aber unbegründet.Soweit der Kläger einwendet, das Landgericht habe die Höhe des auf die Schadensersatzforderung anzurechnenden Nutzungsvorteil unzutreffend berechnet, indem es von einer voraussichtlichen Gesamtlaufleistung des Fahrzeugs von 250.000 km und nicht von 300.000 km ausgegangen sei, bleibt dem Rechtsmittel schon deshalb der Erfolg versagt, weil der Nutzungsvorteil mit einem höheren Wert als vom Landgericht angenommen zu bemessen ist. Wie bereits ausgeführt, bestimmt sich der Nutzungsvorteil nach dem Wertverlust, den das Fahrzeug während der Nutzungszeit erlitten hat (BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 82, juris). Dieser kann - wovon das Landgericht ausgegangen ist - gem. § 287 ZPO geschätzt werden, indem der Bruttokaufpreis des Fahrzeugs durch die voraussichtliche Restlaufleistung im Erwerbszeitpunkt geteilt und dieser Wert mit den gefahrenen Kilometern multipliziert wird (vgl. BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 80, juris). Regelmäßig vorzugswürdig ist indes eine Schätzung des Nutzungsvorteils, die auf dem seit dem Kauf konkret erlittenen Wertverlust des Fahrzeugs beruht. Die vom Bundesgerichtshof gebilligte Methode der Schadensschätzung auf der Grundlage der Annahme eines linearen Wertverzehrs ist regelmäßig nicht in gleicher Weise geeignet, den Nutzungsvorteil mit derselben Genauigkeit zu ermitteln. Insbesondere bei Fahrzeugen mit einer sehr geringen Laufleistung kann es bei Anwendung der laufleistungsbezogenen Formel dazu kommen, dass der Geschädigte an dem Schadensfall "verdient". Es ist gerichtbekannt, dass als Gebrauchsgegenstände genutzte PKW in den ersten Jahren nach der Erstzulassung einen verhältnismäßig hohen Wertverlust erleiden. Würde zur Bemessung des Nutzungsvorteils allein auf die zurückgelegte Fahrstrecke abgestellt, müsste sich der Geschädigte nur einen auf der Annahme eines linearen Wertverlusts beruhenden Nutzungsvorteil anrechnen lassen. Da der so ermittelte Nutzungsvorteil geringer wäre als die Differenz zwischen Bruttokaufpreis und Fahrzeugwert, verbliebe dem Geschädigten ein auf dem schädigenden Ereignis beruhender ungerechtfertigter Vorteil. Bei dieser vom Senat bevorzugten Bewertung des Nutzungsvorteils ergibt sich vorliegend ein Betrag, der der Differenz zwischen dem vom Kläger gezahlten Kaufpreis und dem vom Kläger vereinnahmten Kaufpreis beim Weiterverkauf des Fahrzeugs entspricht.Wie das Landgericht zutreffend erkannt hat, kommt ein Anspruch des Klägers auf Verzinsung des Kaufpreises in Höhe von 4 % ab Kaufpreiszahlung gem. § 849 BGB nicht in Betracht. Wie der Bundesgerichtshof nach Einlegung der Anschlussberufung durch den Kläger entschieden hat, steht einer Anwendung des § 849 BGB in Fällen wie dem vorliegenden schon der Umstand entgegen, dass der Geschädigte als Gegenleistung für die Hingabe des Kaufpreises ein in tatsächlicher Hinsicht voll nutzbares Fahrzeug erhielt (BGH, Urteil vom 30. Juli 2020 - VI ZR 354/19 -, Rn. 19, juris). Damit hat der Bundesgerichtshof die bisherige Rechtsprechung des Senats (vgl. OLG Frankfurt, Urteil vom 27. November 2019 - 17 U 290/18 -, Rn. 37 ff., juris), an der festzuhalten ist, bestätigt.Es kann offen bleiben, ob das erforderliche Interesse an der Feststellung, dass die in der Hauptsache geltend gemachte Klageforderung auf einer vorsätzlichen unerlaubten Handlung beruht, aus dem Aufrechnungsverbot des § 393 BGB hergeleitet werden kann (vgl. dazu OLG Karlsruhe, Urteil vom 15. Dezember 2020 - 17 U 815/19 -, Rn. 103, juris), wie dies der Kläger meint. Hier besteht das festzustellende Rechtsverhältnis schon nicht, weil der Kläger nach dem Verkauf des Fahrzeugs keinen Zahlungsanspruch aus einer vorsätzlichen unerlaubten Handlung gegen die Beklagte hat. Das Feststellungsbegehren ist damit gegenstandslos.Der Kläger hat des Weiteren keinen Anspruch auf Erstattung weiterer Rechtsanwaltskosten bzw. Freistellung von der Gebührenforderung seiner Prozessbevollmächtigten. Wie bereits ausgeführt, kann der Kläger dem Grunde nach keinen Ersatz für vorgerichtlich aufgewendete Rechtsanwaltskosten verlangen, da die Leistungsunwilligkeit der Beklagten bekannt war.Schließlich bleibt die Anschlussberufung auch in Bezug auf den klageerweiternd geltend gemachten Schadensersatzanspruch ohne Erfolg. Der Kläger hat keinen Anspruch auf Zahlung von Schadensersatz wegen der reparaturbedingt entgangenen Nutzungsmöglichkeit des Fahrzeugs im Zeitraum 12. Juni 2019 bis 8. Juli 2019. Selbst wenn die Fahrzeugreparatur eine Folge der Installation des Softwareupdates gewesen wäre, was der Kläger nur spekulativ und ohne jeden greifbaren Anhaltspunkt behauptet, wäre dem Kläger durch die Gebrauchseinschränkung kein ersatzfähiger Schaden entstanden. Nach Rechtsprechung des Bundesgerichtshofs liegt in Fällen der vorsätzlichen sittenwidrigen Schädigung durch das Inverkehrbringen eines infolge Täuschung der Typgenehmigungsbehörde in Verkehr gebrachten Fahrzeugs der Schaden des Käufers im Abschluss des Kaufvertrags über das Fahrzeug (vgl. BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 44, juris). Dem Käufer droht wegen der unzulässigen Abschalteinrichtung eine Betriebsbeschränkung oder -untersagung nach § 5 Abs. 1 FZV, sodass es im Zeitpunkt des Erwerbs für die Zwecke des Käufers nicht voll brauchbar war (BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 53, juris). Der Fahrzeughersteller ist deshalb verpflichtet, Schadensersatz in Höhe des Kaufpreises zu leisten, wobei sich der Kläger die durch die Nutzung des Fahrzeugs bedingten Vorteile zur Anrechnung bringen lassen muss. Die entgangene Nutzungsmöglichkeit fließt damit in den Schadensersatzanspruch des Klägers ein und spiegelt sich zwangsläufig in der Berechnung des Nutzungsvorteils wieder, begründet aber vorliegend keinen (neuen) eigenständigen Anspruch auf Schadensersatz neben dem Anspruch auf Zahlung des Kaufpreises gegen Rückgabe des Fahrzeugs.Die vom Kläger angeregte Aussetzung des Rechtsstreits zwecks Einleitung eines Vorabentscheidungsverfahrens nach Art. 267 Abs. 2 AEUV kommt nicht in Betracht. Der Bundesgerichtshof hat sich zwischenzeitlich zur Schutzrichtung der §§ 6 Abs. 1, 27 Abs. 1 EG-FGV unter Berücksichtigung der der Richtlinie 2007/46/EG in der Fassung der Verordnung 385/2009/EG geäußert (vgl. BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 72 ff., juris).Die Kostenentscheidung beruht auf § 92 Abs. 1 ZPO. Die Entscheidung zur vorläufigen Vollstreckbarkeit folgt aus § 708 Nr. 10, 713 ZPO.Die Voraussetzungen für die Zulassung der Revision liegen nicht vor, nachdem der Bundesgerichtshof die maßgeblichen Rechtsfragen geklärt hat.
+			
+			
+			
+			Permalink: https://openjur.de/u/2333860.html (https://oj.is/2333860)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate11
+				
+				
+					 Zitiert4
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

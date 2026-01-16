@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG NürnbergRechtsprechungEndurteil vom 13.10.2021 - 12 U 3012/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Nürnberg, Endurteil vom 13.10.2021 - 12 U 3012/19
+                      m. Fundstelle
+                      OLG Nürnberg, Endurteil vom 13.10.2021 - 12 U 3012/19 = openJur 2021, 33607
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Nürnberg, Endurteil vom 13.10.2021 - 12 U 3012/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 33607
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				I. Auf die Berufung der Klagepartei wird das Endurteil des Landgerichts Nürnberg-Fürth vom 15.07.2019 (Az. 9 O 8997/18) teilweise abgeändert und insgesamt wie folgt neu gefasst:1. Die Beklagte wird verurteilt, an die Klagepartei 123,67 € Zinsen zu zahlen.2. Die Beklagte wird verurteilt, die Klagepartei von außergerichtlichen Rechtsanwaltskosten in Höhe von 334,75 € freizustellen.3. Im Übrigen wird die Klage abgewiesen.II. Die weitergehende Berufung der Klagepartei wird zurückgewiesen.III. Die Klagepartei trägt die Kosten des Rechtsstreits in beiden Instanzen.IV. Das Urteil ist vorläufig vollstreckbar. Das Endurteil des Landgerichts Nürnberg-Fürth vom 15.07.2019 ist, soweit die hiergegen gerichtete Berufung zurückgewiesen wird, ohne Sicherheitsleistung vorläufig vollstreckbar.Die Parteien können die Vollstreckung der jeweils anderen Partei jeweils durch Sicherheitsleistung in Höhe von 110% des jeweils vollstreckbaren Betrages abwenden, wenn nicht die jeweils andere Partei vor der Vollstreckung Sicherheit in Höhe von 110% des jeweils zu vollstreckenden Betrages leistet.V. Die Revision zum Bundesgerichtshof wird zugelassen.BeschlussDer Streitwert wird für das Berufungsverfahren auf 7.304,50 € festgesetzt.  
+				Gründe
+				I.Die Klagepartei erwarb am 12.11.2010 vom Autohaus J. ein fabrikneues Kfz Skoda Yeti TDI, FIN ...67, zum Kaufpreis von 17.218,49 € (Anlage K1). Das Fahrzeug wurde am 11.11.2010 auf die Klagepartei zugelassen (Anlage K2) und dieser am 12.11.2010 mit einem Kilometerstand von 5 km übergeben. In dieses Fahrzeug ist ein von der Beklagten entwickeltes und hergestelltes Motoraggregat des Typs EA 189 eingebaut.Für den Fahrzeugtyp wurde die Typgenehmigung nach der Verordnung (EG) Nr. 715/2007 mit der Schadstoffklasse Euro 5 erteilt. Die Motorsteuerung des Fahrzeugs war mit einer das Abgasrückführungsventil steuernden Software ausgestattet, die erkannte, ob das Fahrzeug auf einem Prüfstand dem Neuen Europäischen Fahrzyklus (NEFZ) unterzogen wurde, und schaltete in diesem Falle in den Abgasrückführungsmodus 1, einen Stickoxidoptimierten Modus. In diesem Modus fand eine Abgasrückführung mit niedrigem Stickoxidausstoß statt. Im normalen Fahrbetrieb außerhalb des Prüfstands schaltete der Motor dagegen in den Abgasrückführungsmodus 0, bei dem die Abgasrückführungsrate geringer und der Stickoxidausstoß höher ist. Für die Erteilung der Typgenehmigung der Emissionsklasse Euro 5 maßgeblich war der Stickoxidausstoß auf dem Prüfstand. Die Stickoxidgrenzwerte der Euro 5-Norm wurden nur im Abgasrückführungsmodus 1 eingehalten.Am 22.09.2015 veröffentlichte die Beklagte - die Herstellerin des Motors - eine Ad-hoc-Mitteilung nach § 15 WpHG a.F., wonach bei weltweit rund elf Millionen Fahrzeugen mit Motoren des Typs EA189 eine auffällige Abweichung zwischen Prüfstandswerten und realem Fahrbetrieb festgestellt worden sei, sie mit Hochdruck daran arbeite, die Abweichungen mit technischen Maßnahmen zu beseitigen und dazu in Kontakt mit den zuständigen Behörden und dem Kraftfahrtbundesamt (KBA) stehe. Das KBA sah die genannte Software als unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007 an und verpflichtete die Beklagte mit Bescheid vom 15.10.2015, die Abschalteinrichtung zu "entfernen" und "geeignete Maßnahmen zur Wiederherstellung der Vorschriftmäßigkeit zu ergreifen" (vgl. Anlagen K5, K6). Die Beklagte entwickelte daraufhin ein Software-Update, das das KBA als geeignet zur Herstellung der Vorschriftsmäßigkeit auch des hier streitgegenständlichen Fahrzeugtyps ansah.Mit Anwaltsschreiben vom 27.11.2018 (Anlage K13) forderte die Klagepartei die Beklagte zur Anerkennung ihrer Schadensersatzverpflichtung auf.Mit der Klage begehrt sie die Verurteilung der Beklagten zur Zahlung von Schadensersatz (Minderung) in Höhe von mindestens 25% des Kaufpreises (= 4.304,50 €), daneben die Feststellung der Schadensersatzpflicht hinsichtlich weiterer Schäden.Das Landgericht Nürnberg-Fürth hat mit dem angefochtenen Ersturteil vom 15.07.2019 (Bl. 236-242 d.A.), berichtigt mit Beschluss vom 23.07.2019 (Bl. 246 d.A.), die Klage abgewiesen.Auf die tatsächlichen Feststellungen dieser Entscheidung wird Bezug genommen (§ 540 Abs. 1 Nr. 1 ZPO).Hiergegen hat die Klagepartei Berufung eingelegt und stellt im Berufungsrechtszug folgende Anträge:1. Das Urteil des LG Nürnberg-Fürth vom 15.07.2019 (Az. 9 O 8997/18) wird aufgehoben.2. Die Beklagte wird verurteilt, einen in das Ermessen des Gerichts zu stellenden Schadensersatz in Höhe von mindestens 25% des Kaufpreises des Fahrzeugs 17.218,00 €, mindestens somit 4.304,50 € nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.3. Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klagepartei über den Betrag aus Hilfsantrag zu 1) hinausgehenden Schadensersatz für weitere Schäden, die aus der Ausstattung des Fahrzeugs, FIN ...67, mit der manipulierenden Motorsoftware resultieren, zu zahlen.4. Die Beklagte wird verurteilt, die Kosten des außergerichtlichen Vorgehens in Höhe von 1.266,16 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.5. Vorsorglich wird für den Fall des Unterliegens beantragt, die Revision zuzulassen.Die Beklagte beantragt,die Berufung zurückzuweisen.Das von der Klagepartei erworbene Fahrzeug wies zum Zeitpunkt der letzten mündlichen Verhandlung erster Instanz einen Kilometerstand von 215.792 km auf. Zum Zeitpunkt der mündlichen Verhandlung vor dem Senat betrug der Kilometerstand 255.303 km.Der Senat hat mit Verfügung vom 06.08.2021 (Bl. 350-351 d.A.) darauf hingewiesen, dass er von einer zu erwartenden Gesamtlaufleistung des klägerischen Fahrzeugs von 250.000 km ausgehe und dass die tatsächliche Laufleistung dieses Fahrzeugs auch für ein Minderungsbegehren relevant sei.Hinsichtlich des Vortrags der Parteien in beiden Rechtszügen wird ergänzend auf die gewechselten Schriftsätze und die gerichtlichen Sitzungsprotokolle verwiesen.II.Die zulässige Berufung der Klagepartei ist nur zum geringen Teil begründet.1. Das Landgericht hat das Klagebegehren hinsichtlich des Feststellungsantrags (Berufungsantrag 3) zu Recht als unzulässig abgewiesen.Ungeachtet der Frage der hinreichenden Bestimmtheit dieses Antrags auf Feststellung der Schadensersatzpflicht der Beklagten hinsichtlich weiterer Schäden, die "aus der Ausstattung des Fahrzeugs mit der manipulierenden Motorsoftware resultieren", besteht insoweit kein Feststellungsinteresse.Soweit sich dieser Antrag auf bereits entstandene Schäden bezieht, können diese beziffert werden; insoweit ist die Feststellungsklage unzulässig (Vorrang der Leistungsklage).Soweit sich der Antrag auf künftig erst entstehende Schäden bezieht, müsste die Klagepartei darlegen, welche weiteren (ersatzfähigen) Schäden aus dem Fahrzeugerwerb sie befürchtet (vgl. BGH, Urteil vom 30.07.2020 - VI ZR 397/19, Rn. 29; Urteil vom 10.07.2014 - IX ZR 197/12, Rn. 12, 14). Ein Feststellungsinteresse gemäß § 256 ZPO bestünde insoweit nur dann, wenn aufgrund der diesbezüglichen Darlegungen der Klagepartei ein auf die Verletzungshandlung zurückzuführender Schaden wahrscheinlich ist oder ob auf der Grundlage der Darlegungen der Klagepartei der Eintritt irgendeines Schadens noch als ungewiss angesehen werden muss (BGH a.a.O. Rn. 14).Die diesbezüglichen Ausführungen der Klagepartei (vgl. Seiten 39-40 der Klageschrift) rechtfertigen ein solches Feststellungsinteresse nicht. Dort werden lediglich Mutmaßungen geäußert. Etwaige infolge des Software-Updates anfallende Service- und Reparaturkosten wären zudem als Aufwendungen, die zu den gewöhnlichen Unterhaltungskosten zählen, nicht ersatzfähig; da die Klagepartei das Fahrzeug wie vorgesehen genutzt hat, handelt es sich insoweit nicht um vergebliche Aufwendungen (vgl. BGH, Urteil vom 30.07.2020 - VI ZR 354/19, Rn. 24; Urteil vom 19.01.2021 - VI ZR 8/20, Rn. 16).Damit ist nicht aufgezeigt, welche künftigen ersatzfähigen Schäden befürchtet werden.Ein Feststellungsinteresse gemäß § 256 ZPO ist insoweit nicht dargetan.2. Die Beklagte ist hinsichtlich der erhobenen Klage passiv legitimiert.Sie ist die Herstellerin des im streitgegenständlichen Fahrzeug verbauten Motors. Nach ihrer Intention sollte dieses Fahrzeug einschließlich des bezeichneten Motors im Vertriebsweg den Endkunden erreichen.3. Die Klagepartei hat gegen die Beklagte dem Grunde nach einen Anspruch auf Schadensersatz gemäß § 826 BGB (vorsätzliche sittenwidrige Schädigung).Hierbei kann sie Erstattung des für das Fahrzeug gezahlten Kaufpreises verlangen (sog. "großer" Schadensersatz), muss sich aber den gezogenen Nutzungsvorteil anrechnen lassen und der Beklagten das Fahrzeug zur Verfügung stellen.a) Der Senat folgt der Rechtsprechung des Bundesgerichtshofs (Urteil vom 25.05.2020 - VI ZR 252/19).Danach steht es wertungsmäßig einer unmittelbaren arglistigen Täuschung des Fahrzeugkäufers gleich, wenn ein Fahrzeughersteller - wie hier - im Rahmen einer von ihm bei der Motorenentwicklung getroffenen strategischen Entscheidung die Typgenehmigungen der Fahrzeuge durch arglistige Täuschung des Kraftfahrtbundesamts erschleicht und die derart bemakelten Fahrzeuge alsdann in Verkehr bringt und dadurch die Arglosigkeit und das Vertrauen der Fahrzeugkäufer gezielt ausnutzt.Im vorliegenden Fall bestehen zudem hinreichende Anhaltspunkte für die Kenntnis zumindest eines vormaligen Mitglieds des Vorstands von einer so getroffenen strategischen Entscheidung. Deshalb trägt die Beklagte als Herstellerin des Motors die sekundäre Darlegungslast für die Behauptung, eine solche Kenntnis habe nicht vorgelegen.Dieser Darlegungslast ist die Beklagte nicht nachgekommen.b) Der der Klagepartei kausal entstandene Schaden liegt im Abschluss eines Kaufvertrags über ein infolge der erschlichenen Typgenehmigung bemakeltes Fahrzeug, den sie bei Kenntnis der Fakten nicht geschlossen hätte. Denn bei einem Kaufvertrag über einen Pkw ist nach allgemeiner Lebenserfahrung davon auszugehen, dass ein Käufer kein Fahrzeug erwerben würde, dem eine Betriebsbeschränkung oder -untersagung droht und bei dem zum Zeitpunkt des Erwerbs nicht absehbar ist, ob dieses Problem behoben werden kann.c) Zur Rückgängigmachung der Folgen des Abschlusses des Kaufvertrags hat die Beklagte an die Klagepartei, die den "großen" Schadensersatz geltend macht, eine Zahlung in Höhe des von dieser geleisteten Kaufpreises zu erbringen Zug um Zug gegen Übergabe und Übereignung des streitgegenständlichen Fahrzeugs durch die Klagepartei.4. Die Klagepartei hat sich allerdings die von ihr durch die Nutzung des Fahrzeugs gezogenen Vorteile anrechnen zu lassen.Denn die Grundsätze der Vorteilsausgleichung gelten auch für einen Anspruch aus vorsätzlicher sittenwidriger Schädigung gemäß § 826 BGB.a) Die Höhe des anzurechnenden Nutzungsvorteils hat der Senat nach folgender Formel ermittelt:Nutzungsvorteil = [Bruttokaufpreis x gefahrene Strecke (seit Erwerb) ] / erwartete Restlaufleistung im Erwerbszeitpunkt.Dabei geht der Senat von einer zu erwartenden Gesamtlaufleistung des klägerischen Fahrzeugs von 250.000 km aus (§ 287 ZPO).b) Die Klagepartei hat das streitgegenständliche Fahrzeug zu einem Kaufpreis von 17.218,49 € bei einem Kilometerstand von 5 km erworben.c) Zum Zeitpunkt der letzten mündlichen Verhandlung vor dem Senat wies dieses Fahrzeug eine Fahrleistung von 255.303 km auf. Damit ist die bei Fahrzeugerwerb zu erwartende Gesamtlaufleistung des klägerischen Fahrzeugs von 250.000 km überschritten.Dies ergibt einen anzurechnenden Nutzungsvorteil jedenfalls in Höhe des von der Klagepartei gezahlten Kaufpreises von 17.218,49 €. Der grundsätzlich bestehende Schadensersatzanspruch ist somit durch die im Wege des Vorteilsausgleichs erfolgende Anrechnung gezogener Nutzungen vollständig aufgezehrt (vgl. BGH, Urteil vom 30.07.2020 - VI ZR 354/19, Rn. 15).Damit kann die Klagepartei, die den "großen" Schadensersatz beansprucht, von der Beklagten in der Hauptsache keinen Schadensersatz mehr erlangen.5. Die Klagepartei ist jedoch nicht auf diese Art des Schadensersatzes beschränkt. Sie kann stattdessen das Fahrzeug behalten und von der Beklagten den Betrag ersetzt verlangen, um den sie das Fahrzeug - gemessen an dem objektiven Wert von Leistung und Gegenleistung - zu teuer erworben hat (sogenannter "kleiner" Schadensersatz). Dabei handelt es sich nicht um das (positive) Erfüllungs-, sondern um das (negative) Erhaltungsinteresse (BGH, Urteil vom 06.07.2021 - VI ZR 40/20, Rn. 14 ff.).a) Für die Bemessung dieses kleinen Schadensersatzes ist zunächst der Vergleich der Werte von Leistung (Fahrzeug) und Gegenleistung (Kaufpreis) im Zeitpunkt des Vertragsschlusses maßgeblich. Soweit das spätere Software-Update der Beklagten, das gerade der Beseitigung der unzulässigen Prüfstanderkennungssoftware diente, das Fahrzeug aufgewertet hat, ist dies im Rahmen der Vorteilsausgleichung zu berücksichtigen. Dabei sind in die Bewertung des Vorteils etwaige mit dem Software-Update verbundene Nachteile einzubeziehen. Zu prüfen ist, ob und in welchem Umfang eine Differenz zwischen dem objektiven Wert des Fahrzeugs und dem Kaufpreis im Zeitpunkt des Kaufs bestand und ob und inwieweit sich durch das Software-Update diese Wertdifferenz reduziert hat (BGH a.a.O. Rn. 23 f.).b) Auch für die Bemessung des von der Beklagten geschuldeten Minderwerts ist die Laufleistung des Fahrzeugs im Zeitpunkt der letzten mündlichen Verhandlung von Bedeutung. Die durch die Klagepartei seit Erwerb erfolgte Nutzung des Fahrzeugs, in der sich dessen Wert verkörpert, ist auch insoweit im Rahmen der Vorteilsausgleichung zu berücksichtigen. Ansonsten wäre im Vergleich zu den Rückabwicklungsfällen nach § 826 BGB - in denen nach der Rechtsprechung des BGH ein Vorteilsausgleich aufgrund der gefahrenen Kilometer vorzunehmen ist - die Variante der Minderung nicht gerecht in ihrem Vergleich untereinander entschieden.c) Im Erst-Recht-Schluss kann der Klagepartei bei einer Laufleistung von mehr als 250.000 km schon deshalb keine Minderung zugesprochen werden. In diesem Fall wurde ein etwaiger zum Zeitpunkt des Fahrzeugerwerbs bestehender Minderwert durch die nachfolgende Fahrzeugnutzung auf null reduziert.6. Mangels zuzusprechender Hauptforderung steht der Klagepartei grundsätzlich auch kein Zinsanspruch zu.Allerdings war der zu erstattende Kaufpreis (bei Geltendmachung des "großen" Schadensersatzes) wie auch der anzusetzende Minderungsbetrag (bei Geltendmachung des "kleinen" Schadensersatzes) bei Klageerhebung noch nicht vollständig durch die anzurechnenden Nutzungsvorteile aufgezehrt, so dass insoweit Prozesszinsen gemäß § 291 BGB geschuldet sind (vgl. BGH, Urteil vom 30.07.2020 - VI ZR 354/19, Rn. 16 ff.; BGH, Urteil vom 30.07.2020, VI ZR 397/19, Rn. 38). Nach der Prozessvereinbarung der Parteien vom 18.08.2021 ist diesem Zinsanspruch der vom Landgericht festgestellte Kilometerstand erster Instanz zugrunde zu legen.Diese Zinsen schätzt der Senat gemäß § 287 ZPO auf 123,67 €.7. Die Klagepartei begehrt Anwaltskosten für außergerichtliches Vorgehen bei Ansatz einer 1,5-Geschäftsgebühr aus einem Gegenstandswert von 17.218,00 €.a) Grundsätzlich können vorgerichtliche Rechtsanwaltskosten beansprucht werden. Als Teil des Schadensersatzanspruchs nach § 826 BGB besteht ein materiellrechtlicher Kostenerstattungsanspruch. Die Schadensersatzpflicht der Beklagten erstreckt sich nämlich auch auf die durch die Geltendmachung und Durchsetzung des Schadensersatzanspruchs verursachten Kosten, insbesondere auf Rechtsanwaltskosten.Diese Ersatzpflicht setzt allerdings voraus, dass die Inanspruchnahme eines Rechtsanwalts erforderlich und zweckmäßig war (vgl. Palandt/Grüneberg, BGB, 80. Aufl., § 249 Rn. 56, 57 m.w.N.). Bei der vorliegenden Fallgestaltung ist dies nach Ansicht des Senats gegeben.Zwar würde mangels zuzusprechender Hauptforderung der Klagepartei grundsätzlich auch kein Anspruch auf Erstattung vorgerichtlicher Rechtsanwaltskosten zustehen. Allerdings war der zu erstattende Kaufpreis (bei Geltendmachung des "großen" Schadensersatzes) wie auch der anzusetzende Minderungsbetrag (bei Geltendmachung des "kleinen" Schadensersatzes) bei Klageerhebung noch nicht vollständig durch die anzurechnenden Nutzungsvorteile aufgezehrt, so dass zum Zeitpunkt der vorgerichtlichen anwaltlichen Tätigwerdens noch ein diesbezüglicher Erstattungsanspruch bestand. Nach der Prozessvereinbarung der Parteien vom 18.08.2021 ist diesem Anspruch der vom Landgericht festgestellte Kilometerstand erster Instanz zugrunde zu legen.b) Hinsichtlich der in Ansatz gebrachten Geschäftsgebühr gemäß Nr. 2300 VV-RVG sieht das Gesetz einen Gebührenrahmen von 0,5 bis 2,5 vor, wobei eine Gebühr von mehr als 1,3 nur gefordert werden kann, wenn die Tätigkeit umfangreich oder schwierig war. Dies ist aber weder konkret dargelegt noch bei der vorliegenden Fallgestaltung - insbesondere unter Berücksichtigung der anwaltlichen Tätigkeit in einer Vielzahl gleichgelagerter Parallelverfahren - ohne weiteres anzunehmen.c) Gegenstandswert der vorgerichtlichen Anwaltstätigkeit ist die Forderung, die der Klagepartei zum Zeitpunkt des anwaltlichen Tätigwerdens zustand. Hinsichtlich dieses maßgeblichen Wertes ist zu berücksichtigen, dass zum Zeitpunkt des anwaltlichen Tätigwerdens (vorprozessuales Schreiben vom 27.11.2018) noch keine Festlegung auf die Geltendmachung lediglich des "kleinen" Schadensersatzes erfolgt war; vielmehr wurde die Beklagte mit diesem Schreiben aufgefordert, ihre Schadensersatzpflicht hinsichtlich sämtlicher Schäden anzuerkennen. Dies rechtfertigt die Bemessung des Gegenstandswertes nach dem höheren Wert des der Klagepartei ebenfalls zustehenden "großen" Schadensersatzes.Entsprechend der von den Parteien dahin erzielten Einigung, insoweit den Kilometerstand zum Zeitpunkt der erstinstanzlichen Verhandlung (215.792 km), die sich hieraus ergebende Nutzungsentschädigung (14.862,40 €) und die bei Abzug dieser Nutzungsentschädigung errechnete Forderungshöhe des "großen" Schadensersatzes (2.356,09 €) als gerechtfertigt anzusehen, hat der Senat einen Gegenstandswert von 2.356,09 € angenommen.d) Aus diesem Gegenstandswert schuldet die Beklagte der Klagepartei vorgerichtliche Rechtsanwaltskosten. Der Umstand, dass die Schadensersatzforderung in der Hauptsache während des gerichtlichen Verfahrens durch die Anrechnung gezogener Nutzungen vollständig aufgezehrt wurde, führt nicht auch zum Wegfall der diesbezüglichen Nebenforderung; da zum Zeitpunkt des vorgerichtlichen anwaltlichen Tätigwerdens noch eine Schadensersatzverpflichtung der Beklagten bestand, schuldet diese auch die hierfür angefallenen vorgerichtlichen Rechtsanwaltskosten.e) Hieraus ergibt sich folgende Berechnung: 261,30 € (= 1,3-Geschäftsgebühr gemäß Nr. 2300 VV-RVG x 201,00 €)20,00 € (= Post- und Telekommunikationspauschale gemäß Nr. 7002 RVG) 281,30 € (= Zwischensumme)53,45 € (= 19% Umsatzsteuer gemäß Nr. 7008 VV-RVG) 334,75 € (= Summe)Nachdem die Beklagte eine Zahlung vorgerichtlicher Anwaltskosten durch die Klagepartei bestritten hat und ein diesbezüglicher Nachweis nicht geführt ist, steht der Klagepartei lediglich ein Freistellungsanspruch zu. Dieser Anspruch ist - da keine Geldschuld - nicht zu verzinsen.8. Soweit die Klagepartei weitergehende Forderungen geltend gemacht hat, ist die Klage abzuweisen.III.1. Die Kostenentscheidung folgt aus § 92 Abs. 2 Nr. 1, § 97 Abs. 1 ZPO.2. Die Entscheidung zur vorläufigen Vollstreckbarkeit beruht auf § 708 Nr. 10, § 711 ZPO.3. Die Revision wird im Hinblick auf die bislang höchstrichterlich nicht entschiedene Frage zugelassen, ob für die Bemessung des von der Beklagten geschuldeten Minderwerts die Laufleistung des Fahrzeugs im Zeitpunkt der letzten mündlichen Verhandlung relevant ist.4. Die Streitwertfestsetzung beruht auf § 3 ZPO, §§ 39ff., 47 GKG. Das Feststellungsbegehren (Berufungsantrag 3) wird dabei mit 3.000,00 € bewertet.
+			
+			
+			
+			Permalink: https://openjur.de/u/2363949.html (https://oj.is/2363949)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

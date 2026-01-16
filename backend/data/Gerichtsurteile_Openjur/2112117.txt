@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BochumRechtsprechungUrteil vom 17.08.2017 - 8 O 26/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bochum, Urteil vom 17.08.2017 - 8 O 26/17
+                      m. Fundstelle
+                      LG Bochum, Urteil vom 17.08.2017 - 8 O 26/17 = openJur 2018, 7633
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bochum, Urteil vom 17.08.2017 - 8 O 26/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2018, 7633
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte wird verurteilt, an den Kläger 27.667,27 € nebst Verzugszinsen von fünf Prozentpunkten über dem Basiszinssatz seit dem 17.01.2017, Zug-um-Zug gegen Herausgabe und Übereignung des Fahrzeugs der Marke VW Touran Comfortline 1, 6 I TDI mit der Fahrzeug-Identifikationsnummer (FIN) #, amtliches Kennzeichen #, zu zahlen.Der Rechtsstreit ist hinsichtlich des Klageantrages zu Ziffer 1 im Übrigen in der Hauptsache erledigt.Die Beklagte wird verurteilt, an die Klägerin weitere 1.358,86 € nebst Verzugszinsen von fünf Prozentpunkten über dem Basiszinssatz seit dem 17.01.2017 zu zahlen.Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des zuvor bezeichneten Fahrzeugs im Verzug befindet.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits werden der Beklagten auferlegt.Das Urteil ist gegen Leistung einer Sicherheit in Höhe von 120 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Klägerin erwarb unter dem 02.10.2014 über die Firma G1 in Herne einen VW Touran Comfortline 1.6 l TDI als Neufahrzeug zu einem Preis von 31.377,75 EUR von der Beklagten. Die Rechnung vom 02.10.2014 wurde von der Beklagten ausgestellt. Der Pkw wurde am 12.10.2014 an die Klägerin ausgeliefert. In dem Pkw ist ein Motor des Typs 189 verbaut, der, wie sich später herausstellte, vom sogenannten VW-Abgasskandal betroffen ist.Der VW-Abgasskandal gründet im Wesentlichen darauf, dass die betroffenen Motoren über zwei Betriebsmodi verfügen (0 und 1). Im Modus 1 kommt es zu einer höheren Rückführung von Abgasen, jedenfalls von Stickoxiden. Hierdurch wird der Ausstoß nach außen vermindert und die entsprechenden Emissionswerte des Pkw sind verbessert. Im Modus 0 werden Abgase, jedenfalls die Stickoxide, vermehrt nach außen abgegeben, was zu schlechteren Emissionswerten führt. Der Skandal bestand und besteht darin, dass die angewendete Software der Motoren erkannte, wann ein Testlauf unter Laborbedingungen durchgeführt wird (in Europa sogenannter Neuer Europäischer Fahrzyklus - NEFZ). Dieser wird auch zur Einstufung eines Fahrzeuges in eine Schadstoffklasse durchgeführt. In einem solchen Fall lief der Motor im Modus 1 und produzierte hierdurch jedenfalls geringere Stickoxidemissionen. Im alltäglichen Gebrauch schaltete der Motor in den Modus 0 und produzierte mehr Stickoxidemissionen. Da es sich um eine rein softwareseitige Problematik handelt, kann durch ein Update das Problem dahingehend gelöst werden, dass der Motor dauerhaft in den Modus 1 schaltet und daher die unter Testbedingungen erfassten Werte erreicht, wobei streitig ist, ob welche Emissionswerte hiernach durch das jeweilige Fahrzeug erreicht werden. Bei dem streitgegenständlichen Pkw kommt hinzu, dass ein Strömungsgleichrichter eingebaut werden muss, der die Genauigkeit des Luftmassenmessers verbessert. Dieses Update wurde für den streitgegenständlichen Pkw (VW Touran, 1,6 l TDI) mit Bestätigung des Kraftfahrbundesamtes (KBA) vom 14.12.2016 freigegeben. Eine Durchführung des Updates ohne eine solche Bestätigung war durch das KBA untersagt worden. In dieser Bestätigung wurde unter anderem festgehalten, dass "die von der W AG für die betroffenen Hersteller [...] vorgestellten Änderung der Applikationsdaten geeignet ist, die Vorschriftsmäßigkeit der genannten Fahrzeuge herzustellen". Auch wurde festgestellt, dass die Grenzwerte und andere Anforderungen an Schadstoffemissionen und Dauerhaltbarkeit von emissionsmindernden Einrichtungen eingehalten wurden. Zudem wurden die ursprünglich vom Hersteller angegebenen Kraftstoffverbrauchswerte und CO2-Emissionen bestätigt, ebenso wie eine fehlende Beeinträchtigung der Motorleistung. Ausweislich der dazugehörigen Anlage, war von dieser Bestätigung auch der streitgegenständliche Pkw erfasst. Die EU Norm 5 ("Grüne Plakette") wurde dem streitgegenständlichen Fahrzeug zu keinem Zeitpunkt entzogen.Zu dem VW-Abgasskandal veröffentliche die Beklagte unter dem 16.12.2015 eine Pressemitteilung, in der in Abstimmung mit dem KBA eine Überarbeitung des hier betroffenen Motors im 3. Quartal 2016 angekündigt wurde. Nach dieser Erkenntnis erklärte der Prozessbevollmächtigte im Namen des Ehemanns der Klägerin unter dem 05.10.2016 den Rücktritt vom Kaufvertrag gegenüber dem Autohaus, unter dessen Vermittlung der Kaufvertrag abgeschlossen wurde, ohne Setzung einer Frist zur Nacherfüllung. Der Prozessbevollmächtigte forderte unmittelbar von der Klägerin, zunächst im Namen des Ehemanns der Klägerin, dann auch im Namen der Klägerin, die Beklagte vorgerichtlich mit Schreiben vom 06.10.2016 und 07.10.2016 unter anderem zur Abgabe eines Schuldanerkenntnisses auf, das auf die Pflicht zur Nacherfüllung in der Form der Nachlieferung gerichtet sein sollte. Die Beklagte lehnte dieses Ansinnen mit Schreiben vom 24.10.2016 ab. In diesem Schreiben teilte die Beklagte mit, dass eine Freigabe des Updates der Motorensoftware für einige betroffenen Pkw durch das KBA bereits erfolgt sei, für den streitgegenständlichen Pkw noch nicht. Die Beklagte kündigte an, gesondert auf die Klägerin zur Durchführung des besagten Updates zukommen zu wollen. Hinsichtlich des Inhalts dieses Schreibens und des Schriftverkehrs der Parteien im Übrigen wird auf diese Dokumente Bezug genommen.Zum Zeitpunkt des Schlusses der mündlichen Verhandlung hatte der streitgegenständliche Pkw eine Laufleistung von 29.563 Km.Die Klägerin behauptet, dass Führungspersonen der Beklagten Kenntnis von dem Einsatz der Manipulationssoftware gehabt hätten. Die Klägerin behauptet zudem, für sie seien die Umweltfreundlichkeit und Wertstabilität des Pkw entscheidende Kaufgründe gewesen. Der Pkw sei als besonders umweltfreundlich und schadstoffarm angepriesen worden. Wichtig sei ihr gewesen, dass der Pkw eine "grüne" Umweltplakette habe. Die Umweltaspekte seien für sie auch hinsichtlich der Wertstabilität wichtig gewesen. Der "Spritverbauch" habe ebenfalls entscheidend zu ihrer Wahl beigetragen. Sie behauptet, durch das Softwareupdate stiege der Verbrauch des Pkw, die Leistung nehme ab und die Lebenszeit des Rußpartikelfilters reduziere sich. Der Austausch des Filters sei mit Kosten in Höhe von 10% des Fahrzeugneupreises verbunden. Die Klägerin ist der Ansicht, dass sie den Rücktritt von dem mit der Beklagten geschlossenen Kaufvertrag wirksam erklärt habe, insbesondere da ein nicht unerheblicher Mangel des Pkw vorgelegen habe. Bereits das Überschreiten der angegebenen Stickstoffausstoßwerte des Pkw begründe einen Verstoß gegen eine Beschaffenheitsvereinbarung und somit einen Sachmangel. Die von ihr gesetzte Frist ist ihrer Ansicht nach ausreichend gewesen, jedenfalls sei eine angemessene Frist in Gang gesetzt worden, die inzwischen verstrichen sei. Daher sei ein Rückgewährschuldverhältnis entstanden, im Rahmen dessen ihr der Kaufpreis abzüglich einer Nutzungsentschädigung gegen Rückübereignung des Pkw zu erstatten sei. Die Nutzungsentschädigung ergebe sich aus den bisher gefahrenen Km (29.563) im Verhältnis zur Gesamtlaufleistung eines solchen Pkw in Höhe von 250.000 Km.Die Klägerin beantragt,1. die Beklagte zu verurteilen, an sie 27.667,27 EUR nebst Verzugszinsen von fünf Prozentpunkten über dem Basiszinssatz seit dem 17.01.2017, Zugum-Zug gegen Herausgabe des Fahrzeugs der Marke VW Touran Comfortline1,6 l TDI mit der Fahrzeug-Identifikationsnummer (FIN) # und dem amtlichen Kennzeichen #, zu zahlen,2. festzustellen, dass sich der Rechtsstreit hinsichtlich des Klageantrages zu Ziffer 1 im Übrigen in der Hauptsache erledigt hat,3. die Beklagte zu verurteilen, an sie weitere 1.358,86 EUR nebst Verzugszinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 17.01.2017 zu zahlen,4. festzustellen, dass sich die Beklagte mit der Zahlung nach Ziffer 1. in Schuldnerverzug und mit der Annahme des herauszugebenden Fahrzeuges nach Ziffer 1. in Gläubigerverzug befindet.Die Beklagte beantragtdie Klage abzuweisen.Die Beklagte behauptet, sie habe der Klägerin im Januar 2017 schriftlich angeboten, das Update durchführen zu lassen, wozu sich die Klägerin mit einem Vertragspartner der Beklagten nach ihrer Wahl habe in Verbindung setzen sollen. Die Beklagte behauptet, dass ihre Führungsorgane keine Kenntnis vom Einsatz und Entwicklung der Manipulationssoftware gehabt hätten. Jedenfalls wäre dies nicht sicher und sei Gegenstand momentaner Untersuchungen. Wer wann Kenntnis von dem Einsatz gehabt haben solle, trage die Klägerin nicht vor. Eine Zurechnung nur von Mitarbeitern, die nicht den Führungsorganen angehören, sei ohnehin nicht möglich. Die Beklagte behauptet ferner, sie oder der vermittelnde Autohändler habe auch nicht über Tatsachen getäuscht, da die verpflichtenden Angaben zu den betroffenen Fahrzeugen nach der Pkw-EnVKV nicht die Stickstoff-Emissionen umfassen würden. Allein die Stickstoffemission sei jedoch durch die Manipulation beeinträchtigt gewesen. Der Klägerin entstehe ohnehin kein Schaden, da das erforderliche Update der Motorensoftware keinen negativen Einfluss auf die Emissionswerte, Leistungen und Bestandteile des Pkw habe. Ihr sei diese Form der Nacherfüllung daher zumutbar. Auch der Marktwert des Pkw sei nicht kausal durch die Betroffenheit von dem Abgasskandal beeinträchtigt. Sie ist der Ansicht, dass eine wirksame Rücktrittserklärung bisher nicht erfolgt sei. Zudem läge ein nur unerheblicher Mangel vor, da die Beseitigung des Mangels durch ein Update der Motorensoftware lediglich Kosten in Höhe von 56,00 EUR verursache und auch unter Berücksichtigung der Entwicklungskosten des Updates nicht die Erheblichkeitsschwelle überschreite. Weiter sei auch keine hinreichende Fristsetzung seitens der Klägerin erfolgt. Die Fristsetzung sei auch nicht entbehrlich, insbesondere nicht wegen einer angeblichen arglistigen Täuschung ihrerseits. Die Beklagte ist zudem der Ansicht, dass ein Annahmeverzug ihrerseits bezogen auf den streitgegenständlichen Pkw nicht vorliegen könne, da ein entsprechendes Angebot zur Rücknahme seitens der Klägerin nicht erfolgt sei. 
+				Gründe
+				Die weitestgehend zulässige Klage ist nahezu in Gänze begründet.1. Die Klägerin hat gemäß § 346 Abs. 1 BGB einen Anspruch auf Rückzahlung des gezahlten Kaufpreises Zugum-Zug gegen Rückübereignung und Rückgabe des streitgegenständlichen Pkw. Die Klägerin ist wirksam von dem Kaufvertrag mit der Beklagten zurückgetreten.a. Die Klägerin hat gegenüber der Klägerin wirksam den Rücktritt gem. § 349 BGB erklärt. Die Beklagte hat im Schriftsatz vom 10.08.2017 selbst eingeräumt, dass sie die Rücktrittserklärung vom 05.10.2016, adressiert an den vermittelnden Händler, als Rücktrittserklärung gegenüber sich selbst ansah. Zwar war diese Erklärung durch den Prozessbevollmächtigten der Klägerin im Namen des Ehemannes der Klägerin abgegeben worden. Mit Schreiben vom 07.10.2016, vorgelegt als Anlage JFM 6, hat die Beklagte jedoch bestätigt, dass sie zur Kenntnis genommen hat, dass der Prozessbevollmächtigte nicht den Ehemann der Klägerin, sondern die Klägerin selbst vertrete. Demnach hat die Beklagte auch zur Kenntnis genommen, dass die Rücktrittserklärung vom 05.10.2016 tatsächlich im Namen der Klägerin abgegeben wurde. Ohnehin hat die Klägerin durch die Erhebung der Klage auf Rückzahlung des Kaufpreises gegen Rückgabe des Pkw konkludent den Rücktritt von dem Kaufvertrag erklärt (vgl. etwa OLG Hamm, Urteil v. 25.09.2014 - 22 U 2/14 = BeckRS 2014, 23200, dort Rn. 41; H. Schmidt in Beckscher Onlinekommentar, BGB, Stand: 15.06.2017, § 349 Rn. 3 m.w.N.).b. Es lag auch ein zum Rücktritt berechtigender Grund vor. Ein solcher ist vorliegend darin zu sehen, dass der Pkw mangelhaft war und eine Fristsetzung zur Nacherfüllung entbehrlich war.aa. Der Pkw war mangelhaft. Er hatte bei Übergabe an die Klägerin nicht die Beschaffenheit, die bei Sachen der gleichen Art üblich ist und die der Käufer nach Art der Sache erwarten kann, § 434 Abs. 1 Satz 2 Nr. 2 BGB. Ein Kunde darf regelmäßig davon ausgehen, dass das von ihm erworbene Fahrzeug alle Zulassungsvoraussetzungen ohne weiteres erfüllt und entsprechende Prüfungen ordnungsgemäß und vorschriftsgemäß durchlaufen hat. Der Pkw enthielt eine Abschalteinrichtung, die zu Ergebnissen bei der Prüfung des Schadstoffausstoßes unter Laborbedingungen führte, welche wiederum von denen unter Alltagsbedingungen abwichen. Hierdurch wurde der Pkw bzw. das Pkw-Modell nicht gesetzmäßig und ordnungsgemäß geprüft und zugelassen und der Pkw wich von dem ab, was der durchschnittliche Kunde erwartet (vgl. auch OLG Hamm, Beschluss zu Prozesskostenhilfe v. 21.06.2016 - 28 W 14/16). Dabei ist unerheblich, dass regelmäßig Untersuchungen von Kfz unter Laborbedingungen von denen unter Alltagsbedingungen abweichen. Vorliegend waren die Abweichungen durch die vorhandene, vorschriftswidrige Abschalteinrichtung bedingt und somit nicht von einem durchschnittlichen Kunden zu erwarten (so auch unter anderem LG Paderborn, Urteil v. 15.02.2017 - 4 O 231/16 = BeckRS 2017, 105985 m.w.N.). Die Vorschriftswidrigkeit der Abschalteinrichtung wurde bereits vom KBA selbst festgestellt, wie sich aus der Bestätigung des KBA vom 14.12.2016 ergibt. Demnach waren die freigegebenen Maßnahmen geeignet, die Vorschriftmäßigkeit der betroffenen Fahrzeuge herzustellen. Die Vorschriftmäßigkeit war demzufolge zuvor, also ohne Durchführung des Updates, nicht vorhanden.bb. Ob die Klägerin durch die Schreiben ihres Prozessbevollmächtigten vom 06. und 07.10.2016 an die Beklagte eine angemessen Frist zur Nacherfüllung in Gang gesetzt hat, kann dahinstehen. Die Klägerin durfte jedenfalls gemäß § 323 Abs. 2 Nr. 3 BGB ohne Fristsetzung von dem Vertrag zurücktreten, da sie von der Beklagten getäuscht bzw. ihr der bestehende Mangel des Pkw arglistig verschwiegen wurde.Die Beklagte hat der Klägerin arglistig verschwiegen, dass die Zulassung des Fahrzeuges zum Straßenverkehr und die Einstufung in die angegebene Schadstoffklasse nicht gesetz- bzw. vorschriftsmäßig erfolgten, da eine Abschaltvorrichtung in dem Pkw vorhanden war. Das Verschweigen dieses Mangels war auch arglistig, da es vorsätzlich geschah (Grüneberg in Palandt, BGB, 75. Aufl. 2016, § 123 Rn. 11). Die Beklagte hatte eine entsprechende Kenntnis von dem Mangel, sowohl bei Abschluss des Kaufvertrages als auch bei Herausgabe des Fahrzeuges und somit bei Gefahrübergang. Ihr ist das Wissen und der Vorsatz der an der Softwaremanipulation und der Täuschung hierüber beteiligten Organmitglieder und sonstigen Mitarbeiter zuzurechnen. Eine solche Zurechnung erfolgt bei einer juristischen Person wie der Beklagten nach den allgemeinen Regeln der §§ 831, 31 BGB (Wagner in Münchener Kommentar, BGB, 7. Aufl. 2017, § 826 Rn. 37). Grundsätzlich muss, damit eine Zurechnung erfolgen kann, das jeweilige Wissens- bzw. Vorsatzelement bei dem jeweiligen Organmitglied oder Mitarbeiter festgestellt werden (Wagner, a.a.O.). Kann eine solche Feststellung nicht erfolgen, geht dies grundsätzlich zu Lasten der hier beweisbelasteten Klägerin. Vorliegend ist jedoch die Beklagte nach den Grundsätzen der sekundären Darlegungslast darlegungspflichtig. Dies folgt daraus, dass die Klägerin nicht mehr vortragen kann, als sie vorliegend getan hat. Die Klägerin könnte zwar davon ausgehen, dass etwa der damalige Vorstandsvorsitzende Kenntnis von der Softwaremanipulation hatte oder diese sogar angewiesen hat. Es ist ihr aber nicht möglich, hierzu näher vorzutragen, da dies Kenntnis von den internen Strukturen und Abläufen sowie konkreter, im Einflussbereich der Beklagten liegender Geschehnisse voraussetzen würde. Insofern obliegt es der Beklagten, zu den Kenntnissen ihrer Organmitglieder und Mitarbeiter vorzutragen, was ihr auch zumutbar ist. Dies hat sie jedoch versäumt. Sie hat lediglich vorgetragen, dass eine Aufarbeitung des Abgasskandals momentan erfolge, jedoch noch keine näheren Kenntnisse hierdurch erlangt worden seien. Dies geht zu ihren Lasten, weswegen von entsprechenden zurechenbaren Kenntnissen und dem daraus folgenden Vorsatz, auch gerichtet auf ein Verschweigen der Abschalteinrichtung gegenüber den Endkunden auszugehen ist (so auch LG Hildesheim, Urt. v. 17.01.2017, Az. 3 O 139/16 = VuR 2017, 111; LG Paderborn, Urteil vom 07.04.2017 - 2 O 118/16 und LG Kleve LG Kleve, Urteil. v. 31.03.2017, Az. 3 O 252/16 = VuR 2017, 232).Vorliegend kann es auch dahinstehen, inwiefern der vermittelnde Autohändler in die Konzernstruktur der Beklagten eingebunden war und ob dieser sich daher Kenntnisse der Beklagten zurechnen lassen muss (hierzu bereits LG München II, Urteil v. 15.11.2016 - 12 O 1482/16 = BeckRS 2016, 124448). Selbst wenn der Autohändler als Vertreter der Beklagten gehandelt hätte, käme es gemä?§ 166 Abs. 2 BGB auf das Wissen der Beklagten von dem Mangel an, das - wie dargelegt - gegeben war. Dabei ist auch von einer Weisung im Sinne des § 166 Abs. 2 BGB auszugehen. Hierzu reicht es aus, dass die Beklagte die Autohändler durch die Beauftragung zum Verkauf der mangelhaften Fahrzeuge zu den entsprechenden Rechtsgeschäften veranlasst hat, da der Begriff der Weisung weit auszulegen ist (vgl. Ellenberger in Palandt, BGB, 75. Aufl 2016, § 166 Rn. 11; Schubert in Münchener Kommentar, BGB, 7. Aufl. 2015, § 166 Rn. 95).Infolge der arglistigen Täuschung war nach einer Abwägung der gegenseitigen Interessen ein Rücktritt der Klägerin auch ohne Setzung einer Frist zu Nacherfüllung gerechtfertigt (vgl. BGH, NJW 2007, 835). Dem steht auch nicht entgegen, dass ab dem 14.12.2016 eine Bestätigung des KBA vorlag, wonach das erforderliche Update genehmigt worden war. Wie dargestellt, erfolgte ein wirksamer Rücktritt bereits Anfang Oktober 2016. Zu diesem Zeitpunkt lag eine behördlich genehmigte Nacherfüllungsmöglichkeit noch nicht vor, weswegen diese im Rahmen einer Interessenabwägung keine Berücksichtigung finden kann. Entgegen der Ansicht des LG Paderborn (Urteil v. 17.05.2016 - 2 O 381/15) würde das Vorliegen einer solchen Nacherfüllungsmöglichkeit aber auch nicht einen besonderen Umstand darstellen, der trotz Vorliegens einer arglistigen Täuschung eine Zumutbarkeit der Nacherfüllung und somit das Erfordernis einer Fristsetzung vor Erklärung des Rücktritts begründen würde. Gerade weil die Beklagte auch gegenüber Behörden das Vorliegen einer Abschalteinrichtung verschwiegen hat, kann nicht allein das Vorliegen einer behördlichen Genehmigung das Vertrauen in die Beklagte und von ihr durchzuführender Nacherfüllungsmaßnahmen wiederherstellen.cc. Der Rücktritt war auch nicht wegen der Unerheblichkeit des Mangels gem. § 323 Abs. 5 Satz 2 BGB ausgeschlossen. Die Beurteilung, ob ein Mangel unerheblich ist, erfordert eine umfassende Interessenabwägung. Dabei sind die Bedeutung des Mangels und sein Beseitigungsaufwand zu berücksichtigen (vgl. BGH, Urteil v. 28.05.2014 - VIII ZR 94/13 m.w.N; OLG Hamm, Urteil v. 12.09.2013 - 21 U 35/13). Der Unerheblichkeit steht hier entgegen, dass das KBA die Beseitigung des Mangels angeordnet hat und zur Erstellung des Updates, das den Mangel beheben soll, eine umfangreiche Absprache und schlussendlich eine Genehmigung durch das KBA erforderlich war. Eine Mangelbeseitigung, die einer behördlichen Prüfung und der anschließenden Genehmigung bedarf, ist jedoch nicht unerheblich (vgl. LG Dortmund, Urteil v. 29.09.2016 -25 O 49/16; LG Paderborn, Urteil v. 15.02.2017 - 4 O 231/16). Zudem ist bei Vorliegen einer arglistigen Täuschung die Erheblichkeit regelmäßig anzunehmen (Grüneberg in Palandt, BGB, 75. Aufl. 2016, § 323 Rn. 32).c. Die Rechtsfolge des wirksamen Rücktritts ergibt sich aus § 346 BGB. Demnach sind der Pkw von der Klägerin an die Beklagte zurück zu übereignen und herauszugeben, die Beklagte muss an die Klägerin den gezahlten Kaufpreis erstatten. Die Klägerin hat bereits nur die Zahlung des Kaufpreises unter Anrechnung der Nutzungsentschädigung beantragt. Eine solche Nutzungsentschädigung hat sie in nicht zu beanstandender Weise nach dem Verhältnis zu dem Kaufpreis errechnet, in dem die gefahrenen Kilometern zu der Gesamtlaufleistung des Pkw stehen. Letztere schätzt das Gericht gemä?§ 287 ZPO auf 250.000 Km. Die in der mündlichen Verhandlung vom 08.06.2017 angegebenen gefahrenen Kilometer (29.563) hat die Beklagte sodann nicht mehr bestritten. Demnach beläuft sich die Nutzungsentschädigung auf die bereits im Antrag zu 1. berücksichtigten 3.710,48 EUR.2. Wie die Kammer bereits im Urteil vom 13.07.2017 (Az. 8 O 366/16) ausgeführt hat, folgt ein Anspruch auf Rückabwicklung des Kaufvertrages gegen die Beklagte als Herstellerin des Pkw auch aus § 826 BGB, da sie die Klägerin sittenwidrig über Umstände getäuscht hat, die Einfluss auf den Abschluss des Kaufvertrages hatten.3. Der Zinsanspruch folgt aus §§ 286, 288 Abs. 1 BGB.4. Die Klägerin hat auch Anspruch gegen die Beklagte auf Freistellung von vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.358,86 EUR gemäß §§ 280 Abs. 1, 249, 257 BGB. Mit der Lieferung eines mangelbehafteten Fahrzeugs hat die Beklagte ihre Pflichten aus dem Kaufvertrag schuldhaft verletzt. Zudem war die Inanspruchnahme eines Rechtsanwaltes auch notwendig und erforderlich.5. Die Beklagte befindet sich auch mit der Rücknahme des streitgegenständlichen Pkw gemäß §§ 298, 293 BGB in Annahmeverzug. Die Klägerin hat der Beklagten den Pkw in verzugsbegründender Weise angeboten. In der Rücktrittserklärung vom 05.10.2016 hat die Klägerin auch zur Rücknahme des Pkw aufgefordert. Jedenfalls durch die Klageerhebung und des in der Klageschrift enthaltenen Antrags auf Rückzahlung des Kaufpreises Zugum-Zug gegen Herausgabe des streitgegenständlichen Pkw hat die Klägerin das erforderliche Angebot abgegeben (vgl. OLG Köln, Urteil vom 07.12.2010 - 24 U 51/10 = BeckRS 2012, 12431; Ernst in Münchener Kommentar, BGB, 7. Aufl. 2016, § 295 Rn. 4). Da die Pflicht am Belegenheitsort der Sache, mithin am Wohnsitz des Klägers zu erfüllen war, reichte auch das wörtliche Angebot im Sinne des § 295 aus (LG Paderborn, Urteil vom 15.02.2017 - 4 O 231/16 = BeckRS 2017, 105985). Soweit die Klägerin jedoch die Feststellung begehrt, dass die Beklagte sich hinsichtlich der Rückzahlung des Kaufpreises im Schuldnerverzug befindet, ist kein hinreichendes Feststellungsinteresse erkennbar. Die durch den Schuldnerverzug begründeten Verzugszinsen werden bereits im Rahmen des Leistungsantrages begehrt und zugesprochen. Ein darüber hinausgehendes Interesse ist nicht erkennbar.6. Die Nebenentscheidungen beruhen auf §§ 91 a,92 II, 709 ZPO.Der Streitwert wird auf bis zu 30.000,00 EUR festgesetzt.Rechtsbehelfsbelehrung:Gegen dieses Urteil ist das Rechtsmittel der Berufung für jeden zulässig, der durch dieses Urteil in seinen Rechten benachteiligt ist,1. wenn der Wert des Beschwerdegegenstandes 600,00 EUR übersteigt oder2. wenn die Berufung in dem Urteil durch das Landgericht zugelassen worden ist.Die Berufung muss innerhalb einer Notfrist von einem Monat nach Zustellung dieses Urteils schriftlich bei dem Oberlandesgericht Hamm, Heßlerstr. 53, 59065 Hamm, eingegangen sein. Die Berufungsschrift muss die Bezeichnung des Urteils (Datum des Urteils, Geschäftsnummer und Parteien) gegen das die Berufung gerichtet wird, sowie die Erklärung, dass gegen dieses Urteil Berufung eingelegt werde, enthalten.Die Berufung ist, sofern nicht bereits in der Berufungsschrift erfolgt, binnen zwei Monaten nach Zustellung dieses Urteils schriftlich gegenüber dem Oberlandesgericht Hamm zu begründen.Die Parteien müssen sich vor dem Oberlandesgericht Hamm durch einen Rechtsanwalt vertreten lassen, insbesondere müssen die Berufungs- und die Berufungsbegründungsschrift von einem solchen unterzeichnet sein.Mit der Berufungsschrift soll eine Ausfertigung oder beglaubigte Abschrift des angefochtenen Urteils vorgelegt werden.
+			
+			
+			
+			Permalink: https://openjur.de/u/2112117.html (https://oj.is/2112117)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate12
+				
+				
+					 Zitiert5
+				
+
+				
+					 Referenzen6
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG BambergRechtsprechungEndurteil vom 24.02.2020 - 24 O 419/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bamberg, Endurteil vom 24.02.2020 - 24 O 419/19
+                      m. Fundstelle
+                      LG Bamberg, Endurteil vom 24.02.2020 - 24 O 419/19 = openJur 2020, 73465
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bamberg, Endurteil vom 24.02.2020 - 24 O 419/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 73465
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Klägerin hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 22.591,68 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatzansprüche im Zusammenhang mit dem sog. "VW-Abgasskandal".Die Klägerin erwarb im April 2016 einen VW Sharan zum Preis von 30.300 € (Anlage K 1) mit einem Kilometerstand von 50.000 km bei der A-GmbH & Co.KG.Der in dem Fahrzeug verbaute Dieselmotor des Typs EA 189, der von der Beklagten entwickelt, produziert und in Verkehr gebracht worden ist, verfügte über eine Software, die Stickoxidwerte (NOx) im Prüfstandlauf optimiert (sog. Umschaltlogik). Sie erkannte, wenn das Fahrzeug den "Neuen Europäischen Fahrzyklus" (NEFZ) durchfährt und schaltete das regulär im Betriebsmodus 0 (Straßenbetrieb) betriebene Fahrzeug dann in den Betriebsmodus 1, in dem der Ausstoß von Stickoxiden dadurch verringert wird, dass mehr Abgas über die Abgasrückführung in den Ansaugtrakt des Motors zurückgeführt wird.Das Fahrzeug erhielt folglich auch die EG-Typgenehmigung und wurde seitdem massenhaft in den Verkehr gebracht.Im Jahre 2015 erließ das Kraftfahrtbundesamt (im Folgenden: KBA) einen Bescheid, wonach die geschilderte Software als unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2 S. 1 VO (EG) 715/2007 i.V.m. Art. 3 Nr. 10 VO (EG) 715/007 zu entfernen sei und in dem es den Rückruf der Fahrzeuge anordnete, die in einen Zustand zu bringen sind, der den öffentlichrechtlichen Normen entspricht. Seitens der Beklagten wird - in Abstimmung mit dem KBA - eine technische Überarbeitung mittels Software-Update angeboten, dessen Funktionsweise, Kosten und Auswirkungen zwischen den Parteien streitig sind.Das Fahrzeug durfte seit Anordnung des Rückrufs weiter im Straßenverkehr genutzt werden und wurde von der Klägerin auch genutzt. Zum Schluss der mündlichen Verhandlung betrug der Kilometerstand 118.118 km.Die von der Klägerin unterzeichnete verbindliche Bestellung eines Kraftfahrzeugs mit Garantie enthält hierbei folgende Passage:"An dem gebrauchten Fahrzeug [...] bestehen zum Zeitpunkt der Fahrzeugübergabe durch den Verkäufer nachstehend aufgeführte Sachmängel:Wir informieren Sie darüber, dass der in diesem Fahrzeug eingebaute Dieselmotor vom Typ EA 189 von einer Software betroffen ist, die im Prüfstand (NEFZ) zu Änderungen von Stickoxidwerten (NOx) führt. Das Fahrzeug ist daher von einer Volkswagen Serviceaktion betroffen, mit der diese Änderungen beseitigt werden. Hierzu ist ein Werkstattaufenthalt notwendig, über dessen Termin alle betroffenen Fahrzeughalter zu einem späteren Zeitpunkt informieren werden. Sollten Reparaturen notwendig sein, sind diese für den Kunden kostenfrei. Dieses Fahrzeug ist technisch sicher und fahrbereit".Die Klägerin stützt ihre Klage insbesondere auf Ansprüche nach §§ 826, 31 BGB, §§ 823 Abs. 2, 31 BGB i.V.m. § 263 StGB, §§ 823 Abs. 2, 31 BGB i.V.m.§§ 6, 27 EG-FGV und § 823 Abs. 2 BGB i.V.m. § 16 UWG.Sie ist der Meinung, bei der sog. Umschaltlogik handele es sich um eine unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2 S. 1 VO (EG) 715/2007 i.V.m. Art. 3 Nr. 10 VO (EG) 715/2007.Die Beklagte habe - auch auf Vorstandsebene - frühzeitig Kenntnisse über die Manipulationssoftware gehabt. Näherer Vortrag sei nicht möglich und es greife die sekundäre Darlegungslast für die Beklagte, da es sich um firmeninterne Vorgänge handele.Insbesondere über das Bestehen der Typengenehmigung, aber auch über andere Punkte, wie die Schadstoffwerte sei von der Beklagten getäuscht worden.In Kenntnis der gesamten Thematik, insbesondere der aus dem Aufspielen des verharmlost bezeichneten "Updates" resultierenden Probleme, hätte sie das streitgegenständliche Fahrzeug nicht erworben.Die Klägerin beantragt zuletzt,1. Die Beklagte wird verurteilt, an die Klägerin 30.300,00 € nebst Zinsen in Höhe von 4% seit dem 16.04.2016 bis zum Eintritt der Rechtshängigkeit sowie in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen. Die Verurteilung erfolgt Zug um Zug gegen Übereignung und Herausgabe des Fahrzeugs der Marke VW vom Typ Sharan II 2.0 TDI mit der Fahrzeugidentifikationsnummer ... nebst zwei Fahrzeugschlüsseln, Kfz-Schein, Kfz-Brief und Serviceheft sowie Zahlung eines Nutzungsersatzes in Höhe von 8.210,21 zu zahlen.Hilfsweise:2. Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klägerin Schadensersatz zu zahlen für Schäden, die aus der Ausstattung des Fahrzeugs der Marke VW vom Typ Sharan II 2.0 TDI mit der Fahrzeugidentifikationsnummer (FIN) ... mit der manipulierten Motorsoftware durch die Beklagte resultieren.FernerEs wird festgestellt, dass sich die Beklagte mit der Annahme der in vorgenannten Klageanträgen genannten Zugum-Zug-Leistung im Annahmeverzug befindet.4. Es wird festgestellt, dass der in Antrag zu 1) bezeichnete Anspruch aus einer vorsätzlichen unerlaubten Handlung der Beklagten herrührt.5. Die Beklagte wird verurteilt, die Klägerin von den durch die Beauftragung der Prozessbevollmächtigten der Klägerin entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 2.256,24 € freizustellen.Vorsorglich:6. Festzustellen, dass sich die Forderung des Antrags unter 1. In der Höhe des vom Gericht festgesetzten Anspruch der Beklagten auf Nutzungsersatz für die von der Klägerin zwischen Rechtshängigkeit der Klage und dem Termin der letzten mündlichen Verhandlung gezogenen Nutzungen erledigt hat.Soweit die Klägerin zunächst die Verurteilung Zugum-Zug gegen Zahlung eines Nutzungsersatzes in Höhe von 7.708,32 € begehrte, erklärte sich das Verfahren in Höhe der Differenz von 501,89 € für erledigt.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte widerspricht der teilweisen Erledigungserklärung.Die Beklagte ist der Meinung, die Umschaltlogik stelle bereits keine unzulässige Abschalteinrichtung dar, da die Software nicht Bestandteil des Emissionskontrollsystems sei und auch nicht im realen Fahrbetrieb auf dieses einwirke - vielmehr handele es sich um eine bloße innermotorische Maßnahme (Abgasrückführung in den Ansaugtrakt des Motors), die von den nachgelagerten Maßnahmen der Abgasreinigung zu unterscheiden sei.Die Beklagte meint weiter, der Sachvortrag des Klägers zur Kenntnis der Beklagten sei unsubstantiiert.Die erteilte Typengenehmigung sei wirksam und das Fahrzeug weiterhin technisch sicher und uneingeschränkt gebrauchstauglich.Die Klägerin wurde in der mündlichen Verhandlung vom 07.02.2020 informatorisch angehört.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die gewechselten Schriftsätze nebst Anlagen sowie das Protokoll der mündlichen Verhandlung vom 27.02.2020 (Bl. 185 ff. d.A.) und den sonstigen Akteninhalt Bezug genommen. 
+				Gründe
+				Die zulässige Klage hat keinen Erfolg.A.I.Die Klage ist unbegründet.Der Klägerin steht gegen die Beklagte unter keinem rechtlichen Gesichtspunkt ein Anspruch auf Schadensersatz zu, da sie bei Erwerb des streitgegenständlichen Fahrzeugs sowohl von dem Vorhandensein der in Rede stehenden Software als auch dem Erfordernis eines "Updates", welches auch aufgespielt wurde, Kenntnis hatte (OLG Oldenburg (2. Zivilsenat), Urteil vom 28.05.2019 - 2 U 34/19 unter Verweis auf eine Vielzahl weiterer Entscheidungen).Im Einzelnen:I.Ein Schadensersatzanspruch aus §§ 823, 31 BGB i. V. m. § 263 StGB scheitert bereits daran, dass die Erregung eines Irrtums bei der Klägerin, die Kenntnis dieser Tatsachen hatte, schon begrifflich ausgeschlossen ist. Wie sich aus der Anlage K1, der verbindlichen Bestellung des streitgegenständlichen Fahrzeugs, ergibt, wurde die Klägerin bei Abschluss des Kaufvertrags auf die Betroffenheit des Fahrzeugs von der EA189-Problematik hingewiesen.II.Auch ein Anspruch aus § 826 BGB scheitert mangels Sittenwidrigkeit der Schädigungshandlung.Ein Verhalten ist sittenwidrig, wenn es gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt (st. Rspr. seit RGZ 48, 114, 124). In diese rechtliche Beurteilung ist einzubeziehen, ob die Handlung nach seinem aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter mit den guten Sitten nicht zu vereinbaren ist (vgl. BGH, Urteil vom 06.05.1999 - VII ZR 132/97, BGHZ 141, 357, 361 Urteil vom 19.07.2004 - II ZR 402/02, BGHZ 160, 149, 157; Urteil vom 03.12.2013 - XI ZR 295/12, WM 2014, 71, Rn. 23 m. w. N.). Für die Annahme einer Sittenwidrigkeit genügt es im Allgemeinen nicht, dass der Handelnde vertragliche Pflichten oder das Gesetz verletzt oder bei einem anderen einen Vermögensschaden hervorruft (vgl. BGH, Urteil vom 15.10.2013 - VI ZR 124/12, NJW 2014, 1380, Rn. 8 m. w. N.). Ein Unterlassen verletzt die guten Sitten nur dann, wenn das geforderte Tun einem sittlichen Gebot entspricht. Hierfür reicht die Nichterfüllung einer allgemeinen Rechtspflicht, aber auch einer vertraglichen Pflicht nicht aus. Es müssen besondere Umstände hinzutreten, die das schädigende Verhalten wegen seines Zwecks oder wegen des angewandten Mittels oder mit Rücksicht auf die dabei gezeigte Gesinnung nach den Maßstäben der allgemeinen Geschäftsmoral und des als "anständig" Geltenden verwerflich machen (vgl. BGH, Urteil vom 19.10.2010 - VI ZR 124/09, WM 2010, 2256, Rn. 12 Urteil vom 20.11.2012 - VI ZR 268/11, WM 2012, 2377, Rn. 25 jeweils m. w. N.). Dabei kann es auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen. Sie kann sich auch aus einer bewussten Täuschung ergeben (BGH, Urteil vom 28. Juni 2016 - VI ZR 536/15 -, Rn. 16, juris). Bezüglich des Anstandsgefühls aller billig und gerecht Denkenden kommt es wesentlich auf die berechtigten Verhaltenserwartungen im Verkehr an (Staudinger/Oechsler BGB [2014] § 826, Rn. 31).Unter Berücksichtigung dieser Grundsätze - denen das Gericht folgt - kann das Verhalten der Beklagten im konkreten Fall nicht mehr als sittenwidrig zu qualifizieren sein. Denn die Kläger wusste von dem Vorhandensein der Software und dem Umstand, dass zur Erhaltung der Zulassung auf Veranlassung des KBA ein "Softwareupdate" aufgespielt werden sollte. Von dem Verkäufer war sie über diese Umstände aufgeklärt worden.Die durch den behauptet wirtschaftlich nachteiligen Vertrag begründete Verbindlichkeit war für die Klägerin somit ersichtlich nicht ungewollt, im Gegenteil. In voller Kenntnis der Situation entschied sich die Klägerin dazu, das Fahrzeug zu erwerben. In diesem Kontext verstößt das ursprüngliche Handeln der Beklagten im Verhältnis zur Klägerin nicht gegen das "Anstandsgefühl aller billig und gerecht Denkender". Unbeachtlich ist hierbei, dass sie zum damaligen Zeitpunkt die Auswirkungen und den Fortgang des "Abgasskandals" nicht absehen konnte (hierzu Oberlandesgerichts Dresden vom 24.07.2019 - Az.: 9 U 2067/18).Ohnehin wird auf Grund der seitens der Beklagten erfolgten Maßnahmen mit einer großflächigen Information mittels Presseberichterstattung und Information des Händlernetzes von einer sittenwidrigen Schädigung zum Zeitpunkt des Kaufvertragsabschlusses im April 2016 nicht mehr auszugehen sein (u.a. OLG Frankfurt a. M., Urteil vom 06.11.2019 - 13 U 156/19).III.Für die weiteren behaupteten Ansprüche nach §§ 823 Abs. 2, 31 BGB i.V.m. weiteren Schutzgesetzen gilt das oben Gesagte entsprechend.Es fehlt an einem Zurechnungszusammenhang zwischen einer etwaigen Verletzung des Schutzgesetzes und dem entstandenen Schaden. Ursächlich für eine Schadensentstehung ist vielmehr ein eigenverantwortliches Handeln der Klägerin in Kenntnis aller Umstände.IV.Da ein Anspruch auf Schadensersatz nicht besteht, ist auch der über die auf Grund der widersprochenen teilweisen Erledigterklärung zu entscheidende Antrag auf Feststellung der Erledigung unbegründet.Da ein Anspruch auf Schadensersatz und Rückabwicklung nicht besteht, besteht auch kein Anspruch auf Freistellung von außergerichtlichen Rechtsanwaltskosten und Feststellung eines Annahmeverzugs bzw. des Herrührens aus einer unerlaubten Handlung.Aus den gleichen Gründen war auch der Hilfsantrag abzuweisen.B.Die Kostenentscheidung folgt aus § 91 Abs. 1 ZPO.Der Ausspruch über die vorläufige Vollstreckbarkeit ergibt sich aus §§ 709 ZPO.C.Der Streitwert wurde gemäß § 3 ZPO, 63 GKG festgesetzt.Verkündet am 24.02.2020
+			
+			
+			
+			Permalink: https://openjur.de/u/2299355.html (https://oj.is/2299355)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate10
+				
+				
+					 Zitiert2
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

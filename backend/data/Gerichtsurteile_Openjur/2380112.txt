@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG München IRechtsprechungEndurteil vom 14.09.2020 - 27 O 454/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG München I, Endurteil vom 14.09.2020 - 27 O 454/20
+                      m. Fundstelle
+                      LG München I, Endurteil vom 14.09.2020 - 27 O 454/20 = openJur 2021, 45388
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG München I, Endurteil vom 14.09.2020 - 27 O 454/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 45388
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				I. Die Klage wird abgewiesen.II. Die Klägerin trägt die Kosten des Verfahrens.III. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten um die Vergütung eines Internetwerbevertrags.Die Beklagte ist eine Rechtsanwaltsgesellschaft. Bei der Klägerin handelt es sich um ein Internet-Marketing-Unternehmen.Am 05.07.2019 schlossen die Parteien einen Werbevertrag (Anlage K 1). Es wurde eine "Standalone-Kampagne" vereinbart, die der Beklagten dazu dienen sollte, von dem "Dieselabgasskandal" betroffene Autokunden als Interessenten zu gewinnen. Ausweislich Ziffer 4 des Werbevertrages sollte die Klägerin 500 Datensätze potentieller Interessenten liefern, sog. "CPL", aus denen mindestens 50 Interessenten für die Beklagte generiert werden sollten, sog. "CPO". Ziffer 4 des Werbevertrages regelt die Vergütung. Für jeden CPL, den die Klägerin für die Beklagte generiert und der für die Beklagte kontaktiert werden kann, sollte ein Betrag von á 36,00 Euro ausgezahlt werden. Für jeden CPO, den die Klägerin für die Beklagte gewinnt, sollte ein Betrag von á 360,00 Euro anfallen. Die Kampagne war so lange fortzusetzen, bis der Beklagten mindestens 50 CPOs vorliegen.CPOs werden in Ziffer 3 des Vertrages mit folgendem Lieferumfang beschrieben: Fahrzeugschein, Kaufvertrag/Schreiben des BA/Hersteller (optional), Rechtsschutzversicherung zum Zeitpunkt des Autokaufes.Ziffer 3 des Vertrages regelt, dass die Klägerin die generierten Datensätze als verschlüsselte MD5-Hashes an die Beklagte übermittelt, damit diese binnen 7 Tagen einen Datenabgleich mit den in ihrem Bestand befindlichen Kunden vornehmen kann. Die Klardaten sollten nach Ausgleich der Rechnung übermittelt werden.Ziffer 4 des Vertrages regelt weiter ein Kündigungsrecht ohne Angabe von Gründen analog §§ 648, 649 BGB sowie ein umfangreiches Reklamations- und Nachlieferungsrecht der Beklagten hinsichtlich nicht vertragsgemäßer Datensätze.Der Vertrag verweist auf die Allgemeinen Geschäftsbedingungen der Klägerin (Anlage K 1 a).Die Klägerin konzipierte ihre Werbe-Produkte in Abstimmung mit der Beklagten.Die Klägerin generierte 231 Interessenten-Leads und übermittelte diese MD5-verschlüsselt an die Beklagte, die auf den Abgleich mit ihrem Kundenstamm verzichtete (Anlage K 2 und Anlage K 3). Vor diesem Hintergrund rechnete die Klägerin die erste Charge Leads mit Rechnung vom 09.07.2019 in Höhe von 5.526,36 Euro (brutto) und die zweite Charge Leads mit Rechnung vom 11.07.2019 in Höhe von 4.369,68 Euro (brutto) ab (Anlagen K 4 a und b).Es kam zwischen den Parteien zum Streit. Die Beklagte weigerte sich, die für sie generierten Datensätze zu bezahlen (Anlage K 8).Am 16.07.2019 mahnte die Klägerin die Beklagte zur Begleichung der Rechnungen (Anlage K 7).Am 23.07.2019 erfolgte durch die Beklagte eine Anfechtungs- bzw. Kündigungserklärung gegenüber der Klägerin (Anlage B 1).Die Beklagte beanstandete alle Leads pauschal als nicht vertragsgemäß (Anlage K 10). Die Klägerin wies die Vorwürfe der Beklagten unter Hinweis auf die vertraglichen Vereinbarungen zurück und setzte eine letzte Zahlungsfrist bis 26.07.2019 (Anlage K 11).Auf Hinweis des Gerichts bekundeten die Parteien, dass der Vertrag nicht nach § 134 BGB i. V.m. § 49b Abs. 3 S. 1 BRAO nichtig sei.Die Klägerin ist der Ansicht, der Vertrag enthielte nur die Vereinbarung über die Generierung von Interessenten. Ein CPO sei nicht mit einem erteilten Mandat gleichzusetzen. Sie trägt weiter vor, die Fälligkeit der Zahlung für die Leads knüpfe an den MD5-Abgleich bzw. dessen Ausbleiben an. Außerdem sei das Alter der Datensätze nicht reklamierbar, wenn der Lead den vertraglichen Gegebenheiten entspräche. Ein Alter sei nicht festgelegt worden.Die Klägerin beantragt,Die Beklagte wird verurteilt, an die Klägerin 9.896,04 Euro nebst Zinsen hieraus in Höhe von 9 Prozentpunkten über dem Basiszinssatz seit dem 23.07.2019 zu bezahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte ist der Ansicht, die Klägerin sei nicht aktivlegitimiert, nachdem die Beklagte den Vertrag vom 05.07.2019 nicht mit der Klägerin, sondern mit einer anderslautenden GmbH, namentlich "..." mit Sitz in der ..., ..., geschlossen habe (Anlage K 1). Daneben sei die Klage unschlüssig. In Ziffer 5 des Vertrages würde auf die Allgemeinen Geschäftsbedingungen der oben genannten GmbH verwiesen, als Anlage K 1a würden jedoch die Allgemeinen Geschäftsbedingungen der ... zur Vorlage gebracht. Ausweislich Ziffer 1.1 der zur Vorlage gebrachten Geschäftsbedingungen gälten die AGBs für solche Verträge zwischen der ... und deren Kunden. Mit der ... sei jedoch gar kein Vertrag geschlossen worden.Überdies sei keine vertragsgemäße Leistung durch die ... erbracht worden. Die Klägerin habe keine der in Ziffer 1 des Vertrages vereinbarten Maßnahmen angefangen oder umgesetzt. Die von der Klägerin an die Beklagte übermittelten Datensätze entsprächen nicht der vertraglichen Vereinbarung, weshalb diese weder abnahmefähig gewesen noch abgenommen worden seien.Die Beklagte habe die Abnahme verweigert, weshalb die Rechnungen verfrüht und nicht fällig seien, wonach keine Zahlung zu erfolgen habe (E-Mail der Beklagten vom 12.07.2019, Anlage K 5).Überdies sei die Klageforderung der Klägerin unschlüssig, da diese nicht dargelegt habe, für welche konkreten Datensätze sie welche Vergütung verlange. Die Höhe der Klageforderung sei nicht schlüssig dargelegt.Im übrigen wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen und auf das Protokoll der mündlichen Verhandlung vom 16.9.2020 Bezug genommen. 
+				Gründe
+				Die zulässige Klage wird als unbegründet abgewiesen.Die Klägerin hat keinen Anspruch aus § 631 Abs. 1 BGB i.V.m. Ziffer 4 des Vertrages auf Zahlung des Lohnes in Höhe von 9.896,04 Euro.I. Die Klägerin ist aktivlegitimiert. linken, unteren Ecke des Vertrages als ... auf (Anlage K 1). Auch wenn in der Vereinbarung immer wieder die Bezeichnung der "..." auftaucht, ist darauf zu schließen, dass der Vertrag mit der ... zustande kam, zumal die anderslautende GmbH auch den Namen "..." in ihrer Bezeichnung enthält.Gegen die Aktivlegitimation der Klägerin spricht auch nicht der Verwendung der Allgemeinen Geschäftsbedingungen der .... Die Allgemeinen Geschäftsbedingungen stellen solche der ... dar. Ausweislich der mit der Anlage K 1a vorgelegten Allgemeinen Geschäftsbedingungen kann aufgrund der httpsAdresse in der rechten, oberen Ecke des Dokuments davon ausgegangen werden, dass es sich um die Geschäftsbedingungen der ... handelt.II. Es bestehen keine vertraglichen Ansprüche der Klägerin gegen die Beklagte. Der Vertrag ist nichtig gemäß § 134 BGB i.V.m. § 49b Abs. 3 S. 1 BRAO. Es liegt ein Verstoß gegen das Verbotsgesetz gemäß § 49b Abs. 3 S. 1 BRAO vor.Gemäß § 49b Abs. 3 S. 1 BRAO ist die Abgabe und Entgegennahme eines Teils der Gebühren oder sonstiger Vorteile für die Vermittlung von Aufträgen, gleichviel ob im Verhältnis zu einem Rechtsanwalt oder Dritten gleich welcher Art, unzulässig. Der zwischen den Parteien am 05.07.2019 geschlossene Vertrag zielt auf die Vermittlung von Mandaten ab, weshalb er nach § 134 BGB nichtig ist (OLG München, Beschluss vom 31.10.2019, 23 U 940/19).Der Tatbestand des § 49b Abs. 3 S. 1 BRAO ist erfüllt.Die Klägerin hatte den Auftrag, für die Beklagte 500 Datensätze ("CPL") zu generieren sowie 50 CPOs. Die Klägerin sollte so lange die Kampagne fortsetzen bis mindestens 50 CPOs für die Beklagte generiert wurden. Der Beklagten kam es also gerade auf die 50 CPOs an. Bei den 50 CPOs handelte es sich um Mandate, also die "Vermittlung von Aufträgen" i.S.v. § 49b Abs. 3 S. 1 BRAO.Der Vertrag geht davon aus, dass 50 CPOs zustande kommen müssen.Für die Vermittlung der CPOs wurde eine sog. "Costper-Lead"-Vergütung vereinbart. Es war also auch eine Gegenleistung geschuldet. Gemäß Ziffer 4 der vertraglichen Vereinbarung (Anlage K 1), war die Beklagte vertraglich dazu verpflichtet, für jeden generierten CPO an die Klägerin 360,00 Euro zu entrichten. Der verhältnismäßig hohe Preis spricht für eine Mandatsvermittlung und nicht bloß für eine werbende Vermittlung von Interessenten. CPOs werden in Ziffer 3 des Vertrages zudem mit folgendem Lieferumfang beschrieben: Fahrzeugschein, Kaufvertrag/Schreiben des BA/Hersteller (optional), Rechtsschutzversicherung zum Zeitpunkt des Autokaufes. Gerade der letzte Punkt, Bestehen einer Rechtsschutzversicherung zeigt, dass Mandanten vermittelt werden sollten. Insbesondere die Anforderung, dass bei dem CPO eine Rechtsschutzversicherung zum Zeitpunkt des Autokaufes vorgelegen haben muss, spricht für die Eigenschaft des CPO als Mandant. Aus keinem anderen Grunde wäre das Vorliegen einer Rechtsschutzversicherung von Bedeutung. Eine Rechtsschutzversicherung ist bei dem Zustandekommen eines Mandats ein sehr relevanter Faktor.Bei den angeführten Kriterien handelt es sich um solche, die für die Übernahme eines Mandats relevant sind.Der Vortrag der Klägerin, es sei nur für die Gewinnung von Interessenten eine feste Aufwandsentschädigung zu zahlen, unabhängig vom Erfolg der späteren Gewinnung eines konkreten Mandats, verfängt nicht. Es sollten laut Vertrag mindestens 50 Mandate generiert werden.Dies erfüllt den Tatbestand des Vermittelns i.S.v. § 49b Abs. 3 BRAO.Die Klägerin selbst spricht auch in ihrem Klageschriftsatz vom 14.01.2020 mehrfach von "Mandanten bzw. Mandaten".Sie gibt an, dass die Parteien einen Werbevertrag mit dem Ziel der Interessentengewinnung für die "Mandatsakquise" der Beklagten abgeschlossen haben und die Kampagne darauf angelegt war, dass die Klägerin der Beklagten insgesamt 500 Datensätze von "potentiellen Mandanten" liefern sollte. Laut Klagevortrag sollte die Klägerin die Kampagne auch so lange fortsetzen, bis mindestens 50 Mandate für die Beklagte vorliegen. Der Vertrag ist somit von Klägerseite erst erfüllt, wenn 50 Mandate vorliegen.In dem Klageschriftsatz gab die Klägerin wie folgt an: "In einem zweiten Schritt sollten diese Leads (d.h. Interessenten) im Auftrag der Klägerin von einem zur Erbringung von Rechtsdienstleistungen berechtigten Drittunternehmer kontaktiert werden, um aus dem gelieferten Pool mindestens 50 Mandate (CPO) für die Beklagte zu generieren." Die Klägerin selbst bezeichnet die CPOs als Mandate.Im Rahmen der CPL ist ebenso die Rede von einer "Mandatsgewinnung". Bezüglich "Mandantenstamm" der       Beklagten.Die Klägerin gibt des Weiteren an, dass es sich um die Generierung von "Mandaten" durch einen Drittanbieter handelte.In einer E-Mail vom 09.07.2019 (Anlage K 2) schrieb die Beklagte: "Nach unserem Verständnis sollte abgeglichen werden, ob bei den von Ihnen eingeholten Leads bereits Mandanten von uns enthalten sind."Es kam der Beklagten daher gerade darauf an, aus den Leads neue Mandanten zu gewinnen. Mithin sind die Leads als potentielle Mandanten einzustufen.Die Beklagte hat sich u.a. auf die Bearbeitung von Mandanten im Zusammenhang mit dem "Abgas-Manipulationsskandal" bei Dieselfahrzeugen spezialisiert.Die Beklagte wandte sich an die Klägerin, um 50 Datensätze von solchen Personen zu erlangen, die Dieselfahrzeuge mit manipulierten Abgaswerten besitzen und aus diesem Grunde rechtliche Ansprüche gegenüber dem jeweiligen Hersteller geltend machen wollen. Es ging ihr daher um die Gewinnung neuer Mandate.Die von der Klägerseite genannten Entscheidungen des BVerfG vom 19.02.2008, 1 BvR 1886/06, BGH vom 26.09.2002, I ZR 44/00 und OLG Karlsruhe vom 05.04.2013, 4 U 18/13 führen nicht zu einem anderen Ergebnis, da sie auf vorliegenden Fall nicht anwendbar sind. Die Entscheidungen beinhalteten gerade nicht die Vermittlung von konkreten Mandaten, sondern die Zurverfügungstellung von allgemeinen Dienstleistungen Der Tatbestand des § 49b Abs. 3 S. 1 BRAO ist erfüllt. Es liegt damit ein Verstoß gegen ein gesetzliches Verbot i.S.v. § 134 BGB vor. Ein Zahlungsanspruch der Klägerin besteht nicht.III. Es bestehen keine Ansprüche der Klägerin aus dem Bereicherungsrecht (§§ 812 ff. BGB), da keine Leistung durch die Beklagte an die Klägerin erfolgte.Kostenentscheidung:Die Klägerin trägt die Kosten des Verfahrens gemäß § 91 ZPO.Entscheidung zur vorläufigen Vollstreckbarkeit:Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar gemäß § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2380112.html (https://oj.is/2380112)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

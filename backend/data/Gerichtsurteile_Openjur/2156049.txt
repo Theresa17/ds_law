@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG AachenRechtsprechungUrteil vom 07.07.2017 - 8 O 12/16
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Aachen, Urteil vom 07.07.2017 - 8 O 12/16
+                      m. Fundstelle
+                      LG Aachen, Urteil vom 07.07.2017 - 8 O 12/16 = openJur 2019, 20942
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Aachen, Urteil vom 07.07.2017 - 8 O 12/16
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 20942
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Ein Autohändler ist zur Rückabwicklung eines Kaufvertrages für einen vom so genannten Abgasskandal betroffenen gebrauchten Pkw verpflichtet, nachdem dem Händler erfolglos eine angemessene Frist zur Nachbesserung gesetzt wurde. 
+				
+				Tenor
+				Die Beklagte wird verurteilt, an die Klägerin 15.794,73 € nebst Jahreszinsen in Höhe von 5 Prozentpunkten über dem Basiszins seit dem 05.02.2016 zu zahlen Zug um Zug gegen Rückgabe des PKW W, Fahrgestell-Nr. ...#.Es wird festgestellt, dass sich die Beklagte mit der Annahme des vorgenannten Fahrzeuges seit dem 11.12.2015 in Verzug befindet.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits tragen die Klägerin zu 5 %, die Beklagte zu 95 %.Das Urteil ist vorläufig vollstreckbar, für die Klägerin jedoch nur gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. Die Klägerin kann die Zwangsvollstreckung durch Sicherheitsleistung i. H.v. 120 % des vollstreckbaren Betrages abwenden, wenn ich die Beklagte vor der Vollstreckung Sicherheit in gleicher Höhe leistet. 
+				Tatbestand
+				Die Klägerin begehrt im Rahmen des sog. W-Abgasskandals von der Beklagten, einer Vertragshändlerin der PKW-Herstellerin W AG (im Folgenden: W), die Rückabwicklung eines mit dieser geschlossenen Gebrauchtwagen-Kaufvertrages.Am 15.06.2015 schlossen die Parteien einen Kaufvertrag über den im Klageantrag zu 1 näher bezeichneten PKW W, das im Juni 2013 erstmals zugelassen wurde und seinerzeit eine Laufleistung von 11.949 km aufwies, zu einem Preis von 14.990,00 €. In dem vorgenannten Fahrzeug ist ein von W hergestellter 1,6-Liter-Dieselmotor (77 KW) vom Typ F verbaut. Dieser Motor steht in Verbindung mit einer Software, die die Stickstoff-Emissionswerte im behördlichen Prüfverfahren optimiert. Aus zahlreichen Parallelfällen gerichtsbekannt ermöglicht dabei das Motorsteuerungsgerät zwei Betriebsmodi bei der Abgasrückführung, einen Stickstoffoptimierten Modus 1 (sog. NEFZ) mit einer relativ hohen Abgasrückführungsrate und einen Partikeloptimierten-Modus 0 (Fahrbetrieb), bei dem die Abgasrückführungsrate geringer ist. Die Software des Motorsteuerungsgerätes erkennt, ob sich das Fahrzeug im üblichen Straßenverkehr oder auf einem technischen Prüfstand zur Ermittlung der Emissionswerte befindet. Während des Testzyklus bzw. Prüfstandtests spielt die eingebaute Software beim Stickstoff-Ausstoß dann das andere Motorprogramm ab, nämlich Modus 1 anstatt Modus 0, sodass hierdurch geringere Stickoxidwerte (im Folgenden: NOx) erzielt und die gesetzlich vorgegebenen und im technischen Datenblatt aufgenommenen Abgaswerte wie auch die nach der Euro-5-Abgasnorm vorgegebenen NOx-Grenzwerte eingehalten werden. Unter realen Fahrbedingungen im Straßenverkehr wird das Fahrzeug hingegen im Abgasrückführungs-Modus 0 betrieben.Ebenfalls gerichtsbekannt legte das Kraftfahrt-Bundesamt (KBA) dem Herstellerkonzern nach Bekanntwerden des Einsatzes der Manipulationssoftware in verschiedenen Diesel-Fahrzeugen des W Konzerns auf, die entsprechende Software aus allen Fahrzeugen zu entfernen. In der Folgezeit prüfte das KBA einen vorgelegten Maßnahmenplan und gab zeitlich gestaffelt, die auf den jeweiligen Fahrzeugtyp abgestimmte Software-Updates frei. Die EG-Typengenehmigung wurde nicht entzogen, wenngleich das KBA das Aufspielen der jeweiligen Software als verpflichtend ansieht.Mit Schreiben vom 15.10.2015 rügte die Klägerin gegenüber der Beklagten die Mangelhaftigkeit ihres Fahrzeuges, unter anderem infolge der manipulierenden Abgassoftware, und forderte diese unter Fristsetzung bis zum 31.10.2015 erfolglos zur Nachbesserung auf. Mit Schreiben vom 24.10.2015 wiederholte die Klägerin ihre Mängelrüge und setzte eine neue Frist zur Nachbesserung bis zum 08.11.2015, die ebenfalls ergebnislos verstrich. Nachdem die Beklagte bis dahin nicht reagiert hatte, erklärte die Klägerin mit Schreiben vom 01.12.2015 den Rücktritt vom Kaufvertrag und forderte die Beklagte unter Fristsetzung bis zum 10.12.2015 zur Rücknahme des PKW und zur Rückzahlung des Kaufpreises zuzüglich getätigter Aufwendungen und abzüglich gezogener Nutzungen auf. Dies lehnte die Beklagte ab, bot der Klägerin jedoch aus Kulanz an, das Fahrzeug gegen Aufpreis gegen ein gleichwertiges Fahrzeug mit Benzinmotor zu tauschen, was die Klägerin ablehnte.Nachdem die Klägerin zunächst durch W darüber informiert wurde, dass das durchzuführende Software-Update nicht vor September 2016 umgesetzt werden würde, genehmigte das KBA mit Bescheid vom 15.12.2016 die technischen Maßnahmen für Fahrzeuge des Typs W wie den streitgegenständlichen Wagen. Entsprechend wurde die Klägerin über das Bereitstehen der Software-Lösung informiert.Die Klägerin meint, der streitgegenständliche PKW sei mangelhaft. Die Beklagte habe eine - unzutreffende - Fahrzeugbeschreibung abgegeben, indem sie das Fahrzeug als 5-Sitzer beworben habe, obwohl es unstreitig nur vier Sitzplätze gibt. Sie behauptet, darüber hinaus sei auch die Anpreisung als der CO²-Effizienzklasse A zugehörig unzutreffend, in Wirklichkeit erreiche das Fahrzeug noch nicht mal als die CO²-Effizienzklasse B. Ferner meint sie, das Fahrzeug sei aufgrund der manipulierten Software mangelhaft, weswegen die Fahrzeuggarantie erloschen sei. Eine erfolgreiche Nachbesserung sei auch durch die Durchführung des Software-Updates nicht möglich. Insoweit sei davon auszugehen, dass hierdurch weder Schadstoffeinstufung noch Verbrauch gehalten werden könnten. Zudem ist sie der Auffassung, er sei es nicht zuzumuten gewesen, über ein Jahr auf die Durchführung des Software-Updates zu warten. Ferner habe sie auch Anspruch auf Ersatz getätigter Aufwendungen. Hierzu behauptet sie, sie habe folgende Anschaffungen für das Fahrzeug getätigt:Teilfoliierung auf Motorhaube, Stoßstange und Dach für 595,00 €Einbau Alupedale 90,00 €Ausstattung mit Navigationssystem W S 510 inkl. GPS-Antenne 900,00 €Radio-Blenden 90,00 €abschließbares Handschuhfach 150,00 €16 Zoll W- Radziervollblenden 100,00 €Schließlich behauptet die Klägerin, sie habe bis zur Einreichung der Klageschrift vom 12.01.2016 mit dem Fahrzeug etwa 4800 km zurückgelegt.Mit der am 04.02.2016 zugestellten Klage beantragt die Klägerin,1. die Beklagte zu verurteilen, an die Klägerin 16.615,00 € nebst Jahreszinsen in Höhe von 5 Prozentpunkten über dem Basiszins seit Rechtshängigkeit zu zahlen Zug um Zug gegen Rückgabe des PKW W, Fahrgestell-Nr. ...#;2. festzustellen, dass sich die Beklagte mit der Annahme des im Antrag zu 1 bezeichneten Fahrzeuges seit dem 11.12.2015 in Verzug befindet.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, dass es sich bei dem streitgegenständlichen Fahrzeug um einen 4-Sitzer handelt habe die Klägerin aus Probefahrt und Verkaufsgespräch gewusst. Sie ist der Auffassung, keine Zusicherung über ein fünfsitziges Fahrzeug abgegeben zu haben, eine Einigung hierüber habe nicht stattgefunden. Jedenfalls sei der Mangel unerheblich. Sinngemäß das Gleiche gelte für die CO²-Effizienzklasse, die gleichfalls nicht im Kaufvertrag zugesichert worden sei. Das manipulierte Abgassystem stelle keinen Mangel dar, jedenfalls sei dieser unerheblich, da er durch das angebotene Software-Update mit relativ geringem Aufwand innerhalb von ca. 30-60 Minuten behoben werden könne. Daher sei der Rücktritt wegen Unerheblichkeit der Pflichtverletzung ausgeschlossen. Die Beklagte bestreitet, dass das streitgegenständliche Fahrzeug aktuell eine Laufleistung von 14.494 km aufweise (was die Klägerin indes gar nicht behauptet hat).Hinsichtlich des weiteren Sach- und Streitstandes wird auf die von den Prozessbevollmächtigten der Parteien zur Gerichtsakte gereichten Schriftsätze nebst Anlagen ergänzend Bezug genommen.Das Gericht hat Beweis erhoben zu der Frage, ob und welche Zusatzausstattung die Klägerin angeschafft hat und welchen Wert diese hat gemäß Beweisbeschluss vom 28.10.2016 (Bl. 120 GA). Wegen des Ergebnisses der Beweisaufnahme wird auf das Gutachten des Sachverständigen Diplom-Ingenieur T vom 06.03.2017 (Bl. 143 GA) Bezug genommen. 
+				Gründe
+				I.Die zulässige Klage ist in dem aus dem Tenor ersichtlichen Umfang - weit überwiegend - begründet.1.Die Klage ist zulässig. Insbesondere hat die Klägerin im Hinblick auf die Vorschriften der §§ 756, 765 ZPO ein schützenswertes Interesse im Sinne des § 256 ZPO an der begehrten Feststellung des Annahmeverzugs der Beklagten.2.Der Klägerin steht gegen die Beklagte gemäß §§ 346 Abs. 1, 348, 437 Abs. 2, 323, 434 BGB ein Anspruch auf Rückzahlung des Kaufpreises abzüglich eines Nutzungsersatzanspruches der Beklagten und zuzüglich eines Verwendungsersatzanspruches in Höhe von insgesamt 15.794,73 € Zug um Zug gegen Rückgabe und Rückübereignung des streitgegenständlichen W zu.a)Mit Schreiben vom 01.12.2015 hat die Klägerin den Rücktritt vom Kaufvertrag erklärt, vgl. § 349 BGB.b)Die Parteien waren durch den im Juni 2015 geschlossenen Kaufvertrag über den streitgegenständlichen W vertraglich miteinander verbunden.Es kann dahinstehen, ob entsprechend der Rechtsansicht der Klägerin ein (erheblicher) Fahrzeugmangel auch darin zu sehen ist, dass das Fahrzeug entgegen der Anpreisung im Internet-Inserat auf der Internetseite www.N.de tatsächlich kein 5-Sitzer ist, sondern lediglich ein 4-Sitzer, und ferner ob das Fahrzeug fehlerhaft in die CO²-Effizienzklasse A eingestuft wurde. Denn jedenfalls war der PKW zum Zeitpunkt der Übergabe am 18.06.2015 mangelhaft, da er aufgrund der Ausstattung mit zwei Betriebsmodi sowie einer auf das Motorsteuerungsgerät einwirkenden Software jedenfalls nicht die übliche Beschaffenheit im Sinne des § 434 Abs. 1 S. 2 Nr. 2 BGB aufwies.Nach § 434 Abs. 1 S. 2 Nr. 2 BGB ist ein Kaufgegenstand frei von Sachmängeln, wenn er sich für die gewöhnliche Verwendung eignet und eine Beschaffenheit aufweist, die bei Sachen der gleichen Art üblich ist und die der Käufer nach der Art der Sache verlangen kann. Maßgeblich ist die objektiv berechtigte Käufererwartung (vgl. BGH, Urteil vom 29.06.2011, VIII ZR 202/10, NJW 2011, 2872, 2873 m.w.N.). Ein Emissionsverhalten des Motors entsprechend der Euro-5-Abgasnorm stellt eine solche Eigenschaft dar. Ein Durchschnittskäufer eines Neufahrzeugs kann berechtigterweise davon ausgehen, dass die gesetzlich vorgeschriebenen und im technischen Datenblatt aufgenommenen Abgaswerte nicht nur deshalb eingehalten und entsprechend attestiert werden, weil eine Software installiert worden ist, die dafür sorgt, dass der Prüfstandlauf erkannt und über eine entsprechende Programmierung der Motorsteuerung in gesetzlich unzulässiger Weise insbesondere der NOx-Ausstoß reduziert wird (vgl. LG Oldenburg, Urteil vom 01.09.2016, 16 O 790/16, juris Rn 26; LG Münster, Urteil vom 14.03.2016, 11 O 341/15, juris Rn 18). Dies muss nach Auffassung des Gerichts auch für durchschnittliche Gebrauchtwagenkäufer gelten, jedenfalls dann, wenn wie hier die Klägerin das Fahrzeug von einem autorisierten Vertragshändler erworben hat und ihr in der Verkaufsannonce (Bl. 13 GA) zugesichert wurde, dass das Fahrzeug die Schadstoffklasse Euro 5 erreicht.Zwar müssen nach Auffassung des Gerichts die unter Laborbedingungen erzielten Werte im Straßenverkehr nicht eingehalten werden. Allerdings ist zu beanstanden, dass der verbaute Motor die gesetzlichen Vorgaben im Prüfstandlauf nur aufgrund der manipulierten Software einhält (vgl. LG Oldenburg, Urteil vom 01.09.2016, 16 O 790/16, juris Rn. 26; LG Münster, Urteil vom 14.03.2016, 11 O 341/15, juris Rn. 18). Zwar gibt der Prüfstandmodus, wie allgemein bekannt ist, nicht den realen Motorbetrieb wieder. Allerdings geht ein Käufer von einer grundsätzlichen Übertragbarkeit der dort ermittelten Werte auf das Verbrauchsverhalten und die zu erwartenden Emissionswerte des jeweiligen Fahrzeugs auch im realen Straßenverkehr aus (vgl. LG Krefeld, Urteil vom 14.09.2016, 2 O 72/16, juris Rn 25; LG Bochum, Urteil vom 16.03.2016, 2 O 425/15, juris Rn 17). Dieser grundsätzlichen Vergleichbarkeit wird aber durch den Einsatz der Software die Grundlage entzogen. Dies führt im vorliegenden Fall zu einer Täuschung der Klägerin über die Aussagekraft und Vergleichbarkeit der in der Verkaufsannonce veröffentlichten Messwerte mit den im realen Fahrbetrieb zu erwartenden Emissionswerten.Gleichermaßen wies das klägerische Fahrzeug im maßgeblichen Zeitpunkt des Gefahrenübergangs deshalb nicht die zu erwartende Beschaffenheit auf, weil das Fahrzeug - auch nach dem Vorbringen der Beklagten - zwingend einem Software-Update unterzogen werden muss, um den entsprechenden Auflagen des KBA zu genügen und keine Betriebsuntersagung gemäß § 5 FZV zu riskieren (vgl. LG Frankenthal, Urteil vom 12.05.2016, 8 O 208/15, BeckRS 2016, 08996).c)Weiterhin ist der Rücktritt auch nicht nach § 323 Abs. 5 S. 2 BGB ausgeschlossen. Die Pflichtverletzung erweist sich unter Würdigung aller Umstände des vorliegenden Einzelfalles jedenfalls im Rahmen einer Gesamtabwägung nicht als unerheblich.Im Rahmen der Erheblichkeitsprüfung ist eine umfassende Interessenabwägung vorzunehmen, bei der u.a. der für die Mangelbeseitigung erforderliche Aufwand, aber auch die Schwere des Verschuldens zu berücksichtigen ist (vgl. BGH, Urteil vom 29.06.2011, VIII ZR 202/10 NJW 2011, 2872, 2874; Urteil vom 24.03.2006, V ZR 173/05, NJW 2006, 1960, 1961).Entgegen der Ansicht der Beklagten erweist sich die Pflichtverletzung nicht bereits deshalb als unerheblich, wenn sich das Software-Update in einer vergleichsweise kurzen Zeit von ca. einer Stunde aufspielen lässt, wobei gerichtsbekannt in Parallelfällen auch damit argumentiert wird, dass die Kosten hierfür lediglich weniger als 100,00 € betrügen. Die Beklagte verkennt hierbei, dass der (vor allem zeitliche) Aufwand der Mangelbeseitigung nicht alleine maßgeblich ist. Insoweit ist ebenfalls zu berücksichtigen, dass es sich nicht um eine einfache technische Maßnahme handelt, worauf bereits die erhebliche Zeit von knapp einem Jahr hindeutet, die es gedauert hat, um eine technische Lösung zu entwickeln. Hinzukommt, dass gerichtsbekannt W gegenüber dem KBA einen Maßnahmenplan vorlegen und die jeweiligen konkrete Software durch das KBA geprüft und freigegeben werden musste. Insoweit schließt sich das Gericht der Auffassung (vgl. LG München I, Urteil vom 14.04.2016, 23 O 23033/15, juris Rn 42; LG Krefeld, Urteil vom 14.09.2016, 2 O 72/16, juris Rn 48; LG Aachen, Urteil vom 06.12.2016, 10 O 146/16, juris Rn. 30) an, wonach eine Pflichtverletzung dann nicht mehr als unerheblich anzusehen ist, wenn - wie hier - eine Mängelbeseitigungsmaßnahme der umfassenden vorherigen behördlichen Prüfung und Genehmigung bedarf.Darüber hinaus war zum Zeitpunkt der Erklärung des Rücktritts durch den Kläger, auf den abzustellen ist (vgl. BGH, Urteil vom 15.06.2011, VIII ZR 139/09, NJW 2011, 3708, 3709 m.w.N.), nicht abzusehen, ob die Korrektur der bisherigen Manipulationssoftware negative Auswirkungen auf die übrigen Emissionswerte, den Kraftstoffverbrauch und die Motorleistung haben würde. Hinzukommt, dass derzeit noch nicht abzusehen ist, ob sich allein durch die Betroffenheit des klägerischen Fahrzeugs vom Abgasskandal ein merkantiler Minderwert für den streitgegenständlichen W realisieren wird. Im Hinblick auf die umfassende Berichterstattung zum sog. Abgasskandal und die sich daraus in der Öffentlichkeit ergebenen kontroversen Diskussionen, auch über einen etwaigen Mehrverbrauch nach durchgeführter Nachbesserung, ist jedenfalls nicht auszuschließen, dass sich dies auf den im Falle eines Verkaufs zu erzielenden Wiederverkaufspreis negativ auswirkt.d)Die Klägerin hat der Beklagten auch eine erfolglose Frist zur Nachbesserung gesetzt, § 323 Abs. 1 BGB. Zwar erweist sich die in den klägerischen Schreiben vom 15.10.2015 und 24.10.2015 letztlich bis zum 08.11.2015 gesetzte Frist angesichts der Dimension der Softwareproblematik bei diversen Dieselmotoren verschiedenster Modelle von W und des technischen Aufwands für die Entwicklung einer Lösung als zu kurz bemessen. Jedoch tritt anstelle der zu kurzen Frist eine objektiv angemessene Frist (vgl. BGH, Urteil vom 21.06.1985, V ZR 134/84 NJW 1985, 2640, 2640). Vorliegend kann dahinstehen, wie lange eine angemessene Frist konkret zu bemessen gewesen wäre. Das Gericht teilt nicht die teilweise in der Rechtsprechung vertretene Ansicht, dass es dem Käufer ohne weiteres zuzumuten ist, auf die Freigabe der Software-Lösung durch das KBA zu warten (in diese Richtung etwa: LG Frankenthal, Urteil vom 12.05.2016, 8 O 208/15, BeckRS 2016, 08996; LG Bochum, Urteil vom 16.03.2016, 2 O 425/15, juris Rn. 19). Bei der Bestimmung der Angemessenheit der Fristsetzung ist auf den Sinn und Zweck der Fristsetzung abzustellen; die Frist soll einem Schuldner eine letzte Gelegenheit zur Vertragserfüllung eröffnen. Damit unvereinbar wäre aus Sicht des Gerichts eine Frist von wie hier deutlich mehr als einem Jahr. Selbst wenn man davon ausgehen sollte, dass man wegen der Dimension des Abgaskanals dem Hersteller bzw. dem Händler eine längere Frist zur Beseitigung des Mangels einräumen müsste, ist diese bereits abgelaufen. Denn nach Mitteilung der Beklagten im Schriftsatz vom 18.04.2016 sollten die durchzuführenden Update-Maßnahmen weit vor September 2016 umgesetzt werden, was indes nicht der Fall war. Damit hat die Beklagte selbst ein Rahmen gesetzt, in dem mindestens eine Nachbesserung zu erwarten ist. Vielmehr ist die Freigabe erst am 15.12.2016 geschehen; von einem konkreten Zeitpunkt, ab dem die Klägerin zur Nachrüstung in einer Werkstatt gerufen werden könnte, hat die Beklagte nichts vorgetragen.e)Aufgrund des wirksamen Rücktritts sind gemäß § 346 Abs. 1 BGB die empfangenen Leistungen zurückzugewähren. Die Beklagte hat den Kaufpreis zu erstatten und erhält neben dem streitgegenständlichen Wagen auch die durch die Fahrleistung eingetretene Wertminderung des Fahrzeugs nach § 346 Abs. 2 Nr. 1 BGB ersetzt. Dementsprechend hat sich der Kläger auf den zurückzuerstattenden Kaufpreis von 14.990,00 € eine Nutzungsentschädigung anrechnen zu lassen.Das Gericht geht vorliegend davon aus, dass das klägerische Fahrzeug bei Klageeinreichung am 12.01.2016 eine Laufleistung von rund 16.750 km aufgewiesen hat, da die Klägerin nach ihrem Vortrag in der Klageschrift mit dem Fahrzeug bis dahin 4800 km zurückgelegt hat (11.949 km [unstreitiger Wert bei Fahrzeugübergabe] + 4800 km = gerundet 16.750 km). Dieser Vortrag ist von der Beklagten nicht bestritten worden, sondern lediglich, dass das Fahrzeug einen aktuellen Kilometerstand von 14.949 km aufweist, was die Klägerseite indes gar nicht behauptet hat. Das Bestreiten ist daher unerheblich. Davon abgesehen trifft den Verkäufer im Rahmen des Wertersatzanspruches eine Darlegungs- und Beweislast (vgl. BGH, Urteil vom 15.04.2010, III ZR 218/09, NJW 2010, 2868, 2870 m.w.N.), so dass es der Beklagten oblegen hätte, substantiiert und ggf. unter entsprechendem Beweisantritt darzulegen, welche "geringere" Kilometerleistung der streitgegenständliche Wagen denn zurückgelegt hätte. Auf diese unzulängliche Darlegung musste das Gericht auch nicht gemäß § 139 ZPO hinweisen. Denn zu einer richterlichen Aufklärung bestand - wie vorliegend - bei einem nicht nur ergänzungsbedürftigen, sondern bereits substanzlosen Vorbringen kein Anlass (vgl. BGH, Urteil vom 22.04.1982, VII ZR 160/81, NJW 1982, 1708, 1711).Die Gesamtleistung des streitgegenständlichen W schätzt das Gericht vorliegend gemäß § 287 ZPO auf 250.000 km (vgl. OLG Düsseldorf, Urteil vom 21.01.2008, 1 U 152/07, juris Rn 41; OLG Köln, Urteil vom 20.02.2013, 13 U 162/09, NJW-RR 2013, 1209, 1210; Reinking/Eggert, Der Autokauf, 12. Aufl. 2014, Rn 3574), so dass ausgehend von der unstreitigen Laufleistung bei Fahrzeugübergabe von 11.949 km von einer voraussichtlichen Restlaufleistung von ca. 238.000 km auszugehen ist. Dies ergibt einen Gebrauchsvorteil von 302,32 € (14.990,00 € brutto Kaufpreis x 4800 km gefahrene Kilometer ./. 238.000 km voraussichtliche Restlaufleistung).f)Zudem kann die Klägerin gemäß § 347 Abs. 2 S. 2 BGB die Aufwendungen für die Ausstattung mit dem Navigationssystem i.H.v. 900,00 € nebst Radioblenden zu einem Preis von 78,47 € von der Beklagten ersetzt verlangen, ferner die Aufwendungen für die Umrüstung auf ein abschließbares Handschuhfach i.H.v. 128,58 €. Ein weitergehender Anspruch auf Ersatz der getätigten Aufwendungen besteht nicht. Im Einzelnen:Gemäß § 347 Abs. 2 S. 1 BGB kann der Zurücktretende notwendige Verwendungen geltend machen. Dabei werden unter Verwendungen Aufwendungen verstanden, die zumindest auch der Sache zugutekommen, indem sie ihrer Wiederherstellung/Erhaltung, Verbesserung dienen (Palandt/Bassenge, BGB, 76. Aufl. 2017, § 994 Rn. 2). Die Verwendung ist notwendig, wenn sie zur Erhaltung oder ordnungsgemäßen Bewirtschaftung der Sache nach objektiven Maßstab zum Zeitpunkt der Vornahme erforderlich ist, also sonst der Verkäufer hätte machen müssen und nicht nur Sonderzwecken des Besitzers dient (BGH NJW-RR 2013, 1318 Rn. 22). Danach stellen die geltend gemachten Aufwendungen insgesamt keine notwendigen Verwendungen dar. Sowohl die nach Feststellung des Sachverständigen aufgebrachte Foliierung als auch der Einbau der Alupedale, des Navigationssystems nebst Radioblenden, des abschließbaren Handschuhfachdeckels als auch die Radzierblenden dienen sämtlich nicht zur Erhaltung der Sache, sondern wurden von der Klägerin im Rahmen von Sonderzwecken angeschafft. Auch der Verkäufer wie hier die Beklagte hätte diese Aufwendungen nicht tätigen müssen.Lediglich die Aufwendungen für Navigationssystem nebst Radioblenden und Umrüstung auf ein abschließbares Handschuhfach können als sonstige Verwendungen im Sinne von § 347 Abs. 2 S. 2 BGB verlangt werden. Insoweit geht das Gericht davon aus, dass bei der Beklagten insoweit eine Bereicherung verblieben ist, da insoweit von einem Wertzuwachs auszugehen ist, den die Beklagte beim Weiterverkauf realisieren kann. Nach den Feststellungen des Sachverständigen, die durch die Parteien auch nicht in Zweifel gezogen werden, beträgt der Wert des eingebauten Navigationsgerätes mindestens 900,00 €. Ferner hat der Sachverständige nachvollziehbar und plausibel ausgeführt, dass man für den Ausbau des Einbaurahmens des Navigationssystems bzw. der Radioblende Spezialwerkzeug benötigt, hiermit jedoch die Blende nicht immer beschädigungsfrei auszubauen ist, sondern es vielmehr - wie auch bei der Klägerin - zur Beschädigung des Rahmens beim Ausbau kommen kann, so dass neue Radioblenden verbaut werden müssen; der Preis für 2015 betrug entsprechend einer Recherche des Sachverständigen jedoch nicht 90,00 €, sondern lediglich 78,47 €, so dass dieser Wert zugrunde gelegt wird. Nach den weiteren Feststellungen des Sachverständigen wurde die Umrüstung auf den abschließbaren Handschuhfachdeckel noch nicht vollzogen, vielmehr befand sich dieser noch verpackt im Fahrzeug; der Rechnungsbeleg weist einen Preis von 128,58 € aus, so dass dieser Wert zugrundegelegt wird, nicht der von der Klägerin in Ansatz gebrachte Betrag von 150,00 €.Von einer Bereicherung im Sinne von § 347 Abs. 2 S. 2 BGB kann indes bei den übrigen Aufwendungen (Foliierung, Alupedale und Radzierblenden) nicht ausgegangen werden, jedenfalls fehlt jeglicher Vortrag der Klägerin dahingehend, inwiefern die Beklagte durch diese Verwendungen bereichert ist.g)Zusammengefasst steht der Klägerin ein Zahlungsanspruch i.H.v. 15.794,73 € (14.990,00 € - 302,32 € + 900,00 € + 78,47 € + 128,58 €) zu.3.Der Zinsanspruch folgt aus §§ 288, 291 BGB.4.Des Weiteren ist der Anspruch auf Feststellung des Annahmeverzugs der Beklagten begründet. Die Beklagte befand sich infolge der verweigerten Rücknahme des streitgegenständlichen Fahrzeuges gemäß §§ 298, 293 BGB in Annahmeverzug. Denn die Klägerin hat der Beklagten mit Schreiben vom 01.12.2015 ihr Fahrzeug unter Fristsetzung bis zum 10.12.2015 ordnungsgemäß abholbereit angeboten. Im Hinblick auf die Verpflichtung der Beklagten zur Abholung des Fahrzeuges am Wohnsitz der Klägerin war das wörtliche Angebot im Sinne des § 295 BGB auch ausreichend. Hierauf hat die Beklagte nicht reagiert.II.Die Kostenentscheidung beruht auf § 92 Abs. 1 ZPO; wegen eines Gebührensprungs war die Vorschrift des § 92 Abs. 2 Nummer ein ZPO nicht anwendbar.Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus §§ 709 S. 2, 1, 708 Nr. 11, 711 ZPO.III.Streitwert: 16.615,00 €.Biermann
+			
+			
+			
+			Permalink: https://openjur.de/u/2156049.html (https://oj.is/2156049)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate13
+				
+				
+					 Zitiert11
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG KasselRechtsprechungUrteil vom 01.06.2021 - 8 O 2355/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Kassel, Urteil vom 01.06.2021 - 8 O 2355/20
+                      m. Fundstelle
+                      LG Kassel, Urteil vom 01.06.2021 - 8 O 2355/20 = openJur 2022, 21155
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Kassel, Urteil vom 01.06.2021 - 8 O 2355/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 21155
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht gegen die Beklagte im Rahmen des sog. "Abgasskandals" Ansprüche hinsichtlich des Erwerbs eines Fahrzeugs geltend.Der Kläger erwarb ausweislich der Bestellung vom 6. März 2014 bei der "..." den VW Passat Variant Comfortline 2.0 TDI, FIN "...", Km-Stand 8, zum Preis von 28.368,40 Euro (Bd.I Bl. 36 d.A.).Das Fahrzeug hat einen 2.0 l Dieselmotor des Typs EA189 EU 5, der im Zeitpunkt der Übergabe an den Kläger eine Motorsteuerungssoftware aufwies, die erkannte, ob sich das Fahrzeug auf einem Prüfstand oder im üblichen Straßenverkehr befand. Die vor-handene Software kannte zwei unterschiedliche, die Abgasrückführung steuernde Betriebs-Modi. Im NOx-optierten, in NEFZ-aktivem Modus 1 kam es zu einer höheren Abgasrückführungsrate, während im normalen Fahrverkehr der Modus 0 aktiv war. Die Software bewirkte mithin, dass auf dem Prüfstand geringere Stickoxydwerte (NOx) als beim normalen Fahrverkehr ausgestoßen wurden.Das Kraftfahrt-Bundesamt verpflichtete die Beklagte durch Bescheid vom 15. Oktober 2015, bei allen betroffenen Fahrzeugen mit dem Aggregat EA 189 EU 5 "die unzulässige Abschaltvorrichtung" zu entfernen.Der Kläger erhielt im Februar 2016 ein undatiertes Rückrufschreiben der Beklagten, woraufhin das sog. Software-Update im Oktober 2016 durchgeführt wurde.Der Kläger hat durch Klageschrift vom 26. November 2020, eingegangen bei dem Landgericht am 10. Dezember 2020 (Bd.I Bl. 1 d.A.), folgende Anträge angekündigt (Bd.I Bl. 2 d.A.),1)die Beklagte zu verurteilen, an den Kläger 13.711,39 € nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Übereignung und Herausgabe des PKW VW Passat Variant, Fahrgestellnummer "...",2)festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag zu 1) genannten Pkws in Annahmeverzug befindet.Er hat die Klage durch Schriftsatz vom 25. März 2021 geändert (Bd.II Bl. 264/265 d.A.).Der Kläger beantragt,1)die Beklagte zu verurteilen, Auskunft zu erteilen und Rechnung zu legen über das aus dem In-Verkehr-Bringen des PKW VW Passat Variant, Fahrgestellnummer "..." Erlangte,2)für den Fall, dass die Auskunft bezüglich der Gewinnmarge nicht mit der erforderlichen Sorgfalt erteilt wurde, die Beklagte zu verurteilen, die Richtigkeit der Auskunft an Eides statt zu versichern,3)die Beklagte zu verurteilen, dem Kläger den sich aus der Auskunft ergebenden Betrag nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem Basis-zinssatz seit Rechtshängigkeit der Klage zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Wegen der weiteren Einzelheiten des Vorbringens der Parteien wird auf die Schrift-sätze des Klägers vom 26. November 2020 (Bd.I Bl. 1 - 34 d.A.), 4. Februar 2021 (Bd.I Bl. 146 - 149 d.A.), 25. März 2021 (Bd.II Bl. 264 - 267 d.A.) und vom 10. Mai 2021 (Bd.II Bl. 282/283 d.A.) und auf die Schriftsätze der Beklagten vom 15. Januar 2021 (Bd. I Bl. 49 - 133 d.A.), 3. März 2021 (Bd.I Bl. 15 7- 172 d.A.) und vom 22. April 2021 (Bd.II Bl. 275 - 277 d.A.), jeweils nebst Anlagen, Bezug genommen. 
+				Gründe
+				Die Klage ist zulässig, aber unbegründet.1.Die geltend gemachten Ansprüche stehen dem Kläger unter keinem rechtlichen Gesichtspunkt zu.a)Ein etwaiger Anspruch des Klägers gem. § 826 BGB ist verjährt und die Beklagte hat auch die Einrede der Verjährung erhoben.Deliktische Ansprüche von Besitzern eines Fahrzeuges mit dem Motor EA 189 gegen dessen Herstellerin haben in der Regel mit Ablauf des Jahres 2015 zu verjähren begonnen, weil das Unterlassen der Einholung einer Auskunft über die Betroffenheit des eigenen Fahrzeugs bei der Motorenherstellerin im Jahr 2015 angesichts der öffentlich verbreiteten Information des Kraftfahrt-Bundesamtes und der Motoren-herstellerin im Zweifel grob fahrlässig war. Danach sind solche Ansprüche mit Ablauf des 31. Dezember 2018 verjährt (OLG Stuttgart VRS 138, 241). Im Zeitpunkt des Eingangs der Klageschrift am 10. Dezember 2020 war ein etwaiger Anspruch des Klägers gem. § 826 BGB daher verjährt.Weitere Ausführungen erübrigen sich, da der Kläger nach der Klageänderung den zunächst gem. § 826 BGB geltend gemachten Anspruch nicht weiterverfolgt.b)Der Kläger hat gegen die Beklagte auch keinen sog. Restschadenersatzanspruch gem. § 852 BGB.Insoweit bedarf es keiner Entscheidung, ob § 852 BGB grundsätzlich in Fall-gestaltungen des sog. "Abgasskandals" anwendbar ist (so OLG Hamm, Urteil vom 3. Mai 2021 - 17 U 196/20 -; OLG Karlsruhe, Urteile vom 31. März 2021 - 13 U 678/20 und 13 U 693/20 -; OLG Koblenz, Urteil vom 31. März 2021 - 7 U 1602/20 -; OLG Stuttgart, Urteil vom 9. März 2021 - 10 U 339/20 -; a.A. OLG Frankfurt, Beschluss vom 21. Januar 2021 - 19 U 170/20 -).Vorliegend scheiden Ansprüche deswegen aus, weil der Kläger höchstens die Gewinnmarge der Beklagten verlangten könnte.Das OLG Oldenburg hat insoweit im Beschluss vom 21. Januar 2021 - 2 U 168/20 - Folgendes ausgeführt:Der Anspruch aus § 852 BGB ist zunächst durch den Schaden des Klägers limitiert. Dieser besteht nach seinem eigenen Vortrag nicht darin, dass im Zeitpunkt des Erwerbs des Fahr-zeugs eine objektive Werthaltigkeit von Leistung und Gegenleistung nicht gegeben war, sondern in der Eingehung der ungewollten Kaufvertragsverpflichtung. Selbst wenn man seinen Schaden in Höhe des entrichteten Kaufpreises ansetzt, kann er allerdings nicht mehr verlangen als die Gewinnmarge der Beklagten aus dem Verkauf an den Vertragshändler (sog. "doppelte Limitierung"). Denn der Kläger hat das Kraftfahrzeug als Neuwagen vom Vertragshändler er-worben, der es zuvor bei der Beklagten gekauft hatte. Der erlangte Vorteil, den die Beklagte aus dem In-Verkehr-Bringen der bemakelten Kraftfahrzeuge und damit der unerlaubten Handlung i.S.d. § 852 gezogen hat, besteht damit in der Gewinnmarge, den sie aus dem Ver-kauf des Kraftfahrzeuges an ihren Vertragshändler gezogen hat. Mehr kann der Kläger von Vornherein nicht verlangen. Wie der Bundesgerichtshof festgestellt hat (vgl. BGH NJW 2020, 1962 Rn. 64 - 77) ist der Schadensersatzanspruch des Klägers im Wege der Vorteils-ausgleichung zu kürzen. Dies kann - wie der Aufbau des BGH-Urteils zeigt - erst erfolgen, nachdem zuvor der erstattungsfähige Schaden festgestellt wurde. Dieser besteht bei § 852 BGB in der Gewinnmarge. Im Rahmen des Vorteilsausgleichs hat der Kläger nicht nur das Auto herauszugeben, sondern sich auch Nutzungen anrechnen zu lassen...Die Kammer schätzt die Gesamtlaufleistung des streitgegenständlichen Fahrzeugs gem. § 287 ZPO auf 300.000 km.Unter Berücksichtigung der bereits in der Klageschrift mitgeteilten Laufleistung von 155.000 km ergibt sich danach folgende Berechnung:28.368,40 € x 155.000 km299.992 km (300.000 km - 8 km)Daraus folgt eine vom Schaden abzuziehende Nutzungsentschädigung in Höhe von 14.657,39 Euro.Es ist demgegenüber ausgeschlossen, dass die Gewinnmarge der Beklagten diesen Betrag erreicht, weswegen unter diesem Gesichtspunkt ein Anspruch des Klägers ausscheidet.Die Klage war nach alledem abzuweisen.2.Die Kostenentscheidung folgt aus § 91 Abs. 1 S. 1 ZPO.3.Die Entscheidung hinsichtlich der vorläufigen Vollstreckbarkeit hat ihre Grundlage in § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2457146.html (https://oj.is/2457146)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

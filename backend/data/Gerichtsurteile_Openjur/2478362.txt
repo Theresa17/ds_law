@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungBeschluss vom 18.12.2020 - 3 U 55/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Beschluss vom 18.12.2020 - 3 U 55/20
+                      m. Fundstelle
+                      OLG Köln, Beschluss vom 18.12.2020 - 3 U 55/20 = openJur 2023, 11380
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Beschluss vom 18.12.2020 - 3 U 55/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2023, 11380
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das am 31.03.2020 verkündete Urteil der 30. Zivilkammer des Landgerichts Köln - Az. 30 O 81/19 - wird zurückgewiesen.Der Kläger trägt die Kosten des Berufungsverfahrens.Dieser Beschluss und das angefochtene Urteil sind ohne Sicherheitsleistung vorläufig vollstreckbar. Der Kläger kann die Vollstreckung durch Sicherheitsleistung in Höhe von 110 % des zu vollstreckenden Betrages abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in gleicher Höhe leisten.  
+				Gründe
+				I.Der Kläger macht gegen die Beklagte einen Schadensersatzanspruch im Zusammenhang mit dem sog. "Abgasskandal" geltend.Der Kläger erwarb am 02.05.2011 bei dem Händler W., Y., einen Pkw des Typs Porsche T. Euro 5 mit der Fahrzeug-Identnr. N01. Der Kaufpreis betrug 83.089,05 €. Am 09.12.2019 verkaufte der Kläger das Fahrzeug bei einem Kilometerstand von 96.993 km. Der Verkaufspreis betrug 21.000,00 €.Mit anwaltlichem Schreiben vom 24.08.2018 forderte der Kläger die Beklagte unter Fristsetzung bis zum 07.09.2018 zur Anerkennung der geltend gemachten Schadensersatzansprüche auf.Der Kläger hat behauptet, der in dem streitgegenständlichen Pkw verbaute Dieselmotor verfüge über eine verbotene Abschalteinrichtung und sei vom sogenannten Abgasskandal betroffen. Das Fahrzeug verfüge über eine Motorsteuerungssoftware, die den Ausstoß von Stickoxid im Prüfstandbetrieb optimiere. Die Software erkenne insofern anhand bestimmter Parameter, etwa von Lenkeinschlägen und der Fahrzeugneigung, ob sich das Fahrzeug auf einem technischen Prüfstand zur Ermittlung der Emissionswerte befinde und reduziere in einem solchen Fall den Abgasausstoß des Fahrzeugs. Auf diese Weise würden die Euro-5-Grenzwerte und Euro-6-Grenzwerte für NOx im Testbetrieb eingehalten, im realen Straßenbetrieb aber um ein Vielfaches überschritten.Der Kläger hat weiterhin behauptet, das Kraftfahrt-Bundesamt (im Folgenden: KBA) habe die Motorsteuerungssoftware von Modellen des streitgegenständlichen Typs untersucht und sei zu dem Ergebnis gekommen, die verbaute Software sei nicht gesetzeskonform. Es habe daher eine Überarbeitung der Software angeordnet.Der Kläger hat zudem behauptet, es sei ihm bei dem Erwerb des Fahrzeugs insbesondere auf die Umweltfreundlichkeit angekommen. Hätte er von der behaupteten Manipulation der Motorsteuerung gewusst, hätte er das streitgegenständliche Fahrzeug nicht erworben.Der Kläger ist der Ansicht gewesen, die Beklagte sei ihm gegenüber schadensersatzpflichtig. Die Beklagte habe ihn vorsätzlich und sittenwidrig geschädigt, indem sie das streitgegenständliche Fahrzeug bzw. den darin verbauten Motor entwickelt, hergestellt und in den Verkehr gebracht und eine gesetzeswidrige Softwareprogrammierung verschwiegen habe. Sein Schaden liege in einem nachteiligen Vertragsschluss, weil er den Vertrag ohne das haftungsauslösende Verhalten der Beklagten nicht eingegangen wäre. Auch das Aufspielen eines Software-Updates sei für die Schadensbeseitigung untauglich, da der merkantile Minderwert des Fahrzeugs auch nach einer Überarbeitung verbleibe und die Nachrüstung zu erheblichen Folgemängeln führen werde, namentlich einem erhöhten Rußpartikelausstoß und einer stärkeren Beanspruchung des Abgasrückführungsventils.Der Kläger ist ferner der Auffassung gewesen, maßgebliche Mitglieder des Vorstands der Beklagten hätten von dem Einbau der unzulässigen Abschalteinrichtung in den streitgegenständlichen Modelltyp Kenntnis gehabt. Dies ergebe sich aus den staatsanwaltlichen Ermittlungen gegen diverse Vorstandsmitglieder der Y. sowie aus den gesellschaftsrechtlichen Verflechtungen im W. und zeitweisen Doppelorganschaft von bestimmten Vorständen.Nachdem der Kläger zunächst die Rückzahlung des Kaufpreises abzüglich einer Nutzungsentschädigung Zugum-Zug gegen Übereignung des streitgegenständlichen Fahrzeugs beantragt hatte, hat er seine Anträge im Hinblick auf den zwischenzeitlich erfolgten Verkauf des Fahrzeugs abgeändert und hat beantragt, 1. die Beklagte zu verurteilen, an ihn 83.089,05 €, Zugum-Zug gegen Herausgabe des Verkaufspreises in Höhe von 21.000,00 € sowie der in Abzug zu bringenden Nutzungsentschädigung in Höhe von 26.863,52 € nebst Zinsen a) in Höhe von 4 % aus 83.089,05 € seit dem 02.05.2011 bis zum 07.09.2018 sowie b) in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz aus 35.225,53 € seit Rechtshängigkeit zu bezahlen; 2. festzustellen, dass die Beklagte verpflichtet ist, der Klagepartei alle Schäden zu ersetzen, die dieser im Zusammenhang mit dem Kauf des streitgegenständlichen Fahrzeugs entstanden sind und zukünftig entstehen werden; 3. die Beklagte zu verurteilen, der Klagepartei die Kosten des außergerichtlichen Vorgehens in Höhe von 1.954,46 € nebst Zinsen in Höhe von Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 24.08.2018 zu erstatten. Die Beklagte ist dem entgegengetreten und hat beantragt, die Klage abzuweisen.Die Beklagte ist der Auffassung gewesen, der Vortrag des Klägers sei unschlüssig, da er seine Ansprüche überwiegend auf Sachverhalte stütze, die in keinem Zusammenhang mit dem streitgegenständlichen Fahrzeug oder der Herstellerin des Fahrzeugs stünden. Die Ausführungen des Klägers würden sich auf eine Abschalteinrichtung des Motors N02 beziehen und seien für das streitgegenständliche Fahrzeug irrelevant. Es gäbe auch keinen Bescheid des KBA, der sich über diese Themen verhalte. Insbesondere sei das streitgegenständliche Fahrzeug nicht von der durch das KBA angeordneten Softwareaktualisierung betroffen, da es sich bei den von einem Rückruf betroffenen Fahrzeugen der Beklagten um andere Fahrzeugmodelle handele. Der streitgegenständliche Fahrzeugtyp unterliege nach der Bestätigung des KBA auch keinem Rückruf.Die Beklagte hat zudem behauptet und näher ausgeführt, sie habe den streitgegenständlichen Motor weder entwickelt noch hergestellt. Sie habe vielmehr überhaupt keine Dieselmotoren produziert noch entwickelt. Die von ihr in die Fahrzeuge eingebauten Dieselmotoren seien alle von einem anderen Unternehmen zugekauft worden.Die Beklagte ist weiter der Auffassung gewesen, der Kläger habe ein vorsätzliches Handeln ihrerseits betreffend den Einbau einer illegalen Abschalteinrichtung bzw. einer Täuschung hierüber nicht hinreichend substantiiert dargetan. Auch hinsichtlich einer etwaigen Kenntnis ihrerseits von einer vermeintlichen Manipulation habe der Kläger nicht hinreichend substantiiert vorgetragen.Das Landgericht hat mit am 31.03.2020 verkündetem und dem Kläger am 17.04.2020 zugestelltem Urteil die Klage abgewiesen. Zur Begründung hat es ausgeführt, die Beklagte hafte dem Kläger nicht aus deliktischen Anspruchsgrundlagen. Ein konkretes haftungsbegründendes Tun oder Unterlassen der Beklagten zu 2) sei klägerseits nicht dargelegt. Den Motor entwickelt oder hergestellt habe die Beklagte unstreitig nicht. Selbst wenn ein haftungsbegründendes Tun oder Unterlassen unterstellt würde, fehle es an einer schlüssigen Darlegung des Vorsatzes der Beklagten. Wegen der weiteren Einzelheiten wird auf das landgerichtliche Urteil Bezug genommen. Hiergegen richtet sich die am 14.05.2020 bei Gericht eingegangene und am 13.07.2020 nach Fristverlängerung um einen Monat begründete Berufung des Klägers.Mit der Berufung verfolgt der Kläger sein erstinstanzliches Begehren unter Wiederholung und Vertiefung seiner erstinstanzlichen Argumentation weiter. Das Landgericht habe rechtsfehlerhaft einen deliktischen Anspruch gegen die Beklagte verneint. Er vertritt die Auffassung, unter Berücksichtigung der ihm zugutekommenden Darlegungs- und Beweiserleichterungen hinreichend dargelegt und Beweis dafür angeboten zu haben, dass der Beklagten in Form der Leitung der technischen Entwicklung und verantwortlichen Personen im Geschäftsbereich "Recht" jedenfalls im Zeitpunkt des hier maßgeblichen Vertragsschlusses die Manipulation am streitgegenständlichen Fahrzeug bekannt gewesen sei. Zumindest im W. hätten bereits im Jahr 2015 detaillierte Kenntnisse zu Manipulationen an Diesel-Aggregaten vorgelegen. Ohnehin sei die Beklagte seitdem Jahr 2009 Teil des W. und habe auch enge gesellschaftsrechtliche Bindungen zu der K.. Der Kläger verweist ferner auf den Rückruf anderer Fahrzeuge der Y. mit einem 3,0 Liter Euro-6-Aggregat durch das KBA. Im Übrigen behauptet er erstmals, die Motorensteuerung des streitgegenständlichen Fahrzeugs sei exakt auf die Prüfbedingungen des NEFZ zugeschnitten.Der Kläger beantragt,1. unter Aufhebung des am 31.03.2020 verkündeten Urteils des Landgerichts Köln, Az. 30 O 81/19, die Beklagte zu verurteilen,an ihn 83.089,05 €, Zugum-Zug gegen Herausgabe des Verkaufspreises in Höhe von 21.000,00 € sowie der in Abzug zu bringenden Nutzungsentschädigung in Höhe von 26.863,52 € nebst Zinsena) in Höhe von 4 % aus 83.089,05 € seit dem 02.05.2011 bis zum 07.09.2018 sowieb) in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz aus 35.225,53 € seit Rechtshängigkeit zu bezahlen;2. festzustellen, dass die Beklagte verpflichtet ist, der Klagepartei alle Schäden zu ersetzen, die dieser im Zusammenhang mit dem Kauf des streitgegenständlichen Fahrzeugs entstanden sind und zukünftig entstehen werden;3. die Beklagte zu verurteilen, der Klagepartei die Kosten des außergerichtlichen Vorgehens in Höhe von 1.954,46 € nebst Zinsen in Höhe von Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 24.08.2018 zu erstatten.Die Beklagte beantragt,die Berufung zurückzuweisen,hilfsweise für den Fall des Unterliegens, die Revision zuzulassen.Die Beklagte verteidigt das landgerichtliche Urteil nach Maßgabe der Berufungserwiderung unter Bezugnahme auf ihren erstinstanzlichen Vortrag. Die Beklagte behauptet, nach dem Aufkommen der Dieselthematik bei K. Erkundigungen eingeholt zu haben, ob in den an sie gelieferten Motoren unzulässige Abschalteinrichtungen enthalten gewesen seien. Dies sei jedoch verneint worden. Auch im weiteren Verlauf habe K. ihr dies mehrfach versichert. Nachdem im November 2015 bei der US-amerikanischen Variante des T. Verdachtsmomente aufgekommen seien, sei ihr aber auch zu diesem Zeitpunkt von K. weiterhin die Gesetzeskonformität der gelieferten V6 Motoren mit EU-Abgaskonzepten bestätigt worden.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien im Berufungsrechtszug gewechselten Schriftsätze sowie die zu den Akten gereichten Urkunden Bezug genommen.II.Die Berufung des Klägers war gemäß § 522 II ZPO durch einstimmigen Beschluss zurückzuweisen, weil das Rechtsmittel offensichtlich keine Aussicht auf Erfolg hat (§ 522 II 1 Nr. 1 ZPO). Es ist nicht ersichtlich, dass die angefochtene Entscheidung auf einer Rechtsverletzung beruht (§ 546 ZPO) oder nach § 529 ZPO zugrunde zu legende Tatsachen eine andere Entscheidung rechtfertigen (§ 513 I ZPO). Die Rechtssache hat auch keine grundsätzliche Bedeutung (§ 522 I ZPO). Ebenso wenig ist eine Entscheidung des Senats durch Urteil zur Fortbildung des Rechts oder zur Sicherung einer einheitlichen Rechtsprechung erforderlich (§ 522 II 1 Nr. 3 ZPO) oder aus anderen Gründen eine mündliche Verhandlung geboten (§ 522 II 1 Nr. 4 ZPO).Der Kläger ist auf die beabsichtigte Zurückweisung der Berufung und die Gründe hierfür mit Beschluss des Senats vom 04.11.2020 (Bl. 247 ff. d.A.) hingewiesen worden. Er hat innerhalb der ihm gesetzten Frist inhaltlich keine Stellung genommen. Veranlassung für ergänzende Ausführungen des Senats besteht daher nicht. Der Senat hält an seinen im vorgenannten Beschluss geäußerten Erwägungen, auf die zur Vermeidung von Wiederholungen vollumfänglich Bezug genommen wird, fest.Die Kostenentscheidung beruht auf § 97 I ZPO; die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus §§ 708 Nr. 10, 711 ZPO.Der Streitwert für den Rechtsstreit in beiden Instanzen wird auf bis zu 36.225,53 Euro (35.225,53 Euro für den Antrag zu 1) und 1.000,00 Euro für den Antrag zu 2), die übrigen Anträge haben keinen eigenen Wert) festgesetzt, für die erste Instanz jedoch nur ab dem 21.02.2020, zuvor beträgt er bis zu 68.000,00 Euro (Kaufpreis abzüglich Nutzungen vor dem Verkauf des Fahrzeugs und zzgl. des Werts des Antrags zu 2).
+			
+			
+			
+			Permalink: https://openjur.de/u/2478362.html (https://oj.is/2478362)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

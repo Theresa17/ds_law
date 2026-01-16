@@ -1,0 +1,156 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteThüringenOrdentliche GerichtsbarkeitOLG JenaRechtsprechungBeschluss vom 28.02.2022 - 1 U 1012/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Jena, Beschluss vom 28.02.2022 - 1 U 1012/21
+                      m. Fundstelle
+                      OLG Jena, Beschluss vom 28.02.2022 - 1 U 1012/21 = openJur 2022, 19022
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Jena, Beschluss vom 28.02.2022 - 1 U 1012/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 19022
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 10 O 74/21
+				
+
+
+			
+			
+			
+			
+				 
+					
+				document.addEventListener('DOMContentLoaded', function () {
+				  document.getElementById('togglerubrum')
+				          .addEventListener('click', function toggleRubrum() { var tb = document.getElementById('rubrumToggleButton'); tb.classList.toggle('fa-plus-square'); tb.classList.toggle('fa-minus-square'); });
+				});
+				 Rubrum
+				
+				 
+				 Thüringer OberlandesgerichtBeschlussIn dem Rechtsstreit...- Beklagte, Berufungsklägerin u. Berufungsbeklagte -gegen...- Klägerin, Berufungsbeklagte u. Berufungsklägerin -Prozessbevollmächtigte: ...wegen Pkw-Kaufhat der 1. Zivilsenat des Thüringer Oberlandesgerichts in Jena durch...am 28.02.2022beschlossen:
+				 
+				
+				Tenor
+				1. Die Berufungen der Klägerin und der Beklagten gegen das Urteil des Landgerichts Erfurt vom 23.08.2021, Aktenzeichen 10 O 74/21, werden zurückgewiesen.2. Von den Kosten des Berufungsverfahrens tragen die Klägerin 1/3 und die Beklagte 2/3.3. Das in Ziffer 1 genannte Urteil des Landgerichts Erfurt und dieser Beschluss sind ohne Sicherheitsleistung vorläufig vollstreckbar.4. Der Streitwert für das Berufungsverfahren wird auf 9.373,28 EUR festgesetzt (Berufung Klägerin: 3.023,02 EUR; Berufung Beklagte: 6.350,26 EUR).  
+				Gründe
+				I.Die Parteien streiten um einen Schadensersatzanspruch der Klägerin gegen die Beklagte wegen einer vorsätzlich sittenwidrigen Schädigung, weil in dem Fahrzeug der Klägerin der von der Beklagten hergestellte Motor vom Typ EA 189 verbaut ist, der vom sog. Dieselskandal betroffen ist.Im Berufungsverfahren von Relevanz sind allein die Fragen der zugrundezulegenden Gesamtlaufleistung des Motors sowie die verjährungshemmende Wirkung der Klage der Financialright GmbH.Wegen der Einzelheiten des Sach- und Streitstandes in der 1. Instanz sowie die dort verfolgten Anträge wird auf das landgerichtliche Urteil Bezug genommen.Das Landgericht hat der Klage mit Urteil vom 23.08.2021 in Höhe von 6.350,26 EUR Zug um Zug gegen Übergabe und Übereignung des klägerischen Fahrzeugs stattgegeben und dabei eine Gesamtlaufleistung des Motors von 250.000 km angenommen sowie die Klage der Financialright GmbH als verjährungshemmend angesehen.Wegen der weiteren Einzelheiten der landgerichtlichen Argumentation wird auf die Entscheidungsgründe des landgerichtlichen Urteils Bezug genommen.Hiergegen richten sich die wechselseitig eingelegten Berufungen.Die Klägerin meint, es sei eine Gesamtlaufleistung von mindestens 300.000 km anzunehmen.Die Klägerin beantragtunter Zurückweisung der Berufung der Beklagten undAbänderung des Urteils des Landgerichts Erfurt vom 23.08.2021, Az. 10 O 74/21,1. die Beklagte zu verurteilen, an die Klägerin weitere 3.023,02 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dam 16.02.2021 zu zahlen;2. festzustellen, dass sich die Beklagte seit dem 30.10.2020 mit der Rücknhame des Fahrzeugs mit der Fahrgestellnummer ... in Annahmeverzug befindet.Die Beklagte beantragtunter Zurückweisung der Berufung der Beklagten und Abänderung des Urteils des Landgerichts Erfurt vom 23.08.2021, Az. 10 O 74/21,die Klage abzuweisen.Die Beklagte meint, der Klage der Financialright GmbH sei nicht verjährungshemmend. Die Abtretung der klägerischen Forderung an die Financialright GmbH sei nichtig.Wegen der weiteren Einzelheiten des Sach- und Streitstandes in der Berufungsinstanz wird auf die wechselseitigen Schriftsätze der Parteien nebst Anlagen Bezug genommen.II.Die Berufungen sind jeweils statthaft, § 511 ZPO, und auch im Übrigen zulässig; insbesondere sind die Rechtsmittel form- und fristgerecht eingelegt und begründet worden, §§ 517, 519, 529 ZPO.Die Berufungen sind aber gemäß § 522 Abs. 2 ZPO zurückzuweisen, weil nach einstimmiger Auffassung des Senats die Rechtsmittel offensichtlich keine Aussicht auf Erfolg haben, der Rechtssache auch keine grundsätzliche Bedeutung zukommt, weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Berufungsgerichts erfordert und die Durchführung einer mündlichen Verhandlung über die Berufungen nicht geboten ist.Zur Begründung wird zunächst auf den vorausgegangenen Hinweis des Senats vom 18.01.2022 Bezug genommen, im dem ausgeführt ist:"1. Berufung der KlägerinDas Landgericht dürfte die Gesamtlaufleistung des Motors zutreffend mit 250.000 km angenommen haben, entspricht dies doch der ständigen Rechtsprechung des Senats.2. Berufung der BeklagtenDie Annahme des Landgerichts, der Anspruch der Klägerin sei wegen der durch die Financialright GmbH in unverjährter Zeit, nämlich im Jahre 2018, erhobene Klage gehemmt worden, dürfte zutreffend sein. Die Abtretung an und die Geltendmachung der Forderung durch die Financialright GmbH dürften nicht wegen eines Verstoßes gegen das RDG nach § 134 BGB nichtig sein. Wegen der Wirksamkeit von Abtretungen zum Zwecke einer Sammelklage schließt sich der Senat der Entscheidung des Bundesgerichtshofs vom 13.07.2021 - I ZR 84/20, juris, und dem folgend der Entscheidung des OLG Nürnberg vom 20.10.2021 - 12 U 1432/20, juris, an."In Bezug auf die Berufung der Klägerin ist ergänzend auszuführen, dass der Annahmeverzug nicht festzustellen war, weil die Aufforderung der Klägerin an die Beklagte im Rückabwicklungsschreiben vom 22.12.2020 eine zu niedrige Nutzungsentschädigung angesetzt hat (vgl. hierzu BGH, Urteil vom 25.05.2020 - VI ZR 252/19, juris Rn. 85).Die Gegenäußerung der Beklagten vom 16.02.2022 führt zu keinem Erfolg ihres Rechtsmittels. Der Senat folgt der bekannten Entscheidung des Schleswig-Holsteinischen Oberlandesgerichts, Urteil vom 11.01.2022 - 7 U 130/21, juris, nicht. Die dort unter Rn. 51 aufgeführten Gründe, mit denen die Entscheidung des Bundesgerichtshofs vom 13.07.2021 - II ZR 84/20, juris, abgelehnt wird, überzeugt nicht. Insbesondere vermag der Senat nicht zu erkennen, dass der II. Zivilsenat des Bundesgerichtshofs die Entscheidungen des VIII. Zivilsenats "ignoriert" hat.Die Kostenentscheidung beruht auf §§ 97 Abs. 1, 92 Abs. 1 ZPO.Die Feststellung zur vorläufigen Vollstreckbarkeit des angefochtenen Urteils und dieses Beschlusses erfolgte gemäß §§ 708 Nr. 10, 713 ZPO.Der Streitwert für das Berufungsverfahren wurde in Anwendung der §§ 47, 48 GKG bestimmt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2453096.html (https://oj.is/2453096)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert0
+				
+
+				
+					 Faksimile
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 14.08.2019 - 1 O 554/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 14.08.2019 - 1 O 554/18
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 14.08.2019 - 1 O 554/18 = openJur 2021, 13670
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 14.08.2019 - 1 O 554/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 13670
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger erwarb am 27.01.2017 von der Beklagten zu 1.) einen gebrauchten PKW C 1.6 $$$ zu einem Kaufpreis von 13.980,00 Euro (brutto). In Höhe von 980,00 Euro wurde der Kaufpreis verrechnet mit einem vom Kläger in Zahlung gegebenen Fahrzeug. Der verbleibende Teil des Kaufpreises in Höhe von 13.000,00 Euro wurde durch den Kläger durch Aufnahme eines Darlehens bei der F Bank in dieser Höhe finanziert. Hierzu entstanden dem Kläger Finanzierungskosten (Zinsen) in Höhe von 1.092,21 Euro.Das streitgegenständliche Fahrzeug hatte zum Zeitpunkt des Kaufs eine Gesamtfahrleistung von 71.300 km.Das Fahrzeug ist mit einem Dieselmotor des Typs EA189 ausgestattet, der von der Beklagten zu 2.) hergestellt und in den Verkehr gebracht wurde und mit der Abgasnorm EURO 5 zertifiziert ist. Die verbaute Software der Motorsteuergeräte verfügt über eine Umschaltlogik, die erkennt, wenn das Fahrzeug den sogenannten Neuen Europäischen Fahrzyklus (NEFZ) durchfährt.Bei dem NEFZ handelt es sich um einen gesetzlich vorgegebenen Testlauf, der aus fünf synthetischen Fahrkurven besteht. Im NEFZ werden bei Testfahrzeugen unter Laborbedingungen die für die Erlangung einer Typengenehmigung maßgeblichen Abgaswerte gemessen. Denn Hersteller von Fahrzeugen müssen nach der VO (EG) Nr.715/2007 (Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20.06.2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge nachweisen, dass die von ihnen produzierten (Neu-) Fahrzeuge über eine Typengenehmigung verfügen. Zur Erlangung dieser Typengenehmigung müssen die Fahrzeuge bestimmte, unter diesen Laborbedingungen gemessene, Emissionsgrenzwerte einhalten.Erkennt die im streitgegenständlichen Fahrzeug ursprünglich installierte Software diese Testbedingungen des NEFZ, so wird die Abgasrückführung des Fahrzeuges so gesteuert, dass möglichst wenig Stickoxide (NOx) ausgestoßen werden ("NOxoptimierter Modus 1"). Im normalen Fahrbetrieb und Straßenverkehr ist hingegen der "Abgasrückführungs-Modus 0" aktiv, weshalb die NOx-Emissionen dann höher sind. Die Beklagte zu 2.) informierte weder den Kläger noch die zuständigen Genehmigungsbehörden über das Vorhandensein einer solchen Motorsteuerung.Das Kraftfahrt-Bundesamt ordnete zunächst den Rückruf aller mit dem Motortyp EA189 EU5 und der beschrieben Umschaltlogik versehenen Fahrzeuge an und genehmigte später ein von der Beklagten zu 2.) für diesen Motortyp entwickeltes Softwareupdate. Dieses wurde durch die Beklagte zu 1.) zu einem nicht bekannten Zeitpunkt bei dem streitgegenständlichen Fahrzeug aufgespielt.Das zur Finanzierung des streitgegenständlichen Fahrzeugs aufgenommene Darlehen wurde durch den Kläger am 21.11.2018 abgelöst.Der Kläger erklärte gegenüber der Beklagten zu 1.) mit Schreiben vom 30.11.2018 die Anfechtung wegen arglistiger Täuschung sowie hilfsweise den "sofortigen Rücktritt" vom Kaufvertrag (Anlage K 6 = Bl. ... d. A.). Er forderte die Beklagte zu 1.) auf, den Kaufpreis in Höhe von 13.980,00 Euro abzüglich einer Nutzungsentschädigung in Höhe von 1.800,00 Euro zu zahlen. Er erklärte sich ferner bereit, im Gegenzug das Fahrzeug an die Beklagte zu 1.) zu übereignen.Die geltend gemachten vorgerichtlichen Rechtsanwaltskosten errechnet der Kläger bei einem angenommenen Gegenstandswert von 15.322,21 Euro aus einer 1,3 Geschäftsgebühr zuzüglich Pauschale und Umsatzsteuer.Der Kläger behauptet, er habe keine Kenntnis von der Motorsteuerungssoftware zum Kaufzeitpunkt gehabt. Er habe von Berufs wegen nichts mit Autos zu tun gehabt, da er zum damaligen Zeitpunkt im Bereich Metallbau/Schlosserei als Werkstattleiter bei einem türkischen Unternehmen gearbeitet habe, das u.a. Metallgeländer herstelle. Mit den türkischsprachigen Arbeitskollegen hätte er nicht über Autos geredet. Neben der umfangreichen beruflichen Tätigkeit sei er privat durch seine Familie stark ausgelastet gewesen. Er habe sich nicht für das aktuelle Tagesgeschehen interessieren können. Auch nach dem Kauf habe er eine lange Zeit keine Kenntnis von dem Vorhandensein der Motorsteuerungssoftware gehabt. Das Aufspielen der neuen Motorsteuerungssoftware sei ihm auch durch die Beklagte zu 1.) nicht näher erläutert worden. Positive Kenntnis des Mangels hätte der Kläger erst erlangt, nachdem das Schreiben seines Prozessbevollmächtigten an die Beklagte zu 2.) mit Fragen zur Software von dieser mit Schreiben vom 25.10.2018 beantwortet worden sei.Der Kläger beantragt:1. Die Beklagte zu 1.) wird verurteilt, Zug um Zug gegen Übereignung und Herausgabe des Fahrzeugs C 1.6 $$$, Fahrzeug-Ident.Nr.: $$$$$$#$$$$... nebst Zubehör (bestehend aus 1 Warndreieck, 1 Reifenpumpe, 1 Erste-Hilfe-Kasten, 1 Abschleppschraube, 2 Schlüssel, 4 Winterreifen, 4 Allwetterreifen) an ihn 15.322,21 Euro nebst Zinsen in Höhe von 4 Prozent jährlich aus 13.980 Euro seit dem 01.02.2017 sowie Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz aus 1.321,21 Euro seit Rechtshängigkeit zu zahlen.2. Es wird festgestellt, dass die Beklagte zu 2.) verpflichtet ist, ihm Schadensersatz zu bezahlen für Schäden, die aus der Manipulation des Fahrzeugs C 1.6 $$$, Fahrzeug-Ident.-Nr.: $$$$$$#$$$$... durch die Beklagte zu 2.) resultieren.3. Es wird festgestellt, dass sich die Beklagte zu 1.) mit der Rücknahme des im Klageantrag Ziffer 1. genannten PKW in Annahmeverzug befindet.4. Die Beklagten werden als Gesamtschuldner verurteilt, ihn von den durch die Beauftragung seines Prozessbevollmächtigten entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 526,58 € freizustellen.Die Beklagten beantragen,die Klage abzuweisen.Die Beklagte zu 1.) behauptet, aufgrund des Zeitpunkts des Kaufes am 27.01.2017, mithin etwa eineinhalb Jahre nach Adhoc Mitteilung der Beklagten zu 2.) zur streitgegenständlichen Umschaltsoftware und dem Öffentlichwerden der Diesel-Thematik, sei davon auszugehen, dass der Kläger das Fahrzeug in Kenntnis der streitgegenständlichen Software und ihrer Funktionsweise erworben habe.Sie ist der Ansicht, dass weder vertragliche noch deliktische Ansprüche gegeben seien.Die Beklagte zu 2.) behauptet, ihr Vorstand habe keine Kenntnis vom Einsatz der streitgegenständlichen Motorsteuerungs-Software gehabt.Sie ist der Ansicht, bei der streitgegenständlichen Motorsteuerungssoftware handele es sich nicht um eine verbotene Abschalteinrichtung, da diese Software nicht auf das Emissionskontrollsystem einwirke und die Wirksamkeit des Emissionskontrollsystems zudem nicht im Laufe des realen Fahrzeugbetriebes reduziere. Ohnehin komme es für die Typgenehmigung allein auf die Emissionen auf dem Prüfstand an. Zudem sei die Annahme eines Schadens auch durch die Durchführung des Software-Updates ausgeschlossen. Durch die Abstimmung und Überprüfung der technischen Maßnahmen mit dem Kraftfahrt-Bundesamt sei sichergestellt, dass sich die technischen Maßnahmen nicht negativ auf den Kraftstoffverbrauch, die Leistung, die Lebensdauer und die CO2-Emissionen des Fahrzeugs auswirken würden. Gehe man von einem Ersatzanspruch des Klägers aus, sei vom Kaufpreis eine Nutzungsentschädigung abzuziehen.Wegen der weiteren Einzelheiten des Sach- und Streitstands wird auf die wechselseitigen Schriftsätze der Parteien und die diesen beigefügten Anlagen sowie auf das Protokoll der mündlichen Verhandlung vom 03.07.2019 (Bl. ...#-...# d. A.) Bezug genommen. 
+				Gründe
+				Die Klage ist teilweise bereits unzulässig, teilweise zulässig aber unbegründet.I.Dem Kläger steht der mit dem Antrag zu 1. geltend gemachte Zahlungsanspruch gegen die Beklagte zu 1.) in Höhe von 15.322,21 Euro zu, Zugum-Zug gegen Übergabe und Übereignung des streitgegenständlichen PKW unter keinem rechtlichen Gesichtspunkt zu.1.Vertragliche Ansprüche des Klägers sind insoweit nicht gegeben.a)Die geltend gemachten Ansprüche kann der Kläger nicht auf seine unter dem 30.11.2018 erklärte Anfechtung wegen arglistiger Täuschung stützen.Der zwischen dem Kläger und der Beklagten zu 1.) am 27.01.2017 geschlossene Kaufvertrag (und auch die dingliche Übereignung des Fahrzeugs) ist nicht als von Anfang an nichtig anzusehen, da der Kläger diesen nicht wirksam angefochten hat (§ 142 Abs. 1 BGB).Eine wirksame Anfechtung setzt ein anfechtbares Rechtsgeschäft voraus, mithin einen Anfechtungsgrund. Ein solcher kann u.a. nach § 123 Abs. 1 BGB dann gegeben sein, wenn der später Anfechtende zur Abgabe einer Willenserklärung durch arglistige Täuschung bestimmt worden ist. Eine Täuschung nach § 123 Abs. 1 BGB kann durch positives Handeln (Vorspiegeln falscher Tatsachen) - ausdrücklich wie schlüssig - erfolgen. Bei einer Aufklärungspflicht genügt auch Unterlassen. Wenn § 123 Abs. 1 BGB für die Täuschung "Arglist" verlangt, so meint dies vorsätzliches Handeln.Die Beklagte zu 1.) hat den Kläger nicht durch positives Handeln getäuscht. Dass die Beklagte zu 1.) dem Kläger in zurechenbarer Weise bei Abschluss des Kaufvertrages oder im Vorfeld dazu - ausdrücklich oder schlüssig - falsche Tatsachen vorgespielt hätte, ist weder vorgetragen noch ersichtlich.Die Beklagte zu 1.) hat den Kläger auch nicht durch Unterlassen getäuscht. Die hierzu erforderliche Verletzung einer Aufklärungspflicht ist nicht ersichtlich. Entscheidend für die Annahme einer Aufklärungspflicht ist, ob der andere Teil nach Treu und Glauben mit Rücksicht auf die Verkehrssitte redlicherweise Aufklärung erwarten durfte. Entscheidend dafür ist, ob der andere Teil nach Treu und Glauben mit Rücksicht auf die Verkehrssitte redlicherweise Aufklärung erwarten durfte. Grundsätzlich ist es Sache jeder Vertragspartei, ihre Interessen selbst wahrzunehmen. Das gilt insbesondere für den Kaufvertrag, der von gegensätzlichen Interessen geprägt ist. Es besteht daher keine allgemeine Pflicht, alle Umstände zu offenbaren, die für die Entschließung des anderen Teils von Bedeutung sein können. Es muss sich vielmehr um besonders wichtige Umstände handeln, die für die Willensbildung der anderen Seite offensichtlich von ausschlagender Bedeutung sind. Das gilt vor allem für Umstände, die den Vertragszweck vereiteln oder erheblich gefährden können oder geeignet sind, dem Vertragspartner erheblichen wirtschaftlichen Schaden zuzufügen (vgl. Palandt-Ellenberger, BGB, 78. Auflage 2019, § 123 Rn. 5, 5b m.w.N.).Dabei kann ohne Weiteres davon ausgegangen werden, dass die Beklagte zu 1.) zum Zeitpunkt des Kaufs im Januar 2017 von dem Vorliegen einer unzulässigen Abschalteinrichtung auch im streitgegenständlichen Fahrzeug wusste.Eine Aufklärungspflicht der Beklagten zu 1.) hätte nach den vorgenannten Grundsätzen insbesondere dann bestanden, wenn wegen der Verwendung der unzulässigen Abschalteinrichtung eine Entziehung der EG-Typengenehmigung für das streitgegenständliche Fahrzeug und damit dessen Stilllegung gedroht hätte. Das ist aber nicht der Fall. Zum Zeitpunkt des Kaufs im Januar 2017 drohte keine Entziehung der Gesamtfahrzeug-Typgenehmigung, weil das KBA in seinem Bescheid vom 15.10.2015 - was gerichtsbekannt ist - sein gemäß § 25 Abs. 3 EG-FGV zustehendes Ermessen gerade nicht dahingehend ausgeübt hat, dass es eine Entziehung der EG-Typgenehmigung in die Wege geleitet hat. Die Behörde ist vielmehr nach § 25 Abs. 2 EG-FGV vorgegangen und hat Nebenbestimmungen zur bestehenden Typgenehmigung angeordnet. Doch selbst eine Entziehung der Typgenehmigung hätte erst dann die Folge der Nichtnutzbarkeit des klägerischen Fahrzeugs, wenn die zuständige Landesbehörde daraufhin wiederum von dem ihr gemäß § 5 FZV zustehenden Ermessen Gebrauch machen würde, die Nutzung des Fahrzeugs dauerhaft zu untersagen, was eine Entziehung der Zulassung beinhalten würde. All dies ist nicht erfolgt und drohte zum Zeitpunkt des Kaufes auch nicht einzutreten.Bei dieser Bewertung hat die Kammer ferner bedacht, dass allein das Vorliegen einer unzulässigen Abschalteinrichtung - wie der Bundegerichtshof ausdrücklich ausgeführt hat (Beschluss vom 08.01.2019 - VIII ZR 225/17) - nicht ausreichend für das Vorliegen eines Sachmangels im Sinne von § 434 Abs. 1 BGB ist. Hinzutreten muss vielmehr der weitere Umstand, dass aufgrund dessen der weitere (ungestörte) Betrieb des Fahrzeugs des Klägers im öffentlichen Straßenverkehr nicht gewährleistet und sich das Fahrzeug somit nicht zur gewöhnlichen Verwendung im Sinne von § 434 Abs. 1 Satz 2 Nr. 2 BGB eignet. Dieser Umstand war - wie dargestellt - im Januar 2017 jedoch nicht gegeben und drohte auch nicht.Andere Umstände, die die Annahme einer Aufklärungspflicht begründen könnten, sind weder vorgetragen noch ersichtlich.b)Der Kaufvertrag wurde auch nicht durch den "sofortigen Rücktritt" des Klägers vom 30.11.2018 in ein Rückabwicklungsschuldverhältnis im Sinne von §§ 346 ff. BGB umgewandelt. Der Kläger hat den Rücktritt vom Kaufvertrag nicht wirksam erklärt, weil er der Beklagten zu 1.) zuvor keine Frist zur Nacherfüllung gesetzt hat und eine solche Fristsetzung hier nicht entbehrlich war.§ 323 Abs. 1 BGB bestimmt, dass der Gläubiger dem Schuldner vor seinem Rücktritt vom Vertrag erfolglos eine angemessene Frist zur Nacherfüllung gesetzt haben muss. Dies ist nicht geschehen. Viel mehr erfolgte der Rücktritt "sofortig" unter dem 30.11.2018.Der Kläger hätte folglich nur dann wirksam vom Kaufvertrag zurücktreten können, wenn eine Fristsetzung ausnahmsweise ganz entbehrlich gewesen wäre. Vorliegend ist jedoch keiner der hier in Betracht kommenden Ausnahmetatbestände erfüllt. Die Fristsetzung war weder wegen Unzumutbarkeit der Nacherfüllung im Sinne von § 440 S. 1 Alt. 3 BGB, noch aufgrund besonderer Umstände im Sinne von § 323 Abs. 2 Nr. 3 BGB oder wegen Unmöglichkeit im Sinne von § 326 Abs. 5 BGB entbehrlich (vgl. zu Fällen "manipulierter Abgassoftware" etwa: OLG Köln, Beschluss vom 04.06.2018 - Az. 16 U 173/17; LG Bonn, Urteil vom 25.05.2018 - Az. 1 O 148/17).2.Dem Kläger stehen gegen die Beklagte zu 1.) auch keine deliktischen Ansprüche zu.a)Die Beklagte zu 1.) hat den Kläger nicht betrogen (§ 823 Abs. 2 BGB in Verbindung mit § 263 StGB).Die Beklagte selbst als juristische Person kann gemäß § 14 StGB keine Straftat begehen. Dass den Kläger eine natürliche Person, etwa ein Verkäufer der Beklagten zu 1.), durch aktives Tun oder Unterlassen, getäuscht hätte, behauptet dieser bereits nicht. Der Kläger bezeichnet in seinen Ausführungen stets die Beklagte zu 1.) als die täuschende (juristische) Person. Ein etwaiges täuschendes Verhalten einer natürlichen Person wäre der Beklagten zu 1.) auch nicht ohne Weiteres zurechenbar. Soweit der Kläger der Vortrag des Klägers so verstanden werden kann, dass Handlungen von Verkaufspersonal der Beklagten zu 1.) gemäß § 31 BGB zuzurechnen seien, ist dadurch eine Täterschaft im Sinne des § 263 StGB nicht dargelegt.Vor diesem Hintergrund kann es offen bleiben, ob dem Kläger im Januar 2017, also etwa 1,5 Jahre nach der durch die Beklagte zu 2.) veröffentlichen Adhoc-Mitteilung, ein täuschungsbedingter Irrtum entstanden ist.b)Ansprüche des Klägers gegen die Beklagte zu 1.) aus §§ 826, 31 BGB sind ebenfalls nicht gegeben.Der Tatbestand des § 826 BGB muss von einer wesensmäßige Funktionen der juristischen Person selbständig und eigenverantwortlich wahrnehmenden Person vollständig verwirklicht worden sein (BGH, Urteil vom 28.06.2016 - VI ZR 536/15). Dieses Erfordernis resultiert aus dem mit § 826 BGB verbundenen Unwerturteil. Wie bereits in Bezug auf § 823 Abs. 2 in Verbindung mit § 263 StGB erörtert, benennt der Kläger eine solche Person nicht. Die Handlung einer solchen ist auch nicht ersichtlich.II.Die im Rahmen des Klageantrags zu 1.) geltend gemachten Nebenforderungen teilen das Schicksal der Hauptforderung.III.Der auf Feststellung einer Schadensersatzpflicht der Beklagten zu 2.) wegen der Manipulation des streitgegenständlichen Fahrzeugs gerichtete Klageantrag zu 2.) ist bereits unzulässig. Die Zulässigkeit unterstellt, wäre der Klageantrag auch unbegründet.1.Die Klage ist im Klageantrag zu 2.) unzulässig, denn dem Kläger fehlt das erforderliche Feststellungsinteresse (§ 256 ZPO).Dies folgt einerseits daraus, weil dem Kläger mit der Leistungsklage eine bessere Rechtsschutzmöglichkeit zur Verfügung steht.Ist Klage auf Leistung möglich und zumutbar, wird im Interesse der endgültigen Klärung des Streitstoffs in einem Prozess das abstrakte Feststellungsinteresse regelmäßig fehlen. Eine auf Feststellung des Anspruchsgrundes beschränkte Feststellungklage ist dann unzulässig (BGH, Beschluss vom 04.04.1952 - III ZA 20/52).So liegt der Fall auch hier. Es ist dem Kläger ohne Weiteres möglich, seine Ansprüche zu beziffern. Dass dies dem Kläger möglich ist, zeigt sich bereits an den Ausführungen zu dem gegen die Beklagte zu 1.) gerichteten Klageantrag zu 1.).Das Feststellungsinteresse ist andererseits auch deshalb nicht gegeben, weil der Kläger, sofern sie durch den Feststellungsantrag weitere Schäden erfassen möchte, eine Vermögensgefährdung nicht substantiiert dargetan hat.Bei der Verletzung einer Norm zum Schutz des Vermögens fehlt es an einem feststellbaren Rechtsverhältnis, solange der Eintritt irgendeines Schadens noch ungewiss ist. Hier muss der Kläger bereits für die Zulässigkeit der Klage eine Vermögensgefährdung, d.h. die Wahrscheinlichkeit eines auf die Verletzungshandlung zurückzuführenden Schadens, substantiiert dartun (BGH, Beschluss vom 09.01.2007 - VI ZR 133/06; Greger in: Zöller, Zivilprozessordnung, 32. Auflage 2018, § 256 ZPO Rn. 9; anders bei der Verletzung eines absoluten Rechtsguts, wo es ausreicht, wenn künftige Schadensfolgen auch nur entfernt möglich sind).Diesen Anforderungen genügt der Klägervortrag nicht. Sofern der Kläger in der Klageschrift vorträgt, dass u.a. weitere Schäden durch Steuernachteile durch die Verwendung des Fahrzeugs drohen würden oder Nutzungsuntersagungen durch das Kraftfahrbundesamt drohen würden, so ist dieser Vortrag bereits zu pauschal gehalten und der Eintritt der dargestellten Gefahren so vage, dass daraus eine Vermögensgefährdung nicht abgeleitet werden kann.2.Die Klage hätte im Klageantrag zu 2.) auch in der Sache keinen Erfolg.Ein Schadensersatzanspruch steht dem Kläger gegen die Beklagte zu 2.) weder aus § 826 BGB noch aus § 823 Abs. 2 BGB i. V. m. § 263 Abs. 1 StGB zu.a)Es fehlt im vorliegenden Fall an der Sittenwidrigkeit der schädigenden Handlung der Beklagten zu 2.). Insofern hat der Kläger die Tatbestandsvoraussetzungen des § 826 BGB nicht schlüssig dargelegt.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, unter Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist und gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann (vgl. etwa BGH, Urteil vom 28.06.2016 - VI ZR 536/15). Ein Unterlassen verletzt die guten Sitten nur dann, wenn das geforderte Tun einem sittlichen Gebot entspricht. Hierfür reicht die Nichterfüllung einer allgemeinen Rechtspflicht oder einer vertraglichen Pflicht nicht aus. Auch hier müssen besondere Umstände hinzutreten, die das schädigende Verhalten nach den Maßstäben der allgemeinen Geschäftsmoral und des als "anständig" Geltenden verwerflich machen (BGH, aaO, m.w.N.). Schon zur Feststellung der Sittenwidrigkeit kann es daher auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen.Selbst unter der Annahme, dass die Beklagte zu 2.) das streitgegenständliche Fahrzeug mit einer Umschaltautomatik in Verkehr gebracht hat, ist das Verhalten der Beklagten nach diesem Maßstab zum maßgeblichen Zeitpunkt des Erwerbs des Fahrzeugs durch den Kläger im Januar 2017 nicht (mehr) als besonders verwerflich und damit nicht als sittenwidrige Schädigung im Sinne von § 826 BGB zu bewerten. Die Beklagte hat seit Einräumung der Unregelmäßigkeiten am 22.09.2015 mit den zuständigen Behörden - in Deutschland insbesondere mit dem Kraftfahrtbundesamt - zusammengearbeitet und explizit auch veröffentlicht, welche konkreten Fahrzeugtypen (der Marken F, W, Z, etc.) vom sogenannten "Dieselskandal" betroffen sind. Daher kann der Beklagten jedenfalls in Bezug auf potentielle Gebrauchtwagenkäufer ab Herbst 2015 kein verwerfliches Verhalten vorgeworfen werden, welches eine Haftung nach § 826 BGB begründen könnte (vgl. OLG Köln, Urteil vom 06.06.2019 - 24 U 5/19 m.w.N.) So liegt der Fall auch hier, da der Kläger das in Rede stehende gebrauchte Fahrzeug im Januar 2017 erworben hat. Ob der Kläger Kenntnis von all diesen Umständen hatte, ist dabei nicht von Relevanz und musste durch die Kammer im vorliegenden Rechtsstreit nicht weiter aufgeklärt werden.IV.Aus den genannten Gründen besteht auch kein Anspruch auf die im Klageantrag zu 3.) geltend gemachte Feststellung.V.Der im Klageantrag zu 4.) begehrte Ersatz vorgerichtlicher Rechtsanwaltskosten ist mangels gegebenem Hauptanspruch ebenfalls nicht begründet.Der Streitwert wird auf 15.322,21 Euro festgesetzt.Rechtsbehelfsbelehrung:Gegen die Streitwertfestsetzung ist die Beschwerde an das Landgericht Bonn statthaft, wenn der Wert des Beschwerdegegenstandes 200,00 EUR übersteigt oder das Landgericht die Beschwerde zugelassen hat. Die Beschwerde ist spätestens innerhalb von sechs Monaten, nachdem die Entscheidung in der Hauptsache Rechtskraft erlangt oder das Verfahren sich anderweitig erledigt hat, bei dem Landgericht Bonn, Wilhelmstr. 21, 53111 Bonn, schriftlich in deutscher Sprache oder zur Niederschrift des Urkundsbeamten der Geschäftsstelle einzulegen. Die Beschwerde kann auch zur Niederschrift der Geschäftsstelle eines jeden Amtsgerichtes abgegeben werden. Ist der Streitwert später als einen Monat vor Ablauf dieser Frist festgesetzt worden, so kann die Beschwerde noch innerhalb eines Monats nach Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses eingelegt werden.Hinweis zum elektronischen Rechtsverkehr:Die Einlegung ist auch durch Übertragung eines elektronischen Dokuments an die elektronische Poststelle des Gerichts möglich. Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet und mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg gemäß § 130a ZPO nach näherer Maßgabe der Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach (BGBl. 2017 I, S. 3803) eingereicht werden. Weitere Informationen erhalten Sie auf der Internetseite www.justiz.de.
+			
+			
+			
+			Permalink: https://openjur.de/u/2319365.html (https://oj.is/2319365)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

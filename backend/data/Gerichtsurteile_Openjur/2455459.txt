@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG EssenRechtsprechungUrteil vom 10.09.2021 - 9 O 63/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Essen, Urteil vom 10.09.2021 - 9 O 63/21
+                      m. Fundstelle
+                      LG Essen, Urteil vom 10.09.2021 - 9 O 63/21 = openJur 2022, 20816
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Essen, Urteil vom 10.09.2021 - 9 O 63/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 20816
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages. 
+				Tatbestand
+				Die Klagepartei begehrt von der Beklagten Schadensersatz im Zusammenhang mit dem Erwerb eines Fahrzeugs im Zusammenhang mit dem sog. Diesel-Abgasskandal.Die Klagepartei erwarb am 21.09.2016 einen Gebrauchtwagen der Marke C Typ ... zu einem Preis in Höhe von 14.400,00 Euro brutto mit einem Tachostand von damals 86666 km. Der Wagen ist in die Emissionsklasse Euro 5 eingestuft. In das Fahrzeug ist ein Motor mit der Bezeichnung N47 verbaut, den die Beklagte entwickelte und herstellte.Dieser Wagentyp wurde von dem Kraftfahrt- Bundesamt nicht zurückgerufen.Später hat Die Klagepartei von der Beklagten vergeblich die Erstattung des Kaufpreises Zug um Zug gegen Übergabe und Übereignung dieses Autos verlangt.Die Klagepartei ist der Ansicht, die Beklagte hafte ihr auf Schadensersatz aus Delikt, da diese bzw. deren verfassungsmäßig berufene Vertreter (bzw. Mitarbeiter der Beklagten, für die diese kraft Organisationsverschulden hafte) sittenwidrig und vorsätzlich dafür Sorge getragen haben, dass im streitgegenständlichen Fahrzeug eine durch Einsatz von sog. Manipulationssoftware unzulässige Abschalteinrichtung verbaut worden sei, die zum Überschreiten der gesetzlichen Abgasgrenzwerte führe. Dies verstoße gegen die guten Sitten, zumal die Beklagte nur Entwicklungskosten habe sparen wollen und deshalb aus Gründen der Profitmaximierung die Autokäufer bewusst getäuscht habe.Die in dem Auto verbaute Abschalteinrichtung erkenne aufgrund verschiedener technischer Vorrichtungen, insbesondere durch den Einsatz eines Thermofensters, eine Prüfungssituation auf dem Rollenprüfstand zur Abgasuntersuchung. Dabei werde die Abgasrückführung voll eingesetzt, sodass die gesetzlichen Abgaswerte eingehalten würden. Im Alltagsverkehr würden die Werte nicht eingehalten. Die Diskrepanz lasse sich nur mit unzulässigen Abschalteinrichtungen erklären.Des Weiteren behauptet die Klagepartei, dass der streitgegenständliche Motor mit einer Steuerungssoftware ausgestattet sei, die den Betrieb des Fahrzeugs auf einem Prüfstand im Neuen Europäischen Fahrzyklus (NEFZ) erkenne und lediglich in diesem Fall das volle Emissionskontrollsystem des Fahrzeuges aktiviere (Prüfstanderkennungssoftware). Hierdurch erziele das Fahrzeug nur auf dem Prüfstand geringere Stickoxidwerte und halte auch nur dadurch die vorgegebenen Grenzwerte der entsprechenden Abgasnorm ein. Eine solche optimierte Abgasrückführung sei beim normalen Straßenbetrieb nicht aktiviert und das Fahrzeug überschreite die Grenzwerte für Stickoxide. Folglich müsse die Onboard-Diagnose ebenfalls manipuliert worden sein, weil diese keine Fehler anzeige.Die Beklagte habe auch sittenwidrig gehandelt. Die von der Beklagten entwickelte Software sei gesetzeswidrig, da sie nach Art. 5 Abs. 2 Verordnung (EG) Nr. 715/2007 eine unzulässige Abschalteinrichtung darstelle.Er hätte das Fahrzeug, das von der Beklagten als besonders umweltfreundlich beworben worden sei, nicht gekauft, wenn er von dieser Manipulation gewusst hätte. Wegen dieser sei das Auto auch einem besonderen Wertverlust ausgesetzt.Ferner habe er einen Anspruch auf Erstattung seiner vorgerichtlichen Rechtsanwaltskosten, die er wegen des Umfangs und der Schwierigkeit der Sache auf Grundlage einer Gebühr von 1,5 bemessen könne.Die Klagepartei beantragt,die Beklagte zu verurteilen, an sie einen Betrag in Höhe von 11.461,92 Euro nebst Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 28.12.2020 sowie 2.439,72 Euro Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs C, FIN: ... zu zahlen,festzustellen, dass sich die Beklagte mit der Rücknahme des oben genannten Fahrzeugs seit dem 28.12.2020 im Annahmeverzug befinde,die Beklagte schließlich zu verurteilen, sie von den Kosten der vorgerichtlichen Rechtsverfolgung in Höhe von 1.101,94 Euro freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte hält sich nicht für einstandspflichtig.Der Kläger trage "ins Blaue" hinein vor, wenn er ihr, der Beklagten, eine Manipulation unterstelle. Es gebe keine relevanten Rückrufe des Fahrzeugtyps durch das Kraftfahrt-Bundesamt. Die weiteren Vorwürfe seien in der öffentlichen Diskussion entkräftet worden. Das Kraftfahrt-Bundesamt habe vielmehr offiziell bestätigt, dass in dem Motorentyp keine unzulässige Abschalteinrichtung vorhanden sei.Für den weiteren Sach- und Streitstand wird auf die gewechselten Schriftsätze nebst Anlagen verwiesen.Die Klage ist der Beklagten am 22.04.2021 zugestellt worden. Das Gericht hat mündlich verhandelt am 06.08.2021. 
+				Gründe
+				Die zulässige Klage ist unbegründet.Dem Kläger steht gegen die Beklagte kein Anspruch auf Schadensersatz aus § 826 BGB zu, weil er das Vorliegen einer unzulässigen Abschalteinrichtung in diesem Fahrzeug nicht substantiiert vorgetragen hat.Eine sittenwidrige Schädigungshandlung im Sinne von § 826 BGB wäre im vorliegenden Fall anzunehmen, wenn die Beklagte ein Fahrzeug mit einer unzulässigen Abschaltvorrichtung in den Verkehr gebracht und dadurch eine konkludente Täuschung begangen hätte. Denn mit dem Inverkehrbringen gibt ein Hersteller konkludent die Erklärung ab, dass der Einsatz des Fahrzeugs entsprechend seinem Verwendungszweck im Straßenverkehr uneingeschränkt zulässig sei.Stellt das Kraftfahrt-Bundesamt nach Erteilung einer formell wirksamen Typgenehmigung fest, dass ein Fahrzeug nicht die materiellen Voraussetzungen für den genehmigten Typ einhält (z. B. weil in ihm eine unzulässige Abschaltvorrichtung eingebaut ist, die gegenüber dem Kraftfahrt-Bundesamt nicht angegeben wurde), kann das Kraftfahrt-Bundesamt zur Beseitigung auftretender Mängel und zur Gewährleistung der Vorschriftsmäßigkeit auch bereits in Verkehr befindlicher Fahrzeuge Nebenbestimmungen gemäß § 25 Abs. 2 EG-​FGV zur EG-​Typgenehmigung anordnen oder gemäß § 25 Abs. 3 EG-​FGV die EG-​Typgenehmigung ganz oder teilweise widerrufen. Wird die EG-​Typgenehmigung entzogen, kann die Zulassungsbehörde dem jeweiligen Eigentümer oder Halter dann gemäß § 5 Abs. 1 FZV eine Frist zur Beseitigung der Mängel setzen oder den Betrieb des Fahrzeugs auf öffentlichen Straßen beschränken oder untersagen.Im vorliegenden Fall ist unstreitig, dass die Beklagte das Fahrzeug einschließlich des Motors und der Motorsteuerung hergestellt und in Verkehr gebracht hat. Weitere Voraussetzung eines Anspruchs ist, dass das Fahrzeug eine unzulässige Abschalteinrichtung enthält. Eine solche hat der Kläger aber nicht substantiiert vorgetragen.Ein Sachvortrag ist zur Begründung eines Anspruchs dann schlüssig und erheblich, wenn die Partei Tatsachen vorträgt, die in Verbindung mit einem Rechtssatz geeignet und erforderlich sind, das geltend gemachte Recht als in der Person der Partei entstanden erscheinen zu lassen. Die Angabe näherer Einzelheiten ist nicht erforderlich, soweit diese für die Rechtsfolgen nicht von Bedeutung sind. Das gilt insbesondere dann, wenn die Partei keine unmittelbare Kenntnis von den Vorgängen hat. Das Gericht muss aber in die Lage versetzt werden, aufgrund des tatsächlichen Vorbringens der Partei zu entscheiden, ob die gesetzlichen Voraussetzungen für das Bestehen des geltend gemachten Rechts vorliegen. Sind diese Anforderungen erfüllt, ist es Sache des Tatrichters, in die Beweisaufnahme einzutreten und dabei ggf. die benannten Zeugen und die zu vernehmende Partei nach weiteren Einzelheiten zu befragen oder einem Sachverständigen die beweiserheblichen Streitfragen zu unterbreiten.Weiter ist es einer Partei grundsätzlich nicht verwehrt, eine tatsächliche Aufklärung auch hinsichtlich solcher Umstände zu verlangen, über die sie selbst kein zuverlässiges Wissen besitzt und auch nicht erlangen kann, die sie aber nach Lage der Verhältnisse für wahrscheinlich oder möglich hält. Dies gilt insbesondere dann, wenn sie sich - wie hier der Kläger - nur auf vermutete Tatsachen stützen kann, weil sie mangels Sachkunde und Einblicks in die Produktion des von der Gegenseite hergestellten und verwendeten Fahrzeugmotors einschließlich des Systems der Abgasrückführung oder -verminderung keine sichere Kenntnis von Einzeltatsachen haben kann. Eine Behauptung ist erst dann unbeachtlich, wenn sie ohne greifbare Anhaltspunkte für das Vorliegen eines bestimmten Sachverhalts willkürlich "aufs Geratewohl" oder "ins Blaue hinein" aufgestellt worden ist. Bei der Annahme von Willkür in diesem Sinne ist Zurückhaltung geboten; regelmäßig ist sie nur beim Fehlen jeglicher tatsächlicher Anhaltspunkte gerechtfertigt.Von dem Kläger kann nicht verlangt werden, dass er im Einzelnen darlegt, weshalb er von dem Vorhandensein einer oder mehrerer Abschalteinrichtungen ausgeht und wie diese konkret funktionieren. Vielmehr ist von ihm nur zu fordern, dass er greifbare Umstände anführt, auf die er den Verdacht gründet, sein Fahrzeug weise eine oder mehrere unzulässige Abschalteinrichtungen auf.Auch unter Anwendung dieser Grundsätze können die Indizien, die der Kläger für das Vorliegen einer unzulässigen Abschalteinrichtung vorgebracht hat, nicht als ausreichend angesehen werden.An diesen Grundsätzen gemessen stellt jedenfalls die bloße Behauptung einer "unzulässigen Abschalteinrichtung", ohne die erforderliche Behauptung unter die EG-VO subsumtionsfähiger Tatsachen, eine reine Rechtsbehauptung dar. Schlüssiger Vortrag zu einer angeblich "unzulässigen Abschalteinrichtung" setzt vielmehr grundsätzlich voraus, dass vom Anspruchsteller konkret dargelegt wird, dass (1) ein "Konstruktionsteil" im Motor des streitgegenständlichen Fahrzeug vorhanden ist (dabei kann es sich auch um eine Software handeln), (2) das in bestimmten, konkret darzulegenden Umwelt- oder Fahrsituationen im Sinne von Art. 3 Nr.10 EG-VO die Abgasreinigung abschaltet, und dass (3) dies nicht notwendig ist, um den Motor vor Beschädigung oder Unfall zu schützen und um den sicheren Betrieb des Fahrzeugs zu gewährleisten (zum Ganzen OLG München, Beschl. v. 29.08.2019, Az. 8 U 1449/19 - juris Rn. 55 ff.; OLG Stuttgart, Urt. v. 16.06.2020, Az. 16a U 228/19 - juris Rn. 83 ff.).Dabei entfaltet eine Tatsache nicht erst dann eine ausreichende Indizwirkung, wenn sie genau den gleichen Fahrzeugtyp mit dem gleichen Motorentyp betrifft oder wenn ein Rückruf des Kraftfahrt-Bundesamts das gleiche Fahrzeug und eine unzulässige Abschalteinrichtung betreffend vorliegt. Ausreichend aber auch notwendig ist vielmehr, dass ein vergleichbarer Fahrzeugtyp desselben Herstellers wegen unzulässiger Abschalteinrichtungen vom Kraftfahrt-Bundesamt bereits zurückgerufen wurde oder anderweitige Erkenntnisse hinsichtlich vergleichbarer Fahrzeugtypen vorliegen, die auf eine unzulässige Abschalteinrichtung hindeuten. Von einem vergleichbaren Fahrzeugtyp wird man dann ausgehen können, wenn das Fahrzeug über denselben Motor oder Motorentyp wie das streitgegenständliche Fahrzeug verfügt und in dieselbe Schadstoffklasse (Euro 5 oder Euro 6) fällt. Hierbei liegt der gleiche Motor oder Motorentyp nicht nur dann vor, wenn der Kläger die interne Motorbezeichnung des Herstellers kennt und Fahrzeuge benennen kann, in die ein Motor mit der gleichen internen Bezeichnung eingebaut ist. Eine Vergleichbarkeit der Motoren liegt vielmehr ebenfalls vor, wenn die Motoren vom gleichen Hersteller stammen und die gleichen technischen Grundkonfigurationen aufweisen.Die Vergleichbarkeit der Motortypen setzt weiter voraus, dass die Motoren auch derselben Schadstoffklasse unterfallen. Letztere Einschränkung ist angezeigt, da sich die Grenzwerte von Dieselfahrzeugen beim NOX-​Ausstoß insbesondere zwischen Euro 5 und Euro 6 mit 180 mg/km bzw. 80 mg/km massiv unterscheiden und damit deutlich unterschiedliche Anforderungen an die Motorkonfiguration gestellt werden, was insbesondere das Aufkommen von SCR-​Katalysatoren belegt.Dabei ist allein der Vortrag, das streitgegenständliche Fahrzeug erfülle im Normalbetrieb die Abgasnorm Euro 5 nicht und bei Messungen im Realbetrieb seien höhere Emissionswerte festgestellt worden, noch kein ausreichendes Indiz, das den Rückschluss auf eine unzulässige Abschalteinrichtung zulassen würde.Die Tatsache, dass ein Fahrzeug im normalen Fahrbetrieb höhere Emissionen aufweist, als im für die Prüfung der Einhaltung der Werte der Euro 5-Norm (bzw. Euro 6-Norm) maßgeblichen NEFZ, ist allgemein bekannt. Die für die Einhaltung der Euro-5-Norm (bzw. Euro-6-Norm) relevanten im NEFZ-Verfahren gemessenen Werte entsprechen grundsätzlich auch ohne unzulässige Beeinflussung des Messverfahrens nicht den im Rahmen des tatsächlichen Gebrauchs des Fahrzeugs anfallenden Emissionswerten. Der Straßenbetrieb ist mit der Prüfstandssituation nicht vergleichbar. Dies gilt sowohl hinsichtlich der angegebenen Kraftstoffverbräuche als auch der Grenzwerte für Emissionen. Auf dem Prüfstand wird eine bestimmte "ideale", nicht der Praxis entsprechende Situation vorgegeben, etwa hinsichtlich der Umgebungstemperatur, der Kraftentfaltung (Beschleunigung und Geschwindigkeit), Abschaltung der Klimaanlage und so weiter, so dass der erzielte Wert zwar zu einer relativen Vergleichbarkeit unter den verschiedenen Fahrzeugfabriken und -modellen führen mag, absolut genommen aber jeweils nicht mit dem Straßenbetrieb übereinstimmt. Soweit ein Fahrzeug also höhere Emissionswerte im Straßenbetrieb aufweist als unter Prüfstandsbedingungen, kann dies auch auf andere Umstände als den Einbau einer unzulässigen Abschalteinrichtung zurückzuführen sein, weshalb nicht notwendigerweise beim Vorliegen höherer Emissionswerte im Realbetrieb von dem Vorliegen einer unzulässigen Abschalteinrichtung ausgegangen werden muss.Im vorliegenden Fall hat der Kläger keine Indizien vorgebracht, die diese Kriterien erfüllen. Er hat entweder Tatsachen vorgetragen, die schon nicht den gleichen Motorentyp betreffen, lediglich Messungen im Straßenverkehr darstellen oder die aufgrund des unbestrittenen Vortrags der Beklagten ihre Indizwirkung wieder verloren haben. Im Übrigen bleibt sein Vortrag pauschal und bezieht sich auf - angebliche - Abschalteinrichtungen von Mitbewerbern der Beklagten, ohne dass über das Vorliegen bloßer Vermutungen, hinausgehend Anhaltspunkte für eine Vergleichbarkeit der Motorentypen dargebracht würden.All das liefert keine greifbaren Anhaltspunkte dafür, dass in dem streitgegenständlichen Fahrzeugmotor eine "Manipulationssoftware" verbaut ist. Der Vortrag befasst sich durchgehend mit anderen Wagentypen; dass einer davon denselben Motor wie das Fahrzeug des Klägers aufweisen würde, ist nicht hinreichend vorgetragen.Daher war die Einholung eines Sachverständigengutachtens zu einer etwaigen Schädigungshandlung der Beklagten vorliegend auch deshalb nicht geboten, da der Kläger ohne greifbare Anhaltspunkte für das Vorliegen eines dahingehenden Sachverhalts willkürlich und erkennbar ohne Substanz Behauptungen zur von der Beklagten angeblich verbauten "Manipulationssoftware" "aufs Geratewohl" bzw. "ins Blaue hinein" aufgestellt hat, so dass der (nicht näher konkretisierte) Beweisantritt Sachverständigengutachten nicht dem Beweis vorgetragener Tatsachen zu dienen bestimmt ist, sondern stattdessen allein die Ausforschung von Tatsachen bezweckt, mithin unzulässig ist, und keine sekundäre Darlegungslast der Beklagten gemäß den oben dargelegten Grundsätzen auslöst.Ein Hinweis des Gerichts war nicht zu erteilen, da die Beklagte auf den unsubstantiierten klägerischen Vortrag hingewiesen hat und die Problemstellungen des Falls durch eine Vielzahl ähnlich gelagerter Fälle bekannt sind. Das Gericht verkennt in diesem Zusammenhang seine grundsätzlich nach § 139 Abs. 1 ZPO bestehende Hinweispflicht nicht. Danach ist es im Rahmen der ihm obliegenden materiellen Prozessleitung verpflichtet, darauf hinzuwirken, dass sich die Parteien vollständig über alle erheblichen Tatsachen erklären und Beweismittel bezeichnen, so dass die Parteien der ihnen obliegenden Pflicht zum umfassenden und vollständigen Vortrag im Sinne des § 138 Abs. 1 ZPO nachkommen können. Allerdings unterliegt das Gericht ebenfalls einer beiden Parteien gegenüber zu wahrenden Neutralitätspflicht, die u.a. in § 39 DRiG verankert ist. Die Nachfragen des Gerichts und die Erörterungen in der mündlichen Verhandlung haben nur dazu geführt, dass der Kläger sein Vorbringen aus dem schriftlichen Vorverfahren wiederholte. Ein Schriftsatznachlass ist nicht beantragt worden.Unabhängig davon hat der Kläger das Vorliegen einer vorsätzlichen sittenwidrigen Schädigung nicht substantiiert vorgetragen.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann. Schon zur Feststellung der objektiven Sittenwidrigkeit kann es daher auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen. Die Verwerflichkeit kann sich auch aus einer bewussten Täuschung ergeben. Insbesondere bei mittelbaren Schädigungen kommt es ferner darauf an, dass den Schädiger das Unwerturteil, sittenwidrig gehandelt zu haben, gerade auch in Bezug auf die Schäden desjenigen trifft, der Ansprüche aus § 826 BGB geltend macht (BGH, Beschluss vom 19. Januar 2021 - VI ZR 433/19 -, Rn. 14 m.w.N, juris).Ein solches verwerfliches Verhalten zeigt der Kläger nicht auf. Vielmehr spekuliert er lediglich, wenn er es als fernliegend bezeichnet, dass die von ihm behauptete Entscheidung, flächendeckend in vielen hunderttausend (oder Millionen) Fahrzeugen "riskante Gestaltung der Motorsteuersoftware" nicht ohne Einbindung des Vorstandes erfolgt sei.Dem Kläger steht gegen die Beklagte auch kein Anspruch auf Schadensersatz aus § 823 Abs. 2 BGB mit § 263 Abs. 1 StGB zu. Diese Anspruchsgrundlage würde voraussetzen, dass über das Vorliegen einer unzulässigen Abschalteinrichtung getäuscht wurde. Dazu müsste zunächst ein substantiierter Vortrag zum Vorliegen einer Abschalteinrichtung im streitgegenständlichen vorliegen, was aber nicht der Fall ist.Das Gleiche gilt für einen Anspruch aus § 823 Abs. 2 BGB mit den §§ 6 Abs. 1, 27 Abs. 1 EG-FGV, zumal diese Vorschriften keine Schutzgesetze im Hinblick auf den geltend gemachten Schaden darstellen. Ein Anspruch aus § 823 Abs. 2 BGB mit § 38 BImschG scheitert ebenfalls daran, dass § 28 BImschG kein Schutzgesetz im Sinne dieser Norm darstellt. Es dient nicht dem Individualschutz des Klägers, insbesondere nicht dem Schutz seines Vermögens, sondern ebenfalls dem Kollektivschutz. Die Vorschrift hat den Zweck, die Allgemeinheit vor schädlichen Umwelteinwirkungen durch den motorisierten Verkehr zu schützen (vgl. BeckOK/Reese, Umweltrecht, 55. Ed. 2017, § 38 BImschG Rn. 1).Vor dem Hintergrund des Vorgenannten scheidet auch ein Anspruch aus § 831 BGB aus. Denn ein solcher würde voraussetzen, dass ein Verrichtungsgehilfe der Beklagten eine Handlung begangen hätte, die eine der vorgenannten Anspruchsgrundlagen ausfüllen würde. Dies ist nicht der Fall.Weitere Anspruchsgrundlagen sind nicht ersichtlich. Insbesondere besteht zwischen den Parteien keine vertragliche Verbindung, sodass ein Schadensersatzanspruch aus § 280 Abs. 1 BGB ausscheidet.Da der Hauptanspruch nicht gegeben ist, sind die geltend gemachten Nebenansprüche (vorgerichtliche Rechtsanwaltskosten, Zinsen) ebenfalls nicht begründet. Auch ist nicht festzustellen, dass sich die Beklagte mit der Rücknahme des Autos in Annahmeverzug befinden würde.Die Kostenentscheidung folgt aus § 91 Abs. 1 ZPO.Die Entscheidung zur vorläufigen Vollstreckbarkeit beruht auf § 709 Satz 1 u. 2 ZPO.Der Streitwert wird auf 11.461,92 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2455459.html (https://oj.is/2455459)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG WürzburgRechtsprechungEndurteil vom 09.01.2019 - 91 O 509/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Würzburg, Endurteil vom 09.01.2019 - 91 O 509/18
+                      m. Fundstelle
+                      LG Würzburg, Endurteil vom 09.01.2019 - 91 O 509/18 = openJur 2021, 31744
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Würzburg, Endurteil vom 09.01.2019 - 91 O 509/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 31744
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.Beschluss: Der Streitwert wird auf 31.750,00 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um Minderung und Schadensersatz nach dem Kauf eines gebrauchten Pkw VW Tiguan Sport & Style. Der Kläger hat das Fahrzeug, welches von der Beklagten zu 2) hergestellt wurde, bei der Beklagten zu 1) am 04.04.2016 zum Preis von 31.750,00 € gekauft, Anlage K1.Das Fahrzeug des Klägers ist vom sog. "Abgas-Skandal", einer Manipulation der Abgaswerte in Fahrzeugen, die durch die Medien bekannt wurde, betroffen. Sein Fahrzeug ist mit einem Motor der Baureihe EA 189, hergestellt von der Beklagten zu 2), ausgestattet. Eine im Fahrzeug im Zeitpunkt des Verkaufs von der Beklagten zu 2) installierte Software führt im Ergebnis zu einer Motorsteuerung, die Prüfsituationen erkerint und dann den Stickoxidausstoß (NOx-Werte) verringert. Die Motorsteuergerätesoftware verfügt also über eine Fahrzykluserkennung, die erkennt, wenn das Gerät den NEFZ (Neuer Europäischer Fahrzyklus) durchfährt. Die installierte Software führt dazu, dass Abgase beim Durchfahren dieses Prüfzyklusses in den Motor zurückgeführt werden, bevor sie überhaupt das Emissionskontrollsystem erreichen.Durch Aktivierung dieses Modus (Modus 1) werden durch die Rückführung von Abgasen in den Motorraum deutlich niedrigere Werte auf dem Prüfstand erreicht. Im Straßenbetrieb, also im Normalmodus (Modus 0), dagegen kommt es unter Fahrbedingungen, die im normalen Straßenverkehr bestehen, nicht zu einer solchen Abgasrückführung, so dass dort wesentlich höhere Stickoxidwerte erreicht werden.Die Beklagte zu 2) führte nach Bekanntwerden der Umstände einen Rückruf durch, indem sie die Kunden, auffordert, bei einem Vertragshändler ein software - update aufspielen zu lassen. Der Kläger hat das update am 14.10.2016 durchführen lassen, weil er befürchtete, dass ihm sonst die Zulassung vom KBA entzogen werden könnte.Der Kläger ist im Wesentlichen der Auffassung, dass ihm gegenüber den Beklagten ein Anspruch auf Minderung und Schadensersatz zustehe.Das Fahrzeug sei zum Zeitpunkt der Übergabe durch die Beklagte zu 1) als Verkäuferin erheblich mangelbehaftet gewesen. Die vereinbarte Beschaffenheit der Einhaltung der Abgasnorm Euro 5 liege nicht vor. Der Durchschnittskäufer dürfe erwarten, dass die in der Testphase laufenden stickoxidverringernden Prozesse auch im realen Fahrbetrieb aktiv blieben und nicht durch den Einsatz einer Software deaktiviert würden. Aufgrund der Herstellerverlautbarungen in Broschüren und Prospekten sei der Kläger davon ausgegangen, dass der CO<sub>2</sub>-Ausstoß innerhalb der für die Abgasnorm Euro 5 geltenden Bestimmungen liege und das Fahrzeug daher besonders umweltfreundlich sei. Es sei ihm gerade auf die Zuordnung zu der angegebenen Schadstoffklasse bei seiner Kaufentscheidung angekommen. Er habe ein, umweltfreundliches und wertstabiles Fahrzeug gewollt. Eine Nachbesserung sei ungeeignet und nicht zumutbar. Das update wirke sich nachteilig auf das Fahrzeug aus. Es sei von einem Mehrverbrauch von 10 %, einer Minderleistung des Motors, einer Verkürzung der Lebenszeit des Dieselpartikelfilters etc. auszugehen. Dem Kläger sei auch ein merkantiler Minderwert entstanden, weil dem Fahrzeug der Makel als "vom Abgasskandal betroffen" anhafte. Dies sei der Beklagten zu 2) auch bekannt, da sie gerade im Hinblick hierauf keine Garantien abgebe. Eine Nachbesserung sei im Hinblick hierauf nicht möglich. Die Beklagte zu 1) müsse sich das Herstellerverschulden zurechnen lassen. Aufgrund der Verweigerung der Beklagten sei eine Fristsetzung unzumutbar und entbehrlich gewesen. Die Minderung sei wirksam erklärt worden.Gegen die Beklagte zu 2) bestehe ein Anspruch wegen Betrugs und sittenwidriger Schädigung, da die Beklagte zu 2) durch das Inverkehrbringen der manipulierten Fahrzeuge ihm vorsatzlich Schaden zugefügt habe. Das Wissen über die Manipulation habe sich der Vorstand der Beklagten zu 2) gemäß § 166 BGB analog zurechnen zu lassen. Die manipulierten Daten hätten Einfluss auf seine Kaufentscheidung gehabt. Es seien Ansprüche aus §§ 311, 241 Abs. 2, 823, 826 BGB, 263 StGB, 16, 4 Nr. 11 UWG gegeben.Die Klägerseite beantragt zuletzt:1. Die Beklagtenparteien werden verurteilt, der Klagerpartei einen Betrag bezüglich des Fahrzeugs VW Tiguan Sport & Style 4MOTION 2.0 TDI, dessen Höhe in das Ermessen des Gerichts gestellt wird, jedoch mindestens 7.937,50 € betragen muss, zu bezahlennebst Zinsen in Höhe von 5 %-Punkten über dem Basiszinssatz seit Rechtshängigkeit.2. Es wird festgestellt, dass die Beklagtenparteien verpflichtet sind, der Klägerseite Schadensersatz, der über den Minderungsbetrag hinausgeht, zu bezahlen für Schäden, die daraus resultieren, dass die Beklagte zu 2) das Fahrzeug VW Tiguan Sport & Style 4MOTION 2.0 TDI ... dahingehend beeinflusst hat, dass dieses hinsichtlich der Abgasstoffmenge im Prüfstandbetrieb einen geringeren Ausstoß aufweist als im regulären Betrieb im Straßenverkehr.3. Die Beklagtenparteien werden jeweils getrennt, nicht gesamtschuldnerisch verurteilt, die Klagepartei von der durch die Beauftragung der Prozessbevollmachtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von jeweils 2.256,24 € freizustellen.Die Beklagtenseite zu 1) und zu 2) beantragen jeweilsdie Klage abzuweisen.Die Beklage zu 1) beruft sich darauf, es liege schon Unzulässigkeit vor, da der Kläger eine Leistungsklage erheben könne. Inhaltlich habe der Kläger schon deshalb keine Ansprüche, da er vor dem Kauf auf die Abgasproblematik explizit hingewiesen worden sei. Eine Täuschung habe daher zu keinem Zeitpunkt vorgelegen. Es sei keinesfalls über einen bestimmten Schadstoffausstoß oder eine bestimmte Abgasnorm gesprochen worden. Das Fahrzeug sei zudem auch mangelfrei, da es technisch sicher und in seiner Fahrbereitschaft nicht eingeschränkt sei. Es verfüge über alle erforderlichen Genehmigungen. Das Thema Emissionen sei nicht Gegenstand der Kaufvertragsgespräche gewesen. Die Nachrüstung sei vom KBA für den Motor EA189 freigegeben und habe keine Auswirkungen auf die Motorleistung, den Kraftstoffverbrauch, die CO<sub>2</sub> - Emissionen und die Lebensdauer des Fahrzeugs. Es sei mit Kosten von weniger als 100 EURO verbunden, die nicht dem Kläger aufgegeben wurden. Ein etwaiger Mangel sei zudem nicht erheblich und eine Nachfrist nicht gesetzt. Eine Nachfrist sei auch nicht entbehrlich. Ein Schaden sei nicht ersichtlich; da der Kläger das Fahrzeug bis jetzt beanstandungsfrei genutzt habe. Zudem habe der Kläger extra wegen der Abgasproblematik ein sog. verbrieftes Rückgaberecht erhalten, so dass er weder das Gebrauchtwagenrisiko noch sonstige sinkende Verkehrswerte zu tragen habe.Die Beklagte zu 2) bestreitet ebenfalls, dass das Fahrzeug mangelhaft sei; es sei vielmehr nach Aufspielen des updates ohne Einschränkungen fahrbereit und sicher. Es verfüge nach wie vor über eine wirksame EG - Typengenehmigung und Zulassung. Das Fahrzeug weise keinen höheren Kraftstoffverbrauch und Emissionsausstoß auf, als seitens der Beklagten angegeben. Der Gesetzgeber habe gerade die Emissionswerte unter Laborbedingungen als Maßstab festgelegt. Das KBA habe im Jahr 2016 Einzelfreigabebestätigungen, auch für das streitgegenständliche Fahrzeug, erteilt und bestätigt, dass die Umsetzung der technischen Maßnahmen zu keinerlei negativen Auswirkungen auf Kraftstoffverbrauchswerte, CO<sub>2</sub> - Emissionswerte, Motorleistung, Drehmoment und Geräuschemissionen geführt habe. Eine erforderliche Nachfrist sei nicht gesetzt worden. Mangels Mitwirkung am Kaufvertrag sei zu bestreiten, dass der Kläger bei Kenntnis der Umstände das Fahrzeug nicht gekauft hätte. Zudem habe durch die Beklagte zu 2) keine arglistige Täuschung oder sittenwidrige Schädigung stattgefunden. Die Beklagte zu 2) habe gegenüber dem Kläger keine unwahren Angaben gemacht. Die Umrüstung koste im Durchschnitt 35,00 € und sei für den Kläger kostenfrei. Ein Wertverlust habe nicht stattgefunden. Einen sonstigen Schaden habe der Kläger nicht erlitten.Ergänzend wird zu den Einzelheiten des weiteren Sachvortrags sowie insbesondere den vertretenen Rechtsauffassungen der Parteien und den diesbezüglich ausgetauschten Argumenten auf die zur Akte genommenen Schriftsätze nebst den zugehörigen Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I.Die Klage ist zulässig.1. Das Landgericht Würzburg ist sowohl örtlich gegenüber der Beklagten zu 1) nach §§ 17, 21 ZPO sowie gegenüber der Beklagten zu 2) nach §§ 32, 35 ZPO als auch sachlich nach § 1 ZPO i.V. m. § 23 Abs. 1 Nr. 1, § 71 Abs. 1 GVG zuständig.Der Kläger stützt seine Ansprüche gegen die Beklagte zu 2) im Wesentlichen auf unerlaubte Handlungen. Gemäß § 32 ZPO liegt ein Begehungsort überall dort, wo ein Teilakt der unerlaubten Handlung verwirklicht worden ist. Der Kläger hat seinen Wohnsitz im hiesigen Bezirk, so dass dies der Ort des Schadenseintritts und damit Begehungsort im Sinne des § 32 ZPO ist.2. Es besteht für den Kläger auch ein Rechtsschutzbedürfnis, § 256 ZPO.Er ist der Meinung, die aufgrund der Manipulation erwarteten Schäden an seinem Fahrzeug noch nicht beziffern zu können, da das "ob" von weiteren Folgeschäden noch unklar sei. Nach seinem Vortrag kann er aufgrund der im Einzelnen noch nicht feststehenden Auswirkungen der von der Beklagtenseite durchgeführten Nachrüstung sowie der Wertentwicklung noch keinen insoweit bestimmten Schaden beziffern. Der Kläger hat daher ein berechtigtes Interesse daran, auch zur Vermeidung eines etwaigen Verjährungseintritts, die Feststellung zu beantragen. Ein Vorrang der Leistungsklage besteht daher nicht.II.Die Klage ist jedoch unbegründet.Dem Kläger stehen keine Rücktrittsrechte oder Schadensersatzansprüche zu.1. 1. Der Klägerseite steht kein Anspruch auf Minderung des Kaufpreises gegenüber der Beklagten zu 1) zu.Die Voraussetzungen der hierfür in Betracht kommenden Anspruchsgrundlagen nach § 433 i. V. m. § 437 Nr. 2, §§ 441, 323 BGB sind zur Überzeugung des Gerichts nicht erfüllt.a) Voraussetzung hierfür wäre, dass die Beklagte zu 1) ein mangelhaftes Fahrzeug geliefert hätte.aa) Für den vorliegenden Rechtsstreit kann nach Auffassung des Gerichts allerdings dahingestellt bleiben, ob und inwieweit es sich bei der unstreitig vorhandenen Betriebssoftware für das Abgasrückführungssystem um einen "tatsächlichen", die Gebrauchstauglichkeit des streitbefangenen Fahrzeugs mindernden, Sachmangel im Sinne des § 434 Abs. 1 Sätze 1 und 2 BGB handelt, oder nur um einen Anpreisungsmangel im Sinne des § 434 Abs. 1, Satz 3 BGB oder ob schließlich sogar "nur" ein rechtlicher Makel im Hinblick auf die Vorgaben von Art. 5 Abs. 2, Art. 3 Nr. 10 VO (EU) Nr. 715/2007 vorliegt. Auch im Hinblick auf die geltend gemachten "nachteiligen Folgen des software - updates" brauchen diese als Mangelbegriff nicht verifiziert zu werden.bb) Der Kläger ist nämlich hier mit etwaigen Mangelgewährleistungsrechten ausgeschlossen, weil er bei Vertragsschluß gerade über das Vorliegen der Betroffenheit vom Abgasskandal aufgeklärt wurde und sogar insoweit besondere Zusatzvergünstigungen erhalten hat, § 442 BGB.Gemäß § 442 Abs. 1 Satz 1 BGB sind die Rechte des Kaufers wegen eines Mangels ausgeschlossen, wenn er bei Vertragsschluß den Mangel kennt.Der Kläger hat hier unstreitig gerade im Hinblick auf die besprochene Abgasproblematik von der Beklagten zu 1) für 36 Monate kostenlose Serviceleistungen versprochen bekommen, Anlage B 1. Er musste sich demnach darüber im Klaren sein, dass insoweit etwa Werkstattaufenthalte, wie durch das Aufspielen des updates, auf ihn zukommen, wusste aber, dass im Gegenzug damit für ihn keine Kosten anfallen würden. Der Kläger hatte demnach darüber Kenntnis i.S.v. § 442 BGB, dass das Fahrzeug den von ihm jetzt gerügten "Fehler" hat. Soweit der Kläger sich darauf beruft, die Beklagte zu 1) habe zugesagt, nach dem update gäbe es keine sonstigen Nachteile, kann der Kläger hieraus nichts geltend machen. Zum Einen sind nach den Verlautbarungen des KBA bisher entsprechende Nachteile, wie vermehrter Spritverbrauch, häufigeres Verrussen des Dieselpartikelfilters, Ruckeln des Motors etc., noch nicht nachgewiesen worden. Zum Anderen hat der Kläger gerade für einen solchen Fall die kostenlosen Serviceleistungen erhalten, die er weiterhin in Anspruch nehmen kann.cc) Darüber hinaus läge auch insoweit keine entsprechende Fristsetzung zur Nacherfullung vor. Denn in jedem Fall setzt auch die Minderung nach § 323 Abs. 1 BGB jedenfalls eine Fristsetzung voraus. § 441 Abs. 1 BGB verlangt insoweit grundsätzlich das Vorliegen der Voraussetzungen des Rücktrittsrechts, mithin eine Fristsetzung zur Nacherfüllung.Eine solche Frist hat der Kläger, soweit ersichtlich, nicht gesetzt und diese war auch nicht entbehrlich.Gemäß § 323 Abs. 2 Nr. 1 BGB ist die Fristsetzung entbehrlich, wenn der Schuldner die Leistung ernsthaft und endgültig verweigert. An das Vorliegen einer Erfüllungsverweigerung sind strenge Anforderungen zu stellen. Die Weigerung des Schuldners muss als sein letztes Wort aufzufassen sein. Die Beklagte zu 1) hat hier das Fahrzeug des Klägers schon zur Überprüfung aufgenommen, aber keinen Mangel nach dem Aufspielen des updates finden können. Eine Verweigerung liegt daher nicht vor.Darüber hinaus wäre eine Fristsetzung im Hinblick auf nach dem update aufgetretene Mängel gem. § 323 Abs. 3 BGB entbehrlich bei Vorliegen besonderer Umstände, die unter Abwägung der beiderseitigen Interessen den sofortigen Rücktritt rechtfertigen. Diese Tatbestandsvariante wird wegen ihres Ausnahmecharakters nach der Rechtsprechung als restrikitv auszulegend angesehen. Das Interesse der Beklagten zu 1) an einer Aufforderung von dem Rücktritt müsste im Verhältnis zum Interesse des Klägers am sofortigen Rücktritt so gering sein, dass die Interessenabwägung nur zugunsten des Klägers ausgehen kann. Solche Abwägungsumstände werden unter anderem dann bejaht, wenn der Verkäufer einen Mangel der vom Käufer erworbenen Sache arglistig verschwiegen hat (BGH, Beschluss vom 08.12.2006, NJW 2007, 835 und BGH NJW 2008, 1371).Nachdem dies hier gerade nicht der Fall war, hätte der Kläger im Hinblick auf nach dem update aufgetretene Mängel gegenüber der Beklagten zu 1) jedenfalls zunächst eine Frist zur Nacherfüllung setzen müssen, so dass hierauf beruhende Ansprüche bereits aus diesem Grunde ausgeschlossen sind.1.2. Dem Kläger steht jedoch auch kein Anspruch auf Feststellung zu, dass die Beklagte zu 1) Schadensersatz für etwaige aus der Abgasmanipulation entstandene Mängel zu zahlen hat.Dem Kläger ist hier kein Schaden entstanden.Soweit der Kläger sich auf einen Wertverlust des Fahrzeugs beruft, ist dieser für den Kläger durch das verbriefte Rückgaberecht gerade ausgeschlossen. Gemäß Anlage B 14 hat die Beklagte zu 1) dem Kläger bei Kaufvertragsschluss zugesagt, das Fahrzeug für einen konkreten Preis von 14.294,26 € zurück zunehmen. Der Kläger hat demnach keinerlei Wertverlustrisiko wegen des angeblichen Makels "als vom Abgasskandal betroffen".Soweit der Kläger einen Schaden durch mehr Spritverbrauch, Ruckeln des Motors etc. behauptet, fehlt es an einem schlüssigen, bezifferten Vortrag, in welcher Höhe er hierdurch geschadigt sei.Dem Kläger stehen daher keine Ansprüche gegen die Beklagte zu 1) zu, so dass die Klage abzuweisen war.2. Dem, Kläger stehen auch gegenüber der Beklagten zu 2) keine Ansprüche zu.a) Mangels Vertragsschluss mit der Beklagten zu 2) scheiden vertragliche Ansprüche dieser gegenüber aus. Ein schuldrechtlicher Anspruch aus §§ 311 BGB kommt im Rahmen eines Verschuldens bei Vertragsschluss dann in Betracht, wenn ein Dritter besonderes Vertrauen gegenüber einer Vertragspartei für sich in Anspruch nimmt. Die Beklagte war in die Kaufverhandlungen des Klägers persönlich gar nicht involviert. Sie ist nicht Verkäuferin des Fahrzeugs. Soweit sich der Kläger hierzu auf besonderes Vertrauen im Hinblick auf die veröffentlichten Broschüren und Prospekte und die Internetseite der Beklagten beruft, ist nicht ersichtlich oder dargetan, inwieweit sich hieraus ein besonderes Vertrauen bezüglich welcher Werte im Einzelnen des bestimmten Fahrzeugs ergeben soll. Es ist nicht vorgetragen, welche Werte im Einzelnen beim klägerischen Fahrzeug unzutreffend sein sollen. Die bloße Behauptung der "Umweltfreundlichkeit" sagt hierzu nichts. Daher ist der Einschätzung des Landgerichts Braunschweig zuzustimmen, wonach "Werbung ein einseitig den Absatzinteressen des Werbenden dienendes Instrument und als solches daher ungeeignet ist, ein besonderes Vertrauen zu begründen", LG Braunschweig, Urteil vom 25.04.2017, 11 O 3993/16.b) Aber auch ein Anspruch aus sittenwidriger vorsätzlicher Schädigung nach § 826 BGB gegenüber der Beklagtenseite, worauf sich der Kläger stützt, ist nicht ausreichend dargelegt.Der Kläger ist insoweit für sämtliche Tatbestandsmerkmale darlegungs- und beweisbelastet (vgl. statt vieler Sprau, in: Palandt, BGB, 76. Aulf. 2017, § 826 Rn. 18).Der Kläger müsste demnach einen Sachvortrag leisten, aufgrund welcher Tatsachen die nicht am Vertrag beteiligte Beklagte zu 2) ihn vorsätzlich sittenwidrig geschädigt hat.Es ist aus dem Vortrag jedoch weder ein sittenwidriges Verhalten in diesem Sinne, noch ein eingetretener Schaden ersichtlich.Für Ansprüche aus unerlaubten Handlungen gilt allgemein, dass die Ersatzpflicht auf solche Schäden beschränkt ist, die in den Schutzbereich des verletzten Ge- oder Verbots fallen (BGHZ 57, 137, 1, 42 m.w.N.). Auf eine derartige Eingrenzung der Haftung kann, um das Haftungsrisiko in angemessenen und zumutbaren Grenzen zu halten, auch im Rahmen des § 826 BGB nicht verzichtet werden (eingehend: Mertens in MünchKomm. § 826 BGB Rdnr. 52 ff. m.w.N.). Ein Verhalten kann hinsichtlich der Herbeiführung bestimmter Schäden, insbesondere auch hinsichtlich der Schädigung bestimmter Personen, als sittlich anstößig zu werten sein, während ihm diese Qualifikation hinsichtlich anderer, wenn auch ebenfalls adäquat verursachter Schadensfolgen nicht zukommt (vgl. auch BGH, Urt. v. 20.2.1979 - VI ZR 189/78, LM BGB § 826 (Gb) Nr. 11; RGZ 136, 247, 254 f.). Die Ersatzpflicht beschränkt sich in einem solchen Fall auf diejenigen Schaden, die dem in sittlich anstößiger Weise geschaffenen Gefahrenbereich entstammen. (BGH, Urteil vom 11.11.1985, II ZR 109/84).Selbst wenn man unterstellt, dass die eingebaute Software gegen öffentlich-rechtliche Abgasvorschriften verstößt, ist allein darin noch kein sittenwidriges Handeln zu sehen. Soweit nämlich die Überprüfung der Abgaswerte durch öffentliche Prüfstellen vorgenommen wird, so fuhrt dies nicht zu einer Sittenwidrigkeit im Verhältnis zur Klägerseite.Die entsprechende Verordnung des EU-Rechts (VO <EG> Nr. 715/2007) dient zumindest vorrangig der Verbesserung der Luftqualität. Hierbei handelt es sich jedoch um eine Verhaltensnorm mit allgemein schützendem öffentlich-rechtlichen Charakter.Ein Gebot der guten Sitten gerade im Verhältnis zur Klägerseite mit individuellem Schutzzweck lässt sich aus der Verordnung nicht ableiten.Durch die Manipulation der Stickoxidwerte im Testmodus mag die Beklagte zu 2) gegebenenfalls die Bundesrepublik Deutschland in erheblichem Maß sittenwidrig über die Qualität der Motoren im Bezug auf die Luftverunreinigung (Schutzzweck) getäuscht und ihr insoweit gegebenenfalls auch einen erheblichen finanziellen Schaden zugefügt haben, nicht aber dem Kläger, denn dieser konnte sein Fahrzeug während der gesamten Zeit ohne einen der manipulierten Software konkret zuordenbaren Schaden nutzen.c) Dem Kläger stehen aber auch aus § 823 Abs. 2 BGB i.V.m. § 263 Abs. 1 StGB keine Ansprüche zu.Erste Tatbestandsvoraussetzung ist insoweit eine Täuschung im Sinne des § 263 Abs. 1 StGB durch die Beklagtenseite.Als Täuschung in diesem Sinne wird gemeinhin ein Einwirken auf das intellektuelle Vorstellungsbild, des Opfers, hier der Klägerseite, verstanden (vgl., statt vieler, Perron, in: Schönke/Schröder, StGB, 29. Aufl. 2014, § 263 Rn. 11), das objektiv geeignet sein muss, einen Irrtum über tatsächliche Umstände hervorzurufen (vgl. BGHSt 47, 1 ff.).Die Klägerseite indessen hatte mit der Beklagten zu 2) nicht unmittelbar zu tun. Eine Täuschung kann deshalb nur durch etwaige von der Beklagten zu 2) erstellte Verkaufsunterlagen in Betracht kommen. Hierdurch müsste es zu einem Irrtum bei der Klägerseite gekommen sein, der wiederum kausal für seine Vermögensverfügung gewesen sein müsste. Ein Irrtum liegt dann nicht vor, wenn sich der Käufer, die Klägerseite, über eine bestimmte Eigenschaft des Fahrzeugs gar keine Gedanken gemacht hat.Hier liegt schon keine Täuschung über die Abgaswerte etc. vor; mit dem Kläger wurde gerade über die Abgasproblematik gesprochen. Dass es dem Kläger gerade auf die Einhaltung besonderer Abgaswerte angekommen sei, trägt der Kläger selbst nicht vor.Ebenso ist nicht ersichtlich, gegenüber welchen Anschaffungsalternativen sich die Klagerseite - täuschungsbedingt - letztlich erst zu Gunsten des konkreten Fahrzeugs entschieden hat. Selbst wenn die Klägerseite solche in Augenschein genommen hätte, so bleibt offen, ob sie sich auch mit den Abgaswerten bis ins letzte Detail befasst hat und ob und inwieweit diese für ihre Kaufentscheidung von Bedeutung waren.Des Weiteren ist, wie bereits ausgeführt, keine Schädigung des Vermögens der Klagerseite durch eine Täuschungshandlungen der Beklagten zu 2) erkennbar. Grundsatzlich reicht der bloße Verdacht, dass durch die Nachrüstung dem PKW-Nutzer weitere Nachteile entstehen oder dass die Möglichkeit eines merkantilen Minderwerts besteht, im Betrugsbereich für die Annahme eines Vermögensschadens oder einer Vermögensgefährdung nicht aus. Darüber hinaus ist der Kläger gerade für diesen Fall durch kostenlose Serviceleistungen und ein verbrieftes Rücknahmerecht gesondert geschützt worden.d. Auch ein Anspruch aus § 823 Abs. 2 BGB i.V.m. § 27 EG-FGV scheidet aus.Ungeachtet der Frage, ob es sich bei der EG-FGV um ein Schutzgesetz in diesem Sinne handelt, liegt jedenfalls die Voraussetzung "neues Fahrzeug" hier schon nicht vor, da der Klager sein Fahrzeug gebraucht gekauft hat.Zudem kann sich jedenfalls auch deshalb hieraus kein Anspruch ergeben, da auch insoweit ein Vermögensschaden nicht vorstellbar ist, s.o.e. Schließlich ist auch der behauptete Verstoß gegen § 16 UWG wegen irreführender Werbung, der für den geltend gemachten Anspruch aus § 823 Abs. 2 i.V.m. § 16 UWG erforderlich wäre, nicht ausreichend schlüssig und substantiiert dargetan.Die Klägerseite verkennt bereits, dass mit dem Tatbestandsmerkmal der "Angaben" in § 16 Abs. 1 UWG nur inhaltlich überprüfbare Aussagen tatsächlicher Art verbunden sind und gerade keine allgemeinen Anpreisungen oder offensichtlich nur reklamehaften Übertreibungen (vgl. Bornkamm, in: Köhler/Bornkamm, UWG, § 16 Rn. 7; Ernst, in: Ullmann, jurisPK-UWG, 4. Aufl. 2016, § 16 Rn. 5 <Stand: 01.05.2016>). Soweit man die Verbreitung derartiger konkreter Angaben in Bezug auf nachweislich nicht zutreffende Abgaswerte hierunter verstehen wollte, stellt die Kläger seite nicht konkret nachvollziehbar dar, wo und inwieweit durch die Beklagte dahingehend mit Schadstoffwerten geworben wurde, die tatsächlich nicht eingehalten wurden. Die Existenz und Verbreitung derartiger konkreter Angaben über nachweislich nicht zutreffende Abgaswerte, die zudem nach dem vom Vorsatz umfassten Vorstellungsbild der Beklagtenseite respektive deren gesetzlichen Vertretungsorganen in Kenntnis der Unwahrheit getätigt hätten werden müssen, wird nicht nachvollziehbar vorgetragen. Auch ist insoweit fraglich, ob der Kläger sich tatsächlich gerade mit den dort angegebenen Abgaswerten beschäftigt hat und diese für ihn kaufentscheidend waren.f. Ein Anspruch aus § 831 BGB liegt ebenfalls nicht vor. Zwar mögen die bei der Beklagtenseite beschäftigten Ingenieure bei der Entwicklung der software als Verrichtungsgehilfen in diesem Sinne eingestuft werden können. Jedoch ergibt sich auch hier kein entsprechender Schädigungsvorsatz des Beklagtenkonzerns gerade den Käufern, mithin dem Kläger gegenüber.3. Da somit keiner der geltend gemachten Ansprüche besteht, sind auch in diesem Zusammenhang behauptete vorgerichtlich entstandene Rechtsanwaltskosten nicht erstattungsfähig und können entsprechend auch vor ihrem Anfall bei der Klägerseite nicht Gegenstand eines durchsetzbaren Freistellungsanspruchs (§ 255 BGB) sein.Die Klage war daher abzuweisen.III.Die Entscheidung über die Kosten des Rechtsstreits beruht auf § 91 Abs. 1 Satz 1 ZPO.IV.Die Entscheidung über die vorläufige Vollstreckbarkeit erging gemäß § 709 Sätze 1 und 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2348800.html (https://oj.is/2348800)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBrandenburgOrdentliche GerichtsbarkeitBrandenburgisches OLGRechtsprechungUrteil vom 17.02.2020 - 1 U 21/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      Brandenburgisches OLG, Urteil vom 17.02.2020 - 1 U 21/19
+                      m. Fundstelle
+                      Brandenburgisches OLG, Urteil vom 17.02.2020 - 1 U 21/19 = openJur 2020, 38126
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				Brandenburgisches OLG, Urteil vom 17.02.2020 - 1 U 21/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 38126
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Berufung des Klägers gegen das Urteil des Landgerichts Cottbus vom 20. März 2019, Az. 2 O 282/18, wird zurückgewiesen.2. Der Kläger hat die Kosten des Berufungsverfahrens zu tragen.3. Das Urteil ist vorläufig vollstreckbar. Das in Ziffer 1 genannte Urteil des Landgerichts Cottbus ist ohne Sicherheitsleistung vorläufig vollstreckbar.4. Die Revision wird zugelassen.BeschlussDer Streitwert wird für das Berufungsverfahren auf 28.929,47 € € festgesetzt.  
+				Gründe
+				I.Der Kläger nimmt die Beklagte auf Rückgängigmachung eines Kaufvertrages über einen PKW aus dem Komplex "VW-Abgas-Skandal" in Anspruch.Der Kläger erwarb am 10. Dezember 2015 vom Audi Zentrum B... einen gebrauchten PKW Audi A4 Avant TDI mit der Fahrzeugidentifikationsnummer ... mit einer Laufleistung von 18100 Kilometern zum Preis von 26.600,00 Euro. In dem Fahrzeug war ein von der Beklagten entwickelter Motor mit der internen Bezeichnung "EA 189" eingebaut. Der Motor war zum Zeitpunkt des Verkaufs mit einer Motorsteuerungssoftware ausgestattet, die erkennt, wenn das Fahrzeug - etwa im Rahmen des Zulassungsverfahrens - den sogenannten "Neuen Europäischen Fahrzeugzyklus" (NEFZ) durchfährt, der für die Prüfung des Abgaswertes eines neuen Fahrzeuges relevant ist. In diesem Zyklus wird eine bestimmte Menge an Abgasen vor Erreichen des Emissionskontrollsystems in den Motor zurückgeführt, fällt also bei der Kontrolle nicht an (Modus 1). Auf Basis der hierdurch erzielten Abgaswerte wurde dem Fahrzeug bzw. dem Motor bescheinigt, dass er die "Euro 5"- Abgasnorm erfülle, die unter anderem auch das Maß an ausgestoßenen Stickoxiden regelt. Unter realen Bedingungen im Straßenverkehr (Modus 0) erfolgt die Abgasrückführung nicht im selben Maße mit der Folge, dass wesentlich mehr Stickoxide ausgestoßen werden.Das Kraftfahrt-Bundesamt (KBA) stellte mit rechtskräftigem Bescheid vom 15. Oktober 2015 gegenüber der Beklagten fest, dass es sich bei der von der Beklagten verwendeten Motorsteuerungssoftware um eine unzulässige Abschaltvorrichtung gemäß Art. 3 Nr. 10 der EU-Verordnung Nr. 715/2007 handelte. Die Beklagte wurde verpflichtet, diese zu entfernen und geeignete Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit zu ergreifen.Am 22. September 2015 gab die Beklagte eine ad-hoc Mitteilung heraus, in der sie über die Diesel-Thematik informierte, und teilte darin mit, "Volkswagen treibt die Aufklärung von Unregelmäßigkeiten einer verwendeten Software bei Diesel-Motoren mit Hochdruck voran". Noch im Herbst 2015 schaltete die Beklagte eine Internetwebseite, auf der sich Kunden mit Hilfe der Fahrzeugidentifikationsnummer darüber informieren können, ob ihr Fahrzeug von der Manipulation betroffen ist. Dies wurde in den Medien auch bekannt gemacht. Im Anschluss an diese Nachricht wurde in sämtlichen Medien über die sogenannte "Diesel-Affäre" bzw. den "Diesel-Skandal" berichtet.Die Beklagte entwickelte in der Folge ein Software-Update für den Motortyp EA 189. Mit Schreiben vom 03. Juni 2016 an die Beklagte bestätigte das KBA der Beklagten gegenüber - bezüglich der Fahrzeuge des hier streitgegenständlichen Typs -, dass die von der Volkswagen AG dem KBA vorgestellte Änderung der Applikationsdaten geeignet seien, die Vorschriftsmäßigkeit der genannten Fahrzeuge herzustellen.Der Kläger hat die Auffassung vertreten, ihm stehe ein deliktischer, auf die Rückabwickelung des Kaufvertrages gerichteter Schadensersatzanspruch aus § 826 BGB sowie wegen Betrugs aus §§ 823 Abs. 2 BGB i.V.m. § 263 StGB zu. Die im Motor eingesetzte Software sei eine unzulässige Abschaltvorrichtung im Sinne der Art 5 Abs. 2 der EU-Verordnung. Er hat behauptet, vom Einbau der unzulässigen Software hätten neben zahlreichen, teilweise namentlich benannten Führungskräften, leitenden Managern und Ingenieuren auch mehrere Vorstände und der damalige Vorstandsvorsitzende gewusst.Der Kläger hat beantragt,die Beklagte wird verurteilt, an ihn 20.917,66 € nebst Zinsen in Höhe von 2.336,95 € sowie weiterer Zinsen aus 24.036,53 € in Höhe von 4 % pro Jahr seit dem 28. Februar 2019 zu zahlen und ihn von den aktuell noch bestehenden Verbindlichkeiten gegenüber der Audi Bank aus dem Darlehensvertrag zur Darlehensvertragsnummer ... in Höhe von 3.800,- € freizustellen, Zug um Zug gegen Übergabe des Fahrzeugs Audi A 4 Avant Attraction 2.0 TDI mit der Fahrzeugidentifikationsnummer ... über Übertragung des dem Kläger gegenüber der Audi Bank zustehenden Anwartschaftsrechts auf Übereignung des vorstehend bezeichneten Fahrzeuges,es wird festgestellt, dass sich die Beklagte mit der Annahme des in Ziff. 1 genannten Fahrzeuges seit dem 4. Januar 2018 in Annahmeverzug befindet,die Beklagte wird verurteilt, an ihn vorgerichtliche Rechtsanwaltskosten in Höhe von 958,19 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu erstatten sowie ihn von weiteren Rechtsanwaltskosten in Höhe von 359,38 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Sie hat behauptet, der Kläger sei nicht getäuscht worden, da er das Fahrzeug nach dem Bekanntwerden des Dieselskandals in Kenntnis der Software und ihrer Funktionsweise erworben habe. Es fehle deshalb an der Kausalität zwischen einer angeblichen Täuschung und der Kaufentscheidung des Klägers.Das Fahrzeug habe nicht über eine unzulässige Abschaltvorrichtung verfügt. Die Beklagte hat bestritten, dass Vorstandsmitglieder Kenntnis von der Entwicklung und der Verwendung der Software gehabt hätten und behauptet, dass nach bisherigem Kenntnisstand die Entscheidung, die Motorsteuerungssoftware zu verändern, von Mitarbeitern unterhalb der Vorstandsebene auf nachgeordneten Arbeitsebenen getroffen worden seien. Zudem sei dem Kläger kein Schaden entstanden, da das Fahrzeug weiterhin uneingeschränkt technisch nutzbar sei. Es bestehe keine Gefahr des Entzugs der Typengenehmigung. Dafür, dass das Software-Update negative Auswirkungen auf das Fahrzeug habe, gebe es keine Anhaltspunkte. Schließlich sei jedenfalls die Sittenwidrigkeit nach Aufklärung der Dieselproblematik entfallen.Wegen der festgestellten Tatsachen und weiteren Einzelheiten des Parteivorbringens wird auf den Tatbestand des angefochtenen Urteils verweisen, § 540 ZPO.Das Landgericht Cottbus hat die Klage mit Urteil vom 20. März 2019 abgewiesen. Die Kammer ist davon ausgegangen, dass die Beklagte den Kläger nicht in einer gegen die guten Sitten verstoßenden weise geschädigt habe. Dies scheide vor allem deshalb aus, weil der sogenannte Dieselskandal bereits im September 2015 durch die allgemeinen Medien offenbart worden sei und der Kläger sein Fahrzeug drei Monate nach dem Bekanntwerden erworben hat.Dagegen richtet sich die vom Kläger eingelegte Berufung, mit der er seine erstinstanzlich gestellten Anträge vollumfänglich weiter verfolgt.Der Kläger beantragt zuletzt,unter Abänderung des am 20. März 2019 verkündeten Urteils des Landgerichts Cottbus, Aktenzeichen 2 O 282/18,1. die Beklagte wird verurteilt, an ihn 23.929,47 € nebst Zinsen in Höhe von 3.259,76 € sowie weiterer Zinsen aus 27.836,53 € in Höhe von 4 % pro Jahr seit dem 21. Januar 2020 zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs Audi A 4 Avant Attraction 2.0 TDI mit der Fahrzeugidentifikationsnummer ...,2. es wird festgestellt, dass sich die Beklagte mit der Annahme des in Ziff. 1 genannten Fahrzeuges seit dem 4. Januar 2018 in Annahmeverzug befindet,3. die Beklagte wird verurteilt, an ihn vorgerichtliche Rechtsanwaltskosten in Höhe von 958,19 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu erstatten sowie ihn von weiteren Rechtsanwaltskosten in Höhe von 359,38 € freizustellen,4. es wird festgestellt, dass die Beklagte verpflichtet ist, dem Kläger alle weiteren Schäden zu ersetzen, die dieser aus der Manipulation des Motors oder entsprechenden Behebungsmaßnahmen des im Antrag zu 1.) genannten Fahrzeuges erleidet.Die Beklagte beantragt,die Berufung zurückzuweisen.Die Berufung sei schon nicht zulässig, da die Rechtsanwendung nur mit formelhaften Pauschalaussagen angegriffen werde. Sie sei auch unbegründet, ein Schadensersatzanspruch bestehe nicht. Die Beklagte habe nach dem 22. September 2015 umfassende Aufklärung über ihre Website aber auch über die Medien geleistet. Eine Täuschungshandlung oder ein entsprechender Vorsatz der Beklagten sei ebenso wenig gegeben wie ein Irrtum des Klägers.Hinsichtlich des Parteivortrags in der Berufung im Einzelnen wird auf die gewechselten Schriftsätze verwiesen.II.Die Berufung des Klägers ist zulässig, hat aber in der Sache keinen Erfolg.1. Die Berufung des Klägers ist zulässig. Sie erschöpft sich nicht in pauschalen Angriffen, sondern greift konkret die Rechtsanwendung des Landgerichts im Hinblick auf die Frage der (fehlende) Kenntnis des Klägers von der Betroffenheit des Fahrzeugs vom "Dieselskandal" nach der Ad-hoc-Mitteilung jedoch noch vor dem Rückrufschreiben an.2. Die Entscheidung des Landgerichts ist zutreffend und hält den Berufungsangriffen des Klägers stand. Dem Kläger steht gegen die Beklagte bei der vorliegenden Fallkonstellation kein Schadensersatzanspruch zu. Die vom Kläger begehrte Rückabwicklung des Kaufvertrages kommt hier nicht in Betracht.Der Senat schließt sich bei den sog. Fällen "Kauf nach Bekanntwerden des Dieselskandals" einer Vielzahl anderer obergerichtlicher Entscheidungen an, denen ähnliche Fallgestaltungen zugrunde lagen, so u.a. OLG Frankfurt, Urteil vom 06.11.2019, Az. 13 U 156/19 OLG Saarbrücken, Urteil vom 28.08.2019, Az. 2 U 94/18 OLG Stuttgart, Urteil vom 07.08.2019, 9 U 9/19 OLG Stuttgart, Urteil vom 26.11.2019, Az. 10 U 199/19 OLG Köln, Urteil vom 06.06.2019, Az. 24 U 5/19 OLG Dresden, Urteil vom 24.07.2019, Az. 9 U 2067/18 OLG Celle, Urteil vom 29.04.2019, Az. 7 U 159/19 OLG Braunschweig, Urteil vom 02.11.2017, Az. 7 U 69/17; OLG Schleswig-Holstein, Urteil vom 29.11.2019, Az. 1 U 32/19 und OLG Koblenz, Urteil vom 25.10.2019, Az. 3 U 948/19.Ein Anspruch des Klägers nach § 826 BGB scheitert bereits daran, dass der Senat keinen Zurechnungszusammenhang zwischen dem Verhalten der Beklagten und dem Eintritt eines etwaigen Schadens beim Kläger sieht und zudem auch zum Zeitpunkt des streitgegenständlichen Erwerbs des Fahrzeugs - hier im Dezember 2015 - ein entsprechender Schädigungsvorsatz bei der Beklagten nicht (mehr) angenommen werden kann. Auf eine konkrete Kenntnis des Klägers, dass gerade der von ihm erworbene Wagen vom Abgasskandal betroffen war, kommt es damit nicht an.Es kann dahinstehen, ob der Beklagten ein sittenwidriges Verhalten vorzuwerfen ist oder nicht, denn die Beklagte hatte jedenfalls im Zeitpunkt, als der Kläger das streitgegenständliche Fahrzeug erworben hat, ausreichende Abwehrmaßnahmen zur Verhinderung eines weiteren Schadenseintritts getroffen. Das OLG Frankfurt hat in seinem Urteil vom 6. November 2019 ausgeführt:"Voraussetzung einer jeden Schadensersatzpflicht ist nach allgemeinen Grundsätzen, dass der geltend gemachte Schaden durch das zum Schadensersatz verpflichtende Verhalten des Schädigers verursacht worden ist (Palandt/Grüneberg, BGB, 78. Aufl. 2019, Vorb. v. § § 249 Rn. 24 ff.). Nach allgemeiner Meinung haftet der Schädiger nicht für alle im naturwissenschaftlichen Sinn (conditio sine qua non) durch das schadensbegründende Ereignis verursachten Folgen (äquivalente Kausalität). Vielmehr ist die Verantwortlichkeit des Schädigers durch weitere Zurechnungskriterien einzuschränken, um eine unerträgliche Ausweitung der Schadensersatzpflicht zu verhindern (BGH, Urteile vom 11.9.1999 - III ZR 98/99 -, juris Rn. 13 mwN; vom 6.6.2013 - IX 204/12 -, juris Rn. 20 ff.). Als solche sind in der höchstrichterlichen Rechtsprechung die Kriterien der Adäquanz des Kausalverlaufs sowie des Schutzzwecks der Norm anerkannt (BGH, Urteile vom 11.9.1999 - III ZR 98/99 -, aaO; vom 6.6.2013 - IX 204/12 -, aaO; vom 22.9.2016 - VII ZR 14/16 -, juris Rn. 14 ff.; vom 22.5.2012 - VI ZR 147/11 -, juris, Rn. 14 ff.; MünchKommBGB/Oetker, 8. Aufl. 2019, § § 249 Rn. 142 ff.; zu den in Rechtsprechung und Schrifttum entwickelten Fallgruppen ferner Palandt/Grünewald, BGB, 78. Aufl., Vorb. v. § § 249 BGB Rn. 24 ff. mwN). Eine Haftung scheidet danach aus, wenn der durch das Verhalten des Schädigers in Gang gesetzte Kausalverlauf bei wertender Betrachtung durch später hinzugetretene Umstände unterbrochen wurde, weil diese im Hinblick auf den eingetretenen Schaden so stark in den Vordergrund treten, dass die Erstursache vollständig verdrängt wird (Münch/KommBGB/Oetker, aaO Rn. 143) beziehungsweise der geltend gemachte Schaden nicht mehr in einem inneren Zusammenhang mit der durch den Schädiger geschaffene Gefahrenlage steht; denn ein " "äußerlicher" ", gleichsam " "zufälliger" " Zusammenhang genügt nicht (BGH, Urteile vom 22.5.2012 - VI ZR 157/11 -, aaO Rn. 14 vom 9.4.2019 - VI ZR 89/18 -, juris Rn. 18 OLG Frankfurt, Urteil vom 6.11.2019 - 13 U 56/19 unter II. 2) b) aa); jeweils mwN). Der Zurechnungszusammenhang von Folgen, die auf einer Pflichtverletzung des Schädigers beruhen und durch einen selbstständigen Entschluss des Geschädigten mitverursacht sind, bleibt nach der Rechtsprechung des Bundesgerichtshofs bestehen, wenn der Entschluss des Verletzten durch das haftungsbegründende Ereignis herausgefordert worden ist und keine ungewöhnliche Reaktion auf die Schädigung darstellt (vgl. hierzu BGH, Urteile vom 2.7.2013 - II ZR 293/11 -, juris Rn. 12 vom 17.10.2000 - X ZR 169/99 -, juris Rn. 14 jeweils mwN). Eine die Haftung ausschließende Unterbrechung des Kausalverlaufs wird etwa dann angenommen, wenn ein Rechtsanwalt einen Fehler im Verlauf des Prozesses berichtigt, das Gericht die Korrektur aber nicht zur Kenntnis nimmt und den Fehler zur Grundlage seiner Entscheidung macht (BGH, Urteile vom 15.11.2007 - IX ZR 44/04 -, juris Rn. 17 vom 5.11.1987 - IX ZR 86/86, juris Rn. 46 ff.) oder der Geschädigte selbst aufgrund eines eigenen Willensentschlusses in den Geschehensablauf eingegriffen und dadurch die eigentliche Ursache für die von ihm geltend gemachte Schadensfolge gesetzt hat (BGH, Urteil vom 17.10.2000 - X ZR 169/99 -, juris Rn. 14 [zur Haftung eines Sachverständigen aufgrund Unrichtigkeit des von ihm erstatteten Verkehrswertgutachtens bei möglicher Kenntnis des Auftraggebers]; Beschluss vom 14.11.2017 - VI ZR 92/17 -, juris Rn. 20 [zur Beeinflussung der Schadensentwicklung durch einen Berufswechsel des Geschädigten]).In Anwendung dieser - allgemein und für das gesamte Schadensrecht geltenden (BGH, Urteile vom 11.9.1999 - III ZR 98/99 -, aaO; vom 17.10.2000 - X ZR 169/99 -, aaO) - Grundsätze scheidet eine Haftung der Beklagten vorliegend aus. Denn der Zurechnungszusammenhang zwischen dem grundsätzlich haftungsbegründenden Verhalten der Beklagten, das in der Entwicklung und dem Inverkehrbringen der mit dem Motor EA 189 ausgestatteten Fahrzeuge liegt (Senatsbeschluss vom 25.9.2019 - 17 U 45/19 -, juris Rn. 4 ff. mwN), und einer möglichen Schädigung späterer Erwerber dieser Fahrzeuge ist aufgrund der von der Beklagten seit 22.9.2015 eingeleiteten Maßnahmen jedenfalls im Hinblick auf den vorliegenden Kaufvertrag unterbrochen worden. Die in der Eingehung der Zahlungsverpflichtung durch den mit dem Autohaus geschlossenen Kaufvertrag liegende Schädigung (Senatsbeschluss vom 25.9.2019 - 17 U 45/19, aaO Rn. 18 ff. mwN) beruht vielmehr auf einem eigenverantwortlichen Willensentschluss des Klägers, der nicht mehr in einem inneren Zusammenhang mit der von der Beklagten geschaffenen Gefahrenlage steht.Wie die Beklagte unbestritten vorgetragen hat und dem Senat überdies aus einer Vielzahl vergleichbarer Fälle sowie der öffentlich zugänglichen, umfangreichen Medienberichterstattung bekannt ist, hat die Beklagte die Öffentlichkeit am 22.9.2015 im Rahmen einer Presseinformation sowie einer Ad-hoc-Mitteilung davon unterrichtet, dass weltweit rund elf Millionen Fahrzeuge mit Motoren vom Typ EA 189 von den bereits zuvor in den USA beanstandeten auffälligen Abweichungen zwischen Prüfstandswerten und realem Fahrbetrieb betroffen waren.Es kann dahinstehen, ob diese Schritte - insbesondere die Ad-hoc-Mitteilung - bereits für sich genommen geeignet waren, den Zurechnungszusammenhang zu unterbrechen (dagegen OLG Hamm, Urteil vom 10.9.2019 - 13 U 149/18 -, juris Rn. 66); denn die Beklagte hat in den darauffolgenden Tagen und Wochen weitere Maßnahmen ergriffen, um die Folgen ihres Verhaltens zu minimieren. Insbesondere stellte sie am 2.10.2015 eine Internetseite bereit, die es auf einfache Weise ermöglichte, betroffene Fahrzeuge anhand der Fahrzeugidentifikationsnummer zu individualisieren. Über diese Umstände wurde nicht nur in sämtlichen öffentlichen Medien umfangreich berichtet; vielmehr hat die Beklagte auch die Vertragshändler von den jeweiligen Schritten in Kenntnis gesetzt und so darauf hingewirkt, dass potentielle Gebrauchtwagenkäufer von diesen - bereits zur Vermeidung einer sonst im Raum stehenden eigenen Gewährleistungshaftung der Vertragshändler - rechtzeitig darüber unterrichtet werden, dass ein konkretes Fahrzeug mit dem Motor EA 189 ausgestattet war. Zudem informierte die Beklagte die Öffentlichkeit über die Entwicklung und Genehmigung des Software-Updates und die infolge des Bescheids des Kraftfahrtbundesamtes erforderliche Rückrufaktion."Diesen Erwägungen schließt sich der erkennende Senat an. Auch im vorliegenden Verfahren hat die Beklagte - und zwar nochmals im Berufungsrechtszug - darauf hingewiesen, dass sie am 22. September 2015 die an den Kapitalmarkt gerichtete ad hoc Mitteilung herausgegeben hat, in der sie über die Dieselproblematik informierte und mitteilte, dass "die betreffende Steuerungssoftware auch in anderen Diesel-Fahrzeugen des V. Konzerns vorhanden" sei. Auch der Senat geht davon aus, dass jedenfalls aber aufgrund der unmittelbar anschließenden umfassenden Information der Öffentlichkeit durch die Beklagte selbst der Zurechnungszusammenhang zwischen Täuschungshandlung durch die Beklagte und dem Eintritt eines Schadens beim Kläger durch die am 10. Dezember 2015 getroffenen Kaufentscheidung entfallen ist. Die Beklagte hat auch im vorliegenden Verfahren unbestritten darauf hingewiesen, dass sie in einer Mitteilung vom 2. Oktober 2015 die Presse über die Dieselproblematik informiert und eine in zahlreichen Medien erwähnte Internetwebseite geschaltet hat, über die sich die Fahrzeughalter informieren konnten, ob ihr konkretes Fahrzeug mit der fraglichen Software-Konfiguration ausgestattet ist. Bereits zu diesem Zeitpunkt war die Thematik - senatsbekannt - Gegenstand einer sehr intensiven Berichterstattung in nahezu allen Zeitungen sowie Fernsehsendern und Onlinemedien in Deutschland, z.B. Bild, Spiegel-online, Sueddeutsche, Welt etc (siehe auch: Berufungserwiderung vom 04. Dezember 2019, S. 7 ff, Bl. 113 ff d.A.). Die Berichterstattung erfolgte zwar überwiegend unter dem Stichwort "VW-Abgasskandal", es wurde aber regelmäßig auch über die Betroffenheit und Abfragemöglichkeit für Audi berichtet. Auch die Händler und Vertriebspartner wurden von der Beklagten informiert. Dies hat der Kläger auch nicht bestritten. Er hat auch keine Umstände dargelegt, dass er etwa von dieser umfassenden öffentlichen Berichterstattung keine Kenntnis erlangt hat oder hätte erlangen können. Nachdem die Beklagte mithin ausreichende Maßnahmen getroffen hat, um die weiteren Auswirkungen ihres - unterstellt - sittenwidrigen Verhaltens einzudämmen, ist der Zurechnungszusammenhang in Bezug auf Schäden wegen nach Bekanntwerden der Diesel-Thematik verkaufter Fahrzeuge auf diese Weise unterbrochen worden, vgl. OLG Stuttgart, Urteil vom 26.11.2019, Az. 10 U 199/19; OLG Karlsruhe, Urteil vom 09.01.2020, Az. 17 U 133/19.Zum Zeitpunkt des streitgegenständlichen Kaufvertrages sieht der Senat auch keinen Schädigungsvorsatz der Beklagten, weil im Hinblick auf die Offenlegung der maßgeblichen Aspekte der Manipulation durch die Pressemitteilungen nicht (mehr) davon ausgegangen werden kann, dass die Beklagte die Schädigung des Klägers in ihren Willen aufgenommen, für möglich gehalten und billigend in Kauf genommen hat.Im Übrigen fehlt es hier auch an einem Nachweis, dass eine etwaige Täuschungshandlung der Beklagten konkret kausal für die Willensentschließung des Klägers geworden ist. Die entsprechende Darlegungs- und Beweislast trägt insoweit der Kläger, vgl. Palandt/Sprau, BGB, 79. Auflage Rn. 18 zu § 826 BGB. Insoweit hätte der Kläger nachvollziehbar darlegen müssen, aus welchen Gründen er davon ausgegangen ist, dass das von ihm erworbene Fahrzeug von der allgemein bekannt gewordenen Problematik nicht betroffen ist, wobei darauf hinzuweisen ist, dass einer Kausalität der Täuschung für den Vertragsschluss im Regelfall bereits entgegensteht, dass ein objektiver Verdacht bestand, dass der Pkw betroffen sein könnte, der Kläger aber keine Veranlassung gesehen hat, diese Frage vor Vertragsschluss zu klären. Von einer Relevanz der potentiellen Betroffenheit des Fahrzeugs vom Abgasskandal beim Vertragsschluss kann sich der Senat bei dieser Sachlage ebenso wenig überzeugen wie das Landgericht.Angesichts dieser Ausführungen kommt ein Schadensersatzanspruch nach § 823 Abs. 2 BGB iVm § 263 StGB von vornherein nicht in Betracht, ohne dass es auf die übrigen Anspruchsvoraussetzungen ankäme. Ein Schadensersatzanspruch besteht auch nicht wegen Verletzung eines Schutzgesetzes nach §§ 6, 27 EG-FGV, weil § 27 EG-FGV schon kein Schutzgesetz im Sinne des § 823 Abs. 2 BGB ist.Nachdem ein Schadensersatzanspruch des Klägers nicht besteht, können auch die Anträge auf Erstattung außergerichtlicher Rechtsanwaltskosten und auf Feststellung des Annahmeverzugs keinen Erfolg haben.Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus §§ 708 Nr. 10, 713 ZPO.Der Senat hat die Revision zur Sicherung einer einheitlichen Rechtsprechung zugelassen (§§ 543 Abs. 1 Nr. 1, Abs. 2 Satz 1 Nr. 2 ZPO).
+			
+			
+			
+			Permalink: https://openjur.de/u/2253269.html (https://oj.is/2253269)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate20
+				
+				
+					 Zitiert6
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

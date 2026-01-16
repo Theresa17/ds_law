@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BielefeldRechtsprechungUrteil vom 09.07.2021 - 18 O 401/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bielefeld, Urteil vom 09.07.2021 - 18 O 401/20
+                      m. Fundstelle
+                      LG Bielefeld, Urteil vom 09.07.2021 - 18 O 401/20 = openJur 2023, 6630
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bielefeld, Urteil vom 09.07.2021 - 18 O 401/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2023, 6630
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits werden dem Kläger auferlegt.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar.Der Streitwert wird bis zum 12.03.2021 auf 52.000,00 EUR und danach auf 32.642,01 EUR festgesetzt. 
+				Tatbestand
+				Der Kläger verlangt von der Beklagten als Herstellerin des von ihm erworbenen Pkw Schadensersatz aufgrund des sog. Dieselskandals.Der Kläger erwarb am 11. September 2014 das streitgegenständliche Fahrzeug mit den folgenden Spezifikationen:Marke: Porsche Modell: Cayenne 3.0 TDIMotortyp: 3,0 TDIAbgasnorm: EURO 5FIN: XXXKilometerstand bei Kauf: 21.000 kmKaufpreis: EUR 52.000,00Auf Anlage K 1 wird verwiesen.Für das Fahrzeug liegt kein verpflichtender Rückrufbescheid des KBA vor.Der Kläger behauptet, ihm sei es auf Umweltverträglichkeit beim Erwerb des Pkw angekommen. Das streitgegenständliche Fahrzeug sei vom sog. "Diesel-Abgasskandal" betroffen.Die Beklagte habe in dem streitgegenständlichen Fahrzeug ein unzulässiges sog. Thermofenster verbaut. Ein Fahrzeug verfüge über ein "Thermofenster", wenn die Abgasreinigung abhängig von der Außentemperatur gesteuert wird. Vorliegend werde die Abgasrückführung insbesondere bei kühleren und extrem hohen Temperaturen zurückgefahren. Die Reduktion der Abgasrückführung erfolge insoweit bereits ab einer Außentemperatur von (unter) 17 Grad Celsius und über 30 Grad Celsius (sog. "Ausrampen").Im Übrigen bestehe der "dringende Tatverdacht" von weiteren unzulässigen Abschalteinrichtungen:Es gebe Manipulationen der innermotorischen Maßnahmen. Durch die eingesetzte Manipulationssoftware werde insbesondere die Abgasrückführungs-Menge beim Betrieb des Fahrzeugs auf der Straße erheblich reduziert. Infolgedessen hätten die entstandenen Stickoxide gerade nicht mehr reduziert werden und große Mengen Stickoxide gelangten ungefiltert in die Umwelt.Die Motorsteuerungssoftware des streitgegenständlichen Fahrzeugs sei ähnlich wie bei den Motoren des Typs EA 189 so programmiert, dass sie durch fehlenden Lenkeinschlag (Servolenkungssensor), Böschungswinkel und Temperaturumgebung erkenne, ob sich das Fahrzeug auf dem Prüfstand oder im realen Fahrbetrieb befindet. In diesem Falle werde ein besonderer Rollenprüfstandmodus aktiviert, der dazu führe, dass das der Minderung des NOx-Wertes dienende Abgasrückführungssystem und der Partikelfilter aktiviert würden, damit bei der zur Erlangung der EG-Typgenehmigung erforderlichen Überprüfung des Schadstoffausstoßes die vorgegebenen Grenzwerte eingehalten wird. Um die Einhaltung der Grenzwerte bei der gesetzlich allein vorgesehenen Kontrolle auf dem Rollenprüfstand zu gewährleisten, werde zudem das sogenannte ,,Auxilliary Emission Control Device (AECD) eingesetzt, mit dessen Hilfe das Emissionskontrollsystem unter Berücksichtigung verschiedener Faktoren (wie Außentemperatur, Fahrzeuggeschwindigkeit, Umdrehungsgeschwindigkeit des Motors) auf den Prüfstandmodus eingestellt werden könne. Dadurch werde zugleich die Leistung auf dem Prüfstand reduziert, weil die Automatik-Getriebe-Schaltung unnatürlich schnell höher schalte. Diese Abschalteinrichtungen seien gekoppelt mit einer Manipulation des ,,On Board Diagnosesystems" (OBS), das bewirkt, dass Fehler im Abgassystem nicht gemeldet würden, damit sie nicht im Fehlerspeicher erscheinen. Um aber die mit einem dauerhaften Betrieb dieser Vorrichtungen verbundene vorzeitige Schädigung von Motor und Partikelfilter zu vermeiden, blieben die der Schadstoffminderung dienenden Systeme auf Grund der eingebauten Software im Normalbetrieb deaktiviert, weshalb bei dem normalen Gebrauch des Fahrzeugs die gesetzlichen Grenzwerte deutlich überschritten würden.Zudem bestehe eine Aufwärmstrategie, deren Ziel ist es, den SCR Katalysator zügig auf Betriebstemperatur zu bringen.Zudem gebe es eine Manipulation bei der Abgasnachbehandlung. Erfolge die Manipulation im Rahmen der Abgasnachbehandlung, seien seitens der Beklagten NOx-Speicherkatalysatoren und/oder SCR-Katalysatoren eingesetzt, um die Stickoxide zu reduzieren.Unstreitig verfügt der Pkw des Klägers allerdings nicht über ein SCR-Katalysator.Der Kläger fordert Schadensersatz von der Beklagten aufgrund vorsätzlicher sittenwidriger Schädigung, da der Pkw mit unzulässigen Abschalteinrichtungen versehen sei.Der Kläger beantragt:1. Die Beklagte wird verurteilt, an den Kläger EUR 32.642,01 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 14. Mai 2020 zu zahlen. Die Verurteilung erfolgt Zugum-Zug gegen Übereignung und Herausgabe des Fahrzeugs der Marke Porsche vom Typ Cayenne 3.0 TDI mit der Fahrzeugidentifikationsnummer (FIN) XXX nebst zwei Fahrzeugschlüsseln, Kfz-Schein, Kfz-Brief und Serviceheft.Hilfsweise beantragt er:2. Es wird festgestellt, dass die Beklagte verpflichtet ist, dem Kläger Schadensersatz zu zahlen für Schäden, die aus dem Einbau einer unzulässigen Abschalteinrichtung i.S.v. Art. 5 Abs. 2 EG-VO 715/2007 durch die Beklagte in das Fahrzeug der Marke Porsche vom Typ Cayenne 3.0 TDI mit der Fahrzeugidentifikationsnummer (FIN) XXX resultieren.Weiter beantragt er:3. Es wird festgestellt, dass sich die Beklagte mit der Annahme, der in vorgenannten Klageanträgen genannten Zugum-Zug-Leistung im Annahmeverzug befindet.4. Es wird festgestellt, dass der in Antrag zu 1) bezeichnete Anspruch aus einer vorsätzlichen unerlaubten Handlung der Beklagten herrührt.5. Die Beklagte wird verurteilt, den Kläger von den durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen Kosten der außergerichtlichen Rechtsverfolgung i. H. v. EUR 2.994,04 freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die wechselseitig geführten Schriftsätze nebst Anlagen verwiesen. 
+				Gründe
+				Die Klage ist zulässig, aber weder in den Haupt- noch Hilfsanträgen begründet.I.Der Kläger hat keinen Anspruch auf Schadensersatz in Form der begehrten Rückabwicklung des Kaufvertrages gegen die Beklagte. Insoweit kommen mangels vertraglicher Beziehung der Parteien nur deliktische Anspruchsgrundlagen in Betracht, bspw. §§ 826 oder 823 Abs. 2 BGB iVm § 263 StGB. Diese Anspruchsgrundlagen setzen jedoch die vorsätzliche Zufügung eines Schadens durch die Beklagte voraus. Ein solcher Anspruch steht dem Kläger nicht zu, weil für die Kammer keine unzulässige Abschaltvorrichtung beim Fahrzeug des Klägers feststellbar ist, jedenfalls keine solchen, die eine deliktische Haftung der Beklagten begründen könnten.1. Dies gilt zunächst hinsichtlich der behaupteten Ausstoßminimierung auf dem Prüfstand und die enthaltene "Umschaltlogik" (Abschalteinrichtung "Lenkradeinschlag", On-Board-Diagnosesystem (OBD)). Die Beklagte hat mehrfach darauf hingewiesen, dass für das streitgegenständliche Fahrzeug kein Rückrufbescheid des KBA vorliegt. Die klägerischen Ausführungen diesbezüglich betreffen nicht das konkrete streitgegenständliche Fahrzeug. Nach Auffassung der Kammer kommt dem entscheidende Bedeutung zu. Für die Anwendung des § 826 BGB ist kein Raum, wenn das betroffene Fahrzeug bzw. der Motor durch die zuständigen Behörden, wie hier nicht beanstandet worden ist. Denn die Rechtmäßigkeit oder Rechtswidrigkeit einer Abschaltvorrichtung ist durch die Zulassungsbehörde zu prüfen. Erteilt diese die Typenzulassung, haben die Zivilgericht bis auf Weiteres von der Rechtmäßigkeit der Motorkonfiguration auszugehen. Denn solange ein solcher Verwaltungsakt nicht durch die zuständige Behörde oder durch ein Verwaltungsgericht aufgehoben worden oder nichtig ist, ist die Zulässigkeit der betreffenden Abschalteinrichtung im Sinne des Artikel 5 Abs. 2 VO 715/2007/EG einer Nachprüfung durch die Zivilgerichte entzogen (ausdrücklich OLG Oldenburg Beschl. v. 27.1.2020 - 5 U 395/19, BeckRS 2020, 8864; vgl. auch OLG Braunschweig Urt. v. 5.3.2020 - 7 U 189/18, BeckRS 2020, 16626; LG Saarbrücken Urt. v. 4.12.2020 - 12 O 260/19, BeckRS 2020, 35323). Insoweit fehlt es an hinreichenden Anknüpfungstatsachen, aus denen sich eine Unzulässigkeit der Motorsteuersoftware ergeben könnte. Letztlich beschränkt sich der Klägervortrag auf Sachverhalte und gerichtliche Entscheidungen anderer Fahrzeugtypen, wobei lediglich pauschal behauptet wird, dass diese auch auf den vorliegenden Fall übertragbar seien. Dies ist jedenfalls nicht ausreichend (vgl. OLG München, Endurteil vom 05.09.2019 - 14 U 416/19, BeckRS 2019, 26072, beckonline; OLG München NJW-RR 2019, 1497; OLG Naumburg, Urt. v. 29.11.2019, Az. 7 U 52/19). Zudem sind die Behauptungen des Klägers ersichtlich ohne Anhaltspunkte. Dafür spricht auch die Vortragsweise des Klägers. So trägt der Kläger in der Klage umfangreich zu unzulässigen Abschalteinrichtungen einen SCR-Katalysator betreffend vor, muss dann aber auf entsprechenden Einwand der Beklagten eingestehen, dass ein solcher gar nicht verbaut worden ist. Dass der Klägervortrag diesbezüglich lediglich auf bloßen Vermutungen basiert, räumt dieser auch ausdrücklich ein, wenn er beispielsweise von einem "dringenden Tatverdacht" spricht.2. Die Frage, ob eine unzulässige Abschalteinrichtung wegen des sog. Thermofensters vorliegt, zu welchem sich dann noch die Replik des Klägers verhält, kann dahinstehen, da der für eine deliktische Haftung erforderliche zurechenbare Schädigungsvorsatz, gleich bei welcher der möglicherweise verantwortlichen Personen, nicht festgestellt werden kann. Insofern führt das Oberlandesgericht Stuttgart in seiner Entscheidung vom 30. Juli 2019 zum Az. 10 U 134/19, juris überzeugend aus, dass dieser bei der Verwendung eines Thermofensters erfordere, dass Anhaltspunkte dafür erkennbar wären, dass der Einbau der Einrichtung mit der in Rede stehenden Funktionsweise in den streitgegenständlichen Motor in dem Bewusstsein geschehen sei, hiermit möglicherweise gegen die gesetzlichen Vorschriften zu verstoßen und dieser Gesetzesverstoß billigend in Kauf genommen worden sei. Bei Abschalteinrichtungen, die vom Grundsatz her im normalen Fahrbetrieb in gleicher Weise arbeiteten wie auf dem Prüfstand und bei denen Gesichtspunkte des Motor- bzw. Bauteilschutzes als Rechtfertigung ernsthaft angeführt werden könnten, könne es bei Fehlen von konkreten Anhaltspunkten nicht ohne weiteres unterstellt werden, dass die Handelnden bzw. Verantwortlichen in dem Bewusstsein gehandelt hätten, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden. Denn der Einschätzung im Hinblick auf das Thermofenster könne auch eine möglicherweise falsche, aber dennoch vertretbare Gesetzesauslegung zugrunde liegen, dass es sich um eine zulässige Abschalteinrichtung handele (OLG Stuttgart, aaO, Rn. 81 ff.). Dieser Sichtweise schließt sich auch das Schleswig-Holsteinische Oberlandesgericht in seinem Hinweisbeschluss vom 23.08.2019 zum Az. 3 U 13/19, juris an. Auch das Oberlandesgericht Köln vertritt in einem Beschluss vom 04.07.2019 zum Az. 3 U 148/18, juris die Auffassung, dass in einem solchen Fall der erforderliche Schädigungsvorsatz nicht festzustellen sei. Dies ist für die Kammer überzeugend, denn anders als in den "VW-Fällen" verhält es sich hier so, dass nicht grundsätzlich auf dem Prüfstand und auf der Straße unterschiedliche Abgasrückführungsmodi aktiviert wurden, sondern die Abgasrückführung temperaturabhängig stärker oder weniger stark aktiviert wird. Bei einer Abschalteinrichtung, die vom Grundsatz her im normalen Fahrbetrieb in gleicher Weise arbeitet wie auf dem Prüfstand und bei der Gesichtspunkte des Motors bzw. Bauteilschutzes als Rechtfertigung ernsthaft angeführt werden können, kann nicht ohne weiteres unterstellt werden, dass die Handelnden bzw. Verantwortlichen bei der Beklagten in dem Bewusstsein gehandelt haben, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden (so auch OLG Stuttgart, Urteil vom 30.07.2019, Az. 10 U 134/19, juris, Rn. 82). Denn anders als die "Schummelsoftware" des Motors EA 189 unterscheidet das Thermofenster nicht zwischen Prüfstand und realem Betrieb, sondern richtet sich nach der Umgebungstemperatur und ist damit nicht offensichtlich auf eine "Überlistung" der Prüfungssituation ausgelegt (OLG Naumburg, BeckRS 2019, 23793, beckonline; OLG München a. a. O.).3. Auch die Behauptung des Klägers, die Beklagte habe in Bezug auf das On-Board-Diagnosesystem (OBD) getäuscht, rechtfertigt nicht die geltend gemachten Ansprüche. Unabhängig davon, ob das OBD selbst überhaupt eine Abschalteinrichtung im Sinne von Art. 5 Abs. 2 VO (EG) 715/2007 darstellen kann, obwohl es unstreitig die Funktion eines beliebigen Teils des Emissionskontrollsystems selbst weder aktiviert, verändert, verzögert noch deaktiviert (vgl. Art. 3 Nr. 10 VO (EG) 715/2007), ist ein auf die Programmierung des OBD gestützter Anspruch ausgeschlossen, soweit dieses im normalen Straßenverkehr sowie im Rahmen der Abgasuntersuchung und der Inspektion keine Fehlfunktion des Abgassystems anzeigt (OLG Karlsruhe Urt. v. 30.10.2020 - 17 U 296/19, BeckRS 2020, 29048 Rn. 60). Wie ausgeführt, sind derartige Fehlfunktionen hier nicht ersichtlich (ähnlich LG Saarbrücken Urt. v. 4.12.2020 - 12 O 260/19, BeckRS 2020, 35323 Rn. 32).II. Mangels eines begründeten Hauptanspruchs bestehen auch die geltend gemachten Nebenansprüche gegenüber dieser nicht. Gleiches gilt für die Feststellungsbegehren.III. Die prozessualen Nebenentscheidungen beruhen auf §§ 91 Abs. 1, 269 Abs. 3, 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2471290.html (https://oj.is/2471290)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

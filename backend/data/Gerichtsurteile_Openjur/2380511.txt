@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 12.02.2020 - 4 O 180/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 12.02.2020 - 4 O 180/19
+                      m. Fundstelle
+                      LG Köln, Urteil vom 12.02.2020 - 4 O 180/19 = openJur 2021, 45699
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 12.02.2020 - 4 O 180/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 45699
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte wird verurteilt, an den Kläger 34.615,20 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 08.03.2019 Zug um Zug gegen Übergabe des Fahrzeugs B B1 Avant, 3.0 TDI, FIN XXX00000 zu zahlen.Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des vorbezeichneten Fahrzeugs im Annahmeverzug befindet.Die Beklagte wird verurteilt, an den Kläger weitere 1.590,91 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem18.06.2019 zu zahlen.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits trägt die Beklagte.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger erwarb am 28.03.2017 zu einem Kaufpreis von 45.680,00 EUR einen B A6 Avant, in dem ein 3,0 Liter V6-Turbodieselmotor (200 kW) der Schadstoffklasse Euro 6 plus eingebaut ist. Die Beklagte ist Herstellerin dieses Motors.Nachdem der Kläger den Kaufvertrag über das vorbezeichnete Fahrzeug abgeschlossen hatte, wurde in den Medien der sog. "Abgasskandal" bekannt. Dieser bezog sich zunächst auf den nachfolgend zusammengefassten Sachverhalt, der dem Gericht aus der Berichterstattung in den allgemein zugänglichen Medien sowie aus anderen, diesbezüglich anhängigen Rechtsstreitigkeiten bekannt ist:Zum Nachweis, dass ein Kraftfahrzeug bei seinem Betrieb die europaweit einheitlich festgesetzten Abgasgrenzwerte einhält, muss das Fahrzeug über eine Typgenehmigung gemäß Art. 4 Abs. 1 der VO (EG) 715/2007 verfügen. Die zur Erteilung dieser Typgenehmigung durchgeführte Prüfung der Abgasgrenzwerte erfolgt auf einem Prüfstand in einem europaweit festgelegten einheitlichen Testverfahren, dem Neuen Europäischen Fahrzyklus (NEFZ). Im Zusammenhang mit diesem Prüfstandsverfahren kam zunächst im Jahr 2015 ans Licht, dass in Fahrzeugen mit Motoren der - hier nicht streitbefangenen - Baureihe F000 eine Motorsteuerungssoftware implementiert worden war, die erkennt, wann ein Fahrzeug das Prüfstandsverfahren durchlief und daraufhin den Schadstoffausstoß reduzierte. Im Jahr 2018 ordnete das Kraftfahrt-Bundesamt nach Bekanntwerden weiterer Abschaltvorrichtungen auch für V6-Dieselfahrzeuge anderer Motorenmodelle, darunter das hier gegenständliche Fahrzeug der Marke B A6, einen verpflichtenden Rückruf an, um deren Vorschriftsmäßigkeit wiederherzustellen.Auf Anordnung des Kraftfahrt-Bundesamtes nimmt die Beklagte eine Aktualisierung der Motorensoftware für Fahrzeuge dieses Typs vor. Die Beklagte teilte dem Kläger mit Schreiben vom Dezember 2018 mit, dass aufgrund eines angeordneten Rückrufs ein Software-Update am Motorsteuergerät des Fahrzeugs vorgenommen werden müsse. Der Kläger nahm an dieser Aktualisierung nicht teil. Mit Schreiben vom 07.01.2019 ließ er die Beklagte durch seine anwaltlichen Vertreter zur Rückzahlung des Kaufpreises Zug um Zug gegen Übergabe und Übergabe des Fahrzeuges unter Fristsetzung bis zum 07.02.2019 auffordern.Der Kläger behauptet, der Motor sei vom sog. Diesel-Abgasskandal betroffen. Er sei mit einer Steuerungssoftware ausgerüstet, durch welche die Stickoxidwerte im Vergleich zwischen Prüfstandlauf und realem Fahrbetrieb deutlich erhöht werden. Die 3,0 Liter-Dieselmotoren der Beklagten seien mit zwei Abschaltvorrichtungen versehen. Die erste diene dazu, das Emissionskontrollsystem in Bezug auf Stickoxide rollenstandsoptimiert darzustellen. Das zweite sei darauf gerichtet, die Leistung und damit den Verbrauch zu drosseln, damit auf dem Rollenprüfstand weniger Emissionen im Hinblick auf CO2 und weitere Schadstoffe verzeichnet werden können. Der Kläger behauptet, er hätte das Fahrzeug nicht gekauft, wenn er von der beschriebenen Motorsteuerungssoftware gewusst hätte. Er ist der Ansicht, die EU-Konformitätsgenehmigung des Fahrzeugs sei falsch gewesen. Das Fahrzeug sei in nicht typgenehmigungskonformer Weise hergestellt worden und habe deshalb von Anfang an keine Typgenehmigung besessen.Der Kläger beantragt,die Beklagte zu verurteilen, an ihn 38.417,33 EUR nebst Zinsen in Höhe von 4 Prozent seit dem 19.04.2017 bis zum 07.02.2019 sowie in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 08.03.2019 Zug um Zug gegen Übergabe des Fahrzeugs B B1 Avant, 3.0 TDI, FIN XXX00000 zu zahlen;festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag zu 1) genannten Fahrzeug im Annahmeverzug befindet;die Beklagte zu verurteilen, an den Kläger weitere 1.590,91 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen.Der Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, dass das Fahrzeug des Klägers nicht von der im September 2015 bekannt gewordenen "Diesel-Thematik" betroffen sei. Die verbaute Motorsteuerungsgerätesoftware verfüge nicht über die bei Motoren des Typs F000 verbaute Umschaltlogik. Die EG-Typgenehmigung für die Emissionsklasse EU6 plus sei zu jeder Zeit wirksam gewesen und das Fahrzeug entspreche dem genehmigten Typ. Es drohe weder ein Widerruf der bestehenden EG-Typgenehmigung noch das Erlöschen der Betriebserlaubnis kraft Gesetzes.Wegen der weiteren Einzelheiten zum Sach- und Streitstand wird auf die zu den Akten gereichten Schriftsätze und Urkunden Bezug genommen. 
+				Gründe
+				Die Klage ist im aus dem Tenor ersichtlichen Umfang begründet.Der Kläger hat zunächst gegen die Beklagte wegen einer vorsätzlichen sittenwidrigen Schädigung gemäß § 826 BGB einen Anspruch auf Erstattung des für den Pkw gezahlten Kaufpreises, abzüglich einer Entschädigung für die zwischenzeitlich gezogenen Nutzungen, Zug um Zug gegen Rückgabe des Fahrzeugs.Der Kläger hat durch ein Verhalten der Beklagten, nämlich durch das vorsätzliche Inverkehrbringen des wegen der Implementierung einer unzulässigen Abschalteinrichtung in die Motorsteuerungssoftware technisch mangelbehafteten streitgegenständlichen Pkw, einen Schaden erlitten. Es genügt jede Schadenszufügung im weitesten Sinne, also jede nachteilige Einwirkung auf die Vermögenslage in ihrer Gesamtheit. Nach dem subjektbezogenen Schadensbegriff stellt auch der Abschluss eines Geschäfts, welches nicht den Zielen des Geschädigten entspricht, einen Schaden im Rahmen des § 826 BGB dar, ohne dass es darauf ankäme, ob die erhaltene Leistung wirtschaftlich betrachtet hinter der Gegenleistung zurückbleibt. Maßgebend für das Vorhandensein eines Schadens ist hier die allgemeine Vorstellung des Klägers als Käufer eines für die Nutzung im Straßenverkehr bestimmten Pkw, dass die dafür notwendige Typengenehmigung und die Betriebszulassung ohne gegenüber den zuständigen öffentlichen Stellen verheimlichte Manipulation erwirkt wurden und dass es deshalb keine rechtlichen Unsicherheiten im Zusammenhang mit der Typengenehmigung und der Betriebszulassung ausgehend von einer heimlichen Manipulation gibt und geben wird (OLG Köln, Beschluss vom 03.01.2019, 18 U 70/18, NZW 2019, 249).So liegt es hier. Dass der Pkw von einer von den Parteien als Diesel-Thematik bzw. Dieselskandal bezeichneten Software-Manipulation betroffen ist, steht zur Überzeugung des Gerichts fest. Dass, wie die Beklagte ihr Bestreiten formuliert, der Pkw nicht von der im September 2015 bekannt gewordenen Diesel-Thematik betroffen sein mag, deutet bereits daraufhin, dass der Pkw vielmehr von einer später bekannt gewordenen Diesel-Thematik betroffen ist. Das Gericht schließt sich insoweit der von der Beklagten nicht angegriffenen Einschätzung des Kraftfahrt-Bundesamtes (KBA) an. Nach dieser für jedermann unmittelbar einsichtigen und allgemein zugänglichen Mitteilung von Januar 2018 wurden bei der Überprüfung der B 3.0 l Euro 6 Modelle B2, B3, B1, B4, B5, R1, TR1, R2 durch das KBA unzulässige Abschalteinrichtungen nachgewiesen. Die schadstoffmindernde, sogenannte schnelle Motoraufwärmfunktion springt bei diesen Fahrzeugen nahezu nur im Prüfzyklus NEFZ an, während die NOx-Schadstoffminderung im realen Verkehr ausbleibt. Es darf davon ausgegangen werden, dass das KBA sich über die weitreichenden Konsequenzen vor der Verlautbarung verpflichtender Rückrufe vollumfänglich im Klaren war und die Bewertung der Software als unzulässige Abschalteinrichtung nur in solchen Fällen getroffen hat, in denen dies unausweichlich war (LG Köln, Urteil vom 20.12.2018, 36 O 147/18, BeckRS 2018, 35370). Denn bereits anlässlich des eingangs beschriebenen "Abgasskandals" betreffend die Motoren der Baureihe F000 war sowohl für die Beklagte als auch für das Kraftfahrt-Bundesamt ersichtlich, dass die Bejahung einer unzulässigen Abschalteinrichtung zu ganz erheblichen Konsequenzen führen würde.Es kann dahinstehen, ob der Kläger ein besonders umweltschonendes Auto - relativ zur Leistung - erwerben wollte. Denn der Kläger hat einen von der Beklagten hergestellten Pkw erworben, der in einem bedeutsamen Gesichtspunkt von der Erwartung eines vernünftigen Durchschnittskäufers abweicht. Wie die Beklagte dem Kläger wiederholt mitgeteilt hat, droht bei Nicht-Teilnahme an der im Rahmen der Rückrufaktion durchzuführenden Software-Aktualisierung eine Betriebsuntersagung nach § 5 FZV. Ein vernünftiger Käufer darf dagegen davon ausgehen, dass die Zulassung des Pkw nicht von einer Software-Aktualisierung - mit im Einzelnen unklaren Folgen - abhängt und bei deren Nichtbefolgung eine Untersagung des Betriebs droht. Dass das Fahrzeug im Übrigen verkehrssicher und fahrbereit sein mag, ändert nichts an diesem Ergebnis. Aus der Stellung des Motors als zentralem Element des Fahrzeuges und der ordnungsgemäßen Zulassung als unbedingte Voraussetzung der Nutzung des Fahrzeuges im Straßenverkehr folgt, dass der Kläger das Fahrzeug bei Kenntnis der Manipulation nicht gekauft hätte. Das gilt auch, wenn der Käufer sich bis zum Bekanntwerden einer solchen Täuschung keine konkreten Vorstellungen von den technischen Einrichtungen und den rechtlichen Voraussetzungen für die Typgenehmigung gemacht hat (OLG Köln, Beschluss vom 20.12.2017, Az. 18 U 112/17, NZV 2018, 72). Entgegen der Ansicht der Beklagten kommt es auch nicht darauf an, ob bei Abschluss des Kaufvertrages Abreden zum Emissionsverhalten getroffen worden sind. Weiter kann dahinstehen, ob die Typgenehmigung derzeit gültig ist. Wesentlich ist die Tatsache der Softwaremanipulation, die sich auf die erste Prüfung des Fahrzeuges und damit auf den sicheren Bestand der Zulassung und die drohende Betriebsuntersagung ausgewirkt hat. Eine von der Beklagten vermutete angemessene Fristsetzung der Behörde vor Stilllegung des Fahrzeugs kann nichts an dem bereits eingetretenen Schaden ändern. Dasselbe gilt für den Verweis auf die rechtliche Natur der Betriebsuntersagung als ultima ratio. Die Durchführung eines Software-Updates stellt hingegen eine nachträgliche Schadensbehebungs- oder Schadensminderungsmaßnahme dar, zu der der Kläger allenfalls wegen der ihn treffenden Schadensminderungspflicht nach § 254 BGB gehalten sein könnte - was indes, wie noch auszuführen sein wird, nicht der Fall ist.Das schädigende Verhalten der Beklagten ist auch als sittenwidrig im Sinne des § 826 BGB zu beurteilen. Die Beklagte hat in großem Umfang und vorsätzlich Umweltschutzvorschriften ausgehebelt und ihre Kunden getäuscht und geschädigt hat. Zudem gilt der Grundsatz, dass eine bewusste Täuschung zur Herbeiführung eines Vertragsschlusses regelmäßig bereits den Vorwurf der Sittenwidrigkeit begründet (BGH, Urteil vom 28.06.2016, Az. I ZR 536/15, juris Rz. 17). Die Beklagte hat auch sämtliche vorbeschriebenen Merkmale der Schadenszufügung im Sinne des § 826 BGB in ihrer Person verwirklicht.Den Kläger trifft keine Schadensminderungspflicht in Gestalt der Teilnahme an der Rückrufaktion der Beklagten. Der Kläger befürchtet, dass das von der Beklagten angebotene Update den vorhandenen technischen Mangel des streitgegenständlichen Pkw entweder nicht dauerhaft beheben oder aber wieder zu neuen Problemen führen wird: Diese berechtigten Zweifel ergeben sich bereits daraus, dass es der Beklagten bisher offenbar nicht gelungen ist, Dieselfahrzeuge herzustellen, die - ohne Manipulationen - einerseits die Abgasgrenzwerte wenigstens im Prüfstandsverfahren einhalten und andererseits die am Markt erwünschte und beworbene Leistung bringen, während sie nunmehr geltend macht, dass ihr kurz nach Bekanntwerden der Manipulationen die Lösung dieses Problems mittels eines einzigen Software-Updates - ohne die Notwendigkeit von Hardware-Nachrüstungen, ohne erneute Unterwanderung der Aussagekraft der Prüfstandswerte und ohne jegliche nachteilige Folgen - gelungen sei (im Anschluss an LG Köln, Urteil vom 20.12.2018, 36 O 147/18, BeckRS 2018, 35370). Diese Zweifel werden noch verstärkt durch die die "naheliegende Frage, warum die Beklagte (...) die jetzt beabsichtigten technischen Lösungen nicht von vornherein implementiert hat" (LG Arnsberg Urteil v. 14.06.2017, Az. 1 O 25/17, Rz. 35). Die Durchführung des Software-Updates ist dem Kläger schließlich auch deshalb unzumutbar, weil er zu Recht befürchtet, dass dem Fahrzeug selbst nach diesem Update allein wegen der Betroffenheit von dem Abgasskandal, der lang anhaltenden öffentlichen Diskussion und der Kritik an der Beklagten sowie der Veränderung des Originalzustandes durch das Update mit der Gefahr von Folgeproblemen ein merkantiler Minderwert verbleiben wird (vgl. OLG Köln, Beschluss v. 20.12.2017, Az. 18 U 112/17, juris Rz. 48).Der Kläger ist demnach so zu stellen, wie er ohne Täuschung stehen würde. Ohne die Täuschung hätte der Kläger den Kaufvertrag über das streitgegenständliche Fahrzeug mit einem - von dem Kläger nicht weiter bestrittenen und sich zudem aus dem zu den Akten gereichten Kaufvertrag ergebenden - Kaufpreis von 67.087,25 EUR nicht abgeschlossen. Er hat daher im Grundsatz einen Anspruch auf Rückzahlung dieses Betrages Zug um Zug gegen Übergabe und Übereignung des streitgegenständlichen Pkws. Der Kläger muss sich jedoch eine Nutzungsentschädigung anrechnen lassen. Bekäme er den gesamten Kaufpreis erstattet, würde er überkompensiert und durch das schadensstiftende Ereignis entgegen dem Zweck des Schadensrechts bereichert. Zum Zeitpunkt der letzten mündlichen Verhandlung betrug der Kilometerstand am 04.11.2019 nachgewiesene 95.352 km. Zur Zeit des Kaufs betrug die Fahrleistung des Fahrzeuges 26.936 km. Bei einem Kaufpreis von 45.680,00 EUR und einer zu erwartenden Gesamtlaufleistung von 300.000 km ergibt sich somit nach der bekannten Formel (Multiplikation von Kaufpreis und den gefahrenen Kilometern, dividiert durch die zu erwartende Restlaufleistung) eine anzurechnende Nutzungsentschädigung i.H.v. 11.064,80 EUR Der Zahlungsanspruch des Klägers reduziert sich somit auf 34.615,20 EUR.Der Anspruch des Klägers gegen die Beklagte auf Verzinsung des zurückzuerstattenden Kaufpreises folgt aus Verzug gemäß § 286, 288 Abs. 1 BGB.Ein weitergehender Anspruch auf Zinsen aus § 849 BGB seit dem 19.04.2017 besteht hingegen nicht. Die Regelung des § 849 BGB greift, über den Wortlaut hinaus, grundsätzlich auch in Fällen des Entzuges von Geld. Jedoch erfüllt die freiwillige Überlassung von Geld nicht die Voraussetzungen des deliktischen Zinsanspruches. Hierfür müsste die Zahlung des Kaufpreises für ein mangelbehaftetes Fahrzeug als eine tatbestandliche "Entziehung" von Geld zu werten sein, was indes nicht angenommen werden kann. Dies zeigt auch der Vergleich mit den Fallgruppen, in denen eine derartige Entziehung angenommen wird (vgl. bspw. Nichtauskehrung eines Versteigerungserlöses, OLG Düsseldorf, Urteil vom 11. Juli 1989 - 24 U 9/89).Es war festzustellen, dass sich die Beklagte mit der Annahme des Pkws in Annahmeverzug befindet. Der Annahmeverzug ist gemäß § 293 BGB aufgrund des erfolglosen vorgerichtlichen Angebots des Klägers zur Durchführung der Rückabwicklung eingetreten. Der Kläger hat die Beklagte mit dem vorgerichtlichen Schreiben vom 07.01.2019 zur Zahlung von Schadensersatz gegen Rückgabe des streitgegenständlichen Fahrzeugs aufgefordert. Die Beklagte befindet sich demnach seit ihrer Verweigerung im Annahmeverzug.Der Anspruch auf Zahlung der außergerichtlichen Rechtsanwaltskosten folgt ebenfalls aus § 826 BGB. Der Kläger hat einen Anspruch von einer 1,3-fachen Geschäftsgebühr unter Berücksichtigung der Mehrwertsteuer und der Kostenpauschale nach dem zutreffend berechneten Gegenstandswert, hier des zur Zeit der Zahlungsaufforderung um die Nutzungsentschädigung bereinigten Kaufpreises in Höhe von 38.417,33 EUR.Die Kostenentscheidung beruht auf § 92 Abs. 2 Nr. 1, der Ausspruch über die vorläufige Vollstreckbarkeit auf § 709 ZPO.Streitwert : 38.417,33 EUR
+			
+			
+			
+			Permalink: https://openjur.de/u/2380511.html (https://oj.is/2380511)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

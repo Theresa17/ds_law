@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG WürzburgRechtsprechungEndurteil vom 13.09.2021 - 92 O 387/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Würzburg, Endurteil vom 13.09.2021 - 92 O 387/21
+                      m. Fundstelle
+                      LG Würzburg, Endurteil vom 13.09.2021 - 92 O 387/21 = openJur 2022, 18492
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Würzburg, Endurteil vom 13.09.2021 - 92 O 387/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 18492
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger erwarb am 01.11.2014 einen PKW der Marke Volkswagen Golf, FIN ..., Kilometerstand 25.800, EURO-Norm 5, Zum Kaufpreis von 20.750,00 €. In dem Fahrzeug ist ein Motor vom Typ EA 288 verbaut.Für das streitgegenständliche Fahrzeug erfolgte kein verpflichtender Rückruf des Kraftfahrt-Bundesamtes (KBA).Der Kilometerstand des Fahrzeugs am 19.08.2021 betrug 136.540 km.Der Kläger behauptet:In dem Fahrzeug sei eine Manipulationssoftware eingebaut, die im Kern genauso funktioniere wie die Motorsteuerungssoftware, die im Zuge des sogenannten VW-Abgasskandals des Motorentyps EA 189 bekannt geworden sei. Die Software erkenne aufgrund verschiedener technischer Vorrichtungen (etwa anhand Lenkwinkelerkennung, Temperaturerkennung oder Zeiterfassung) eine Prüfsituation auf dem Rollenprüfstand nach dem Neuen Europäischen Fahrzyklus (NEFZ). In dieser Situation würde die Abgasrückführung voll eingesetzt, so dass die Grenzwerte eingehalten werden könnten. Im normalen Straßenverkehr hingegen werde die Abgasrückführung durch Abschaltvorrichtungen heruntergefahren bzw. ausgeschaltet, und zwar insbesondere durch den Einsatz eines Thermofensters, das bewirke, dass die Abgasreinigung ausgeschaltet oder zumindest eklatant verringert werde, wenn die Außentemperaturen nicht zwischen 20 und 30 Grad Celsius lägen. Die Temperatur auf dem Prüfstand liege stets im Bereich zwischen 20 und 30 Grad Celsius, wodurch auf dem Prüfstand das Thermofenster nie zu einer Verschlechterung der Abgaswerte führe.Aus internen Dokumenten von Volkswagen (Überschrieben mit "Entscheidungsvorlage: Applikationsrichtlinien & Freigabevorgaben EA288") ergebe sich, dass eine Prüfstanderkennung vorläge und auch absichtlich so von Volkswagen entwickelt und verwendet worden sei.Weshalb das KBA bisher nicht bei weiteren Fahrzeugen - wie etwa dem streitgegenständlichen - der Marke VW einen Rückruf angeordnet habe, erklärten Pressestimmen damit, dass das KBA für Messungen Fahrzeuge bei VW-Händlern anfragt, welche durch den Konzern vor der Übergabe an das KBA "präpariert" würden. Die Klagepartei schließe sich dieser Vermutung an.Andere Stimmen seien der Meinung, dass das KBA zwar von unzulässigen Abschaltvorrichtungen wisse, aber - aus welchen Erwägungen auch immer - nichts (öffentlich) unternehme.Der Kläger hat mit Klageantrag 1 zunächst beantragt:Die Beklagte wird verurteilt, an den Kläger einen Betrag in Höhe von 17.213,79 EUR abzüglich einer im Termin zu bestimmenden Nutzungsentschädigung nebst Zinsen in Höhe von 9 Prozentpunkten über dem Basiszinssatz seit 03.02.2021 Zug um Zug gegen Übergabe und Rückübereignung des Fahrzeugs Volkswagen Golf, ... zu zahlen.Der Kläger beantragt zuletzt:1. Die Beklagte wird verurteilt, an den Kläger einen Betrag in Höhe von 13.667,99 EUR abzüglich einer im Termin zu bestimmenden Nutzungsentschädigung nebst Zinsen in Höhe von 9 Prozentpunkten über dem Basiszinssatz seit 03.02.2021 Zug um Zug gegen Übergabe und Rückübereignung des Fahrzeugs Volkswagen Golf, ... zu zahlen.2. Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des im Klageantrag zu 1) genannten Fahrzeugs für den 03.02.2021 im Annahmeverzug befindet.Die Beklagte wird verurteilt, den Kläger von den Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.856,40 EUR freizustellen.Im Übrigen wird der Rechtsstreit teilweise für erledigt erklärt in Bezug auf Ziffer 1.Die Beklagte beantragt:Die Klage wird abgewiesen.Der teilweisen Erledigungserklärung der Klagepartei wird nicht zugestimmt.Die Beklagte erwidert:Der streitgegenständliche Motor enthalte keine unzulässige Abschalteinrichtung. Das Kraftfahrt-Bundesamt (KBA) habe den streitgegenständlichen Motortyp EA 288 eingehend überprüft und bereits im Jahr 2016 festgestellt, dass dort keine unzulässige Abschalteinrichtung zum Einsatz komme.Wörtlich heiße es hier zum Untersuchungsbericht (Anlage B1, Seite 12) vom April 2016:"Hinweise, die aktuell laufende Produktion der Fahrzeuge mit Motoren der Baureihe EA 288 (Euro 6) seien ebenfalls von Abgasmanipulationen betroffen, haben sich hierbei auf Grundlage der Überprüfungen als unbegründet erwiesen."Das Bundesministerium für Verkehr und Infrastruktur (BMVI) habe dies in jüngerer Vergangenheit noch einmal bestätigt, so unter anderem in einer Twitter-Mitteilung vom 12.09.2019 (Anlage B2), in der es wie folgt heiße:"Die Vorwürfe sind nicht neu.Das #KBA hat bereits 2016 eigene Messungen, Untersuchungen & Analysen durchgeführt. Unzulässige #Abschalteinrichtungen konnten dabei NICHT festgestellt werden."Im Nachgang habe das BMVI die Mitteilung ergänzt und klargestellt:"und zwar auch nicht in Gestalt einer unzulässigen Zykluserkennung."Folgerichtig habe das KBA im Zusammenhang mit dem Vorwurf einer unzulässigen Abschalteinrichtung keinerlei belastenden Bescheid erlassen und auch keinen entsprechenden Rückruf angeordnet.Dies habe das KBA jüngst gegenüber dem Landgericht Bayreuth in einem Parallelverfahren, in dem ebenfalls ein EA 288-Fahrzeug mit Abgasnorm EU 6 streitgegenständlich gewesen sei, bestätigt.Im Rahmen einer amtlichen Auskunft vom 08.10.2020 habe das KBA (Anlage B 17) klargestellt:"Das streitgegenständliche Fahrzeug weist nach diesseitigem Kenntnisstand keine unzulässige Abschalteinrichtung oder Konformitätsabweichung hinsichtlich des Emissionsverhaltens auf. Es wurden weder Nebenbestimmungen zu diesem Fahrzeug angeordnet, noch besteht ein behördlich angeordneter Rückruf."Die Abgasrückführung sei bei einer Außentemperatur zwischen -24 °C bis +70 °C zu 100 % aktiv.Oberhalb und unterhalb dieses Thermofensters, also bei Außentemperaturen kälter als -24 °C und Wärme als +70 °C, erfolge aus Motorschutzgründen und zur Gewährleistung eines sicheren Betriebs des Fahrzeugs keine Abgasrückführung.Innerhalb des Thermofensters und der darin jeweils aktiven Motorbetriebsarten gebe es keine kontinuierliche Abstufung in Abhängigkeit zur Außentemperatur, d.h. keine schrittweise Reduktion der Abgasrückführungsrate, die üblicherweise auch als sog. Abrampung bezeichnet werde.Auch das Kraftfahrtbundesamt habe den Vorwurf eines unzulässigen Thermofensters bereits überprüft und zugunsten der Beklagten verneint.Der Vorwurf einer unzulässigen Fahrkurvenerkennung sei bereits im Ansatz verfehlt, weil er von einem unzutreffenden Verständnis der Funktionsweise einer Fahrkurvenerkennung ausgehe:Eine Fahrkurvenerkennung - auch Zykluserkennung genannt - sei im Ausgangspunkt eine Softwarefunktion, die erkenne, ob das Fahrzeug einen Prüfzyklus durchfahre. Derartige Zykluserkennungen seien nicht unzulässig. Von der Fahrkurven- bzw. Zykluserkennung zu unterscheiden sei die Erkennung eines Rollenprüfstands. Ein Rollen- oder Rollenpüfstandsmodus könne erforderlich sein, wenn bestimmte Funktionen des Fahrzeugs auf dem Rollenprüfstand deaktiviert werden müssten.So seien in etwa die Elektronische Stabilitätskontrolle (ESC) und die Airbags auf dem Rollenprüfstand zwingend zu deaktivieren, da es ansonsten zu Messverfälschungen oder einem ungewollten Auslösen der Airbags kommen könnte, weil - anders als im realen Betrieb auf der Straße - sich die Räder drehen, das Fahrzeug aber, weil auf den Rollen festgeschnallt, sich nicht bewege, was von der Steuerungselektronik der Sicherheitssysteme als "Aufprall" oder Schleudern des Fahrzeugs missinterpretiert werden könnte. Um dies zu vermeiden, würden diese Funktionen auf dem Prüfstand durch einen sog. Rollenmodus deaktiviert.Es gebe regulatorisch kein Verbot einer Fahrkurven- oder Zykluserkennung als solcher. Auch sei eine Fahrkurven- oder Zykluserkennung nicht gleichbedeutend mit einer unzulässigen Abschalteinrichtung. Eine solche liege vielmehr nur dann vor, wenn alle Tatbestandsmerkmale der Abschalteinrichtung erfüllt seien, also eine Fahrkurven- oder Zykluserkennung genutzt würde, um die Funktion eines Teils des Emissionskontrollsystems so zu verändern, dass dessen Wirksamkeit im normalen Fahrbetrieb grenzwertkausal verringert werde.Wegen des weiteren Vorbringens der Parteien wird auf alle gewechselten Schriftsätze und die Sitzungsniederschrift Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I.Der Kläger hat gegen die Beklagte keinen Anspruch auf Feststellung einer Schadenersatzverpflichtung aus den §§ 823 Abs. 2 BGB i.V.m. § 263 StGB, 16 UWG, Art. 5 Abs. 2 VO (EG) Nr. 715/2007, 6 Abs. 1, 27 Abs. 1 EG-FGV oder aus § 826 BGB.1. Ein Anspruch gegen die Beklagte als Herstellerin und nicht als Verkäuferin des PKW nach den vorgenannten Vorschriften könnte sich daraus ergeben, wenn die Beklagte mit dem In-Verkehr-Bringen des streitgegenständlichen Fahrzeuges konkludent darüber getäuscht hätte, dass der Einsatz des Fahrzeuges entsprechend seinem Verwendungszweck im Straßenverkehr uneingeschränkt zulässig ist, obwohl tatsächlich eine verbotene Abschalteinrichtung eingebaut war mit der Folge, dass der Widerruf der Typgenehmigung droht (OLG Karlsruhe, Beschluss vom 05.03.2019, 13 U 142/18; DAR 2019, 266). Dazu müsste die Beklagte zumindest mit Vorsatz hinsichtlich des Vorhandenseins einer unerlaubten Abschalteinrichtung gehandelt haben. Das Verhalten der Beklagten müsste sich, um einen Anspruch aus § 826 BGB zu begründen, zudem als sittenwidrig darstellen.2. Der Kläger hat nicht substantiiert dargelegt, dass der Motor ihres Fahrzeugs mit einer Motorsteuerungssoftware ausgestattet worden sei, die erkenne - etwa anhand von Lenkeinschlägen und der Fahrzeugneigung -, ob das Fahrzeug einer Abgasprüfung auf dem Prüfstand unterzogen werde und lediglich in diesem Fall das volle Emissionskontrollsystem des Fahrzeuges aktiviere. Die diesbezüglichen Behauptungen der Klagepartei stellen sich vielmehr als Behauptungen "ins Blaue hinein" dar.3. Grundsätzlich darf es einer Partei nicht verwehrt werden, eine tatsächliche Aufklärung auch hinsichtlich solcher Punkte zu verlangen, über die sie selbst kein zuverlässiges Wissen besitzt und auch nicht erlangen kann. Sie kann deshalb genötigt sein, eine von ihr nur vermutete Tatsache zu behaupten und unter Beweis zu stellen. Unzulässig wird ein solches Vorgehen aber dort, wo die Partei ohne greifbare Anhaltspunkte für das Vorliegen eines bestimmten Sachverhalts willkürlich Vermutungen "aufs Geratewohl" oder "ins Blaue hinein" aufstellt (vgl. BGH NJW-RR 2015, 829). Diese Voraussetzungen liegen hier vor.4. Es gibt keinerlei Anhaltspunkte dafür, dass das Fahrzeug des Klägers mit einer illegalen Abschalteinrichtung ausgestattet worden wäre. Unstreitig gibt es keinen amtlich angeordneten Rückruf für das Fahrzeug.5. Die Klagepartei hat auch keinerlei Beanstandungen, die sich auf ihr konkretes Fahrzeug beziehen würden, vorgetragen. Bei den Behauptungen der Klagepartei handelt es sich ausschließlich um Vermutungen, für die keine substantiierten Anknüpfungspunkte behauptet werden.6. Die Klage kann auch unter dem Gesichtspunkt eines sog. Thermofensters keinen Erfolg haben.7. Die Ausstattung eines Fahrzeugs mit einer Abschaltvorrichtung in Form eines sog. Thermofensters ist ohne Hinzutreten weiterer Umstände nicht von vorherein sittenwidrig. Umstände, die zur Sittenwidrigkeit führen, können z.B. sein, wenn die Abgasreinigung mit Ziel optimiert wird, die EG-Typgenehmigung für ein Fahrzeug zu erhalten, während ansonsten die Abgasreinigung nie bzw. nur in ganz geringem Umfang erfolgt.a) Der Bundesgerichtshof hat dazu mit Beschluss vom 09.03.2021 - Az. VI ZR 889/20 - Juris Rdn. 25 ff., unter anderem wie folgt ausgeführt:"(...).(b) Die Verwerflichkeit des Verhaltens der Beklagten setzte sich auch nicht deshalb in lediglich veränderter Form fort, weil die Beklagte mit dem Software-Update eine temperaturabhängige Steuerung des Emissionskontrollsystems (Thermofenster) implementiert hat. Zwar ist mangels abweichender Feststellungen für die revisionsrechtliche Überprüfung von dem Vortrag des Klägers auszugehen, wonach die Abgasrückführung in den mit einem Motor des Typs EA189 versehenen Fahrzeugen nach dem Software-Update nur bei Außentemperaturen zwischen 15 und 33 Grad Celsius in vollem Umfang stattfindet und außerhalb dieser Bedingungen deutlich reduziert wird.Dies rechtfertigt den Vorwurf besonderer Verwerflichkeit in der gebotenen Gesamtbetrachtung aber nicht. Dabei kann zugunsten des Klägers unterstellt werden, dass eine derartige temperaturbeeinflusste Steuerung der Abgasrückführung als unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007 zu qualifizieren ist (vgl. zu Art. 5 der Verordnung (EG) Nr. 715/2007 auch EuGH, Urteil vom 17. Dezember 2020 - C-693/18, Celex-Nr. 62018CJ0693; OGH Österreich, Vorabentscheidungsersuchen vom 17. März 2020 - 10 Ob 44/19x, RZ 2020, 212 EÜ235 - beim EuGH geführt unter C-145/20). Der darin liegende - unterstellte - Gesetzesverstoß reicht aber nicht aus, um das Gesamtverhalten der Beklagten als sittenwidrig zu qualifizieren. Hierfür bedürfte es vielmehr weiterer Umstände im Zusammenhang mit der Entwicklung und Genehmigung des Software-Updates, an denen es im Streitfall fehlt.(aa) Entgegen der Auffassung der Nichtzulassungsbeschwerde ist die Applikation einer temperaturabhängigen Steuerung des Emissionskontrollsystems nicht mit der Verwendung der Prüfstandserkennungssoftware zu vergleichen, die die Beklagte zunächst zum Einsatz gebracht hatte. Während letztere, wie unter aa) ausgeführt, unmittelbar auf die arglistige Täuschung der Typgenehmigungsbehörde abzielte und einer unmittelbaren arglistigen Täuschung der Fahrzeugerwerber in der Bewertung gleichsteht, ist der Einsatz einer temperaturabhängigen Steuerung des Emissionskontrollsystems nicht von vornherein durch Arglist geprägt (vgl. Senatsbeschluss vom 19. Januar 2021 - VI ZR 433/19, ZIP 2021, 297 Rn. 17 f.). Sie führt nicht dazu, dass bei erkanntem Prüfstandsbetrieb eine verstärkte Abgasrückführung aktiviert und der Stickoxidausstoß gegenüber dem normalen Fahrbetrieb reduziert wird, sondern arbeitet in beiden Fahrsituationen im Grundsatz in gleicher Weise. Unter den für den Prüfzyklus maßgebenden Bedingungen (Umgebungstemperatur, Luftfeuchtigkeit, Geschwindigkeit, Widerstand etc., vgl. Art. 5 Abs. 3 a) der Verordnung (EG) Nr. 715/2007 i.V.m. Art. 3 Nr. 1 und 6, Anhang III der Verordnung (EG) Nr. 692/2008 der Kommission vom 18. Juli 2008 zur Durchführung und Änderung der Verordnung 715/2007/EG (ABl. L 199 vom 28. Juli 2008, S. 1 ff.) in Verbindung mit Abs. 5.3.1 und Anhang 4 Abs. 5.3.1, Abs. 6.1.1 der UN/ECE-Regelung Nr. 83 (ABl. L 375 vom 27. Dezember 2006, S. 246 ff.) entspricht die Rate der Abgasrückführung im normalen Fahrbetrieb derjenigen auf dem Prüfstand.(bb) Bei dieser Sachlage hätte sich die Verwerflichkeit des Verhaltens der Beklagten durch die Implementation des Thermofensters nur dann fortgesetzt, wenn zu dem - hier unterstellten - Verstoß gegen Art. 5 der Verordnung (EG) Nr. 715/2007 im Zusammenhang mit der Entwicklung und Genehmigung des Software-Updates weitere Umstände hinzuträten, die das Verhalten der für sie handelnden Personen als besonders verwerflich erscheinen ließen. Dies setzt jedenfalls voraus, dass diese Personen bei der Entwicklung und/oder Applikation der temperaturabhängigen Steuerung des Emissionskontrollsystems in dem Bewusstsein handelten, eine (weitere) unzulässige Abschalteinrichtung zu verwenden, und den darin liegenden Gesetzesverstoß billigend in Kauf nahmen. Fehlt es hieran, ist der objektive Tatbestand der Sittenwidrigkeit nicht erfüllt. (...)."b) Aus dem Vorhandensein einer temperatur- und betriebszustandsabhängigen Steuerung des Ausmaßes der Abgasrückführung vermag das Gericht nicht die von der Klagepartei für richtig gehaltenen rechtlichen Schlussfolgerungen zu ziehen. Das hier zur Entscheidung berufene Gericht schließt sich der Rechtsprechung des OLG Nürnberg, Urteil vom 19.07.2019 - Az. 5 U 1670/18 -, die in einem - wenn auch einen anderen Automobilhersteller betreffenden - Verfahren ergangen ist, das von den relevanten Fragestellungen aber denen dieses Verfahrens gleichgelagert ist, an und legt diese seiner eigenen Urteilsfindung zugrunde.c) Die Klagepartei ist der Auffassung, dass die Reduzierung der Abgasrückführung bei Temperaturen zwischen 20 und 30 Grad uneingeschränkt funktioniere und die Abgasreinigung bei Temperaturen außerhalb des Thermofensters reduziert bzw. abgeschaltet werde und dies eine unzulässige Abschalteinrichtung im Sinne der Art. 5 Abs. 2, Art. 3 Nr. 10 Verordnung (EG) 715/2007 darstelle. Davon, dass eine solche Einrichtung ausnahmsweise nach Art. 5 Abs. 2 Buchstabe a der genannten Verordnung zum Zwecke des Motorschutzes zulässig sei, könne mangels entsprechender Darlegung der Beklagten nicht ausgegangen werden.Rechtlicher Ausgangspunkt dieser Überlegungen ist die Bestimmung des Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007 vom 20.06.2007, wonach "die Verwendung von Abschalteinrichtungen, die die Wirkung von Emissions-Kontrollsystemen verringern" grundsätzlich unzulässig ist. Art. 5 Abs. 2 Satz 2 sieht Ausnahmen von diesem generellen Verbot von Abschalteinrichtungen vor; danach gilt das Verbot insbesondere nicht (Buchstabe a), wenn die Einrichtung notwendig ist, um den Motor vor Beschädigung (oder Unfall) zu schützen. Was unter einer Abschalteinrichtung i.S.d. genannten Bestimmung zu verstehen ist, definiert Art. 3 Nr. 10 der genannten Verordnung. Danach handelt es sich um ein Konstruktionsteil, das die Temperatur, die Fahrgeschwindigkeit, die Motordrehzahl, den eingelegten Getriebegang, den Unterdruck im Einlass-Krümmer oder sonstige Parameter ermittelt, um die Funktion eines beliebigen Teils des Emissions-Kontrollsystems zu aktivieren, zu verändern, zu verzögern oder zu deaktivieren, wodurch die Wirksamkeit des Emissions-Kontrollsystems unter Bedingungen, die bei normalem Fahrzeugbetrieb vernünftigerweise zu erwarten sind, verringert wird. Eine Definition des Begriffes "Emissions-Kontrollsystem" fehlt in der Verordnung allerdings. Die Funktion einer Abgasrückführung besteht bekanntlich darin, dass das nach dem Verbrennungsvorgang aus den Zylindern des Motors abströmende Gas in einem bestimmten Umfang erneut dem Verbrennungsvorgang zugeführt wird, wobei dies auf unterschiedliche technische Weise geschehen kann (hochdruckseitig, niederdruckseitig oder kombiniert). Den Zylindern wird also nicht nur frisch angesaugte Luft zugeführt - in die dann der Treibstoff eingespritzt wird - sondern auch Abgase, womit erreicht werden soll, dass die Verbrennungstemperatur herabgesetzt wird, wodurch sich die Bedingungen für die Entstehung von Stickoxiden verschlechtern und der Stickoxid-Anteil im Abgas letztlich verringert wird. Dabei leuchtet unmittelbar ein, dass die Abgasrückführungsrate, also der Anteil des Abgases an dem zur Verbrennung vorgesehenen Luft-Treibstoff-Gemisch, nicht beliebig gesteigert werden kann; auch dem technischen Laien erscheint zudem wenigstens plausibel, dass die Abgasrückführungsrate nicht unter allen denkbaren Betriebsbedingungen gleich hoch sein kann, sollen unerwünschte Auswirkungen und Beschädigungen des Motors, insbesondere des Abgasrückführungsventils selbst, vermieden werden.d) Da im vorliegenden Fall der Klageanspruch gegen die Beklagte nicht auf kaufrechtliche Gewährleistungsansprüche gestützt werden kann - und auch nicht gestützt wird -, ist das Vorliegen eines Mangels im kaufrechtlichen Sinne nicht unmittelbar entscheidungserheblich.e) Der Annahme des Vorsatzes steht hier entgegen, dass die zitierten Vorschriften der Verordnung (EG) Nr. 715/2007 keineswegs so klar formuliert sind, dass sich die Verwendung einer temperaturabhängigen oder sonst variablen Abgasrückführung eindeutig als unzulässig darstellen müsste. Zu diesem Ergebnis ist immerhin der 5. Untersuchungsausschuss gemäß Art. 44 des Grundgesetzes des Deutschen Bundestages (Drucksache 18/12900) gelangt; in den Schlussfolgerungen und Empfehlungen dieses Ausschusses (S. 536 ff. der zitierten Drucksache) wird die Auffassung des Ausschusses festgehalten, die in Art. 5 Abs. 2 Satz 2 der Verordnung (EG) Nr. 715/2007 aufgeführten Ausnahmen vom Verbot von Abschalteinrichtungen seien nicht eindeutig definiert; das europäische Recht ermögliche der Typgenehmigungsbehörde nicht in jedem Fall, zweifelsfrei festzustellen, ob eine genutzte Abschalteinrichtung zulässig sei oder nicht; die Formulierung der Ausnahmen sei teilweise so weit, dass den Automobilherstellern ein weiter Einsatzspielraum verbleibe (OLG Nürnberg, a.a.O., Juris Rdn. 38). Dies gelte insbesondere für die Ausnahme des Motorenschutzes, die den Herstellern die Definition weitreichender sog. Thermo-Fenster ermögliche; letztlich bestimme der Hersteller durch seine Motorkonstruktion, wie häufig eine Abschalteinrichtung greifen müsse, damit die vorgegebene Lebensdauer des Motors erfüllt werden könne. Die europäischen Typgenehmigungsvorschriften müssten deshalb überarbeitet werden.f) Des Weiteren ist davon auszugehen, dass die Beklagte, wie in der Verordnung (EG) Nr. 692/2008 vom 18.07.2008 in Art. 3 Nr. 9 vorgeschrieben, zur Erlangung der EG-Typgenehmigung Angaben zur Arbeitsweise des Abgasrückführungssystems einschließlich seines Funktionierens bei niedrigen und hohen Temperaturen nebst Beschreibung etwaiger Auswirkungen auf die Emissionen gemacht hat, so dass dem Kraftfahrt-Bundesamt bei Erteilung der Typgenehmigung die Temperaturabhängigkeit der Abgasrückführungsrate bekannt gewesen sein muss, von ihm jedoch - offensichtlich - nicht beanstandet worden ist. Auch das zeigt, dass eine andere von einem Teil der Rechtsprechung favorisierte Auslegung nicht als zwingend angesehen werden kann, zugleich und vor allem stellt dies ein wesentliches Argument gegen die Annahme eines sittenwidrigen Verhaltens der Beklagten bei dem In-Verkehr-Bringen des streitgegenständlichen Fahrzeuges dar. Die Beklagte konnte durchaus annehmen, dass die von ihr gewählte Steuerung der Abgasrückführung jedenfalls dem Grunde nach nicht zu beanstanden sei, weil sie ansonsten vom Kraftfahrt-Bundesamt beanstandet worden wäre.g) Selbst wenn man mangels gegenteiliger Darlegung der Beklagten unterstellen wollte, sie habe bei der Konstruktion des streitgegenständlichen Fahrzeuges nicht die damals bereits verfügbaren bestmöglichen Technologien eingesetzt, um eine höhere - und vor allem durchgehend hohe - Abgasrückführungsrate und damit durchgängig geringere Stickoxid-Emissionen zu ermöglichen, gilt doch, dass die Einstufung einer temperaturabhängigen Abgasrückführungssteuerung als "unzulässige Abschalteinrichtung" aufgrund der damals geltenden Bestimmungen nicht derart eindeutig war, dass eine andere Auffassung kaum vertretbar erschiene und daraus der Schluss gezogen werden müsste, die Beklagte habe die Unerlaubtheit ihres Vorgehens erkannt und folglich die Typgenehmigungsbehörde - und letztlich auch die Käufer - täuschen wollen.8. Darauf, dass der Klagepartei auch kein Schaden entstanden sein dürfte, weil nicht zu erkennen ist, dass ihrem Fahrzeug die Entziehung der Betriebserlaubnis droht, und weil ein etwaiger genereller Wertverfall gebrauchter Kraftfahrzeuge mit Dieselmotor jedenfalls nicht auf ein Verhalten der Beklagten zurückgeführt werden könnte, kommt es mangels eines haftungsbegründenden Verhaltens der Beklagten nicht mehr an. Da die Klage in der Hauptsache erfolglos bleibt, besteht auch kein Anspruch auf Freistellung von den vorgerichtichen Rechtsanwaltskosten. Auch ein Annahmeverzug ist nicht festzustellen.II.Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO; die Entscheidung über die vorläufige Vollstreckbarkeit auf § 709 S. 1 und 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2452236.html (https://oj.is/2452236)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

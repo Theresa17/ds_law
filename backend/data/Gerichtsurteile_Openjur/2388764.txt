@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG AachenRechtsprechungUrteil vom 13.06.2019 - 12 O 344/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Aachen, Urteil vom 13.06.2019 - 12 O 344/18
+                      m. Fundstelle
+                      LG Aachen, Urteil vom 13.06.2019 - 12 O 344/18 = openJur 2022, 4910
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Aachen, Urteil vom 13.06.2019 - 12 O 344/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 4910
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger begehrt die Rückabwicklung eines Kaufvertrages über einen Neuwagen. Er erwarb am 13.02.2017 bei der Beklagten zu das streitgegenständliche Fahrzeug Audi A7 Sportsback 3.0 Diesel mit der Fahrzeugidentifikationsnummer WAUZZZ4GXHN111479 zu einem Kaufpreis von 90.131,00 €.Das Kraftfahrzeugbundesamt erließ durch Bescheid eine nachträgliche Nebenbestimmung zur EG-Typengenehmigung des streitgegenständlichen Fahrzeuges. Es forderte die Herstellerin zur Beseitigung der Unregelmäßigkeiten bei der Motorsteuerungssoftware auf.Mit anwaltlichem Schreiben vom 05.07.2018 erklärte der Kläger den Rücktritt vom Kaufvertrag. Die Beklagte wurde aufgefordert, den Kaufpreis bis zum 01.08.2018 zurückzuzahlen.Der Hersteller des Fahrzeuges entwickelte ein Software-Update. Diese wurde mit Bestätigung vom 26.11.2018 von dem Kraftfahrzeugbundesamt freigegeben.Der Kläger wurde mit Schreiben aus Januar 2019 von dem Hersteller des Fahrzeuges darüber informiert, dass ein Software-Update aufgespielt werden müsse, da das Kraftfahrzeugbundesamt dazu aufgefordert habe, die Unregelmäßigkeiten in der Motorsteuerungssoftware zu beseitigen (Bl.124 f. GA).Das Fahrzeug weist einen Kilometerstand von 34.200 km auf.Der Kläger behauptet, das Fahrzeug sei von dem sog. Audi-Abgasskandal betroffen. Es läge eine unzulässige Abschalteinrichtung vor. Das Fahrzeug erkenne, ob es sich auf den Prüfstand befände. Nur in diesem Fall würden die gesetzlichen Vorgaben eingehalten. Im Normalbetrieb werde die Abgasreinigung heruntergefahren und der Schadstoffausstoß steige erheblich an. Das Vorgehen ähnle der Vorgehensweise beim Motortyp EA 189. Das Fahrzeug weise aufgrund dieser gesetzeswidrigen Softwareprogrammierung einen erheblichen Mangel auf. Die tatsächlichen NOX-Werte des Fahrzeuges wichen erheblich von den Angaben des Herstellers im technischen Datenblatt ab. Die angegebene EU-Schadstoffklasse werde nicht eingehalten. Es drohe auch eine behördliche Betriebsuntersagung. Er habe großen Wert darauf gelegt, ein umweltfreundliches, wertstabiles, mit geringem Kraftstoffverbrauch versehenes Fahrzeug zu erwerben.Er bestreitet, dass das Update den sogenannten Warmlaufmodus des SCR-Katalysators betreffe.Aufgrund der Manipulation sei die Zulassung erloschen und das Fahrzeug auch nicht zulassungsfähig. Eine Nacherfüllung sei nicht möglich, da ein Softwareupdate nur eine beschränkte Wirksamkeit habe. Eine Reduzierung des Stickstoffausstoßes habe zwangsläufig eine Erhöhung der CO2-Werte zur Folge. Außerdem steige der Kraftstoffverbrauch um mehr als 10 %. Der Eingriff in die Abgasreinigung habe einen erhöhten Verschleiß und eine geminderte Haltbarkeit zur Folge. Das Fahrzeug habe einen Minderwert von mindestens 30 %.Der Kläger beantragt mit der am 06.11.2018 zugestellten Klage,1. die Beklagte zu verurteilen, an ihn 90.131,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 02.08.2018 Zug um Zug gegen Übergabe des Fahrzeuges Audi A7 Sportsback 3,0 TDI mit der FIN WAUZZZ4GXHN111479 zu zahlen;2. festzustellen, dass sich die Beklagten mit der Rücknahme des vorbezeichneten Fahrzeuges in Annahmeverzug befindet;3. die Beklagten zu verurteilen, an ihn weitere 2.217,45 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Sie behauptet, das Fahrzeug weise nicht die aus EA189-Motoren bekannte Umschaltlogik auf. Bei dem streitgegenständlichen Fahrzeug seien keine verschiedenen Betriebsmodi für die Abgasrückführung vorhanden, die zwischen Straßenbetrieb und Rollenbetrieb unterscheiden würden.Das Fahrzeug sei nicht mangelbehaftet, die Parteien hätten eine Beschaffenheit nicht vereinbart. Es sei nicht über Themen wie Schadstoffausstoß oder Emissionsklasse gesprochen worden.Das Fahrzeug unterfalle der Abgasnorm EU6 plus und erfülle diese auch. Der Stickoxidgrenzwert werde eingehalten. Das Fahrzeug erfülle alle gesetzlichen Vorgaben. Im Zeitpunkt des Inverkehrbringens habe es keine Vorgaben dazu gegeben, welche Grenzwerte im normalen Straßenbetrieb einzuhalten seien.Das Update sei für den Kläger kostenlos verfügbar. Die Kosten betrugen weniger als 100 EUR. Der Hersteller gebe darüber hinaus Gutscheine für 3 AdBlue-Tankfüllungen aus. Das Update führe nicht zu Nachteilen, dies sei auch vom Kraftfahrzeugbundesamt bestätigt worden.Der Kläger habe keinen Schaden erlitten. Er habe das Fahrzeug jederzeit uneingeschränkt und technisch sicher nutzen können. Das Fahrzeug sei auch stets nach dem Standard "Euro 6" zugelassen gewesen. In der Folge sei auch nicht mit einem Wertverlust des Fahrzeuges oder sonstigen finanziellen Beeinträchtigungen zu rechnen.Sie ist der Ansicht, ein Rücktritt sei wegen Unerheblichkeit der Pflichtverletzung ausgeschlossen, da die Kosten der Mangelbeseitigung mit rund 100 € weniger als 1 % des Kaufpreises betragen würden. Der Kläger habe keine Frist zur Nachbesserung gesetzt. Die Fristsetzung sei auch nicht entbehrlich.Der Kläger müsse zumindest Wertersatz für Nutzungen in Form der gefahrenen Kilometer leisten.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				I.Die Klage ist unbegründet.1) Dem Kläger steht gegen die Beklagte unter keinem rechtlichen Gesichtspunkt ein Anspruch auf Rückzahlung des Kaufpreises zu.a) Der Kläger hat gegen die Beklagte keine Ansprüche aus Gewährleistungsrechten. Ein Anspruch auf Rückzahlung des Kaufpreises ergibt sich insbesondere nicht aus § 346 BGB i.V.m. §§ 437 Nr. 2, 440, 323 BGB.Ein solcher Anspruch setzt die Mangelhaftigkeit des Fahrzeuges voraus. Die Mangelhaftigkeit des streitgegenständlichen Fahrzeuges hat der Kläger bereits nicht schlüssig dargelegt.Dass die Parteien im Hinblick auf Emissionswerte oder dergleichen eine Beschaffenheit vereinbart (§ 434 Abs. 1 S. 1 BGB) oder im Vertrag eine bestimmte Verwendung vorausgesetzt wurde (§ 434 Abs. 1 S. 2 Nr. 1 BGB), trägt der Kläger bereits nicht vor. Er behauptet zwar, ihm sei es auf die Umweltfreundlichkeit des Fahrzeuges angekommen, ohne jedoch dabei konkret vorzutragen, dass bestimmte Eigenschaften Gegenstand des Kaufvertrages geworden seien.Gemäß § 434 Abs. 1 S. 2 Nr. 2 BGB ist eine Sache nur dann frei von Sachmängeln, wenn sie sich für die gewöhnliche Verwendung eignet und eine Beschaffenheit aufweist, die bei Sachen der gleichen Art üblich ist und die der Käufer nach der Art der Sache erwarten kann. Hinsichtlich der Beschaffenheit, die der Käufer nach der Art der Sache erwarten kann, kommt es auf die objektiv berechtigte Käufererwartung an, die sich in Ermangelung abweichender Anhaltspunkte jedenfalls im Regelfall an der üblichen Beschaffenheit gleichartiger Sachen orientiert (BGH, Urt. v. 29.06.2011, Az. VIII ZR 202/10).Ein Neufahrzeug entspricht nicht bereits dann der üblichen und berechtigterweise von einem Käufer zu erwartenden Beschaffenheit, wenn es technisch sicher und fahrbereit ist und über alle erforderlichen Genehmigungen verfügt. Die Einrichtung bzw. Installation einer Software, welche die korrekte Messung von Emissionswerten verhindert und im Prüfbetrieb niedrigere Ausstoßmengen angibt, als sie im Fahrbetrieb entstehen, stellt nach Ansicht der Kammer eine negative Abweichung von der üblichen Beschaffenheit vergleichbarer Fahrzeuge dar (vgl. OLG München, Beschl. v. 23.03.2017, Az. 3 U 4316/16; OLG Hamm, Beschl. v. 21.06.2016, Az. I-28 W 14/16; LG Stuttgart, Urt. v. 30.6.2017, Az. 20 O 425/16; LG Bayreuth, Urt. v. 12.05.2017, Az. 23 O 348/16; LG Krefeld, Urt. v. 14.09.2016, Az. 2 O 83/16; i.E. auch OLG Celle, Beschl. v. 30.06.2016, Az. 7 W 26/16). Dass das Fahrzeug allerdings über eine derartige Software verfügt, wird von dem Kläger bereits nicht schlüssig vorgetragen. Er behauptet zwar, dass eine Abschaltlogik wie aus dem Motortyp EA 189 bekannt vorhanden sei. Worauf er diese Annahme jedoch stützt, trägt er nicht vor. Unstreitig ist in dem Fahrzeug gerade kein Motortyp EA-189 verbaut. Der Umstand, dass das Kraftfahrzeugbundesamt eine nachträgliche Nebenbestimmung zur EG-Typengenehmigung für das streitgegenständliche Fahrzeug erließ, die den Rückruf des Fahrzeuges erforderlich machte, reicht für die Annahme einer Mangelhaftigkeit nicht aus. Maßgeblich für die Beurteilung der Mangelhaftigkeit nach § 434 Abs. 1 S. 2 Nr. 2 BGB kommt es auf die objektiv berechtigte Käufererwartung an, die sich im Regelfall an der üblichen Beschaffenheit gleichartiger Sachen orientiert. Der Kläger trägt jedoch gerade nicht vor, dass das streitgegenständliche Fahrzeug von einer solchen Käufererwartung abweicht. Dafür müsste der Kläger zunächst vortragen, woraus sich eine Käufererwartung ergibt und dass dieser gerade nicht entsprochen wurde. Der Rückruf des Fahrzeuges an sich führt nicht zu einer solchen Abweichung von der Erwartung. Dazu bedürfte es substantiierten Vortrages dazu, was Grundlage und Inhalt des Rückrufes sind. Auch im Hinblick auf die Beurteilung der Mangelhaftigkeit bedarf es konkreten Vortrages dazu, wie die behauptete Abschalteinrichtung wirkt. Daher oblag es dem Kläger als Käufer vorzutragen, hinter welcher konkreten Erwartung das Fahrzeug zurückgeblieben ist. Der pauschale Vortrag, dass das Fahrzeug die gesetzlichen Vorgaben insbesondere zu den Stickoxidausstoß nicht einhalte, genügt zur Darlegung eines Mangels ebenfalls nicht aus. Dabei handelt es sich um eine Behauptung ins Blaue hinein, ohne dass diese begründet wird. Der Vortrag des Klägers beschränkt sich auf die Wirkungsweise des Motortyps EA 189, der wie oben ausgeführt gerade nicht vorliegt. Konkrete Überschreitungen insbesondere auch im Rahmen der Prüfungsbedingungen werden von dem Kläger nicht substantiiert dargelegt. Soweit er sich auf Angaben des Herstellers in den Prospekten beruft (§ 434 Abs. 1 S.3 BGB) fehlt es zu konkreten Angaben, welche Angaben gemacht wurden und inwiefern solche nicht eingehalten werden.b) Auch aus anderen rechtlichen Gesichtspunkten ergibt sich nicht der geltend gemachte Anspruch auf Rückzahlung des Kaufpreises. Insbesondere ein Anspruch aus § 826 BGB ist nicht gegeben. Soweit der Kläger den Anspruch darauf stützt, ist nicht erkennbar, dass die Beklagte als Verkäuferin und nicht Herstellerin des Fahrzeuges - was nach Ansicht der Kammer jedoch schon nicht mangelbehaftet ist - eine solche Haftung treffen könnte.2) Die Nebenforderungen teilen das Schicksal der unbegründeten Hauptforderung.II.Die prozessuale Nebenentscheidungen beruhen auf §§ 91 Abs. 1, 709 ZPO.III.Streitwert: 90.131,00 €
+			
+			
+			
+			Permalink: https://openjur.de/u/2388764.html (https://oj.is/2388764)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

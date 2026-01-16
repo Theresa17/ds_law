@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG Frankfurt am MainRechtsprechungUrteil vom 16.11.2018 - 2-07 O 159/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Frankfurt am Main, Urteil vom 16.11.2018 - 2-07 O 159/18
+                      m. Fundstelle
+                      LG Frankfurt am Main, Urteil vom 16.11.2018 - 2-07 O 159/18 = openJur 2020, 44426
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Frankfurt am Main, Urteil vom 16.11.2018 - 2-07 O 159/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 44426
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits hat der Kläger zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger begehrt von den Beklagten Schadensersatz im Zusammenhang mit dem sogenannten "Abgasskandal".Streitgegenständlich ist ein Gebrauchtwagen .... Das Fahrzeug hat einen Dieselmotor des Typs EA189 (EU5).Der Kläger ist ein Verbraucher. Die Beklagte zu 1. ist die Herstellerin des Pkw. Sie ist zugleich ein Tochterunternehmen der Beklagten zu 2.In dem Fahrzeug war ursprünglich eine Software installiert, die zwei Betriebsmodi zur Abgasrückführung kannte: Im Modus 1 werden Abgase in den Motor zurückgeleitet, was im Ergebnis dazu führt, dass sich während des Verbrennungsvorgangs weniger Stickoxide bilden. Im Modus 0 werden weniger Abgase in den Motor zurückgeleitet. Die Software erkannte, wenn das Fahrzeug den Neuen Europäischen Fahrzyklus ("NEFZ") - ein Abgastest in einem synthetischen Fahrzyklus unter Laborbedingungen - durchfuhr und schaltete in den Modus 1. Unter normalen Fahrbedingungen des Straßenverkehrs fuhr das Fahrzeug im Modus 0. Weil es im normalen Straßenverkehr unmöglich ist, den NEFZ nachzufahren, befand sich das streitgegenständliche Fahrzeug mit der ursprünglich installierten Software durchgehend im Modus 0. Nur im Betriebsmodus 1, d.h. unter Laborbedingungen, wurden die zulässigen EU-Emissionsgrenzwerte erreicht.Seit September 2015 wurde die streitgegenständliche Software in der Öffentlichkeit thematisiert.Mit Bescheid vom 11.12.2015 verpflichtete das Kraftfahrtbundesamt die Beklagte zu 1. bei allen betroffenen Fahrzeugen mit dem Motor EA 189 EU5 die - so der Wortlaut des Bundesamtes - "unzulässige Abschalteinrichtung" zu entfernen und dies durch Beibringen geeigneter Nachweise zu belegen (Anlage B 1).Die Beklagte zu 1. bot daraufhin Eigentümern von Fahrzeugen mit der eben skizierten Software ein Update an, dass die vom Kraftfahrtbundesamt gemachten Beanstandungen beseitigen sollte.Mit Bescheid vom 27.05.2016 bestätigte das Kraftfahrtbundesamt den Beklagten, dass das von der Beklagten zu 2 dem Kraftfahrtbundesamt vorgestellte Update, das ausweislich einer angehängten Fahrzeugliste auch das streitgegenständliche Modell .... betreffen soll, geeignet sei, die - so der Wortlaut des Kraftfahrtbundesamtes - "Vorschriftsmäßigkeit der genannten Fahrzeuge herzustellen" (Anlage B 1).Der Kläger hat das Update im August 2016 aufspielen lassen.Der Kläger behauptet, er habe den Pkw am 18.11.2015 erworben (Anlage K 1).Er ist weiterhin der Ansicht, dass der Pkw infolge des Einbaus der "Abschalteinrichtung" mangelhaft sei: Er genüge nicht den geltenden Vorschriften hinsichtlich der Euro-Abgasnorm. Er, der Kläger, habe daher ein Fahrzeug erworben, das nicht den gesetzlichen Anforderungen entspreche. Der Kläger behauptete dabei zunächst, dass er das Fahrzeug erworben habe, ohne von dem sogenannten "Dieselskandal" gewusst zu haben; er nutze keine deutschsprachigen Medien. Auch sei im Herbst 2015 noch völlig unklar gewesen, bei welchen Fahrzeugen die streitgegenständliche Software verbaut gewesen sei. In der mündlichen Verhandlung erklärte der Kläger auf Nachfrage, dass ihm der "Skandal" beim Kauf des Wagens bekannt gewesen sei.Der Kläger behauptet weiterhin, dass der Mangel auch nicht durch das Update zu beseitigen sei, da danach der Kraftstoffverbrauch höher sei und der Motor schneller verschleiße. Auch sei davon auszugehen - so die Behauptung des Klägers - dass der Pkw nunmehr 30 % weniger Wert sei. Zudem drohten weiterhin Maßnahmen des Kraftfahrtbundesamts bis hin zur Stilllegung. Der Kläger behauptet zuletzt, die "Abschalteinrichtung" sei mit Kenntnis und Billigung der Vorstände der Beklagten in die Baureihe des streitgegenständlichen Pkws eingebaut worden. Verbraucher und Zulassungsbehörden seien massenhaft und planmäßig getäuscht worden.Nach alledem ist der Kläger der Ansicht, dass ihm ein Anspruch auf Schadensersatz gegen die Beklagten gemäß §§ 823 Abs. 2, 31 BGB i.V.m. § 263 StGB sowie §§ 826, 31 BGB zustehe. Weiterhin schuldeten die Beklagten ihm Ersatz vorgerichtlicher Rechtsanwaltskosten.Mit Schriftsatz vom 01.06.2018 hat der Kläger Klage erhoben, zunächst nur gegen die Beklagte zu 1. Mit Schriftsatz vom 08.08.2018 hat er die Klage auf die Beklagte zu 2. erweitert.Der Kläger hat beantragt,1. die Beklagten zu verurteilen, an den Kläger 31.400 EUR nebst Zinsen in Höhe von vier Prozentpunkten über dem Basiszinssatz hieraus seit dem 18.11.2015 sowie 5 Prozentpunkten seit dem 09.04.2018 zu zahlen, Zug-um-Zug gegen Übergabe und Übereignung des Fahrzeuges ......;2. festzustellen, dass sich die Beklagten mit der Rücknahme des in Ziffer 1 genannten Fahrzeuges in Verzug befinden;3. festzustellen, dass die Beklagten verpflichtet sind, dem Kläger Schadensersatz zu bezahlten für Schäden, die aus der Manipulation des Fahrzeugs .....durch die Beklagten resultieren;4. die Beklagten zu verurteilen, den Kläger von vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.474,89 EUR freizustellen.Die Beklagten haben beantragt,die Klage abzuweisen.Die Beklagten sind der Ansicht, dass es sich bei der Motorsteuergerätesoftware nicht um eine unzulässige Abschalteinrichtung, sondern eine zulässige Umschaltlogik handele, da sie nicht auf das Emissionskontrollsystem wirke. Darüber hinaus sei für die EG-Typengenehmigung nur maßgeblich, dass das Fahrzeug die Emissionsgrenzwerte im künstlichen Fahrzyklus NFEZ einhalte; eine gesetzliche Vorgabe, die die Einhaltung im normalen Straßenbetrieb regle, gäbe es nicht. Es sei daher auch nur maßgeblich, dass die seitens der Beklagten zu 1 angegebenen Stickoxidausstoßwerte denjenigen Werten entsprächen, die bei den gesetzlich vorgegebenen Testbedingungen gemessen worden seien; dies sei hier der Fall. Weiterhin sei entscheidend, dass das Fahrzeug zu jedem Zeitpunkt technisch sicher und fahrbereit sei; auch dies sei hier der Fall. Die Beklagten bestreiten darüber hinaus, dass es durch den Einsatz der streitgegenständlichen Motorgerätesoftware zu Wertverlusten bei betroffenen Pkws gekommen sei. Für das streitgegenständliche Fahrzeug sei eine wirksame EG-Typengenehmigung erteilt worden und es drohe jedenfalls nach der Freigabe des Software-Updates durch das Kraftfahrtbundesamt auch kein Widerruf der Genehmigung. Ohnehin würde die monierte Umschaltlogik durch das Update vollständig und ohne Nachteile für den Kläger beseitigt. Insbesondere halte das Fahrzeug nach dem Update (weiterhin) die gesetzlichen Emissionsgrenzwerte ein; dies habe das Kraftfahrtbundesamt bestätigt.Jedenfalls, so die Behauptung der Beklagten, habe der Kläger das Fahrzeug erworben, obwohl ihm die "Diesel-Problematik" bekannt gewesen sei. Es fehlten damit jegliche Anhaltspunkte dafür, dass der Kläger den Pkw nicht erworben hätte, wenn er von der Software und deren Funktionsweise gewusst hätte. Die Beklagten sind daher der Ansicht, dass ein kausaler Zusammenhang zwischen der von dem Kläger behaupteten sittenwidrigen Schädigung und dem Kaufvertragsschluss fehle.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zu den Akten gereichten Schriftsätze der Parteien nebst Anlagen sowie das Sitzungsprotokoll vom 26.10.2018 Bezug genommen. 
+				Gründe
+				Die Klage ist jedenfalls unbegründet.1.Der Feststellungantrag zu 3. - betreffend mögliche Schäden, die dem Kläger aus der Manipulation des Fahrzeugs resultieren können - ist nach Ansicht der Kammer bereits unzulässig (so auch LG Würzburg, Endurteil vom 23.02.2018 - 71 O 862/16 = BeckRS 2018, 1691, beck-online). Ein Feststellungsinteresse des Klägers besteht nicht. Eine Feststellungsklage, mit der die Ersatzpflicht für reine Vermögensschäden festgestellt werden soll, ist nur zulässig, wenn zumindest die hinreichende Wahrscheinlichkeit eines auf die Verletzungshandlung zurückzuführenden Schadenseintritts besteht (BGH, Urteil vom 24.01.2006 - XI ZR 384/03 = NJW 2006, 830, Rn. 27, beck-online). Diese Wahrscheinlichkeit des Schadenseintritts ist nicht dargetan und auch nicht anzunehmen, wenn wie hier zunächst die Rückabwicklung des Kaufvertrages begehrt wird. Das Gericht vermag keine weiteren Schäden zu erkennen, die der Kläger zusätzlich erlitten haben könnte bzw. die ihm in der Zukunft hinreichend wahrscheinlich weiterhin drohen würden, wenn es zu einer Rückabwicklung des Kaufvertrages käme. Auch der Kläger konnte auf Nachfrage des Gerichts in der mündlichen Verhandlung keine derartigen potentiellen Schäden nennen.2.Die Klage ist darüber hinaus aber insgesamt - somit auch der Feststellungsantrag zu 3. - unbegründet. Der Kläger hat gegen die Beklagten keinen der mit den Anträgen 1. bis 4. geltend gemachten Ansprüche.Zunächst ist der Antrag zu 1. unbegründet. Der Kläger hat gegen die Beklagten keinen Anspruch auf Schadensersatz.Der Kläger hat keinen Anspruch auf Schadensersatz gemäß §§ 826, 31 BGB.Zwar geht das Gericht nach den Erläuterungen des Klägers in der mündlichen Verhandlung davon aus, dass der Kläger Eigentümer des streitgegenständlichen Audi geworden ist.Der Kläger hat die Anlage K 1 vorgelegt, aus der sich ergibt, dass die .....den ... an die ....., Herrn ...., für 31.400,01 EUR verkaufte. Der Kläger hat in der mündlichen Verhandlung die Anlage K 1 auf Nachfrage wie folgt erläutert:"Die .... wie sie sich aus der Anlage K 1 ergibt, ist die Firma meines Bruders. Der ....war ein Firmenwagen der ..... Da die .... nur an gewerbliche Kunden alte Firmenwägen verkauft, habe ich den Wagen über die Firma meines Bruders gekauft. Ich habe das Geld aber direkt überwiesen. Ich habe den Wagen dann auch direkt auf mich angemeldet."Der Kläger hat an anderer Stelle auch ausgeführt, dass er selbständig mit der ....über den Preis des Pkw verhandelt habe.Das Gericht geht nach alledem davon aus, dass die Firma des Bruders des Angeklagten, die "....." von ....., ein sogenannter Strohmann war, also als Vertragspartner nur vorgeschoben wurde. Es ist davon auszugehen, dass die Verkäuferin des Pkw, die ....., die für das Flottenmanagement der .... zuständig ist, davon auch wusste. Darauf kommt es aber auch nicht an, denn jedenfalls wollten die .....und die ...... die mit dem Kaufvertrag verbundenen Rechtsfolgen eintreten lassen. D.h. die ..... sollte Käufer des Pkw werden, da ein Verkauf an den Kläger als Privatmann nach den internen Regelungen der .... eben gerade nicht möglich war (vgl. hierzu BGH, Beschluss vom 04.04.2007 - III ZR 197/06 = NJW-RR 2007, 1209, beck-online). Die .... wurde somit Vertragspartner der .... und letztlich zunächst auch Eigentümer. Als Strohmann war sie aber dem Kläger als Hintermann gegenüber verpflichtet, an diesen herauszugeben, was sie aus dem Geschäft erlangt hat (BeckOK BGB, 47.E. Stand 01.08.2018, § 117 Rn. 14 f., beck-online).Auch teilt das Gericht grundsätzlich die Ansicht des Klägers, dass die Beklagten durch den Einbau der Software gegen die guten Sitten im Sinne des § 826 BGB verstoßen haben.Die beanstandete Software ist eine unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2 Satz 1 der Verordnung EG Nr. 715/2007. Das Gericht teilt insoweit die Rechtsauffassung des Kraftfahrtbundesamtes. Indem durch die Rückführung eines Teils der Abgase (= Emissionen) in den Verbrennungsprozess im Motor die Emission kontrolliert werden, nahm die Software Einfluss auf das Emissionskontrollsystem. Die von den Beklagten gemachte Unterscheidung zwischen "innermotorischen Maßnahmen" und einer "unmittelbaren Einwirkung auf das Emissionskontrollsystem" lässt sich weder der Verordnung entnehmen, noch ist sie - insbesondere unter Berücksichtigung von Sinn und Zweck der Regelung - nachvollziehbar (so auch LG Stuttgart Urteil vom 08.02.2018,19 O 68/17, BeckRS 2018, 5648 Rn. 25).Die im streitgegenständlichen Pkw ehemals verbaute Abschalteinrichtung ist auch sittenwidrig. Die Sittenwidrigkeit folgt daraus, dass die Manipulation heimlich vorgenommen wurde mit dem Ziel, eine Zulassung durch Täuschung zu erwirken und dabei die eigene Wettbewerbsfähigkeit zu erhöhen. Der Pkw entsprach, solange er mit einer unzulässigen Abschalteinrichtung ausgerüstet war, nicht den gesetzlichen Vorschriften. Dabei wurden Kunden über die Gesetzwidrigkeit des Pkw in Unkenntnis gelassen und ihnen wurde ein nicht realistischer Schadstoffausstoß im normalen Fahrbetrieb suggeriert. Hinzukommt, dass derartige Pkw massenhaft in Verkehr gebracht wurden und mit der Manipulationssoftware zugleich ein technisch aufwändiges System zur planmäßigen Verschleierung gegenüber den Aufsichtsbehörden und den Verbrauchern geschaffen wurde (vgl. LG Köln, Urteil vom 26.01.2018, 23 O 131/17 = BeckRS 2018, 10991 Rn. 21, beck-online).Zuletzt ist das Gericht auch der Ansicht, dass der Kläger, der einen Pkw mit einer unzulässigen Abschalteinrichtung erwarb, einen für ihn wirtschaftlich nachteiligen Vertrag abgeschlossen hat und dadurch geschädigt sein könnte.Im vorliegenden Fall fehlt es jedoch an der Kausalität zwischen dem sittenwidrigen Verhalten der Beklagten und dem Abschluss des möglicherweise wirtschaftlich nachteiligen Kaufvertrags über den Pkw. Dafür wäre erforderlich, dass der Kläger den Pkw in Unkenntnis der Manipulationssoftware erworben hätte. Denn das sittenwidrige Verhalten der Beklagten beruht nicht auf dem bloßen Einbau der Software, sondern der planmäßigen Verschleierung, dass eine derartige Software eingebaut wurde und welche Folgen sich daraus für den Schadstoffausstoß auf dem Prüfstand und im Straßenverkehr ergeben (vgl. oben). Dieses Verhalten hat sich aber offensichtlich nicht auf die Kaufentscheidung des Klägers ausgewirkt. Der Kläger wusste vielmehr, dass das Fahrzeug, das er erwarb, mit einer unzulässigen Abschalteinrichtung ausgestattet war, die dazu führte, dass die Emissionswerte des Fahrzeugs im realen Fahrbetrieb erheblich höher ausfallen als auf dem Prüfstand.Am 18.09.2015 teilt die ..... öffentlich mit, dass sie davon ausgehe, dass die Beklagte zu 2. bei .... eine Software eingesetzt habe, um bei Labormessungen auf dem Prüfstand den Schadstoffausstoß künstlich zu reduzieren. Am 22.09.2015 veröffentliche die Beklagte zu 2. eine Gewinnwarnung und einen Tag später, am 23.09.2015 trat ..... als Vorstandsvorsitzender der Beklagten zu 2. zurück. Seither wurde die vom Kläger beanstandete Software in der Öffentlichkeit diskutiert. Das mediale Interesse war groß; schnell war die Software als "Abschalteinrichtung" und waren die Vorgänge dahinter als "Dieselskandal" oder "Dieselgate" einer breiten Öffentlichkeit bekannt. Am 02.11.2015 machte die .... zudem öffentlich, dass sie davon ausgehe, dass auch Fahrzeuge der Beklagten zu 1 mit der unzulässigen Software ausgerüstet seien. Dennoch erwarb der Kläger den streitgegenständlichen ... Ende November 2015.Zwar hat der Kläger zunächst schriftsätzlich behauptet, er habe nicht zu der breiten Öffentlichkeit gehört, dem der "Dieselskandal" im September 2015 bekannt geworden sei. Vielmehr sei die öffentliche Berichterstattung an ihm vorübergegangen. Dies auch deshalb, da er keine deutschen Medien konsumiere. In der mündlichen Verhandlung stellte der Kläger dann klar, dass diese Darstellung so nicht zutreffend sei und vermutlich auf einem Missverständnis zwischen ihm und seinen Prozessbevollmächtigten beruhe. Er habe zwar keinen Fernseher, aber "so etwas wie den ‚Dieselskandal‘" bekomme man natürlich trotzdem "über Kollegen und das Internet" mit. Der Kläger stellte vor diesem Hintergrund ohne Umschweife klar, dass ihm der "Skandal" um den Softwareeinbau beim Kauf des Wagens bekannt gewesen sei. Grund für den Kauf - trotz "Abschaltsoftware" - sei gewesen, dass er, der Kläger, dringend einen Wagen gebraucht habe, der so konfiguriert sei (Ausstattung, Motorleistung etc.), wie der streitgegenständliche ..... Das sei schwer zu finden gewesen. Auch sei es für ihn günstiger gewesen, einen alten Firmenwagen zu kaufen, da ein Unternehmen - hier die .... - seine Fahrzeuge zu Listenpreisen einkaufe und sie daher auch entsprechend günstiger verkaufen könne.Nach alledem wusste der Kläger, dass er ein Fahrzeug erwarb, das durch den Einbau der Manipulationssoftware von einem deutschlandweiten Skandal betroffen war. Die Folgen waren damals noch unabsehbar. Das Software-Update stand noch lange nicht im Raum. Wie die Zulassungsbehörden mit der streitgegenständlichen Software umgehen würden, war damals ebenfalls nicht absehbar. Erst im Mai 2016 bestätigte das Kraftfahrtbundesamt den Beklagten, dass das von der Beklagten zu 2 dem Kraftfahrtbundesamt vorgestellte Update geeignet sei - so die Ansicht des Bundesamtes -, die Vorschriftsmäßigkeit des streitgegenständlichem ...-Modells wiederherzustellen. Wenn der Kläger in der mündlichen Verhandlung angab, dass er beim Kauf des Pkw davon ausgegangen sei, dass "durch das Softwareupdate dann alles ok" sei, so stellt sich die Frage, wo er diese Hoffnung im November 2015 hernahm.Der Kläger hat den .... dennoch gekauft, da er genauso konfiguriert gewesen sei, wie er, der Kläger, es haben wollte und zudem, als ausgesondertes Firmenfahrzeug der ..., günstig zu haben war. Es liegt zudem nahe, dass der Kläger zusätzlich von dem von ihm behaupteten Wertverlust - wenn es ihn denn gegeben hat, was zwischen den Parteien streitig ist - unmittelbar profitiert hat. Gerade unmittelbar nach Bekanntwerden des "Skandals", als die Empörung in der Öffentlichkeit über die Beklagten groß war, dürfte sich ein etwaiger Preiseinbruch gezeigt haben.Nach alledem hat der Kläger keinen Anspruch auf Schadensersatz gemäß § 826 BGB gegen die Beklagten, da er den.... jedenfalls nicht aufgrund eines sittenwidrigen Verhaltens der Beklagten erworben hat.Der Kläger hat auch keinen Anspruch gegen die Beklagten gemäß §§ 823 Abs. 2, 31 BGB i.V.m. § 263 StGB. Auch hier fehlt es aus den soeben dargelegten Gründen jedenfalls an der Kausalität zwischen der Täuschung durch die Beklagten und dem beim Kläger eingetretenen Schaden. Der Kläger unterlag keinem Irrtum, als er das Fahrzeug erwarb, sondern er war sich vielmehr bewusst, dass darin eine Abschaltsoftware verbaut war.Da der Antrag zu 1. unbegründet ist, sind auch die Anträge 2. bis 4. (jedenfalls) unbegründet.Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit hat ihre Grundlage in § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2260398.html (https://oj.is/2260398)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

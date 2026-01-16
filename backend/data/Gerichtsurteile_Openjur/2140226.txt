@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG DortmundRechtsprechungUrteil vom 06.06.2017 - 12 O 228/16
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Dortmund, Urteil vom 06.06.2017 - 12 O 228/16
+                      m. Fundstelle
+                      LG Dortmund, Urteil vom 06.06.2017 - 12 O 228/16 = openJur 2019, 5207
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Dortmund, Urteil vom 06.06.2017 - 12 O 228/16
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 5207
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagten werden verurteilt, an den Kläger 12.592,16 € nebst Zinsen hieraus in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit dem 16.03.2016 zu bezahlen, Zug-um-Zug gegen Übereignung und Herausgabe des PKW VW Golf, FIN: ...#.Es wird festgestellt, dass die Beklagte zu 2) verpflichtet ist, an den Kläger Zinsen in Höhe von 4 % aus 12.592,16 € vom 13.02.2012 bis zum 15.03.2016 zu bezahlen.Es wird festgestellt, dass sich die Beklagten mit der Rücknahme des PKW VW Golf, FIN: ...# im Annahmeverzug befinden.Die Beklagte zu 1) wird verurteilt, den Kläger von den durch die Beauftragung seiner Prozessbevollmächtigten entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 837,52 € freizustellen.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits werden zu einem Drittel dem Kläger und zu zwei Dritteln den Beklagten als Gesamtschuldner auferlegt.Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags. 
+				Tatbestand
+				Der Kläger kaufte mit Kaufvertrag vom 10.02.2012 einen gebrauchten PKW VW Golf Plus Team 1,6 TDI DPF (FIN: ...#; Stand des km-Zählers 3.595) bei der Beklagten zu 1) zum Kaufpreis von 18.390,00 €. Das Fahrzeug wurde als der Schadstoffklasse Euro 5 zugehörig verkauft. Herstellerin des PKW ist die Beklagte zu 2). Die Beklagte zu 1) ist unabhängige Händlerin. Das Fahrzeug wurde dem Kläger am 13.02.2012 nach Zahlung des Kaufpreises übergeben.In dem PKW ist ein Motor des Typs EA189 EU5 verbaut, dessen Abgasrückführungssystem über zwei Betriebsmodi verfügt. Wird mittels einer im Motor eingesetzten Software erkannt, dass sich das Fahrzeug auf dem Prüfstand befindet, wird Modus 1 aktiviert, in dem höhere Mengen an Abgas wieder dem Motor zugeführt werden (damit insbesondere der Stickoxidausstoß verringert wird) als im normalen Straßenverkehr, in dem Modus 0 aktiv ist. Die Grenzwerte für die Einstufung in Schadstoffklasse Euro 5 werden im Modus 0 nicht eingehalten. Ab September 2015 wurde dies in der Öffentlichkeit bekannt, es folgte die Anordnung von Rückrufen durch das Kraftfahrtbundesamt, das der Beklagten zu 2) auch aufgab, Maßnahmen zu entwickeln, um die betroffenen Fahrzeuge in einen ordnungsgemäßen Zustand zu versetzen.Mit Schreiben seiner Prozessbevollmächtigten an die Beklagte zu 1) (Anlage K2) vom 30.11.2015 erklärte der Kläger die Anfechtung des Kaufvertrags wegen arglistiger Täuschung und setzte eine Frist zur Rückabwicklung bis zum 14.12.2015; hilfsweise erklärte er den Rücktritt vom Kaufvertrag unter Fristsetzung zur Rückabwicklung auf den 14.12.2015, wiederum hilfsweise begehrte er eine Behebung des Mangels bis zum 10.12.2015. Mit Schreiben vom 16.03.2016 teilte die Beklagte zu 1) dem Kläger mit, dass die für den streitgegenständlichen Motortyp entwickelte Nachbesserungsmaßnahme entwickelt sei, "die ersten Fahrzeuge ab Januar 2016 auf den erforderlichen technischen Stand gebracht" würden und der Kläger "sobald wie möglich näher über den Zeitplan und die für das Fahrzeug konkret vorgesehenen Maßnahmen" informiert werde.Bei der Beklagten zu 2) wurde dann ein Softwareupdate entwickelt, das nach Aufspielen auf die betroffenen Fahrzeuge dazu führen soll, dass auch im normalen Betrieb die öffentlichrechtlichen Grenzwerte eingehalten werden. Mit Bescheid vom 03.11.2016 gab das Kraftfahrtbundesamt das Softwareupdate für den hier streitgegenständlichen Fahrzeugtyp frei.Der Kläger hat mit Schriftsatz vom 11.04.2017 ein Foto des Tachometers eingereicht, aus dem sich ein km-Stand von 93.448 km ergibt.Der Kläger behauptet, er hätte das Fahrzeug nicht gekauft, wenn er davon gewusst hätte, dass das Abgasrückführungssystem über zwei Betriebsmodi verfügt und die Euro 5-Grenzwerte nur im Prüfmodus eingehalten werden. Die nunmehr angebotene Nachbesserung durch ein Softwareupdate sei ungeeignet, den Mangel zu beheben; zudem seien schädliche Auswirkungen auf den Motor zu befürchten. Die Beklagte zu 2) habe einen Betrug begangen.Der Kläger beantragt,1. die Beklagten zu verurteilen, an ihn 18.390,00 € nebst Zinsen hieraus in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit dem 16.03.2016 zu bezahlen, Zugum-Zug gegen Übereignung und Herausgabe des PKW VW Golf, FIN: ...#;2. festzustellen, dass die Beklagte zu 2) verpflichtet ist, an ihn Zinsen in Höhe von 4 % aus 18.390,00 € seit dem Zeitpunkt des Eingangs des Geldes auf dem Konto der Beklagten zu 1) bis zum 15.03.2016 zu bezahlen;3. festzustellen, dass sich die Beklagten mit der Rücknahme des im Klageantrag Ziffer 1. genannten PKW im Annahmeverzug befinden;4. die Beklagtenparteien jeweils getrennt, nicht gesamtschuldnerisch zu verurteilen, ihn von den durch die Beauftragung seiner Prozessbevollmächtigten entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von jeweils 1.059,10 € freizustellen.Die Beklagten beantragen,die Klage abzuweisen.Sie behaupten, für den Erhalt der Typengenehmigung sei ohnehin nur der Prüfbetrieb maßgeblich, deshalb sei die Einstufung in Schadstoffklasse Euro 5 auch zutreffend. Ein Mangel liege deshalb nicht vor. Ohnehin wäre ein etwaiger Mangel aber auch unerheblich, da die Kosten für die nun genehmigte Nachbesserung mittels Softwareupdate unter 100,00 € lägen. Insbesondere die Beklagte zu 2) behauptet, die Entscheidung zum Einsatz der Software, mit deren Hilfe im Prüfstand ein anderer Modus gefahren wird als im Straßenbetrieb, sei unterhalb der Vorstandsebene gefallen.Zur Ergänzung des Tatbestands wird verwiesen auf die gewechselten Schriftsätze nebst Anlagen. 
+				Gründe
+				A. Die zulässige Klage ist im aus dem Tenor ersichtlichen Umfang begründet, im Übrigen ist sie unbegründet.I. Der Kläger hat einen Anspruch auf Rückabwicklung des Kaufvertrags vom 10.02.2012 gegenüber der Beklagten zu 1), da er wirksam von diesem Vertrag zurückgetreten ist.1. Das von ihm erworbene Fahrzeug ist mangelhaft, da es nicht die Beschaffenheit aufweist, die bei Sachen der gleichen Art üblich ist und die der Käufer nach der Art der Sache erwarten kann (§ 434 Abs. 1 Satz 2 BGB). Zwar ist jedem verständigen Käufer eines Kraftfahrzeugs bewusst, dass vom Hersteller oder Verkäufer angegebene Schadstoffausstoßwerte solche sind, die auf Tests beruhen, nicht aber jede denkbare Fahr- und Nutzungsweise abbilden. Dass im einzelnen also ein Fahrzeug im vom Käufer durchgeführten Betrieb einen höheren Schadstoffausstoß hat, führt noch nicht dazu, dass ein Mangel zu bejahen ist. Allerdings ist das Vorhandensein einer Software, die dafür sorgt, dass zwar im Prüfmodus die relevanten Grenzwerte eingehalten werden, im Normalbetrieb aber in einen anderen Modus schaltet, in dem weniger Schadstoffe innerhalb des Motors gehalten werden, ein Mangel. Denn unabhängig von vom Käufer beeinflussbaren Faktoren (persönliches Fahrverhalten) findet dann immer ein höherer Schadstoffausstoß statt als angegeben. Das Vorhandensein einer solchen Software ist weder bei Sachen der gleichen Art üblich, noch musste es vom Käufer nach der Art der Sache erwartet werden.2. Der Kläger hat der Beklagten zu 1) jedenfalls hilfsweise zum sofortigen Rücktrittsbegehren aus dem Schreiben vom 30.11.2015 eine Frist zur Nachbesserung gesetzt. Auch wenn diese den Umständen nach zu kurz bemessen gewesen sein dürfte, hindert dies jedenfalls inzwischen einen Rücktritt nicht mehr. Es ist nämlich nunmehr klar, dass für das streitgegenständliche Fahrzeug das von der Beklagten zu 2) entwickelte Softwareupdate erst mit Beschluss vom 03.11.2016, also elf Monate nach der Mangelanzeige des Klägers, durch das Kraftfahrtbundesamt freigegeben wurde. Dies ist auch unter Berücksichtigung der Tatsache, dass die Beklagte zu 1) bei der Nachbesserung in technischer Hinsicht auf die Beklagte zu 2) angewiesen war, ein nicht mehr zumutbarer Zeitraum für den Kläger.Zum Zeitpunkt der Rücktrittserklärung des Klägers war noch überhaupt nicht absehbar, wann eine Nachbesserung würde erfolgen können. Die außergerichtliche Mitteilung der Beklagten zu 1) noch vom 16.03.2016 enthält hierzu auch keine weiterführenden Anhaltspunkte. Im Gegenteil ist insbesondere die Angabe, dass der aktuelle Zeitplan vorsehe, dass die ersten Fahrzeuge ab Januar 2016 auf den erforderlichen technischen Stand gebracht werden, geeignet, erhebliche Zweifel daran, dass zu diesem Zeitpunkt überhaupt Fortschritte bei den Nachbesserungsplänen zu verzeichnen waren, hervorzurufen. Denn ersichtlich war ursprünglich vorgesehen, dass ab Januar 2016 mit den Nachbesserungen an konkreten Fahrzeugen begonnen wird. Warum dann am 16.03.2016 sich noch genau diese Formulierung findet und nicht etwa mitgeteilt, dass bereits seit Januar Fahrzeuge tatsächlich überarbeitet werden, vermag das Gericht nur dahingehend zu verstehen, dass auch im März 2016 noch kein Fahrzeug tatsächlich nachgebessert war.Auf die Frage, ob es dem Kläger das Hinnehmen eines Nachbesserungsversuchs eventuell auch deshalb unzumutbar war, weil eine nachhaltige Störung des Vertrauensverhältnisses eingetreten sein könnte, oder ob die von der Beklagten zu 29 entwickelte Softwarelösung eventuell gar nicht geeignet ist, den Mangel folgenlos zu beseitigen, kommt es deshalb nicht an.3. Die Pflichtverletzung der Beklagten zu 1) ist auch nicht unerheblich (§ 323 Abs. 5 Satz 2 BGB). Es kann dahinstehen, ob die Kosten für das Aufspielen des entwickelten Softwareupdates unter 100,00 € betragen, da die Erheblichkeit einer Pflichtverletzung nicht nur danach zu beurteilen ist, wie hoch die Kosten für eine Beseitigung sind, sondern auch anhand einer umfassenden Interessenabwägung. Zu fragen ist hierbei danach, ob ein durchschnittlicher Käufer in Kenntnis des Mangels jedenfalls in Erwägung gezogen hätte, diesen hinzunehmen, zum Beispiel gegen einen niedrigeren Kaufpreis, oder vom Kauf Abstand genommen hätte (s. auch OLG Brandenburg, NJW-RR 2007, 928). Das Gericht ist der Überzeugung, dass die Behauptung des Klägers, er hätte in Kenntnis des "Abgasskandals" und insbesondere der Betroffenheit des streitgegenständlichen Fahrzeugs dieses nicht erworben, in Anbetracht der Unsicherheiten, denen die Käufer dieser Fahrzeuge ausgesetzt sind, zutreffend ist. Bei einer Abwägung aller Interessen ist auch zu berücksichtigen, dass zwar die Beklagte zu 1) ebenfalls wohl erst ab September 2015 vom "Abgasskandal" Kenntnis erlangte, also selbst nicht etwa den Kläger arglistig täuschte, dass aber trotzdem das arglistige Verhalten der Beklagten zu 2) nicht gänzlich unbeachtet bleiben darf. Schließlich beruft sich die Beklagte zu 1) stets darauf, sie habe eine Nachbesserung nicht früher anbieten können, weil sie umfassend auf das Zurverfügungstellen der neuen Software durch die Beklagte zu 2) angewiesen gewesen sei. Dann mag sie sich auch bezüglich der nun durch die Verpflichtung zur Rückabwicklung des betroffenen Kaufvertrags eingetretenen Nachteile für sie als Händlerin an die Beklagte zu 2) halten.4. Die von den Parteien empfangenen Leistungen sind danach wegen es Rücktritts des Klägers zurückzugewähren (§ 346 Abs. 1 BGB). Der Kläger hat danach das streitgegenständliche Fahrzeug herauszugeben und zu übereignen, die Beklagte zu 1) hat Zug um Zug den Kaufpreis zu erstatten. Da zusätzlich § 346 Abs. 1 BGB vorsieht, dass die gezogenen Nutzungen herauszugeben sind, der Kläger aber die erlangte Fahrleistung des PKW ihrer Natur nach nicht herausgeben kann, hat er hierfür Wertersatz gem. § 346 Abs. 2 Satz 1 Nr. 1 BGB zu leisten. Das Gericht ist auf Grund des vom Kläger eingereichten Fotos der Überzeugung, dass der Kläger mit dem PKW insgesamt 89.853 km gefahren ist (Tachostand von 93.448 km abzüglich km-Stand bei Übergabe laut Kaufvertrag von 3.595 km). Weiter geht das Gericht bei dem als robust bekannten Fahrzeugtyp von einer zu erwartenden Gesamtlaufleistung von 300.000 km aus, also von einer Restlaufleistung bei Kauf von 296.405 km aus. Nach der gängigen Formel "Bruttokaufpreis mal gefahrene Kilometer geteilt durch Restlaufleistung" ergibt sich ein zu ersetzender Nutzungsersatz von 5.797,84 €. Der Kläger hat deshalb einen Anspruch auf Zahlung von nur 12.592,16 €.5. Zinsen schuldet die Beklagte zu 1) aus dem Gesichtspunkt des Verzugs gem. §§ 286 Abs. 2 Nr. 3, 288 Abs. 1 BGB.II. Auf die Frage, ob der Kläger den Kaufvertrag auch wirksam anfechten konnte, kommt es - da dann nach den Grundsätzen der ungerechtfertigten Bereicherung dasselbe Ergebnis stünde - nicht an.III. Die Beklagte zu 2) haftet dem Kläger auf Schadensersatz aus Deliktsrecht.1. Die Beklagte zu 2) hat gegenüber dem Kläger in einer gegen die guten Sitten verstoßenden Weise gehandelt. Wer bewusst täuscht, um einen anderen zum Vertragsschluss zu bringen, handelt in der Regel sittenwidrig, so bei unwahren Angaben über vertragswesentliche Umstände (Palandt/Sprau, BGB, 76. Auflage 2017, § 826 Rn. 20). Vorliegend haben die Mitarbeiter der Beklagten zu 2) eine Software konstruiert, deren Abgasrückführungssystem erkennt, wann das Fahrzeug im Testlauf läuft, was zur Folge hat, dass dann in einen Modus geschaltet wird, bei dem mehr Schadstoffe dem Motor zurückgeführt (und damit nicht ausgestoßen) werden als in dem Modus, der im tatsächlichen Betrieb zur Anwendung kommt. Dadurch wurde dem Kläger etwas vorgespiegelt, was für seine Kaufentscheidung wesentlich war, nämlich ein Stickstoff-Ausstoß, der der Euro-5-Norm auch tatsächlich entspricht. Obwohl den Mitarbeitern der Beklagten zu 2) auch bewusst war, dass dieser Umstand von zentraler Bedeutung für jeden verständigen Autokäufer beim Autokauf ist, wurde die entsprechende Software bewusst verwendet. Dieses betrügerische Verhalten gegenüber dem Kunden ist sittenwidrig.2. Die Beklagte zu 2) hat durch Personen gehandelt, für deren unerlaubte Handlung die Beklagte zu 2) gem. § 31 BGB einzustehen hat. Zwar trifft hierfür grundsätzlich den Kläger die Darlegungs- und Beweislast. Allerdings ist es hier der Beklagten zu 2) ausnahmsweise zuzumuten, nähere Angaben über die zu ihrem Wahrnehmungsbereich gehörenden Verhältnisse zu ermöglichen, weil sie im Gegensatz zu dem außerhalb des maßgeblichen Geschehensablauf stehenden Kläger die wesentlichen Tatsachen kennt ("sekundäre Darlegungslast", vgl. Zöller/Greger, ZPO, 31. Auflage 2016, Vor § 284 Rn. 34). Der Vorstand der Beklagten zu 2) weiß oder kann sich das Wissen verschaffen, wer die Entscheidung getroffen hat, die Software zu entwickeln und einzusetzen, die einen tatsächlich nicht vorhandenen niedrigen Schadstoffausstoß im normalen Betrieb des Fahrzeugs vorspiegelte. Der Kläger behauptet, Verantwortliche der Beklagten zu 2) hätten die hiesige Software entwickeln lassen und eingesetzt. Dies ist auchabsolut lebensnah. Wer die Zustimmung zur Konzipierung und zum Einsatz einer Software im Millionen von Neufahrzeugen erteilt, die einen geringeren als den tatsächlichen Schadstoffausstoß vorspiegelt, muss üblicherweise auch eine wichtige Funktion in einem Unternehmen innehaben, da eine so wesentliche unternehmerische Entscheidung regelmäßig nicht von untergeordneten Mitarbeitern ohne Einbeziehung von Entscheidungsträgern getroffen wird. Außerdem ist nicht einsichtig, warum der Konzern der Beklagten zu 2) in den Vereinigten Staaten von Amerika umfassende Schuldanerkenntnisse im Rahmen von Vergleichsvereinbarungen, mit denen Milliardensummen an Strafen und zivilrechtlichen Bußgeldern gezahlt werden, abgegeben hat, wenn tatsächlich auf Vorstandsebene niemand von dem Softwareeinsatz gewusst hätte. Jedenfalls hiernach hätte die Beklagte zu 2) konkret darlegen müssen, von wem die Entscheidungen zum Softwareeinsatz gefallen sind und warum dies ohne Involvierung der Vorstandsebene möglich gewesen sein soll.3. Hätte der Kläger gewusst, dass das Fahrzeug die Euro-5-Norm nur im Prüfmodus einhält, der während des normalen Gebrauchs nie eingeschaltet ist, hätte er das Fahrzeug nicht erworben. Der Kläger hat beruhend auf diesem Irrtum eine Vermögensverfügung vorgenommen, nämlich den Kaufpreis an die Beklagte zu 1) gezahlt. Dem Kläger ist hierdurch auch ein Schaden entstanden. Wird ein Käufer durch irreführende Angaben zum Erwerb einer Sache veranlasst, die sich grundlegend von der angepriesenen unterscheidet, ist ein Schaden auch dann zu bejahen, wenn der Wert der Sache dem gezahlten Kaufpreis entspricht (BGH NJW 1998, 898). Es kommt daher nicht darauf an, ob der Kläger das Fahrzeug zur allgemeinen Nutzung im Straßenverkehr verwenden kann und verwendet hat. Denn Schadensersatz ist auch dann geschuldet, wenn der Kaufpreis zwar dem Verkehrswert der Sache entspricht, diese aber infolge des Mangels für die Zwecke des Käufers ungeeignet ist (BGH aaO). Vorliegend wollte der Kläger kein Fahrzeug erwerben, das eine Software enthält, die einen den Grenzwerten der Euro 5-Norm entsprechenden Schadstoffausstoß nur im Prüfmodus einhält, während unabhängig von der konkreten Nutzung und dem persönlichen Fahrverhalten im normalen Straßenbetrieb dieser Modus abgeschaltet wird. Damit war das Fahrzeug für die Zwecke des Klägers ungeeignet.4. Die Beklagte zu 2) hat den Kläger für den Ersatz seiner Schäden so zu stellen, als ob der auf Grund der vorsätzlichen sittenwidrigen Schädigung Betruges erfolgte Kauf des Fahrzeugs mit Kaufpreiszahlung und Übergabe unterblieben sei (§ 249 StGB). Das bedeutet wiederum Herausgabe und Übereignung des Fahrzeugs gegen Erstattung des Kaufpreises abzüglich gezogener Nutzungen.IV. Zudem hat die Beklagte zu 2) gem. §§ 849, 246 BGB 4 % Zinsen an den Kläger zu zahlen, und zwar für die Zeit vom 13.02.2012 (Zahlung des Kaufpreises an die Beklagte zu 1) und damit Eintritt des Schadens) an, bis zum Eintritt der Verpflichtung zur Verzugsverzinsung. Zu verzinsen ist allerdings nur der letztlich als Schadensersatz zu leistende Betrag, also nicht der volle Kaufpreis, sondern unter Abzug der Nutzungsentschädigung. Hieraus folgt die teilweise Begründetheit des Klageantrags zu Ziffer 2.V. Die Beklagte zu 1) befindet sich auch jedenfalls durch Ablehnung des Rücktrittsbegehrens durch das außergerichtliche Schreiben vom 16.03.2013 in Annahmeverzug, die Beklagte zu 2) jedenfalls seit Anzeige der Verteidigungsbereitschaft und Ankündigung des Klageabweisungsantrags.VI. Die Beklagte zu 1) schuldet dem Kläger Freistellung von außergerichtlichen Rechtsanwaltsgebühren aus § 280 BGB. Es war nach Bekanntwerden des Abgasskandals dem Kläger auch nicht zuzumuten, sich zunächst ohne anwaltliche Hilfe mit der Beklagten zu 1) rechtlich auseinanderzusetzen. Geschuldet ist allerdings nur, was zur angemessenen Rechtsverfolgung erforderlich war. Es ist deshalb auszugehen von einem Gegenstandswert von nur 12.592,16 €. Es ist auch nicht erkennbar, dass die außergerichtliche Tätigkeit überdurchschnittlich war, insbesondere kann dies anhand des Schreibens vom 30.11.2015 nicht erkannt werden. Freizustellen ist der Kläger danach von außergerichtlichen Kosten in Höhe einer 1,3 Geschäftsgebühr in Höhe von 683,80 € zuzüglich Auslagenpauschale in Höhe von 20,00 € und Umsatzsteuer, insgesamt also 837,52 €. Insoweit beantragt der Kläger ausdrücklich keine gesamtschuldnerische Verurteilung, obwohl die außergerichtlichen Rechtsanwaltsgebühren auch zu dem von der Beklagten zu 2) dem Grunde nach gesamtschuldnerisch zu ersetzenden Schaden gehören dürften.Einen eigenen Ersatzanspruch gegen die Beklagte zu 2) hat der Kläger dagegen nicht, da bereits keine außergerichtliche Tätigkeit bezüglich der Beklagten zu 2) dargelegt ist. Ein außergerichtliches Schreiben wurde nicht vorgelegt.B. Die prozessualen Nebenentscheidungen beruhen auf § 92 Abs. 1 Satz 1 ZPO und § 709 Satz 1 und 2 ZPO.C. Der Streitwert wird auf 18.390,00 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2140226.html (https://oj.is/2140226)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert3
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

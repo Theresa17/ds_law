@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG Frankfurt am MainRechtsprechungBeschluss vom 14.01.2021 - 2-14 O 327/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Frankfurt am Main, Beschluss vom 14.01.2021 - 2-14 O 327/20
+                      m. Fundstelle
+                      LG Frankfurt am Main, Beschluss vom 14.01.2021 - 2-14 O 327/20 = openJur 2021, 3523
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Frankfurt am Main, Beschluss vom 14.01.2021 - 2-14 O 327/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 3523
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Besteht im sog. "Dieselskandal" eine Zuständigkeit nach § 32 ZPO am Wohnsitz des Käufers, ist der käuferische Wohnsitz bei Vertragsschluss ausschlaggebend. Der Wohnsitz im Zeitpunkt der Klageerhebung begründet keinen Gerichtsstand. 
+				
+				Tenor
+				Das Landgericht Frankfurt am Main erklärt sich für örtlich unzuständig und verweist den Rechtsstreit auf Antrag des Klägers an das örtlich zuständige Landgericht Gießen.  
+				Gründe
+				Gemäß § 281 Abs. 1 S. 1 ZPO war der Rechtsstreit auf den klägerischen Antrag vom 26. Oktober 2020 an das Landgericht Gießen zu verweisen.1. Eine örtliche Zuständigkeit des Landgerichts Frankfurt am Main ist nicht gegeben.a) Eine Zuständigkeit nach § 32 ZPO besteht nicht.Aus den vorgelegten Vertragsunterlagen ist ersichtlich, dass das Fahrzeug als Leasingfahrzeug bei der xxx GmbH & Co. KG in 35510 Butzbach erworben wurde. Weiter ist ersichtlich, dass der Kläger zum Zeitpunkt des Fahrzeugerwerbs und des Abschlusses des Leasingvertrags in der Straße1 in 35435 Wettenberg wohnte. Sowohl Butzbach als auch Wettenberg liegen im Gerichtsbezirk des Landgerichts Gießen.In den gegen den Hersteller gerichteten Verfahren über Individualklagen aus Anlass des sog. Abgasskandals wird eine Zuständigkeit nach § 32 ZPO sowohl bei dem Gericht am Sitz des Herstellers, am Sitz des Händlers als auch am Wohnsitz des Käufers bejaht (BayObLG Beschl. v. 22.1.2019 - 1 AR 23/18, BeckRS 2019, 5991 Rn. 18 m. w. N.). Der Wohnsitz des Käufers ist aber dessen Wohnsitz bei Vertragsschluss. Denn liegt der Schaden im Abschluss des Kaufvertrags über ein aufgrund der behaupteten Abschalteinrichtung bemakeltes Fahrzeug (BGH, Urteil vom 25.5.2020 - VI ZR 252/19, NJW 2020, 1962, 1967, Tz. 44), tritt dieser Schaden im Vermögen des Klägers im Moment des Vertragsschlusses ein. Durch die Eingehung einer Verbindlichkeit, die er in Kenntnis des Vorliegens der Manipulation nicht eingegangen wäre und die deshalb "ungewollt" war, setzt sich der Käufer mit seinem gesamten Vermögen insgesamt dem Anspruch des Vertragspartners auf Kaufpreiszahlung ausgesetzt. Bereits dadurch ist der Vermögensschaden i.S.d. § 826 BGB am Wohnsitz des Klägers eingetreten (OLG München Beschl. v. 11.3.2020 - 34 AR 235/19, BeckRS 2020, 3497 Rn. 14).Dies führt im Hinblick auf die Zuständigkeit des § 32 ZPO dazu, dass es auf den käuferischen Wohnsitz im Zeitpunkt des Vertragsschlusses, nicht auf denjenigen bei Klageerhebung ankommt (vgl. OLG Düsseldorf, Beschluss vom 30.10.2017 - 5 Sa 44/17, NJW-RR 2018, 573, 575, das auf den "damaligen Wohnort des Klägers" abstellt). Wollte man spätere Wohnsitzänderungen dergestalt berücksichtigen, dass am jeweiligen klägerischen Wohnsitz geklagt werden könnte, würde man § 32 ZPO bei Vermögensschäden zu einem reinen Klägergerichtsstand umdeuten. Ein solches Verständnis wird weder von Wortlaut noch von Sinn und Zweck der Norm, nämlich, dass im Gerichtsbezirk des Begehungsortes die Aufklärung sachnäher und kostengünstiger durchgeführt werden könne (MüKoZPO/Patzina, 6. Aufl. 2020, § 32 ZPO Rn. 1), getragen.Dass der Kläger im Moment der Klageerhebung seinen Wohnsitz in Königstein im Taunus und damit im Bezirk des Landgerichts Frankfurt am Main hat, genügt daher für eine Zuständigkeitsbegründung nicht.b) Eine anderweitige örtliche Zuständigkeit des Landgerichts Frankfurt am Main ist nicht ersichtlich. Die vom Kläger als deliktisch gerügten Handlungen, nämlich das Installieren der vom Kläger als unzulässig angesehenen Motorsteuerungssoftware und das Inverkehrbringen des streitgegenständlichen Fahrzeugs mit dieser Software, wurden nicht im hiesigen Zuständigkeitsbezirk vorgenommen. Die Beklagte hat ihren allgemeinen Gerichtsstand auch nicht im hiesigen Gerichtsbezirk.2. Der Rechtsstreit war daher an das LG Gießen als das vom Kläger nach § 281 Abs. 1 S. 2 ZPO gewählte Gericht zu verweisen. Der Beklagten ist mit Verfügung vom 6. November 2020 rechtliches Gehör gewährt worden.
+			
+			
+			
+			Permalink: https://openjur.de/u/2316738.html (https://oj.is/2316738)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

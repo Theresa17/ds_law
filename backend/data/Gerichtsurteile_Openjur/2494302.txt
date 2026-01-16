@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungUrteil vom 08.06.2022 - 5 U 171/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Urteil vom 08.06.2022 - 5 U 171/21
+                      m. Fundstelle
+                      OLG Köln, Urteil vom 08.06.2022 - 5 U 171/21 = openJur 2024, 8307
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Urteil vom 08.06.2022 - 5 U 171/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2024, 8307
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das am 08.09.2021 verkündete Urteil der 9. Zivilkammer des Landgerichts Bonn - 9 O 55/21 - wird zurückgewiesen.Die Kosten des Berufungsverfahrens werden dem Kläger auferlegt.Das vorliegende Urteil und die angefochtene Entscheidung sind ohne Sicherheitsleistung vorläufig vollstreckbar. Der Kläger kann die Zwangsvollstreckung durch Sicherheitsleistung oder Hinterlegung in Höhe von 110 % des vollstreckbaren Betrags abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 % des zu vollstreckenden Betrags leistet.Die Revision wird nicht zugelassen. 
+				Tatbestand
+				Der Kläger erwarb im Jahr 2017 von der Beklagten einen gebrauchten BMW 520d Touring mit einem Kilometerstand von 24.865 km zu einem Kaufpreis von 36.975,00 €. In dem am 29.11.2016 erstmals zugelassenen Fahrzeug ist ein Motor des Typs B 47 verbaut, für den eine Typengenehmigung nach der Abgasnorm Euro 6 erteilt worden ist. Der Motor verfügt über einen NOx-Speicherkatalysator. Ein SCR-Katalysator ist nicht verbaut. Die Beklagte ist Herstellerin des Fahrzeugs.Mit anwaltlichem Schreiben vom 14.12.2020 machte der Kläger gegenüber der Beklagten Ersatzansprüche geltend. Am 28.05.2022 betrug die Laufleistung des Fahrzeugs 112.916 km.Ein Rückruf des Fahrzeuges durch das KBA liegt nicht vor.Der Kläger hat der Beklagten vorgeworfen, ihn vorsätzlich sittenwidrig geschädigt zu haben, indem sie das von ihm erworbene Fahrzeug mit mehreren unzulässigen Abschalteinrichtungen in den Verkehr gebracht habe. In dem Fahrzeug sei ein unzulässiges Thermofenster verbaut. Die Abgasreinigung funktioniere nur bei Temperaturen zwischen 20° C und 30° C zu 100 %. Bei Außentemperaturen von über 33° C und unter 17° C werde die Abgasrückführung reduziert bzw. deaktiviert. Zudem sei in der Motorsteuerungssoftware eine Funktion hinterlegt, die als "Kaltstartheizen" bezeichnet werden könne. Diese Funktion bewirke, dass im NEFZ nach Motorstart der Kraftstoff zunächst unverbrannt den Motor verlasse und erst später im Abgasstrang verbrannt werde. Dies führe dazu, dass der NOx-Speicherkatalysator schneller auf Temperatur komme und damit schneller zu arbeiten anfange. Da das "Kaltstartheizen" zu einem höheren Verschleiß beim Abgasstrang führe, werde die Funktion nur bei Prüfungen im NEFZ angewendet. Damit die Funktion gestartet werde könne, müssten drei Bedingungen beim Motorstart kumulativ vorliegen: Die Außentemperatur müsse im Bereich zwischen 15° C und 35,5° C liegen, die Motor Kühlmittel-Temperatur müsse unter 15° C liegen und der gemessene Luftdruck müsste unter einem Wert liegen, der einer Höhe über Null von 900m entspreche (Bl. 927 f).Ferner seien weitere, unter dem Begriff des "hard cycle beating" zu fassende Abschalteinrichtungen verbaut. Schließlich sei auch das OBD-System in der Weise manipuliert worden, dass es keine Fehler der Abgasreinigung melde.Der Kläger hat behauptet, den Mitgliedern des Vorstands der Beklagten sei die Verwendung der unzulässigen Abschalteinrichtungen bekannt gewesen.Der Kläger hat beantragt,1. die Beklagte zu verurteilen, an ihn 32.020,05 € nebst Zinsen hieraus in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 28.12.2020 zu zahlen, Zugum-Zug gegen Übereignung und Herausgabe des Pkw Typs BMW Typ 520d, FIN: N01;2. festzustellen, dass sich die Beklagte mit der Annahme des in Antrag zu Ziff. 1 genannten Fahrzeugs seit dem 28.12.2020 in Verzug befindet;3. die Beklagte zu verurteilen, ihn von den Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.698,13 € freizustellen.Die Beklagte hat beantragt,die Klage anzuweisen.Sie ist dem Vorwurf, dass sie eine oder mehrere unzulässige Abschalteinrichtungen in dem vom Kläger gekauften BMW 520d oder in anderen von ihr hergestellten Fahrzeugen verwendet habe, im Einzelnen entgegengetreten. Sie hat behauptet, dass das sog. Kat-Heizen völlig anders als von dem Kläger dargestellt funktioniere und bei den von ihr entwickelten Motoren erst ab der Abgasstufe Euro 6c verbaut sei. Die vom Kläger dargestellten, kumulativ erforderlichen Bedingungen, seien im NEFZ nicht gegeben (Bl. 981 d.A.)Das Landgericht hat die Klage abgewiesen. Das Vorbringen zur Verwendung einer Vielzahl von Parametern, mit denen die Abgasrückführung außerhalb des Prüfstands reduziert oder abgeschaltet werden solle, sei widersprüchlich und ohne konkrete Anhaltspunkte ins Blaue hinein erfolgt und damit unbeachtlich. Hinsichtlich des Thermofensters könne dahinstehen, ob es eine unzulässige Abschaltreinrichtung darstelle. Es seien keine Anhaltspunkte für ein Bewusstsein auf Seiten der Beklagten erkennbar, hiermit gegen gesetzliche Vorschriften zu verstoßen. Der Kläger habe auch eine Verschleierung des Thermofensters im Typgenehmigungsverfahren nicht schlüssig dargelegt.Hiergegen wendet sich der Kläger mit der Berufung.Er verweist auf ein bereits in erster Instanz vorgelegtes Gutachten von Dr. Z. D. zur Problematik "Kaltstartheizen" sowie auf ein Gutachten von Dipl.-Ing. C. E.. Indem das Landgericht seinen Vortrag als nicht schlüssig, unsubstantiiert und als "ins Blaue hinein" bewertet habe und die angebotenen Beweise nicht erhoben habe, habe es die Anforderungen an die Darlegungslast überspannt. Messungen des KBA und der DUH, betreffend einen BMW 320d Euro 6, hätten ergeben, dass der Grenzwert für NOx um den Faktor 2,6 im Durchschnitt überschritten werde. Der Kläger meint, das Landgericht habe in Bezug auf das sog. Thermofenster die Darlegungs- und Beweislast verkannt. Dass ein Thermofenster vorhanden sei, sei unstreitig. Für das Vorliegen einer Ausnahmevoraussetzung des Art. 5 Abs. 2 S. 2 a) VO 715/2007 (EG) sei die Beklagte darlegungs- und beweisbelastet. Der Kläger ist ferner der Ansicht, die Vorschriften der §§ 6 Abs. 1, 27 Abs. 1 EG-FGV seien individualschützende Normen und damit Schutzgesetz im Sinne des §§ 823 Abs. 2 BGB.Der Kläger beantragt,unter Abänderung des am 08.09.2021 verkündeten Urteils1. die Beklagte zu verurteilen, an ihn 31.114,61 € nebst Zinsen hieraus in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit 28.12.2020 zu bezahlen, Zugum-Zug gegen Übereignung und Herausgabe des Pkw Typs BMW Typ 520d, FIN: N01;2. festzustellen, dass sich die Beklagte mit der Annahme des in Antrag zu Ziff. 1 genannten Fahrzeugs seit dem 29.12.2020 in Verzug befindet;3. die Beklagte zu verurteilen, ihn von den Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.698,13 € freizustellen.Die Beklagte beantragt,die Berufung zurückzuweisen.Sie wiederholt im Wesentlichen ihr erstinstanzliches Vorbringen. Wegen des weiteren Vorbringens der Parteien wird auf die gewechselten Schriftsätze nebst Anlagen verwiesen. 
+				Gründe
+				Die Berufung ist unbegründet.Der Kläger kann von der Beklagten weder gemäß § 826 BGB noch aus einem anderen Rechtsgrund Schadensersatz verlangen.1. Eine vorsätzliche sittenwidrige Schädigung, die zu einem Anspruch aus § 826 BGB führen würde, fällt der Beklagten mangels schlüssigem und beachtlichem Vorbringen des Klägers hierzu nicht zur Last.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann. Schon zur Feststellung der Sittenwidrigkeit kann es daher auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen. Die Verwerflichkeit kann sich auch aus einer bewussten Täuschung ergeben. Insbesondere bei mittelbaren Schädigungen kommt es ferner darauf an, dass den Schädiger das Unwerturteil, sittenwidrig gehandelt zu haben, gerade auch in Bezug auf die Schäden desjenigen trifft, der Ansprüche aus § 826 BGB geltend macht (BGH, Urteil vom 25.05.2020 - VI ZR 252/19, juris, Rn. 15 m.w.Nw.).Diese Voraussetzungen liegen nicht vor. Der Kläger hat nicht schlüssig und in beachtlicher Weise dargelegt, dass die Beklagte über die Vorschriftsmäßigkeit der Motorentechnik getäuscht und eine unzulässige Abschalteinrichtung bewusst verschwiegen hat.a. Eine vorsätzlich sittenwidrige Schädigung ergibt sich zunächst nicht daraus, dass in dem streitgegenständlichen Fahrzeug eine temperaturabhängige Steuerung des Emissionskontrollsystems in Form eines sog. Thermofensters implementiert ist.Ob es sich bei einem Thermofenster und der entsprechenden Software des Motorsteuerungsgeräts unter Berücksichtigung des Urteils des EuGH vom 17.12.2020 - C 693/18 (juris) in rechtlicher und tatsächlicher Hinsicht um eine unzulässige Abschalteinrichtung handelt, kann dahinstehen. Nach den Beschlüssen und Urteilen des Bundesgerichtshofs vom 19.01.2021 - VI ZR 433/19, vom 09.03.2021 - VI ZR 889/20 und vom 16.09.2021 - VII ZR 190/20 (jeweils in juris veröffentlicht) ist das Verhalten der für einen Kraftfahrzeughersteller handelnden Personen nicht bereits deshalb als sittenwidrig zu qualifizieren, weil sie einen Fahrzeugtyp aufgrund einer grundlegenden unternehmerischen Entscheidung mit einer temperaturabhängigen Steuerung des Emissionskontrollsystems ausgestattet und in den Verkehr gebracht haben. Der objektive Tatbestand der Sittenwidrigkeit ist nur gegeben, wenn weitere Umstände hinzutreten, die das Verhalten der handelnden Personen als besonders verwerflich erscheinen lassen. Die Annahme objektiver Sittenwidrigkeit setzt jedenfalls voraus, dass die handelnden Personen bei der Entwicklung und/oder Verwendung der temperaturabhängigen Steuerung des Emissionskontrollsystems in dem Bewusstsein handelten, eine unzulässige Abschalteinrichtung zu verwenden, und den darin liegenden Gesetzesverstoß billigend in Kauf nahmen.Hierfür ist weder etwas seitens des Klägers schlüssig dargetan worden noch ersichtlich. Die Implementierung eines Thermofensters reicht hierzu nicht aus, da dieses gerade nicht danach unterscheidet, ob sich das Fahrzeug auf dem Prüfstand oder im normalen Fahrbetrieb befindet (vgl. BGH, Urteil vom 19.01.2021 - VI ZR 433/19, juris Rn. 16).Auch die behauptete Ausgestaltung des Thermofensters mit einer Reduzierung oder Deaktivierung der Abgasrückführung bei Außentemperaturen von über 33° C und unter 17° C lässt nicht auf einen vorsätzlichen Gesetzesverstoß der für die Beklagte handelnden Personen schließen. Selbst danach verbliebe ein erheblicher Anwendungsbereich. Dass Gründe des Motorenschutzes in jedem Fall als Rechtfertigung für eine Verringerung der Abgasrückführung angenommen werden konnten, wird durch das Verhalten des Kraftfahrt-Bundesamtes nach Bekanntwerden des Dieselskandals belegt. Es hat trotz der durchgeführten Untersuchungen, die sich aus dem Vortrag beider Parteien ergeben, in Bezug auf den Motor B 47 keinen Grund für eine Beanstandung gesehen. Nichts spricht daher dafür, dass die für die Beklagte handelnden Personen zu einem früheren Zeitpunkt in dem Bewusstsein tätig waren, bei dem Motor B 47 und der Nutzung des Thermofensters eine unzulässige Abschalteinrichtung zu verwenden.Fehlerhafte oder unvollständige Angaben der Beklagten zum Thermofenster im Typengenehmigungsverfahren, die auf den Versuch einer Überlistung und Täuschung des Kraftfahrt-Bundesamtes hinweisen und daher ein dem Kläger günstiges Indiz darstellen würden, legt er nicht konkret dar.b. Auch im Zusammenhang mit der behaupteten Funktion "Kaltstartheizen" kann nicht von einer unzulässigen Abschalteinrichtung ausgegangen werden.Die Behauptung des Klägers, dass die Motorsteuerungssoftware seines Fahrzeuges so konfiguriert sei, dass ein sog. "Kaltstartheizen" des Motors stattfinde, ist als Vortrag ins Blaue hinein unbeachtlich. Der Kläger hat keine greifbaren Anhaltspunkte dafür aufgezeigt, dass das Motorsteuerungsgerät des Motors B 47 seines BMW 520d Euro 6 so programmiert ist, dass es nach einem Kaltstart - oder auch sonst auf dem Prüfstand - das Emissionskontrollsystem so verändert, dass geringe Stickoxidemissionen entstehen, und diese Veränderung des Emissionskontrollsystems bei warmem Motor - oder auch sonst im realen Fahrbetrieb - teilweise oder vollständig deaktiviert wird.Soweit der Kläger unter Bezugnahme auf ein Schreiben von Dr. Z. D. vom 16.06.2021 behauptet, dass bei dem streitgegenständlichen Fahrzeug nach dem Motorstart der Kraftstoff zunächst unverbrannt den Motor verlasse und erst später im Abgasstrang verbrannt werde, was dazu führe, dass der NOx-Speicherkatalysator schneller auf Temperatur komme und damit schneller zu arbeiten anfange, ergibt sich aus dem Schreiben von Dr. D. schon nicht, dass der Gutachter auch Fahrzeuge des hier streitgegenständlichen Typs 520d, Euro 6, untersucht hat. Ein solches Fahrzeug ist in der Liste der untersuchten Fahrzeuge nicht aufgeführt. Die Beklagte bestreitet, dass in dem Fahrzeug des Klägers - wie auch in den von Dr. D. genannten Fahrzeugen - ein Motor verbaut ist, in dem eine Aufheizstrategie zur Anwendung kommt (Bl. 981 d.A.). Auch das mit Schriftsatz vom 23.05.2022 vorgelegte Schreiben von Dr. D. vom 09.12.2021 (Bl. 1439 ff d.A.) enthält keine greifbaren Anhaltspunkte für die Richtigkeit der Behauptung des Klägers. Das Schreiben enthält zu den wesentlichen Fragen, insbesondere dazu, ob in dem streitgegenständlichen Motor B47 Euro 6 die Funktion Kaltstartheizen überhaupt aktiv ist und in welcher Weise die Funktion arbeitet, keine Angaben, sondern allenfalls Vermutungen. Dr. D. führt selbst aus, dass die Untersuchungen an den Baureihen B37 und B47 noch nicht abgeschlossen seien und dass er für weitere Untersuchungen auf die Binärdatei der Motorsteuerungssoftware angewiesen sei, um die Motorsteuerungssoftware zu rekonstruieren. Die lediglich ins Blaue hinein erfolgten Behauptungen des Klägers, in seinem Fahrzeug sei die Funktion "Kaltstartheizen" aktiviert, die dazu verwendet werde, um die Stickoxidwerte im NEFZ geringer zu halten, begründet weder eine Pflicht der Beklagten zur Vorlage der Motorsteuerungssoftware noch löst sie eine sekundäre Darlegungslast aus.Schließlich spricht gegen die Behauptung des Klägers, dass das Kraftfahrtbundesamt für das von der Beklagten hergestellte Fahrzeug BMW 520d Euro 6 mit dem Motor B47 keinen Rückrufbescheid erlassen hat. Auch sonst sind die von der Beklagten hergestellten Fahrzeuge und Dieselmotoren auch nach dem Vorbringen des Klägers weder vom Kraftfahrt-Bundesamt noch im Rahmen des Berichts der Untersuchungskommission Volkswagen wegen einer unzulässigen Abschalteinrichtung beanstandet worden. Soweit das Kraftfahrt-Bundesamt in Bezug auf die Fahrzeugtypen BMW 750d und M550d einen Rückruf angeordnet hat, handelt es sich nach insoweit unstreitig gebliebenem Vortrag der Beklagten um Fahrzeuge mit einem Motor aus der Reihe N57 und nicht um einen Motor aus der hier streitgegenständlichen Reihe B47. Es kann daher dahin stehen, ob das klägerseits bestrittene Vorbringen der Beklagten zutrifft, dass es bei Fahrzeugen mit diesen Motoren im Zuge einer Softwareaktualisierung zu einem irrtümlichen Daten- bzw. Zuordnungsfehler und infolgedessen zu der Verwendung von Dateneinträgen aus einem Software-Stand kam, der für Fahrzeuge mit einem abweichenden Abgasreinigungssystem entwickelt worden war.c. Die vom Kläger vorgetragenen Messergebnisse der Deutschen Umwelthilfe im echten Fahrbetrieb sind kein Indiz für die Richtigkeit der klägerischen Behauptung einer unzulässigen Abschalteinrichtung.Erhöhte Messergebnisse, die im echten Fahrbetrieb gewonnen worden sind, haben grundsätzlich keine ausschlaggebende Indizwirkung für das Vorliegen einer unzulässigen Abschalteinrichtung. Die Stickoxidemissionen im realen Fahrbetrieb können und dürfen höher sein als im Prüfstand, weil keine genormten Bedingungen bestehen und höhere Fahrleistungen auftreten können. Die Abweichung der Messwerte im Realbetrieb von den Messwerten nach NEFZ ist als Indiz für eine Abschalteinrichtung, und noch dazu für eine Manipulationssoftware, die die Voraussetzungen des § 826 BGB erfüllen könnte, angesichts der unstreitigen gravierenden Unterschiede der Bedingungen, unter denen die Messung erfolgt, ungeeignet (vgl. BGH, Beschluss vom 15.09.2021 - VII ZR 2/21, juris Rn. 30.). Der III. Zivilsenat des Bundesgerichthofs hat dies im Beschluss vom 25.11.2021 - III ZR 202/20 (juris Rn. 17) nur für den - hier nicht vorliegenden - Fall des unstreitigen Vorliegens einer Prüfstandserkennung anders gesehen. Anders als der Kläger im Schriftsatz vom 23.05.2022 ausführt, hat die Beklagte das Vorliegen einer Prüfstandsbezogenheit bestritten. Dies ergibt sich bereits aus dem Tatbestand des angefochtenen Urteil (Seite 3 der Urteilsausfertigung), aber auch aus dem schriftsätzlichen Vorbringen der Beklagten (vgl. etwa Seite 39 der Klageerwiderung, Bl. 528 d.A.).Aus dem gleichen Grund sind die durch den Kläger vorgetragenen "unveröffentlichten" Messergebnisse des KBA nicht relevant. Nach unwidersprochen gebliebenem Vortrag der Beklagten handelt es sich auch hier um Abgasmessungen im Straßenverkehr und nicht um Fahrten im NEFZ (Bl. 979 d.A.). Gleiches gilt für die Prüfungen des britischen "Department of Transport" und für die Messungen des TÜV und des ICCTIm vorliegenden Fall kommt hinzu, dass das Kraftfahrt-Bundesamt die von der Deutschen Umwelthilfe ermittelten Messergebnisse mit überhöhten Stickoxidemissionen für den BMW 320d Euro 6 ausweislich der Presseerklärung vom 15.2.2018 (Bl. 590 d.A.) überprüft hat und zu dem Ergebnis gelangt ist, dass sie auf nicht normale Betriebsbedingungen zurückzuführen sind. Gesichtspunkte, die gegen eine Übertragbarkeit dieses Untersuchungsergebnisses auf den streitgegenständlichen BMW 520d Euro 6 und das insoweit von der Deutschen Umwelthilfe veröffentlichte Messergebnis sprechen, sind weder dargetan noch ersichtlich. Auch dieses kann daher nicht als beachtliches Indiz herangezogen werden.d. Soweit der Kläger unter Bezugnahme auf ein Gutachten von Dipl.-Ing. E. vom 03.02.2020 pauschal behauptet, dass sein Fahrzeug mit Sensoren ausgestattet sei und es im laufenden Fahrbetrieb Eingriffe in die Emissionskontrollsysteme gebe, lässt sich daraus nicht auf eine prüfstandsbezogene Abschalteinrichtung schließen. Dem Gutachten lässt sich schon nicht entnehmen, welche Sensoren verbaut sein sollen und in welcher (unzulässigen) Weise diese auf das Emissionskontrollsystem einwirken. Hinzu kommt, dass sich das Gutachten auf ein im Jahr 2010 zugelassenes Fahrzeug BMW 116d Euro 5 mit dem Motor N57 bezieht, welches der Sachverständige - so der unbestritten gebliebene Vortrag der Beklagten (Bl. 976 d.A.) - weder gesehen noch untersucht hat.e. Die Ausführungen des Klägers zur Abgasnachbehandlung durch SCR-Katalysator und die Verwendung von AdBlue sind unbeachtlich, weil in dem streitgegenständliche Fahrzeug kein SCR-Katalysator, sondern ein NOx-Speicherkatalysator enthalten ist. Soweit der Kläger auf nicht auszuschließende Folgemängel der von der Beklagten "angebotenen/im amtlichen Rückruf angeordneten" Software-Updates" verweist, kann dahinstehen, ob ein solches, von der Beklagten bestrittenes Update überhaupt existiert. Denn der Kläger behauptet schon nicht, dass er ein solches Software-Update aufgespielt hat. Zudem legt er eine vorsätzlich sittenwidrige Täuschungshandlung der Beklagten und einen darauf beruhenden Schaden nicht schlüssig dar.f. Soweit der Kläger eine Optimierung der Emissionsstrategie im Rahmen eines sog. "hard cycle beating" behauptet, bei dem die Motorsteuerungssoftware anhand diverser Parameter (Drehzahl, Beschleunigung, Zeit, Geschwindigkeit, Nebenverbraucher, Lenkradstellung) erkenne, ob sich das Fahrzeug im Prüfstand befinde und nur dort die Abgasreinigung optimal funktioniere, während eine Abgasrückführung im Normalbetrieb nicht mehr stattfinde (Bl. 50 ff d.A.), liegt ein Vortrag ins Blaue hinein vor. Angesichts der vorstehenden Ausführungen (b.) fehlt es an greifbaren Anhaltspunkten dafür, dass das Motorsteuerungsgerät des Motors B 47 des BMW 520d Euro 6 des Klägers so programmiert ist, dass es auf dem Prüfstand das Emissionskontrollsystem so verändert, dass geringere Stickoxidemissionen als im realen Fahrbetrieb entstehen.g. Das OBD-System, auf das der Kläger abgestellt, kann nicht selbst eine unzulässige Abschalteinrichtung darstellen, weil es lediglich der Überwachung, Diagnose und Anzeige dient. Die bewusste Verdeckung oder Verschleierung anderer unzulässiger Abschalteinrichtungen kann es nicht zum Ziel gehabt haben. Ein entsprechender Sachverhalt ist bereits nicht schlüssig und in beachtlicher Weise dargetan.2. Ein Anspruch aus § 831 BGB ist nicht gegeben, weil es nach den vorstehenden Ausführungen des Senats bereits an einer unerlaubten Handlung einer für die Beklagte handelnden Person fehlt. Durch einen Verrichtungsgehilfen der Beklagten kann ein solche daher nicht verwirklicht worden sein.3. Ein Anspruch aus § 823 Abs. 2 BGB iVm § 27 Abs. 1, 6 Abs. 1 EG-FGV oder Art. 5 der VO 715/2007 EG besteht entgegen der Auffassung des Klägers nicht, weil das Interesse, nicht zu einer ungewollten Verbindlichkeit veranlasst zu werden, nicht im Aufgabenbereich der Vorschriften liegt (BGH, Urteil vom 30.7.2020 - VI ZR 5/20, juris Rn. 10 ff.).4. Ein Anspruch aus § 823 Abs. 2 BGB iVm § 263 BGB ist jedenfalls deshalb zu verneinen, weil die für die Beklagte handelnden Personen weder das Kraftfahrt-Bundesamt noch eine andere Behörde oder Person über die Vorschriftsmäßigkeit der Motorentechnik getäuscht und eine unzulässige Abschalteinrichtung nicht bewusst verschwiegen haben. Hierzu kann auf die vorstehenden Ausführungen verwiesen werden.5. Der Antrag auf Feststellung, dass sich die Beklagte mit der Annahme des streitgegenständlichen Fahrzeuges in Annahmeverzug befindet, ist mangels Hauptanspruchs ebenfalls unbegründet.6. Der Kläger hat gegen die Beklagte mangels Hauptanspruchs auch keinen Anspruch auf Erstattung außergerichtlich angefallener Rechtsanwaltskosten.7. Die prozessualen Nebenentscheidungen folgen aus §§ 97, 708 Nr. 10, 711 ZPO.8. Die Voraussetzungen für die Zulassung der Revision liegen nicht vor (§ 543 Abs. 2 ZPO). Weder hat die Rechtssache grundsätzliche Bedeutung noch erfordert die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Revisionsgerichts. Die entscheidungserheblichen Fragen sind ausschließlich solche des Einzelfalls.Streitwert: 31.114,61 €
+			
+			
+			
+			Permalink: https://openjur.de/u/2494302.html (https://oj.is/2494302)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

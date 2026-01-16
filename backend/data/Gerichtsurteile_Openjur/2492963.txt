@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 18.01.2022 - 2 O 208/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 18.01.2022 - 2 O 208/21
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 18.01.2022 - 2 O 208/21 = openJur 2024, 7727
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 18.01.2022 - 2 O 208/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2024, 7727
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits trägt der Kläger.3. Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages. 
+				Tatbestand
+				Der Kläger begehrt von der Beklagten Schadensersatz nach dem Erwerb eines Dieselfahrzeuges.Er erwarb das streitgegenständliche Fahrzeug vom Typ Škoda Octavia mit der Fahrzeugidentifikationsnummer N01, Baujahr 2014, im Dezember 2017 als Gebrauchtwagen bei einem Kilometerstand von 41.500 km von der J. zu einem Kaufpreis in Höhe von 12.500,00 EUR (Anl. K1, Bl. 95 d.A.).Die Beklagte hat den in dem Fahrzeug verbauten Dieselmotor des Typs EA288, zertifiziert mit der Abgasnorm EURO 5, entwickelt und hergestellt. Die Abgasreinigung erfolgt durch ein Abgasrückführungssystem, das einen Teil des Abgases erneut dem Motor zuführt. Zur Steuerung der Abgasrückführung ist eine als sog. Thermofenster bekannte Technik appliziert, mit der eine von der Außentemperatur abhängige Steuerung der Abgasrückführung bewirkt wird. Ein Abgasnachbehandlungssystem kommt nicht zum Einsatz.In dem streitgegenständlichen Fahrzeug ist eine sogenannte Akustikfunktion bzw. Fahrkurvenerkennung eingesetzt. Durch diese Funktion kann das Fahrzeug erkennen, dass es einen Prüfzyklus durchfährt.Das Kraftfahrt-Bundesamt (KBA) hat im Zusammenhang mit dem Vorwurf einer unzulässigen Abschalteinrichtung betreffend das streitgegenständliche Fahrzeug keinen belastenden Bescheid erlassen und auch keinen entsprechenden Rückruf angeordnet.Mit Schreiben vom 05.03.2021 forderten die Prozessbevollmächtigten des Klägers die Beklagte unter Fristsetzung bis 19.03.2021 zur Leistung von Schadensersatz auf (Anl. K12, Bl. 215 d.A.).Am 19.12.2021 betrug der Kilometerstand des streitgegenständlichen Fahrzeugs 99.024 km.Der Kläger behauptet, sein Fahrzeug sei vom Dieselabgasskandal betroffen. Auch der in seinem Fahrzeug verbaute Dieselmotor weise als Nachfolgemotor des EA 189 eine unzulässige Abschalteinrichtung auf. Das Fahrzeug erkenne anhand von etwa Lenkwinkel, Drehzahl, Temperatur und Zeit, dass es sich auf einem Prüfstand befinde und nur in dieser Situation würden die Grenzwerte für Stickoxid eingehalten. Es gäbe eine Umschaltstrategie vergleichbar mit der beim Motor des Typs EA 189. Dies alles ergäbe sich auch aus VW-Präsentationsunterlagen zu EA288 vom 02.10.2015 und der Applikationsrichtlinie zum EA 288 vom 18.11.2015. Durch einunzulässiges Thermofenster würde die Abgasreinigung bei Außentemperaturen jenseits von 20 bis 30C reduziert. Bei Kenntnis der Umstände hätte er das Fahrzeug nicht erworben.Der Kläger beantragt,1. die Beklagte zu verurteilen, an ihn 10.396,52 EUR (Kaufpreis abzüglich der bereits als möglich berechenbaren Nutzungsentschädigung mit Kilometerstand bei Klageeinreichung) abzüglich einer weiter zu berechnenden vom Gericht auf Basis einer Gesamtlaufleistung von zumindest 300.000 km zu schätzenden Nutzungsentschädigung für die Nutzung des streitgegenständlichen Fahrzeugs unter Zugrundelegung des Kilometerstandes zum Zeitpunkt der mündlichen Verhandlung erster Instanz zzgl. Zinsen aus dem sich dadurch ergebenden Klageforderungsbetrag in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs Škoda Octavia mit der Fahrzeug-Identifizierungsnummer N01,2. festzustellen, dass sich die Beklagte mit der Entgegennahme des im Klageantrag zu 1. genannten Fahrzeugs in Annahmeverzug befindet,3. die Beklagte zu verurteilen, ihn von vorgerichtlichen Rechtsverfolgungskosten in Höhe von 1.774,80 EUR freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, unzulässige Abschalteinrichtungen seien in dem Fahrzeug des Klägers nicht implementiert. Nach Bekanntwerden der Problematik um den EA 189 seien die Modelle mit EA 288-Motortyp mehrfach - auch durch das KBA - untersucht worden. Der EA 288 verfüge über keine Abschaltvorrichtung, die die Abgasrückführung unter die zulässigen Grenzwerte nur auf dem Prüfstand, nicht aber im Straßenverkehr vornehme. Die Abgasrückführung sei zu 100 % bei Temperaturen von - 24 C bis + 70 C aktiv und nur außerhalb dieses Bereichs zum Schutze des Motors ausgeschaltet. Innerhalb des Fensters finde keine kontinuierliche Reduzierung der Abgasrückführung statt. Dem KBA seien das Bestehen eines Thermofensters und seine Wirkungsweise beim EA 288 bekannt und es sei von diesem für zulässig befunden worden. Die dem KBA bekannte und mit Schreiben vom 29. Dezember 2015 übersandte Applikationsrichtlinie EA288 vom 18.November 2015 beziehe sich auf EA 288 EU6-Konzepte. Ohne dass dies in den Applikationsrichtlinien EA288 ausdrücklich festgeschrieben worden sei, erstrecke sich ihre Entscheidung, die Fahrkurvenerkennung aufgrund der generellen Verunsicherung in den Fachabteilungen über die Verwendung von Fahrkurvenerkennungen aus EA288-Motoren zu entfernen, aber auch auf EU5-Konzepte.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen sowie auf das Protokoll der mündlichen Verhandlung vom 21.12.2021 Bezug genommen. 
+				Gründe
+				Die Klage ist unbegründet.I. Die mit dem Klageantrag zu 1. geltend gemachten Schadensersatzansprüche des Klägers gegen die Beklagte bestehen weder aus §§ 826, 31 BGB noch aus §§ 823 Abs. 2, 31 BGB i.V.m. § 263 StGB noch aus einer anderen Anspruchsgrundlage.1. Der Kläger hat keinen Schadensersatzanspruch gegen die Beklagte wegen einer vorsätzlichen sittenwidrigen Schädigung nach §§ 826, 31 BGB.Für eine Haftung nach § 826 BGB ist es erforderlich, dass der Schädiger dem Geschädigten in einer gegen die guten Sitten verstoßenden Weise vorsätzlich Schaden zufügt.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dazu genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und dadurch einen Vermögensschaden hervorruft. Hinzutreten muss eine besondere Verwerflichkeit des Verhaltens, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann. Die Verwerflichkeit kann sich auch aus einer bewussten Täuschung ergeben. Bei einer mittelbaren Schädigung muss das Unwerturteil den Schädiger gerade in Bezug auf die Schäden desjenigen treffen, der Ansprüche aus § 826 BGB geltend macht (BGH, Urteil vom 25.05.2020 - VI ZR 252/19, BGH, Urteil vom 30.07.2020 - VI ZR 5/20). Das Inverkehrbringen eines Fahrzeuges, das mit einer unzulässigenAbschaltvorrichtung versehen ist, kann objektiv eine sittenwidrige Schädigung darstellen (vgl. BGH, Urteil vom 25.05.2020 - VI ZR 252/19).Von einer solchen, vorsätzlich erfolgten, sittenwidrigen Schädigung durch die Beklagte ist nicht auszugehen.a) Der Kläger kann seinen Anspruch nicht auf ein sog. Thermofenster stützen, wodurch eine unzulässige Abschalteinrichtung implementiert worden sein soll.Denn selbst wenn man der Auffassung des Klägers folgen wollte, wonach ein Thermofenster objektiv eine unzulässige Abschaltvorrichtung sein sollte, weshalb die Betriebserlaubnis bei Kenntnis nicht habe erteilt werden können, führte das nicht zu dem von ihm angenommenen Schadensersatzanspruch aus §§ 826, 31 BGB.Anders als die ursprüngliche Motorsteuerungssoftware beim Dieselmotor EA189 der Beklagten wird eine zum Thermofenster eingesetzte Software unabhängig davon tätig, ob das Fahrzeug auf dem Prüfstand ist oder nicht. Beim Thermofenster ist die Abgasrückführung im Motor so geregelt, dass sie bei unterschiedlichen Temperaturen auch unterschiedlich arbeitet. Das Thermofenster hat keine Prüfstanderkennungskomponente, für deren Unzulässigkeit, insbesondere, wenn sie auch noch versteckt ist, die Zulassungsvorschriften keinen Interpretationsspielraum zulassen würden.Beim sog. Thermofenster lässt das EU-Recht zudem in Art. 5 Abs. 2 EG VO 715/2007 jedenfalls vertretbar das Verständnis zu, dass die von der Beklagten vorgebrachten Argumente des Motorschutzes ein solches Thermofenster erlauben. Nach der Verordnung heißt es nur, "wenn: a) die Einrichtung notwendig ist, um den Motor vor Beschädigung und Unfall zu schützen und um den sicheren Betrieb des Fahrzeugs zu gewährleisten". Insbesondere der letztgenannte Aspekt des sicheren Betriebes engt die Zulässigkeit von Abschalteinrichtungen nicht auf einen - zwangsläufig eintretenden - Motordefekt vermeidende Maßnahmen ein. Es lässt vielmehr Maßnahmen zu, die den Motor und seine Komponenten z. B. vor einer beklagtenseits angeführten Versottung schützen, damit die übliche Gesamtnutzungsdauer ermöglicht wird.Wenn aber ein solches Verständnis der Regelung vertretbar ist, liegt für das hier streitgegenständliche Thermofenster kein grundsätzliches sittenwidriges und vorsätzliches Verhalten der Beklagten vor, denn es fehlt an dem für die Sittenwidrigkeit erforderlichen Bewusstsein der Rechtswidrigkeit. Ein Handeln unter vertretbarer Auslegung des Gesetzes kann ohne das Hinzutreten weiterer Umstände nicht als besonders verwerfliches Verhalten angesehen werden (vgl. etwa OLG Köln, Beschl. v. 18.05.2020, Az. 16 U 270/19; OLG Stuttgart, Urt. v. 30.07.2019, Az. 10 U 134/19; OLG Koblenz, Urt. v. 09.12.2019, Az. 12 U 555/19 und zuletzt BGH, Beschl.v. 19.01.2021, Az. VI ZR 433/19). Die Annahme von Sittenwidrigkeit setzt also jedenfalls voraus, dass die entsprechenden Personen bei der Entwicklung und/oder Verwendung der temperaturabhängigen Steuerung des Emissionskontrollsystems in dem Bewusstsein handelten, eine unzulässige Abschalteinrichtung zu verwenden, und den darin liegenden Gesetzesverstoß billigend in Kauf nahmen. Anhaltspunkte für ein derartiges Vorstellungsbild hat der Kläger nicht aufgezeigt (vgl. auch BGH, Beschluss vom 9. März 2021 - VI ZR 889/20 zu einer anderen Abgasfall-Konstellation).Ob sich für diese Auslegung von Art. 5 Abs. 2 EG VO 715/2007 durch die Entscheidung des Europäischen Gerichtshofes vom 17.12.2020 - C 693/18 - hinsichtlich der Beurteilung der Vertretbarkeit des Normverständnisses künftig anderes ergibt, kann offenbleiben. Denn das Thermofenster im Fahrzeug des Klägers wurde vor dieser Entscheidung implementiert.b) Der Kläger kann die Annahme einer unzulässigen Abschalteinrichtung im vorliegenden Fall auch nicht auf die implementierte Fahrkurvenerkennung stützen.Dabei ist zunächst zu beachten, dass die bloße Implementierung der Fahrkurvenerkennung den Vorwurf einer unzulässigen Abschalteinrichtung nicht begründen kann, da diese nicht zugleich den Einsatz eines weiter nötigen unzulässigen Emissionskontrollsystems im Sinne der Art. 3 Nr. 10, 5 Abs. 2 EG VO 715/2007 bedeutet.Auch hat die Beklagte zutreffend darauf hingewiesen, dass zum Zeitpunkt der Zulassung des Fahrzeugs des Klägers die Einhaltung der Grenzwerte im realen Straßenbetrieb für Fahrzeuge auf dem europäischen Markt nicht nachzuweisen war. Abweichungen in der Abgasrückführung beim Vergleich der Werte im NEFZ und in realen Fahrsituationen im Straßenverkehr belegen nach den für den Erwerb der Typengenehmigung maßgeblichen Regelungen des Gesetzgebers nicht automatisch das Vorhandensein einer Abschaltvorrichtung zur Abgasrückführung, sondern sind grundsätzlich nachvollziehbare Folge der einseitigen Ermittlung nur auf Grundlage des NEFZ, wie diese sich etwa aus dem beklagtenseits vorgelegten "Bericht der Untersuchungskommission ‚Volkswagen‘" des BMVI (Anl. B1, Bl. 330 d.A.) auch fahrzeugübergreifend ergibt.Auch der weitere Vortrag des Klägers zur "Applikationsrichtlinie" reicht nicht aus, konkret für das streitgegenständliche Fahrzeug und den in diesem verbauten Motor die Annahme einer vorsätzlich erfolgten, sittenwidrige Schädigung durch die Beklagte durch Verwendung einer als solche erkannten, unzulässigen Abschalteinrichtung begründen zu können.Dabei steht den Schlussfolgerungen des Klägers insbesondere entgegen, dass nach Aufdeckung des den Motortyp EA189 der Beklagten betreffenden "Abgasskandals" umfangreiche Testungen und Überprüfungen auch des streitgegenständlichen Motortyps EA288 durchgeführt wurden, ohne dass dadurch eine unzulässige Abschalteinrichtung oder darauf hindeutenden Auffälligkeiten der Abgaswerte festgestellt und ohne dass dadurch Maßnahmen hinsichtlich der erteilten EG-Typengenehmigung getroffen worden wären.So ergibt sich aus dem genannten Bericht des BMVI, dass grundsätzliche Auffälligkeiten im Emissionsverhalten trotz umfangreicher Testung in verschiedenen Fahrzyklen für den Motortyp EA288 nicht festgestellt werden konnten, sodass im Bericht auf Seite 12 rechte Spalte der ausdrückliche Schluss aufgenommen wurde: "Hinweise, die aktuell laufende Produktion der Fahrzeuge mit Motoren der Baureihe EA 288 (Euro 6) seien ebenfalls von Abgasmanipulationen betroffen, haben sich auf Grundlage der Überprüfungen als unbegründet erwiesen". Entsprechend stellte das BMVI u.a. mit (Twitter-) Nachricht vom 12.09.2019 (Anl. B2, Bl. 464 d.A.) später auch noch einmal ausdrücklich klar, dass nach den erfolgten Messungen und Analysen des KBA unzulässige Abschalteinrichtungen für den Motortyp EA288 "auch nicht in Gestalt einer unzulässigen Zykluserkennung" festgestellt werden konnten.Es gibt keinerlei greifbare Anhaltspunkte, dass für das vorliegende Fahrzeug mit dem Motor EA 288 (Euro 5) anderes anzunehmen ist. Auch insoweit ist trotz umfassender Prüfung eine unzulässige Abschalteinrichtung nicht festgestellt worden. Dies bestätigen schriftliche Auskünfte des KBA, etwa vom 15.12.2020 (Anl. B6, Bl. 517 d.A.), 13.11.2020 (Bl. 597 d.A.) und 25.01.2021 (Bl. 599 d.A.). Diesem sehr konkreten Tatsachenvortrag ist der Kläger nicht substantiiert entgegen getreten.Einen Rückruf des KBA wegen einer unzulässigen Abschalteinrichtung gab es, anders als etwa für den Vorgängermotor EA189, für die hier streitgegenständliche Konstellation - offensichtlich auch nach Bekanntwerden der "Applikationsrichtlinie" bzw. der Verwendung einer Fahrkurvenerkennung - unstreitig nicht. Die Beklagte weist zu der von ihr erstellten "Applikationsrichtlinie" zudem auch grundsätzlich nachvollziehbar u.a. darauf hin, dass im Rahmen der allgemein aufgekommenen Diskussion um den Emissionsausstoß von Dieselfahrzeugen und die infolge der Umschaltlogik in den EA189-Fahrzeugen entstandene Verunsicherung auch bei Fahrzeugen mit dem Motortyp EA288 entsprechende Maßnahmen zur Verbesserung der Abgasreinigung getroffen und in diesem Rahmen - neben Änderungen für Neuproduktionen - auch freiwillige Softwareupdates für die betroffene Fahrzeuge angeboten worden seien. Auch die Funktionsweise der (ursprünglich) eingesetzten Bedatung der Katalysatoren wird von der Beklagten nachvollziehbar erklärt, wobei auch ausgehend von diesen Erläuterungen nicht von einer (ehemals) vorsätzlich erfolgten Einordnung als unzulässige Abschalteinrichtung ausgegangen werden kann. Daher kann dahinstehen, ob sich die Applikationsrichtlinie überhaupt auf dasklägerische Fahrzeug, welches kein Abgasnachbehandlungssystem hat, unmittelbar oder mittelbar bezieht.c) Nach den vorstehenden Ausführungen liegen die Voraussetzungen für eine Beweisaufnahme, wie vom Kläger beantragt, nicht vor.Das Gericht verkennt nicht, dass sich der Kläger weitgehend nur auf Vermutungen stützen kann, weil er nicht sachkundig ist und keinen Einblick in die Produktion des Motors und die Abgasregulierung bei dem Fahrzeug hat. Eine Behauptung ist aber unbeachtlich, wenn es keine greifbaren tatsächlichen Anhaltspunkte für das Vorliegen eines bestimmten Sachverhalts gibt (vgl. BGH, Beschluss vom 28.01.2020 -VIII ZR 57/19). Vom Fehlen solcher Anhaltspunkte ist hier, bezogen auf das konkret streitgegenständliche Fahrzeug, den in diesem eingesetzten Motor und der deswegen vom Kläger angenommenen vorsätzlichen sittenwidrigen Schädigung durch die Beklagte, auszugehen. Für den streitgegenständlichen Motortyp und insbesondere für das streitgegenständliche Fahrzeug des Klägers fehlt es, wie dargestellt, an greifbaren Gründen und ausreichend konkretem Fallbezug dafür, dass eine von der Beklagten als solche erkannte, unzulässige Abschalteinrichtung von dieser tatsächlich vorsätzlich im Fahrzeug des Klägers eingesetzt wurde und dass deswegen eine Betriebsbeschränkung oder -untersagung nach § 5 Abs. 1 FZV drohte bzw. droht. Es bleibt bei den Spekulationen des Klägers, die in Anbetracht des Verlaufs des sog. Dieselskandals zwar als grundsätzlich verständlich angesehen werden können, denen die Beklagte aber in den entscheidenden Punkten, u.a. mit dem überzeugenden Verweis auf die umfangreichen, offiziellen Testungen und Überprüfungen nach Bekanntwerden des Abgasskandals und entsprechender Korrespondenz mit dem KBA und die dabei erzielten Messergebnisse entscheidend sowie im Ergebnis überzeugend entgegengetreten ist. Wenn schon die zuständige Genehmigungsbehörde, die durch den VW-Dieselskandals im Zusammenhang mit dem Vorgängermotor EA189 besonders sensibilisiert ist, Abgasmanipulationen verneint, so hätte es weiteren Klägervortrags bedurft, um die gegenteilige Behauptung zu substantiieren.2. Aus den vorgenannten Gründen scheitert auch ein deliktischer Schadensersatzanspruch der Klägers gegen die Beklagte aus §§ 823 Abs. 2, 31 BGB i.V.m. § 263 StGB jedenfalls am fehlenden Vorsatz der Beklagten bzw. bereits objektiv an einer Täuschungshandlung durch diese.3. Ein Schadensersatzanspruch des Klägers gegen die Beklagte gem. § 823 Abs. 2 BGB i.V.m. Art. 5 Abs. 2 VO (EG) 715/2007 scheidet ebenfalls aus.Bei Art. 5 Abs. 2 VO (EG) 715/200 handelt es sich bereits nicht um ein Schutzgesetz im Sinne des § 823 Abs. 2 BGB. Ein Schutzgesetz muss jedenfalls auch den Schutz eines Einzelnen bezwecken. Der Individualschutz darf nicht bloßer Reflex der Norm sein. Der Gesetzgeber muss an die Verletzung des geschützten Interesses die deliktische Einstandspflicht des dagegen Verstoßenden anknüpfen wollen (vgl. etwa BGH, Urteil vom 25.05.2020 - VI ZR 252/19). Die Verordnung (EG) 715/2007 bezweckt jedoch nicht den Schutz von Individualinteressen. Aus den Erwägungsgründen zu der Verordnung ergibt sich, dass ihr Ziel die Harmonisierung des Binnenmarktes hinsichtlich einheitlicher Vorschriften zur Begrenzung von Fahrzeugemissionen ist. Darüber hinaus sind auch Umweltschutz und Luftreinhaltung Ziele der Verordnung. Hiermit verfolgt die Verordnung aber nicht den Individualschutz, sondern umwelt- und gesundheitspolitische Ziele. Der Verordnung lässt sich nicht entnehmen, dass der Verordnungsgeber es dem Verbraucher ermöglichen wollte, selbst gegen Hersteller, die die Vorgaben der Verordnung nicht einhalten, vorzugehen und auf diesem Wege individuelle Interessen geltend zu machen (vgl. auch BGH, Urteil vom 30.07.2020 - VI ZR 5/20).4. Auch ein Schadensersatzanspruch des Klägers gegen die Beklagte aus § 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV scheidet aus.Auch bei den §§ 6 Abs. 1, 27 Abs. 1 EG-FGV handelt es sich bereits nicht um Schutzgesetze im Sinne des § 823 Abs. 2 BGB. Die Normen bezwecken jedenfalls nicht den Schutz des Verbrauchers vor der Eingehung einer ungewollten Verbindlichkeit. Es kann dahinstehen, ob die Normen das Interesse des Käufers an einer zügigen Erstzulassung bzw. das Interesse des Gebrauchtwagenkäufers an dem Fortbestehen der Zulassung schützen. Jedenfalls der Schutz vor der Eingehung einer ungewollten Verbindlichkeit, die der Kläger vorliegend geltend macht, ist nicht gewollt. Es ist nicht ersichtlich, dass der Gesetz- und Verordnungsgeber mit den Normen das wirtschaftliche Selbstbestimmungsrecht einzelner Käufer schützen wollte (vgl. BGH a.a.O.).II. Der Feststellungsantrag zu 2) ist jedenfalls unbegründet. Dem Kläger steht nach den obigen Ausführungen bereits kein Schadensersatzanspruch (mit Zugum-Zug-Verpflichtung) zu.III. Der Zinsanspruch sowie die beantragte Freistellung von vorgerichtlich entstandenen Rechtsverfolgungskosten sind schon mangels gegebenem Hauptanspruch nicht begründet.IV. Die Kostenentscheidung beruht auf § 91 Abs. 1 S. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus § 709 S. 1 und 2 ZPO.Streitwert: 10.396,52 EURRechtsbehelfsbelehrung:Gegen die Streitwertfestsetzung ist die Beschwerde an das Landgericht Bonn statthaft, wenn der Wert des Beschwerdegegenstandes 200,00 EUR übersteigt oder das Landgericht die Beschwerde zugelassen hat. Die Beschwerde ist spätestens innerhalb von sechs Monaten, nachdem die Entscheidung in der Hauptsache Rechtskraft erlangt oder das Verfahren sich anderweitig erledigt hat, bei dem Landgericht Bonn, Wilhelmstr. 21, 53111 Bonn, schriftlich in deutscher Sprache oder zur Niederschrift des Urkundsbeamten der Geschäftsstelle einzulegen. Die Beschwerde kann auch zur Niederschrift der Geschäftsstelle eines jeden Amtsgerichtes abgegeben werden. Ist der Streitwert später als einen Monat vor Ablauf dieser Frist festgesetzt worden, so kann die Beschwerde noch innerhalb eines Monats nach Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses eingelegt werden.
+			
+			
+			
+			Permalink: https://openjur.de/u/2492963.html (https://oj.is/2492963)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

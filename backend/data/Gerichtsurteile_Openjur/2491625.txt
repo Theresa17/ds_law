@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 18.01.2023 - 16 O 117/22
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 18.01.2023 - 16 O 117/22
+                      m. Fundstelle
+                      LG Köln, Urteil vom 18.01.2023 - 16 O 117/22 = openJur 2024, 7274
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 18.01.2023 - 16 O 117/22
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2024, 7274
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits werden dem Kläger auferlegt.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten um Ansprüche des Klägers gegen die Beklagte nach einem Pkw-Kauf im Zusammenhang mit dem sogenannten Diesel-Abgasskandal.Der Kläger erwarb am 23.10.2018 einen V. N01, Schadstoffklasse Euro 6, mit einem Kilometerstand in Höhe von 36.383 km zu einem Bruttokaufpreis in Höhe von 32.000,00 Euro. Das Fahrzeug wies am 17.01.2023 einen Kilometerstand in Höhe von 64.720 km auf.Mit vorgerichtlichem anwaltlichem Schreiben vom 17.03.2022 (Anlage K14) machten die klägerischen Prozessbevollmächtigten Ansprüche gegenüber der Beklagten geltend.Der Kläger ist der Ansicht, ihm stünden Schadenersatzansprüche gegen die Beklagte zu. Im Fahrzeug seien unzulässige Abschalteinrichtungen in Form des Verringerns der AdBlue Zufuhr sowie eine Motoraufwärmfunktion installiert. Die Beklagte manipuliere die softwaregesteuerte Zudosierung von "AdBlue" derart, dass sich der "AdBlue"-Tank nur sehr langsam leere. Dabei sei es für die Beklagte unerheblich, dass die Abgasreinigung auf diese Weise nicht in der gesetzlich vorgeschriebenen Weise einzuhalten gewesen sei. Weiterhin kämen im Zusammenhang mit dem Temperaturmanagement des Motors verschiedene Strategien zum Einsatz, die für ein Einhalten des Stickoxidgrenzwerts auf dem Prüfstand sorgten. Diese Strategien seien ausschließlich auf den Prüfstand ausgerichtet, so dass die entsprechenden den Stickoxidausstoß verringernden Funktionen nicht im Fahrbetrieb verwendet würden. Die schadstoffmindernde, schnelle Motoraufwärmfunktion springe, wie das KBA feststelle, bei den betroffenen Fahrzeugen nur im Prüfzyklus NEFZ an. Im realen Verkehr unterbleibe diese NOx-Schadstoffminderung. Aufgrund der unzulässigen Abschalteinrichtungen im streitgegenständlichen Fahrzeug habe das KBA einen Rückruf erlassen (als Anlage K9 vorgelegt Rückrufschreiben).Wenn er, der Kläger, gewusst hätte, dass das Fahrzeug eine Abgasmanipulationssoftware enthalte, hätte er das Fahrzeug nicht erworben.Der Kläger beantragt,1. die Beklagte zu verurteilen, Zug um Zug gegen Herausgabe und Übereignung des Fahrzeugs, Marke: V., Fahrzeug-Identifizierungs-Nummer (FIN): N02 an ihn einen Betrag in Höhe von 32.000,00 Euro nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit unter Anrechnung einer Nutzungsentschädigung für die Nutzung des Fahrzeugs zu zahlen, die sich aus folgender Formel ergibt: Kaufpreis x (Kilometerstand im Zeitpunkt der mündlichen Verhandlung - Kilometerstand bei Kauf) / (in das Ermessen des Gerichts gestellte Gesamtlaufleistung - Kilometerstand bei Kauf);2. festzustellen, dass die Beklagte verpflichtet ist, dem Kläger über den Betrag aus dem Klageantrag zu 1) hinaus alle Schäden zu ersetzen, die aus dem Kauf des Fahrzeugs aufgrund einer installierten Manipulationssoftware entstanden sind und noch entstehen werden;3. festzustellen, dass sich die Beklagte mit der Annahme der in dem Klageantrag zu 1) genannten Zugum-Zug-Leistung im Annahmeverzug befindet;4. die Beklagte zu verurteilen, den Kläger von den Kosten des außergerichtlichen Vorgehens in Höhe von 1.501,19 Euro freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte erhebt die Einrede der Verjährung.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird Bezug genommen auf die von den Parteien zur Akte gereichten Schriftsätze nebst Anlagen. 
+				Gründe
+				Die Klage ist unbegründet.Der Kläger hat gegen die Beklagte unter keinem rechtlichen Gesichtspunkt einen Anspruch auf Schadensersatz.I.Eine Haftung der Beklagten aus Deliktsrecht -, insbesondere gemäß den §§ 826, 31 BGB -, scheidet aus.Auf Basis des Klagevorbringens liegen die Voraussetzungen eines objektiv und subjektiv sittenwidrig schädigenden Verhaltens nicht vor. Die Darlegungs- und Beweislast für die Voraussetzungen des § 826 BGB liegen beim Geschädigten, also bei dem Kläger. Dass er die Funktionsweise des verbauten Motors im Einzelnen nicht kennt und insbesondere die Entwicklung dieses Motors nicht begleitet hat, ändert hieran nichts (vgl. OLG Köln, Beschluss vom 14.04.2020, 24 U 402/19). Die Beklagte ist lediglich gehalten, substantiierten Vortrag substantiiert zu bestreiten. Wenn es konkrete feststehende Anhaltspunkte für eine sittenwidrige, unzulässige Abschalteinrichtung gibt, ist im Rahmen einer sekundären Darlegungslast von den Beklagten zu erwarten, die Funktionsweise der Motorensteuerung näher zu bestreiten, damit diese sachverständig überprüft werden kann. Solche Anhaltspunkte fehlen vorliegend. Zwar hat das KBA eine unzulässige Abschalteinrichtung bei dem streitgegenständlichen Fahrzeugtyp festgestellt, daraus kann aber nicht geschlossen werden, dass es um eine Manipulationssoftware entsprechend des Motors EA189 handelt.Es ist nicht angängig, die Beklagte insoweit - bei Fehlen belastbarer konkreter Hinweise - gleichsam unter einen Generalverdacht zu stellen und von ihr die Widerlegung dieses Generalsverdachtes zu fordern (vgl. OLG Köln, Beschluss vom 09.01.2019, 28 U 36/18, OLG Köln, Beschluss vom 30.07.2019, 3 U 43/19). Auch das von Klägerseite in Bezug genommene Ermittlungsverfahren hat bislang zu keinen weitergehenden Ergebnissen geführt, die den Verdacht der Klägerseite in Bezug auf das streitgegenständliche Fahrzeug erhärten könnten, da andernfalls entsprechende Verlautbarungen oder Maßnahmen zu erwarten gewesen wären.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt (BGH, Urteil vom 09.07.2004, II ZR 217/03, juris; BGH, Urteil vom 19.11.2013, VI ZR 336/12, juris). Dafür genügt es im Allgemeinen nicht, dass der Handelnde vertragliche Pflichten oder das Gesetz verletzt oder bei einem anderen einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage tretenden Gesinnung oder den eingetretenen Folgen ergeben kann (BGH, Urteil vom 19.10.1987, II ZR 9/87; BGH, Urteil vom 19.11.2013, VI ZR 336/12, jeweils bei juris).1. Soweit sich der Kläger darauf beruft, das streitgegenständliche Fahrzeug sei mit einer den Prüfstandbetrieb erkennenden und darauf die Intensität der Abgasreinigung einstellenden Software ausgestattet, hat er mit seinem Vorbringen keinen Erfolg.Zwar ist nach der zu dem P.-Motor EA 189 ergangenen Rechtsprechung bei Einsatz einer Prüfstandbetrieb-Software eine sittenwidrige Schädigung anzunehmen, weil für diesen Fall der Motor mit einer Software zur Motorsteuerung ausgestattet ist, die auf dem Prüfstand zu einer höheren Abgasrückführung als im Straßenverkehr führt, ohne dass dies bei Erlangung der Typengenehmigung für das Fahrzeug offengelegt wurde. Bereits mit Rücksicht auf die daraus folgende Rechtsunsicherheit für die Typengenehmigung und die Betriebszulassung resultiert daraus eine gravierende Beeinträchtigung der entsprechend ausgestatteten Fahrzeuge, ohne dass es darauf ankommt, ob es sich dabei um eine unzulässige Abschalteinrichtung im Sinne von Art.5 Abs. 2 der Verordnung (EG) Nr. 715/2007 vom 20.06.2007 handelt. Aus der konsequenten Verheimlichung des Einsatzes der Software sowohl gegenüber dem Kraftfahrtbundesamt als auch gegenüber den potentiellen Kunden ergibt sich, dass die beteiligten Mitarbeiter des Motorenherstellers in der Vorstellung handelten, dass der Einsatz der Software zu Schwierigkeiten hinsichtlich der Typengenehmigung und der Betriebszulassung der so ausgestatteten Fahrzeuge führen könnte und dass potenzielle Fahrzeugkäufer ein Fahrzeug, das derart mit rechtlichen Unsicherheiten belastet war, nicht ohne weiteres erwerben würden. Dabei sind andere Gründe für den Einsatz der Software zur Motorsteuerung als eine Kostensenkung und eine damit verbundene Gewinnmaximierung nicht erkennbar. Im Hinblick auf das hierfür eingesetzte Mittel, nämlich die Täuschung einer öffentlichen Stelle sowie der potentiellen Kunden in einer immensen Zahl von Fällen, ist dieses Verhalten auch als besonders verwerflich anzusehen.Indes hat das Vorbringen des Klägers dazu, dass auch der in dem streitgegenständlichen Fahrzeug verbaute Motor mit einer entsprechenden Prüfstandbetrieb-Software versehen ist, nicht die erforderliche Substanz. Der Kläger behauptet lediglich "ins Blaue hinein", dass auch das von ihm erworbene Fahrzeug werkseitig mit einem Motor und einer Softwaresteuerung versehen worden sei, die eine Prüfstandsituation erkennt und in diesem Fall den NOx-Ausstoß des Fahrzeuges auf einen noch zulässigen Wert drosselt, während im normalen Fahrbetrieb die Grenzwerte deutlich überschritten werden. Eine Behauptung ohne greifbare Anhaltspunkte für das Vorliegen eines bestimmten Sachverhalts willkürlich aufs Geratewohl, gleichsam "ins Blaue hinein" aufzustellen, ist prozessual unbeachtlich und kann mithin auch nicht eine sekundäre Darlegungslast der Gegenseite auslösen.Tatsächlichen Anhaltspunkte, aufgrund derer der Verbau einer unzulässigen Abschalteinrichtung auch in dem von ihm erworbenen Pkw wahrscheinlich ist, hat der Kläger nicht dargetan. Sie sind auch sonst nicht ersichtlich. Insbesondere genügt es nicht, dass das Kraftfahrt-Bundesamt eine Rückrufaktion veranlasst haben mag. Die offenbar von ihm aus derlei Vorgängen gezogene Schlussfolgerung, sein Fahrzeug könnte/müsste auch von dem Einbau einer manipulativen, unzulässiger Abschalteinrichtungen betroffen sein, stellt sich als reine Spekulation und Verdachtsäußerung dar. Allein der Verdacht gegen die vom sogenannten Abgasskandal betroffenen Unternehmen und die Verwendung von Abschalteinrichtungen in anderen Motortypen ist noch nicht geeignet, jeden von diesen Unternehmen hergestellten Motor unter den Generalverdacht einer solchen Manipulation zu stellen (vgl. OLG Köln, Beschluss vom 09.01.2019 - 28 U 36/18; OLG Köln, Beschluss vom 19.09.2016, 22 WE 57/16; OLG Koblenz, Urteil v. 18.06.2019, 3 U 416/19, juris). Es hätte vielmehr von dem Kläger darzulegender Anhaltspunkte bedurft, die auf eine Manipulation auch und gerade hinsichtlich des streitgegenständlichen Motors hätten schließen lassen. Ohne Darlegung solcher Anhaltspunkte bleibt die Behauptung des Klägers indes eine reine Spekulation, deren tatsächliche Grundlage nach seiner Vorstellung erst im Prozess ermittelt werden soll. Dies aber stellt eine unzulässige und mit dem zivilprozessualen Beibringungsgrundsatz nicht vereinbare, rechtsmissbräuchliche Sachverhaltsausforschung dar, die eine Beweisaufnahme unzulässig macht. Auch aus einem Rückruf des Kraftfahrtbundesamtes lässt sich der Rückschluss auf eine solche manipulative Software nicht schließen. Zwar hat der BGH mit Beschluss vom 28.01.2020 (VIII ZR 57/19) für den kaufrechtlichen Sachmangel, der sich aus der Verwendung einer unzulässigen Abschalteinrichtung im Hinblick auf eine drohenden Betriebsuntersagung ergibt, die Anforderungen an das Vorbringen zum Vorhandensein einer unzulässigen Abschalteinrichtung konkretisiert. Jedoch sind diese Grundsätze auf die vorliegende Frage, ob der Kläger eine sittenwidrige Schädigung ausreichend substantiiert hat, nicht ohne weiteres parallel anwendbar (vgl. OLG Köln, Beschluss vom 09.01.2019 - 28 U 36/18; OLG Köln, Beschluss vom 20.04.2020, 16 U 270/19; OLG Köln, Beschluss vom 14.04.2020, 24 U 402/19). Denn für die Herstellerhaftung nach § 826 BGB ist nicht die Existenz einer unzulässigen Abschalteinrichtung maßgeblich, sondern das Erschleichen der Typenzulassung durch die Verheimlichung der die Werte auf dem Prüfstand verringernden Softwaremanipulation. Zur Substantiierung dieser tatsächlichen Umstände reicht es nicht aus, dass in dem streitgegenständlichen Fahrzeug ein Motor eingebaut ist, der vom KBA wegen Vorhandenseins einer unzulässigen Abschalteinrichtung zurückgerufen wurde.Der geltend gemachte Anspruch lässt sich auch nicht damit begründen, dass unter alltäglichen Bedingungen auf der Straße ein erhöhter NOx-Ausstoß bei dem streitgegenständlichen Fahrzeug zu verzeichnen sei. Dies ist nicht gleichbedeutend mit einer unzulässigen Abschalteinrichtung, da hierfür unterschiedliche Ursachen in Betracht kommen. Dass im Echtbetrieb die gesetzlichen Schadstoffgrenzwerte nicht eingehalten werden, lässt für sich genommen nicht den Rückschluss darauf zu, dass auch der in dem streitgegenständlichen Fahrzeug vorhandene Motor - wie die Motormodelle EA 189 des Autoherstellers P. AG -, eine sogenannte "Schummelsoftware" aufweist (vgl. OLG Köln, Beschluss vom 14.04.2020, 24 U 402/19). Allein die Tatsache, dass die P. AG bei einem ihrer Motorenmodelle (EA 189) nachweislich manipuliert hat, ist nicht geeignet, auch den streitgegenständlichen Motor unter den Generalverdacht einer entsprechenden Manipulation zu stellen (vgl. OLG Köln, Beschluss vom 14.04.2020, 24 U 402/19; OLG Köln, Urteil vom 28. November 2019, 15 U 93/19, juris).II. Aufgrund der vorstehenden Ausführungen scheiden ebenfalls Ansprüche gemäß § 823 Abs. 2 BGB i.V.m. § 263 StGB bzw. i.V.m. §§ 6, 27 Abs. 1 EG-FGV aus. Ein Anspruch aus § 823 Abs. 2 i.V.m. § 6 Abs. 1, § 27 Abs. 1 EG-FGV oder Art. 5 VO 715/2007/EG scheidet außerdem auch deshalb aus, weil es sich hierbei nicht um Schutzgesetze i.S.d. § 823 Abs. 2 BGB handelt (BGH, Urteil vom 30.07.2020, VI ZR 5/20 - juris; BGH, Urteil vom 25.05.2020, VI ZR 252/19, juris).III. Mangels Hauptanspruch besteht kein Anspruch auf Zinsen und auch nicht auf Erstattung vorgerichtlich angefallener Rechtsanwaltskosten. Aus demselben Grund bestehen die geltend gemachten Feststellungsansprüche nicht.IV. Die prozessualen Nebenentscheidungen beruhen auf §§ 91, 709 ZPODie Schlussanträge des Generalanwalts L. vom 02.06.2022 in der Rechtssache C 100/21 geben keine Veranlassung, den Rechtsstreit entsprechend § 148 ZPO auszusetzen (vgl. OLG München, Beschluss vom 27.07.2022 - 28 U 2558/22).Streitwert: 32.000,00 € (keine Minderung durch eine Nutzungsentschädigung, da eine solche nicht beziffert wurde)
+			
+			
+			
+			Permalink: https://openjur.de/u/2491625.html (https://oj.is/2491625)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

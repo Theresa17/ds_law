@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG München IRechtsprechungEndurteil vom 04.02.2021 - 31 O 9672/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG München I, Endurteil vom 04.02.2021 - 31 O 9672/20
+                      m. Fundstelle
+                      LG München I, Endurteil vom 04.02.2021 - 31 O 9672/20 = openJur 2021, 4668
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG München I, Endurteil vom 04.02.2021 - 31 O 9672/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 4668
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist für die Beklagte gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 10.811,69 € festgesetzt. 
+				Tatbestand
+				Die Klagepartei macht Ansprüche im Zusammenhang mit dem sog. Dieselskandal geltend.Sie begehrt von der Beklagtenpartei Rückzahlung des Kaufpreises für einen PKW VW Golf, den sie am 30.06.2016 von der Fa. ... zu einem Gesamtpreis in Höhe von 12.019,00 Euro als Gebrauchtfahrzeug erworben hat (Anlage K 1). Beim Kauf hatte das Fahrzeug einen Kilometerstand von 99.800 km und bei der letzten mündlichen Verhandlung einen solchen von 156.066 km.Das von der Beklagten hergestellte und in den Verkehr gebrachte Fahrzeug ist von dem sog. VW-Abgasskandal betroffen, da im klägerischen Fahrzeug der Motortyp EA 189 verbaut ist.Die Klagepartei behauptet, mit dem heutigen Wissen um die Tatsache, dass das Fahrzeug eine unzulässige Abschalteinrichtung habe und die Abgasnorm Euro 5 nur unter den bekannten rechtswidrigen Bedingungen im Prüfstandbetrieb einhalte, das Fahrzeug nicht gekauft zu haben. Die Klagepartei habe bei Abschluss des Kaufvertrages keine Kenntnis davon gehabt, dass das Fahrzeug vom Abgasskandal betroffenen ist.Mit Bescheid des Kraftfahrt-Bundesamts vom 15.10.2015 wurde die Beklagtenpartei aufgefordert, die illegale Abschalteinrichtung bei allen Fahrzeugen, die mit dem Motortyp EA 189 und der darin eingebauten Software ausgestattet sind, zu entfernen und die Vorschriftsmäßigkeit, d.h. die Gesetzeskonformität herzustellen. Die Beklagtenpartei legte gegen diesen Bescheid keinen Widerspruch ein, mit der Folge, dass dieser bestandskräftig ist.An dem Fahrzeug ist das von der Beklagten entwickelte und vom Kraftfahrtbundesamt freigegeben Software-Update durchgeführt worden (Anlage K 12a).Durch das Update würden nach Ansicht der Klagepartei Nachteile am Fahrzeug entstehen, insbesondere werde die Dauerhaltbarkeit deutlich sinken und der merkantile Minderwert werde weiter verfestigt. Das Update sei unwirksam und nicht geeignet, die Gesetzeskonformität herzustellen.Mit Schreiben der Klagepartei wurde die Beklagtenpartei zur Rückabwicklung aufgefordert (Anlage K 11), dem die Beklagtenpartei bislang nicht nachgekommen ist.Die Klagepartei hatte sich bei der Musterfeststellungsklage angemeldet (Anlage K 12), welche zwischenzeitlich zurückgenommen wurde.Die Klagepartei ist der Ansicht, dass sich der geltend gemachten Anspruch auf Rückabwicklung des Kaufvertrages aus § 823 Abs. 2 BGB i.V.m.§ 263 StGB, § 826 BGB; § 823 Abs. 2 BGB i. V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV ergibt. Hilfsweise für den Fall, dass die 3-jährige Verjährungsfrist bereits abgelaufen sein sollte, wird vorgetragen, dass die Beklagte jedenfalls gemäß § 852 BGB haftet.Die Klagepartei beantragt daher zuletzt:1. Die Beklagte wird verurteilt, an die Klagepartei € 10.811,69 nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 28.07.2020 zu bezahlen, Zugum-Zug gegen Übereignung und Herausgabe des PKW VW Golf 1.6 TDI, FIN: ....2. Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des im Klageantrag Ziffer 1. genannten PKW im Annahmeverzug befindet.3. Die Beklagte wird verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von € 1.424,48 nebst Zinsen in Höhe von 5%-Punkten seit dem 20.07.2020 freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Hierzu trägt sie insbesondere vor, dass der behauptete Mangel - die ursprünglich vorhandene Umschaltlogik in der Motorsteuerungssoftware des Fahrzeugs - durch das Update beseitigt worden ist. Zudem wird bestritten, dass die Klagepartei vom Kauf des streitgegenständlichen Fahrzeugs Abstand genommen hätte, wenn sie im Zeitpunkt des Kaufvertragsschlusses von der streitgegenständlichen Umschaltlogik gewusst hätte.Die Beklagtenpartei weist weiter darauf hin, dass die von der Beklagten entwickelten Maßnahmen vom KBA am 16. Dezember 2015 in Kenntnis der Thermofenster-Bedatung freigegeben wurden und behauptet, dass das Update keinen negativen Einfluss auf die Lebensdauer des Motors und seiner Komponenten hat. Weder das Abgasrückführungsventil, das Abgasrückführungskühlsystem noch der Dieselpartikelfilter würden einem höheren Verschleiß ausgesetzt werden.Vorsorglich tritt die Beklagte der Behauptung entgegen, dass es sich bei dem in dem streitgegenständlichen Fahrzeug verwendeten sog. Thermofenster um eine unzulässige Abschalteinrichtung handelt. Das im streitgegenständlichen Fahrzeug applizierte Thermofenster entspreche dem zum Zeitpunkt der Entwicklung und des Inverkehrbringens modernsten Stand der Technik und sei aus Gründen des Motorschutzes und zum sicheren Betrieb des Fahrzeugs notwendig und daher zulässig. Die Beklagte weist schließlich darauf hin, dass die für das Fahrzeug erteilte EG-Typgenehmigung unverändert gültig ist und nicht aufgehoben wurde.Zur Ergänzung des Tatbestands wird auf die umfangreichen Schriftsätze nebst Anlagen sowie auf das Sitzungsprotokoll Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet, wobei sich die örtliche Zuständigkeit des LG München I aus §§ 32, 39 ZPO ergibt.Dem Kläger stehen die, mit der Klage gegenüber der Beklagten aus dem Erwerb des streitgegenständlichen Fahrzeugs geltend gemachten Ansprüche nicht zu.Dies ergibt sich zunächst aus der überzeugenden Entscheidung des BGH vom 30.07.2020 - VI ZR 5/20, von welcher abzuweichen keine Veranlassung besteht.Hierin verneint der BGH Schadensersatzansprüche beim Kauf eines, mit einer unzulässigen Abschalteinrichtung versehenen Gebrauchtwagens nach Bekanntwerden des sogenannten Dieselskandals am 22.09.2015 aufgrund der Adhoc-Mitteilung und einer gleichlautenden Pressemitteilung der Beklagten aus § 826 BGB, aber auch aus sonstigen Vorschriften. Ab diesem Zeitpunkt, wonach in Presse, Funk und Fernsehen über die Verwendung der Abschalteinrichtung umfangreich und wiederholt berichtet und in der breiten Öffentlichkeit diskutiert worden ist, verneint der BGH grundsätzlich das Fortbestehen des früheren Täuschungs- und Schädigungsvorsatzes seitens der Beklagten.Dies entspricht u.a. auch der Ansicht des OLG München, sowie zahlreicher anderer Oberlandesgerichte:OLG München Endurteil vom 16.12.2019 - 21 U 2850/19; Beschlüsse vom 16.09.2019 - 27 U 3017/19; vom 14.08.2020 - 3 U 3018/20, vom 03.12.2019 - 20 U 5741/19; vom 06.12.2018 - 21 U 2834/18; OLG Frankfurt, Urteil vom 06.11.2019 - 13 U 156/19; OLG Saarbrücken, Urteil vom 28.08.2019 - 2 U 94/18; OLG Stuttgart, Urteile vom 07.08.2019, 9 U 9/19; vom 26.11.2019 - 10 U 199/19; Beschluss v. 09.12 2019 - 7 U 374/19; OLG Köln, Urteil vom 06.06.2019 - 24 U 5/19; OLG Dresden, Urteil vom 24.07.2019 - 9 U 2067/18; OLG Celle, Urteil vom 29.04.2019 - 7 U 159/19; OLG Braunschweig, Urteil vom 02.11.2017 - 7 U 69/17; OLG Schleswig-Holstein, Urteil vom 29.11.2019 - 1 U 32/19; OLG Koblenz, Urteile vom 25.10.2019 - 3 U 948/19; vom 02.12. 2019 - 12 U 957/19.Von daher und weil die Beklagtenpartei die Einrede der Verjährung nicht erhoben hat, kommt es auf die Frage, ob die Verjährung durch Anschließung an die Musterfeststellungsklage (Anlage K 12) und nachfolgender Rücknahme gem. § 204 Abs. 1 Nr. 1a BGB gehemmt wurde, nicht an (vgl. hierzu LG München I, Endurteil vom 05.10.2020 - 31 O 15582/19, BeckRS 2020, 25295).Auch durch das Aufspielen des Updates ergibt sich nichts anderes.Denn die Beklagte konnte - entsprechend der Rechtsprechung des OLG München - berechtigt davon ausgehen, dass die von ihr mit dem Update eingesetzte und vom Kraftfahrtbundesamt geprüfte Software, respektive das sog. Thermofenster den gesetzlichen Vorschriften entspricht, so dass ein Schädigungsvorsatz ausscheidet (vgl. z.B. OLG München, Beschluss vom 03.06.2019 - 19 U 4356/18; vom 29.09.2020 - 8 U 201/20 -jeweils betr. Dieselmotor Typ EA 189; OLG Frankfurt a.M., Urteil vom 03.06.2020 - 17 U 583/19; OLG Koblenz, Urteil vom 21.10.2019, Az.: 12 U 246/19 m.w.N.; LG München I, Urteil vom 05.10.2020 - 31 O 5692/20).Auch der Bundesgerichtshof hat kürzlich entschieden, dass das Inverkehrbringen eines in der Motorsteuerung installierten Thermofensters für sich genommen weder als sittenwidrige Handlung einzustufen ist, noch sich daraus der erforderliche Schädigungsvorsatz der dortigen Beklagten, der Daimler Benz AG, ergibt (BGH, Beschluss vom 19.01.2021 - VI ZR 433/19 - zit. beckonline, becklink 2018674). Zudem hat der BGH gerade auch aufgrund der Entwicklung und Bereitstellung des Software-Updates das Fortbestehen einer weiteren sittenwidrigen Schädigung nach der Adhoc-Mitteilung am 22.09.2015 verneint hat (BGH, Urteil vom 30.07.2020 - VI ZR 5/20). Damit kann letztlich auch die Konformität des Updates durch den BGH als bestätigt angesehen werden. Besondere Umstände, welche das Verhalten der für die Beklagte handelnden Personen als besonders verwerflich erscheinen ließen, sind nicht ersichtlich. So dient das Update insbesondere dazu, den gesetzeswidrigen Zustand der betroffenen Fahrzeuge zu beseitigen, um die Gefahr einer Betriebsbeschränkung oder Untersagung zu bannen und den Käufern damit die Nutzungsmöglichkeit ihrer erworbenen Fahrzeuge weiter zu erhalten (vgl. BGH, Urteil vom 30.07.2020 - VI ZR 5/20). Dies hat dann schließlich auch dazu beigetragen, dass der BGH die Sittenwidrigkeit bei Kaufabschlüssen nach dem 22.09.2015 verneint hat.Abgesehen davon, dass dies bestritten ist, würde sich etwas anderes auch dann nicht ergeben, wenn das Update nachteilige Folgen für das Fahrzeug, insbesondere für die Lebensdauer des Fahrzeugmotors, seiner Teile und anderer Fahrzeugteile hätte (vgl. OLG Köln, Beschluss vom 28.08.2019 - 18 U 8/19).Zum einen gibt es für etwaige nachteilige Auswirkungen des Updates bislang keinen konkreten Nachweis und kann es auch aufgrund der kurzen Zeitspanne noch nicht geben.Davon, dass sich durch das Update ein etwaiger merkantiler Minderwert verfestigt hätte, kann ebenfalls nicht ausgegangen werden. Denn durch das Update wurde ja gerade - wie oben dargelegt - die Gefahr der Betriebsuntersagung beseitigt. Dafür, dass sich Käufer solcher Fahrzeuge fragen werden und müssen, ob die Fahrzeuge nicht belastet sind und daher die Dauerhaltbarkeit massiv beeinträchtigt ist, stellt eine Behauptung ohne greifbare Anhaltspunkte dar. Unter Zugrundelegung der, von der Klagepartei angenommenen Gesamtlaufleistung des streitgegenständlichen Fahrzeuges von 500.000 km ist es zudem fraglich, ob eine verminderte Laufleistung - in mehr oder weniger großem Umfang - wertmäßig überhaupt maßgeblich ins Gewicht fallen würde.Zum anderen müsste für eine etwaige Haftung der Beklagten deren verantwortliche Mitglieder im Sinne des § 31 BGB davon Kenntnis gehabt haben. Weder hat dies die Klagepartei bewiesen, noch sind hierfür ausreichende Anhaltspunkte vorhanden. Die Klagepartei trägt selbst vor, dass die Dauerhaltbarkeit bis heute nicht geklärt ist und die Beklagte dazu keine Aussagen treffen kann, weil es ihr in der Kürze der Zeit unmöglich war, dies zu testen.Vorliegend ist das Update am 22.5.2017 ("Aktion 2327") (Anlage 12a) und somit erst nach dem Erwerb des Fahrzeuges durch die Klagepartei aufgespielt worden.Sofern darin eine (erneute) unzulässige Abschalteinrichtung gesehen werden sollte, würde es auch an der Kausalität fehlen, da das Update zur Erhaltung der Zulassung des Fahrzeuges erforderlich war und nicht anzunehmen ist, dass die Klagepartei die Stilllegung des Fahrzeuges in Kauf genommen hätte, indem Sie das vom Kraftfahrtbundesamt genehmigte Update nach dem Rückruf nicht hätte aufspielen lassen. Die Klagepartei nutzt das streitgegenständliche Fahrzeug auch heute immer noch und ist seit dem Erwerb damit ca. 56.000 km gefahren (vgl. auch OLG München, Endurteil vom 27.04.2020 - 21 U 3683/19).Schließlich würde es auch an der Kausalität im Hinblick auf den bereits eingetretenen Schaden, nämlich den (ungewollten) Abschluss des streitgegenständlichen Kaufvertrages (vgl. BGH, Urteil vom 25.05.2020 - VI ZR 252/19) fehlen (vgl. OLG Oldenburg, Hinweisbeschluss vom 15.01.2020 - 6 U 307/19, dem es auch als fernliegend erscheint, dass Hersteller nach der Aufdeckung des Abgasskandals und der umfangreichen Medienberichterstattung auch das Software-Update in der Absicht entwickelt und in den Verkehr gebracht hätten, die Käufer von Dieselfahrzeugen weiterhin zu täuschen und zu schädigen). Die Klagepartei trägt selbst vor, dass es für die Frage, ob ein Schaden eingetreten ist, allein auf den Zeitpunkt des Kaufvertragsabschlusses ankommt und der Schaden des Klägers in dem Abschluss des Kaufvertrags über ein nicht gesetzeskonformes Kraftfahrzeug besteht. Der bereits eingetretene Schaden kann daher zwar durch das Aufspielen des - für den Kunden kostenlose - Update nicht beseitigt (vgl. BGH, Urteil vom 25.05.2020 - VI ZR 252/19), aber auch nicht weiter vertieft werden.Einen eigenständigen Schaden könnte man unter Umständen zwar dann als gegeben ansehen, wenn das Update negative Folgen für das Fahrzeug, insbesondere für die Lebensdauer des Fahrzeugmotors, seiner Teile und anderer Fahrzeugteile hätte (vgl. OLG Köln, Beschluss vom 28.08.2019 - 18 U 8/19). Für etwaige nachteiliger Auswirkungen des Updates gibt es bislang jedoch keinen konkreten Nachweis und kann es aufgrund der kurzen Zeitspanne auch noch nicht geben. Die Klagepartei trägt selbst vor, dass die Dauerhaltbarkeit bis heute nicht geklärt ist.Zudem müsste für eine etwaige Haftung die Beklagte bzw. deren verantwortliche Mitarbeiter davon Kenntnis gehabt haben. Weder hat dies die Klagepartei bewiesen noch sind hierfür ausreichende Anhaltspunkte vorhanden.Außerdem würde ein dadurch eingetretener Schaden nicht zu einem Anspruch auf die, mit der Klage begehrte Rückabwicklung des Kaufvertrages führen. Nach § 249 BGB könnte allenfalls Rückgängigmachung des Updates (Naturalrestitution oder entsprechender Geldersatz) oder gem. § 251 BGB Ersatz des, durch das Update verursachten objektiven Wertverlusts des Fahrzeuges verlangt werden (vgl. Johannes W. FlumeBeckOK BGB, Hau/Poseck 56. Edition Stand: 01.11.2020 § 249 Rn. 37; OetkerMünchener Kommentar zum BGB 8. Auflage 2019 § 251 Rn. 4, 14).Obgleich die Beklagte die Einrede der Verjährung - als eine Voraussetzung für einen Anspruch gem. § 852 BGB (vgl. BGH, Urteil vom 13.10.2015 - II ZR 281/14) - bislang nicht erhoben hat und damit auch die Frage einer etwaigen Verjährung dahingestellt bleiben kann, sei vorsorglich angeführt, dass sich ein Anspruch auch im Übrigen nicht aus § 852 BGB ergeben würde. Eine obergerichtliche Entscheidung, insbesondere des BGH liegt hierzu noch nicht vor. In der Entscheidung des LG Magdeburg, Urt. vom 25.6.2020 - 10 O 1856/19 (BeckRS 2020, 14167 Rn. 41, beckonline) setzt sich das Gericht nicht näher mit dieser Vorschrift auseinander, sondern erwähnt lediglich, dass bei Annahme der Verjährung der Ansprüche "dann wohl ein Anspruch aus § 852 BGB vorliegen würde".Bei einem Gebrauchtwagenkauf ist allerdings nach Martinek, jM 2021, 9 - dem sich das Gericht anschließt - die Rechtslage eindeutig. Der Anspruch ist abzulehnen, weil es an einem "erlangten Etwas" des Herstellers fehlt. Der Schaden des Käufers, der im Abschluss des nicht gewollten Kaufvertrags mit dem Händler liegt, führt zu keinem Vermögenszuwachs beim Hersteller.Nicht überzeugend ist indes die Ansicht des LG Hildesheim, Beschluss vom 29.11.2020 - 5 O 183/20. Danach soll beim Weiterverkauf des Fahrzeugs durch den Ersterwerber an die weiteren Käufer des Fahrzeugs der Vermögensschaden des Ersterwerbers, dem der Vermögenszufluss auf Seiten der Beklagten unmittelbar gegenübersteht, in der Kette der weiteren Erwerber weitergereicht werden, so dass der, dem Zweitkäufer entstandene Schaden mit dem Vermögenszufluss beim Hersteller korrespondiert. Der Hersteller hat aber ja bereits durch den (Erst-)Verkauf des Neufahrzeuges eine Vermögensmehrung erlangt, welche durch den Weiterverkauf als Gebrauchtfahrzeug durch einen Dritten nicht noch vermehrt werden kann.Kosten:§ 91 ZPO; vorläufige Vollstreckbarkeit: § 709 ZPO, Streitwert: § 3 ZPO.Der Antrag auf Feststellung des Annahmeverzugs erhöht den Streitwert nicht (vgl. BGH, Beschluss vom 25.08.2020 - XI ZR 108/20).
+			
+			
+			
+			Permalink: https://openjur.de/u/2318364.html (https://oj.is/2318364)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate24
+				
+				
+					 Zitiert2
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

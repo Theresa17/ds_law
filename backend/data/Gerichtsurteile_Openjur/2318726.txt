@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 15.11.2019 - 8 O 289/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 15.11.2019 - 8 O 289/19
+                      m. Fundstelle
+                      LG Köln, Urteil vom 15.11.2019 - 8 O 289/19 = openJur 2021, 4951
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 15.11.2019 - 8 O 289/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 4951
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits hat der Kläger zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Die klagende Partei kaufte das streitgegenständliche Fahrzeug am 13.07.2016 als Gebrauchtwagen von der Firma F in Dortmund bei einer Laufleistung von 142.000 km zu einem Kaufpreis von 11.290,00 EUR. Wegen der näheren Einzelheiten wird auf den Kaufvertrag (Anl. K1, Bl. 1 ff.) Bezug genommen.Zur Finanzierung nahm die klagende Partei ein Darlehen in Höhe des Kaufpreises auf. Hierauf entfielen Zinsen von insgesamt 1.775,29 EUR. Beginnend ab dem 01.09.2016 zahlte die klagende Partei Raten von monatlich 200,00 EUR. Die Schlussrate von 3.465,29 EUR ist entsprechend der vertraglichen Vereinbarung am 01.07.2020 fällig. Wegen der weiteren Details nimmt die Kammer auf den Darlehensvertrag (Anl. K1, Bl. 2 ff. AH) Bezug.Das Fahrzeug ist mit einem Motor des Typs ... ausgestattet. Die im Zusammenhang mit dem Motor verwendete Software optimiert den Stickoxidausstoß auf dem Prüfstand. Dabei erkennt die Software, ob sich das Fahrzeug auf einem Prüfstand befindet und schaltet zwischen zwei Betriebsmodi um. Auf dem Prüfstand schaltet sie in den NOxoptimierten Modus 1 (NEFZ = Neuer Europäischer Fahrzyklus). In diesem Modus findet eine relativ hohe Abgasrückführung mit niedrigerem Stickoxidausstoß statt. Im normalen Fahrbetrieb wird in den Modus 0 umgeschaltet, bei dem die Abgasrückführungsrate geringer ist.Dies wurde am 22.09.2015 durch eine Adhoc-Mitteilung der Beklagten publik. In dieser wird darauf hingewiesen, dass weltweit etwa elf Millionen Fahrzeuge mit dem Motor ... "auffällig" seien. Interne Prüfungen hätten ergeben, dass die Software auch in weiteren Fahrzeugend es W Konzerns verbaut worden sei. Am selben Tag informierte die Beklagte auch ihre Vertragshändler und Servicepartner, dass etwaige Käufer von Gebrauchtwagen über das Vorhandensein der sog. Manipulationssoftware aufgeklärt werden müssten.Ab Oktober 2015 stellte die Beklagte ein Internetportal zur Verfügung, in dem sich über die Betroffenheit des jeweiligen Fahrzeugs unter Angabe der Fahrzeugidentifizierungsnummer informiert werden konnte. Entsprechende Auskünfte erteilte die Beklagte - was die klagende Partei bestreitet - auch telefonisch oder in Textform. Hierüber berichteten eine Vielzahl von Print- und Onlinemedien. Wegen der Einzelheiten wird insoweit auf Seite 9 f. des Schriftsatzes der Beklagten vom 15.10.2018 (Bl. 160 f. d. A.) Bezug genommen. Im Februar 2016, noch vor dem Rückruf, informierte die Beklagte die Halter der betroffenen Fahrzeuge darüber, dass ein Rückruf nötig werden würde und dass dieser im Laufe des Jahres 2016 stattfinden würde (vgl. Anl. B7, Bl. 225 d. A.). Die klagende Partei erwarb das Fahrzeug erst später.Im Jahr 2016 erhielt die klagende Partei ein Schreiben, mit dem sie über die Betroffenheit des Fahrzeugs vom sogenannten Abgas-Skandal informiert wurde. Unter dem 30.08.2016 teilte das Kraftfahrtbundesamt (KBA) mit, dass das Fahrzeug eine "manipulierte Software" habe (Anl. K6, Bl. 18 AH). Mit rechtskräftigem Bescheid vom 20.12.2016 stellte das Kraftfahrtbundesamt fest, dass eine unzulässige Abschalteinrichtung vorliege. Die Beklagte wurde zur Entfernung der Abschalteinrichtung verpflichtet. Die klagende Partei ließ das von der Beklagten zur Verfügung gestellte Software-Update installieren.Bis einschließlich Dezember 2018 tilgte die klagende Partei 5.600,00 EUR seiner Darlehens- bzw. Zinsschuld. Bei Klageerhebung betrug die Laufleistung des streitgegenständlichen Fahrzeugs 172.335 km.Die klagende Partei meint, ihr stehe gegen die Beklagten ein Anspruch u. a. aus § 826 BGB zu. Aufgrund der Motorsteuerungssoftware sei das Fahrzeug mangelbehaftet. Durch das Entwickeln dieser und das Inverkehrbringen des mit der Software ausgestatteten Fahrzeugs habe die Beklagte sie vorsätzlich und sittenwidrig geschädigt. Der Vorstand der Beklagten habe hiervon entweder positive Kenntnis gehabt oder habe sich eine solche jedenfalls verschaffen können. Dass Software-Update habe ihren Schaben nicht behoben, denn er liege im Vertragsschluss. Zudem führe es auch zu Folgeproblemen (u. a. geringere Leistung bei höherem Verbrauch, erhöhter Verschleiß, Minderwert).Sie behauptet, hätte sie von der Motorsteuerungssoftware gewusst, hätte sie das Fahrzeug nicht gekauft. Sie habe erst durch das Schreiben im Jahr 2016 von der Betroffenheit des Fahrzeugs erfahren. Auch aufgrund ihrer schlechten Deutschkenntnisse verfolge sie die deutsche Presse überhaupt nicht.Die Gesamtlaufleistung des Fahrzeugs liege bei 300.000 km. Auf Basis der bei Klageerhebung gefahrenen Kilometer meint die klagende Partei, sich 1.141,61 EUR als Nutzungsentschädigung anrechnen lassen zu müssen.Die klagende Partei beantragt,die Beklagte Zug um Zug gegen Rücknahme des Pkw W U 2.0 TDI mit der FIN W...# zu verurteilen, an sie 4.458,39 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen sowie ihn, ebenfalls Zug um Zug, von den Verbindlichkeiten aus dem Darlehensvertrag mit der Auto Europa Bank, Zweigniederlassung der W Bank GmbH zu der Vertragsnummer ... in Höhe von 7.465,29 EUR freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagten meinen, ein Anspruch stehe der klagenden Partei nach allen in Betracht kommenden Anspruchsgrundlagen nicht zu.Dies ergebe sich bereits daraus, dass die klagende Partei das Fahrzeug erst deutlich nach Bekanntwerden des sogenannten Dieselskandals erworben habe. Sie habe Kenntnis der ursprünglich installierten Software und deren Funktionsweise gehabt. Zudem sei die klagende Partei bei Kauf des Fahrzeugs darüber informiert worden, dass es vom Abgasskandal betroffen sei.Bei der eingesetzten Software handele es sich um eine innermotorische Maßnahme, die nicht als unzulässige Abschalteinrichtung zu werten sei. Sie verweisen darauf, dass das Fahrzeug uneingeschränkt gebrauchstauglich sei und im Übrigen das Software-Update aufgespielt worden sei. Negative Folgen habe dieses nicht. Mögliche Gründe für die Kaufentscheidung der klagenden Partei könnten auch die Robustheit und die Langlebigkeit des Fahrzeugs gewesen sein. Sie hätten die klagende Partei unter keinem Gesichtspunkt getäuscht. Die Vorstände der Beklagten hätten keine Kenntnis über die Entwicklung, Programmierung oder die Verwendung der Software gehabt. Sie sind der Ansicht, im Falle der Rückabwicklung schulde die klagende Partei einen Nutzungsersatz. Hierzu behaupten sie, die Gesamtlaufleistung des Fahrzeugs liege bei 250.000 km.Hinsichtlich der weiteren Einzelheiten des Sach- und Streitstands wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen sowie auf das Protokoll der mündlichen Verhandlung Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.A.Der klagenden Partei steht der geltend gemachte Anspruch auf Zahlung und Freistellung in der Hauptsache unter keinem rechtlichen Gesichtspunkt zu.I.Ein derartiger Anspruch ergibt sich insbesondere nicht aus §§ 826, 31 BGB.Gemäß § 826 BGB ist, wer in einer gegen die guten Sitten verstoßenden Weise einem anderen vorsätzlich Schaden zufügt, dem anderen zum Ersatz des Schadens verpflichtet. Nach § 31 BGB, der auf Kapitalgesellschaften wie die Beklagten Anwendung findet, ist diese für den Schaden verantwortlich, den der Vorstand, ein Mitglied des Vorstands oder ein anderer verfassungsmäßig berufener Vertreter durch eine in Ausführung der ihm zustehenden Verrichtungen begangene, zum Schadensersatz verpflichtende Handlung einem Dritten zufügt. Diese Voraussetzungen sind nicht erfüllt.1.Nach der ständigen Rechtsprechung des Bundesgerichtshofs ist ein Verhalten sittenwidrig, wenn es gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt (st. Rspr. seit RGZ 48, 114, 124). In diese rechtliche Beurteilung ist einzubeziehen, ob es nach seinem aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter mit den guten Sitten nicht zu vereinbaren ist (BGH, Urteile vom 20. November 2012 - VI ZR 268/11, WM 2012, 2377 Rn. 25 und vom 4. Juni 2013 - VI ZR 288/12, WM 2013, 1310 Rn. 14, jeweils m. w. N.).Unter Beachtung der vorstehenden Grundsätze handelt derjenige sittenwidrig, der eine Sache, von deren Mangelhaftigkeit er weiß, in der Vorstellung in den Verkehr bringt, dass die betreffende Sache von dem Erwerber in unverändert mangelhaftem Zustand an ahnungslose Dritte, die in Kenntnis der Umstände von dem Geschäft Abstand nähmen, veräußert werden wird (vgl. OLG Köln, Beschluss vom 03. Januar 2019 - 18 U 70/18 -, Rn. 27, juris).2.Diese Voraussetzungen liegen nicht vor. Es fehlt an dem erforderlichen Vorsatzelement.a)Insoweit kann zwar nicht mit dem Oberlandesgericht München (Beschluss vom 06.12.2018 - 21 U 2834/18 - unveröffentlicht) darauf abgestellt werden, dass die Beklagte zum Zeitpunkt des Schadenseintritts keinen Vorsatz mehr gehabt habe, denn es ist auf den Zeitpunkt des Handelns abzustellen. Der Vorsatz im Sinne des § 826 BGB erfordert indes, dass der Schädiger den Erfolg nicht nur für möglich hält, sondern ihn billigend in Kauf nimmt (BGH, Urteil vom 24.04.2001 - VI ZR 36/00, juris Rn. 21). Eine nur allgemeine Vorstellung über eine etwaige mögliche Schädigung genügt nicht (Palandt/Sprau, 77. Aufl. 2018, § 826 Rn. 11).b)Nach diesen Maßstäben ist der erforderliche Vorsatz zu verneinen, denn die Beklagten handelten gerade in der Absicht und in dem Vertrauen darauf, dass ihre Manipulationen nicht entdeckt würden, denn dies war für ihren Plan essentiell (vgl. OLG Braunschweig, Beschluss vom 16.11.2017 - 7 U 172/17, unveröffentlicht). Vor diesem Hintergrund mag es zwar sein, dass Fälle wie der hiesige bei genauerer Betrachtung vorhersehbar waren, wenn unterstellt wird, dass die klagende Partei zu den wenigen Personen gehörte, an denen die umfassende öffentliche Diskussion über den sogenannten Abgasskandal vorüberging und dass sie sich auch bei Erwerb nicht über die Eigenschaften des zu erwerbenden Fahrzeugs informiert hat. Davon, dass die Beklagten es indes billigend in Kauf genommen hätten, dass ca. neun Monate nach Bekanntwerden der Manipulationen weitere Personen die mit der unzulässigen Abschalteinrichtung versehenden Fahrzeuge in Unkenntnis derselben erwerben würden, ist nicht auszugehen. Die Kammer verkennt dabei nicht, dass sich der Vorsatz nicht auf den genauen Kausalverlauf beziehen muss; durch das Bekanntwerden der Manipulationen in der Öffentlichkeit ist indes eine derart signifikante Abweichung vom geplanten Kausalverlauf eingetreten, dass es nicht mehr genügen kann, dass die Beklagten die Unkenntnis der Käufer vor dem öffentlichen Bekanntwerden zunächst in ihren Vorsatz einbezogen hatten.c)Hinzu kommt, dass durch das von der klagenden Partei behauptete Verhalten des Verkäufers ein Dritter unmittelbar eigenverantwortlich in den Geschehensablauf eingegriffen hat. Als Gebrauchtwagenhändler muss dieser von der Betroffenheit des Fahrzeugs vom Abgasskandal im Sommer 2016 gewusst haben. Wenn er gleichwohl das Fahrzeug an die klagende Partei veräußert hat, ohne diese über die Betroffenheit des Fahrzeugs aufzuklären, liegt hierin ein Betrug im Sinne des § 263 StGB, den der Verkäufer selbstständig vorgenommen hat. Zwar war das vorherige Verhalten der Beklagten hierfür kausal insoweit, als es nicht hinweggedacht werden könnte, ohne dass der Betrug entfiele; die Täuschung der klagenden Partei durch den Verkäufer beruht hierauf bei einer wertenden Betrachtung indes nicht. In diesem Zusammenhang ist ferner zu berücksichtigen, dass die Beklagte im Februar 2016 unstreitig den damaligen Halter des streitgegenständlichen Fahrzeugs über die Betroffenheit informiert hat. Ab diesem Zeitpunkt ist der Fall nicht anders zu behandeln als Fälle, in denen eine Sache sonst vorsatzlos mangelhaft in den Verkehr gebracht wird. Der Hersteller haftet insoweit grundsätzlich Dritten gegenüber nicht für das Verschweigen der Mängel durch den Weiterverkäufer. Es liegt mit anderen Worten ein eigenverantwortliches Dazwischentreten eines Dritten vor.II.Ansprüche aus weiteren Anspruchsgrundlagen bestehen nicht. Insoweit wird auf die Rechtsprechung des Oberlandesgerichts Köln (OLG Köln, Urteil vom 06.06.2019 - 24 U 5/19, juris Rn. 51 m. w. N.) Bezug genommen.B.Die Kostenentscheidung beruht auf § 91 Abs. 1 S. 1 ZPO.C.Die Entscheidung über die vorläufige Vollstreckbarkeit ergibt sich aus § 709 S. 1, S. 2 ZPO.Der Streitwert wird auf bis zu 13.000,00 € festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2318726.html (https://oj.is/2318726)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 31.03.2020 - 30 O 81/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 31.03.2020 - 30 O 81/19
+                      m. Fundstelle
+                      LG Köln, Urteil vom 31.03.2020 - 30 O 81/19 = openJur 2021, 5601
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 31.03.2020 - 30 O 81/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 5601
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht gegen die Beklagte einen Schadensersatzanspruch im Zusammenhang mit dem sog. "Diesel-Abgasskandal" geltend.Der Kläger erwarb am 02.05.2011 bei dem Händler G PZ GmbH, Q Zentrum Köln einen Pkw des Typs Q D Diesel V6 EU5 mit der Fahrzeug-Identnr. ...# zu einem Kaufpreis von 83.089,05 €. Am 09.12.2019 verkaufte der Kläger das Fahrzeug zu einem Kaufpreis von 21.000,00 € bei einem Kilometerstand von 96.993 km.Mit anwaltlichem Schreiben vom 24.08.2018 forderte der Kläger die Beklagte unter Fristsetzung bis zum 07.09.2018 zur Anerkennung der geltend gemachten Schadensersatzansprüche auf.Der Kläger behauptet, dass die Beklagte den Motor des streitgegenständlichen Fahrzeugs entwickelt und hergestellt habe.Der Kläger behauptet weiter, dass der in dem streitgegenständlichen Pkw verbaute Dieselmotor über eine verbotene Abschalteinrichtung verfüge und vom Diesel-Abgasskandal betroffen sei. Das Fahrzeug verfüge über eine Motorsteuerungssoftware, die den Ausstoß von Stickoxid im Prüfstandsbetrieb optimiere. Die Software erkenne insofern anhand bestimmter Parameter, etwa von Lenkeinschlägen und der Fahrzeugneigung, ob sich das Fahrzeug auf einem technischen Prüfstand zur Ermittlung der Emissionswerte befinde und reduziere in einem solchen Fall den Abgasausstoß des Fahrzeugs. Auf diese Weise würden die Euro5-Grenzwerte und Euro6-Grenzwerte für NOx im Testbetrieb eingehalten, im realen Straßenbetrieb aber um ein Vielfaches überschritten.Das Kraftfahrt-Bundesamt (im Folgenden: KBA) habe die Motorsteuerungssoftware von Modellen des streitgegenständlichen Typs untersucht und sei zu dem Ergebnis gekommen, dass die verbaute Software nicht gesetzeskonform sei. Es habe daher eine Überarbeitung der Software angeordnet.Die Kläger behauptet zudem, dass es für ihn bei dem Erwerb des Fahrzeugs insbesondere auf die Umweltfreundlichkeit angekommen sei. Hätte er von der behaupteten Manipulation der Motorsteuerung gewusst, hätte er das streitgegenständliche Fahrzeug nicht erworben.Der Kläger ist der Ansicht, die Beklagte sei ihm gegenüber schadensersatzpflichtig. Die Beklagte habe ihn vorsätzlich und sittenwidrig geschädigt, indem sie das streitgegenständliche Fahrzeug bzw. den darin verbauten Motor entwickelt und in den Verkehr gebracht habe und eine gesetzeswidrige Softwareprogrammierung verschwiegen habe. Der Schaden liege darin, dass er einen nachteiligen Vertrag geschlossen habe, den er ohne das haftungsauslösende Verhalten der Beklagten nicht eingegangen wäre. Das Fahrzeug weise einen Sachmangel auf, da es aufgrund einer unzulässigen Abschalteinrichtung nicht die übliche Beschaffenheit aufweise. Auch das Aufspielen eines Software-Updates sei für die Schadensbeseitigung untauglich, da der merkantile Minderwert des Fahrzeugs auch nach einer Überarbeitung verbleibe und die Nachrüstung zu erheblichen Folgemängeln führen werde, namentlich einem erhöhten Rußpartikelausstoß und einer stärkeren Beanspruchung des Abgasrückführungsventils. Dass maßgebliche Mitglieder des Vorstands Kenntnis von dem Einbau der unzulässigen Abschalteinrichtung in den streitgegenständlichen Modelltyp gehabt hätten, dürfe nach Ansicht des Klägers mittlerweile feststehen. Dies ergebe sich aus den staatsanwaltlichen Ermittlungen gegen diverse Vorstandsmitglieder der Q SE sowie aus den gesellschaftsrechtlichen Verflechtungen im Wkonzern und zeitweisen Doppelorganschaft von bestimmten Vorständen.Nachdem der Kläger zunächst die Rückzahlung des Kaufpreises abzüglich einer Nutzungsentschädigung Zugum-Zug gegen Übereignung des streitgegenständlichen Fahrzeugs beantragt hatte, hat er seine Anträge im Hinblick auf den zwischenzeitlich erfolgten Verkauf des Fahrzeugs abgeändert und beantragt nunmehr,1. die Beklagte zu verurteilen, an ihn 83.089,05 €, Zugum-Zug gegen Herausgabe des Verkaufspreises in Höhe von 21.000,00 € sowie der in Abzug zu bringenden Nutzungsentschädigung in Höhe von 26.863,52 € nebst Zinsena) in Höhe von 4 % aus 83.089,05 € seit dem 02.05.2011 bis zum 07.09.2018 sowieb) in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz aus 35.225,53 € seit Rechtshängigkeit zu bezahlten;2. festzustellen, dass die Beklagte verpflichtet ist, der Klagepartei alle Schäden zu ersetzen, die dieser im Zusammenhang mit dem Kauf des streitgegenständlichen Fahrzeugs entstanden sind und zukünftig entstehen werden;3. die Beklagte zu verurteilen, der Klagepartei die Kosten des außergerichtlichen Vorgehens in Höhe von 1.954,46 € nebst Zinsen in Höhe von Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 24.08.2018 zu erstatten.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte erachtet den klägerischen Vortrag als unschlüssig, da er seine Ansprüche überwiegend auf Sachverhalte stütze, die in keinem Zusammenhang mit dem streitgegenständlichen Fahrzeug oder der Herstellerin des Fahrzeugs stünden. Die Ausführungen des Klägers würden sich auf eine Abschalteinrichtung des Motors ... beziehen und seien für das streitgegenständliche Fahrzeug irrelevant. Es gäbe auch keinen Bescheid des KBA, der sich über diese Themen verhalte. Insbesondere sei das streitgegenständliche Fahrzeug nicht von der durch das KBA angeordneten Softwareaktualisierung betroffen, da es sich bei den von einem Rückruf betroffenen Fahrzeugen der Beklagten um andere Fahrzeugmodelle handele. Dass der streitgegenständliche Fahrzeugtyp keinem Rückruf unterliege, habe das KBA auch ausdrücklich bestätigt.Die Beklagte weist zudem darauf hin, dass sie den streitgegenständlichen Motor weder entwickelt noch hergestellt habe. Sie habe vielmehr überhaupt keine Dieselmotoren produziert noch entwickelt. Die von der Beklagten bezogenen Dieselmotoren seien alle von einem anderen Unternehmen zugekauft worden.Die Beklagte ist weiter der Auffassung, dass der Kläger ein vorsätzliches Handeln der Beklagten betreffend den Einbau einer illegalen Abschalteinrichtung bzw. einer Täuschung hierüber nicht hinreichend substantiiert dargelegt habe. Auch hinsichtlich einer etwaigen Kenntnis der Beklagten von einer vermeintlichen Manipulation habe der Kläger keinen hinreichend konkreten, einlassungsfähigen Sachvortrag geliefert.Wegen der weiteren Einzelheiten des Parteivortrags wird auf die gewechselten Schriftsätze nebst Anlagen sowie auf das Protokoll der mündlichen Verhandlung vom 03.03.2020 (Bl. 101 d.A.) Bezug genommen. 
+				Gründe
+				Die Klage ist unbegründet.Der geltend gemachte Schadensersatzanspruch in Höhe von 83.089,05 € Zugum-Zug gegen Herausgabe des Veräußerungserlöses und der in Abzug zu bringenden Nutzungsentschädigung steht dem Kläger gegen die Beklagte weder gem. §§ 826, 249 BGB noch aus einer anderen Anspruchsgrundlage zu. Dem Vortrag des Klägers lässt sich bereits dem Grunde nach kein schlüssiger Anspruch auf Schadensersatz gegen die Beklagte wegen Inverkehrbringens eines Fahrzeugs mit einer unzulässigen Abschalteinrichtung entnehmen.Der Kläger hat einen Anspruch nach § 826 BGB nicht schlüssig dargelegt. Denn selbst wenn unterstellt würde, dass in dem streitgegenständlichen Fahrzeug eine unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2 EG-Verordnung 715/2007 verbaut wäre, folgt daraus noch nicht zwingend, dass die Beklagte bei Inverkehrbringen der Fahrzeuge mit einer Manipulationssoftware auch vorsätzlich im Hinblick auf eine sittenwidrige Schädigung gehandelt hat. Allein die Tatsache, dass bei anderen Autoherstellern eine Softwaremanipulation festgestellt wurde, bedeutet noch nicht, dass damit sämtliche Autobauer unter einen entsprechenden Generalverdacht gestellt werden können, welcher sich allein darauf begründet, dass die Fahrzeuge im Echtbetrieb die gesetzlichen Schadstoffgrenzwerte nicht einhalten (vgl. OLG Köln, Urt. v. 28.11.2019 - 15 U 93/19).Der Kläger hat insofern eine Kenntnis von Organen der Beklagten über die behauptete Verwendung der Manipulationssoftware nicht in erforderlichem Umfang konkretisiert. Vorliegend ist im Hinblick auf diesen unzureichenden Vortrag zum Vorsatz der Beklagten insbesondere zu berücksichtigen, dass die Beklagte nach ihrem Vorbringen gar nicht Herstellerin und Entwicklerin des streitgegenständlichen Motors ist. Dies hat sie auch substantiiert dargelegt, indem sie darauf hingewiesen hat, dass sie überhaupt keine Dieselmotoren produziert oder entwickelt habe und die in ihren Fahrzeugen verwendeten Dieselmotoren vielmehr von anderen Unternehmen zugekauft würden. Der Kläger hat demgegenüber lediglich pauschal behauptet, dass die Beklagte Herstellerin und Entwicklerin des streitgegenständlichen Motors sei. Auf den klarstellenden Hinweis der Beklagten zur fehlenden Herstellerstellung hin, hat der Kläger hierzu nicht erneut Stellung genommen. Da der Kläger jedoch für die anspruchsbegründenden Umstände darlegungs- und beweisbelastet ist, genügt dieser Vortrag für eine schlüssige Behauptung eines Anspruchs wegen vorsätzlicher sittenwidriger Täuschung nicht.Auch der Hinweis des Klägers, dass mehrere Vorstandsmitglieder in unterschiedlichen Gesellschaften des Wkonzern eine Doppelorganstellung ausüben und gesellschaftsrechtliche Verflechtungen bestünden, ist für eine substantiierte Darlegung eines vorsätzlichen Handelns der Beklagten nicht ausreichend. Es ist zwar auch gerichtsbekannt, dass die Beklagte zum Volkswagenkonzern gehört und verschiedene Personen teilweise zeitgleich oder zumindest zeitversetzt Mitglied des Vorstands in jeweils mehreren Konzerngesellschaften waren. Dies legt jedoch noch nicht dar, wann und wodurch konkret durch wen bei der Beklagten eine vorsätzliche sittenwidrige Schädigung begangen worden sein soll. Insbesondere legt der Kläger nicht dar, zu welchem Zeitpunkt die etwaigen Verantwortlichen bei der Beklagten Kenntnis von einer Manipulationssoftware gehabt haben sollen und eine bewusste Entscheidung zum Einsatz einer unzulässigen Motorsteuerungssoftware getroffen hätten. Außerdem ist auch eine Verbindung zu dem streitgegenständlichen Fahrzeug nicht ersichtlich und wird vom Kläger auch nicht vorgetragen. Der vorliegende Fall ist insofern auch nicht ohne weiteres mit den Fällen vergleichbar, in denen ein Motor des Typs ... verbaut ist. Während im Falle einer Klage gegen einen Hersteller eine sekundäre Darlegungslast des Herstellers zu den Abläufen und der Kenntnis der Organe angenommen werden kann, ist eine solche vorliegend nicht zu bejahen, weil eine Kenntnis im Unternehmen bezüglich von anderen Unternehmen eingekauften Teilen nicht ohne Weiteres unterstellt werden kann.Im Übrigen stellt sich auch der Vortrag des Klägers zur individuellen Betroffenheit des streitgegenständlichen Fahrzeugs vom "Diesel-Abgasskandal" und der Verwendung einer unzulässigen Abschalteinrichtung als unzureichend dar. Der Kläger hat lediglich pauschal und "ins Blaue hinein" behauptet, dass das streitgegenständliche Fahrzeug über eine Motorsteuerungssoftware verfüge, die den Ausstoß von Stickoxid (NOx) im Prüfstandbetrieb (NEFZ) optimiere. Das Auto erkenne, ob es sich auf dem Prüfstand befinde und würde dann den Abgasausstoß verringern, weshalb so die Euro5- und Euro6-Grenzwerte im Testbetrieb anders als im realen Straßenbetrieb eingehalten würden. Eine solche Behauptung ohne greifbare Anhaltspunkte für das Vorliegen eines bestimmten Sachverhalts willkürlich aufs Geratewohl, gleichsam "ins Blaue hinein" aufzustellen, ist jedoch rechtsmissbräuchlich und daher prozessual unbeachtlich (BGH, Urt. v. 08.11.1995 - VIII ZR 227/94; BGH, Urt. v. 01.07.1999 - VII ZR 202/98; zu vergleichbarem Fall OLG Köln, Bes. v. 09.01.2019 - 28 U 36/18). Der Kläger hat keine derartigen Anhaltspunkte, aufgrund derer der Einbau einer unzulässigen Abschalteinrichtung auch in dem streitgegenständlichen Pkw anzunehmen wäre, dargetan. Diese ergeben sich auch nicht aus den weiteren Umständen. Insbesondere ist das streitgegenständliche Fahrzeug entgegen der pauschalen Behauptung des Klägers nicht von einem Rückruf des KBA betroffen. Es handelt sich vorliegend um einen Q D V6 EU5. Für diesen Fahrzeugtyp hat das KBA in einem anderen Fall mit Schreiben vom 20.02.2019 (vgl. Anl. B1) ausdrücklich bestätigt, dass das Fahrzeug nicht von einem angeordneten Rückruf betroffen sei. Die vom Kläger benannten Rückrufaktionen vom 04.06.2018 und 18.05.2018 betreffen andere Fahrzeugtypen. Es handelt sich um die Fahrzeuge B und B7 3.0 Liter Diesel Euro 6 bzw. Q D Euro 6 4,2 Liter V8 TDI und Porsche N Euro 6 3,0 Liter V6 TDI und gerade nicht um das streitgegenständliche Modell, welches mit einem Motor der Schadstoffklasse Euro 5, wie sich auch aus der Zulassungsbescheinigung Teil I (Anl. K2) ergibt, ausgestattet ist. Auch wenn das KBA für andere Motorentypen der Fahrzeugreihe Q D Diesel mit einem 3,0 Liter-Sechszylinder-Motor eine Rückrufaktion veranlasst haben mag, würde sich die aus solchen Vorgängen getroffene Schlussfolgerung, das streitgegenständliche Fahrzeug mit einem anderen Motorentyp würde ebenfalls vom Einbau einer unzulässigen Abschalteinrichtung betroffen sein, als reine Spekulation und Verdachtsäußerung darstellen (vgl. OLG Köln, Bes. v. 09.01.2019 - 28 U 36/18). Zudem hat der Kläger auch nach seinem eigenen Vortrag bislang keine Aufforderung zur Nachrüstung oder gar Stilllegung seines Fahrzeugs erhalten.Auch eine weitere Gelegenheit zur Stellungnahme auf Antrag des Klägers zu dem Vortrag der Beklagten zur Hersteller- bzw. Entwicklerstellung und Betroffenheit des Fahrzeugs war vorliegend entbehrlich. Die Beklagte hatte bereits in der Klageerwiderung darauf hingewiesen, dass sie nicht Herstellerin und Entwicklerin des in dem streitgegenständlichen Fahrzeug verbauten Motors sei. Auch zu der bestrittenen Betroffenheit und dem Nichtvorliegen einer unzulässigen Abschalteinrichtung enthielt die Klageerwiderung umfangreichen Vortrag. Der Kläger hatte Gelegenheit erhalten auf die Klageerwiderung und den darin enthaltenen Vortrag der Beklagten Stellung zu nehmen. Trotz Verlängerung der hierzu gesetzten Frist blieb eine klägerische Stellungnahme aus. Nachdem die Beklagte mit Schriftsatz vom 17.02.2020 erneut auf die fehlende Betroffenheit des Fahrzeugs hingewiesen hat, hat der Kläger lediglich mit Schriftsatz vom 20.02.2020 seine Anträge unter Berücksichtigung der zwischenzeitlichen Veräußerung des Fahrzeugs geändert und im Übrigen lediglich vollumfänglich auf den bisherigen Sachvortrag verwiesen. Der Kläger hatte demnach ausreichend Gelegenheit zu dem Vortrag der Beklagten Stellung zu nehmen.Aus den genannten Gründen kommt auch ein Anspruch des Klägers aus § 823 Abs. 2 BGB in Verbindung mit § 263 StGB nicht in Betracht, weil es jedenfalls am zumindest bedingten Vorsatz hinsichtlich der Täuschung fehlt.Der Kläger kann die mit der Klage geltend gemachten Ansprüche auch nicht auf § 823 Abs. 2 BGB i.V.m. § 6 Abs. 1, § 27 EG-FGV stützen. Dies scheitert bereits daran, dass es sich bei den betreffenden Regelungen nicht um Schutzgesetze im Sinne des § 823 Abs. 2 BGB handelt (vgl. ausführlich OLG Köln, Bes. v. 22.08.2019 - 15 U 76/18; OLG Frankfurt, Urt. V. 07.11.2019 - 6 U 119/18; OLG Braunschweig, Urt. V. 19.02.2019 - 7 U 134/17).Ein Schutzgesetz i.S.v. § 823 Abs. 2 BGB muss nach seinem Zweck und Inhalt dazu dienen, den Einzelnen oder einen bestimmten Personenkreis gegen die Verletzung eines bestimmten Rechtsinteresses zu schützen (vgl. BGH, Urt. V. 13.12.2011 - XI ZR 51/10). §§ 6, 27 EG-FGV dienen jedoch dem Schutz der Allgemeinheit und nicht dem Individualschutz. Da diese Normen im Zusammenhang mit der Umsetzung des Art. 26 Abs. 1 der Richtlinie 2007/46/EG stehen, ist ihr Sinn und Zweck im Wege der richtlinienkonformen Auslegung zu ermitteln. Die Rahmenrichtlinie 2007/46/EG bezweckt ausweislich ihrer Erwägungsgründe die vollständige Harmonisierung der Zulassungsvorschriften für hohe Verkehrssicherheit, die Verwirklichung und das Funktionieren des Binnenmarktes, hohen Gesundheits- und Umweltschutz, rationelle Energienutzung und die Sicherstellung eines wirksamen Schutzes gegen unbefugte Benutzung. Dass die Richtlinie dem Schutz der Fahrzeugerwerber zu dienen bestimmt ist, ist den Erwägungsgründen hingegen nicht zu entnehmen.Die geltend gemachten Nebenforderungen sowie der Feststellungsantrag teilen das Schicksal der Hauptforderung.Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus § 709 S. 1 und 2 ZPO.Der Streitwert wird auf 68.731,26 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2320800.html (https://oj.is/2320800)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,157 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteThüringenOrdentliche GerichtsbarkeitLG ErfurtRechtsprechungBeschluss vom 30.12.2021 - 8 O 1519/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Erfurt, Beschluss vom 30.12.2021 - 8 O 1519/20
+                      m. Fundstelle
+                      LG Erfurt, Beschluss vom 30.12.2021 - 8 O 1519/20 = openJur 2022, 568
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Erfurt, Beschluss vom 30.12.2021 - 8 O 1519/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 568
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+				
+					
+						Zivilrecht Versicherungsrecht Europarecht 
+						
+					
+				
+
+			
+			
+			
+			
+				 
+					
+				document.addEventListener('DOMContentLoaded', function () {
+				  document.getElementById('togglerubrum')
+				          .addEventListener('click', function toggleRubrum() { var tb = document.getElementById('rubrumToggleButton'); tb.classList.toggle('fa-plus-square'); tb.classList.toggle('fa-minus-square'); });
+				});
+				 Rubrum
+				
+				 
+				 Beschlusszur Vorlage an denEuropäischen GerichtshofIn dem RechtsstreitHK.- Kläger -Prozessbevollmächtigte:...gegenAllianz Lebensversicherungs AG- Beklagte -Prozessbevollmächtigte:...wegen bereicherungsrechtlicher Rückabwicklung eines Versicherungsvertragesnach Widerspruchhat die 8. Zivilkammer des Landgerichts Erfurt durch Richter am Landgericht ... als Einzelrichter am 30.12.2021beschlossen:
+				 
+				
+				Tenor
+				I. Das Verfahren wird ausgesetzt.II. Dem Gerichtshof der Europäischen Union werden nach Art. 267 AEUV folgende Fragen zur Auslegung des Unionsrechts vorgelegt:1. Steht das Unionsrecht, insbesondere Art. 31 der Dritten Richtlinie Lebensversicherung und Art. 15 Absatz 1 der Zweiten Richtlinie Lebensversicherung, ggf. in Verbindung mit Art. 38 der Charta der Grundrechte der Europäischen Union, einer nationalen Regelung entgegen, wonach die vollständigen Verbraucherinformationen erst im Nachgang zu einem Antrag des Verbrauchers, nämlich mit der Versicherungspolice, übermittelt werden ("Policenmodell")?Falls dies zu bejahen ist: Ergibt sich allein hieraus ein Recht des Verbrauchers zum Widerspruch, d. h. auf Rückabwicklung des Versicherungsvertrages?Könnte einem solchen Recht der Einwand der Verwirkung oder des Rechtsmissbrauchs entgegenstehen, oder gibt es sonstige, etwa zeitliche Grenzen für die Rechtsausübung?2. Ist es einem Versicherer, der dem Verbraucher entweder keine oder nur eine fehlerhafte Belehrung über dessen Widerspruchsrecht erteilt hat, untersagt, sich gegenüber den sich hieraus ergebenden Rechten des Verbrauchers wie insbesondere dem Widerspruchsrecht auf Verwirkung, Rechtsmissbrauch oder Zeitablauf zu berufen?3. Ist es einem Versicherer, der dem Verbraucher keine oder nur unvollständige oder fehlerhafte Verbraucherinformationen übermittelt hat, untersagt, gegenüber den sich hieraus ergebenden Rechten des Verbrauchers wie insbesondere dem Widerspruchsrecht auf Verwirkung, Rechtsmissbrauch oder Zeitablauf zu berufen?  
+				Gründe
+				A. Sachverhalt und AusgangsverfahrenDie Parteien - Versicherungsnehmer und Versicherer - streiten um die vollständige Rückabwicklung von Versicherungsverträgen, die im sogenannten Policenmodell eingegangen wurden.Der Kläger schloss mit der beklagten Versicherung in den Jahren 1998 bis 2002 drei Rentenversicherungsverträge. Dabei wurden ihm die Versicherungsbedingungen sowie die Verbraucherinformationen mit der Versicherungspolice übermittelt. Zwei Verträge sind - nach Ausübung des eingeräumten Kapitalwahlrechts - in den Jahren 2016 bzw. 2019 abgerechnet, d. h. beidseitig vollständig beendet worden.Der Kläger erhob im Jahr 2020 gegen sämtliche Versicherungsverträge bzw. gegen deren Zustandekommen nach § 5a VVG alter Fassung Widerspruch. Er hält das Policenmodell für unionsrechtswidrig und leitet bereits hieraus ein "ewiges Recht" zum Widerspruch ab. Weiter beruft er sich darauf, dass die Belehrung über das Widerspruchsrecht jeweils formell fehlerhaft war. Zudem stützt er seinen Widerspruch darauf, dass notwendige Verbraucherinformationen fehlten oder unvollständig waren. Zum einen ermangele es an der Pflichtangabe über die optionale Kapitalabfindung für den Fall, dass der Vertrag vorzeitig beitragsfrei gestellt werde. Zum anderen fehle es an der notwendigen Angabe zur Ermittlung von Überschüssen.Der Kläger verlangt - aus ungerechtfertigter Bereicherung - im Wesentlichen die Rückzahlung zwischenzeitlich gezahlter Prämien sowie die Herausgabe von Nutzungen, die der Versicherer aus den Prämien gezogen hat.Die beklagte Versicherung geht sowohl von einer ordnungsgemäßen Widerspruchsbelehrung als auch von der Übermittlung sämtlicher wesentlicher Verbraucherinformationen aus. Im Übrigen beruft sie sich auf Verwirkung und Rechtsmissbrauch im Sinne des § 242 BGB.Zwischen den Parteien steht hierbei im Streit, ob die aktuelle Rechtsprechung des Europäischen Gerichtshofes zum Widerruf von Verbraucherdarlehen auf das Versicherungsrecht übertragbar ist.B. Rechtlicher RahmenDie für die Entscheidung des Rechtsstreits maßgebenden und bei Vertragsschluss geltenden Bestimmungen des deutschen Rechts lauten:§ 5a Gesetz über den Versicherungsvertrag (VVG) alter Fassung(1) Hat der Versicherer dem Versicherungsnehmer bei Antragstellung die Versicherungsbedingungen nicht übergeben oder eine Verbraucherinformation nach § 10a des Versicherungsaufsichtsgesetzes unterlassen, so gilt der Vertrag auf der Grundlage des Versicherungsscheins, der Versicherungsbedingungen und der weiteren für den Vertragsinhalt maßgeblichen Verbraucherinformation als abgeschlossen, wenn der Versicherungsnehmer nicht innerhalb von vierzehn Tagen nach Überlassung der Unterlagen in Textform widerspricht. Bei Lebensversicherungsverträgen beträgt die Frist 30 Tage ...(2) Der Lauf der Frist beginnt erst, wenn dem Versicherungsnehmer der Versicherungsschein und die Unterlagen nach Absatz 1 vollständig vorliegen und der Versicherungsnehmer bei Aushändigung des Versicherungsscheins schriftlich, in drucktechnisch deutlicher Form über das Widerspruchsrecht, den Fristbeginn und die Dauer belehrt worden ist. Der Nachweis über den Zugang der Unterlagen obliegt dem Versicherer. Zur Wahrung der Frist genügt die rechtzeitige Absendung des Widerspruchs. Abweichend von Satz 1 erlischt das Recht zum Widerspruch jedoch ein Jahr nach Zahlung der ersten Prämien.§ 242 Bürgerliches Gesetzbuch (BGB) Leistung nach Treu und GlaubenDer Schuldner ist verpflichtet, die Leistung so zu bewirken, wie Treu und Glauben mit Rücksicht auf die Verkehrssitte es erfordern.C. Entscheidungserheblichkeit der VorlagefragenIm Mittelpunkt dieser Vorlage befindet sich die Problematik, welchen Grenzen die Ausübung von Verbraucherrechten im Versicherungsrecht unterliegt.Auf dem Prüfstand stehen zunächst das sogenannte Policenmodell sowie die Folgen seiner etwaigen Unionsrechtswidrigkeit. Bei einem sich hieraus ergebenden Recht zum Widerspruch stellt sich die Frage, ob die Grundsätze von Verwirkung und Rechtsmissbrauch zu Lasten des Verbrauchers eingreifen, jedenfalls dann, wenn ein Vertrag bereits beidseitig beendet ist.Weiter ist zu klären, ob sich eine Versicherung auch dann auf Verwirkung, Rechtsmissbrauch oder Zeitablauf berufen kann, wenn eine Belehrung zum Widerspruchsrecht mangelhaft war oder notwendige Verbraucherinformationen fehlten.Soweit zwischen den Parteien im Detail streitig ist, ob die Widerspruchsbelehrung formal ordnungsgemäß war oder ob sämtliche notwendigen Verbraucherinformationen erteilt wurden, werden diese spezifischen Fragen nicht vor den Gerichtshof gebracht. Es handelt sich nämlich nicht vorrangig um eine Auslegungsproblematik ("interpretation"), vielmehr um die bloße, den nationalen Gerichten - als Unionsgerichten - obliegende Anwendung geltenden Rechts ("application"). Insoweit liegt bereits wegweisende Rechtsprechung des Europäischen Gerichtshofes wie des Bundesgerichtshofes vor, so dass diese Fragen im Instanzenzug geklärt werden können (s. nur EuGH, Urteil vom 19. Dezember 2019, C-355/18 bis C-357/18 und C-479/18, ECLI:EU:C:2019:1123).1. Zur ersten VorlagefrageDas sog. "Policenmodell" wurde in Deutschland von 1994 bis Ende 2007 nach dem damals geltenden Versicherungsvertragsgesetz (VVG) als gesetzlich zulässig angesehen. War die gewählte Vorgehensweise unionsrechtlich zulässig? Falls nein, ergibt sich allein hieraus ein Recht des Verbrauchers zum Widerspruch, d. h. ein Anspruch auf vollständige Rückabwicklung des Vertrages? Könnte ein Verbraucher ein solches Recht aus dem Gesichtspunkt von Treu und Glauben verwirken? Besteht in jedem Fall eine - absolute oder relative - zeitliche Grenze für die Ausübung eines Widerspruchs?Alle diese Fragen und Gesichtspunkte sind entscheidungserheblich. Sollte dem Kläger aufgrund einer Unionsrechtswidrigkeit des Policenmodells ein – unbeschränktes, nicht verwirktes und zeitlich unbegrenztes – Recht zum Widerspruch zustehen, wäre seiner Klage dem Grunde nach stattzugeben.Im Einzelnen:a) Nach § 5a VVG a.F. war es zulässig, Versicherungsverträge mit Verbrauchern im Policenmodell abzuschließen (s. hierzu die Schlussanträge der Generalanwältin Sharpston vom 11. Juli 2013, C-209/12, ECLI:EU:C:2013:472, Rn. 28). Charakteristisch für dieses Modell war, dass der Kunde zunächst einen Antrag auf Versicherungsschutz stellte und der Versicherer diesen Antrag durch Aushändigung der Versicherungspolice annahm. Die vorgeschriebenen Verbraucherinformationen erhielt der Kunde in der Regel erst mit der Police, d. h. nicht bereits zur Antragstellung. Der Versicherungsnehmer hatte allerdings ein Widerspruchsrecht von 14 Tagen; bei Lebensversicherungen betrug die Widerspruchsfrist 30 Tage. Diese Frist begann erst, wenn dem Versicherungsnehmer die Vertragsunterlagen vollständig vorlagen und er bei Aushändigung des Versicherungsscheins schriftlich und "in drucktechnisch deutlicher Form" über das Widerspruchsrecht, den Fristbeginn und die Dauer belehrt worden war. Abweichend davon erlosch das Widerspruchsrecht gemäß § 5a Absatz 2 Satz 4 VVG a.F. ein Jahr nach Zahlung der ersten Versicherungsprämie.b) Der Bundesgerichtshof hielt es in einer Leitentscheidung aus 2014 für einen Acte clair, dass dieses Modell mit dem Unionsrecht übereinstimmt (BGH, Urteil vom 16. Juli 2014 – IV ZR 73/13, Rn. 16 ff.). Sowohl die Europäische Kommission als auch Generalanwältin Sharpston äußerten jedoch erhebliche Zweifel (vgl. Schlussanträge der Generalanwältin Sharpston vom 11. Juli 2013, C-209/12, ECLI:EU:C:2013:472, Rn. 57 ff.).Das vorlegende Gericht schließt sich diesen Zweifeln an. Die Richtlinien zur Lebensversicherung sollen einen hohen und europaweit vergleichbaren Schutz der Verbraucherinteressen gewährleisten, wie es dem Wesensgehalt der Art. 12, 169 AEUV und Art. 38 GRC entspricht. Das von den hier einschlägigen Richtlinien - Richtlinie 90/619/EWG und Richtlinie 92/96/EWG - vorgesehene Schutzsystem beruht auf der Vorstellung, dass sich der Verbraucher gegenüber der Versicherung in einer schwächeren, asymmetrischen Verhandlungsposition befindet und einen geringeren Informationsstand besitzt. Durch einen Katalog von Informationspflichten und Formanforderungen soll der Verbraucher in die Lage versetzt werden, selbständig, rational und vergleichend Entscheidungen über das "Ob" und das "Wie" einer Lebensversicherung zu treffen, und zwar vor einem Vertragsschluss.Der Zweck der in den Richtlinien vorgesehenen, der Transparenz dienenden Belehrungspflicht wird jedoch verfehlt, wenn die Informationen erst nach Abgabe des Angebots durch den Versicherungsnehmer und somit nach seiner Wahl eines bestimmten Versicherers und eines spezifischen Vertrags vorgelegt werden. Der Versicherungsnehmer hat nicht die Möglichkeit, vorab verschiedene Versicherungen und deren Angebote zu vergleichen. Zudem trägt er die "Last des Widerspruchs", indem er innerhalb kurzer Frist aktiv werden muss, um das Zustandekommen des Vertrages zu verhindern.Nach alledem beeinträchtigt das Policenmodell die Wirksamkeit des Verbraucherschutzes.c) Der Gerichtshof hat sich zwar zu einem besonderen Problem im Zusammenhang mit dem Policenmodell äußern können, nämlich zu der Unionsrechtswidrigkeit der in § 5a Absatz 2 Satz 4 VVG a.F. vorgesehenen Jahresfrist, nicht jedoch zur Zulässigkeit des Modells selbst (EuGH, Urteil vom 19. Dezember 2013, C-209/12, ECLI:EU:C:2013:864).d) Sollte der Gerichtshof zu dem Schluss gelangen, dass das Policenmodell dem Unionsrecht widerspricht, stellt sich die weitere entscheidungserhebliche Frage, ob sich allein hieraus ein Recht des Verbrauchers zum Widerspruch und zur vollständigen Rückabwicklung des Vertrages ergibt. Besteht ein solches Recht mithin selbst dann, wenn die Widerspruchsbelehrung einwandfrei und die Verbraucherinformationen vollständig und fehlerfrei waren?e) Falls der Gerichtshof auch diese Frage bejaht, bedarf es einer Auseinandersetzung mit einem zusätzlichen zentralen Argument der deutschen Rechtsprechung. Der Bundesgerichtshof vertritt nämlich in ständiger Judikatur die Auffassung, dass es einem Versicherungsnehmer, der mit Überlassung der Versicherungspolice die Versicherungsbedingungen, die geschuldete Verbraucherinformation und eine ordnungsgemäße Widerspruchsbelehrung nach § 5a VVG a.F. erhielt, nach Treu und Glauben - wegen widersprüchlichen Verhaltens - verwehrt ist, sich nach jahrelanger Durchführung des Versicherungsvertrages auf dessen unionsrechtliche Unwirksamkeit zu berufen (grundlegend BGH, Urteil vom 16. Juli 2014 - IV ZR 73/13, Rn. 32 ff.; s. aus jüngerer Zeit BGH, Urteil vom 11. Dezember 2019 - IV ZR 8/19, ECLI:DE:BGH:2019:111219UIVZR8.19.0, Rn. 28).Der Bundesgerichtshof lässt es offenbar genügen, dass das Verhalten des Versicherungsnehmers objektiv widersprüchlich ist: Die ihm eingeräumte und bekannt gemachte Widerspruchsfrist lasse der Versicherungsnehmer bei Vertragsschluss ungenutzt verstreichen und zahle regelmäßig die vereinbarten Versicherungsprämien. Mit diesem im eigenen Interesse begründeten und über lange Zeit fortgeführten Verhalten setze sich der Versicherungsnehmer in Widerspruch, wenn er später geltend mache, ein Vertrag habe nie bestanden, und von der Versicherung, die auf den Bestand des Vertrages habe vertrauen dürfen, Rückzahlung seiner Beiträge verlange. Für den Einwand des Rechtsmissbrauchs seien jedenfalls weder unredliche Absichten noch ein Verschulden des Versicherungsnehmers erforderlich. Durch das Verhalten des Rechtsinhabers muss nur ein ihm erkennbares, schutzwürdiges Vertrauen der Gegenseite auf eine bestimmte Sach- oder Rechtslage hervorgerufen worden sein.Dieser Rekurs des Bundesgerichtshofes auf den Topos von Treu und Glauben, § 242 BGB, erscheint allerdings im Lichte des - zwingenden und vorrangigen - Unionsrechtes und der maßgeblichen Judikatur des Luxemburger Gerichtshofes problematisch (s. zu den unionsrechtlichen Voraussetzungen des Rechtsmissbrauchseinwands Knops, RabelsZ 2021, 505 ff.). Der Einwand des Rechtsmissbrauchs unterliegt danach engen Grenzen und bedarf besonderer Rechtfertigung. Der Gerichtshof verlangt in ständiger Rechtsprechung, dass in der Regel ein subjektives Element hinzukommen muss, um einen Rechtsmissbrauch zu bejahen. Mithin muss der Verbraucher um seine Rechte wissen, was vorliegend gerade nicht der Fall war. Im Interesse des Verbraucherschutzes scheidet eine Beschränkung der Verbraucherrechte aus (vgl. EuGH, Urteil vom 9. September 2021 – C-33/20, C-155/20 und C-187/20, ECLI:EU:C:2021:736).Für eine solche verbraucherfreundliche Haltung spricht auch Art. 38 GRC, der hier zumindest eine Vorwirkung entfaltet. In Art. 38 GRC wird der Grundsatz verankert, dass die Politik der Union ein hohes Verbraucherschutzniveau sicherstellt. Damit geht ein Optimierungsgebot einher. Der Geltungsbereich der Grundrechtecharta - als supreme law of the land und living instrument - ist vorliegend eröffnet, d. h. sie bindet und verpflichtet die Europäische Union sowie deren Mitgliedstaaten (Art. 51 Abs. 1 GRC). Die Anwendbarkeit des Unionsrechts - hier des europaweit determinierten Versicherungsrechts - umfasst und bedingt die Anwendbarkeit der durch die Charta garantierten Grundrechte (EuGH, Urteil vom 26. Februar 2013 - C-617/10, ECLI:EU:C:2013:105, Rn. 21).f) Sollte der Gerichtshof zu der Auffassung gelangen, dass ein wegen Unionsrechtswidrigkeit des Policenmodells bestehendes Widerspruchsrecht nicht verwirkt werden kann, wäre abschließend zu klären, ob es nicht eine zeitliche Begrenzung dieses "ewigen Widerspruchsrechts" geben sollte. Dies gilt insbesondere für den Fall, dass ein Versicherungsvertrag bereits - aufgrund Zeitablaufs, Kündigung oder aus sonstigen Gründen - vollständig beendet worden ist, wie vorliegend in zwei Fällen. Soll ein Widerspruch auch danach noch möglich sein?Dabei könnte zu berücksichtigen sein, dass sich die deutsche Ziviljustiz - aufgrund mehrerer Massenverfahren - am Beginn einer tiefen Krise befinden soll. Massenverfahren wie im Dieselskandal, zum Widerspruch bei Lebensversicherungen oder zur Prämienerhöhung bei Krankenversicherungen führen zu einer außerordentlichen Belastung der deutschen Justiz.2. Zur zweiten und dritten VorlagefrageVergleichbare Fragen stellen sich, wenn sich ein Recht zum Widerspruch daraus ergibt, dass die Belehrung fehlerhaft war oder es an wesentlichen Verbraucherinformationen mangelte. In zahlreichen Fällen greifen Versicherer und Gerichte in Deutschland auf die Gesichtspunkte von Verwirkung und Rechtsmissbrauch zurück, um eine Rückabwicklung oder Schadensersatzansprüche wegen fehlerhafter Informationen abzulehnen (kritisch zu diesem deutschen Sonderweg Knops, RabelsZ 2021, 505 ff.).Der Bundesgerichtshof hält selbst bei einer fehlenden, zumeist aber bei fehlerhaften Widerspruchsbelehrungen die Geltendmachung des Widerspruchsrechts dann für unzulässig, wenn besonders gravierende Umstände des Einzelfalles vorliegen (s. jüngst BGH, Beschluss vom 8. September 2021 - IV ZR 133/20, ECLI:DE:BGH:2021:080921BIVZR133.20.0, Rn. 17; s. auch BGH, Urteil vom 10. Februar 2021 - IV ZR 32/20, ECLI:DE:BGH:2021:100221UIVZR32.20.0, Rn. 17 f.). Gleiches gilt bei fehlender oder fehlerhafter Verbraucherinformation. Die Instanzgerichte nehmen einen solchen Ausnahmefall allerdings in recht großzügiger Weise an.Diese Praxis, die sich in anderen Mitgliedstaaten wohl nicht findet, begegnet im Lichte der aktuellen Rechtsprechung des Gerichtshofes zum Widerruf von Verbraucherdarlehen durchgreifenden Bedenken (EuGH, Urteil vom 9. September 2021, C-33/20, C-155/20 und C-187/20, ECLI:EU:C:2021:736). Der Gerichtshof hat entschieden, dass es einem Kreditgeber verwehrt ist, sich gegenüber der Ausübung des Widerrufsrechts durch einen Verbraucher auf den Einwand der Verwirkung zu berufen, wenn eine zwingende Angabe weder im Kreditvertrag enthalten noch nachträglich ordnungsgemäß mitgeteilt worden ist, unabhängig davon, ob der Verbraucher von seinem Widerrufsrecht Kenntnis hatte, ohne dass er diese Unkenntnis zu vertreten hat. Das gleiche gilt für die Berufung auf Rechtsmissbrauch.Es ist kein überzeugender Grund dafür ersichtlich, dass diese Rechtsprechung nicht auch im Versicherungsrecht gelten sollte.
+			
+			
+			
+			Permalink: https://openjur.de/u/2383030.html (https://oj.is/2383030)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert2
+				
+
+				
+					 Faksimile
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

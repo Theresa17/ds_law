@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBaden-WürttembergOrdentliche GerichtsbarkeitOLG StuttgartRechtsprechungUrteil vom 06.02.2020 - 14 U 162/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Stuttgart, Urteil vom 06.02.2020 - 14 U 162/19
+                      m. Fundstelle
+                      OLG Stuttgart, Urteil vom 06.02.2020 - 14 U 162/19 = openJur 2021, 27165
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Stuttgart, Urteil vom 06.02.2020 - 14 U 162/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 27165
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Die Entscheidung ist durch Beschluss des Oberlandesgerichts Stuttgart vom 31.03.2020, Az. 14 U 162/19, berichtigt worden (s. Ende der Entscheidung) 
+				
+				Tenor
+				1. Auf die Berufung der Beklagten wird das Urteil des Landgerichts Stuttgart vom 19.07.2019, Az. 22 O 241/18, abgeändert. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist vorläufig vollstreckbar. Der Kläger kann die Vollstreckung durch Sicherheitsleistung in Höhe von 110 % des vollstreckbaren Betrages abwenden, sofern nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrages leistet.Streitwert Berufungsverfahren: bis 30.000 EUR  
+				Gründe
+				I.Der Kläger macht gegen die Beklagte Schadensersatz wegen des Erwerbs eines vom sog. "Abgasskandal" betroffenen Fahrzeugs geltend.Das streitgegenständliche Fahrzeug des Typs yy ..., das die Beklagte hergestellt hat, wurde am 30. September 2014 erstmals für den Straßenverkehr zugelassen. In das Fahrzeug hat die Beklagte einen Motor des Entwicklungstyps EA 189 verbaut, in welchem eine Softwareprogrammierung zur Abgasreduzierung im Prüfstandlauf implementiert ist.Mit Bescheid vom 14. bzw. 15. Oktober 2015 verpflichtete das Kraftfahrtbundesamt die Beklagte, bei allen betroffenen Fahrzeugen mit einem Motor des Typs EA 189 die nach Auffassung der Behörde als unzulässige Abschalteinrichtung zu qualifizierende Softwareprogrammierung zu entfernen und den Nachweis zu führen, dass nach deren Entfernen alle technischen Anforderungen der gesetzlichen Vorschriften erfüllt werden.Am 25. Februar 2016 erwarb der Kläger bei einem Vertragshändler der Beklagten das streitgegenständliche Fahrzeug als Gebrauchtwagen mit einer Laufleistung von 11.377 km zu einem Kaufpreis von 29.500 EUR. Zum Zeitpunkt der Berufungsverhandlung wies das Fahrzeug einen km-Stand von 50.349 km auf.Mit Bescheid vom 1. Juni 2016 gab das Kraftfahrtbundesamt die von der Beklagten für Fahrzeugtypen mit der streitgegenständlichen Motorisierung (Cluster 6) entwickelte technische Maßnahme, bestehend aus einem Software-Update, frei und bestätigte, dass die damit verbundene Änderung der Applikationsdaten geeignet sei, die Vorschriftsmäßigkeit der Fahrzeuge herzustellen (Anlage B5).Das Software-Update wurde im Juli 2016 aufgespielt.Mit Schreiben seines Anwalts vom 15. Oktober 2018 (Anlage K 3) forderte der Kläger die Beklagte unter Fristsetzung zur Zahlung von 27.093,55 EUR Zug um Zug gegen Herausgabe des Fahrzeugs sowie zur Zahlung vorgerichtlicher Rechtsanwaltskosten auf. Hierauf reagierte die Beklagte nicht.Zu den Umständen des Kaufs trug der Kläger schon in 1. Instanz unter Angebot einer Parteivernehmung vor, dass er zwar aus den Nachrichten von einem Dieselskandal um die Beklagte gewusst habe, ihm gleichwohl die Betroffenheit des konkreten Fahrzeugs unbekannt geblieben sei und er insbesondere weder von der Beklagten noch vom Verkäufer des Wagens hierzu einen Hinweis erhalten habe. Erst nach der Veröffentlichung von Urteilen des BVerwG zu Fahrverboten habe er geprüft, ob auch sein Fahrzeug betroffen sei (GA 151).Das Landgericht hat der Klage unter Anrechnung von Nutzungsvorteilen des Klägers im Umfang von 25.329,35 EUR nebst Zinsen seit Rechtshängigkeit stattgegeben. Dem Kläger stehe ein Anspruch aus sittenwidriger Schädigung gegen die Beklagte zu. Die Beklagte habe das streitgegenständliche Fahrzeug unter Einsatz einer illegalen Abschalteinrichtung, welche für das Fahrzeug die Gefahr des Widerrufs der Zulassung begründet habe, in den Verkehr gebracht, um sich insbesondere Wettbewerbsvorteile zu verschaffen. Der Umstand, dass der Kläger das Fahrzeug erst nach dem öffentlichen Bekanntwerden des sog. "Abgasskandals" erworben habe, stehe dem nicht entgegen. Denn selbst die Kenntnis vom Gesamtsachverhalt als solchem bedeute nicht, dass der Käufer Kenntnis von der Betroffenheit des konkreten Fahrzeugs habe. Schon gar nicht kenne ein Käufer – hier der Kläger - die genaue Motorbezeichnung, was auch die Beklagte nicht vortrage. Im Übrigen spreche die allgemeine Lebenserfahrung dafür, dass niemand unnötig das Risiko der Stilllegung des Fahrzeugs eingehe, wenn ihm auf dem Markt vergleichbare Produkte ohne entsprechende Risiken angeboten werden.Hiergegen wendet sich die Beklagte mit ihrer Berufung unter Wiederholung und Vertiefung des erstinstanzlichen Vortrags. Sie ist insbesondere der Auffassung, dass ein Anspruch des Klägers scheitere, weil der Einsatz der Softwareprogrammierung zum Zeitpunkt des Vertragsschlusses öffentlich bekannt gewesen sei. Sie habe die Öffentlichkeit, die betroffenen Halter und die Vertragspartner sowie Servicepartner seit dem 22. September 2015 ausführlich und umfassend informiert, wonach alle Konzernfahrzeuge mit einem Dieselmotor des Typs EA 189 von der beanstandeten Software betroffen seien. So habe sie auch seit Anfang Oktober 2015 eine Internet-Plattform zur Abfrage der Betroffenheit des konkreten Fahrzeugs unter Eingabe der FIN für "jedermann" zur Verfügung gestellt. Die Vertriebspartner habe die Beklagte laufend über ein internes, internetbasiertes Kommunikationssystem informiert (sog. "Infonet" GA 185, 197). Das Landgericht habe rechtsfehlerhaft nicht beachtet, dass der Kläger bei Vertragsschluss schon infolge der großflächigen und lang andauernden Medienberichterstattung sowie der Bekanntmachungen der Beklagten von der Installation der Software im konkreten Fahrzeug gewusst habe oder zumindest grob fahrlässig in Unkenntnis hiervon gewesen sei, so dass er sich gerade nicht in einem täuschungsbedingten Irrtum befunden habe. Im Übrigen lasse sich das Handeln der Beklagten bei Vertragsschluss nicht (mehr) als verwerflich qualifizieren; es fehle überdies am Schädigungsvorsatz wie auch am Kausalzusammenhang bzw. der Zurechenbarkeit einer Täuschungshandlung zu einem Schaden. Da sich der Kläger im Rahmen des Verkaufsgesprächs nicht über die Betroffenheit des Fahrzeugs informierte, habe er zu verstehen gegeben, dass dieser Umstand für seine Kaufentscheidung keine Rolle gespielt habe. Im Rahmen einer Parallelwertung in der Laiensphäre genüge insoweit, dass einem Käufer klar gewesen sei, das Fahrzeug sei mit einer nicht regelkonformen Softwaresteuerung ausgestattet.Die Beklagte beantragt,das am 19. Juli 2019 verkündete Urteil des Landgerichts Stuttgart, 22 O 241/18, im Umfang der Beschwer der Beklagten abzuändern und die Klage vollumfänglich abzuweisen.Der Kläger beantragt die Zurückweisung der Berufung. Ferner hat er sich der Berufung der Beklagten angeschlossen mit der Rüge, das Landgericht habe eine unzureichende Gesamtlaufleistung für das Fahrzeug zugrunde gelegt.Er beantragt seinerseits unter Abänderung des erstinstanzlichen Urteils:Die Beklagte wird verurteilt, an die Klagepartei 26.561,00 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über Basiszinssatz seit dem 23.01.2019 Zug um Zug gegen Rückgabe und Übereignung des Fahrzeugs X yy ... mit der Fahrzeugidentifikationsnummer ... zu zahlen.Die Beklagte beantragt die Zurückweisung der Anschlussberufung unter Verteidigung des landgerichtlichen Urteils.Für die weiteren Einzelheiten des Parteivorbringens wird auf die im Berufungsverfahren gewechselten Schriftsätze nebst Anlagen sowie auf das Vorbringen der Parteien in der mündlichen Verhandlung vom 9. Januar 2020 Bezug genommen.II.Die zulässige Berufung hat in der Sache Erfolg. Der Kläger hat keinen Anspruch auf Rückzahlung des Kaufpreises gegen Rückgewähr seines PKW X yy, Baujahr 2014, gegen die Beklagte als Herstellerin des Fahrzeugs. Ein Schadensersatzanspruch steht dem Kläger weder aus § 826 BGB noch aus einem anderen Rechtsgrund gegen die Beklagte zu. Ohne Erfolg bleibt damit auch die vom Kläger eingelegte Anschlussberufung.1. Ein Schadensersatzanspruch gem. § 280 Abs. 1, §§ 311, 241 BGB scheidet mangels vorvertraglichen Schuldverhältnisses zwischen den Parteien aus (vgl. schon OLG Celle BeckRS 2019, 14988 Rn. 40). Auf ein eigenes wirtschaftliches Interesse der Beklagten am Abschluss des Kaufvertrages über das streitgegenständliche Fahrzeug lässt sich aus dem Vortrag des Klägers nicht schließen.2. Für einen Schadensersatzanspruch aus vorsätzlicher sittenwidriger Schädigung gem. § 826 BGB fehlt es an einem durch die Täuschung der Beklagten verursachten Schaden.a) Zwar neigt auch der Senat im Einklang mit der ganz herrschenden obergerichtlichen Rechtsprechung zu der Auffassung, dass das Inverkehrbringen von Fahrzeugen durch die Beklagte unter bewusstem Verschweigen der ihnen innewohnenden Gefahr einer Betriebsuntersagung eine konkludente Täuschung darstellt (vgl. OLG Hamm BeckRS 2019, 20495; OLG Karlsruhe ZIP 2019, 863; OLG Koblenz NJW 2019, 2237; OLG Köln MDR 2019, 222; OLG Stuttgart BeckRS 2019, 23215; in der Tendenz OLG Celle BeckRS 2019, 14988; OLG Dresden BeckRS 2019, 19566; OLG Köln BeckRS 2019, 13405; zur Strategieentscheidung als Motorzulieferer OLG Karlsruhe WM 2019, 1510; aA OLG Braunschweig ZIP 2019, 815). Die Gefahr der Betriebsuntersagung folgt aus der von der Beklagten in den Motorentyp EA 189 zur Abgasreduzierung beim Prüfstandlauf implementierten Softwareprogrammierung, bei welcher es sich um eine nach Art. 5 Abs. 2 Satz 1 VO (EG) 715/2007 unzulässige Abschalteinrichtung handelt (vgl. BGH, Beschluss vom 8. Januar 2019 – VIII ZR 225/17, NJW 2019, 1133).b) Vorliegend ist aber schon nicht davon auszugehen, dass dem Kläger durch die Täuschung der Beklagten ein Schaden zugefügt wurde.aa) Die von § 826 BGB tatbestandlich vorausgesetzte Schädigung erfasst nicht nur jede nachteilige Einwirkung auf die Vermögenslage im Sinne eines rechnerischen Minus. Aus dem subjektbezogenen Ansatz des Schadensbegriffs folgt, dass selbst bei objektiver Werthaltigkeit von Leistung und Gegenleistung ein Vermögensschaden schon im Abschluss eines Vertrages als solchem liegen kann, zu welchem der Betroffene durch das haftungsbegründende Verhalten gebracht wurde, den er aber sonst nicht geschlossen hätte und dessen Leistung für seine Zwecke auch nicht voll brauchbar ist, so dass es sich für den Betroffenen um eine Belastung mit einer "ungewollten" Verpflichtung handelt (zum Ganzen BGH, Urteil vom 28. Oktober 2014 – VI ZR 15/14, NJW-RR 2015, 275; Urteil vom 21. Dezember 2004 – VI ZR 306/03, NJW-RR 2005, 611; Urteil vom 19. Juli 2004 – II ZR 402/02, NJW 2004, 2971).Diese "ungewollte" Verpflichtung muss wiederum durch das haftungsbegründende Verhalten – hier die konkludente Täuschung – adäquat kausal verursacht worden sein, was der Fall ist, wenn über Umstände getäuscht wird, die bei dem konkreten Rechtsgeschäft einen Einfluss auf die Entschließung haben (vgl. BGH, Urteil vom 12. Mai 1995 – V ZR 34/94, NJW 1995, 2361 zum Darlegungsumfang). Bei typischen Geschehensabläufen kann hierbei uU gar ein Beweis des ersten Anscheins in Betracht kommen (vgl. BGH, Urteil vom 5. Dezember 1975 – V ZR 34/74, WM 1976, 111 juris Rn. 53; krit. Singer/von Finckenstein, in: Staudinger, BGB, § 123 Rn. 89). Die Ursächlichkeit der Täuschung scheidet hingegen aus, wenn der zu Täuschende Kenntnis vom Vorliegen der betreffenden Tatsachen hat und den Vertrag gleichwohl abschließt (vgl. OLG Karlsruhe ZIP 2019, 863 Rn. 22). Nicht anders zu behandeln sind Fallgestaltungen, in welchen es dem zu Täuschenden gleichgültig ist, ob die behaupteten Tatsachen zutreffen oder nicht, so dass er seine Verpflichtung ohne eine Erwartung an diesen Umstand eingeht und diesen nicht in seine Entschlussfassung einfließen lässt (vgl. Perron in: Schönke/Schröder, 30. Aufl., § 263 Rn. 40).bb) Der Kläger hat zwar schriftsätzlich vorgetragen und in der Berufungsverhandlung nochmals bekräftigt, er hätte das Fahrzeug im Februar 2016 nicht gekauft, wenn ihm der Verkäufer – ein Vertragshändler der Beklagten - mitgeteilt hätte, dass das Fahrzeug vom sog. "Abgasskandal" betroffen gewesen ist. Der Senat kann aber seine Zweifel daran nicht ausräumen, dass der Kläger bei gehöriger Aufklärung über die Betroffenheit das Fahrzeug gleichwohl nicht gekauft hätte. Für den Senat erscheint es in gleicher Weise möglich und aufgrund der Umstände gar naheliegend, dass dem Kläger die Frage der Betroffenheit des Fahrzeugs für seinen Entschluss gleichgültig und der Vertragsschluss auch über ein insoweit manipuliertes, aber durch ein Softwareupdate sodann wiederherstellungsfähiges Fahrzeug gewollt gewesen sein könnte.Der sog. "Abgasskandal" war dem Kläger aus der Presse bereits bekannt. Er informiert sich regelmäßig auch durch Automobilfachzeitschriften wie die Clubzeitschrift des ADAC. Mit diesem Hintergrundwissen zu den Besonderheiten von Diesel-Fahrzeugen der Beklagten befragte der Kläger gleichwohl den Mitarbeiter der Verkäuferin nicht zur Betroffenheit des streitgegenständlichen Fahrzeug, das der Kläger gerade wegen seiner Diesel-Motorisierung zum Transport eines Wohnwagens ins Auge gefasst hatte.Schon dieser Geschehensablauf verdeutlicht für den Senat, dass der Umstand der Betroffenheit für den Kläger keine entscheidende Rolle bei seiner Kaufentscheidung gespielt haben dürfte und er das Fahrzeug selbst im Fall der Aufklärung hierüber gekauft hätte. Denn wie der Kläger in der Berufungsverhandlung ausdrücklich bekräftigte, ist er mit dem Fahrzeug als solchem zufrieden. Hätte man ihm schon im Zeitpunkt der Kaufentscheidung mitgeteilt, dass das Fahrzeug ein Software-Update benötige, so wäre er - so sein eigenes Bekunden - davon ausgegangen, dass mit dem Aufspielen desselben das Fahrzeug wieder in Ordnung gewesen wäre. Damit aber bestehen durchgreifende Zweifel daran, dass der Kläger selbst bei gehöriger Aufklärung über die Betroffenheit des Fahrzeugs vom Kauf Abstand genommen hätte; jedenfalls vermag sich der Senat auf dieser Grundlage nicht die für § 286 ZPO hinreichende Gewissheit über einen von der Beklagten verursachten Schaden zu verschaffen, der kausal auf ein Täuschungsverhalten der Beklagten zurückgeht. Hierfür trägt aber der Kläger schon nach den allgemeinen Grundsätzen als Anspruchsteller jeweils die Darlegungs- und Beweislast (vgl. nur OLG Köln BeckRS 2019, 13405).3. Für einen Schadensersatzanspruch gem. § 823 Abs. 2 BGB iVm. § 27 EG-FGV, wie ihn der Kläger überdies geltend macht, fehlt es § 27 EG-FGV am notwendigen Charakter eines Schutzgesetzes. Insoweit schließt sich der Senat den überzeugenden Ausführungen des OLG Braunschweig an (ausführlich OLG Braunschweig ZIP 2019, 815 Rn.137ff.; folgend auch OLG Köln BeckRS 2019, 13405 OLG Celle BeckRS 2019, 14988). Die weiterhin denkbaren Anspruchsgrundlagen der § 831 BGB sowie § 823 Abs. 2 BGB iVm. § 263 StGB scheiden aus den bereits zu § 826 BGB dargelegten Gründen aus.III.Die Kostenentscheidung beruht auf § 91 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus §§ 708 Nr. 10, 711 ZPO. Die bei der vorliegenden Einzelfallentscheidung zur Anwendung gelangten Grundsätze sind höchstrichterlich hinreichend geklärt.Beschluss vom 31.03.2020Das Endurteil des Oberlandesgerichts Stuttgart - 14. Zivilsenat - vom 06.02.2020 wird im Tatbestand auf S. 2 unter I.) 4. Abschnitt wie folgt berichtigt:statt "Am 25. Februar 2016" muss es heißen "Am 16./29. Februar 2016"GründeEs liegt ein offensichtliches Diktat- oder Schreibversehen vor, § 319 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2352724.html (https://oj.is/2352724)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate17
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

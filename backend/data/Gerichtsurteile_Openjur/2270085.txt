@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungUrteil vom 27.11.2019 - 26 U 20/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Urteil vom 27.11.2019 - 26 U 20/19
+                      m. Fundstelle
+                      OLG Köln, Urteil vom 27.11.2019 - 26 U 20/19 = openJur 2020, 46625
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Urteil vom 27.11.2019 - 26 U 20/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 46625
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 13 O 90/18
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Auf die Berufung der Beklagten wird das Urteil der 13. Zivilkammer des Landgerichts Bonn - Einzelrichterin - vom 6. März 2019 (Az. 13 O 90/18) abgeändert und die Klage insgesamt abgewiesen.Der Kläger hat die Kosten des Berufungsverfahrens zu tragen.Das vorliegende und das angefochtene Urteil sind ohne Sicherheitsleistung vorläufig vollstreckbar.Die Revision wird nicht zugelassen.  
+				Gründe
+				I.Von der Darstellung der tatsächlichen Feststellungen wird gem. §§ 540 Abs. 2, 313a Abs. 1 S. 1 ZPO in Verbindung mit § 544 Abs. 1 S. 1 ZPO, § 26 Nr. 8 EGZPO abgesehen.II.1. Die Berufung ist zulässig. Sie ist insbesondere form- und fristgerecht eingelegt worden.2. In der Sache hat die Berufung ebenfalls Erfolg.Dem Kläger steht gegen die Beklagte aus keinem rechtlichen Gesichtspunkt ein Schadensersatzanspruch gerichtet auf Rückgängigmachung des Kaufs seines Skoda A zu, der mit einem von der Beklagten entwickelten und hergestellten Dieselmotor EA 189 ausgestattet ist.a) Insbesondere scheidet mangels kausalen Schadens ein Schadensersatzanspruch wegen vorsätzlicher sittenwidriger Schädigung gemäß § 826 BGB durch das Inverkehrbringen des Dieselmotors EA 189 mit einer Steuerungssoftware aus, die bei Erkennen einer Abgasprüfung in einen besonderen Betriebsmodus umschaltet, sodass auf dem Prüfstand - anders als im gewöhnlichen Fahrbetrieb - die Grenzwerte der Abgasnorm Euro 5 eingehalten werden.Zwar dient der Schadensersatzanspruch gemäß § 826 BGB nicht nur dem Ausgleich jeder nachteiligen Einwirkung durch das sittenwidrige Verhalten auf die objektive Vermögenslage des Geschädigten. Vielmehr muss sich der Geschädigte auch von einer auf dem sittenwidrigen Verhalten beruhenden Belastung mit einer "ungewollten" Verpflichtung wieder befreien können. Schon eine solche kann einen zu ersetzenden Schaden darstellen (BGH, Urteil vom 28.10.2014 - VI ZR 15/14, MDR 2015, 89 f., juris Rn. 19).Weil der Verkäufer den Kläger aber beim Kauf des Gebrauchtwagens rund zwei Jahre nach Bekanntwerden des Dieselskandals ausdrücklich darauf hingewiesen hat, dass vor Zulassung zum Straßenverkehr ein Update aufgespielt werden muss, ist ihm durch die vor dem Update vorhandene manipulierte Motorsteuerung kein (normativer) Schaden entstanden. Die ursprünglich durch die manipulierte Motorsteuerung bloß vorgetäuschte Einhaltung der Abgasnorm Euro 5 und die dadurch auf anfechtbare Weise erlangte Typengenehmigung war für seine Kaufentscheidung nicht ursächlich.Nach dem abgeschlossenen Kaufvertrag war es zu keiner Zeit vorgesehen, dass der Kläger ein Fahrzeug erwirbt und fährt, dessen Typengenehmigung nur mittels der beim EA 189 eingesetzten Manipulationssoftware erlangt worden ist. Er hat das Fahrzeug nicht in dem Zustand vor dem Update mit bloß vorgetäuschter Zulassungsfähigkeit erworben und nicht darauf vertraut, dass der Wagen bereits in seinem ursprünglichen Zustand den Anforderungen der Abgasnorm Euro 5 entspricht. Der Verkäufer hat vielmehr unstreitig von Anfang an klargestellt, dass für die Zulassung des Wagens zum Straßenverkehr erst noch ein Update aufgespielt werden muss. Der Kläger hat den Wagen im Zustand nach Aufspielen des Updates gekauft, durch das die zuvor vorhandene Manipulationssoftware gerade beseitigt worden ist. Für die Feststellung, dass der Kläger nicht auf die ursprüngliche durch Täuschung erlangte Typengenehmigung vertraut hat, ist es ohne Belang, dass der Verkäufer dem Kläger den Hintergrund für das Update oder gar dessen Wirkungsweise nicht erläutert hat.b) Die Beklagte hat auch nicht zum Nachteil des Klägers nunmehr durch das bereitgestellte Update eine vorsätzliche sittenwidrige Schädigung begangen. Insbesondere sind keine greifbaren Anhaltspunkte dafür vorgetragen worden, dass durch das Update wiederum in irgendeiner (anderen) Form die Einhaltung der Abgasnorm Euro 5 nur vorgetäuscht wird, und das Kraftfahrt-Bundesamt trotz gesteigerter Aufmerksamkeit aufgrund des Dieselskandals dies im Rahmen der Genehmigung nicht erkannt hat. Offen bleiben kann, ob die Einhaltung der Abgasnorm Euro 5 mittels des Updates durch andere Nachteile, wie höherem Verbrauch, geringerer Leistung oder größerem Verschleiß, erkauft worden ist. Jedenfalls ist nichts dafür ersichtlich, dass hierin eine vorsätzliche sittenwidrige Schädigung gesehen werden kann. Unabhängig davon hat der Kläger das Fahrzeug gerade nicht mit den Eigenschaften vor dem Update gekauft.c) Soweit der Kläger beim Kauf die Fehlvorstellung hatte, einen Wagen zu erwerben, der den strengsten Abgasnormen genügt und also die Anforderungen von Euro 6 und nicht bloß Euro 5 erfüllt, ist diese jedenfalls nicht von der Beklagten hervorgerufen worden.3. Die Kostenentscheidung folgt aus § 97 Abs. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf §§ 708 Nr. 10, 711, 713 ZPO.4. Die Voraussetzungen für die Zulassung der Revision gemäß § 543 Abs. 2 ZPO liegen nicht vor. Weder hat die Sache grundsätzliche Bedeutung, noch ist eine Entscheidung des Revisionsgerichts zur Fortbildung des Rechts oder Sicherung einer einheitlichen Rechtsprechung erforderlich. Die Entscheidung beruht im Wesentlichen Besonderheiten des vorliegenden Einzelfalls.Streitwert für das Berufungsverfahren: bis 19.000 € (§ 47 Abs. 1 S. 1 GKG)
+			
+			
+			
+			Permalink: https://openjur.de/u/2270085.html (https://oj.is/2270085)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

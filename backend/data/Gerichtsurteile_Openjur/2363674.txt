@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 06.12.2019 - 15 O 204/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 06.12.2019 - 15 O 204/19
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 06.12.2019 - 15 O 204/19 = openJur 2021, 33399
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 06.12.2019 - 15 O 204/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 33399
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits hat der Kläger zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht Ansprüche im Zusammenhang mit dem sogenannten Dieselskandal geltend und nimmt die Beklagte als Herstellerin des Motors des von ihm erworbenen Fahrzeugs in Anspruch.Der Kläger erwarb am 12.11.2015 den streitgegenständlichen X bei einem Autohaus in Z zu einem Kaufpreis von 23.690,00 EUR als Gebrauchtwagen mit einer Kilometerlaufleistung von 16.600 gefahrenen km zum Erwerbszeitpunkt. Das Fahrzeug ist mit einem Dieselmotor des Typs $$ ...# ausgestattet, deren Herstellerin die Beklagte ist. Für den Fahrzeugtyp wurde die Typengenehmigung nach der Verordnung (EG) NR. 715/2007 mit der Schadstoffklasse Euro 5 erteilt. Die im Zusammenhang mit dem Motor verwendete Software erkennt, ob das Fahrzeug auf einem Prüfstand dem neuen europäischen Fahrzyklus (NEFZ) unterzogen wird und schaltet in diesem Fall in einen Abgasrückführungsmodus 1, einen stickoxidoptimierten Modus. In diesem Modus findet eine Abgasrückführung mit niedrigem Stickoxidausstoß statt. So werden mehr Stickoxide in den Motor zurückgeführt, wo sie erneut am weiteren Verbrennungsvorgang beteiligt werden, bevor sie das Emissionskontrollsystem erreichen. Im normalen Fahrbetrieb außerhalb des Prüfstandes schaltet der Motor dagegen in den Abgasrückführungsmodus 0, bei dem die Abgasrückführung geringer und der Stickoxidausstoß höher ist. Für die Erteilung der Typengenehmigung der Emissionsklasse Euro 5 maßgeblich war der Stickoxidausstoß auf dem Prüfstand. Im September 2015 räumte die Beklagte öffentlich die Verwendung einer entsprechenden Software ein. Am 22.09.2015 gab sie eine Pressemitteilung und ad hoc Mitteilung dazu heraus unter Bezeichnung des Motorentyps und mit dem Hinweis, dass an technischen Maßnahmen zur Beseitigung der Abweichung gearbeitet werde. Mit einer weiteren Pressemitteilung vom 29.09.2015 wurde mitgeteilt, dass ein Aktionsplan zur Umrüstung entworfen sei mit Hinweis auf die Website der Beklagten zu weiteren Informationen. Am 02.10.2015 wurde der Presse mitgeteilt, dass eine Website zur Abfrage der Betroffenheit des eigenen Fahrzeugs unter Eingabe der FIN eingerichtet worden sei. Auch X richtete eine solche Website ein, wie mit Pressemitteilung vom 5. Oktober 2015 bekannt gegeben wurde. Am 02.10.2015 teilte die Beklagte ihren Partnerunternehmen mit, dass Gebrauchtwagenkäufer über das Vorhandensein der Abschaltautomatik aufgeklärt werden müssten. Gegen die Beklagte erging unter dem 14.10.2015 ein bestandskräftiger Bescheid des Kraftfahrtbundesamtes (KBA) mit nachträglichen Nebenbestimmungen zur Typengenehmigung, der auch das Fahrzeug des Klägers betrifft. Das KBA ging von einer unzulässigen Abschaltvorrichtung aus und gab der Beklagten auf, diese zu beseitigen und die Einhaltung der maßgeblichen Grenzwerte anderweitig zu gewährleisten. Am 15.10.2015 wurde die Presse darüber informiert, dass ein Rückruf Aktion im Januar 2016 starten solle. Am 23.10.15 informierte auch X seine Vertriebspartner über die Betroffenheit und die Maßnahmen. Am 25.11.2015 teilte die Beklagte der Presse mit, dass sie das Software Update dem KBA vorgestellt und dieses das Update nach intensiver Begutachtung bestätigt habe. Nach dessen Installation sollen die betroffenen Fahrzeuge nur noch in einem adaptierten Modus 1 betrieben werden. Genauere Informationen zur Dauer des einzelnen Updates und zum Zeitplan der Verfügbarkeit der Updates wurden am 16.12.2015 berichtet. Nach weiterer Abstimmung mit dem KBA konnte die Beklagte von dem KBA die Halterdaten abfragen und die Halter dann einzeln anschreiben, was im Februar 2016 erfolgte.Von der Problematik der Abgasmanipulation, dem sog. Dieselskandal, erfuhr der Kläger im Jahr 2015 im Zuge der Medienberichterstattung. Beim Kauf des Fahrzeugs im November 2015 machte er sich jedoch keine Gedanken darüber, dass das Fahrzeug von dem Skandal betroffen sein könnte.Seinen Anspruch meldete er am 28.12.2018 durch seine Prozessbevollmächtigten zum Klageregister bei der Musterfeststellungsklage bei dem OLG Braunschweig (Az. 4 MK 1/18) an. Am 1. November 2018 hat der Verbraucherzentrale Bundesverband die Musterfeststellungsklage gegen die Beklagte erhoben. Die Anmeldung nahm der unter dem 12.04.2019 zurück.Mit Schreiben vom 23.05.2019 forderten die Prozessbevollmächtigten des Klägers die Beklagte unter Fristsetzung bis zum 06.06.2019 zur Zahlung von Schadensersatz in Höhe des Kaufpreises Zug um Zug gegen Rückgabe und Rückübereignung des KFZ erfolglos auf.Der Kläger behauptet, er sei beim Kauf davon ausgegangen, dass die Einhaltung der genannten Euro-Abgasnorm auch einen besonders umweltfreundlichen Alltagsbetrieb zulasse. Hätte er von dem Einsatz der Abschalteinrichtung gewusst, wäre der Kauf nicht zustande gekommen. Der Kläger ist der Auffassung, die Beklagte hafte insbesondere wegen vorsätzlicher sittenwidriger Schädigung nach § 826 BGB. Er behauptet, die gesellschaftsrechtlich bestellten Organe der Beklagten hätten Kenntnis von der Manipulation gehabt und diese gebilligt. Der Vorstand habe von dem Einsatz der Abschalteinrichtung sowie der Tatsache gewusst, dass die betroffenen Autokäufer einen Schaden erleiden würden. Die Software habe die Beklagte mit dem Ziel der Gewinnmaximierung eingesetzt.Der Kläger lässt sich eine Nutzungswertentschädigung auf der Grundlage einer angenommenen Gesamtfahrleistung des Fahrzeugs von 300.000 km anrechnen. Zum Schluss der mündlichen Verhandlung betrug die Kilometerlaufleistung 50.952 km. Die vorprozessualen Rechtsanwaltskosten macht der Kläger auf Basis einer 2,0 Geschäftsgebühr gem. Nr. 2300 VV RVG geltend.Der Kläger hat mit Schriftsatz vom 31.10.2019 seine ursprünglichen Klageanträge um den Antrag zu 4. erweitert und beantragt nunmehr,1. die Beklagte zu verurteilen, an ihn 21.672,01 EUR nebst Zinsen i.H.v. 4 % aus einem Betrag i.H.v. 23.690,00 EUR seit dem 12.11.2015 bis zum Eintritt der Rechtshängigkeit sowie in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen, Zugum-Zug gegen Übereignung und Herausgabe des Fahrzeugs der Marke X vom Typ Y 2.0 TDI Combi mit der Fahrzeugidentifikationsnummer (FIN) $$$$$#$#$...# nebst 2 Fahrzeugschlüsseln, KFZ-Schein, KFZ-Brief und Serviceheft;2. hilfsweise festzustellen, dass die Beklagte verpflichtet ist, ihm Schadensersatz zu bezahlen für Schäden, die aus der Manipulation des Fahrzeugs der Marke X vom Typ Y 2.0 TDI Combi mit der Fahrzeugidentifikationsnummer (FIN) $$$$$#$#$...# durch die Beklagte resultieren;3. festzustellen, dass sich die Beklagte mit der Annahme der in den vorgenannten Klageanträgen genannten Zug um Zug Leistung im Annahmeverzug befindet;4. die Beklagte zu verurteilen, dem Kläger die durch die Beauftragung seiner Prozessbevollmächtigten entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.331,13 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen sowie von weiteren Kosten in Höhe von 99,25 EUR freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte ist der Ansicht, die Software stelle keine verbotene Abschalteinrichtung, sondern eine innermotorische Maßnahme dar. Auf die Grenzwerte im tatsächlichen Fahrbetrieb komme es nicht an, da sich der Gesetzgeber dafür entschieden habe, die Grenzwerte unter Laborbedingungen zu erheben. Insbesondere fehle es an einem Schädigungsvorsatz. Von einem solchen könne nach der öffentlichen Bekanntmachung der Problematik seit dem 22. September 2015 nicht mehr ausgegangen werden. Auch fehle es an einer Täuschung. Nach derzeitigem Ermittlungsstand lägen keine Erkenntnisse dafür vor, dass eines ihrer Vorstandsmitglieder im Sinne des Aktienrechts an der Entwicklung der Software beteiligt gewesen sei oder die Entwicklung oder Verwendung der Software in Auftrag gegeben habe. Sie bestreitet, dass ein Vorstandsmitglied im aktienrechtlichen Sinne von der Entwicklung gewusst habe. Weitergehender Vortrag dazu, welche Personen von der Entwicklung der Umschaltlogik und ihrer Verwendung Kenntnis gehabt hätten sei ihr nicht zumutbar. Ein Schaden sei nicht entstanden, da das Fahrzeug sicher und fahrbereit sei und der Kläger auch nicht in ihrer Dispositionsfreiheit beeinträchtigt sei. Es fehle zudem bei Erwerbsvorgängen nach September 2015 an der Kausalität eines schädigenden Verhaltens der Beklagten für den Kaufvertragsschluss. Nach Bekanntwerden des Einsatzes der Abschaltautomatik könne es Käufern von Dieselfahrzeugen, die sich nicht aktiv nach der Verwendung der Automatik informierten, nicht mehr maßgeblich auf Stickoxidwerte bzw. Umweltfreundlichkeit oder die Umschaltlogik angekommen sein.Wegen der Einzelheiten des Sach- und Streitstandes wird auf den Inhalt der wechselseitigen Schriftsätze nebst Anlagen sowie auf das Sitzungsprotokoll vom 18.10.2019 Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet. Auch mit dem Hilfsantrag hat der Kläger keinen Erfolg.I.Dem Kläger stehen keine Ansprüche gegen die Beklagte aus § 826 BGB zu.Das Gericht folgt insoweit der auch unter Berücksichtigung gegenteiliger Auffassungen überzeugenden Rechtsprechung des Oberlandesgerichts (OLG) Celle und OLG Köln. Es wird auch hinsichtlich der Begründung im Einzelnen auf deren nach Auffassung des Gerichts zutreffenden Ausführungen, die sich auch auf den vorliegenden Fall übertragen lassen, insbesondere im Urteil des 24. Zivilsenats des OLG Köln vom 06.06.2019 (24 U 5/19) sowie im Beschluss des 7. Zivilsenats des OLG Celle vom 01.07.2019 (7 U 33/18), Bezug genommen. Die nachfolgenden Ausführungen beschränken sich daher auf die Kernpunkte, die die getroffene Entscheidung rechtfertigen.Zwar liegt in der Motorsteuerungssoftware, mit denen die Stickoxidwerte auf dem Prüfstand manipuliert wurden, ein Sachmangel vor, da es sich um eine unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 1 und 2 VO (EG) 715/2007 handelt, wodurch das Fahrzeug nicht vorschriftsmäßig im Sinne des § 5 Abs. 1 FZV ist und ihm die Gefahr der Betriebsuntersagung bzw. -beschränkung anhaftet.Es fehlt jedoch an einem sittenwidrigen schädigenden Verhalten und einem Schädigungsvorsatz der Beklagten im maßgeblichen Zeitpunkt. Hierfür kommt es auf den Zeitpunkt der Schadensherbeiführung, den Abschluss des Kaufvertrages am 12.11.2015 an. Sittenwidrig ist, was "gegen das Anstandsgefühl aller billig und gerecht Denkenden" verstößt. Dies verlangt im Einzelfall Umstände, "die das schädigende Verhalten wegen seines Zwecks oder wegen des angewandten Mittels oder mit Rücksicht auf die dabei gezeigte Gesinnung nach den Maßstäben der allgemeinen Geschäftsmoral und des als ‚anständig’ Geltenden verwerflich machen" (BGH VersR 2001, 1431 (1432); VersR 2013, 200 Rn. 25 = NJW-RR 2013, 550; VersR 2014, 112 Rn. 8 = NJW 2014, 1380).Bereits im Herbst 2015 ist die Beklagte an die Öffentlichkeit getreten und hat bekanntgegeben, dass die von ihr hergestellten Dieselmotoren des Typs $$ ...# nachgebessert werden mussten. Am 22.09.2015 gab es eine Pressemitteilung und ad hoc Mitteilung dazu unter Bezeichnung des Motorentyps und dem Hinweis, dass an technischen Maßnahmen zur Beseitigung der Abweichung gearbeitet werde. Mit einer weiteren Pressemitteilung vom 29.09.2015 wurde mitgeteilt, dass ein Aktionsplan zur Umrüstung entworfen sei mit Hinweis auf die Website der Beklagten. Am 02.10.2015 wurde der Presse mitgeteilt, dass eine Website zur Abfrage der Betroffenheit des eigenen Fahrzeugs unter Eingabe der FIN eingerichtet worden sei. Auch X richtete eine solche Website ein, wie mit Pressemitteilung vom 5. Oktober 2015 bekanntgegeben wurde. Am 02.10.2015 teilte die Beklagte ihren Partnerunternehmen mit, dass Gebrauchtwagenkäufer über das Vorhandensein der Abschaltautomatik aufgeklärt werden müssten.Die Beklagte hat sich mit der Aufarbeitung der Problematik befasst und die Öffentlichkeit informiert, sodass ihr jedenfalls in Bezug auf potenzielle Gebrauchtwagenkäufer ab Herbst 2015 kein verwerfliches Verhalten mehr angelastet werden kann. Sie hat das Vorhandensein der Umschaltautomatik eingeräumt und deren Beseitigung angekündigt und damit den schädigenden Zustand, nämlich die Vertuschung der Abgasmanipulation in der Öffentlichkeit, nicht mehr aufrecht erhalten. Der zuvor zu erhebende Vorwurf, potenzielle Kunden durch Vorspiegelung einer nicht gefährdeten Nutzbarkeit der Fahrzeuge im Straßenverkehr unter Ausnutzung deren Vertrauens in das KBA mit dem Ziel der Gewinnmaximierung zu täuschen, ist somit weggefallen.Gegenteiligen Auffassungen in der Rechtsprechung, die sich insbesondere darauf stützen, die Aufarbeitung durch die Beklagte sei nicht ausreichend sondern zu pauschal gewesen, ist nicht zu folgen. Dass die Beklagte nicht schon im Herbst 2015 mitgeteilt hat, dass eine bewusste Manipulation erfolgt war, und die Aufarbeitung der internen Verantwortlichkeit ist für die Frage der vorsätzlichen sittenwidrigen Schädigung unerheblich. Es genügte insoweit, dass die Beklagte sicherzustellen suchte, dass potenzielle Kunden von dem Vorhandensein des Problems der Motorsteuerungssoftware und der Notwendigkeit und dem Bemühen um technische Lösungen und Nachrüstung erfuhren. Auch dass für den Verbraucher nicht frühzeitig und deutlicher die konkreten Fahrzeugmodelle benannt wurden, welche mit dem Motorentyp ausgestattet waren, genügt für sich genommen nicht dafür, weiterhin trotz breiter Offenlegung der Problematik im Übrigen von einem verwerflichen Verhalten auszugehen. Die von der Beklagten ergriffenen Maßnahmen genügten und überließen es jedem einzelnen potenziellen Käufer, selbst darüber zu entscheiden, ob er ungeachtet des "Dieselskandals" Vertrauen in Dieselfahrzeuge der Beklagten und der Marken, die mit Motoren der Beklagten ausgerüstet wurden, hatte oder wegen offener Fragen im Zusammenhang mit dem Skandal Abstand von einem Kauf nahm.Zudem fehlt es an der Kausalität des Verhaltens der Beklagten für einen Schaden, die vom Kläger darzulegen und ggf. zu beweisen ist. Hierfür gilt der Maßstab des § 286 ZPO. Der Kläger trägt vor, er habe von der Abgasproblematik und dem sogenannten Dieselskandal durch die Medienberichterstattung erfahren, dies möglicherwiese auch schon im Jahr 2015. Dass das konkrete Fahrzeug hiervon betroffen war, habe er nicht gewusst, beim Kauf des Fahrzeugs habe er sich keine Gedanken darüber gemacht, dass das Fahrzeug von dem Skandal betroffen sein könnte. Es sei als sogenanntes Greentech- Fahrzeug verkauft worden. Nach der Sachlage im November 2015 bestand für den Kläger objektiv der Verdacht, dass Fahrzeug mit einem manipulierten Motor ausgestattet gewesen sein könnte. Dass er gleichwohl den Verkäufer nicht danach gefragt hat, indiziert, dass dieser Aspekt keine entscheidende Rolle bei der Kaufentscheidung gespielt hat bzw. hypothetisch bei positiver Kenntnis eine solche gespielt hätte. Allein die Tatsache, dass das Fahrzeug als Fahrzeug mit der Eigenschaft "Greentech" verkauft wurde, lässt für sich genommen keinen Rückschluss auf das Vorhandensein oder Nichtvorhandensein der abgassteuernden Software zu.II.Ein Anspruch folgt auch nicht aus §§ 823 Abs. 2 BGB i.V.m. § 263 StGB, §§ 823 Abs. 2 BGB i.V.m. §§ 6, 27 EG- FGV oder aus §§ 280 Abs. 1, 311 Abs. 3, 241 Abs. 2 BGB.Für die Verletzung des § 263 StGB fehlt es bereits - wie ausgeführt - an einer fortbestehenden Täuschungshandlung der Beklagten im maßgeblichen Zeitpunkt des Fahrzeugkaufes.Die §§ 6, 27 EG- FGV stellen keine Schutzgesetze dar, deren Verletzung deshalb zu einer Schadensersatzpflicht führen würde.Für eine Haftung unter Anwendung des § 311 Abs. 3 BGB fehlt es daran, dass nicht ersichtlich ist, dass die Beklagte bei dem Erwerb des Fahrzeugs besonderes persönliches Vertrauen in Anspruch genommen hätte.Es fehlt zudem wie erörtert auch für solche Ansprüche an der Kausalität.Im Übrigen wird auf die für den vorliegenden Fall entsprechend geltenden Ausführungen des OLG Celle Beschluss vom 01.07.2019 (7 U 33/18) Bezug genommen, denen sich das Gericht anschließt.III.Auch der Hilfsantrag ist mangels Anspruchs auf Schadensersatz dem Grunde nach unbegründet.IV.Mangels Hauptanspruch auf Schadensersatz besteht auch kein Anspruch auf Zahlung von Zinsen, weder aus § 849 BGB noch als Rechtshängigkeitszinsen aus §§ 291, 288 Abs. 1 BGB, 253, 261 ZPO.V.Da die Beklagte keinen Schadensersatz schuldete, ist sie infolge des Schreibens der Prozessbevollmächtigten des Klägers vom 23.05.2019 auch nicht mit der Annahme des streitgegenständlichen Fahrzeugs in Verzug geraten.VI.Da dem Kläger kein Anspruch auf Zahlung von Schadensersatz gegen die Beklagte zusteht, schuldet diese auch nicht die Erstattung oder Freistellung von außergerichtlichen Rechtsanwaltskosten gemäß § 249 BGB.VII.Die Kostenentscheidung folgt aus § 91 ZPO.Die Entscheidung zur vorläufigen Vollstreckbarkeit beruht auf §§ § 709 S. 1 und 2 ZPO.Streitwert: bis 22.000,00 EUR
+			
+			
+			
+			Permalink: https://openjur.de/u/2363674.html (https://oj.is/2363674)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

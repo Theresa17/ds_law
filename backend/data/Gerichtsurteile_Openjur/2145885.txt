@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG DüsseldorfRechtsprechungUrteil vom 24.10.2016 - 21 O 10/16
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Düsseldorf, Urteil vom 24.10.2016 - 21 O 10/16
+                      m. Fundstelle
+                      LG Düsseldorf, Urteil vom 24.10.2016 - 21 O 10/16 = openJur 2019, 10887
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Düsseldorf, Urteil vom 24.10.2016 - 21 O 10/16
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 10887
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger trägt die Kosten des Rechtsstreits.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zuvollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Die Beklagte betreibt als Audi-Vertragshändlerin einen gewerblichen Kfz-Handel mit Sitz in Ratingen. Der Kläger erwarb von der Beklagten mit Kaufvertrag vom 02.01.2014 ein Fahrzeug der Marke Audi Q3 SUV 2,0 TDI Quattro mit der Fahrzeug-Ident-Nummer WAUZZZ8U8DR107370 zu einem Kaufpreis von 44.500,00 EUR. Bei Übergabe wies das Fahrzeug einen Kilometerstand von 10 km, bei Klageerhebung einen Kilometerstand von 16.100 km auf. In dem Fahrzeug ist ein Dieselmotor des Typs EA 189 (EU5) verbaut. Darüber hinaus ist eine Software installiert, die erkennt, ob sich das Fahrzeug in einem Testzyklus auf dem Rollenprüfstand befindet oder nicht. Auf dem Rollenprüfstand bewirkt die Software, dass die gesetzlichen Grenzwerte eingehalten werden. So kennt die Software zwei verschiedene Betriebsmodi, die die Abgasrückführung steuern. Bei einer Prüfung unter Laborbedingungen aktiviert die Software einen Betriebmodus, bei dem die Abgasrückführungsrate höher ist und infolgedessen die NOx-Emissionen, also die Freisetzung von Stickoxiden, wesentlich niedriger ist als im normalen Straßenverkehr. Die gesetzlich vorgeschriebenen und im technischen Datenblatt aufgeführten Abgaswerte werden nur im Prüfstandlauf eingehalten, unter realen Fahrbedingungen werden die im Prüfstand erzielten Stickoxidwerte überschritten. Im gesamten VW/Audi-Konzern sind hiervon ca. 2,5 Millionen Fahrzeuge betroffen, allein bei der Marke Audi ca. 577.000 in der BRD.Mit Anwaltsschreiben vom 09.12.2015 erklärte der Kläger den Rücktritt vom Kaufvertrag und setzte der Beklagten eine Frist bis zum 29.12.2015, ihm den Kaufpreis abzüglich einer Nutzungsentschädigung zurückzuzahlen. Die fehlende Fristsetzung begründete der Kläger damit, dass nach dem damals aktuellen Stand der Berichterstattung die Änderung der Software des Fahrzeugs mit einer erheblichen Leistungseinbuße verbunden sein werde, die für ihn die Verweisung auf die Nacherfüllung unzumutbar mache. Gleiches gelte unter dem Aspekt, dass erkennbar sei, dass sich die Gebrauchtwagenpreise der von dem sogenannten Abgasskandal betroffenen Fahrzeuge substantiell negativ entwickelten, so dass ein merkantiler Minderwert entstehe. Dies gelte auch für den Fall, dass das Fahrzeug nachgebessert werde.Die Beklagte reagierte mit Schreiben vom 14.12.2015 und teilte mit, sie habe großes Verständnis dafür, dass ihre Kunden aufgrund der aktuellen Medienberichterstattung über die in den Dieselmotoren des Typs EA 189 verwandten Software besorgt seien. Sie nehme die Sorge sehr ernst, weise aber auch darauf hin, dass die betroffenen Fahrzeuge weiterhin technisch sicher und fahrbereit sowie uneingeschränkt im Straßenverkehr nutzbar seien, was das Kraftfahrt-Bundesamt am 15.10.2015 bestätigt habe. Zudem erhielten die Fahrzeuge nach Abstimmung mit dem Kraftfahrt-Bundesamt ein technisches Update. Sie versichere, dass Audi mit Hochdruck an diesen Lösungen arbeite und schnellstmöglich über die geplanten Maßnahmen unterrichten werde. In der Zwischenzeit bitte sie den Kläger um Geduld und Verständnis dafür, dass Audi alle notwendigen Schritte mit dem gebotenen Tempo, aber auch mit der Gründlichkeit angehe, die er jetzt erwarten dürfe. Vor diesem Hintergrund könne sie der Bitte des Klägers, das Fahrzeug zurückzunehmen, nicht entsprechen. Sie verzichte bis zum 31.12.2016 auf die Erhebung der Verjährungseinrede im Hinblick auf etwaige Sachmängelhaftungsansprüche wegen der genannten Software, soweit etwaige Ansprüche bisher nicht verjährt seien.Die angekündigte Software wurde mittlerweile vom Hersteller entwickelt und vom Kraftfahrt-Bundesamt am 21.07.2016 freigegeben. Nunmehr muss jedes einzelne Fahrzeug vom Hersteller für die Rückrufaktion in die Werkstatt freigegeben werden. Hinsichtlich des Fahrzeugs des Klägers war dies bisher nicht der Fall.Der Kläger behauptet:Für ihn sei das „ökologische Gewissen“ (niedriger Verbrauch, niedrigste Emissionen) kaufentscheidend gewesen. Außerhalb des Prüfstands würden alle gesetzlich gesetzten Grenzwerte mindestens um das 4,7-fache überschritten. Damit werde nicht einmal die EURO 3 – Abgasnorm erreicht und die CO2-Werte lägen oberhalb der gesetzlichen Grenzwerte für die Bemessung der Kfz-Steuer.Auch stehe fest, dass es technisch unmöglich sei, mit einem Softwareupdate die Nacherfüllung so durchzusetzen, dass, wie es der Gesetzgeber in § 38 Abs. 1 BImSchG verlange, das Fahrzeug beim bestimmungsgemäßen Betrieb auf der Straße die gesetzlichen Grenzwerte tatsächlich einhalte. In einem geschlossenen System führe die Veränderung des einen Abgaswertes automatisch zu Nachteilen bei den anderen Werten. Werde der NOx-Wert gesenkt, steige automatisch Verbrauch und CO2- Ausstoß, wenn keine substantiellen Leistungseinbußen entstehen sollten.Auch habe das Fahrzeug niemals über eine rechtmäßig erteilte EU-Typengenehmigung und die darauf beruhende Allgemeine Betriebserlaubnis (ABE) verfügt. Selbst wenn man anderer Auffassung sei, sei die ABE nach § 19 Abs. 1 Satz 2 Nr. 3 StVZO von Gesetzes wegen automatisch erloschen und das Fahrzeug nach § 8 FZVZO nicht zulassungsfähig. Der Bundesverkehrsminister belasse die umweltgefährdenden Fahrzeuge ohne ersichtliche Ermächtigungsgrundlage gleichwohl im Straßenverkehr. Dies ändere jedoch nichts an der Tatsache, dass das Fahrzeug kraft gesetzlicher Anordnung nicht am öffentlichen Straßenverkehr teilnehmen dürfe. Infolgedessen habe er auch keinen gültigen Haftpflichtversicherungsschutz, weil dieser voraussetze, dass die Betriebserlaubnis nicht erloschen sei.Der Kläger ist der Auffassung, eine Fristsetzung zur Nacherfüllung sei aus den im Rücktrittsschreiben genannten Gründen unzumutbar. Hier gehe es um eine der eklatantesten arglistigen Täuschungen eines Großkonzerns, was besonders schwer bei einem für die Sauberkeit beworbenen Diesel wiege, weil die Käufergruppe gezielt mit der besonderen Umweltverträglichkeit und dem besonderen ökologischen Wert beworben worden sei. Nun aber werde jeder Käufer mit der Erkenntnis geplagt, dass er mit einer ausgewiesenen Dreckschleuder weit jenseits aller gesetzlichen Grenzwerte unterwegs sei und sich deshalb an der Verpestung der Umwelt wesentlich beteilige, obgleich er mit seiner bewussten Kaufentscheidung bewusst das Gegenteil habe erreichen wollen.Der Kläger beantragt,die Beklagte zu verurteilen, an ihn 42.111,83 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 15.12.2015 zu zahlen Zug um Zug gegen Rückgabe des Fahrzeugs Audi Q3 SUV 2,0 TDI Quattro mit der Fahrzeug-Ident-Nummer WAUZZZ8U8DR107370,die Beklagte weiter zu verurteilen, ihm 1.706,94 EUR vorgerichtliche Rechtsanwaltskosten und –gebühren nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 15.12.2015 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet:Nach der Nachrüstung träten weder technisch negative Folgen noch Leistungseinschränkungen des Motors ein.Sie selbst habe erst durch die Presseberichterstattung im September 2015 Kenntnis von der in der Motorsoftware von EA1 189 – Motoren zum Einsatz kommenden Umschaltsoftware erhalten.Auch hätten die betroffenen Fahrzeuge nicht an Wert verloren. Vielmehr sei das Gegenteil zu beobachten.Die Beklagte ist überdies der Auffassung, es handele sich vorliegend um einen unerheblichen Mangel im kaufrechtlichen Sinn, denn die Nachrüstung koste den Hersteller bei einem 2,0 Liter- Hubraum weniger als 100,00 EUR und bedeute für den Kläger den Aufwand von einer Stunde Wartezeit. Ein Rücktritt vom Kaufvertrag sei aber ausgeschlossen, wenn die Kosten seiner Beseitigung im Verhältnis zum Kaufpreis gering seien. Dies sei – wie hier – der Fall, wenn die Mängelbeseitigungskosten ein Prozent des Kaufpreises nicht überstiegen.Zur ergänzenden Darstellung des Sach- und Streitstands wird auf die von den Parteien gewechselten Schriftsätze nebst Anlagen verwiesen. 
+				Gründe
+				Die Klage ist unbegründet.I.Der Kläger hat gegen die Beklagte keinen Anspruch auf Rückzahlung des Kaufpreises in Höhe von 44.500,00 EUR abzüglich gezogener Nutzungen Zug um Zug gegen Rückgabe des Pkw Audi Q3 SUV 2,0 TDI Quattro, und zwar weder aus §§ 346 Abs. 1, 348 BGB i.V.m. §§ 437 Nr. 2, 440, 323 BGB noch aus sonst einem Rechtsgrund.1. Der Kläger hat gegen die Beklagte keinen Rückzahlungsanspruch aus §§ 346 Abs. 1, 348 BGB i.V.m. §§ 437 Nr. 2, 440, 323 BGB.Dabei kann die Kammer offen lassen, ob die Manipulation der Abgaswerte durch eine Software des Herstellers einen Mangel des Fahrzeugs im Sinne von § 434 BGB begründet. Denn dem Rücktritt steht bereits entgegen, dass der Kläger der Beklagten keine nach §§ 323 Abs. 1, 440 BGB erforderliche Frist zur Nacherfüllung gesetzt hat. Zwar enthält das Anwaltsschreiben vom 09.12.2015 an die Beklagte eine Fristsetzung, diese bezieht sich aber nicht auf die Nacherfüllung, sondern auf die Rückzahlung des Kaufpreises Zug um Zug gegen Rücknahme des Pkw.Eine Fristsetzung zur Nacherfüllung war entgegen der Auffassung des Klägers nicht entbehrlich.a) Nach § 323 Abs. 2 Nr. 1 BGB ist die Fristsetzung entbehrlich, wenn der Schuldner die Leistung ernsthaft und endgültig verweigert. Dies hat die Beklagte zu keinem Zeitpunkt getan. Dass sie vor Ausspruch des Rücktritts des Klägers mit Anwaltsschreiben vom 09.12.2015 nicht bereit gewesen wäre, hinsichtlich der Manipulations-Software nachzuerfüllen, ist schon deshalb nicht ersichtlich, als der Kläger, der eine Nacherfüllung für nicht zumutbar hält, den Rücktritt erklärt hat, ohne die Beklagte zuvor zur Nacherfüllung aufgefordert zu haben. Dass die Beklagte zur Nacherfüllung bereit gewesen wäre, ergibt sich aus ihrem Schreiben vom 14.12.2015. In diesem hat die Beklagte dem Kläger unmissverständlich mitgeteilt, dass das Fahrzeug nach Abstimmung mit dem Kraftfahrt-Bundesamt ein technisches Update erhalte, an dem Audi mit Hochdruck arbeite.b) Auch die Voraussetzungen des § 440 Satz 1 Alt. 3 BGB liegen nicht vor. Danach bedarf es außer in den Fällen des § 281 Abs. 2 und § 323 Abs. 2 BGB der Fristsetzung unter anderem auch dann nicht, wenn dem Käufer die Nacherfüllung unzumutbar ist. Dabei ist die Unzumutbarkeit der Nacherfüllung – im Gegensatz zu den besonderen Umständen, die unter Abwägung der beiderseitigen Interessen die sofortige Geltendmachung von Sekundärrechten rechtfertigen (§§ 281 Abs. 2 Alt. 2, 323 Abs. 2 Nr. 3 BGB) – allein aus der Perspektive des Käufers zu bestimmen und kann sich aus der Person des Verkäufers, der Art der Mangelhaftigkeit sowie den mit der Nacherfüllung verbundenen Begleitumständen ergeben (Faust in Beck´scher Online-Kommentar BGB, Bamberger/Roth, Stand 01.08.2014, § 440 Rdnr. 36 - 39). Bei wertender Betrachtung der Einzelfallumstände kann vorliegend nicht davon ausgegangen werden, dass dem Kläger eine Fristsetzung und ein Abwarten der von der Beklagten in Aussicht gestellten Nacherfüllung im maßgeblichen Zeitpunkt der Rücktrittserklärung unzumutbar war. Hieraus folgt zugleich, dass eine Fristsetzung auch nach der allgemeinen Vorschrift des § 323 Abs. 2 Nr. 3 BGB nicht entbehrlich war.aa) Der Kläger beruft sich ohne Erfolg darauf, dass ihm eine Fristsetzung zur Nacherfüllung nicht zumutbar gewesen sei, weil ihn die Audi AG arglistig getäuscht habe und die Beklagte sich diese arglistige Täuschung zurechnen lassen müsse.Zwar ist dem Kläger zuzustimmen, dass im Fall einer vom Verkäufer bei Abschluss eines Kaufvertrags begangenen Täuschungshandlung in der Regel die für eine Nacherfüllung erforderliche Vertrauensgrundlage beschädigt ist und keine Veranlassung besteht, dem Verkäufer nach Entdecken des Mangels durch den Käufer eine zweite Chance zu gewähren (vgl. BGH NJW 2007, 835; BGH NJW 2008, 1371). Ob vorliegend von einer Täuschungshandlung auszugehen ist, kann aber offen bleiben, denn dass die Beklagte von der Manipulations-Software vor und bei Abschluss des Kaufvertrags am 02.01.2014 wusste und diese dem Kläger verschwieg, ist nicht ersichtlich und wird vom Kläger auch nicht dargetan. Vielmehr hat die Beklagte unwidersprochen vorgetragen, von der Manipulations-Software erst im September 2015 über die Medienberichterstattung erfahren zu haben. Ein zeitlich früheres Wissen der Audi AG muss sich die Beklagte nicht zurechnen lassen. Die Audi AG ist als Hersteller nicht Erfüllungsgehilfe der Beklagten gemäß § 278 BGB (vgl. BGH NJW 2014, 2183). Die Audi AG war in keiner Weise am Zustandekommen des streitgegenständlichen Kaufvertrags beteiligt und konnte auf diesen keinen Einfluss nehmen. Die Beklagte handelte im eigenen Namen und auf eigene Rechnung und ist eine rechtlich unabhängige juristische Person ohne gesellschaftsrechtliche oder personelle Verpflichtungen mit der Audi AG bzw. dem VW Konzern. Allein der Umstand, dass die Beklagte – wie in der mündlichen Verhandlung erörtert, lediglich unter anderem – Audi-Vertragshändlerin ist, begründet kein besonderes Vertrauens- oder Näheverhältnis, das eine Wissenszurechnung rechtfertigen würde. Als selbstständiger Vertragshändler ist sie kein Handelsvertreter, sondern ein eigenständiges Absatzorgan.bb) Besondere Umstände, die zu einem sofortigen Rücktritt vom Vertrag ohne vorherige Fristsetzung zur Nacherfüllung berechtigen, ergeben sich hier auch nicht aus dem erheblichen Vorlauf, den die Beklagte für die angekündigte Rückrufaktion und die Nachbesserung der Motorsoftware benötigt.Zum einen liegt für den Käufer auf der Hand, dass sich eine solche umfassende Rückrufaktion und auch die Entwicklung einer Software, die noch vom Kraftfahrt-Bundesamt zu genehmigen ist, nicht innerhalb weniger Wochen realisieren lässt. Von daher ergibt sich eine Unzumutbarkeit nicht aus dem Umstand, dass die Beklagte im Zeitpunkt der Erklärung des Rücktritts im Dezember 2015 einen Nacherfüllungstermin nicht benennen konnte und ein Rückruftermin selbst im Zeitpunkt der mündlichen Verhandlung noch nicht mitgeteilt worden ist. Der Kläger war und ist nach wie vor in der Lage, das Fahrzeug bis zur Rückrufaktion ohne für ihn spürbare funktionelle Beeinträchtigungen weiter zu nutzen und auch ist keine Stilllegung des Fahrzeugs durch das Kraftfahrt-Bundesamt bis zum Rückruftermin zu befürchten. Ebenfalls haltlos ist die Befürchtung des Klägers, er genieße keinen Haftpflichtversicherungsschutz. Dass seine Haftpflichtversicherung auf diesem Standpunkt steht, hat er nicht dargetan.Zum anderen kann sich der Kläger auch nicht mit Erfolg darauf berufen, der erhebliche Vorlauf sei ihm nicht zuzumuten, weil im Dezember 2015 erkennbar gewesen sei, dass sich die Gebrauchtwagenpreise der von dem sogenannten Abgasskandal betroffenen Fahrzeuge substantiell negativ entwickelten, so dass ein merkantiler Minderwert entstehe, was auch für den Fall der Nachbesserung gelte. Die Kammer verkennt nicht, dass für die Beurteilung der Zumutbarkeit allein die Perspektive des Klägers im Dezember 2015 maßgeblich ist, so dass es auf die Behauptung der Beklagten, mittlerweile stehe fest, dass die von der Manipulationssoftware betroffenen Fahrzeuge nicht an Wert verloren hätten, es sei sogar das Gegenteil zu beobachten, nicht ankommt. Dass die Berichterstattung der Medien im Dezember 2015 den Kläger nach seinem Vortrag befürchten ließ, er werde bei weiterem Zuwarten auf die Nacherfüllung durch die Beklagte einen merkantilen Wertverlust seines Fahrzeugs hinnehmen müssen, rechtfertigt es nicht, davon auszugehen, eine Fristsetzung zur Nacherfüllung sei unzumutbar. Denn aufgrund des von der Beklagten erklärten Verjährungsverzichts wären dem Kläger, dessen kaufrechtliche Gewährleistungsansprüche gemäß § 438 Abs. 1 Nr. 3 BGB mit Ablauf des 02.01.2016 verjährt gewesen wären, keine Rechtsnachteile entstanden, hätte er der Beklagten die Gelegenheit gegeben, bis dahin den von ihm behaupteten Mangel abzustellen. Hätte sich bis zum 31.12.2016 herausgestellt, dass die Beklagte zur Nacherfüllung nicht in der Lage gewesen wäre, hätte er den Rücktritt dann immer noch erklären und die Rücknahme seines Fahrzeugs erwirken können mit der Folge, dass er einen merkantilen Minderwert nicht hätte tragen müssen. Anders läge der Fall nur, wenn das Fahrzeug des Klägers trotz erfolgreicher Nacherfüllung dennoch mit einem merkantilen Minderwert behaftet wäre. Warum das der Fall sein soll, wird vom Kläger behauptet, aber weder plausibel noch mit Substanz dargelegt, weshalb auch seinen diesbezüglichen Beweisangeboten nicht nachzugehen war.cc) Ebenfalls ohne Erfolg beruft sich der Kläger darauf, der Mangel an seinem Fahrzeug werde sich durch ein Softwareupdate nicht beheben lassen, sondern es verbleibe bei einem höheren Verbrauch, bei höheren CO2-Werten, einer vermehrten Rußbildung und einem schnelleren Defekt des Rußpartikelfilters als Folge, denn werde in der Software ein Wert verändert, änderten sich andere Abgaswerte gleichermaßen nachteilig mit ab. Ob die Nacherfüllung tatsächlich erfolglos sein würde mit der Folge der Stilllegung seines Fahrzeugs, konnte der Kläger im Dezember 2015 nicht sicher beurteilen. Von daher war er aufgrund des geltenden Grundsatzes des „Vorrangs der Nacherfüllung“ zunächst gehalten, sich auf diese einzulassen und abzuwarten, ob diese erfolgreich ist – wofür im Übrigen der Umstand spricht, dass das Kraftfahrt-Bundesamt am 21.07.2016 bestätigt hat, dass sich keine der vom Kläger behaupteten negativen Auswirkungen ergeben haben. Dies gilt auch vor dem Hintergrund, dass es im Ermessen des Verkäufers steht, mit welchen Mitteln und auf welchem Wege er die Nacherfüllung durchführt (OLG Celle, Urteil vom 19.12.2012 – 7 U 103/12 – BeckRS 2013, 01303). Sollten die Behauptungen des Klägers nach dem Rückruftermin tatsächlich zutreffen und die Nacherfüllung erfolglos verlaufen, was auch dann der Fall wäre, wenn die Mangelbeseitigung gleichzeitig andere Mängel am Fahrzeug hervorrufen würde, stehen dem Kläger dann, aber eben erst nach Erfolglosigkeit der Nacherfüllungsbemühungen gegebenenfalls Gewährleistungsrechte gegen die Beklagte zu.dd) Auch soweit der Kläger vorträgt, maßgeblicher Grund für den Kauf des Fahrzeugs sei für ihn aufgrund seines „ökologischen Gewissens“ gewesen, dass es als besonders umweltschonend gegolten habe, begründet dies keine Unzumutbarkeit, der Beklagten ihr Recht zur Nacherfüllung zu gewähren. Abgesehen davon, dass nicht ersichtlich ist, dass die Eigenschaft des Fahrzeugs als „umweltschonend“ zum Gegenstand einer Beschaffenheitsvereinbarung zwischen den Parteien im Sinne des § 434 Abs. 1 Satz 1 BGB gemacht worden ist, und die Kammer auch Zweifel hegt, ob für den Käufer eines 177 PS-starken SUV der Umweltaspekt tatsächlich derart im Vordergrund steht, kann auch nicht davon ausgegangen werden, dass der beanstandete höhere Stickstoffausstoß im Straßenbetrieb für den Kläger eine so große und unerträgliche Beeinträchtigung darstellt, dass ihm ein Abwarten auf das Softwareupdate verbunden mit einer Weiternutzung des Pkw unzumutbar ist.2. Aus vorstehenden Gründen besteht auch kein Anspruch des Klägers auf Herausgabe des Kaufpreises aus § 812 Abs. 1 Satz 1 Alt. 1 BGB, denn die Zuwendung ist mit Rechtsgrund erfolgt.3. Auch ein Anspruch aus § 823 Abs. 2 BGB i.V.m. § 16 UWG besteht nicht. Selbst wenn der für den Kauf des klägerischen Fahrzeugs maßgebliche Prospekt unwahre Angaben enthalten sollte, fehlt es bereits daran, dass ein vorsätzliches Handeln der Beklagten nicht dargelegt ist und eine Zurechnung eines etwaigen vorsätzlichen Handelns des Herstellers der Beklagten nicht zurechenbar ist. Auf die Ausführungen unter 1. aa) kann insoweit verwiesen werden.4. Mangels Hauptanspruchs hat der Kläger auch keinen Zinsanspruch aus §§ 288, 286 BGB oder § 291 BGB. Auch ein Anspruch auf Erstattung vorgerichtlicher Rechtsanwaltskosten steht ihm nicht zu.II.Der nachgelassene Schriftsatz des Klägers vom 29.09.2016 gab mangels neuen entscheidungserheblichen Tatsachenvortrags keinen Anlass, die mündliche Verhandlung wieder zu eröffnen, § 156 ZPO.III.Die Kostenentscheidung folgt aus § 91 Abs. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 Satz 1 und 2 ZPO.Streitwert: 42.111,83 EURRechtsbehelfsbelehrung:Gegen dieses Urteil ist das Rechtsmittel der Berufung für jeden zulässig, der durch dieses Urteil in seinen Rechten benachteiligt ist,1. wenn der Wert des Beschwerdegegenstandes 600,00 EUR übersteigt oder2. wenn die Berufung in dem Urteil durch das Landgericht zugelassen worden ist.Die Berufung muss innerhalb einer Notfrist von einem Monat nach Zustellung dieses Urteils schriftlich bei dem Oberlandesgericht Düsseldorf, Cecilienallee 3, 40474 Düsseldorf, eingegangen sein. Die Berufungsschrift muss die Bezeichnung des Urteils (Datum des Urteils, Geschäftsnummer und Parteien) gegen das die Berufung gerichtet wird, sowie die Erklärung, dass gegen dieses Urteil Berufung eingelegt werde, enthalten.Die Berufung ist, sofern nicht bereits in der Berufungsschrift erfolgt, binnen zwei Monaten nach Zustellung dieses Urteils schriftlich gegenüber dem Oberlandesgericht Düsseldorf zu begründen.Die Parteien müssen sich vor dem Oberlandesgericht Düsseldorf durch einen Rechtsanwalt vertreten lassen, insbesondere müssen die Berufungs- und die Berufungsbegründungsschrift von einem solchen unterzeichnet sein.Mit der Berufungsschrift soll eine Ausfertigung oder beglaubigte Abschrift des angefochtenen Urteils vorgelegt werden.
+			
+			
+			
+			Permalink: https://openjur.de/u/2145885.html (https://oj.is/2145885)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert11
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSchleswig-HolsteinOrdentliche GerichtsbarkeitOLG SchleswigRechtsprechungUrteil vom 03.12.2021 - 17 U 66/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Schleswig, Urteil vom 03.12.2021 - 17 U 66/21
+                      m. Fundstelle
+                      OLG Schleswig, Urteil vom 03.12.2021 - 17 U 66/21 = openJur 2021, 45253
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Schleswig, Urteil vom 03.12.2021 - 17 U 66/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 45253
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				1.	Wer erst 2019 ein erstmals 2014 - also vor Aufdeckung des Dieselabgas-Skandals - zugelassenes Diesel-Kraftfahrzeug erwirbt, erleidet nicht einen gemäß § 826 BGB als "ungewollte Verbindlichkeit" ersatzfähigen Schaden, sollte sich nach dem Erwerb herausstellen, dass das Fahrzeug mit einer unzulässigen Abgas-Abschaltung ausgerüstet war und deshalb etwa auf Veranlassung des Kraftfahrtbundesamtes ein Software-Update aufgespielt werden muss. Sein Erwerb war erkennbar von vornherein mit diesem Risiko belastet.2.	Ein Schadensersatzanspruch gemäß § 826 BGB käme in einer derartigen Konstellation erst dann in Betracht, wenn eine unzulässige Abschalteinrichtung nicht mehr durch technische Maßnahmen wie ein Software-Update zu beseitigen ist und deshalb die Stilllegung des Fahrzeugs erfolgt. 
+				
+				Tenor
+				Die Berufung des Klägers gegen das Urteil des Landgerichts Flensburg vom 5. August 2021, Az. 4 O 355/20, wird zurückgewiesen.Die Kosten des Berufungsverfahrens trägt der Kläger.Das Urteil ist vorläufig vollstreckbar. Das in Ziffer 1 genannte Urteil des Landgerichts Flensburg ist ohne Sicherheitsleistung vorläufig vollstreckbar. Der Kläger darf die Vollstreckung gegen Sicherheitsleistung oder Hinterlegung in Höhe von 110 % des vollstreckbaren Betrags abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 % des zu vollstreckenden Betrags leistet.  
+				Gründe
+				I.Die Parteien streiten über Schadensersatzansprüche des Klägers nach dem Kauf eines von der Beklagten hergestellten Kraftfahrzeugs.Der Kläger kaufte das gebrauchte Fahrzeug des Typs Mercedes-Benz C250 BlueTEC 150 kW mit der FIN XXX am 23. Januar 2019 bei einem Autohaus B. zu einem Preis von € 23.000,00. Das Fahrzeug war am 26. September 2014 erstmals zugelassen worden und hatte eine Laufleistung von 60.712 Kilometern. In dem Fahrzeug ist ein Motor des Typs OM 651 verbaut. Das Fahrzeug ist nach Euro 6 zugelassen.Für das Fahrzeug wurde unstreitig kein verpflichtender Rückruf zur Entfernung einer unzulässigen Abschalteinrichtung im Emissionskontrollsystem angeordnet. Es ist unstreitig, dass auf das streitgegenständliche Fahrzeug ein Update der Motorsteuerungssoftware aufgespielt wurde, welches das Abgasverhalten verändert hat.Der Kläger hat behauptet, in dem Fahrzeug sei eine unzulässige Abschalteinrichtung vorhanden. Die Abgassteuerung sei so ausgelegt, dass sie faktisch nur auf dem Prüfstand so funktioniere, dass die gesetzlichen Grenzwerte eingehalten werden. Es sei eine Prüfstandserkennung vorhanden.Im Einzelnen hat der Kläger behauptet:- ein freiwilliger Rückruf indiziere, dass eine Abschalteinrichtung vorhanden gewesen sei;- es sei eine Kühlmittel-Sollwert-Temperatur-Regelung vorhanden;- die Abgasrückführung sei temperaturgesteuert (Thermofenster);- die Beimischung von AdBlue verringere sich nach Ausstoß von 17,6 Gramm Stickoxiden (Bit 13 Funktion). Dieser Ausstoß entspreche dem Prüfstandslauf;- es sei eine Funktion verbaut, dass das Fahrzeug nach 1.200 Sekunden in den "schmutzigen Abgasmodus" wechselt (Bit 14 Funktion). Der NEFZ dauere 1.180 Sekunden;- die Software sei so eingestellt, dass nach 11 Kilometern in den "schmutzigen Abgasmodus" gewechselt werde. Das entspreche der Distanz des NEFZ;- es sei eine "Slipguard" Funktion vorhanden. Anhand von Geschwindigkeit, Beschleunigung und Straßenneigung werde erkannt, dass das Fahrzeug auf dem Prüfstand sei. Es werde dann ein anderer Abgasreinigungsmodus verwendet.Der Kläger hat behauptet, die Beklagte habe auch vorsätzlich gehandelt. Zumindest der Entwicklungsvorstand Dr. Weber habe von den Abschalteinrichtungen gewusst. Das Kraftfahrt-Bundesamt (KBA) habe am 23. Mai 2018, 3. August 2018 und 20. Dezember 2019 einen verpflichtenden Rückruf für Motoren des Typs OM 651 mit Euro 6 erlassen. Der Kläger hat behauptet, der streitgegenständliche Fahrzeugtyp habe eine durchschnittliche Laufleistung von 400.000 km.Mit der Klage verlangte der Kläger Erstattung des Kaufpreises abzüglich eines Nutzungsvorteils gegen Übergabe und Übereignung des Fahrzeugs, Freihaltung von vorgerichtlichen Rechtsanwaltskosten, die Feststellung des Annahmeverzugs und die Feststellung einer Schadensersatzpflicht.Die Beklagte hat unter anderem bestritten, dass das Fahrzeug über eine Prüfstandserkennung verfüge. Die temperaturanhängige Steuerung der Abgasrückführung und die Kühlmittel-Solltemperatur-Regelung seien keine unzulässigen Abschalteinrichtungen.Das Landgericht hat die Klage abgewiesen. Selbst wenn die temperaturabhängige Steuerung des Emissionskontrollsystems eine unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2 Satz 1 VO (EG) 715/2007 sei, begründe dies eine Sittenwidrigkeit nur, wenn weitere Umstände hinzuträten, die das Verhalten der handelnden Personen als besonders verwerflich erscheinen ließen. Das sei hier nicht der Fall. Auch bei der Kühlmittel-Solltemperatur-Steuerung handele es sich nicht um eine Prüfstandserkennung. Zwar arbeite dieser Mechanismus stets im Prüfstand, aber eben auch im Realbetrieb, wobei ein Dauerbetrieb nicht sinnvoll sei. Die Wertung des Bundesgerichtshofs (BGH) zum Thermofenster sei daher auch auf diesen Mechanismus zu übertragen, da es sich nicht um eine reine Prüfstandserkennung handele, die im Prüfstand ein völlig anderes Abgasregime als das des Realbetriebs aktiviere. Auch die Tatsache, dass die Abgaswerte des kalten Motors von den Werten eines warmen Motors abweichen, was nach Ansicht des Klägers an einer "Slipguard"-Funktion liege, führe nicht zur Annahme einer unzulässigen Prüfstandserkennungssoftware.Aufgrund der Tatsache, dass das KBA noch keinen verpflichtenden Rückruf für ein vergleichbares Fahrzeug, also mit gleichem Motortyp und gleicher Abgasnorm, erlassen habe, könne allein aus der Tatsache, dass auch schon Rückrufe für den Motortyp OM651 angeordnet worden seien, kein Indiz für das Vorliegen einer unzulässigen Abschalteinrichtung abgeleitet werden. Zudem habe das OLG Schleswig (SchlHA 2021, 230 - 16 U 99/20) entschieden, dass ein schlechthin verwerfliches Geschäftsgebahren in einem vergleichbaren Fall nicht erkennbar sei. Der Kläger habe auch den Schädigungsvorsatz der handelnden Personen bei der Beklagten nicht schlüssig dargetan.Wegen der weiteren Einzelheiten des Sachverhaltes und der Begründung wird auf das angefochtene Urteil nach § 540 Abs. 1 Satz 1 ZPO verwiesen.Mit der Berufung rügt der Kläger unter anderem unter Bezugnahme auf die Rechtsprechung des BGH (Beschluss vom 26. März 2019 - VI ZR 163/17) das Landgericht habe die Substantiierungsanforderungen für das Vorliegen einer unzulässigen Abschalteinrichtung überspannt. Der Kläger habe nachgewiesen, dass ein freiwilliges Update mit Auswirkungen auf das Emissionsverhalten aufgespielt worden sei. Die Kühlmittel-Solltemperatur-Regelung sei speziell für den Rollenprüfstand entwickelt worden. Aufgrund der eng definierten Aktivierungsbedingungen greife die Regelung faktisch nur im Testzyklus. Ca. 1.300 bis 1.600 Sekunden nach Start schalte diese Regelung ab und es gelte wieder die normale Solltemperatur von 100 Grad Celsius.Die Regelung des SCR-Katalysators stelle auch eine unzulässige Abschalteinrichtung dar. Der Katalysator verfüge über zwei Betriebsmodi, einen Online-Modus und einen Füllstands-Modus. Bei hohen Temperaturen schalte der Katalysator vom Füllstands- in den Online-Modus, da das Speichervermögen nachlasse und das Risiko eines Ammoniak-Schlupfs bestehe. Im Online-Modus emittiere das Fahrzeug mehr NOx als gesetzlich erlaubt. Ein Zurückschalten in den Füllstands-Modus erfolge erst bei Neustart des Motors, was die unerlaubte Abschalteinrichtung darstelle.Die Beklagte habe auch vorsätzlich im Sinne von § 826 BGB gehandelt, da sie die Kühlmittel-Solltemperatur-Regelung und die AdBlue-Abschalteinrichtung nicht dem KBA offengelegt habe. Es sei nicht erforderlich, dass die Abschalteinrichtung ausschließlich auf dem Prüfstand funktioniere, sondern es sei ausreichend, wenn die Abschalteinrichtung vornehmlich auf den Prüfstand ausgerichtet sei. Nach Auffassung des Klägers sei der Vortrag zugestanden, dass im streitgegenständlichen Fahrzeug eine Prüfstandserkennung vorliege.Der Kläger beantragt,1. die Beklagte zu verurteilen, an den Kläger 23.000,00 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Übereignung und Herausgabe des Fahrzeugs Mercedes C 250 BlueTEC, FIN: XXX, abzüglich einer Nutzungsentschädigung in 0,067789 EUR pro gefahrenem km seit dem 23.01.2019, die sich nach folgender Formel berechnet:(23.000,00 EUR x gefahrene Kilometer) : 339.288 km;2. die Beklagte zu verurteilen, den Kläger von den außergerichtlichen Rechtsanwaltskosten in Höhe von 1.211,50 EUR freizustellen;3. festzustellen, dass sich die Beklagte mit der Rücknahme des PKWs des Klägers, Mercedes C 250 BlueTEC, FIN: XXX in Annahmeverzug befindet;4. festzustellen, dass die Beklagte verpflichtet ist, an den Kläger Schadensersatz zu zahlen für Schäden, die aus der Ausstattung des Fahrzeugs Mercedes C 250 BlueTEC, FIN: XXX, mit einer unzulässigen Abschalteinrichtung resultieren.hilfsweise den Rechtsstreit an das Landgericht Flensburg zur erneuten Verhandlung und Entscheidung zurückzuverweisen.Die Beklagte beantragt,die Berufung zurückzuweisen.Die Beklagte trägt unter anderem im Berufungsverfahren vor, dass in ihren Fahrzeugen nur Systeme zum Einsatz kämen, die im realen Fahrbetrieb im Vergleich zum Prüfstandslauf "im Grundsatz in gleicher Weise" arbeiteten. Unter Berücksichtigung der Rechtsprechung des BGH scheide daher eine Sittenwidrigkeit aus. Deliktische Ansprüche würden auch deshalb ausscheiden, weil der Kläger das Fahrzeug lange nach Bekanntwerden der sog. Diesel-Thematik erworben habe.Bezüglich des weiteren Vorbringens wird auf die wechselseitigen Schriftsätze und das Protokoll der mündlichen Verhandlung vom 19. November 2021 vor dem Senat verwiesen. Das Fahrzeug wies zum Zeitpunkt der mündlichen Verhandlung vor dem Senat eine Laufleistung von 95.260 km auf.II.Die zulässige Berufung des Klägers hat keinen Erfolg.Das Landgericht hat im Ergebnis zutreffend die Klage abgewiesen. Der Kläger hat allerdings, anders als es das Landgericht gesehen hat, bereits mangels Schadens keinen Anspruch aus §§ 826, 31 BGB gegen die Beklagte auf Rückzahlung des Kaufpreises abzüglich des Nutzungsvorteils Zug um Zug gegen Übergabe und Übereignung des streitgegenständlichen Kraftfahrzeugs (hierzu unter 1.). Ansprüche aufgrund anderer Vorschriften scheiden ebenso aus (hierzu unter 2.).1.Anders als es das Landgericht gesehen hat, scheidet ein Schadensersatzanspruch des Klägers bereits deshalb aus, weil dem Kläger bisher ein Schaden nicht entstanden ist, selbst wenn in seinem Fahrzeug auch nach dem unstreitig durchgeführten Software-Update noch eine unzulässige Abschalteinrichtung vorhanden sein sollte.Aufgrund der Tatsache, dass der Kläger sein Fahrzeug erst Anfang 2019 erworben hat und dieses vor 2015 hergestellt wurde, ist dem Kläger zur Überzeugung des Senats durch den Erwerb des streitgegenständlichen Fahrzeugs erst dann ein Schaden entstanden, wenn die endgültige Stilllegung des Fahrzeugs mangels Software- oder Hardware-Nachrüstung durch den Hersteller im Falle eines verpflichtenden Rückrufs wegen einer unzulässigen Abschalteinrichtung durch das KBA angeordnet wurde.Aufgrund der erheblichen Zeitspanne von mehr als drei Jahren zwischen Bekanntwerden der sog. Diesel-Abgasthematik Ende 2015 und dem Datum des Kaufvertrags Anfang 2019 kann sich der Kläger nicht mehr auf einen Schaden im Sinne des Eingehens einer ungewollten Verbindlichkeit berufen. Eine ungewollte Verbindlichkeit im Sinne der Rechtsprechung des BGH (Urteil vom 25. Mai 2020, Az. VI ZR 252/19) liegt nämlich nicht vor, weil der Kauf des Fahrzeugs nach der Verkehrsanschauung auch unter Berücksichtigung des Vortrags des Klägers aus ex-ante Sicht nicht als wirtschaftlich unvernünftig betrachtet werden kann.Der BGH führte zur ungewollten Verbindlichkeit im Urteil vom 25. Mai 2020 (VI ZR 252/19, Rn. 53 ff.) wie folgt aus:"bb) Das Fahrzeug war - wovon das BerGer. zu Recht ausgeht und was die Revision der Bekl. verkennt - im Zeitpunkt des Erwerbs für die Zwecke des Klägers nicht voll brauchbar, weil es - wie ausgeführt - einen verdeckten Sachmangel aufwies, der zu einer Betriebsbeschränkung oder -untersagung hätte führen können (vgl. BGH NJW 2019, 1133 Rn. 17 ff.; Heese JZ 2020, 178 [179 ff.]; Staudinger/Ruks, NJW 2019, 1179). Die dagegen gerichteten Rügen der Revision der Beklagten greifen nicht durch.(1) Für die Frage der Brauchbarkeit kommt es - anders als die Revision meint - nicht lediglich darauf an, dass das Fahrzeug von dem Kläger tatsächlich genutzt werden konnte und sich die bestehende Stilllegungsgefahr nicht verwirklicht hat. Ein Fahrzeug ist für die Zwecke desjenigen, der durch ein sittenwidriges Verhalten zum Vertragsabschluss veranlasst wird, dann nicht voll brauchbar, wenn es aus der ex-ante-Sicht des Käufers letztlich vom Zufall abhängt, ob der unerkannt bestehende Mangel aufgedeckt und die Gebrauchsfähigkeit des Fahrzeugs in der Folge eingeschränkt wird. Bei Berücksichtigung dieser Umstände des Einzelfalls ist der Erwerb des Fahrzeugs auch nach der Verkehrsanschauung unvernünftig und damit für den Kläger nachteilig, die Brauchbarkeit des Fahrzeugs mithin nicht nur aus rein subjektiv willkürlicher Sicht des Klägers eingeschränkt."Der Unterschied zu dem vom BGH entschiedenen Fall liegt darin, dass zwar theoretisch auch für das Fahrzeug des Klägers eine Stilllegung durch das KBA drohen könnte, sofern dieses eine unzulässige Abschalteinrichtung feststellen würde, allerdings bedeutet dies aus ex-ante Sicht zum Zeitpunkt des Erwerbs nicht, dass der Kauf aus wirtschaftlicher Sicht unvernünftig war.Anders als bis Mitte 2015 entsprach es Anfang 2019 schließlich bereits dem allgemeinen Kenntnisstand, dass sämtliche Hersteller von Dieselfahrzeugen in den Fokus der Medien und des KBA gerückt waren und auch für Dieselfahrzeuge der Beklagten in erheblichem Umfang verpflichtende Rückrufe des KBA wegen einer unzulässigen Abschalteinrichtung im Emissionskontrollsystem angeordnet worden waren (vgl. Spiegel, Bericht vom 18. August 2018, "Kraftfahrt-Bundesamt ordnet Rückruf Hunderttausender Mercedes-Fahrzeuge an" - https://www.spiegel.de/auto/aktuell/mercedes-kraftfahrt-bundesamt-ordnet-rueckruf-hunderttausender-modelle-an-a-1223624.html - abgerufen am 22. November 2021). Bereits Anfang 2019 war darüber hinaus allgemein bekannt, dass es bis dahin - soweit senatsbekannt - zu keiner einzigen endgültigen Stilllegung eines Dieselfahrzeugs mit Abschalteinrichtung gekommen war, sondern die Hersteller eine solche Stilllegung stets mit Update-Maßnahmen abwenden konnten.Der Kauf eines solchen Fahrzeugs stellte sich daher nach der Verkehrsanschauung unter Berücksichtigung der Ereignisse in Bezug auf die Diesel-Abgasthematik nicht allgemein als wirtschaftlich unvernünftig dar. Der Kläger erhielt ein Fahrzeug, welches vor Bekanntwerden der Thematik hergestellt war und bei dem man davon ausgehen durfte und musste, dass es vom KBA entweder bereits genauer und ohne Befund untersucht worden war oder eine solche Untersuchung noch bevorstehen würde. Aufgrund des Verlaufs der Begutachtungen der Dieselfahrzeuge durch das KBA und der Tatsache, dass die Fahrzeuge nie endgültig stillgelegt wurden, war nach der Verkehrsanschauung Anfang 2019 nicht mehr davon auszugehen, dass ein in 2014 erstzugelassenes Fahrzeug von einer Stilllegung durch das KBA, sondern allenfalls von der Verpflichtung zum Aufspielen eines Software-Updates oder anderweitiger Nachrüstung bedroht war. Vor diesem Hintergrund war der Erwerb eines solchen Fahrzeugs, selbst in Kenntnis des möglichen Vorhandenseins einer unzulässigen Abschalteinrichtung, im Jahr 2019 nicht als unvernünftig zu bezeichnen.Ein Käufer, der im Jahr 2019 ein Dieselfahrzeug kauft, konnte also aufgrund der umfangreichen Berichterstattung und der zahlreichen Rückrufe in den Jahren zuvor nicht mehr sicher davon ausgehen, dass ein vor 2015 hergestelltes Fahrzeug auf keinen Fall eine unzulässige Abschalteinrichtung aufweisen würde. Muss aber ein Käufer ernsthaft in Betracht ziehen, dass auch sein Fahrzeug eine unzulässige Abschalteinrichtung aufweist, kann er sich nicht mehr darauf berufen, dass es für seine Zwecke nicht brauchbar ist. Schließlich akzeptiert ein Käufer mit dem Kauf eines Diesel-Fahrzeugs, welches vor 2015 von einem Hersteller hergestellt wurde, der vor dem Kauf schon vom KBA zu Rückrufen wegen unzulässiger Abschalteinrichtungen verpflichtet wurde, dass auch sein Fahrzeug eventuell betroffen sein könnte. Auch das tatsächliche Verhalten des Klägers spricht nicht dafür, dass er das Fahrzeug nicht erworben hätte, wenn er gewusst hätte, dass unter Umständen ein weiteres Software-Update aufgrund einer unzulässigen Abschalteinrichtung erforderlich sein könnte oder - wobei dies aufgrund der Entwicklung seit 2015 als fernliegend gelten durfte - das Fahrzeug endgültig stillgelegt werden könnte. Der Kläger hat schließlich mit seinem Verkäufer keine ausdrückliche Vereinbarung dahingehend geschlossen, dass das Fahrzeug auf keinen Fall über eine unzulässige Abschalteinrichtung verfügt. Auch hat der Kläger mit dem Verkäufer kein Rücktrittsrecht für den Fall vereinbart, dass sein Fahrzeug in Zukunft von einer Rückrufmaßnahme aufgrund einer unzulässigen Abschalteinrichtung betroffen sein könnte. Dem Kläger kam es also offenbar beim Kauf nicht auf die Frage an, ob künftig in seinem Fahrzeug eine unzulässige Abschalteinrichtung vom KBA entdeckt werden könnte.Ein Schadensersatzanspruch des Klägers gegen die Beklagte aus §§ 826, 31 BGB kommt daher zur Überzeugung des Senats in diesem konkreten Fall erst dann in Betracht, wenn das Fahrzeug vom Kläger tatsächlich zu dem bei Vertragsschluss vorausgesetzten Gebrauch nicht mehr genutzt werden kann, weil das KBA eine unzulässige Abschalteinrichtung festgestellt hat, welche sich durch ein Software-Update oder einen Hardware-Umbau auf Kosten des Herstellers nicht beseitigen lässt und daher die endgültige Stilllegung des Fahrzeugs angeordnet wird. Der Eintritt eines solchen Schadens ist aber nach dem Verlauf des Abgasskandals seit September 2015 nicht wahrscheinlich. Die Tatsache, dass das KBA den entsprechenden Motortyp schon in zahlreichen Fahrzeugen überprüft hat, es schon zu einer freiwilligen Software-Update-Maßnahme - für die durch das KBA eine Allgemeine Betriebserlaubnis (ABE) erteilt wurde - für das konkrete Fahrzeug kam und ein verpflichtender Rückruf mit Stilllegungsandrohung dennoch bisher nicht erfolgt ist, lässt zur Überzeugung des Senats umso mehr darauf schließen, dass auch aktuell eine endgültige Stilllegung des Fahrzeugs nicht ernsthaft droht, selbst wenn die behaupteten Abschalteinrichtungen vorhanden sein sollten.Sollte das KBA allerdings eine solche erhebliche und nicht vom Hersteller auf seine Kosten beseitigbare Abschalteinrichtung feststellen und das Fahrzeug endgültig stilllegen, dann dürfte das zur Überzeugung des Senats auch ein sittenwidriges Verhalten des Herstellers im Sinne von § 826 BGB indizieren und die Beklagte wäre im Rahmen ihrer sekundären Darlegungslast verpflichtet, dazu vorzutragen, warum sie dennoch von einer zulässigen Abschalteinrichtung ausgehen durfte. Grundsätzlich wird der Hersteller sich bei Vorliegen einer derartigen Abschalteinrichtung in der Regel kaum darauf berufen können, dass er sich mit einer solchen Abschalteinrichtung im damaligen Rechtsverständnis des Art. 5 (EG) Verordnung 715/2007 bewegte. Solange es aber um Abschalteinrichtungen geht, welche der Hersteller mittels Software-Updates beheben kann und welche im Ergebnis nicht zu einer Stilllegung führen, liegt ein Schaden im Sinne des Eingehens einer ungewollten Verbindlichkeit nicht vor, wenn der Käufer im Januar 2019 ein Dieselfahrzeug kauft.Daher kommt es im Ergebnis nicht darauf an, ob die einzelnen, vom Kläger behaupteten Abschaltmechanismen unzulässig sein könnten oder in der Gesamtschau eine unzulässige Prüfstandserkennung vorliegen könnte. Sofern die behaupteten Mechanismen nicht zu einer endgültigen Stilllegung des Fahrzeugs führen, hat der Kläger sie hinzunehmen und kann das Fahrzeug nicht gegen Erstattung des Kaufpreises abzüglich einer Nutzungsentschädigung an die Beklagte als Herstellerin zurückgeben. Insofern kam es auch nicht auf die Frage an, ob der Beklagten in Bezug auf die behaupteten Abschalteinrichtungen ein vorsätzlich sittenwidriges Verhalten vorzuwerfen sein könnte. Soweit es sich nur um einzelne Maßnahmen handelt, die auf dem Prüfstand und im Echtbetrieb dem Grunde nach gleich arbeiten, und nicht in der Gesamtschau eine Prüfstandserkennung vorliegt, kann bei Fehlen sonstiger Anhaltspunkte ohnehin keine objektive Sittenwidrigkeit festgestellt werden (vgl. BGH, 16. September 2021, Az. VII ZR 190/20 - Rn. 30 - juris).2.Ein Schadensersatzanspruch des Klägers gegen die Beklagte folgt auch nicht aus §§ 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV oder Art. 5 Verordnung (EG) Nr. 715/2007 oder aus §§ 823 Abs. 2 BGB, 263 Abs. 2 StGB (vgl. BGH, Urteil vom 30. Juli 2020 - VI ZR 5/20), wobei aus den genannten Gründen bereits kein ersatzfähiger Schaden vorliegt.3.Mangels eines Anspruchs in der Hauptsache stehen dem Kläger auch die Ansprüche auf Freihaltung von den vorgerichtlichen Rechtsanwaltskosten, auf Feststellung einer Schadensersatzpflicht und auf Feststellung des Annahmeverzuges nicht zu.4.Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO.5.Die Entscheidung zur vorläufigen Vollstreckbarkeit beruht auf §§ 708 Nr. 19, 711 ZPO6.Die Revision war nach § 543 Abs. 2 ZPO nicht zuzulassen, da eine Abweichung von der Rechtsprechung anderer Obergerichte nicht ersichtlich und die Entscheidung durch die Tatsachen des konkreten Falles geprägt ist.
+			
+			
+			
+			Permalink: https://openjur.de/u/2379980.html (https://oj.is/2379980)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

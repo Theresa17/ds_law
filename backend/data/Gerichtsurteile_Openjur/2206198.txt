@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNiedersachsenOrdentliche GerichtsbarkeitLG BraunschweigRechtsprechungUrteil vom 11.09.2017 - 11 O 3620/16
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Braunschweig, Urteil vom 11.09.2017 - 11 O 3620/16
+                      m. Fundstelle
+                      LG Braunschweig, Urteil vom 11.09.2017 - 11 O 3620/16 = openJur 2020, 9899
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Braunschweig, Urteil vom 11.09.2017 - 11 O 3620/16
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 9899
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Der Käufer eines mit einer unzulässigen (Motorsteuerungssoftware) Abschalteinrichtung versehenen Kfz kann vom Verkäufer und Hersteller nicht Lieferung eines typengleichen Ersatzfahrzeugs aus aktueller Serienproduktion verlangen. 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger trägt die Kosten des Rechtsstreits.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 120% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar.Der Streitwert wird auf die Wertstufe bis 30.000 € festgesetzt. 
+				Tatbestand
+				Der Kläger begehrt von der Beklagten die Lieferung eines Neufahrzeugs Zug-um-Zug gegen Rückgabe des ursprünglich von der Beklagten erworbenen Fahrzeugs.Aufgrund eines am 07.03.2014 zwischen dem Kläger als Käufer  und der durch einen Vertragshändler der Beklagten vertretenen Beklagten als Verkäuferin und Herstellerin des Fahrzeugs geschlossenen Kaufvertrages erwarb der Kläger einen PKW XXX zum Kaufpreis von 25.419,48 €. Der Kaufpreis wurde nachfolgend gezahlt, das Fahrzeug an den Kläger ausgeliefert und zugelassen.Der Abschluss des Kaufvertrages erfolgte unter Einbeziehung folgender Klausel:„6. Konstruktions- oder Formänderungen, Abweichungen im Farbton sowie Änderungen des Lieferumfangs seitens des Herstellers bleiben während der Lieferzeit vorbehalten, sofern die Änderungen oder Abweichungen unter Berücksichtigung der Interessen des Verkäufers für den Käufer zumutbar sind. Sofern der Verkäufer oder der Hersteller zur Bezeichnung der Bestellung oder des bestellten Kaufgegenstandes Zeichen oder Nummern gebraucht, können allein daraus keine Rechte hergeleitet werden.“In dem Fahrzeug ist ein Motor der Baureihe EA 189 verbaut. In der EG-Übereinstimmungsbescheinigung (Anlage R 23a) wird als Abgasnorm EURO 5 bescheinigt. Die Einhaltung der dafür nach der EG-Verordnung maßgeblichen Grenzwerte für Stickoxide hängt davon ab, in welchem Ausmaß Abgase aus dem Auslassbereich des Motors über ein Abgasrückführungsventil in den Ansaugtrakt des Motors zurückgeleitet werden. Im streitgegenständlichen Fahrzeug lässt die das Abgasrückführungsventil steuernde Software des Motorsteuerungsgerätes eine Abgasrückführung im zur Einhaltung der Grenzwerte nötigen Umfang unter den Bedingungen des zur Erlangung der Typgenehmigung durchgeführten gesetzlich vorgeschriebenen Testlaufs zu. Bewegt sich das Fahrzeug nicht in diesem eng vorgegebenen Geschwindigkeitsmuster, erkennt die Software dies und verringert die Abgasrückführung im Verhältnis zur Fahrt auf dem Prüfstand, wodurch sich die Stickoxidemissionen erhöhen.Das Kraftfahrbundesamt (KBA) erkannte in der genannten Software eine unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2, Art. 3 Ziff. 10 der Verordnung (EG) Nr. 715/2007 und ordnete einen Rückruf an.Das Modell XXX wird nicht mehr hergestellt. Das Modell XXX wird nunmehr als Dieselfahrzeug als XXX angeboten und verfügt über eine Typgenehmigung nach EURO 6.Der Kläger trägt im Wesentlichen vor, dass er mangelbedingt einen Anspruch auf Lieferung eines Neufahrzeugs der neuen Modellgeneration habe, welche von der von ihm gekauften Modellgeneration nur unwesentlich abweiche. Dieser Anspruch ergebe sich aus kaufrechtlicher Gewährleistung, nach den Grundsätzen der Prospekthaftung und der Vertrauenshaftung, aus Garantiehaftung vor dem Hintergrund der EG-Übereinstimmungsbescheinigung sowie aus deliktischer Haftung.Der Kläger beantragte zuletzt:1. Die Beklagtenpartei wird verurteilt, der Klägerpartei ein mangelfreies fabrikneues typengleiches Ersatzfahrzeug aus der aktuellen Serienproduktion des Herstellers mit identischer technischer Ausstattung wie das Fahrzeug XXX, FIN: XXX Zug um Zug gegen Rückübereignung des mangelhaften Fahrzeugs XXX, FIN: XXX nachzuliefern.2. Es wird festgestellt, dass sich die Beklagtenpartei mit der Rücknahme der im Klagantrag Ziffer 1 genannten Fahrzeuge in Verzug befindet.3. Die Beklagtenpartei wird verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von € 1.899,24  freizustellen.Die Beklagte beantragte:Klagabweisung.Die Beklagte trägt im Wesentlichen vor, dem Kläger bereits mangels Sachmangels, jedenfalls aber aufgrund Unmöglichkeit nicht aus kaufrechtlicher Gewährleistung zur Nachlieferung verpflichtet zu sein; auch weitere Ansprüche insbesondere aus Delikt bestünden nicht, da die Beklagte den Kläger insbesondere nicht getäuscht habe. Auch sei dem Kläger kein Schaden entstanden.Es fand mündliche Verhandlung statt am 15.08.2017.Wegen der Einzelheiten des Sach- und Streitstandes wird auf den gesamten Inhalt der Akten verwiesen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.A. Der Kläger hat keinen Anspruch auf Lieferung eines typengleichen Ersatzfahrzeugs aus der aktuellen Serienproduktion des Herstellers:Der Kläger begehrt als „Nachlieferung“ im Sinne des § 439 BGB ein mangelfreies fabrikneues typengleiches Ersatzfahrzeug aus der aktuellen Serienproduktion des Herstellers mit identischer technischer Ausstattung wie das von ihm erworbene Fahrzeug XXX.1. Der Kläger kann keinen Pkw XXX aus der aktuellen Serienproduktion als Nacherfüllung im Sinne des § 439 BGB verlangen:Fahrzeuge aus der aktuellen XXX Serienproduktion sind vom ursprünglichen Erfüllungsanspruch nicht erfasst. Der Nacherfüllungsanspruch kann jedoch nicht weiter reichen als der ursprüngliche Erfüllungsanspruch. Der Verkäufer schuldet nochmals die Übergabe des Besitzes und die Verschaffung des Eigentums einer mangelfreien Sache - nicht weniger, aber auch nicht mehr (BGH, Urteil vom 17.12.2012, VIII ZR 226/11, juris, Rn 24). Die Fahrzeuge aus der aktuellen XXX Serienproduktion unterscheiden sich von dem laut Kaufvertrag geschuldeten Fahrzeug (Anlagenkonvolut K 1): Der Hubraum der Dieselmotoren beginnt nunmehr erst mit XXX und technische Weiterentwicklungen haben unter anderem zur Erlangung der Typgenehmigung nach der EURO 6 Norm geführt. Die Fahrzeuge der aktuellen Serienproduktion halten also wesentlich geringere Schadstoffgrenzwerte ein (vgl. Verordnung 715/2007/EG mit Ergänzungs-Verordnungen).Auch unter Berücksichtigung des durch Auslegung zu ermittelnden Willens der Parteien bei Vertragsschluss folgt aus dem Kaufvertrag kein Anspruch des Klägers auf die Lieferung eines XXX der aktuellen Modellgeneration (zur Erforderlichkeit der Vertragsauslegung vgl. BGH, Urteil vom 07.06.2006, VIII ZR 209/05, juris, Rn 23). Dem Willen der Verkäuferin entsprach es - auch und gerade bei Berücksichtigung von Ziffer IV.6. der einbezogenen Neuwagen-Verkaufsbedingungen - nicht, bei eventuellen Mängeln ein Fahrzeug aus einer neuen Modellreihe zu liefern. Diese Klausel stellt ihrem Wortlaut nach ein einseitiges Leistungsbestimmungsrecht (§ 315 BGB) der Verkäuferin dar. Sie erweitert einseitig die Rechte der Verkäuferin, wobei bezüglich der Rechte des Käufers nur eine Billigkeitskontrolle auf Zumutbarkeit stattfindet. Dieser Charakter der Klausel verbietet es, sie im Wege der Vertragsauslegung zur Begründung einer Benachteiligung der Verkäuferseite bei gleichzeitiger Erweiterung der Rechte des Käufers heranzuziehen.2. Eine etwaig begehrte Nachlieferung eines Fahrzeugs im Sinne des § 439 BGB ist gemäß § 275 BGB ausgeschlossen:Das vom Kläger erworbene Modell XXX wird nicht mehr hergestellt. Aus der aktuellen Serienproduktion der Herstellerin gibt es kein Fahrzeug, das nach den Vorstellungen beider Parteien noch gleichartig und gleichwertig im Sinne der Rechtsprechung des Bundesgerichtshofes (BGH zum Stückkauf/Gebrauchtwagenkauf, Urteil vom 07.06.2006, VIII ZR 209/05, juris, Rn 23) wäre.3. Anspruch aus §§ 311, 241 Abs. 2 BGB:Ein Anspruch auf Lieferung eines Neufahrzeuges ist auch unter dem Gesichtspunkt der Prospekthaftung gem. §§ 311, 241 Abs. 2 BGB nicht schlüssig dargelegt. Eine Haftung im vorgenannten Sinne wurde von der Rechtsprechung für den sog. „grauen“, nicht organisierten Kapitalmarkt vor dem Hintergrund entwickelt, dass in jenem Markt der Emissionsprospekt die einzige Informationsquelle für den interessierten Kapitalanleger darstellt. Nur wenn die dortigen Angaben vollständig und richtig sind, kann der Interessent die ihm angebotene Kapitalanlage objektiv beurteilen und vor allem sein Anlagerisiko richtig einschätzen (vgl. BGHZ 111, 114 ff.). Im vorliegenden Fall eines Autokaufs ist die Grundsituation gänzlich anders. Der Kaufinteressent kann sich nicht nur aus Verkaufsprospekten, sondern auch aus allgemein öffentlich zugänglichen Quellen, wie etwa Testberichten einer Vielzahl einschlägiger Zeitschriften, informieren.4. Ansprüche im Zusammenhang mit einer möglicherweise unwirksamen EG-Übereinstimmungsbescheinigung:Der geltend gemachte Anspruch auf Lieferung eines Neufahrzeugs steht dem Kläger auch nicht unter dem Blickwinkel des Vorliegens einer - weil das Fahrzeug nicht allen maßgeblichen Vorschriften entspricht - unwirksamen EG-Übereinstimmungsbescheinigung zu: Durch die in Erfüllung des Kaufvertrages übergebene EG-Übereinstimmungsbescheinigung der Herstellerin nach Art. 18 der Richtlinie 2007/46/EG hat die Beklagte weder eine Garantieerklärung nach § 443 BGB abgegeben, noch haftet sie dadurch für besonderes Vertrauen im Sinne des § 311 Abs. 3 BGB. Sie war vielmehr dazu verpflichtet, diese Erklärung der Herstellerin - hier ist die Beklagte sowohl Verkäuferin als auch Herstellerin - nach Abschluss des Kaufvertrages zu übergeben.5. Der Kläger hat keinen Anspruch aus § 823 Abs. 2 BGB iVm Art. 12 und Art.18 der Richtlinie 2007/46/EG, §§ 4, 6, 25  EG-FGV oder iVm § 16 UWG oder iVm § 4 Nr.11 UWG aF oder iVm § 263 Abs. 1 StGB auf ein Fahrzeug aus der aktuellen Serienproduktion:Der Anspruch aus § 823 Abs. 2 BGB ist auf Naturalrestitution gem. § 249 Abs. 1 BGB gerichtet, also darauf, den Geschädigten so zu stellen, wie er ohne das schädigende Ereignis stünde. Anders als der Kläger meint, hätte die Beklagte aber kein Fahrzeug aus der aktuellen Serienproduktion zu liefern, um den Zustand herzustellen, der bestünde, „wenn die Beklagtenpartei nicht manipuliert hätte“ (Klageschrift Seite 61, Bl. 63 d.A.). Wenn der geltend gemachten Schaden im Abschluss eines Vertrages liegen soll - und ein solches Verleiten zum Vertragsschluss wird der Beklagten hier sowohl als Herstellerin als auch als Verkäuferin vorgeworfen - kann aus § 823 Abs. 2 BGB zwar der Ersatz des Erfüllungsinteresses geschuldet sein. Aber nur wenn feststeht, dass bei Unterbleiben der unerlaubten Handlung der Vertrag mit einem anderen Inhalt geschlossen worden wäre, kann Herstellung dieses Zustands verlangt werden (Palandt-Sprau BGB, 76. Aufl. 2017, Vor § 823 Rn 24). Im vorliegenden Fall steht im Gegensatz zur Rechtsansicht des Klägers jedoch fest, dass die Beklagte ohne die streitgegenständliche Motorsteuerungssoftware jedenfalls keinen Kaufvertrag über ein Fahrzeug aus der nunmehr aktuellen Serienproduktion zu demselben Preis wie im Kaufvertrag vom 07.03.2014 abgeschlossen hätte.6. Der Kläger hat keinen Anspruch aus § 826 BGB auf Lieferung eines Neufahrzeugs.Auch nach einer vorsätzlich sittenwidrigen Schädigung hat der Geschädigte einen Anspruch, so gestellt zu werden, wie er ohne Eintritt des schädigenden Ereignisses stünde (Staudinger/Jürgen Oechsler (2014) BGB § 826, Rn. 153 mwN, zitiert nach juris). Weder der Einbau der streitgegenständlichen Software durch die Beklagte als Herstellerin noch ein etwaiges arglistiges Verschweigen durch die Beklagte bei den Kaufvertragsverhandlungen könnte hier zu einem Anspruch aus § 826 BGB auf Lieferung eines Fahrzeugs aus der aktuellen Serienproduktion führen.Selbst wenn sich der Schadensersatzanspruch beim arglistigen Verschweigen eines Sachmangels auf das positive Interesse richten sollte (so Staudinger/Jürgen Oechsler (2014) BGB § 826, Rn. 154, 149.1 mwN, zitiert nach juris), umfasst dieses nicht das hier begehrte Fahrzeug aus der aktuellen Serienproduktion. Der Geschädigte wird auch bei Ersatz des positiven Interesses nicht besser gestellt, als er bei mangelfreier Erfüllung des ursprünglich geschlossenen Vertrages stünde.7. Insoweit als der Kläger in dem nachgelassenen Schriftsatz vom 29.08.2017 ins Feld führt, dass die Beklagte „weiterhin illegale Abschalteinrichtungen in dem Fahrzeug“ verbaue, so ist dieser Vortrag bereits nicht schlüssig, denn es fehlt jedweder vereinzelte Vortrag dazu, inwiefern das streitgegenständliche Fahrzeug des Klägers - und nur auf dieses kommt es hier an - hiervon betroffen sein soll. Vor dem Hintergrund des Inhalts der Freigabe der technischen Maßnahme durch das KBA (Anlage B 6) und der darin getroffenen Feststellungen zur Frage der Abschalteinrichtungen genügt das Zitat von Rechtsgutachten und Presseartikeln nicht dem Erfordernis an die Substantiierung klägerischen Vorbringens.B. Feststellung Annahmeverzug:Soweit der Kläger die Feststellung begehrt, dass sich die Beklagte mit der Rücknahme des ursprünglich gelieferten Fahrzeugs im Verzug befindet, ist die Klage ebenfalls nicht begründet, weil bereits nicht schlüssig. Die Beklagte befindet sich nicht im genannten Sinne im Annahmeverzug, weil der Kläger keinen Anspruch auf Lieferung eines Neufahrzeugs aus der aktuellen Produktion hat.C. Freistellung von vorgerichtlichen Rechtsanwaltskosten:Ein Anspruch auf Erstattung seiner vorgerichtlichen Rechtsanwaltskosten steht dem Kläger mangels begründeter Hauptforderung ebenfalls nicht zu.D. Prozessuale Nebenentscheidungen:Die prozessualen Nebenentscheidungen beruhen auf §§ 91, 709 ZPO, 48 Abs. 1 GKG, 3, 4 Abs. 1 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2206198.html (https://oj.is/2206198)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

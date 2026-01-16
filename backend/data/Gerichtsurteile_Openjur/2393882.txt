@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteThüringenOrdentliche GerichtsbarkeitLG MeiningenRechtsprechungUrteil vom 21.01.2022 - 1 O 425/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Meiningen, Urteil vom 21.01.2022 - 1 O 425/21
+                      m. Fundstelle
+                      LG Meiningen, Urteil vom 21.01.2022 - 1 O 425/21 = openJur 2022, 7922
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Meiningen, Urteil vom 21.01.2022 - 1 O 425/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 7922
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Beklagte zu 2) wird verurteilt, an den Kläger37.668,87 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 12.11.2021 zu zahlen, Zug um Zug gegen Herausgabe und Übereignung des Fahrzeugs vom Typ FIAT Ducato Bürstner Nexxo T 660 (Fahrzeugidentifikationsnummer: ... ).2. Im Übrigen wird die Klage abgewiesen.3. Von den Kosten des Rechtsstreits haben die Gerichtskosten sowie die außergerichtlichen Kosten des Klägers der Kläger und die Beklagte zu 2) jeweils zur Hälfte zu tragen. Die Beklagte zu 2) hat ihre außergerichtlichen Kosten selbst zu tragen. Die außergerichtlichen Kosten der Beklagten zu 1) trägt der Kläger.4. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht gegenüber den beiden Beklagten Ansprüche im Zusammenhang mit einem vom sogenannten "Diesel-Abgasskandal" betroffenen Wohnmobil geltend.Der Kläger erwarb am 11.01.2019 das Wohnmobil vom Typ FIAT Ducato Bürstner Nexxo T 660 (Fahrzeugidentifikationsnummer: ... ), als Gebrauchtfahrzeug von der Z. GmbH, ... zu einem Kaufpreis von 44.500,00 € (Anlage K1).Die Laufleistung des streitgegenständlichen Wohnmobils betrug bei Kauf ca. 23.000 km und am 26.11.2021 ca. 50.171 km.In dem streitgegenständlichen Fahrzeug ist ein Dieselmotor vom Typ Multijet mit einem Hubraum von 2.287 ccm (ca. 2,3 Liter), Euro 5 verbaut. Der Motor wurde von der FPT Industrial S.P.A., Turin hergestellt. Die Beklagte zu 2) hat den vorgenannten Motor in das Fahrgestell eines Fiat Ducato eingebaut und den Motor mit einer von der Bosch GmbH hergestellten Steuerungssoftware versehen ("geflashed"). Diese Steuerungssoftware wurde nach den Vorgaben der Beklagten zu 2) so ausgestaltet, dass die gesetzlich vorgeschriebene Abgasnachbehandlung ca. 22 Minuten nach jedem Motorstart deaktiviert wird. Da der Testlauf auf einem Abgasprüfstand (NEFZ) nur ca. 20 Minuten andauert, führt die Deaktivierung der Abgasnachbehandlung dazu, dass in der Prüfungssituation der Anschein vermittelt wird, das Fahrzeug würde den für Fahrzeuge der Euro-5-Klasse gesetzlich vorgeschriebenen Mindestgrenzwerten für NOx-Mengen genügen. Diese Programmierung kann dazu führen, dass, wenn der NEFZ mehrfach unmittelbar hintereinander gefahren wird, d.h. kein zwischenzeitliches Ausschalten des Motors erfolgt, ab dem zweiten NEFZ der NOx-Grenzwert um den Faktor 4 - 5 überstiegen wird. Gleiches gilt für den "Realbetrieb", wenn das Fahrzeug länger als 22 Minuten im Betrieb ist. Die Beklagte zu 2) hat das Fahrgestell nebst eingebautem Motor zum weiteren "Aufbau" des streitgegenständlichen Wohnmobils in den Verkehr gebracht.Die Beklagte zu 2) ist eine 100%-ige Tochtergesellschaft der Beklagten zu 1).Bei der Beklagten zu 1) handelt es sich um Holdinggesellschaft der St.-Gruppe, die aus einer Fusion der FCA-Gruppe mit der PSA-Gruppe hervorgegangen ist. Die Beklagte zu 1) ist keine produzierende Gesellschaft. Im niederländischen Handelsregister ist als Gesellschaftszweck der Beklagten zu 1) "Financial Holdings" eingetragen.Mit anwaltlichem E-Mail-Schreiben vom 13.04.2021 (Anlage K2) ließ der Kläger die Beklagte zu 1) unter Fristsetzung binnen 14 Tagen ab Zugang des Schreibens - erfolglos - zur Zahlung von 44.500,00 € (abzüglich einer Nutzungsentschädigung) Zug um Zug gegen Übergabe und Übereignung des streitgegenständlichen Wohnmobils auffordern.Mit seiner Klage verfolgt der Kläger (u.a.) seine vorgerichtlich gegenüber der Beklagten zu 1) geltend gemachten Ansprüche gerichtlich weiter. Mit Klageerweiterung vom 02.11.2021 (Bl. 130 ff. d. A.) nimmt der Kläger nunmehr auch die Beklagte zu 2) als weitere (Gesamt-)Schuldnerin in Anspruch.Der Kläger meint, durch das Verhalten der Beklagten getäuscht und sittenwidrig geschädigt worden zu sein. Die Beklagte habe bewusst eine illegale Abschalteinrichtung in dem streitgegenständlichen Motor verwendet um die zuständigen Genehmigungsbehörden zu täuschen. Die Beklagten müssten sich das Handeln ihrer Mitarbeiter analog § 31 BGB zurechnen lassen. Durch die Handlungen der Beklagten sei ihm - dem Kläger - ein kausaler Schaden entstanden, nämlich die Belastung mit einer ungewollten Verbindlichkeit in Form des Kaufvertragsschlusses über das streitgegenständliche Fahrzeug.Der Kläger beantragt zuletzt,1. die Beklagten werden gesamtschuldnerisch verurteilt, an die Klägerseite einen Betrag in Höhe von 40.825,69 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz der EZB ab Rechtshängigkeit zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeuges Fiat Ducato Bürstner Nexxo T 660, Fahrzeug-Ident.-Nr. ...2. es wird festgestellt, dass die Beklagten sich mit der Entgegennahme des Fahrzeugs aus dem Antrag zu 1) in Annahmeverzug befinden.3. die Beklagten werden gesamtschuldnerisch verurteilt, an die Klägerseite einen Betrag in Höhe von 1.877,11 € nebst Zinsen in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz der EZB seit Rechtshängigkeit für die außergerichtliche anwaltliche Rechtsverfolgung zu zahlen.Die Beklagten beantragen,die Klage abzuweisen.Sie meinen, einer Haftung der Beklagten zu 1) fehle bereits die Grundlage, da es sich bei ihr um keine produzierende Gesellschaft handele. Weder entwerfe, noch stelle sie ganze Fahrzeuge oder Teile davon her.Hinsichtlich einer Haftung der Beklagten zu 2) sei das Vorbringen des Klägers "in zahlreichen Punkten nicht ... einlassungsbedürftig - teilweise auf Grund ihrer Pauschalität auch nicht ... einlassungsfähig". Der streitgegenständliche Dieselmotor sei nicht von der Beklagten zu 2) produziert worden. Dessen ungeachtet entspreche der streitgegenständliche Motor "in jeder Hinsicht den maßgeblichen Anforderungen". Dies werde daran deutlich, dass das Fahrzeug über eine gültige EU-Typengenehmigung verfüge, welche als transnationaler Verwaltungsakt Behörden und Gerichte der EU-Mitgliedstaaten binde. Das klägerische Fahrzeug sei "auf Grund der fortbestehenden und in ihrem Bestand nicht gefährdeten EG-Typgenehmigung in jeder Hinsicht rechtskonform und zu dem bestimmungsgemäßen Gebrauch - die Nutzung zur Personenbeförderung auf Straßen - geeignet". Ein Vermögensschaden sei dem Kläger nicht entstanden.Hinsichtlich des Sach- und Streitstands wird ergänzend auf die zwischen den Parteien gewechselten Schriftsätze nebst deren jeweiliger Anlagen sowie auf das Protokoll der mündlichen Verhandlung am 26.11.2021 (Bl. 194 ff. d. A.) Bezug genommen (vgl. BGH, Beschluss vom 11.03.2004, Az. VII ZR 239/03, zitiert nach juris). 
+				Gründe
+				Die Klage ist zulässig und im Klageantrag zu Ziffer 1. gegenüber der Beklagten zu 2) auch begründet.1.In Bezug auf die Beklagte zu 1) ist die Klage unbegründet.Es fehlt an schlüssigem Klagevorbringen zur Passivlegitimation der Beklagten zu 1).Die Beklagte zu 1) ist im niederländischen Handelsregister als "Finanzholding" ausgewiesen. Sie ist weder Konstrukteurin, noch Herstellerin des streitgegenständlichen Fahrzeugs und/oder des Motors. Die Beklagte zu 1) hat das Fahrzeug nicht in den Verkehr gebracht und/oder vertrieben. Sie war im Typengenehmigungsverfahren nicht involviert. Die vom Kläger vorgetragenen "Indizien", vor allem der Umstand, dass sich die Beklagte öffentlich als "Autobauerin" bezeichnet, ist entgegen der Auffassung des Klägers nicht ausreichend um die Beklagte zu 1) als Herstellerin des streitgegenständlichen Fahrzeugs "anzusehen". Das diesbezügliche Vorbringen des Klägers stellt schon keinen schlüssigen Sachvortrag dar, sodass dieser auch nicht geeignet ist, eine sekundäre Darlegungslast der Beklagten zu begründen (vgl. im Zusammenhang LG Freiburg, Urteil vom 27.08.2021 - 4 O 5/21).2.Der klägerische Anspruch gegenüber der Beklagten zu 2) folgt aus §§ 826, 31 BGB i.V.m. Art. 4 Abs. 1 Rom-II-VO.Die Beklagte zu 2) hat durch das Inverkehrbringen des Motors mit einer unzulässigen Abschalteinrichtung eine vorsätzliche sittenwidrige Schädigung (§ 826 BGB) zu Lasten des Klägers begangen.Der Motor des streitgegenständlichen Fahrzeugs ist mangelhaft.Bei der im Motor des klägerischen Fahrzeugs unstreitig vorhanden Einrichtung, die zwei Minuten nach dem zeitlichen Ablauf des Prüfstandbetriebs die Abgasrückführung deaktiviert, handelt es sich um eine nach Art. 5 Abs. 2 VO 715/2007/EG unzulässige Abschalteinrichtung. Nach der vorgenannten Verordnung ist die Verwendung von Einrichtungen, die unter bestimmten Parametern die Wirkung von Emissionskontrollsystemen verringern grundsätzlich unzulässig, wenn nicht die ausdrücklich in der Verordnung normierten Ausnahmetatbestände greifen. Ein solcher Ausnahmetatbestand kommt im vorliegenden Fall allerdings von vornherein nicht in Betracht, da die von der Beklagten zu 2) in dem streitgegenständlichen Motor verwendete Abschalteinrichtung offenkundig allein dazu diente, im Prüfstandbetrieb ein vom Echtbetrieb abweichendes, positives Emissionsverhalten des Fahrzeugs herbeizuführen, um auf diese Weise die Einhaltung der anderweitig offenbar nicht zu erreichenden Emissionsgrenzwerte sicherzustellen.Das Verhalten der Beklagten zu 2) in Form des Inverkehrbringens des mangelhaften Motors ist sittenwidrig.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Hierbei ist nicht allein ausreichend, dass der Handelnde eine Pflicht verletzt und einen Schaden herbeiführt. Sein Verhalten muss darüber hinaus in Bezug auf das Handlungsziel, die eingesetzten Mittel oder die zutage getretene Gesinnung besonders verwerflich sein.Dies ist vorliegend der Fall.Die Beklagte zu 2) hat in großer Stückzahl Fahrzeug-Chassis auf den Markt gebracht, deren eingebauter Motor mit einer Software versehen ist, die von der Beklagten zu 2) bewusst und gewollt so programmiert war, dass die Abgasgrenzwerte im für die Erlangung der (Teil-)Typengenehmigung zu durchlaufenden Testzyklus eingehalten werden. Hierbei setzte die Beklagte zu 2) auf eine besonders dreiste und offenkundig einzig und allein dem Zweck der widerrechtlichen Erlangung der Typengenehmigung dienende Strategie. Dabei nahm sie billigend in Kauf, dass einerseits eine erhöhte Belastung der Umwelt mit Stickoxiden und andererseits die Gefahr einherging, dass bei der Aufdeckung des Sachverhalts eine Betriebseinschränkung oder -untersagung hinsichtlich der betroffenen Fahrzeuge erfolgen könnte. Dass solche Maßnahmen bislang nicht ergriffen wurden, steht der Sittenwidrigkeit des Verhaltens der Beklagten zu 2) nicht entgegen. Mit Rücksicht auf die konkret verwendete Abschalteinrichtung, die evident allein die Täuschung der Genehmigungsbehörden und des Endkunden bezweckt, hätte das streitgegenständliche Fahrzeug keinesfalls eine entsprechende Typengenehmigung erhalten dürfen.Das Verhalten der Beklagten zu 2) ist daher im Verhältnis zu der Person - hier dem Kläger -, die eines der mangelhaften Fahrzeuge in Unkenntnis des Mangels - der illegalen Abschalteinrichtung - erwirbt, besonders verwerflich und mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht zu vereinbaren.Die Beklagte zu 2) muss sich das vorsätzliche Handeln ihrer Mitarbeiter zurechnen lassen (§ 31 BGB).Der Schaden des Klägers liegt in der Eingehung und Erfüllung des Kaufvertrages über das streitgegenständliche, mangelhafte Fahrzeug. Der Schaden beruht auch auf der schädigenden Handlung der Beklagten zu 2). Hätte die Beklagte zu 2) den Motor des streitgegenständlichen Fahrzeugs nicht in den Verkehr gebracht oder offengelegt, welche Funktion die Software hat und welche rechtlichen Konsequenzen aus ihrer Verwendung folgen könnten, nämlich die spätere Stilllegung des Fahrzeugs, hätte der Kläger das streitgegenständliche Fahrzeug in mangelhaftem Zustand nicht erworben. Dafür spricht die allgemeine Lebenserfahrung.Der Kläger kann als Schaden gemäß §§ 249 ff. BGB verlangen, so gestellt zu werden, als hätte er den Kaufpreis des Fahrzeugs nicht gezahlt. Er muss allerdings wegen des im Deliktsrecht geltenden Bereicherungsverbots die erlangten Vorteile herausgeben, sich insbesondere die gezogenen Nutzungen, d.h. den Nutzwert der von ihm gefahrenen Kilometer, anrechnen lassen. Der Wert der Nutzung ist durch lineare Teilwertabschreibung vom Kaufpreis zu berechnen, wobei bei dem streitgegenständlichen Fahrzeug eine zu erwartende durchschnittliche Gesamtlaufleistung von 200.000 km zugrunde zu legen ist. Die zu erwartende Laufleistung ist im Vergleich zu einem Pkw mit Dieselmotor niedriger zu bewerten. Ein Wohnmobil wird im Durchschnitt weniger bewegt als ein konventionelles Fahrzeug. Darüber hinaus steht dem relativ "kleinen" Motor des streitgegenständlichen Wohnmobils ein im Vergleich zu einem Pkw deutlich höheres Fahrzeuggewicht gegenüber. Mithin ist bei einem Wohnmobil auch von einem erhöhten bzw. schnelleren Verschleiß auszugehen. Der Schaden des Klägers beträgt somit 37.668,87 € und errechnet sich wie folgt: Vom Brutto-Kaufpreis in Höhe von 44.500,00 € ist eine Nutzungsentschädigung in Abzug zu bringen, die das Gericht auf 6.831,13 € schätzt (§ 287 ZPO). Die Nutzungsentschädigung errechnet sich aus dem Brutto-Kaufpreis des Fahrzeugs (44.500,00 €), multipliziert mit der Anzahl der gefahrenen Kilometer (50.171 km - 23.000 km = 27.171 km), dividiert durch die zu erwartende Gesamtlaufleistung, abzüglich des Kilometerstands bei Kauf (200.000 km - 23.000 km = 177.000 km).Daneben ist als erlangter Vorteil das streitgegenständliche Fahrzeug vom Kläger an die Beklagte zu 2) herauszugeben.Der Zinsanspruch des Klägers ab dem 12.11.2021 folgt aus den §§ 288, 291 BGB.Der auf die Feststellung des Annahmeverzugs gerichtete Klageantrag zu Ziffer 2. geht ins Leere. Die Beklagte zu 2) befindet sich nicht im Annahmeverzug. Der Kläger hat die Rückgabe und Rückübereignung des streitgegenständlichen Fahrzeugs der Beklagten zu 2) nicht in einer den Annahmeverzug begründenden Art und Weise angeboten (§ 293 BGB).Den Ersatz vorgerichtlicher Rechtsanwaltskosten kann der Kläger von der Beklagten zu 2) ebenso wenig mit Erfolg geltend machen, da er außergerichtlich lediglich die Beklagte zu 1) - erfolglos - in Anspruch nehmen ließ.3.Die Kostenentscheidung beruht auf §§ 91, 92 Abs. 1 S. 1 ZPO. Der Ausspruch über die vorläufige Vollstreckbarkeit folgt aus § 709 ZPO.BeschlussDer Streitwert wird auf 37.668,87 € festgesetzt (vgl. BGH, Beschluss vom 23.02.2021 - VI ZR 1191/20).
+			
+			
+			
+			Permalink: https://openjur.de/u/2393882.html (https://oj.is/2393882)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert2
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

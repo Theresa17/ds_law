@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG MünsterRechtsprechungUrteil vom 11.04.2019 - 16 O 203/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Münster, Urteil vom 11.04.2019 - 16 O 203/18
+                      m. Fundstelle
+                      LG Münster, Urteil vom 11.04.2019 - 16 O 203/18 = openJur 2021, 16890
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Münster, Urteil vom 11.04.2019 - 16 O 203/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 16890
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten über Ansprüche nach einem Pkw-Kauf in Zusammenhang mit dem sogenannten "VW Abgasskandal".Der Kläger erwarb vom Gebrauchtwagenhändler B, "B Automobile", in Münster am 03.09.2016 (Anl. K1) einen Skoda Superb zum Preis von 25.850,00 € brutto mit einer Laufleistung von 18.600 km, erstmals zugelassen September 2015.Eingebaut in das Fahrzeug ist ein Motor des Typs EA 189 des Volkswagenkonzerns, der von der Beklagten entwickelt und den Konzernmarken zum Einbau in die von diesen produzierten Fahrzeugen zur Verfügung gestellt wurde. Das von dem Kläger gekaufte Fahrzeug ist vom so genannten "Abgasskandal" betroffen. Der verbaute Dieselmotortyp EA 189 enthielt eine Software, die Stickoxidwerte im Prüflaufstand "optimiert". Diese Software erkannte, ob das Fahrzeug sich auf einem technischen Prüfstand zur Ermittlung der Emissionswerte befindet oder im normalen Straßenverkehr gefahren wird. Diese Software sah zwei Betriebsmodi für die Abgasrückführung vor. Im Modus, der im Emissionsprüfungsverfahren aktiv war, waren die Abgasrückführungsraten höher, d.h. der Stickstoff-Ausstoß war geringer als bei Nutzung des PKW im Straßenverkehr. Ohne den Einsatz der Software hätte der Motor die Erfordernisse der Einstufung in die sog. "Euro 5 -Norm", in die er tatsächlich eingestuft wurde, im Fahrbetrieb nicht erfüllt.Nach Bekanntwerden der Software im September 2015 hatte das Kraftfahrt-Bundesamt (KBA) im Oktober 2015 den Rückruf von VW-Markenfahrzeugen angeordnet, die mit der entsprechenden Software ausgestattet sind. Das KBA vertrat die Auffassung, dass es sich bei der Software um eine unzulässige Abschalteinrichtung handelt. Es hatte der Beklagten mit Bescheid auferlegt, die Software aus den betroffenen Fahrzeugen zu entfernen und geeignete Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit zu ergreifen. Mit entsprechenden Schreiben aus dem Jahr 2016 hatte das Kraftfahrtbundesamt gegenüber der Beklagten die Freigabe des von der Beklagten deshalb geplanten Software-Updates erklärt.Es ist gerichtsbekannt, dass das Kraftfahrtbundesamt bei Nichtaufspielen der Software androht, die Betriebserlaubnis des betroffenen Fahrzeugs zu entziehen.Nach Information darüber, dass das Softwareupdate zur Verfügung stehe, ließ der Kläger es nach Erwerb des Fahrzeugs aufspielen.Der Kilometerstand des streitgegenständlichen Fahrzeugs betrug im Zeitpunkt der letzten mündlichen Verhandlung 41.970 km.Der Kläger vertritt mit näherer Begründung die Auffassung, die Beklagte hafte gemäß § 823 Abs. 2 BGB und § 826 BGB. Denn ohne die Manipulation und Täuschung hätte er das streitgegenständliche Fahrzeug nicht erworben. In der Erwerbsaufwendung liege sein Schaden.Mit näherer Begründung behauptet er, dass die seinerzeit tätigen Vorstände Kenntnis von den Vorgängen gehabt hatten. Jedenfalls komme die Beklagtenseite ihrer sekundären Darlegungslast nicht nach.Es sei ihm auch nicht anzulasten, das Fahrzeug nach Bekanntwerden des Abgasskandals erworben zu haben. Kenntnis von der Betroffenheit gerade des streitgegenständlichen Modells beim Kauf hätte er nicht gehabt und hätte eine solche auch nicht haben müssen. Der Verkäufer hätte ihn auch nicht auf die Betroffenheit des Fahrzeugs vom Abgasskandal hingewiesen.Der Kläger beantragt zuletzt - teilweise klageerhöhend - ,1.die Beklagte zu verurteilen, Zug um Zug gegen Übereignung des Fahrzeugs Skoda Superb Combi Ambition 2.0 TDI CR DPF 125 mit der Fahrgestellnummer: TMBLF73T8F...# an ihn 24.266,06 € nebst Zinsen in Höhe 2.367,36 € sowie weiterer Zinsen aus 25.850,00 € von 4 % pro Jahr seit dem 17.12.2018 zu zahlen,hilfsweise,festzustellen, dass die Beklagte verpflichtet ist, ihm Schadensersatz zu leisten für Schäden, die aus der Manipulation des Skoda Suberb Combi Ambition 2.0 TDI CR DPF 125 mit der Fahrgestellnummer: TMBLF73T8F...# durch die Beklagte resultieren,2.festzustellen, dass sich die Beklagte seit Rechtshängigkeit mit der Annahme des in Ziff. 1) genannten Fahrzeuges in Annahmeverzug befindet,Die Beklagte beantragt,die Klage abzuweisen.Sie tritt dem Klagebegehren in der Sache, soweit relevant, zusammenfassend wie folgt entgegen:Die eingebaute Software stelle keine Abschalteinrichtung dar, erst recht keine unzulässige. Dem Kläger sei wirtschaftlich kein Schaden entstanden, da das Fahrzeug uneingeschränkt gebrauchstauglich und vom Kläger auch über Jahre beanstandungslos verwendet worden sei, ein Wertverlust oder merkantiler Minderwert sei nicht eingetreten, ferner die Dispositionsfreiheit des Klägers nicht beeinträchtigt worden. Die Vorgaben des KBA seien umgesetzt worden, mit Aufspielung des Updates seien alle Vorgaben eingehalten und keinerlei negative Folgen der technischen Maßnahmen nach Überprüfung eingetreten oder sonst zu besorgen.Sie, die Beklagte, habe den Kläger schon nicht über Tatsachen getäuscht. Jedenfalls aber habe sich der Kläger nicht täuschungsbedingt geirrt und seine Kaufentscheidung sei unabhängig von den Angaben zum Motor erfolgt, zumal Umweltaspekte und ein bestimmter Abgasausstoß nicht für die Kaufentscheidung des Kläger maßgeblich gewesen seien. Ansprüche seien insbesondere deshalb ausgeschlossen, weil der Kläger das Fahrzeug beinahe ein Jahr nach Bekanntwerden der Problematik erworben habe und nachdem die Beklagte bereits mit der ad hoc - Mitteilung am 22.09.2015 die Öffentlichkeit darüber in Kenntnis gesetzt habe, dass nicht nur Fahrzeuge der Kernmarke VW betroffen seien. Aus diesem Grunde lägen die subjektiven Voraussetzungen des Betruges nicht vor.Wegen der Einzelheiten des Parteivortrags wird auf den Inhalt der gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				A. Die zulässige Klage ist mit sämtlichen Anträgen und Nebenforderungen unberechtigt. Der Kläger kann von der Beklagten aus keiner der in Betracht zu ziehenden Anspruchsgrundlagen Schadensersatz im Zusammenhang mit Erwerb seines vom sogenannten VW-Abgasskandal betroffenen Fahrzeugs verlangen. Denn das streitgegenständliche Fahrzeug wurde im September 2016 und damit beinahe ein Jahr nach Bekanntwerden des sog den Abgasskandals erworben.I. Die Voraussetzungen eines Anspruchs aus § 823 Abs. 2 BGB i.V.m. § 263 Abs. 1 StGB liegen nicht vor. Erforderlich ist u. a. eine Täuschung der Beklagten, die einen Irrtum bei dem Kläger erregt hätte. Eine solche Täuschung durch die Beklagte kann indes auf Grundlage des Klägervortrags nicht angenommen werden.Eine Täuschung ist bewusstes, d.h. vorsätzliches Erregen- oder Aufrechterhaltenwollen eines Irrtums durch Vorspiegeln falscher oder Unterdrücken wahrer Tatsachen, um den Getäuschten vorsätzlich zur Abgabe einer bestimmten Willenserklärung zu veranlassen (Jauernig, BGB, 16. Aufl. 2015, § 123 Rn. 3).Die Beklagte hat jedenfalls zum Zeitpunkt des Erwerbs des streitgegenständlichen Fahrzeugs durch den Kläger im September 2016 die Öffentlichkeit und auch den Kläger nicht mehr vorsätzlich getäuscht. Die Beklagte kann nicht bewusst einen Irrtum bei einem Dritten aufrechterhalten haben wollen. Sie musste nämlich davon ausgehen, dass etwaige Käufer, auch der Kläger, von betroffenen Fahrzeugen, deren Motor sie entwickelt hatte, Kenntnis haben und es unmöglich ist, diese zu täuschen, nachdem sie ab 22.09.2015 die Öffentlichkeit über den Abgasskandal und dessen Ausmaß informierte. Zum Zeitpunkt, als der Kläger das Fahrzeug erwarb, war die Öffentlichkeit über die von dem Volkswagenkonzern durchgeführten Softwaremanipulationen bereits umfassend informiert. Spätestens am 05.10.2015 war auch bekannt, dass Fahrzeuge der Konzernmarke Skoda von dem sog. "Abgasskandal" betroffen sind, und zwar auch das von dem Kläger erworbene Modell Skoda Superb II, Bj. 2009-2015 (vgl. exemplarisch die Pressemitteilung von Skoda auf https://www.presseportal.de/pm/28249/3139865 sowie die Berichterstattung auf https://www.focus.de/auto/iminterneteinsehbarabgasskandaldassinddiebetroffenenschummelmodellevonskoda_id_4993289.html). Dies war zeitlich gesehen etwa 11 Monate vor dem Erwerb des streitgegenständlichen Fahrzeugs durch den Kläger. In diesem Zeitraum beherrschte der sog. "Abgasskandal" die täglichen Nachrichten. Auch die Involvierung von Skoda wurde vielfach erwähnt. Auch wenn die Hintergründe zu dem gesamten Thema zum damaligen Zeitpunkt noch nicht offengelegt waren (und es bis zum heutigen Zeitpunkt nicht sind), so war die Öffentlichkeit informiert über die Tatsache, dass weltweit mehr als 11 Millionen Fahrzeuge mit manipulierter Software im Umlauf sind und konnte sich ganz konkret die Kenntnis verschaffen, ob das eigene Fahrzeug oder auch Fahrzeuge, die zu erwerben beabsichtigt waren, betroffen sind.II. Auch ein etwaiger Anspruch aus § 826 BGB ist aufgrund der Umstände des Falls ausgeschlossen.Die Kammer hat bereits erhebliche Zweifel am Vorliegen einer Sittenwidrigkeit der behaupteten Schädigungshandlung, wenn der Erwerber eines betroffenen Fahrzeugs - wie hier - von der Betroffenheit des Fahrzeugs zumindest wissen muss; dies dürfte wohl kaum dem Anstandsgefühl aller billig und gerecht Denkenden widersprechen.Letztlich kann dieser Umstand indes auch dahingestellt bleiben. Denn aus den obigen Erwägungen zum Fehlen einer Täuschungshandlung nebst Täuschungsvorsatz der Beklagten im Zeitpunkt des Fahrzeugerwerbs, auf die zur Vermeidung von Wiederholungen Bezug genommen wird, mangelt es auch an dem erforderlichen, fortbestehenden Schädigungsvorsatz der Beklagten gerade gegenüber Käufern wie dem Kläger. Denn die Beklagte durfte auch davon ausgehen, dass der jeweilige Erwerber, somit auch der Kläger, aufgrund der monatelangen Berichterstattung in Presse, Funk und Fernsehen sowie des frühzeitig (Ende September 2015) zur Verfügung gestellten Abfrage-Tools bereits von der Problematik des zu erwerbenden Fahrzeugs erfahren haben musste. Auf Erwerber eines betroffenen Fahrzeugs nach Bekanntwerden der Abgasproblematik kann sich ein etwaiger Tatplan der Beklagten naturgemäß deshalb nicht erstreckt haben, weil ein solcher die Unbekanntheit der Umschaltung der Abgasrückführung vorausgesetzt hätte (OLG Braunschweig Hinweisbeschluss v. 2.11.2017 - 7 U 69/17, BeckRS 2017, 147936, Rdnr. 15 beckonline).III. Soweit der Kläger im Rahmen seiner persönlichen Befragung durch die Kammer und im Schriftsatz vom 28.03.2019 angegeben hat, er habe zwar Kenntnis vom sogenannten VW-Abgaskanal gehabt, nicht jedoch davon, dass gerade das von ihm zu erwerbende Fahrzeug hiervon betroffen sei, ändert dies nichts. Denn die subjektiven Tatbestandsvoraussetzungen der Betracht kommenden Haftungsnormen (s.o. unter I. u. II.) liegen unabhängig hiervon nicht vor.Darüber hinausgehend wäre, selbst wenn man Vorstehendes anders beurteilen würde, unter Zugrundelegung des Klägervorbringens ein etwaiger Anspruch jedenfalls gemäß § 254 BGB aufgrund weit überwiegenden Mitverschuldens des Klägers an der Schadensentstehung im Ergebnis auf Null zu kürzen und damit ganz ausgeschlossen. Selbst wenn man einmal unterstellt, der Kläger hätte tatsächlich trotz der die Medien beherrschenden Berichterstattung ab Ende September 2015 bis September 2016 nichts davon erfahren, dass der in das streitgegenständliche Fahrzeug - welches zu erwerben er beabsichtigte - eingebaute Motor der Baureihe EA 189 des Volkswagenkonzerns vom Abgaskanal betroffen ist, stellt sich der etwaige schadensbegründende Erwerb des Fahrzeugs als im höchsten Maße grob fahrlässig dar, weil der Kläger die Augen vor der sich aufdrängenden Betroffenheit des von ihm zu erwerbenden Fahrzeugs und damit vor demjenigen verschlossen hat, was in seiner Situation wirklich einem jeden hätte einleuchten müssen. Denn er hat eingeräumt, vom Abgaskanal gewusst zu haben und dass ihm ebenso klar gewesen sei, dass die die Marke Skoda zum Volkswagenkonzern gehöre. In der Situation des Klägers hätte es sich jedem anderen potentiellen Käufer dieses Fahrzeugs des Volkswagenkonzerns (Skoda mit Dieselmotor) im Sommer und Herbst 2016 geradezu aufgedrängt, sich angesichts der umfassenden Berichterstattung in den Vormonaten auch zu Betroffenheit zahlreicher anderer Markenfahrzeuge des Konzerns inklusive der Marke Skoda vor dem Abschluss eines Kaufvertrages zu informieren, ob das für den Kauf vorgesehene Modell betroffen ist oder zumindest sein kann. Dass nicht nur ausschließlich Fahrzeuge der Kernmarke VW betroffen waren (unabhängig von der Frage, welche genau), wusste der Kläger, denn dies kann ihm nicht entgangen sein. Im Zeitpunkt des Fahrzeugerwerbs hätte dies durch eine simple Eingabe des Modells in eine Internet-Suchmaschine innerhalb weniger Sekunden geklärt und eingegrenzt werden können. Hätte der Kläger dies im vorliegenden Fall getan, hätte er Kenntnis gehabt, zumindest aber den Verkäufer vor Unterzeichnung eines Kaufvertrages weitergehend veranlassen können, die Betroffenheit des zu erwerbenden Fahrzeugs durch Eingabe der FIN in das von der Beklagten bereitgestellte Online-Tool individuell abzuklären, so dass er nach eigenem Bekunden infolge der Kenntnis der Betroffenheit den Kaufvertrag nicht abgeschlossen hätte und es letztlich zum Schadenseintritt nicht gekommen wäre. Es entlastet den Kläger auch nicht, dass nach seinem Bekunden der Gebrauchtwagenhändler im Zuge der Kaufvertragsverhandlungen den Abgasskandal nicht angesprochen habe. Hier hätte der Kläger und jeder andere auch nur halbwegs bei Verstand befindliche Kaufinteressent angesichts der über Monate drückenden Berichterstattung und der sich aufdrängenden Betroffenheit von Skoda-Dieselfahrzeugen selbst tätig werden, sich also informieren und schließlich beim Verkäufer nachfragen müssen müssen.B. Die Nebenentscheidungen beruhen auf §§ 91 Abs. 1, 709 ZPO.C. Der Streitwert wird festgesetzt auf 23.342,27 € bis 19.03.19, danach 24.266,06 €.
+			
+			
+			
+			Permalink: https://openjur.de/u/2338713.html (https://oj.is/2338713)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

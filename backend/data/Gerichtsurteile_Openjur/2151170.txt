@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG EssenRechtsprechungUrteil vom 10.11.2017 - 4 O 107/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Essen, Urteil vom 10.11.2017 - 4 O 107/17
+                      m. Fundstelle
+                      LG Essen, Urteil vom 10.11.2017 - 4 O 107/17 = openJur 2019, 16053
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Essen, Urteil vom 10.11.2017 - 4 O 107/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 16053
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				I.Die Beklagte wird verurteilt, an den Kläger einen Betrag in Höhe von 25.024,07 € nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem ... zu zahlen, Zug um Zug gegen Rückgabe und Rückübereignung des Fahrzeugs W, Fahrzeugident.-Nr.: ... .II.Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des unter Ziffer I. genannten Fahrzeugs in Annahmeverzug befindet.III.Im Übrigen wird die Klage abgewiesen.IV.Die Kosten des Rechtsstreits tragen die Beklagte zu 87 % und der Kläger zu 13 %.V.Das Urteil ist vorläufig vollstreckbar, für den Kläger jedoch nur gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages. Der Kläger darf die Zwangsvollstreckung gegen Sicherheitsleistung in Höhe des aufgrund des Urteils gegen ihn vollstreckbaren Betrages abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe des jeweils zu vollstreckenden Betrages leistet. 
+				Tatbestand
+				Der Kläger begehrt die Rückabwicklung eines Pkw-Kaufvertrages über einen W wegen manipulierter Abgaswerte sowie die Feststellung des Annahmeverzugs.Mit Bestellung vom ... erwarb der Kläger von der Beklagten, einer Vertragshändlerin der W 1 AG, das streitgegenständliche Fahrzeug, einen W zu einem Preis von 28.930,01 €.Am ... wurde das Fahrzeug an den Kläger übergeben, der Kaufpreis wurde von dem Kläger bezahlt.Das Fahrzeug hatte am ... einen Kilometerstand von 40.504 km.Das Fahrzeug verfügte bereits im Übergabezeitpunkt über einen Dieselmotor des Typs EA 189, welcher der EU-Abgasnorm 5 genügen soll. Der Pkw ist ferner mit einer Software ausgestattet, die erkennt, wann sich das Fahrzeug im Prüfstand zur Ermittlung der Emissionswerte befindet. In einem NOx - "Modus 1" sorgt die entsprechende Software dafür, dass eine hohe Abgasrückführung erfolgt und der am Auspuff gemessene Wert absinkt. Im normalen Straßenbetrieb NOx - "Modus 0" erfolgt diese Abgasrückführung dann in einem geringeren Maße.Der Beklagten war dies bei Vertragsschluss nicht bekannt.Mit anwaltlichem Schreiben vom ... forderte der Kläger das beklagte Autohaus unter Bezugnahme auf die Abgasmanipulation zur Nachbesserung auf.Mit Schreiben vom ... sagte die Beklagte Nachbesserung zu und erklärte zugleich, auf die Verjährungseinrede werde bis zum ... verzichtet.Am ... wurde das Softwareupdate "Aktion 23R7" auf das Fahrzeug aufgespielt.Mit anwaltlichem Schreiben vom ... erklärte der Kläger den Rücktritt vom Kaufvertrag und forderte die Beklagte unter Fristsetzung bis zum ... zur Rückabwicklung auf.Der Kläger ist der Ansicht, das streitgegenständliche Fahrzeug sei aufgrund der Ausstattung mit einer manipulativen Software bei der Übergabe mangelhaft gewesen. Es habe nicht der üblichen Beschaffenheit entsprochen. Dabei müsse sich die Beklagte das Handeln der W 1 AG zurechnen lassen.Der Kläger behauptet, das Software-Update habe auch nicht zu einer Beseitigung des Mangels geführt, weil es bei einem Mangelverdacht verbleibe. Dieser ergebe sich daraus, dass es einen Zielkonflikt zwischen günstigen Stickoxidwerten und ungünstigen Kohlendioxidwerten gebe, so dass der Verdacht bestehe, dass eine Verbesserung der Stickoxidwerte nur unter Inkaufnahme anderer Nachteile möglich sei.Auch komme es zu einem erhöhten Kraftstoffverbrauch und einem Wertverlust auf dem Gebrauchtwagenmarkt.Ferner ist der Kläger der Ansicht, eine Nutzungsentschädigung sei nicht Abzug zu bringen, denn im Fall einer arglistigen Täuschung sei dies nicht geschuldet.Der Kläger beantragt,1. die Beklagte zu verurteilen, an den Kläger einen Betrag in Höhe 28.930,01 € Zug um Zug gegen Rückgabe und Rückübereignung des Fahrzeugs W Fahrzeugident-Nr.: ... nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem ... zu zahlen,2. die Beklagte zu verurteilen, den Kläger hinsichtlich einer Forderung seiner Prozessbevollmächtigten in Höhe von 1.358,86 € nebst 5 % Zinsen über dem Basiszinssatz seit dem ... durch Zahlung freizustellen,3. festzustellen, dass sich die Beklagte mit der Rücknahme des vorbezeichneten Fahrzeugs in Annahmeverzug befindet.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte ist der Ansicht, das streitgegenständliche Fahrzeug sei nicht mangelhaft. Sie behauptet, der Pkw weise in Hinblick auf den Stickstoffausstoß kein Abweichen von der vereinbarten Beschaffenheit auf, weil über den Schadstoffausstoß bei Vertragsschluss überhaupt nicht gesprochen worden sei.Das Fahrzeug verfüge auch nicht über eine unzulässige Abschalteinrichtung, weil das Emissionskontrollsystem im realen Fahrbetrieb nicht ausgeschaltet werde. Die Motorsteuergerätesoftware beeinflusse durch Rückführung der Abgase in den Motor die Messwerte nur beim Durchfahren des Neuen Europäischen Fahrzyklus (NEFZ). Sie verfüge über eine Umschaltlogik, die erkenne, wann sich das Fahrzeug auf dem Prüfstand befinde.Das Zurückführen von Gasen in den Motor verhindere dessen Austritt in die Umwelt und sei deshalb per Definition keine Abschalteinrichtung.Im Übrigen komme es auf die Emissionen im praktischen Fahrbetrieb nicht an, weil die gesetzlichen Regelungen keine Grenzwerte für den tatsächlichen Straßenbetrieb festlege, sondern an den synthetischen Fahrzyklus unter Laborbedingungen (NEFZ) anknüpfe.Der Pkw verfüge auch über die EU-Typengenehmigung.Ferner sei das Fahrzeug auch technisch sicher, so dass mit seinem Betrieb keinerlei Gefahr für den Kläger oder Dritte bestanden habe. Auch sei es zu keinen Einschränkungen der Gebrauchstauglichkeit gekommen.Jedenfalls aber sei ein etwaiger Mangel im Dezember ... durch das Aufspielen des Softwareupdates vor der Rücktrittserklärung beseitigt worden. Das Kraftfahrtbundesamt habe festgestellt, dass das von der W 1 AG entwickelte Update geeignet sei, die Vorschriftsmäßigkeit auch des Fahrzeugmodells des streitgegenständlichen Fahrzeugs herzustellen.Das Softwareupdate habe nicht zur Folge, dass die Motorleistung sinke, der Verbrauch oder der CO²-Ausstoß steige. Das habe bezüglich der Motorleistungen und Emissionen auch schon das Kraftfahrtbundesamt in der Freigabebestätigung für das Softwareupdate vom ... festgestellt.Die Beklagte vertritt die Ansicht, auch ein merkantiler Minderwert sei nicht eingetreten und bei den Nachbesserungskosten von weniger als 5 % des Kaufpreises nicht anzunehmen. Die Nachbesserungskosten lägen mit 100,00 € nämlich bei weniger als 1 % des Kaufpreises.Ein Rücktritt sei deshalb auch schon wegen Unerheblichkeit des Mangels ausgeschlossen. Das streitgegenständliche Fahrzeug habe ein reines Software-Update erhalten, für dessen Aufspielen lediglich eine halbe Stunde Arbeitszeit angefallen sei. Auch die Kosten seien mit 100,00 € sehr gering gewesen.Eine Wertminderung sei bei Fahrzeugen, die mit einem Motor des Typs EA189 ausgestattet seien, weder eingetreten noch zu erwarten.Der Beklagten sei eine etwaige Kenntnis der Fahrzeugherstellerin nicht zuzurechnen. Von dem Einbau der Software habe sie im Übrigen auch erst im Rahmen der medialen Berichterstattung im September ... erfahren.Die Beklagte erhebt die Einrede der Verjährung in Bezug auf die behaupteten Mängel des überhöhten Kraftstoffverbrauchs sowie des überhöhten CO²-Ausstoßes.Zumindest aber sei eine Nutzungsentschädigung auf Grundlage einer Gesamtlaufleistung von 200.000 km in Abzug zu bringen.Wegen des weiteren Vorbringens wird auf die Schriftsätze nebst Anlagen verwiesen.Die Klage ist dem Landgericht Essen am ... zugegangen und wurde der Beklagten am ... zugestellt. 
+				Gründe
+				Die zulässige Klage ist teilweise begründet.I.Der Kläger kann gemäß §§ 434 Abs. 1, 437 Nr. 2, 323 Abs. 1, 346 Abs. 1 BGB Zahlung von 25.024,07 € von der Beklagten Zug um Zug gegen Rückgabe des streitgegenständlichen Fahrzeugs verlangen.1.Der Kläger hat die gemäß § 349 BGB erforderliche Rücktrittserklärung gegenüber der Beklagten mit anwaltlichem Schreiben vom ... abgegeben.2.Das streitgegenständliche Fahrzeug war im Zeitpunkt der Übergabe mangelhaft im Sinne des § 434 Abs. 1 S. 2 Nr. 2 BGB, denn es weicht - unabhängig von der Frage einer Beschaffenheitsvereinbarung im Sinne des § 434 Abs. 1 S. 1 BGB - von der Beschaffenheit, die bei Sachen der gleichen Art üblich ist und die der Käufer nach der Art der Sache erwarten kann, ab.Welche Beschaffenheit der Käufer erwarten kann, bestimmt sich nach dem objektiven Erwartungshorizont eines Durchschnittskäufers und somit nach der objektiv berechtigten Käufererwartung (vgl. BGH, Urteil vom 20.05.2009, Az. VIII ZR 191/07).Ein Neufahrzeug entspricht nicht schon dann der üblichen und berechtigterweise von einem Käufer zu erwartenden Beschaffenheit, wenn es technisch sicher und fahrbereit ist und über alle Genehmigungen verfügt.Ein Fahrzeug, das mit einer Software ausgestattet ist, die zur Verbesserung der messbaren Stickoxidwerte auf dem Prüfstand führt, weicht von den Erwartungen ab, die ein Käufer berechtigterweise an ein Fahrzeug stellen darf (vgl. OLG Hamm, Beschluss v. 21.06.2016, Az. 28 W 14/16).Ein Käufer darf erwarten, dass die stickoxidverringernden Prozesse, die während der Testphase aktiviert sind, so auch unter realen Bedingungen stattfinden und es keine Divergenz zwischen dem Stickoxidausstoß im Testlauf und im tatsächlichen Einsatz des Fahrzeugs aufgrund des Einbaus einer manipulativen Software gibt.Dies ergibt sich auch daraus, dass eine solche Vorrichtung bei Fahrzeugen anderer Hersteller nicht bekanntermaßen üblich ist.3.Das Rücktrittsrecht des Klägers ist auch nicht dadurch ausgeschlossen, dass er ein Aufspielen des Software - Updates "Aktion 23R7" vornehmen ließ.In dem Aufspielen des Software - Updates ist keine geeignete Nacherfüllung zu sehen. Der Mangel wurde nicht vollständig beseitigt, denn das Update kann jedenfalls den kausal durch die Software verursachten Wertverlust nicht beseitigen.Zur Überzeugung der Kammer steht fest, dass die öffentliche Diskussion um die Dieselabgasmanipulation zu einem erheblichen Image- und Wertverlust für Dieselfahrzeuge geführt hat. Eine Auswertung des Nachrichtenmagazins G vom ... von 250.000 Inseraten des Portals mobile.de im September ... hat ergeben, dass für Dieselfahrzeuge im Schnitt 12 % weniger gezahlt wurde als im Vorjahr.Insofern kann auch nicht der Argumentation der Beklagten gefolgt werden, ein merkantiler Minderwert trete bei Reparaturkosten von unter 5 % nicht auf, denn dieser Erfahrungssatz wird durch das Marktverhalten widerlegt. Es ist davon auszugehen, dass die erheblichen Unsicherheiten zur Qualität der Software das Käuferverhalten beeinflussen, weil ein relevanter Teil der Käufer nicht davon ausgeht, dass das technische Problem allein durch das Update beseitigt ist.Daher kann dahinstehen, ob durch das Update ein höherer Verbrauch, ein höherer Verschleiß und Leistungsverlust auftreten. Dem von dem Kläger angebotenen Beweisantritt zur Einholung eines Sachverständigengutachtens in dieser Frage war demnach nicht nachzugehen.4.Das Rücktrittsrecht des Klägers ist ferner nicht wegen einer Unerheblichkeit der Pflichtverletzung gemäß § 323 Abs. 5 S.2 BGB ausgeschlossen.Hierbei sind die beiderseitigen Interessen umfassend abzuwägen, wobei die Bedeutung des Mangels in der Verkehrsanschauung sowie alle Umstände des Einzelfalls in die Betrachtung miteinzubeziehen sind.Insbesondere sind der für die Mangelbeseitigung erforderliche Aufwand, die Qualität des Vertragsgegenstandes, die Anzahl der Mängel, die Auswirkung auf die beeinträchtigte Leistung und die für die Kaufentscheidung maßgeblichen Kriterien heranzuziehen. Bei behebbaren Mängeln ist zumindest auch auf die Kosten der Mängelbeseitigung abzustellen (vgl. BGH, NJW 2014, 3229 f.).Eine umfassende Interessenabwägung auf Grundlage der Umstände des hiesigen Einzelfalls ergibt, dass es sich vorliegend nicht um einen unerheblichen Mangel handelt.Zunächst kann die Beklagte sich nicht darauf berufen, dass für die Nachbesserung lediglich Kosten in Höhe von etwa 100 € entstünden und diese mit einem geringen zeitlichen Aufwand durchzuführen sei.Zu beachten ist, dass die Bereitstellung des Software-Updates und dessen Bewilligung durch das Kraftfahrtbundesamt einen Zeitraum von über einem Jahr in Anspruch nahm. Dies allein spricht schon gegen eine Unerheblichkeit.Auch wenn die Kosten, bei unterstellter Richtigkeit des Beklagtenvortrags, unter 100 € liegen, ist dies letztlich darauf zurückzuführen, dass insgesamt mehrere Millionen Fahrzeuge betroffen sind, so dass sich die Kosten für die Entwicklung des Software-Updates auf all diese Fahrzeuge verteilen.Auch der Umstand, dass die Nacherfüllung für den Kläger praktisch zwingend ist, muss berücksichtigt werden. Aufgrund der mit dem Kraftfahrtbundesamt ausgearbeiteten Rückrufaktion des Herstellers wäre der Kläger dazu verpflichtet, das Software-Update aufspielen zu lassen, um die Zulassung des Fahrzeugs nicht zu gefährden.Ferner wäre es auch nicht sachgerecht, allein auf die Reparaturkosten abzustellen. Vielmehr ist auch ein verbleibender merkantiler Minderwert in die Überlegungen miteinzubeziehen.Es zeichnet sich ein Wertverlust der betroffenen Dieselfahrzeuge auf dem Gebrauchtwagenmarkt ab. Dies ergibt sich konsequenterweise aus der negativen Berichterstattung im Zusammenhang mit der Manipulationssoftware und der lang andauernden Ungewissheit der Verbraucher bezüglich der weiteren Zulassung der Fahrzeuge sowie den noch fortdauernden Zweifeln über die Geeignetheit der Nacherfüllung.Auch steht der Annahme eines unerheblichen Mangels entgegen, dass das Vertrauen in die Herstellerin des streitgegenständlichen Fahrzeugs, welche einzig zur Nacherfüllung herangezogen werden kann, aufgrund ihres den Verbraucher täuschenden Verhaltens nachhaltig erschüttert ist.5.Die Rechtsfolge des Rücktritts ergibt sich aus §§ 346 Abs. 1, 348 BGB. Das Vertragsverhältnis ist rückabzuwickeln, indem die empfangenen Leistungen ausgetauscht und die gezogenen Nutzungen herausgegeben bzw. Wertersatz hierfür geleistet wird.In diesem Rahmen muss der Kläger sowohl das Fahrzeug herausgeben als sich auch die gefahrenen Kilometer als Nutzungsentschädigung anrechnen lassen.Im Rahmen einer nach § 287 ZPO vorzunehmenden Schätzung ist eine Gesamtlaufleistung von 300.000 km zugrunde zu legen (so auch: OLG Braunschweig, Urteil vom 06.11.2014 - 8 U 163/13). Das Fahrzeug hatte am ... eine Kilometerlaufleistung von 40.504 km, wie sich aus dem von dem Kläger vorgelegten Lichtbild des Tachostandes ergibt.Danach ergibt sich auf Grundlage der kilometeranteiligen Wertminderung ein dem Kläger in Abzug zu bringender Nutzungsersatz in Höhe von 3.905,94 € (Bruttokaufpreis x gefahrene Kilometer/ Gesamtlaufleistung: 28.930,01 € x 40.504 km / 300.000 km = 3.905,94 €).Nach Abzug dieses Betrages hat der Kläger einen Anspruch auf Zahlung von 25.024,07 € Zug um Zug gegen Übergabe und Übereignung des streitgegenständlichen Fahrzeugs.6.Die Durchsetzbarkeit des Anspruchs des Klägers ist auch nicht durch die Erhebung der Einrede der Verjährung seitens der Beklagten gehemmt.Die Beklagte kann sich nicht auf die Einrede der Verjährung berufen, obwohl der Anspruch gemäß §§ 200, 438 Abs. 1 Nr. 3, Abs. 2 BGB verjährt ist.Das Fahrzeug wurde am 12.01.2015 an den Kläger übergeben, mit diesem Zeitpunkt begann der Lauf der zweijährigen Verjährungsfrist. Die Klage wurde erst am 06.04.2017 eingereicht und am 10.05.2017 zugestellt.Die Beklagte hat allerdings erklärt, auf die Einrede der Verjährung bis Ende ... verzichten zu wollen. Ein Berufen auf die Verjährung ist der Beklagten deshalb als treuwidrig im Sinne des § 242 BGB entgegenzuhalten (vgl. OLG Düsseldorf, Urteil vom 09.01.2001, 22 U 171/00).II.Andere Anspruchsgrundlagen, die eine Rückzahlung des Kaufpreises ohne Abzug der Nutzungsentschädigung begründen, sind nicht ersichtlich.1.Ein Anspruch folgt insbesondere nicht aus § 812 Abs. 1 S. 1 Alt. 1 BGB.Der Kaufvertrag ist als Rechtsgrund schon deshalb nicht nichtig, weil der Kläger den Kaufvertrag nicht angefochten hat, so dass es schon an der notwendigen Anfechtungserklärung im Sinne des § 143 Abs. 1 BGB mangelt.2.Ein Anspruch aus §§ 311, 241 Abs. 2 BGB scheidet ebenfalls aus, da eine der Beklagten zurechenbare arglistige Täuschung nicht ersichtlich ist. Aus dem Vortrag des Klägers ergeben sich keine Anhaltspunkte für eine Kenntnis der Beklagten von dem Mangel im Zeitpunkt des Vertragsabschlusses.Ferner begründet auch allein die Geschäftsbeziehung zwischen der Herstellerin und der Beklagten als Vertragshändlerin kein Näheverhältnis im Sinne des § 123 Abs. 2 BGB, das dazu führt, dass sich der Vertragshändler das Wissen des Herstellers zurechnen lassen muss (vgl. OLG Hamm, Beschluss vom 19.06.2017, 2 U 39/17, OLG Hamm, Beschluss vom 05.01.2017, 28 U 201/16).III.Der Zinsanspruch folgt aus §§ 286 Abs. 2 Nr. 1, 288 Abs. 1 BGB. Im anwaltlichen Schreiben vom ... wurde der Beklagten eine Frist zur Rückabwicklung des Kaufvertrages bis zum ... gesetzt, so dass sich ein Zinsanspruch ab dem ... ergibt.IV.Der Antrag auf Feststellung des Annahmeverzugs ist gemäß § 256 ZPO zulässig und begründet.Die Beklagte ist nach § 295 S. 1 BGB in Annahmeverzug geraten. Der Kläger hat mit anwaltlichen Schreiben vom ... die Rückgabe des Fahrzeugs wörtlich angeboten. Ein wörtliches Angebot war auch ausreichend, um den Annahmeverzug auszulösen, denn die Beklagte hat keine Bereitschaft gezeigt, das angebotene Fahrzeug zurückzunehmen. Vielmehr hat die Beklagte spätestens mit der Ankündigung, einen Klageabweisungsantrag zu stellen, schlüssig die Annahme verweigert.V.Ein Anspruch des Klägers auf Ersatz vorgerichtlicher Anwaltskosten ergibt sich nicht aus §§ 437 Nr. 3, 280 Abs. 1 BGB, denn es besteht kein Verschulden der Beklagten an der Lieferung der mangelhaften Sache.Die Beklagte hatte weder Kenntnis von dem Mangel noch muss sie sich das Verschulden der Herstellerin nach § 278 BGB zurechnen lassen.Ferner besteht auch kein Anspruch nach §§ 280 Abs.1, 2, 286 BGB, denn ein Verzug der Beklagten mit der Rückabwicklung des Kaufvertrages war im Zeitpunkt der vorgerichtlichen Beauftragung der Klägervertreter nicht gegeben. Vielmehr wurde die Rücktrittserklärung erst durch die Klägervertreter mit Schriftsatz vom ... abgegeben.VI.Die Kostenentscheidung beruht auf § 92 Abs. 1 ZPO.Die Entscheidung über die vorläufige Vollstreckbarkeit ergibt sich aus § 708, 709, 711 ZPO.VII.Der Streitwert wird auf 28.930,01 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2151170.html (https://oj.is/2151170)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

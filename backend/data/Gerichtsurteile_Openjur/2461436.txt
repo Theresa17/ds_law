@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG MemmingenRechtsprechungEndurteil vom 05.09.2022 - 25 O 2108/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Memmingen, Endurteil vom 05.09.2022 - 25 O 2108/21
+                      m. Fundstelle
+                      LG Memmingen, Endurteil vom 05.09.2022 - 25 O 2108/21 = openJur 2023, 625
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Memmingen, Endurteil vom 05.09.2022 - 25 O 2108/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2023, 625
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen. 3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. BeschlussDer Streitwert wird bis zum 13.06.2022 auf 10.524,10 € und ab dem 14.06.2022 auf 4.750,00 € festgesetzt.  
+				Tatbestand
+				Die Klagepartei erhebt Ansprüche auf Schadensersatz gegen die Beklagte aus dem Kauf eines Pkws, welcher von dem sog. "Abgasskandal" betroffen ist.Streitgegenständlich ist ein Fahrzeug der Marke ... des Typs ... mit der Fahrzeug-Identifizierungsnummer: ...Für das Fahrzeug existiert ein verbindlicher Rückruf des Kraftfahrt-Bundesamtes. Danach war die Bedatung der beanstandeten Softwarebestandteile zu ändern bzw. aufzuweiten, um einen breiteren Anwendungsbereich im Straßenbetrieb zu gewährleisten. Es verfügt über eine bestehende EG-Typengenehmigung. Das Fahrzeug erkennt den Prüfstand. Ein AECD-Steuergerät und ein Nox-Speicher-Katalysator sind nicht verbaut. Das Kraftfahrt-Bundesamt hat das Software-Update für die Fahrzeuge des Typs ... mit Bestätigung vom 17.09.2019 freigegeben. Das Software-Update wurde bei dem streitgegenständlichen Fahrzeug durchgeführt. Das Fahrzeug hatte am 04.07.2022 einen Kilometerstand von 219.331 km. Das Rückrufschreiben hat der Kläger im November 2019 erhalten.Nachdem bereits seit Ende September 2015 die EA189-Thematik sämtliche deutsche regionale und überregionale, sowie auch internationale Medien beherrschte, steht die V-TDI-Problematik, Euro 5 und Euro 6 Motoren, seit Mitte 2017 im Fokus der Medien und Öffentlichkeit, in der auch über den Erlass von Pflichtrückrufen gegenüber der Beklagten berichtet wurde. Ende 2017 informierte die Beklagte die Servicepartner und Vertragshändler. Neben der Berichterstattung durch die Medien im Jahr 2017 und 2018 haben auch das KBA und die Beklagte bereits Anfang des Jahres 2018 sowie weitere Fahrzeughersteller mehrfach Pressemitteilungen zu den erlassenen Rückrufen für verschiedene Fahrzeugmodelle mit V-TDI-Motor veröffentlicht und so ein umfassendes Medienecho ausgelöst. Im Januar 2018 ist auch unter Benennung des Fahrzeugtyps über den Rückruf berichtet worden. Schließlich konnte auf der Internetseite der Beklagten die konkrete Betroffenheit des Fahrzeugs abgefragt werden.Der Kläger trägt vor, er habe das verfahrensgegenständliche Fahrzeug, EZ: 21.12.2010, am 16.06.2015 zu einem Kaufpreis von 19.000,00 € erworben. Das Fahrzeug habe im Zeitpunkt der Übergabe einen Kilometerstand von 150.000 km (Anlagen K1 und K 2) gehabt. Den Kaufvertrag hätte er nicht abgeschlossen, wenn er von der "Manipulation" am Motor des Fahrzeuges gewusst hätte. Auf dem Prüfstand werde mittels einer Software die Zufuhr von AdBlue erhöht. Zudem komme in dem Fahrzeug ein unzulässiges Thermofenster zum Einsatz. Das in Kenntnis setzen der Vertragshändler und Servicepartner sei bei weitem nicht ausreichend gewesen, um den Endkunden darüber aufzuklären, dass in den Fahrzeugen mit dem streitgegenständlichen Motor illegale Abschalteinrichtungen verbaut worden sind und ein Rückruf durch das KBA droht. Ein etwaiges Software-Update sei nicht geeignet, die Gesetzwidrigkeit zu beseitigen. Das Fahrzeug habe aufgrund der Manipulation einen Minderwert in Höhe von 25% erlitten.Der Kläger ist der Ansicht, er habe Anspruch auf Ersatz der durch die "Manipulation" entstandenen Schäden. Der Vorstand der Beklagten habe Kenntnis gehabt und vorsätzlich gehandelt. Die Beklagte habe basierend auf einer grundlegenden strategischen Entscheidung im eigenen Kosten- und Gewinninteresse die Motorsteuerungssoftware in von ihr hergestellten Dieselfahrzeugen bewusst und gewollt mit illegalen Abschalteinrichtungen ausgestattet. Der Anspruch der Klagepartei ergebe sich jedenfalls aus § 826 i.V. m. § 31 BGB.Die Klagepartei beantragt zuletzt,Die Beklagte wird verurteilt, einen in das Ermessen des Gerichts zu stellenden Schadensersatz in Höhe von mindestens 25% des Kaufpreises des Fahrzeugs 19.000,00 €, mindestens somit 4.750,00 € nebst Zinsen hieraus in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.Die Beklagte wird verurteilt, die Klagepartei von den Kosten des außergerichtlichen Vorgehens in Höhe von 1.461,32 € freizustellen.Die Beklagte beantragt, die Klage abzuweisen.Die Beklagte trägt vor, der Abschluss des Kaufvertrags sowie die Konditionen, zu denen er abgeschlossen worden sein soll, könnten der durch den Kläger selbst am 16.02.2020, 5 Jahre nach dem behaupteten Erwerb, erstellten Beleg nicht nachgewiesen werden. Ein Anspruch stehe dem Kläger jedenfalls nicht zu. Es sei nicht glaubhaft, wenn die Klagepartei vortrage ein Fahrzeug mit einem Leergewicht von ca. zwei Tonnen und einer Leistung von 239 PS vollständig von der Einhaltung von Stickoxidwerten abhängig gemacht zu haben. Der Vortrag sei pauschal und unsubstantiiert. Daraus gehe auch nicht hervor, ob der Kläger vorsteuerabzugsberechtigt ist.Der Lenkwinkel sei bei dem Fahrzeug kein bestimmender Parameter für die vom Kraftfahrt-Bundesamt als unzulässig eingestuften Strategien. Die maßgeblichen Grenzwerte halte das Fahrzeug auf dem Rollenprüfstand ein. Auch seien das Getriebe und das OBD-System nicht manipuliert. Es finde auch keine Leistungsreduzierung für den Prüfstand statt. Das Fahrzeug habe keinen Minderwert erlitten.Die Beklagte ist der Ansicht, dass der Kläger bereits nicht aktivlegitimiert ist. Etwaige Ansprüche seien jedenfalls mit Ablauf des Jahres 2021 verjährt. Die Beklagte erhebt die Einrede der Verjährung. Die Klagepartei habe jedenfalls bis Ende 2018 Kenntnis von der konkreten Betroffenheit ihres Fahrzeuges gehabt. Es liege außerhalb jeglicher Lebenswahrscheinlichkeit, dass eine in Deutschland lebende Personen von der Dieselproblematik und Betroffenheit weiterer Fahrzeuge neben solchen mit Motor EA 189 keine Notiz genommen haben könnte.Die Klageschrift vom 31.12.2021, eingegangen beim Landgericht Memmingen am selben Tage, wurde der Beklagten ausweislich der bei der Akte befindlichen Postzustellungsurkunde am 01.02.2022 zugestellt. Unter dem 23.06.2022 (Bl. 148/153 d. A.) hat die Klagepartei beantragt, das Verfahren gem. § 148 ZPO bis zur Entscheidung des EuGH im Verfahren C-100/21 auszusetzen. Zur Ergänzung des Tatbestandes wird Bezug genommen auf die Schriftsätze der Parteien nebst Anlagen, die Niederschrift über die mündliche Verhandlung vom 04.07.2022 (Bl. 226/228 d. A.) sowie den sonstigen Akteninhalt. 
+				Gründe
+				Die zulässige Klage erweist sich als unbegründet.I. Die Klage ist zulässig. Das Landgericht Memmingen ist das örtlich jedenfalls nach § 39 ZPO und sachlich gem. § 1 ZPO i.V.m. §§ 71 Abs. 1, 23 Nr. 1 GVG zuständige Gericht.II. Die Klage ist jedoch unbegründet. Dem Kläger steht gegen die Beklagte kein Anspruch auf Schadensersatz oder Restschadensersatz zu. Auf die Frage der Aktivlegitimation kommt es dabei letztlich nicht an. Selbst bei Zugrundelegung der durch die Klagepartei behaupteten Tatsachen erweist sich die Klage als unbegründet. Sie ist daher ohne Beweisaufnahme abzuweisen.1. Der klägerseits geltend gemachte Schadensersatzanspruch nach § 826 BGB ist verjährt. Die Beklagte hat die Einrede der Verjährung erhoben.Nach § 195 BGB beträgt die regelmäßige Verjährungsfrist drei Jahre. Sie beginnt gem. § 199 Abs. 1 BGB mit dem Schluss des Jahres, in welchem der Anspruch entstanden ist und der Anspruchsteller Kenntnis von den anspruchsbegründenden Umständen sowie der Person des Schuldners erlangt hat oder diese Kenntnis infolge grober Fahrlässigkeit nicht erlangt hat. Nach ständiger BGH Rechtsprechung liegt die erforderliche Kenntnis in Fällen wie hier im Allgemeinen vor, wenn dem Geschädigten die Erhebung einer Schadensersatzklage, sei es auch nur in Form der Feststellungsklage, erfolgversprechend, wenn auch nicht risikolos möglich ist. Weder ist es notwendig, dass der Geschädigte alle Einzelumstände kennt, die für die Beurteilung möglicherweise Bedeutung haben, noch muss er bereits hinreichend sichere Beweismittel in der Hand haben, um einen Rechtsstreit im Wesentlichen risikolos führen zu können. Auch kommt es, abgesehen von Ausnahmefällen, nicht auf eine zutreffende rechtliche Würdigung an (vgl. BGH, Urteil vom 17.12.2020 - VI ZR 739/20; BGH Urteil vom 15.11.2011, XI ZR 54/09; BGH Urteil vom 04.07.2017 XI ZR 562/15).Grobe Fahrlässigkeit setzt einen objektiv schweren und subjektiv nicht entschuldbaren Verstoß gegen die Anforderungen der im Verkehr erforderlichen Sorgfalt voraus, wobei grob fahrlässige Unkenntnis vorliegt, wenn dem Gläubiger die Kenntnis fehlt, weil er die im Verkehr erforderliche Sorgfalt in ungewöhnlich grobem Maße verletzt und auch ganz naheliegende Überlegungen nicht angestellt oder das nicht beachtet hat, was jedem hätte einleuchten müssen. Die Rechtsprechung verlangt, dass ihm persönlich ein schwerer Obliegenheitsverstoß in seiner eigenen Angelegenheit der Anspruchsverfolgung vorgeworfen werden können muss. Zwar trifft den Geschädigten dabei im Allgemeinen weder eine Informationspflicht noch besteht für ihn eine generelle Obliegenheit, im Interesse des Schädigers an einem möglichst frühzeitigen Beginn der Verjährungsfrist Initiative zur Klärung von Schadenshergang oder Person des Schädigers zu entfalten. Für die Frage, unter welchen Voraussetzungen der Gläubiger zur Vermeidung der groben Fahrlässigkeit zu einer aktiven Ermittlung gehalten ist, kommt es auf die Umstände des Einzelfalls an. Die Darlegungs- und Beweislast für Beginn und Ablauf der Verjährung sowie die Kenntnis oder grob fahrlässige Unkenntnis des Gläubigers trägt der Schuldner. Soweit es um Umstände aus der Sphäre des Gläubigers geht, hat dieser aber an der Sachaufklärung mitzuwirken und erforderlichenfalls darzulegen, was er zur Ermittlung der Voraussetzungen seiner Ansprüche und der Person des Schuldners getan hat (vgl. nur BGH, Urteil vom 29.07.2021 - VI ZR 1118/20 m.w.N.).Wie der BGH bereits wiederholt entschieden hat, genügt es für den Beginn des Laufs der Verjährungsfrist, dass der geschädigte Fahrzeugkäufer Kenntnis vom Dieselskandal im Allgemeinen, von der konkreten Betroffenheit seines Fahrzeugs und von der Relevanz dieser Betroffenheit für seine Kaufentscheidung hat, wobei letztere Kenntnis nicht gesondert festgestellt werden muss, sondern naturgemäß beim Geschädigten vorhanden ist (vgl. nur BGH Urteil vom 10.2.2022 - VII ZR 365/21). Nach der Rechtsprechung kann jedoch nicht ohne Weiteres von der bloß festgestellten Öffentlichkeitsarbeit der Beklagten und des VW-Konzerns sowie des Kraftfahrt-Bundesamtes und der sich daran anschließenden Medienberichterstattung auf eine grob fahrlässige Unkenntnis des Geschädigten geschlossen werden. Hierzu bedarf es jedenfalls der Feststellung, dass der Kläger die Berichterstattung wahrgenommen und somit allgemein von dem Dieselabgasskandal Kenntnis erlangt hat. Insoweit bedarf es keines naturwissenschaftlichen Kausalitätsnachweises und auch keiner an Sicherheit grenzenden Wahrscheinlichkeit, vielmehr genügt ein für das praktische Leben brauchbarer Grad von Gewissheit, der verbleibenden Zweifeln Schweigen gebietet, ohne sie völlig auszuschließen (BGH, Urteil vom 29.07.2021 - VI ZR 1118/20).Vorliegend steht außer Streit, dass der Kläger aufgrund der medialen Aufmerksamkeit und Dauerberichterstattung von dem Dieselskandal und der konkreten Betroffenheit seines Fahrzeugs Kenntnis genommen hatte. Der Kläger bestreitet zudem nicht, dass die Beklagte die von ihr vorgetragenen umfassenden Aufklärungsarbeiten vorgenommen, insbesondere eine Website zur Überprüfung der individuellen Betroffenheit einzelner Fahrzeuge eingerichtet hat, auf der auch der Kläger die Betroffenheit seines Fahrzeuges hat abfragen können, noch den Vortrag der Beklagten, dass der Kläger von der ab Mitte 2017 eingesetzten umfassenden Berichterstattung zu der Betroffenheit der V6-Motoren der Beklagten wie auch den ab Januar 2018 veröffentlichten und in den Medien umfassend thematisierten Mitteilungen der Beklagten und des Kraftfahrt-Bundesamtes über Rückrufe im Hinblick auf Fahrzeuge des Typs ... Kenntnis erlangt hat. Die Beklagte trägt vor, dass der Kläger aufgrund dessen Kenntnis von dem Dieselskandal, der Betroffenheit von Fahrzeugen der Beklagten mit V6-Dieselmotor und der Betroffenheit des konkreten klägerischen Fahrzeugs gehabt haben muss. Der Kläger bestreitet dies nicht. Er versucht sich an dieser Stelle lediglich darauf zurückzuziehen, dass die Berichterstattung und Veröffentlichungen, insbesondere des Kraftfahrt-Bundesamtes, sich nicht an den betroffenen Kundenkreis richten würden, was jedoch unerheblich, jedenfalls aber unzutreffend ist, da sich die Berichterstattung und Pressemitteilungen gerade auch an betroffene Kunden richtet.Damit hat das Gericht - weil außer Streit stehend - zugrunde zu legen, dass der Kläger neben der Kenntnis von dem Dieselskandal im Allgemeinen, bereits ab Mitte 2017 über die Betroffenheit von Fahrzeugen der Beklagten, welche mit einem V6-Dieselmotor ausgestattet sind, in Kenntnis war. Ab Januar 2018 war er über den Erlass eines verbindlichen Rückrufs hinsichtlich seines konkreten Fahrzeugtyps in Kenntnis. Das Kraftfahrt-Bundesamt hatte ausweislich der von der Klagepartei vorgelegten Liste bereits im Dezember 2017 für das konkrete Fahrzeug festgestellt, dass dieses mit illegalen Abschalteinrichtungen ausgestattet ist.Auch hat das Gericht davon auszugehen, dass dem Kläger die Möglichkeit der Abfrage der individuellen Betroffenheit seines Fahrzeugs, durch Nachfragen oder die Abfrage auf der Website der Beklagten bekannt und möglich war. Diese Möglichkeiten nutzte der Kläger nicht, sodass jedenfalls im Jahr 2018 von einer grob fahrlässigen Unkenntnis des Klägers über die Betroffenheit seines Fahrzeugs i. S. d. § 199 Abs. 1 Nr. 2 BGB auszugehen ist. Ein Nicht-Reagieren entspranch ohne jeden Zweifel grober Fahrlässigkeit (OLG München, Beschluss vom 10.03.2020 - 3 U 7392/19, Rn. 12). Auf die positive (Un-) Kenntnis der Klagepartei kommt es damit nicht entscheidungserheblich an. Die regelmäßige Verjährungsfrist begann jedenfalls aufgrund grob fahrlässiger Unkenntnis mit Schluss des Jahres 2018 zu laufen, §§ 199 Abs. 1 Nr. 2 Alt. 2, 195 BGB.Die Klagepartei durfte sich den gegebenen Umständen auch nicht darauf verlassen, dass die Beklagte oder ein Händler sie bezüglich der Thematik informieren würde und deshalb auf eine entsprechende Information warten. Zwar wird die Information der Kunden über die in den Fahrzeugen eingebaute Abschalteinrichtung und deren Problembehebung durch ein Software-Update zur Vermeidung straßenverkehrsrechtlicher bzw. -zulassungsrechtlicher Folgen für den Kunden aus Sicht der Beklagten geboten gewesen sein. Unter schadensersatzrechtlichen Gesichtspunkten war die Beklagte hierzu aber weder verpflichtet, noch durfte die Klagepartei darauf vertrauen, dass eine entsprechende individuelle Information erfolgen würde, und musste ihr Verhalten danach ausrichten. Denn eine allgemeine Pflicht oder Obliegenheit des Schädigers gegenüber dem Geschädigten zur Information über die anspruchsbegründenden Umstände aus § 826 BGB besteht nicht; für Kapitalanlagefälle mag anderes gelten, das typische besondere Vertrauensverhältnis zwischen Berater und Anleger besteht zwischen Fahrzeughersteller, der nicht einmal Verkäufer ist, und einem Kunden wie hier gerade nicht (OLG München, Hinweisbeschluss vom 05.02.2020 - 3 U 7392/19, Rn. 15).Die klägerischen Ansprüche sind daher nach Ablauf der regelmäßigen Verjährungsfrist von drei Jahren (§ 195 BGB) zum 31.12.2021 verjährt. Die gegenständliche Individualklage konnte die Verjährung nicht hemmen. Insoweit greift § 167 ZPO nicht ein, da die Zustellung nicht "demnächst" i. S. d. § 167 ZPO erfolgte, sodass der Ablauf der Verjährungsfrist durch die Klageerhebung nicht gehemmt wurde.Der Partei sind nach § 167 ZPO lediglich solche nicht nur geringfügigen Verzögerungen zurechenbar, die sie oder ihr Prozessbevollmächtigter bei gewissenhafter Prozessführung hätten vermeiden können. Es sind solche Verzögerungen zurechenbar, mit denen die Partei oder ihr Prozessbevollmächtigter durch nachlässiges oder auch fahrlässiges Verhalten zu einer nicht nur geringfügigen Zustellungsverzögerung beitragen. Maßgeblich ist hierbei im Falle der Verzögerung aufgrund der Einzahlung bzw. eines noch nicht eingezahlten Kostenvorschusses, um wie viele Tage sich der für die Zustellung der Klage ohnehin erforderliche Zeitraum infolge der Nachlässigkeit verzögert hat. Es kommt nicht auf die Zeitspanne zwischen der Aufforderung zur Einzahlung der Gerichtskosten und deren Eingang bei der Gerichtskasse an. Einer Partei ist in der Regel eine Erledigungsfrist von einer Woche zur Einzahlung des angeforderten Vorschusses zuzugestehen (Dörndorfer, in: Vorwerk/Wolf, BeckOK ZPO, Stand: 01.07.2022, § 167 ZPO Rn. 4). Vorliegend bedurfte die Zustellung der Klageschrift lediglich den Zeitraum vom 28.01.2022 bis 01.02.2022. Die übrige Verzögerung beruht danach auf der Nachlässigkeit der Klagepartei. Das schriftliche Vorverfahren wurde bereits mit Verfügung vom 04.01.2022 angeordnet.Zudem wurde der Kostenvorschuss bereits unter dem 04.01.2022 angefordert. Die Einzahlung erfolgte am 21.01.2022 und damit selbst bei Abstellen auf die Anforderung des Kostenvorschusses, mehr als zwei Wochen nach der entsprechenden Anforderung, sodass die Zustellung jedenfalls nicht mehr "demnächst" erfolgt ist.Die Verjährungsfrist lief somit zum 31.12.2021 ab. Die am gleichen Tage bei Gericht eingereichte Klage konnte den Ablauf nicht hemmen. Dem Kläger stehen demnach keine Ansprüche gegen die Beklagte zu.2. Ein Anspruch gem. § 852 BGB (sog. "Restschadensersatzanspruch") besteht ebenfalls nicht, da ein solcher Anspruch bei Erwerb eines Gebrauchtwagens nicht in Betracht kommt. Bereits nach dem eigenen, wenn auch bestrittenen Vorbringen, des Klägers hat er das Fahrzeug als Gebrauchtwagen erworben. In diesem Fall besteht ein Anspruch auf den sog. Restschadensersatzanspruch nicht (BGH Urteil vom 10.2.2022 - VII ZR 365/21).3. Die Voraussetzungen für einen Schriftsatznachlass auf den Schriftsatz der Beklagten vom 21.06.2022 lagen nicht vor. Zunächst konnte die Klagepartei offenbar vor dem Verhandlungstermin, konkret am 01.07.2022, nochmals zu dem Vorbringen der Beklagten Stellung nehmen.Schließlich erreichte sie der Schriftsatz mehr als eine Woche vor dem Termin (Bacher, in: Vorwerk/Wolf, BeckOK ZPO, Stand: 01.07.2022, § 283 ZPO Rn. 4).Auch ein Schriftsatznachlass auf den Schriftsatz der Beklagten vom 28.06.2022 war nicht veranlasst. Die Beklagte trägt darin zu dem von Seiten des Klägers behaupteten Minderwert des Fahrzeugs vor, auf den es nicht entscheidungserheblich ankam (Bacher, in: Vorwerk/Wolf, BeckOK ZPO, Stand: 01.07.2022, § 283 ZPO Rn. 6).Schließlich kam es auch auf den Schriftsatz der Klagepartei vom 01.07.2022, in dem diese maßgeblich zu einer fehlenden Verhaltensänderung der Beklagten und Thematik der AdBlue-Einspritzung vorgetragen hat, nicht mehr an, sodass auch der von Seiten der Beklagten beantragte Schriftsatznachlass nicht zu gewähren war.Der nicht nachgelassene Schriftsatz der Klagepartei vom 25.07.2022 ist nach dem Schluss der mündlichen Verhandlung eingegangen. Darin enthaltenes, neues tatsächliches Vorbringen ist daher nicht zu berücksichtigen, § 296a ZPO. Wie bereits ausgeführt, war ein entsprechender Schriftsatznachlass zur Frage der Berichterstattung über die Betroffenheit des Fahrzeugs vom Dieselskandal nicht veranlasst, da die Beklagte bereits im Schriftsatz vom 21.06.2022 hierzu vorgetragen hat.4. Dem Antrag auf Aussetzung des Verfahrens im Hinblick auf das Verfahren vor dem EuGH in der Rechtssache C-100/21 war bereits aus den vorgenannten Gründen nicht zu entsprechen.Eine Aussetzung des Verfahrens im Hinblick auf das Verfahren vor dem EuGH, Az. C-100/21, ist aber auch im Übrigen abzulehnen. Nach der Rechtsprechung des BGH (BGH, Urteil vom 29.01.2020 - VIII ZR 80/18) besteht selbst für den BGH keine Verpflichtung, Rechtssachen, welche die gleiche Problematik wie eine durch ein niedrigeres einzelstaatliches Gericht vor den EuGH gebrachte Problematik betreffen, auszusetzen, bis die Vorlagefrage beantwortet ist. Für das hiesige (nicht letztinstanzlich mit dem Rechtsstreit befasste) Gericht, besteht kein Fall einer Vorlagepflicht. Es wird weder eine Unionsnorm für ungültig gehalten noch soll von der Auslegung einer Unionsnorm bewusst abgewichen werden (Ehricke, in: Streinz, EUV/AEUV, 3. Aufl. 2018, Art. 267 AEUV Rn. 45 f.). Im Übrigen schließt sich das hiesige Gericht der Auffassung des BGH und des OLG München an, nach der die Rechtslage im Hinblick auf die Frage insbesondere eines drittschützenden Charakters der Verordnung (EG) Nr. 715/2007 sowie der RL 2007/46/EG von vorneherein eindeutig ist (BGH, Urteil vom 30. 07.2020 - VI ZR 5/20; OLG München, Beschluss vom 25.05.2022 - 24 U 1137/22 sowie OLG München, Beschluss vom 20.06.2022 - 24 U 406/21).III. Die Kostenentscheidung ergibt sich aus § 92 Abs. 1 S. 1 ZPO.Die Entscheidung zur vorläufigen Vollstreckbarkeit folgt aus § 709 S. 1 und S. 2 ZPO.Die Streitwertfestsetzung beruht auf §§ 3 ff. ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2461436.html (https://oj.is/2461436)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate8
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen3
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

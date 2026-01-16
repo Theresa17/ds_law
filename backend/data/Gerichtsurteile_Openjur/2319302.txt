@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG WürzburgRechtsprechungEndurteil vom 05.12.2019 - 14 O 1392/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Würzburg, Endurteil vom 05.12.2019 - 14 O 1392/19
+                      m. Fundstelle
+                      LG Würzburg, Endurteil vom 05.12.2019 - 14 O 1392/19 = openJur 2021, 17386
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Würzburg, Endurteil vom 05.12.2019 - 14 O 1392/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 17386
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.4. Der Streitwert wird auf 68.573,72 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatz aufgrund des Kaufs eines Pkw wegen klägerseitig behaupteter, Manipulation des Abgassystems des Pkws sowie um Feststellung des Annahmeverzugs.Die Klagepartei erwarb das streitgegenständliche Fahrzeug, einen von der Beklagten hergestellten Neuwagen Porsche Macan S Diesel, 190 kW (258 PS) mit Kaufvertrag vom 24.06.2015 bei der ... zu einem Kaufpreis in Höhe von 68.573,72 Euro. Der Kilometerstand des streitgegenständlichen Fahrzeugs betrug zum Zeitpunkt der mündlichen Verhandlung am 18.11.2019 122.071 km. Die in der Zulassungsbescheinigung Teil I eingetragene EG-Typgenehmigungs-Nr. des Fahrzeugs lautet: ...Im streitgegenständlichen Fahrzeug ist ein Dieselmotor verbaut, der von der ... produziert wurde. Die Beklagte baute den Motor bloß mechanisch in das Fahrzeug ein.Das Kraftfahrbundesamt hat für Fahrzeuge des Typs Macan Diesel V6 EU 6, Emissionstypgenehmigungen ... mit Bescheid vom 10.07.2018 eine nachträgliche Nebenbestimmung zur EG-Typengenehmigung angeordnet.Das von der Beklagten im Zusammenhang mit der Anordnung vorgestellte Software-Update wurde vom Kraftfahrtbundesamt mit Schreiben vom 01.08.2018 freigegeben. In dem Schreiben kommt das Kraftfahrtbundesamt unter anderem zum Ergebnis, dass keine unzulässige Abschalteinrichtung festgestellt wurde und die vorhandenen Abschalteinrichtungen als zulässig eingestuft wurden (Anlage B 5).Das Software-Update wurde bei dem streitgegenständlichen Fahrzeug im Dezember 2018 durchgeführt.Mit anwaltlichem Schriftsatz vom 14.06.2019 (Anlage K8) forderte die Klagepartei die Beklagte zur Rückzahlung des Kaufpreises Zug um Zug gegen Übereignung und Herausgabe des streitgegenständlichen Pkws auf.Die Beklagtenpartei wies mit Schreiben vom 19.06.2019 die geltend gemachten Ansprüche zurück.Die Klägerpartei behauptet, der verfahrensgegenständliche Pkw enthalte unzulässige Abschalteinrichtungen. Die Beklagte habe in der Motorsteuerung eine illegale Abschalteinrichtung verwendet, um die geltenden Abgasnormen zu umgehen Die von der Beklagten installierte Software, die für die Abgaskontrollanlage zuständig sei, erkenne die Prüfungssituation. Die standardisierten Testsituationen seien durch ein "unnatürliches Fahrverhalten" (hohe Raddrehzahlen ohne Bewegung des Fahrzeugs) erkennbar. Bei diesen Bedingungen sei die Abgasaufbereitung so optimiert, dass möglichst wenige Stickoxide (NOx) entstünden. Im normalen Fahrbetrieb hingegen würden dagegen Teile der Abgaskontrollanlage außer Betrieb gesetzt, weshalb die Nox-Emissionen deutlich höher seien.Der Klagepartei sei es auf die Zuordnung des streitgegenständlichen Fahrzeugs zu der angegebenen Schadstoffklasse EU 6 bei ihrer Kaufentscheidung angekommen. Wäre die Klagepartei mit dem heutigen Wissen um die Tatsache, dass das Fahrzeug die Abgasnorm EU 6 nur unter den bekannten rechtswidrigen Bedingungen, nämlich der Verwendung einer illegalen Abschalteinrichtung und Aufwärmstrategie einhalte, hätte sie dieses Fahrzeug definitv nicht gekauft und zwar gleich, welche Euro-Norm dieses Fahrzeug erfüllt oder nicht. Jeder Käufer eines Pkws gehe davon aus, dass das erworbene Fahrzeug auch den gesetzlichen Anforderungen entspreche, so auch die Klagepartei Das streitgegenständliche Fahrzeug erfülle weder vor noch nach dem Update die Abgasnorm EU 6. Ferner sei durch ein Update ein größerer Verschleiß zu besorgen. Auch die Dauerhaltbarkeit leide dadurch.Die Klagepartei bestreitet, dass sich das Schreiben des Kraftfahrtbundesamtes vom 01.08.2018 auch auf das streitgegenständliche Fahrzeug beziehe, die in der Zulassungsbescheinigung Teil I enthaltene Typengenehmigungs-Nummer sei dort nicht genannt.Die Klagepartei ist der Ansicht, dass die Beklagte unter den Gesichtspunkten des § 831 BGB, eines Verstoßes gegen §§ 27 EG-FGV sowie § 263 StGB sowie der vorsätzlichen sittenwidrigen Schädigung auf Erstattung des ihr entstandenen Schadens, der darin zu sehen wäre, dass sie bei Kenntnis der wahren Umstände das streitgegenständliche Fahrzeug nicht erworben hätte. Der Schadensausgleich habe in der Form stattzufinden, dass die Beklagte ihr den Kaufpreis erstatte, Zug-um-Zug gegen Herausgabe und Übereignung des streitgegenständlichen Fahrzeugs.Die Klägerseite beantragte (Bl. 2 d.A.):Die Beklagte wird verurteilt, an die Klagepartei 68.573,72 € nebst Zinsen in Höhe von 4 % p.a. seit dem 24.06.2015 bis zum Eintritt der Rechtshängigkeit und in Höhe von 5 Pronzentpunkten über dem Basiszinssatz seit dem 19.06.2019 zu bezahlen, Zug-um-Zug gegen Übereignung und Herausgabe des PKW Porsche Macan S Diesel, FIN: ...Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des im Klageantrag Ziffer 1. genannten Pkw im Annahmeverzug befindet.Die Beklagte wird verurteilt, der Klagepartei die, durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen, vorgerichtlichen Rechtsanwaltskosten in Höhe von 2.403,21 €, nebst Zinsen in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit dem 19.06.2019 zu zahlen.Die Beklagte beantragt:Die Klage wird abgewiesen.Die Beklagte behauptet, dass die ... bis in den Juni 2017 ihr wiederholt bestätigt habe, dass der streitgegenständliche Motor frei von unzulässigen Abschalteinrichtungen sei.Die Beklagte ist der Ansicht, dass die Klagepartei schon keine der Beklagten zurechenbare Täuschungshandlung darlege. Der Klagepartei sei auch kein Schaden entstanden, der auf ein vorsätzliches sittenwidriges Handeln der Beklagten zurückgeführt werden könnte.Ansprüche aus § 826 BGB bzw. § 823 Abs. 2 BGB i.V.m. § 263 StGB würden zudem daran scheitern, dass weder sittenwidrige noch Täuschungshandlungen der Beklagten gegeben seien, kein Schädigungsvorsatz bei § 826 bestanden hätte. Ansprüche aus § 823 Abs. 2 BGB i.V.m. § 27 EG-FGV würden bereits daran scheitern, dass es sich dabei nicht um ein Schutzgesetz zugunsten des Klägers handele. Auch bestehe kein Anspruch aus § 831 BGB. Die Klagepartei habe hierzu bereits nicht substantiiert vorgetragen.Ergänzend wird zu den Einzelheiten des weiteren Sachvortrags sowie insbesondere den vertretenen Rechtsauffassungen der Parteien und den diesbezüglich ausgetauschten Argumenten auf die zur Akte genommenen Schriftsätze nebst den zugehörigen Anlagen Bezug genommen.In der mündlichen Verhandlung vom 18.11.2019 ist mit dem für die Prozessbevollmächtigten des Klägers erschienen Unterbevollmächtigen und dem Prozessbevollmächtigten der Beklagtenseite die Sach- und Rechtslage erörtert worden. Zum Verlauf und Inhalt der mündlichen Verhandlung wird auf die entsprechende Sitzungsniederschrift Bezug genommen. Eine Beweisaufnahme hat nicht stattgefunden. 
+				Gründe
+				Die Klage ist zulässig, aber unbegründet.A.Die Klage ist zulassig.Sie wurde insbesondere vor dem sachlich wie auch örtlich zuständigen Gericht erhoben. Die sachliche Zuständigkeit folgt § 1 ZPO i.V.m. §§ 23 Nr. 1, 71 Abs. 1 GVG. Die örtliche Zuständigkeit kann auf den besonderen Gerichtsstand der unerlaubten Handlung nach § 32 ZPO gestützt werden.Für den Klageantrag Ziff. 2 bezüglich der Feststellung des Annahmeverzugs der Beklagten mit der Rücknahme des Fahrzeugs besteht das Feststellungsinteresse angesichts der mit der Feststellung verbundenen Vereinfachung und Beschleunigung des Zugriffs in der Zwangsvollstreckung (vgl. § 756 Abs. 1, § 765 Abs. 1 Nr. 1 ZPO).B.Die Klage ist unbegründet.I.Der Klägerpartei steht gegenüber der Beklagten aus Gesichtspunkten aus keinem rechtlichen Gesichtspunkt ein Schadensersatzanspruch auf Rückzahlung des Kaufpreises Zug um Zug gegen Rückgabe des Fahrzeugs zu.1. Vertragliche Ansprüche scheiden von vornherein aus, nachdem zwischen der Klägerpartei und der Beklagten keinerlei vertraglichen Beziehungen bestanden hatten.2. Soweit die Klägerpartei ihr Begehren auf einen Anspruch aufgrund deliktischer Haftung nach § 823 Abs. 2 BGB i.V.m. § 263 Abs. 1 StGB stützt, vermag das Klagebegehren hierdurch ebenfalls nicht begründet zu werden.a) In objektiver Hinsicht erfordert der Tatbestand des § 263 Abs. 1 StGB zunächst eine von Seiten der Beklagten erfolgte Täuschung, welche kausal einen Irrtum bei der Klägerpartei hervorgerufen haben müsste. Aufgrund dieses Irrtums müsste es dann kausal zu einer Vermögensverfügung gekommen sein, welche hierauf kausal zu einem Vermögensschaden auf Seiten der Klägerpartei geführt haben würde. Es ist Sache der Klägerpartei, ihren deliktischen Anspruch aufgrund Schutzgesetzverletzung nach § 823 Abs. 2 BGB i.V.m. § 263 Abs. 1 StGB schlüssig und substantiiert vorzutragen.aa) Im vorliegenden Fall fehlt es bereits an einer geeigneten Täuschungshandlung durch die Beklagte zu 2) im Sinne von § 263 Abs. 1 StGB. Unter einer Täuschung ist das Einwirken auf das intellektuelle Vorstellungsbild des vermeintlich Geschädigten, hier der Klägerseite, zu verstehen (Schönke/Schröder/Person, StGB § 263 Rdnr. 11). Diese Handlung muss objektiv geeignet sein, einen Irrtum über tatsächliche Umstände bei dem Geschädigten hervorzurufen. Im vorliegenden Fall ist diesbezüglich zu berücksichtigen, dass die Vertragsverhandlungen über das streitgegenständliche Fahrzeug nicht unmittelbar durch die Beklagte auf Verkäuferseite geführt worden waren, sondern ausweislich der vorgelegten Anlage K 1 ein zu der Beklagten unabhängiger Vertragshändler involviert war. Die Beklagte trat im Rahmen der Verkaufsgespräche weder unmittelbar noch mittelbar in Erscheinung.Eine Täuschung könnte also allein durch von der Beklagten erstellte Verkaufsunterlagen in Betracht kommen Hierdurch müsste es zu einem Irrtum auf Klägerseite gekommen sein, der kausal für eine Vermögensverfügung gewesen sein müsste. Ein Irrtum ist dann nicht anzunehmen und zu bejahen, wenn sich der Käufer über eine bestimmte Eigenschaft des Fahrzeugs hingegen überhaupt keine Gedanken gemacht hat.Ausweislich des eigenen Vortrages auf Klageseite, hatte sich die Klägerpartei über die tatsächlich vorliegenden Stickoxidwerte betreffend das streitgegenständliche Fahrzeug, keinerlei Gedanken gemacht. Die Klagepartei hat zur Überzeugung des Gerichts nicht hinreichend dargelegt, dass die Mitteilungen über Pflichtangaben zu Kraftstoffverbrauch und Emissionen tatsächlich Einfluss auf deren Kaufentscheidung gehabt hätten. Ob sich die Klägerseite vor der Kaufentscheidung mit Prospekten des Herstellers befasst hatte, hat sie zudem nicht dargelegt. Verkaufsunterlagen, die die Klägerpartei jedenfalls vor ihrer Kaufentscheidung konsultiert gehabt hätte, sind nicht vorgelegt worden.Auch eine strafrechtlich relevante Täuschung durch Unterlassen kommt vorliegend nicht in Betracht. Voraussetzung wäre hierfür das Vorliegen einer Garantenstellung auf Beklagtenseite nach § 13 StGB. Die Beklagte müsste also gerade als "Garant" für die Abwendung eines Taterfolgs einzustehen haben, welche es rechtfertigen würde, ein Unterlassen dem aktiven Tun gleichzustellen. Diese sog. "Erfolgsabwendungspflicht" beruht auf dem Grundgedanken, dass eine bestimmte Person zum Schutz des gefährdeten Rechtsguts aufgerufen ist und dass alle übrigen Beteiligten auf das helfende Eingreifen dieser Person vertrauen und auch vertrauen dürfen (OLG Bamberg, Beschluss vom 08.03.2013 - 3 Ws 4/12). Soweit es - wie vorliegend - um einen Kaufvertrag geht, wird eine Aufklärungspflicht bereits des Verkäufers, mit welchem tatsächlich ein Vertragsverhältnis besteht, erst dann gesehen, wenn es um einen wertbildenden Faktor der Kaufsache von besonderem Gewicht geht. Nachdem es sich bei der hiesigen Beklagten tatsächlich nicht einmal um die Verkäuferin, sondern allein um die Herstellerin ohne nähere vertragliche Beziehung zu der Klägerpartei handelt, rechtfertigt es, das Bestehen einer Aufklärungspflicht gegenüber der Klägerseite auszuschließen.Auch aus pflichtwidrigem Vorverhalten (Ingerenz) vermag sich vorliegend keine Garantenpflicht gegenüber der Klägerpartei zu ergeben. Eine Pflichtwidrigkeit löst im Einzelnen nur dann eine Garantenpflicht aus, wenn die verletzte Norm gerade dem Schutz des fraglichen Rechtsguts zu dienen bestimmt ist. Als pflichtwidriges Vorverhalten der Verantwortlichen auf Beklagtenseite käme vorliegend allein ein Verstoß gegen maßgebliche europarechtliche Normen in Betracht, die den Einsatz von Abschalteinrichtungen verbieten lassen. Diese Normen dienen ersichtlich nicht dem Schutz der hier allein betroffenen Vermögensinteressen auf Klägerseite, sondern vielmehr gesellschaftlichen Zielen, nämlich der Weiterentwicklung des Binnenmarktes durch Harmonisierung der technischen Vorschriften über die Typgenehmigung von Kraftfahrzeugen sowie der Sicherstellung eines hohen Umweltschutzniveaus.Die Klagepartei hat zudem bereits nicht substantiiert dargelegt, dass im streitgegenständlichen Fahrzeug tatsächlich unzulässige Abschalteinrichtungen vorliegen bzw. vorgelegen haben. Der Bescheid vom 10.07.2018 betrifft ausweislich des Vortrags der Klägerpartei nur die Emissionstypgenehmigungen ... und wie die Klägerpartei selbst an anderer Stelle ausführt, hat das streitgegenständliche Fahrzeug eine hiervon abweichende Emissionstypengenehmigungsnummer.bb) Selbst eine Täuschung unterstellt, entfiele ein Anspruch aus § 823 Abs. 2 BGB i.V.m. § 263 StGB mangels Eintritts eines Vermögensschadens auf Klägerseite. Es fehlt bereits an einer hinreichend schlüssigen Darlegung, dass es durch eine unterstellte Täuschungshandlung auf Klägerseite tatsächlich zu einer Schädigung des Vermögens gekommen sei.Die Klägerpartei hat das streitgegenständliche Fahrzeug im Juni 2015 gekauft und nutzt es seitdem uneingeschränkt. Dies zeigt eindrucksvoll auch der aktuelle Kilometerstand in Höhe von 122.071 km. Konkrete Beeinträchtigungen im Hinblick auf das streitgegenständliche Fahrzeug sind zudem nicht dargelegt, ebenso wie etwaige negative Folgen durch die durchgeführte Updatemaßnahme nicht substantiiert dargelegt sind. Diese werden nur pauschal behauptet.Ein Schaden ergibt sich zudem auch nicht im Hinblick auf den klägerseits vorgetragenen Wertverlust. Das Bestehen eines kausalen geringeren Wiederverkaufswertes steht nicht sicher fest. Die Feststellung eines solchen von der Klägerseite behaupteten Wertverlustes ist im Hinblick auf die vom Abgasskandal losgelöste allgemeine Dieselproblematik und der damit zusammenhängenden Diskussion um mögliche Fahrverbote in deutschen Großstädten letztlich nicht ausreichend sicher möglich. Im Übrigen wäre ein entsprechender Schaden auch nicht eingetreten, da die Klägerseite eine konkrete Verkaufsabsicht nicht vorgetragen hat. Alleine der Umstand, wonach eine Vermögensgefährdung möglich sei, ist nicht anspruchsbegründend.b) Ebenso fehlt es an einer im Rahmen des subjektiven Tatbestandes nach § 263 Abs. 1 StGB erforderlichen Stoffgleichheit des Vermögensschadens. Der klägerseits behauptete rechtswidrige Vermögensvorteil müsste gerade unmittelbare Folge der täuschungsbedingten Vermögensverfügung sein (Fischer, StGB § 263 Rdnr. 187). Es ist im vorliegenden Fall allerdings gerade nicht substantiiert vorgetragen, dass es gerade durch eine von Beklagtenseite verübte Täuschung zu einer Schädigung auf Klägerseite gekommen war, die auf der anderen Seite zu einem Vermögensvorteil bei der Beklagten geführt hätte. Zu berücksichtigen ist hier insbesondere der Umstand, wonach klägerseits der streitgegenständliche PKW nicht unmittelbar bei der Beklagten, sondern vielmehr bei einem unabhängigen Autohändler gekauft und auch dort der Kaufpreis entrichtet wurde. Die Verpflichtung zur Zahlung des vereinbarten Kaufpreises auf Klägerseite stellt demnach allein eine mittelbare Folge dar.3. Auch ein Anspruch aufgrund vorsätzlicher sittenwidriger Schädigung nach § 826 BGB besteht im vorliegenden Fall nicht. Die Klägerpartei hat gegen die Beklagte keinen Anspruch auf Schadensersatz in beantragter Höhe und Freistellung aus § 826 BGB.Die Klägerseite ist insoweit für sämtliche Tatbestandsmerkmale darlegungs- und beweisbelastet (Palandt/Sprau § 826 Rn. 18).Der Tatbestand des § 826 BGB erfordert anspruchsbegründend eine sittenwidrige Schadenszufügung. An einer solchen fehlt es im vorliegenden Fall.Weder wurde der Klägerpartei ein für den Anspruch erforderlicher Schaden zugefügt, noch wäre, eine Schadenzufügung unterstellt, eine solche sittenwidrig erfolgt.Ein Schaden bedeutet jede nachteilige Einwirkung auf die Vermögenslage. Ob die Schadenszuführung sittenwidrig im Sinne von § 826 BGB ist, ist vor allem anhand des Verhaltens des Schädigers, hier der in Anspruch genommenen Beklagten zu untersuchen.Es fehlt bereits an einer sittenwidrigen Schadenszufügung.a) Objektiv sittenwidrig ist nach der Rechtsprechung ein Verhalten, dass nach Inhalt oder Gesamtcharakter durch zusammenfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht denkenden verstößt. Das Verhalten darf also mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar sein (BGH NJW 2017, 250). Dass das Verhalten gegen vertragliche Pflicht oder das Gesetz verstößt, unbillig erscheint oder einen Schaden hervorruft, genügt nicht. Hinzutreten muss nach der Rechtsprechung eine nach den Maßstäben der allgemeinen Geschäftsmoral und des als anständig geltenden eine besondere Verwerflichkeit des Verhaltens, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln der zutage tretende Gesinnung oder den eintretenden Folgen ergeben kann (BGH NJW 2014, 1098, 1380; BGH NJW-RR 2013, 550). Unter Zugrundelegung dieses Maßstabes kann im vorliegenden Fall eine sittenwidrige Schadenzufügung nicht erkannt werden.Selbst einen behaupteten Schaden auf Klägerseite durch Kauf des streitgegenständlichen PKWs unterstellt, ist nicht hinreichend dargetan, dass eine etwaige Schädigungshandlung gegenüber der Person des Käufers, hier also der Klägerin, tatsächlich sittenwidrig gewesen wäre. Der Beklagtenseite könnte demnach nur dann ein haftungsbegründender Vorwurf einer sittenwidrigen Schädigung gemacht werden, wenn die Klägerseite gerade deswegen den Vertrag abgeschlossen hätte, weil sie hierzu sittenwidrig veranlasst worden war. Es ist nicht ersichtlich, dass die Kaufentscheidung der Klägerseite hinsichtlich des streitgegenständlichen Fahrzeugs gerade auf ein Verhalten der Beklagten zurückzuführen ist, welches als solches ebenso sittenwidrig einzustufen wäre. Aufgrund des klägerischen Vortrages ist es noch nicht einmal ersichtlich, dass die Kaufentscheidung der Klägerseite durch das Abgasverhalten des Fahrzeugs im Hinblick auf die Labor- und Alltagsbedingungen beeinflusst worden war. Die Klägerseite behauptet insbesondere nicht, dass sie das streitgegenständliche Fahrzeug gerade aufgrund einer Erklärung der Beklagten betreffend das Stickoxidverhalten des gegenständlichen Fahrzeugs gekauft habe. Selbst wenn man unterstellen wollte, dass die eingebaute Software gegen öffentlich-rechtliche Abgasvorschriften verstoßen sollte, so ist hieran alleine noch kein sittenwidriges Handeln zu sehen. Soweit nämlich die Überprüfung der Abgaswerte durch öffentliche Prüfstellen vorgenommen wird, so führt dies nicht zu einer Sittenwidrigkeit im Verhältnis zur Klägerseite. Die entsprechenden europarechtlichen Verordnungen dienen vielmehr vorrangig der Verbesserung der Luftqualität. Hierbei handelt sich jedoch um eine solche Verhaltensnorm mit allgemein schützendem öffentlich rechtlichem Charakter. Ein Gebot der guten Sitten, gerade im Verhältnis zur Klägerseite mit individuellem Schutzzweck, lässt sich hieraus indes nicht ableiten.Als Ansatzpunkt einer deliktischen Haftung nach § 826 BGB käme schließlich noch das Verschweigen von Umständen, die für den Kaufentschluss der Klägerpartei von Relevanz gewesen wären, allen voran das Verschweigen der eingebauten Motorsteuerungssoftware, in Betracht. Das Verschweigen eines Umstandes aber rechtfertigt nicht ohne weiteres den Vorwurf eines Sittenverstoßes, sondern nur dann, wenn eine Seite der anderen zu entsprechender Offenbarung verpflichtet wäre. Eine Offenbarungspflicht entsteht, wenn die andere Seite nach Treu und Glauben mit Rücksicht auf die Verkehrssitte eine Mitteilung erwarten durfte. Selbst innerhalb einer - vorliegend noch nicht einmal bestehender - vertraglichen Beziehung darf der Vertragspartner nach Treu und Glauben nicht eine vollumfängliche Information über alle Belange des Geschäfts erwarten. Es besteht keine verallgemeinerte Offenbarungspflicht. Im Vertragsrecht ist zunächst jedes Privatrechtssubjekt für die Verteidigung seiner Interessen selbst verantwortlich. Das gilt insbesondere für den Kaufvertrag, der von gegensätzlichen Interessen geprägt ist. Die Grenze des nach der Verkehrsauffassung Hinnehmbaren ist demnach erst dann überschritten, wenn es um erhebliche wertbildende Umstände beim Kaufvertragsschluss geht (Palandt/Sprau, § 826 Rdnr. 20). Solche Umstände sind vorliegend nicht dargelegt.b) Auch der Vortrag der Klägerpartei, wonach der Schaden gerade darin liege, dass ein von dem sogenannten Abgasskandal betroffenes Fahrzeug erworben worden sei und die Klägerseite einen entsprechenden Kaufpreis an den Verkäufer gezahlt habe, verfängt im vorliegenden Fall nicht. Vielmehr hat die Klagepartei ein voll funktionsfähiges und auch fahrbereites Fahrzeug erworben, was auch durch die derzeitige Fahrleistung von 122.071 km belegt wird.4. Auch ein Anspruch nach § 823 Abs. 2 BGB i.V.m. § 27 EG-FGV kommt nicht in Betracht.Ein etwaiger Verstoß gegen § 27 EG-FGV scheidet als Anspruchsgrundlage aus, da es sich hier um kein Schutzgesetz handelt, in dessen persönlichen Anwendungsbereich die Klägerpartei als Käufer zur Abwehr von Vermögenseinbußen fallen würde. Vielmehr handelt es sich um eine Norm mit gesamtgesellschaftlichen Zielen, nämlich der Weiterentwicklung des Binnenmarktes durch Harmonisierung der technischen Vorschriften sowie der Sicherstellung eines hohen Umweltschutzniveaus (vgl. EG-VO Nr. 715/2007).5. Ein Anspruch aus § 831 BGB scheidet ebenfalls aus.Ein Betrug eines Verrichtungsgehilfen gegenüber der Klägerpartei ist nicht ausreichend dargelegt. Eine Täuschungshandlung eines Verrichtungsgehilfen gegenüber der Klägerpartei ist bereits nicht konkret vorgetragen. Insbesondere fehlt es aber auch an einem Schaden der Klägerpartei und einer Stoffgleichheit (vgl. bereits oben). Auch ist eine sittenwidrige Schädigung durch einen Verrichtungsgehilfen nicht ausreichend dargelegt. Hier kommt zudem hinzu, dass es rechtlich bereits an einer etwaigen sittenwidrigen Schadenszufügung fehlen würde (vgl. bereits oben).II.Nachdem die Klagepartei mit ihrem Antrag zu 1 in der Hauptsache keinen Erfolg hatte, war mangels Rücknahmeverpflichtung der Beklagten der Antrag zu 2 unbegründet und stehen der Klagepartei auch keine Nebenforderungen zu.C.Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO.Die Entscheidung über die vorläufige Vollstreckbarkeit richtet sich nach § 709 S. 1, S. 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2319302.html (https://oj.is/2319302)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen4
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

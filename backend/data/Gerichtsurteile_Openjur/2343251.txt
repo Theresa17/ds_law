@@ -1,0 +1,145 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KleveRechtsprechungUrteil vom 16.04.2021 - 3 O 421/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Kleve, Urteil vom 16.04.2021 - 3 O 421/20
+                      m. Fundstelle
+                      LG Kleve, Urteil vom 16.04.2021 - 3 O 421/20 = openJur 2021, 20363
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Kleve, Urteil vom 16.04.2021 - 3 O 421/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 20363
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+				
+					
+						Zivilrecht 
+						
+					
+				
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Beklagte wird verurteilt, an den Kläger 43.734,91 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 02.04.2020 zu zahlen. Die Verurteilung erfolgt Zug-um-Zug gegen Übereignung und Herausgabe des Fahrzeugs der Marke Audi vom Typ Q5 2.0 TDI Quattro mit der Fahrzeugidentifikationsnummer (FIN) WAUZZZxxxxxxxxxxxx nebst zwei Fahrzeugschlüsseln, Kfz-Schein, Kfz-Brief und Serviceheft.2. Es wird festgestellt, dass sich die Beklagte mit der Annahme der im vorgenannten Klageantrag genannten Zug-um-Zug-Leistung im Annahmeverzug befindet,3. Es wird festgestellt, dass der in Antrag zu 1) bezeichnete Anspruch aus einer vorsätzlichen unerlaubten Handlung der Beklagten herrührt.4. Im Übrigen wird die Klage abgewiesen.5. Die Kosten des Rechtsstreits tragen der Kläger zu 19% und die Beklagte zu 81%.6. Das Urteil ist für den Kläger gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. Für die Beklagte ist das Urteil vorläufig vollstreckbar. Dem Kläger wird nachgelassen, die Vollstreckung gegen Sicherheitsleistung in Höhe von 110% des aufgrund des Urteils vollstreckbaren Betrags abzuwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110% des jeweils zu vollstreckenden Betrags leistet. 
+				Tatbestand
+				Die Klägerin erwarb mit Bestellung vom 03.03.2015 von der C GmbH in Krefeld das streitgegenständliche Fahrzeug Audi Q5 2.0 TDI Quattro, EU 6 mit der Fahrzeugidentifikationsnummer (FIN) WAUZZZxxxxxxxxxxxx als Neufahrzeug mit einem Kilometerstand von 0 km. Verbaut ist ein SCR-Katalysator.In dem Fahrzeug ist ein von der Beklagten entwickelter und hergestellter EA288-Dieselmotor eingebaut. Dessen Steuerungssoftware erkannte, ob sich das Kfz auf einem technischen Prüfstand zur Ermittlung der Emissionswerte oder im üblichen Straßenverkehr befand. Auf dem Rollenprüfstand spielte die eingebaute Software beim Stickstoff-Ausstoß ein anderes Motorprogramm ab als im Normalbetrieb und veränderte das reguläre Betriebsverhalten des Motors dahingehend, dass während des Testvorgangs im sogenannten Neuen Europäischen Fahrzyklus (NEFZ) nach Erreichen der für die optimale Funktionsfähigkeit des SCR erforderlichen Betriebstemperatur von ca. 200 °C eine bis dahin hohe Abgasrückführungsrate weiter parallel bestehen blieb.Der Kilometerstand zum Zeitpunkt der Klageerhebung betrug 39.900 km, zum Zeitpunkt des Tages der letzten mündlichen Verhandlung 41.540 km.Mit anwaltlichem Schreiben vom 15.03.2020 forderte die Klägerin die Beklagte zur Rückzahlung von 53.370,00 EUR ggf. abzüglich einer Nutzungsentschädigung, welche sich anhand des aktuellen Kilometerstandes sowie einer Gesamtfahrleistung von 300.000 km berechnen sollte, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs, mit Fristsetzung binnen zwei Wochen ab Zugang auf.Der Kläger behauptet, das Fahrzeug zu einem Preis von 53.520,00 EUR erworben zu haben.Der Kläger ist der Ansicht, die Beklagte habe ihn vorsätzlich sittenwidrig geschädigt.Der Einbau der "Abschaltvorrichtung" sei jedenfalls in Kenntnis und mit Billigung verantwortlicher Vorstandsmitglieder der Beklagten erfolgt. Diesen sei bewusst gewesen, dass die Endkunden aufgrund des Verschweigens des Einsatzes der Prüfstanderkennungssoftware ihre Entscheidung zum Kauf nur aufgrund einer fehlerhaften bzw. unvollständigen Tatsachengrundlage getroffen hätten und die Entscheidung bei der gebotenen Aufklärung entweder überhaupt nicht oder aber nur zu anderen Konditionen getroffen hätten.Dieses Verhalten der Beklagten sei als sittenwidrig zu bewerten. Um sich selbst zu bereichern, habe die Beklagte nämlich absichtlich den Käufern der Fahrzeuge, in welche der Motor eingebaut sei, suggeriert, dass die Abgaswerte einen Vergleichsmaßstab für den Realbetrieb darstellten, obwohl dies tatsächlich nicht der Fall gewesen sei.Als Folge sei der Kläger zu stellen, wie er stünde, wenn die Beklagte nicht den Einsatz der Motorsteuerungssoftware verschwiegen hätte. Dann hätte er sein Fahrzeug nicht erworben und hätte dafür über den Kaufpreis verfügt.Der Kläger hat zunächst im Klageantrag zu 1) die Zahlung von 54.014,10 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit gefordert, Zug um Zug gegen Rückgabe und Übereignung des gegenständlichen Fahrzeugs. Im Schriftsatz vom 16.02.2021 hat der Kläger sodann einen Betrag von 46.401,84 EUR gefordert. Im Termin zur mündlichen Verhandlung hat der Kläger sodann einen Betrag von 46.116,40 EUR gefordert und wegen der ursprünglich weitergehenden Forderung den Rechtsstreit teilweise für erledigt erklärt. Die Beklagte hat sich der teilweisen Erledigungserklärung nicht angeschlossen.Nunmehr beantragt die Klägerin:1. Die Beklagte wird verurteilt, an den Kläger EUR 46.116,40 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 29.03.2020 zu zahlen. Die Verurteilung erfolgt Zugum-Zug gegen Übereignung und Herausgabe des Fahrzeugs der Marke Audi vom Typ Q5 2.0 TDI Quattro mit der Fahrzeugidentifikationsnummer (FIN) WAUZZZxxxxxxxxxxxx nebst zwei Fahrzeugschlüsseln, Kfz-Schein, Kfz-Brief und Serviceheft.Hilfsweise:2. Es wird festgestellt, dass die Beklagte verpflichtet ist, dem Kläger Schadenersatz zu zahlen für Schäden, die aus dem Einbau einer unzulässigen Abschaltvorrichtung i.S.v. Art.5 Abs.2 EG-VO 715/2007 durch die Beklagte in das Fahrzeug der Marke Audi vom Typ Q5 2.0 TDI Quattro mit der Fahrzeugidentifikationsnummer (FIN) WAUZZZxxxxxxxxxxxx resultieren,weiterhin:3. Es wird festgestellt, dass sich die Beklagte mit der Annahme der in vorgenannten Klageanträgen genannten Zugum-Zug-Leistung im Annahmeverzug befindet,4. Es wird festgestellt, dass der in Antrag zu 1) bezeichnete Anspruch aus einer vorsätzlichen unerlaubten Handlung der Beklagten herrührt.5. Die Beklagte wird verurteilt, den Kläger von den durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von EUR 130,90 freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, dass das Beibehalten der hohen AGR sich in den meisten Konzepten lediglich im allerletzten Teil des Zyklus auswirke, da nur dort die Betriebstemperatur des SCR erreicht werde. In Konzepten, in denen die Betriebstemperatur gar nicht erreicht werde, habe die Zykluserkennung keine Auswirkungen. In den anderen Fällen sei sie jedenfalls nicht relevant für das Einhalten der gesetzlich vorgeschriebenen Emissionsgrenzwerte.Die Klage wurde der Beklagten am 13.11.2020 zugestellt.Hinsichtlich der weiteren Einzelheiten des Sach- und Streitstandes wird auf den vorgetragenen Inhalt der wechselseitigen Schriftsätze nebst Anlagen sowie auf das Protokoll der mündlichen Verhandlung vom 25.02.2021 Bezug genommen. 
+				Gründe
+				Die Klage ist zulässig und aus in dem aus dem Tenor ersichtlichen Umfang begründet.Die Klage ist zulässig.Die einseitig gebliebene Erledigungserklärung des Klägers ist als eine nach § 264 Nr.2 ZPO privilegierte Klageänderung dahingehend auszulegen, dass beantragt wird, festzustellen, dass sich der Rechtsstreit in der Hauptsache infolge eines außerprozessualen Ereignisses erledigt hat (st.Rspr; vgl. unter anderem BGH, Urteil vom 07.06.2001 - I ZR 157/98; BeckOK ZPO/ Jaspersen, § 91a Rn.48).Für den Antrag auf Feststellung des Annahmeverzugs besteht das erforderliche Feststellungsinteresse (§ 256 ZPO) schon aufgrund des Vollstreckungsinteresses (§§ 756, 765 ZPO). Das Feststellungsinteresse für den Klageantrag zu 4) ergibt sich aus der privilegierten Behandlung der festgestellten Ansprüche aus unerlaubter Handlung im Rahmen der Zwangsvollstreckung.Die Klage ist in dem aus dem Tenor ersichtlichen Umfang begründet.Die Klägerin hat gegen die Beklagte einen Anspruch auf Rückzahlung des Kaufpreises abzüglich einer Nutzungsentschädigung Zugum-Zug gegen Rückgabe und Rückübereignung des streitgegenständlichen Fahrzeugs gemäß §§ 826, 31, 249 ff., BGB in Höhe von 43.734,91 EUR.Die Beklagte hat, was unter den Parteien unstreitig ist, in den Motor des bemakelten Fahrzeugs eine Software eingebaut, welche den Testzyklus des NEFZ erkannte und dazu führte, dass die Abgasrückführungsrate auch nach Erreichen der Betriebstemperatur des SCR-Katalysators von 200 °C unverändert hochgehalten wurde. Im normalen Straßenbetrieb erfolgte dieser Gleichlauf zwischen Abgasrückführung und -nachbehandlung hingegen nicht.Die Beklagte hat den Kläger dadurch vorsätzlich sittenwidrig geschädigt, dass sie das Fahrzeug unter Verschweigen dieser Programmierung in den Verkehr gebracht hat. Die Software führte dazu, dass die gesetzlichen Grenzwerte lediglich auf dem Prüfstand und nicht im normalen Straßenbetrieb eingehalten wurden.Dieses Vorbringen des Klägers ist gem. § 138 Abs.3 ZPO als zugestanden zu werten, da die Beklagte der ihr obliegenden sekundären Darlegungslast nicht nachgekommen ist (vgl. auch MüKoZPO/Fritsche § 138 Rn. 24).Wenn die primär darlegungs- und beweispflichtige Partei außerhalb des von ihr dazulegenden Geschehensablaufs steht, keine nähere Kenntnis der maßgebenden Tatsachen besitzt und sich diese auch nicht zumutbar beschaffen kann, während die bestreitende Partei alle maßgebenden Tatsachen kennt und es ihr auch zumutbar ist, nähere Angaben zu machen, trifft die bestreitende Partei eine sekundäre Darlegungslast (vgl. etwa BGH, Urteil vom 18.1.2018 - I ZR 150/15, Urteil vom 12. 5. 2010 - I ZR 121/08 sowie Urteil vom 11.06.1990 - II ZR 159/89). Auch wenn hinreichende Anhaltspunkte für eine typischerweise geheim gehaltene Abrede bestehen, kann dies genügen, um die sekundäre Darlegungslast auszulösen (BGH, Urteil vom 18.1.2018 - I ZR 150/15).Der Kläger steht hier außerhalb des Organisationsgeschehens der Beklagten. Ihm ist es nicht möglich, näher zu den technischen Einzelheiten des in ihrem Fahrzeug verbauten Motors vorzutragen, weil er keinen Einblick in die betrieblichen Vorgänge der Beklagten hat.Er hat jedoch tatsächliche Anhaltspunkte vorgetragen, die für das Vorhandensein einer unzulässigen Abschalteinrichtung i.S.d. Art. 5 Abs.2 Satz 1 VO 715/2007/EG sprechen, welche gezielt zur Einhaltung der NOx- Grenzwerte auf dem Prüfstand verbaut worden sein könnte. So hat er in seiner Klageschrift vom 28.09.2020 ein Dokument der Beklagten vom 18.11.2015 vorgelegt, welches als "Entscheidungsvorlage: Applikationsrichtlinien & Freigabeverfahren EA288" überschrieben ist. In diesem Dokument heißt es auszugsweise: "SCR: Bedatung, Aktivierung und Nutzung der Erkennung des Precon und NEFZ, um die Umschaltung der Rohemissionsbedatung (AGR-High/Low) streckengesteuert auszulösen (bis Erreichung SCR-Betriebstemperatur und OBD-Schwellenwerte)". Weiterhin hat der Kläger ein Dokument der Beklagten vom 21.01.2015 eingereicht, welches als "Entscheidungsvorlage: Applikationsrichtlinien & Freigabeverfahren EA189" betitelt ist und in dem es auszugsweise heißt: "Es gilt grundsätzlich (EA189/EA288) die Zusage, dass bei Modellpflegen oder Programmpunkten, bei denen künftig das MSG angefasst wird, die Funktion auch ausgebaut wird. Reines Ausbedaten der Funktion vom KBA bestätigt!" Aus dem Vorhandensein einer Zykluserkennung, welche in aufwendigen Prozessen und durch die Applikationsrichtlinien EA189/ EA288 dokumentiert, auf Betreiben der Beklagten ausbedatet werden sollten, ergeben sich hinreichende Anhaltspunkte für eine zur Einhaltung der Grenzwerte auf dem Prüfstand zielgerichtet installierte unzulässige Abschalteinrichtung. Denn es ist nicht ohne weitere Erläuterung erkennbar, aus welchem Grund die Beklagte sonst eine derartige Softwarefunktion eingebaut haben sollte.Der Beklagten oblag es somit, zu der Funktionsweise und den Gründen des Einbaus der unstreitig im Fahrzeug verbauten Zykluserkennung vorzutragen. Hierzu gehört die Darlegung, aus welchen technischen Gründen die Applikation einer Fahrkurve erfolgt ist, wenn nicht im Zusammenhang mit einer Abschalteinrichtung. Denn es wäre lebensfremd anzunehmen, dass ein Autokonzern grundlos eine im Ergebnis nutzlose Softwarefunktion verwendet (vgl. auch LG Aachen, Urteil vom 19.02.2021 - 7 O 274/20, LG Darmstadt, Urteil vom 24.11.2020 - 9 O 305/18).. Die Zykluserkennung wäre jedoch bei objektiver Betrachtung als gleichsam nutzlos anzusehen, wenn, wie von der Beklagten vorgetragen, diese überhaupt erst im letzten Teil des NEFZ wirkte (bei manchen System mangels Erreichen der SCR-Betriebstemperatur im NEFZ sogar gar nicht) und dabei höchstens nur geringfügige Auswirkungen auf den Stickoxid-Ausstoß hatte. War die Prüfstandserkennung jedoch ohne relevante weitere Funktion, so hätte sie auch nicht eingebaut werden müssen.In der mündlichen Verhandlung vom 25.02.2021 wurde die Beklagte darauf hingewiesen, dass der Kammer die Beweggründe der Beklagten für den Einbau dieser Softwarefunktion nicht ersichtlich sind. Hierauf hat die Beklagte sich mit Schriftsatz vom 24.03.2021 dahingehend eingelassen, dass es auf die Intention der Beklagten bei der Installation der Software nicht ankomme. Entscheidend sei lediglich, dass die hinterlegte Fahrkurvenerkennung nicht erforderlich sei, um die vorgeschriebenen Emissionsgrenzwerte einzuhalten. Dies entspreche auch der Rechtsansicht des Kraftfahrtbundesamtes. Näherer Vortrag zu der Funktionsweise der Software und den technischen Beweggründen der Beklagten für den Einbau dieser, nach ihrem eigenen Vortrag ja anscheinend überflüssigen Funktion, ist weder in der Verhandlung vom 25.02.2021 noch in ihrem schriftsätzlichen Vorbringen vom 24.03.2021 erfolgt.Angesichts der klägerseitig vorgetragenen hinreichenden Anhaltspunkte für das Vorhandensein einer ausstoßoptimierenden unzulässigen Abschalteinrichtung reicht dieses Vorbringen der Beklagten nicht aus, um ihrer sekundären Darlegungslast genüge zu tun.Die schädigende Handlung der Beklagten war auch sittenwidrig. Sittenwidrig ist dabei ein Verhalten, das nach seinem Gesamtcharakter gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Hierfür muss neben eine etwaige Pflichtverletzung auch eine besondere Verwerflichkeit des Verhaltens des Schädigers hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann; die Verwerflichkeit kann sich aber auch aus einer bewussten Täuschung ergeben (vgl. BGH VI ZR 536/15).Insbesondere die Käufer von Kraftfahrzeugen sind darauf angewiesen, dass die von ihnen erworbenen Fahrzeuge die gesetzlichen Vorgaben einhalten. Sie befinden sich demnach in einem Zustand einer informativen Abhängigkeit von den Fahrzeug- und Motorenherstellern. Die Beklagte hat vorliegend einen ihr zukommenden Wissensvorsprung ausgenutzt. Dieses Verhalten wiegt umso schwerer, als die Rechtsvorschriften, gegen die die Beklagte verstoßen hat, insbesondere dem Schutz der Gesundheit sowie der Umwelt gelten. Ein anderes Motiv für dieses Verhalten, außer diesem, dass die Beklagte sich in sittenwidriger Art und Weise einen Wettbewerbsvorteil gegenüber ihrer Konkurrenten verschaffen wollte und ihren Gewinn um jeden Preis maximieren wollte, ist dabei nicht ersichtlich.Zwar ist ein Handeln mit Gewinnstreben für sich allein nicht als verwerflich zu beurteilen. Allerdings war beabsichtigt, die unzulässige Steuerungssoftware in einer außergewöhnlich hohen Zahl von Fahrzeugen verschiedener Marken des Konzerns der Beklagten zu verbauen. Hierdurch wurde das Vertrauen der Käufer in den Konzern und den ordnungsgemäßen Ablauf des öffentlichrechtlichen Genehmigungsverfahrens missbraucht (vgl. auch BGH, Urteil vom 25.05.2020 - VI ZR 252/19 zu EA189-Motoren). Darüber hinaus droht den Käufern eines mit einer derart erschlichenen EG-Typengenehmigung versehenen Fahrzeugs die Stilllegung desselben und damit ein erheblicher Schaden, der nicht in einem geringeren Marktwert, sondern in der Belastung mit der ungewollten Verbindlichkeit liegt (vgl. OLG Düsseldorf, Urteil vom 18.12.2019 - 18 U 58/18; OLG Düsseldorf Urteil vom 30.1.2020 - 15 U 18/19).Im Verhältnis zu dem Kläger, welcher Käufer des gegenständlichen Fahrzeugs war, ist ein solches Verhalten als besonders verwerflich und mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar zu werten (vgl. auch BGH, Urteil vom 25.05.2020 - VI ZR 252/19).Die sittenwidrige Schädigung ist nach Auffassung des Gerichts auch kausal für die Kaufentscheidung des Klägers gewesen, denn es ist anerkannt, dass es bei täuschendem (bzw. manipulativem) Verhalten für die Darlegung des ursächlichen Zusammenhangs zwischen Täuschung und Abgabe der Willenserklärung ausreichend ist, dass der Getäuschte Umstände dargetan hat, die für seinen Entschluss von Bedeutung sein konnten und nach der Lebenserfahrung bei der Art des zu beurteilenden Rechtsgeschäfts Einfluss auf die Entschließung gehabt haben können (vgl. etwa BGH Urt. v. 12.05.1995 - V ZR 34/94 - in NJW 1995, 2361 zu § 123 BGB). Von der Manipulation bei der Beklagten ist hier mit dem Motor der wertvollste und elementarste Bestandteil des Fahrzeugs betroffen. Die manipulierten Daten haben Einfluss auf die Schadstoffklasseneingruppierung und die Zulassung. Nach allgemeiner Lebenserfahrung ist daher davon auszugehen, dass sie auf die Kaufentscheidung der Klägerin Einfluss hatten, ohne dass es darauf ankommt, ob sie im Ankaufsgespräch konkret äußerte, ein besonders schadstoffarmes Fahrzeug erwerben zu wollen (vgl. BGH, Urteil vom 25.05.2020 - VI ZR 252/19). Nach allgemeiner Lebenserfahrung, welche auch die Art des zu beurteilenden Vertrags berücksichtigt, kann ausgeschlossen werden, dass ein Käufer ein Fahrzeug erwirbt, dem eine Betriebsbeschränkung oder -untersagung droht und bei dem im Zeitpunkt des Erwerbs in keiner Weise absehbar ist, ob dieses Problem behoben werden kann (ebd.).Die Beklagte hatte im Zeitpunkt ihrer Entscheidung Schädigungsvorsatz sowie Kenntnis von der Kausalität des eigenen Verhaltens für den späteren Eintritt des Schadens und der die Sittenwidrigkeit begründenden Umstände. Sie muss sich das Verhalten ihrer Repräsentanten gemäß § 31 BGB zurechnen lassen.Es liegt auf der Hand, dass in dem Unternehmen der Beklagten mindestens ein handelnder Repräsentant - ein Vorstandsmitglied oder anderer Vertreter i.S.d. § 31 BGB - Kenntnis von der eingebauten manipulativen Steuerungssoftware hatte. Dies folgt bereits aus der Tragweite der Entscheidung, indem die Software für eine gesamte Dieselmotoren-Generation konzipiert war und flächendeckend konzernweit in den unterschiedlichsten Fahrzeugmodellen eingesetzt werden sollte. Es ist mehr als fernliegend, dass angesichts dieser Strategieentscheidung der Vorstand oder andere Vertreter i.S.d. § 31 BGB nicht in den Entscheidungsprozess eingebunden gewesen sein sollen. Derjenige, der eine solche Entscheidung trifft, muss auch mit einer gewichtigen Funktion und mit erheblichen Kompetenzen ausgestattet sein (vgl. OLG Düsseldorf, Urteil vom 18.12.2019 - 18 U 58/18; BGH, Urteil vom 25.05.2020 - VI ZR 252/19).Zwar trifft es zu, dass die Klägerin die Voraussetzungen dieser Zurechnungsnormen darzulegen und zu beweisen hat. Wenn jedoch der beweisbelasteten Partei näherer Vortrag nicht möglich oder nicht zumutbar ist und der Bestreitende dagegen alle wesentlichen Tatsachen kennt und es ihm zumutbar ist, nähere Angaben zu machen, trifft den Beweisgegner zunächst eine sekundäre Darlegungslast. Ein solcher Fall ist insbesondere dann anzunehmen, wenn die beweisbelastete Partei außerhalb des von ihr vorzutragenden Geschehensablaufs steht und keine nähere Kenntnis von den maßgebenden Tatsachen hat und der Beweisgegner unschwer Angaben liefern kann.Dies ist vorliegend der Fall. Der Kläger kann nicht näher dazu vortragen, wie die Beklagte intern organisiert, in welcher Organisationseinheit der Beklagten die Entscheidung für die Entwicklung und/oder den Einsatz der Software gefallen ist und bis zu welcher "höheren Ebene" diese Entscheidung wann "weiterkommuniziert" wurde (vgl. OLG Oldenburg, Beschluss vom 05.12.2018 - 14 U 60/14 - MDR 2019, 548, 549). Der Beklagten dagegen müsste eine Auskunftserteilung unschwer möglich sein. Sie hätte demnach durch konkreten Tatsachenvortrag Umstände vortragen müssen, die gegen eine Kenntnis ihres Vorstands oder sonstiger Vertreter i.S.d. § 31 BGB sprechen (vgl. BGH, Urteil vom 25.05.2020 - VI ZR 252/19). Diesen Vortrag hat die Beklagte nicht erbracht.Die Beklagte hat dem Kläger somit den Kaufpreis Zugum-Zug gegen Übergabe und Übereignung des Fahrzeugs zu erstatten, da der Kläger gemäß § 249 Abs. 1 BGB so zu stellen ist, wie er ohne Täuschung über die Software gestanden hätte und der Kläger das streitgegenständliche Fahrzeug bei Kenntnis von der Manipulation nicht erworben hätte. Das Gericht geht hierbei davon aus, dass der Kaufpreis das Fahrzeugs bei 52.450,00 EUR lag. Zwar weist die Bestellung vom 01.04.2015 zwei Nachträge i.H.v. 450,00 EUR und 620,00 EUR auf; diese wurden jedoch ersichtlich in die Berechnung der Sonderausstattungen eingespeist, so dass es bei dem festgehaltenen Preis von 52.450,00 EUR auf der Bestellung verbleibt.Der Kläger muss sich nach den Grundsätzen der Vorteilsausgleichung jedoch die von ihm gezogenen Nutzungen anrechnen lassen (vgl. BGH, Urteil vom 25.05.2020 - VI ZR 252/19).Bei der Berechnung des Wertes der gezogenen Nutzungen geht das Gericht grundsätzlich von folgender Formel aus:Gebrauchsvorteile = Bruttokaufpreis x gefahrene Kilometer : RestlaufleistungDaraus ergibt sich ein Nutzungsvorteil für den Kläger in Höhe von 8.715,09 EUR. Der Kaufpreis für das streitgegenständliche Fahrzeug betrug 52.450,00 EUR brutto. Die von der Klägerin bis zur letzten mündlichen Verhandlung gefahrenen Kilometer belaufen sich auf 41.540 km (aktuelle Laufleistung von 41.540 km abzüglich Laufleistung bei Vertragsschluss von 0 km). Die zu erwartende Gesamtlaufleistung schätzt das Gericht im Rahmen des ihm eingeräumten Ermessens gemäß § 287 ZPO auf 250.000 km (vgl. OLG Düsseldorf, Urteil vom 18.12.2019 - 18 U 58/18; OLG Düsseldorf, NJW-RR 2008, 1199; OLG Düsseldorf Urteil vom 30.1.2020 - 15 U 18/19).Eine teilweise Erledigung der Hauptsache war nicht festzustellen. Denn es entfällt kein Teil der ursprünglich zu viel eingeklagten Forderung auf die fortlaufende Nutzung des Fahrzeugs. Dies folgt daraus, dass bei der Berechnung der Nutzungsentschädigung nicht von einer Gesamtlaufleistung von 300.000 km, sondern vielmehr wie bereits festgestellt von lediglich 250.000 km auszugehen ist. Der Kläger hätte daher auf Basis einer Gesamtlaufleistung von 250.000 km nicht die Rückzahlung von 46.401,84 EUR, sondern von lediglich 44.078,98 EUR verlangen können, sodass die Klage in Höhe von 2.322,86 EUR hätte geringer ausfallen müssen.Aufgrund der fortlaufenden Nutzung des Fahrzeuges muss der Kläger sich einen Betrag von 344,07 EUR ausgehend von der Klageerhebung bis zum Zeitpunkt der letzten mündlichen Verhandlung anrechnen lassen. Damit fällt der zu viel geforderte Betrag höher aus als eine anzurechnende Nutzung infolge der weiteren gefahrenen Kilometer, weshalb eine Erledigung nicht festgestellt werden konnte.Zuzusprechen sind jedoch Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 02.04.2020 gemäß §§ 280 Abs. 1, 2, 286, 288 Abs. 1 BGB i.V.m. § 187 BGB. Die Beklagte befand sich seit dem 02.04.2020 in Schuldnerverzug. Der Kläger forderte sie mit Schreiben vom 15.03.2020 unter Fristsetzung von zwei Wochen ab Zugang zur Rückabwicklung des Kaufvertrages auf; eine Rückzahlung des Kaufpreises erfolgte innerhalb der Frist nicht. Bei einer Zugangsfiktion von drei Tagen folgt hieraus ein Fristablauf mit Ablauf des 01.04.2020.Der Schuldner kann nur dann in Verzug geraten, wenn der Gläubiger die ihm obliegende Gegenleistung ordnungsgemäß anbietet (vgl. BGH, Urteil vom 25.05.2020 - VI ZR 252/19). Dies ist hier der Fall. Der Kläger hat der Beklagten die Übergabe und Übereignung des streitgegenständlichen Fahrzeugs zu den Bedingungen angeboten, von denen er sie im Hinblick auf den im Wege der Vorteilsausgleichung geschuldeten und vom Kaufpreis abzuziehenden Nutzungsersatz hätte abhängig machen dürfen. Er hat damit nicht die Zahlung eines deutlich höheren Betrages verlangt, als er hätte beanspruchen können. Es liegt keine erhebliche Zuvielforderung vor, da der Kläger dazu bereit war, sich eine Nutzungsentschädigung auf Basis einer Gesamtlaufleistung von 300.000 km anrechnen zu lassen. Damit war für die Beklagte ersichtlich, zu welchen Bedingungen das Angebot erfolgen sollteÜber den lediglich hilfsweise gestellten Antrag zu 2) war mangels Eintritts der Bedingung nicht zu entscheiden.Der Antrag zu 3) ist begründet. Die Beklagte befindet sich infolge des vorgerichtlichen Aufforderungsschreibens in Annahmeverzug, da eine Rücknahme des streitgegenständlichen Fahrzeugs innerhalb der dort gesetzten Frist nicht erfolgte. Da der Kläger sich bereits im Zeitpunkt der vorgerichtlichen Geltendmachung des Anspruchs eine Nutzungsentschädigung auf Basis einer Gesamtlaufleistung von 300.000 km hat anrechnen lassen, hat der Kläger die Rücknahme des Fahrzeugs auch zu den Konditionen angeboten, von denen er sie hätte abhängig machen dürfen (vgl. auch BGH, Urteil vom 25.05.2020 - VI ZR 252/19).Der Antrag zu 4) ist begründet. Wie bereits festgestellt, besteht ein Anspruch des Klägers gegen die Beklagte aus vorsätzlicher sittenwidriger Schädigung.Der Antrag zu 5) ist unbegründet, da nicht ersichtlich ist, woraus sich die Freistellungsforderung in Höhe von 130,90 EUR zusammensetzt. In der Klageschrift hatte der Kläger noch die Freistellung von entstandenen Anwaltskosten in Höhe von 2.994,04 EUR beantragt und insofern eine 2,0-Geschäftsgebühr gefordert. Woraus sich nunmehr der Betrag von 130,90 EUR ergibt, hat der Kläger nicht vorgetragen. Ein Hinweis hierzu war nicht erforderlich, da es sich um eine Nebenforderung handelt, § 139 Abs.2 ZPO.Die prozessualen Nebenentscheidungen beruhen auf §§ 92 Abs. 1, 708 Nr.11, 709 S. 2, 711 ZPO.Der Streitwert wird auf 54.014,10 EUR festgesetzt.E2T2
+			
+			
+			
+			Permalink: https://openjur.de/u/2343251.html (https://oj.is/2343251)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate11
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

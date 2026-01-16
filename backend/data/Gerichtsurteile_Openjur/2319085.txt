@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 15.08.2019 - 7 O 364/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 15.08.2019 - 7 O 364/18
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 15.08.2019 - 7 O 364/18 = openJur 2021, 14182
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 15.08.2019 - 7 O 364/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 14182
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht gegenüber der Beklagten Ansprüche in Verbindung mit dem Kauf eines Kraftfahrzeugs geltend. Er erwarb am 09.10.2017 bei der Firma "Auto Z GmbH" in K gemäß Rechnung vom 10.10.2017 (Anl. K1, Bl. ... GA) einen PKW L 2,0 $$$ als Gebrauchtfahrzeug mit Erstzulassung 21.05.2014 zum Kaufpreis von 19.800,00 €. Zum Zeitpunkt des Kaufs betrug der Kilometerstand 80.876 km.Herstellerin des Fahrzeugs ist die Beklagte. In das Fahrzeug ist ein Dieselmotor des Typs $$ ...# eingebaut, der von der Beklagten entwickelt und hergestellt wurde. Für das Fahrzeug besteht eine Typengenehmigung nach VO (EG) Nr. 715/2007, die Voraussetzungen für die Marktzulassung des Fahrzeugtyps ist und zu deren Erhalt Emissionsgrenzwerte eingehalten werden müssen. Die hierfür maßgeblichen Abgaswerte werden unter Laborbedingungen gemessen. Hierbei durchlaufen die jeweiligen Testfahrzeuge einen gesetzlichen vorgegebenen Testlauf, der aus fünf synthetischen Fahrkurven besteht (sog. Neuer Europäischer Fahrzyklus (NEFZ)). Im normalen Fahrbetrieb unter Alltagsbedingungen ist es sehr unwahrscheinlich, dass das Fahrzeug den NEFZ nachfährt, weil es aufgrund des Verkehrs und der Verkehrsregelungen nahezu ausgeschlossen ist, dass das Fahrzeug die Fahrkurve des NEFZ exakt einhält. Nach den aufgrund der Typengenehmigung durchzuführenden Abgastests hält der streitgegenständliche Fahrzeugtyp - was Voraussetzung der Erteilung der Typengenehmigung war - auch hinsichtlich des Ausstoßes von Stickoxiden (NOx) die Vorgaben der zum Zeitpunkt der Erstzulassung einzuhaltenden EURO5-Norm ein.Der in das Fahrzeug eingebaute Motor $$...# wurde von der Beklagten mit einer Software ausgestattet, die zwei unterschiedliche Betriebsmodi kennt, die die Abgasrückführung steuern, und die erkennt, wenn das Fahrzeug den im Rahmen des Zulassungsverfahrens geforderten NEFZ durchfährt. In diesem Fall aktiviert die Software den Abgasrückführung-Modus "1", bei welchem es zu einer höheren Abgasrückführungsrate in denen Motor kommt, was dazu führt, dass möglichst wenig NOx ausgestoßen wird. Weil es im normalen Straßenbetrieb praktisch unwahrscheinlich ist, den NEFZ nachzufahren, befindet sich das Fahrzeug im normalen Straßenverkehr durchgehend im Modus "0", in welchem die Abgasrückführungsmenge in den Motor deutlich reduziert wurde. Dies führt zu einem erhöhten NOx-Ausstoß im normalen Straßenbetrieb des Fahrzeugs. Gäbe es bei dem Fahrzeug nur diesen im Straßenbetrieb aktiven Modus, würde das Fahrzeug im Prüfstand die Grenzwerte nicht einhalten.Die Verwendung und Funktionsweise der beschriebenen Software war zunächst weder im Rahmen der Tests zur Erreichung der Typengenehmigung für das Fahrzeug noch im Übrigen offengelegt worden. Dies war im Herbst 2015 öffentlich bekannt geworden. Am 22.09.2015 hatte die Beklagte eine adhoc-Mitteilung nach § 15 WpHG veröffentlicht, aus der sich ergab, dass etwaige Unregelmäßigkeiten im Zusammenhang mit Dieselmotoren des Typs ...# aufgeklärt werden. Mit Bescheid vom 15.10.2015 hatte das Kraftfahrtbundesamt nachträgliche Nebenbestimmungen gegenüber der Beklagten angeordnet, in deren Folge die Fahrzeuge, in welche Motoren des Typs $$ ...# eingebaut waren, zur Installation von Software-Updates, die die beschriebene Umschaltautomatik der Steuerungssoftware beseitigen, zurückgerufen wurden. Auch bei dem streitgegenständlichen Fahrzeug wurde ein derartiges Software-Update aufgespielt.Der Kläger ist der Ansicht, ihm stünden gegen die Beklagte Schadensersatzansprüche aus § 826 BGB und § 823 Abs. 2 BGB, 263 StGB zu. Er behauptet, die Beklagte habe ihn getäuscht und vorsätzlich und in sittenwidriger Weise geschädigt. Die schädigende Handlung der Beklagten liege in dem Einsatz einer gesetzeswidrigen Softwareprogrammierung. Die Beklagte habe ihn durch Verschweigen der Verwendung der Steuerungssoftware bei Inverkehrbringen des Fahrzeugs getäuscht und ihn hierdurch zum Abschluss des Kaufvertrages veranlasst. Er behauptet, ihm sei bei Abschluss des Kaufvertrages zwar bekannt gewesen, dass es einen sogenannten Abgasskandal gebe, unbekannt seien ihm allerdings die konkreten Auswirkungen für das streitgegenständliche Fahrzeug gewesen, bzw. dass dieses überhaupt mit dem Motor $$ ...# der Beklagten versehen gewesen sei. Er ist zudem der Ansicht, dass eine Täuschung der Beklagten auch darin liege, dass sie bis heute behaupte, dass es sich bei der Steuerungssoftware nicht um eine unzulässige Abschalteinrichtung bzw. einen Mangel der Fahrzeuge handele. Hätte er bei Abschluss des Kaufvertrages gewusst, dass das Fahrzeug manipuliert sei, hätte er es nicht erworben.Er beantragt,1. die Beklagte zu verurteilen, an ihn 19.800,00 € nebst Zinsen in Höhe von 4 Prozent seit dem 10.10.2017 bis 10.12.2018 und seither 5 Prozentpunkten über dem Basiszinssatz abzüglich einer im Termin zu beziffernden Nutzungsentschädigung Zug um Zug gegen Rückgabe und Übereignung des Fahrzeugs L mit der Fahrgestellnummer $$$$$$#$$$$... zu zahlen;2. festzustellen, dass sich die Beklagte seit dem 10.12.2018 mit der Rücknahme des im Klageantrag zu 1) bezeichneten Gegenstands in Annahmeverzug befindet;3. die Beklagte zu verurteilen, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.789,76 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 10.12.2018 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Sie ist der Auffassung, ein Anspruch aus § 826 BGB stehe dem Kläger nicht zu. 
+				Gründe
+				I.Die zulässige Klage ist unbegründet. Dem Kläger stehen die geltend gemachten Ansprüche gegen die Beklagte unter keinem rechtlichen Gesichtspunkt zu. Insbesondere ergibt sich ein derartiger Anspruch weder aus § 826 BGB, noch aus §§ 823 Abs. 2 BGB, 263 Abs. 1 StGB. Denn weder ist der Beklagten im Hinblick auf den vom Kläger abgeschlossenen Kaufvertrag eine hierfür ursächliche Täuschung vorzuwerfen, noch hat sie den Kläger in sittenwidriger Weise geschädigt.1. Dem Kläger steht gegen die Beklagte ein Zahlungsanspruch zunächst nicht aus § 826 BGB zu. Nach dieser Vorschrift ist derjenige, der in einer gegen die guten Sitten verstoßenden Weise einem anderen vorsätzlich Schaden zufügt, diesem zum Ersatz dieses Schadens verpflichtet. Diese Voraussetzungen liegen hier nicht vor. Die Beklagte hat dem Kläger nicht in einer gegen die guten Sitten verstoßenden Weise vorsätzlich einen Schaden zugefügt.1.1 Zwar kann das Inverkehrbringen von Dieselmotoren zum Zweck des Weiterverkaufs und Einbaus in Fahrzeuge des Konzerns der Beklagten, deren Motorsteuerungssoftware so programmiert war, dass sie den Betrieb des Fahrzeugs auf einem Prüfstand im Neuen Europäischen Fahrzyklus (NEFZ) erkannte und die Abgasbehandlung in den sogenannten Modus 1 versetzte, ohne jedenfalls die Vertriebspartner der Konzernunternehmen und Endkunden über den durch die Verwendung der Motorsteuerungssoftware $$ ...# verursachten Sachmangel aufzuklären, grundsätzlich als vorsätzliche sittenwidrige Schädigung angesehen werden. Denn Fahrzeuge, deren Motor wie der Motor $$ ...# mit der genannten Steuerungssoftware ausgestattet sind, sind im Falle eines Verkaufs - sofern die Parteien hierzu nichts abweichendes vereinbaren - mangelbehaftet. Denn nach § 434 Abs. 1 Satz 2 Nr. 2 BGB ist der Kaufgegenstand frei von Sachmängeln, wenn er sich für die gewöhnliche Verwendung eignet und eine Beschaffenheit aufweist, welche bei Sachen der gleichen Art üblich ist und die der Käufer nach der Art der Sache erwarten kann. Wie der Bundesgerichtshof im Hinweisbeschluss vom 08.01.2019 - VIII ZR 225/17- (zitiert nach juris.de) zu der im dortigen wie im hiesigen Fall streitgegenständlichen Verwendung der Steuerungssoftware in Dieselmotoren des Typs $$ ...# ausgeführt hat, ist ein Fahrzeug regelmäßig nicht frei von Sachmängeln, wenn bei Übergabe an den Käufer eine - den Stickoxidausstoß auf dem Prüfstand gegenüber dem normalen Fahrbetrieb reduzierende - Abschalteinrichtung im Sinne von Art. 3 Nr. 10 VO 715/2007/EG installiert ist, die gemäß Art. 5 Abs. 2 Satz 1 VO 715/2007/EG unzulässig ist. Dies hat zur Folge, dass dem Fahrzeug die Eignung für die gewöhnliche Verwendung im Sinne von § 434 Abs. 1 Satz 2 Nr. 2 BGB fehlt, weil die Gefahr einer Betriebsuntersagung durch die für die Zulassung zum Straßenverkehr zuständige Behörde (§ 5 Abs. 1 Fahrzeug-Zulassungsverordnung - FZV) besteht und somit bei Gefahrübergang der weitere (ungestörte) Betrieb des Fahrzeugs im öffentlichen Straßenverkehr nicht gewährleistet ist. Zur Zeit des Abschlusses des Kaufvertrages durch den Kläger hatte die Beklagte indes gerichtsbekannt die Verwendung und Funktionsweise der Steuerungssoftware in den Motoren des Typs $$ ...# auch in den Fahrzeugen des streitgegenständlichen Typs öffentlich eingeräumt. Unerheblich ist insoweit, ob die Beklagte auch zu diesem Zeitpunkt noch den Standpunkt vertreten hat, dass die Verwendung der Steuerungssoftware zulässig und die hiermit ausgestatteten Fahrzeuge mangelfrei sind. Denn hierbei handelte es sich lediglich um eine Rechtsauffassung der Beklagten. Eine Täuschung im Sinne des § 263 Abs. 1 StGB die allein geeignet wäre, auch den Vorwurf einer vorsätzlich sittenwidrigen Schädigung durch Inverkehrbringen mangelbehafteter Produkte zu rechtfertigen, setzt indes eine Täuschung über Tatsachen voraus. Eine solche hat der Kläger für den Zeitpunkt des Erwerbs seines Fahrzeugs jedoch nicht dargelegt.1.2 Selbst wenn indes eine Täuschungshandlung der Beklagten unterstellt würde - etwa in der Weise, dass das anfängliche Verschweigen der Verwendung der Steuerungssoftware auch über den Zeitpunkt der öffentlichen Bekanntmachung ihrer Verwendung fortwirke - hat der Kläger jedenfalls den erforderlichen Irrtum seinerseits im Zeitpunkt des Abschlusses des Kaufvertrages und eine Ursächlichkeit eines derartigen Irrtums für seine Kaufentscheidung nicht beweisen können. Denn aufgrund der Angaben des Klägers in der mündlichen Verhandlung bestehen durchgreifende Zweifel des Gerichts daran, dass der Kläger bei Abschluss des Kaufvertrages keine Kenntnis davon hatte, dass in den streitgegenständlichen Pkw ein vom Abgasskandal betroffener Motor des Typs $$ ... eingebaut war. Schriftsätzlich hatte der Kläger bereits vorgetragen, dass er Kenntnis vom sog. "Diesel-Abgasskandal" bei der Beklagten hatte. Auf Nachfrage will er sich gleichwohl bei Kauf des Fahrzeugs nicht darüber informiert haben, ob das streitgegenständliche Fahrzeug hiervon betroffen war oder nicht, obwohl ihm bekannt war, dass das Fahrzeug in der Zeit vor Bekanntwerden der Verwendung der Steuerungssoftware hergestellt worden war. Auch will er selbst im Zeitpunkt der mündlichen Verhandlung keine Kenntnis davon gehabt haben, ob und wenn ja wann an dem Fahrzeug ein Softwareupdate durchgeführt worden ist, obwohl sein Prozessbevollmächtigter mit der Klageschrift eine Bescheinigung vorgelegt hat, wonach dies der Fall ist (Anl. K 2 Bl. ...). Die Kammer hält die Behauptungen des Klägers zu seiner fehlenden Kenntnis im Zeitpunkt des Abschlusses des Kaufvertrages angesichts der gerichtsbekannt in den deutschsprachigen Medien seit Herbst 2015 ausführlich erfolgten Berichterstattung über den sog. "Dieselskandal" und des Umstands, dass der Kläger nicht nachvollziehbar erklären konnte, warum er sich denn Ende 2018 dafür interessierte, ob sein Fahrzeug vom "Dieselskandal" betroffen sei, für unglaubhaft. Unterstellt, der Kläger hätte sich vor Abschluss des Kaufvertrages trotz seiner Kenntnis des Abgasskandals nicht darüber informiert, ob auch das streitgegenständliche Fahrzeug betroffen war, wäre zudem davon auszugehen, dass ihm diese Frage gleichgültig und eine entsprechende Fehlvorstellung für seine Kaufentscheidung nicht ursächlich war.2. Aus den gleichen Gründen kommt auch ein Anspruch des Klägers aus §§ 823 Abs. 2 BGB, 263 Abs. 1 StGB nicht in Betracht. Soweit der Kläger in diesem Zusammenhang weiter vorträgt, die Beklagte habe mit falschen Werbeangaben getäuscht, ist weder das Vorbringen zu etwaigen Werkeaussagen der Beklagten hinreichend konkret, noch ist ausreichend dargelegt, dass der Kläger vor Abschluss des Kaufvertrages derartige Werbeaussagen zur Kenntnis genommen und hierdurch zum Abschluss des Kaufvertrags veranlasst worden war.II.Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO.III.Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus § 709 S. 1 und 2 ZPO.Gegenstandswert: 19.800,00 €
+			
+			
+			
+			Permalink: https://openjur.de/u/2319085.html (https://oj.is/2319085)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

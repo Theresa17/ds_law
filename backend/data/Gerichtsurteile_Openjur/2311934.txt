@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 09.10.2020 - 4 O 441/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 09.10.2020 - 4 O 441/19
+                      m. Fundstelle
+                      LG Köln, Urteil vom 09.10.2020 - 4 O 441/19 = openJur 2021, 200
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 09.10.2020 - 4 O 441/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 200
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte wird verurteilt, an den Kläger 4.682,00 EUR nebst Zinsen in Höhe von 5 Prozentpunkte über dem Basiszinssatz seit dem 20.01.2020 zu zahlen und den Kläger von den aktuell noch bestehenden Verbindlichkeiten gegenüber der A aus dem Darlehensvertrag vom 24.09.2016 mit der Nr. ...# in Höhe von 16.609,30 EUR freizustellen, Zug-um-Zug gegen Übergabe des Fahrzeugs mit der Fahrgestellnummer ... und Übertragung des dem Kläger gegenüber der A zustehenden Anwartschaftsrechts auf Übereignung des vorstehend bezeichneten Fahrzeugs.Es wird festgestellt, dass sich die Beklagte mit der Annahme des Fahrzeugs mit der Fahrgestellnummer ... in Annahmeverzug befindet.Schließlich wird die Beklagte verurteilt, den Kläger von außergerichtlichen Anwaltskosten in Höhe von 1.706,94 EUR gegenüber seinen Prozessbevollmächtigten freizustellen.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits tragen die Parteien zu jeweils gleichen Teilen.Das Urteil ist gegen Leistung von Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten um Ansprüche wegen der vermeintlich unzulässigen Gestaltung der Steuerungssoftware eines Dieselmotors.Die Beklagte ist die Herstellerin von Fahrzeugen der Marke B. Für diese entwickelt sie auch Dieselmotoren nebst dazugehöriger Steuerungssoftware.Am 24.09.2016 erwarb der Kläger das Fahrzeug vom Typ B mit der FIN ... zu einem Kaufpreis von 39.500,00 EUR. Seinerzeit hatte das Fahrzeug eine Laufleistung von 61.769 km.Den Kaufpreis finanzierte der Kläger mittels eines Kredites bei der A (vgl. Anl. K1b = Bl. 2 AnlH I), demgemäß er an diese 48 Monatsraten zu je 600,00 EUR sowie eine Schlussrate von 14.209,30 EUR zu leisten hatte. Zur Sicherung dieses Vertrages wurde das Fahrzeug an die A sicherungsübereignet. Im Folgenden leistete der Kläger an die darlehensgebende A ab November 2016 monatlich 600,00 EUR, bis einschließlich Juni 2020 mithin insgesamt 26.400,00 EUR.In vorgenanntem Fahrzeug war ein von der Beklagten entwickelter Dieselmotor der Schadstoffklasse Euro 5 mit einem Hubraum von 2.967 ccm und einer Leistung von 230 kW (313 PS) verbaut. Zur Reduzierung des Schadstoffausstoßes, insbesondere von Stickoxiden (NOx) verfügte der Motor über ein Abgasrückführungssystem (AGR). In der Motorsteuerungssoftware war ein sog. "Thermofenster" vorhanden: Fällt die Temperatur unter einen bestimmten - nicht konkret vorgetragenen - Punkt, wird die Abgasrückführung reduziert. War dies der Fall, stieß das Fahrzeug in der Konsequenz eine höhere Menge an Stickoxiden aus als wenn die Abgasrückführung auf Maximalleistung lief. Zudem war in der Steuerungssoftware eine Funktion enthalten, die anhand des Lenkradeinschlagwinkels erkannte, wenn das Fahrzeug auf dem Prüfstand fuhr. In dieser Situation deaktivierte sie u. a. das sog. "Dynamische Schaltprogramm" (DSP), welches die Schaltpunkte des Automatikgetriebes steuerte, und aktivierte stattdessen ein sog. "Warmlauf-Schaltprogramm". Dieses bewirkte, dass das Automatikgetriebe früher zurückschaltete und dadurch zu temporär höheren Motordrehzahlen führte. Das verursachte eine günstigere Lastpunktverschiebung und in der Folge einen geringeren Ausstoß an Stickoxid als wenn das DSP zur Anwendung gekommen wäre.Diese Funktion stufte das Kraftfahrtbundesamt (KBA) als unzulässige Abschalteinrichtung ein und ordnete deshalb einen Rückruf aller betroffenen Fahrzeuge - auch des hier betroffenen Fahrzeuges - zwecks Updates der Motorsteuerungssoftware an. Dieser Rückruf mit der KBA-Referenznummer ...# wurde am 02.12.2019 veröffentlicht.Mit Schreiben vom 28.08.2019 (Anl. K3) erklärte der Kläger gegenüber der Beklagten, er sei aufgrund von Medienberichten darauf aufmerksam geworden, dass das von ihm erworbene Kfz "mangelbehaftet" sei, es halte die zugesagten Abgaswerte nicht ein. Er forderte, dass die Beklagte den oben genannten Mangel umgehend, spätestens bis zum 12.09.2019 beseitige. Hinsichtlich der Einzelheiten wird auf das Schreiben vom 28.08.2019 verwiesen.Mit Schreiben vom 10.10.2019 (Anl. K4) forderten die Klägervertreter dann die Beklagte auf, den Kaufpreis von 39.500,00 EUR zuzüglich "Kreditkosten" von 3.509,30 EUR zurückzuzahlen Zug um Zug gegen Herausgabe des fraglichen Fahrzeuges, spätestens bis zum 24.10.2019. Gleichzeitig verlangten sie Erstattung der außergerichtlichen Kosten von 2.095,35 EUR, ebenfalls bis spätestens 24.10.2019. Hinsichtlich der Einzelheiten und des weiteren Inhaltes wird auf das Schreiben vom 10.10.2019 verwiesen. Dem kam die Beklagte nicht nach.Am Tag vor der letzten mündlichen Verhandlung hatte das fragliche Fahrzeug eine Laufleistung von 193.357 km.Mit seiner Klage macht der Kläger im Wesentlichen seine zur Finanzierung aufgewandten Leistungen geltend Zug um Zug gegen Rückgabe des Fahrzeugs sowie Freistellung von seinen vorgerichtlichen Anwaltskosten.Er behauptet, die Motorsteuerungssoftware enthalte mehrere nach Art. 5 Abs. 2 VO (EG) Nr. 715/2007 unzulässige Abschalteinrichtungen, nämlich:1.das - grundsätzlich unstreitig vorhandene - Thermofenster, welches so eingestellt sei, dass die volle Abgasrückführung zwar unter den gesetzlichen Prüfbedingungen funktioniere, jedoch bei tieferen Temperaturen "z. B. 15 °C" deutlich reduziert oder sogar abgeschaltet werde;2.die Steuerung der Schaltpunkte abhängig davon, ob das Fahrzeug anhand des Lenkradeinschlages die Prüfsituation erkenne oder nicht;3.eine Warmlauf-Schaltprogrammierung bzw. "Aufheiz-Strategie".Er ist der Auffassung, keine weiteren Details zur Wirkweise der Abschalteinrichtungen, insbesondere den Parametern des Thermofenster, vortragen zu müssen. Dies obliege der Beklagten, da nur sie konkretere Angaben hierzu machen könne, er als technischer Laie könne das hingegen nicht. Er behauptet weiter, die Beklagte habe so vorsätzlich ihre potenziellen Kunden getäuscht.Er ist zudem der Auffassung, trotz der - unstreitigen - Sicherungsübereignung des fraglichen Fahrzeugs an die A aktivlegitimiert zu sein, da der Schaden bereits im Vertragsschluss zu sehen sei.Er beantragt nach teilweiser Klagerücknahme mit Schriftsatz vom 15.07.2020 (Bl. 164 GA),1.die Beklagte zu verurteilen, Zugum-Zug gegen Übergabe und Übereignung des Fahrzeugs mit der Fahrgestellnummer ... an die Klagepartei 25.055,18 EUR nebst Zinsen in Höhe von 4 Prozent seit dem 04.10.2016 sowie 5 Prozentpunkte über dem Basiszinssatz seit Rechtshängigkeit zu zahlen;2.festzustellen, dass sich die Beklagte mit der Annahme des Fahrzeugs mit der Fahrgestellnummer ... in Annahmeverzug befindet;3.die Beklagte zu verurteilen, ihn von außergerichtlichen Anwaltskosten in Höhe von 2.095,35 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit freizustellen.Für den Fall, dass die Kammer der Auffassung sein sollte, dass sich dieser Antrag nicht so auslegen lasse, dass "als Minus zu dem ... Klageantrag zu 1, ... das Gericht im Falle des Obsiegens dem Kläger die bislang geleisteten und unstreitigen Darlehensraten von 44 Raten zu je 600,00 € (insgesamt 26.400,00 €) sowie die Freistellung der noch bestehenden Darlehens Restvaluta vor der Rate in Höhe von 16.609,30 € verlangen Zugum-Zug gegen Übergabe des Fahrzeugs mit der Fahrgestellnummer ... und Übertragung des dem Kläger gegenüber der A zustehenden Anwartschaftsrechts auf Übereignung des vorstehend bezeichneten Fahrzeugs, zusprechen" kann, beantragt erdie Beklagte zu verurteilen, an ihn 8.445,88 EUR nebst Zinsen in Höhe von 4 Prozent seit dem 04.10.2016 sowie 5 Prozentpunkte über dem Basiszinssatz seit Rechtshängigkeit zu zahlen und den Kläger von den aktuell noch bestehenden Verbindlichkeiten gegenüber der A aus dem Darlehensvertrag vom 24.09.2016 mit der Nr. ...# i.H.v 16.609,30 EUR freizustellen, Zugum-Zug gegen Übergabe des Fahrzeugs mit der Fahrgestellnummer ... und Übertragung des dem Kläger gegenüber der A zustehenden Anwartschaftsrechts auf Übereignung des vorstehend bezeichneten Fahrzeugs.Die Beklagte beantragt,die Klage kostenpflichtig abzuweisen.Sie behauptet, das in der Steuerungssoftware vorhandenen Thermofenster sei zum Schutz des Motors vor Schäden notwendig und daher zulässig. Dieses verhindere, dass die Bauteile "versotteten". Dieses "Ausrampen" der Abgasrückführung sei üblich und werde von allen Fahrzeugherstellern angewandt.Hinsichtlich der vom KBA beanstandeten - und unstreitig vorhandenen - Warmlauf-Schaltprogramms behauptet sie, es sei grundsätzlich erforderlich, bestimmte Funktionen des Fahrzeugs in der Prüfsituation auszuschalten, um verfälschte Messerergebnisse zu verhindern. Dies gelte neben ESC und der adaptiven Fahrwerksregelung (DRC) auch für das DSP. In diesem Zusammenhang habe es einen technischen Fehler gegeben: Die Beeinflussung der Schaltpunktsteuerung über die sog. Warmlaufziffer zwischen Getriebe- und Motorsteuergerät, welche signalisiere, dass der Motor seine Idealtemperatur noch nicht erreicht habe, sei fehlerhafterweise nicht aktiv gewesen. Dieser Fehler sei von ihr selbst entdeckt worden, woraufhin entschieden worden sei, den Fehler dem KBA mitzuteilen und seine Behebung durch einen Rückruf vorzunehmen. Sie ist der Auffassung, die Prüfstandserkennung sei für sich genommen kein Rechtsverstoß.Zum weiteren Sachvortrag der Parteien wird auf die gewechselten Schriftsätze nebst Anlagen verwiesen.Die Klageschrift ist der Beklagten am 20.01.2020 zugestellt worden (vgl. Bl. 33 GA). 
+				Gründe
+				Die Klage ist zulässig und hat im tenorierten Umfang auch Erfolg. Der Kläger kann dem Grunde nach von der Beklagten verlangen so gestellt zu werden, als hätte er das Fahrzeug nie erworben. Dieser Anspruch ergibt sich aus § 826 BGB. Die Folge ist, dass die Beklagte ihm zunächst sämtliche Zahlungen zu ersetzen hat, welche er im Zusammenhang mit dem Erwerb und der Finanzierung des Fahrzeugs aufgebracht hat. Weiter hat sie ihn von allen noch künftig fällig werdenden Verbindlichkeiten freizustellen, die ihm in diesem Zusammenhang zur Last fallen; das sind konkret die zukünftig fällig werdenden Zahlungspflichten gegenüber der den Kaufpreis finanzierenden A.Diese Ansprüche konnte die Kammer dem Kläger allerdings nicht aufgrund des vorrangig gestellten Klageanspruches zusprechen, sondern nur aufgrund des dahingehend gestellten Hilfsantrages; in der Konsequenz war die Klage teilweise, nämlich hinsichtlich des vorrangig gestellten Antrages abzuweisen. Entgegen seiner Auffassung ist die ihm vorschwebende Auslegung des vorrangig gestellten Antrages unzulässig. Es stellt nämlich kein Minus, sondern ein Aliud dar, wenn die Leistung an eine andere Person - hier die finanzierende A - erfolgen soll. Würde die Kammer ihm diesen aufgrund des vorrangig gestellten Antrages zusprechen, verstieße sie gegen § 308 ZPO (so auch BGH, Urteil vom 30.01.1995 - II ZR 38/94, NJW-RR 1995, 572; Beschluss vom 07.05.2019 - XI ZR 715/17, BeckRS 2019, 11565; Feskorn, in: Zöller, ZPO, 33. Aufl. 2020, § 308 Rn. 3).Unbegründet ist die Klage zudem, soweit der Kläger eine Verzinsung nach § 849 BGB sowie hinsichtlich seiner vorgerichtlichen Anwaltskosten geltend macht.1.Der Kläger hat gegen die Beklagte einen Anspruch auf Zahlung von Schadensersatz aus § 826 BGB, da diese ihm vorsätzlich in einer gegen die guten Sitten verstoßenden Weise einen Schaden zugefügt hat. Die von der Klägerseite ihrer Klage zugrunde gelegte Schadensberechnung ist im Grundsatz nicht zu beanstanden.a)Ein Verhalten ist sittenwidrig, wenn es gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt (BGH, Urteil vom 03.12.2013 - XI ZR 295/12, NJW 2014, 1098). In diese rechtliche Beurteilung ist einzubeziehen, ob es nach seinem aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter mit den guten Sitten nicht zu vereinbaren ist (BGH, Urteil vom 03.12.2013 - XI ZR 295/12, a. a. O. m. w. N.; Urteil vom 20.11.2012 - VI ZR 268/11, NJW-RR 2013, 550 m. w. N.).Der Kläger hat dadurch, dass die Beklagte ein Fahrzeug mit der unstreitig vorhandenen Prüfstandserkennung in den Verkehr gebracht hat, einen Schaden erlitten, welcher bereits in dem Abschluss des Vertrages liegt. Ein Schaden im Sinne des § 826 BGB ist nicht nur die Verletzung bestimmter Rechte oder Rechtsgüter oder eine nachteilige Einwirkung auf die Vermögenslage, sondern darüber hinaus jede Beeinträchtigung eines rechtlich anerkannten Interesses (BGH, Urteil vom 19.07.2004 - II ZR 402/02, juris).Dass es sich bei der fraglichen Softwarefunktion um eine im Sinne von Art. 5 Abs. 2 EG (VO) Nr. 713/2007 unzulässige Abschalteinrichtung handelt, zieht die Beklagte nicht in Zweifel und übergibt sich zudem aus dem vom KBA angeordneten Rückruf zwecks Entfernung.Vorliegend bestehen für die Kammer keine Zweifel daran, dass die Beklagte aus Gewinnstreben sowohl die zuständigen Behörden als auch Käufer der von ihr produzierten Fahrzeugen wie dem Kläger durch Entwicklung und Verwendung des Softwareprogramms in dem von ihr entwickelten, hier streitgegenständlichen Dieselmotor über den unter normalen Fahrbedingungen erhöhten Schadstoffausstoß täuschte. Dass die Software, die speziell unter Prüfbedingungen zu einer Verringerung des Schadstoffausstoßes zu keinem anderen Zweck entwickelt worden ist, ist für die Kammer offensichtlich. Dass es sich um ein "technisches Versehen" handelte, nimmt sie der Beklagte hingegen nicht ab, sondern wertet dies als Schutzbehauptung.b)Dem kann die Beklagte nicht entgegenhalten, das Fehlverhalten habe sich auf eine Ebene unterhalb ihrer organschaftlichen Vertreter ereignet. Denn auch wenn dies so sein sollte, müsste sich die Beklagte die Verstöße ihrer untergeordneten Repräsentanten analog § 31 BGB zurechnen lassen.Denn die ständige Rechtsprechung erweitert dessen Zurechenbarkeitswirkungen über den Wortlaut hinaus auf solche Personen, denen durch die allgemeine Betriebsregelung und Handhabung bedeutsame, wesensmäßige Funktionen der juristischen Person zur selbständigen, eigenverantwortlichen Erfüllung zugewiesen sind (BGH, Urteil vom 05.03.1998 - III ZR 183/96, NJW 1998, 1854). Auch den Personen, die zum Vorstand der Beklagten gezählt und über die Entwicklung und Verwendung der illegalen Abschalteinrichtung entschieden haben, kam eine entsprechende Stellung zu. Denn wenn diese Personen, wie es die Beklagte darstellt, eigenständig und ohne die Erforderlichkeit einer Freigabe von vorgesetzter Stelle so weitreichende Entscheidungen für die Entwicklung einer im gesamten Konzern der Beklagten verbauten Motorenreihe mit der vorbeschriebenen Software treffen konnten, so muss ihnen eine erhebliche innerbetriebliche Entscheidungskompetenz zugewiesen gewesen sein. Soweit die Beklagte etwas anders behauptet, ist dies erkennbar vorgeschoben.c)Die danach vorliegende sittenwidrige Schädigung ist auch kausal für die Kaufentscheidung des Klägers gewesen.Bei täuschendem oder manipulativem Verhalten ist es für die Darlegung des ursächlichen Zusammenhangs zwischen Täuschung und Abgabe der Willenserklärung ausreichend, dass der Getäuschte Umstände dargetan hat, die für seinen Entschluss von Bedeutung sein konnten und nach der Lebenserfahrung bei der Art des zu beurteilenden Rechtsgeschäfts Einfluss auf die Entschließung gehabt haben können (BGH, Urteil vom 12.05.1995 - V ZR 34/94, NJW 1995, 2361). Es wäre lebensfremd anzunehmen, dass die Motorsteuerungssoftware nicht den gesetzlichen Bestimmungen entspricht. Dies steht zudem - wie oben ausgeführt - zur Überzeugung der Kammer aufgrund des vom KBA angeordneten Rückrufs, gegen den sich die Beklagte ersichtlich nicht gewehrt, sondern vielmehr sogar angestoßen hat, fest.d)Schließlich ist der Kläger auch aktivlegitimiert für den hier geltend gemachten Schadensersatzanspruch. Der Schaden ist bereits im Abschluss des Kauf- und damit verbunden des Darlehensvertrages zu sehen.e)Dementsprechend hat die Beklagte den Kläger so zu stellen, als hätte er das fragliche Fahrzeug nicht erworben. Entsprechend hat sie ihm diejenigen Geldaufwendungen zu ersetzen, die der Kläger infolge des Kaufvertrages gemacht hat. Das sind die unstreitigen Zahlungen von insgesamt 26.500,00 EUR bis einschließlich Juni 2020.Dabei hat er sich aber eine angemessen Nutzungsentschädigung für die bisher gefahrenen Kilometer anrechnen zu lassen, welche die Kammer gemäß § 287 Abs. 1 ZPO auf 21.818,00 EUR schätzt. Denn bei Berechnung der Nutzungsentschädigung sind dieselben Grundsätze wie bei derjenigen gemäß § 346 Abs. 2 BGB heranzuziehen, also folgende allgemein anerkannte Formel:Bruttokaufpreisx gefahrene KilometerGesamt(rest)laufleistung(vgl. OLG Hamm, Urteil vom 10.03.2011 - 28 U 131/10, NJW-RR 2011, 1423; Grüneberg, in: Palandt, BGB, 78. Aufl. 2019, § 346 Rn. 10), wobei die Kammer von einer Gesamtlaufleistung von 300.000,00 EUR ausgeht (so auch OLG Düsseldorf, Urteil vom 30.01.2020 - 13 U 81/19, juris; LG Nürnberg-Fürth, Endurteil vom 13.07.2020 - 4 O 6124/19, BeckRS 2020, 18325); diese waren in der vorgenannten Formel durch die Laufleistung, die das Fahrzeug bei Erwerb durch den Kläger hatte, zu reduzieren. Hinsichtlich der gefahrenen Kilometer geht sie von einem Kilometerstand von 193.357 km aus, den das Fahrzeug am Tag vor der mündlichen Verhandlung unstreitig hatte.2.Der ausgeurteilte Zinsanspruch folgt aus §§ 288 Abs. 1 S. 2, 291 BGB.Eine darüberhinausgehende Verzinsung steht dem Kläger nicht zu, insbesondere nicht aus § 849 BGB. Denn der Kläger hat für die Hingabe seines Geldes im Gegenzug mit dem streitbefangenen Kraftfahrzeug eine tatsächlich voll nutzbare Gegenleistung erhalten. In diesem Fall kompensiert die tatsächliche Nutzbarkeit der Gegenleistung die (entgangene) Nutzungsmöglichkeit des Geldes (so auch BGH, Urteil vom 30.07.2020 - VI ZR 354/19, NJW 2020, 2796).3.Der Feststellungsantrag zu Ziff. 2, dass sich die Beklagte mit der Rücknahme des Fahrzeugs im Annahmeverzug befindet, ist zulässig und begründet. Das dazu erforderliche Angebot erfolgte mindestens damit, dass der Kläger die Verurteilung Zugum-Zug gegen Rückgabe des Fahrzeugs beantragte (vgl. BGH, Urteil vom 15.11.1996 - V ZR 292/95, NJW 1997, 581; Ernst, in: MüKo/BGB, Bd. 2, a. a. O., § 295 Rn. 8).4.Der ausgeurteilte Anspruch auf Freistellung von vorgerichtlichen Anwaltskosten ebenfalls aus § 826 BGB, da die Beauftragung der Klägervertreter eine zweckmäßige Aufwendung zur Rechtsverfolgung darstellen. Allerdings besteht der Anspruch nur in Höhe einer Geschäftsgebühr von 1,3, nicht wie geltend gemacht von 1,6. Eine besondere Schwierigkeit vermag die Kammer nicht zu erkennen, nachdem in Sachen des sog. Abgasskandals inzwischen eine Vielzahl von, auch ober- und höchstgerichtliche Entscheidungen ergangen sind.Jedoch besteht der darauf geltend gemachte Anspruch auf Zahlung von Rechtshängigkeitszinsen nicht. Ein Anspruch auf Freistellung ist nicht auf eine Zahlung im Sinne von § 288 Abs. 1 BGB gerichtet, sondern auf eine andere Handlung des Schuldners (OLG Stuttgart, Urteil vom 04.10.2010 - 5 U 60/10, NJW-RR 2011, 239; OLG Frankfurt, Urteil vom 20.12.2018 - 8 U 53/17, juris m. w. N.; Hager, in: Erman, BGB, 16. Aufl. 2020, § 288 Rn. 6 m. w. N.).5.Die prozessualen Nebenentscheidungen beruhen auf §§ 92 Abs. 1 S. 1, 269 Abs. 3 S. 2, 709 ZPO.Streitwert: 43.009,30 EUR
+			
+			
+			
+			Permalink: https://openjur.de/u/2311934.html (https://oj.is/2311934)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate14
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

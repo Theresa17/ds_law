@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG MünchenRechtsprechungEndurteil vom 03.12.2019 - 18 U 4044/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG München, Endurteil vom 03.12.2019 - 18 U 4044/19
+                      m. Fundstelle
+                      OLG München, Endurteil vom 03.12.2019 - 18 U 4044/19 = openJur 2020, 71995
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG München, Endurteil vom 03.12.2019 - 18 U 4044/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 71995
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				I. Auf die Berufung der Beklagten wird das Endurteil des Landgerichts Traunstein vom 25.6.2019 dahin abgeändert, dass die Klage insgesamt abgewiesen wird.II. Der Kläger trägt die Kosten des Rechtsstreits.III. Das Urteil ist vorläufig vollstreckbar.Der Kläger kann die Zwangsvollstreckung durch Sicherheitsleistung in Höhe von 110% des vollstreckbaren Betrags abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110% des zu vollstreckenden Betrags leistet.IV. Die Revision gegen dieses Urteil wird nicht zugelassen. 
+				Tatbestand
+				I.Der Kläger verlangt von der Beklagten Schadensersatz wegen des Erwerbs eines PKW Audi, in den ein von der Beklagten hergestellter Motor der Baureihe EA 189 eingebaut ist.Mit Kaufvertrag vom 8.12.2015 (Anlage K 1) erwarb der Kläger bei der E. GmbH den gebrauchten Pkw Audi A4 2.0 TDI Avant quattro mit der FIN ...31 zum Preis von 27.400 €. Die Fahrleistung zum Zeitpunkt des Kaufs betrug 47.638 km.Für den Fahrzeugtyp wurde die EG-Typgenehmigung mit der Schadstoffklasse Euro 5 erteilt. Die Steuerungssoftware des in dem streitgegenständlichen Fahrzeug verbauten Motors EA 189 erkennt, ob das Fahrzeug auf einem Prüfstand dem Neuen Europäischen Fahrzyklus (NEFZ) unterzogen wird. In diesem Fall veranlasst die Software, dass Abgase beim Durchfahren des Prüfzyklus in den Motor zurückgeführt werden, bevor sie das Emissionskontrollsystem erreichen. Durch die Aktivierung dieses Modus (sog. Modus 1) werden bei der standardisierten Kontrolle auf dem Rollenprüfstand die Grenzwerte nach Euro 5 eingehalten. Im normalen Fahrbetrieb außerhalb des Prüfstands schaltet die Software in Modus 0, bei dem eine deutlich geringere Abgasrückführung erfolgt und in der Folge der Stickoxidausstoß wesentlich höher ist, so dass die Grenzwerte nach Euro 5 nicht mehr eingehalten werden.Nach Bekanntwerden dieser sog. Umschaltlogik ordnete das Kraftfahrbundesamt (im Folgenden: KBA) die technische Überarbeitung der Motorsteuerungssoftware an. Die Beklagte entwickelte daraufhin ein Software-Update, das vom KBA im Sommer 2016 freigegeben und am 14.10.2016 beim Fahrzeug des Klägers aufgespielt wurde.Wegen des Sach- und Streitstandes wird im Übrigen auf die tatsächlichen Feststellungen in dem landgerichtlichen Urteil Bezug genommen.Das Landgericht hat die Beklagte mit Endurteil vom 25.6.2019, berichtigt durch Beschluss vom 25.7.2019, unter Abweisung der Klage im Übrigen zur Zahlung von 23.261,96 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 6.9.2018 Zug um Zug gegen Übergabe und Übereignung des streitgegenständlichen PKW und zur Zahlung vorgerichtlicher Rechtsanwaltskosten in Höhe von 860,97 € verurteilt sowie festgestellt, dass sich die Beklagte mit der Annahme der Gegenleistung in Verzug befinde. Zur Begründung hat das Landgericht im Wesentlichen ausgeführt:Dem Kläger stehe gegen die Beklagte ein Schadensersatzanspruch aus § 280 Abs. 1 S. 1, § 311 Abs. 3 BGB zu. Wenn die Beklagte auch nicht Partnerin des vom Kläger abgeschlossenen Kaufvertrags sei, bestehe doch ein Schuldverhältnis zwischen den Parteien wegen der Inanspruchnahme persönlichen Vertrauens durch die Beklagte, das die Vertragsverhandlungen und den Vertragsschluss beeinflusst habe, und ihres nicht unerheblichen eigenen Interesses. Der Kläger habe nämlich in die Beklagte als einen der größten deutschen Automobilhersteller besonderes Vertrauen gesetzt, dass alle Vorschriften durch sie eingehalten würden, zumal einer ihrer Mitarbeiter eine Übereinstimmungsbescheinigung aufgrund der Verordnung (EG) Nr. 385/2009 ausgestellt und damit eine persönliche Zusicherung abgegeben habe. Auch wenn der PKW nach Bekanntwerden der Dieselproblematik im Oktober 2015 erworben worden sei, müsse sich der Kläger "eine Kenntnis nicht zurechnen lassen", da "zum damaligen Zeitpunkt die Konsequenzen nicht in diesem Umfang" bekannt gewesen seien.Die Beklagte habe ihre Pflichten gegenüber dem Kläger verletzt, da eine Übereinstimmung des streitgegenständlichen Fahrzeugs mit den europäischen Rechtsakten nicht gegeben sei und die Beklagte den Kläger nicht vor dem Kauf auf die daraus resultierende, nicht fernliegende Gefahr behördlichen Einschreitens hingewiesen habe. Ihr Verschulden habe die Beklagte, die sich das Verhalten ihrer Mitarbeiter nach § 278 S. 1 BGB zurechnen lassen müsse, nicht widerlegt.Der Schaden des Klägers liege darin, dass er durch das Verhalten der Beklagten zum Abschluss eines Vertrages gebracht worden sei, den er sonst nicht geschlossen hätte.Der Kläger könne verlangen, so gestellt zu werden, als ob er den Kaufvertrag nicht geschlossen hätte. Das führe zur Rückzahlung des von ihm gezahlten Kaufpreises Zug um Zug gegen Übereignung des streitgegenständlichen PKW. Im Rahmen des Vorteilsausgleichs müsse sich der Kläger allerdings die von ihm gezogenen Nutzungen anrechnen lassen. Diese seien unter Berücksichtigung des Kaufpreises, der gefahrenen Kilometer und der zu erwartenden Gesamtlaufleistung von 350.000 km mit 4.138,04 € zu bewerten, so dass sich eine Forderung des Klägers in Höhe von 23.261,96 € ergebe. Finanzierungskosten seien nicht zu erstatten.Der Antrag auf Feststellung des Annahmeverzugs sei zulässig und begründet.Die vorgerichtlichen Rechtsverfolgungskosten seien adäquat verursacht und unter Berücksichtigung des zugesprochenen Betrags ersatzfähig.Gegen dieses ihr am 28.6.2019 zugestellte Urteil hat die Beklagte am 25.7.2019 Berufung eingelegt und mit Schriftsatz vom 30.9.2019, bei Gericht eingegangen am selben Tag, begründet, nachdem die Berufungsbegründungsfrist bis 30.9.2019 verlängert worden war.Die Beklagte führt aus, das Landgericht habe zu Unrecht einen Schadensersatzanspruch des Klägers gegen die Beklagte bejaht.Ein Anspruch aus § 280 Abs. 1 S. 1, § 311 Abs. 3 BGB scheide schon mangels Inanspruchnahme besonderen Vertrauens aus. Nicht die Beklagte, sondern die AUDI AG sei Herstellerin des streitgegenständlichen Fahrzeugs und habe auch die EG-Übereinstimmungsbescheinigung dafür erteilt. Das Landgericht habe außer Acht gelassen, dass der streitgegenständliche Kaufvertrag nach Bekanntwerden der Dieselthematik geschlossen worden sei. Ab Herbst 2015 könne der Beklagten keine Täuschungshandlung und kein sittenwidriges Verhalten mehr vorgeworfen werden.Dem Kläger sei kein ersatzfähiger Schaden entstanden. Der Vertragsschluss sei nicht wirtschaftlich nachteilig gewesen, da das Fahrzeug durch das Bekanntwerden der Software keinen Wertverlust erlitten habe. Der Vertragsschluss sei auch nicht subjektiv konkret nachteilig gewesen, weil der PKW für die Zwecke des Klägers uneingeschränkt brauchbar gewesen sei. Selbst wenn man einen ersatzfähigen Schaden bejahen wollte, sei dieser bis zum Schluss der letzten mündlichen Verhandlung aufgrund des Software-Updates wieder entfallen.Jedenfalls sei das Verhalten der Beklagten für die den vermeintlichen Schaden des Klägers begründende Kaufentscheidung nicht kausal gewesen. Dem Kläger, der die Beweislast für die Kausalität trage, sei beim Kauf bewusst gewesen oder hätte bewusst sein müssen, dass das Fahrzeug mit einer Umschaltlogik ausgerüstet gewesen sei. Soweit ihm lediglich die "allgemeine Diesel-Problematik" beim Kauf bewusst gewesen sei und er sich dennoch nicht nach der Betroffenheit des Fahrzeugs erkundigt habe, könne daraus nur der Schluss gezogen werden, dass die Verwendung der Motorsteuerungssoftware für ihn nicht relevant gewesen sei.Die Beklagte beantragt,das am 25. Juni 2019 verkündete Urteil des Landgerichts Traunstein, Az. 1 O 2580/18, im Umfang der Beschwer der Beklagten abzuändern und die Klage vollumfänglich abzuweisen.Der Kläger beantragt die Zurückweisung der Berufung der Beklagten.Der Kläger verteidigt das landgerichtliche Urteil. Er macht geltend, sein Schadensersatzanspruch ergebe sich jedenfalls aus § 826 BGB, da das Verhalten der Beklagten eine vorsätzliche sittenwidrige Täuschung des Klägers darstelle.Die schädigende Handlung sei der Beklagten zuzurechnen, da sowohl ein Vorstandsmitglied als auch die mit der Motorsteuerungssoftware befassten Mitarbeiter der Beklagten von der Verwendung der Umschaltlogik in den betroffenen Fahrzeugen Kenntnis gehabt und die Schädigung der Fahrzeugerwerber zumindest billigend in Kauf genommen hätten. Die Beklagte sei der ihr insoweit obliegenden sekundären Darlegungslast nicht nachgekommen. Das Landgericht habe verfahrensfehlerfrei festgestellt, dass die streitgegenständliche Motorsteuerungssoftware eine unzulässige Abschalteinrichtung darstelle, die zur Mangelhaftigkeit des vom Kläger erworbenen PKW geführt habe.Der Kläger habe keineswegs durch die Presseberichterstattung 2015, sondern erst 2016 durch die Aufforderung zur Durchführung eines Softwareupdates davon erfahren, dass der streitgegenständliche PKW vom Dieselskandal betroffen sei. Vorher habe er auch nicht gewusst, dass das Fahrzeug der Gefahr ausgesetzt gewesen sei, die Zulassung zu verlieren. Dass 2015 die Möglichkeit bestanden habe, sich auf einer Internetseite darüber zu informieren, und dass die Beklagte ihre Händler und Servicepartner informiert habe, bestreitet der Kläger mit Nichtwissen. Wie er bei seiner Anhörung auch angegeben habe, hätte der Kläger das Fahrzeug bei Kenntnis von der illegalen Motorsteuerungssoftware nicht gekauft. Die Beweislast für die Kenntnis des Klägers und den fehlenden Kausalzusammenhang liege bei der Beklagten, da dem Kläger die Vermutung aufklärungsrichtigen Verhaltens zugute komme.Das Landgericht habe zu Recht angenommen, dass dem Kläger durch den Kauf des streitgegenständlichen Fahrzeugs ein Schaden entstanden sei, und diesen richtig berechnet.Hilfsweise stützt der Kläger seine Schadensersatzansprüche auf § 823 Abs. 2 BGB i.V.m. §§ 6, 27 EG-FGV oder § 263 StGB oder auf § 831 BGB.Wegen des weiteren Parteivorbringens im Berufungsverfahren wird Bezug genommen auf die Berufungsbegründung vom 30.9.2019 (Bl. 337/412 d.A.), die Berufungserwiderung vom 21.11.2019 (Bl. 417/456 d.A.), den Beklagtenschriftsatz vom 27.11.2019 (Bl. 460/473 d.A.) und das Protokoll der mündlichen Verhandlung vom 3.12.2019 (Bl. 474/478 d.A.), jeweils mit Anlagen. 
+				Gründe
+				II.Die Berufung der Beklagten ist gemäß §§ 511, 513, 517, 519, 520 ZPO zulässig. Sie ist auch begründet und führt zur vollständigen Abweisung der Klage, denn der eingeklagte Schadensersatzanspruch steht dem Kläger schon dem Grunde nach nicht zu.1. Die Voraussetzungen eines Anspruchs aus § 280 Abs. 1 Satz 1, § 311 Abs. 3 BGB, auf die sich der Kläger selbst gar nicht beruft, liegen entgegen der Ansicht des Landgerichts nicht vor. Der Kläger hat nicht nachvollziehbar dargelegt, dass die Beklagte, die unstreitig nicht seine Vertragspartnerin geworden ist, in besonderem Maße persönliches Vertrauen für sich in Anspruch genommen und dadurch die Vertragsverhandlungen oder den Vertragsschluss erheblich beeinflusst hätte. Diese Voraussetzungen sind nach der höchstrichterlichen Rechtsprechung nur erfüllt, wenn der Dritte unmittelbar oder mittelbar - durch eine für ihn handelnde Person - an den Vertragsverhandlungen teilgenommen und dabei durch sein Auftreten eine über das normale Verhandlungsvertrauen hinausgehende persönliche Gewähr für die Seriosität des Geschäfts oder die Erfüllung des Vertrages übernommen hat (vgl. Palandt/Grüneberg, BGB, 79. Aufl., § 311 Rn. 63 m.w.N.). Der Kläger hat den streitgegenständlichen gebrauchten Audi A4 jedoch ohne Mitwirkung der Beklagten von einem nicht mit dieser verbundenen KFZ-Händler gekauft.2. In Betracht kommt allerdings ein Schadensersatzanspruch des Klägers aus § 826, § 31 BGB, weil das Handeln der Beklagten sittenwidrig war und auf eine Schädigung der Erwerber von Kraftfahrzeugen abzielte, in denen ein Dieselmotor der Baureihe EA189 eingebaut war, also auch auf eine Schädigung des Klägers. Das Handeln der Beklagten war für den geltend gemachten Schaden aber nicht kausal.a) Die Schädigungshandlung der Beklagten ist darin zu sehen, dass sie den Dieselmotor der Baureihe EA189 entwickelt und in Verkehr gebracht hat, der mit dem im Tatbestand des angefochtenen Urteils näher beschriebenen, vom KBA als unzulässig angesehenen Abgasrückführungssystem ausgestattet war, der bestimmungsgemäß in ein Kraftfahrzeug eingebaut und sodann an einen Endkunden verkauft werden sollte, dem gegenüber die Funktionsweise des Abgasrückführungssystems nicht offengelegt wird. Ein solcher Motor ist in den streitgegenständlichen PKW eingebaut worden. Das Inverkehrbringen eines derartigen Fahrzeugs stellt eine konkludente Täuschung des Endkunden dar.b) Auch die subjektiven Voraussetzungen einer Haftung der Beklagten nach § 826 BGB, nämlich Schädigungsvorsatz sowie Kenntnis der Tatumstände, die das Verhalten als sittenwidrig erscheinen lassen, liegen vor.Die deliktische Haftung einer juristischen Person gemäß § 31 BGB setzt voraus, dass ein "verfassungsmäßig berufener Vertreter" im Sinn des § 31 BGB persönlich die objektiven und subjektiven Voraussetzungen des § 826 BGB verwirklicht hat (vgl. BGH, Urteil vom 28.6.2016 - VI ZR 536/15 -, NJW 2017, 250). Insoweit trifft die Beklagte eine sekundäre Darlegungslast, weil der primär darlegungsbelastete Kläger außerhalb des maßgeblichen Geschehensablaufs steht und den Sachverhalt von sich aus nicht ermitteln kann, während der Beklagten die erforderliche tatsächliche Aufklärung möglich und zumutbar ist (vgl. hierzu BGH, Urteil vom 28.6.2016 - VI ZR 559/14, Rn. 18, NJW 2016, 3244). Dieser Darlegungslast ist die Beklagte nicht ausreichend nachgekommen.Zudem besteht eine tatsächliche Vermutung dafür, dass ein Vorstand oder Repräsentant der Beklagten den Einsatz der beanstandeten Motorsteuerungssoftware gekannt und gebilligt hat, weil ein "Verhaltensexzess eines untergeordneten Mitarbeiters", der den Vorstand bzw. Repräsentanten, der den Einsatz der Motorsteuerungssoftware genehmigt hat, ebenfalls getäuscht haben müsste, höchst unwahrscheinlich wäre (vgl. OLG Karlsruhe, Hinweisbeschluss vom 5.3.2019 - 13 U 142/18, BeckRS 2019, 3395, Rn. 58).c) Nach der ständigen Rechtsprechung des Bundesgerichtshofs besteht der Schaden im Falle einer durch arglistige Täuschung verübten sittenwidrigen Schädigung regelmäßig in der eingegangenen Verpflichtung, die der Getäuschte bei Kenntnis der Umstände nicht eingegangen wäre (vgl. BGH, Urteil vom 21.12.2004 - VI ZR 306/03 -, Rn. 14 ff., zit nach juris, BGHZ 161, 361).d) Im vorliegenden Fall hat der Kläger jedoch weder hinreichend dargelegt noch nachgewiesen, dass eine Täuschung seitens der Beklagten für seine Entscheidung zum Erwerb des streitgegenständlichen PKW kausal geworden ist und er diesen nicht erworben hätte, wenn er gewusst hätte, dass das Fahrzeug vom sogenannten Diesel-Abgasskandal betroffen ist.aa) Der Kläger kann sich entgegen seiner Ansicht nicht auf die Vermutung aufklärungsrichtigen Verhaltens berufen, die bei Schadensersatzansprüchen wegen Verletzung vertraglicher Beratungs- oder Aufklärungspflichten gilt (Palandt/Grüneberg a.a.O. § 280 Rn. 39 m.w.N.). Bei einem - im vorliegenden Fall allein in Betracht kommenden - deliktischen Anspruch trifft die Darlegungs- und Beweislast für den Kausalzusammenhang zwischen Täuschung und eingegangener Verpflichtung den Geschädigten; auf den Nachweis der konkreten Kausalität der Täuschung für den Willensentschluss des Getäuschten kann nicht verzichtet werden (vgl. Palandt/Sprau, BGB, 79. Aufl., § 826 Rn. 18; BGH, Urteil vom 4.6.2013 - VI ZR 288/12 -, NJW-RR 2013, 1448). Dabei kann es aber genügen, dass der Getäuschte Umstände darlegt, die für seinen Entschluss von Bedeutung sein konnten, und dass die arglistige Täuschung nach der Lebenserfahrung bei der Art des zu beurteilenden Rechtsgeschäfts Einfluss auf die Entschließung hat (vgl. BGH, Urteil vom 12.5.1995 - V ZR 34/94 -, NJW 1995, 2361).bb) Das Oberlandesgericht Karlsruhe stellt in seinem vorerwähnten Hinweisbeschluss unter anderem darauf ab, dass nach der Lebenserfahrung niemand ein Kraftfahrzeug in Kenntnis einer nicht bestehenden Genehmigung oder Genehmigungsfähigkeit käuflich erwerben würde (a.a.O., Rn. 23). Dieser Gedanke erscheint allerdings nur dann uneingeschränkt tragfähig, wenn der Käufer - wie in dem vom Oberlandesgericht Karlsruhe beurteilten Fall - den PKW vor Bekanntwerden des Abgasskandals erworben hat. Hatte der Käufer dagegen im Zeitpunkt des Vertragsschlusses Kenntnis von den Abgasmanipulationen, was angesichts der breiten Erörterung dieses Themas in den Medien ab September 2015 regelmäßig anzunehmen ist, muss er nachvollziehbar darlegen, aus welchen Gründen er davon ausgegangen ist, dass das von ihm erworbene Fahrzeug von der Problematik nicht betroffen ist. Einer Kausalität der Täuschung für den Vertragsschluss steht im Regelfall bereits entgegen, dass der Käufer es jedenfalls für möglich gehalten hat, dass der PKW betroffen sein könnte, aber keine Veranlassung gesehen hat, diese Frage vor Vertragsschluss zu klären.cc) Unter Berücksichtigung dieser Maßstäbe fehlt es im vorliegenden Fall an einer für den Erwerb des streitgegenständlichen PKW durch den Kläger kausalen Täuschungshandlung der Beklagten.Der Kläger hat bei seiner informatorischen Anhörung in erster Instanz (Protokoll vom 26.3.2019, S. 2/3, Bl. 289/290 d.A.) auf den Vorhalt, dass zum Kaufzeitpunkt im Dezember 2015 "die Abschaltproblematik bereits publik" gewesen sei, nicht bestritten, davon gewusst zu haben, sondern lediglich erklärt, es sei aus seiner Sicht nicht "ausreichend konkretisiert" und "das Ausmaß nicht bekannt" gewesen. Bei seiner Anhörung vor dem Senat (Protokoll vom 3.12.2019, S. 2/3, Bl. 475/476 d.A.) hat der Kläger eingeräumt, vor dem Kauf gewusst zu haben, dass VW vom Dieselskandal betroffen sei, aber nicht, dass auch Audi davon betroffen sei und in dem von ihm erworbenen Auto überhaupt ein VW-Motor verbaut sei. Mit dem Verkäufer habe er darüber nicht gesprochen. Er habe aber "Probleme am Lack" gefunden, die noch beseitigt werden sollten, außerdem sei ein Tuning-Chip, mit dem das Fahrzeug in der Vergangenheit versehen gewesen sei, ausgebaut gewesen. Hierzu enthält der als Anlage K 1 vorgelegte Kaufvertrag vom 8.12.2015 auch ausführliche Angaben.Wie allgemein bekannt ist, wurden jedoch bereits im September 2015 Informationen darüber veröffentlicht, dass die mit der Abschaltsoftware ausgestatteten Motoren auch in den Fahrzeugen anderer zum VW-Konzern gehörender Hersteller wie Audi eingebaut waren. Zum Kaufzeitpunkt konnte dieses Wissen angesichts der intensiven Berichterstattung in den Medien allgemein vorausgesetzt werden. Wenn der Kläger sich dennoch über die Gegebenheiten bei dem von ihm gewählten PKW nicht informierte, obwohl er sich im Übrigen vor dem Kauf eingehend mit dessen Zustand befasste, lässt dies erkennen, dass es ihm zum maßgeblichen Zeitpunkt des Abschlusses des Kaufvertrages letztlich gleichgültig war, ob das von ihm erworbene Fahrzeug von dem ihm bekannten Diesel-Abgasskandal betroffen war oder nicht. Eine konkludente Täuschung seitens der Beklagten hat sich deshalb auf seine Entscheidung für den Erwerb des streitgegenständlichen PKW nicht ausgewirkt. Verbleibende Zweifel gehen jedenfalls zum Nachteil des beweisbelasteten Klägers.3. Entsprechendes gilt für einen auf die Verwirklichung des Straftatbestandes des Betrugs gestützten Schadensersatzanspruch aus § 823 Abs. 2 BGB in Verbindung mit § 263 StGB. Denn auch der Betrugstatbestand setzt - unter anderem - voraus, dass der Vermögensschaden durch eine irrtumsbedingte Vermögensverfügung des Getäuschten verursacht worden ist (vgl. Palandt/Sprau, BGB, 79. Aufl., § 823 Rn. 81).4. Auf § 823 Abs. 2 BGB i.V.m. § 6 Abs. 1, § 27 Abs. 1 EG-FGV kann der Kläger seinen Anspruch schon deshalb nicht stützen, weil es sich bei diesen Vorschriften nicht um Schutzgesetze zugunsten der Käufer der betreffenden Fahrzeuge handelt.a) Der Schutz eines Einzelnen ist von einer Rechtsnorm nicht bereits dann bezweckt, wenn er als Reflex einer Befolgung der Norm objektiv erreicht wird, sondern nur dann, wenn der Gesetzgeber dem Einzelnen selbst die Rechtsmacht in die Hand geben wollte, mit Mitteln des Privatrechts gegen denjenigen vorzugehen, der das Verbot übertritt und sein Rechtsinteresse beeinträchtigt (vgl. BGH, Urteile vom 10.2.2011 - I ZR 136/09 -, BGHZ 188, 326-351, und vom 13.12.2011 - XI ZR 51/10 -, BGHZ 192, 90-118). Danach wohnt den § 6 Abs. 1, § 27 Abs. 1 EG-FVG eine individualschützende Wirkung nicht inne.b) Die Richtlinie 2007/46/EG, die durch die Vorschriften der EG-FGV in nationales Recht umgesetzt ist, berücksichtigt den Schutz individueller Interessen nicht. Aus den Erwägungsgründen (2), (4) und (23) der Richtlinie ergibt sich eindeutig, dass ihr Ziel in erster Linie die Vollendung des europäischen Binnenmarktes ist; darüber hinaus sollte sie die technischen Anforderungen in Rechtsakten harmonisieren und spezifizieren, wobei diese Rechtsakte vor allem auf hohe Verkehrssicherheit, Gesundheits- und Umweltschutz, rationelle Energienutzung und wirksamen Schutz gegen unbefugte Nutzung abzielten. Individualinteressen, vor allem das Vermögensinteresse von Kraftfahrzeugerwerbern, finden darin keine Erwähnung.Auch sonstige Anhaltspunkte dafür, dass die Richtlinie auf den Schutz des Vermögens des Autokäufers abstellt, ergeben sich nicht (vgl. OLG Braunschweig, Urteil vom 19.2.2019 - 7 U 134/17; OLG Celle, Beschluss vom 1.7.2019 - 7 U 33/19; OLG München, Beschluss vom 29.8.2019 - 8 U 1449/19 -, alle zitiert nach juris).III.1. Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO.2. Die Entscheidung über die vorläufige Vollstreckbarkeit stützt sich auf § 708 Nr. 10, § 711 ZPO.3. Die Revision war nicht zuzulassen, da die Voraussetzungen des § 543 Abs. 2 ZPO nicht vorliegen. Die streitentscheidenden Rechtsfragen sind bereits höchstrichterlich geklärt. Eine Divergenz zu der Entscheidung des Oberlandesgerichts Hamm vom 10.9.2019 (Az. 13 U 149/18, juris), die ebenfalls einen Kauf nach Herbst 2015 betrifft, besteht nicht. Im dortigen konkreten Einzelfall konnte sich das Gericht auf Grund einer Parteivernehmung von der Kausalität der Täuschungshandlung für den eingetretenen Schaden überzeugen.
+			
+			
+			
+			Permalink: https://openjur.de/u/2297190.html (https://oj.is/2297190)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate10
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen4
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')
