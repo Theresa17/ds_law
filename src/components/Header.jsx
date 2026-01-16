@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import LogoDS from "../assets/Logo_DS.png";
+import LogoDS from "../assets/Logo_DS.svg";
 
 export default function Header() {
   const cls = ({ isActive }) => (isActive ? "active" : "");
