@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG WiesbadenRechtsprechungUrteil vom 18.09.2019 - 2 O 102/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Wiesbaden, Urteil vom 18.09.2019 - 2 O 102/19
+                      m. Fundstelle
+                      LG Wiesbaden, Urteil vom 18.09.2019 - 2 O 102/19 = openJur 2021, 14343
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Wiesbaden, Urteil vom 18.09.2019 - 2 O 102/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 14343
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Zu den Voraussetzungen einer vorsätzlichen sittenwidrigen Täuschung im Rahmen des § 826 BGB. 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits hat der Kläger zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht gegenüber der Beklagten Ansprüche im Zusammenhang mit dem Erwerb eines von dem sogenannten Diesel-Skandal betroffenen Fahrzeugs geltend.Mit Kaufvertrag vom 14.12.2015 erwarb der Kläger von einem Wiesbadener Autohändler einen Gebrauchtwagen der Marke zu einem Kaufpreis in Höhe von 28.500 €. Hinsichtlich der weiteren Einzelheiten des Fahrzeugs und dessen Ausstattung wird auf die Unterlagen zum Fahrzeugkauf, vorgelegt als Anlagen K 1 (im Anlagenband) verwiesen.Seither nutzt der Kläger das Fahrzeug. Das Fahrzeug, welches von der Beklagten hergestellt wurde, verfügt über eine EG-Typengenehmigung für die Emissionsklasse Euro 5. In dem Fahrzeug ist ein von der Beklagten hergestellter Dieselmotor vom Typ EA 189 mit einer Leistung von 103 kW verbaut.Dieser Motor war mit einer Software ausgestattet, die unter anderem den Umfang des Stickoxidausstoßes auf dem Abgasprüfstand dergestalt beeinflusste, dass das Fahrzeug bzw. der Motor und die Anschlussaggregate in einem Zyklus ("Modus I") gefahren wurden, der beim tatsächlichen Fahrbetrieb nicht verwendet wurde und der zu einer höheren Abgasrückführungsrate führte. Dies bewirkte dann auf dem Prüfstand eine Verringerung der zu messenden Stickoxidwerte. Dieser Modus I schaltete sich durch die Software ein, wenn das Fahrzeug den sogenannten Neuen Europäischen Fahrzyklus (NEFZ) auf dem Rollenprüfstand durchlief. Sobald dieser Prüfzyklus nicht mehr nachgefahren wurde, was in der Regel im normalen Straßenverkehr und unter tatsächlichen Fahrbedingungen der Fall ist, schaltete die Software in einen Zyklus ("Modus 0"), der zu einem geringeren Partikelausstoß, gleichzeitig aber zu einem erhöhten Stickoxidausstoß führte. Das klägerische Fahrzeug befand sich daher im normalen Straßenverkehr grundsätzlich nicht in dem Modus, mit dem Abgaswerte auf dem Prüfstand gemessen werden (Modus I), sondern in dem Normalmodus (Modus 0). Der Modus I der Software wurde von dem Hersteller des Motors allein zum Zwecke der Erreichung der Abgasgrenzwerte auf dem Prüfstand für die Klassifizierung des Fahrzeuges in die Stufe Euro 5 programmiert. Durch die Verwendung dieser Software wurden die betroffenen Fahrzeuge bzw. der darin verbaute Motor als Euro 5 eingestuft und eine entsprechende Typengenehmigung an den Fahrzeughersteller erteilt. Nachdem diese Tatsache durch Dritte aufgedeckt wurde, veröffentlichte die Beklagte am 22.9.2015 eine Ad-hoc-Mitteilung, der sie unter anderem folgendes erklärte:xxx treibt die Aufklärung von Unregelmäßigkeiten einer verwendeten Software bei Diesel-Motoren mit Hochdruck voran (...)Auffällig sind Fahrzeuge mit Motoren von Typ EA 189 mit einem Gesamtvolumen von weltweit rund 11 Millionen Fahrzeugen. Ausschließlich bei diesem Motorentyp wurden auffällige Abweichungen zwischen Prüfstandwerten und realem Fahrbetrieb festgestellt. xxx arbeitet mit Hochdruck daran, diese Abweichungen mit technischen Maßnahmen zu beseitigen. Das Unternehmen steht dazu derzeit in Kontakt mit den zuständigen Behörden und dem deutschen Kraftfahrtbundesamt.Am 15.10.2015 ordnete das Kraftfahrt-Bundesamt gegenüber der Beklagten den Rückruf von 2,4 Millionen xx-Markenfahrzeugen an und gab der Beklagten auf, die entsprechende Software aus den Fahrzeugen zu entfernen und geeignete Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit zu ergreifen. In diesem Zusammenhang erließ das Kraftfahrtbundesamt einen bestandskräftigen Bescheid, in dem die in diesem Motorentyp verbaute Software als eine unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2 S. 1 VO (EG) 715/2007 i.V.m. Art. 3 Nr. 10 VO (EG) 715/2007 beschrieben wurde.Über diese Thematik wurde in der Folge in Presse, Funk und Fernsehen ausführlich berichtet.Noch im Oktober 2015 erklärte das Kraftfahrtbundesamt den von der xxx zu diesem Zweck vorgeschlagenen Zeit- und Maßnahmenplan für verbindlich. Auf der Grundlage dieser Planung entwickelte die Beklagte als Herstellerin des betroffenen Motors einzelne von ihr als ausreichend angesehene technische Maßnahmen. Diese Vorbereitungsarbeiten waren Ende 2015 abgeschlossen. Zu diesem Zeitpunkt stand fest, dass von der Herstellerin des Motors lediglich ein Softwareupdate aufgespielt werden sollte. Ziel war es dabei, dass dies ohne Beeinträchtigungen der Motorleistung, des Verbrauchs und der Fahrleistung erreicht wird. Ob dies tatsächlich gelungen ist, ist zwischen den Parteien streitig. Mit einem Schreiben des Kraftfahrtbundesamtes vom Juni 2016 bestätigte dieses, dass bezüglich des hier betroffenen Fahrzeuges mit dem dort verbauten Motor die von der Beklagten dem Kraftfahrtbundesamt vorgestellte Änderung der Applikationsdaten des Motors geeignet sind, die Vorschriftsmäßigkeit der genannten Fahrzeuge herzustellen. Das Softwareupdate wurde bei dem streitgegenständliche Fahrzeug installiert.Mit Anwaltsschreiben vom 3.1.2019 (Anlage K 20 im Anlagenband) forderte der Kläger, die Beklagte zur Stellungnahme und Anerkennung der hier geltend gemachten Ansprüche bis zum 10.1.2019 auf. Die Beklagte wies dies zurück.Der Kläger ist der Auffassung, die Klage sei zulässig, insbesondere sei das Landgericht Wiesbaden gemäß § 32 ZPO zuständig, da der Kaufvertrag über das streitgegenständliche Fahrzeug in Wiesbaden geschlossen wurde.Der Kläger behauptet und vertritt die Auffassung, dass ihm gegen die Beklagte Schadensersatzansprüche aus § 826 BGB i.V.m. § 31 BGB und §§ 823 Abs. 2, 31 BGB i.V.m. § 263 StGB zustünden.Die sittenwidrige Handlung bestünde darin, dass die Beklagte aus Habgier den Vertrauensverlust der Marktteilnehmer in den Fahrzeugmarkt billigend in Kauf genommen habe. Die eingebaute manipulierte Motorsteuerung sei als unzulässige Abschalteinrichtung zu qualifizieren. Die Herstellung und das Inverkehrbringen eines Motors mit einer solchen rechtswidrigen Abschalteinrichtung allein aus Gewinnstreben stelle eine sittenwidrige Handlung dar. Die schädigende Handlung sei der Beklagten zuzurechnen. Deren Vorstand habe Kenntnis von der Manipulationssoftware gehabt. Die Beklagte bzw. ihr Vorstand habe es zumindest billigend in Kauf genommen, dass ihren Kunden über das Vertriebsnetz von Vertragshändlern und über Tochterunternehmen nicht gesetzeskonforme bzw. mangelhafte Fahrzeuge verkauft und auf diese Weise ein wirtschaftlicher Schaden zugefügt worden sei. Wegen der weiteren Einzelheiten des diesbezüglichen Vortrags wird auf Seite 14 ff. der Klageschrift vom 9.5.2019, Bl. 14 ff. der Akten, Bezug genommen. Der Schaden des Klägers bestünde darin, dass er für den von ihm gezahlten Kaufpreis kein mangelfreies Fahrzeug erhalten habe. Insbesondere führe das von der Beklagten angebotene Software-Update nicht zu einer Reparatur des Fahrzeugs, da die Beklagte für die Wirksamkeit und Unschädlichkeit des Updates keine Garantie übernehme. Vor diesem Hintergrund würde ein potentieller Käufer im Zweifel vom Kauf eines derartigen Fahrzeugs Abstand nehmen. Die betroffenen Fahrzeuge seien auf dem Gebrauchtwagenmarkt nur mit erheblichen Abschlägen zu veräußern. Im Übrigen drohten weiterhin Fahrverbote. Unabhängig davon liege ein Schaden auch darin, dass der Kläger mit einer ungewollten Verpflichtung, nämlich dem Vertragsschluss, belastet sei. Er hätte bei Kenntnis der tatsächlichen Sachlage das Fahrzeug nicht erworben. Der Kläger behauptet weiter, die Beklagte habe ihn über die Gesetzeskonformität des Fahrzeugs getäuscht. Das Inverkehrbringen des Fahrzeugs ohne Hinweis auf den Umstand, dass die gesetzlichen NOX-Werte, die Grundlage der allgemeinen Betriebserlaubnis seien, nur mithilfe einer Abschaltvorrichtung erzielt worden sein, habe dem Kläger vorgespiegelt, dass das streitgegenständliche Fahrzeug die Betriebserlaubnis in einem gesetzeskonformen Zustand erhalten habe. Hierdurch sei bei dem Kläger ein Irrtum erregt worden, der darin bestünde, dass ihm beim Kauf des streitgegenständlichen Fahrzeugs unbekannt gewesen sei, dass das Fahrzeug nicht den gesetzlichen Vorgaben entspreche. Dieser Irrtum sei kausal für die Kaufentscheidung gewesen. Der Kläger ist der Auffassung, vor diesem Hintergrund sei die Beklagte verpflichtet, den von ihm gezahlten Kaufpreis Zug um Zug gegen Rückgabe des streitgegenständlichen Fahrzeugs an ihn zu zahlen. Hierbei sei von dem Kaufpreis kein Nutzungsersatz im Wege des Vorteilsausgleichs abzuziehen. Wegen der weiteren Einzelheiten des diesbezüglichen Vortrags wird auf Seite 33 ff. (Bl. 33 ff.) der Klageschrift Bezug genommen.Der Kläger behauptet weiter, er selber habe zum Zeitpunkt des Abschlusses des Kaufvertrages keine positive Kenntnis davon gehabt, dass das streitgegenständliche Fahrzeug von der rechtswidrigen Software betroffen sei. Er könne frühestens zu dem Zeitpunkt Kenntnis erlangt haben, zu dem er persönlich vom Kraftfahrtbundesamt die entsprechende Information erhalten habe, was erst im Jahr 2016 geschehen sei.Der Kläger beantragt:1. Die Beklagte wird verurteilt, Zug um Zug gegen Herausgabe und Übereignung des Fahrzeugs Marke xxx an die Klagepartei einen Betrag i.H.v. 28.500 € nebst Zinsen hieraus i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.2. Die Beklagte wird verurteilt, die Klagepartei Zinsen i.H.v. 4 % aus 28.500 € seit dem 14.12.2015 bis zu Beginn der Rechtsfähigkeit zu bezahlen.3. Es wird festgestellt, dass sich die Beklagte mit der Annahme der in dem Klageantrag zu 1 genannten Zug-um-Zug-Leistung in Annahmeverzug befindet.4. Die Beklagte wird verurteilt, die Kosten des außergerichtlichen Vorgehens i.H.v. 2077,74 € nebst Zinsen i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklagte beantragt,die Klage abzuweisen.Sie rügt die örtliche Zuständigkeit des Gerichts.Die Beklagte vertritt die Auffassung, dass dem Kläger unter keinem rechtlichen Gesichtspunkt die geltend gemachten Ansprüche zustünden. Eine Täuschung des Klägers sei bereits deshalb ausgeschlossen, weil der Kläger das Fahrzeug erst nach Bekanntwerden der Dieselthematik in Kenntnis der Software und ihrer Funktionsweise erworben habe. Unabhängig davon seien etwaige Ansprüche jedenfalls verjährt.Das Fahrzeug verfüge bereits nicht über eine unzulässige Abschalteinrichtung, da die streitgegenständliche Software nicht auf das Emissionskontrollsystem einwirke und zudem nicht im realen Fahrbetrieb auf das Emissionskontrollsystem wirke. Die Abgasrückführung sei nicht Teil des Emissionskontrollsystems, sondern eine hiervon zu trennende, innermotorische Maßnahme. Auch sei der Wert des Fahrzeuges durch das Softwareupdate nicht gemindert. Das Fahrzeug sei sowohl vor als auch nach dem Softwareupdate technisch sicher und in seiner Gebrauchstauglichkeit nicht eingeschränkt. Das Softwareupdate wirke sich nicht negativ aus, die von der Klägerin behaupteten Beeinträchtigungen seien als pauschale Aussagen "ins Blaue hinein" unbeachtlich. Das Kraftfahrtbundesamt habe die Geeignetheit der geplanten Maßnahmen bestätigt und das Update freigegeben.Die Beklagte habe den Kläger auch nicht getäuscht. Ein vorsätzliches Handeln der Beklagten oder eines ihrer Organe sei nicht dargelegt. Der Kläger sei insoweit vollständig darlegungs- und beweisbelastet. Der damalige Vorstandsvorsitzende bzw. Mitglieder des Vorstandes der Beklagten seien seinerzeit nicht über die Entwicklung und Verwendung der streitgegenständlichen Software in Kenntnis gesetzt worden. Eine Täuschung des Klägers scheide darüber hinaus schon deshalb aus, weil dieser das Fahrzeug erst weit nach Bekanntwerden der "Diesel-Thematik" und insbesondere nach Veröffentlichung der Ad-Hoc-Mitteilung der Beklagten erworben habe. Daher habe er das Fahrzeug in Kenntnis der Software und deren Funktionsweise erworben. Darüber hinaus mangele es jedenfalls an der subjektiven Tatbestandskomponente des Vorsatzes bzw. der Sittenwidrigkeit, nachdem die Beklagte ihren Mitteilungspflichten durch die Veröffentlichung der benannten Ad-Hoc-Mitteilung nachgekommen sei. Dem Kläger sei auch kein Schaden entstanden, jedenfalls beruhe ein solcher nicht kausal auf einer Handlung der Beklagten.Jedenfalls stünde der Beklagten ein Anspruch auf Nutzungsersatz im Rahmen des Vorteilsausgleichs zu. Insoweit sei bei der Berechnung auf eine Gesamtlaufleistung von maximal 250.000 Kilometern abzustellen.Hinsichtlich der weiteren Einzelheiten des Sach- und Streitstandes wird auf das wechselseitige Parteivorbringen nebst Anlagen, sowie auf das Sitzungsprotokoll vom 18.09.2019 verwiesen. 
+				Gründe
+				Die Klage ist zulässig, insbesondere ist das angerufene Gericht gemäß § 32 ZPO örtlich zuständig.In der Sache hat die Klage jedoch insgesamt keinen Erfolg.Der Klageantrag zu 1) ist unbegründet, weil ein Anspruch des Klägers gegen die Beklagte auf Rückabwicklung des Erwerbs des streitgegenständlichen Fahrzeugs bzw. Rückzahlung des Kaufpreises, Zug um Zug gegen Rückgabe des Fahrzeugs unter keinem denkbaren rechtlichen Gesichtspunkt besteht.Da zwischen den Parteien eine vertragliche Beziehung über den Erwerb des Fahrzeugs unstreitig nicht gegeben ist, scheiden vertragliche Anspruchsgrundlagen von vornherein aus. Solche sind von Seiten des Klägers auch nicht vorgebracht, sodass sich weitere Ausführungen dazu erübrigen.In Betracht kämen demgemäß ausschließlich deliktsrechtliche Anspruchsgrundlagen, namentlich § 823 Abs. 1 BGB, §§ 823 Abs. 2 BGB in Verbindung mit § 263 Abs. 1 StGB oder in Verbindung mit §§ 6 Abs. 1, 27 Abs. 1 EG-FGV und § 826 BGB jeweils in Verbindung mit § 31 BGB.Es kann dahingestellt bleiben, ob etwaige Ansprüche verjährt sind, da bereits die jeweils vorausgesetzten Tatbestandsmerkmale nicht erfüllt sind:Ein Anspruch aus § 823 Abs. 2 BGB i.V.m. § 263 StGB scheitert jedenfalls daran, dass die erforderliche Irrtumserregung durch eine Täuschung der Beklagten nicht substantiiert dargelegt worden ist. Die Erregung eines Irrtums ist begrifflich ausgeschlossen, wenn der Kläger bereits Kenntnis von den Tatsachen hatte, über deren Vorliegen er getäuscht worden sein will. Die Kammer ist davon überzeugt, dass der Kläger im Rahmen der umfassenden Berichterstattung ab September 2015 zum Kaufzeitpunkt am 14.12.2015 Kenntnis über den Verbau der streitgegenständlichen Software in den Motoren des Typs EA 189 hatte. Hierbei handelt es sich um unbestritten gebliebenen Beklagtenvortrag. Der Kläger, der obwohl sein persönliches Erscheinen angeordnet war, nicht im Termin erschienen ist, hat lediglich pauschal vorgetragen, dass er bei Kenntnis des Sachverhaltes und der damit verbundenen Risiken für den Fortbestand der Betriebserlaubnis den streitgegenständlichen Kaufvertrag nicht geschlossen hätte. Anhaltspunkte dafür, wie eine solch umfassende, die Öffentlichkeit beherrschende Berichterstattung aller Medienkanale ihn über einen Zeitraum von etwa 3 Monaten nicht erreicht haben soll, trägt er nicht vor. Es liegt jedoch auf der Hand, dass der Kläger zur von ihm behaupteten Erregung eines Irrtums über Tatsachen weiter substantiiert vortragen muss, wenn es um ein die täglichen Nachrichten monatelang beherrschendes Thema geht, das schon nach der Bezeichnung ("Dieselgate", "Diesel-Skandal", "xx-Abgasskandal"), aber auch nach der betroffenen Motorenbauart auch seinen PKW betreffen könnte und worüber sich nach Bekanntwerden aller Lebenserfahrung nach jeder Halter oder Fahrer und jeder potentielle Käufer eines Dieselmodells hinsichtlich seines eigenen Pkws informiert hat (vgl. OLG Braunschweig, Beschluss vom 02.11.2017 - 7 U 69/17). An einem solchen substantiierten Vortrag fehlt es.Auch besteht kein Anspruch aus § 826 BGB. Denn es fehlt an der Sittenwidrigkeit der behaupteten Schädigungshandlung, wenn der Erwerber eines mit der streitgegenständlichen Software ausgestatteten Kfz beim Erwerb von eben diesem Umstand bereits wusste. Auch im Rahmen des § 826 BGB ist von dem nicht substantiiert bestrittenen Vortrag der Beklagten auszugehen, dass der Kläger in den etwa drei Monaten zwischen allgemeinem Bekanntwerden des so genannten Diesel-Skandals im September 2015 und dem Kauf seines Fahrzeugs am 14.12.2015 von der Betroffenheit dieses Fahrzeugs erfahren haben mussEs ist auch kein Schädigungsvorsatz der Beklagten gerade gegenüber Käufern wie dem Kläger dargelegt, wenn sie davon ausgehen konnte, dass er aufgrund der monatelangen Berichterstattung in Presse, Funk und Fernsehen bereits von der Problematik des zu erwerbenden Fahrzeugs erfahren haben musste. Darüber hinaus hat die Beklagte mit der Ad-hoc-Mitteilung vom 22.09.2015 ihren Veröffentlichungspflichten ausreichend Genüge getan. Eine anderweitige Information des Klägers, welcher zum damaligen Zeitpunkt noch nicht einmal als potentieller Kunde der Beklagten oder einer anderen Person hinsichtlich des Erwerbs eines von der Beklagten hergestellten Fahrzeugs bekannt hätte sein können, war nicht erforderlich und auch nicht umsetzbar. Auf Erwerber eines betroffenen Fahrzeugs nach Bekanntwerden der Abgasproblematik kann sich der Schädigungsvorsatz naturgemäß deshalb nicht erstreckt haben, weil ein solcher die Unbekanntheit der Umschaltung der Abgasrückführung vorausgesetzt hätte (vgl. OLG Braunschweig, Beschluss vom 02.11.2017 - 7 U 69/17).§ 823 Abs. 1 BGB scheidet schon deshalb als Anspruchsgrundlage aus, weil eine Eigentumsverletzung anerkanntermaßen durch den Erwerb einer (vermeintlich) mangelhaften Sache regelmäßig nicht begründet wird (Sprau, in: Palandt, BGB, 77. Aufl. 2018, § 823 Rn. 178). Es liegt hier auch kein Fall des sogenannten weiterfressenden Mangels vor. Denn die eingebaute Software ist jedenfalls nicht dazu geeignet, das Fahrzeug zu zerstören oder auch nur über den mit der Software möglicherweise verbundenen Mangel hinaus weiter zu beschädigen.Es ist anerkannt, dass die Haftung nach § 823 Abs. 1 BGB zur Voraussetzung hat, dass das Integritätsinteresse und das Nutzungs- und Äquivalenzinteresse nicht stoffgleich sind. Denn das Deliktsrecht schützt nicht das Interesse an einer ordnungsgemäßen Vertragserfüllung (BGH, Urteil vom 28. Oktober 2010 - VII ZR 172/09 -, Rn. 26, juris). Eine Haftung nach § 823 Abs. 1 BGB bestünde daher nur dann, wenn das eingebaute fehlerhafte Teil zu einer Funktionsstörung der Gesamtsache führt. Dass die streitgegenständliche Software dazu führt, dass das Fahrzeug beschädigt oder zerstört wird, ist klägerischer Seite nicht dargetan und nicht ersichtlich, ebenso wenig wie, dass dies durch einen etwaigen Austausch der Software eintreten würde.Zu einem etwaigen Schaden dem Grunde und der Höhe nach sowie der etwaigen Anrechnungen von Nutzungen bedarf es mangels Entscheidungserheblichkeit keiner weiteren Ausführungen.Mangels Hauptschuld der Beklagten ist dem Kläger auch der geltend gemachte Zinsanspruch gemäß §§ 291, 288 Abs. 1 bzw. 286, 288, 849 BGB zu versagen.Der unbedingt gestellte Klageantrag zu 2) ist ebenso unbegründet, weil der Kläger gegen die Beklagte keinen Anspruch auf Erstattung der vorgerichtlichen Anwaltskosten geltend machen kann. Ein Anspruch nach § 249 BGB scheitert bereits, wie oben ausgeführt, an dem Vorliegen eines Hauptanspruches dem Grunde nach. Ein Anspruch nach §§ 280 Abs. 1, 2, 286 Abs. 1 BGB scheitert ebenso an dem Vorliegen eines Hauptanspruches dem Grunde nach sowie an der fehlenden Darlegung eines Verzugsschadens.Der unbedingt gestellte Klageantrag zu 3) ist ebenfalls unbegründet, weil die Beklagte mangels bestehender Leistungspflicht ihrerseits nicht in Annahmeverzug gemäß § 293 BGB geraten konnte.Der hilfsweise gestellte Klageantrag zu 4) ist zuletzt auch unbegründet, weil dem Kläger kein Anspruch gegen die Beklagte auf Schadensersatz zusteht. Insoweit kann hinsichtlich der Begründung vollumfänglich auf obige Ausführungen verwiesen werden.Der Kläger hat als unterlegene Partei die Kosten des Rechtsstreits gemäß § 91 Abs. 1 ZPO zu tragen.Die Entscheidung über die vorläufige Vollstreckbarkeit ergibt sich aus § 709 S. 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2333856.html (https://oj.is/2333856)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

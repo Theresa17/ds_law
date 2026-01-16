@@ -1,0 +1,137 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG München IIRechtsprechungEndurteil vom 05.07.2019 - 10 O 3119/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG München II, Endurteil vom 05.07.2019 - 10 O 3119/18
+                      m. Fundstelle
+                      LG München II, Endurteil vom 05.07.2019 - 10 O 3119/18 = openJur 2022, 12837
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG München II, Endurteil vom 05.07.2019 - 10 O 3119/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 12837
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				 
+				Tatbestand
+				Die Parteien streiten im Zusammenhang mit dem sog. "VW-Abgasskandal" um die Rückabwicklung eines zwischen ihnen geschlossenen Kaufvertrages über einen gebrauchten PKW AUDI A4.Der Kläger kaufte das streitgegenständliche Fahrzeug, einen AUDI A4, 3,0 l, 200 kW, 6-Zylinder-Dieselmotor, EU6-Motor, am 08.08.2017 von der Beklagten zu einem Kaufpreis von 45.500,00 € (Klägervortrag) oder 38.235,29 € (Beklagtenvortrag) mit einem Kilometerstand von 11.300 km. Das Fahrzeug wurde am 14.08.2017 an den Kläger übergeben. Der Kläger nutzt das Fahrzeug seitdem bis heute.Mit anwaltlichem Schreiben vom 13.08.2018 (Anlage K 7) hat der Kläger gegenüber der Beklagten den Rücktritt vom Kaufvertrag erklärt und sie zur Zahlung eines Betrages von 45.500,00 € Zug-um-Zug gegen Rückübereignung des streitgegenständlichen Fahrzeugs bis zum 27.08.2018 aufgefordert. Ebenfalls unter dem 13.08.2018 hat der Kläger die vorliegende Klage gegen die Beklagte bei Gericht eingereicht (Bl. 1 d.A.).Der Kläger trägt vor, dass das Fahrzeug mangelhaft sei. Es halte die Abgasnorm Euro 6 nur unter den "bekannten rechtswidrigen Bedingungen", nämlich unter Verwendung einer illegalen Abschalteinrichtung, im Prüfbetrieb ein. In dem Motortyp des streitgegenständlichen hätten die Volkswagen  AG und ihre 100%-ige Tochter AUDI AG in der Motorsteuerung zwei illegale Abschalteinrichtungen verwendet, um die geltenden Abgasnormen zu umgehen. Die von der AUDI AG installierte Software, die für die Abgaskontrollanlage zuständig sei, erkenne die Prüfungssituation. Zum einen springe im Prüfmodus NFEZ eine sogenannte schadstoffmindernde Aufwärmstrategie an, die überwiegend im realen Verkehr nicht aktiviert sei. Zudem sei eine Strategie eingesetzt worden, die die Nutzung von AdBlue unzulässig einschränke. Die bedeute, dass die NOx-Emissionen im normalen Betrieb erheblich höher seien. Der Kläger bezieht sich hierzu auf einen auszugsweise als Anlage K 3 vorgelegten Internetausdruck, welcher eine Pressemitteilung des Kraftfahrt-Bundesamtes (KBA) vom 08.12.2017 sei.Das KBA habe daher am 08.12.2017 einen verpflichtenden Rückruf der betroffenen Fahrzeuge angeordnet. Die AUDI AG sei sodann aufgefordert worden, die illegale Abschalteinrichtung bei den betroffenen Fahrzeugen zu entfernen und die Gesetzesmäßigkeit herzustellen.Das betroffene Fahrzeug sei aufgrund der Typenzulassung in die zum Zeitpunkt der Erstzulassung einzuhaltende Abgasnorm Euro 6 eingestuft worden. Es könne aufgrund der massiv erhöhten Emissionen nach der maßgeblichen VO (EG) Nr. 715/2007 vom 20.07.2007 nicht in die Abgasnorm EU 6 eingestuft werden, da es die dort verlangten gesetzlichen Anforderungen an die NOx-Ausstoßwerte tatsächlich nicht erfülle bzw. nur unter Einsatz der unerlaubten Abschalteinrichtung.Der Volkswagen  AG habe spätestens seit Ende 2015 bekannt sein müssen, dass die "nunmehr vom KBA zurückgerufenen" Fahrzeuge eine illegale Abschalteinrichtung beinhalteten.Die Beklagte selbst biete keine Nachbesserung an. Die Geschädigten hätten lediglich über das KBA über die Betroffenheit ihres Fahrzeugs erfahren müssen. Der Rückruf müsse auch nicht vom Verkäufer durchgeführt werden, sondern nur von der AUDI AG. Diese sei vom KBA verpflichtet worden. Nur die AUDI AG könne den Rückruf durchführen.Auch wenn zwischenzeitlich für das streitgegenständliche Fahrzeug das Software-Update zur Verfügung stehen sollte, sei die Teilnahme an dem Rückruf für den Kläger unzumutbar. Das Update sei nicht geeignet, den bestehenden Mangel der Nichteinhaltung der Abgasnorm Euro 6 zu beseitigen, sondern es sei zu befürchten, dass mit der Aufstellung der Software neue Mängel entstehen könnten und der Verbleib eines Minderwertes zu erwarten sei. Es führe zudem auch nicht zu einer Verbesserung des Stickoxid-Ausstoßes im Fahrbereich. Die Klagepartei nimmt insoweit Bezug auf Messungen, welche das Emissions-Kontroll-Institut der Deutschen Umwelthilfe e.V. zu einem VW Golf IV, 1,6 TDI vor und nach dem Update an einem Euro-5-PKW im realen Fahrbetrieb durchgeführt habe. Es sei davon auszugehen, dass auch an dem streitgegenständlichen Fahrzeug durch das Update keine Verbesserung eintreten werde.Die Setzung einer Frist zur Nacherfüllung gegenüber der Beklagten sei dem Kläger unzumutbar.Dem Kläger sei es bei seiner Kaufentscheidung auf die Zuordnung des Fahrzeugs zu der Schadstoffklasse Euro 6 angekommen. Aufgrund der Herstellerverlautbarungen sei er davon ausgegangen, dass bei einem Fahrzeug des streitgegenständlichen Typs der NOx-Ausstoß innerhalb der nach der Euro-6-Norm einzuhaltenden Bestimmungen liege. Mit ihrem heutigen Wissen hätte der Kläger das streitgegenständliche Fahrzeug nach seinem Vortrag nicht erworben.Der Kaufpreis für das Fahrzeug habe 45.500,00 € betragen. Dieser sei von der Beklagten im Rahmen der begehrten Rückabwicklung abzüglich einer Nutzungsentschädigung an den Kläger zurückzuerstatten, Zug-um-Zug gegen Rückübereignung des Fahrzeugs an die Beklagte.Der Kläger beantragt,Die Beklagte wird verurteilt, an die Klagepartei € 41.607,00 nebst Zinsen hier aus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Erhebung der Klage zu bezahlen, Zug-um-Zug gegen Übereignung und Herausgabe des PKW AUDI A4, FIN ...45.Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des im Klageantrag Ziffer 1. genannten PKW im Annahmeverzug befindet.Die Beklagten werden verurteilt, die der Klagepartei durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 2.099,76 € nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Erhebung der Klage zu bezahlen.Die Beklagten beantragen jeweilsKlageabweisung.Die Beklagte trägt vor, der Kläger stütze seine angeblichen Ansprüche ganz überwiegend auf Sachverhalte, die mit dem streitgegenständlichen Fahrzeug in keinerlei Zusammenhang stünden. Das streitgegenständliche Fahrzeug weise nicht die aus EA-189-Motoren bekannte Umschaltlogik auf. Sämtlicher Vortrag der Klagepartei, welcher sich auf diese Problematik im Zusammenhang mit diesen Motorentypen (EA 189) beziehe, sei daher für den vorliegenden Rechtsstreit irrelevant.Der Kaufpreis für das streitgegenständliche Fahrzeug habe lediglich 38.235,29 € betragen.Das streitgegenständliche Fahrzeug mit seinem 3,0-Liter-Sechszylinder-Dieselmotor, welcher den Anforderungen der EU6-Abgasnorm entspreche, enthalte ein den Prüfstand erkennende und die NOx-Emissionen durch unterschiedliche Betriebsmodi der Abgasrückführung (AGR) optimierende Software, wie sie in dem EA189 (EU5)-Motor zum Einsatz komme, gerade nicht. Gegenstand des sogenannten "Abgasskandals" seien jedoch Fahrzeuge mit EU5-Dieselmotoren der Größen 2 Liter, 1,6 Liter und 1,2 Liter Hubraum. Bei diesen Motoren handele es sich um den sogenannten EA189 (EU5)-Motor der Volkswagen AG, der als Vier- (2 Liter und 1,6 Liter Hubraum) und Dreizylindermotor (1,2 Liter) hergestellt worden sei. Dieser Motor komme im streitgegenständlichen Fahrzeug aber gar nicht zum Einsatz, sondern in diesem sei vielmehr ein Sechszylindermotor mit 3-Liter-Hubraum verbaut.Das streitgegenständliche Fahrzeug sei nicht mangelbehaftet. Es sei auch nicht von einem Rückruf des KBA betroffen. Dementsprechend würden von der Herstellerin des Fahrzeugs, der AUDI AG, für das Fahrzeug auch keine Maßnahmen angeboten. Im Übrigen sei das Fahrzeug des Klägers weiterhin technisch sicher und uneingeschränkt gebrauchstauglich. Die Behauptung des Klägers, in dem streitgegenständlichen Fahrzeug würde eine Aufwärmstrategie zum Einsatz kommen, die nur auf dem Rollenprüfstand funktionieren würde, nicht jedoch auf der Straße, sei falsch. Es werde auch keine Strategie eingesetzt, die die Nutzung von AdBlue unzulässig einschränke.Ein Rücktritt des Klägers sei im Übrigen auch wegen fehlender Nachfristsetzung ausgeschlossen. Er habe auch keine Umstände vorgetragen, die eine Fristsetzung entbehrlich machen würden. Die Voraussetzungen hierfür lägen auch nicht vor.Höchst vorsorglich trägt die Beklagte vor, dass der Kläger im Falle einer Rückabwicklung des Kaufvertrages zum Nutzungsersatz gegenüber der Beklagten verpflichtet sei. Die Gesamtlaufleistung für das streitgegenständliche Fahrzeug schätzt die Beklagte insoweit auf 250.000 km. Den konkreten Kilometerstand zum Zeitpunkt des Schlusses der mündlichen Verhandlung müsse der Kläger vortragen.Wegen der Einzelheiten des Vorbringens der Parteien wird zur Ergänzung des Sachverhalts Bezug genommen auf sämtliche gewechselten Schriftsätze nebst Anlagen sowie sonstige Aktenteile. Hinsichtlich des Inhalts der mündlichen Verhandlung wird Bezug genommen auf die Sitzungsniederschrift vom 22.05.2019 (Bl. 64/66 d.A.). Beweis wurde nicht erhoben. 
+				Gründe
+				I. Die zulässige Klage ist unbegründet.1. Die Klage ist zulässig.Das Landgericht München II ist sachlich nach §§ 23 Nr. 1, 71 Abs. 1 GVG und örtlich gemäß §§ 12, 17 ZPO zuständig, da der Streitwert über 5.000,00 € beträgt und die Beklagte ihren Sitz in 8. E. hat.2. Die Klage ist jedoch unbegründet.Der Kläger hat gegen die Beklagte keinen Anspruch auf Rückzahlung des Kaufpreises (abzüglich eines Nutzungsersatzes in Höhe) Zug-um-Zug gegen Rückübereignung des streitgegenständlichen PKWs. Ein solcher Anspruch folgt vorliegend weder aus §§ 346 ff., 323, 437 Nr. 2, 434 BGB noch aus einem anderen Rechtsgrund.2.1 Zwischen dem Kläger und der Beklagten wurde unstrittig ein wirksamer Kaufvertrag über das streitgegenständliche Fahrzeug geschlossen, § 433 BGB.2.2 Der Kläger hat mit anwaltlichem Schreiben vom 13.08.2018 (Anlage K 7) den Rücktritt vom Kaufvertrag gegenüber der Beklagten erklärt, § 349 BGB.2.3 Dass dem Kläger ein Rücktrittsrecht zusteht, hat er aber weder hinreichend schlüssig und substantiiert dargelegt noch steht dies zur Überzeugung des Gerichts fest.Es steht insoweit bereits nicht zur Überzeugung des Gerichts fest, dass das hier im konkreten Einzelfall streitgegenständliche Fahrzeug überhaupt mangelhaft i.S.d. § 434 BGB ist.Dies ergibt sich bereits nicht hinreichend schlüssig aus dem eigenen Sachvortrag der Klagepartei, insbesondere auch unter Berücksichtigung jener Angaben, die der Kläger im Rahmen seiner informatorischen Anhörung vor Gericht ergänzend zur Aufklärung des Sachverhalts gemacht hat (§ 141 Abs. 1 ZPO). Der Kläger hat schriftsätzlich vortragen lassen, dass sein Fahrzeug von einer Rückrufaktion betroffen sei und sich insofern auf den als Anlage K 3 vorgelegten Internetausdruck berufen, welcher eine Pressemitteilung des KBA wiedergebe. Konkret zu diesem Punkt vom Gericht im Termin am 22.05.2019 befragt, gab der Kläger hierzu jedoch an, er selbst habe zu keinem Zeitpunkt von irgendjemandem ein Schreiben erhalten, wonach sein Fahrzeug von einer Rückrufaktion betroffen wäre (s. Seite 2 des Sitzungsprotokolls, Bl. 65 d.A.). Die eigenen Angaben des vom Gericht persönlich angehörten Klägers stehen insoweit also in einem offensichtlichen Widerspruch zu dem zuvor schriftsätzlich vorgebrachten Vortrag. Die als Anlage K 3 im Form eines Internetausdrucks vorgelegte Pressemitteilung des KBA datiert bereits vom 23.01.2018, die Anhörung des Klägers vor Gericht erfolgte am 22.05.2019, so dass nach allgemeiner Lebenserfahrung davon auszugehen ist, dass der Kläger in diesem langen Zeitraum von weit über einem Jahr ein entsprechendes offizielles Rückrufschreiben erhalten hätte, wenn das hier streitgegenständlichen Fahrzeug konkret von einer Rückrufaktion betroffen wäre. Überdies decken sich diese eigenen Angaben des persönlich angehörten Klägers mit jenem Vortrag der Beklagten aus der Klageerwiderung, dort Seiten 5/6 (Bl. 34/35 d.A.), wonach das streitgegenständliche Fahrzeug überhaupt nicht von einer Rückrufaktion des KBA aufgrund seines Emissionsverhaltens betroffen sei. Die Beklagte hat hierzu einen Auszug aus der Datenbank des Herstellers ganz konkret zu dem hier streitgegenständlichen Fahrzeug unter Angabe der Fahrgestellnummer vorgelegt (s. Seite 6 der Klageerwiderung, Bl. 35 d.A.). Allein auf Grundlage des vom Kläger als Anlage K 3 vorgelegten Internetauszugs und des im Übrigen sehr unsubstantiierten Vortrages zu der (nur schriftsätzlich) behaupteten Betroffenheit von einer Rückrufaktion seitens des KBA steht daher für das Gericht nicht fest, dass das streitgegenständliche Fahrzeug überhaupt von einer solchen betroffen ist; die eigenen Angaben des Klägers legen überdies gerade das Gegenteil nahe.Der Vortrag der Klagepartei zur behaupteten Mangelhaftigkeit des Fahrzeugs ist zudem auch im Übrigen vollkommen unsubstantiiert und auch über weite Strecken des schriftsätzlichen Vortrages unschlüssig, soweit dort umfangreiche Ausführungen zu dem Motortyp EA189 EU5 gemacht werden. Denn die beklagte Partei hat bereits mit der Klageerwiderung konkret und substantiiert vorgetragen, dass in dem hier streitgegenständlichen Fahrzeug, einem AUDI A4, 3,0 l, 200 kW, 6-Zylinder-Dieselmotor, EU6-Motor, der aus einer Vielzahl von Verfahren im Zusammenhang mit dem sogenannten "VW Abgasskandal" hinlänglich bekannte Motortyp EA189 (EU5), überhaupt nicht verbaut sei. Die beklagte Partei hat mit der Klageerwiderung auch konkret vorgetragen, dass es sich beim dem vorliegenden Fahrzeug des Klägers gerade nicht um ein Fahrzeuge mit EU5-Dieselmotor der Größen 2 Liter, 1,6 Liter oder 1,2 Liter Hubraum handele; bei diesen Motoren handele es sich um den sogenannten EA189 (EU5)-Motor der Volkswagen  AG, der als Vier- (2 Liter und 1,6 Liter Hubraum) und Dreizylindermotor (1,2 Liter) hergestellt worden sei. Dieser Motor komme im streitgegenständlichen Fahrzeug aber gar nicht zum Einsatz, sondern in diesem sei vielmehr ein Sechszylindermotor mit 3-Liter-Hubraum verbaut. Die Klagepartei ist auf diese seitens der Beklagten sehr konkret vorgetragenen Einwände bzw. Behauptungen zu den tatsächlichen Umständen jedoch weder im Rahmen ihrer Replik noch im weiteren Prozessverlauf eingegangen. Die umfangreichen Ausführungen in der Replik (Bl. 43 ff. d.A.) gehen vielmehr ersichtlich an dieser im konkreten Einzelfall vorgetragenen Abweichung zu den aus einer Vielzahl von Verfahren im Zusammenhang mit dem sogenannten "VW Abgasskandal" bekannten Sachverhaltskonstellationen vollkommen vorbei, wenn dort auf Rechtsprechung in "gleichgelagerten EA-189-Verfahren" Bezug genommen wird. Um einen "gleichgelagerten Fall" handelt es sich ausgehend von dem substantiierten Vortrag der Beklagten ersichtlich vorliegend gerade nicht. Nachdem die Klagepartei zu dieser beklagtenseits vorgetragenen Abweichungen in tatsächlicher Hinsicht im vorliegenden Fall jedoch überhaupt nicht bzw. jedenfalls nicht annährend substantiiert vorgetragen hat, vermag das Gericht bereits aus dem eigenen Vortrag nicht schlüssig abzuleiten, dass das hier streitgenständliche Fahrzeug überhaupt mit einem Motor des Typs EA-189 ausgestattet ist. Feststellungen dazu, inwieweit Fahrzeuge, in welchen dieser Motortyp verbaut ist, als mangelhaft i.S.d. § 434 BGB anzusehen sind, waren daher hier mangels Entscheidungserheblichkeit für den konkret vom Gericht zu beurteilenden Sachverhalt nicht zu treffen.Der Vortrag der Klagepartei zu einer behaupteten Mangelhaftigkeit des streitgegenständlichen Fahrzeugs war auch im Übrigen sehr unsubstantiiert. Die Behauptung, das Fahrzeug halte die Abgasnorm Euro 6 nur unter den "bekannten rechtswidrigen Bedingungen", nämlich unter Verwendung einer illegalen Abschalteinrichtung, im Prüfbetrieb ein, lässt bereits vollkommen offen, welche "bekannten rechtswidrigen Bedingungen" die Klagepartei hiermit meint. Im Zusammenhang mit ihrem weiteren schriftsätzlichen Vortrag, insbesondere unter Berücksichtigung der zahlreichen in Bezug genommen Rechtsprechung zu Fällen mit EA-189-(EU5)-Motoren, kann das Gericht insoweit nur mutmaßen, dass die in jenen Fällen jeweils problematisierte Motorsteuerungssoftware der EA-189-(EU5)-Motoren gemeint sein sollten. Dass hier aber gerade eine davon abweichende Sachverhaltskonstellation vorliegt, wurde soeben bereits ausgeführt.Soweit die Klagepartei ferner vorgetragen hat, in dem Motortyp des streitgegenständlichen Fahrzeugs hätten die Volkswagen  AG und ihre 100%-ige Tochter AUDI AG in der Motorsteuerung zwei illegale Abschalteinrichtungen verwendet, um die geltenden Abgasnormen zu umgehen, hat die Beklagte auch hierzu substantiierten gegenteiligen Vortrag vorgebracht. Auch hierauf ist die Klagepartei aber weder in der Replik noch im sonstigen Prozessverlauf eingegangen, insbesondere auch nicht zur der konkreten Behauptung der Beklagten, dass in dem streitgegenständlichen Fahrzeug überhaupt keine AdBlue-Technologie Anwendung finde.Schließlich genügt auch nicht die bloße Bezugnahme auf einen auszugsweise als Anlage K 3 vorgelegten Internetausdruck, welcher eine Pressemitteilung des Kraftfahrt-Bundesamtes darstelle, und die damit verbundene Behauptung, dass das Fahrzeug des Klägers von einer Rückrufaktion betroffen sei, den Anforderungen an einen annährend substantiierten Sachvortrag zu einer behaupteten Mangelhaftigkeit des hier im konkreten Einzelfall streitgegenständlichen Fahrzeugs. Dies gilt umso mehr unter Berücksichtigung des bereits oben Ausgeführten, wonach auf Grundlage der eigenen Angaben des Klägers und dem diesbezüglichen Vortrag der Beklagten in der Klageerwiderung davon auszugehen ist, dass das streitgegenständliche Fahrzeug tatsächlich überhaupt nicht von einer Rückrufaktion betroffen war oder ist.Konkrete Anhaltspunkte für die Annahme einer Mangelhaftigkeit des hier streitgegenständlichen Fahrzeugs kann das Gericht daher nicht feststellen. Insbesondere kann - anders als etwa in jenen Fällen, in denen jeweils der Motortyp EA189 (EU5) streitgegenständlich war - das Gericht im vorliegenden Fall gerade keine Mangelhaftigkeit des Fahrzeugs nach § 434 Abs. 1 Satz 2 Nr. 2 BGB annehmen, wonach ein Sachmangel dann vorliegt, wenn die Kaufsache nicht die Beschaffenheit aufweist, die bei Sachen gleicher Art üblich ist und die vom Käufer nach Art der Sache erwartet werden kann.2.4 Auf die Frage, ob ein Rücktritt des Klägers mangels vorheriger Fristsetzung zur Nacherfüllung ausscheidet, kam es folglich nicht entscheidungserheblich an. Nur am Rande sei daher hierzu festgestellt, dass das Gericht auch insoweit dem klägerischen Sachvortrag an keiner Stelle konkret vorgetragene Umstände entnehmen kann, aufgrund derer es dem Kläger vorliegend unzumutbar gewesen sein soll, der Beklagten vor Erklärung des Rücktritts zunächst noch eine Frist zur Nachbesserung zu setzen. Die außergerichtliche Rücktrittserklärung des Klägers gegenüber der Beklagten erfolgte hier vorliegend vielmehr unter demselben Datum (13.08.2019) wie die Einreichung der Klage beim Landgericht München II.2.5 Mangels Entscheidungserheblichkeit konnte hier folglich auch die Frage dahinstehen, ob ein Rücktritt des Klägers war nach § 323 Abs. 5 S. 2 BGB ausgeschlossen war.2.6 Gleiches gilt hinsichtlich eines im Falle einer Rückabwicklung des Kaufvertrages vom Kläger an die Beklagte zu leistenden Nutzungsersatzes (§ 346 Abs. 1, Abs. 2 S. 1 Nr. 1 BGB). Mangels Rückabwicklungsschuldverhältnis scheidet ein solcher Anspruch der Beklagten gegen die Klägerin ebenfalls aus.3. Mangels Anspruchs des Klägers gegen die Beklagte auf Rückabwicklung des Kaufvertrages war auch der Klageantrag zu II. als unbegründet abzuweisen.4. Ein Anspruch des Klägers auf die mit dem Klageantrag zu III. als Nebenforderung geltend gemachten außergerichtlichen Rechtsanwaltskosten scheitert an dem Vorliegen eines Anspruchs auf die Hauptforderung. Gleiches gilt in Bezug auf die Zinsbegehren (Klageantrag zu I. und III.).II. 1. Die Kostenentscheidung folgt aus § 91 Abs. 1 ZPO.2. Der Ausspruch über die vorläufige Vollstreckbarkeit stützt sich auf § 709 S. 1 und 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2394532.html (https://oj.is/2394532)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

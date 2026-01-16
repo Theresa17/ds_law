@@ -1,0 +1,144 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BochumRechtsprechungUrteil vom 29.07.2019 - 1 O 428/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bochum, Urteil vom 29.07.2019 - 1 O 428/18
+                      m. Fundstelle
+                      LG Bochum, Urteil vom 29.07.2019 - 1 O 428/18 = openJur 2021, 23120
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bochum, Urteil vom 29.07.2019 - 1 O 428/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 23120
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							nachfolgend: Az. 19 U 715/19
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrages.Der Streitwert wird auf 10.400,- EUR festgesetzt. 
+				Tatbestand
+				Der Kläger begehrt mit der vorliegenden Klage die Zahlung von Schadensersatz.Der Kläger erwarb am 13.02.2013 einen PKW des Typs B bei der Firma U KG in I zum Kaufpreis von 15.100,00 EUR. Der PKW hatte im Zeitpunkt des Erwerbs seitens des Klägers einen km-Stand von 33.803 km.Das Fahrzeug erlitt am 27.03.2018 unfallbedingt einen Totalschaden. Der km-Stand des PKW betrug zu diesem Zeitpunkt 114.556 km.Der Wiederbeschaffungswert des Fahrzeugs betrug 9.550,- EUR.Der Kläger begehrt mit der vorliegenden Klage von der Beklagten die Rückzahlung des Kaufpreises von 15.100,- EUR zzgl. behaupteter Aufwendungen auf das Fahrzeug in Höhe von 4.851,30 EUR abzüglich des Wiederbeschaffungswerts des Fahrzeugs von 9.550,- EUR, wobei er von dieser behaupteten Gesamtforderung von rechnerisch 10.401,30 EUR abgerundet lediglich insgesamt 10.400,- EUR geltend macht.Das Fahrzeug ist mit einem Dieselmotor mit der Bezeichnung EA 189 ausgestattet.Es wurde aufgrund einer entsprechenden Typgenehmigung nach EU5 zugelassen.Zur Erlangung der Typengenehmigung sind gesetzlich vorgeschriebene Testlaufs durchzuführen und dabei gewisse Grenzwerte beim Stickoxidausstoß einzuhalten.Bestandteil der Abgasbehandlung bei Fahrzeugen, die mit einem Dieselmotor ausgerüstet sind, ist die Abgasrückführung, die kein Teil der Abgasreinigungsanlage ist. Während des Verbrennungsprozesses wird eine Mischung aus Luft und Kraftstoff verbrannt. Aus der Reaktion von Stickstoff und Sauerstoff entstehen Stickoxide. Diese werden bei der Abgasrückführung aus dem Auslassbereich des Motors über ein Abgasrückführungsventil in den Ansaugtrakt des Motors zurückgeleitet, um einen Teil der Frischluft zu ersetzen. Während dieses Vorgangs verlassen die rückgeführten Gase den Motor nicht.Bei diesem Vorgang entscheidet eine - auch in dem streitgegenständlichen Fahrzeug verbaute - Software darüber, welcher von zwei verschiedenen Abgasrückführungs-Modi zur Anwendung kommt. Bei Modus 1 kommt es zu einer relativ hohen Abgasrückführungsrate, während die Abgasrückführungsrate beim Modus 0 geringer ist. Unter realen Fahrbedingungen im Straßenverkehr wird das Fahrzeug im Abgasrückführungs-Modus 0 betrieben. Der Modus 1 findet dagegen ausschließlich im Prüfstandsverfahren Anwendung. Die verbaute Software erkennt automatisch, ob sich das Fahrzeug auf dem Prüfstand oder im Straßenbetrieb befindet, indem hohe Raddrehzahlen ohne Bewegung des Fahrzeugs erkannt werden.Die Beklagte ist die Herstellerin des Fahrzeugs und Tochter des W-Konzerns, welcher den streitgegenständlichen Motor entwickelt hat.Das Kraftfahrt-Bundesamt (KBA) hat die Beklagte verpflichtet, die entsprechende Software aus allen Fahrzeugen zu entfernen und dies durch Beibringung geeigneter Nachweise zu belegen.Für den klägerischen Fahrzeugtyp bestätigte das KBA mit Datum vom 20.06.2016, dass die Beklagte die geforderten Nachweise erbracht habe. Es wurde bestätigt, dass das von der Beklagten zur Lösung eingesetzte Software-Update geeignet ist, die Vorschriftsmäßigkeit der genannten Fahrzeuge wieder herzustellen.Das von der Beklagten angebotene Software-Update wurde am Fahrzeug des Klägers am 01.06.2017 aufgespielt.Die vorgerichtlichen Rechtsanwaltskosten des Klägers wurden durch seine Rechtsschutzversicherung an seinen Prozessbevollmächtigten angewiesen.Der Kläger behauptet, bei Erwerb des Fahrzeugs sei er von einem technisch hochwertigen, schadstoffarmen Fahrzeug ausgegangen.Die betroffenen Fahrzeuge hätten eine Wertminderung von mindestens 30 % erlitten.Hätte er zum Zeitpunkt des Abschlusses des Kaufvertrages von der Software Kenntnis gehabt, hätte er den Kaufvertrag nicht geschlossen.Er behauptet, der Vorstand der Beklagten habe Kenntnis von der Manipulation gehabt.Er behauptet, er habe an dem Fahrzeug Nachrüstungen in Höhe von insgesamt 4.851,30 EUR vorgenommen.Hilfsweise hat er die Klageforderung zunächst in Höhe von 7.893,00 EUR damit begründet, dass das Fahrzeug bei Erwerb allenfalls einen um 30 % geminderten Wert gehabt habe. Durch Überzahlung des Fahrzeugs sei ihm insoweit ein Schaden in Höhe von 4.485,- EUR entstanden. Zudem hätte er in ein solches Fahrzeug keine Aufwendungen in der von ihm behaupteten Höhe investiert. Bei Verkauf des Fahrzeugs sei ihm anteilig ein überproportionaler Wertverlust von 75 % entstanden. Insoweit ergebe sich ein Betrag von 3.363,00 EUR.Mit anwaltlichem Schriftsatz vom 11.04.2019 hat er im Hinblick auf die Hilfsbegründung des Schadens behauptet, sofern er von der verbauten Software gewusst hätte, hätte er ein vergleichbares Fahrzeug der Marken S, Q, L, I1, P oder U erworben. Solche Fahrzeuge würden auf dem Gebrauchtwagenmarkt mindestens 30 % unter dem Kaufpreis gehandelt, den er für das streitgegenständliche Fahrzeug gezahlt habe. Aufgrund des geringeren Einstandspreises hätte er in einem solchen Fall auch während der Besitzzeit einen geringeren Wertverlust erlitten. Bei einer Gesamtbetrachtung hätte sich seine wirtschaftliche Lage, bezogen auf den bezahlten Kaufpreis und seine behaupteten Aufwendungen, 30 % günstiger dargestellt.Der Kläger beantragt,die Beklagte zu verurteilen, an ihn 10.400,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 22.02.2013 zu zahlen,die Beklagte weiter zu verurteilen, an ihn außergerichtliche Rechtsanwaltskosten in Höhe von 958,19 € zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Sie ist der Ansicht, der Pkw des Klägers sei nicht mangelhaft, der Gebrauch des Fahrzeugs sei nicht beeinträchtigt. Die EG-Typgenehmigung sei unverändert wirksam.Sie bestreitet die von dem Kläger behaupteten Aufwendungen auf das Fahrzeug. Sie ist zudem der Ansicht, dem Kläger stehe insoweit kein Aufwendungsersatzanspruch zu.Die für das Fahrzeug bestehende EG-Typengenehmigung sei unverändert wirksam. Das Fahrzeug könne nach wie vor im Straßenverkehr belassen und verwendet werden.Sie bestreitet, dass der Kläger sich vor dem Kauf des Fahrzeugs eine hinreichend detaillierte Vorstellung zu dessen Schadstoffausstoß gebildet hat.Sie bestreitet zudem die Aktivlegitimation des Klägers im Hinblick auf die geltend gemachten Rechtsanwaltskosten.Sie behauptet, das Update habe keinerlei nachteilige technische Auswirkungen.Die vom Kläger vorgetragene Wertminderung bestreitet die Beklagte.Die Beklagte behauptet, eine Täuschung des Klägers habe nicht stattgefunden. Es sei unzutreffend, dass Personen, deren Vorsatz der Beklagten zugerechnet werden könne, von der Software Kenntnis gehabt hätten.Auch sei dem Kläger kein Schaden entstanden.Jedenfalls schulde der Kläger im Wege des Vorteilsausgleichs Ersatz für von ihm bis zum Tag des Totalschadens gezogene Nutzungen.Die Beklagte hat mit anwaltlichem Schriftsatz vom 03.06.2019 erklärt, bindend auf die Rüge der örtlichen Unzuständigkeit zu verzichten.Der Kläger hat in der mündlichen Verhandlung vom 17.06.2019 beantragt, ihm für den Fall, dass es darauf ankommen sollte, Schriftsatznachlass zu dem Schriftsatz der Beklagtenvertreter vom 03.06.2019 zu gewähren.Zu den weiteren Einzelheiten des Sach- und Streitstandes wird auf die wechselseitigen Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die Klage ist zulässig, aber unbegründet.Die örtliche Zuständigkeit des Landgerichts Bochum folgt aus § 39 ZPO, da sich die Beklagte in der mündlichen Verhandlung vom 17.06.2019 rügelos eingelassen hat.Die Klage ist allerdings unbegründet.Dem Kläger stand zwar ursprünglich gegen die Beklagte ein Schadensersatzanspruch aus § 826 BGB wegen sittenwidriger Schädigung zu, weshalb er die Erstattung des gezahlten Kaufpreises von 15.100,- EUR unter Anrechnung des Wiederbeschaffungswerts des Fahrzeugs von 9.550,- EUR, mithin 5.550,- EUR verlangen konnte.Der Kläger ist getäuscht worden.Er konnte - wie jeder Käufer eines Neu- oder Gebrauchtwagens der Beklagten - davon ausgehen, dass die Zulassung des Fahrzeuges zum Straßenverkehr und die Einstufung in die angegebene Schadstoffklasse gesetzmäßig erfolgten, jedenfalls ohne eine Manipulation des Zulassungsverfahrens durch Verwendung einer der Zulassungsbehörde verheimlichten Softwareeinstellung. Die Beklagte hat unter anderem auch das Fahrzeug des Klägers mit einer manipulierten Motorensoftware in den Verkehr gebracht, ohne hierüber aufzuklären. Zudem hat die Beklagte auch das Fahrzeug des Klägers aktiv beworben und damit die Ordnungsgemäßheit der Zulassung dieses Fahrzeugs erklärt. Die erfolgte Zulassung des Fahrzeugs zum Straßenverkehr beruhte daher nicht auf einer ordnungsgemäßen Prüfung, sondern auf der Manipulation der Motorensoftware und war demnach gerade nicht gesetzmäßig, was aufgrund der Entscheidung des Kraftfahrtbundesamtes nach Bekanntwerden der Softwaremanipulation feststeht.Die Täuschung war kausal für die Kaufentscheidung des Klägers.Es ist anerkannt, dass bei täuschendem Verhalten für die Darlegung des ursächlichen Zusammenhangs zwischen Täuschung und Abgabe der Willenserklärung es ausreichend ist, dass die Tatsachen, über die getäuscht wurde, für den Entschluss des Getäuschten nach der Lebenserfahrung bei der Art des zu beurteilenden Rechtsgeschäfts Einfluss auf die Entschließung gehabt haben können (vgl. etwa BGH v. 12.05.1995, Az. BGH NJW 1995, 2361 zu § 123 BGB; vgl. auch Sprau in Palandt, BGB, 75. Aufl. 2016, § 826 Rn. 20). Vorliegend hat die Beklagte über eine Manipulation der Motorensoftware und somit über die ordnungsgemäße Prüfung und Zulassung des Fahrzeugs getäuscht. Sowohl die Eigenschaft des Motors als zentrales Element eines Fahrzeuges als auch die ordnungsgemäße Zulassung als Voraussetzung der Nutzung des Fahrzeuges im Straßenverkehr lassen nur den Schluss zu, dass der Kläger bei Kenntnis der Manipulation das Fahrzeug nicht gekauft hätte. Dabei wäre es auch unerheblich, wenn der Kläger sich zu dem Schadstoffausstoß vor dem Erwerb des Fahrzeugs keine Gedanken gemacht hätte, wie es die Beklagte vorträgt. Wesentlich ist die Tatsache der Softwaremanipulation, die sich auf den Vorgang der Prüfung des Fahrzeuges und somit auch auf die Zulassung auswirkte.Der Einsatz der Manipulationssoftware und die hiermit verbundene Täuschung aller zukünftigen Käufer der damit ausgestatteten Fahrzeuge war sittenwidrig. Sittenwidrig ist eine Handlung, die nach Inhalt und Gesamtcharakter, der durch zusammenfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt, das heißt mit grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist (BGH NJW-RR 2013, 550; Sprau, a.a.O., Rn. 4). Beweggrund zum Einsatz der Manipulationssoftware und der entsprechenden Täuschung hierüber war die Erhöhung der Absatzzahl und die Erzielung eines höheren Gewinns. Dabei wurde ausgenutzt, dass der Endverbraucher darauf vertraut, dass ein Fahrzeug, das von einem Hersteller für den Verkauf freigegeben wurde, die Zulassungsprüfungen ordnungsgemäß durchlaufen hat und dementsprechend die gesetzlich vorgegebenen Werte ohne Weiteres einhält. Unter Berücksichtigung dieser Aspekte verstößt die mit erheblichem Aufwand betriebene Manipulation der Software einer Vielzahl von in den Verkehr gebrachten Fahrzeuge und die damit verbundene Täuschung der Käufer gegen das Gerechtigkeitsgefühl aller billig und gerecht Denkenden. Dem kann auch nicht entgegengehalten werden, dass der Kläger nicht unmittelbar dem Schutzweck der verletzten EG Verordnung unterfällt, da diese Verordnung in erster Linie dem Umweltschutz dienen soll. Die Auswirkungen der Verletzung dieser Verordnung und der sich daraus ergebenden rechtlichen Folgen treffen auch unmittelbar den Kläger als Eigentümer des streitgegenständlichen Fahrzeugs, das stets jedenfalls mit dem Makel behaftet ist, von dem Abgasskandal betroffen zu sein.Dem Kläger ist auch zunächst ein Schaden entstanden.Ein Schaden ist bereits in dem Abschluss des Vertrages zu sehen, der jedenfalls zu den damaligen Bedingungen vom Kläger nach Überzeugung des Gerichts nicht abgeschlossen worden wäre (so im Ergebnis auch LG Hildesheim, Urt. v. 17.01.2017, Az. 3 O 139/16 = VuR 2017, 111; LG Paderborn, Urteil vom 07.04.2017 - 2 O 118/16 und LG Kleve LG Kleve, Urt. v. 31.03.2017, Az. 3 O 252/16 = VuR 2017, 232).Da der Schaden bereits im Abschluss des Kaufvertrages liegt, ist es unerheblich, ob das durchgeführte Software-Update die Folgen der Manipulationssoftware vollständig beseitigt oder negative Auswirkungen auf das Fahrzeug hat.Ein Schaden aufgrund einer sittenwidrigen Schädigung ist grundsätzlich im Rahmen der Differenzhypothese zu ermitteln, das heißt durch ein Gegenüberstellen der jetzigen Vermögenslage des Geschädigten und der, die ohne eine Schädigung bestehen würde. Es kann jedoch auch ein Schaden vorliegen, wenn eine objektive Werthaltigkeit der vertraglichen Gegenleistung vorliegt. Die Differenzhypothese muss nämlich stets einer normativen Kontrolle unterzogen werden, weil sie eine wertneutrale Rechenoperation darstellt. Der Schadensersatz dient dazu, den konkreten Nachteil des Geschädigten auszugleichen. Danach kann ein Schaden auch darin gesehen werden, dass jemand durch ein haftungsbegründendes Verhalten zum Abschluss eines Vertrages gebracht worden ist (BGH NJW-RR 2005, 611, 612). Es ist daher anerkannt, dass der Schaden auch darin liegen kann, dass ein - wäre eine Täuschung nicht erfolgt - ungewollter Vertrag abgeschlossen wird. Dann richtet sich der Schaden nach dem negativen Interesse des Geschädigten (Sprau a.a.O., Rn. 15).Die Beklagte erfüllte auch den subjektiven Tatbestand der sittenwidrigen Schädigung. Ihr sind das Wissen und der Vorsatz derjenigen ihrer Organmitglieder und sonstigen Mitarbeiter zuzurechnen, welche Kenntnis von der Softwaremanipulation vor dem Einbau hatten. Eine solche Zurechnung erfolgt bei einer juristischen Person wie der Beklagten nach den allgemeinen Regeln der §§ 831, 31 BGB (Wagner in Münchener Kommentar, BGB, 7. Aufl. 2017, § 826 Rn. 37). Grundsätzlich muss, damit eine Zurechnung erfolgen kann, das jeweilige Wissens- bzw. Vorsatzelement bei dem jeweiligen Organmitglied oder Mitarbeiter festgestellt werden (Wagner, a.a.O.). Kann eine solche Feststellung nicht erfolgen, geht dies grundsätzlich zu Lasten des hier beweisbelasteten Klägers. Vorliegend hat jedoch die Beklagte, indem sie zu den Kenntnissen ihrer Organmitglieder und Mitarbeiter nicht vorgetragen hat, gegen ihre prozessuale Wahrheitspflicht nach § 138 ZPO verstoßen. Dies kann nicht zulasten des Klägers gehen, sodass von zurechenbaren Kenntnissen und dem daraus folgenden Vorsatz auszugehen ist.Nach § 138 Abs. 1, Abs. 2 ZPO haben Parteien Erklärungen über tatsächliche Umstände vollständig und wahrheitsgemäß abzugeben und sich über alle vom Gegner behaupteten Tatsachen zu erklären. Das Gericht geht davon aus, dass mindestens ein Mitarbeiter oder Organmitglied der Beklagten Kenntnis von der Softwaremanipulation vor deren Einbau hatte. Dies ist zwingender Schluss aus der Tatsache, dass die Beklagte die Software in dem unstreitigen Umfang eingesetzt hat. Eine solche Verwendung kann bei lebensnaher Betrachtung nicht ohne die entsprechende Kenntnis eines Organmitglieds oder leitenden Mitarbeiters erfolgen. Denn es muss eine Person im Hause der Beklagten die Entscheidung über den Einsatz der Software getroffen haben und zwar in Kenntnis ihrer besonderen manipulativen Funktion. Dieser Person war damit bewusst, dass mit der Software die Zulassungsbehörde getäuscht werden sollte und damit zwangsläufig eine Täuschung der Käufer einhergehen würde. Sie hat dies hingenommen, um eine Erhöhung der Absatzzahlen zu ermöglichen, denn allein zu diesem Zweck machte der Einsatz der Manipulationssoftware im Ergebnis Sinn. Damit ist das erforderliche Vorsatzelement gegeben, unabhängig von einer möglichen persönlichen Motivation der verantwortlichen Person/en. Die Beklagte hat zwar bestritten, dass Personen, deren Kenntnisse und Absichten ihr zurechenbar seien, von der Software Kenntnis gehabt hätten. Demnach hätte es ihr im Rahmen der prozessualen Erklärungspflicht oblegen, zu den Kenntnissen ihrer Organmitglieder und Mitarbeiter bzw. einer fehlenden Information substantiiert und konkret vorzutragen, was ihr auch zumutbar war und ist. Insoweit fehlt es an jedoch an einer derartigen Offenlegung der maßgeblichen Informationsflüsse innerhalb der Beklagten bzw. zwischen der Beklagten und der W AG. Dies geht zu ihren Lasten, weswegen von entsprechenden zurechenbaren Kenntnissen und dem daraus folgenden Vorsatz auszugehen ist.Dem Kläger stand daher gegen die Beklagte ein Anspruch darauf zu, so gestellt zu werden, wie er ohne Täuschung stehen würde. Angesichts der Folgen für die Zulassung des Fahrzeuges, die zum Zeitpunkt des Kaufvertrages wegen der Softwaremanipulation zu befürchten waren, als die Beklagte noch keine behördlich geprüfte Softwarelösung anbieten konnte, spricht eine tatsächliche Vermutung dafür, dass der Kläger bei Kenntnis der Manipulation das Fahrzeug nicht gekauft hätte.Dem Kläger stand daher ursprünglich gegen die Beklagte ein Anspruch auf Erstattung des gezahlten Kaufpreises von 15.100,- EUR zu.Er muss sich jedoch das anrechnen lassen, was er in Folge des ungewollten Vertrages erlangt hat (vgl. Grüneberg in Palandt, BGB, 75. Aufl. 2016, vor § 249 Rn. 94). Unstreitig hatte der streitgegenständliche Pkw im Zeitpunkt des Totalschadens einen Kilometerstand von 114.556 km. Das Gericht schätzt die zu erwartende Gesamtlaufleistung des leistungsstarken Diesel-Fahrzeuges auf 250.000 km. Daraus ergibt sich eine im Sinne des Vorteilsausgleichs zu berücksichtigende Nutzungsentschädigung in Höhe von 5.640,09 EUR (Brutto-Kaufpreis x gefahrene km / Restlaufleistung: 15.100 x 80.753 / 216.197).Dem Kläger stand damit ein Anspruch auf Rückzahlung des Kaufpreises von 15.100,- EUR abzüglich 5.640,09 EUR, mithin 9.459,91 EUR zu, der Zug um Zug gegen Erstattung des Wiederbeschaffungswerts zu erfüllen war. Der Wiederbeschaffungswert des streitgegenständlichen Fahrzeugs betrug unstreitig 9.550,- EUR. Es verbleibt damit unter Berücksichtigung des Wiederbeschaffungswerts zu Gunsten des Klägers keine begründete Forderung.Dem Kläger steht gegen die Beklagte auch kein Anspruch auf Ersatz von Aufwendungen auf das streitgegenständliche Fahrzeug zu. Die Beklagte hat die durch den Kläger auf 4.851,30 EUR bezifferten Aufwendungen mit der Klageerwiderung bestritten.Der diesbezüglich darlegungs- und beweisbelastete Kläger hat diese von ihm behaupteten Aufwendungen bereits nicht substantiiert dargetan. Aus der von ihm als Anlage K3 zur Klageschrift vorgelegten Auflistung ergibt sich bereits nicht, zu welchem konkreten Zeitpunkt welche Aufwendungen auf das Fahrzeug getätigt worden sein sollen. Die fehlende Substantiierung dieser behaupteten Aufwendungen ist seitens der Beklagten mit der Klageerwiderung vom 06.03.2019 gerügt worden. Zu dieser hat der Kläger Gelegenheit zur Stellungnahme erhalten. Eine hinreichende Substantiierung dieser behaupteten Aufwendungen ist seitens des Klägers allerdings nicht erfolgt. Zwar hat er im Termin zur mündlichen Verhandlung vom 17.06.2019 Fotografien von Schreiben der Firmen Autohaus T und D vorgelegt. Dazu, auf welche konkreten Aufwendungen sich diese Schreiben beziehen sollen, hat er allerdings nicht vorgetragen. Das Gericht ist auch nicht gehalten, sich aus den von ihm vorgelegten Fotografien die behaupteten Aufwendungen "herauszusuchen". Die von ihm geltend gemachten Aufwendungen kann der Kläger daher bereits aufgrund mangelnder Substantiierung von der Beklagten nicht ersetzt verlangen.Dem Kläger steht auch der im Wege der Hilfsbegründung geltend gemachte Anspruch nicht zu.Der Kläger hat diese Forderung zunächst mit der Klageschrift auf 7.893,00 EUR beziffert und auf eine behauptete Wertminderung des Fahrzeugs gestützt.Mit der Replik vom 11.04.2019 hat er diesen Vortrag geändert und sodann ausgeführt, dass er, sofern er von der verbauten Software gewusst hätte, ein vergleichbares Fahrzeug der Marken S, Q, Kia, I1, P oder U erworben hätte. Bei einer Gesamtbetrachtung hätte sich seine wirtschaftliche Lage in diesem Fall, bezogen auf den bezahlten Kaufpreis und seine behaupteten Aufwendungen, 30 % günstiger dargestellt.Das Gericht legt diesen Vortrag dahingehend aus, dass die zunächst mit der Klagebegründung geltend gemachte Hilfsbegründung einer Forderung von 7.893,00 EUR nicht aufrecht erhalten werden und stattdessen nunmehr hilfsweise eine Forderung in Höhe von 5.985,39 EUR (= 30 % der behaupteten Gesamtforderung von 15.100,- EUR + 4.851,30 EUR = 19.950,- EUR) auf die in der Replik ausgeführte - abweichende - Begründung gestützt werden soll.Ein solcher Anspruch steht dem Kläger aus keinem rechtlichen Grund zu.Es fehlt insoweit bereits an jedem substantiierten Vortrag zu dem durch den Kläger behaupteten Schaden, insbesondere dazu, welches - vergleichbare - Fahrzeug der Kläger im Falle einer Kenntnis von der Software erworben hätte.Ein Schriftsatznachlass nach § 283 ZPO zu dem Schriftsatz der Beklagten vom 03.06.2019 war dem Kläger auf seinen Antrag aus der mündlichen Verhandlung vom 17.06.2019 nicht zu gewähren, da dieser Schriftsatz keinen entscheidungserheblichen neuen Sachvortrag enthält.Da die geltend gemachte Hauptforderung nicht besteht, steht dem Kläger gegen die Beklagte auch kein Anspruch auf Ersatz der begehrten Zinsen sowie vorgerichtlicher Rechtsanwaltskosten zu. Die Beklagte hat zudem mit der Klageerwiderung die Aktivlegitimation des Klägers im Hinblick auf die vorgerichtlichen Rechtsanwaltskosten bestritten und vorgetragen, sie gehe davon aus, dass der Kläger rechtsschutzversichert sei. Mit der Replik vom 11.04.2019 hat der Kläger dargetan, seine vorgerichtlichen Rechtsanwaltsgebühren seien durch seine Rechtsschutzversicherung gezahlt worden und er werde eine Bescheinigung der Versicherung einholen, wonach er berechtigt sei, diese Kosten geltend zu machen. Eine solche Bescheinigung wurde allerdings durch ihn in der Folge weder vorgelegt, noch dargetan, dass eine solche Ermächtigung seitens der Versicherung erteilt worden wäre.Die Kostenentscheidung folgt aus § 91 ZPO.Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 S. 1 ZPO.Rechtsbehelfsbelehrung:Gegen die Streitwertfestsetzung ist die Beschwerde an das Landgericht Bochum statthaft, wenn der Wert des Beschwerdegegenstandes 200,00 EUR übersteigt oder das Landgericht die Beschwerde zugelassen hat. Die Beschwerde ist spätestens innerhalb von sechs Monaten, nachdem die Entscheidung in der Hauptsache Rechtskraft erlangt oder das Verfahren sich anderweitig erledigt hat, bei dem Landgericht Bochum, Josef-Neuberger-Straße 1, 44787 Bochum, schriftlich in deutscher Sprache oder zur Niederschrift des Urkundsbeamten der Geschäftsstelle einzulegen. Die Beschwerde kann auch zur Niederschrift der Geschäftsstelle eines jeden Amtsgerichtes abgegeben werden. Ist der Streitwert später als einen Monat vor Ablauf dieser Frist festgesetzt worden, so kann die Beschwerde noch innerhalb eines Monats nach Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses eingelegt werden.Hinweis zum elektronischen Rechtsverkehr:Die Einlegung ist auch durch Übertragung eines elektronischen Dokuments an die elektronische Poststelle des Gerichts möglich. Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet und mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg gemäß § 130a ZPO nach näherer Maßgabe der Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach (BGBl. 2017 I, S. 3803) eingereicht werden. Weitere Informationen erhalten Sie auf der Internetseite www.justiz.de.
+			
+			
+			
+			Permalink: https://openjur.de/u/2347573.html (https://oj.is/2347573)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen3
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungBeschluss vom 04.05.2021 - 13 U 170/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Beschluss vom 04.05.2021 - 13 U 170/20
+                      m. Fundstelle
+                      OLG Köln, Beschluss vom 04.05.2021 - 13 U 170/20 = openJur 2022, 2026
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Beschluss vom 04.05.2021 - 13 U 170/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 2026
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 1 O 493/19
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das am 06.08.2020 verkündete Urteil des Landgerichts Aachen (1 O 493/19) wird gemäß § 522 Abs. 2 ZPO zurückgewiesen.Die Kosten des Berufungsverfahrens werden dem Kläger auferlegt.Das angefochtene Urteil und dieser Beschluss sind ohne Sicherheitsleistung vorläufig vollstreckbar. Der Kläger darf die Vollstreckung durch Sicherheitsleistung in Höhe von 110% des vollstreckbaren Betrages abwenden, sofern nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110% des jeweils zu vollstreckenden Betrages leistet.  
+				Gründe
+				I.Der Kläger begehrt mit der Klage die Rückabwicklung eines Automobilkaufvertrages, weil in dem streitgegenständlichen VW Touran 2.0 ursprünglich eine unzulässige Abschalteinrichtung verbaut wurde.Das Landgericht hat die Klage mit Urteil vom 06.08.2020, auf das wegen der Einzelheiten der Feststellungen zum erstinstanzlichen Parteivortrag, der in erster Instanz gestellten Anträge und der Entscheidungsgründe Bezug genommen wird (§ 522 Abs. 2 S. 4 ZPO), abgewiesen. Zur Begründung hat es ausgeführt:Mangels Vertragsverhältnisses zwischen den Parteien schieden vertragliche Schadensersatzansprüche des Klägers gegenüber der Beklagten von vorneherein aus.Eine deliktische Haftung der Beklagten komme ebenfalls nicht in Betracht.Insbesondere stehe einem Schadensersatzanspruch des Klägers gegenüber der Beklagten gemäß §§ 826, 823 Abs. 1, 2 BGB i. V. m. § 263 StGB, 31 BGB entgegen, dass angesichts des Erwerbszeitpunkts des Pkw knapp ein Jahr nach dem öffentlichen Bekanntwerden des sogenannten Abgasskandals bereits das Tatbestandsmerkmal der Sittenwidrigkeit der Schädigung nicht (mehr) als erfüllt angesehen werden könne. Zudem fehle die Kausalität des Verhaltens der Beklagten für den behaupteten Schaden. Der Kläger sei sogar darauf hingewiesen worden, dass das streitgegenständliche Fahrzeug von dem Abgas-Skandal betroffen sei und der Pkw ohne Update nicht genutzt werden dürfe. Er habe sich in Kenntnis dieser Umstände für den Kauf entschieden. Hierfür könne die Beklagte nicht verantwortlich gemacht werden.Mit der Berufung verfolgt der Kläger das Ziel einer Verurteilung der Beklagten weiter.Ein Anspruch des Klägers aus §§ 311, 241 Abs. 2 BGB ergebe sich daraus, dass die Beklagte durch ihre Prospekte bei den Verkaufsgesprächen in besonderem Maße Vertrauen für sich in Anspruch genommen habe.Hinsichtlich eines Anspruchs aus § 826 BGB verkenne das Landgericht, dass öffentliche Maßnahmen der Beklagten möglicherweise die Sittenwidrigkeit in Bezug auf die ursprüngliche Manipulation entfallen ließen, jedoch nicht hinsichtlich des Softwareupdates. Zudem müsse sich die Kenntnis im Rahmen des Deliktsrechts nicht nur auf die generelle Betroffenheit, sondern auch auf die konkreten Folgen der Betroffenheit erstrecken.Die Täuschung beschränke sich nicht nur auf den Einsatz rechtswidriger Software sondern betreffe den Kern der Konstruktionspflichten. Die Bauteile, die das Emissionsverhalten beeinflussen, seien billig und unzureichend konstruiert, gefertigt und montiert, so dass das Fahrzeug nicht einmal im Ansatz unter normalen Betriebsbedingungen der VO (EU) Nr. 715/2007 entspreche. Ohne mehr oder weniger dauerhafte Abschaltung wiesen die Bauteile keine Dauerhaltbarkeit auf. Auch die neue Software enthalte eine illegale Abschalteinrichtung. Insoweit liege eine weitere Täuschung durch die Beklagte vor. Zudem wirke sich das Update negativ auf den Co² Ausstoß und den Kraftstoffverbrauch des Fahrzeuges aus. Durch die Mehrbelastung der Bauteile erhöhe sich die Gefahr technischer Probleme.Der Kläger habe keine Kenntnis im erforderlichen Umfang erlangt, zumal ihm durch den Verkäufer mitgeteilt worden sei, mit dem Update seien keine Nachteile verbunden. Die Beklagte müsse sich das Verhalten des Verkäufers zurechnen lassen.Zudem bestehe ein Anspruch des Klägers aus § 831 BGB. Die mit der Entwicklung der Software betrauten Ingenieure seien Verrichtungsgehilfen im Sinne von § 831 BGB. Schließlich könne der Kläger aus europarechtlichen Vorschriften mit drittschützender Wirkung Ansprüche ableiten.Der Kläger beantragt, unter Aufhebung des Urteils des Landgerichts Aachen vom 06.08.2020 (1 O 493/19),1. festzustellen, dass die Beklagtenpartei verpflichtet ist, der Klägerpartei Schadensersatz zu leisten für Schäden, die aus der Manipulation des Fahrzeugs VW Touran, Fahrzeugidentifikationsnummer A, durch die Beklagtenpartei resultieren,2. die Beklagte zu verurteilen, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten i.H.v. 1.127,53 € freizustellen.Hilfsweise, für den Fall, dass das Berufungsgericht den Feststellungsantrag für unzulässig oder unbegründet hält:1. die Beklagtenpartei zu verurteilen, an die Klägerpartei 21.750,- € nebst Zinsen hieraus in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu bezahlen, Zug um Zug gegen die Übereignung und Herausgabe des Fahrzeugs VW Touran mit der Fahrzeugidentifikationsnummer A und abzüglich eines von der Beklagten darzulegenden Vorteilsausgleichs für die Nutzung des PKWs,2. festzustellen, dass die Beklagte verpflichtet ist, der Klägerpartei Schadensersatz zu bezahlen für weitere Schäden, die daraus resultieren, dass die Beklagte in dem Fahrzeug VW Touran (Fahrzeugidentifikationsnummer A) unzulässige Abschalteinrichtungen u.a.- in der Form einer Software eingebaut hat, welche bei Erkennung standardisierter Prüfstandsituationen (NEFZ) die Abgasaufbereitung so optimiert, dass möglichst wenig Stickoxide (NOx) entstehen und Stickstoffemissionsmesswerte reduziert werden, und die im Normalbetrieb Teile der Abgaskontrollanlage außer Betrieb setzt, so dass es zu einem höheren NOx- Ausstoß führt- in Gestalt einer Funktion, die durch Bestimmung der Außentemperatur die Parameter der Abgasnachbehandlung so verändert, dass die Abgasnachbehandlung außerhalb eines Temperaturfensters von 17 °C bis 33 °C reduziert wird (sogenanntes Thermofenster)verbaut hat und hierdurch die Emissionwerte auf den Rollenprüfstand reduziert werden.Die Beklagte beantragt,die Berufung zurückzuweisen.Wegen der Einzelheiten des zweitinstanzlichen Parteivorbringens wird auf die Schriftsätze und zu den Akten gereichten Unterlagen Bezug genommen.II.Die Berufung unterliegt der Zurückweisung nach § 522 Abs. 2 ZPO.Die Berufung des Klägers ist nach einstimmiger Auffassung des Senats offensichtlich unbegründet. Insoweit nimmt der Senat Bezug auf die Ausführungen in der Hinweisverfügung des Vorsitzenden vom 30.03.2021:"In pp weise ich darauf hin, dass die Berufung der Klägerseite nach dem gegebenen Sachstand offensichtlich unbegründet ist. Der Senat beabsichtigt - da auch die weiteren Voraussetzungen des § 522 Abs. 1 und Abs. 2 S. 1 Nr. 1 - 4 ZPO vorliegen - im Beschlussverfahren nach § 522 ZPO zu entscheiden. Das Landgericht hat mit Recht die Voraussetzung für einen Anspruch auf Ersatz immateriellen Schadens nicht als gegeben angesehen. Die mit der Berufung dagegen vorgebrachten Einwendungen rechtfertigen keine abweichende Entscheidung.Das Landgericht, auf dessen Entscheidung Bezug genommen wird, hat rechtsfehlerfrei entschieden, dass im Hinblick auf das vom Kläger am 22.8.2016 erworbene Fahrzeug keine Schadensersatzansprüche zustehen. Wie der Bundesgerichtshof mittlerweile entschieden hat, ist bei einem nach dem 22.9.2015 erworbenen gebrauchten Fahrzeug der Vorwurf der sittenwidrigen Schädigung gegen die Beklagte nicht begründet, so dass Ansprüche aus § 826 BGB ausscheiden (BGH, 30.7.2020, VI ZR 5/20, Rdn. 34 ff). Auch Ansprüche aus § 823 Abs. 2 BGB i. V. m. § 263 StGB oder § 27 Abs. EG-FGV bestehen nicht (BGH a.a.O. Rdn. 11 ff, 17 ff). Damit scheitert auch ein Anspruch aus § 831 BGB. Der erkennende Senat schließt sich dieser Rechtsprechung an.Zu keinem anderen Ergebnis führt der weitere Vortrag des Klägers zum Softwareupdate, wie sich aus der Entscheidung des BGH vom 9.3.2021 (VI ZR 889/20) ergibt. In diesem Verfahren hat der BGH entschieden, dass von einer neuerlichen Täuschung des KBA durch das Aufspielen des Software Updates nicht ausgegangen werden kann, nachdem das KBA, das die Umschaltlogik als unzulässige Abschalteinrichtung beanstandet und die Beklagte verpflichtet hatte, einen vorschriftsmäßigen Zustand herzustellen, die von der Beklagten daraufhin entwickelte technische Lösung in Form des Software-Updates genehmigt und die Beklagte aufgefordert hatte, das Update aufzuspielen. Anhaltspunkte dafür, dass sich das KBA ein weiteres Mal über die Arbeitsweise des für den Motor EA189 entwickelten Emissionskontrollsystems im Irrtum befunden hätte, sind weder ersichtlich noch dargetan. Wie sich - im Gegenteil - aus dem Tatbestand des angefochtenen Urteils ergibt, hat das KBA der Beklagten gegenüber die Einhaltung der Grenzwerte und das Fehlen negativer Auswirkungen des Updates bestätigt. Daran ändert nach der in Kenntnis und unter Berücksichtigung des Urteils des EuGH vom 17.12.2020 (C-693/18) ergangenen Entscheidung des BGH, der der Senat folgt, auch der Umstand nichts, dass die Beklagte mit dem Software-Update eine temperaturabhängige Steuerung des Emissionskontrollsystems (Thermofenster) implementiert haben mag. Dies rechtfertigt nämlich in der gebotenen Gesamtbetrachtung den Vorwurf besonderer Verwerflichkeit nicht. Der in der Qualifikation dieser temperaturbeeinflussten Steuerung der Abgasrückführung als unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007 liegende - unterstellte - Gesetzesverstoß reicht nicht aus, um das Gesamtverhalten der Beklagten als sittenwidrig zu qualifizieren. Der Einsatz einer temperaturabhängigen Steuerung des Emissionskontrollsystems ist nicht von vornherein durch Arglist geprägt (BGH, Beschluss vom 19. Januar 2021, VI ZR 433/19).Nach der Entscheidung des BGH kann schließlich auch nicht angenommen werden, dass das Verhalten der Verkäuferin der Beklagten nach § 831 BGB zuzurechnen ist. Der BGH hat für eine solche Zurechnung keine Veranlassung gesehen, obwohl der Vortrag der Klägerseite in seinem Verfahren hinsichtlich der behaupteten Angaben des Verkäufers dem Vortrag des Klägers entsprach. Die Behauptung negativer Auswirkungen auf den Kraftstoffverbrauch und den Verschleiß der betroffenen Fahrzeuge rechtfertigt den Vorwurf besonderer Verwerflichkeit in der gebotenen Gesamtbetrachtung nicht. Der Umstand, dass mit dem Update nicht nur die unzulässige Manipulationssoftware entfernt wird, sondern auch eine - unterstellt nachteilige - Veränderung des Kraftstoffverbrauchs oder sonstiger Parameter verbunden ist, reicht nicht aus, um das Gesamtverhalten der Beklagten als sittenwidrig zu qualifizieren."Diese Ausführungen tragen auch nach nochmaliger Beratung des Senates in anderer Besetzung die Zurückweisung der Berufung. Eine Stellungnahme zu den Hinweisen ist seitens der Klägervertreter nicht erfolgt, so dass ergänzende Ausführungen nicht veranlasst sind.2. Die Sache hat auch weder grundsätzliche Bedeutung noch erfordern die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Berufungsgerichts durch Urteil. Es handelt sich um eine Anwendung anerkannter rechtlicher Grundsätze auf den Einzelfall.3.Schließlich erscheint eine mündliche Verhandlung nicht geboten, so dass die Berufung - wie bereits in der Hinweisverfügung vom 30.03.2021 angekündigt - gemäß § 522 Abs. 2 ZPO durch Beschluss ohne mündliche Verhandlung zurückzuweisen ist.4.Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO. Der Ausspruch zur vorläufigen Vollstreckbarkeit folgt aus § 708 Nr. 10 Satz 2 iVm § 711 ZPO.Der Gegenstandswert für das Berufungsverfahren wird auf bis zu 22.000 € festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2384843.html (https://oj.is/2384843)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

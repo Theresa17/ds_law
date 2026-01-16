@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 09.08.2019 - 4 O 463/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 09.08.2019 - 4 O 463/18
+                      m. Fundstelle
+                      LG Köln, Urteil vom 09.08.2019 - 4 O 463/18 = openJur 2021, 5135
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 09.08.2019 - 4 O 463/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 5135
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte wird verurteilt, an den Kläger 13.056,00 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 11.10.2018, Zug um Zug gegen Übergabe und Übereignung des Personenkraftwagens, W Q Comfortline, FIN W..., zu zahlen.Es wird festgestellt, dass sich die Beklagte mit der Annahme des vorgenannten Fahrzeugs in Verzug befindet.Zudem wird die Beklagte verurteilt, den Kläger gegenüber seinem Prozessbevollmächtigten von Anwaltskosten in Höhe von 562,15 EUR freizustellen.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits tragen der Kläger zu 29 % und die Beklagte zu 71 %.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatz im Zusammenhang mit einem vom sog. "Abgasskandal" betroffenen Personenkraftwagen.Der Kläger erwarb am 02.08.2014 das im Tenor genannte Fahrzeug zu einem Kaufpreis von 16.800,00 EUR. Seinerzeit hatte das gebraucht gekaufte Fahrzeug eine Laufleistung von 94.760 kmNoch im selben Jahr ließ er das Fahrzeug mit einer Standheizung nachrüsten, wofür er 2.011,10 EUR zahlte.In dem vorgenannten Fahrzeug war ein Dieselmotor vom Typ ... verbaut, den die Beklagte für ihre eigene Automarke sowie für die ihrer Konzernschwestern entwickelt hatte; dazu gehört auch die hier betroffene Automarke B. In der Motorensteuerungssoftware war ein Unterprogramm enthalten, welches an den Lenkbewegungen erkennen konnte, ob das Fahrzeug auf einem Rollprüfstand betrieben wird. Erkannte sie dies, schaltete die Motorsteuerung von dem im normalen Fahrbetrieb auf der Straße gebräuchlichen Modus 0 in den Modus 1: Wird der Motor im Modus 1 betrieben, stößt er weniger Stickoxide (NOx) aus als im Modus 0. Beim Betrieb im Modus 1 erfüllt der Motor die gesetzlichen Vorgaben der Euroabgasklasse 5, im Modus 0 hingegen nicht.Diese differenzierte Betriebsart des Motors ... war dem Kläger sowie dem Rest der Öffentlichkeit unbekannt. Erst im Jahr 2014 wurde eine breitere Öffentlichkeit darauf aufmerksam, nachdem Messungen von Wissenschaftlern der West Virginia University in den USA weit höhere Stickoxid-Werte ergeben hatten als im Prospekt angegeben.Nachdem das Kraftfahrtbundesamt (im Folgenden: KBA) in der Sache tätig geworden war, rief die Beklagte alle betroffenen Fahrzeuge in die Werkstätten ihrer Servicepartner zurück, um dort ein Update der Motorensteuerungsgerätesoftware aufspielen zu lassen, welches u.a. den zuvor beschriebenen Umschaltmechanismus aus dem Softwarecode entfernte; diesem Update erteilte das KBA die Zulassung. Das Update wurde am 17.06.2016 in die Motorsteuerungssoftware des Klägerfahrzeugs eingespielt.Mit Schreiben seines Prozessbevollmächtigten vom 21.08.2018 (Anlage K5 = Bl. 6 ff. AH) forderte der Kläger die Beklagte zur Zahlung des Kaufpreises sowie des Aufwandes für die Ausstattung mit der Standheizung abzüglich einer Nutzungsentschädigung bis zum 15.09.2018 auf. Die Rückgabe des Zug um Zug zurückzugebenden Fahrzeugs bot er an. Hinsichtlich der Einzelheiten wird auf das Schreiben vom 21.08.2018 verwiesen. Dem kam die Beklagte nicht nach.Am 27.06.2019 hatte das fragliche Fahrzeug eine Laufleistung von 147.939 km.Der Kläger behauptet, der Beklagten sei seit 2007 bekannt, dass es sich bei der zuvor dargestellten Programmierung um eine unzulässige Abschalteinrichtung im Sinne von Art. 3 Nr. 10 der EG-VO Nr. 715/2007 handele. Es sei ausgeschlossen, dass irgendwelche "nachrangigen Motorentwickler" diese Manipulation ohne Kenntnis des Vorstandes vorgenommen hätten.Der Kläger beantragt zuletzt,1. die Beklagte zu verurteilen, an ihn 18.237,40 EUR nebst 5 % Zinsen über dem jeweiligen Basiszinssatz seit dem 11.10.2018 Zug um Zug gegen Übergabe und Übereignung des Personenkraftwagens, W Q Comfortline, Fahrgestellnummer W...#, Modelljahr 2011, zu zahlen;2. festzustellen, dass sich die Beklagte mit der Annahme des Fahrzeugs gemäß Nr. 1 im Verzug befindet;3. die Beklagte zu verurteilen, ihn gegenüber seinem Prozessbevollmächtigten von vorgerichtlichen nicht anrechenbaren Anwaltskosten in Höhe von 562,15 EUR nebst 5 % Zinsen über dem jeweiligen Basiszinssatz seit Rechtshängigkeit freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Sie ist der Auffassung, ein relevanter Fehler des Fahrzeugs sei nicht gegeben, da dieses nach wie vor über eine zulässige EG-Typengenehmigung verfüge und sich sicher im allgemeinen Straßenverkehr gebrauchen lasse. Hierfür käme es allein auf die Werte des Fahrzeugs, welche auf dem Rollprüfstand gemessen werden, an, nicht hingegen auf den realen Verbrauch im Gebrauch auf der Straße. Sie behauptet, ein Verlust der Typengenehmigung drohe auch nicht.Sie meint außerdem, es handele sich nicht um eine Abschaltvorrichtung, da die Software, welche die Ausführung eines Fahrzyklus auf dem Rollprüfstand erkenne, nicht Bestandteil des Emissionskontrollsystems sei und diesen daher auch nicht abschalten könne. Sie behauptet, das vom Hersteller angebotene Softwareupdate sei geeignet und ausreichend, um die im Betriebsmodus 0 erhöhten Stickoxidausstoß ausreichend zu verringern und so einen eventuellen Mangel zu beseitigen. Dadurch entstünden Kosten von weniger als 1 % des Anschaffungspreises des gegenständlichen Fahrzeugs und die Anpassung der Software habe auch keine negativen Auswirkungen auf die Leistung des Motors.Hinsichtlich des weiteren Sachvortrages der Parteien wird auf die gewechselten Schriftsätze nebst Anlagen verwiesen. 
+				Gründe
+				Die Klage ist insgesamt zulässig und im tenorierten Umfang begründet. Der Kläger hat gegen die Beklagte einen Anspruch auf Zahlung des Kaufpreises Zug um Zug gegen Rückgabe und Übereignung des fraglichen Fahrzeugs. Dieser Zahlungsanspruch ist im Wege der Vorteilsanrechnung um die angefallene Nutzungsentschädigung zu kürzen. Die Nutzungsentschädigung hat die Kammer dabei ausgehend von dem Kilometerstand bei Klageerhebung geschätzt, nachdem Umstände für eine höhere Nutzungsentschädigung nicht vorgetragen sind. Zudem kann der Kläger Ersatz für die in das Fahrzeug eingebaute Standheizung verlangen, jedoch nicht die von ihm ebenfalls begehrte Verzinsung des Ersatzanspruches gemäß § 849 BGB.1.Der Kläger hat gegen die Beklagte einen Anspruch auf Zahlung von Schadensersatz aus § 826 BGB, da diese ihm vorsätzlich in einer gegen die guten Sitten verstoßenden Weise einen Schaden zugefügt hat. Die von der Klägerseite ihrer Klage zugrunde gelegte Schadensberechnung ist im Grundsatz nicht zu beanstanden.a)Ein Verhalten ist sittenwidrig, wenn es gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt (BGH, Urteil vom 03.12.2013 - XI ZR 295/12, NJW 2014, 1098). In diese rechtliche Beurteilung ist einzubeziehen, ob es nach seinem aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter mit den guten Sitten nicht zu vereinbaren ist (BGH, Urteil vom 03.12.2013 - XI ZR 295/12, a. a. O. m. w. N.; Urteil vom 20.11.2012 - VI ZR 268/11, NJW-RR 2013, 550 m. w. N.).Vorliegend bestehen für die Kammer keine Zweifel daran, dass die Beklagte aus Gewinnstreben sowohl die zuständigen Behörden als auch Käufer von Fahrzeugen aus dem von ihr beherrschten W -Konzern wie dem Kläger durch Entwicklung und Verwendung des Softwareprogramms in dem von ihr hergestellten Dieselmotor ...# über den unter normalen Fahrbedingungen erhöhten Schadstoffausstoß täuschte. Dies geschah, um Behörden und Kunden in dem Glauben zu lassen, Fahrzeuge mit dem Aggregat ...# würden die vorgeschriebenen Grenzwerte einhalten, was tatsächlich im normalen Straßenbetrieb nicht zutrifft. Ohne diese Maßnahme hätten die Beklagte und ihre Tochterunternehmen angesichts der Wichtigkeit der Eingruppierung in eine möglichst hohe Schadstofffreiheitsklasse geringere Verkaufszahlen erzielt.Bei dem in der Motorenreihe ... verwandten Programm handelt es sich um eine illegale Funktion zur Abgasmanipulation und nicht um eine zulässige Gestaltung zur Optimierung im NEF-Zyklus. Das ergibt sich schon aus dem gerichtsbekannten, vom Kraftfahrtbundesamt angeordneten und seitens der Beklagten nicht angegriffenen weitreichenden Rückruf von betroffenen Fahrzeugen des W -Konzerns zwecks Update der Motorensteuerungsgerätesoftware. Wären die betroffenen Fahrzeuge nicht in diesem Sinne mangelbehaftet, hätte es eines zwingend angeordneten Rückrufs nicht bedurft. Der den Käufern gegenüber nicht offengelegte Einsatz der sog. Mogelsoftware hat, verbunden mit den Prospektangaben betreffend die entsprechenden Fahrzeuge, auch dazu geführt, dass die Käufer sich in der irrigen Vorstellung befanden, auch im Betrieb des Fahrzeugs außerhalb des Prüfstands würden die Werte, mit denen geworben wurde, zumindest annäherungsweise erreicht.Die Täuschung durch die Beklagte gegenüber den Kunden erfolgte systematisch, in erheblichem Umfang und über einen mehrere Jahre umfassenden Zeitraum. Sogar jetzt streitet die Beklagte ihre zivilrechtliche Verantwortung noch ab, indem sie behauptet, das klägerische Fahrzeug sei nicht mangelhaft und die Programmaktualisierung lediglich eine freiwillige Leistung. Angesichts dieses völligen Fehlens eines Unrechtsbewusstseins bringt die Beklagte nach Ansicht der Kammer auch zum Ausdruck, dass sie den sittenwidrigen Einsatz der illegalen Abschalteinrichtung auch im Nachhinein billigt und diesen nicht verhindert hätte. Dass eine bewusste Täuschung ein erhebliches Indiz für die Annahme eines vorsätzlichen sittenwidrigen Verhaltens darstellen kann, ist allgemein anerkannt.b)Dem kann die Beklagte nicht entgegenhalten, das Fehlverhalten habe sich auf eine Ebene unterhalb ihrer organschaftlichen Vertreter ereignet. Denn auch wenn dies so sein sollte, müsste sich die Beklagte die Verstöße ihrer untergeordneten Repräsentanten analog § 31 BGB zurechnen lassen.Denn die ständige Rechtsprechung erweitert dessen Zurechenbarkeitswirkungen über den Wortlaut hinaus auf solche Personen, denen durch die allgemeine Betriebsregelung und Handhabung bedeutsame, wesensmäßige Funktionen der juristischen Person zur selbständigen, eigenverantwortlichen Erfüllung zugewiesen sind (BGH, Urteil vom 05.03.1998 - III ZR 183/96, NJW 1998, 1854). Auch den Personen, die zum Vorstand der Beklagten gezählt und über die Entwicklung und Verwendung der illegalen Abschalteinrichtung entschieden haben, kam eine entsprechende Stellung zu. Denn wenn diese Personen, wie es die Beklagte darstellt, eigenständig und ohne die Erforderlichkeit einer Freigabe von vorgesetzter Stelle so weitreichende Entscheidungen für die Entwicklung einer im gesamten Konzern der Beklagten verbauten Motorenreihe mit der vorbeschriebenen Software treffen konnten, so muss ihnen eine erhebliche innerbetriebliche Entscheidungskompetenz zugewiesen gewesen sein. Soweit die Beklagte etwas anders behauptet, ist dies erkennbar vorgeschoben.c)Die danach vorliegende sittenwidrige Schädigung ist auch kausal für die Kaufentscheidung des Klägers gewesen.Bei täuschendem oder manipulativem Verhalten ist es für die Darlegung des ursächlichen Zusammenhangs zwischen Täuschung und Abgabe der Willenserklärung ausreichend, dass der Getäuschte Umstände dargetan hat, die für seinen Entschluss von Bedeutung sein konnten und nach der Lebenserfahrung bei der Art des zu beurteilenden Rechtsgeschäfts Einfluss auf die Entschließung gehabt haben können (BGH, Urteil vom 12.05.1995 - V ZR 34/94, NJW 1995, 2361). Es wäre lebensfremd anzunehmen, dass der Kläger den Wagen gekauft hätte, wenn er gewusst hätte, dass dieser die beworbenen Abgaswerte angesichts deren allgemein bekannten Bedeutung in mehrfacher Hinsicht (Betriebserlaubnis, Kfz-Steuer, etwaige Fahrverbote bei Nichteinhaltung der Grenzwerte, Umweltfragen) in Wirklichkeit nicht hat.d)Dementsprechend hat die Beklagte den Kläger so zu stellen, als hätte er das fragliche Fahrzeug nicht erworben. Entsprechend hat sie den Bruttokaufpreis und den Betrag, den der Kläger für den Einbau der Standheizung aufgebracht hat, abzüglich einer angemessenen Nutzungsentschädigung für die bisher gefahrenen Kilometer, welche die Kammer gemäß § 287 Abs. 1 ZPO auf 5.755,00 EUR schätzt. Denn bei Berechnung der Nutzungsentschädigung sind dieselben Grundsätze wie bei derjenigen gemäß § 346 Abs. 2 BGB heranzuziehen, also folgende allgemein anerkannte Formel:Bruttokaufpreisx gefahrene KilometerGesamt(rest)laufleistung(vgl. OLG Hamm, Urteil vom 10.03.2011 - 28 U 131/10, NJW-RR 2011, 1423; Grüneberg, in: Palandt, BGB, 77. Aufl. 2018, § 346 Rn. 10), wobei die Kammer von einer Gesamtlaufleistung von 250.000 ausgeht; diese waren in der vorgenannten Formel durch die Laufleistung, die das Fahrzeug bei Erwerb durch den Kläger hatte, zu reduzieren. Hinsichtlich der gefahrenen Kilometer geht sie von einem Kilometerstand vom unstreitigen Kilometerstand am Tag vor Schluss der mündlichen Verhandlung aus. Grundlagen für eine höhere Nutzungsentschädigung hat die insofern darlegungsbelastete Beklagte nicht vorgetragen.2.Der darauf ausgeurteilte Zinsanspruch beruht auf §§ 288 Abs. 1 S. 2, 280 Abs. 1 und 2, 286 Abs. 2 Nr. 3 BGB.Die ebenfalls von Klägerseite verlangte Verzinsung gemäß § 849 BGB kam hingegen nicht in Betracht, da der zu verzinsende Anspruch sich weder aus der Beschädigung noch aus der Entziehung des streitgegenständlichen Fahrzeugs herleitet.3.Der Anspruch auf Freistellung von unstreitig angefallenen vorgerichtlichen Anwaltskosten folgt dem Grunde nach ebenfalls aus § 826 BGB. Dass das Einschalten der Prozessbevollmächtigten auch vorgerichtlich eine zweckmäßige Aufwendung zur Rechtsverfolgung und daher einen ersatzfähigen Schaden darstellen, kann nicht in Zweifel gezogen werden.Allerdings besteht der Anspruch nur in Höhe derjenigen Kosten, die für die Geltendmachung des tatsächlich bestandenen Anspruches angefallen wären; diesen schätzt die Kammer mangels anderer schriftsätzlich vorgetragener Anhaltspunkte gemäß der Ausführungen zu Ziff. 1. auf 13.056,00 EUR, woraus sich folgende korrigierte Honorarberechnung ergibt:Gegenstandswert: 13.056,00 EURZiff.SatzBetrag23001,3422,50 EUR700120,00 EURUSt84,07 EURgesamt:526,57 EUREine höhere Schätzung des Gegenstandswertes kam nicht in Betracht, da die Laufleistung des Fahrzeugs bei Tätigwerden der klägerischen Prozessbevollmächtigten nicht vorgetragen ist.4.Der Feststellungsantrag, dass sich die Beklagte mit der Rücknahme des Fahrzeugs im Annahmeverzug befindet, ist zulässig und begründet. Der Kläger hat der Beklagten das gegenständliche Fahrzeug im vorgerichtlichen Anwaltsschreiben vom 21.08.2018 angeboten.5.Die prozessualen Nebenentscheidungen beruhen auf §§ 92 Abs. 1 S. 1, 709 ZPO.Streitwert: 18.237,40 EUR
+			
+			
+			
+			Permalink: https://openjur.de/u/2319477.html (https://oj.is/2319477)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

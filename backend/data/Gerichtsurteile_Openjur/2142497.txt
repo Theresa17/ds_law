@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 01.06.2018 - 16 O 126/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 01.06.2018 - 16 O 126/17
+                      m. Fundstelle
+                      LG Köln, Urteil vom 01.06.2018 - 16 O 126/17 = openJur 2019, 7488
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 01.06.2018 - 16 O 126/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 7488
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1.Die Beklagte wird verurteilt, an den Kläger 18.880,00 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz hieraus seit dem 02.08.2016 zu zahlen, Zug um Zug gegen Übereignung und Herausgabe des PKW VW Passat CC, FIN: ... und Zahlung einer Nutzungsentschädigung in Höhe von 6.384,26 EUR.2.Es wird festgestellt, dass die Beklagte mit der Rücknahme des im Klageantrag zu 1. genannten PKW im Annahmeverzug ist.3.Die Beklagte wird verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.680,28 EUR freizustellen.Die Kosten des Rechtsstreits trägt die Beklagte.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 Prozent des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht gegen die Beklagten Ansprüche auf Rückzahlung des Kaufpreises für einen PKW nach Rücktritt vom Kaufvertrag geltend.Der Kläger erwarb am 06.08.2014 von der Beklagten, einer Vertragshändlerin der Volkswagen AG, welche neben Fahrzeugen der Marken Volkswagen und Audi auch andere Fahrzeugmarken vertreibt, einen gebrauchten PKW VW Passat CC 2,0 l TDI, FIN (siehe Tenor) gegen Zahlung eines Kaufpreises in Höhe von 18.880,00 EUR (brutto). Die Übergabe des Fahrzeugs erfolgte am 06.08.2014.Das Fahrzeug wies bei Übergabe des Fahrzeugs einen Kilometerstand von 45.500 Kilometern auf. Zum Zeitpunkt des Schlusses der mündlichen Verhandlung am 23.03.2018 wies das Fahrzeug einen Kilometerstand von 131.559 Kilometern auf.Der Motor des streitbefangenen Fahrzeugs ist ein Dieselmotor vom Typ EA189. Die im Zusammenhang mit dem streitbefangenen Motor EA 189 verwendete Software optimiert den Stickoxidausstoß auf dem Prüfstand. Dabei erkennt die Software, ob sich das Fahrzeug auf einem Prüfstand befindet, und schaltet zwischen zwei Betriebsmodi um. Auf dem Prüfstand schaltet sie in den NOxoptimierten Modus 1 (NEFZ = Neuer Europäischer Fahrzyklus). In diesem Modus findet eine relativ hohe Abgasrückführung mit niedrigerem Stickoxidausstoß statt. Im normalen Fahrbetrieb wird in den Modus 0 umgeschaltet, bei dem die Abgasrückführungsrate geringer ist.Mit anwaltlichem Schreiben vom 18.07.2016 erklärte die Klagepartei den Rücktritt vom Kaufvertrag und forderte die Beklagte zur Rückabwicklung des Kaufvertrages bis 01.08.2016 auf. Die Beklagte lehnte eine Rückabwicklung des Kaufvertrages ab.Für das Fahrzeug der Klagepartei wurde eine Typengenehmigung erteilt, die bislang nicht vom Kraftfahrt-Bundesamt ("KBA") widerrufen wurde. Die Volkswagen AG legte dem KBA am 07.10.2015 einen Maßnahmenplan vor. In diesem geht es um die Nachrüstung der betroffenen Fahrzeuge mit einer Software, die - aus Sicht der Volkswagen AG - das Problem lösen soll. Das KBA stellte mit Bescheid vom 14.10.2015 fest, dass es sich bei der in Rede stehenden Software um eine unzulässige Abschalteinrichtung handele. Ferner verpflichtete das KBA die Volkswagen AG, bei allen betroffenen Fahrzeugen mit dem Aggregat EA 189 (Euro 5) die aus Sicht des Kraftfahrt-Bundesamtes vorhandene unzulässige Abschalteinrichtung zu entfernen. Ferner billigte das KBA den Zeit- und Maßnahmenplan der Volkswagen AG zur Umsetzung der Umrüstung der Fahrzeuge des streitgegenständlichen Typs mit einer neuen Software mit Freigabebestätigung vom 03.06.2016.Der Kläger lehnt die Aufspielung des Softwareupdates auf das streitgegenständliche Fahrzeug, welche von der Beklagten angeboten worden ist, ab.Der Kläger behauptet, dass er sich auch wegen der positiven Abgaswerte für das Fahrzeug entschieden habe. Es halte aber die Euro-5-Norm nicht ein. Tatsächlich überschritten die NOx-Werte im normalen Fahrbetrieb die Grenzwerte um ein Vielfaches. Auf einem Prüfstand hingegen werde - unstreitig - die Motorsteuerung automatisch so geschaltet, dass die gesetzlichen Grenzwerte eingehalten würden. Es sei bei Erklärung des Rücktritts vom Kaufvertrag nicht absehbar gewesen, ob sich die Kraftstoffverbrauchswerte sowie die CO2-Emissionen ebenso wie die Motorleistung und das maximale Drehmoment des Fahrzeuges nach dem Software-Update verändern würden. Das sei auch nicht zu erreichen, da es bekanntermaßen einen Zielkonflikt zwischen günstigen Stickstoffwerten und günstigen Kohlendioxid-Abgaswerten gebe. Es sei zu vermuten, dass eine Verbesserung der Stickoxidwerte nur unter Inkaufnahme neuer Mängel beim CO2-Ausstoß oder beim Kraftstoffverbrauch oder unter Inkaufnahme von erhöhtem Motorverschleiß möglich sei. Es sei daher zu befürchten, dass die Nacherfüllung wiederum zu einem Folgemangel an dem Pkw führe. Sein Vertrauensverhältnis zum Hersteller sei aufgrund der Vorfälle und der intransparenten Informationspolitik im Rahmen des VW-Abgasskandals nachhaltig gestört. Ferner habe der Hersteller die Käufer arglistig getäuscht, sodass ihr eine Nacherfüllung, die faktisch durch den Hersteller erfolge, unzumutbar sei. Schließlich sei im Falle der Nachbesserung ein merkantiler Minderwert zu befürchten, da sich ein Preisverfall bereits bei anderen Fahrzeugen zeige und allgemein beobachtet werde, dass Händler vom Abgasskandal betroffene Fahrzeuge nicht in Zahlung nehmen würden. Denn der durch die Softwareverwendung ausgelöste VW-Abgasskandal habe zu einem Vertrauensverlust nicht nur bei der Klagepartei, sondern allgemein in der Bevölkerung in die Marken des VW-Konzerns geführt.Der Kläger hat ursprünglich gegen die Beklagte und die Volkswagen AG Klage erhoben. Das Gericht hat den Rechtsstreit hinsichtlich der Volkswagen AG mit Beschluss vom 08.01.2018 abgetrennt und mit Beschluss vom 11.01.2018, auf Antrag des Klägers, an das Landgericht Mönchengladbach verwiesen.Der Kläger beantragt,1.die Beklagte zu verurteilen, an den Kläger 18.800,00 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz hieraus seit dem 02.08.2016 zu zahlen, Zug um Zug gegen Übereignung und Herausgabe des PKW VW Passat CC, FIN: ... und Zug um Zug gegen Zahlung einer von der Beklagten noch darzulegenden Nutzungsentschädigung;2.festzustellen, dass die Beklagte mit der Rücknahme des im Klageantrag zu 1. genannten PKW im Annahmeverzug ist;3.die Beklagte zu verurteilen, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.680,28 EUR freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte erhebt - insoweit unstreitig - die Einrede der Verjährung bezüglich der durch den Kläger behaupteten Mängel des überhöhten Kraftstoffverbrauchs sowie der überhöhten CO2-Ausstoßes.Die Beklagte behauptet, das Fahrzeug sei nicht mangelhaft, da das Fahrzeug vertragsgemäß sei. Insbesondere halte es auf dem Prüfstand die geforderten Grenzwerte hinsichtlich des Abgasausstoßes ein. Im Übrigen fehle es schon an einer Fristsetzung, welche auch nicht entbehrlich sei.Zudem sei ein von ihr unterstellter Mangel jedenfalls unerheblich, da die Nachbesserungsarbeiten Kosten von weniger als 100,00 EUR verursachten.Hinsichtlich des sonstigen Sach- und Streitstandes wird Bezug genommen auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen. 
+				Gründe
+				Die Klage ist zulässig und hat Erfolg.Der Kläger hat gegen die Beklagte einen Anspruch auf Rückzahlung des Kaufpreises von 18.880,00 EUR abzüglich gezogener Gebrauchsvorteile in Höhe von 6.384,26 EUR, Zug um Zug gegen Übereignung und Herausgabe des im Tenor zu 1) bezeichneten Fahrzeugs (§§ 346 Abs. 1, 348, 437 Nr. 2, 323 Abs. 1, 2 Nr. 3 BGB).Der Kläger ist von dem Kaufvertrag wirksam zurückgetreten.Das Fahrzeug wies im Zeitpunkt der Übergabe an den Kläger einen Sachmangel auf, weil es die Euro-5-Abgasnorm jedenfalls in Bezug auf den Stickoxidausstoß nicht erfüllte. Die Einhaltung dieser Norm war geschuldet, weil es der üblichen Beschaffenheit entspricht, dass ein Pkw-Motor die Abgasvorschriften einhält, die in den technischen Daten der Prospekte angegeben sind.Dass das Fahrzeug die Vorgaben der Norm nicht einhielt, folgt schon aus dem Umstand, dass die Abgasbehandlung in zwei verschiedenen Modi vorgenommen wurde, von denen einer für die Situation auf Prüfständen galt. In diesem Modus war der Stickoxidausstoß so stark reduziert, dass die Vorgaben der Norm erfüllt wurden. Eine solche differenzierte Motorsteuerung je nach Situation war aus Sicht der Entwickler nur dann nötig, wenn das Fahrzeug im anderen Modus - auf der Straße - die Euro-5-Norm in Bezug auf Stickoxid nicht einhielt.Die Ansicht der Beklagten, es komme rechtlich nur auf die Situation auf dem Prüfstand an, ist abwegig. Abgas- und Verbrauchswerte auf dem Prüfstand müssen zwar nicht mit denen im Straßenbetrieb übereinstimmen; Letztere sind höher. Jedoch muss die Motorsteuerung in beiden Situationen gleich sein, damit die Werte auf dem Prüfstand und auf der Straße zumindest korrelieren (so auchOLG Köln, Beschluss vom 20.12.2017 - 18 U 112/17, Rn. 33 und 37).Die Pflichtverletzung ist nicht unerheblich. Entgegen der Ansicht der Beklagten ist dabei nicht nur auf die Kosten des Software-Updates in Relation zum Kaufpreis abzustellen. Vielmehr ist eine umfassende Abwägung der beiderseitigen Interessen im Zeitpunkt der Rücktrittserklärung nötig. Bei dieser fallen weitere Faktoren ins Gewicht, wie sie in den Urteilen des Landgerichts Köln vom 2. März 2017 (2 O 317/16) und vom 18. Mai 2017 (2 O 422/16) dargelegt worden sind:Die Erheblichkeit wird indiziert, wenn der Mangel einen für den Gläubiger wesentlichen Qualitätsaspekt betrifft. Dies ist anzunehmen, denn die Einordnung in die Euro-5-Norm ist auch Voraussetzung für die möglichst weitgehende räumliche Benutzbarkeit des Autos, da der Betrieb von umweltschädlichen Pkw jedenfalls im Zentrum von Großstädten in den letzten Jahren eingeschränkt wurde und anzunehmen ist, dass weitere Einschränkungen folgen werden.Arglist des Vertragspartners führt in der Regel dazu, dass die Pflichtverletzung nicht unerheblich ist. Arglistig gehandelt hat vorliegend der Volkswagen-Konzern, nicht die Beklagte. Jedoch spielt die Arglist der Herstellerin auch in dieser Konstellation eine Rolle: Ein Software-Update kann der Kläger nicht von der Beklagten zu 1 beziehen, sondern nur von der Herstellerin (über die Beklagte zu 1 oder eine andere Vertragswerkstatt). Der Kläger hat wenig Anlass, der Herstellerin in Bezug auf Motorsoftware zu vertrauen, nachdem diese sowohl die Behörden als auch ihre Kunden über Jahre hinweg systematisch irregeführt hat.Die Motorsteuerung ist ein besonders sensibler Bereich eines Autos. Nicht ohne Grund erlischt die Hersteller-Garantie, wenn im Wege des sogenannten Chip-Tunings die Software eines nicht autorisierten Drittanbieters aufgespielt wird. So wie der Hersteller beim Chip-Tuning befürchtet, dass es zu Spätschäden am Motor kommt, hat vorliegend der Kläger Grund zur Sorge, das Software-Update könne bislang unbekannte Folgen für seinen Motor haben, die erst nach längerem Betrieb zu Tage treten.Ebenso wenig kann ausgeschlossen werden, dass das Fahrzeug auch nach Aktualisierung der Software mit einem Makel behaftet ist, der den Wiederverkaufswert mindert. Dem steht nicht entgegen, dass bisherige Marktuntersuchungen keinen Wertverfall von Pkw mit EA-189-Motor ergeben haben. Es ist allgemein bekannt, dass in ganz Deutschland eine Vielzahl von Klagen, die auf Rückabwicklung gerichtet sind, anhängig ist. Dies indiziert, dass eine Vielzahl von Käufern die Absicht hat, sich - vorzeitig - von ihrem Fahrzeug zu trennen. Dieses zusätzliche Angebot ist derzeit noch nicht auf dem Markt, weil die Käufer zunächst den Ausgang ihrer Prozesse abwarten.Im Übrigen war die notwendige Software zum Zeitpunkt der Rücktrittserklärung - vorliegend dem 15.07.2016 - noch nicht zum Aufspielen verfügbar, da jedenfalls die Genehmigung des Kraftfahrtbundesamtes zu diesem Zeitpunkt noch ausstand. Demnach stand weder bei Gefahrübergang, noch zu dem Zeitpunkt der Entdeckung des Mangels, noch zur Zeit des Nachbesserungsbegehrens (02.11.2015), noch zum Zeitpunkt des Rücktritts fest, ob und mit welchem zeitlichen und finanziellen Aufwand es gelingen würde, den Mangel in einer auch von dem für die Zulassung bedeutsamen Kraftfahrtbundesamt genehmigten Art und Weise zu beheben (OLG Köln a.a.O., Rn. 40).Die genannten Umstände wiegen in der Gesamtbetrachtung deutlich schwerer als der vergleichsweise geringe Kostenaufwand eines Software-Updates.Auch war eine Fristsetzung gem. § 323 Abs. 2 Nr. 3 BGB entbehrlich.Diesbezüglich wird auf die zutreffenden Ausführungen des Oberlandesgerichts Köln (Beschluss vom 27.03.2018 -18 U 134/17 -, juris) verwiesen."An die tatsächlichen Voraussetzungen für die Bejahung einer endgültigen Erfüllungsverweigerung im Sinne des § 323 Abs. 2 Nr. 1 BGB sind strenge Anforderungen zu stellen; sie liegt nur vor, wenn der Schuldner eindeutig zum Ausdruck bringt, er werde seinen Vertragspflichten nicht nachkommen. In dem Bestreiten von Mängeln liegt dabei nicht ohne weiteres eine endgültige Nacherfüllungsverweigerung; denn das Bestreiten ist prozessuales Recht des jeweiligen Schuldners. Vielmehr müssen zu dem bloßen Bestreiten weitere Umstände hinzutreten, welche die Annahme rechtfertigen, dass der Schuldner über das Bestreiten der Mängel hinaus bewusst und endgültig die Erfüllung seiner Vertragspflichten ablehnt und es damit ausgeschlossen erscheint, dass er sich von einer Fristsetzung hätte oder werde umstimmen lassen (vgl. nur BGH, Urt. v. 21. Dezember 2005 - VIII ZR 49/05 -, juris Rn. 25 m.w.N. sowie Schwarze, in: Staudinger, BGB, § 323, Neubearb. 2015/Stand: 9. November 2016, Rn. B 90).Im vorliegenden Fall bestreitet die Beklagte nicht lediglich die Mangelhaftigkeit des seitens des Klägers erworbenen Pkw vor und nach dem Software-Update, sondern das in seiner Wirkung streitige Software-Update ist dem Kläger als Käufer und Gläubiger des Nacherfüllungsanspruchs trotz der oben auch unter Bezugnahme auf eine frühere Entscheidung des Senats erörterten Sach- und Rechtslage - Sachmangel bereits durch die Ausrüstung mit der ursprünglich eingesetzten Software - und trotz des Vorgehens des Kraftfahrtbundesamtes gegenüber dem Hersteller zu keinem Zeitpunkt als Nachbesserung angeboten worden, sondern lediglich als im Verhältnis zum Kunden freiwillige Maßnahme des Herstellers. Die Beklagte und der Hersteller haben jedes Einräumen der Mangelhaftigkeit eines mit der beanstandeten Software versehenen Pkw geradezu sorgfältig vermieden.Zudem kann und konnte der Hersteller und kann und konnte erst recht die Beklagte nicht ohne weiteres zu einer weiteren Nachbesserung schreiten. Denn mit Rücksicht auf das zurückliegende, zu dem installierten Software-Update führende Verfahren müsste dazu nicht nur der Hersteller eine neue Lösung zur Einhaltung Stickstoffoxid-Emissions-Grenzwerte unter Beibehaltung der bisherigen Leistungs- und Verbrauchswerte sowie unter Schonung der Bauteile des Fahrzeugs zunächst entwickeln, erproben und sodann in der erforderlichen Menge herstellen lassen, sondern erneut müsste auch das KBA in den betreffenden Prozess einbezogen werden. Bei vernünftiger Betrachtung konnte und kann nicht davon ausgegangen werden, dass der Hersteller dies unter Inkaufnahme sowohl der damit verbundenen erheblichen Kosten als auch des neuerlichen öffentlichen Aufsehens bloß auf ein weiteres Nachbesserungsverlangen des Klägers gegenüber Beklagten unternähme. Die Beklagte selbst konnte die Nachbesserung außerdem nicht vornehmen und es kann auch nicht festgestellt werden, dass sie den Hersteller hierzu allein vor dem Hintergrund des Vorgehens des Klägers veranlassen konnte. Zu berücksichtigen ist schließlich, dass - wie die Erfahrung mit der Entwicklung, Bereitstellung und Freigabe des installierten Software-Updates zeigt - angesichts des Umfangs der erforderlichen Maßnahmen, der Masse der betroffenen Fahrzeuge und der Notwendigkeit das KBA zu beteiligen mit einem ganz erheblichen Zeitaufwand gerechnet werden muss, der nicht sicher prognostizierbar ist. Dabei ist auch zu bedenken, dass der Hersteller mit Maßnahmen zu einer weiteren Nachbesserung nach dem Sach- und Streitstand des vorliegenden Verfahrens und den öffentlich zugänglichen Informationen nicht begonnen hat, sondern öffentlich den Standpunkt vertritt, dass kein Mangel vorgelegen habe und das installierte Software-Update jedenfalls ausreiche. Dass das Abwarten einer gänzlich ungewissen Zeit bis zu der geschuldeten Nachbesserung den Kunden nicht zumutbar ist, hat der Senat in der oben genannten, bereits veröffentlichten Entscheidung bereits ausgeführt. Das bedarf nicht der Wiederholung.Vor dem Hintergrund dieser Umstände ist das Bestreiten der Beklagten hier ausnahmsweise sehr wohl auch als ernsthafte und endgültige Verweigerung einer Nachbesserung zu verstehen.Hinzu kommt, dass dem Hersteller und Vertragspartner der Beklagten eine gravierende Pflichtverletzung im Zusammenhang mit der Einrichtung einer "Abschaltvorrichtung" zur Last fällt, die wegen der Beteiligung des Kraftfahrtbundesamts und der in Rede stehenden EG-Typengenehmigung bedeutende Auswirkungen auch für die einzelnen Kunden hat bzw. hatte. Fest steht insofern, dass der Hersteller dem KBA die Einrichtung einer nach Auffassung des für die EG-Typengenehmigung zuständigen KBA unzulässigen "Abschaltvorrichtung" verschwiegen hatte und dass eine Vorrichtung wie die u.a. von A. verwendete sowie die diesbezügliche Argumentation der Beklagten den für die Genehmigung maßgebenden Laborbetrieb ad absurdum führt.Zweifellos richtig ist auch, dass das KBA diese bedenklichen Umstände nicht selbst und zeitnah im Zusammenhang mit den maßgebenden Laborprüfungen entdeckt hat und dass auch nicht der Hersteller selbst den Sachverhalt aus eigenem Antrieb aufgeklärt hat, sondern dass der Sachverhalt erst nach Jahren und auf aufsehenerregende Veröffentlichungen hin geklärt worden ist. Erst danach hat das KBA Maßnahmen ergriffen und schließlich die vom Hersteller bereitgestellte Software freigegeben. Allerdings ist die von der Beklagten vorgetragene Freigabebestätigung des KBA vom 10. August 2016 (hier vom 03.06.2016) mangels detaillierter Angaben zu Prüfungsgegenstand, zur Prüfungsmethodik sowie zu den an der Prüfung Beteiligten nicht einmal auf ihre Plausibilität hin prüfbar und vermag deshalb das in Frage gestellte Vertrauen der Kunden in den Hersteller und das Genehmigungsverfahren nicht wiederherzustellen.Schließlich ist in diesem Zusammenhang zu berücksichtigen, dass der Hersteller und die ihr verbundenen Händler wie die Beklagte die Details der vor und nach dem Update zur Motorsteuerung eingesetzten Software und ihrer Wirkungsweise den Kunden nicht bekannt gegeben haben. Deshalb ist den Käufern wie dem Kläger nicht einmal eine eigene Plausibilitätsprüfung möglich und kann man sich selbst im Falle vorhandener Sachkunde oder unter Hinzuziehung derselben nicht ohne weiteres von der behaupteten Ordnungsmäßigkeit der unternommenen Nachbesserung durch das Software-Update überzeugen.Mit Rücksicht darauf, dass die Käufer als einerseits mit gravierenden Rechtsfolgen konfrontiert sein könnten, wenn sich die u.a. vom hier betroffenen Hersteller unternommenen Manipulationen wiederholten, aber andererseits weder eine Grundlage für ein gewisses Vertrauen in den Hersteller und das KBA vorhanden sein kann, noch eine eigene auch nur auf die Plausibilität beschränkte Sachprüfung möglich ist, kann den Käufern betroffener Pkw und darunter auch dem Kläger nicht zugemutet werden, sich mit einer Nachbesserung unbekannten Inhalts in eine unsicheren zeitlichen Rahmen (s.o.) abzufinden.Demgegenüber vermag die Beklagte den Einsatz einer unzulässigen Software zur Motorsteuerung zwar selbst nicht zu verantworten und auch keinen Einfluss auf das bereitgestellte Software- Update haben. Sie kann sich aber wegen der in Betracht kommenden Regressansprüche im Zusammenhang mit einer ungenügenden ersten Nachbesserung durch das installierte Software- Update an den Hersteller als ihren diesbezüglichen Vertragspartner halten. Ferner kann die Beklagte ihrerseits als Käuferin eines Gebrauchtwagens beim Vor-Verkäufer Rückgriff nehmen."Der Rücktritt ist auch nicht gem. § 218 Abs. 1 BGB unwirksam. Hiernach ist der Rücktritt wegen nicht oder nicht vertragsgemäß erbrachter Leistung unwirksam, wenn der Anspruch auf die Leistung oder der Nacherfüllungsanspruch verjährt ist und der Schuldner sich hierauf beruft.Vorliegend hat der Kläger den Rücktritt wegen der verbauten Software zur Motorsteuerung erklärt. Diesbezüglich hat die Beklagte jedoch explizit nicht den Einwand der Verjährung erhoben.Die weitergehenden Mängel, denen die Beklagte die Einrede der Verjährung gegenüber erheben will, sind im Rahmen der Prüfung der Pflichtverletzung der Beklagten unerheblich. Hinsichtlich der Begründung Unzumutbarkeit der Nachfristsetzung hat das Gericht nicht auf das Bestehen tatsächlicher und durch den Kläger bewiesener Mängel abgestellt, sondern nur auf den bestehenden Mangelverdacht.Die Gebrauchsvorteile des Klägers sind mit 6.384,26 EUR anzusetzen. Die streitgegenständliche Fahrzeuge ist der Oberklasse zuzuordnen; eine Gesamtlaufleistung von 300.000 km kann berechtigt erwartet werden. Der Kläger erwarb den VW Passat mit einer Laufleistung von 45.500 km, so dass er noch 254.500 km mit dem Pkw hätte zurücklegen können. Tatsächlich ist er bis zum Schluss der mündlichen Verhandlung 86.059 km mit dem Wagen gefahren. Die Gebrauchsvorteile errechnen sich demnach wie folgt: 86.059 km ÷ 254.500 km × 18.880 EUR = 3.473,99 €.Spätestens seit Klageerhebung befindet sich die Beklagte in Annahmeverzug.Vorgerichtliche Anwaltskosten kann der Kläger nicht ersetzt verlangen. Die Anwaltskosten sind mit Beauftragung der klägerischen Prozessbevollmächtigten entstanden und damit vor Eintritt des Verzugs der Beklagten mit der Nacherfüllung oder der Erfüllung der Verpflichtungen aus dem Rückgewährschuldverhältnis.Der Anspruch auf Freistellung der Rechtsanwaltskosten in Höhe von 1.680,28 EUR gem. § 439 Abs. 2 BGB. Danach muss der Verkäufer die zum Zwecke der Nacherfüllung erforderlichen Aufwendungen tragen. Die Aufzählungen in § 439 Abs. 2 BGB sind nicht abschließend. Ersatzfähig sind alle erforderlichen Aufwendungen, so auch die erforderlichen Rechtsanwaltskosten (vgl. Landgericht Oldenburg, 16 O 790/16 mwN.). Hinsichtlich der Komplexität und der Undurchsichtigkeit, welche unter anderem auch auf das Verhalten der Beklagten zurückzuführen war, durfte sich der Kläger zur Geltendmachung seiner Ansprüche vorgerichtlicher anwaltlicher Unterstützung bedienen.Der Zinsanspruch folgt aus §§ 286 Abs. 1, 288, 290 BGB.Die Nebenentscheidungen basieren auf §§ 91 Abs. 1, 709 Satz 1 und 2 ZPO. Der Streitwert wird auf 18.800,00 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2142497.html (https://oj.is/2142497)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert2
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

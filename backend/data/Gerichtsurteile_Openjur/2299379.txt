@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG CoburgRechtsprechungEndurteil vom 03.06.2020 - 11 O 910/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Coburg, Endurteil vom 03.06.2020 - 11 O 910/19
+                      m. Fundstelle
+                      LG Coburg, Endurteil vom 03.06.2020 - 11 O 910/19 = openJur 2020, 73489
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Coburg, Endurteil vom 03.06.2020 - 11 O 910/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 73489
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Beklagte wird verurteilt, an den Kläger EUR 12.066,03 nebst Zinsen hieraus in Höhe von 4 Prozent seit dem 19.01.2011 bis 19.12.2019 und fünf Prozentpunkten über dem Basiszinssatz seit 20.12.2019 Zug-um-Zug gegen Rückgabe und Übereignung des Fahrzeuges der Marke Skoda Oktavia Combi 2.0 TDI 4X4 Scout mit der Fahrgestellnummer zu zahlen.2. Es wird festgestellt, dass sich die Beklagte seit dem 20.12.2019 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befindet.3. Die Beklagte wird verurteilt, an den Kläger die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von EUR 958,19 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 20.12.2019 zu zahlen.4. Im übrigen wird die Klage abgewiesen.5. Von den Kosten des Rechtsstreits trägt die Beklagte 43%, der Kläger 57%.6. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten über die Verpflichtung der Beklagten zur Leistung von Schadensersatz wegen des Kaufs eines vom sogenannten "Abgasskandal" betroffenen Dieselfahrzeugs durch den Kläger.Der Kläger erwarb am 18.11.2011 einen Pkw Skoda Oktavia 2,0 TDI 4x4 Scout als Neuwagen zum Preis von 28.074,25 EUR (Anlage K1). Das Fahrzeug verfügt über einem Dieselmotor des Typs EA 189, die Beklagte ist Herstellerin des Motors.Die Motorsteuerung des Fahrzeugs kennt zwei unterschiedliche Betriebsmodi, nämlich den Modus 1 und den Modus 0. Die Software ist so programmiert, dass der Wagen bei der Messung der Schadstoffemissionen auf dem Prüfstand diese Situation erkennt und dann im sogenannten Modus 1 läuft, während beim Betrieb im Straßenverkehr durchgehend der Modus 0 aktiv ist. Im Modus 1 wird zur Verringerung des Stickoxidanteils im Abgas mehr Abgas zur Verbrennung zurückgeführt. Das von der Beklagten nach Bekanntwerden der beschriebenen Eigenschaft der Motorsteuerung für diese Fahrzeuge vorgesehene Software-Update, das auch dem Kläger kostenfrei angeboten wurde, sieht vor, dass nach dessen Installation der Motor nur noch in einem adaptierten Betriebsmodus 1 betrieben wird. Der Kläger hat das Update inzwischen auf sein Fahrzeug aufspielen lassen.Die Beklagte wurde außergerichtlich durch Rechtsanwaltsschreiben vom 05.12.2019 mit Fristsetzung bis 19.12.2019 erfolglos aufgefordert, den Kaufpreis Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs zu erstatten (Anlage K13).Am Tag der mündlichen Verhandlung hatte das Fahrzeug einen Kilometerstand von 171.063 km.Der Kläger trägt vor, die Beklagte habe ihn dadurch, dass sie den Motor mit einer illegalen Abschalteinrichtung ausgestattet und auf den Markt gebracht habe, in einer gegen die guten Sitten verstoßenden Weise vorsätzlich geschädigt. Das Fahrzeug entspreche aufgrund der verbauten Motorsteuerungssoftware nicht dem geltenden Recht. Die Beklagte habe den Kläger über die Gesetzeskonformität des Fahrzeugs getäuscht. Der Schaden des Klägers bestehe darin, dass er einen Kaufvertrag abgeschlossen habe, den er bei Kenntnis der wahren Sachlage nicht geschlossen hätte. Zudem habe das Fahrzeug aufgrund der Manipulation einen Minderwert erlitten. Der gesetzliche Vertreter bzw. die maßgeblichen Organe der Beklagten seien über die Softwaremanipulationen informiert gewesen. Zudem folge eine Haftung der Beklagten aus der Lehre vom Organisationsmangel.Das von der Beklagten angebotene Software-Update beseitige den dem Fahrzeug aufgrund der Manipulation anhaftenden Makel nicht und gefährde die Dauerhaltbarkeit des Fahrzeugs. Der Kläger könne daher von der Beklagten gemäß §§ 826, 249 Abs. 1 BGB die Erstattung des Kaufpreises verlangen. Dem Kläger stehe gegen die Beklagte gemäß § 849 BGB ein Anspruch auf Zahlung von Zinsen in Höhe von 4% seit Zahlung des Kaufpreises zu. Auch sei die Beklagte verpflichtet, dem Kläger vorgerichtliche Rechtsanwaltskosten zu erstatten.Der Kläger beantragt zuletzt,Die Beklagte wird verurteilt, an die Klägerpartei EUR 28.074,25 nebst Zinsen in Höhe von 4 Prozent seit dem 19.01.2011 bis 19.12.2019 und seither fünf Prozentpunkten über dem Basiszinssatz abzüglich einer mit Null Euro zu beziffernden Nutzungsentschädigung Zug-um-Zug gegen Rückgabe und Übereignung des Fahrzeuges der Marke Skoda Oktavia Combi 2.0 TDI 4X4 Scout mit der Fahrgestellnummer zu zahlen.Es wird festgestellt, dass sich die Beklagte seit dem 20.12.2019 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befindet.Die Beklagte wird verurteilt, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von EUR 1.666,95 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 20.12.2019 zu zahlen.Die Beklagte beantragt Klageabweisung.Sie führt aus, sie habe den Kläger im Zusammenhang mit dem Abschluss des Kaufvertrages nicht über maßgebliche Umstände getäuscht, insbesondere nicht über Emissionswerte des streitgegenständlichen Fahrzeugs. Auch habe der Kläger nicht den Nachweis eines vorsätzlichen, die Sittenwidrigkeit begründenden Verhaltens von Vorstandsmitgliedern im Sinne des Aktienrechts der Beklagten im Zeitpunkt des Kaufvertragsschlusses erbracht. Der Beklagten obliege insofern auch keine sekundäre Darlegungslast. Die Beklagte bestreitet, dass der Kläger bei Kenntnis der streitgegenständlichen Softwareprogrammierung das Fahrzeug nicht gekauft hätte. Auch liege weder eine Sittenwidrigkeit noch eine besondere Verwerflichkeit des Handelns der Beklagten vor. Das Fahrzeug verfüge nicht über eine unzulässige Abschalteinrichtung. Das Fahrzeug werde während des normalen Fahrbetriebs durchgehend im Modus 0 betrieben, weshalb die Wirksamkeit der Abgasreinigung im normalen Straßenverkehr gleich bleibe. Auf die Emissionswerte des Fahrzeugs im normalen Straßenbetrieb komme es auch gar nicht an, weil der Gesetzgeber sich bewusst dafür entschieden habe, die Emissionsgrenzwerte allein unter Laborbedingungen festzulegen. Es habe für das Fahrzeug auch zu keinem Zeitpunkt ein Entzug der EG-Typgenehmigung gedroht. Im übrigen bestünden für den Kläger jedenfalls nach Durchführung des Updates keinerlei Nachteile mehr. Die Beklagte erhebt zudem die Einrede der Verjährung. Für den Fall eines Schadensersatzanspruchs des Klägers müsse sich dieser die bisher gezogenen Nutzungen anrechnen lassen.Hinsichtlich des weiteren Sachvortrags der Parteien wird auf die wechselseitig eingereichten Schriftsätze nebst Anlagen und die Sitzungsniederschrift Bezug genommen. Das Gericht hat den Kläger informatorisch angehört. Insofern wird ebenfalls auf die Sitzungsniederschrift verwiesen. 
+				Gründe
+				Die Klage ist zulässig und im tenorierten Umfang begründet. Soweit der Kläger sich Nutzungen anrechnen lassen musste und hinsichtlich eines Teils der geltend gemachten vorgerichtlichen Rechtsanwaltskosten war die Klage als unbegründet abzuweisen.I.Die Beklagte haftet dem Kläger gemäß §§ 826, 831, 31, 249 Abs. 1 BGB auf Schadensersatz, da sie ihm in einer gegen die guten Sitten verstoßenden Weise vorsätzlich Schaden zugefügt hat.1. Handlung der BeklagtenDie Handlung der Beklagten, durch die der Kläger geschädigt wurde, war das (rechtsgeschäftliche) Inverkehrbringen des streitgegenständlichen Motors unter Verschweigen der gesetzeswidrigen Programmierung der Motorsteuerungssoftware (dazu unter Ziff. 2), die bewirkt, dass der Betrieb des Fahrzeugs auf einem Prüfstand erkannt und die Abgasbehandlung des Fahrzeugs in den sogenannten Modus 1 versetzt wird.2. Vermögensschaden des KlägersDurch die Handlung der Beklagten hat der Kläger einen Vermögensschaden erlitten. Dieser besteht darin, dass er in Unkenntnis der nicht gesetzeskonformen Motorsteuerungssoftware den streitgegenständlichen PKW erworben und damit einen ihm wirtschaftlich nachteiligen Vertrag geschlossen hat. Dass es sich bei diesem Vertrag um einen für den Kläger wirtschaftlich nachteiligen handelt, zeigt schon die Überlegung, dass kein verständiger Kunde ein Fahrzeug mit dieser Motorsteuerungssoftware erwerben würde, wenn die Beklagte ihn vor dem Kauf darauf hinweisen würde, dass die Software nicht gesetzeskonform sei und er deshalb jedenfalls mit Problemen für den Fall der Entdeckung der Manipulation durch das KBA rechnen müsse. Der Kläger hat nicht das bekommen, was ihm aus dem Kaufvertrag zustand, nämlich ein technisch einwandfreies, den gesetzlichen Bestimmungen entsprechendes Fahrzeug (LG Hildesheim, Urteil vom 17.01.2017, 3 O 139/16). Die von der Beklagten vorgenommene Programmierung der Motorsteuerungssoftware ist gesetzeswidrig. In der Verwendung von Abschaltvorrichtungen, die die Wirkung von Emissionskontrollsystemen verringern, liegt ein Verstoß gegen Art. 5 Abs. 2 in Verbindung mit Art. 3 Nr. 10 der Verordnung (EG) Nr. 715/2007 des europäischen Parlaments und des Rates vom 20.06.2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge. Bei verständiger Auslegung ist die von der Beklagten installierte Programmierung als Abschalteinrichtung anzusehen. Denn sie setzt die zu einem geringeren Stickoxidausstoß führende, ausschließlich für den Prüfstand bestimmte Programmierung der Motorsteuerung im Modus 1 für den Fahrbetrieb auf der Straße außer Kraft mit der Folge, dass der Stickoxidausstoß im Fahrbetrieb auf der Straße höher ist als auf dem Prüfstand. Umgekehrt wird die im normalen Fahrbetrieb wirksame Programmierung etwa für die Abgasrückführung auf dem Prüfstand außer Kraft gesetzt, indem die Motorsteuerung den sogenannten Modus 0, nämlich den Betriebszustand für den normalen Fahrbetrieb auf der Straße, zu Gunsten eines ausschließlich für den Prüfstandbetrieb bestimmten Modus abschaltet. Dies gilt unabhängig davon, ob tatsächlich eine Einwirkung auf das Emissionskontrollsystem vorhanden ist oder aber lediglich eine Einwirkung auf einen "innermotorischen Vorgang" erfolgt. Schon die Testzykluserkennung in Verbindung mit einer ausschließlich im Testzyklus erfolgenden Einwirkung auf die Abgasrückführung ist ein Verstoß gegen das Verbot von Abschalteinrichtungen. Zudem liegt auf der Hand, dass auch eine Schadstoffmessung auf dem Prüfstand nur sinnvoll ist und einen Vergleich von Fahrzeugen verschiedener Hersteller ermöglicht, wenn das zu testende Fahrzeug gerade hinsichtlich der Abgasbehandlung dem Zustand entspricht, der auch auf der Straße gegeben ist, da ansonsten Manipulationen jedweder Art Tür und Tor geöffnet würden und eine Vergleichbarkeit selbst unter den dem realen Fahrbetrieb fernen, genormten Prüfstandbedingungen nicht mehr herzustellen wäre. Eine ausschließlich auf den Testzyklus zugeschnittene Programmierung der Abgasbehandlung kann deshalb nur als unzulässige Umgehung der einschlägigen Vorschriften angesehen werden (LG Hildesheim, a.a.O.).3. Zurechnung des schädigenden VerhaltensDie schädigende Handlung ist der Beklagten zuzurechnen. Der objektive Tatbestand des § 826 BGB - rechtsgeschäftliches Inverkehrbringen des Fahrzeugs unter Verschweigen der Programmierung der Motorsteuerung - wurde von Personen verwirklicht, deren Verhalten sich die Beklagte gemäß §§ 166, 831 BGB zurechnen lassen muss, nämlich von ihren Mitarbeitern.4. Objektiv sittenwidriges VerhaltenDas Verhalten der Beklagten verstieß gegen die guten Sitten. Objektiv sittenwidrig ist eine Handlung, die nach Inhalt oder Gesamtcharakter, der durch zusammenfassende Würdigung von Inhalt, Beweggründen und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt, d. h. mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist. Abzustellen ist auf die in der Gemeinschaft oder in der beteiligten Gruppe anerkannten moralischen Anschauungen. Dabei ist ein durchschnittlicher Maßstab anzulegen (BGHZ 10, 232). Hinzutreten muss zu der objektiven Sittenwidrigkeit eine besondere Verwerflichkeit des Verhaltens, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zu Tage tretenden Gesinnung oder den eintretenden Folgen ergeben kann (Palandt-Sprau, BGB, 76. Aufl., § 826 Rn. 4).Der BGH (Urteil v. 03.12.2013, Az. XI ZR295/12, NJW 2014, 1098) hat hierzu ausgeführt:"Ein Verhalten ist sittenwidrig, wenn es gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt (st. Rspr. seit RGZ 48, 114, 124). In diese rechtliche Beurteilung ist einzubeziehen, ob es nach seinem aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter mit den guten Sitten nicht zu vereinbaren ist (BGH, Urt. v. 20.11.2012, Az. VI ZR268/11, WM 2012, 2377 Rn. 25 und vom 04.06.2013, Az. VI ZR 288/12, WM 2013, 1310 Rn. 14, jeweils mwN). Ein Unterlassen verletzt die guten Sitten nur dann, wenn das geforderte Tun einem sittlichen Gebot entspricht. Hierfür reicht die Nichterfüllung einer allgemeinen Rechtspflicht, aber auch einer vertraglichen Pflicht nicht aus. Es müssen besondere Umstände hinzutreten, die das schädigende Verhalten wegen seines Zwecks oder wegen des angewandten Mittels oder mit Rücksicht auf die dabei gezeigte Gesinnung nach den Maßstäben der allgemeinen Geschäftsmoral und des als "anständig" Geltenden verwerflich machen (BGH, Urt. v. 20.11.2012, VI ZR 268/11, a.a.O. und v. 04.06.2013, VI ZR 288/12, a.a.O, jeweils m.w.N.)."Unter Anwendung dieser Grundsätze ist das Verhalten der Beklagten sittenwidrig: Die Täuschung durch die Beklagte diente - andere Motive sind weder von der Beklagten dargelegt noch sonst ersichtlich - dem Zweck, zur Kostensenkung (und möglicherweise zur Umgehung technischer Probleme) rechtlich und technisch einwandfreie, aber teurere Lösungen der Abgasreinigung zu vermeiden und mit Hilfe der scheinbar umweltfreundlichen Prüfstandwerte Wettbewerbsvorteile zu erzielen. Schon dieses Gewinnstreben um den Preis der bewussten Täuschung und Benachteiligung von Kunden gibt dem Handeln der Beklagten das Gepräge der Sittenwidrigkeit. Hinzu tritt, dass die Beklagte durch die Manipulation der Motorsteuerungssoftware einen Teil des Motors beeinflusst hat, den ein technischer Laie keinesfalls und selbst ein Fachmann nur mit Mühe durchschaut, so dass die Entdeckung der Manipulation mehr oder weniger vom Zufall abhing und die Beklagte darauf hoffen konnte, niemals erwischt zu werden. Ein solches die Verbraucher täuschendes Verhalten ist auch bei Anwendung eines durchschnittlichen, nicht übermäßig strengen Maßstabs als sittenwidrig anzusehen. Das Verhalten der Beklagten wiegt umso schwerer, als es sich beim Kauf eines PKW für viele Verbraucher um eine wirtschaftliche Entscheidung von erheblichem Gewicht mit oft deutlichen finanziellen Belastungen handelt, die durch das unredliche Verhalten der Beklagten nachteilig beeinflusst worden ist. Die Beklagte hat die Ahnungslosigkeit der Verbraucher bewusst zu ihrem eigenen Vorteil ausgenutzt (LG Hildesheim, a.a.O.).5. Vorsatz und subjektive ZurechnungDie Beklagte hat dem Kläger den Schaden vorsätzlich zugefügt. Mangels jeglicher entgegenstehender Anhaltspunkte muss davon ausgegangen werden, dass den betreffenden verantwortlichen Mitarbeitern der Beklagten völlig klar war, dass die Beklagte Dieselmotoren verkaufte, die hinsichtlich der Abgaswerte nicht den einschlägigen Vorschriften entsprachen, und dass somit die Kunden der Beklagten selbst und weitere Käufer der betreffenden Fahrzeuge für sie jeweils wirtschaftlich nachteilige Kaufverträge abschlossen. Den Verantwortlichen waren auch die oben genannten objektiven Umstände bekannt, die das Verhalten als sittenwidrig erscheinen lassen.Für die Zurechnung des Vorsatzes sind der Beklagten als Unternehmen nach § 166 Abs. 1 BGB die Kenntnisse aller Mitarbeiter zuzurechnen, die bei der Bearbeitung des inkriminierten Geschäfts mitgewirkt haben (Münchener Kommentar zum BGB, 7. Auflage 2017, § 826 BGB, Rn. 39; KG Berlin, BeckRS 2015, 15908 Rn. 51 f.). Das In-Verkehr-Bringen des streitgegenständlichen Motors bewirkte die Beklagte im rechtsgeschäftlichen Verkehr, auch wenn eine Veräußerung nicht direkt an den Kläger, sondern vermittels weiterer Beteiligter erfolgte. Aus Gründen des Verkehrsschutzes ist es sachgerecht, einer juristischen Person im rechtsgeschäftlichen Verkehr in weiterem Umfang das Wissen von Mitarbeitern hinsichtlich solcher Vorgänge zuzurechnen, deren Relevanz für spätere Geschäftsvorgänge innerhalb des Organisationsbereichs dem Wissenden erkennbar ist und die deshalb dokumentiert und verfügbar gehalten oder an andere Personen innerhalb des Organisationsbereichs weitergegeben werden müssen (vgl. BGH, Urteil vom 27.03.2001, VI ZR 12/00). Nach den Grundsätzen einer ordnungsgemäßen Organisation wäre es bei der massenhaften Verwendung der streitgegenständlichen Software in Neufahrzeugen zwingend geboten gewesen, eine entsprechende Dokumentation vorzunehmen und den Vorstand über die maßgeblichen Umstände zu informieren.6. Kausalität und SchutzzweckzusammenhangDer Vermögensschaden des Klägers wurde durch das vorsätzliche und sittenwidrige Verhalten der Beklagten verursacht. Die Haftung wird auch nicht dadurch ausgeschlossen, dass die oben genannte EU-Verordnung Nr. 715/2007 nicht dem Schutz individueller Vermögensinteressen, sondern gesamtgesellschaftlichen Zielen diene. Verletzte Verhaltensnorm ist vorliegend das Verbot, einen anderen durch Täuschung zu einem ihm nachteiligen Vertragsabschluss zu bewegen. Der Schutzzweckzusammenhang ist gegeben.7. Rechtsfolge der gegen die guten Sitten verstoßenden vorsätzlichen Schädigung ist ein Anspruch des Klägers auf Schadensersatz. Der Kläger ist so zu stellen, wie er stünde, wenn der zum Ersatz verpflichtende Umstand nicht eingetreten wäre (§ 249 Abs. 1 BGB).Der Schadensersatzanspruch des Klägers geht deshalb dahin, dass die Beklagte ihn so stellen muss, wie er ohne die Täuschung über die nicht gesetzeskonforme Motorsteuerungssoftware gestanden hätte. Insoweit ist ohne weiteres davon auszugehen, dass der Kläger - wie jeder verständige Kunde und wie von ihm im Rahmen informatorischer Anhörung auch glaubhaft angegeben - bei Kenntnis des Sachverhalts und der damit verbundenen Risiken für den Fortbestand der Betriebserlaubnis den Vertrag nicht geschlossen hätte. Die Beklagte muss danach die wirtschaftlichen Folgen des Kaufs dadurch ungeschehen machen, dass sie den Kaufpreis gegen Herausgabe und Übereignung des Fahrzeugs erstattet.Dabei muss der Kläger sich nach den Grundsätzen der Vorteilsausgleichung die von ihm gezogenen Nutzungen anrechnen lassen. Deren Wert ist entsprechend der unbestrittenen Darlegung des Klägers zum Kilometerstand des Fahrzeugs gemäß § 287 ZPO auf 16.008,22 EUR zu schätzen. Dabei ist eine Gesamtlaufleistung des gerichtsbekannt robusten Fahrzeugs von 300.000 km zugrunde zu legen. Beim Neufahrzeug ergibt sich die Höhe der Nutzungen aus einer Multiplikation des Bruttokaufpreises und der zurückgelegten Fahrstrecke geteilt durch die zu erwartende Gesamtlaufleistung des Fahrzeugs. Für die gefahrenen 171.063 km ergibt sich der genannte Betrag.Nach Abzug der Nutzungen in Höhe von 16.008,22 EUR ergibt sich ein Zahlungsanspruch in Höhe von 12.066,03 EUR. Hinsichtlich des darüber hinausgehenden Klageantrags war die Klage abzuweisen.8. Keine VerjährungDer Anspruch ist nicht verjährt. Der Beginn der dreijährigen Verjährungsfrist (§ 195 BGB) richtet sich nach § 199 Abs. 1 BGB, erfordert also insbesondere Kenntnis bzw. grob fahrlässige Unkenntnis des Gläubigers bzgl. der anspruchsbegründenden Umstände und der Person des Schuldners. Entgegen der Ansicht der Beklagten kann von einer Kenntnis oder grob fahrlässige Unkenntnis des Käufers eines betroffenen Fahrzeugs von der Person des Schuldners bzw. der subjektiven Voraussetzungen einer Haftung der Beklagten weder im Jahr 2015, noch im Jahr 2016 ausgegangen werden. Das Landgericht Essen hat hierzu ausgeführt (Urteil vom 18.07.2019, Az.: 6 O 247/19): Die Beklagte bestreitet bis zum heutigen Tage textbausteinartig in zahllosen gerichtlichen Verfahren, dass ihre ge - setzlichen Vertreter Kenntnis von der verwendeten Software gehabt hätten und be - ruft sich darauf, dass die internen Vorgänge noch immer nicht umfassend aufge - klärt wurden. Wenn es sogar der Beklagten innerhalb von mehreren Jahren und mit Hilfe von unabhängigen Ermittlern nicht gelungen sein soll, die Entscheidungs - träger in ihrem Unternehmen ausfindig zu machen, kann bei Außenstehenden - wie dem Kläger - nicht angenommen werden, dass diese bereits bei Bekanntwerden der ersten Details die vorsätzliche Begehungsweise der Beklagten erkannten bzw. erkennen mussten."Dem tritt das Gericht bei. Nachdem die Beklagte insbesondere zu der Kenntnis des Klägers von den subjektiven Voraussetzungen einer Haftung der Beklagten nichts Konkretes vorträgt, war auch dem Antrag auf Parteivernehmung des Klägers nicht zu entsprechen. Da die Verjährungsfrist mithin aus o.g. Gründen jedenfalls noch nicht im Jahre 2016 zu Laufen begann, kommt es auch nicht darauf an, dass die Zustellung der noch im Jahre 2019 eingereichten Klageschrift vorliegend nicht vor dem 24.02.2020 (Eingang Kostenvorschuss) verfügt werden konnte, da die Verjährungsfrist auch im Jahr 2020 noch nicht abgelaufen war.9. Annahmeverzug der Beklagten ist aufgrund des Schreibens der Klägervertreter, Anlage K13, eingetreten.10. Der Zinsanspruch ergibt sich von der Zahlung des Kaufpreises an bis zum Verzugseintritt aus § 849 BGB. Dem Kläger wurde durch Erfüllung des Kaufvertrages die Nutzung des von ihm auf den Kaufpreis gezahlten Geldes entzogen. Der Verzinsungspflicht steht auch nicht entgegen, dass statt dessen die Möglichkeit der Nutzung des PKW erlangt wurde, da der Kläger sich seinerseits die gezogenen Nutzungen anrechnen lassen muss (vgl. oben). Der Zinssatz von 4% ergibt sich aus § 246 BGB. Ab dem Zeitpunkt des Verzugs schuldet die Beklagte Zinsen gem. §§ 286, 288 BGB.11. Als Schadensersatz kann der Kläger nach §§ 826, 249 Abs. 1 BGB auch Erstattung vorgerichtlicher Rechtsanwaltskosten verlangen, jedoch nur in Höhe von 958,19 EUR. Ausgehend von einem Gegenstandswert in Höhe von 12.066,03 EUR war eine 1,3 Geschäftsgebühr zuzüglich Auslagenpauschale und Mehrwertsteuer anzusetzen, so dass sich der genannte Betrag ergibt. Eine Erhöhung der Schwellengebühr von 1,3, die die Regelgebühr für durchschnittliche Fälle darstellt, auf eine 1,6 Gebühr ist der gerichtlichen Überprüfung hinsichtlich des Vorliegens der tatbestandlichen Voraussetzungen für eine Überschreitung der Regelgebühr nicht entzogen. Eine Erhöhung über die Regelgebühr hinaus kann nur gefordert werden, wenn die Tätigkeit des Rechtsanwalts umfangreich oder schwierig war. Diese Voraussetzungen sind vorliegend nicht gegeben. Das vorliegende Verfahren ist eines von vielen gleichartigen Verfahren, die von den Klägervertretern betreut werden. Es wird überwiegend mit entworfenen Textbausteinen gearbeitet. Eine umfangreiche oder schwierige Tätigkeit kann nicht gesehen werden (vgl. OLG Bamberg, Urteil vom 27.12.2016, 5 U 82/16).II.Die Kostenentscheidung folgt § 92 Abs. 1 ZPO. Der Ausspruch über die vorläufige Vollstreckbarkeit folgt § 709 S. 1 und 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2299379.html (https://oj.is/2299379)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate9
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

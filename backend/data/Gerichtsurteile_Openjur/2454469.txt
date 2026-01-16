@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG WürzburgRechtsprechungEndurteil vom 26.08.2021 - 14 O 2248/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Würzburg, Endurteil vom 26.08.2021 - 14 O 2248/20
+                      m. Fundstelle
+                      LG Würzburg, Endurteil vom 26.08.2021 - 14 O 2248/20 = openJur 2022, 20035
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Würzburg, Endurteil vom 26.08.2021 - 14 O 2248/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 20035
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Beklagte wird verurteilt, an den Kläger 46.992,07 € zuzüglich Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit 05.01.2021 zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs ... mit der Fahrzeug-Identifizierungsnummer ....2. Es wird festgestellt, dass sich die Beklagte mit der Entgegennahme des im Klageantrag zu 1 ... genannten Fahrzeugs in Annahmeverzug befindet.3. Die Beklagte wird verurteilt, den Kläger von vorgerichtlichen Rechtsverfolgungskosten in Höhe von 1.822,96 € freizustellen.4. Im Übrigen wird die Klage abgewiesen.5. Von den Kosten des Rechtsstreits haben der Kläger 7 % und die Beklagte 93 % zu tragen.6. Das Urteil ist vorläufig vollstreckbar, für den Kläger jedoch nur gegen Sicherheitsleistung in Höhe von 110 % des zu vollstreckenden Betrags. Der Kläger kann die Vollstreckun g der Beklagten durch Sicherheitsleistung in Höhe von 110 % des aufgrund des Urteils vollstreckbaren Betrags abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 % des zu vollstreckenden Betrags leistet.7. Der Streitwert wird auf 50.609,84 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatz aufgrund Fahrzeugkauf der Klägerpartei im Jahr 2016 und im Fahrzeug enthaltener unzulässiger Abschalteinrichtungen.Die Klägerpartei erwarb von einem nicht am Rechtsstreit beteiligten Dritten gemäß verbindlicher Bestellung vom 17.02.2016 (Anlage K1) einen ..., Erstzulassungsdatum 30.07.2015, km-Stand: 14.575 km, Abgasnorm EU 6 zu einem Kaufpreis von 62.990,00 €.Der Kilometerstand des streitgegenständlichen Fahrzeugs betrug zum 07.07.2021 87.031 km.Die Beklagte ist Hersteller des Motors des streitgegenständlichen Fahrzeugs.Das streitgegenständliche Fahrzeug ist von einer verbindlichen Rückrufaktion des Kraftfahrtbundesamts betroffen. Dieser Rückrufaktion liegt zu Grunde, dass im Fahrzeug nach Auffassung des KBA unzulässige Abschalteinrichtungen enthalten sind.Der Rückruf ist u.a. wegen einer Aufheizstrategie erfolgt, die im Fahrzeug enthalten ist. Diesbezüglich ist im Fahrzeug eine Softeware installiert ist, die die Umgebungstemperatur und andere physikalische Größen misst. Schließt die Software aus diesen Umständen darauf, dass sich das Fahrzeug auf dem Rollenprüfstand befindet, schaltet sie eine Aufheizvorrichtung an, die den Schadstoffausstoß vermindert. Der SCR-Katalysator wird damit schnell auf Betriebstemperatur gebracht. Im realen Betrieb wird diese Funktion hingegen abgeschaltet. Nur durch Verwendung dieser Software werden die Grenzwerte der Euro 6-Norm auf dem Prüfstand eingehalten.Die Klägerpartei wurde mit Schreiben der ... Verbraucherschutz aus Februar 2018 (Anlage K2) aufgefordert aufgrund des Rückrufs ein Software-Update an der Motorsteuergeräte-Software durchführen zu lassen.Die Klägerpartei forderte die Beklagte mit anwaltlichem Schreiben vom 23.11.2020 (Anlage K 3) auf den Kaufpreis sowie Zinsen auf den Kaufpreis in Höhe von 4 % ab Kaufzeitpunkt Zug-um-Zug gegen Übergebe und Übereìgnung des streitgegenständlichen Fahrzeugs bis zum 07.12.2020 zu bezahlen. Die Beklagte kam dem nicht nach.Die Klägerpartei trägt im Wesentlichen vor:Ein der durch die Bestätigung der EU-Vorgaben hervorgerufenen Fehlvorstellung, dass es sich um ein ordnungsgemäß genehmigtes und verkehrsfähiges Fahrzeug handelte, habe die Klägerschaft schließlich den streitgegenständlichen PKW erworben. Hätte die Klägerschaft von der Manipulation, von dem Umstand, dass die erlaubten Grenzwerte für Stickoxid außerhalb des Prüfstands nicht eingehalten werden, und von der drohenden Betriebsuntersagung gewusst, so hätte sie das Fahrzeug nicht gekauft.Neben der Aufwärmstrategie seien noch weitere unerlaubte Abschalteinrichtungen im Fahrzeug verbaut.Die Täuschungshandlung und die Irrtumserregung müsse sich die Beklagte auch zurechnen lassen. Auf Grund der im Corporate Governance Bericht der ... dargestellten Berichts- und Kontrolldichte und des implementierten Risikomanagementsystems habe der Vorstand der ... Kenntnis vom Einsatz dieser Abschalteinrichtung gehabt, wodurch sich die Haftung der Beklagten begründe. Auch müsse bei lebensnaher Betrachtung unterstellt werden, dass strategische Entscheidungen von derartiger Tragweite grundsätzlich nicht ohne Kenntnis des Vorstands getroffen werden. Die Klägerschaft könne aus eigenem Wissen nicht darlegen, in welcher Organisationseinheit der Beklagten die Motorsteuerungssoftware/Abschalteinrichtung entwickelt, verwendet oder verbaut worden sei, wer die Entscheidung hierüber getroffen habe und wie diese Entscheidung bei der Beklagten kommuniziert worden sei. Demgegenüber sei es der Beklagten nicht nur möglich, dies aufzuklären, sondern bestehe aus Compliance-Grundsätzen auch eine entsprechende Verpflichtung der Beklagten. Insoweit treffe sie eine sekundäre Darlegungslast, zu den internen Vorgängen im Zusammenhang mit der Abschalteinrichtung vorzutragen.Die Beklagte hafte aus sittenwidriger Schädigung sowie weiteren deliktischen Anspruchsgrundlagen.Der Schaden der Klägerschaft, bestehe darin, dass die Klägerschaft in Unkenntnis der nicht gesetzeskonformen Motorsteuerungssoftware den streitgegenständlichen PKW erworben und damit einen für sie wirtschaftlich nachteiligen Vertrag abgeschlossen habe. Kein verständiger Kunde - so auch die Klägerschaft - würde ein Fahrzeug mit dieser Motorsteuerungssoftware erwenben, wenn die Beklagte vor dem Kauf darauf hinweisen würde, dass die Software nicht gesetzeskonform sei und der Kunde deshalb mit Problemen für den Fall der Entdeckung der Manipulation durch das KBA rechnen müsse. Die Klägerschaft sei so zu stellen, als wenn sie den streitgegenständlichen PKW nicht erworben hätte. Zu Gunsten der Beklagten sei dabei zu berücksichtigen, dass sich die Klägerschaft unter dem Gesichtspunkt der Vorteilsausgleichung die gezogenen Nutzungen entgegenhalten lassen müsse. Vorliegend seien dabei die von der Klägerschaft gefahrenen Kilometer in Ansatz zu bringen. Die gewöhnliche Lauleistung von Fahrzeugen dieser Art betrage 350.000 km.Der Kläger beantragt:1. Die Beklagte wird verurteilt, an die Klägerschaft 50.609,84 € zzgl. Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs ... mit der Fahrzeug-Identifizierungsnummer ....2. Es wird festgestellt, dass sich die Beklagte mit der Entgegennahme des im Klageantrag zu 1. genannten Fahrzeugs in Annahmeverzug befindet.3. Die Beklagte wird verurteilt, die Klägerschaft von vorgerichtlichen Rechtsverfolgungskosten in Höhe von 3.642,40 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte trägt im Wesentlichen vor:Das streitgegenständliche Fahrzeug, das über einen Motor des Typs ... (EU6) verfüge, sei nicht von der im September 2015 bei Motoren des Typs ... (EU5) bekannt gewordenen Umschaltiogik der Abgasrückführung betroffen, deren Verwendung der Bundesgerichtshof in seinem Urteil vom 25. Mai 2020 (Az. VI ZR 252/19) als sittenwidrige Handlung einstufte. Die Ausführungen der Klagepartei zu Entscheidungen in EA189-Verfahren würden daher nicht verfangen. In der Folge stütze die Klagepartei ihr Begehren auf unsubstantiierte Behauptungen.Es sei nicht glaubhaft, wenn die Klagepartei behaupte, dass sie den Abschluss eines Kaufvertrags über ein Fahrzeug mit einem Leergewicht von ca. zwei Tonnen, in dem ein ... Motor verbaut ist, der eine Leistung von 262 PS erreicht, vollständig von der Einhaltung von Stickoxidwerten abhängig gemächt haben wolle, die der Klagepartei nicht bekannt und für die Nutzbarkeit des streitgegenständlichen Fahrzeugs nicht relevant seien. Schon auf tatsächlicher Ebene sei daher nicht nachvollziehbar, inwiefern die Emissionswerte des streitgegenständlichen Fahrzeuges der entscheidende Faktor für den Abschluss des Kaufvertrags gewesen sein sollen. Vielmehr sei davon auszugehen, dass es der Klagepartei bei Abschluss des Kaufvertrags allein darauf angekommen sei, ein besonders leistungsstarkes Fahrzeug zu erwerben. Selbst wenn man der Beklagten trotz des unsubstantiierten Vortrags der Klagepartei ein täuschendes oder sittenwidriges Verhalten in Bezug auf die Einhaltung bestimmter Emissionswerte anlasten würde, wäre dieses jedenfalls nicht kausal für den Kaufvertragsschluss über das streitgegenständliche Fahrzeug gewesen. Davon sei insbesondere deshalb auszugehen, weil das streitgegenständliche Fahrzeug nach Bekanntwerden der sog. "Diesel-Thematik" durch die Klagepartei erworben worden sei. Es sei davon auszugehen, dass Käufer, die nach September 2015 ein Diesel-Fahrzeug erworben haben, sich nach der Betroffenheit des jeweiligen Fahrzeugs bei Abschluss des Kaufvertrags erkundigt hätten, sofern dieser Umstand für sie eine Rolle gespielt hätte.Im Ergebnis gehe der gesamte Vortrag der Klagepartei nicht über pauschale, unsubstantiierte Behauptungen hinaus und könne deliktsrechtliche Ansprüche gegen die Beklagte nicht begründen.Die Klage sei daher insgesamt abzuweisen.In dem der verbindlichen Anordnung des KBA zugrunde liegenden Bescheid vertrete das KBA die Auffassung, in dem streitgegenständlichen Fahrzeugtyp kämen zwei unzulässige Abschalteinrichtungen zum Einsatz. Da die Beklagte nicht in Abrede stelle, dass das Fahrzeug von einem verpflichtenden Rückruf wegen einer unzulässigen Abschalteinrichtung erfasst sei, bedürfe es keiner Vorlage des konkreten, auf das streitgegenständliche Fahrzeug passenden KBA-Bescheids. Unzutreffend sei hingegen, dass das KBA das Vorliegen von vier oder mehr unzulässigen Abschalteinrichtungen festgestellt habe. Der Lenkwinkel sei kein bestimmender Parameter für die eingesetzten, vom KBA als unzulässig eingestuften Strategien. Es sei daher nicht zutreffend, dass im Fahrzeug aufgrund einer Lenkwinkelerkennung eine veränderte Abgasrückführung in Gang gesetzt werde. Der verbindliche Rückruf beziehe sich zudem nicht auf das Thermofenster.Weiterhin fehle es insbesondere auch an einem schlüssigen, den zivilprozessualen Anforderungen genügenden Vortrag der Klagepartei, inwieweit die Beklagte sie vermeintlich getäuscht bzw. sittenwidrig geschädigt haben soll. Sie habe nicht substantiiert vorgetragen, dass eine Person, deren Kenntnisse der Beklagten zuzurechnen wären, mit Vorsatz im Hinblick auf die schon nicht vorgetragene Täuschung bzw. sittenwidrige Schädigung gehandelt haben soll.Bei unterstelltem Schadensersatzanspruch wäre jedenfalls die tatsächliche Nutzung des Fahrzeugs durch die Klagepartei im Wege der Vorteilsanrechnung in Abzug zu bringen. Der Bundesgerichtshof habe in seiner Entscheidung die Höhe des Schadensersatzanspruches in das tatrichterliche Ermessen gestellt. Die Berechnung des abzuziehenden Nutzungsvorteils dürfe jedoch nicht anhand der linearen Methode erfolgen. Diese lasse wesentliche Bemessungsfaktoren unberücksichtigt und erlaube nur eine sehr grobe Schätzung der von der Klagepartei aufgrund des geschlossenen Kaufvertrags erlangten Vorteile. Erst zuletzt habe auch das Landgericht ingolstadt eine alternative Berechnungsmethode angewandt, welche den zu leistenden Nutzungsersatz degressiv berechne ("Ingolstädter Formel"). Dies führe zu einer höheren Einzelfallgerechtigkeit und steht damit mit der deutschen Schadensrechtdogmatik, insbesondere dem schadensrechtlichen Bereicherungsverbot, im-Einklang.Ergänzend wird zu den Einzelheiten des weiteren Sachvortrags sowie insbesondere den vertretenen Rechtsauffassungen der Parteien und den diesbezüglich ausgetauschten Argumenten auf die zur Akte genommenen Schriftsätze nebst den zugehörigen Anlagen Bezug genommen. Zum Verlauf und Inhalt der mündlichen Verhandlung wird auf die Sitzungsniederschrift Bezug genommen (Bl. 105 ff.). 
+				Gründe
+				A. Die zulässige Klage ist im wesentlichen begründet1. Der Kägerpartei steht ein Anspruch auf Schadensersatz aus § 826 BGB in Höhe von 46.992,07 € zu.a) Das Verhalten der Beklagten im Verhältnis zur Klägerpartei ist als sittenwidrig zu qualifzieren. Weiterhin handelte die Beklagte mit Schädigungsvorsatz.Es handelt sich bei der Aufheizstrategie um eine unzulässige Abschalteinrichtung gemäß Art. 3 Nr. 10, Art. 5 Abs. 2 VO (EG) 715/2007, die im Wesentlichen nur beim Durchlaufen des Prüfstandsverfahrens des NEFZ anspringt, indem sie hierfür die Umgebungstemperatur und andere physikalische Größen misst, im realen Verkehr hingegen nicht aktiviert wird, und die das Stickoxidemissionsverhalten des Fahrzeugs auf dem Prüfstand gegenüber dem Emissionsverhalten im normalen Fahrbetrieb verbessert. Maßgeblich für die Einstufung als unzulässig ist der Umstand, dass die Wirksamkeit des Emissionskontrollsystems im normalen Fahrbetrieb im Vergleich zum Prüfstandsverhalten verringert wird. Dieser, von dem Kläger vorgetragenen Wirkweise als Grund für der Rückruf, ist die Beklagte nicht entgegengetreten, sie hat lediglich zu anderen behaupteten Abschalteinrichtungen ausgeführt und diese bestritten. Der Kläger hat insoweit auch ausreichend substantiiert vorgetragen. Hierbei ist auch zu berücksichtigen, dass es der Beklagten ohne Weiteres durch Vorlage des Bescheids des Kraftfahrtbundesamtes möglich gewesen wäre, näheres zum Rückruf des Kraftfahrtbundesamtes darzutun, was sie jedoch bewusst nicht getan hat. Sie hat sich nur darauf beschränkt klarzustellen, dass der Rückruf nur wegen zweier unzulässiger Abschalteinrichtungen erfolgt sei und das "Thermofenster" nicht zu den Beanstandungen des KBA gehört habe. Den Bescheid hat die Beklagte aus bewusstem Entschluss nicht vorgelegt.Die Sachlage ist vergleichbar mit dem Diesel-Motor des Typs EA 189 eines anderen Herstellers, der hinsichtlich der Emissionen ebenfalls zwischen Prüfstand und regulärem Fahrbetrieb unterscheidet (siehe auch LG Marburg, Urteil vom 29. Oktober 2020 - 2 O 67/20 -, juris). Gemäß Bundesgerichtshof, Urteil vom 26.05.2020, Az. VI ZR 252/19 bestehen in einer solchen Fallkonstellation grundsätzlich Ansprüche aus § 826 BGB.Zu weiteren Voraussetzungen des Anspruchs führt das LG Marburg in seinem Urteil vom 29. Oktober 2020 - 2 O 67/20, a.a.O. zu einem vergleichbaren Fall wie folgt aus:"Aus der Unterscheidung der Abgasentwicklung zwischen Prüfstand einerseits sowie realem Fahrbetrieb andererseits folgt, dass die Implementierung einer solchen Einrichtung von Seiten der Beklagten nicht nur in dem Bewusstsein geschah, hiermit, möglicherweise gegen die gesetzlichen Vorschriften zu verstoßen, sondern dass dieser Gesetzesverstoß auch billigend in Kauf genommen wurde. Denn der Beklagten war denknotwendig bewusst, dass eine Entdeckung der Abschalteinrichtung zu Schwierigkeiten hinsichtlich der Typengenehmigung und der Betriebszulassung der so ausgestatteten Fahrzeuge führen könnte und dass potentielle Kunden Fahrzeuge, die mit derartigen rechtlichen Unsicherheiten belastet waren, nicht würden erwerben wollen (Urteil des OLG Köln vom 03.01.2019, Az. 18 U 70/18, Rn. 30, zitiert nach juris). Es versteht sich von selbst, dass Fahrzeuge gerade auch zum Betrieb im Straßenverkehr erworben werden und somit in der Erwartung, dass keine Betriebsstillegung erfolgt. Die Ausführungen der Beklagten zum Komplex Thermofenster laufen leer, weil das Thermofenster vom dem Kraftfahrtbundesamt nach eigenem Vortrag der Beklagten nicht als unzulässig eingeordnet worden ist, sodass darauf auch der Rückruf nicht beruhen kann. Diese Kenntnisse und Vorstellungen sind der Beklagten nach § 31 BGB zuzurechnen, weil aufgrund des hier maßgeblichen Sache und Streitstandes davon auszugehen ist, dass der Vorstand der Beklagten nicht nur über umfassende Kenntnisse von den Einsatz der oben geschilderten Software verfügte, sondern auch in der Vorstellung die Herstellung und die Inverkehrgabe der mangelbehafteten Motoren veranlasste. Der. Kläger behauptet, hochrangige Führungspersönlichkeiten hätten Kenntnis von der Entwicklung und Implementierung der urzulässigen Abgassoftware gehabt. Demgegenüber ist die Beklagte ihrer sekundären Darlegungs- und Substantiierungspflicht hinsichtlich der internen Vorgänge im, Zusammenhang mit der Software nicht ansatzweise nachgekommen. Sie hat sich auf den Vortrag beschränkt, die Klagepartei habe nicht vorgetragen, dass relevante Vertreter der Beklagten Kenntnis hatten oder selbst vorsätzlich handelten. Der Kläger hat aber denknotwendig keine Einblicke in die Organisationsstruktur der Beklagten, sodass von ihm kein weiterer Vortrag verlangt werden kann. Im Übrigen ist festzuhalten, dass der Schädiger selbst nicht zur Bewertung seines Tuns als sittenwidrig gelangen muss; es genügt die Kenntnis der die Sittenwidrigkeit begründenden Umstände."Diesen vollumfänglich zutreffenden Ausführungen des Landgerichts Marburg, die auf den gegenständlichen Fall übertragbar sind, schließt sich das erkennende Gericht an. Es ist deshalb von Kenntnis der Beklagten und Schädigungsvorsatz auszugehen. Auch vorliegend ist die Beklagte ihrer sekundären Darlegungslast nicht nachgekommen.b) Der Klagepartei ist durch das sittenwidrige Verhalten der Beklagten ein Schaden entstanden, der in dem Abschluss des Kaufvertrags über das streitgegenständliche Fahrzeug liegt. Die Klagepartei hat durch einen ungewollten Vertragsschluss eine Leistung erhalten, die für ihre Zwecke nicht voll brauchbar ist. Nach der allgemeinen Lebenserfahrung ist auszuschließen, dass ein Käufer ein Fahrzeug erwirbt, dem eine Betriesbeschränkung oder -untersagung droht und bei dem im Zeitpunkt des Erwerbs in keiner Weise absehbar ist, ob dieses Problem behoben wird (BGH, a.a.O., Rn. 49). Die Klagepartei hätte deshalb in Kenntnis der Abschalteinrichtung den Vertrag nicht abgeschlossen. Das Fahrzeug war zum Zeitpunkt des Erwerbs auch nicht voll brauchbar, da es einen verdeckten Sachmangel aufwies, der zu den vorstehend genannten Einschränkungen führen kann.Auch ein später durchgeführtes Software-Update macht den Vertragsschuss nicht rückwirkend zu einem gewollten Vertragsschluss (BGH, a.a.O., Rn. 58).c) Die Klagepartei hat sich die im Wege des Vorteilsausgleichs von ihr gezogenen Nutzungen anzurechnen lassen.Die zum Kaufzeitpunkt erwartbare Gesamtlaufleistung des streitgegenständlichen Pkws schätzt das Gericht gem. § 287 BGB auf 300.000 km. Dabei war in die Schätzung mit einzustellen, dass es sich bei dem streitgegenständlichen Fahrzeug um ein Fahrzeug mit Erstzulassung 2015 handelt, bei dem aufgrund fortschreitender technischer Entwicklung von einer höheren Haltbarkeit ausgegangen werden muss, als das bei älteren Fahrzeugen der Fall ist. Dabei war auch zu berücksichtigen, dass es sich bei dem Fahrzeugtyp um ein Fahrzeug der Oberklasse handelt, das auf eine robuste Nutzung ausgelegt ist.Die Laufleistung des Fahrzeugs einen Tag vor Schluss der mündlichen Verhandlung betrug 87.031 km.Die gemäß § 287 ZPO zu schätzende und abzuziehende Nutzungsentschädigung errechnet das erkennende Gericht nach der FormelEine andere Berechnungsweise war nicht anzuwenden (vgl. in diesem Sinne auch OLG München, BeckRS 2021, 7918). Die vorstehend dargestellte lineare Berechnungsweise ist im streitgegenständlichen Fall geeignet die Nutzungsentschädigung angemessen abzubilden.Der Bruttokaufpreis betrug 62.990,00 €. Die vom Kläger gefahrenen Kilometer schätzt das Gerieht gemäß § 287 ZPO auf 72.491 km. Für den fehlenden Tag bis zum Schluss der mündlichen Verhandlung hat das Gericht einen Aufschlag von 35 km geschätzt. Dies entspricht ca. den durchschnittlichen Fahrkilometern pro Tag im Zeitraum der Nutzung durch den Kläger. Die erwartete Restlaufleistung beträgt 285.425 km im Erwerbszeitpunkt. Dies ergibt eine zu berücksichtigende Nutzungsentschädigung von 15.997,93 €. Es ergibt sich so ein zuzusprechender Betrag in Höhe von 46.992,07 € (62.990,00 € - 15.997,93 €). Hinsichtlich des darüber hinaus geltend gemachten Betrags unterlag die Klage der Abweisung.2. Der Zinsausspruch folgt aus §§ 291, 288 BGB.3. Annahmeverzug der Beklagten besteht. Die Klagepartei hat jedenfalls im Wege der Klageschrift die Übergabe und Übereignung des Fahrzeugs im Wesentlichen zu den Bedingungen angeboten, von denen sie sie im Hinblick auf den im Wege der Vorteilsausgleichung geschuldeten und vom Kaufpreis in Abzug zu bringenden Nutzungsersatz hätte abhängig machen dürfen (vgl. BGH, a.a.O., Rn. 85).4. Die außergerichtlichen Rechtsanwaltsgebühren sind aus dem begründeten außergerichtlichen Gegenstandswert von 48.441,00 € (km-Stand vorgerichtlich 80.500 km bei Gesamtlaufleistung von 300.000 km) dem Grunde nach ersatzfähig. Jedoch ist hier lediglich eine 1,3 Gebühr zu Grunde zu legen, da nur diese als notwendig und damit erstattungsfähig anzusehen ist. Das Gericht vermag keine Gründe für ein Überschreiten der Schwellengebühr nach der Anm. zu Nr. 2300 VV RVG zu sehen. Die Sache ist weder mit besonderen Schwierigkeiten versehen oder - trotz der umfangreichen Schriftsätze - besonders umfangreich.Ausgehend von dem berechtigten außergerichtlichen Gegenstandswert von 48.441,00 Euro ergibt sich eine Erstattungsfähigkeit wie folgt:Im Übrigen unterliegt die Klage auch insoweit der Abweisung.B. Die Kostenentscheidung ergibt sich aus § 92 Abs. 1 S. 1 Alt. 2 ZPO.Die vorläufige Vollstreckbarkeit folgt für den Kläger aus § 709 S. 1, S. 2 ZPO, für die Beklagte aus §§ 708 Nr. 11, 711 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2454469.html (https://oj.is/2454469)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

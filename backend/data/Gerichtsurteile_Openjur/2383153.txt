@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG SchweinfurtRechtsprechungEndurteil vom 28.06.2021 - 23 O 679/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Schweinfurt, Endurteil vom 28.06.2021 - 23 O 679/20
+                      m. Fundstelle
+                      LG Schweinfurt, Endurteil vom 28.06.2021 - 23 O 679/20 = openJur 2022, 989
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Schweinfurt, Endurteil vom 28.06.2021 - 23 O 679/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 989
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits hat die Klägerin zu tragen.3. Das Urteil ist vorläufig vollstreckbar gegen Leistung von Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrags.BeschlussDer Streitwert wird auf 16.441,33 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatz im Zusammenhang mit einem Kaufvertrag über einen vom so genannten VW-Abgasskandal betroffenen Pkw. "VW-Abgasskandal" bezeichnet einen seit Herbst 2015 in der bundesdeutschen Öffentlichkeit diskutierten Vorgang, demgemäß die Beklagte zur Optimierung der Stickoxid(NOx-)-Emissionswerte ihrer Dieselmotoren eine Software eingesetzt hatte, welche bei dem Betrieb eines Pkw auf dem Rollenprüfstand zur Ermittlung der Emissionswerte im Hinblick auf den NOx-Ausstoß ein anderes Motorprogramm ablaufen lässt als im Normalbetrieb; so hielt der Motor im Prüfstand während des Prüfstandtests die gesetzlich vorgegebenen und im technischen Datenblatt aufgenommenen Abgaswerte ein, während der Pkw softwarebedingt unter realen Fahrbedingungen im Straßenverkehr mit einer geringeren Abgasrückführungsrate betrieben wurde und die im Prüfstand erzielten NOx-Werte überschritten wurden. Betroffen hiervon sind die Dieselmotoren vom Typ EA 189.Am 22.09.2015 veröffentlichte die Beklagte eine Adhoc-Mitteilung, mit welcher sie die Öffentlichkeit über die "Abgasskandal-Thematik" informierte. Hieran schloss sich eine ausführliche Berichterstattung in Presse, Funk und Fernsehen an.Am 02.10.2015 informierte die Beklagte über eine Pressemeldung außerdem darüber, dass auf einer Internetseite durch Eingabe der Fahrzeugidentifikationsnummer überprüft werden könne, ob ein konkretes Fahrzeug mit der Motorsoftware ausgerüstet ist. Zugleich entwickelte die Beklagte eine Konzeptsoftware, die für die verschiedenen Fahrzeug- und Motorvarianten feinabgestimmt und einer besonderen Prüfung durch das Kraftfahrt-Bundesamt (KBA) unterzogen werden musste. Seit Januar 2016 ließ die Beklagte sukzessive bei den betroffenen Fahrzeugen durch die Werkstätten der jeweiligen Vertragshändler die von ihr verantwortete Software installieren.Die Klägerin kaufte im Juli 2012 von der Firma Autohaus K^| GmbH in Bad Neustadt an der Saale einen VW Touran Trendline Bluemotion Technology 1.6 TDI (Fahrzeugidentifikationsnummer [FIN]: ...73) mit 0 km für 23.600 € (Anlage Kl). Die Klägerin zahlte den Kaufpreis. Das Autohaus K^| übergab und übereignete den Touran an die Klägerin.Im Fahrzeug ist der oben genannte Dieselmotor vom Typ EA 189 der Beklagten verbaut.Mit Anwaltsschriftsatz vom 20.05.2020 (Anlage K2) ließ die Klägerin die Beklagte erfolglos unter Frist bis zum 03.06.2020 zur Rückzahlung des Kaufpreises als Schadenersatz Zug um Zug gegen Übergabe und Übereignung des VW Touran auffordern.Die Klägerin behauptet, zur Beseitigung der ursprünglichen Motorsteuerungssoftware sei ein Update auf das streitgegenständliche Fahrzeug aufgespielt worden, dass eine weitere unzulässige Abschalteinrichtung, nämlich ein sog. Thermofenster, implementiert habe. Durch dieses Thermofenster werde die Abgasreinigung des streitgegenständlichen Fahrzeugs lediglich bei Außentemperaturen zwischen 10° C bis 32° C aktiv und die Abgasreinigung setze überdies nur bis zu einer Höhe von 1.000 m ein. Hiermit sei das Fahrzeug in einer Weise programmiert, dass die Abgasrückführung bei den in Deutschland vorherrschenden Durchschnittstemperaturen zu fast keinem Zeitpunkt in ihrem vollen Wirkungsgrad aktiv werde; aus Motorschutzgründen sei dies nicht notwendig. Studien des SWR und der Deutschen Umwelthilfe (DHU) bestätigten zudem, dass die zulässigen Grenzwerte unter den Bedingungen des Neuen Europäischen Fahrzyklus' (NEFZ) auch nach dem Update nicht eingehalten werden würden. Das Update führe lediglich zu einer bedingten Abgasreinigung und daher weiterhin zur Nichteinhaltung der gesetzlich vorgeschriebenen Abgaswerte.Im Ergebnis habe die Beklagte das von der Klägerschaft erworbene Fahrzeug unter Verschweigen einer gesetzeswidrigen Software-Programmierung (sog. defeat device/Abschaltvorrichtung) in den Verkehr gebracht. Das Fahrzeug erfülle die Vorgaben der Emissions-Grundverordnung nicht. Die Grenzwerte der Norm Euro 5 würde allein auf dem Prüfstand und nur unter Verwendung der unzulässigen Manipulationssoftware eingehalten, so dass das Fahrzeug damit in der am Markt dargebotenen Form überhaupt nicht genehmigungs- und verkehrsfähig gewesen sei. Auf diese Weise sei das Fahrzeug unter Vortäuschung einer tatsächlich nicht bestehenden Konformität mit den europarechtlichen Vorgaben zum NOx-Ausstoß in den Verkehr gebracht und auch der Klägerin angeboten worden. Da maßgeblich die zentralen Entwicklungseinheiten des Volkswagen-Konzerns und deren obere Leiter in diesen Vorgang involviert gewesen seien, sei es auf Grund des notwendigen Kontroll- und Berichtssystems der Beklagten ausgeschlossen, dass deren Vorstand und ggf. auch deren Aufsichtsrat über diese für den Gesamtkonzern erheblichen Vorgänge nicht informiert gewesen sein könnte. Jedenfalls aber stelle es einen schweren Organisationsmangel dar, wenn die Entscheidung, den Motortyp EA 189 mit einer unzulässigen Software auszustatten, tatsächlich nicht von einem verfassungsmäßig berufenen Vertreter getroffen worden sein sollte.Die Klägerin meint, die Implementierung des Thermofensters sei eine erneute, eigenständige vorsätzliche sittenwidrige Schädigung im Sinne des § 826 BGB sowie eine vorsätzliche Täuschungshandlung im Sinne des § 263 StGB. Sie behauptet in diesem Zusammenhang, den streitgegenständlichen Pkw in Unkenntnis der nicht gesetzeskonformen Motorsteuerungssoftware erworben und damit einen für sie wirtschaftlich nachteiligen Vertrag abgeschlossen zu haben.Die Klägerin hat zunächst wie folgt beantragt,Die Beklagte wird verurteilt, an die Klägerschaft 16.441,33 € zzgl. Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 21.09.2012 zu zahlen Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs Volkswagen Touran mit der Fahrzeug-Identifizierungsnummer ...73.Es wird festgestellt, dass sich die Beklagte mit der Entgegennahme des im Klageantrag zu 1. genannten Fahrzeugs in Annahmeverzug befindet.Die Beklagte wird verurteilt, die Klägerschaft von vorgerichtlichen Rechtsverfolgungskosten in Höhe von 2.094,40 € freizustellen.Sodann hat sie den Antrag zu 1.) schließlich wie folgt neu formuliert:Die Beklagte wird verurteilt, an die Klägerschaft 16.441,33 € zzgl. Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs Volkswagen Touran mit der Fahrzeug-Identifizierungsnummer ...73.Die Beklagte beantragt,die Klage abzuweisen.Sie erhebt den Einwand der Verjährung und ist im Übrigen der Auffassung, im Rahmen des durchgeführten Software-Updates sei keine unzulässige Abschalteinrichtung programmiert worden. Das im streitgegenständlichen Fahrzeug verwendete Thermofenster sei als temperaturab hängige Regulierung der Abgasrückführung nämlich keine Abschalteinrichtung, da die Abgasrückführung nicht an Hand des Aspekts Prüfstandlauf/Realbetrieb reguliert werde, sondern eben in Abhängigkeit bestimmter Umgebungstemperaturen. Entsprechend habe auch die Untersuchungskommission "Volkswagen" im April 2016 keine Beanstandungen gegen das Update erhoben.Das Gericht hat die Klägerin informatorisch angehört. Wegen des Ergebnisses dieser Anhörung wird auf den Inhalt des Protokolls der öffentlichen Sitzung vom 14.06.2021 (Blatt 204 der Akte) Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.Die Klage ist unbegründet.Die Klägerin hat unter keinem rechtlichen Gesichtspunkt gegen die Beklagte Anspruch auf Schadensersatz im Zusammenhang mit dem von ihr im Juli 2012 von der Firma Autohaus f GmbH in Bad Neustadt an der Saale gekauften VW Touran Trendline 1.6 TDI.Autohaus fVertragliche Ansprüche bestehen mangels Vertragsbeziehung zwischen den Parteien nicht. Verkäuferin des Touran und somit Vertragspartnerin der Klägerin ist nicht die Beklagte, sondern die GmbH in Bad Neustadt an der Saale.Die Klägerin hat gegen die Beklagte auch keine deliktischen Ersatzansprüche. Solch ein durchsetzbarer Anspruch folgt insbesondere nicht aus § 823 Abs. 2 BGB in Verbindung mit § 263 StGB bzw. Art. 5 Abs. 2 VO (EG) Nr. 715/2007 oder aus § 826 BGB. Vielmehr sind derartige Ansprüche mit Blick auf die ursprüngliche Einrichtung der Motorsteuerungssoftware verjährt und darum gemaß § 214 BGB nicht mehr durchsetzbar (dazu sogleich unter 1.); das in Bezug auf das mit dem Software-Update behauptet aufgespielte Thermofenster begründet hingegen schon nicht die vorgenannten Haftungstatbestände (sodann unter 2.).1. Die Klägerin hat gegen die Beklagte keinen durchsetzbaren Anspruch auf wirtschaftliche Rückabwicklung des Kaufs mit Blick auf die ursprüngliche Einrichtung der Motorsteuerungssoftware, das heißt unter dem Argument einer initial verbauten unzulässigen Abschalteinrichtung. Hieraus abzuleitende Ansprüche sind verjährt.a) Gemäß § 195 BGB beträgt die regelmäßige Verjährungsfrist, die mangels abweichender gesetzlicher Bestimmungen auch für den hier mit Ziffer 1.) geltend gemachten Schadensersatzanspruch maßgeblich ist (vgl. Henrich, in: Hau/Poseck [Hrsg.], BeckOK BGB, 58. Edition Stand: 01.05.2021, § 195 Rdnr. 5), drei Jahre.Die zehnjährige Verjährungsfrist des § 852 S. 1 BGB ist demgegenüber nicht anwendbar, da diese Vorschrift das funktionale Äquivalent zur condictio ex iniusta causa des gemeinen Rechts darstellt, mithin also zunächst einmal voraussetzt, dass der Anspruchsgegner durch die streitgegenständliche Handlung Vorteile erlangt hat (vgl. Wagner, in: Münchener Kommentar zum BGB, 8. Auflage 2020, § 852 Rdnrn. 1 und 2; siehe ferner OLG Karlsruhe, Endurteil vom 31.03.2021, Az. 13 U 693/20, BeckRS 2021, 6366 Rdnr. 35; LG Ansbach, Endurteil vom 29.03.2021, Az. 3 O 16/21, BeckRS 2021, 6742 Rdnr. 49; LG Osnabrück, Urteil vom 03.07.2020, Az. 6 O 842/20, BeckRS 2020, 17605, Rdnr. 40). Dies wird vorliegend aber weder vorgetragen noch ist dies ersichtlich. Denn durch den Kauf des VW Touran hat nicht etwa die Beklagte etwas erlangt, sondern allenfalls die Vertragspartnerin der Klägerin. Die Beklagte stand in keinem Austauschverhältnis oder ähnlichem, kraft dessen ihr aus dem Vermögen der Klägerin etwas zugeflossen wäre. Allein die Firma Autohaus K.  GmbH hat aus dem streitgegenständlichen Geschehen einen Vermögensvorteil erlangt, und zwar die vertraglich erbrachte Kaufpreiszahlung.Die dreijährige Regelverjährungsfrist beginnt mit dem Schluss desjenigen Jahres zu laufen, in welchem der Anspruch entstanden ist und in dem der Gläubiger von den anspruchsbegründenden Umständen sowie der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit hätte erlangen müssen, § 199 Abs. 1 BGB.b) Gemessen an diesen Anforderungen ist von einer Kenntnis der Klägerin im Jahr 2015 auszugehen.aa) So hat die Beklagte bereits am 22.09.2015 in der Adhoc-Mitteilung zur "Abgasskandal-Thematik"' öffentlich erklärt, dass in ihrem Dieselmotor EA 189 eine Software installiert ist, die die Stickoxidwerte im Prüfstand optimiert und dass davon die Fahrzeuge ihres Konzerns betroffen sind. Zugleich hat die Beklagte am 02.10.2015 darüber informiert, dass sie eine Internetseite bereitgestellt habe, auf welcher durch Eingabe der Fahrzeugidentifikationsnummer überprüft werden kann, ob ein konkretes Fahrzeug mit der Motorsoftware ausgerüstet sei. Der Vorgang um die hier streitbefangene Motorsoftware war außerdem Gegenstand ausführlicher, fortlaufender und allgegenwärtiger Berichterstattung in sämtlichen denkbaren Medien und der öffentlichen Diskussion. Es ist deshalb schlicht undenkbar, dass die Klägerin später als im Jahr 2015 von den Vorwürfen gegen die Beklagte erfahren haben könnte. Nur ein Mitteleuropäer, der sich in einer absoluten Ausnahmesituation befunden hat, kann von den Vorgängen keine Kenntnis erlangt haben. Weder solch eine Ausnahmesituation noch eine fehlende Kenntnis trägt die Klägerin indes vor.Zudem ist zu beachten, dass die Klägerin sich zumindest grobe Fahrlässigkeit vorwerfen lassen müsste, wollte sie - ohne sich in einer Sondersituation befunden zu haben - entgegen der öffentlichen Erklärungen der Beklagten sowie der allgegenwärtigen Berichterstattung sich im Jahr 2015 nicht über die Internetseite der Beklagten darüber erkundigt haben, ob es sich bei ihrem VW Touran um einen solchen handelt, bei dem ein Motor mit einer Abschalteinrichtung verbaut ist. Es hätte der Klägerin oblegen, sich Aufdrängendes nicht außer Acht zu lassen; es hätte der Klägerin weder Kosten noch Mühe gekostet, in Erfahrung zu bringen, ob ihr Pkw von dem Abgasskandal betroffen ist. Auf der Hand liegender Erkenntnismöglichkeiten darf sich die Klägerin nicht verschließen.bb) Die Klägerin hat auch bestätigt, bereits im Jahr 2015 von der Diesel-Abgas-Thematik der Beklagten erfahren zu haben. Im Termin vom 14.06.2021 (Blatt 204 [205] der Akte) hat sie in ihrer informatorischen Anhörung ausgeführt, über die seinerzeitige Medienberichte von dem Abgasskandal erfahren zu haben, dies aber zunächst nicht auf sich bezogen zu haben. Ihre Betroffenheit von der Angelegenheit habe sie erst im Zuge der an sie ergangenen Mitteilung realisiert, wonach sie ebenfalls betroffen sei.Vor diesem Hintergrund steht fest, dass die Klägerin bei Bekanntwerden der "VW-Abgasskandal-Thematik" in den Medien im Jahr 2015 von eben dieser positive Kenntnis erhalten hatte.cc) Der Klägerin lagen mithin 2015 sämtliche Informationen vor, die sie zur Erhebung einer Klage gegen die Beklagte benötigt hat (vgl. auch OLG München, Beschluss vom 10.03.2020, Az. 3 U 7392/19, BeckRS 2020, 3135 oder auch Hinweisbeschluss vom 03.12.2019, Az. 20 U 5741/19, BeckRS 2019, 31911; ferner OLG Köln, Beschluss vom 04.03.2020, Az. 26 U 73/19, BeckRS 2020, 4947; so auch schon LG Schweinfurt, Urteile vom 20.07.2020 zum Az. 23 O 969/19, vom 06.07.2020 zum Az. 23 O 1045/19, vom 14.01.2020 zum Az. 24 O 839/18 oder vom 22.10.2019 zum Az. 24 O 154/19 - jeweils unveröff.). Das auf diese Weise vorhandene Wissen um die anspruchsbegründenden tatsächlichen Voraussetzungen reicht aus, den Gang der Verjährungsfrist auszulösen. Eine hieran anschließende rechtliche Würdigung durch die Klägerin ist demgegenüber gerade nicht erforderlich (vgl. BGHZ 105, 172 [186]; BGH, NJW 1993, 648 [650]), so dass es nicht darauf ankommt, ob die Klägerin seinerzeit auch die rechtlichen Implikationen des Vorgangs für sich erkannt haben mag. Die Medienberichterstattung hat der Klägerin ausreichend Anlass gegeben, bspw. durch Eingabe der FIN ihres Touran auf der von der Beklagten bereitgestellten Homepage, abzuklären ob sie von dem Vorgang betroffen ist. Soweit sie diese Erkenntnisquelle nicht genutzt hat, hindert dies nicht den Beginn der Verjährungsfrist.c) Die auf diese Weise am 01.01.2016 angelaufene Verjährungsfrist endete daher mit dem 31.12.2018., ohne dass es bis dahin zu einer Unterbrechung oder Hemmung des Laufs der Verjährungsfrist gekommen wäre.Insbesondere Umstände, die den Lauf der Verjährungsfrist rechtzeitig gehemmt haben (§ 204 BGB), konnte die Klägerin nicht dartun. Dies geht zu ihren Lasten, da sie die Voraussetzungen der Hemmung vorzutragen und gegebenenfalls unter Beweis zu stellen hat (siehe etwa Dörner, in: Schulze, Bürgerliches Gesetzbuch, 10. Auflage 2019, § 204 Rdnr. 11). Die Klägerin hat keine verjährungshemmenden Maßnahmen ergriffen, sich insbesondere nicht vor Ablauf der Verjährungsfrist der Musterfeststellungklage angeschlossen (vgl. Blatt 206 der Akte).d) Die erst im Jahr 2020 erhobene Klage erfolgte mithin nach dem am 31.12.2018 eingetretenen Ablauf der (nicht gehemmten) Verjährungsfrist.2. Die Klägerin hat gegen die Beklagte auch keinen Schadenersatzanspruch unter dem Gesichtspunkt, dass im Rahmen des Software-Updates eine (weitere) unzulässige Abschalteinrichtung im Sinne eines Thermofensters auf ihren Touran aufgespielt worden wäre.a) Den Sachvortrag der Klägerin als zutreffend unterstellt, könnte solch ein Vorgang keine eigenständige Haftung der Beklagten gemäß §§ 826, 31 BGB begründen.Dies deshalb nicht, weil dieser Vorgang unter Berücksichtigung und Wertung des sonstigen Verhaltens der Beklagten nach dem 22.09.2015 nicht als sittenwidrig beurteilt werden kann. Denn das Aufspielen des Updates in Absprache und mit Billigung des KBA stellt eine nach dem Kauf erfolgte Nachbesserungsmaßnahme dar, um die Gefahr einer Betriebsuntersagung zu bannen (siehe BGH, ZVertriebsR 2021,184 [186]). Die Entwicklung des Updates und dessen Aufspielen stellen eigenständige, vom Inverkehrbringen des Motors EA189 unabhängige Handlungen dar, die nicht geeignet sind, einen Anspruch wegen vorsätzlicher sittenwidriger Schädigung zu begründen. Selbst wenn das Update seinerseits gesetzlichen Bestimmungen nicht genügen sollte, liegt auf Grund des mit dem KBA abgestimmten Vorgehens allenfalls eine fahrlässige Handlung der Beklagten vor, die den Schluss auf ein sittenwidriges Verhalten nicht rechtfertigt {OLG Bamberg, Beschluss vom 05.11.2020, Az. 6 U 40/20, unveröff.).Unabhängig hiervon fehlt es für einen hieraus abzuleitenden Schadensersatzanspruch der Klägerin an einem kausalen Schaden im Sinne des Abschlusses des zur Rückabwicklung begehrten Kaufvertrags. Denn die erst nach dem Kauf auf das Fahrzeug aufgespielte Softwarekonfiguration begründet keinen zu einem eigenständigen Anspruch gemäß § 826 BGB führenden Schaden, sondern hätte lediglich zur Folge, dass ein ursprünglicher Schaden schlicht nicht beseitigt worden wäre {OLG Bamberg, Beschluss vom 05.11.2020, Az. 6 U 40/20, unveröff.).b) Unbeschadet dessen kann im geltend gemachten Thermofenster keine zur deliktischen Haftung führende unzulässige Abschalteinrichtung gesehen werden. Denn ein "Thermofenster" ist gemäß Art. 5 Abs. 2 S. 2 Buchst, a) der VO (EG) 715/2007 nicht grundsätzlich verboten, sondern jedenfalls dann zulässig, "wenn die Einrichtung notwendig ist, um den Motor vor Beschädigung oder Unfall zu schützen und um den sicheren Betrieb des Fahrzeugs zu gewährleisten". Hieraus folgt, dass bei Abschalteinrichtungen, die vom Grundsatz her im normalen Fährbetrieb in gleicher Weise arbeiten wie auf dem Prüfstand, ohne konkrete Anhaltspunkte nicht ohne Weiteres angenommen werden kann, dass die Beklagte bzw. deren Verantwortliche in dem Bewusstsein gehandelt haben, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden. Jedenfalls solange Gesichtspunkte des Motor- bzw. Bauteilschutzes als Rechtfertigung ernsthaft angeführt werden können, scheidet solch eine Annahme aus (vgl. BGH, ZVertriebsR 2021, 184 [187]; OLG Bamberg, Hinweisbeschluss vom 31.03.2020, Az. 3 U 57/19, BeckRS 2020, 9901; OLG Bran denburg, Urteil vom 19.12.2019, Az. 5 U 103/18, BeckRS 2019, 33351; OLG Frankfurt a.M., Urteil vom 13.11.2019, Az. 13 U 274/18, BeckRS 2019, 29281, sowie Hinweisbeschluss vom 17.02.2020, Az. 12 U 353/19, BeckRS 2020, 2626; OLG Stuttgart, NZV 2019, 579 [583]; vgl. auch LG Stuttgart, Urteil vom 17.03.2021, Az. 52 O 52/21, BeckRS 2021, 6473 Rdnr. 66). Hierbei ist zu berücksichtigen, dass die Kriterien, aus denen sich eine aus Bauteilschutzgesichtspunkten zulässige Abschaltvorrichtung ergibt, nicht eindeutig bestimmt und in Rechtsprechung wie Literatur umstritten sind (vgl. dazu umf. OLG Brandenburg, Urteil vom 19.12.2019, Az. 5 U 103/18, BeckRS 2019, 33351 oder OLG Nürnberg, Endurteil vom 19.07.2019, Az. 5 U 1670/18, BeckRS 2019, 19559). Zu dieser Einschätzung ist auch die vom Bundesministerium für Verkehr und digitale Infrastruktur eingesetzte Untersuchungskommission Volkswagen gelangt. Danach liegt ein Gesetzesverstoß durch die von allen Autoherstellern eingesetzten Thermofenster angesichts der "Unschärfe" der Regelung jedenfalls nicht eindeutig vor (Bericht, S. 123). Vor diesem Hintergrund kommt ein sittenwidriges Handeln der Beklagten nur unter der Voraussetzung in Betracht, dass sie vorsätzlich und in einer besonders verwerflichen Art und Weise diese rechtliche Grauzone überschritten hat (so auch OLG Bamberg, Frankfurt a.M. und Stuttgart wie zuvor). Greifbare Anhaltspunkte für solch ein vorsätzliches und in einer besonders verwerflichen Art und Weise erfolgtes Überschreiten dieser rechtlichen Grauzone hat die Klägerin allerdings nicht vorgetragen. Vielmehr ist das Software-Update durch das KBA geprüft worden, ohne dass die von der Klägerin nunmehr geltend gemachten Beanstandungen erhoben worden sind. Es kommt hinzu, dass eine von der Beklagten eingesetzte temperaturabhängige Steuerung der Abgasrückführung das tatsächliche Abgasverhalten des Fahrzeugs der Klägerin im Straßenverkehr nicht verschleiert, weil das Thermofenster sowohl auf dem Prüfstand als auch im realen Straßenverkehr - bei gleichen Umgebungstemperaturen - in gleicher Weise funktioniert, so dass gegen die Beklagte aus diesem Grund der Vorwurf eines manipulativen Vorgehens nicht erhoben werden kann.Eine deliktische Haftung kommt zuletzt auch nicht unter dem Blickwinkel in Betracht, dass mit dem Thermofenster die Haftungsvoraussetzungen des § 823 Abs. 2 BGB in Verbindung mit §§ 6 Abs. 1, 27 Abs. 1 EG-FGV oder Art. 5 Abs. 2 S. 2 Buchst, a) der VO (EG) 715/2007 erfüllt wären. Dies schon deshalb nicht, weil auch dies Vorsatz zumindest im Hinblick auf die Unzulässigkeit der Abschalteinrichtung voraussetzt, ohne die das Schutzgesetz nicht verletzt ist. Unabhängig davon kommt §§ 6 Abs. 1,27 Abs. 1 EG-FGV und auch Art. 5 VO (EG) Nr. 715/2007 kein Schutzgesetzcharakter zu Gunsten eines Autokäufers zu {BGH, NJW 2020, 2798 [2799] und 1962 [1971]).B.Die Kostenentscheidung folgt aus § 91 Abs. 1 S. 1 ZPO, die Entscheidung zur vorläufigen Vollstreckbarkeit aus § 709 S. 1 und 2 ZPO.C.Die Streitwertfestsetzung folgt aus §§ 63 Abs. 2, 48 Abs. 1 GKG in Verbindung mit § 3 ZPO. Hierbei ist dem Feststellungsantrag zu 2.) ebenso wenig ein eigenständiger Wert zuzumessen (OLG Naumburg, NJW-RR 2012, 1213 [LS]) wie dem Antrag zu 3.) als Nebenforderung im Sinne des § 43 Abs. 1 GKG.
+			
+			
+			
+			Permalink: https://openjur.de/u/2383153.html (https://oj.is/2383153)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate19
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG MünsterRechtsprechungUrteil vom 01.07.2020 - 4 O 226/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Münster, Urteil vom 01.07.2020 - 4 O 226/19
+                      m. Fundstelle
+                      LG Münster, Urteil vom 01.07.2020 - 4 O 226/19 = openJur 2021, 21307
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Münster, Urteil vom 01.07.2020 - 4 O 226/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 21307
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 Prozent des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				I.Der Kläger macht gegen die Beklagte deliktische Schadensersatzansprüche im Zusammenhang mit dem "Audi-Abgasskandal" geltend.Die Klägerin erwarb mit Kaufvertrag vom 05.04.2016 bei dem Autohaus H GmbH & Co. KG, ... (Adresse entfernt) das von der Beklagten hergestellte Fahrzeug einen Audi A6 Avant 3.0 TDi mit der Fahrgestellnummer 00000000000000000 zu einem Gesamtpreis von 51.500,00 EUR netto. Zu diesem Zeitpunkt betrug der Kilometerstand 19.830 km. Wegen weiterer Einzelheiten wird die Rechnung vom 05.04.2016 (Anlage. K01, Bl. 22 d.A.) in Bezug genommen. Das streitgegenständliche Fahrzeug ist für die Abgasnorm "Euro 6" zugelassen.Im September 2015 wurde bekannt, dass die VW AG in Dieselmotoren des Typs EA 189 EU 5, die diese entwickelt, hergestellt und auch an ihre Konzernunternehmen vertrieben hat, mit einer Motorsteuerungssoftware ausgerüstet hat, die zwei Betriebsmodi für die Abgasrückführung vorsieht und erkennt, ob sich das Fahrzeug auf einem technischen Prüfstand unter den speziellen Bedingungen des NEFZ zur Ermittlung der Emissionswerte befindet oder im normalen Straßenverkehr gefahren wird. Im Modus, der im Emissionsprüfungsverfahren aktiv ist, waren die Abgasrückführungsraten höher, d.h. der Stickstoffausstoß war geringer als bei Nutzung des PKW im Straßenverkehr. Ohne den Einsatz der Software hätte der Motor die Erfordernisse für die Einstufung in die sog. Euro 5 - Norm, in die er tatsächlich eingestuft wurde, nicht erfüllt. Nach Bekanntwerden der Software im September 2015 ordnete das Kraftfahrt-Bundesamt (im Folgenden: KBA) am 15.10.2015 den Rückruf von VW-Markenfahrzeugen an, die mit der vorgenannten Software ausgestattet waren. Das KBA wertete diese Softwaresteuerung als unzulässige Abschalteinrichtung im Sinne der Verordnung (EG) Nr. 715/2007.Unstreitig ist das streitgegenständliche Fahrzeug mit der Schadstoffklasse 6 von diesem Bescheid nicht erfasst.Das KBA verpflichtete die Beklagte allerdings mit Bescheid aus 2018 betreffend die Modelle Audi A 6 und A 7 3.0 Liter Diesel Euro 6 zum Rückruf und zur Aktualisierung der Motorensoftware.Unstreitig sind in dem streitgegenständlichen Fahrzeug zur Reduktion des Stickoxidausstoßes zwei Technologien verbaut. Zum einen kommt ein SCR-Katalysator zu Einsatz, der mit Ad-Blue - einer künstlichen Harnstofflösung - betrieben wird (sog. selektiver katalytischer Katalysator), zum anderen die sog. Abgasrückführung, bei der ein sog. "Thermofenster" verbaut ist, das die Funktionsweise bzw. den Wirkungsgrad der Abgasreinigung in Abhängigkeit von der Außentemperatur reduziert. Um den Ausstoß von Stickoxid zu optimieren, wird das bereits verbrannte Abgas hierbei im Rahmen der Abgasrückführung aus dem Auslassbereich des Motors über ein Abgasrückführungsventil zunächst in einen speziell dafür vorgesehenen Kühler und sodann in den Ansaugtrakt des Motors zurückgeleitet. Dort ersetzt das rückabgeführte Abgas einen Teil des normalerweise in der Umgebungsluft vorhandenen Luftsauerstoffs, der für den nächsten Verbrennungsprozess benötigt wird, wodurch eine Absenkung der Verbrennungstemperatur erreicht wird und weniger Stickoxide entstehen. Die rückgeführten Gase werden in den Motor zurückgeführt und nehmen erneut an der Verbrennung teil. Die Rate an rückgeführten Abgas wird über das Motorsteuergerät vorgegeben, über das AGR-Ventil gesteuert und ist von vielen Einflussgrößen, u.a. auch von der Temperatur der Frischluft abhängig.Unstreitig wird die Abgasrückführung bei kühleren Temperaturen zurückgefahren, wobei Einzelheiten der Ausgestaltung des thermischen Fensters, insbesondere die Fragen, ab welcher Außentemperatur und in welchem konkreten Maße eine Abgasrückführung eintritt, zwischen den Parteien streitig sind.Mit anwaltlichem Schreiben vom 19.08.2019 forderte der Kläger die Beklagte unter Fristsetzung bis zum 13.12.2019 zur Zahlung von Schadensersatz Zugum-Zug gegen Übergabe des Fahrzeugs auf (Anlage K 06, Bl. 28 d.A.). Eine Reaktion der Beklagten auf das Schreiben erfolgte nicht.II.Der Kläger ist der Ansicht, dass es sich bei der im Fahrzeug verbauten Technologie zur Reduktion des Stickoxidausstoßes ("Thermofenster") um eine unzulässige Abschalteinrichtung gem. Art. 3 Nr. 10, Art. 5 Abs. 1 VO 715/2007/EG handele. Denn das Thermofenster sei so gestaltet, dass die Abgasrückführung bei kühleren Temperaturen mit der Folge zurückgefahren werde, dass die Abgase wieder in größeren Mengen in die Außenluft gelangten. Bei welchen konkreten Außentemperaturen eine Reduktion der Abgasrückführung erfolge, könne dahinstehen, da eine solche Abschalteinrichtung in jedem Fall unzulässig sei.Er vertritt daher - mit im Einzelnen näher dargelegter Begründung - die Ansicht, die Beklagte sei ihm insbesondere gem. § 823 Abs. 2 BGB i.V.m. § 263 StGB sowie §§ 826, 31 BGB und aus der Anschlussgarantie zum Schadensersatz verpflichtet. Die Beklagte habe ihm gegenüber in einer gegen die guten Sitten verstoßenden Weise gehandelt, indem sie aus bloßen Profitgründen und Gewinnstreben bewusst eine gesetzeswidrige Softwareprogrammierung in Form des sog. Thermofensters und damit eine unzulässige Abschalteinrichtungen i.S.v. Art. 5 VO 715/2007/EG in ihre Dieselfahrzeuge habe einbauen lassen und eine Schädigung der Käufer in sittlich anstößiger Weise billigend in Kauf genommen habe. Wegen der weiteren Einzelheiten wird auf die Klageschrift (Bl. 1 ff. d.A.) und den Schriftsatz vom 27.01.2020 (Bl. 129 d.A.) verwiesen.Der Kläger beantragt,1. Die Beklagte wird verurteilt, an die klagende Partei einen Betrag in Höhe von 51.500,00 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 06.04.2016 Zug - um - Zug gegen Übereignung des Fahrzeuges Audi A6 3.0 TDi mit der Fahrgestellnummer 00000000000000000 zu zahlen.2. Es wird festgestellt, dass die Beklagtea. Sich bezüglich der Zug - um - Zug Leistung gem. Antrag zu Ziffer 1 in Verzug der Annahme befindet.b. Der klagende Partei dem Grunde nach für alle Schäden haftet, die der klagende Partei dadurch entstanden sind und gegebenenfalls noch entstehen, dass die klagende Partei das im Antrag zu Ziffer 1 genannte Fahrzeug mit der manipulierten Motorsteuersoftware erworben hat (Z.b. aber nicht ausschließlich: mit dem erworbenen Fahrzeug verbundene Wertminderung, Finanzierungszinsen, Vorfälligkeitsentschädigung, Beiträge für Restschuldversicherung, Kreditbearbeitungsgebühren, nicht Nutzbarkeit wegen gesetzlicher Beschränkung (Z.b. Fahrverbote, ggf. Umweltzone, etc.)3. Die Beklagte wird verurteilt, an die klagende Partei 1.954,46 EUR vorgerichtliche Kosten nebst Zinsen in Höhe 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 31.08.2019 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, das vom KBA am 12.11.2018 genehmigte Software-Update - hierum gehe es bei dem vom Kläger in der Klageschrift angesprochenen Rückruf zur Aufspielung eines Updates der Motorsoftware - betreffe allein die Arbeitsweise des SCR-Katalysators, wenn der Harnstoff (AdBlue) nur noch für eine voraussichtliche Restreichweite von 2.400 km ausreiche (aktive Restreichweiten-Warnung). Der SCR-Katalysator sei dann so eingestellt, dass es zu einer geringfügigen Herabsetzung des Wirkungsgrades der AdBlue-Einspritzung - diese sei für den Betrieb des Motors notwendig - von 2 Prozent komme, was durch das Software-Update in Form einer Deaktivierung dieser Funktion angepasst werden solle. Anderweitige Eingriffe in die Motorsoftware würden nicht erfolgen, insbesondere betreffe dies nicht - was sich der Freigabe-Bestätigung des KBA entnehmen lasse - den Emissionsausstoß des Fahrzeugs bei vollerem AdBlue-Tank. Eine unzulässige Abschalteinrichtung sei - so die Beklagte - in der optimierten Dosierstrategie nach Erreichen von 2.400 km Ad-Blue-Restreichweite nicht zu sehen.Bei der vom Kläger angesprochenen Abgasrückführung in Form des sog. Thermofensters handele es sich nicht um eine unzulässige Abschalteinrichtung i.S.d. Art. 3 Nr. 10 Verordnung (EG) Nr. 715/2007. Denn nach Art. 5 Abs. 2 Satz 2 lit. a) Verordnung (EG) Nr. 715/2007 seien Abschalteinrichtungen zulässig, um den Motor vor Beschädigungen zu schützen und den sicheren Betrieb des Fahrzeugs zu gewährleisten. Da das System der Abgasrückführung bei kalten Temperaturen Schäden durch Ablagerungen von Ruß (sog. "Versottung") erleiden könne, werde die Abgasrückführung bei kühleren Temperaturen zurückgefahren, wobei eine signifikante Reduktion erst bei einer Temperatur von 5° Grad und weniger erfolge und die Abgasreinigung in höheren Temperaturbereichen zu 100 % arbeite. Dieses sog. "Ausrampen" der Abgasrückführung sei bei Dieselmotoren aller Hersteller notwendig und üblich, da eine zunehmende Versottung zu einem Verklemmen des AGR-Ventils führe, was wiederum Beeinträchtigungen des Motorbetriebs in Form sog. "Verbrennungsaussetzer" zur Folge habe.Die Beklagte ist der Ansicht, der Kläger habe die anspruchsbegründenden Voraussetzungen einer deliktischen Schadensersatzhaftung schon nicht schlüssig dargelegt. Die Beklagte ist darüber hinaus der Ansicht, deliktische Ansprüche seien aus Rechtsgründen schon nicht gegeben. So fehle es insbesondere an der Sittenwidrigkeit einer etwaigen Täuschung. Aber auch eine Täuschung sei bereits nicht gegeben. Auch fehle es an einem sittenwidrigen Handeln der der Beklagten zuzurechnenden natürlichen Personen. Wegen der weiteren Einzelheiten wird insbesondere auf die Klageerwiderung vom 19.12.2019 (Bl. 46 ff d.A.) sowie den Schriftsatz vom 24.03.2020 (Bl. 164 d.A.) Bezug genommen.III.Wegen der Einzelheiten des Parteivortrags wird auf den Inhalt der gewechselten Schriftsätze nebst Anlagen sowie das Protokoll zur mündlichen Verhandlung vom 06.05.2020 Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I.Dem Kläger steht gegen die Beklagte kein Anspruch auf Zahlung Zug um Zug gegen Übereignung des streitgegenständlichen Fahrzeuges zu.Die Beklagte als Herstellerin des Fahrzeugs haftet dem Kläger unter keinem denkbaren Gesichtspunkt auf Schadensersatz im Zusammenhang mit einer etwaig unzulässigen Abschalteinrichtung des Motors in Form des sog. Thermofensters oder des SCR-Katalysators.1.Vertragliche Gewährleistungsansprüche und quasivertragliche Ansprüche kommen schon deshalb nicht in Betracht, weil der Kläger das streitgegenständliche Fahrzeug als Gebrauchtfahrzeug von einer dritten Händlerin erworben hat. Ein Anspruch auf Rückabwicklung folgt auch nicht aus der Anschlussgarantie, da diese nur auf Nachbesserung eines mangelhaften Fahrzeuges gerichtet ist.2.Dem Kläger stehen gegen die Beklagte aber auch keine deliktischen Ansprüche auf Rückzahlung des Kaufpreises Zug um Zug gegen Rückgabe des streitgegenständlichen Fahrzeugs zu, insbesondere auch nicht gem. §§ 826, 31 BGB, § 823 Abs. 2 BGB i.V.m. § 263 StGB.Dabei kann letztlich dahinstehen, ob es sich bei der vom Kläger angeführten und im streitgegenständlichen Fahrzeug verbauten Abgasrückführung in Gestalt des sog. "Thermofenster" - auf die der Kläger sein Klagebegehren einzig stützt - überhaupt um eine objektiv unzulässige Abschalteinrichtung i.S.v. Art. 5 Abs. 2 VO 2007/715/EG handelt.Denn jedenfalls hat der insoweit darlegungs- und beweisbelastete Kläger bereits eine objektiv sittenwidrige und vorsätzliche Schädigungshandlung der Beklagten i.S.v. § 826 BGB nicht hinreichend dargetan. Ein für sämtliche deliktische Ansprüche erforderliches Bewusstsein der Beklagten, eine möglicherweise unzulässige Abschalteinrichtung zu verwenden, ist ebenfalls nicht feststellbar.a)Objektiv sittenwidrig ist eine Handlung, die nach Inhalt oder Gesamtcharakter, der durch zusammenfassende Würdigung von Inhalt, Beweggründen und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt, d.h. mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist. Abzustellen ist hierbei auf die in der Gemeinschaft oder in der beteiligten Gruppe anerkannten moralischen Anschauungen, wobei ein durchschnittlicher Maßstab anzulegen ist (vgl. BGH, Urt. vom 09.07.1953, Az.: IV ZR 242/52, BGHZ 10, 228-234). Besonders strenge Anschauungen sind ebenso wie besonders laxe Auffassungen unbeachtlich (vgl. Sprau, in: Palandt, BGB, 77. Aufl. 2018, § 826 Rn. 4; Ellenberger, in: Palandt, a.a.O., § 138 Rn. 2 ff.). Zu der objektiven Sittenwidrigkeit muss eine besondere Verwerflichkeit des Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zu Tage tretenden Gesinnung oder den eintretenden Folgen ergeben kann (Sprau, in: Palandt, a.a.O., § 826 Rn. 4).b)Die zwischenzeitlich zum VW-Abgasskandal ergangene (obergerichtliche) Rechtsprechung hat zwar für das Inverkehrbringen einer den Prüfzyklus erkennenden Software in Form einer Umschaltlogik - wie sie von der Volkswagen AG im Motor EA 189 verwendet wurde - verschiedentlich ein sittenwidriges Verhalten i.S.v. § 826 BGB bejaht (vgl. z.B. OLG Hamm, Urt. vom 10.09.2019, Az.: 13 U 149/18). Die Sittenwidrigkeit des Handelns folgt in diesen Fällen in objektiver und subjektiver Hinsicht per se aus der Verwendung einer Umschaltlogik (sog. "defeat device"), weil die Verwendung einer solchen Abschalteinrichtung eindeutig unzulässig und dies den Handelnden bzw. Verantwortlichen bewusst war (vgl. OLG Stuttgart, Urt. vom 30.07.2019, Az.: 10 U 134/19 - juris).c)Diese Grundsätze können indes nicht auf den vorliegenden Fall übertragen werden, da sich die Sachlage bei der verwendeten Abgasrückführung in Form eines sog. "Thermofensters" grundlegend anders darstellt.Denn das Vorliegen einer temperaturadaptierten Abgasrückführung in dem streitgegenständlichen Motor ist, unabhängig davon, ob es sich bei dem sog. thermischen Fenster in objektiver Hinsicht überhaupt um eine unzulässige Abschalteinrichtung i.S.v. Art. 5 Abs. 1 VO 715/2007/EG handelt, für sich allein genommen nicht geeignet, den Tatbestand der vorliegend gegenüber der Beklagten allein in Betracht kommenden deliktischen Ansprüche aus §§ 826 BGB, 823 Abs. 2 BGB i.V.m. § 263 StGB zu bejahen.Denn eine Sittenwidrigkeit kommt nur in Betracht, wenn über die bloße Kenntnis von dem Einbau und der Funktionsweise des Thermofensters hinaus zugleich auch Anhaltspunkte dafür bestünden, dass die Beklagte als Herstellerin in dem Bewusstsein handelte, gesetzliche Vorschriften zu verletzen bzw. entsprechende Gesetzesverletzungen tatsächlich auch billigend in Kauf genommen hat (vgl. hierzu OLG Stuttgart, Urt. vom 30.07.2019, Az.: 10 U 134/19 - juris).Die subjektiven Tatbestandsvoraussetzungen sind hier indes im maßgeblichen Zeitpunkt des Schlusses der mündlichen Verhandlung vom Kläger weder substantiiert vorgetragen worden noch feststellbar.Denn der mit einer "Thermofenster-Funktion" ausgestattete Motor arbeitet vom Grundsatz her im normalen Fahrbetrieb in gleicher Weise wie auf einem Prüfstand. Indem der Kläger sogar selbst angibt, die Funktionsweise der Abgasrückführung werde von der Beklagten mit einem Schutz des Motors vor Beschädigung (sog. Versottung) und der Gewährleistung eines sicheren Betriebs des Fahrzeugs begründet, dürfte ein objektiv nachvollziehbarer und plausibler Rechtfertigungsgrund für die Verwendung des "Thermofensters" vorliegen.Selbst wenn das "Thermofenster" eine unzulässige Abschalteinrichtung i.S.v. Art. 5 Abs. 1 VO 2007/715/EG darstellt, wäre allenfalls ein im Wege der Vertragshaftung zu regulierender Sachmangel gegeben. Eine sittenwidrige Schädigung geht damit indes nicht einher. Denn es ist nicht ersichtlich, dass der Einbau zwingend auf eine bewusste Täuschungshandlung der Beklagten als Herstellerin zurückzuführen ist. In Betracht zu ziehen ist vielmehr auch eine möglicherweise falsche, aber dennoch vertretbare Gesetzesauslegung durch die Herstellerin. Hat diese die Rechtslage aber nur fahrlässig verkannt, fehlt es sowohl am erforderlichen Schädigungsvorsatz als auch an dem für die Sittenwidrigkeit in subjektiver Hinsicht erforderlichen Bewusstsein der Rechtswidrigkeit sowie der Kenntnis der die Sittenwidrigkeit begründenden Tatumstände (so i.E. auch OLG Stuttgart, Urt. vom 30.07.2019, Az.: 10 U 134/19 - juris; OLG Köln, Beschl. vom 04.07.2019, Az.: Az. 3 U 148/18, BeckRS 2019, 15640; OLG Koblenz, Urt. vom 18.06.2019, Az.: 3 U 416/19-juris; OLG München, Beschl. vom 29.08.2019, Az.: 8 U 1449/19 - juris jeweils m.w.N.)Die Beklagte hat damit die Rechtslage im Zeitpunkt des Inverkehrbringens des streitgegenständlichen Fahrzeugs allenfalls fahrlässig verkannt, sodass es ohnehin an dem für deliktische Ansprüche notwendigen Schädigungsvorsatz sowie an der für einen Anspruch nach § 826 BGB zudem erforderlichen Sittenwidrigkeit fehlt.Denn eine Auslegung, wonach ein "Thermofenster" eine gesetzlich zulässige Abschalteinrichtung darstellt, ist jedenfalls nicht unvertretbar. Ein Handeln unter vertretbarer Gesetzesauslegung kann aber - bei unterstelltem Gesetzesverstoß - nicht als besonders verwerfliches Verhalten angesehen werden. Nicht jedes Streben nach Kostensenkung und Gewinnmaximierung stellt sich per se als verwerflich dar, sondern nur ein solches "um jeden Preis" auch unter in Kauf genommenem Verstoß gegen gesetzliche Vorschriften (vgl. OLG Köln, Beschl. vom 04.07.2019, Az.: Az. 3 U 148/18, BeckRS 2019, 15640). Bei der Verwendung von Thermofenstern sprechen aber mehrere verschiedene Gesichtspunkte dafür, dass die Gesetzeslage gerade nicht unzweifelhaft und eindeutig ist.So wird zum einen über den Inhalt und die Reichweite der Ausnahmevorschrift des Art. 5 Abs. 2 VO 715/2007/EG kontrovers diskutiert (vgl. z.B. Führ, NVwZ 2017, 265); der Streit um Zulässigkeit und Größe eines "Thermofensters" stellt eher einen Expertenstreit dar. Hinzu kommt, dass für einen etwaigen Vorsatz nicht auf einen heutigen Meinungsstand/eine heutige Rechtsprechung, sondern auf den Zeitpunkt des Inverkehrbringens des konkreten Fahrzeugs durch den Hersteller abzustellen ist.Zum anderen haben bislang weder das KBA noch das Bundesverkehrsministerium die generelle Unzulässigkeit des "Thermofensters" festgestellt und einen Rückruf sämtlicher betroffener Fahrzeuge angeordnet (vgl. OLG Stuttgart, Urt. vom 30.07.2019, Az.: 10 U 134/19 - juris). Dem Kläger ist insoweit zwar zuzugestehen, dass dieser Umstand der Einordnung als unzulässige Abschalteinrichtung i.S.v. Art. 5 Abs. 2 VO 715/2007/EG nicht entgegensteht, da es sich hierbei um eine von den Gerichten zu prüfende und zu beantwortende Rechtsfrage handelt. Die fehlende Einstufung als unzulässige Abschalteinrichtung durch das KBA und das Bundesverkehrsministerium spricht aber ganz erheblich gegen das Vorliegen eines notwendigen Schädigungsvorsatzes und eine Sittenwidrigkeit des Handelns.d)Auch der Umstand, dass das streitgegenständliche Fahrzeug des Klägers mit einem 3,0 l-Dieselmotor über einen SCR-Katalysator verfügt und deshalb einem durch das KBA angeordneten Rückruf unterliegt, führt zu keiner anderen Beurteilung.Die Beklagte hat hierzu substantiiert vorgetragen, dass die vom KBA angeordnete Aktualisierung der Motorensoftware der Fahrzeuge des Typs Audi A6 3.0 TDI (EU 6) lediglich die Arbeitsweise des SCR-Katalysators betreffe, wenn der Harnstoff nur noch für eine voraussichtliche Restreichweite von 2.400 km ausreiche. Das KBA beanstande die Herabsetzung des Wirkungsgrades des SCR-Katalsysators im Fall des Erreichens einer Ad-Blue-Restreichweite von 2.400 km. Diesem Vortrag ist der Kläger nicht entgegengetreten.Dieser Sachverhalt ist auch nicht mit der Manipulation der Motorsteuerungssoftware für den Rollenprüfstand im NEFZ durch unterschiedliche Betriebsmodi für den Rollenprüfstand und den Straßenbetrieb vergleichbar. Allein der Umstand, dass das KBA einen verpflichtenden Rückruf angeordnet hat, bietet insoweit noch keinen ausreichenden Anhaltspunkt dafür, dass das streitgegenständliche Fahrzeug hinsichtlich des Emissionskontrollsystems nicht den geltenden Vorschriften entspricht.Dass die von der Beklagten für den SCR-Katalysator entwickelte und vom KBA beanstandete Dosierstrategie nach Erreichen von 2.400 km Ad-Blue-Restreichweite eine sittenwidrige Täuschungshandlung durch Implementierung einer unzulässigen Motorsteuerungssoftware begründe, hat der Kläger schon nicht behauptet.II.Da schon kein Haftungsgrund besteht, war auch den Anträgen zu 2. und 3. der Erfolg versagt.III.Die Nebenentscheidungen beruhen auf §§ 91 Abs. 1, 709 S. 1, 2 ZPO.Der Streitwert wird auf 51.500,00 EUR festgesetzt.Rechtsbehelfsbelehrung:Hinweis zum elektronischen Rechtsverkehr:Die Einlegung ist auch durch Übertragung eines elektronischen Dokuments an die elektronische Poststelle des Gerichts möglich. Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet und mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg gemäß § 130a ZPO nach näherer Maßgabe der Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach (BGBl. 2017 I, S. 3803) eingereicht werden. Weitere Informationen erhalten Sie auf der Internetseite www.justiz.de.
+			
+			
+			
+			Permalink: https://openjur.de/u/2344643.html (https://oj.is/2344643)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert2
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

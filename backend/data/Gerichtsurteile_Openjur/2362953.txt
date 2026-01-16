@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG MünchenRechtsprechungEndurteil vom 29.09.2021 - 7 U 5111/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG München, Endurteil vom 29.09.2021 - 7 U 5111/20
+                      m. Fundstelle
+                      OLG München, Endurteil vom 29.09.2021 - 7 U 5111/20 = openJur 2021, 32873
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG München, Endurteil vom 29.09.2021 - 7 U 5111/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 32873
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Auf die Berufung des Klägers wird das Urteil des Landgerichts Traunstein vom 06.08.2020, Az. 5 O 3359/19, aufgehoben.2. Die Beklagte wird verurteilt, Zug-um-Zug gegen Übereignung des Fahrzeugs Volkswagen Touran mit der Fahrzeug-Identifizierungsnummer ...929 an die Klagepartei 13.360,42 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 14.01.2020 zu zahlen.3. Die Beklagte wird verurteilt, der Klagepartei die Kosten des außergerichtlichen Vorgehens in Höhe von 1.029,35 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 14.01.2020 zu erstatten.4. Es wird festgestellt, dass sich die Beklagte mit der Annahme der in Ziff. 2 dieses Urteils genannten Zug-um-Zug-Leistung in Verzug befindet.5. Im Übrigen bleibt die Klage abgewiesen und wird die Berufung zurückgewiesen.6. Von den Kosten des Verfahrens tragen die Klagepartei 37% und die Beklagte 63%.7. Das Urteil ist vorläufig vollstreckbar.8. Die Revision gegen dieses Urteil wird nicht zugelassen.  
+				Gründe
+				I.Die Parteien streiten um Schadensersatz im Rahmen des "Diesel-Skandals".Die Klagepartei schloss am 25.03.2015 mit einem Dritten einen Kaufvertrag über einen Pkw VW Touran, Fahrzeug-Identifizierungsnummer ...929, mit einem Dieselmotor EA 189 und einem Kilometerstand von 69.900 km zu einem Kaufpreis von 21.200 € (Anlage K1).Die Beklagte ist Entwicklerin und Herstellerin des in dem Fahrzeug verbauten Dieselmotors EA 189. In dem Fahrzeug des Klägers wie auch in anderen Fahrzeugen mit demselben Motortyp wurde eine Software eingesetzt, die zwei unterschiedliche Betriebsmodi zur Steuerung der Abgasrückführung kennt. Im Modus 1, der im unter Laborbedingungen festgelegten Fahrzyklus (NEFZ) aktiviert wird, kommt es zu einer erhöhten Abgasrückführung und damit zu einem reduzierten Schadstoffausstoß. In diesem Modus halten die Fahrzeuge mit einem entsprechenden Motor die Vorgaben des NEF-Zyklus ein. Unter normalen Bedingungen im Straßenverkehr ist hingegen der Modus 0 aktiv, in dem es zu einer verringerten Abgasrückführung und einem um ein Vielfaches erhöhten Schadstoffausstoß kommt.Die EG-Typgenehmigung hatte die Beklagte beim Kraftfahrtbundesamt beantragt. Das Kraftfahrtbundesamt hat mit Bescheid vom 15.10.2015 festgestellt, dass die Beklagte verpflichtet ist, bei allen betroffenen Fahrzeugen mit dem Aggregat EA 189 die nach Art. 9f. der RL 2007/46/EG unzulässigen Einrichtungen zu entfernen. Die Klagepartei hat das Fahrzeug mit einer kostenfrei von der Beklagten bereitgestellten Programmaktualisierung (Software-Update) nachrüsten lassen, die dazu führt, dass sich das Fahrzeug durchgängig im Modus 1 befindet. Die zuständige Behörde hat die Programmaktualisierung freigegeben.Die Klagepartei hat am 13.02.2019 (vgl. Protokoll der mündlichen Verhandlung vom 16.07.2020, Bl. 206R d.A.) ihre Ansprüche zur Eintragung in das Klageregister für die am 01.11.2018 eingereichte und der Beklagten am 12.11.2018 zugestellte Musterfeststellungsklage angemeldet; am 27.09.2019 (vgl. Anlage zum klägerischen Schriftsatz vom 04.08.2021, Bl. 276 d.A.) hat sie ihre Anmeldung zurückgenommen.Die Klagepartei hat die Beklagte vorgerichtlich auf Anerkennung ihres Anspruchs auf Schadensersatz in Anspruch genommen. Sie hat die Klageschrift am 08.12.2019 beim Landgericht eingereicht; zugestellt wurde die Klageschrift am 13.01.2020.Die Klagepartei trägt vor, die Beklagte habe - mit Wissen ihres Vorstandes - das Aggregat im Pkw der Klagepartei mit einer unzulässigen Abschalteinrichtung ausgestattet; ihr stünden daher Schadensersatzansprüche unter anderem aus §§ 826, 31 BGB zu. Auch das Software Update enthalte eine illegale Abschalteinrichtung.Die Klagepartei beantragte daher in erster Instanz wie folgt zu erkennen:1. Die Beklagte wird verurteilt, Zug um Zug gegen Herausgabe und Übereignung des Fahrzeugs Marke Volkswagen, Typ Touran, Fahrzeug-Identifizierungsnummer ...929 an die Klagepartei ein Betrag in Höhe von 21.200,00 € nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jährlichen Basiszinssatz seit Rechtshängigkeit zu zahlen.2. Die Beklagte wird verurteilt, an die Klagepartei Zinsen in Höhe von 4% aus 21.200 € seit dem 25.03.2015 bis zum Beginn der Rechtshängigkeit zu bezahlen.3. Es wird festgestellt, dass sich die Beklagte mit der Annahme der im Klageantrag zu 1) genannten Zug-um-Zug-Leistung in Annahmeverzug befindet.4. Die Beklagte wird verurteilt, die Kosten des außergerichtlichen Vorgehens in Höhe von 1789,76 € neben Zinsen in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklagte beantragteKlageabweisung.Die Beklagte behauptete erstinstanzlich, das Fahrzeug verfüge nicht über eine unzulässige Abschalteinrichtung. Es handele sich vielmehr um eine innermotorische Maßnahme. Die Software beeinflusse den Bestand und die Wirksamkeit der EG-Typgenehmigung nicht. Die Beklagte habe jedenfalls nicht vorsätzlich gehandelt. Die Nachrüstung mittels Software-Updates stelle keine Mängelbeseitigung, sondern eine freiwillige Leistung des Herstellers dar. Die Beklagte erhebt die Einrede der Verjährung.Das Landgericht hat die Klage mit am 10.08.2020 zugestelltem Urteil abgewiesen. Es hielt etwaige Ansprüche für verjährt. Dabei ging es von einem Verjährungsanlauf mit Ende des Jahres 2015 und einem regulären Verjährungsende mit Ablauf des Jahres 2018 aus. Die Anmeldung zu Musterfeststellungsklage erst 2019 und damit zu einem Zeitpunkt, zu dem der geltend gemachte Anspruch bereits verjährt gewesen sei, um anschließend nach Rücknahme der Anmeldung Individualklage zu erheben, sei rechtsmissbräuchlich.Gegen die landgerichtliche Entscheidung wendet sich die Klagepartei mit ihrer beim Berufungsgericht am 25.08.2020 eingegangenen und am 02.10.2020 begründeten Berufung. Darin bekämpft sie insbesondere die Annahme der Verjährung.Sie beantragt,Auf die Berufung der Klagepartei wird das Urteil des Landgerichts Traunstein vom 06.08.2020 (Az. 5 O 3359/19) teilweise abgeändert.Die Beklagte wird verurteilt, Zug um Zug gegen Übereignung des Fahrzeugs Volkswagen Touran mit der Fahrzeug-Identifizierungsnummer ...929 an die Klagepartei einen Betrag in Höhe von EUR 21.200,00 nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit gegen Zahlung einer in das Ermessen des Gerichts zu stellenden Nutzungsentschädigung für die Nutzung des Fahrzeugs durch die Klagepartei zu erstatten.Die Beklagte wird verurteilt, die Kosten des außergerichtlichen Vorgehens in Höhe von EUR 1789,76 nebst Zinsen in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.Es wird festgestellt, dass sich die Beklagte mit der Annahme der im Klageantrag zu 1) genannten Zug um Zug-Leistung in Annahmeverzug befindet.Die Beklagte beantragt die Zurückweisung der Berufung.Sie verteidigt das erstinstanzliche Urteil.Der Senat hat mit Verfügung vom 07.07.2021 (Bl. 274 d.A.) Hinweise erteilt und über die Berufung der Klagepartei am 29.09.2021 mündlich verhandelt. Auf die Sitzungsniederschrift sowie die gewechselten Schriftsätze wird ergänzend Bezug genommen.II.Die Berufung hat im tenorierten Umfang Erfolg.1. Die Beklagte schuldet der Klagepartei Schadensersatz aus §§ 826, 31 BGB. In der Berufungserwiderung verteidigt die Beklagte die Annahme einer Verjährung durch das Landgericht, verteidigt sich jedoch im Übrigen - auch nach dem Hinweis des Senats - dem Grunde nach nicht mehr gegen ihre grundsätzliche Inanspruchnahme. Dies ist zutreffend. Der vorliegende Sachverhalt - Kauf eines Fahrzeugs mit dem Motor EA 189, der eine Prüfstanderkennung enthielt, im März 2015 und damit vor der erstmaligen Ad-hoc-Mitteilung der Beklagten - ist identisch mit der vom BGH in seiner Grundsatzentscheidung vom 25.05.2020 - VI ZR 252/19 entschiedenen Sachverhaltskonstellation. Zur Vermeidung überflüssiger Wiederholungen macht sich der Senat die dortigen Ausführungen, insbesondere in den Rn. 13-63, zueigen.2. Anders als das Landgericht annimmt, ist der Anspruch des Klägers nicht verjährt. Dabei unterstellt der Senat zugunsten der Beklagten, dass die Verjährungsfrist wegen grob fahrlässiger Unkenntnis des Klägers tatsächlich bereits Ende 2015, dem Jahr des Bekanntwerdens des Dieselskandals, anlief. Danach ergäbe sich an sich ein Ablauf der Verjährungsfrist Ende 2018.Vorliegend hemmt jedoch die Teilnahme des Klägers an der Musterfeststellungsklage, § 204 Abs. 1 Nr. 1a BGB die Verjährung. Dabei ist unschädlich, dass sich der Kläger erst am 13.02.2019 - und damit nach Ablauf der eigentlich für ihn geltenden (unterstellten s.o.) Verjährungsfrist - dieser Musterfeststellungsklage anschloss, § 608 Abs. 1 ZPO. Wie der BGH in seiner Entscheidung vom 29.07.2021 - VI ZR 1118/20, juris-Rn. 21ff. entschieden hat, wirkt die Hemmung im Falle der Teilnahme eines Verbrauchers an dem Musterfeststellungsverfahren auf den Zeitpunkt der Erhebung der Musterfeststellungsklage zurück. Dies ergibt sich aus dem Wortlaut von § 204 Abs. 1 Nr. 1a BGB, der auf die Erhebung der Musterfeststellungsklage - nicht auf die Teilnahme des Verbrauchers - abstellt. Die Differenzierung zwischen Klageeerhebung und Anmeldung ist dem Gesetzgeber auch bewusst gewesen, wie § 204 Abs. 1 Nr. 6a und § 204 Abs. 2 Satz 2 BGB zeigen. Auch die Gesetzgebungshistorie bestätigt, dass eine "Rückwirkung" der Verjährung beabsichtigt war, eine gegenteilige Prüfbitte des Bundesrates explizit zurückgewiesen wurde (BT-Drs. 19/2701, S. 7 und 9f.). Auch nach Sinn und Zweck begegnet die Annahme keinen Bedenken, dass die Einreichung der Musterfeststellungsklage durch eine qualifizierte Einrichtung, § 606 Abs. 1 ZPO, allen Verbrauchern zugute kommen soll, die sich zwar später, aber fristgerecht bis zum Beginn des ersten Termins (§ 608 Abs. 1 ZPO) anmelden. Die Teilnahme am Musterfeststellungsverfahren ist - wie der BGH, aaO Rn. 38 ff., ebenfalls entschieden hat - auch nicht wegen der von Gesetzes wegen bis zum ersten Termin möglichen, § 608 Abs. 3 ZPO, Abmeldung vom Musterfeststellungsverfahren und einer Absicht, den Anspruch später doch individuell weiterzuverfolgen, rechtsmissbräuchlich.Daraus ergibt sich vorliegend ein Hemmungsanlauf ab dem 01.11.2018 - dem Tag der Einreichung der Musterfeststellungsklage, auf den der Hemmungstatbestand im Falle einer Zustellung der Musterfeststellungsklage "demnächst" zurückwirkt, § 167 ZPO (vgl. zur Anwendbarkeit der Vorschrift auf die Musterfeststellungsklage: Peters/Jacoby in Staudinger, Neubearbeitung 2019, Stand: 18.06.2020, § 204 Rn. 48h). Die Hemmung endete gemäß § 204 Abs. 2 Satz 2 BGB sechs Monate nach der Abmeldung am 27.09.2019, also mit Ablauf des 27.03.2020.Zu diesem Zeitpunkt war die vorliegende, am 13.01.2020 zugestellte Klage bereits rechtshängig, § 253 Abs. 1, § 261 Abs. 1 ZPO, hemmte also ihrerseits erneut, § 204 Abs. 1 Nr. 1 BGB.Der Anspruch ist folglich nicht verjährt.3. Der Klagepartei steht damit ein Anspruch auf Befreiung von der ungewollt eingegangenen Verbindlichkeit zu, also auf Zahlung des Kaufpreises von 21.200 € (Zug-um-Zug gegen Übereignung des streitgegenständichen Fahrzeugs). Anzurechnen sind allerdings die Nutzungsvorteile. Dies hat die Klagepartei in der Berufungsverhandlung vor dem Senat - auf der Basis einer Gesamtlaufleistung von 300.000 km - erstmals anerkannt. Dem Wortlaut ihrer Berufungsanträge nach akzeptierte sie zwar eine in das Ermessen des Gerichts gestellte Nutzungsentschädigung. Ausweislich der Berufungsbegründung stellte sie jedoch eine Pflicht zur Leistung von Nutzungsentschädigung in Abrede (vgl. Berufungsbegründung, S. 8-10, Bl. 249-251 d.A.). Folgerichtig gab sie den vorläufigen Streitwert mit dem vollen Kaufpreis von 21.200 € an (Berufungsbegründung, S. 1, Bl. 242 d.A.). In der Abstandnahme hiervon liegt eine konkludente - sich vorliegend nur kostenmäßig auswirkende - Berufungsrücknahme.Der Ansatz einer - vom Senat gemäß § 287 ZPO zu schätzenden - Gesamtlaufleistung von 300.000 km zur Berechnung der anzurechnenden Nutzungsvorteile begegnet keinen Bedenken und wird auch in der Rechtsprechung geteilt (vgl. Brandenburgisches OLG, Urteil vom 25.02.2020 - 3 U 64/19, juris-Rn. 69 mwN; für 250.000 km dagegen: OLG Düsseldorf, Urteil vom 22.01.2020 - 18 U 64/19, juris-Rn. 76; zum Spielraum des Tatrichters: BGH, Urteil vom 27.07.2021 - VI ZR 480/19, juris-Rn. 23ff.). Die Einwendungen der Beklagten hiergegen verfangen nicht. Der Ansatz ist vom Bundesgerichtshof mehrfach gebilligt (Urteile vom 30.07.2021 - VI ZR 397/19, juris-Rn. 35; vom selben Tag, VI ZR 30.07.2020 - VI ZR 354/19 Rn. 12). Die Beklagte selbst bewirbt ihre Autos mit deren Langlebigkeit. Weiterhin ist bei der Schätzung einzubeziehen, dass es sich um ein Fahrzeug mit einer Erstzulassung im Jahr 2011 handelt, bei dem aufgrund fortschreitender technischer Entwicklung von einer höheren Haltbarkeit ausgegangen werden muss, als das bei älteren Fahrzeugen der Fall ist. Dabei kann auch nicht außer Acht gelassen werden, dass im heutigen Straßenbild eine Vielzahl von Fahrzeugen der Konzernmarken der Beklagtenpartei zu sehen sind, die ohne weiteres - deutlich - älter als zehn Jahre sind. Konkrete Einwendungen gegen eine Gesamtlaufleistung von 300.000 km trägt die Beklagte, die selbst Herstellerin der Autos ist, auch nicht vor. Ebenso ist der Ansatz einer linearen Berechnung der Nutzungsvorteile sachgerecht. Es geht nicht um den Ansatz von - auf dem Markt tatsächlich degressiv verlaufenden - Abschreibungen (BGH, Urteil vom 30.07.2020 - VI ZR 354/19, juris-Rn. 15), sondern - was je nach Fallgestaltung zum Vorteil oder zum Nachteil des Autokäufers ausfallen kann - um eine adäquate Bemessung des Nutzungsvorteils des Autokäufers. Sein Fahrnutzen ist jedoch nicht von dem km-Stand abhängig. Schließlich zwingt das konkrete Alter des Fahrzeugs von mittlerweile 10 Jahren nicht zu einer anderen Berechnung des Nutzungsvorteils, da eine weitere langjährige Nutzung nicht ausgeschlossen erscheint.Daraus ergibt sich ein Ansatz von Nutzungsvorteilen nach der Formel "gefahrene Kilometer multipliziert mit Kaufpreis, geteilt durch Restlaufzeit bei Kauf". Einzusetzen sind: 85.089 gefahrene Kilometer (unstreitiger km-Stand: 154.989 km - Anhaltspunkte für eine erhebliche Nutzung seit gestern sind auch mit Blick auf einen km-Stand am 02.08.2021 von 153.338 km nicht ersichtlich - abzüglich Anfangsstand bei Kauf: 69.900 km), Kaufpreis von 21.200 € und eine Restlaufleistung bei Kauf von 230.100 km (300.000 km abzüglich 69.900 km). Der Nutzungsvorteil beträgt somit: 7.839,58 €. Zuzusprechen sind folglich 13.360,42 €.Die Beklagte kann nicht verlangen, dass das Urteil nach der sog. Karlsruher Formel - d.h. unter Angabe der Berechnungsformel - tenoriert wird, die künftige Nutzungen berücksichtigen soll. Der Senat hat bereits Bedenken gegen die hinreichende Bestimmbarkeit und Vollstreckbarkeit einer solchen Formel (so auch Brandenburgisches OLG, Urteil vom 08.06.2021 - 3 U 124/20, juris-Rn. 42). Jedenfalls hat die Beklagte keinen Anspruch auf eine solche Tenorierung, da der gewählte konkrete Tenor den für die Urteilsfällung maßgeblichen Sachstand im Zeitpunkt der letzten mündlichen Verhandlung vor dem Senat widerspiegelt.4. Die Forderung ist ab dem Tag nach Rechtshängigkeit (hier am 13.01.2020) zu verzinsen, § 291 iVm § 288 Abs. 1 BGB.5. Da die Klagepartei sich - nunmehrNutzungsvorteile anrechnen lässt, somit keine überhöhten Forderungen mehr erhebt, war auch dem Antrag auf Feststellung von Annahmeverzug stattzugeben.6. Entgegen der Auffassung der Beklagtenpartei hat die Klagepartei gemäß §§ 826, 249 Abs. 1 BGB Anspruch auf Erstattung vorgerichtlicher Rechtsanwaltskosten, allerdings nur in Höhe einer 1,3-Gebühr zzgl. Telekommunikationspauschale und Umsatzsteuer aus einem Gegenstandswert von bis zu 16.000 €.6.1. Zuzustimmen ist der Beklagtenpartei zwar insoweit, als ein Schädiger nicht schlechthin alle durch ein Schadensereignis adäquat verursachten Rechtsverfolgungskosten des Geschädigten, sondern nur solche Kosten zu ersetzen hat, die aus der ex ante-Sicht einer vernünftigen, wirtschaftlich denkenden Person in der Situation des Geschädigten nach den Umständen des Falles zur Wahrung und Durchsetzung seiner Rechte erforderlich und zweckmäßig waren. Ob die Erforderlichkeit und Zweckmäßigkeit der ergriffenen Maßnahme gegeben ist, entzieht sich dabei einer generalisierenden Betrachtung. Dabei gilt, dass in einfach gelagerten Fällen, bei denen mit rechtlichen oder tatsächlichen Schwierigkeiten nicht zu rechnen ist, der Geschädigte eine erstmalige Geltendmachung seiner Rechte grundsätzlich selbst vornehmen kann, und dass es unter diesen Umständen zur sofortigen Einschaltung eines Rechtsanwalts zusätzlicher Voraussetzungen in der Person des Geschädigten wie etwa eines Mangels an geschäftlicher Gewandtheit oder einer Verhinderung zur Wahrnehmung seiner Rechte bedarf (vgl. BGH, Beschluss vom 31. Januar 2012 - VIII ZR 277/11, Rdnr. 4). Um einen solchen einfach gelagerten Fall handelt es sich streitgegenständlich jedoch gerade nicht, da die "Rückabwicklung" des streitgegenständlichen Autokaufs weder in tatsächlicher noch in rechtlicher Hinsicht einfach gelagert ist.6.2. Der Berechnung der vorgerichtlichen Rechtsanwaltsgebühren war jedoch nicht - wie die Klagepartei meint - eine 2,0-Gebühr, sondern nur eine 1,3-Gebühr zuzüglich der Kostenpauschale und der 19-prozentigen Umsatzsteuer zu Grunde zulegen. Denn zwar wirft der streitgegenständliche Fall eine Fülle komplexer tatsächlicher und rechtlicher Probleme auf, jedoch handelt es sich gleichzeitig um ein Massenverfahren, in dem in den klägerischen Schriftsätzen erkennbar weitestgehend Textbausteine zur Anwendung kamen (vgl. OLG Stuttgart, Urteil vom 27. Februar 2020 - 7 U 325/19, Rdnr. 76).6.3. Die 1,3-Gebühr errechnet sich dabei aus einem Gegenstandswert von bis zu 16.000 €. Kostenerstattung aufgrund des materiell-rechtlichen Kostenerstattungsanspruchs kann der Geschädigte vom Schädiger grundsätzlich nur insoweit verlangen, als seine Forderung - im Zeitpunkt der Anspruchsstellung - diesem gegenüber auch objektiv berechtigt ist.6.4. Auf die Bezahlung der vorgerichtlichen Anwaltskosten durch die Klagepartei kommt es im Hinblick auf die erfolgte ernsthafte und endgültige Weigerung der Beklagtenpartei, die Anwaltskosten zu begleichen, nicht an (§ 250 BGB).III.Die Kostenentscheidung beruht auf § 92 Abs. 1, auch iVm § 516 Abs. 3 ZPO. Die Klageseite hatte, wie ausgeführt, anfänglich - noch in der Berufungsinstanz - den Ansatz einer Nutzungsentschädigung verweigert. Die Entscheidung zur vorläufigen Vollstreckbarkeit beruht auf § 709 Nr. 10, § 711, § 713 ZPO.Die Revision war nicht zuzulassen, da sich Fragen von grundsätzlicher Bedeutung nicht stellen. Die Frage der Verjährungshemmung durch Teilnahme an der Musterfeststellungsklage ist, wie oben näher begründet, durch den BGH geklärt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2362953.html (https://oj.is/2362953)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

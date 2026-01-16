@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG DarmstadtRechtsprechungUrteil vom 12.08.2021 - 19 O 362/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Darmstadt, Urteil vom 12.08.2021 - 19 O 362/19
+                      m. Fundstelle
+                      LG Darmstadt, Urteil vom 12.08.2021 - 19 O 362/19 = openJur 2022, 13764
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Darmstadt, Urteil vom 12.08.2021 - 19 O 362/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 13764
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits trägt die Klägerin.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar.Beschluss:Der Streitwert wird auf EUR 22.990,00 festgesetzt. 
+				Tatbestand
+				Die Klägerin nimmt die Beklagte im Rahmen des sogenannten [...]-Abgasskandals auf Schadensersatz in Anspruch.Am 04.09.2015 erwarb die Klägerin von Auto A. in [...] (im Folgenden die "Verkäuferin") einen [Fahrzeugtyp] mit der Fahrzeugidentifikationsnummer (FIN) [...] (im Folgenden das "Fahrzeug") für EUR 21.990,00 mit einem Kilometerstand von 60.200 km (vgl. die Rechnung in Anlage K, Bk. 59 d. A.).Der in dem Fahrzeug verbaute Dieselmotor des Typs EA 189 wurde von der Beklagten entwickelt und konstruiert. Die Motorsteuerung wurde dabei so programmiert, dass der Wagen bei der Messung der Schadenstoffemissionen auf einem Prüfstand die Situation erkennt und deshalb den Stickoxidausstoß im sogenannten "Modus 1" optimiert, nicht aber im normalen Fahrbetrieb, bei dem der Motor im sogenannten "Modus 0" läuft. Aus diesem Grund werden beim Betrieb im Straßenverkehr die gesetzlich vorgegebenen Schadenstoffwerte der Euro-5-Abgasnorm erheblich überschritten.Mit Rückrufbescheid des Kraftfahrbundesamtes (im Folgenden "KBA") vom 14./15.10.2015 wurde unter anderem der Rückruf des streitgegenständlichen Fahrzeuges angeordnet, um die notwendigen Nachbesserungsarbeiten zur Entfernung der "unzulässigen Abschalteinrichtung" durchzuführen. Andernfalls drohte eine Betriebsuntersagung.Am 11.08.2021 betrug der Kilometerstand des Fahrzeugs 141.359 km.Die Klägerin trägt im Wesentlichen vor, wegen der Manipulation des Motors liege ein Mangel des Fahrzeuges vor. Es handele sich um eine illegale Abschalteinrichtung, wobei dem Vorstand und zahlreichen Mitarbeitern der Beklagten die Manipulation bekannt gewesen sei. Es liege eine vorsätzliche und sittenwidrige Täuschung der Kunden vor. Letztlich sei von einem betrügerischen Verhalten der Beklagten auszugehen. Beim Erwerb des Fahrzeuges sei es ihr darauf angekommen, einen umweltfreundlichen Pkw zu erwerben. Bei Kenntnis der Manipulation hätte sie das Fahrzeug nicht gekauft. Das aufgespielte Software-Update sei als Maßnahme zur Nachbesserung weder ausreichend noch seien ihr die mit dessen Durchführung verbundenen erheblichen Nachteile, unter anderem Leistungseinbußen und Motorschäden, zuzumuten.Die Klägerin ist der Auffassung, ihre Ansprüche seien nicht verjährt. Dies beruhe jedenfalls darauf, dass sie zum 28.09.2019 ihre Ansprüche zur Musterfeststellungsklage vor dem OLG Braunschweig (Az. 4 MK 1/18 - im Folgenden kurz die "MFK") angemeldet habe und diese Anmeldung zum 29.09.2019 zurückgenommen habe.Die Klägerin beantragt (mit Klage vom 30.12.2019, die der Beklagten am 29.01.2020 zugestellt wurde):1. Die Beklagte wird verurteilt, Zug um Zug gegen Herausgabe und Übereignung des Fahrzeugs Marke: [Fahrzeugtyp] Fahrzeug-Identifizierungsnummer [...] an die Klagepartei einen Betrag in Höhe von 21.990,00 € nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.3. Es wird festgestellt, dass sich die Beklagte mit der Annahme der in dem Klageantrag zu 1) genannten Zug-um-Zug-Leistung im Annahmeverzug befindet.4. Die Beklagte wird verurteilt, die Kosten des außergerichtlichen Vorgehens in Höhe von 1.789,76€ nebst Zinsen in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.Den ursprünglich angekündigten Antrag zu 2. Hinsichtlich Deliktszinsen hat die Klägerin in dem Termin zur mündlichen Verhandlung am 12.08.2021 zurückgenommen.Die Beklagte beantragt,die Klage abzuweisen.Sie trägt im Wesentlichen vor, ein Mangel liege schon deshalb nicht vor, weil für die Erteilung der erforderlichen Typengenehmigung letztlich nur die Laborwerte relevant seien. Die im normalen Fahrbetrieb ermittelten Emissionswerte seien unerheblich. Eine Korrelation der Werte sei gesetzlich nicht vorgegeben. Zudem seien die Gebrauchsfähigkeit und die Verkehrssicherheit des Fahrzeuges nicht beeinträchtigt. Es liege schon aus technischen Gründen keine unzulässige Abschalteinrichtung vor. Eine technische Überarbeitung sei mit einem sehr geringen finanziellen und zeitlichen Aufwand möglich gewesen, so dass - wenn überhaupt - ein unerheblicher Mangel vorliege. Durch das Software-Update sei die "fahrzyklusabhängige Umschaltlogik" beseitigt und der Verbrennungsprozess optimiert worden. Soweit die Klägerin in diesem Zusammenhang von drohenden Nachteilen ausgehe, handele es sich um unbegründete Spekulationen.Ein strafrechtlich relevantes Verhalten der Beklagten sei nicht gegeben, insbesondere liege kein vorsätzliches Verhalten vor. Auch von einer Arglist sei nicht auszugehen.Mit Schriftsatz vom 31.01.2020 (Bl. 116 d. A.) und vom 04.08.2021 (Bl. 333 d. A.) hat die Beklagte die Einrede der Verjährung erhoben. Die Anmeldung der Klägerin zur MFK sei rechtsmissbräuchlich gewesen.Wegen des weiteren Vorbringens der Parteien wird auf die gewechselten Schriftsätze nebst Anlagen sowie den übrigen Akteninhalt Bezug genommen.Mit Beschluss vom 13.08.2020 war das Verfahren auf Antrag der Parteien zum Ruhen gebracht worden. Mit Schriftsatz vom 25.03.2021 hat die Klägerin die Wiederaufnahme des Verfahrens beantragt. 
+				Gründe
+				Die zulässige Klage ist unbegründet.Die örtliche Zuständigkeit des Landgerichts Darmstadt ist jedenfalls nach der rügelosen Einlassung der Parteien gegeben.Das Verfahren ist auch weder nach § 613 Abs. 2 ZPO auszusetzen, noch ist die Klage nach § 610 Abs. 3 unzulässig. Denn die Klägerin hat nachgewiesen, dass sie ihre vorherige Anmeldung zur Musterfeststellungsklage bereits am 29.09.2019 - also deutlich vor der Einreichung der Klage - zurückgenommen hat.Ein etwaiger Anspruch der Klägerin gegen die Beklagte ist aber jedenfalls verjährt, die Beklagte hat die Verjährungseinrede erhoben (§§ 195, 214 BGB). Es kann dahinstehen, ob der Klägerin ein solcher Anspruch dem Grunde nach zusteht.Die gegen die Beklagte geltend gemachten deliktischen Schadensersatzansprüche aus §§823 Abs. 1, Abs. 2 BGB i.V.m. § 263 StGB, 826 BGB unterliegen der 3-jährigen Regelverjährung des § 195 BGB. Nach § 199 Abs. 1 Nr. 1 und 2 beginnt die Verjährungsfrist mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger von den den Anspruch begründenden Umständen und der Person des Schuldners Kenntnis erlangt hat oder ohne grobe Fahrlässigkeit hätte erlangen müssen. Dabei muss der Gläubiger die Tatsachen kennen, die die Voraussetzungen der anspruchsbegründenden Norm erfüllen. Dazu gehören bei Schadensersatzansprüchen die Pflichtverletzung, der Eintritt eines Schadens und die Kenntnis von der eigenen Schadensbetroffenheit (vgl. BGH, NJW 1993, 648; 1996, 117). Eine Kenntnis aller Einzelheiten ist nicht erforderlich. Es genügt, dass der Gläubiger aufgrund der ihm bekannten oder erkennbaren Tatsachen eine hinreichend aussichtsreiche, wenn auch nicht risikolose Klage - zumindest eine Feststellungsklage - erheben kann (vgl. BGH, NJW 2001, 1721; 2004, 510; 2007, 830). Grob fahrlässige Unkenntnis im Sinne von § 199 Abs. 1 Nr. 2 BGB liegt vor, wenn dem Gläubiger die Kenntnis deshalb fehlt, weil er ganz nahe liegende Überlegungen nicht angestellt oder das nicht beachtet hat, was im gegebenen Fall jedem hätte einleuchten müssen, wie etwa dann, wenn sich dem Gläubiger die den Anspruch begründenden Umstände förmlich aufgedrängt haben und er leicht zugängliche Informationsquellen nicht genutzt hat (BGH, Urteil vom 08.07.2010 - III ZR 249/09, m.w.N., zitiert nach juris).Davon ist im vorliegenden Rechtsstreit auszugehen. Soweit die Klägerin dies bestreitet, fehlt es zumindest an einem ausreichend substantiierten Vortrag. Es liegt bereits außerhalb jeglicher Lebenserfahrung, dass eine in Deutschland lebende Person bis Ende des Jahres 2015 von dem Einbau der Manipulationssoftware in die Dieselfahrzeuge des [...]-Konzerns keine Notiz genommen hat.Wie in der mündlichen Verhandlung erörtert worden ist, ist der sogenannte [...]-Abgasskandal bereits seit Ende 2015 allgemein bekannt. Schon ab September 2015, also kurz nach dem Erwerb des Fahrzeugs durch die Klägerin, gab es allgemein bekannt eine umfassende Medienberichterstattung. Es wurde eine Untersuchungskommission eingesetzt und staatsanwaltschaftliche Ermittlungen eingeleitet. Bereits am 22.09.2015 veröffentlichte die Beklagte eine Ad-hoc-Mitteilung gemäß § 15 WpHG mit Hinweisen auf die Unregelmäßigkeiten der verwendeten Software bei Dieselmotoren des Typs EA 189 EU 5 mit einem Gesamtvolumen von weltweit rund 11 Millionen Fahrzeugen des [...]-Konzerns. Der [...]-Vorstandschef B wurde bereits am 23.09.2015 wegen des Skandals zum Rücktritt gezwungen. In Deutschland ordnete das KBA mit Bescheid vom 14. bzw. 15.10.2015 den Rückruf von ca. 2,4 Millionen Dieselfahrzeugen der Marken ..., ..., ... und ... an und stellte verbindlich fest, dass die betroffenen Fahrzeuge über eine unzulässige Abschalteinrichtung im Sinne der Art. 3 Nr. 10, 5 Abs. 2 S. 1 VO (EG) 715/2007 verfügen. Über den Rückruf des KBA wurde gleichfalls eingehend berichtet. Auch die Beschaffenheit einzelner Fahrzeugmodelle der unterschiedlichen Konzernmarken der Beklagten war Gegenstand der Berichterstattung. Am 02.10.2015 stellte die Beklagte eine Internetseite bereit, auf der Kunden prüfen lassen konnten, ob ihr Fahrzeug ebenfalls betroffen ist. Die Medien wurden hierüber informiert. Auch die Konzernmarken bzw. ihre deutschen Importeure entwickelten vergleichbare Webseiten und veröffentlichten entsprechende Pressemitteilungen. Über die Freischaltung der Internet-Abfrageseiten wurde wiederum ausführlich öffentlich berichtet. Daneben konnten sich sämtliche Fahrzeughalter telefonisch bzw. schriftlich per Brief oder E-Mail beim [...]-Kundenservice informieren, ob Ihre konkreten Fahrzeuge mit der beanstandeten Softwarekonfiguration ausgestattet waren. Das für notwendig gehaltene Update für die betroffenen Fahrzeuge war ebenfalls schon seit Ende 2015 immer wieder Gegenstand der Medienberichterstattung.Nach alledem ist davon auszugehen, dass auch die Klagepartei davon mitbekommen haben muss, dass möglicherweise auch ihr Fahrzeug von den Manipulationen betroffen ist. Das musste sich ihr zumindest aufdrängen. Es kommt dabei auch ausschließlich auf die Kenntnis der den Anspruch begründenden Umstände an und nicht auch auf deren zutreffende rechtliche Würdigung.Der Ablauf der Verjährungsfrist war nicht durch die Anmeldung der Klägerin zur Musterfeststellungsklage nach § 204 Abs. 1 Nr. 1a, Abs. 2 Satz 1 BGB in Verbindung mit §§ 606 ff. ZPO gehemmt.Die An- und Abmeldung der Klägerin zu der Musterfeststellungsklage war rechtsmissbräuchlich. Zwar kann der Klägerin im Grundsatz kein Vorwurf daraus gemacht werden, dass sie sich eines gesetzlich vorgesehenen Rechtsbehelfs bedient um eine Verjährungshemmung zu erreichen. Die Anmeldung und folgende Abmeldung zur Musterfeststellungsklage ist im Ausgangspunkt ebensowenig rechtsmissbräuchlich wie die ebenso einfache Beantragung eines Mahnbescheids (§ 204 Abs. 1 Nr. 1 BGB) oder eines selbständigen Beweisverfahrens (§ 204 Abs. 1 Nr. 7 BGB). Dies gilt nicht zuletzt vor dem Hintergrund, dass die Musterfeststellungsklage gerade auch im Hinblick auf den sogenannten Dieselskandal eingeführt worden war und damit exakt auf die vorliegende Konstellation zugeschnitten sein sollte. Es würde ersichtlich der gesetzgeberischen Intention widersprechen, wenn der Verbraucher, der sich dieses Instruments bedient allein deswegen in die Verjährung laufen sollte. Durch die - erstmals in dem am Vortrag des Termins bei Gericht eingegangenen Schriftsatz vom 11.08.2021 konkret mitgeteilte - Anmeldung der Klägerin zur Musterfeststellungsklage am 28.09.2019 konnte damit grundsätzlich eine Hemmung des Ablaufs der Verjährungsfrist erreicht werden, die auch Rückwirkung auf den Zeitpunkt der Anmeldung der MFK hätte haben können. Vorliegend aber ergibt sich aus dem Umstand, dass die Klägerin die Anmeldung zur MFK bereits am Folgetag wieder zurücknahm, dass sie niemals vorhatte, sich des Instruments der MFK wirklich zu bedienen. Durch die An- und sofortige Abmeldung wollte sie sich lediglich die Verjährungshemmung erschleichen, ohne dass sie erwarten durfte, an dem Verfahren in irgendeiner Weise zu partizipieren. Das Verhalten der Klägerin ist damit vergleichbar mit der Beantragung eines Mahnbescheids, der dann direkt am Folgetag (also bevor man realistischerweise die Zustellung bei der Beklagten erwarten darf) zurückgenommen wird. Damit aber diente die Anmeldung gerade nicht dem Zweck, der Beklagten deutlich zu machen, dass die Klägerin ihre Rechte gerichtlich zu verfolgen gedenke, denn die Beklagte konnte von der Anmeldung erst erfahren, als die Klägerin sich schon wieder abgemeldet hatte und damit den entgegengesetzten Rechtsschein setzte.Auch war die Anmeldung zur Musterfeststellungsklage vorliegend nicht hinreichend bestimmt, um die Verjährungshemmung erreichen zu können. Voraussetzung für den Eintritt der Hemmungsfolgen ist nämlich, dass sich aus der Anmeldung hinreichend deutlich ergibt, um welchen Lebenssachverhalt es sich handelt (vgl. dazu Grothe in: Münchener Kommentar zum BGB, 8. Auflage 2018, § 204, Rn. 30a, 23; BGH NJW 2001, 305 (zur Individualisierung beim Mahnbescheid)). Erforderlich zur Individualisierung bei der vorliegenden Musterfeststellungsklage im Rahmen des sogenannten Dieselskandals ist, dass eindeutig erkennbar ist, welches Fahrzeug der Verbraucher zur Musterfeststellungsklage angemeldet hat. Daran fehlt es vorliegend. Denn die Klägerin hat keinerlei Vortrag dazu gehalten - auch nicht in dem Schriftsatz vom 11.08.2021 - was genau angemeldet wurde.Damit lief die Verjährungsfrist mit Ablauf des 31.12.2018 ab. Die Klage ging aber erst am 30.11.2019 bei Gericht ein und konnte daher den Ablauf der Verjährung nicht mehr hemmen. Auf den Umstand, dass die Verjährungsfrist auch in dem Zeitraum sechs Monate nach Anordnung des Ruhens des Verfahrens und dessen Wiederaufnahme wieder lief, kam es danach nicht entscheidend an.Die prozessualen Nebenentscheidungen folgen aus §§ 91, 709 ZPO.Die Streitwertfestsetzung ergibt sich aus dem Antrag zu 1), der mit EUR 21.990,00 beziffert wurde und dem geschätzte EUR 1.000 für den Feststellungsantrag zu 3) hinzuzusetzen waren. Der Antrag zu 4) und der (zurückgenommene) Antrag zu 2) mehren als reine Nebenforderungen den Streitwert nicht.
+			
+			
+			
+			Permalink: https://openjur.de/u/2441893.html (https://oj.is/2441893)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 14.05.2021 - 2 O 329/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 14.05.2021 - 2 O 329/20
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 14.05.2021 - 2 O 329/20 = openJur 2024, 6518
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 14.05.2021 - 2 O 329/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2024, 6518
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				für Recht erkannt:1.Die Beklagte wird verurteilt, an die Klägerin 26.502,03 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz ab dem 27.08.2020 zu zahlen.2.Die Beklagte wird weiter verurteilt, an die A-Versicherungs-AG, zur Schadennummer X-XX-XXXXXXXX vorgerichtliche Rechtsanwaltskosten in Höhe von 1.028,28 EUR zuzüglich der gesetzlich geltenden Umsatzsteuer nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit 13.11.2020 zu zahlen.3.Die Beklagte trägt die Kosten des Rechtsstreits.4.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Die Klägerin, eine Versicherungsvertreterin, macht gegen die Beklagte Ansprüche im Zusammenhang mit dem sogenannten Abgasskandal.Die Klägerin erwarb das streitgegenständliche Fahrzeug, einen Porsche Macan 3.0 Liter S Diesel, Euro-Abgasnorm 6, mit der Fahrzeugidentifikationsnummer (FIN) XXXXXXXXXXXXXXXXX von der Firma B GmbH mit Kaufvertrag vom 06.10.2016 für einen Betrag von 83.884,25 EUR inkl. Umsatzsteuer (vgl. Anlage K1, Bl. 68 f. d.A.). Bei Übergabe am 12.01.2017 wies das Fahrzeug eine Laufleistung von 5 km auf.In dem Fahrzeug ist ein von der Beklagten entwickelter und hergestellter Motor verbaut.Zur Teil-Finanzierung des Kaufpreises nahm die Klägerin bei der C ein Darlehen in Höhe von 83.700,00 EUR auf, das ab dem Tag der Auszahlung mit 1,95% p.a. zu verzinsen war und das die Klägerin zum 30.09.2020 vollständig zurückführte. Insgesamt leistete sie auf das Darlehen sowie auf den Kaufpreis Zahlungen in Höhe von 89.495,34 EUR.Das Fahrzeug ist von einem verpflichtenden Rückruf des Kraftfahrt-Bundesamts betroffen. Unstreitig vertrat die Behörde die Auffassung, dass im streitgegenständlichen Fahrzeug eine unzulässige Abschalteinrichtung zum Einsatz komme und die beanstandeten Softwarebestandteile der Motorsteuerung zu ändern bzw. aufzuweiten seien, um einen breiteren Anwendungsbereich im Straßenbetrieb zu gewährleisten. Dem ist die Beklagte mit einem Software-Update nachgekommen, das vom Kraftfahrt-Bundesamt mit Bescheid vom 01.08.2018 (Anlage B3, Bl. 138 f. d.A. - teilweise geschwärzt) freigegeben wurde. Bei dem streitgegenständlichen Fahrzeug wurde das Software-Update am 15.01.2019 aufgespielt.Mit anwaltlichem Schreiben vom 10.08.2020 forderte die Klägerin die Beklagte zur Erstattung der bislang geleisteten Darlehensraten unter Anrechnung einer Nutzungsentschädigung sowie zur Freistellung hinsichtlich der zukünftigen Finanzierungskosten Zugum-Zug gegen Übergabe und Übertragung des Anwartschaftsrechts am streitgegenständlichen Fahrzeug bis zum 26.08.2020 auf.Mit Vertrag vom 26.08.2020 (Anlage K4, Bl. 78 d.A.) verkaufte die Klägerin das streitgegenständliche Fahrzeug bei einem Kilometerstand von 71.507 km zu einem Preis von 43.000,00 EUR weiter.Die Klägerin behauptet, dass im streitgegenständlichen Kfz ein Motor der Baureihe EA897 bzw. EA897evo verbaut sei. Dieser sei mit einer unzulässigen Software ausgestattet, die erkenne, wenn das Fahrzeug den für die Erlangung einer nach der VO (EG) Nr. 715/2007 erforderlichen Typengenehmigung zu absolvierenden Neuen Europäischen Fahrzyklus durchläuft (im Folgenden: NEFZ). Nur dann entfalte die Abgasrückführung ihre volle Leistungsfähigkeit, um die Abgasgrenzwerte auf dem Prüfstand einzuhalten. Die Erkennung erfolge anhand der Messung der Außentemperatur, der standardisierten Prüfstandsbedingungen, des Reifendrucks, des Lenkradwinkels, des Anschlusses eines Testers an die Diagnosesteckdose und anhand des Umgebungsluftdrucks. Aufgrund dieser Softwarekomponente habe das Kraftfahrt-Bundesamt den Rückruf angeordnet. Sie behauptet weiter, die Beklagte habe das Kraftfahrt-Bundesamt über das Vorhandensein dieser Manipulationssoftware ebenso getäuscht wie die Käufer. Von einer derart umfangreichen Maßnahme habe der Vorstand der Beklagten zumindest Kenntnis erlangen müssen. Hätte die Klägerin hiervon gewusst, hätte sie das streitgegenständliche Fahrzeug nicht gekauft. Sie behauptet weiter, dass sie als Versicherungsbüro nicht von der Umsatzsteuer befreit und damit auch nicht vorsteuerabzugsberechtigt sei.Die Klägerin ist der Ansicht, dass ihr gegen die Beklagte ein Schadenersatzanspruch zustehe, der sich um die gezogenen Nutzungen verringere. Bei deren Berechnung sei von einer Gesamtlaufleistung des Kfz von 300.000 km auszugehen. Zudem könne die Klägerin verlangen, dass die von ihrer Rechtsschutzversicherung geleisteten außergerichtlichen Rechtsverfolgungskosten in Höhe des nicht anrechenbaren Teils der Regelgebühr von der Beklagten ersetzt würden.Die Klägerin beantragt sinngemäß,1. die Beklagte zu verurteilen, an sie 26.502,03 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz ab dem 27.08.2020 zu zahlen.2. Die Beklagte zu verurteilen, an die A-Versicherungs-AG, zur Schadennummer X-XX-XXXXXXXX vorgerichtliche Rechtsanwaltskosten in Höhe von 1.028,28 EUR (netto) zuzüglich der gesetzlich geltenden Umsatzsteuer nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Sie behauptet, dass das streitgegenständliche Fahrzeug nicht über die ursprünglich in Fahrzeugen des Volkswagen-Konzerns mit dem Motor der Baureihe EA189 verbaute Umschaltlogik verfüge. In dem streitgegenständlichen Fahrzeug sei auch kein Motor des Typs EA897 verbaut, sodass sämtliche darauf basierende Annahmen der Klägerin ins Leere gingen. Die Stickoxidgrenzwerte, die das Fahrzeug im Rahmen des NEFZ auf dem Rollenprüfstand erreichen müsse, halte es ein. Sie behauptet, die Klägerin sei als Unternehmerin zum Vorsteuerabzug berechtigt, sodass sie allenfalls auf Nettobasis abrechnen könne.Sie ist der Ansicht, dass die Klägerin weder eine kausale Täuschung noch einen Schaden oder einen Vorsatz der Beklagten dargelegt habe. Zudem sei jedenfalls durch den Weiterverkauf des Fahrzeugs ein etwaig einmal bestehender Schaden nachträglich entfallen. Sie greift die von der Klägerin gewählte Berechnungsmethode des Nutzungsersatzes an und hält im Übrigen eine Gesamtlaufleistung von maximal 250.000 km für angemessen.Die Klage ist der Beklagten am 12.11.2020 zugestellt worden.Die Parteien haben in der Sitzung vom 30.03.2021 ihr Einverständnis mit einem Übergang ins schriftliche Verfahren erklärt.Wegen der weiteren Einzelheiten wird auf die gewechselten Schriftsätze nebst Anlagen sowie die Sitzungsniederschrift ergänzend Bezug genommen. 
+				Gründe
+				Die Klage ist begründet.1.Der Klägerin steht gegen die Beklagte aus §§ 826, 31 BGB ein Anspruch auf Zahlung der Finanzierungskosten abzüglich der gezogenen Nutzungen und des Weiterverkaufserlöses in Höhe von 26.502,03 EUR zu.a)Der von der Klägerin zur Überzeugung der Kammer hinreichend substantiiert dargelegte Sachverhalt erfüllt sowohl den objektiven wie auch den subjektiven Tatbestand des § 826 BGB. Denn es steht wertungsmäßig einer unmittelbaren arglistigen Täuschung der Fahrzeugkäufer gleich, wenn ein Fahrzeughersteller im Rahmen einer von ihm bei der Motorenentwicklung getroffenen strategischen Entscheidung, die Typgenehmigungen der Fahrzeuge durch arglistige Täuschung des Kraftfahrt-Bundesamts zu erschleichen und die derart bemakelten Fahrzeuge alsdann in Verkehr zu bringen, die Arglosigkeit und das Vertrauen der Fahrzeugkäufer gezielt ausnutzt. Für die Erfüllung der primären Darlegungslast hinsichtlich der erforderlichen Kenntnis der Beklagten reicht es zudem aus, dass - wie vorliegend geschehen - hinreichende Anhaltspunkte hierfür aufgezeigt werden (vgl. zum Ganzen BGH, Urteil v. 25.05.2020 - VI ZR 252/19, NJW 2020, 1962).Der zur Begründung des Anspruchs vorgetragene Sachverhalt ist bereits dann schlüssig und erheblich, wenn die Partei Tatsachen vorträgt, die in Verbindung mit einem Rechtssatz geeignet und erforderlich sind, das geltend gemachte Recht als in der Person der Partei entstanden erscheinen zu lassen. Die Angabe näherer Einzelheiten ist nicht erforderlich, soweit diese für die Rechtsfolgen nicht von Bedeutung sind. Dabei ist es der Partei grundsätzlich nicht verwehrt, eine tatsächliche Aufklärung auch hinsichtlich solcher Umstände zu verlangen, über die sie selbst kein zuverlässiges Wissen besitzt und auch nicht erlangen kann, die sie aber nach Lage der Verhältnisse für wahrscheinlich oder möglich hält, insbesondere wenn sie sich wie vorliegend nur auf vermutete Tatsachen stützen kann, weil sie mangels Sachkunde und Einblick in die Produktion des von der Gegenseite hergestellten Fahrzeugmotors einschließlich des Systems der Abgasrückführung keine sichere Kenntnis von Einzeltatsachen haben kann. Eine Behauptung ist erst dann unbeachtlich, wenn sie ohne greifbare Anhaltspunkte für das Vorliegen eines bestimmten Sachverhalts willkürlich "aufs Geratewohl" oder "ins Blaue hinein" aufgestellt worden ist (vgl. zur gleichlaufenden Darlegungslast im Rahmen der Sachmängelgewährleistung BGH, Beschluss vom 28.1.2020 - VIII ZR 57/19 m.w.N.)Die Klägerin hat unter Berücksichtigung dieser Grundsätze hinreichend konkret dargelegt, dass das streitgegenständliche Fahrzeug mit einer Prüfstanderkennungssoftware ausgestattet gewesen sei, die dazu führe, dass die Abgasgrenzwerte lediglich beim Durchfahren des NEFZ eingehalten würden. Die Klägerin kann sich hierbei maßgeblich auf den gegen die Beklagte ergangenen Rückrufbescheid des Kraftfahrt-Bundesamts stützen, den die Beklagte auch nach Hinweis des Gerichts in der Sitzung vom 30.03.2021 bis zum Schluss der mündlichen Verhandlung nicht vorgelegt hat. Dieser erging jedoch unstreitig mit der Aufforderung, eine unzulässige Abschalteinrichtung zu entfernen und - nach den Worten der Beklagten - einen breiteren Anwendungsbereich im Straßenbetrieb zu gewährleisten. Dies stellt einen erheblichen Anhaltspunkt für eine unzulässige Differenzierung der Motorsteuerung zwischen Prüfstand und Straßenbetrieb zur Steuerung der Abgasreinigung dar. Die Kammer hält es wie die Klägerin für ausgeschlossen, dass eine derartige Bedatung bei einer ganzen Motorenreihe durch einzelne, untergeordnete Ingenieure veranlasst wurde und nicht zumindest in Kenntnis einzelner Vorstandsmitglieder erfolgte.Es wäre damit an der Beklagten gewesen, im Rahmen der ihr sowohl hinsichtlich des objektiven wie auch des subjektiven Tatbestands obliegenden sekundären Darlegungslast dem Klägervortrag substantiiert entgegenzutreten. Dem ist sie trotz eines entsprechenden Hinweises des Gerichts in der Sitzung vom 30.03.2021 nicht nachgekommen, sodass der Klägervortrag als zugestanden anzusehen ist.b)Die Klägerin wurde durch den Sittenverstoß auch kausal in ihrem Vermögen geschädigt.Da bereits die Verpflichtung aus einem ungewollten Vertrag einen Schaden darstellt, liegt in jedem durch die sittenwidrige Handlung herbeigeführten Vertragsschluss, gleich ob dieser für die Klägerin wirtschaftlich nachteilig ist oder nicht, ein Schaden (sog. Vertragserschleichung). Es reicht dabei aus, wenn der Kaufgegenstand sich für den Käufer als für seine Zwecke nicht voll brauchbar erweist (ständige Rechtsprechung, vgl. etwa Urteil des BGH vom 08.03.2005, XI ZR 170/04). Dies stellt bereits einen normativen Schaden dar.Der Sittenverstoß der Beklagten war für die Entstehung des Schadens auch kausal. Denn die Klägerin hat dargelegt, dass sie das Fahrzeug nicht gekauft hätte, wenn sie von der Software-Manipulation gewusst hätte. Das ist plausibel und lebensnah. Es spricht eine tatsächliche Vermutung dafür, dass ein privater Käufer eines Neufahrzeuges kein Fahrzeug erwerben möchte, dessen dauerhafter Betrieb rechtlichen Bedenken unterliegt. Zwar ist es streitig, ob es die in Rede stehenden Umweltaspekte waren, die die Kaufentscheidung der Klägerin maßgeblich beeinflusst haben. Ein durchschnittlicher Käufer erwartet aber jedenfalls ein technisch einwandfreies, den gesetzlichen Bestimmungen entsprechendes Fahrzeug. Nach den Grundsätzen der Vermutung aufklärungsrichtigen Verhaltens, der die Beklagte nicht substantiiert entgegen getreten ist, hätte kein verständiger Käufer das streitgegenständliche Fahrzeug erworben, wenn er über die Software-Manipulation aufgeklärt worden wäre und deshalb jedenfalls im Fall einer Entdeckung mit Problemen durch das Kraftfahrt-Bundesamt bis hin zur drohenden Stilllegung des Fahrzeugs hätte rechnen müssen (vgl. OLG Köln, Beschluss vom 03.01.2019, 18 U 70/18 Rn. 45 f.; LG Hildesheim, Urteil vom 17.01.2017, 3 O 139/16 Rn. 31).Der Schaden ist entgegen der Ansicht der Beklagten auch nicht nachträglich durch das Software-Update oder den Weiterverkauf des streitgegenständlichen Fahrzeugs wieder entfallen. Nach den oben dargelegten Grundsätzen stellt bereits die Eingehung des bei gehöriger Aufklärung nicht abgeschlossenen, ursprünglichen Vertrags den maßgeblichen Schaden dar. Dieser Schaden konnte weder durch das Aufspielen eines Software-Updates noch durch den Weiterverkauf des streitgegenständlichen Fahrzeugs beseitigt werden, sondern allein durch die Rückabwicklung des ursprünglichen Fahrzeugerwerbs (vgl. OLG Köln Urteil v. 26.3.2020 - 7 U 167/19, BeckRS 2020, 22692).c)Der Schaden bemisst sich gemäß §§ 249 ff. BGB, worauf die Klägerin zu Recht hinweist, zunächst nach den von ihr aufgewandten, unstreitig gebliebenen Finanzierungskosten. Denn diese dienten dem Erwerb des streitgegenständlichen Fahrzeugs, sodass auch sie nicht angefallen wären, wenn die Klägerin gehörig über die verwendete Software aufgeklärt worden wäre. Einen zusätzlichen Liquiditätsvorteil der Klägerin begründet der Finanzierungsaufwand nicht. Dessen Berücksichtigung stellt schließlich auch keine unangemessene Belastung der Beklagten als Schädigerin dar (vgl. insgesamt BGH Urteil v. 13.04.2021 - VI ZR 274/20, BeckRS 2021, 8424).Bei der Bemessung war zudem von den Bruttopreisen auszugehen, weil die Klägerin nachvollziehbar dargelegt hat, dass nur ihre Umsätze aus ihrer Tätigkeit als Versicherungsvertreterin gemäß § 4 Nr. 11 UStG umsatzsteuerfrei (und dafür versicherungssteuerpflichtig) sind, sie aber ansonsten Umsatzsteuer leisten müsse.Von dem Anspruch der Klägerin waren schließlich im Wege der Vorteilsanrechnung der erzielte Wiederverkaufspreis, gegen dessen Marktüblichkeit die Beklagte nichts erinnert hat, sowie die erzielten Nutzungen nach der allgemein akzeptierten Formel (Bruttokaufpreis x gefahrene Kilometer bis zum Weiterverkauf) / (Gesamtlaufleistung - Laufleistung bei Kauf) abzuziehen. Die Kammer schätzt die Gesamtlaufleistung des streitgegenständlichen Fahrzeugs dabei gemäß § 287 ZPO ebenso wie die Klägerin auf 300.000 km. Eine darunter liegende Laufleistung ist angesichts der Tatsache, dass es sich um ein Fahrzeug der Oberklasse mit einem langlebigen Dieselmotor handelt, nicht angemessen.Danach berechnet sich der Zahlungsanspruch der Klägerin wie folgt:Finanzierungskosten 89.495,34 EUR- Weiterverkaufspreis 43.000,00 EUR- Nutzungsersatz (83.884,25 EUR x [71.507 - 5 km]) / (300.000km -5km) = 19.993,31 EUR= 26.502,03 EUR2.Der Klägerin steht die begehrte Verzinsung der Hauptforderung seit dem 27.08.2020 aus Verzugsgesichtspunkten gemäß §§ 286, 288 BGB zu. Bei dem anwaltlichen Schreiben vom 10.08.2020, dessen Inhalt unstreitig geblieben ist, handelt es sich um eine wirksame Mahnung der Klägerin gegenüber der Beklagten, sodass sich diese mit dem auf das Fristende folgenden Tag in Verzug befand.3.Die von der Klägerin geltend gemachten vorgerichtlichen Rechtsanwaltskosten nebst Zinsen seit dem auf die Zustellung der Klageschrift folgenden Tag (§§ 288 Abs. 1 S. 2, 291 BGB) stellen ebenfalls einen ersatzfähigen Schaden gemäß § 249 BGB dar. Diese Kosten macht die Klägerin in von der Beklagten nicht gerügter, zulässiger gewillkürter Prozessstandschaft für ihre Rechtsschutzversicherung geltend.Die Klägerin hat den Streitgegenstand insoweit dahingehend eingegrenzt, dass sie lediglich den gemäß Vorbem. 3 Abs. 4 S. 1 VV RVG nicht auf die Verfahrensgebühr anrechenbaren Teil der vorgerichtlich angefallenen Geschäftsgebühr Nr. 2300 VV RVG verlangt. Gegen deren Berechnungsgrundlage hat die Beklagte nichts erinnert.4.Die prozessualen Nebenentscheidungen folgen aus §§ 91 Abs. 1, 709 ZPO.Der Streitwert wird auf 26.502,03 EUR festgesetzt.Rechtsbehelfsbelehrung:Gegen die Streitwertfestsetzung ist die Beschwerde an das Landgericht Bonn statthaft, wenn der Wert des Beschwerdegegenstandes 200,00 EUR übersteigt oder das Landgericht die Beschwerde zugelassen hat. Die Beschwerde ist spätestens innerhalb von sechs Monaten, nachdem die Entscheidung in der Hauptsache Rechtskraft erlangt oder das Verfahren sich anderweitig erledigt hat, bei dem Landgericht Bonn, Wilhelmstr. 21, 53111 Bonn, schriftlich in deutscher Sprache oder zur Niederschrift des Urkundsbeamten der Geschäftsstelle einzulegen. Die Beschwerde kann auch zur Niederschrift der Geschäftsstelle eines jeden Amtsgerichtes abgegeben werden. Ist der Streitwert später als einen Monat vor Ablauf dieser Frist festgesetzt worden, so kann die Beschwerde noch innerhalb eines Monats nach Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses eingelegt werden.Hinweis zum elektronischen Rechtsverkehr:Die Einlegung ist auch durch Übertragung eines elektronischen Dokuments an die elektronische Poststelle des Gerichts möglich. Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet und mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg gemäß § 130a ZPO nach näherer Maßgabe der Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach (BGBl. 2017 I, S. 3803) eingereicht werden. Weitere Informationen erhalten Sie auf der Internetseite www.justiz.de.
+			
+			
+			
+			Permalink: https://openjur.de/u/2490567.html (https://oj.is/2490567)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 19.05.2017 - 1 O 341/16
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 19.05.2017 - 1 O 341/16
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 19.05.2017 - 1 O 341/16 = openJur 2017, 412
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 19.05.2017 - 1 O 341/16
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2017, 412
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreites werden dem Kläger auferlegt.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Beklagte ist Vertragshändlerin der W AG. Am 09.03.2015 schlossen die Parteien einen mit der Überschrift "Verbindliche Bestellung eines gebrauchten Fahrzeugs (Eigengeschäft)" versehenen Kaufvertrag (Bl.# - ... d.A.) über ein Fahrzeug der Marke W3, Typ "Q Variant Highline BM", Erstzulassung 23.12.2014, das mit einem 130 kW - und 2,0 l - Dieselmotor des Typs $$...# EU5 ausgestattet ist. Die in dem Vertrag mit 100 km angegebene Gesamtfahrleistung betrug tatsächlich 29 km.Unter dem 12.03.2015 wurde das Fahrzeug dem Kläger vereinbarungsgemäß mit 36.800,00 € in Rechnung gestellt (Bl... d.A.) und das Fahrzeug auf den Kläger zugelassen (Bl... d.A.). Der Kaufpreis wurde von dem Kläger beglichen.Mit Schreiben vom Februar 2016 (Bl... - ... d.A.) teilte die W AG dem Kläger folgendes mit:(...) wir möchten Sie darüber informieren, dass der in Ihrem Fahrzeug eingebaute Dieselmotor von einer Software betroffen ist, durch welche die Stickoxidwerte (NOx) im Vergleich zwischen Prüfstandlauf (NEFZ) und realem Fahrbetrieb verschlechtert werden. Diesbezüglich versichern wir Ihnen als allererstes, dass Ihr Fahrzeug technisch sicher und fahrbereit ist ! Sie dürfen ihr Fahrzeug ohne jegliche Einschränkung in gewohnter Weise weiter nutzen ! Dies bezieht sich auch auf eine gegebenenfalls bevorstehende Hauptuntersuchung oder auf das Einfahren in eine für Ihr Fahrzeug zugelassene Umweltzone. Wir bedauern zutiefst, dass wir Ihr Vertrauen enttäuscht haben und werden diese Unregelmäßigkeit schnellstmöglich beheben.Wir arbeiten mit Hochdruck an der Organisation der Rückrufmaßnahme durch zuständige Werkstätten. Aufgrund der Vielzahl der zu entwickelnden technischen Lösungen wird die Instandsetzung der Fahrzeuge in mehreren Stufen im Kalenderjahr 2016 erfolgen. Wir können Ihnen aber bereits jetzt mitteilen, dass, abhängig von dem in ihrem Fahrzeug verbauten Aggregat: 2.0L ab KW 09/16 (...), die Reparaturmaßnahmen in den Werkstätten starten. Sie werden dann in einem weiteren Anschreiben von uns noch einmal konkret aufgefordert umgehend einen Termin mit einem autorisierten W Partner zu vereinbaren. W übernimmt selbstverständlich die Kosten für alle notwendigen Reparaturmaßnahmen und setzt alles daran, Ihr Vertrauen vollständig wiederzugewinnen. (...)Mit Schreiben seines Prozessbevollmächtigten vom 22.09.2016 (Bl... - ... d.A.) erklärte der Kläger gegenüber der Beklagten den Rücktritt vom Kaufvertrag und forderte diese unter Fristsetzung auf den 13.10.2016 zur Zahlung von 34.316,00 € Zug um Zug gegen Rückübereignung des Fahrzeuges auf. Zur Begründung wurde ausgeführt:An diesem Fahrzeugtyp wurden von W3 die nunmehr bekannten Abgasmanipulationen vorgenommen. Mein Mandant erhielt von W (...) ein auf Februar 2016 datiertes Schreiben mit der Überschrift "Dieselthematik / Rückrufaktion wegen NOx Abweichung bei $$ ...# (Diesel) Motoren / Ihr W Q Variant (...)".Mein Mandant wurde darüber informiert, dass der in seinem Fahrzeug eingebaute Dieselmotor von einer Software betroffen ist, durch die die Stickoxidwerte im Vergleich zwischen Prüfstandlauf und realem Fahrbetrieb verschlechtert werden. Es wurde eine Nachbesserung in Aussicht gestellt, diese aber bis heute nicht vollzogen.Vor dem Hintergrund der beiden Entscheidungen des Landgerichts Krefeld vom 14.09.2016 Az. 2 O 72/16 und 2 O 83/16, geht mein Mandant davon aus, dass es sich bei den Abgasmanipulationen um einen erheblichen Mangel handelt und eine Nachbesserung durch Software Updates für ihn nicht zumutbar ist. Es ist davon auszugehen dass auch bei einer Nachrüstung der Software ein berechtigter Mangelverdacht verbleibt. Es bestehen daher erhebliche Zweifel an einer erfolgreichen Nacherfüllung. Darüber hinaus stehen günstige Stickoxidwerte bekannter Maßen technisch in einem "Zielkonflikt" mit geringeren Kohlendioxidwerten. Der Autokäufer muss nach Ansicht des Landgerichts Krefeld nicht hinnehmen, dass Verbesserungen der Stickoxidwerte möglicherweise durch andere Mängel wie höhere CO2 Werte erkauft würden.Vor diesem Hintergrund erkläre ich namens meines Mandanten (...) den Rücktritt vom Kaufvertrag. Die derzeitige Laufleistung des Fahrzeuges beträgt 13.500 km. (...) Mithin ergibt sich eine Ihnen zustehende Nutzungsentschädigung in Höhe von 2.484,00 €.Hierauf antwortete die Beklagte mit Schreiben vom 06.10.2016 (Bl... - ... d.A.), in dem es unter anderem heißt:Die Sorge Ihres Mandanten nehmen wir sehr ernst, wir möchten jedoch auch rein vorsorglich zur Vermeidung möglicher Missverständnisse auf folgende Aussage der W AG hinweisen:- Alle betroffenen Fahrzeuge sind weiterhin technisch sicher und fahrbereit.- Die zugelassenen Fahrzeuge mit dem Dieselmotor $$ ...# können weiterhin im Straßenverkehr belassen und uneingeschränkt genutzt werden. Dies hat das Kraftfahrt-Bundesamt am 15. Oktober 2015 bestätigt.Die W AG hat dem Kraftfahrt-Bundesamt bereits die konkreten technischen Maßnahmen für die betroffenen $$ ...#-Motoren (...) vorgestellt. Das Kraftfahrt-Bundesamt hat nach intensiver Begutachtung die von der W AG vorgeschlagenen Maßnahmen grundsätzlich bestätigt. Zusätzlich wird für jeden Fahrzeugtypen eine individuelle Freigabe durch das Kraftfahrt-Bundesamt erfolgen.(...)Die von W entwickelten technischen Lösungen sehen wie folgt aus: (...)- Die (...) 2,0-Liter Aggregate benötigen lediglich ein Software-Update, für das nur etwa eine halbe Stunde Arbeitszeit in einer Vertragswerkstatt vorgesehen ist.Seit Ende Januar 2016 werden die betroffenen Fahrzeuge auf den erforderlichen technischen Stand gebracht. (...)Es ist unser Ziel, dass die Maßnahmen keinen Einfluss auf Verbrauch und Fahrleistung haben.Diese Zielerreichung wurde bereits bei mehreren Fahrzeugtypen, die das Kraftfahrt-Bundesamt nach Durchführung der technischen Maßnahmen untersucht hat, bestätigt.(...) Am 3. Juni 2016 hat das Kraftfahrt-Bundesamt die technischen Lösungen für die W Modelle Q (...) mit 2,0l-TDI des Motortyps $$ ...# freigegeben.(...)Bis zur konkreten Durchführung der Maßnahmen möchten wir Ihren Mandanten um Geduld und sein Verständnis dafür bitten, dass wir alle notwendigen Schritte mit dem gebotenen Tempo, aber auch mit der Sorgfalt angehen, die Ihr Mandant jetzt von uns erwarten darf.(...)Vor diesem Hintergrund bitten wir um Verständnis, dass wir dem Wunsch Ihres Mandanten, sein Fahrzeug zurückzunehmen, nicht entsprechen können.Das Zuwarten ist für Ihren Mandanten nicht nachteilig, da wir ausdrücklich bis zum 31. Dezember 2017 auf die Erhebung der Verjährungseinrede im Hinblick auf etwaige Ansprüche, die im Zusammenhang mit der in Fahrzeugen mit Motortyp $$ ...# eingebauten Software bestehen, verzichten.Mit Schreiben vom 30.12.2016 informierte die Beklagte den Kläger darüber, dass die Software-Lösung für sein Fahrzeug zur Verfügung stünde.Der Kläger behauptet, er habe nach Erhalt des Schreibens vom Februar 2016 diverse Anfragen an die Beklagte gerichtet. Diese seien abschlägig beschieden worden. Er sei immer wieder vertröstet worden, dass eine Nachbesserung noch nicht möglich sei.Der Kläger behauptet ferner, W habe eine illegale Abschaltvorrichtung eingesetzt, um Kosten für die Abgasreinigung zu sparen. Im Normalbetrieb werde die Abgasreinigung weitgehend abgeschaltet. Dann lägen die Werte für das giftige Stickoxid um ein vielfaches über dem zulässigen Grenzwert. Er behauptet, dass sich die vorprozessual vorgeschlagenen (Abhilfe-) Maßnahmen negativ auf den Kraftstoffverbrauch, die CO²-Emissionen, das Fahrverhalten und die Wertbeständigkeit des Fahrzeuges auswirken würden und bestreitet mit Nichtwissen, dass sein Fahrzeug durch ein reines Software-Update ohne Leistungsverlust von einer Abgasmanipulation zu befreien sei.Der Kläger beantragt,1.die Beklagte zu verurteilen, an ihn 34.316,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit Zug um Zug gegen Rückgabe und Übereignung des Pkw W3 Q Variant mit der Fahrzeugident-Nr.: $$$ &&&#$$ && ... zu zahlen;2.festzustellen, dass die Beklagte mit der Rückgabe und Rückübereignung des zu Ziffer 1. bezeichneten Pkw in Annahmeverzug ist.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, die hier in Frage stehend Software stelle keine Abschalteinrichtung dar, da diese Software nicht auf das Emissionskontrollsystem einwirke und die Wirksamkeit des Emissionskontrollsystems zudem nicht im Laufe des realen Fahrzeugbetriebes reduziere. Durch die Abstimmung und Überprüfung der technischen Maßnahmen mit dem Kraftfahrt-Bundesamt sei sichergestellt, dass sich die technischen Maßnahmen nicht negativ auf den Kraftstoffverbrauch und die CO²-Emissionen auswirken würden. Die Software könne mit einem Aufwand von deutlich unter 100,00 € und rund einer halben Stunde Arbeitszeit in einer Vertragswerkstatt ersetzt werden, was der Kläger mit Nichtwissen bestreitet. Mit Bestätigung vom 21.07.2016 habe das Kraftfahrt-Bundesamt die entsprechenden technischen Maßnahmen für Fahrzeuge des streitgegenständlichen Typs freigegeben (Anlage B4 zur Klageerwiderung), bis Ende 2016 für alle in seine Zuständigkeit fallenden betroffenen $$ ...# EU5 Fahrzeug- und Motorvarianten (vgl. Pressemitteilung Anlage B3 zur Klageerwiderung).Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze sowie die zu den Akten gereichten Unterlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist nicht begründet. Der Kläger hat gegen die Beklagte keinen Anspruch auf (Rück-) Zahlung von 34.316,00 € Zug um Zug gegen Rückgabe und Übereignung des streitgegenständlichen Fahrzeuges aus den §§ 346 Abs.1, und Abs.2 Ziffer 1., 348, 322 Abs.1, 437 Ziffer 2. BGB oder den §§ 280 Abs.1 und Abs.3, 281 Abs.1, 437 Ziffer 3. BGB. Es fehlt an einer diese Gewährleistungsansprüche auslösenden erfolglosen Fristsetzung zur Nacherfüllung gegenüber der Beklagten (vgl. §§ 323 Abs.1, 281 Abs.1 Satz 1, 437 Ziffern 2. und 3. BGB).1. Eine ausdrückliche Fristsetzung nebst Aufforderung zur Nacherfüllung durch den Kläger ist unstreitig nicht erfolgt. Aber auch das im Tatbestand zitierte Schreiben vom 22.09.2016 enthält keine Nachbesserungsaufforderung, sondern erklärt unmittelbar gegenüber der Beklagten den Vertragsrücktritt (vgl. dazu LG Kleve, Urteil vom 31.03.2017 - 3 O 252/16 = BeckRS 2017, 106026 Rd.50 und Rd.60).Das Vorbringen des Klägers, die Beklagte habe diverse Anfragen abschlägig beschieden und ihm mitgeteilt, dass eine Nachbesserung noch nicht möglich sei, erfüllt in dieser Allgemeinheit nicht die erforderlichen Voraussetzungen an eine bestimmte und eindeutige Aufforderung zur Nacherfüllung im Sinne von § 323 Abs.1 BGB (vgl. nur Palandt/Grüneberg, BGB, 76. Aufl. 2017, § 323 Rd.13 m.w.N.), zumal es an einer Fristsetzung fehlt. Im Übrigen hat der Kläger die von der Beklagten bestrittene Fristsetzung (S.47 der Klageerwiderung; S.11 des Schriftsatzes vom 21.03.2017) nicht unter Beweis gestellt. Das Schreiben vom 22.09.2016 erwähnt vorprozessuale Nachbesserungsaufforderungen nicht.2. Eine Fristsetzung zur Nacherfüllung war weder wegen einer Unzumutbarkeit der Nacherfüllung im Sinne von § 440 Satz 1, 3. alt. BGB noch aufgrund besonderer Umstände im Sinne von § 323 Abs.2 Ziffer 3. BGB oder § 281 Abs.2, 2. alt. BGB entbehrlich.a) § 440 Satz 1, 3 alt. BGB knüpft ein sofortiges Rücktrittsrecht des Käufers an die Unzumutbarkeit der Art der Nacherfüllung (vgl. BGH NJW 2017, 153, 154 Rd.22; Palandt/Weidenkaff, aaO., § 440 Rd.8). Diese Unzumutbarkeit kann sich unter Würdigung aller Umstände des Einzelfalles neben der Art und dem Ausmaß einer Beeinträchtigung der Interessen des Käufers auch aus einer Unzuverlässigkeit des Verkäufers und aus diesem vorzuwerfenden Nebenpflichtverletzungen sowie einem dadurch möglicherweise gestörten Vertrauensverhältnis der Vertragsparteien ergeben (BGH, aaO. Rd.23; Palandt/Weidenkaff, aaO., § 440 Rd.8 m.w.N.). Dabei trifft den Kläger die Darlegungs- und Beweislast für die tatsächlichen Voraussetzungen, aus denen sich eine Unzumutbarkeit der Nacherfüllung ergeben könnte (vgl. BGH NJW 2009, 1341ff. = juris Rd.15; Palandt/Weidenkaff, aaO., § 440 Rd.11; Staudinger/Matusche-Beckmann, BGB, 2013, § 440 Rd.42).aa) Nähere Tatsachen, aus denen die begründete Befürchtung gestützt werden könnte, dass das beabsichtigte Software-Update zu Folgemängeln in Form negativer Auswirkungen auf den Kraftstoffverbrauch, die CO²-Emissionen sowie das Fahrverhalten seines Fahrzeuges führen könnte, hat der Kläger nicht dargetan (vgl. auch den abweichenden Fall LG Bückeburg, Urteil vom 11.01.2017 - 2 O 39/16 - unter B.I.b.aa) = BeckRS 2017, 102958). Denn zu dem für die Beurteilung der Unzumutbarkeit aus der Perspektive des Käufers maßgeblichen Zeitpunkt der Rücktrittserklärung des Klägers lag nach dem substantiierten Vorbringen der Beklagten (Anlage B4 vom 21.07.2016) nicht nur die Freigabe der entsprechenden technischen Maßnahmen durch das Kraftfahrt-Bundesamt vor. Vielmehr bestand ausweislich des im Tatbestand zitierten Schreibens der Beklagten vom 06.10.2016 auch ein genauer Ablaufplan für die erarbeiteten technischen Nachbesserungsmaßnahmen in Form eines Software-Updates, der von der W AG bereits mit Schreiben vom Februar 2016 angekündigt worden war.Konkrete tatsächliche Anhaltspunkte aus Sicht eines verständigen Kunden für die Möglichkeit von Folgemängeln sind vor diesem Hintergrund weder ersichtlich noch von dem Kläger vorgetragen worden (vgl. auch die abweichenden Umstände bei LG Bückeburg, aaO.; LG Krefeld, Urteil vom 14.09.2016 - 2 O 83/16 = NJW-RR 2016, 1397, 1398; LG Dortmund, Urteil vom 29.09.2016 - 25 O 49/16 = zusammenfassend Lempp NZV 2017, 48). Insbesondere bietet die streitgegenständliche Softwareinstallation in das Fahrzeug des Klägers keine Grundlage für die (berechtigte) Befürchtung, das Fahrzeug werde nie frei von herstellungsbedingten Mängeln sein (vgl. BGH NJW 2013, 1523ff. = juris Rd.28 - zu einem sogenannten "Montagsauto"). Denn es fehlt gerade an einer im vorliegenden Fall zutage getretenen besonderen Fehleranfälligkeit des Fahrzeuges, auf die diese Befürchtung gestützt werden könnte (vgl. BGH NJW 2013, 1523ff. = juris Rd.28; Palandt/Weidenkaff, aaO., § 440 Rd.8 m.w.N.).bb) Eine Unzumutbarkeit der Nachbesserung für den Kläger ergibt sich auch nicht aus einer Unzuverlässigkeit der Beklagten als Verkäuferin oder aus ihr vorzuwerfenden Vertragspflichtverletzungen.Zwar wird im Falle einer arglistigen Täuschung des Käufers durch den Verkäufer in der Regel die Unzumutbarkeit im Sinne von § 440 Satz 1, 3. alt. BGB zu bejahen sein, weil der Verkäufer dort durch sein Verhalten die für eine dem Käufer zumutbare Nacherfüllung erforderliche Vertrauensgrundlage beschädigt hat und infolge seines Verhaltens auch keinen Schutz vor den mit der Rückabwicklung des Vertrages verbundenen wirtschaftlichen Nachteilen verdient (vgl. BGH NJW 2009, 2532, 2534 Rd.17 - zu §§ 323 Abs.2 Ziffer 2., 281 Abs.2 BGB; BGH NJW 2008, 1371, 1373 Rd.19 - zu § 323 Abs.2 Ziffer 3. BGB; Palandt/Weidenkaff, aaO., § 440 Rd.8). Hier liegt jedoch ein die Anwendung dieser Rechtsgrundsätze begründendes Verhalten der Beklagten nicht vor.Ob die W AG als Herstellerin den objektiven und subjektiven Tatbestand der Arglist erfüllt, bedarf hier keiner Entscheidung. Denn selbst wenn dies der Fall wäre, so wäre dieses Verhalten des Wkonzerns der Beklagten in Ermangelung einer rechtlichen Grundlage hierfür nicht zuzurechnen (vgl. OLG Celle, Beschluss vom 30.06.2016 - 7 W 26/16 = MDR 2016, 1016; offen - "zweifelhaft" - bei LG Bückeburg, aaO., unter B.I.b.cc)). Denn der Hersteller des Fahrzeuges ist weder ein Erfüllungsgehilfe des Vertragshändlers im Sinne von § 278 BGB noch ist der Vertragshändler rechtsgeschäftlicher oder Wissensvertreter des Herstellers im Sinne von § 166 BGB (BGH NJW 2014, 2183f. - zu § 278 BGB; BGH NJW 1996, 1339f. - zu § 166 BGB; Ring NJW 2016, 3121, 3124f. unter II.2.d) jeweils m.w.N.).Die aus den Zitaten der Korrespondenz der Parteien im Tatbestand dieser Entscheidung ersichtliche voraussichtliche Einbindung der W AG in die technische Ausgestaltung der beabsichtigten Nacherfüllung, insbesondere die Entwicklung des Software-Updates, rechtfertigt keine abweichende Beurteilung (a.A. LG Krefeld, aaO., NJW-RR 2016, 1397, 1399). Es fehlt gerade im vorliegenden Fall an der für die kaufvertraglichen Rechte und Pflichten der Parteien entscheidende arglistbegründende Verhaltensweise der Beklagten, die die Vertrauensgrundlage der Vertragsparteien erschüttert haben könnte. Dies gilt auch unter Berücksichtigung der faktischen Nähe der Beklagten zu der W AG als Herstellerin einschließlich der mit dem Vertriebssystem der Vertragshändler verbundenen wirtschaftlichen und finanziellen Einflussmöglichkeiten (vgl. dazu LG Krefeld, aaO.). Denn die hier im Rahmen § 440 Satz 1, 3 alt. BGB vorzunehmende Würdigung des Einzelfalles (oben unter 2.a)) knüpft an eine Beeinträchtigung der Interessen des Käufers durch das Verhalten der Beklagten als Verkäuferin sowie an begründete Befürchtungen gegen die technische Eignung der vorgeschlagenen Nachbesserungsmaßnahmen (oben unter 2.a)aa)) an. Allgemein auf das Vertragshändlersystem gestützte und ihrem Inhalt nach nicht näher spezifizierte Befürchtungen aus dem "W3-Abgasskandal" (so Ring NJW 2016, 3121) bleiben deshalb außer Betracht.b) Für eine Entbehrlichkeit einer Fristsetzung zur Nacherfüllung im Sinne von § 323 Abs.2 Ziffer 3. BGB oder § 281 Abs.2, 2. alt. BGB gelten die Ausführungen unter 2.a)aa) und bb) entsprechend.Diese Vorschriften setzen abweichend von § 440 Satz 1, 3. alt. BGB eine Abwägung der wechselseitigen Interessen des Käufers und des Verkäufers voraus (vgl. Palandt/Grüneberg, aaO., § 323 Rd.22 m.w.N.), die aus den eingangs dargestellten Erwägungen zu keinem dem Kläger günstigeren Ergebnis führen. Der Umstand, dass der Kläger in Kenntnis der hier diskutierten Nachbesserungsproblematik durch das Schreiben vom Februar 2016 bis zu dem Vertragsrücktritt vom 22.09.2016 gegenüber der Beklagten nicht vorstellig geworden ist und sein Fahrzeug ausweislich der angegebenen - streitigen - 13.500 Fahrtkilometer weiterhin beanstandungsfrei genutzt hat, spricht darüber hinaus gegen ein Recht zum sofortigen Vertragsrücktritt. Die Begründung des Rücktritts in dem Schreiben vom 22.09.2016 mit den kurz zuvor ergangenen Entscheidungen des Landgerichts Krefeld vom 14.09.2016 indiziert vielmehr, dass der Vertragsrücktritt des Klägers erst hierdurch ausgelöst worden ist.3. Der gemäß den §§ 256 Abs.1, 756 Abs.1, 765 Ziffer 1. ZPO zulässige Feststellungsantrag ist aus den vorstehenden Erwägungen gleichsam nicht begründet.Die Kostenentscheidung beruht auf § 91 Abs.1 ZPO, der Ausspruch zur vorläufigen Vollstreckbarkeit auf § 709 ZPO.Streitwert: 34.316,00 €.
+			
+			
+			
+			Permalink: https://openjur.de/u/968866.html (https://oj.is/968866)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate13
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG HammRechtsprechungUrteil vom 21.01.2020 - 13 U 476/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Hamm, Urteil vom 21.01.2020 - 13 U 476/18
+                      m. Fundstelle
+                      OLG Hamm, Urteil vom 21.01.2020 - 13 U 476/18 = openJur 2020, 745
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Hamm, Urteil vom 21.01.2020 - 13 U 476/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 745
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 3 O 436/17
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das Urteil der 3. Zivilkammer des Landgerichts Paderborn vom 22. Oktober 2018 wird zurückgewiesen.Der Kläger hat die Kosten des Berufungsverfahrens zu tragen.Das Urteil ist vorläufig vollstreckbar.Die Revision wird nicht zugelassen.  
+				Gründe
+				I.Der Kläger verlangt Schadensersatz von der beklagten Herstellerin eines vom sogenannten "Dieselskandal" betroffenen Pkw, den er im Februar 2017 aus der Liquidationsmasse einer von ihm als Gesellschaftergeschäftsführer geführten Gesellschaft erworben hatte, nachdem eine ursprünglich vorhandene "Umschaltlogik" im Schadstoffmanagement des Motors durch ein Softwareupdate beseitigt worden war.Wegen der Einzelheiten des Sach- und Streitstandes wird auf die angefochtene Entscheidung Bezug genommen (§ 540 Abs. 1 Nr. 1 ZPO). Änderungen haben sich in der Berufungsinstanz lediglich insoweit ergeben, als der Kläger nunmehr auch ausdrücklich einräumt, er habe gewusst, dass das Fahrzeug vom sogenannten "Abgasskandal" betroffen sei, als er es von der Gesellschaft übernommen habe.Der Kläger beantragt,unter Abänderung des am 22. Oktober 2018 verkündeten Urteils des Landgerichts Paderborn1. die Beklagte zu verurteilen, an den Kläger 8.032,50 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 7. Dezember 2017 zu zahlen, Zug um Zug gegen Zahlung einer Nutzungsentschädigung von 654,98 € sowie gegen Auszahlung eines Verkaufserlöses in Höhe von 4.500,00 €,2. die Beklagte zu verurteilen, an den Kläger 376,52 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.Die Beklagte beantragt,die Berufung zurückzuweisen.Im Übrigen wird von einer Darstellung des Tatbestandes abgesehen (§ 313a Abs. 1 Satz 1 ZPO iVm § 544 Abs. 2 Nr. 1 ZPO nF).II.Die zulässige Berufung des Klägers hat keinen Erfolg. Zu Recht hat das Landgericht einen Schadensersatzanspruch des Klägers verneint, weil er das Fahrzeug nach Aufspielen des Updates sowie in Kenntnis der Betroffenheit vom sogenannten "Dieselskandal" durch einen insoweit als herkömmlichen Kaufvertrag zu qualifizierenden Vertrag erworben hat.1) Nach der Rechtsprechung des Senats (etwa Senatsurteil vom 10. September 2019 - 13 U 149/18, juris) sowie einer Vielzahl weiterer Obergerichte kann dem Käufer eines vom sogenannten "Dieselskandal" betroffenen Fahrzeugs allerdings ein Anspruch aus § 826 BGB (iVm § 31 BGB) auf Erstattung des für den Erwerb aufgewendeten Kaufpreises (unter Anrechnung seiner Nutzungsvorteile) wegen einer vorsätzlichen sittenwidrigen Schädigung zustehen, sofern er durch die heimliche Verwendung einer als unzulässigen Abschalteinrichtung zu qualifizierenden Software zu einem Vertragsschluss veranlasst worden ist, den er in Kenntnis der möglichen Konsequenzen der Software für die straßenverkehrsrechtliche Zulassung des Fahrzeugs nicht abgeschlossen hätte. Diese Voraussetzungen liegen jedoch schon deshalb nicht vor, weil der Kläger das Fahrzeug nach Beseitigung der unzulässigen Abschalteinrichtung erworben hat und weil das der Beklagten vorgeworfene Verhalten nicht kausal für den Erwerb des Pkw durch den Kläger geworden ist.aa) Die ursprüngliche Verwendung einer unzulässigen Abschalteinrichtung rechtfertigt vorliegend den Vorwurf einer sittenwidrigen Schädigung des Klägers nicht, denn er hat den Pkw erst zu einem Zeitpunkt erworben, als diese unzulässige Abschalteinrichtung durch das vom Kraftfahrtbundesamt geprüfte und für ausreichend erachtete Update bereits entfernt worden war (vgl. OLG Stuttgart, Urteil vom 7. August 2019 - 9 U 9/19, juris Rn. 39; OLG Koblenz, Urteil vom 29. August 2019 - 1 U 241/19, juris Rn. 32 [zum Kaufrecht]). Das Fahrzeug entsprach im Zeitpunkt des Erwerbs durch den Kläger mithin im Hinblick auf eine etwaige Abschalteinrichtung dem genehmigten Typ, nachdem die Beklagte die durch das Kraftfahrt-Bundesamt als zuständiger Behörde (§ 2 Abs. 1 EG-FGV) erlassene nachträgliche Nebenbestimmung (§ 4 Abs. 5 EG-FGV) umgesetzt hatte, so dass (weitere) Maßnahmen nach § 25 EG-FGV - insbesondere eine Betriebsuntersagung - aufgrund der bei der Herstellung des Fahrzeugs verwendeten Software nicht (mehr) drohten.Ohne Erfolg stellt der Kläger insoweit in Abrede, das Kraftfahrt-Bundesamt habe durch Bescheid vom 3. November 2016 bestätigt, dass die unzulässige Abschalteinrichtung durch die ergriffenen Maßnahmen beseitigt werde, so dass eine Betriebsuntersagung nicht mehr droht. Die Beklagte hat diesen Bescheid vorgelegt (Anlage B1, Anlagenband Beklagte). Er ist dem u.a. auf Ansprüche wegen des Erwerbs von Kraftfahrzeugen spezialisierten Senat zudem aus einer Vielzahl gleichgelagerter Verfahren zum gleichen Motor bekannt.Hiervon unabhängig kann der Kläger den von ihm geltend gemachten Schadenersatzanspruch auch schon deshalb nicht auf die ursprünglich vorhandene Software stützen, weil ihm die Verwendung der unzulässigen Software nach seinem eigenen Vortrag - wie er in der Berufungsinstanz nun auch ausdrücklich einräumt - bekannt war. Denn er war Gesellschaftergeschäftsführer der Komplementärin der Kommanditgesellschaft, von der er den Wagen erwarb. Zudem war das Fahrzeug schon vor seinem Kauf auf ihn zugelassen. Mithin hat auch er das Softwareupdate - vor dem Kauf durch ihn privat - durchführen lassen. Zudem macht er selber geltend, das Fahrzeug habe nicht an Dritte verkauft werden können, weil es vom sogenannten "Dieselskandal" betroffen ist.bb) Entgegen der vom Kläger vertretenen Ansicht rechtfertigt keine andere Bewertung, dass er alleiniger Gesellschaftergeschäftsführer der Komplementärin und Kommanditist der A GmbH & Co. KG war und das Fahrzeug gegen Zahlung von 8.032,50 € vom Gesellschafts- ins Privatvermögen überführt hat.Zutreffend hat das Landgericht betont, dass es bei der Beurteilung, ob der Kläger in sittenwidriger Weise zu einem Vertragsschluss veranlasst wurde, auf den von ihm mit der A GmbH & Co. KG geschlossenen Vertrag aus Februar 2017 und nicht auf den Kauf des Pkw durch diese Gesellschaft im Jahr 2014 ankommt. Denn bei dem von ihm geschlossenen Vertrag über den Erwerb des Pkw gegen ein Entgelt handelt es sich trotz seiner Stellung als Gesellschaftergeschäftsführer und Kommanditist um einen Vertrag mit einem von ihm verschiedenen Rechtsträger und damit um einen herkömmlichen Kaufvertrag. Dem steht nicht entgegen, dass sich die Gesellschaft in Liquidation befand, denn eine Kommanditgesellschaft bleibt bis zu ihrer Vollbeendigung auch in die Liquidationsphase rechts- und parteifähig (BGH, Urteil vom 7. Oktober 1994 - V ZR 58/93, juris Rn. 6).Dabei kann dahinstehen, ob der Verkauf des Wagens an ihn als "Privatentnahme" zu qualifizieren ist, obwohl er einen Kaufvertrag geschlossen und eine Gegenleistung erbracht hat. Denn die Frage, ob er zu diesem Vertragsschluss in sittenwidriger Weise veranlasst wurde, hängt nicht von der gesellschafts- und steuerrechtlichen Bewertung dieses Vorgangs ab, sondern davon, ob der Kläger das Fahrzeug ohne ein sittenwidriges Verhalten der Beklagten nicht gegen Zahlung des genannten Betrages übernommen hätte.Soweit der Kläger geltend macht, er sei gezwungen gewesen, das Fahrzeug zu übernehmen, rechtfertigt dies ebenfalls nicht, auf seine (Un-)Kenntnis im Zeitpunkt des Kaufs durch die Gesellschaft abzustellen. Unabhängig davon, dass auch nach dem Vortrag des Klägers offen bleibt, aus welchem Grund genau er gezwungen gewesen sein will, würde ein solcher Zwang einem Anspruch aus § 826 BGB gerade entgegenstehen. Beruhte der Kauf nämlich nicht auf einem freien Willensentschluss des Klägers, kann er auch nicht zu einem solchen Willensentschluss aufgrund eines sittenwidrigen Verhaltens der Beklagten motiviert worden sein. Mithin wäre in einem solchen Fall das Verhalten der Beklagten jedenfalls nicht kausal geworden, weil er das Fahrzeug unabhängig von der Verwendung der Software ohnehin übernommen hätte.cc) Ebenso scheitern sämtliche weitere gegebenenfalls in Erwägung zu ziehenden Anspruchsgrundlagen (etwa aus § 823 Abs. 2 BGB iVm §§ 6 Abs. 1, 27 Abs. 1 EG-FGV; aus § 823 Abs. 2 BGB iVm § 263 StGB), denn das Verhalten der Beklagten ist für den vom Kläger abgeschlossenen Vertrag jedenfalls nicht kausal geworden.2) Auch die vom Kläger behaupteten nachteiligen Folgen des Softwareupdates rechtfertigen eine Haftung der Beklagten nicht.a) Es ist weder vorgetragen noch ersichtlich, dass die Beklagte bewusst über die Eigenschaften des Updates getäuscht hätte. Insbesondere kommt daher ein Anspruch aus § 826 BGB insoweit nicht in Betracht, weil in der mit der zuständigen Behörde abgestimmten Vorgehensweise der Beklagten bei der Entwicklung der Updates hinsichtlich der behaupteten Nachteile weder ein vorsätzliches noch ein sittenwidriges Vorgehen zu erkennen ist (vgl. OLG Schleswig, Urteil vom 13. November 2019 - 9 U 120/19, juris Rn. 17).b) Dem Kläger steht auch nicht deshalb ein Anspruch aus § 826 BGB zu, weil er in Kenntnis der behaupteten Folgen des Updates den Vertrag möglicherweise nicht geschlossenen hätte und es sich bei diesen Folgen um zurechenbare Folgen der sittenwidrigen Verwendung der ursprünglichen Software handeln würde.Eine haftungsrechtliche Zurechnung ist allerdings nicht schlechthin dadurch ausgeschlossen, dass außer der in Rede stehenden Verletzungshandlung (hier die heimliche Verwendung einer Abschalteinrichtung) noch weitere Ursachen hinzutreten (vorliegend das Softwareupdate), sofern die besonderen Gefahren fortwirken, die durch die erste Ursache gesetzt wurden und die Rechtsgutsverletzung bei wertender Betrachtung nicht lediglich noch in einem "äußerlichen", gleichsam "zufälligen" Zusammenhang zu der durch die erste Ursache geschaffenen Gefahrenlage steht (vgl. BGH, Urteil vom 17. Dezember 2013 - VI ZR 211/12, juris Rn. 55 mwN). Gleichwohl scheidet vorliegend eine Haftung aus, weil ein entsprechend zuzurechnender Schaden jedenfalls nicht mehr vom Schutzzweck der in Frage kommenden Anspruchsgrundlagen gedeckt wäre.Um das Haftungsrisiko in angemessenen und zumutbaren Grenzen zu halten, ist auch im Bereich des § 826 BGB der Haftungsumfang nach Maßgabe des Schutzzwecks der Norm zu beschränken (BGH, Urteil vom 11. November 1985 - II ZR 109/84, juris Rn. 15; siehe auch BGH, Urteil vom 3. März 2008 - II ZR 310/06, juris Rn. 15 mwN). Ein Verhalten kann hinsichtlich der Herbeiführung bestimmter Schäden, insbesondere auch hinsichtlich der Schädigung bestimmter Personen, als sittlich anstößig zu werten sein, während ihm diese Qualifikation hinsichtlich anderer, wenn auch ebenfalls adäquat verursachter Schadensfolgen nicht zukommt. Die Ersatzpflicht beschränkt sich in diesem Fall auf diejenigen Schäden, die dem in sittlich anstößiger Weise geschaffenen Gefahrenbereich entstammen (BGH, Urteil vom 11. November 1985 - II ZR 109/84, juris Rn. 15, vgl. MünchKommBGB/Wagner, 7. Aufl., § 826 Rn. 46 mwN). Mithin kommt es - insbesondere bei mittelbaren Schädigungen - darauf an, dass den Schädiger das Unwerturteil, sittenwidrig gehandelt zu haben, gerade auch in Bezug auf die Schäden desjenigen trifft, der Ansprüche aus § 826 BGB geltend macht (BGH, Urteil vom 7. Mai 2019 - VI ZR 512/17, juris Rn. 8 mwN).Eine Sittenwidrigkeit ergibt sich bei vom sogenannten "Dieselskandal" betroffenen Fahrzeugen insbesondere aus der auch gegenüber den Zulassungsbehörden heimlichem Verwendung einer Abschalteinrichtung, der daraus resultierenden denkbaren Betriebsuntersagung bei einer hohen Zahl von Kunden und dem Handeln aus übersteigertem Profitstreben (vgl. Senatsurteil vom 10. September 2019 - I-13 U 149/18, juris Rn. 64 mwN). Das sich so in der erforderlichen Gesamtschau ergebende Unwerturteil der Sittenwidrigkeit ergibt sich mithin nicht gerade auch in Bezug auf die vom Kläger nun geltend gemachten Nachteile.c) Ebenfalls (zumindest) aufgrund des Schutzzwecks der Norm scheidet ein etwaiger Anspruch aus § 823 Abs. 2 BGB iVm §§ 6 Abs. 1, 27 Abs. 1 EG-FGV aus. Dabei kann dahinstehen, ob die Vorschrift des § 27 Abs. 1 EG-FGV überhaupt Schutzgesetz im Sinne des § 823 Abs. 2 BGB ist (ablehnend etwa OLG München, Beschluss vom 29. August 2019 - 8 U 1449/19, juris Rn. 78; OLG Celle, Beschluss vom 1. Juli 2019 - 7 U 33/19, juris Rn. 37 ff.; OLG Braunschweig, Urteil vom 19. Februar 2019 - 7 U 134/17, juris Rn. 137 ff.; jeweils mwN) und ob sie verletzt ist. Nach § 27 Abs. 1 FG-FGV darf ein Neufahrzeug im Inland zur Verwendung im Straßenverkehr nur feilgeboten, veräußert oder in den Verkehr gebracht werden, wenn es mit einer gültigen Übereinstimmungsbescheinigung versehen ist. Selbst wenn man als individualschützenden Zweck dieser Vorschrift (auch) anerkennen will, dass Käufer darauf vertrauen können, dass dieses Fahrzeug aufgrund des einheitlichen Prüfverfahrens in jedem Mitgliedstaat zugelassen werden wird (so etwa LG Augsburg, Urteil vom 29. Januar 2018 - 082 O 4497/16, juris Rn. 138), führte dies nicht zu einem Anspruch des Klägers. Denn bei einem Erwerb nach Beseitigung des von der Norm missbilligten Zustands, nämlich der Abschalteinrichtung, ist deren Schutzzweck nicht mehr betroffen. Soweit das Update möglicherweise neue nachteilige Folgen hat, ist für ein vorsätzliches Handeln der Beklagten nichts dargetan.d) Ob die Voraussetzungen der genannten Anspruchsgrundlagen im Hinblick auf die Folgen des Updates trotz der Kenntnis des Klägers von der Verwendung der ursprünglichen Software überhaupt vorliegen, braucht der Senat aus den zuvor genannten Gründen nicht zu entscheiden. Insbesondere kommt es daher nicht darauf an, dass die Vorstellungen, welche der Kläger hinsichtlich der von ihm nun gerügten Punkte wie Verbrauch, Schadstoffausstoß etc. beim Kauf des Fahrzeugs hatte, nicht vorgetragen sind. Sein Vortrag beschränkt sich insoweit auf sein Vorstellungsbild im (nicht maßgeblichen) Zeitpunkt des Erwerbs durch die Gesellschaft.3) Die prozessualen Nebenentscheidungen beruhen auf § 97 Abs. 1 ZPO, § 708 Nr. 10, § 713 ZPO (iVm § 544 Abs. 2 Nr. 1 ZPO nF).4) Ein Grund für die Zulassung der Revision besteht nicht, weil die Sache weder grundsätzliche Bedeutung hat (§ 543 Abs. 2 Nr. 1 ZPO) noch eine Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Revisionsgerichts erfordern (§ 543 Abs. 2 Nr. 2 ZPO). Die Beantwortung der entschiedenen (Rechts-)Fragen ist weder umstritten, noch handelt es sich um klärungsfähige Rechtsfragen, die sich in einer unbestimmten Vielzahl weiterer Fälle stellen.
+			
+			
+			
+			Permalink: https://openjur.de/u/2193185.html (https://oj.is/2193185)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate8
+				
+				
+					 Zitiert8
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

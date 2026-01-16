@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitOLG Frankfurt am MainRechtsprechungUrteil vom 29.04.2020 - 17 U 203/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Frankfurt am Main, Urteil vom 29.04.2020 - 17 U 203/19
+                      m. Fundstelle
+                      OLG Frankfurt am Main, Urteil vom 29.04.2020 - 17 U 203/19 = openJur 2020, 45590
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Frankfurt am Main, Urteil vom 29.04.2020 - 17 U 203/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 45590
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Bei Erwerb eines vom sog. Dieselskandal betroffenen Fahrzeugs nach Informationen der Öffentlichkeit durch den Motorenhersteller haftet dieser nicht mehr nach § 826 BGB, da es an dem erforderlichen Zurechnungszusammenhang zwischen Sittenverstoß und Schadenseintritt fehlt. 
+				
+				Tenor
+				Die Berufung gegen das am 8.2.2019 verkündete Urteil des LG Hanau (Az.: 9 O 817/18) wird zurückgewiesen.Die Kosten des Berufungsverfahrens hat die Klägerin zu tragen.Dieses Urteil und das angefochtene Urteil sind vorläufig vollstreckbar. Die Klägerin kann die Vollstreckung durch Sicherheitsleistung in Höhe von 120 % des aufgrund des Urteils vollstreckbaren Betrages abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 120 % des jeweils zu vollstreckenden Betrages leistet.Die Revision wird zugelassen.  
+				Gründe
+				I.Die Klägerin wendet sich mit der Berufung gegen die Abweisung ihrer Klage, mit der sie die Beklagte auf Zahlung von Schadensersatz wegen des Erwerbs eines mit einer vorgeblich unzulässigen Abschalteinrichtung für das Abgasreinigungssystem versehenen gebrauchten Fahrzeugs in Anspruch genommen hat.Die Klägerin erwarb am 17.05.2016 von der Fa. X einen gebrauchten Pkw Audi A6 Avant 2.0 TDI mit einer Laufleistung von 101.941 km zum Preis von 22.000,01 € (Anlage K 1, B. 28 d. A.). Herstellerin des Fahrzeugs ist die Audi AG, eine Tochtergesellschaft der Beklagten. Das Fahrzeug ist mit dem von der Beklagten entwickelten Dieselmotor EA 189 ausgestattet. Die Motorsteuerung dieses Motors war zum Zeitpunkt des Erwerbs so programmiert, dass im Falle des Durchlaufens des Neuen Europäischen Fahrzyklus (NEFZ), welcher Teil des Typgenehmigungsverfahrens ist, die Abgasrückführung in einen NOx-optimierten Betriebsmodus (Modus 1) versetzt wurde, während sie außerhalb des NEFZ im Straßenverkehr im nicht NOx-optimierten Betriebsmodus (Modus 0) operierte. Im Modus 0 war die Abgasrückführungsrate geringer.Bereits am 22.September 2015 hatte die Beklagte eine Ad-hoc-Mitteilung und eine Pressemitteilung veröffentlicht. Darin hieß es u.a.: "Weitere bisherige interne Prüfungen haben ergeben, dass die betreffende Steuerungssoftware auch in anderen Diesel-Fahrzeugen des Volkswagen Konzerns vorhanden ist. Bei der Mehrheit dieser Motoren hat die Software keinerlei Auswirkungen. Auffällig sind Fahrzeuge mit Motoren vom Typ EA 189 mit einem Gesamtvolumen von weltweit rund elf Millionen Fahrzeugen. Ausschließlich bei diesem Motortyp wurde eine auffällige Abweichung zwischen Prüfstandswerten und realem Fahrbetrieb festgestellt. Volkswagen arbeitet mit Hochdruck daran, diese Abweichungen mit technischen Maßnahmen zu beseitigen. Das Unternehmen steht dazu derzeit in Kontakt mit den zuständigen Behörden und dem Deutschen Kraftfahrtbundesamt."Die Beklagte setzte hierüber am gleichen Tag auch ihre Vertragshändler und Servicepartner in Kenntnis. Ferner informierte sie die anderen Konzernhersteller und damit auch die Audi AG über das Vorhandensein der Umschaltlogik in den Fahrzeugen mit dem Motortyp EA189 und bat diese, ihre Vertriebspartner bzw. Importeurgesellschaften ebenfalls zu informieren. Bezogen auf Audi-Fahrzeuge geschah dies am 23.9.2015 durch die Audi AG.Anfang Oktober 2015 richtete die Beklagte außerdem eine Internetseite ein, auf der durch Eingabe der Fahrzeugidentifikationsnummer überprüft werden konnte, ob das jeweilige Fahrzeug von dem Abgasskandal betroffen ist. Hierüber informierte die Beklagte am 02.10.2015 ihr Händlernetz sowie die Öffentlichkeit im Rahmen einer Pressemitteilung. Auch die Konzernmarke Audi AG schaltete in Absprache mit der Beklagten Anfang Oktober eine entsprechende Webseite für eine FIN-Abfrage zur Betroffenheit und informierte die Öffentlichkeit.Auf Veranlassung der Beklagten und des jeweiligen Konzernherstellers, darunter auch die Audi AG, wurden im Februar 2016 sämtliche Halter der betroffenen Fahrzeuge, darunter auch der Marke Audi, angeschrieben und über die anstehende Rückrufaktion und deren Umsetzung durch Aufspielen des Software-Updates informiert.Der gesamte Abgasskandal war seit September 2015 Gegenstand einer ausführlichen und umfangreichen Medienberichterstattung.Mit Bescheid vom 11.12.2015 hatte das Kraftfahrtbundesamt die Audi AG verpflichtet, bei sämtlichen Fahrzeugen, die mit dem Motor des Typs EA 189 EU5 ausgestattet waren, die "unzulässige Abschalteinrichtung" zu entfernen und dies durch geeignete Nachweise zu belegen. Die Beklagte hatte in der Folge ein Softwareupdate für die betroffenen Motoren entwickelt, durch das das Abgasrückführungssystem überarbeitet wird. Mit Bescheid vom 27.5.2016 (Anlage B 1, Bl. 144 f. d. A.) hatte das Kraftfahrtbundesamt gegenüber der Beklagten bestätigt, dass diese Maßnahme geeignet ist, die Vorschriftsmäßigkeit der betroffenen Fahrzeuge herzustellen.Die Klägerin ließ das Software-Update installieren.Die Klägerin hat im Wesentlichen die Ansicht vertreten, die Beklagte sei ihr gemäß § 823 Abs. 2 BGB i. V. m. § 263 StGB zum Schadensersatz verpflichtet, da sie einen Motor mit einer unzulässigen Abschalteinrichtung in den Verkehr gebracht habe. Durch das Verschweigen der Existenz sei sie über die Gesetzeskonformität des Fahrzeugs getäuscht worden. Der Anspruch folge im Übrigen auch aus § 826 BGB, weil die Beklagte eine Software eingebaut habe, um Herstellungskosten zu reduzieren. Der entstandene Schaden bestehe in dem eingegangenen Kaufvertrag. Sie hat behauptet, sie habe im Zeitpunkt des Vertragsschlusses keine Kenntnis davon gehabt, dass das Fahrzeug Audi A6 vom sog. Dieselskandal betroffen gewesen sei. Der Verkaufsberater des Autohauses habe sie hierüber nicht aufgeklärt. Wäre ihr bekannt gewesen, dass das Fahrzeug mit einer unzulässigen Abschalteinrichtung ausgestaltet sei, hätte sie es nicht erworben. Das Software Update habe den Mangel nicht beseitigt, zudem seien neue Mängel entstanden. Es sei bekannt, dass das Software-Update bei einer Vielzahl von Fahrzeugen zu weitergehenden Mangelerscheinungen geführt habe. Gegenüber den im Prospekt und in der EG-Übereinstimmungsbescheinigung angegebenen Werten komme es nach dem Update zu einem Mehrverbrauch an Kraftstoff von ca. 0,5 l/100km. Es bestehe die konkrete Befürchtung, dass es durch die vermehrte Rückführung von Abgas zu einem erhöhten Wartungsaufwand oder zu vorzeitigen Motorschäden kommen könne. Dem Fahrzeug hafte dauerhaft ein Makel der Betroffenheit vom Dieselskandal an. Sie hat die Ansicht vertreten, es verbleibe ein merkantiler Minderwert von mind. 30 %.Die Beklagte hat im Wesentlichen behauptet, die Klägerin habe im Zeitpunkt des Erwerbs Kenntnis davon gehabt, dass das gegenständliche Fahrzeug vom Dieselskandal betroffen sei. Die Kenntnis folge bereits aus der Information der Öffentlichkeit durch die Beklagte am 22.09.2015 sowie der sich daran anschließenden umfangreichen weltweiten Medienberichterstattung der Printmedien, des Fernsehens und Rundfunks. Sie hat die Auffassung vertreten, es sei außerhalb jeder Lebenswahrscheinlichkeit, dass eine in Deutschland lebende Person von den Pressemitteilungen keine Kenntnis genommen habe. Eine Täuschung und ein sittenwidriges Verhalten scheide daher aus. Auch der Kausalzusammenhang sei unterbrochen. Im Zeitpunkt des Erwerbs des Fahrzeugs durch die Klägerin habe bei der Beklagten auch kein Vorsatz mehr vorliegen können, da diese aufgrund der ad-hoc-Mitteilung sowie weiterer Pressemitteilungen habe davon ausgehen dürfen, dass sämtliche potenzielle Erwerber von der Verwicklung der Fahrzeuge in den Abgasskandal Kenntnis gehabt hätten. Gehe man - entgegen der von der Beklagten vertretenen Ansicht - von einem sittenwidrigen Verhalten aufgrund der Abschaltsoftware aus, scheide zumindest ab diesem Zeitpunkt eine Bewertung als sittenwidrig aus. Im Übrigen sei auch kein Schaden vorhanden, da die beanstandete und mittlerweile nicht mehr vorhandene Motorsteuerungssoftware keine negativen Auswirkungen auf das Fahrzeug habe. Ein softwarebedingter Wertverlust sei nicht gegeben.Wegen des der Entscheidung zu Grunde liegenden Lebenssachverhaltes wird im Übrigen auf die tatsächlichen Feststellungen im angefochtenen Urteil Bezug genommen.Das Landgericht hat die Klage abgewiesen. Zur Begründung hat es im Wesentlichen ausgeführt, ein Schadensersatzanspruch aus § 823 Abs. 2 BGB i. V. m. § 263 StGB bestehe nicht. Eine aktive Täuschung sei mangels unmittelbarem Kontakt im Zusammenhang mit dem Erwerb des Fahrzeugs nicht gegeben. Darüber hinaus fehle es an der notwendigen Stoffgleichheit zwischen Vermögensschaden und Vermögensvorteil. Ein Anspruch aus § 826 BGB sei mangels sittenwidriger Schädigung nicht gegeben.Dagegen wendet sich die Klägerin mit ihrer Berufung, mit der sie ihre erstinstanzlichen Anträge weiterverfolgt. Sie macht im Wesentlichen geltend, das Landgericht habe rechtsfehlerhaft einen Anspruch auf Schadensersatz aus § 823 Abs. 2 BGB i. V. m. § 263 StGB verneint. Stoffgleichheit liege vor, es handele sich um einen sog. "fremdnützigen" Betrug zu Gunsten des Händlers. Auf diese Weise verdiene die Beklagte an den Ersatzteilen, Wartungen und Reparaturen zumindest mit. Ein Anspruch bestehe auch aus § 826 BGB, da die Täuschung über die Gesetzeskonformität des Fahrzeugs sittenwidrig sei.Die Klägerin beantragt,unter Abänderung des am 08.02.2019 verkündeten Urteils des Landgerichts Hanaus (Az. 9 O 817/18)1.die Beklagte zu verurteilen, an sie 18.092,47 € nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Übereignung und Übergabe des Pkw Audi A6, Fahrzeugidentifikationsnummer ...,2.festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag zu 1) genannten Fahrzeugs in Annahmeverzug befindet.Die Beklagte beantragt,die Berufung zurückzuweisen.Die Beklagte verteidigt unter Wiederholung und Vertiefung ihres erstinstanzlichen Sachvortrags die angefochtene Entscheidung. Ein deliktischer Schadensersatzanspruch wegen der von der Klägerin geltend gemachten Täuschung komme schon deshalb nicht in Betracht, weil der Klägerin zum Zeitpunkt des Vertragsabschlusses die "Dieselthematik" vor dem Hintergrund der öffentlichen Berichterstattung und der von der Beklagten veröffentlichten Pressemitteilung bekannt gewesen sein müsse. Eine Unkenntnis unterstellt, beruhe diese jedenfalls auf der Außerachtlassung der im Verkehr erforderlichen Sorgfalt, so dass eine Haftung der Beklagten jedenfalls in entsprechender Anwendung entweder nach § 442 BGB oder § 254 BGB entfalle. Jedenfalls könne der Beklagten im Hinblick auf die Offenlegung der Umstände kein Schädigungsvorsatz unterstellt werden.Der Senat hat die Klägerin informatorisch angehört. Wegen des Ergebnisses der Anhörung wird auf das Protokoll der Sitzung vom 19.2.2020 (Bl. 345 f. d. A.) Bezug genommen.II.1. Die Berufung ist zulässig, sie ist insbesondere form- und fristgerecht eingelegt und begründet, §§ 517, 520 ZPO.2. In der Sache hat die Berufung keinen Erfolg. Das Landgericht hat die Klage im Ergebnis zu Recht abgewiesen; die im Berufungsrechtszug zu berücksichtigenden Tatsachen rechtfertigen keine andere Beurteilung. Die Klage ist unbegründet, weil der Klägerin unter keinem rechtlichen Gesichtspunkt ein Schadensersatzanspruch gegen die Beklagte zusteht.a) Ein Schadensersatzanspruch der Klägerin nach §§ 826 BGB, 823 Abs. 2 BGB i. V. m. § 263 StGB scheitert durchgängig bereits am fehlenden Zurechnungszusammenhang zwischen dem Verhalten der Beklagten und dem Eintritt eines etwaigen Schadens bei der Klägerin. Auf die Frage des Vorliegens einer Kenntnis der Klägerin, dass gerade das von ihr erworbene Fahrzeug vom Abgasskandal betroffen war, kommt es damit nicht an.Voraussetzung einer jeden Schadensersatzpflicht ist nach allgemeinen Grundsätzen, dass der geltend gemachte Schaden durch das zum Schadensersatz verpflichtende Verhalten des Schädigers verursacht worden ist (vgl. Palandt/Grüneberg, BGB, 78. Aufl. 2019, Vorb. v. § 249 Rn. 24 ff.). Nach allgemeiner Meinung haftet der Schädiger nicht für alle im naturwissenschaftlichen Sinn (conditio sine qua non) durch das schadensbegründende Ereignis verursachten Folgen (äquivalente Kausalität). Vielmehr ist die Verantwortlichkeit des Schädigers durch weitere Zurechnungskriterien einzuschränken, um eine unerträgliche Ausweitung der Schadensersatzpflicht zu verhindern (vgl. BGH, Urteil vom 11. September 1999 - III ZR 98/99 -, juris, Rn. 13 m.w.N; Urteil vom 6. Juni 2013 - IX ZR 204/12 -, juris, Rn. 20 ff.). Als solche sind in der höchstrichterlichen Rechtsprechung die Kriterien der Adäquanz des Kausalverlaufs sowie des Schutzzwecks der Norm anerkannt (vgl. BGH, Urteile vom 11. September 1999 - III ZR 98/99 -, juris, Rn. 13; vom 6. Juni 2013 - IX ZR 204/12 -, juris, Rn. 20 ff.; vom 22. September 2016 - VII ZR 14/16 -, juris, Rn. 14 ff.; vom 22. Mai 2012 - VI ZR 147/11 -, juris, Rn. 14 ff.; MünchKommBGB/Oetker, 8. Aufl. 2019, § 249 Rn. 142 ff.; zu den in Rechtsprechung und Schrifttum entwickelten Fallgruppen ferner Palandt/Grünewald, a.a.O., Vorb. v. § 249 BGB Rn. 24 ff. m.w.N.). Eine Haftung scheidet danach aus, wenn der durch das Verhalten des Schädigers in Gang gesetzte Kausalverlauf bei wertender Betrachtung durch später hinzugetretene Umstände unterbrochen wurde, weil diese im Hinblick auf den eingetretenen Schaden so stark in den Vordergrund treten, dass die Erstursache vollständig verdrängt wird (MünchKommBGB/Oetker, a.a.O. § 249 Rn. 143) bzw. der geltend gemachte Schaden nicht mehr in einem inneren Zusammenhang mit der durch den Schädiger geschaffene Gefahrenlage steht; denn ein "äußerlicher", gleichsam "zufälliger" Zusammenhang genügt nicht (vgl. BGH, Urteile vom 22. Mai 2012 - VI ZR 157/11 -, juris, Rn. 14; vom 9. April 2019 - VI ZR 89/18 -, juris, Rn. 18; OLG Frankfurt, Urteil vom 6. November 2019 - 13 U 156/19, juris, Rn. 38 ff.; jeweils m.w.N.).In Anwendung dieser - allgemein und für das gesamte Schadensrecht geltenden (vgl. BGH, Urteile vom 11. September 1999 - III ZR 98/99 -, juris, Rn. 18; vom 17. Oktober 2000 - X ZR 169/99 -, juris, Rn. 14) - Grundsätze scheidet eine Haftung der Beklagten vorliegend aus. Denn der Zurechnungszusammenhang zwischen dem grundsätzlich haftungsbegründenden Verhalten der Beklagten, das in dem Inverkehrbringen des streitgegenständlichen Motors EA 189 liegt, und einer möglichen Schädigung späterer Erwerber dieses Fahrzeugs ist aufgrund der von der Beklagten seit spätestens Oktober 2015 eingeleiteten Maßnahmen jedenfalls im Hinblick auf den vorliegenden Kaufvertrag unterbrochen worden. Die in der Eingehung der Zahlungsverpflichtung durch den mit der Fa. X geschlossenen Kaufvertrag liegende Schädigung (vgl. Senatsbeschluss vom 25. September 2019 - 17 U 45/19, juris, Rn. 18 ff. m.w.N.) beruht auf einem eigenverantwortlichen Willensentschluss der Klägerin. Die Beklagte hat vor dieser "Zweitursache" erfolgversprechende Abwehrmaßnahmen zur Verhinderung eines [weiteren] Schadenseintritts getroffen, so dass ein innerer Zusammenhang mit der von der Beklagten geschaffenen Gefahrenlage nicht mehr besteht; vielmehr ist die Erstursache rechtserheblich verdrängt worden.Wie die Beklagte unbestritten vorgetragen hat und dem Senat aus einer Vielzahl vergleichbarer Fälle sowie der öffentlich zugänglichen, umfangreichen Medienberichterstattung bekannt ist, hat die Beklagte die Öffentlichkeit am 22.9.2015 im Rahmen einer Presseinformation sowie einer Ad-hoc-Mitteilung davon unterrichtet, dass weltweit rund elf Millionen Fahrzeuge mit Motoren vom Typ EA 189 von den bereits zuvor in den USA beanstandeten auffälligen Abweichungen zwischen Prüfstandwerten und realem Fahrbetrieb betroffen waren. Gleichzeitig ist eine Information der ebenfalls betroffenen Konzerntöchter erfolgt, die hierdurch in die Lage versetzt und von der Beklagten aufgefordert wurden, ihre Vertragshändler, Servicepartner und Dieselfahrzeug-Erwerber in einer konzernweit gleichlaufenden Unterrichtungsmaßnahme neben einer umfassenden weiteren Unterrichtung der Presse in den folgenden Wochen und Monaten zu informierten. Im Oktober 2015 richteten die Beklagte sowie die Audi AG als Fahrzeug-Herstellerin eine Internetseite ein, auf der die Betroffenheit der Fahrzeuge u. a. der Marke Audi anhand der Eingabe der FIN überprüft werden konnten. Über diese Umstände wurde nicht nur in sämtlichen öffentlichen Medien umfangreich berichtet; vielmehr hat die Beklagte durch die Information der Vertragshändler darauf hingewirkt, dass potentielle Gebrauchtwagenkäufer von diesen - bereits zur Vermeidung einer sonst im Raum stehenden eigenen Gewährleistungshaftung der Vertragshändler -rechtzeitig darüber unterrichtet werden konnten, dass ein konkretes Fahrzeug mit dem Motor EA 189 ausgestattet war. Die Beklagte und die Herstellerin des Fahrzeugs, die Audi AG, auf Veranlassung der Beklagten hin, haben außerdem im Februar 2016 alle betroffenen Halter angeschrieben und über die anstehende Rückrufaktion und deren Umsetzung durch Aufspielen des Software-Updates informiert und damit dafür Sorge getragen, zu verhindern, dass aufgrund fehlender Kenntnis des Halters ein betroffenes Fahrzeug ohne die Möglichkeit einer Information der Erwerber veräußert wird. Damit hat die Beklagte erfolgversprechende Abwehrmaßnahmen getroffen, um die weiteren Auswirkungen ihres sittenwidrigen Verhaltens einzudämmen und einen weiteren Schadenseintritt zu verhindern, der durch einen späteren Verkauf von betroffenen Gebrauchtfahrzeugen noch entstehen konnte. Die Beklagte durfte darauf vertrauen, dass die von ihr und den Konzernmarken informierten Händler und Halter im Falle des Verkaufs des Fahrzeugs auf die erhaltene Information hinweisen, auch wenn die Beklagte möglicherweise so nicht alle (potentiellen) Gebrauchtwagenkunden erreichen konnte. Sie hat jedenfalls im Zeitpunkt des Fahrzeugerwerbs durch die Klägerin im Mai 2016 das ihr zu diesem Zeitpunkt subjektiv und objektiv Mögliche getan, auch die Gebrauchtwagenkunden vor etwaigen Vermögensschäden zu bewahren, die durch deren späteren Erwerb der betroffenen Fahrzeuge noch entstehen konnten (vgl. Senat, Urteil v. 25.3.2020 - 17 U 82/19; OLG Frankfurt, Urteil vom 6. November 2019 - 13 U 156/19, juris, Rn. 38 ff.; OLG Celle, Beschlüsse vom 27. Mai 2019 - 7 U 335/18 -, juris, Rn. 21 ff.; vom 1. Juli 2019 - 7 U 33/19 -, juris, Rn. 20 ff.; OLG Köln, Urteil vom 06. Juni 2019 - 24 U 5/19 -, juris, Rn. 46; OLG Stuttgart, Urteil vom 7. August 2019 - 9 U 9/19 -, juris Rn. 45; OLG Oldenburg, Urteil vom 26. November 2019 - 13 U 33/19 -, Rn. 17, juris).b) Die von der Klägerin behaupteten Nachteile des Software-Updates sind nicht geeignet, eine deliktische Haftung der Beklagten ungeachtet der Frage einer Zurechenbarkeit zu begründen. Ob die Klägerin durch das Software-Update verursachte Beeinträchtigungen überhaupt konkret dargelegt hat - in der Anhörung vor dem Senat gab sie an, sie nutze das Fahrzeug weiter und sei zufrieden -, kann dahinstehen, denn auf das Vorliegen von durch das Software-Update etwa verursachte Mängel kommt es nicht entscheidungserheblich an. Die Klägerin verlangt im Wege des Schadensersatzes von der Beklagten die "Rückgängigmachung" der Folgen des mit einem Dritten geschlossenen ungewollten Vertrags (vgl. hierzu Senatsbeschluss vom 25. September 2019 - 17 U 45/19 -, Rn. 36, juris, unter Verweis auf BGH, Urteil vom 28. Oktober 2014 - VI ZR 15/14 -, Rn. 28, juris). Das Software-Update ist jedoch erst nach Vertragsschluss freigegeben und aufgespielt worden. Von daher ist auszuschließen (vgl. Senatsurteil vom 19. Februar 2020 - 17 U 52/19 -; Senatsurteil vom 25.3.2020 - 17 U 82/19), dass die Klägerin durch ein haftungsbegründendes Verhalten der Beklagten im Zusammenhang mit dem späteren Aufspielen des Software-Updates zum Abschluss des Kaufvertrages gebracht worden ist, den sie sonst nicht geschlossen hätte (vgl. BGH, Urteil vom 28. Oktober 2014 - VI ZR 15/14 -, Rn. 18 f., juris zur Erforderlichkeit des Ausgleichs des konkreten Nachteils bei dem subjektbezogenen Schadensbegriff). Die Klägerin hat zudem nicht dargelegt, die Beklagte habe im Zeitpunkt des Kaufvertragsabschlusses etwa (schon) oder später im Zuge der Freigabe des Updates vorgespiegelt, das Update sei zur Mangelbeseitigung geeignet, obgleich sie vom Gegenteil ausgegangen sei (vgl. auch Senat, Urteil vom 4.12.2019 - 17 U 390/18 - n. v.).Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO; die Entscheidung über die vorläufige Vollstreckbarkeit ergibt sich aus §§ 708 Nr. 10, 711 ZPO.Die Zulassung der Revision war geboten (§ 543 Abs. 2 ZPO).Eine Rechtssache hat grundsätzliche Bedeutung, wenn eine klärungsbedürftige Frage zu entscheiden ist, deren Auftreten in einer unbestimmten Vielzahl von Fällen zu erwarten ist und deshalb das abstrakte Interesse der Allgemeinheit an einheitlicher Entwicklung und Handhabung des Rechts berührt (BGH, Beschlüsse vom 4. Juli 2002 - V ZB 16/02 -, juris, Rn. 4; vom 4. Juli 2002 - V ZR 75/02 -, juris, Rn. 5; OLG Frankfurt, Urteil vom 6. November 2019 - 13 U 156/19, juris, Rn. 53 f.).Bezogen auf die Haftung der Beklagten wurde in der bislang ergangenen Rechtsprechung zu einem erst ab dem Jahr 2016 erfolgten Erwerb eines mit dem Motor EA 189 ausgestatteten Fahrzeuges eine Haftung der Beklagten weit überwiegend verneint (vgl. Senat, Urteil vom 17 U 82/19; OLG Frankfurt, Urteil vom 6. November 2019 - 13 U 156/19, juris, Rn. 38 ff.; OLG Frankfurt, Beschluss vom 13. August 2018 .- 25 U 72/18, n.v.; OLG Celle, Beschlüsse vom 27. Mai 2019 - 7 U 335/18 -, juris, Rn. 21 ff.; vom 1. Juli 2019 - 7 U 33/19 -, juris, Rn. 20 ff.; OLG Köln, Urteil vom 06. Juni 2019 - 24 U 5/19 -, juris, Rn. 46; OLG Stuttgart, Urteil vom 7. August 2019 - 9 U 9/19 -, juris Rn. 45; OLG Oldenburg, Urteil vom 26. November 2019 - 13 U 33/19 -, Rn. 17, juris). Die Oberlandesgerichte Hamm (Urteil vom 10. September 2019 - 13 U 149/18 -, juris, Rn. 59), Stuttgart (2. Senat Urteil vom 2.4.2020 - 2 U 249/18) und Köln (Urteil vom 4. Oktober 2019 - 19 U 98/19 -, juris, Rn. 43) haben demgegenüber die Beklagte für einen solchen späten Verkauf als schadensersatzpflichtig angesehen, weil die Käufer vor Vertragsschluss nicht gewusst hätten, dass das Fahrzeug von dem Abgasskandal betroffen war.
+			
+			
+			
+			Permalink: https://openjur.de/u/2262144.html (https://oj.is/2262144)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate21
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

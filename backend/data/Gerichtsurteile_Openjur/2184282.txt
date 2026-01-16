@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 05.06.2019 - 12 O 393/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 05.06.2019 - 12 O 393/18
+                      m. Fundstelle
+                      LG Köln, Urteil vom 05.06.2019 - 12 O 393/18 = openJur 2019, 33657
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 05.06.2019 - 12 O 393/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 33657
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte wird verurteilt, an die Klägerin 26.185 € nebst Zinsen hieraus i. H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 20.11.2018 Zug um Zug gegen Rückgabe und Rückübereignung des Fahrzeugs Audi A1 1.6 TDI, Fahrgestellnummer: ..., und Zahlung einer Nutzungsentschädigung i. H.v. 14.858,94 € zu zahlen.Die Beklagte wird verurteilt, die Klägerin von vorgerichtlichen Rechtsanwaltskosten i. H.v. 1.358,87 € freizustellen.Es wird festgestellt, dass die Beklagte sich mit der Annahme des Fahrzeugs in Verzug befindet.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits tragen die Klägerin zu 7 % und die Beklagte zu 93 %.Das Urteil ist gegen Sicherheitsleistung i. H.v. 110 % des jeweils vollstreckbaren Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Klägerin macht gegen die Beklagte Ansprüche auf Rückzahlung des Kaufpreises für einen PKW geltend.Die Klägerin erwarb am 03.12.2013 einen PKW Audi A1 1.6 TDI, FIN: ..., gegen Zahlung eines Kaufpreises in Höhe von 26.185,00 €.Am 13.03.2019 wies das Fahrzeug einen Kilometerstand von 165.000 km auf.Der Motor des streitbefangenen Fahrzeugs ist ein Dieselmotor vom Typ EA 189. Die im Zusammenhang mit dem streitbefangenen Motor EA 189 verwendete Software optimiert den Stickoxidausstoß auf dem Prüfstand. Dabei erkennt die Software, ob sich das Fahrzeug auf einem Prüfstand befindet, und schaltet zwischen zwei Betriebsmodi um. Auf dem Prüfstand schaltet sie in den Stickoxidoptimierten Modus 1 (NEFZ = Neuer Europäischer Fahrzyklus). In diesem Modus findet eine relativ hohe Abgasrückführung mit niedrigerem Stickoxidausstoß statt. Im normalen Fahrbetrieb wird in den Modus 0 umgeschaltet, bei dem die Abgasrückführungsrate geringer ist.Nachdem der Einsatz der beschriebenen Software öffentlich bekannt geworden war, gab das Kraftfahrtbundesamt der Beklagten auf, die Software aus den Fahrzeugen zu entfernen. Die erteilten Typengenehmigungen für die Fahrzeuge widerrief das Kraftfahrtbundesamt nicht. Es gab sodann von der Beklagten entwickelte Software-Updates frei. Mit einer Bestätigung vom 03.06.2016 stellte das Kraftfahrtbundesamt fest, dass die von der Beklagten entwickelten Updates geeignet seien, die Vorschriftsmäßigkeit eines Fahrzeugs wie des streitgegenständlichen herzustellen.Die Klägerin ließ sein Fahrzeug nachfolgend jedoch durch Aufspielen der neuen Software technisch überarbeiten.Mit Schreiben vom 06.11.2018 forderte die Klägerin die Beklagte zur Erfüllung der Ansprüche der Klägerin auf.Die Klägerin behauptet, dass das Fahrzeug zum Zeitpunkt der letzten mündlichen Verhandlung einen Kilometerstand von 170.061 km aufwiesDie Klägerin beantragt,die Beklagte zu verurteilen, an die Klägerin 26.185 € nebst Zinsen hieraus i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 20.11.2018 Zug um Zug gegen Rückgabe und Rückübereignung des Fahrzeugs Audi A1 1.6 TDI, Fahrgestellnummer: ..., und Zahlung einer Nutzungsentschädigung i.H.v. 11.877,51 € zu zahlen;die Beklagte zu verurteilen die Klägerin von vorgerichtlichen Rechtsanwaltskosten i.H.v. 1.358,87 € freizustellen;festzustellen, dass die Beklagte mit der Abnahme des Fahrzeugs in Verzug befindet.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behaupten, bei der kritisierten Software habe es sich nicht um eine unzulässige Abschalteinrichtung gehandelt. Eine Entziehung der Typengenehmigung habe nie gedroht, weil die behördlich vorgegebenen Emissionswerte im normalen Fahrbetrieb gar nicht eingehalten werden müssten. Es gebe keinen Anlass für die Annahme, dass die Klägerin das Fahrzeug nicht erworben hätte, wenn sie von der Funktionsweise der Software gewusst hätte. Der Mängelbeseitigungsaufwand liege unter 1 % des Anschaffungspreises des streitbefangenen Fahrzeugs. Nach Durchführung des Softwareupdates würden sich auch keine nachteiligen Folgen für den jeweiligen PKW ergeben.Wegen der weiteren Einzelheiten des Sach- und Streitstandes, insbesondere der Rechtsauffassungen der Parteien, wird auf den Akteninhalt Bezug genommen. 
+				Gründe
+				Die Klage ist zulässig, insbesondere ist das Landgericht Köln örtlich zuständig. Für die Frage nach der örtlichen Zuständigkeit ist der klägerische Sachvortrag zugrunde zu legen. Die Klägerin hat unter anderem zu einem Anspruch aus § 826 BGB schlüssig vorgetragen, bei welchem der Eintritt eines Schadens zum Tatbestand gehört. Deshalb ist der Ort des Schadenseintritts, welcher im vorliegenden Fall am Ort des Vertragsschlusses liegt, Begehungsort im Sinne von § 32 ZPO.Auch der Feststellungsantrag, gerichtet auf die Feststellung des Annahmeverzuges, begegnet keinen Zulässigkeitsbedenken. Das nach § 256 ZPO erforderliche Feststellungsinteresse der Klägerin besteht, weil die Feststellung der erleichterten Vollstreckung des geltend gemachten Leistungsanspruchs dient und hierzu erforderlich ist, siehe § 756 ZPO (vgl. BGH, Urteil v. 13.12.2001 - VII ZR 27/00 Rdn. 27; LG Krefeld, Urt. v. 14.9.2016 - 2 O 72/16, BeckRS 2016, 16674).Die Klage ist auch nicht unzulässig, weil die Klägerin etwas Unmögliches von der Beklagten verlangt. Die Klägerin begehrt nicht die Aufhebung des ursprünglichen Kaufvertrages, sondern die Beseitigung der faktischen Folgen. Dazu ist auch jeder Dritter und insbesondere auch die Beklagte zu im Stande.Die Klage ist überwiegend begründet.Der Klägerin steht der geltend gemachte Schadensersatz gegen die Beklagte zu aus §§ 826, 31 BGB zu. Denn die Beklagte hat der Klägerin in einer gegen die guten Sitten verstoßenden Weise vorsätzlich einen Schaden zugefügt.Ein Verhalten ist sittenwidrig, wenn es gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt (ständige Rechtsprechung, vgl. z.B. BGH, Urteil vom 03.12. 2013, - XI ZR 295/12 -, NJW 2014, S.1098, Rz 23). Für die Überprüfung der Tatbestandsmäßigkeit des Verhaltens ist einzubeziehen, ob es nach seinem aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter mit den guten Sitten nicht zu vereinbaren ist (BGH, Urteil vom 20.11.2012, - VI ZR 268/11 -, WM 2012, S. 2377, Rz 25; BGH, Urteil vom 03.12.2013, - XI ZR 295/12 -, NJW 2014, S.1098, Rz 23). Ein Unterlassen verletzt die guten Sitten dann, wenn das geforderte Tun einem sittlichen Gebot entspricht. Hierfür reicht die Nichterfüllung einer allgemeinen Rechtspflicht, aber auch einer vertraglichen Pflicht nicht aus. Es müssen besondere Umstände hinzutreten, die das schädigende Verhalten wegen seines Zwecks oder wegen des angewandten Mittels oder mit Rücksicht auf die dabei gezeigte Gesinnung nach den Maßstäben der allgemeinen Geschäftsmoral und des als "anständig" Geltenden verwerflich machen (BGH, Urteil vom 20.11.2012 - VI ZR 268/11, BGH, Urteil vom 03.12.2013 - XI ZR 295/12 -, a.a.O.). Die Beklagte hat die Käufer ihrer Fahrzeuge - wie vorliegend den Kläger - durch die Entwicklung und Verwendung der Abschalteinrichtung über den im Normalbetrieb der Fahrzeuge ausgestoßenen Schadstoffanteil getäuscht. Denn sie hat den Eindruck erzeugt, die Fahrzeuge mit dem Motor EA 189 könnten unter normalen Fahrbedingungen die behördlich vorgeschriebenen Grenzwerte einhalten, was aber tatsächlich nicht zutreffend war, denn ansonsten hätte es der Abschalteinrichtung in den betroffenen Fahrzeugen nicht bedurft. Die Täuschung durch die Beklagte diente offensichtlich dem Gewinnstreben; es wurde keine umwelttechnisch und rechtlich einwandfreie Abgasreinigung für den Betrieb der Fahrzeuge gewählt, sondern es wurden die Kosten für eine Einrichtung derselben gespart und lediglich vorgegeben, im Alltag könnten scheinbar umweltfreundliche, tatsächlich aber nur auf dem Prüfstand erzielbare Werte eingehalten werden. Diese Täuschung war für den durchschnittlichen Kunden als technischen Laien nicht erkennbar. Vielmehr bestand für die Beklagte erhebliche Aussicht, dass die Täuschung nicht auffallen würde. Es wiegt umso schwerer, als es sich beim Kauf eines Pkws für viele Verbraucher um eine Entscheidung von erheblichem finanziellen Gewicht - oft verbunden mit einer jahrelangen Finanzierungsbelastung - handelt, die durch das unredliche Verhalten der Beklagten zu 2.) nachteilig beeinflusst worden ist ausgenutzt wurde (LG Hildesheim, Urteil vom 17. Januar 2017 - 3 O 139/16 -, Rn. 49, juris). Denn nach der Lebenserfahrung war es für den Käufer eines vom Abgasskandal betroffenen Fahrzeugs bei dem Erwerb desselben von Bedeutung, ob über die Abgaswerte im Normalbetrieb getäuscht wurde oder nicht. Zwar dürfte der durchschnittliche Autokäufer tatsächlich kein besonderes Umweltbewusstsein aufweisen, denn dann würde er von dem Erwerb absehen. Es wäre aber lebensfremd anzunehmen, dass ein Käufer in Kenntnis aller Umstände ein von dem Abgasskandal betroffenes Fahrzeug gekauft hätte, da die Abgaswerte bekanntermaßen Relevanz unter anderem für die Betriebserlaubnis, die Kraftfahrzeugsteuer und z.B. auch Fahrverbote haben. Der Käufer hätte daher zu befürchten gehabt, dass er sein Fahrzeug möglicherweise nicht hätte nutzen können oder höhere Kosten für den Betrieb angefallen wären.Die schädigende Handlung ist der Beklagten zuzurechnen. Die Haftung einer juristischen Person aus § 826 BGB in Verbindung mit § 31 BGB setzt voraus, dass ein verfassungsmäßig berufener Vertreter im Sinne des § 31 BGB den objektiven und subjektiven Tatbestand des § 826 BGB verwirklicht hat (BGH, Urt. v. 28.6.2016 - VI ZR 536/15). Diese Voraussetzungen liegen vor. Es ist auch auf der Grundlage des Vortrags der Beklagten davon auszugehen, dass im Sinne von § 31 BGB ein verfassungsmäßig berufener Vertreter der Beklagten den objektiven und subjektiven Tatbestand des § 826 BGB verwirklicht hat. Die Beklagte zu hat sich in diesem Zusammenhang das Handeln sämtlicher Personen zurechnen zu lassen, denen durch die allgemeine Betriebsregelung und Handhabung bedeutsame, wesensmäßige Funktionen ihrer juristischen Person zur selbstständigen, eigenverantwortlichen Erfüllung zugewiesen sind (vgl. BGH, Urteil vom 05.03.1998 - III ZR 183/96 -, NJW 1998, S.1854, Rz 18 m.w.N.). Die Beklagte hat keine Umstände vorgetragen, die darauf schließen lassen, dass die Täuschungen von nicht unter diese Kriterien fallenden Personen in ihrem Unternehmen begangen worden sind. Dies wäre aber im Zuge der ihr obliegenden, sekundären Darlegungslast erforderlich gewesen. Der Kläger hat mit der Darlegung der ihm zugänglichen Informationen über die Entscheidungsvorgänge bei der Beklagten den ihm zumutbaren Vortrag erbracht; die Beklagte hat demgegenüber nicht angegeben, wer im Unternehmen für die Manipulationsvorgänge verantwortlich ist. Vor dem Hintergrund, dass es sich bei der Einführung einer manipulierten, auf Verzerrung der Prüfstandwerte ausgerichteten Motorsteuerungssoftware um eine wesentliche strategische Entscheidung mit großer wirtschaftlicher Reichweite und einem hohen Entdeckungsrisiko handelt, kann bei lebensnaher Betrachtung ohnehin ausgeschlossen werden, dass sie auf einer Entscheidungsebene der Beklagten getroffen worden ist, die dem Anwendungsbereich des § 31 BGB nicht unterliegt.Die Beklagte hat der Klägerin den Schaden vorsätzlich zugefügt. Mangels jeglicher entgegenstehender Anhaltspunkte muss davon ausgegangen werden, dass den Organen der Beklagten völlig klar war, dass die Beklagte Dieselmotoren an Tochterunternehmen lieferte und auch selbst in eigenen Fahrzeugen verkaufte, die hinsichtlich der Abgaswerte nicht den einschlägigen Vorschriften entsprachen, und dass somit die Kunden der Beklagten selbst und ihrer Tochterunternehmen wirtschaftlich nachteilige Kaufverträge abschlossen (LG Hildesheim, Urteil vom 17.01.2017 - 3 O 139/16 -, Rn. 40, juris).Der durch die Beklagte zu ersetzende Schaden der Klägerin besteht in dem Abschluss des für ihn wirtschaftlich nachteiligen Vertrages. Denn bei lebensnaher Betrachtung ist - wie bereits ausgeführt - davon auszugehen, dass kein vernünftiger Kunde, der ordnungsgemäß über die unzulässige Abschaltungseinrichtung informiert worden wäre, das Fahrzeug erworben hätte. Die Klägerin ist daher so zu stellen, wie sie stehen würde, wenn sie wahrheitsgemäß über das Fahrzeug informiert worden wäre. Sie kann deshalb gemäß § 249 Abs.1 BGB Geldersatz in Höhe des gezahlten Kaufpreises gegen Rückgewähr des Fahrzeugs verlangen. Dabei geht es nicht um die Beseitigung des Kaufvertrages, sondern die Beseitigung dessen Folgen.Schadensmindernd anrechnen zu lassen hat sich die Klägerin hier aber die durch die Nutzung des Fahrzeugs entstandenen Gebrauchsvorteile. Das Gericht schätzt den Wert der gezogenen Nutzungen auf 14.858,94 €, § 287 Abs. 2 ZPO. Dabei ist der Wert der Nutzungen anhand des Bruttokaufpreises, der Fahrtstrecke und der zu erwartenden Restlaufzeit auf Grundlage linearer Wertminderung zu berechnen. Das streitgegenständliche Fahrzeug ist mit einem TDI-Motor ausgestattet, der grundsätzlich langlebig ist; eine Gesamtlaufleistung von 300.000 km kann berechtigt erwartet werden. Zum Zeitpunkt der letzten mündlichen Verhandlung wies das Fahrzeug eine Laufleistung von 98.597 km auf. Die schätz das Gericht gemäß § 287 ZPO. Unstreitig wies das Fahrzeug am 13.03.2019 eine Laufleistung von 165.000 km auf. Das entspricht einer durchschnittlichen monatlichen Laufleistung von 2.619 km. Hochgerechnet auf den 15.05.2019 entspricht das einer Laufleistung von 170.238 km. Die Gebrauchsvorteile errechnen sich demnach wie folgt: (26.185,00 € x 170.238 km)/ 300.000 km) = 14.858,94 €.Die Klägerin kann darüber hinaus von der Beklagten Freistellung von vorgerichtlich entstandenen Rechtsanwaltskosten in Höhe von 1.358,87 € ersetzt verlangen. Die Klägerin durfte sich angesichts der Komplexität der Sach- und Rechtslage zur Geltendmachung ihrer Ansprüche vorgerichtlicher anwaltlicher Unterstützung bedienen (LG Hamburg, Urteil vom 16. November 2016 - 301 O 96/16 -, Rn. 47, juris). Die Anwaltskosten sind Teil des der Klägerin entstandenen Schadens (LG Hildesheim, Urteil vom 17. Januar 2017 - 3 O 139/16 -, Rn. 76, juris).Die Zinsansprüche folgen aus §§ 291, 288 Abs.1 BGB.Die prozessualen Nebenentscheidungen folgen aus §§ 92 Abs. 1, 709 Satz 1, 2 ZPO.Der Streitwert wird auf 26.185,00 EUR festgesetzt.Rechtsbehelfsbelehrung:Gegen dieses Urteil ist das Rechtsmittel der Berufung für jeden zulässig, der durch dieses Urteil in seinen Rechten benachteiligt ist,1. wenn der Wert des Beschwerdegegenstandes 600,00 EUR übersteigt oder2. wenn die Berufung in dem Urteil durch das Landgericht zugelassen worden ist.Die Berufung muss innerhalb einer Notfrist von einem Monat nach Zustellung dieses Urteils schriftlich bei dem Oberlandesgericht Köln, Reichenspergerplatz 1, 50670 Köln, eingegangen sein. Die Berufungsschrift muss die Bezeichnung des Urteils (Datum des Urteils, Geschäftsnummer und Parteien) gegen das die Berufung gerichtet wird, sowie die Erklärung, dass gegen dieses Urteil Berufung eingelegt werde, enthalten.Die Berufung ist, sofern nicht bereits in der Berufungsschrift erfolgt, binnen zwei Monaten nach Zustellung dieses Urteils schriftlich gegenüber dem Oberlandesgericht Köln zu begründen.Die Parteien müssen sich vor dem Oberlandesgericht Köln durch einen Rechtsanwalt vertreten lassen, insbesondere müssen die Berufungs- und die Berufungsbegründungsschrift von einem solchen unterzeichnet sein.Mit der Berufungsschrift soll eine Ausfertigung oder beglaubigte Abschrift des angefochtenen Urteils vorgelegt werden.
+			
+			
+			
+			Permalink: https://openjur.de/u/2184282.html (https://oj.is/2184282)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate8
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG BayreuthRechtsprechungEndurteil vom 02.03.2020 - 31 O 437/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bayreuth, Endurteil vom 02.03.2020 - 31 O 437/19
+                      m. Fundstelle
+                      LG Bayreuth, Endurteil vom 02.03.2020 - 31 O 437/19 = openJur 2021, 40473
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bayreuth, Endurteil vom 02.03.2020 - 31 O 437/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 40473
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird festgesetzt auf Euro 27.100,00 €. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatzansprüche nach dem Kauf eines Pkw der Schadstoffklasse Euro 6 mit dem von der Beklagten entwickelten Motor des Typs EA 288.Der im Klageantrag näher bezeichnete Pkw VW T. wurde gebraucht am 21.7.2016 mit einem Kilometerstand von 5.500 km zu einem Preis von 25.700 Euro (Anlage K 1) erworben.Die Einstufung des Pkws in der Schadstoffklasse Euro 6 beruht unter anderem auf einem Stickoxidwert, der in einem standardisierten Prüfverfahren (neuer europäischer Fahrzyklus, NEFZ) ermittelt wird. Die in der Schadstoffklasse Euro 6 einzuhaltenden Werte erfordern je nach Typ softwaregesteuerte technische Maßnahmen zur Optimierung der Verbrennung, der Abgasrückführung und/oder der Abgasnachbehandlung bzw. eine Kombination unterschiedlicher Maßnahmen aus diesem Bündel. Dabei treten typischerweise Zielkonflikte auf insbesondere zwischen unterschiedlichen Schadstoffwerten, aber auch zwischen dem Leistungsverhalten des Motors einschließlich des Verbrauchs von Treib- und Zusatzstoffen einerseits und dem Schadstoffausstoß andererseits.Für den Fahrzeugtyp gibt es keine Rückrufanordnung des KBA.Die Klage trägt vor:Die Beklagte konstruierte das streitgegenständliche Fahrzeug dergestalt, dass sie in der Steuerungssoftware unterschiedliche Betriebsarten (Modi) vorsah und die Steuerungssoftware dergestalt programmierte, dass sie erkannte, ob das Fahrzeug auf einem Prüfstand (zur Ermittlung von Abgaswerten) betrieben wurde, dann werde der Modus 1 eingestellt, der die Einhaltung der Euro-5-Werte gewährleistete; andernfalls, also insbesondere bei der Inbetriebnahme des Fahrzeugs im öffentlichen Straßenverkehr durch den Kunden, werde der Motor im Modus 0 betrieben, indem keine vergleichbare Emissionsbegrenzung, insbesondere nicht von Stickoxid-Werten stattfinde.Die Beklagte habe auf den klägerischen Entschluss, das Fahrzeug zu erwerben, eingewirkt, indem sie zum einen die Zulassung rechtlich problematische Umschaltlogik eingebaut habe, zum anderen beim Inverkehrbringen des Fahrzeugs nicht darauf hingewiesen habe.Die Vorstände der Beklagten hätten von dem Sachverhalt Kenntnis gehabt, es sei schlechthin nicht vorstellbar, dass eine Entscheidung von derartiger Tragweite von einem subalternen Techniker eigenverantwortlich getroffen wurde und unbemerkt bleiben konnte.Das Fahrzeug sei fehlerhaft und im Wert gemindert.Eine Schadensersatzpflicht der Beklagten ergebe sich nach klägerischer Ansicht insbesondere aus § 826 BGB (vorsätzliche sittenwidrige Schädigung), § 823 Abs. 2 BGB in Verbindung mit § 263 StGB (Betrug) bzw. den Vorschriften der EG-FGV.Mit der Klage wird beantragt,1. Die Beklagte wird verurteilt, an die Klägerpartei EUR 27.100,00 nebst Zinsen in Höhe von 4 Prozent seit dem 21.07.2016 bis zum 05.07.2019 und seither fünf Prozentpunkten über dem Basiszinssatz Zug-um-Zug gegen Rückgabe und Übereignung des Fahrzeuges mit der Fahrgestellnummer ... zu zahlen.2. Es wird festgestellt, dass sich die Beklagte seit dem 06.07.2019 mit der Rücknahme des im Klageantrag 1. bezeichneten Gegenstands in Annahmeverzug befindet.3. Die Beklagte wird verurteilt, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von EUR 2.077,74 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 06.07.2019 zu zahlen.Die Beklagte hat keinen Antrag gestellt.Das Fahrzeug weise keinen Fehler auf. Durch den Erwerb des Fahrzeugs habe die Klägerseite keinen Schaden erlitten.Bei der von der Beklagten eingeräumten Programmierung der Steuerungssoftware handele es sich nicht um eine verbotene Abschaltvorrichtung, sondern um eine reine innermotorische Maßnahme.Nach derzeitigem Ermittlungsstand sei nicht bekannt, dass ein Vorstand der Beklagten vor September 2015 von der streitgegenständlichen Programmierung der Software Kenntnis gehabt hätte. Diese sei durch Mitarbeiter auf der Produktionsebene ohne Wissen des Vorstands erfolgt. Die Beklagte müsse sich auch nicht im Rahmen einer sekundären Darlegungslast entlasten.Die Vorschriften der EG-FGV seien nicht drittschützend und auch nicht verletzt, im Gegenteil sei die dem Fahrzeug mitgegebene Konformitätsbescheinigung formell gültig gewesen.Die Rückerstattung des Kaufpreises schulde die Beklagte nicht nur Zug um Zug gegen Rückgabe des Fahrzeugs, sondern auch gegen Zahlung einer angemessenen Nutzungsentschädigung.Der Anspruch sei verjährt, die Klage hätte bereits 2015 erhoben werden können.Das Gericht hat keinen Beweis erhoben. Wegen der Einzelheiten wird verwiesen auf den Akteninhalt, insbesondere den umfangreichen schriftsätzlichen Vortrag beider Parteien. 
+				Gründe
+				Die zulässige Klage ist unbegründet. Sie ist sogar unschlüssig, so dass unechtes Versäumnisurteil gegen die Klägerseite zu ergehen hat.Die örtliche Zuständigkeit des LG Bayreuth folgt aus § 32 ZPO im Hinblick auf die behauptete Schädigung des klägerischen Vermögens am klägerischen Wohnsitz.Gegenstand der Klage ist kein Kaufvertrag über ein erstmals von der Beklagten in Verkehr gebrachtes Neufahrzeug, sondern ein Kaufvertrag über ein Gebrauchtfahrzeug.Es kann dahinstehen, ob die Beklagte den hier verbauten Motor mit einer gegenüber dem Motor EA 189 gleichartigen Umschalteinrichtung versehen hat.Das Landgericht schließt sich unter Aufgabe bisheriger Rechtsprechung der Ansicht des Oberlandesgerichts Bamberg (Urteil vom 06.11.2019, Aktenzeichen 8 U 73/19) an, wonach in den Fällen des V.-"Dieselskandals" eine deliktische Haftung der Beklagten für den Erwerb eines Gebrauchtfahrzeugs ausscheidet:Ein Anspruch aus § 826 BGB ist jedenfalls deshalb nicht gegeben, da das Inverkehrbringen des Fahrzeugs ohne Hinweis auf die Umschaltlogik keine besondere Verwerflichkeit des Verhaltens im Verhältnis zum Erstkäufer oder zum Gebrauchtwagenkäufer beinhaltet und damit keine sittenwidrige Schädigung des Käufers vorliegt.Im Gegenteil kann ohne weiteres davon ausgegangen werden, dass die Beklagte damit rechnete, die Manipulation werde nicht entdeckt werden oder im Falle des Entdeckens jedenfalls (wie geschehen) nicht zu einer eingeschränkten Nutzbarkeit des Fahrzeugs oder sonstigen Nachteilen für den Käufer führen. Dass dies der Beklagten möglicherweise nur aufgrund ihrer Marktmacht und/oder politischer Einflussnahme gelang, ist im Verhältnis zum Käufer ohne Bedeutung.Der Mehrausstoß von Stickoxid-Gasen mag Umwelt und Allgemeinheit schädigen, nicht aber den Käufer, jedenfalls nicht in besonders verwerflicher Weise (so OLG Bamberg, l.c. Seite 8).Da der erhöhte Ausstoß des Fahrzeugs an Stickoxid-Gasen das Ergebnis einer technischen und wirtschaftlichen Optimierungsaufgabe ist, ist es ohnehin wahrscheinlicher, dass die Beklagte davon ausging, im Interesse ihrer typischen Kunden zu handeln, wenn sie diese Optimierungsaufgabe zugunsten von Leistung, Verbrauch (auch CO₂-Werten) und nicht zuletzt Preis des Fahrzeugs löste. Aus dem Klägervortrag ergibt sich nichts Gegenteiliges.Abweichende individuelle Vorstellungen auf Klägerseite (namentlich, es sei darauf angekommen, ein besonders "umweltfreundliches" Fahrzeug zu erwerben) sind für die Frage der subjektiven Vorstellung (Bewusstsein der Umstände, aus denen sich die Sittenwidrigkeit ergibt) der Beklagten nicht relevant.Ein Anspruch aus § 823 Abs. 2 BGB in Verbindung mit § 263 StGB (Betrug) scheitert jedenfalls daran, dass bei der Beklagten die Absicht rechtswidriger Bereicherung (subjektives Tatbestandsmerkmal des Betrugs) nicht angenommen werden kann. Durch den Gebrauchtwagenkauf erzielt die Beklagte keinen rechtswidrigen Vermögensvorteil. Direkt deshalb nicht, weil sie den Kaufpreis nicht vereinnahmt. Indirekt nicht, weil die Beklagte regelmäßig nicht weiß, ob überhaupt und wenn ja von wem, wie oft und zu welchen vertraglichen Bedingungen das Gebrauchtfahrzeug weiterverkauft wird. Auch die weiteren wirtschaftlichen Rahmenbedingungen des Weiterverkaufs (Marktlage, Mineralölsteuer, Umweltgesetzgebung, Zustand des Fahrzeugs) sind beim Inverkehrbringen regelmäßig nicht vorhersehbar; es gibt keine wie auch immer geartete Verpflichtung der Beklagten, das Interesse eines Gebrauchtwagenverkäufers an der Erzielung eines möglichst hohen Verkaufspreises wahrzunehmen. Aus diesem Grund kann auch keine Absicht der Beklagten im Hinblick auf eine rechtswidrige Bereicherung des Gebrauchtwagenverkäufers angenommen werden.Ein Anspruch aus § 823 Abs. 2 BGB in Verbindung mit §§ 6 Abs. 1,27 Abs. 1 EG-FGV scheitert daran, dass die zitierte Vorschrift der EG-FGV keinen drittschützenden Charakter hat (OLG Bamberg l.c; Oberlandesgericht Braunschweig vom 19.02.2019, Aktenzeichen 7 U 134/17).Weitere Anspruchsgrundlagen sind nicht einschlägig.Die Nebenentscheidungen ergeben sich aus §§ 709, 91, 3 ZPO....
+			
+			
+			
+			Permalink: https://openjur.de/u/2363669.html (https://oj.is/2363669)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

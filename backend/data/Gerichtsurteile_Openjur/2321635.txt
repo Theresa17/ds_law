@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG Frankfurt am MainRechtsprechungUrteil vom 06.03.2019 - 2-12 O 364/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Frankfurt am Main, Urteil vom 06.03.2019 - 2-12 O 364/18
+                      m. Fundstelle
+                      LG Frankfurt am Main, Urteil vom 06.03.2019 - 2-12 O 364/18 = openJur 2021, 5959
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Frankfurt am Main, Urteil vom 06.03.2019 - 2-12 O 364/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 5959
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 %des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten maßgeblich um die Rückabwicklung eines vom sog. ...-Abgasskandal betroffenen Fahrzeugs.Der Kläger erwarb im Zuge eines Privatkaufes am ... einen gebrauchten Pkw ... zum Preis von 18.500,00 € von ... (Anlage K 14, Anlagenband). Das Fahrzeug, in welchem ein von der Beklagten entwickelter Dieselmotor des Typs EA 189 verbaut ist, wurde durch die Beklagte hergestellt.Der Motor des Fahrzeugs verfügt über eine Typgenehmigung nach Emissionsklasse Euro 5. Die Einhaltung der dafür maßgeblichen Grenzwerte für Stickoxide (Art. 10 Verordnung EG Nr. 715/2007, Anhang I, Tabelle 1) hängt davon ab, in welchem Ausmaß Abgase aus dem Auslassbereich des Motors über ein Abgasrückführungsventil in den Ansaugtrakt des Motors zurückgeleitet werden. Im streitgegenständlichen Fahrzeug lässt die das Abgasrückführungsventil steuernde Software des Motorsteuerungsgerätes eine Abgasrückführung im zur Einhaltung der Grenzwerte nötigen Umfang unter den Bedingungen des zum Erlangen der Typgenehmigung durchgeführten gesetzlich vorgeschriebenen Testlaufs zu.Der Kläger hat mit außergerichtlichem Schreiben vom ... (Anlage K 16, Anlagenband.) Rückabwicklung des Kaufvertrages abzüglich eines Nutzungswertersatzes verlangt. Ein vom Kraftfahrtbundesamt genehmigtes Software - Update hat der Kläger in Anspruch genommen.Der Kläger trägt vor und ist der Ansicht, die Software des Motors des streitgegenständlichen PKW würde eine unzulässige Abschalteinrichtung gemäß Art. 3 Nr. 10 i. V. m. Art. 5 Abs. 2 der EU-Verordnung 715/2007 enthalten, welche den Schadstoffausstoß des Fahrzeugs manipulieren würde. Es würde sich um einen schwerwiegenden Eingriff in die Motorsteuerung handeln. Durch das Verschweigen der Existenz der unzulässigen Abschalteinrichtung seien er über für den Kaufvertragsschluss wesentliche Umstände getäuscht worden. Hätte er, der großen Wert auf die Umweltfreundlichkeit und Wertstabilität des von ihm erworbenen Fahrzeugs auch angesichts innerstädtischer Fahrverbote gelegt habe, vom Einbau der illegalen Abschalteinrichtung, aufgrund dessen - unstreitig - die Zulassung des Fahrzeugs zum Straßenverkehr beschränkt oder entzogen werden kann, Kenntnis gehabt, hätte er das Fahrzeug nicht erworben. Durch den Einbau und das Verschweigen der unzulässigen Abschalteinrichtung sei eine Schädigung der Fahrzeugkäufer zumindest billigend in Kauf genommen worden. Die vorgenommenen Manipulationen würden einen erheblichen Mangel darstellen, da selbst nach Durchführung der beklagtenseitigen technischen Maßnahmen im Rahmen des vom Kraftfahrtbundesamt angeordneten Zwangsrückrufs nicht auszuschließen sei, dass sich Leistung, Verbrauch, Schadstoffklasse usw. verschlechtern und es zu einer schwierigeren Verkäuflichkeit nebst erheblicher Wertminderung der betroffenen Fahrzeuge kommen könne. Eine Beseitigung des bestehenden Mangels ohne nachteilige Veränderung der wesentlichen Fahrzeugeigenschaften sei nicht möglich.Da die Beklagte Herstellerin des Fahrzeugs sei, sei ihr ein Verstoß gegen EU-Recht anzulasten. Eine Schadensersatzpflicht folge aus § 823 Abs. 2 BGB i.V.m. § 263 StGB. Durch aktives Tun seien die für die Typgenehmigung zuständigen Stellen getäuscht worden. Ferner habe die Beklagte die Käufer durch Unterlassen der Information über die Ausstattung des Fahrzeugs mit einer unzulässigen Abschaltvorrichtung getäuscht. Zur Aufklärung darüber sei die Beklagte aufgrund ihrer Garantenstellung als Herstellerin gewesen. Der Die EG-Übereinstimmungsbescheinigung sei fehlerhaft und zudem ungültig. Dies stelle gleichzeitig einen Verstoß gegen §§ 6, 27 EG-FGV dar. Ferner habe die Beklagte gegen die guten Sitten verstoßen, indem sie die Software eingebaut habe, damit die Herstellungskosten nicht zu hoch werden. Im Einklang damit verstoße die arglistige Täuschung über die tatsächliche Schadstoffemission gegen das Anstandsgefühl aller billig und gerecht Denkenden.Der Kläger hat ursprünglich beantragt,1. Die Beklagte wird verurteilt, an die Klagepartei 18.500,00 € zu zahlen abzüglich eines angemessenen Nutzungswertersatzes für die bis zum Tag der Rückgabe gefahrenen Kilometer, Zug um Zug gegen Herausgabe und Übereignung des PKW ... mit der Fahrzeugidentifikationsnummer ...;2. Die Beklagte wird verurteilt, an die Klagepartei Zinsen auf den Kaufpreis i.H.v. 18.500,00 € in Höhe von 4 % p.a. seit dem 17.01.2016 bis zum 12.12.2018 und Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 13.12.2018, mindestens jedoch 4 %, zu zahlen;3. Es wird festgestellt, dass die Beklagte sich mit der Rücknahme des im Antrag 1) genannten PKWs in Verzug befindet;4. Die Beklagte wird verurteilt, die Klagepartei von den außergerichtlichen Rechtsanwaltskosten i.H.v. 1.059,10 € freizustellen.Nunmehr beantragt der Kläger unter Aufrechterhaltung der Anträge 2) bis 4),die Beklagte wird verurteilt, an die Klagepartei 18.500,00 € zu zahlen abzüglich eines Nutzungswertersatzes in Höhe von 1.794,10 €, Zug um Zug gegen Herausgabe und Übereignung des PKW ... mit der Fahrzeugidentifikationsnummer [...]Die Beklagte beantragt,die Klage abzuweisen.Sie rügt die örtliche Zuständigkeit des angerufenen Gerichts.Zu den weiteren Einzelheiten des Sach- und Streitstandes sei auf die Schriftsätze des Klägers vom 18.12.2018 (Bl. 3ff. d.A.) und vom 29.01.2019 (Bl. 44ff. d.A.) sowie auf die Klageerwiderung vom 24.01.2019 (Bl. 97ff. d.A) und den Schriftsatz der Beklagten vom 12.20.2019 (Bl. 141ff. d.A.) jeweils nebst Anlagen verwiesen. 
+				Gründe
+				Die Klage ist zulässig. Insbesondere ist das Landgericht Frankfurt am Main auch für die erhobenen Ansprüche gemäß § 32 ZPO örtlich zuständig. Der Handlungsort für die vom Kläger behaupteten deliktischen Ansprüche wegen Nichtaufklärung über die installierte Abschaltsoftware liegt in Frankfurt am Main, ergo am Wohnsitz des Klägers. Bei Unterlassungsdelikten liegt der Handlungsort dort, wo gehandelt werden musste (Zöller- Schutltzky, 32. Aufl. 2018, § 32 Rn. 19). Spätestens zum Zeitpunkt der Auslieferung des Fahrzeugs an den Kläger wäre die Beklagte verpflichtet gewesen - eine solche Aufklärungspflicht gleichsam unterstellend - den Kläger über den Einbau der Software zu informieren.Der Kläger hat unter keinem rechtlichen Gesichtspunkt Anspruch auf Rückabwicklung des Kaufvertrages in Gestalt von Schadensersatz kraft Naturalrestitution wegen der "Manipulationssoftware" gegenüber der Beklagten.Der Kläger kann sein Begehren auf Erstattung eines etwaigen Schadens nicht auf das kaufrechtliche Mängelgewährleistungsrecht (§§ 437 Nr. 3, 280ff. BGB) stützen, da evident keine kaufvertragliche Sonderbeziehung zur Beklagten besteht.Der Kläger hat gegen die Beklagte keinen Anspruch auf Schadensersatz aus §§ 311, 241 Abs. 2, 249ff. BGB.Die vom Bundesgerichtshof entwickelten Grundsätze zur Prospekthaftung (vgl. etwa Palandt-Grüneberg, BGB 76. Aufl. 2017, § 311 Rn 67) sind auf den vorliegenden Fall nicht übertragbar. Die Prospekthaftung geht davon aus, dass der Emissionsprospekt in der Regel die einzige Informationsquelle des Anlegers ist. Nur unter der Voraussetzung, dass die durch den Prospekt vermittelte Information vollständig und richtig ist, kann der Kunde die ihm angebotene Kapitalanlage objektiv beurteilen und sein Anlagerisiko, das ihm ohnehin verbleibt, richtig einschätzen (BGH, Urteil vom 31. Mai 1990 - VII ZR 340/88 -, BGHZ 111, 314-324, Rn. 14). Anders als bei Kapitalanlagen gibt es für Pkw zahlreiche Möglichkeiten, sich vor der Kaufentscheidung über ein bestimmtes Modell zu informieren, wie Artikel in Zeitschriften oder im Internet oder gegebenenfalls eine Probefahrt. Dass für den Pkw-Kauf eine ähnliche Schutzbedürftigkeit des Käufers wie für Anleger auf dem grauen Kapitalmarkt bestünde, folgt auch nicht aus dem vom Kläger angeführten Urteil des OLG München (20 U 4749/12, bei juris ist nicht der 08.07.2013 sondern der 10.04.2013 als Entscheidungsdatum genannt). Dort konnte der Kläger aufgrund einer Prospektangabe, die die Sollbeschaffenheit über die übliche Beschaffenheit hinaus erweiterte, sofort vom Pkw-Kaufvertrag zurücktreten, als sich diese Prospektangabe als falsch erwies, § 434 Abs.1 S. 3 BGB. Der Schutz des Vertrauens in Prospektangaben wird im Kaufrecht also durch das Gewährleistungsrecht sichergestellt. Dass darüber hinaus ein Pkw-Hersteller dem Käufer für Prospektangaben hafte, ohne selbst dessen Vertragspartner zu sein, folgt aus dieser Entscheidung gerade nicht.Der Kläger hat keinen Anspruch gegen die Beklagte aus einer Garantie gemäß § 443 BGB. Es liegt schon keine Garantieerklärung der Beklagten vor. Die Beklagte hat keine Vertragserklärung unmittelbar an den Kläger gerichtet.Der Kläger hat keinen etwaigen Anspruch gegen die Beklagte aus deliktsrechtlichen Normen.Ein solcher folgt nicht aus § 823 Abs. 2 BGB i.V.m. § 263 StGB. Ein Verstoß gegen § 823 Abs. 2 i.V.m. § 263 StGB ist schon nicht dargelegt, was das Gericht mit den Parteien in der mündlichen Verhandlung ausführlich erläutert hat. Bei der Beurteilung sind drei Anknüpfungspunkte einer potentiellen Strafbarkeit zu unterscheiden, nämlich die Begehrungsformen der Alleintäterschaft aus aktivem Tun und Unterlassen sowie diejenige der mittelbaren Täterschaft (vgl. LF FFM Urt. v. 12.05.2017 Az. 2-28 O 104/16, Anlage R 2, Analgenband).Eine Verwirklichung des § 263 StGB durch aktives Tun der Beklagten zu ist nicht vorgetragen. Es ist schon nicht ersichtlich, worüber und in welcher Art und Weise die für die Typgenehmigung zuständigen Stellen aktiv getäuscht worden sein sollen. Die ein aktives Tun der Beklagten darstellende "Auslieferung" des streitbefangenen Fahrzeugs in der Vergangenheit war nicht an den Kläger gerichtet. Mithin kann in der Auslieferung keine Täuschung des Klägers durch aktives Tun gesehen werden. Auch der Erwerb des Fahrzeugs bei dem o.g. Autohaus kann nicht als eine Täuschung der Beklagten durch aktives Tun verstanden werden. Denn die Beklagte war an dem Erwerbsakt schlichtweg nicht beteiligt. Es ist überdies nicht nachvollziehbar, ob sie überhaupt Kenntnis von dem konkreten Geschäft hatte.Auch ein Betrug durch Unterlassen gem. §§ 13, 263 StGB scheidet aus. Denn ob ein Verhalten Tun oder Unterlassen ist, bemisst sich nach dem "Schwerpunkt des Vorwerfbarkeit" (BGH st. Rspr., BGHSt 6, 46, 59; BGH, NStZ 1999, 607f.; BGH NStZ-RR 2006, 10f.; Fischer, 64.A. (2017), § 13 Rz. 5; SIS-Stree/Bosch, 29.A. (2014), vor § 13ff. Rz. 158a, b). Dieser Schwerpunkt liegt hier im Bereich des aktiven Tuns, wenngleich der Kläger anderes behauptet. Das vermeintlich Verwerfliche der Handlung, welche der Beklagten zur Last gelegt wird, liegt im Bereich des lnverkehrbringens der angeblich "manipulierten" Fahrzeuge, nicht in dem später ggfls. anzunehmenden Unterlassen eines Hinweises auf die angebliche "Manipulation".Selbst wenn man dies anders beurteilen wollte, stellte auch ein eventuelles Unterlassen der Aufklärung über die Funktionsweise der Motorsteuerungssoftware hier keine strafrechtlich relevante Täuschung über Tatsachen dar. Hierfür fehlt es an einer Garantenstellung der Beklagten. Dem aktiv Handelnden kann nur gleichgestellt werden, wer rechtlich verpflichtet ist, die Rechtsgutsbeeinträchtigung zu verhindern (BGH, NJW 10, 1087, 1090). Die Handlungspflicht muss dabei dem Schutz des jeweiligen Rechtsgutes dienen (BGHSt 37, 106, 119). Die Beklagte hatte als Herstellerin gegenüber dem Kläger weder eine Garantenstellung aus einem besonderen Vertrauensverhältnis, noch aus Ingerenz (vgl. zu den eine solche Garantenstellung begründenden Umständen Fischer, StGB, 64. Aufl. 2017, § 13 Rn 43 - 59). Ein etwaiges pflichtwidriges Vorverhalten durch Einbau der Software wirkt sich primär im Verhältnis zum veräußernden Autohaus aus.Die Beklagte könnte allenfalls ein besonderes Vertrauensverhältnis zum Kläger als Käufer gehabt haben, falls sie - was der Kläger schon nicht im Einzelnen substantiiert vorträgt - für das von ihr entwickelten Fahrzeug geworben haben sollte. Werbung dient allerdings eo ipso allein den Absatzinteressen des Werbenden und ist daher grundsätzlich ungeeignet, ein besonderes Vertrauensverhältnis mit Aufklärungspflichten zu begründen. Etwas anderes könnte allenfalls für wertbildende Faktoren von ganz besonderem Gewicht gelten. In dem - engeren - Verhältnis zwischen Parteien eines Kaufvertrages wurde eine Offenbarungspflicht des Gebrauchtwagenhändlers hinsichtlich schwerwiegender Schäden bei einem wucherhaften Missverhältnis von Leistung und Gegenleistung angenommen (BayOblG, Beschluss vom 09.12.1993, 3St RR 127/93, Rn. 24, 25, juris). Die vom Kläger bemängelten Einstellungen der Motorsteuerungssoftware stellen aber keinen wertbildenden Faktor von ganz besonderem Gewicht dar. Dass es dem gesunden Menschenverstand entspreche, dass ein derart manipuliertes Fahrzeug geringer bewertet werde als ein nicht manipuliertes Fahrzeug, so dass die Wertminderung weiter spürbar sei stellt keine dem angebotenen Sachverständigenbeweis zugängliche Tatsachenbehauptung dar. Hier würde eine Beweiserhebung zum Thema Wertminderung eine unzulässige Ausforschung darstellen. Der Gebrauchtwagenmarkt ist derart transparent, dass der Kläger konkrete Anknüpfungstatsachen zu einer etwaigen Wertminderung aufgrund der Motorsteuerungssoftware vortragen müsste.Eine Täuschung über die Nutzbarkeit des Fahrzeugs - welche einen wertbildenden Faktor von besonderem Gewicht darstellen dürfte - hat der Kläger nicht dargelegt. Entgegen der Ansicht des Klägers ist die Typgenehmigung für das streitgegenständliche Fahrzeug nicht gemäß § 19 Abs. 7, Abs. 2 S. 2 Nr. 3 StVZO erloschen, da diese Vorschrift nicht für Abweichungen vom genehmigten Typ vor Inverkehrbringen gilt. § 19 Abs.7, Abs. 2 S. 2 Nr. 3 StVZO sieht ein - automatisches - Erlöschen der Typgenehmigung nur für den Fall vor, dass an einem Fahrzeug Veränderungen vorgenommen werden. Als § 19 Abs. 2 StVZO neu gefasst wurde, stellte der Gesetzgeber klar, dass diese Vorschrift nur für bereits im Verkehr befindliche Fahrzeuge gilt (vgl. BR-Drs 629/93 S. 15 - 16). Anderenfalls würde auch die später in Kraft getretene Vorschrift des § 25 Abs.3 Nr.2 EG-FGV leer laufen, die den Widerruf (nicht etwa das automatische Erlöschen) der Typgenehmigung erst dann ermöglicht, wenn von dem Fahrzeug ein erhebliches Risiko für die Verkehrssicherheit ausgeht, wobei diese Entscheidung noch in das Ermessen der Behörde gestellt ist. Die Typgenehmigung ist auch nicht analog § 19 Abs.7, Abs. 2 S. 2 Nr. 3 StVZO erloschen. Es besteht keine planwidrige Regelungslücke, sondern § 25 Abs. 3 Nr. 1 EG-FGV stellt die Ermessensvorschrift dar, nach der eine Typgenehmigung ganz oder teilweise widerrufen werden kann, wenn es an der Übereinstimmung eines Fahrzeugs mit dem genehmigten Typ fehlt. Es droht auch kein Widerruf der Typgenehmigung mit Wirkung für alle Fahrzeuge des streitgegenständlichen Typs. Das Kraftfahrt-Bundesamt als zuständige Behörde hat das ihm zustehende Ermessen gerade nicht dahingehend ausgeübt, eine Entziehung der Typgenehmigung in die Wege zu leiten. Es ist vielmehr nach § 27 Abs. 2 EG-FGV vorgegangen.Auch aus pflichtwidrigem Vorverhalten (Ingerenz) folgt hier keine Garantenstellung der Beklagten. Eine Pflichtwidrigkeit löst nur dann eine Garantenpflicht aus, wenn die verletzte Norm gerade dem Schutz des betroffenen Rechtgutes dient (Schönke/Schröder/Stree/Bosch StGB, 28. Aufl., § 13 Rn 35a mwN). Die hier vom Kläger allein geltend gemachten Vermögensinteressen fallen nicht in den Schutzbereich dieser Normen. Diese dienen der Harmonisierung des Binnenmarktes (Erwägungsgrund 2 der Richtlinie) und zielen auf hohe Verkehrssicherheit, hohen Schutz der Umwelt und der Gesundheit, rationelle Energienutzung und wirksamen Schutz gegen unbefugte Benutzung (Erwägungsgrund 3 der Richtlinie) ab.Eine Täterschaft der Beklagten lässt sich auch nicht aus dem Gesichtspunkt der mittelbaren Täterschaft gem. §§ 25 Abs. 1 Alt. 2, 263 StGB herleiten (so u.a. LG Hildesheim, VuR 2017, 111, 115). Auch die Voraussetzungen dieser Haftungsnorm sind schon nicht vorgetragen. Zwar kann grundsätzlich ein vorsatzloses Verhalten auf Seiten der Autohauses die Werkzeugqualität des Vordermanns i.S. § 25 Abs. 1 Alt. 2 StGB begründen. Hierin erschöpfen sich allerdings die Tatbestandsvoraussetzung des § 25 Abs. 1 Alt. 2 StGB nicht. Unbestritten muss der Hintermann den Handlungsentschluss auf Seiten des (irrenden) Vordermanns bewusst "hervorrufen", "veranlassen" u.a., was die Feststellung eines entsprechenden Einwirkungsverhältnisses als notwendige Voraussetzung der mittelbaren Täterschaft bedingt (L/R-Schünemann, 12.A. (2007), § 25 Rz. 80f.; MüKo-StGB-Joecks, § 25 Rz. 80; Satzger/Schluckebier/VVidmaier-Murmann, 3.A. (2016), § 25 Rz. 12; S/S-Heine/Weißer, 29.A. (2014), § 25 Rz. 15). Zu diesen Voraussetzungen ist nicht ausreichend vorgetragen. Es ist ganz offen, ob die Beklagte überhaupt Kenntnis von dem konkreten Verkaufsakt hatte. Allein das "Inverkehrbringen" des Fahrzeugs eignet sich als Anknüpfungspunkt zur Feststellung einer mittelbaren Täterschaft nicht, da sich hieraus keine konkrete Einwirkung auf das Autohaus ableiten lässt. Im Übrigen setzt die mittelbare Täterschaft auch Kenntnis der begangenen Tat einschließlich aller subjektiven Elemente des verwirklichten Tatbestands voraus (S/S-Heine/Weißer, 29.A. (2014), § 25 Rz. 51; Leipold/Tsambikakis/Zöller-Waßmer, 2.A. (2015), § 25 Rz. 40 jeweils m.w.N.). Auch diese Voraussetzung ist nicht vorgetragen. Es liegt im Übrigen auch nicht nahe, dass den Organen der Beklagten das hier im Streit stehende konkrete Geschäft zwischen dem Kläger und der Autohaus bekannt war. Auch kann nicht angenommen werden, dass die Beklagte weitere täuschende Handlungen im Rechtssinne jedenfalls billigend in Kauf nahm. Denn ob ein einmal ausgeliefertes Fahrzeug weiterverkauft wird, war für die Beklagte nicht sicher prognostizierbar. Ein eigenes Interesse an einem weiteren Verkauf unter Aufrechterhaltung oder Neubegründung einer etwaigen Fehlvorstellung hatte die Beklagte jedenfalls nicht. Denn ihren Gewinn hatte sie durch die Auslieferung erzielt.Auch eine Haftung der Beklagten gemäß §§ 823 Abs. 2 BGB i.V.m. §§ 325, 330 StGB, scheidet jedenfalls wegen der Ausschlussnorm des § 325 Abs. 7 StGB aus.Eine Haftung der Beklagten zu lässt sich auch nicht unter dem Gesichtspunkt der Verletzung von §§ 823 Abs. 2, §§ 4, 6, 27 Abs. 1 EG-FGV i.V.m. Art. 18 RL 2007/46/EG (oder eines ohnehin nicht erkennbaren Vertrags mit Schutzwirkung zugunsten Dritten) begründen. Einerseits stellen die dargestellten Normen im hier betroffenen Sinne kein dem Schutz von Vermögensinteressen des Klägers dienendes Schutzgesetz dar (so bereits LG Köln, U. 23.08.2016, 7 0 138/16). Dies ergibt sich aus den Erwägungsgründen der für die Prüfung der Typengenehmigung hier zentral hinzuziehenden Art. 3 Nr. 10, 5 Abs. 2 Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20.06.2007. Diese Erwägungsgründe beziehen sich (was die hier streitige Thematik betrifft) in Ziffer 5-7 nicht auf den Schutz von Vermögensinteressen von Verbrauchern, vielmehr wird lediglich die Wettbewerbsfähigkeit der Hersteller als wirtschaftlicher Erwägungsgrund genannt. Zentrales Regelungsziel der VO ist dagegen eine Verbesserung der Luftqualität (Erwägungsgrund 6). Im Rahmen des § 823 Abs. 2 BGB ist aber anerkannt, dass jedenfalls Bundesgesetze mit vergleichbarer Schutzrichtung, etwa § 5 Abs. 1 WHG, § 8 Abs. 1 WHG, gar nicht oder — soweit Emissionen verhindert werden sollen — nur zugunsten emissionsbelasteter Dritter, insb. Nachbarn emittierender Betriebe (BGH NJW 1995, 132, 134; BGH NJW 1993, 1580; NJW 1997, 55) Schutzgesetze darstellen. Nichts anderes kann im vorliegenden Fall gelten. Abgesehen von der fehlenden Schutzgesetzfähigkeit ist auch eine Verletzung der Vorschriften zu EG-Typengenehmigung nicht erkennbar, da im Falle der von der Beklagten vorgeschlagenen Änderungen das KBA die Vorschriftsgemäßheit i.S. der RL 2007/46/EG bestätigt hat. Im Übrigen gilt die unstreitig erteilte Betriebserlaubnis und die EG-Typengenehmigung gem. §§ 19 Abs. 2 S. 1, Abs. 7 StVZO nach derzeitigem Erkenntnisstand bis zu einer etwaigen endgültigen Außerbetriebssetzung fort, da keine ausdrückliche Entziehung der Betriebserlaubnis durch das KBA vorliegt.Der Kläger hat schließlich keinen Anspruch auf Schadensersatz aus § 826 BGB. Der Einbau der eingangs genannten Software, die den Prüfstandlauf erkennt, begründet keinen Anspruch wegen vorsätzlich sittenwidriger Schädigung der Vermögensinteressen des Klägers. Bei der Prüfung, ob sich eine Handlung im Verhältnis zu den geltend gemachten Interessen des Anspruchstellers als vorsätzlich sittenwidrige Schädigung darstellt, ist eine zusammenfassende Würdigung von Inhalt, Beweggrund und Zweck der Handlung sowie ihrer Folgen vorzunehmen (vgl. Palandt-Sprau BGB, 77. Aufl. 2018 § 826 Rn 4). Auch im Rahmen des § 826 BGB gilt wie bei allen Ansprüchen aus unerlaubten Handlungen, dass die Ersatzpflicht auf solche Schäden beschränkt ist, die in den Schutzbereich des verletzten Ge- oder Verbots fallen (BGH, Urteil vom 11. November 1985 - II ZR 109/84 -, BGHZ 96, 231-244, zit. nach juris, Rn. 15). Der Verstoß muss in Beziehung zu den (Vermögens-)Interessen der Parteien gesetzt werden, um zu beurteilen, ob sich die Schädigung als sittenwidrig darstellt (BGH, Urteil vom 20. November 1990 - VI ZR 6/90 -, Rn 17, juris). Hier kommt ein Verstoß gegen das Verbot unzulässiger Abschalteinrichtungen aus Art. 5 Abs.2, Art. 3 Ziffer 10 der EU-Verordnung VO 715/2007 in Betracht. Den Vermögensinteressen des einzelnen Pkw-Käufers ist der Hersteller nach dieser Norm aber nicht verpflichtet. Die Richtlinie 2007/46/EG und die Verordnung VO 715/2007 dienen der Harmonisierung des Binnenmarktes und zielen auf hohe Verkehrssicherheit, hohen Schutz der Umwelt und der Gesundheit, rationelle Energienutzung und wirksamen Schutz gegen unbefugte Benutzung ab (s.o.). Interessen der einzelnen Fahrzeugkäufer können durch die Verordnung als Einzelrechtsakt im gemeinschaftlichen Typgenehmigungssystem allenfalls in Bezug auf die Zulassungsfähigkeit geschützt werden. Solche Anspruchspositionen macht der Kläger hier aber nicht geltend.Die Beklagte hat den Kläger auch nicht durch eine arglistige Täuschung bezüglich der Schadstoffemission vorsätzlich sittenwidrig geschädigt. Aussagen die zur Typgenehmigung oder zu Werten in der Übereinstimmungsbescheinigung getroffen werden, beziehen sich immer auf die Emissionen im NEFZ. Nur diesbezüglich sind die Wertangaben in etwaigen Prospekten (hier hat der Kläger und keine Prospekte vorgelegt, aus denen sich die Täuschung ergeben soll) miteinander vergleichbar.Auch das Verschweigen der eingangs genannten Software, die den Prüfstandlauf erkennt, führt nicht zu einem Anspruch des Klägers wegen vorsätzlich sittenwidriger Schädigung. Ein Verschweigen kann nur dann sittenwidrig sein, wenn eine entsprechende Offenbarungspflicht besteht. Eine solche kommt bei Kaufverträgen - und im vorliegenden Fall besteht noch nicht einmal eine vertragliche Beziehung zwischen den Parteien - bezüglich erheblicher wertbildender Faktoren in Betracht (Bamberger/Roth BGB, 3. Aufl., § 826 Rn 23 Fn 148). Dass es sich bei der Software und ihrer o.g. Wirkung um erhebliche wertbildende Umstände handeln würde, hat der Kläger aber nicht dargelegt.Der Feststellungsantrag 3) waren mangels Schadensersatzpflicht der Beklagten ebenfalls zurück zu weisen.Mangels Hauptanspruch besteht auch kein Anspruch auf Zahlung von Zinsen bzw. auf Freistellung von vorgerichtlich angefallenen Rechtsanwaltskosten.Die Nebenentscheidungen beruhen auf §§ 91 Abs.1, 709 S. 1, 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2321635.html (https://oj.is/2321635)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate13
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

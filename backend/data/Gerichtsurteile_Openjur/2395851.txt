@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG DüsseldorfRechtsprechungUrteil vom 07.05.2021 - 34 U 32/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Düsseldorf, Urteil vom 07.05.2021 - 34 U 32/20
+                      m. Fundstelle
+                      OLG Düsseldorf, Urteil vom 07.05.2021 - 34 U 32/20 = openJur 2022, 9612
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Düsseldorf, Urteil vom 07.05.2021 - 34 U 32/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 9612
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 3 O 533/19
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das Urteil des Landgerichts Mönchengladbach vom 11.04.2020, Az. 3 O 533/19, wird zurückgewiesen.Die Kosten des Berufungsverfahrens hat der Kläger zu tragen.Das Urteil ist vorläufig vollstreckbar.Der Streitwert für das Berufungsverfahren wird auf 36.160,17 € festgesetzt.  
+				Gründe
+				I.Der Kläger kaufte durch Kaufvertrag vom 23.11.2017 von der Firma A.-GmbH und Co. KG in Mönchengladbach einen PKW Skoda Kodiaq 2,0 TDI zu einem Kaufpreis von 42.425 €. Das Fahrzeug wies zu diesem Zeitpunkt eine Laufleistung von 10 km auf. In dem Fahrzeug ist ein Motor des Typs EA 288 EU 6 verbaut, welcher von der Beklagten hergestellt wurde. Unstreitig wurde dieser Motor im Hinblick auf den sogenannten Abgasskandal seit dem Jahre 2016 eingehend vom KBA unter Zuhilfenahme neutraler Sachverständiger untersucht. Eine unzulässige Abschalteinrichtung, wie sie im Rahmen der Untersuchung des Motors EA 189 vorgefunden wurde, wurde bei diesem Motor nicht festgestellt.Der Kläger behauptet, gleichwohl sei in diesem Motor eine illegale Abschalteinrichtung implementiert und forderte die Beklagte durch Schreiben vom 12.11.2019 zur Rückzahlung des Kaufpreises abzüglich einer Nutzungsentschädigung Zug um Zug gegen Rückgabe und Übereignung des Fahrzeugs an die Beklagte auf. Die Kilometerleistung zum Zeitpunkt des Aufforderungsschreibens belief sich auf 31.000 km, zum Zeitpunkt der mündlichen Verhandlung vor dem Senat am 16.04.2021 auf 44.309 km.Dieses Begehren verfolgt er nunmehr im Rahmen des vorliegenden Verfahrens weiter. Hierzu behauptet er, in dem Motor EA 288 befinde sich ein Motorsteuergerät, welches aufgrund der installierten Software in der Lage sei zu erkennen, ob sich das Fahrzeug im Prüfzyklus (NEFZ) befinde. Dies erkenne die Software anhand von drei Parametern: Und zwar verfüge das Steuergerät über eine Lenkwinkelerkennung, welche erkenne, ob das Fahrzeug bei normalem Betrieb auf der Straße durch Bewegung des Lenkrades genutzt werde. Da auf dem Prüfstand die Vorderräder des Fahrzeugs fixiert würden, finde dort kein Lenkwinkeleinschlag statt. Dies erkenne das Fahrzeug und schalte nur für die Prüfstandsanordnung in einen Fahrmodus, welcher den gesetzlich vorgeschriebenen Abgasgrenzwerten gerecht werde. Ferner verfüge das Fahrzeug über einen Temperatursensor, der erkenne, ob sich die Außentemperatur über einen der Prüfstandsanordnung vorausgehenden Zeitraum konstant auf 20° belaufe. Da bei dieser Temperatur die Abgasprüfung erfolge, schalte das Fahrzeug in diesem Fall ebenfalls in einen Fahrmodus, durch welche die gesetzlich vorgeschriebenen Grenzwerte erreicht würden. Schließlich dauere das Prüfverfahren insgesamt 1180 Sekunden (ca. 20 Minuten). Das Motorsteuergerät wechsele deshalb für diesen Zeitraum ebenfalls in einen Fahrmodus, durch welchen die gesetzlich vorgeschriebenen Abgasgrenzwerte erreicht würden.Diese Grenzwerte würden durch zwei Abschalteinrichtungen erreicht:Und zwar verfüge das Fahrzeug über eine so genannte Ad-Blue Dosierstrategie. Auf dem Prüfstand werde zur Reinigung der Stickoxide über einen Fallstrommischer eine bestimmte Menge Harnstoff aus einem zusätzlichen Tank in die heißen Abgase gespritzt. Erkenne dieser Software hingegen, dass das Auto sich im Normalbetrieb befinde, werde die zugeführte Harnstoffmenge reduziert mit der Folge, dass die gesetzlich vorgeschriebenen Grenzwerte überschritten würden.Ferner werde die Abgasrückführung zusätzlich bei Temperaturen unter 17° und über 30° stark reduziert, so dass die Abgase unaufbereitet vom Fahrzeug ausgestoßen würden. Nur innerhalb dieses Temperaturfensters, also innerhalb des Temperaturbereichs, welcher bei der Abgasmessung auf dem Prüfstand maßgeblich sei, sei die Abgasreinigung zu 100 % aktiv (sog. Thermofenster).Schließlich sei in seinem Fahrzeug eine sogenannten Fahrkurve verbaut, wodurch ebenfalls das Emissionskontrollsystem ausgeschaltet werde. Diese Fahrkurve sei erst im Rahmen eines Software-Updates am 20.03.2020 entfernt wordenDer Kläger hat die Ansicht vertreten, alleine der Umstand, dass das KBA Fahrzeuge mit dem Motor EA 288 nicht verpflichtend zurückgerufen habe, indiziere nicht, dass in dem Fahrzeuge keine unzulässige Abschalteinrichtung verbaut sei. Tatsächlich sei bereits im September 2019 in der Tagesschau berichtet worden, dass der Motor EA 288 über eine unzulässige Abschalteinrichtung verfüge. Zudem sei auch ein anderes Fahrzeug, in welchem ein Motor des Typs EA 288 verbaut sei, nämlich das Modell VW T6, vom KBA am 17.04.2019 zurückgerufen worden.Damit verfüge seine Fahrzeug nicht über die erforderliche Betriebserlaubnis.Die Beklagte ist dem Vorbringen des Klägers entgegengetreten und hat vorgetragen, der Kläger habe bereits ausreichende Anhaltspunkte für den angeblichen Einsatz einer Lenkwinkelerkennung und einer angeblichen Umschaltung in verschiedene Modi der Abgasreinigung nicht dargelegt. Allein der Umstand, dass das Fahrzeug in bestimmten Situationen erkenne, dass es sich auf den Prüfstand befinde, sei nicht gesetzeswidrig. So müssten z.B. die elektronische Stabilitätskontrolle und die Airbags auf dem Prüfstand deaktiviert werden.Tatsächlich arbeite das Emissionskontrollsystem des streitgegenständlichen Fahrzeugs sowohl auf der Straße als auch auf den Prüfmodus bei voller Funktionsfähigkeit aller Bauteile mit identischer Wirksamkeit.So erfolge die Abgasrückführung konstant und gleichbleibend bei Temperaturen zwischen -24° und 70°. Nur außerhalb dieses Temperaturbereichs erfolge in Abhängigkeit zur Umgebungstemperatur aus Motorschutzgründen und zum sicheren Betrieb des Fahrzeugs keine Abgasrückführung. Dies sei nach Art. 5 Abs. 2 S. 2 VO (EG) Nr. 715/2007 erlaubt.Auch die Ad-Blue Dosierung arbeite gleichbleibend und unabhängig von Prüfzyklen.Dem Kraftfahrtbundesamt (KBA) sei dieses System im Rahmen der Prüfung des Motors erläutert und von diesem sowie dem BMVI (Bundesministerium für Verkehr und digitale Infrastruktur) ausdrücklich gebilligt worden. Insbesondere habe das KBA anlässlich eines Auskunftsersuchens des Landgerichts Bielefeld durch Schreiben vom 16.03.2020 mitgeteilt, dass nach wie vor bei dem Motortyp TA 288 eine unzulässige Abschalteinrichtung nicht festgestellt worden sei.Soweit der Kläger sich auf den Rückruf eines Modells VW T6 berufe, habe dies mit dem vorliegenden Fall nichts zu tun. Denn unstreitig sei sein eigenes Fahrzeug, nämlich ein Skoda Kodiaq, von dem Rückruf nicht betroffen.Wegen des Vorbringens der Parteien im Übrigen wird gemäß § 540 ZPO Bezug genommen auf die Darstellungen in dem angefochtenen Urteil. Durch dieses Urteil vom 11.08.2020 hat das Landgericht die Klage abgewiesen. Wegen der Begründung wird Bezug genommen auf die Ausführungen in dem angefochtenen Urteil.Gegen dieses Urteil wendet sich der Kläger mit seiner Berufung.Hierzu trägt er unter Bezugnahme auf seinen erstinstanzlichen Sachvortrag vor, das Landgericht habe seine Substantiierungslast verkannt. Er habe detailliert zu dem im streitgegenständlichen Fahrzeug verbauten Motortyp vorgetragen und greifbare Anhaltspunkte aufgezeigt, die auf das Vorhandensein unzulässiger Abschalteinrichtungen schließen lassen.Zudem habe die Beklagte den Einsatz eines Thermofensters gegenüber dem KBA nicht offengelegt.Im Rahmen der von den Kaufpreis abzuziehenden Nutzungsentschädigung sei von einer Gesamtlaufleistung des Motors von 300.000 km auszugehen. Demzufolge belaufe sich die ihm anzurechnendes Nutzungsentschädigung auf 6264,83 €.Der Kläger beantragt,unter Abänderung des Urteils des Landgerichts Mönchengladbach, Az. 3 O 533/19, verkündet am 11.08.2020 und zugestellt am 11.08.2020 zu erkennen:1. Die Beklagte wird verurteilt, an ihn 42.425 € nebst Zinsen i.H.v. fünf Prozentpunkten über dem Basiszinssatz seit dem 27.11.2019 23.480 € zu zahlen, abzüglich einer Nutzungsentschädigung i.H.v. 6264,83 €, Zugum-Zug gegen Rückgabe und Übereignung des Fahrzeugs mit der Fahrgestellnummer ... zu zahlen.2. Es wird festgestellt, dass sich die Beklagte seit dem 27.11.2019 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befindet.3. Die Beklagte wird verurteilt, die Kosten der außergerichtlichen Rechtsverfolgung i.H.v. 2613,24 € nebst Zinsen i.H.v. 5 Prozentpunkten über dem Basiszinssatz seit dem 27.11.2019 zu zahlen.Hilfsweise:Das Urteil des Landgerichts Mönchengladbach, Az. 3 O 533/19, verkündet am 11.08.2020 und zugestellt am 11.08.2020 wird aufgehoben und zur erneuten Verhandlung an das Landgericht zurückverwiesen.Die Beklagte beantragt,die Berufung zurückzuweisen.Die Beklagte meint, nach wie vor trage der Kläger Anknüpfungstatsachen, die seine Behauptung rechtfertigen könnten, der streitgegenständliche Motortyp EA- 288 enthalte eine unzulässige Abschalteinrichtung, nicht vor. Entgegen dem Vortrag des Klägers enthielten die EA-288-Fahrzeuge keine mit dem EA-189-Motor vergleichbare unzulässige Abschalteinrichtung. Bei der Fahrkurve handelt sich zwar um eine Funktion, die erkenne, ob das Fahrzeug einen gesetzlich vorgeschriebenen Prüfzyklus durchfahre. Die Fahrkurve sei jedoch ein bloßes Erkennungsinstrument. Eine unzulässige Abschalteinrichtung liege nur dann vor, wenn diese dazu genutzt werde, die Funktion eines beliebigen Teils des Emissionskontrollsystems zu verändern und hierdurch die Emissionen zu verringern. Dies sei bei der Fahrkurve aus den von ihr bereits aufgeführten Gründen nicht der Fall. Unabhängig davon sei diese ab der 22. Kalenderwoche des Jahres 2016 nicht mehr eingebaut und mittels eines Software-Updates aus den Vorgängermodellen entfernt worden. Unzutreffend sei, dass die Ad-Blue- Dosierung auf dem Prüfstand höher sei als im Normalbetrieb. Auch das Thermofenster erfülle nicht die tatbestandlichen Voraussetzungen einer Abschalteinrichtung. Der Motor EA-288 sei zu keinem Zeitpunkt von einer Rückrufaktion betroffen gewesen, weder im Fahrzeug des Klägers, noch in einem anderen Fahrzeugtyp. Vielmehr habe das KBA den Motor eingehend untersucht, ohne dass eine als unzulässig einzustufende Abschalteinrichtung hinsichtlich des Emissionsverhaltens vorgefunden worden sei.II .Die gemäß §§ 511, 517 ff. ZPO zulässige Berufung des Klägers ist nicht begründet.Dem Kläger steht ein Anspruch auf Schadensersatz aus unerlaubter Handlung bzw. aus dem Gesichtspunkt der vorsätzlichen sittenwidrigen Schädigung gegen die Beklagte nicht zu. Vielmehr folgt der Senat der Rechtsauffassung des Landgerichts, wonach der Kläger bereits das Vorhandensein einer unzulässigen Abschalteinrichtung in dem in seinem Fahrzeug verbauten Motortyp EA-288 nicht schlüssig vorgetragen hat.Zwar hat der Bundesgerichtshof in einem Hinweisbeschluss vom 28.01.2020, Az. VIII ZR 57/19, betreffend ein Fahrzeug der Daimler AG darauf hingewiesen, dass die Anforderungen an die Substantiierung des Sachvortrages im Hinblick auf das Vorliegen einer illegalen Abschalteinrichtung nicht überspannt werden dürfen und eine Partei grundsätzlich Aufklärung auch hinsichtlich solcher Umstände verlangen kann, die sie mangels Sachkunde und Einblick in den Produktionsprozess des Fahrzeugherstellers nur vermuten kann. Gleichzeitig hat der Bundesgerichtshof aber auch darauf hingewiesen, dass eine unzulässige Behauptung ins Blaue dann vorliegt, wenn es keinerlei greifbare Anhaltspunkte gibt, die für deren Richtigkeit sprechen. In dem zitierten Fall hat der Bundesgerichtshof den Vortrag der dortigen Klagepartei deshalb für ausreichend erachtet, weil dieser vorgetragen hatte, es sei bei diesem Motortyp bereits zur Einleitung von staatsanwaltschaftlichen Ermittlungen gekommen und bei mehreren Fahrzeugtypen, die mit diesem Motor ausgestattet gewesen seien, zu verpflichtenden Rückrufaktionen. In anderen Fällen hat der Bundesgerichtshof indessen Entscheidungen von Oberlandesgerichten, die Klagen ohne die weiteren genannten Anhaltspunkte wegen fehlender Substantiierung abgewiesen hatten, bestätigt (BGH, Beschlüsse vom 10.03.2020, Az. VI ZR 417/19 und VI ZR 514/19).Im vorliegenden Fall hat der Kläger greifbare Anhaltspunkte, nach denen davon ausgegangen werden könnte, dass der hier streitgegenständliche Motor mit einer unzulässigen Abschalteinrichtung ausgestattet ist, wie dies bei den Motoren EA 189 der Fall war, weder vorgetragen, noch sind diese sonst ersichtlich.Vielmehr wurde der in dem Wagen des Klägers verbaute Motor des Typs EA 288 mehrfach auf das Vorliegen unzulässiger Abschalteinrichtungen untersucht, ohne dass sich hierbei entsprechende Manipulationen hätten feststellen lassen. Bereits in dem ersten Bericht der Untersuchungskommission "Volkswagen" des BMVI April 2016 wird auf Seite 12 ausgeführt, dass sich Hinweise, die aktuell laufende Produktion der Fahrzeuge mit Motoren der Baureihe EA 288 seien ebenfalls von Abgasmanipulationen betroffen, als unbegründet erwiesen hätten (abrufbar unter https://www.kba.de/DE/Marktueberwachung/Abgasthematik/erster_ber_uk_vw_nox.pdf;jsessionid=1F0363F268697AD4410B779322D5A6D3.live21322?__blob=publicationFile&v=4). Gleichen Inhalts ist auch die Freigabe-Bestätigung des KBA vom 19.11.2018 zum Rückrufcode 23Z7, in welcher als Ergebnis ebenfalls festgestellt wird, dass unzulässige Abschalteinrichtungen bei dem streitgegenständlichen Motor nicht festgestellt werden konnten , sondern Grund für das Update lediglich eine Konformitätsabweichung war. Ferner enthalten auch die aktuellen, auf der Homepage des KBA veröffentlichten Rückrufe keine Anhaltspunkte für eine Betroffenheit dieses Motors. Schließlich hat die Beklagte anlässlich der mündlichen Verhandlung am 16.04.2021 nochmals eine vom 15.12.2020 datierende Bescheinigung des KBA vorgelegt, in welcher auf sehr umfassende Untersuchung an Fahrzeugen mit Motoren der Reihe des EA 288 verwiesen wird sowie darauf, dass in keinem Fahrzeug, welches ein Aggregat des EA 288 aufweist, eine unzulässige Abschalteinrichtung festgestellt wurde.Soweit der Kläger demgegenüber unter Bezugnahme auf konkrete Ausgestaltungen des Motors gleichwohl das Vorliegen einer unzulässigen Abschalteinrichtung behauptet und hieraus seine Ansprüche aus unerlaubter Handlung gegen die Beklagte stützen will, vermag er hiermit nicht durchzudringen.Soweit der Kläger sich auf die Verwendung eines sog. Thermofensters stützt, ist bereits das Vorliegen einer unzulässigen Abschalteinrichtung zweifelhaft. Eine unzulässige Abschalteinrichtung durch die Verwendung eines solchen Thermofensters ist bereits deshalb nicht ohne weiteres erkennbar, weil hierdurch zwar die Abgasrückführung temperaturabhängig stärker oder weniger stark aktiviert wird. Diese Vorgänge entstehen jedoch im normalen Fahrbetrieb in gleicher Weise wie auf dem Prüfstand mit der Folge, dass die Verwendung eines Thermofensters nicht auf eine Überlistung der Prüfsituation ausgelegt ist.Selbst wenn aber der Einsatz eines Thermofensters als unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2 der VO 715/2007/EG zu qualifizieren wäre, so wäre doch der objektive Tatbestand der Sittenwidrigkeit nur dann gegeben, wenn weitere, als besonders verwerflich zu qualifizierende Umstände hinzutreten würden, die den Vorwurf der Sittenwidrigkeit gegenüber der Beklagten rechtfertigen. Die Beklagte hätte daher bei der Entwicklung und/oder Verwendung des Emissionkontrollsystems in dem Bewusstsein handeln müssen, eine unzulässige Abschalteinrichtung zu verwenden und diesen Gesetzesverstoß billigend in Kauf nehmen müssen (BGH Urteil vom 26.01.20121, Az. VI ZR 433/19; Urteil 09.03.2021, Az. VI ZR 889/20). Dies ist der von dem Kläger weder konkret dargetan noch in sonstiger Weise ersichtlich.Gerichtsbekannt wird ein solches Thermofenster von nahezu allen Herstellern standardmäßig in Dieselmotoren verwendet. Die Verwendung solcher Thermofenster war in der Vergangenheit von den Zulassungsbehörden anerkannt und wurde im Hinblick auf den Bauteileschutz auch als gerechtfertigt angesehen.Gegen die Annahme eines evidenten Rechtsverstoßes spricht insbesondere, dass selbst das BMVI und das KBA in der Vergangenheit von der Zulässigkeit eines solchen Thermofensters ausgingen. So ist im bereits zitierten Abschlussbericht der Untersuchungskommission "Volkswagen" ausgeführt, dass unter Berufung auf den Motorschutz die Verwendung von Abschalteinrichtungen letztlich stets dann gerechtfertigt sei, wenn von Seiten des Fahrzeugherstellers nachvollziehbar dargestellt werde, dass ohne die Verwendung einer solchen Einrichtung dem Motor Schaden drohe, sei dieser auch noch so klein (Bericht der Untersuchungskommission Volkswagen, Stand April 2016, Seite 123). Selbst wenn daher im Ergebnis doch ein Gesetzesverstoß zu bejahen sein sollte, so konnte doch dem Kfz-Hersteller keine andere rechtliche Bewertung verlangt werden, wenn von behördlicher Seite ein gesetzeskonformes Verhalten attestiert wurde.Unabhängig davon ist aber auch entscheidend, dass die Genehmigung seitens des Kraftfahrtbundesamtes die Billigung dieses Thermofensters enthält mit der Folge, dass eine Stilllegung des Fahrzeugs weder zu erwarten ist noch droht, mit der Folge, dass es gleichermaßen an einem Schaden fehlt (wohl allgemeine Meinung, vergleiche OLG Frankfurt/Main, Urteil vom 07.11.2019, Az. 6 U 119 / 18; OLG Dresden, Urteil vom 16.07.2019, Az. 9 U 567/19; OLG Schleswig, Urteil vom 18.09.2019, Az. 12 U 123/18; OLG Koblenz, Urteil vom 21.10.2019, Az. 12 U 246/19; OLG Köln Urteil vom 05.06.2020, Az. 19 U 211/19; OLG Schleswig, Urteil vom 18.12.2019, Az. 7 U 511/18).Auch im Hinblick auf die übrigen behaupteten angeblichen vorhandenen unzulässigen Abschalteinrichtungen sind keine greifbaren Anhaltspunkte vorgetragen oder ersichtlich, nach denen davon ausgegangen werden könnte, der hier streitgegenständliche Motor sei mit einer unzulässigen Abschalteinrichtung ausgestattet. Gleichermaßen fehlt es an hinreichend substantiierten Sachvortrag zu gesetzeswidrigem und arglistigem Verhalten der Beklagten.In Bezug auf die Fahrkurvenerkennung ist zwar unstreitig, dass das streitgegenständliche Fahrzeug ursprünglich mit einer solchen ausgestattet war, die von der Beklagten nachträglich beseitigt wurde. Dies rechtfertigt aber nicht den von dem Kläger gezogenen Schluss, dass das Fahrzeug zunächst und damit zum Zeitpunkt des Rollprüfstandtests zwecks Erlangung der EG-Typengenehmigung im Motorsteuergerät mit einer unzulässigen Abschalteinrichtung ausgestattet gewesen ist. Die Beklagte hat detailliert dazu vorgetragen, aus welchen Gründen eine solche Fahrkurve implementiert wurde, nämlich zu dem Zweck, eine Fehlinterpretation der Werte auf dem Prüfstand zu vermeiden. Bewegten sich nämlich etwa die Räder, nicht aber das Fahrzeug, könne es sein, dass die Fahrzeugelektronik etwa annehme, es läge eine Kollision vor. Demzufolge habe diese Funktion nicht den Zweck gehabt, einen Teil des Emissionskontrollsystems grenzwertkausal zu manipulieren. Weder hiermit noch mit dem Umstand, dass das KBA bereits 2016 nach umfangreichen eigenen Untersuchungen sowie hierauf bezugnehmend das BMVI eine unzulässige Fahrzykluserkennung nicht feststellen konnte, setzt sich der Kläger auseinander.Auch die Behauptungen des Klägers zu einer angeblich erhöhten Dosiermenge an AdBlue bleiben im spekulativen Bereich. Ferner gilt aber auch hier, dass die AdBlue- Dosierung trotz der erfolgten Prüfungen weder durch das KBA noch durch das BMVI beanstandet wurden und nicht von einschlägigen Rückrufaktionen betroffen war. Dies spricht dagegen, dass aufgrund einer Rechtswidrigkeit der erteilten Typengenehmigung Beschränkungen drohen.Soweit der Kläger seinen Verdacht auf das Vorhandensein einer unzulässigen Abschalteinrichtung schließlich damit begründet, der Schadstoffausstoß seines Motors liege im realen Fahrbetrieb deutlich höher als auf dem Prüfstand, beschäftigen sich die von ihm angeführten Untersuchungen allein mit dem Vorgängermodell EA-189. Soweit es indessen um den bei ihm verbauten Typ EA 288 geht, legt er bereits belastbares Material nicht vor. Von daher kommt es nicht mehr entscheidend darauf an, dass der Schadstoffausstoß im konkreten Einzelfall wesentlich von dem Fahrverhalten des Fahrers sowie den herrschenden Fahrbedingungen abhängt.Auf die vorstehenden Gesichtspunkte hat der Senat anlässlich der mündlichen Verhandlung am 16.04.2021 nochmals hingewiesen, ohne dass der Kläger insoweit ergänzende Ausführungen gemacht hätte.Fehlt es damit sowohl an schlüssigem Sachvortrag zu dem Vorliegen einer unzulässigen Abschalteinrichtung als auch zu hinreichendem Vortrag zu arglistigem oder vorsätzlich widerrechtlichem Handeln der Beklagten, ist die Entscheidung des Landgerichts unter keinem rechtlichen oder tatsächlichen Gesichtspunkt zu beanstanden.III.Die Kostenentscheidung beruht auf 97 Abs. 1 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit aus den §§ 708 Nr. 10, 711 ZPO.Die Voraussetzungen gemäß § 543 Abs. 2 ZPO für die Zulassung der Revision liegen nicht vor.
+			
+			
+			
+			Permalink: https://openjur.de/u/2395851.html (https://oj.is/2395851)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG MünchenRechtsprechungEndurteil vom 21.10.2021 - 24 U 162/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG München, Endurteil vom 21.10.2021 - 24 U 162/21
+                      m. Fundstelle
+                      OLG München, Endurteil vom 21.10.2021 - 24 U 162/21 = openJur 2022, 13700
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG München, Endurteil vom 21.10.2021 - 24 U 162/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 13700
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Berufung des Klägers gegen das Urteil des Landgerichts Memmingen vom 22.12.2020, Az. 34 O 1207/20, wird zurückgewiesen.2. Der Kläger hat die Kosten des Berufungsverfahrens zu tragen.3. Dieses Urteil und das in Ziffer 1 bezeichnete Urteil des Landgerichts Memmingen sind ohne Sicherheitsleistung vorläufig vollstreckbar.4. Die Revision wird nicht zugelassen.  
+				Gründe
+				(abgekürzt gem. §§ 540, 313 a Abs. 1 Satz 1 ZPO)I.Die Parteien streiten um Schadensersatzansprüche des Klägers aufgrund des Kaufs eines Fahrzeugs mit Dieselmotor.Der Kläger erwarb laut Auftragsbestätigung vom 16.09.2019 bei der Autohaus S. GmbH einen gebrauchten VW Golf BMT 1.6 TDI (Erstzulassung 07.08.2015) mit einer Laufleistung von 44.600 km zum Kaufpreis von 14.440 €. In dem Fahrzeug ist ein von der Beklagten hergestellter Motor der Baureihe EA 288 Schadstoffklasse Euro 6 mit NOx-Speicherkatalysator (NSK) verbaut. Das Fahrzeug unterliegt keinem behördlichen Rückruf des Kraftfahrt-Bundesamts. Es hatte am 29.09.2021 eine Laufleistung von 67.778 km.Der Kläger hat im Verfahren vor dem Landgericht Memmingen zunächst geltend gemacht, der Motor des Fahrzeugs sei mit einer unzulässigen Abschalteinrichtung versehen, die den NOx-Ausstoß in folgender Weise manipuliere:- Es liege eine temperaturgesteuerte Abschalteinrichtung vor, die die Abgasrückführung in Abhängigkeit von der Außentemperatur reduziere ("Thermofenster").- Die Zuführung von Harnstofflösung (AdBlue) in den SCR-Katalysator werde durch das Thermofenster reduziert oder ganz ausgesetzt, wenn sich das Fahrzeug nicht auf dem Prüfstand befinde.- Eine Motorsteuerungssoftware schalte den SCR-Katalysator ab einer bestimmten Motordrehzahl ab.Mit Schriftsatz vom 24.11.2020 hat der Kläger weiter vorgetragen, aus den Applikationsrichtlinien der Beklagten vom 18.11.2015 (Anlage B7) ergebe sich, dass der NSK des Fahrzeugs so bedatet sei, dass die Abgasnachbehandlungsevents im NEFZ nur streckengesteuert platziert seien, während sie im Fahrbetrieb auf der Straße strecken- und beladungsgesteuert erfolgten. Auch dies stelle eine unzulässige Abschalteinrichtung dar.Er hat die Beklagte im erstinstanzlichen Verfahren auf Zahlung von 14.168,61 € Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs in Anspruch genommen. Das Landgericht hat seine Klage mit dem angegriffenen Urteil vom 22.12.2020 abgewiesen. Wegen der tatsächlichen Feststellungen des Erstgerichts, der erstinstanzlich gestellten Anträge und des Inhalts der angefochtenen Entscheidung im Einzelnen nimmt der Senat gemäß § 540 Abs. 1 ZPO auf das Ersturteil Bezug.Mit seiner Berufung verfolgt der Kläger sein Klagebegehren aus dem erstinstanzlichen Verfahren im Wesentlichen weiter. Er stellt folgende Anträge:1. Die Beklagte wird verurteilt, an die Klägerschaft 13.833,62 € nebst Zinsen hieraus in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs VW Golf 1.6 TDI mit der Fahrzeug-Identifizierungsnummer ....2. Es wird festgestellt, dass sich die Beklagte mit der Entgegennahme des im Klageantrag zu Ziffer 1. genannten Fahrzeugs in Annahmeverzug befindet.3. Die Beklagte wird verurteilt, die Klägerschaft von vorgerichtlichen Kosten für die Rechtsverfolgung in Höhe von 1.957,55 € freizustellen.Die Beklagte beantragt,die Berufung zurückzuweisen.In einem Schriftsatz vom 28.09.2021, der drei Tage vor dem Termin zur Berufungsverhandlung (01.10.2021) bei Gericht einging, trägt der Kläger u.a. vor, eine in seinem Fahrzeug vorhandene Fahrkurvenerkennung manipuliere den NSK in unzulässiger Weise. Er beruft sich insoweit auf Präsentationsunterlagen, die die Beklagte für ein Gespräch mit Mitarbeitern des Kraftfahrt-Bundesamts am 02.10.2015 erstellt hat und die Applikationsrichtlinien, die zwischen streckenabhängigen Regenerationen des NSK im NEFZ einerseits und strecken- und belastungsunabhängigen Regenerationen im Straßenverkehr andererseits unterschieden. Er trägt in diesem Schriftsatz ferner erstmals vor, dass bei Außentemperaturen unter 15° Celsius und/oder Drehzahlen oberhalb von 2.800 Umdrehungen pro Minute die Regeneration des NSK vollständig eingestellt werde. Er beruft sich insoweit auf einen Zwischenbericht des Herrn M. H. vom 29.07.2021. Ferner trägt der Kläger im Schriftsatz vom 28.09.2021 erstmals zu einer aus seiner Sicht unzulässigen Manipulation des Onboard-Diagnose-Systems (OBD) vor.Der Senat hat mit den Parteien am 01.10.2021 mündlich verhandelt; Beweise wurden nicht erhoben. Der Beklagtenvertreter hat in der mündlichen Verhandlung das Vorbringen im Schriftsatz vom 28.09.2021 als verspätet gerügt und bestritten, dass die Regeneration des NSK bei Außentemperaturen unter 15° Celsius und/oder Drehzahlen oberhalb von 2.800 Umdrehungen pro Minute vollständig eingestellt werde.Wegen der Einzelheiten wird im Übrigen auf den Akteninhalt, insbesondere die gewechselten Schriftsätze nebst Anlagen und das Sitzungsprotokoll vom 01.10.2021 (Bl. 311/313 d.A.) Bezug genommen.II.Die zulässige Berufung des Klägers ist unbegründet.1. Das Landgericht hat die Klage mit dem angegriffenen Urteil zurecht abgewiesen. Der Kläger hat im Verfahren vor dem Landgericht nicht substantiiert dargelegt, dass im streitgegenständlichen Fahrzeug eine unzulässige Abschalteinrichtung zum Einsatz kommt.a) Einen Anspruch des Klägers aus § 826 BGB (vorsätzliche sittenwidrige Schädigung) hat das Landgericht zu Recht verneint:aa) Nach der Rechtsprechung des Bundesgerichtshofs (Beschlüsse vom 19.01.2021 - VI ZR 433/19 ‒ juris Rn. 13 bis 19 und vom 09.03.2021 - VI ZR 889/20 ‒ juris Rn. 27 f.) wäre Voraussetzung für einen Anspruch des Klägers aus § 826 BGB, dass die Beklagte in Fahrzeugen des vom Kläger erworbenen Typs eine unzulässige Abschalteinrichtung verbaut und diesen Umstand dem KBA als für die Typgenehmigung zuständiger Behörde verschwiegen hat, um sich die begehrte Typgenehmigung zu erschleichen. Selbst wenn die Beklagte also in den Motor des streitgegenständlichen Fahrzeugs eine nach Art. 3 Nr. 10, Art. 5 Abs. 2 VO (EG) 715/2007 unzulässige Abschalteinrichtung eingebaut haben sollte, genügte dies nicht dafür, dass die Voraussetzungen eines Anspruchs aus § 826 BGB bestehen. Das Verhalten der für einen Kraftfahrzeughersteller handelnden Personen ist nicht bereits deshalb als sittenwidrig zu qualifizieren, weil sie einen Fahrzeugtyp aufgrund einer grundlegenden unternehmerischen Entscheidung mit einer temperaturabhängigen Steuerung des Emissionskontrollsystems ("Thermofenster") ausgestattet und in den Verkehr gebracht haben. Dies gilt auch dann, wenn mit der Entwicklung und dem Einsatz dieser Steuerung eine Kostensenkung und die Erzielung von Gewinn erstrebt war. Der Vorwurf der Sittenwidrigkeit wäre nur gerechtfertigt, wenn weitere Umstände hinzuträten, die das Verhalten der handelnden Personen als besonders verwerflich erscheinen ließen. Die Annahme objektiver Sittenwidrigkeit setzt jedenfalls voraus, dass die handelnden Personen bei der Entwicklung und/oder Verwendung der temperaturabhängigen Steuerung des Emissionskontrollsystems in dem Bewusstsein handelten, eine unzulässige Abschalteinrichtung zu verwenden, und den darin liegenden Gesetzesverstoß billigend in Kauf nahmen. Für diese Voraussetzung trägt nach den allgemeinen Grundsätzen der Kläger als Anspruchsteller die Beweislast.bb) Der Kläger hat im Verfahren vor dem Landgericht eine Manipulation der Abgasreinigung in dreifacher Hinsicht geltend gemacht. Der Motor sei mit einer Abschalteinrichtung versehen, die den SCR-Katalysator manipuliere. Der Motor verfüge über eine "Zykluserkennung/ Fahrkurvenerkennung", welche hinsichtlich der Regeneration des NSK zwischen einer Strategie 1 (Prüfstand, streckengesteuert) und einer Strategie 2 (Straßenverkehr, strecken- und beladungsgesteuert) differenziere. Außerdem bestehe ein sogenanntes "Thermofenster". Diese Behauptungen belegen keine objektive Sittenwidrigkeit im dargelegten Sinne:(1) Die Behauptungen zu einer angeblichen Manipulation des SCR-Katalysators gehen ins Leere, weil das Fahrzeug des Klägers nicht mit einem SCR-Katalysator ausgestattet ist. Dies ergibt sich aus dem zutreffenden Vorbringen der Beklagten, das durch die Ergebnisse des Berichts der Untersuchungskommission "Volkswagen" (Anlage B1, dort Seite 61) bestätigt wird. Der Kläger hat sein Vorbringen zu angeblichen Manipulationen des SCR-Katalysators in der Berufungsinstanz nicht aufrechterhalten.(2) Die Behauptung des Klägers, in Motoren der Baureihe EA 288 sei eine "Zykluserkennung" wie bei der Baureihe EA 189 hinterlegt, ist keineswegs unstreitig. Die Beklagte hat vielmehr bestritten, dass im streitgegenständlichen Fahrzeug eine Fahrkurven-/Zykluserkennung zum Einsatz komme, die in unzulässigerweise Einfluss auf die abgasbehandelnden Bauteile nehme. Der Kläger beruft sich für seine Behauptung auf Auszüge aus der internen "Entscheidungsvorlage: Applikationsrichtlinien & Freigabevorgaben EA 288" der Beklagten vom 18.11.2015 (siehe Anlage K5). Aus der vom Kläger nicht zitierten Seite 2 der Applikationsrichtlinien (siehe Anlage B7) ergibt sich allerdings, dass die "angehängten Unterlagen zu Applikationsrichtlinien für Serien- und Neuprojekte EA 288 sowie Freigabevorgaben für EA 288 Projekte [...] inhaltlich mit den Zulassungsbehörden (KBA) und dem Rechtswesen vereinbart" sind. Für eine bewusste Täuschung des Kraftfahrt-Bundesamts über Abschalteinrichtungen (Zyklus-/Fahrkurvenerkennung) zu diesem Zeitpunkt - nach Bekanntwerden des den Motortyp EA 189 betreffenden Abgasskandals im September 2015 - ergibt sich aus der Entscheidungsvorlage nichts. Auch der Umstand, dass am 02.10.2015 ein Gespräch zwischen Mitarbeitern des Kraftfahrt-Bundesamts und der Beklagten über die "Umschaltstrategie EA 288 Eu6 NSK erfolgte, spricht nicht für eine Täuschung des Kraftfahrt-Bundesamts, sondern dagegen. Der Senat vermag insoweit keine Umstimmigkeiten hinsichtlich der vorgelegten Unterlagen (Besprechungsunterlagen und Applikationsrichtlinie) einerseits und dem Prozessvorbringen der Beklagten andererseits zu erkennen.(3) Soweit der Kläger vorbringt, es stelle eine unzulässige Abschalteinrichtung dar, dass die Regeneration des NSK auf dem Prüfstand zeitgesteuert, im realen Fahrbetrieb demgegenüber beladungs- bzw. streckengesteuert erfolge, ergibt sich aus den Applikationsrichtlinien (Anlage B7, Seite 4), dass dieses Vorgehen mit dem Kraft-Bundesamt abgestimmt war. Für eine sittenwidrige Erschleichung der Betriebserlaubnis bestehen auch insoweit keine Anhaltspunkte.Außerdem handelt es sich bei dieser Strategie aus Sicht des Senats nicht um eine unzulässige Abschalteinrichtung. Durch die im NEFZ vorgegebene streckengesteuerte Platzierung von Abgasnachbehandlungsevents soll sichergestellt werden, dass während der zeitlich begrenzten Testphase nicht mehr Abgasnachbehandlungsevents eintreten, als im Durchschnitt des späteren Dauerbetriebs. Eine unzulässige Abgasmanipulation ist hierin nicht zu sehen. Zumindest kann der Beklagten nicht zum Vorwurf gemacht werden, sie habe hierdurch "in sittenwidriger Weise" den Abgasausstoß manipuliert.(4) Auch bezüglich des beanstandeten "Thermofensters" fehlt es an ausreichendem Vortrag zu einem sittenwidrigen Verhalten der Beklagten. Wie bereits ausgeführt wurde, ist nach der Rechtsprechung des Bundesgerichtshofs (Beschluss vom 19.01.2021 ‒ VI ZR 433/19 ‒ juris) das Verhalten der für einen Kraftfahrzeugsteller handelnden Personen nicht bereits deshalb als sittenwidrig zu qualifizieren, weil sie einen Fahrzeugtyp aufgrund einer unternehmerischen Entscheidung mit einer temperaturabhängigen Steuerung des Emissionskontrollsystems (Thermofenster) ausgestattet und in den Verkehr gebracht haben (vgl. hierzu zuletzt auch den VII. Zivilsenat des Bundesgerichtshofs, Pressemitteilung 173/2021). Weitere hinzutretende Umstände, die das Verhalten der handelnden Personen als besonders verwerflich erscheinen lassen, sind nicht ersichtlich. Insbesondere bestehen keine Anhaltspunkte dafür, dass die Beklagte das Kraftfahrt-Bundesamt im Typgenehmigungsverfahren über bestimmte Tatsachen im Zusammenhang mit dem "Thermofenster" getäuscht haben könnte. Dagegen spricht, dass dem Kraftfahrt-Bundesamt (wie dem Senat in mehreren KBA-Anfragen im Zuge der Bearbeitung von "Dieselverfahren" bestätigt wurde) bekannt war, dass Dieselmotoren mit einer "außenlufttemperaturgeführten Korrektur der Abgasrückführungs-Rate" versehen sind, und es dementsprechend Prüfungen hierzu durchführt.b) Das Landgericht hat zutreffend auch einen Anspruch aus § 823 Abs. 2 BGB i.V.m. § 263 StGb verneint. Insoweit fehlt es zum einen an einer Täuschungshandlung und zum anderen an der erforderlichen Stoffgleichheit zwischen dem behaupteten Vermögensschadenschaden und dem von der Beklagten vermeintlich erstrebten Vermögensvorteil (BGH Urteil vom 30.07.2020 - VI ZR 5/20 - juris. c) Einen Schadensersatzanspruch nach § 823 Abs. 2 BGB i. V. m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV oder i. V. m. Bestimmungen der VO (EG) 715/2007 hat das Landgericht ebenfalls zutreffend verneint. Wie der Bundesgerichtshof in seinen Urteilen vom 25.05.2020 (VI ZR 252/19 ‒ juris Rn. 76) und vom 30.07.2020 (VI ZR 5/20 ‒ Rn. 11) ausgeführt hat, liegt das Interesse, nicht zur Eingehung einer ungewollten Verbindlichkeit veranlasst zu werden, weder im Aufgabenbereich der §§ 6 I, 27 I EG-FGV noch des Art. 5 VO (EG) 715/2007. Sie stellen damit keine Schutzgesetze i. S. v. § 823 Abs. 2 BGB dar.2. Das neue Vorbringen des Klägers in der Berufungsinstanz ist nicht geeignet, der Berufung zum Erfolg zu verhelfen.a) Der Kläger dringt mit der erstmals im Schriftsatz vom 28.09.2021 aufgestellten Behauptung, bei Außentemperaturen unter 15° Celsius und/oder Drehzahlen oberhalb von 2.800 Umdrehungen pro Minute werde die Regeneration des NSK vollständig eingestellt, nicht durch:aa) Es handelt sich hierbei um neuen Tatsachenvortrag der unter Verletzung der Frist des § 132 Abs. 1 ZPO und ohne Entschuldigung verspätet vorgebracht wurde. Die Beklagtenseite hat das Vorbringen in der Berufungsverhandlung bestritten. Dementsprechend ist es als verspätet zurückzuweisen.bb) Davon unabhängig ist das verspätete Vorbringen auch unsubstantiiert. Der Kläger stützt seine Behauptung auf einen "Zwischenbericht" des Herrn M. H. vom 29.07.2021, der sich auf die Auswertung der Motorsteuerungssoftware bestimmter EA 288-Motoren stützt, die in den Jahren 2013 und 2014 gebaut wurden. Ob das Fahrzeug des Klägers (Erstzulassung 07.08.2015) hiervon betroffen ist, ist nicht erkennbar. Im Bericht wird ferner ausgeführt, dass lediglich eine Untersuchung der Software (Bedatung von Kennfeldern) erfolgte. Ob und wie sich die Bedatungen auf die Funktion der abgasbehandelnden Bauteile auswirkt, wird im Zwischenbericht ausdrücklich offen gelassen. Der "Zwischenbericht" ist insoweit also ohne Aussagekraft. Soweit der Verfasser des Zwischenberichts vorschlägt, ein Praxistest könne in der Weise erfolgen, dass der NEFZ bei Außentemperaturen unterhalb 15 ° Celsius durchfahren werde, ist dem Bericht der Untersuchungskommission "Volkswagen" zu entnehmen, dass ein derartiger Test (NEFZ bei 10° Celsius Außentemperatur) von der Untersuchungskommission bereits durchgeführt wurde und keine auffälligen Ergebnisse erbrachte (Anlage B1, dort Seite 61). Dem Einwand des Klägers, der Test der Untersuchungskommssion sei nicht verwertbar, weil ein Neuwagen zum Einsatz kam, folgt der Senat nicht. Insbesondere ist nicht ersichtlich, dass die Untersuchungskommission bei ihren Tests der Regelung Nr. 83 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) unterworfen war.b) Auch der Vortrag bezüglich einer angeblichen Manipulation des OBD-Systems greift nicht durch. Es ist nicht ersichtlich, woraus sich eine Pflicht der Beklagten hätte ergeben sollen, das OBD-System so zu konfigurieren, dass es das Überschreiten bestimmter Abgaswerte im Straßenbetrieb anzeigt. Für die Zulassung waren damals für den Prüfstand normierte Grenzwerte maßgeblich.3. Gegen das behauptete Vorliegen einer unzulässigen Abschalteinrichtung und eine dahingehende sittenwidrige Erschleichung der Typgenehmigung spricht außerdem, dass das Kraftfahrt-Bundesamt in Gerichtsverfahren die amtliche Auskunft erteilte, bei Fahrzeugen mit dem Motortyp EA 288 seien keine unzulässigen Abschalteinrichtungen festgestellt worden (vgl. die Beispiele in den Beklagtenanlagen). Dem Senat ist aus seiner umfangreichen Befassung mit "Dieselklagen" keine KBA-Auskunft bekannt, in der eine unzulässige Abschalteinrichtung bei einem Motor der Baureihe EA 288 bestätigt wurde. Dies entspricht dem Ergebnis des Berichts der Untersuchungskommission "Volkswagen" (Anlage B1, dort Seite 12), wonach sich Hinweise, die aktuell laufende Produktion der Fahrzeuge mit Motoren der Baureihe EA 288 (Euro 6) seien von Abgasmanipulationen betroffen, auf der Grundlage der Untersuchung als unbegründet erwiesen haben.4. Das Fehlen eines Rückrufbescheids ist insbesondere auch hinsichtlich einer etwaigen Schadensfeststellung und der Feststellung eines etwaigen Schädigungsvorsatzes auf Seiten der Beklagten von Bedeutung. Der 15. Zivilsenat des Oberlandesgerichts München hat dazu in seinem Urteil vom 14.04.2021 (15 U 3584/20 ‒ juris Rn. 79-81), eine vergleichbare Fallkonstellation betreffend, aus Sicht des Senats im Kern zutreffend ausgeführt wie folgt:"Im Übrigen liegt auch kein Schaden vor. Diesen hat der BGH in den EA189-Verfahren maßgeblich auf die drohende Betriebsbeschränkung oder -untersagung aufgrund des KBA-Rückrufbescheids gestützt. Abgestellt wurde darauf, dass das Fahrzeug im Zeitpunkt des Erwerbs für die Zwecke des Käufers nicht voll brauchbar gewesen sei, weil es einen verdeckten Sachmangel aufgewiesen habe, der zu einer Betriebsbeschränkung oder -untersagung hätte führen können. Für einen solchen Sachmangel gibt es vorliegend jedoch gerade keine Anhaltspunkte. Wenn der Kläger behauptet, im Motor EA 288 sei eine unzulässige Abschalteinrichtung verbaut, welche die erteilte Genehmigung in Frage stelle (und welche offensichtlich nach der Vorstellung des Klägers vom KBA im Rahmen der Untersuchungen stets übersehen wurde), und hierzu Sachverständigenbeweis anbietet, übersieht er, dass das KBA die für einen eventuellen Rückruf des Fahrzeugs oder Widerruf der Typengenehmigung maßgebliche Behörde ist. Das (abstrakte) Risiko eines Widerrufs kann mit Null bezeichnet werden, wenn die zuständige Behörde nach (mehrfacher) tatsächlich durchgeführter, sorgfältiger Prüfung keine unzulässige Abschaltvorrichtung festzustellen vermag."Dies gilt auch im Fall des Klägers.5. Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO, der Anspruch zur vorläufigen Vollstreckbarkeit auf §§ 708 Nr. 10, 713 ZPO.6. Die Voraussetzungen für die Zulassung der Revision liegen nicht vor. Nach der Rechtsprechung des Bundesgerichtshofs (Beschluss vom 19.01.2021, Az. VI ZR 433/19, Rn. 16, 17; Pressemitteilung Nr. 126/2021 zu dem noch nicht veröffentlichten Urteil vom 13.07.2021, Az. VI ZR 128/20) kommt es bei Diesel-Fällen außerhalb des Motortyps EA 189 darauf an, ob die Klagepartei substantiiert behauptet hatte, dass die Beklagte im Typgenehmigungsverfahren unzutreffende Angaben über die Arbeitsweise des Abgasrückführungssystems gemacht hatte. Eine einheitliche Entscheidung zu einem bestimmten Motortyp ist demnach nicht geboten und auch gar nicht möglich, da die Entscheidung vom Vorliegen eines substantiierten Vortrags im Einzelfall abhängt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2441643.html (https://oj.is/2441643)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

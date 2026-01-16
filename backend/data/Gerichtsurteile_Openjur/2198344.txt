@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNiedersachsenOrdentliche GerichtsbarkeitOLG CelleRechtsprechungUrteil vom 18.12.2019 - 7 U 511/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Celle, Urteil vom 18.12.2019 - 7 U 511/18
+                      m. Fundstelle
+                      OLG Celle, Urteil vom 18.12.2019 - 7 U 511/18 = openJur 2020, 9578
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Celle, Urteil vom 18.12.2019 - 7 U 511/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 9578
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				1. Zur Annahme einer vertraglichen oder deliktischen Haftung des Fahrzeugherstellers reicht es nicht aus, aus Rückrufen des Kraftfahrtbundesamtes betreffend denselben, in anderen Fahrzeugmodellen eingebauten Motortyp zu schlussfolgern, es müsse auch im streitgegenständlichen Fahrzeug eine unzulässige Ab-schaltvorrichtung vorhanden sein, was wiederum nur darauf zurückgeführt werden könne, dass der Fahrzeughersteller im Zulassungsverfahren getäuscht und falsche oder unvollständige Angaben gemacht haben müsse (vgl. OLG Köln, Be-schl. v. 04.07.2019 – I-3 U 148/18 –, juris, Rn. 6; OLG Nürnberg, Urt. v. 19.07.2019 – 5 U 1670/18 –, juris, Rn. 34 ff.; Senatsurteil v. 13.11.2019 – 7 U 367/18 –, juris).2. Räumt der Fahrzeughersteller „Anpassungen an Betriebsbedingungen“ ein, wonach die Abgasreinigung von der Motorsteuerungs-Software „zum Zwecke des Bauteilschutzes“ unter bestimmten Betriebsbedingungen reduziert werde, kann dies allein nicht als Zugeständnis einer unzulässigen Abschalteinrichtung im Sinne von Artikel 5 Absatz 2 der Verordnung (EG) Nr. 715/2007 gewertet werden.3. Sieht die zuständige Behörde die Abschalteinrichtung in Form eines sog. „Thermofensters“ als zulässig an, sind die Fahrzeughalter nicht der Gefahr einer dro-henden Betriebsbeschränkung oder -untersagung ausgesetzt, so dass die Fahrzeuge diesbezüglich nicht mangelbehaftet sind. Somit sind sowohl vertragliche als auch deliktische Ansprüche gegen den Hersteller ausgeschlossen.4. Fehlt es schon an der schlüssigen Darlegung der vorsätzlichen Verwendung einer unzulässigen Abschalteinrichtung, kann es nicht dem beklagten Hersteller obliegen, sich in Befolgung einer sekundären Darlegungslast zu entlasten. 
+				
+				Tenor
+				Die Berufung der Kläger gegen das Urteil des Einzelrichters der 17. Zivilkammer des Landgerichts Hannover vom 26.10.2018 wird auf ihre Kosten zurückgewiesen.Das angefochtene landgerichtliche Urteil sowie das vorliegende Berufungsurteil sind vorläufig vollstreckbar. Die Kläger können die Vollstreckung der Beklagten wegen der Kosten des Rechtsstreits durch Sicherheitsleistung in Höhe von 110 % des aufgrund des Urteils vollstreckbaren Betrages abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 % des zu vollstreckenden Betrages leistet.  
+				Gründe
+				I.Die Kläger nehmen die Beklagte als Verkäuferin und als Herstellerin des von ihnen seinerzeit gekauften Pkws Mercedes-Benz im Rahmen des sog. „Diesel-Abgasskandals“ auf Schadensersatz in Anspruch. Im Berufungsverfahren verfolgen die Kläger ihre Ansprüche, die in erster Instanz vom Landgericht abgewiesen worden sind, weiter.Gemäß Bestellung vom 26.11.2015 und Rechnung vom 07.12.2015 erwarben die Kläger von der Beklagten einen gebrauchten Pkw Mercedes-Benz Typ C 220 BlueTec (Euro 6), EZ.: 31.07.2014, Tacho-Stand: 17.697 km, zum Kaufpreis von 30.000,00 €. Dieses Fahrzeug ist von einem freiwilligen Rückruf seitens der Beklagten als Herstellerin zur Optimierung des Abgasverhaltens, nicht aber von einem Rückruf des Kraftfahrtbundesamtes (KBA) betroffen.Die Kläger verlangen mit der vorliegenden Klage die Rückabwicklung des Kaufvertrags, vornehmlich aus dem Gesichtspunkt des deliktischen Schadensersatzes.Die Kläger haben vorgetragen, nach Berichten der Stuttgarter Zeitung habe dieDeutsche Umwelthilfe (DUH) herausgefunden, dass Fahrzeuge der Beklagten sowie anderer deutscher Hersteller mit modernen Dieselmotoren trotz des Abgasreinigungssystems BlueTec nur auf dem Prüfstand schafften, die zugelassenen Abgaswerte einzuhalten. Im tatsächlichen Fahrbetrieb lägen die Stickoxidwerte um ein Vielfaches darüber. Die Tanks für die Harnstofflösung „AdBlue“, die das Stickoxid in den Abgasen neutralisiere, seien vielfach zu klein, das Reinigungsverfahren werde phasenweise abgeschaltet. Nach einem Bericht des Handelsblattes vom 13.07.2017 ermittle die Staatsanwaltschaft Stuttgart wegen des Verdachts, die Beklagte habe die Abschalteinrichtungen nicht gegenüber dem KBA offengelegt, die Stilllegung der betroffenen Fahrzeuge sei nicht auszuschließen. Als Folge dieser Vorwürfe rufe die Beklagte europaweit mehr als 3 Millionen Fahrzeuge zum Aufspielen eines Software-Updates für die Motorsteuerung zurück. Betroffen seien mehrere Motorenfamilien, so auch der Motor „OM 651 DE 22 LA“, der in dem hier betroffenen Fahrzeugtyp C 220 BlueTec eingebaut sei.Das Fahrzeug sei deshalb mit einem Sachmangel behaftet, der den Rücktritt vom Kaufvertrag rechtfertige. Weiterhin bestünden deliktische Schadensersatzansprüche gegen die Beklagte nach § 826, § 831 BGB. Im Ergebnis sei die Beklagte verpflichtet, das Fahrzeug zurückzunehmen und den Kaufpreis, ohne Abzug einer Nutzungsvergütung für die mit dem Fahrzeug gefahrenen Kilometer, zu erstatten.Die Beklagte hat das Vorliegen eines Sachmangels sowie deliktische Ansprüche bestritten. In dem Fahrzeug des Klägers sei keine Manipulationssoftware eingebaut worden, die so gestaltet sei, dass auf der Straße unter normalen Betriebsbedingungen ein anderes Emissionsverhalten des Emissionskontrollsystems erzielt werde als auf dem Prüfstand. Richtig sei vielmehr, dass das Emissionskontrollsystem bei gleichen Betriebsbedingungen sich auf dem Prüfstand und auf der Straße gleich verhalte. Das streitgegenständliche Fahrzeug erfülle den Grenzwert der Euro-6-Norm.Weiterhin hat sich die Beklagte auf die Tatbestandswirkung der Typengenehmigung berufen. Diese sei ein Verwaltungsakt, der gegenüber dem Hersteller wirksam bleibe, solange er nicht aufgehoben werde. Die Prüfung durch das KBA schließe die Anforderungen der Verordnung (EG) 715/2007 ein, also auch den vom Kläger in Bezug genommenen Art. 5 Abs. 2 dieser Verordnung. Die Rechtmäßigkeit der Gestaltung des Fahrzeugmodells sei somit von der zuständigen Fachbehörde bindend festgestellt worden und konform mit dieser Typengenehmigung produziert worden.Das Landgericht hat sowohl vertragliche wie auch deliktische Ansprüche verneint und die Klage abgewiesen (Bl. 136 ff. d. A.). Hinsichtlich des Fahrzeugs der Kläger sei es nicht zu einem Rückruf durch das KBA gekommen, sodass nicht vom Vorliegen eines Sachmangels ausgegangen werden könne. Anders als etwa im Falle des vom VW-Konzern produzierten Motortyps EA 189 gelte außerdem die Tatbestandswirkung der Typenzulassung fort, da gerade kein (bestandskräftiger) Rückruf erfolgt sei.Gegen dieses Urteil richtet sich die Berufung der Kläger, mit der sie ihr auf die Kaufpreiserstattung gerichtetes Klagebegehren aufrechterhalten.Der Rückruf eines Fahrzeugs sei zwar ein wichtiges, nicht aber das einzige Indiz für das Vorhandensein illegaler Funktionen. Sie hätten vorgetragen, dass die Beklagte eine manipulierende Software dahingehend verwende, dass auf dem Prüfstand die Laufzeit, die Laufleistung und Menge des Schadstoffausstoßes erkannt werde und die Abgasreinigung erst nach Überschreiten der prüfstandtypischen Zeit, Strecke und Emissionen abgeschaltet werde. Das Landgericht habe insoweit umfangreiche Beweisangebote unberücksichtigt gelassen. Zudem sei nicht ausgeschlossen, dass ihr Fahrzeug zukünftig noch einem Rückruf unterliegen könne. Das KBA habe nicht festgestellt, dass das Fahrzeug der Kläger über keine unzulässige Abschalteinrichtung verfüge. Vielmehr sei es so, dass das KBA Fahrzeuge dieser Art nur noch nicht untersucht habe.Die Beklagte räume nach ihrem Vortrag selbst ein, dass die Abgasreinigung „zum Zwecke des Bauteilschutzes“ unter bestimmten Betriebsbedingungen reduziert werde. Sie spreche insoweit von „Anpassungen an Betriebsbedingungen“. Tatsächlich handele es sich bei diesem „Thermofenster“ aber um eine Abschalteinrichtung, die nach den europäischen Vorschriften unzulässig sei. Unerheblich sei, ob für das streitgegenständliche Fahrzeug ein bestandskräftiger Verwaltungsakt hinsichtlich der EG-Typengenehmigung vorliege und das KBA und das BMVI (Bundesministerium für Verkehr und digitale Infrastruktur) die Zulässigkeit von Abschalteinrichtungen durch sogenannte Thermofenstern zum Teil bejahten. Dies binde die Parteien im vorliegenden Rechtsstreit nicht, sondern wirke lediglich zwischen den Beteiligten des dortigen Verfahrens.Die Kläger beantragen,das Urteil des Landgerichts Hannover vom 26.10.2018 wie folgt abzuändern:1. Die Beklagte wird verurteilt, an die Kläger 30.000 € nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Rückgabe und Rückübereignung des mangelhaften Fahrzeugs der Kläger Mercedes-Benz C 220 BlueTec, …2. Es wird festgestellt, dass ich die Beklagte mit der Rücknahme des Fahrzeugs im Verzug befindet.Die Beklagte beantragt,die Berufung zurückzuweisen.Die Beklagte verteidigt das angefochtene Urteil des Landgerichts. Der Vortrag der Kläger, der sich auf andere Modellreihen bezieht, gelte nicht für den streitgegenständlichen Pkw Mercedes-Benz Typ C 220 BlueTec. Selbst wenn sich in zwei verschiedenen Fahrzeugmodellen jeweils ein Motor der Motorenfamilie OM 651 befinde, so heiße dies nicht, dass die Motoren und deren Steuerungssoftware baugleich seien. Der hier verbaute Motorentyp OM 651 komme in verschiedenen Varianten in so unterschiedlichen Fahrzeugmodellen wie der S-Klasse und dem Sprinter zum Einsatz. Eine Oberklasse-Limousine und ein Transporter benötigten aber unterschiedliche Motorsteuerungen. Aus diesem Grunde gehe der Verweis auf rückrufbetroffene andere Fahrzeuge fehl.Die Kläger hätten ein vorsätzliches Handeln und eine Verwerflichkeit nicht ansatzweise dargetan. Wenn Sie, die Beklagte, ihre Emissionskontrollsysteme gemäß dem Stand der Wissenschaft und Technik und den entsprechenden Erkenntnismöglichkeiten eines Entwicklers auslege und sich dabei auf die Einschätzungen des KBA und des zuständigen Bundesministeriums, die keinen Anstoß an den sogenannten Temperaturfenstern nähmen, verlasse, könne dies nicht sittenwidrig sein.Nach der bisherigen, sie betreffenden Rechtsprechung der Oberlandesgerichte in gleichgelagerten Fällen sei das Vorliegen einer unzulässigen Abschalteinrichtung verneint worden. Es sei zutreffend darauf hingewiesen worden, dass selbst dann, wenn es – anders als hier – zu einem Rückruf durch das KBA gekommen sei – dies allein nicht ausreiche, um ein deliktisches Verhalten anzunehmen.Wegen des Vorbringens der Parteien im Berufungsrechtszug im Einzelnen wird auf die Berufungsbegründung vom 19.12.2018 (Bl. 165 ff. d. A.) sowie die weiteren Schriftsätze des Klägers vom 21.02.2019 und vom 03.12.2019 (Bl. 194 ff., 322 ff. d. A.) sowie auf die Berufungserwiderung der Beklagten vom 11.06.2019 (Bl. 244 ff. d. A.) und ihren Schriftsatz vom 05.12.2019 Bezug genommen (Bl. 434 ff. d. A.).II.Die Berufung ist zulässig, bleibt in der Sache aber ohne Erfolg. Das Landgericht hat die Klage zutreffend ohne vorherige Einholung eines Sachverständigengutachtens zum Vorliegen einer unzulässigen Abschaltvorrichtung abgewiesen.1. Es ist zwar anerkannt, dass die Annahme eines willkürlichen Sachvortrags ins Blaue hinein, der eine angebotene Beweiserhebung zur prozessual unzulässigen Ausforschung machen würde, nur ausnahmsweise anzunehmen ist. Eine Partei darf nämlich im Zivilprozess Tatsachen behaupten, über die sie keine genaue Kenntnis hat, die sie aber nach Lage der Dinge für wahrscheinlich hält. Eine prozessual unzulässige Ausforschung ist allerdings dann gegeben, wenn die Partei ohne greifbare Anhaltspunkte für das Vorliegen eines bestimmten Sachverhalts willkürliche Behauptungen aufstellt (vgl. OLG Stuttgart, Urteil vom 30.07.2019 – 10 U 134/19, juris, Rn. 54).So aber liegen die Dinge hier, soweit die Kläger allein daraus, dass andere Fahrzeugtypen der Beklagten mit dem Motor OM 651 von einem verpflichtenden Rückruf des KBA betroffen sind, ableiten wollen, ihr PKW „Mercedes-Benz Typ C 220 BlueTec (Euro 6), EZ.: 31.07.2014 weise eine unzulässige Abschalteinrichtung auf, die aus kaufrechtlicher Sicht als Sachmangel zu qualifizieren sei. Die Beklagte hat demgegenüber nachvollziehbar und unwiderlegt eingewandt, es könne nicht pauschal auf eine Motorenbezeichnung abgestellt werden. Denn selbst wenn sich in zwei verschiedenen Fahrzeugen jeweils ein Motor der Motorenfamilie OM 651 befinde, so heiße dies nicht, dass die Motoren und deren Steuerungssoftware baugleich seien. Der hier verbaute Motorentyp OM 651 komme in verschiedenen Varianten in so unterschiedlichen Fahrzeugmodellen wie der S-Klasse und dem Sprinter zum Einsatz. Eine Oberklasse-Limousine und ein Transporter benötigten aber unterschiedliche Motorsteuerungen. Aus diesem Grunde gehe der Verweis auf rückrufbetroffene andere Fahrzeuge fehl. Im streitgegenständlichen Fahrzeug sei keine Software verbaut, die lediglich für die Zwecke des Typengenehmigungsverfahrens eine Schadstoffarmut der Emissionen vortäusche, indem sie aufgrund einer Prüfstanderkennung die Abgasreinigung intensiviere.In Übereinstimmung damit ist sowohl aus den von der Beklagten auf ihrer Homepage als auch in den vom KBA veröffentlichten Fahrzeuglisten zu ersehen, dass nur bestimmte Modellreihen und bestimmte Produktionszeiträume von verpflichtenden Rückrufen betroffen sind, nicht aber sämtliche Fahrzeuge, die mit Motoren einer bestimmten „Motorenfamilie“ ausgestattet sind (https://www.kba.de/DE/Marktueberwachung/Abgasthematik/uebersicht2.pdf?__blob=publicationFile&amp;v=4). Es reicht daher nicht aus, aus Rückrufen des KBA betreffend denselben, in anderen Fahrzeugmodellen eingebauten Motortyp zu schlussfolgern, es müsse im streitgegenständlichen Mercedes-Benz Typ C 220 BlueTec (Euro 6), EZ.: 31.07.2014 eine unzulässige Abschaltvorrichtung vorhanden sein, was wiederum nur darauf zurückgeführt werden könne, dass die Beklagte im Zulassungsverfahren getäuscht und falsche oder unvollständige Angaben gemacht haben müsse (vgl. OLG Köln, Beschl. v. 04.07.2019 – I-3 U 148/18 –, juris, Rn. 6; OLG Nürnberg, Urt. v. 19.07.2019 – 5 U 1670/18 –, juris, Rn. 34 ff.; Senatsurteil v. 13.11.2019 – 7 U 367/18 –, juris).Schließlich kann auch nicht angenommen werden, nach dem eigenen Vortrag der Beklagten, die insoweit von „Anpassungen an Betriebsbedingungen“ spreche, werde die Abgasreinigung „zum Zwecke des Bauteilschutzes“ unter bestimmten Betriebsbedingungen reduziert. Tatsächlich handele es sich bei diesem „Thermofenster“ aber um eine Abschalteinrichtung, die nach den europäischen Vorschriften grundsätzlich unzulässig sei. Vielmehr ist dem Senat, unter anderem aus den bei ihm anhängigen sog. „VW-Verfahren“ bekannt, dass vom KBA als zuständige Behörde die sog. Thermofenster nicht strikt als unzulässige Abschaltvorrichtung eingestuft werden. So heißt es in erlassenen Bescheiden, mit denen dort das Software-Update freigegeben wurde, ausdrücklich, dass keine unzulässige Abschalteinrichtung festgestellt wurde und dass die vorhandenen Abschalteinrichtungen als zulässig eingestuft wurden. Weiterhin wird auf der Webseite des KBA unter „Marktüberwachung“, Untermenü: „Diesel-Abgasthematik“ unter anderem ausgeführt (https://www.kba.de/DE/Marktueberwachung/Abgasthematik/abgasthematik_node.html): „Grundsätzlich sind in jedem Fahrzeug Abschalteinrichtungen vorhanden, die gemäß Artikel 5 Absatz 2 der Verordnung (EG) Nr. 715/2007 begründet sind.“2. a) Die Einholung eines Sachverständigengutachtens zum Vorliegen einer unzulässigen Abschalteinrichtung kommt auch deshalb nicht in Betracht, weil die Zivilgerichte an die Beurteilung durch das KBA als zuständige Typenzulassungsbehörde gebunden sind. Die sogenannten „Thermofenster“ sind zwar im Grundsatz unzulässig, können unter bestimmten Bedingungen, wie vorstehend dargelegt, aber auch zulässig sein. Die Frage, ob eine Illegalität gegeben ist, hängt von einer komplexen Prüfung des technischen Sachverhalts und sodann von der Subsumtion unter die EU-Zulassungsverordnung ab. Für diese Prüfung ist das KBA als Fachbehörde im Rahmen der Erteilung der EG-Typengenehmigung zuständig. Unstreitig verfügt das Fahrzeug der Kläger über die erforderliche EG-Typengenehmigung. Bei dieser handelt es sich um einen Verwaltungsakt, der Tatbestandswirkung für die Zivilgerichte entfaltet. Solange ein solcher Verwaltungsakt nicht durch die zuständige Behörde oder durch ein Verwaltungsgericht aufgehoben worden oder nichtig ist, ist die Zulässigkeit der betreffenden Abschalteinrichtung im Sinne des Artikel 5 Abs. 2 VO 715/2007/EG einer Nachprüfung durch die Zivilgerichte entzogen (vgl. BGH, Urt. v. 30.04.2015 - I ZR 13/14, BGHZ 205, 195, Rn. 31, m. w. N.; BGH, Urt. v. 21.09.2006 – IX ZR 89/05 –, juris, Rn. 14).b) Trotz dieser Tatbestandswirkung des Verwaltungsakts kann allerdings ein Sachmangel vorliegen, woraus unter Umständen neben vertraglichen auch deliktische Ansprüche resultieren können, wenn feststeht, dass eine objektiv rechtswidrige Genehmigung durch den Fahrzeughersteller aufgrund einer Täuschung erschlichen worden ist, wie dies beim Einsatz einer sogenannten „Schummelsoftware“ (Prüfstanderkennungssoftware) angenommen werden muss (vgl. OLG Stuttgart, Urt. v. 30.07.2019 – 10 U 134/19, Rn. 79, 80). Als Folge muss mit einer Betriebsuntersagung oder gar dem Widerruf der mithilfe der Software erschlichenen Typengenehmigung gerechnet werden (vgl. BGH, Beschluss vom 08.01.2019 - VIII ZR 225/17, juris, Rn. 20, 21).Hat der Fahrzeughersteller dagegen die Prüfer weder durch den Einsatz einer Prüfstanderkennungssoftware getäuscht, noch gegenüber der Genehmigungsbehörde eine temperaturabhängige Abschaltvorrichtung im Sinne des Artikel 5 Abs. 2 VO715/2007/EG verschwiegen und erteilt die Behörde die EG-Typengenehmigung, beinhaltet dies die Billigung der Abschaltvorrichtung im Rahmen ihrer Bewertung. In einem solchen Fall scheidet eine vorsätzliche sittenwidrige Schädigung im Sinne von § 826 BGB oder ein sonstiges deliktisches Verhalten des Herstellers von vornherein aus. Auch fehlt es schon an einem Sachmangel, weil die behördliche Genehmigung vorliegt und daher anders als beim Einsatz einer Schummelsoftware eine Betriebsuntersagung oder -beschränkung nach § 5 Abs. 1 FZV durch die Zulassungsbehörde nicht drohen kann (vgl. OLG München, Beschluss vom 14. August 2019 – 21 U 3241/19 –, juris, Rn. 22, 24; OLG Koblenz, Urt. v. 09.12.2019 -12 U 555/19).Daraus folgt, dass - grundsätzlich und so auch im vorliegenden Fall – der Klagevortrag, der Fahrzeughersteller habe eine objektiv rechtswidrige temperaturabhängige Abschaltvorrichtung, ein sogenanntes Thermofenster, eingebaut, zur schlüssigen Darlegung eines Sachmangels sowie eines deliktischen Handelns nicht ausreichen kann. Denn die Rechtmäßigkeit oder Rechtswidrigkeit einer Abschaltvorrichtung ist, wie dargelegt, durch die Zulassungsbehörde zu prüfen. Erteilt diese die Typenzulassung, ohne vom Hersteller über die Funktionsweise ihres Emissionsreduzierungssystems getäuscht worden zu sein, ist von der Rechtmäßigkeit der Abschalteinrichtung auszugehen. Entgegen der Annahme der 23. Zivilkammer des Landgerichts Stuttgart ist es dem Zivilrichter in einem solchen Fall von vornherein verwehrt, eine eigene und im Ergebnis abweichende Prüfung vorzunehmen (vgl. LG Stuttgart, Urteile v. 17.01.2019 - 23 O 172/18, juris, Rn. 27 ff., 60 und - 23 O 180/18, Rn. 23 ff., 53).c) In diesem Zusammenhang ist noch hervorzuheben, dass trotz des Zeitablaufs von zwei Jahren seit der Einreichung der Klage (11.12.2017) bis zum Zeitpunkt der letzten mündlichen Verhandlung im Berufungsverfahren (12.12.2019) seitens des KBA noch keine Rückrufaktion oder sonstige Maßnahme betreffend das klägerische Fahrzeug vorgenommen oder zumindest angekündigt worden ist. Dies spricht dagegen, dass die Behörde sich hinsichtlich dieses Fahrzeugtyps getäuscht sieht oder aus sonstigen Gründen von einer Rechtswidrigkeit der erteilten Typengenehmigung ausgeht und deshalb Beschränkungen drohen.Etwas Anderes kann auch nicht daraus abgeleitet werden, dass das Fahrzeug der Kläger von einem sog. freiwilligen Rückruf betroffen ist. Dieser geht auf freiwillige Maßnahmen zur Verbesserung der Luftqualität in den Innenstädten zurück, die die Hersteller im August 2017 auf dem „Nationalen Forum Diesel“ in Berlin mit der Bundesregierung verabredet haben, um Dieselfahrverbote in Innenstädten vermeiden zu helfen (vgl. etwa: https://www.tagesschau.de/wirtschaft/dieselgipfel-105.html und https://www.fr.de/wirtschaft/sind-ergebnisse-diesel-gipfels-11029979.html). Demgegenüber fehlt es für das Fahrzeug der Kläger an einem verpflichtenden Rückruf wegen des Vorhandenseins einer unzulässigen Abschalteinrichtung.Sieht also die zuständige Behörde die Abschalteinrichtung in Form von Thermofenstern als zulässig an, sind die Fahrzeughalter (im Unterschied zu der in den VW-Fahrzeugen seinerzeit vorhandenen, aber verschwiegenen unzulässigen Abschalteinrichtung in Form der Umschaltvorrichtung, s. hierzu BGH, Beschl. v. 08.012019 - VIII ZR 225/15, juris, Rn. 19 ff.) nicht der Gefahr einer drohenden Betriebsbeschränkung oder -untersagung ausgesetzt, so dass die Fahrzeuge diesbezüglich nicht mangelbehaftet sind. Somit sind sowohl vertragliche als auch deliktische Ansprüche gegen die Beklagte ausgeschlossen.3. Die Auffassung des erkennenden Senates steht auch, soweit ersichtlich, im Ergebnis im Einklang mit der Rechtsprechung anderer Oberlandesgerichte zur deliktischen Haftung in vergleichbaren Fällen. So haben die Oberlandesgerichte Oldenburg (nicht veröffentl. Urt. v. 15.01.2019 – 2 U 156/18 – und v. 12.09.2019 – 14 U 61/19, Anl. BB 2 und BB 11 im Anlagenhefter), das OLG Nürnberg (OLG Nürnberg, Urt. v. 19.07.2019 – 5 U 1670/18 –, juris, Rn. 34 ff.) und das OLG Koblenz selbst in dem Fall, dass das dortige Fahrzeug von einer Rückrufaktion des Kraftfahrtbundesamtes betroffen war, hinsichtlich deliktischer Ansprüche den objektiven Tatbestand als nicht hinreichend dargelegt angesehen und weiterhin den subjektiven Tatbestand verneint (OLG Koblenz, Urt. v. 21.10.2019 – 12 U 246/19 –, juris, Rn. 61 ff.; ferner: Urt. v. 09.12.2019 – 12 U 555/19, Anl. BB 17). Ebenso hat das OLG Stuttgart deliktische Ansprüche verneint (OLG Stuttgart, Urt. vom 30.07.2019 – 10 U 134/19 –, juris), ebenso wie verschiedene Senate des OLG Köln (Beschl. v. 21.10.2019 – 1 U 66/19 und Urt. v. 28.11.2019 – 15 U 93/19; Anl. BB12 und BB 13), ebenso wie das OLG Frankfurt (Urt. v. 07.11.2019 – 6 U 119/18; Anl. BB 14). Das OLG München hat mit Hinweisbeschluss gemäß § 522 Abs. 2 ZPO vom 28.11.2019 sowohl vertragliche wie auch deliktische Schadensersatzansprüche, unterstellt es gebe eine unzulässige Abschalteinrichtung, jedenfalls mangels Verschuldens verneint (Beschl. v. 28.11.2019 – 32 U 3155/19; Anl. BB 16).Festzuhalten bleibt damit, dass hier schon ein Sachmangel in Form des objektiven Vorliegens einer unzulässigen Abschalteinrichtung im Hinblick auf die Tatbestandswirkung der behördlichen Genehmigung nicht schlüssig dargetan ist. Erst recht muss dies für den Vorwurf eines deliktischen (und sittenwidrigen) Verhaltens der Beklagten gelten (vgl. OLG Stuttgart, a. a. O., Rn. 83, 94). Mithin bedarf es keiner weiteren Ausführungen zur sekundären Darlegungslast. Denn wenn es schon an der schlüssigen Darlegung eines Sachmangels sowie eines deliktischen Verhaltens fehlt, kann es nicht der Beklagten obliegen, sich in Befolgung einer sekundären Darlegungslast zu entlasten.III.Die Kostenentscheidung folgt aus § 97 Abs. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 708 Nr. 10 Satz 1, 2, § 711 ZPO.Gründe für die Zulassung der Revision gemäß § 543 Abs. 2 ZPO liegen nicht vor.
+			
+			
+			
+			Permalink: https://openjur.de/u/2198344.html (https://oj.is/2198344)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate12
+				
+				
+					 Zitiert26
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

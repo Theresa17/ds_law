@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG MünchenRechtsprechungEndurteil vom 27.01.2020 - 21 U 5295/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG München, Endurteil vom 27.01.2020 - 21 U 5295/19
+                      m. Fundstelle
+                      OLG München, Endurteil vom 27.01.2020 - 21 U 5295/19 = openJur 2020, 70598
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG München, Endurteil vom 27.01.2020 - 21 U 5295/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 70598
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Berufung des Klägers gegen das Urteil des Landgerichts Ingolstadt vom 09.08.2019, Az. 51 O 2464/18, wird zurückgewiesen.2. Der Kläger hat die Kosten des Berufungsverfahrens zu tragen.3. Das Urteil ist ohne Sicherheitsleistung vorläufig vollstreckbar. Das in Ziffer 1 genannte Urteil des Landgerichts Ingolstadt ist ohne Sicherheitsleistung vorläufig vollstreckbar. Der Kläger kann die Zwangsvollstreckung durch Sicherheitsleistung i.H.v. 110 Prozent des vollstreckbaren Betrages abwenden, wenn nicht die Beklagte vor der Zwangsvollstreckung Sicherheit i.H.v. 110 Prozent des zu vollstreckenden Betrages leistet.4. Die Revision gegen dieses Urteil wird nicht zugelassen.  
+				Gründe
+				I.Gegenstand des Rechtsstreits sind Ansprüche, die die Klagepartei gegen die Beklagte als Herstellerin eines Fahrzeugs geltend macht, in dessen Motor der Kennung EA 189 eine abgasbeeinflussende Software verbaut worden ist.Die Klagepartei erwarb am 20.05.2016 von privat einen gebrauchten PKW VW Sharan, Erstzulassung 2009, mit einem Kilometerstand von 66.000 km zum Preis von 20.500,00 Euro, Anlage K 1. Das Fahrzeug ist mit einem Motor EA 189 ausgestattet; aufgrund der dort eingesetzten Motorsteuerungssoftware werden im Prüfstandlauf bessere Stickoxidwerte erzielt als im realen Fahrbetrieb. Diesbezüglich wurde mittlerweile ein Software-Update aufgespielt.Im September 2015 räumte die Beklagte öffentlich die Verwendung der Motorsteuerungssoftware mit Umschaltlogik ein. Im Oktober 2015 schaltete sie eine Internetwebseite, auf der sich Kunden mit Hilfe der Fahrzeug-Identifkationsnummer darüber informieren können, ob ihr Fahrzeug von der Manipulation betroffen ist und gab hierzu eine Presseerklärung heraus. Dies wurde in den Medien auch bekannt gemacht.Die Klagepartei trägt im Wesentlichen vor, sie habe - zumal als Nichtfachmann für Kraftfahrzeuge - bei Abschluss des Kaufvertrages trotz der öffentlichen Diskussion um den Abgasskandal nicht gewusst, dass konkret auch ihr Fahrzeug betroffen ist. Bei Kenntnis von der Manipulation durch die Beklagte hätte sie das Fahrzeug nicht erworben. Das Softwareupdate sei nicht geeignet, den Schaden zu beseitigen, weder in rechtlicher noch in tatsächlicher Hinsicht.Die Klagepartei meint, die Beklagte habe sie vorsätzlich und sittenwidrig geschädigt, §§ 826, 31 BGB, weil das von ihr hergestellte und in den Verkehr gebrachte Fahrzeug nicht den geltenden Abgasnormen entspreche und daher nicht über eine uneingeschränkte Betriebserlaubnis verfüge. Es bestehe auch ein Schadensersatzanspruch gem. §§ 823 Abs. 2 BGB i.V.m. § 263 StGB,§ 831 BGB.Die Beklagte hingegen bestreitet eine Täuschung bzw. einen Irrtum der Klagepartei. Die in Frage stehende Motorsteuerungssoftware sei für den Erwerb des Fahrzeugs nicht kausal gewesen, weil die Klagepartei sich in Kenntnis der Verwendung einer solchen Software durch die Beklagte gleichwohl zum Erwerb des Fahrzeugs entschlossen habe. Die Klagepartei habe das Fahrzeug deutlich nach Bekanntwerden des Abgasskandals erworben. Die Klagepartei sei außerdem nicht geschädigt worden, weil das Fahrzeug vor und nach der Durchführung des Software-Updates uneingeschränkt gebrauchstauglich gewesen sei. Das Update habe keine negativen Auswirkungen auf den Motor.Wegen der festgestellten Tatsachen und weiteren Einzelheiten des Parteivorbringens wird auf den Tatbestand des angefochtenen Urteils verwiesen, § 540 Abs. 1 Nr. 1 S. 1 ZPO.Das Landgericht hat die Klage mit Urteil vom 09.08.2019 abgewiesen mit der Begründung, Ansprüche nach § 823 Abs. 2 BGB i.V.m. § 263 Abs. 1 StGB bzw. § 826 BGB schieden aus, da eine Täuschung der Klagepartei aufgrund ihrer Kenntnis von der Manipulation ihres Fahrzeugs zu verneinen sei. Denn die Klagepartei habe das Fahrzeug deutlich nach Bekanntwerden des Dieselskandals erworben und schriftsätzlich nicht bestritten, von der Berichterstattung hierüber erfahren zu haben. Die Klagepartei war in erster Instanz der gerichtlichen Anordnung des persönlichen Erscheinens nicht gefolgt. Aufgrund der Kenntnis der Klagepartei wäre ein eventuell eingetretener Schaden nicht kausal auf eine Schädigungshandlung der Beklagten zurückzuführen, weshalb auch Ansprüche nach § 823 Abs. 2 BGB i.V.m. anderen Schutzgesetzen zu verneinen seien.Dagegen richtet sich die von der Klagepartei eingelegte Berufung, mit der sie die erstinstanzlich gestellten Anträge umfänglich weiterverfolgt. Sie rügt, es sei unerheblich, dass sie das Fahrzeug nach September 2015 erworben habe. Sie habe beim Erwerb des Fahrzeugs keine Kenntnis von der Manipulation ihres Fahrzeugs und den Folgen gehabt. Insgesamt stünden die Ad-hoc-Mitteilung wie die Medienberichterstattung ab Herbst 2015 einem Anspruch nicht entgegen. Eigene Nachforschungen könnten von der Klagepartei nicht gefordert werden. Die geltend gemachten Ansprüche stünden der Klagepartei daher nach § 823 Abs. 2 i.V.m. § 263 StGB, §§ 826, 831 BGB zu.Die Klagepartei beantragt,Das Urteil des Landgerichts Ingolstadt vom 09.08.2019 (Az. 51 O 2464/18) wird aufgehoben.Die Beklagte wird verurteilt, Zug-um-Zug gegen Übereignung des Fahrzeugs Marke: VolkswagenTyp: Sharan Fahrzeug-Identifizierungsnummer: ...0401 an die Klagepartei einen Betrag in Höhe von 20.500,00 € nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.Hilfsweise:1. Die Beklagte wird verurteilt, einen in das Ermessen des Gerichts zu stellenden Schadensersatz in Höhe von mindestens 25% des Kaufpreises des Fahrzeugs 20.500,00 €, mindestens somit 5.125,00 € nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.2. Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klagepartei über den Betrag aus Hilfsantrag zu 1) hinausgehenden Schadensersatz für weitere Schäden, die aus der Ausstattung des Fahrzeugs, FIN: ...0401, mit der manipulierenden Motorsoftware resultieren, zu zahlen.3. Die Beklagte wird verurteilt, an die Klagepartei Zinsen in Höhe von 4% aus 20.500,00 € seit dem 20.05.16 bis zu Beginn der Rechtshängigkeit zu bezahlen.4. Die Beklagte wird verurteilt, die Kosten des außergerichtlichen Vorgehens in Höhe von 1.348,27 € nebst Zinsen in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.5. Vorsorglich wird für den Fall des Unterliegens beantragt, die Revision zuzulassen.6. Eine Entscheidung der Sache durch den Einzelrichter ist nicht angezeigt.Die Beklagte beantragt die Zurückweisung der Berufung.Ein Schadensersatzanspruch bestehe nicht. Die Beklagte habe nach dem 22.09.2015 umfassende Aufklärung über ihre Website, aber auch über die Medien geleistet. Eine Täuschungshandlung oder ein entsprechender Vorsatz der Beklagten sei ebenso wenig gegeben wie ein Irrtum der Klagepartei.Hinsichtlich des Parteivortrags in der Berufung im Einzelnen wird auf die gewechselten Schriftsätze verwiesen.Der Senat hat mit der Ladungsverfügung vom 13.11.2019 Hinweise erteilt (Bl. 188 ff. d.A.), am 16.12.2019 mündlich verhandelt und die Klagepartei formlos angehört. Auf das Protokoll, Bl. 259 ff. d.A., wird verwiesen.II.Die Berufung der Klagepartei ist zulässig, aber unbegründet und damit zurückzuweisen.Die Berufung konnte - im Ergebnis - nicht aufzeigen, dass das angefochtene Urteil auf einem Rechtsfehler beruht (§§ 513 Abs. 1, 546 ZPO), oder dass nach § 529 Abs. 1 ZPO zu berücksichtigende Tatsachen eine andere Entscheidung rechtfertigen.Der Klagepartei steht gegen die Beklagte bei der vorliegenden Fallkonstellation kein Schadensersatzanspruch zu. Der Senat schließt sich bei den sog. Fällen "Kauf nach Bekanntwerden des Dieselskandals" einer Vielzahl anderer obergerichtlicher Entscheidungen an, denen ähnliche Fallgestaltungen zugrunde lagen, so u.a. OLG Frankfurt, Urteil vom 06.11.2019, Az.: 13 U 156/19; OLG Saarbrücken, Urteil vom 28.08.2019; Az.: 2 U 94/18; OLG Stuttgart, Urteil vom 07.08.2019, Az.: 9 U 9/19; OLG Stuttgart, Urteil vom 26.11.2019, Az.: 10 U 199/19; OLG Köln, Urteil vom 06.06.2019, Az.: 24 U 5/19; OLG Dresden, Urteil vom 24.07.2019, Az.: 9 U 2067/18; OLG Celle, Urteil vom 29.04.2019, Az.: 7 U 159/19; OLG Braunschweig, Urteil vom 02.11.2017, Az. 7 U 69/17; OLG Schleswig-Holstein, Urteil vom 29.11.2019, Az.: 1 U 32/19; OLG Koblenz, Urteil vom 25.10.2019, Az.: 3 U 948/19 und OLG Karlsruhe, Urteil vom 09.01.2020, 17 U 133/19.1. Unabhängig von weiteren vorliegend aufgeworfenen Rechtsfragen zu einzelnen Anspruchsvoraussetzungen scheitert ein Anspruch der Klagepartei nach § 826 BGB bereits daran, dass der Senat keinen Zurechnungszusammenhang zwischen dem Verhalten der Beklagten und dem Eintritt eines etwaigen Schadens bei der Klagepartei sieht und zudem auch in Bezug auf den Erwerb des streitgegenständlichen Fahrzeugs durch sie im Erwerbszeitpunkt (Mai 2016) ein entsprechender Schädigungsvorsatz bei der Beklagten nicht (mehr) angenommen werden kann.a) Zwar geht der Senat aufgrund des vom Kläger persönlich aufgrund seiner Anhörung im Termin zur mündlichen Verhandlung am 16.12.2019 gewonnen Eindrucks nicht davon aus, dass der Zurechnungszusammenhang aufgrund der Kenntnis der Klagepartei von der Betroffenheit des Fahrzeugs unterbrochen ist.Hierauf kommt es vorliegend aber nicht an, da der notwendige Zurechnungszusammenhang zwischen der schädigenden Handlung der Beklagtenseite und einem Schaden auf Klägerseite aufgrund der von der Beklagten zum Zeitpunkt des Erwerbs des Fahrzeugs durch die Klagepartei getroffenen Abwehrmaßnahmen zur Verhinderung eines weiteren Schadenseintritts zu verneinen ist.Eine Ersatzpflicht setzt voraus, dass der Schaden, der hier in dem Abschluss des Kaufvertrages durch die Klagepartei zu sehen wäre, durch das zum Schadensersatz verpflichtende Ereignis, das hier in dem Inverkehrbringen eines Fahrzeuges mit einem Motor mit Software zur Unterscheidung des Fahr- und Prüfbetriebes läge, verursacht worden ist. In Fällen der mittelbaren Kausalität, in denen - wie hier - der Schaden erst durch ein Handeln des Geschädigten (mit-)verursacht wird, nämlich durch den Abschluss des Kaufvertrages, ist der Zurechnungszusammenhang nur gegeben, wenn die Handlung des Verletzten durch das haftungsbegründende Ereignis herausgefordert worden ist. Die Beweislast für die Herausforderung trägt der Geschädigte (Palandt/Grüneberg, 79. Aufl. 2020, Vorb v. § 249, Rdnrn. 24, 41; speziell im Hinblick auf § 826: BGH, Urteil vom 20.02.1979, Az.: VI ZR 189/78).Die V. AG hatte am 22.09.2015 eine an den Kapitalmarkt gerichtete Ad-hoc-Mitteilung herausgegeben, in der sie über die Dieselproblematik informierte. Nachdem diese Ad-hoc-Mitteilung sich an den Kapitalmarkt und nicht die allgemeine Öffentlichkeit richtete, dürfte sie allein noch nicht genügen, um die - unterstellte - Zurechenbarkeit entfallen zu lassen. Hinzu kommt aber eine unmittelbar anschließende umfassende Information der Öffentlichkeit durch die Beklagte: Sie hat in einer Mitteilung vom 22.09.2015 die Presse über die Dieselproblematik informiert und am 02.10.2015 eine Internetwebseite geschaltet, über die sich die Fahrzeughalter informieren konnten, ob ihr konkretes Fahrzeug mit der fraglichen Software-Konfiguration ausgestattet ist. Auch hierzu hat die Beklagte am gleichen Tag eine Pressemitteilung herausgegeben. Mit Presssemitteilung vom 15.10.2015 hat die Beklagte über den vom Kraftfahrtbundesamt angeordneten Rückruf und die von ihr hierzu veranlassten Maßnahmen informiert (Anlage K6). Auch die Händler und Vertriebspartner wurden von der Beklagten informiert. Bereits zu diesem Zeitpunkt war die Thematik - einschließlich der Website zur Überprüfung der Betroffenheit einzelner Fahrzeuge - Gegenstand einer sehr intensiven Berichterstattung in nahezu allen Zeitungen sowie Fernsehsendern und Onlinemedien in Deutschland (Berufungserwiderung vom 03.12.2019, S. 5 ff. = Bl. 195 ff. d.A.). Die Beklagte hat weiter im Termin zur mündlichen Verhandlung unter Beweisantritt vor dem Senat vorgetragen, dass sie flächendeckend im Februar 2016 unter Nutzung der Datei des Kraftfahrtbundesamts alle betroffenen Halter angeschrieben und informiert hat, soweit diese in Deutschland ansässig sind (Protokoll, Bl. 261 d.A.). Zwar wurde dies durch den Klägervertreter bestritten; eine Beweisaufnahme ist insoweit jedoch nicht veranlasst, da bereits die unstreitig bis zum Zeitpunkt des Erwerbs des Wagens (Mai 2016) getroffenen Maßnahmen der Beklagten zusammen mit den Medienpublikationen genügen, um den - unterstellten - Zurechnungszusammenhang entfallen zu lassen.Nachdem die Beklagte mithin ausreichende Maßnahmen getroffen hat, um die weiteren Auswirkungen ihres - unterstellt - sittenwidrigen Verhaltens einzudämmen, ist der Zurechnungszusammenhang in Bezug auf Schäden wegen nach Bekanntwerden der Diesel-Thematik verkaufter Fahrzeuge auf diese Weise unterbrochen worden, vgl. OLG Stuttgart, Urteil vom 26.11.2019, Az.: 10 U 199/19 und OLG Karlsruhe, Urteil vom 09.01.2020, Az.: 17 U 133/19.b) Der Senat sieht auch keinen Schädigungsvorsatz der Beklagten in Bezug auf eine Schadensverursachung durch die Beklagte bei der Klagepartei wegen des Abschlusses des streitgegenständlichen Kaufvertrages, weil im Hinblick auf die Offenlegung der maßgeblichen Aspekte der Manipulation durch die Pressemitteilungen nicht (mehr) davon ausgegangen werden kann, dass die Beklagte die Schädigung des Klägers in ihren Willen aufgenommen, für möglich gehalten und billigend in Kauf genommen hatte.2. Angesichts der Ausführungen zu 1. kommen auch Schadensersatzansprüche nach § 823 Abs. 2 BGB i.V.m. § 263 StGB, § 831 BGB nicht in Betracht.3. Nachdem ein Schadensersatzanspruch der Klagepartei dem Grunde nach nicht besteht, können auch der hilfsweise erhobene Schadensersatzanspruch einschließlich des dazu ergänzend geltend gemachten Feststellungsantrages sowie die weiter erhobenen Anträge auf Erstattung deliktischer Zinsen und außergerichtlicher Rechtsanwaltskosten keinen Erfolg haben.Nach alledem war die Berufung zurückzuweisen.III.Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO.Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus §§ 708 Nr. 10, 713 ZPO.Die Zulassung der Revision ist nicht geboten, weil die Rechtssache keine grundsätzliche Bedeutung hat und eine Entscheidung des Revisionsgerichts weder zur Fortbildung des Rechts noch zur Sicherung einer einheitlichen Rechtsprechung erforderlich ist, § 543 Abs. 2 ZPO. Der Senat hat hier einen Einzelfall entschieden und folgt der höchstrichterlichen Rechtsprechung zum Deliktsrecht. Eine Grundsatzbedeutung lässt sich auch nicht darauf stützen, dass derzeit zahlreiche "Diesel-Klagen" bundesweit bei Gerichten anhängig sind. Grundsatzbedeutung hat eine Sache nur dann, wenn sie eine entscheidungserhebliche, klärungsbedürftige und klärungsfähige Rechtsfrage aufwirft, die sich in einer unbestimmten Vielzahl von Fällen stellen kann und deshalb das abstrakte Interesse der Allgemeinheit an einer einheitlichen Entwicklung und Handhabung des Rechts berührt ist, vgl. BGH, Beschluss vom 19.12.2002, VII ZR 101/02. Daran fehlt es hier, weil der Rechtsstreit lediglich die Anwendung gesicherter Rechtsgrundsätze auf den konkreten Einzelfall betrifft. Auch die Entscheidung des OLG Hamm, Urteil vom 10.09.2019, Az. 13 U 149/18, führt nicht zu einer Zulassung der Revision, da dort neben den konkreten Angaben der Käuferin auch der - aus Sicht des OLG Hamm unzureichende - Vortrag der Beklagten zu getroffenen Maßnahmen und Publikationen maßgeblich war. Der Senat sieht demgegenüber die von der Beklagten getroffenen Maßnahmen, wie sie vorliegend vorgetragen und nicht bestritten wurden, verbunden mit den Medienberichten als ausreichend an, den Zurechnungszusammenhang und den Vorsatz entfallen zu lassen, so dass der Entscheidung aufgrund des Sachvortrags der Parteien eine andere Fallgestaltung zugrunde liegt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2294957.html (https://oj.is/2294957)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate13
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

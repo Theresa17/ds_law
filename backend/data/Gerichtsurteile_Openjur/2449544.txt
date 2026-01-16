@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG SchweinfurtRechtsprechungEndurteil vom 08.07.2020 - 11 O 1035/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Schweinfurt, Endurteil vom 08.07.2020 - 11 O 1035/19
+                      m. Fundstelle
+                      LG Schweinfurt, Endurteil vom 08.07.2020 - 11 O 1035/19 = openJur 2022, 16776
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Schweinfurt, Endurteil vom 08.07.2020 - 11 O 1035/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 16776
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des zu vollstreckenden Betrages vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 74.314,74 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatzansprüche im Zusammenhang mit einem Pkw mit Dieselmotor.Der Kläger kaufte am 20.04.2016 einen Neuwagen Pkw Porsche Cayenne, der von der Beklagten zu 2) hergestellt worden war, zu einem Kaufpreis von 74.314,74 €. Der Pkw war mit einem Dieselmotor V6 EU6 ausgestattet.Das Kraftfahrtbundesamt ordnete für das Fahrzeug eine Rückrufaktion an. Entsprechende Arbeiten wurden am streitgegenständlichen Fahrzeug am 05.02.2018 durchgeführt.Der Kläger behauptet:Der Kläger haben einen Anspruch gegen die Beklagten als Gesamtschuldner auf Ersatz des durch eine Manipulation des Fahrzeugs entstandenen Schadens wegen vorsätzlicher sittenwidriger Schädigung gemäß §§ 826, 31 BGB. Die Beklagten hätten daher dem Kläger den Kaufpreis zurückzuerstatten abzüglich einer Nutzungsentschädigung Zug um Zug gegen Übereignung und Herausgabe des Pkws. Der Annahmeverzug sei festzustellen.Offenbar sei im streitgegenständlichen Motor eine unzulässige Abschalteinrichtung verbaut worden, andernfalls wäre ein durchgeführter Rückruf nicht erforderlich geworden. Im Fahrzeug sei eine Software installiert, die erkenne, wann sich das Fahrzeug im Prüfstand zur Ermittlung der Emissionswerte befinde. In diesem synthetischen Fahrzyklus würden dann anders als im realen Fährbetrieb Prozesse aktiv, die zu einer erhöhten Abgasrückführung führten, dadurch würden weniger Stickoxide ausgestoßen. Trotz des durchgeführten Updates sei der Stickoxideausstoß des Pkws beim regulären Betrieb im Straßenverkehr noch immer zu hoch.Im Inverkehrbringen des mit dieser Motorsteuerungssoftware ausgestatteten Fahrzeugs liege eine Täuschung sämtlicher potentieller Kunden, die von der Installation dieser Software keine Kenntnis gehabt hätten. Durch diese Täuschung sei dem Kläger ein Schaden entstanden, da er einen für ihn wirtschaftlich nachteiligen Kaufvertrag geschlossen habe.Den Beklagten sei wegen des Inverkehrbringens der manipulierten Fahrzeuge ein sittenwidriges vorsätzliches Verhalten anzulasten. Die Beklagten hätten um die die Sittenwidrigkeit begründenden Tatumstände gewusst und hinsichtlich des beim Kläger eingetretenen Schadens zumindest mit bedingtem Vorsatz gehandelt. Die Organe der Beklagten hätten Kenntnis von der Manipulation der Motorsteuerungssoftware gehabt und hätten das Inverkehrbringen entsprechend ausgerüsteter Motoren veranlasst. Aufgrund der Bedeutung der Angelegenheit sei zu erwarten, dass ein organschaftlich Verantwortlicher mit diesem Themenkreis befasst gewesen sei.Im Rahmen der sekundären Darlegungslast müssten die Beklagten vortragen, wer die entsprechenden Entscheidungen aufgrund welcher Befugnis getroffen habe.Der Kläger beantragt,Die Beklagten werden als Gesamtschuldner verurteilt, an den Kläger 74.314,74 € nebst Zinsen in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz ab Rechtshängigkeit zu bezahlen, Zug um Zug gegen Übereignung und Herausgabe des Pkws Porsche Cayenne mit der Fahrgestellnummer abzüglich einer Nutzungsentschädigung, die sich nach fol gender Formel berechne: (74.314,74 € x gefahrene Kilometer): 300.000 Kilometer.Es wird festgestellt, dass sich die Beklagten mit der Rücknahme des im Klageantrag Ziffer 1 genannten Pkws seit Rechtshängigkeit in Annahmeverzug befinden.Die Beklagten beantragen.die Klage abzuweisen.Die Beklagten behaupten:Dem Kläger stünden die geltend gemachten Ansprüche nicht zu. Das Fahrzeug sei nicht von der bei Motoren des Typs EA189 aus dem Volkswagen  Konzern bekannt gewordenen Thematik (Umschaltlogik") betroffen und habe über eine wirksame EG-Typgenehmigung verfügt. Die Beklagten hätten die Klagepartei weder getäuscht noch sittenwidrig geschädigt. Die Beklagten seien am Abschluss des Kaufvertrages weder beteiligt gewesen noch hätten sie hiervon Kenntnis gehabt. Es fehle an einem durch ein Verhalten der Beklagten kausal hervorgerufenen Schaden.Ansprüche gegen die Beklagte zu 1) würden bereits deshalb ausscheiden, weil diese weder Herstellerin noch Verkäuferin des streitgegenständlichen Fahrzeuges sei.Eine Haftung der Beklagten zu 2) scheide bereits deshalb aus, weil die Beklagte zu 2) die Dieselmotoren im Rahmen eines Liefervertrages von der bezogen habe bzw. beziehe und auch die Integration des Motors und dessen Softwaresteuerung nicht durch die Beklagte zu 2) erfolgt sei.Wegen der übrigen Einzelheiten, insbesondere der geäußerten Rechtsansichten wird auf die gewechselten Schriftsätze nebst Anlagen sowie das Sitzungsprotokoll Bezug genommen. 
+				Gründe
+				A.Der Kläger hat keine Ansprüche gegen die Beklagten zu 1) oder 2) wegen vorsätzlicher sittenwidriger Schädigung, § 826 BGB.I. Der Kläger hat bereits nicht ausreichend substantiiert vorgetragen, dass eine unzulässige Abschalteinrichtung im streitgegenständlichen Fahrzeug verbaut ist.Der Sachverhalt unterscheidet sich grundlegend von der Vielzahl von Gerichtsverfahren, bei denen Dieselmotoren EA189 streitgegenständlich waren bzw. sind. Die Funktionsweise der Steuerungssoftware der Abgasrückführung bei diesen Dieselmotoren EA 89, vom Volkswagen  Konzern regelmäßig als sogenannte Umschaltlogik bezeichnet, ist bekannt und daher regelmäßig unstreitig.Die Beklagten haben aber substantiiert dargelegt, dass sich der hier streitgegenständliche Motor grundlegend vom Motor EA189 unterscheidet. Das zeigt sich bereits daran, dass es sich um einen Euro-6 Motor handelt, während es sich beim EA189 um einen Euro-5 Motor handelte.Ein Vortrag zum angeblichen Vorliegen einer unzulässigen Abschalteinrichtung, der sich in der Sache darauf beschränkt, eine solche Abschalteinrichtung zu behaupten, ist nicht ausreichend substantiiert, um hierüber Beweis zu erheben (vgl. OLG Bamberg, Beschluss vom 07.01.2020, 4 U 177/19, II 2., sowie Beschluss vom 31.03.2020, 3 U 57/19 [zu Fahrzeugen der Marke M.B. des Herstellers D.]).II. Ohnehin fehlt ein ausreichend substantiierter Vortrag, der eine vorsätzliche sittenwidrige Schädigung durch die Beklagte zu 1) oder die Beklagte zu 2) begründen könnte.1. Der Kläger trägt bereits nicht vor, welche konkreten Handlungen bzw. Unterlassungen er der Beklagten zu 1) und / oder der Beklagten zu 2) vorwirft.Es wird nicht klar, welche Rolle genau die Beklagte zu 1) bei der Entwicklung des Motors gespielt haben soll.Die Beklagte zu 2) hat substantiiert vorgetragen, dass sie die Motoren nicht selbst entwickelt hat, sondern innerhalb des Konzerns bezog. Vor diesem Hintergrund ist unklar, welche konkreten Handlungen bzw. Unterlassungen Organe der Beklagten zu 1) und / oder 2), insbesondere den Vorständen, vorzuwerfen sein sollen.2. Nach der Rechtsprechung des Bundesgerichtshofs setzt die deliktische Haftung einer juristischen Person voraus, dass ein verfassungsmäßig berufener Vertreter im Sinne des § 31 BGB den objektiven und subjektiven Tatbestand verwirklicht hat (BGH, Urteil vom 28.06.2016, VI ZR 536/15).Ausreichend substantiierter oder auch nur konkreter Sachvortrag hierzu fehlt.Es kann in diesem Zusammenhang auch keine sekundäre Darlegungslast der Beklagten zu 1) und / oder 2) angenommen werden. Auch insoweit unterscheidet sich der Sachverhalt grundlegend von den Verfahren, bei denen gegen die Volkswagen  AG wegen Fahrzeugen mit Dieselmotoren EA189 vorgegangen wird. Diese Dieselmotoren EA189 wurden von der Volkswagen  AG entwickelt, so dass dort die Frage zumindest naheliegt, ob die Organe der Volkswagen  AG an dieser Entscheidung beteiligt waren bzw. hiervon Kenntnis hatten. Wie bereits dargestellt liegt hier der Sachverhalt aber grundlegend anders. Deshalb greifen auch die vom Bundesgerichtshof aufstellten Grundsätze aus den EA189-Verfahren (BGH, Urteil vom 25.05.2020, VI ZR 250/19) hier nicht.B.Die Nebenentscheidungen folgen aus §§ 91 Abs. 1, 709 ZPO, 48 GKG.
+			
+			
+			
+			Permalink: https://openjur.de/u/2449544.html (https://oj.is/2449544)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

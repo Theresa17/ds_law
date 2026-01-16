@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 19.11.2020 - 15 O 189/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 19.11.2020 - 15 O 189/20
+                      m. Fundstelle
+                      LG Köln, Urteil vom 19.11.2020 - 15 O 189/20 = openJur 2022, 19065
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 19.11.2020 - 15 O 189/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 19065
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 110 Prozent des jeweils zu vollstreckenden Betrags. 
+				Tatbestand
+				Der Kläger kaufte am 00.00.0000 das in den Klageanträgen näher bezeichnete Fahrzeug B bei einem Dritten als Neuwagen zum Preis von 37.717,00 €.Der Pkw ist mit einem Motor des Typs F000 ausgestattet. Diese Motoren hat die Beklagte entwickelt, hergestellt und in Verkehr gebracht.In Fahrzeugen mit den Motoren der F000-Baureihe war seit dem Jahr 2006 eine spezielle Software implementiert, welche erkannte, wann ein Fahrzeug den NEFZ, den für die Schadstoffeinstufung vorzunehmenden Prüfzyklus, durchlief und in diesem Fall einen besonderen Betriebsmodus (Modus 1) aktivierte, welcher zu einer höheren Abgasrückführungsrate in den Motor und damit zu einem niedrigeren auf dem Prüfstand gemessenen Abgasausstoß führte. Dieser Modus 1 wurde ausschließlich beim Durchfahren des NEFZ aktiviert, im normalen Straßenverkehr wurden die Motoren hingegen im Modus 0 betrieben, der mit einem höheren Schadstoffausstoß verbunden war. Eine solche Software wurde millionenfach in Fahrzeuge der Beklagten und ihrer Konzerntöchter implementiert.Am 22.09.2015 veröffentlichte die Beklagte sowohl eine Presse- als auch eine Adhoc-Mitteilung, in denen sie jeweils u.a. mitteilte, dass es bei Fahrzeugen mit Motoren des Typs F000 zu auffälligen Abweichungen der Abgaswerte zwischen Prüfstandswerten und realem Fahrbetrieb käme. In der Folge kam es zu intensiver Berichterstattung in den Medien. Die Beklagte und ihre Konzernmarken, auch die Herstellerin des streitgegenständlichen Fahrzeugs, entwickelten Internetseiten, auf denen Autobesitzer sich durch Eingabe der Fahrzeugidentifikationsnummer darüber informieren konnten, ob ihr Fahrzeug betroffen war.Mit Bescheid vom 15.10.2015 kam das Kraftfahrtbundesamt zu dem Ergebnis, dass es sich bei der verwendeten Software um eine unzulässige Abschalteinrichtung handele. Das Kraftfahrzeugbundesamt ordnete deshalb an, die Software aus allen betroffenen Kfz mit den Motoren der F000-Baureihe zu entfernen sowie geeignete Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit der Fahrzeuge zu ergreifen. Von der grundsätzlich wegen der Einstufung der Fahrzeuge als technisch mangelbehaftet bestehenden Möglichkeit der Stilllegung der Fahrzeuge gemäß § 5 FZV in Verbindung mit § 25 EG-FGV wurde zunächst kein Gebrauch gemacht.Die Beklagte entwickelte in der Folgezeit für die betroffenen Fahrzeugtypen jeweils Software-Updates, welche den Zweck verfolgen, die aufgrund der Abschalteinrichtung mit einem technischen Mangel behafteten Fahrzeuge wieder in einen ordnungsgemäßen Zustand zu versetzen. Die verschiedenen Software-Updates legte die Beklagte jeweils dem Kraftfahrzeugbundesamt zur Prüfung vor und rief sodann nach Freigabe durch das Kraftfahrzeugbundesamt die Fahrzeuge in mehreren Chargen zurück, um das Software-Update durchzuführen.Mit anwaltlichem Schreiben vom 04.05.2020 ließ der Kläger die Beklagte unter Fristsetzung fruchtlos zur Rückzahlung des Kaufpreises auffordern.Am Tag vor der letzten mündlichen Verhandlung wies das Fahrzeug einen Kilometerstand vom 70.335 km auf.Der Kläger beantragt zuletzt,1. die Beklagte zu verurteilen, an ihn 29.444,40 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 20.05.2020 zu zahlen, Zugum-Zug gegen Übergabe und Übereignung des Fahrzeuges B mit der Fahrzeugidentifikationsnummer 00000,2. feststzustellen, dass sich die Beklagte mit der Annahme des in Ziffer 1 genannten Fahrzeuges seit dem 11.05.2020 in Annahmeverzug befindet.3. die Beklagte zu verurteilen, an die Q AG, Q-Platz 0, 00000 E, zur Schadennummer 0000 vorgerichtliche Rechtsanwaltskosten in Höhe von 807,36 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklagte beantragt,die Klage abzuweisen.Sie wendet sich gegen das Bestehen eines Schadensersatzanspruchs und erhebt die Einrede der Verjährung.Wegen der weiteren Einzelheiten wird auf die gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Ein etwaiger Schadensersatzanspruch der Klägerin nach § 826 BGB oder § 823 BGB ist jedenfalls verjährt (1). Aus demselben Grund ist auch dem Feststellungsantrag aus Klageantrag Ziff. 2 nicht stattzugeben (2). Ein Anspruch aus § 852 BGB kommt nicht in Betracht (3).(1) Die bei Gericht am 20.05.2020 eingegangene Klageschrift desselben Datums vermochte die Verjährung nicht mehr i.S.d. § 204 Abs. 1 Nr. 1 BGB zu hemmen.Die geltend gemachten deliktischen Ansprüche unterliegen der regelmäßigen Verjährungsfrist von drei Jahren (§ 195 BGB). Die Verjährungsfrist begann gemäß § 199 Abs. 1 BGB mit dem Ende des Jahres 2015, so dass Verjährung mit Ablauf des Jahres 2018 eintrat. Nach § 199 Abs. 1 BGB beginnt die regelmäßige Verjährungsfrist mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger von den anspruchsbegründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste. Die hiernach erforderliche Kenntnis liegt im Allgemeinen vor, wenn dem Geschädigten die Erhebung einer Schadensersatzklage, sei es auch nur in Form der Feststellungsklage, erfolgversprechend, wenn auch nicht risikolos, möglich ist; weder ist notwendig, dass der Geschädigte alle Einzelumstände kennt, die für die Beurteilung möglicherweise Bedeutung haben, noch muss er bereits hinreichend sichere Beweismittel in der Hand haben. Ferner kommt es grundsätzlich nicht auf eine zutreffende rechtliche Würdigung an, es genügt vielmehr aus Gründen der Rechtssicherheit und Billigkeit im Grundsatz die Kenntnis der den Ersatzanspruch begründenden tatsächlichen Umstände (BGH, Urteil vom 15.3.2016, XI ZR 122/14). Ohne Belang ist es auch, ob der Geschädigte die Rechtswidrigkeit des Geschehens, das Verschulden des Schädigers und den in Betracht kommenden Kausalverlauf richtig einschätzt. Grob fahrlässige Unkenntnis von den anspruchsbegründenden Umständen liegt dann vor, wenn dem Gläubiger die Kenntnis fehlt, weil er die im Verkehr erforderliche Sorgfalt in ungewöhnlich grobem Maße verletzt und auch ganz naheliegende Überlegungen nicht angestellt oder das nicht beobachtet hat, was jedem hätte einleuchten müssen; ihm muss persönlich ein schwerer Obliegenheitsverstoß in seiner eigenen Angelegenheit der Anspruchsverfolgung vorgeworfen werden können. Ausreichend ist allerdings, wenn dem Gläubiger aufgrund der ihm grob fahrlässig unbekannt gebliebenen Tatsachen zugemutet werden kann, zur Durchsetzung seiner Ansprüche gegen eine bestimmte Person aussichtsreich, wenn auch nicht risikolos Klage, ggfls. in Form einer Feststellungsklage, zu erheben (BGH, Urteil vom 10.11.2009, VI ZR 247/08). Für die Frage, unter welchen Voraussetzungen der Gläubiger zur Vermeidung der groben Fahrlässigkeit zu einer aktiven Ermittlung gehalten ist, kommt es auf die Umstände des Einzelfalles an; für den Gläubiger müssen konkrete Anhaltspunkte für das Bestehen eines Anspruchs ersichtlich sein und es muss sich ihm der Verdacht eine möglichen Schädigung aufdrängen (BGH aaO).Das Gericht schließt sich der obergerichtlichen Rechtsprechung an, dass die regelmäßige 3-jährige Verjährung von Schadensersatzansprüche aus dem sog. Diesel- bzw. Abgasskandal im Jahr 2015 zu laufen begonnen hat und damit zum Zeitpunkt der Klageerhebung abgelaufen war. Aufgrund der umfassenden Berichterstattung in allen Medien ab Herbst 2015 und mangels des Vorbringens entgegenstehender, auf den konkreten Sachverhalt bezogener Gesichtspunkte ist auch vorliegend davon auszugehen, dass sich dem Kläger förmlich hätte aufdrängen müssen, dass sein Fahrzeug betroffen ist und dass ihm hieraus ein Schadensersatzanspruch gegen die Beklagte zusteht bzw. es grob fahrlässig war, nicht zu prüfen, ob das Fahrzeug betroffen war, ohne dass die Erhebung einer Klage unzumutbar gewesen wäre (OLG Köln, Beschluss vom 4.3.2020, 26 U 73/19; OLG München, Beschluss vom 3.12.2019, 20 U 5741/19; OLG Stuttgart, Urteil vom 7.4.2020, 10 U 455/19; OLG Koblenz, Urteil vom 30.6.2020, 3 U 1785/19).Über die Verwendung der Abschalteinrichtung ist ab September 2015 in Presse, Funk und Fernsehen umfangreich und wiederholt berichtet und in der breiten Öffentlichkeit diskutiert worden. Sie war unter Bezeichnungen wie "Diesel-Gate", "Dieselskandal", "VW-Abgasskandal" monatelang ein die Nachrichten beherrschendes Thema. Auch über die Einrichtung des Links zur Suchmaschine auf der Website der Beklagten, die Maßnahmen des KBA und die Bereitstellung des Software-Updates wurde in den Medien breit berichtet (BGH, Urteil vom 30. Juli 2020 - VI ZR 5/20 -, Rn. 36, juris). Bereits mit dieser umfassenden Medienberichterstattung sowie der sich dadurch aufdrängenden Annahme des Betroffenseins des eigenen Fahrzeugs hatte der Kläger die einen deliktischen Anspruch nach § 826 BGB stützenden Tatsachen ihrem wesentlichen Kern nach in der Hand; die fehlende Unkenntnis der Einzelumstände war demgegenüber für den Beginn der Verjährung ohne Bedeutung. Es musste sich dem Kläger aufdrängen, dass er durch den Einbau einer unzulässigen Abschalteinrichtung in dem Motor "betrogen" worden war und das erworbene Fahrzeug infolgedessen einen Minderwert aufwies. Dass die näheren konzerninternen Umstände der Entwicklung und des Vertriebs der "Schummelsoftware" nicht bekannt waren, ist für den Beginn der Verjährungsfrist ohne Belang. (OLG Köln aaO).Der Musterfeststellungsklage hat sich der Kläger nicht angeschlossen, sodass eine Hemmung der Verjährung hierdurch nicht vorliegt.2) Mangels Hauptanspruchs befand sich die Beklagte nicht in Annahmeverzug und besteht kein Anspruch auf Ersatz vorgerichtlichen Rechtsanwaltskosten.3) Der Anspruch des Klägers lässt sich auch nicht auf § 852 BGB stützen. Dafür müsste die Beklagte durch die unerlaubte Handlung (Entwicklung und Inverkehrbringung des streitgegenständlichen Motors) etwas auf Kosten des Klägers erlangt haben. Der Kläger begehrt in der Sache die ("Rück-")Zahlung des Kaufpreises, welchen er an den Verkäufer des Pkw geleistet hat. Wenngleich § 852 BGB nicht voraussetzt, dass der Zufluss unmittelbar und ohne Zwischenschritte aus dem Vermögen des Geschädigten zum Ersatzpflichtigen erfolgte, muss doch der Zufluss beim Ersatzpflichtigen mit einem entsprechenden Nachteil - in Form eines Abflusses oder eines entgangenen Zuflusses - beim Geschädigten korrespondieren (BeckOGK/Eichelberger, 1.8.2020, BGB § 852 Rn. 19; Hervorhebung hinzugefügt). Das ist hier bei Zugrundelegung der Klageanträge nicht erkennbar.Die Klage ist daher mit den prozessualen Nebenentscheidungen der §§ 91 Abs. 1, 709 S.1, 2 ZPO abzuweisen.
+			
+			
+			
+			Permalink: https://openjur.de/u/2453152.html (https://oj.is/2453152)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

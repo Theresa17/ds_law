@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG DarmstadtRechtsprechung vom 27.03.2017 - 13 O 543/16
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Darmstadt,  vom 27.03.2017 - 13 O 543/16
+                      m. Fundstelle
+                      LG Darmstadt,  vom 27.03.2017 - 13 O 543/16 = openJur 2019, 31942
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Darmstadt,  vom 27.03.2017 - 13 O 543/16
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 31942
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Ein vom VW-Abgasskandal betroffener Käufer kann keine Ersatzlieferung eines Fahrzeugs aus aktueller Produktion verlangen, wenn in der Bestellung des ursprünglichen Fahrzeugs ein konkreter Motortyp bezeichnet wurde und dieser Motortyp nicht mehr hergestellt wird; die Fahrzeuge aus aktueller Produktion gehören nicht derselben Gattung im Sinne von § 243 BGB an. 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits hat der Kläger zu tragen.Das Urteil ist hinsichtlich der Kosten gegen Sicherheitsleistung in Höhe von 110% der zu vollstreckenden Forderung vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten über die Ersatzlieferung eines Neufahrzeugs aus aktueller Produktion gegen Rückgabe eines vom sogenannten VW-Abgasskandal betroffenen Fahrzeugs des Baujahrs 2014.Der Kläger bestellte bei der Beklagten, einem Seat-Vertragshändler, gemäß verbindlicher Bestellung vom 11.09.2013 (Anlage K1 zur Klageschrift) einen Pkw des Typs Seat Alhambra mit Tageszulassung für 31.018,- €. In dem Bestellformular wurde der genaue Fahrzeugtyp folgendermaßen bezeichnet:"SEAT Alhambra Style Salsa 2.0 TDI Start&Stop 130 kW"Die Bestellung erfolgte unter Bezugnahme auf die Neuwagen-Verkaufsbedingungen des Volkswagen-Konzerns, deren Ziffer IV. 6. lautet:"Konstruktions- oder Formänderungen, Abweichungen im Farbton sowie Änderungen des Lieferumfangs seitens des Herstellers bleiben während der Lieferzeit vorbehalten, sofern die Änderungen oder Abweichungen unter Berücksichtigung der Interessen des Verkäufers für den Käufer zumutbar sind. Sofern der Verkäufer oder der Hersteller zur Bezeichnung der Bestellung oder des bestellten Kaufgegenstands Zeichen oder Nummern gebraucht, können allein daraus keine Rechte hergeleitet werden."Die Verkaufsanbahnung geschah über das Internet; ein Verkaufsgespräch fand nicht statt Auch bekam der Kläger von der Beklagten kein Informationsmaterial ausgehändigt.Mit Rechnung vom 27.01.2014 (ebenfalls Anlage K1 zur Klageschriftwurden dem Kläger von der Beklagten 31.451,65 € für das abholbereite Fahrzeug in Rechnung gestellt. Der Kläger zahlte den Kaufpreis und bekam das im Klageantrag näher bezeichnete Fahrzeug am 31.01.2014 übergeben.In dem streitgegenständlichen Fahrzeug ist ein Turbodieselmotor der Baureihe VW EA189 verbaut. Das Fahrzeug ist damit vom sogenannten VW-Abgasskandal betroffen (auch als Abgasaffäre oder - besonders in der Presse - als "Dieselgate" bezeichnet). Das Fahrzeug verfügt also über eine illegale Abschalteinrichtung in der Motorsteuerung, um die geltenden Abgasnormen zu umgehen. Die von Herstellerseite installierte Software, die für die Abgaskontrollanlage zuständig ist, erkennt dabei die Prüfungssituation durch ein "unnatürliches Fahrverhalten" (hohe Raddrehzahlen ohne Bewegung des Fahrzeugs). Bei diesen Bedingungen ist die Abgasaufbereitung so optimiert, dass möglichst wenig Stickoxide (NOx) entstehen. Im normalen Fahrbetrieb werden dagegen Teile der Abgaskontrollanlage außer Betrieb gesetzt, weshalb die NOx-Emissionen dann erheblich höher sind. Die auf dem Prüfstand gemessenen Emissionswerte lassen sich daher auch bei ansonsten vergleichbarer Fahrsituation hinsichtlich Drehzahl, Umgebungstemperatur, usw. im realen Fahrbetrieb nicht erreichen. Weltweit sind knapp elf Millionen Dieselfahrzeuge der Marken Volkswagen, Audi, Seat und Skoda von solchen Manipulationen betroffen, in Deutschland trifft dies 2.460.876 Fahrzeuge, darunter 104.197 Fahrzeuge der Marke Seat (vgl. zu alle) dem: https://de.wikipedia.org/wiki/Abgasskandal mit weiteren Nachweisen; abgerufen am 23.03.2017).Mit anwaltlichem Schreiben vom 15.01.2016 ließ der Kläger die Beklagte auffordern, bis zum 26.02.2016 gegen Rückgabe des streitgegenständlichen Fahrzeugs einen "nach aktuellen Vorschriften zulassungsfähigen mangelfreien und vertragsgemäßen Neuwagen" zu liefern und bis zum 29.01.2016 vorab den zu erwartenden Liefertermin mitzuteilen. Mit Schreiben vom 26.01.2016 erwiderte die Beklagte, dass sie in Bezug auf etwaige "Sachmängelhaftungsansprüche" im Zusammenhang mit der Motorsoftware des streitgegenständlichen Fahrzeugs bis zum 31.12.2016 auf die Einrede der Verjährung verzichte, soweit Ansprüche nicht bereits verjährt seien, da die Sachlage bislang nicht abschließend geklärt sei. Allein wegen einer Abweichung zwischen auf dem Prüfstand gemessenen Emissionswerten und den im realen Fahrbetrieb ermittelten Emissionswerten liege noch kein Mangel vor.Der Hersteller des streitgegenständlichen Fahrzeugs, die am Rechtsstreit nicht beteiligte SEAT S. A., legte ein Software-Update zur Neutralisierung der Abschalteinrichtung vor, welches vom Kraftfahrt-Bundesamt mit Schreiben vom 20.06.2016 freigegeben wurde. Der Hersteller führte im Januar 2017, also nach Anhängigkeit der Klage, eine Rückrufaktion hinsichtlich der vom Abgasskandal betroffenen Pkw des Typs Seat Alhambra durch, bei der die Halter gebeten wurden, sich mit den Seat-Vertragshändlern in Verbindung zu setzen, um die Motorsoftware nachbessern zu lassen. Dies werde zwischen 30 Minuten und einer Stunde dauern und für die Halter kostenlos sein. Auch werde während der Durchführung bei Bedarf eine individuell auf die Bedürfnisse des Kunden zugeschnittene angemessene Ersatzmobilität kostenfrei zur Verfügung gestellt. Der Kläger machte von diesem Angebot keinen Gebrauch.Der Kläger behauptet, er habe sich insbesondere aus Umweltaspekten nach reifer Überlegung aufgrund der allgemeinen Angaben und Broschüren von Seat bewusst gerade für das streitgegenständliche Fahrzeug entschieden. Als Bewohner von sei er für das Thema Schadstoffemissionen besonders sensibilisiert. Die Angaben zum Schadstoffausstoß seien aber nur mit der illegalen Softwaremanipulation einzuhalten und damit arglistig falsch angegeben worden.Das gelieferte Fahrzeug sei als mangelhaft anzusehen, da es im vorhandenen Zustand weder die vereinbarte Beschaffenheit noch eine Zulassungseignung aufweise. Die mittlerweile angebotene Nachbesserung der Motorsoftware diene allein der Einhaltung der öffentlich-rechtlichen Emissionsvorschriften, führe für den Verbraucher aber zu einem erhöhten Kraftstoffverbrauch, Minderleistung, einem höheren Partikelausstoß, einer Verkürzung der Lebensdauer des Motors, des Dieselpartikelfilters und weiterer Teile sowie zu einer erhöhten Geräuschentwicklung. Eine Beseitigung der Abschalteinrichtung ohne negative Folgen sei physikalisch ausgeschlossen. Ohne Nachbesserung sei das Fahrzeug des Klägers praktisch unverkäuflich, auch nach der Nachbesserung sei mit einem dauerhaften merkantilen Minderwert von mindestens 10%, möglicherweise bis zu 25% zu rechnen.Der Kläger ist der Auffassung, dass die von Softwaremanipulationen betroffenen Fahrzeuge derzeit nicht zulassungsfähig seien. Auch die Nachbesserungen entsprächen nicht den geltenden Anforderungen. Das Kraftfahrt-Bundesamt habe sich bei der Genehmigung der Nachbesserungen in rechtswidriger Weise über zwingende Vorgaben hinweggesetzt und sich so als Lobbyvertreter der Autoindustrie erwiesen.Vor diesem Hintergrund müsse sich der Kläger nicht auf die Nachbesserung verweisen lassen. Die Nacherfüllung sei insoweit gemäß §§ 275 Abs. 1, 326 Abs. 5 Satz 1 BGB unmöglich, weil die Nachbesserung zu neuen Mängeln führe und dem Fahrzeug zudem ein erheblicher merkantiler Minderwert verbleibe. Zudem sei dem Kläger auch aufgrund der langen Wartezeiten keine Durchführung des Software-Updates zumutbar. Vielmehr stehe dem Kläger ein sofortiger Anspruch auf Nachlieferung eines mangelfreien Neufahrzeugs gegen Rückgabe des streitgegenständlichen Fahrzeugs zu. Es liege keine Unmöglichkeit der Nachlieferung im Sinne von § 275 Abs. 1 BGB vor. Der Seat Alhambra werde noch in nahezu identischer Ausstattung produziert. Die geringen Abweichungen zwischen der Bestellung und der aktuellen Produktion, im Wesentlichen die Umstellung von der Abgasnorm Euro 5 auf Euro 6 verbunden mit einem geringen Leistungszuwachs, machten die aktuelle Produktion nicht zu einer anderen Gattung im Sinne von § 243 BGB. Gegebenenfalls müsse der Gattungsbegriff unter Berücksichtigung des Leistungsbestimmungsrechts aus Ziffer IV. 6. der Neuwagen-Verkaufsbedingungen so ausgelegt werden, dass auch das Nachfolgemodell des Klägerfahrzeugs aus aktueller Produktion derselben Gattung entspreche. Es sei treuwidrig, wenn sich die Beklagte selbst ein Leistungsbestimmungsrecht vorbehalte, dem Kläger aber nicht gestatte, an Änderungen der Produktion teilzuhaben.Ferner müsse die Beklagte den Kläger von vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.419,07 € freistellen, was einer 2,0-Geschäftsgebühr abzüglich einer 0,75-Gebühr nebst Kommunikationspauschale und Mehrwertsteuer entspricht.Der Kläger beantragt:1.Die Beklagtenpartei wird verurteilt, der Klägerpartei ein mangelfreies fabrikneues typengleiches Ersatzfahrzeug aus der aktuellen Serienproduktion des Herstellers mit identischer technischer Ausstattung wie das Fahrzeug Seat Alhambra, FIN: VSSZZZ7NZEV512214 Zug um Zug gegen Rückübereignung des mangelhaften Fahrzeugs Seat Alhambra, FIN: VSSZZZ7NZEV512214 nachzuliefern.2.Es wird festgestellt, dass sich die Beklagtenpartei mit der Rücknahme der im Klageantrag Ziffer 1 genannten Fahrzeuge [sic!] in Verzug befindet.3.Die Beklagtenpartei wird verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.419,07 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte bestreitet eine Mangelhaftigkeit des streitgegenständlichen Fahrzeugs. Das Fahrzeug sei technisch sicher, in seiner Fahrbereitschaft oder Gebrauchstauglichkeit nicht eingeschränkt und verfüge über alle erforderlichen Genehmigungen. Die Beklagte bzw. deren Mitarbeiter hätten selbst erst durch die allgemeine Berichterstattung von dem Abgasskandal erfahren, ein Vorwurf könne ihnen insoweit nicht gemacht werden.Die Beklagte bestreitet mit Nichtwissen, dass es dem Kläger auf ein besonders umweltfreundliches Fahrzeug angekommen sei. Erfahrungsgemäß sei für die Käufer von Neuwagen allein die Einstufung in die Abgasnorm von Interesse, nicht aber der tatsächliche Emissionsausstoß im Alltag.Die Beklagte ist der Auffassung, es sei dem Kläger zumutbar, sich auf das vom Hersteller angebotene Software-Update verweisen zu lassen. Dieses sei bereits auf zahlreichen Fahrzeugen installiert, ohne dass es zu Beanstandungen gekommen sei. Negative Folgen seien mit der Nachbesserung nicht verbunden, bei signifikanter Verbesserung der Emissionswerte. Die aktuellen Wiederverkaufspreise seien im Rahmen der üblichen Schwankungen stabil, auch in Zukunft sei kein Einbruch zu erwarten.Die Beklagte ist ferner der Auffassung, dass ein eventuell bestehender Nachlieferungsanspruch des Klägers wegen der zwischenzeitlichen Umstellung der Produktion jedenfalls unmöglich wäre.Hinsichtlich des weiteren Vortrags beider Seiten wird auf die zu den Akten gelangten Schriftsätze Bezug genommen. 
+				Gründe
+				Die Klage ist zulässig, insbesondere ist ein Feststellungsinteresse des Klägers in Bezug auf den Klageantrag zu 2.) gegeben. In der Sache ist die Klage ohne Erfolg.Das streitgegenständliche Fahrzeug, welches unstreitig vom VW-Abgasskandal betroffen ist, dürfe wohl aller Voraussicht nach als mangelbehaftet anzusehen sein. Allerdings steht dem Kläger im Ergebnis kein Anspruch auf Nachlieferung eines mangelfreien Neuwagens zu, da ein solcher Anspruch objektiv dauerhaft unmöglich und damit gemäß § 275 Abs. 1 BGB ausgeschlossen wäre.Bei dem Kauf eines zuvor unter Angabe der technischen Eigenschaften abstrakt bestellten Neufahrzeugs handelt es sich um einen Gattungskauf (vgl. Staudinger/Gottfried Schiemann (2015) BGB § 243 Rdnr. 9; vgl. ferner OLGR Düsseldorf 2005, 627-629; zit. nach juris). Beim Gattungskauf erlischt der Anspruch auf Nachlieferung gemäß § 275 Abs. 1 BGB wegen objektiver Unmöglichkeit, wenn die gesamte Gattung untergegangen ist und nicht mehr hergestellt wird bzw. auf dem Markt nicht mehr verfügbar ist (vgl. Staudinger/Georg Caspers (2014) BGB § 275 Rdnr. 19; Jauernig/Stadler, 16. Aufl. 2015, BGB § 275 Rdnr. 13; Seichter in: Herberger/Martinek/Rüßmann u.a., jurisPK-BGB, 8. Aufl. 2017, § 275 BGB Rdnr. 20). Das ist hier der Fall. Es ist sowohl aus der allgemeinen Berichterstattung als auch aus anderen Verfahren gerichtsbekannt, dass Fahrzeuge mit den von dem Abgasskandal betroffenen Motoren inzwischen nicht mehr hergestellt werden. Es mögen noch Restbestände mit dem im Klägerfahrzeug verbauten Motortyp vorhanden sein, solche Fahrzeuge wären aber schon aufgrund der zwischenzeitlichen Standzeiten nicht mehr als "fabrikneu" anzusehen.Ein Fahrzeug aus der aktuellen Produktion kann der Kläger nicht verlangen. Es wird nicht verkannt, dass durchaus noch Pkw des Typs Seat Alhambra mit 2.0-Liter-Turbodieselmotoren hergestellt werden und dass diese Fahrzeuge (trotz zwischenzeitlich erfolgter Modellpflegemaßnahmenkeiner gänzlich neuen Fahrzeuggeneration angehören. Die Fahrzeuge aus aktueller Produktion gehören jedoch nicht mehr derselben Gattung im Sinne von § 243 BGB an wie das streitgegenständliche Fahrzeug.Bei einer durch Rechtsgeschäft begründeten Gattungsschuld ist es Sache der Parteien, die Gattung durch eine beliebige Anzahl von Merkmalen beliebig eng oder weit zu definieren (vgl. Staudinger/Gottfried Schiemann (2015) BGB § 243 Rdnr. 8; MüKoBGB/Emmerich, 7. Aufl. 2016, BGB § 243 Rdnr. 6; jurisPK-BGB, 8. Aufl. 2017, § 243 BGB Rdnr. 3; alle mit weiteren Nachweisen). Hier hat der Kläger in seiner Bestellung den Fahrzeugtyp bestimmt als "SEAT Alhambra Style Salsa 2.0 TDI Start&Stop 130 kW", also als Fahrzeug mit einem Dieselmotor mit Direkteinspritzung und Turboaufladung ("TDI") mit zwei Litern Hubraum ("2.0") und einer Höchstleistung von 130 kW. Aufgrund dieser Merkmale lässt sich der bestellte Motor eindeutig der Motorbaureihe VW EA189 zuordnen. Motoren dieses Typs werden seit Mai 2015 nicht mehr im Seat Alhambra verbaut, sondern solche der Motorbaureihe VW EA288, die sich hinsichtlich diverser Leistungsmerkmale, Verbrauch und Abgasnorm von dem bestellten Motortyp wie folgt unterscheiden:  Klägerfahrzeug aktuelle ProduktionMotorbaureihe VW EA189 VW EA288Motorkennbuchstaben CFGC CUWABauzeitraum 01/2013-05/2015 seit 05/2015max. Leistung bei min-1: 130 kW/4200 135 kW/3500-4000max. Drehmoment bei min-1: 380 Nm/1750-2500 380 Nm/1750-3000maximale Zuladung: 641-645 kg 671-712 kgBeschleunigung 0-100 km/h: 9,3-9,6 s 8,9 sHöchstgeschwindigkeit: 206-208 km/h 211-215 km/hKraftstoffverbrauch auf 100 km (kombiniert, nach EWG-Richtlinie): 5,8-5,9 l Diesel 5,3—5,8 l DieselCO2-Emission, kombiniert: 152-154 g/km 138—152 g/kmAbgasnorm nach EU-Klassifikation: Euro 5 Euro 6(vgl. zu alledem die Angaben zum nahezu baugleichen VW Sharan II unter https://de.wikipedia.org/wiki/VW_Sharan_II; abgerufen am 23.03.2017)Es mag sein, dass diese Abweichungen auf den ersten Blick unbedeutend wirken, dennoch handelt es sich bei der Motorbaureihe VW EA288 gerichtsbekanntermaßen nicht um eine bloße Überarbeitung des in der Bestellung genannten Motors, sondern um eine gänzlich neu entwickelte Baureihe, den sogenannten modularen Dieselbaukasten (MDB). Da in der Bestellung ausdrücklich eine konkrete Motorisierung genannt ist, diese aber seit Mai 2015 nicht mehr hergestellt wird, ist die begehrte Lieferung eines Neufahrzeugs der vereinbarten Gattung objektiv dauerhaft nicht mehr möglich.Die von der Klägerseite aufgeführte Klausel zum Leistungsbestimmungsrecht für den Verkäufer aus Ziffer IV. 6. der Neuwagen-Verkaufsbedingungen führt zu keinem anderen Ergebnis. Es wird nicht verkannt, dass die vertraglichen Vereinbarungen der Parteien über die Gattung gemäß §§ 133, 157 BGB grundsätzlich der ergänzenden Auslegung offen stehen. Allerdings hat die genannte Klausel allein ein Leistungsbestimmungsrecht für den Verkäufer zum Gegenstand. Ein spiegelbildlicher Anspruch des Käufers auf Lieferung eines Fahrzeugs, welches von der vereinbarten Gattung abweicht, lässt sich daraus nicht herleiten. Insbesondere lässt sich daraus nicht der Schluss ziehen, dass sich der Käufer im Falle einer zwischenzeitlichen Umstellung der Produktion nicht mehr auf die Lieferung eines Fahrzeugs mit den von ihm ausdrücklich bestellten Merkmalen verweisen lassen müsse.Der Gattungsbegriff kann nicht unter Berücksichtigung der Verkehrsauffassung auf die aktuelle Produktion ausgedehnt werden. Haben die Parteien - wie hier - die Gattung rechtsgeschäftlich definiert, kann für die Bestimmung der Gattung insoweit nicht an eine eventuell abweichende allgemeine Verkehrsauffassung angeknüpft werden (vgl. Staudinger/Gottfried Schiemann (2015) BGB § 243 Rdnr. 8; Jauernig/Berger, 16. Aufl. 2915, BGB § 243 Rdnr. 3; MüKoBGB/Emmerich, 7. Aufl. 2016, BGB § 243 Rdnr. 6; BeckOK BGB/Sutschet, 41. Ed. 01.11.2016, BGB § 243 Rdnr. 5; alle mit weiteren Nachweisen). Gattungen im Sinne von § 243 Abs. 1 BGB sind nämlich nicht durch die Verkehrsanschauung vorgegeben, sondern können durch eine beliebig große Zahl von Merkmalen in unbegrenzter Zahl gebildet werden (vgl. Toussaint in: Herberger/Martinek/Rüßmann u.a., jurisPK-BGB, 8. Aufl. 2017, § 243 BGB Rdnr. 3 mit weiteren Nachweisen), wie es hier in Bezug auf die Motorisierung geschehen ist. Der Kläger kann sich daher insoweit nicht darauf berufen, dass der Seat Alhambra aus der aktuellen Produktion in der allgemeinen Wahrnehmung noch als dasselbe Modell wie das von ihm bestellte Fahrzeug angesehen werde.Soweit die Klägerseite die Anwendung von § 275 Abs. 1 BGB vor dem Hintergrund der oben genannten Leistungsbestimmungsklausel als treuwidrig bewertet, verkennt diese Ansicht, dass es sich bei der objektiven dauerhaften Unmöglichkeit gemäß § 275 Abs. 1 BGB nicht um eine Einrede handelt, sondern um eine echte Einwendung, die von Amts wegen zu berücksichtigen ist (vgl. Staudinger/Georg Caspers (2014) BGB § 275 Rdnr. 124), sodass für die Prüfung einer Treuwidrigkeit kein Raum ist.Die Versagung der Ersatzlieferung eines Fahrzeugs aus der aktuellen Produktion erscheint im Ergebnis nicht unbillig. Es ist ein gefestigter Grundsatz des deutschen Zivilrechts, im Rahmen des Gewährleistungs- und Schadensersatzrechts möglichst genau den Zustand herzustellen, der geherrscht hätte, wenn sich die andere Seite von Anfang an vertragstreu verhalten hätte. Darüber hinaus soll aber keine Partei belohnt oder bestraft werden, weshalb sich insbesondere Vergleiche mit der vor einem gänzlich anderen rechtlichen Hintergrund stattfindenden Aufarbeitung des Abgasskandals in den Vereinigten Staaten von Amerika verbieten. Hätte der Kläger im Januar 2014 ein Fahrzeug ohne Softwaremanipulationen erhalten, welches exakt seiner Bestellung entsprochen hätte, so wäre dies ein Seat Alhambra des Modelljahrs 2014 mit der Abgasnorm Euro 5 und den entsprechenden Leistungsdaten gewesen, nicht aber ein Seat Alhambra aus der überarbeiteten Produktion des Jahres 2017 mit der Abgasnorm Euro 6. Der Kläger wäre im Falle der von ihm begehrten Ersatzlieferung also erheblich besser gestellt als im Falle der ursprünglichen Lieferung eines mangelfreien Fahrzeugs wie bestellt. Eine solche Besserstellung ist von Sinn und Zweck des Gewährleistungsrechts nicht mehr erfasst. Auch die für Dieselfahrzeuge am Wohnort des Klägers drohenden Fahrverbote führen zu keiner anderen Abwägung. Denn mit der vertraglich geschuldeten Einhaltung der Abgasnorm Euro 5 wäre der Kläger ganz unabhängig vom Abgasskandal in jedem Fall von den für geplanten Fahrverboten für Dieselfahrzeuge betroffen, von denen laut allgemeiner Berichterstattung allein Fahrzeuge ausgenommen werden sollen, welche die Abgasnorm Euro 6 erfüllen. Die Einhaltung der Abgasnorm Euro 6 ist die Beklagte dem Kläger aber nicht schuldig. Auch übergeordnete allgemeine Interessen wie der Umweltschutz oder die Volksgesundheit führen im Ergebnis zu keiner anderen Abwägung, denn es dürfte von der Gesamtökobilanz her signifikant günstiger sein, das unstreitig fahrtaugliche Klägerfahrzeug (ggf. nach einer Aktualisierung der Motorsoftwarenormal weiter zu nutzen, statt es durch ein unter erheblichem Einsatz von Rohstoffen und Energie erst noch zu produzierendes Fahrzeug zu ersetzen. Ohnehin wirkt der Vortrag des Klägers, ihm sei ein umweltfreundlicher und sparsamer Betrieb seines Fahrzeugs besonders wichtig gewesen und er habe sich aus Gründen des Umweltschutzes und der Ressourcenschonung bewusst gerade für das streitgegenständliche Fahrzeug entschieden, zumindest erstaunlich. Denn der Kläger hat sich bei seiner Bestellung für die damalige Spitzenmotorisierung unter den Dieselmotoren für den Seat Alhambra entschieden, der auch mit schwächeren Motoren mit entsprechend niedrigerem Verbrauch und geringerem Schadstoffausstoß angeboten wurde und wird. Daher lässt sich aus der konkreten Kaufentscheidung des Klägers kein objektiver Anhaltspunkt für ein besonderes Interesse des Klägers am Umweltschutz herleiten.Da somit kein Ersatzlieferungsanspruch besteht, befindet sich die Beklagte auch nicht in Annahmeverzug in Bezug auf die Rücknahme des ursprünglich gelieferten Fahrzeugs. Gleichzeitig steht dem Kläger damit kein Anspruch auf Freistellung von seinen vorgerichtlichen Rechtsanwaltskosten zu. Hinzu kommt, dass die geltend gemachten vorgerichtlichen Rechtsanwaltskosten jedenfalls überhöht sein dürften. Die Kanzlei des Klägervertreters vertritt nach eigenen Angaben in der öffentlichen Berichterstattung mehr als 35.000 vom Abgasskandal betroffene Kunden. Es ist daher davon auszugehen, dass bei der vorgerichtlichen (und gerichtlichen) Bearbeitung dieser Fälle weitgehend auf vorgefertigte Textbausteine zurückgegriffen wird, die lediglich in einzelnen Punkten an den konkreten Einzelfall angepasst werden. Vor dem Hintergrund dieses weitgehend standardisierten Vorgehens dürfte hier wohl jedenfalls nicht mehr als die 1,3-Schwerpunktgebühr gemäß Nr. 2300 VV RVG verdient worden sein.Im Übrigen spricht vieles dafür, dass in dem Fall, dass eine Nachlieferung grundsätzlich noch möglich sein sollte, diese jedenfalls als unverhältnismäßig im Sinne des § 439 Abs. 3 BGB anzusehen wäre, sodass der Kläger wohl jedenfalls gehalten wäre, die angebotene Nachbesserung im Wege der Nacherfüllung als milderes Mittel entgegenzunehmen. Anders wäre dies wohl nur dann, wenn, wie von Klägerseite behauptet, die angebotene Nachbesserung untauglich wäre, zu einem mangelfreien Fahrzeug zu gelangen.Im Falle der Nachlieferung müsste die Beklagte dem Kläger einen Neuwagen übereignen und erhielte den streitgegenständlichen, gut drei Jahre alten Wagen zurück. Dieser hat unabhängig von seinem konkreten Zustand schon allein durch den Zeitablauf erheblich an Wert verloren. In Höhe der Differenz zwischen dem Wert beider Fahrzeuge entstünde der Beklagten somit ein beträchtlicher Schaden, weil der Kläger als Verbraucher wohl nicht zu einer Herausgabe der Nutzungen bzw. Wertersatz verpflichtet wäre. Im Gegensatz dazu kann die Installation eines bloßen Software-Updates der Beklagten keine erheblichen Kosten verursachen. Entgegen der Ansicht des Klägers kommt es auf die vermutlich äußerst erheblichen Kosten, welche dem Hersteller für die Entwicklung dieses Updates entstanden sein mögen, im Verhältnis zwischen den Parteien nicht an.Ferner wäre zu prüfen, ob auf die Nachbesserung ohne erhebliche Nachteile für den Kläger zurückgegriffen werden kann. Dies wäre vermutlich zu bejahen. Der Kläger hat nicht behauptet, in seiner tatsächlichen Nutzung des Fahrzeugs eingeschränkt zu sein. Auch hat der Hersteller des Fahrzeugs zugesichert, sämtliche Kosten für die Nachbesserung zu übernehmen und auch "Ersatzmobilität" zur Verfügung stellen.Wegen der uneingeschränkten Nutzbarkeit des Wagens ist auch nicht ersichtlich, dass dem Kläger das längere Zuwarten bis zu der Nachbesserung unzumutbar wäre. Unerheblich dürfte in diesem Zusammenhang auch die Darstellung eines besonderen Vertrauensverlustes durch den Kläger sein. So nachvollziehbar insoweit eine Enttäuschung, ja Verärgerung des Klägers ist, so müsste jedenfalls im Verhältnis zwischen den Parteien berücksichtigt werden, dass derzeit keine Anhaltspunkte für ein arglistiges Verhalten der Beklagten erkennbar sind. Vielmehr dürfte diese wohl ebenso als Opfer der Softwaremanipulationen anzusehen sein wie die betroffenen Kunden. Ein arglistiges Verhalten von Seiten von Mitarbeitern des Herstellers oder gar von dessen Zulieferern ist der Beklagten als Vertragshändler jedenfalls nicht zuzurechnen (vgl. OLG Celle MDR 2016,1016 [OLG Celle 30.06.2016 - 7 W 26/16]; LG Frankenthal VersR 2016, 1516 ff. [LG Frankenthal 12.05.2016 - 8 O 208/15]; beide zit. nach juris).Soweit der Kläger behauptet, die Softwareaktualisierung würde sich nachteilig auf Lebensdauer, Verbrauch und Leistungsfähigkeit des Fahrzeugs auswirken und es würde ein merkantiler Minderwert verbleiben, könnten diese streitigen Behauptungen an dem konkreten Fahrzeug zudem wohl erst dann überprüft werden, wenn die angekündigte Softwareinstallation tatsächlich erfolgt ist.Andere Aspekte, welche die Anträge des Klägers begründen könnten, sind nicht ersichtlich. Die Klage ist daher abzuweisen.Die Kostenentscheidung erging nach § 91 ZPO. Die Entscheidung zur vorläufigen Vollstreckbarkeit erging nach § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2175230.html (https://oj.is/2175230)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert3
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

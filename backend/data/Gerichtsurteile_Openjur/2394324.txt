@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG München IRechtsprechungEndurteil vom 24.02.2021 - 20 O 4380/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG München I, Endurteil vom 24.02.2021 - 20 O 4380/19
+                      m. Fundstelle
+                      LG München I, Endurteil vom 24.02.2021 - 20 O 4380/19 = openJur 2022, 8246
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG München I, Endurteil vom 24.02.2021 - 20 O 4380/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 8246
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				I. Die Klage wird abgewiesen.II. Die Klägerin trägt die Kosten des Rechtsstreits.III. Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 110% des vollstreckbaren Betrags. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatzansprüche wegen eines Fahrzeugkaufs.Mit Kaufvertrag vom 29.03.2017 erwarb der Kläger einen gebrauchten Audi A6 3.0 TDI zum Kaufpreis von € 44.398 von der Beklagten zu 1), einer Audi-Vertragshändlerin. In dem Fahrzeug ist ein 3.0 l V6-Turbodiesel Motor verbaut, der von der Beklagten zu 2) hergestellt wurde. Für Fahrzeuge vom Typ des streitgegenständlichen war eine Typengenehmigung nach der Abgasnorm EU 6 erteilt worden. Das Fahrzeug war fremdfinanziert. Es wurde am 07.04.2017 an den Kläger übergeben.Dem Kaufvertrag liegen die Gebrauchtwagen-Verkaufsbedingungen (Anl. B 1) der Beklagten zu 1) zugrunde.Dort heißt es in Ziffer VI.:1. Ansprüche des Käufers wegen Sachmängeln verjähren in einem Jahr ab Ablieferung des Kaufgegenstandes an den Kunden.Gemäß einer Pressemitteilung des Kraftfahrtbundesamtes vom 23.1.2018 (Anl. R 1a) wurde bei der Überprüfung des Audi 3.0 l Euro 6 - Modells A6 durch das KBA mindestens eine unzulässige Abschalteinrichtung nachgewiesen.Mit Schreiben vom 15.03.2019 (Anlage K 74) trat der Kläger vom Kaufvertrag zurück.Am 12.11.2018 wurde vom KBA ein Software-Update für die Fahrzeuge des streitgegenständlichen Typs freigegeben.Im Kaufvertrag war dem Kläger ein vertragliches Rückgaberecht eingeräumt worden. Hiervon machte der Kläger Gebrauch und veräußerte das Fahrzeug mit Kaufvertrag vom 12.5.2020 (Anl. S, nach Bl. 428) zum Kaufpreis von € 25.824.47 an die Beklagte zu 1).Die Klägerin behauptet, der streitgegenständliche Motor sei mit mehreren unzulässigen Abschalteinrichtungen ausgestattet.Die Software aktiviere auf dem Prüfstand eine Aufheizstrategie, die den Schadstoffausstoß reduziere. Die Software erkenne, ob das Fahrzeug sich auf dem Prüfstand oder im Realverkehr befinde, am Lenkradeinschlagwinkel. Im Straßenbetrieb werde diese Funktion abgeschaltet, wodurch das Fahrzeug mehr Schadstoffe ausstoßen.Weiter verwende die Beklagte zu 2) in dem streitgegenständlichen Fahrzeug eine illegale Abschalteinrichtung in Form eines Thermofensters. Das System gebe ein konkretes Temperaturfenster zwischen 17°C und 33 °C vor. Nur in diesem Bereich funktioniere das Emissionskontrollsystem und die Grenzwerte würden eingehalten. Bei Temperaturen unter 17°C und über 33°C würden dort deutlich mehr Abgase produziert werden. Die Temperatur auf dem Prüfstand betrage 20-24°, sodass sich entsprechend günstige Werte auf dem Prüfstand ergeben würden.Außerdem verwende Audi die sogenannte SCR-Technologie mit AdBlue. Dabei sei die AdBlueEinspritzung manipuliert. Nur auf dem Prüfstand werde ausreichend viel AdBlue verwendet, um die Grenzwerte einzuhalten. Die Software erkenne die Prüfstand-Situation vermutlich wiederum aufgrund des Lenkradeinschlagwinkels. Im Straßenverkehr werde die Verwendung von AdBlue reduziert. Hintergrund sei, dass die Tanks für die erforderliche Menge AdBlue nicht groß genug seien. Wäre die Einspritzung so eingestellt, dass sie eine ordnungsgemäße Reduzierung der Stickoxide gewährleisten würde, würde das Fahrzeug erheblich mehr AdBlue verbrauchen. Die tatsächliche Dosierung sei viel zu gering, um die gesetzlich vorgeschriebenen Werte einzuhalten.Darüber hinaus wirke eine verbaute Manipulationssoftware auf das Getriebe des Fahrzeugs ein. Sobald das Lenkrad um mehr als 15° gedreht werde, was auf dem Prüfstand normalerweise nicht vorkomme, im Straßenverkehr hingegen völlig normal sei, schalte die Software um. Es werde Einfluss auf die Schaltpunkte des Getriebes genommen. Die Schaltpunkte des Getriebes bei kaltem Motor ohne Lenkradwinkeleinschlag seien höher als nach einem Lenkradeinschlag.Der Kläger trägt weiter vor, es sei ihm nicht bekannt, auf welchen Manipulationen der Rückruf durch das KBA beruhe.Der Kläger ist der Auffassung, das Fahrzeug weise einen Sachmangel nach § 434 Abs. 1 Satz 1 BGB, hilfsweise nach § 434 Abs. 1 Satz 2 Nummer 2 BGB, auf. Zudem liege ein Rechtsmangel im Sinne von § 435 BGB vor, da dem Kläger zum Zeitpunkt der Fahrzeugübergabe die Stilllegung des Fahrzeugs gedroht habe. Die Mängel seien nicht behebbar. Eine folgenlose Nachbesserung der vorliegenden Problemproblematik sei nicht möglich, auch nicht mit dem Software-Update. Eine Frist zur Nacherfüllung sei entbehrlich. Gegenüber der Beklagten zu 1) bestehe ein Rücktrittsrecht. Außerdem hafte sie auf Schadensersatz. Die Beklagte zu 2) hafte aus Deliktsrecht.Die Klägerin stellt daher folgenden Antrag:1. Die Beklagte zu 1 wird verurteilt, an die Klagepartei € 12.064,84 nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 30.09.2019 nebst weiterer Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz p.a. vom 30.03.2019 bis 12.05.2020 aus € 25.824,87 zu bezahlen.2. Es wird festgestellt, dass die Beklagtenpartei zu 2) verpflichtet ist, der Klagepartei Schadensersatz zu bezahlen für Schäden, die daraus resultieren, dass die Beklagtenpartei zu 2) das Fahrzeug Audi A6 3.0 TDI Fahrzeugidentifikationsnummer: ... dahingehend beeinflusst hat, dass dieses hinsichtlich der Abgasstoffmenge im Prüfstandbetrieb einen geringeren Ausstoß aufweist als im regulären Betrieb im Straßenverkehr.Hilfsweise:2. Es wird festgestellt, dass die Beklagtenpartei zu 2 verpflichtet ist, der Klagepartei Schadensersatz zu leisten für Schäden, die daraus resultieren, dass die Beklagtenpartei zu 2 in den Motor, Typ 3.0 l V6 Dieselmotor, des Fahrzeugs Audi A6 3.0 TDI Fahrzeugidentifikationsnummer ... eine unzulässige Abschaltungseinrichtung in der Form einer Software eingebaut hat, welche bei Erkennung standardisierter Prüfstandsituationen (NEFZ) die Abgasaufbereitung so optimiert, dass möglichst wenige Stickoxide (NOx) entstehen und Stickoxidemissionsmesswerte reduziert werden, und die im Normalbetrieb Teile der Abgaskontrollanlage außer Betrieb setzt, sodass es zu einem höheren NOx-Ausstoß führt.Höchst hilfsweise:2a. Die Beklagtenpartei zu 2 wird verurteilt, an die Klagepartei € 14.319,35 nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 30.03.2019 nebst weiterer Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz p.a. vom 30.03.2019 bis 12.05.2020 aus € 25.824,47 zu bezahlen.2b. Es wird festgestellt, dass die Beklagtenpartei zu 2) verpflichtet ist, der Kläger Partei Schadensersatz zu bezahlen für weitere Schäden, die daraus resultieren, dass die Beklagtenpartei zu 2) das Fahrzeug Audi A6 3.0 TDI Fahrzeugidentifikationsnummer: ... dahingehend beeinflusst hat, dass dieses hinsichtlich der Abgasstoffmenge im Prüfstandbetrieb einen geringeren Ausstoß aufweist als im regulären Betrieb im Straßenverkehr.Hilfsweise:2b. Es wird festgestellt, dass die beklagten Partei zu 2 verpflichtet ist, der Klagepartei Schadensersatz zu leisten für weitere Schäden, die daraus resultieren, dass die Beklagtenpartei zu 2) in den Motor, Typ 3.0 l V6 Dieselmotor, des Fahrzeugs Audi A6 3.0 TDI Fahrzeugidentifikationsnummer:...49 eine unzulässige Abschalteinrichtung in der Form einer Software eingebaut hat, welche bei Erkennung standardisierte Prüfstandsituationen (NEFZ) die Abgasaufbereitung so optimiert, dass möglichst wenige Stickoxide (NOx) entstehen und Stickoxidemissionmesswerte reduziert werden, und die im Normalbetrieb Teile der Abgaskontrollanlage außer Betrieb setzt, sodass es zu einem höheren NOx-Ausstoß führt.4. Die Beklagtenparteien werden jeweils getrennt, nicht gesamtschuldnerisch verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von jeweils € 2613,24 freizustellen.Die Beklagten beantragenKlageabweisung.Die Beklagte zu 1) erhebt die Einrede der Verjährung und beruft sich dabei auf Ziffer VI ihrer AGB. Ein Sachmangel liege nicht vor, da dem Kläger das Software-Update angeboten worden sei. Es fehle darüber hinaus an der erforderlichen Nachfristsetzung, außerdem sei der Rücktritt nach § 323 Abs. 5 Satz 2 BGB ausgeschlossen.Die Beklagte zu 2) bestreitet die Aktivlegitimation des Klägers, da das Fahrzeug fremdfinanziert sei.Sie räumt ein, dass betreffend die Arbeitsweise des SCR-Katalysators ein Nachbesserungsbedarf bestanden habe, weshalb ein Software-Update entwickelt worden sei, das auch vom KBA genehmigt worden sei. Diese AdBlue-Problematik sei die Grundlage für den Rückruf durch das KBA gewesen. Nicht richtig sei jedoch, dass die AdBlueEinspritzung nicht ordnungsgemäß erfolge und lediglich im Rollenprüfstand ausreichend viel AdBlue verwendet würde, um die Grenzwerte einzuhalten.Die Beklagte zu 2) ist der Auffassung, der Kläger verfüge durch das Aufspielen des Software-Updates über eine Möglichkeit, die unzulässige Abschalteinrichtung zu beseitigen. Das Thermofenstern stelle keine unzulässige Abschaltungseinrichtung dar. Es sei erforderlich, um das Fahrzeug vor Motorschäden zu schützen. Der Sachvortrag der Klagepartei zum SCR-Katalysator und zum Getriebe werde bestritten.Der Kläger meint, soweit sich die Beklagte zu 1) auf Verjährung berufen würden, sei die Verkürzung der Verjährungsfrist auf ein Jahr in den AGB unwirksam. 
+				Gründe
+				Die zulässige Klage ist unbegründet. Der Kläger besitzt keinen Anspruch gegen die Beklagten auf Rückzahlung bzw. Erstattung des Kaufpreises Zug um Zug gegen Übereignung und Herausgabe des streitgegenständlichen Fahrzeugs.Die Klage ist sowohl in den Hauptanträgen als auch in den Hilfsanträgen unbegründet.I. Es beseht kein Anspruch gegen die Beklagte zu 1), weil die Sachmängelgewährleistungsrechte jedenfalls verjährt sind.Gemäß Ziffer VI. 1. der Gebrauchtwagen-Verkaufsbedingungen der Beklagten zu 1) verjähren Ansprüche des Käufers wegen Sachmängeln in einem Jahr ab Ablieferung des Kaufgegenstandes an den Kunden.Ziffer VI. 1. ist entgegen der Auffassung der Klagepartei wirksam. Soweit sich die Klagepartei auf die Entscheidung des BGH vom 29.04.2015, VIII ZR 104 aus 14, beruft, lagen dieser andere AGB zugrunde.Grundsätzlich hat der BGH in dem zitierten Verfahren die Möglichkeit der Verkürzung der Verjährungsfrist auf ein Jahr beim Gebrauchtwagenkauf bejaht, stellte jedoch einen Verstoß gegen das Transparenzgebot des § 307 Abs. 1 S. 2 BGB fest. Die streitgegenständlichen AGB sehen zwar, ebenso wie die in der Entscheidung des BGH bemängelten AGB, auch Ausnahmen von der einjährigen Verjährungsfrist vor, sie sind aber anders formuliert als die vom BGH seinerzeit zu beurteilenden. In Ziffer VI. 2 der AGB der Beklagten zu 1) werden nicht Schadensersatzansprüche generell ausgenommen, sondern nur solche aus Sachmängelhaftung, die auf einer grob fahrlässigen oder vorsätzlichen Verletzung von Pflichten des Verkäufers oder seines Erfüllungsgehilfen beruhen sowie bei der Verletzung von Leben, Körper und Gesundheit. Insoweit sind die Schadensersatzansprüche, für die eine andere Verjährungsregelung gilt als die einjährige Verjährungsfrist, klar umrissen und es ergibt sich nicht der in der Entscheidung des BGH dargestellte Widerspruch, der die Verjährungsverkürzung auf ein Jahr intransparent erscheinen ließ.Das streitgegenständliche Fahrzeug wurde am 07.04.2017 an den Kläger übergeben. Verjährung trat daher ein Jahr später ein, so dass bereits zum Zeitpunkt der Rücktrittserklärung mit Schreiben vom 15.03.2019 die Verjährungsfrist abgelaufen war.II. Es besteht auch kein Anspruch gegen die Beklagte zu 2), weil die Anspruchsvoraussetzungen für einen deliktischen Anspruch nicht erfüllt sind. Vertragliche Ansprüche kommen mangels Vertragsbeziehung zwischen dem Kläger und der Beklagten zu 2) ohnehin nicht in Betracht.Die Klagepartei hat zuletzt mit Anlagenkonvolut K 105 den Bescheid des KBA vorgelegt, mit dem der Rückruf wegen unzulässiger Abschalteinrichtung angeordnet wurde. Aufgrund der Fahrzeugtypengenehmigungsummer konnte der Bescheid auch unschwer dem streitgegenständlichen Fahrzeug zugeordnet werden. Die Beklagte zu 2) hat dann auch bestätigt, dass es sich um den richtigen Bescheid handle. Somit steht fest, dass der Rückruf wegen unzulässiger Abschalteinrichtung auf der SCR-Katalysator-Problematik beruht, die die Klagepartei in der Klage auch angesprochen hat.1) Es ist kein Anspruch gemäß §§ 826,31 BGB wegen vorsätzlicher sittenwidriger Täuschung gegeben. Die Voraussetzungen für eine vorsätzliche sittenwidrige Täuschung durch die Beklagte sind nicht vorgetragen.a) Das Gericht ist weiterhin der Auffassung, die es bereits in seinem Hinweisbeschluss vom 15.7.2020 geäußert hat, dass der klägerische Sachvortrag zum Vorliegen einer unzulässigen Abschalteinrichtung nicht ausreichend substantiiert ist, soweit es nicht um die vom KBA als unzulässig eingestufte AdBlue-Technologie geht. Nachdem das KBA als insoweit maßgebliche Behörde die AdBlue-Technologie als unzulässige Abschalteinrichtung eingestuft hat, sind insoweit die Anforderungen an einen substantiierten Sachvortrag herabzusetzen.Bzgl. der darüber hinaus ins Feld geführten Abschalteinrichtungen (Aufheizstrategie, Thermofenster, Getriebemanipulation) ist das Gericht der Auffassung, dass die Umstände, die die Klagepartei anführt, um ihren Verdacht einer unzulässigen Abschalteinrichtung zu begründen, nicht ausreichend spezifiziert vorgetragen sind, um eine Beweisaufnahme darauf zu stützen. Das Vorliegen einer unzulässigen Abschalteinrichtung setzt einen spezifizierten Sachvortrag dazu voraus, dass sich der Schadstoffausstoß im Falle der Änderung gewisser Bedingungen verändert, weil auf das Emissionskontrollsystem eingewirkt wird, und wie er sich konkret verändert. Es sind hier weit strengere Anforderungen an den Sachvortrag zu stellen als in den Fällen, in denen das streitgegenständliche Fahrzeug mit einem EA189- Motor ausgestattet ist, für den das KBA bereits das Vorliegen einer unzulässigen Abschalteinrichtung festgestellt hat und in seinem Rückrufbescheid ausführlich begründet hat. Das Gericht hält es durchaus für zumutbar, konkrete Abgaswerte in Zahlen vorzutragen, aus denen sich die Veränderung der Werte für den streitgegenständlichen Motor unter bestimmten Bedingungen ergibt.b) Die Voraussetzungen für eine vorsätzliche sittenwidrige Täuschung sind darüber hinaus nicht dargetan, so dass die Klagepartei auch auf die AdBlue-Technologie keinen Anspruch aus § 826 BGB stützen kann.Das Urteil des BGH zum EA189-Motor vom 25.5.2020, Az. VI ZR 252/19, stützt die Verurteilung wegen vorsätzlicher sittenwidriger Schädigung auf die strategische Konzernentscheidung, aktiv und präzise die Motorsteuerungssoftware im Hinblick auf ein gewolltes Ergebnis zu manipulieren und durch Täuschung des KBA die Typenzulassung zu erhalten. Entsprechende Feststellungen hat der BGH als gegeben und als nicht zu beanstanden erachtet. Ein Sachvortrag, der derartige Feststellungen begründen könnte, liegt jedoch im vorliegenden Fall nicht vor, weshalb die BGH-Entscheidung auf den vorliegenden Fall nicht übertragbar ist.Bei der Verwendung einer Umschaltlogik, bei der die Software erkennt, ob sich das Fahrzeug auf dem Prüfstand oder im Normalbetrieb befindet und - wie beim EA189-Motor - in den entsprechenden Modus schaltet, ergibt sich die Sittenwidrigkeit schon aus der Verwendung einer solchen Umschaltlogik. Eine solche Abschalteinrichtung ist erkennbar unzulässig, so dass am Vorsatz nicht zu zweifeln ist. Bei einer anderen die Abgasreinigung beeinflussenden Motorsteuerungssoftware kann beim Fehlen konkreter Anhaltspunkte aber nicht ohne weiteres unterstellt werden, dass die Verantwortlichen in dem Bewusstsein agiert haben, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden.Die Diskussion um die Zulässigkeit des Thermofensters verdeutlicht, dass die Rechtslage insoweit nicht eindeutig ist und nicht der Vorwurf einer vorsätzlich sittenwidrigen Schädigung oder bewussten Täuschung gemacht werden kann, wenn der Hersteller bisher von der Zulässigkeit eines Thermofensters ausgegangen ist.Dies gilt auch für die weiteren behaupteten Abschalteinrichtungen, insbesondere der vom KBA als unzulässige Abschalteinrichtung eingestuften AdBlue-Strategie. Aus ihrer Unzulässigkeit lässt sich nicht quasi "automatisch" der Schluss einer Täuschung des KBA und der Erwerber ziehen und eine vorsätzlich sittenwidrige Schädigung bejahen. Vielmehr muss eine möglicherweise falsche, aber dennoch vertretbare Gesetzesauslegung und - anwendung durch die Organe der Beklagten in Betracht gezogen werden. Solange dies aber der Fall ist, fehlt es am Vorsatz und an dem für die Sittenwidrigkeit erforderlichen Bewusstsein der Rechtswidrigkeit.Der Inhalt des maßgeblichen Bescheids des KBA ergibt keine Anhaltspunkte für ein vorsätzliches sittenwidriges Verhalten der Beklagten zu 2). Im Bescheid wird festgestellt, das durch die gewählte Strategie die Wirksamkeit des Abgasnachbehandlungssystems unzulässig verringert werde. Hiermit folge das KBA seiner im Bescheid zum VW Tuareg vertretenen Rechtsposition. Es verkenne jedoch hierbei nicht, dass technisch nachvollziehbar die Abschaltung des Emissionskontrollsystems im weit geringeren Umfang stattfinde als im Fall des VW Tuareg. Gleichwohl gebiete Art. 5 der Verordnung (EG) Nummer 715/2007 die formale Einstufung als unzulässige Abschalteinrichtung (Seite 3). Schon aus der Wortwahl im Bescheids ergibt sich also, dass das KBA selbst davon ausgeht, es würden auch andere Rechtspositionen vertreten werden und dass ein klarer, nicht zu diskutierende Verstoß jedenfalls nicht vorliegt.Es kann im Ergebnis für dieses Verfahren sogar offen bleiben, ob eine unzulässige Abschalteinrichtung im streitgegenständlichen Fahrzeug gegeben ist.2) Es besteht kein Anspruch gemäß §§ 823 Abs. 2 BGB, 263 StGB. Dabei kann offen bleiben, ob ein Handeln eines verfassungsmäßig berufenen Vertreters (§ 31 BGB) vorliegt, weil es jedenfalls am Vorsatz fehlt. Auf obige Ausführungen unter 1) wird insoweit Bezug genommen.3) Es besteht auch kein Anspruch gemäß §§ 823 Abs. 2, 831 BGB in Verbindung mit § 263 StGB, da es keinen Sachvortrag dazu gibt, dass ein Verrichtungsgehilfe getäuscht hätte.4) Ein Anspruch gemäß § 823 Abs. 2 BGB in Verbindung mit §§ 6 Abs. 1, 27 Abs. 1 EG-FGV ist schon deshalb nicht gegeben, weil es am vorliegende Übereinstimmungsbescheinigungen tatsächlich nicht gefehlt hat, was auch die Klagepartei nicht behauptet.Darüber hinaus besitzen die §§ 6, 27 Abs. 1 EG-FGV keinen Schutzgesetzcharakter, denn sie dienen nicht dem Schutz individueller Vermögensinteressen.5) Auch ein Anspruch gemäß § 823 Abs. 2 BGB in Verbindung mit Art. 5 Abs. 2 Satz 3 Nummer 10 VO (EG) 715/2007 oder in Verbindung mit § 38 Abs. 1 BImSchG ist zu verneinen, da auch diese öffentlichrechtlichen Vorschriften nicht dem Schutz individueller Vermögensinteressen dienen.6) Der Anspruch ergibt sich auch nicht aus § 823 Abs. 2 in Verbindung mit § 16 UWG. Insoweit fehlt es bereits an einer konkret auf den streitgegenständlichen Fahrzeugtyp bezogene Aussage.Die Klage war daher abzuweisen.Die Kostenentscheidung ergibt sich aus § 91 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit aus § 709 Abs. 1 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2394324.html (https://oj.is/2394324)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

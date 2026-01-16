@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG IngolstadtRechtsprechungEndurteil vom 22.05.2017 - 42 O 1057/16
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Ingolstadt, Endurteil vom 22.05.2017 - 42 O 1057/16
+                      m. Fundstelle
+                      LG Ingolstadt, Endurteil vom 22.05.2017 - 42 O 1057/16 = openJur 2021, 6864
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Ingolstadt, Endurteil vom 22.05.2017 - 42 O 1057/16
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 6864
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist für die Beklagte gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 22.000,00 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um deliktische Schadensersatzansprüche im Zusammenhang mit dem Erwerb eines PKW dessen Herstellerin die Beklagte ist.Am 01.08.2013 erwarb der Kläger einen PKW ..., beim ... Vertragshändler ... in ... zum Preis von 22.000,- €. Die Beklagte ist Herstellerin des PKW. Es bestehen keine vertraglichen Beziehungen zwischen dem Kläger und der Beklagten. Am 19.09.2015 räumte die ... Manipulationen an der Motorsteuerungssoftware bei diversen Fahrzeugen ein, was durch eine Presseerklärung des Vorstandsvorsitzenden der ... am 20.09.2015 bestätigt wurde. Das streitgegenständliche Fahrzeug des Klägers ist mit einem Dieselmotor des Typs ... ausgestattet, welcher von der ... hergestellt und entwickelt wurde und von der Beklagten in das Fahrzeug verbaut wurde. Die Motorsteuerung des Dieselmotors des Typs ... ist so programmiert, dass der PKW im normalen Straßenbetrieb im Modus 0 läuft. Befindet sich der PKW jedoch auf einem Prüfstand zur Messung der Schadstoffemissionen, erkennt er dies und schaltet automatisch in den Modus 1 um, in dem zur Verringerung des Stickoxidanteils im Abgas mehr Abgas zur Verbrennung zurückgeführt wird. Infolge dessen wurde die Beklagte durch das Kraftfahrtbundesamt verpflichtet, alle betroffenen Fahrzeuge zurückzurufen und nachzubessern. Das Kraftfahrtbundesamt hat im Oktober 2015 den von der ... vorgeschlagenen Zeit- und Maßnahmenplan für verbindlich erklärt. Alle Fahrzeuge, in denen der Motor ... verbaut ist, werden auf Kosten des Herstellers technisch überarbeitet. Die Entwicklung der technischen Maßnahmen wurde am 25.11.2015 abgeschlossen und am 16.12.2015 vom Kraftfahrtbundesamt bestätigt. Die konkrete technische Lösung für das streitgegenständliche Modell des Motortyps ... wurde vom Kraftfahrtbundesamt mit Bescheid vom 20.06.2016 freigegeben. Für den 2,0 l Motor, der im streitgegenständlichen Fahrzeug verbaut ist, ist lediglich ein Softwareupdate notwendig.Mit anwaltlichem Schreiben vom 17.12.2015 forderte der Kläger die Beklagte zur Rückabwicklung des Kaufvertrags auf und setzte hierfür eine Frist von vier Wochen. Der Kläger macht weiterhin vorgerichtliche Kosten geltend.Der Kläger behauptet, dass die Software Auswirkungen auf die Typengenehmigung nach § 3 Abs. 1 Nr. 1 EG-FGV habe. Die Typengenehmigung sei unsicher geworden, was dazu führe, dass der Preis für Fahrzeuge, die vom sog. Abgasskandal betroffen seien, auf dem Gebrauchtwagenmarkt um ca. 25 % gesunken sei. Der Kläger bringt vor, dass es ihm nicht gelungen sei, seinen PKW zu veräußern, da es mittlerweile auf dem deutschen Gebrauchtwagenmarkt aufgrund der unsicheren Typengenehmigung nicht mehr möglich sei.Fahrzeuge mit dem Motor ... zu veräußern. Dies stelle einen erheblichen Mangel dar. Obwohl die Beklagte durch das Kraftfahrtbundesamt hoheitlich verpflichtet worden sei, die betroffenen Fahrzeuge zurückzurufen, sei bisher gegenüber dem Kläger der Rückruf nicht erfolgt. Die Beklagte sei nicht in der Lage, die manipulierende Software durch ordnungsgemäße Software zu ersetzen, ohne Nachteile für den Kunden herbeizuführen. Der Kläger behauptet, dass die Schäden am streitgegenständlichen Fahrzeug auf ein sittenwidriges Verhalten der Mitarbeiter der Beklagten, die dem Gesamtkonzern zuzurechnen sei, zurückzuführen seien. Aufgrund der Pressemitteilung stehe fest, dass die manipulierende Software mit Wissen, Wollen und Kenntnis der Geschäftsleitung eingesetzt worden sei. Die Schädigung sei sittenwidrig, da weltweit 5,5 Mio. Fahrzeuge betroffen seien, die Schadstoffabweichungen erheblich seien und die Manipulationen von besonderer Verwerflichkeit geprägt seien.Der Kläger ist der Ansicht, er habe einen Anspruch auf Rückabwicklung des Kaufvertrags, ohne Anrechnung einer Nutzungsentschädigung und ohne der Beklagten die Möglichkeit zur Nachbesserung zu geben, aus § 826 BGB wegen vorsätzlicher sittenwidriger Schädigung sowie nach §§ 823 Abs. 2 BGB, 263 StGB wegen Betrugs.Der Kläger beantragt,1. Die Beklagte wird verurteilt, an den Kläger EUR 22.000,00 zuzüglich Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 05.08.2016 zu zahlen, Zug um Zug gegen die Rücknahme des Fahrzeuges ....2. Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des Fahrzeuges ... in Verzug befindet.3. Die Beklagte wird verurteilt, an den Kläger EUR 1.171,67 zuzüglich Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz der Europäischen Zentralbank seit dem 05.08.2016 zu bezahlen (vorgerichtliche Kosten).Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte trägt vor, dass die verwendete Software nichts am Bestand und der Wirksamkeit der Typengenehmigung ändere. Es gäbe keine gesetzlichen Vorgaben, die die Einhaltung der Emissionsgrenzwerte im Straßenverkehr vorschreibe. Maßgeblich für die Emissionsgrenzwerte, die zum Erhalt der Typengenehmigung erreicht werden müssten, sei nur der synthetische Fahrzyklus unter Laborbedingungen mit fünf künstlichen Fahrkurven. Weiter habe der Kläger ihr keine Gelegenheit gegeben, das Fahrzeug technisch umzurüsten, wozu die Beklagte von Anfang an bereit gewesen und auch technisch in der Lage gewesen sei. Das streitgegenständliche Fahrzeug sei mittlerweile für das Update freigeschaltet und der Kläger könne einen Termin bei einem ... Vertragshändler seiner Wahl vereinbaren, damit die technische Überarbeitung durchgeführt werden könne. Danach arbeite die Abgasrückführung nur noch in einem einheitlichen Betriebsmodus und der Verbrennungsprozess werde durch eine Anpassung der Einspritzcharakteristik optimiert. Das Kraftfahrbundesamt habe bestätigt, dass durch die Umrüstung keinerlei Nachteile entstünden. Bei Zugrundelegung des ursprünglichen Kaufpreises des Fahrzeugs von 36.600,- € und Überarbeitungskosten, welche weniger als 100,- € betragen würden, liege der Aufwand für die Umrüstung bei 0,27 %. Somit sei ein Mangel, dessen Vorliegen bestritten werde, auf jeden Fall nicht erheblich. Das Fahrzeug sei weiterhin technisch sicher, erfülle alle Sicherheitsstandards und sei im Straßenverkehr weiterhin uneingeschränkt gebrauchstauglich.Die Beklagte ist der Ansicht, dass keine sittenwidrige Schädigung vorläge und die Klage abzuweisen sei.Hinsichtlich des weiteren Sach- und Streitstandes wird auf die gewechselten Schriftsätze nebst Anlagen sowie das Protokoll der mündlichen Verhandlung Bezug genommen. 
+				Gründe
+				Die zulässige Klage hat in der Sache keinen Erfolg.I.Die Klage ist zulässig.Insbesondere ist das Landgericht Ingolstadt gemäß §§ 1 ZPO i.V.m. §§ 23 Nr. 1. §§ 71 Abs. 1 GVG sachlich und gemäß §§ 12, 17 ZPO örtlich zuständig.Das nach § 256 ZPO erforderliche Feststellungsinteresse des Klägers bezüglich des Feststellungsbegehrens in Ziffer 2. des Klageantrags ergibt sich aus §§ 756, 765 ZPO.II.Die Klage ist jedoch unbegründet.Der Kläger hat keinen Anspruch auf Rückzahlung des Kaufpreises Zug um Zug gegen Rückgabe des streitgegenständlichen PKW. Ein vertragliches Rücktrittsrecht des Klägers scheitert an der fehlenden vertraglichen Beziehung mit der Beklagten. Deliktische Schadensersatzansprüche stehen dem Kläger gegenüber der Beklagten ebenfalls nicht zu.1. Ob die Verwendung der sogenannten "Schummelsoftware" einen Sachmangel i.S.d. § 434 BGB darstellt, kann dahinstehen, da zwischen den Parteien unstreitig keine vertragliche Beziehung besteht. Daher hat der Kläger gegenüber der Beklagten keinen Anspruch auf Rückabwicklung des Kaufvertrages aus §§ 433, 434, 437, 440, 323 BGB.2. Der Kläger hat keinen vertraglichen Schadensersatzanspruch gem. §§ 280 Abs. 1 und 3, 281 Abs. 1 BGB oder einen quasivertraglichen Schadensersatzanspruch aus §§ 280 Abs. 1, 311 Abs. 3 BGB, da hierfür keine in Betracht kommenden Tatsachen dargelegt wurden.3. Ein Anspruch auf Schadensersatz aus § 823 Abs. 1 BGB steht dem Kläger ebenfalls nicht zu. Unabhängig davon, ob der streitgegenständliche PKW mangelhaft ist, stellt der Erwerb einer mangelhaften Sache keine Verletzung des Eigentums im Sinne von § 823 Abs. 1 BGB dar. Auch liegt kein sog. "Weiterfresserschaden" in dem Sinne vor, dass die Software geeignet ist, den PKW zu beschädigen oder zu zerstören. Dies wurde von der Klagepartei nicht vorgetragen und ist auch sonst nicht ersichtlich. Gleiches gilt dafür, dass durch das vom Kraftfahrtbundesamt genehmigte Softwareupdate ein entsprechender Schaden eintreten würde. Die unsubstantiierte Behauptung des Klägers die Durchführung des Updates sei nicht geeignet die übrigen Nachteile zu beseitigen, ändert hieran nichts. Weder benennt der Kläger konkret was er mit den übrigen Nachteilen meint, noch kann dem Vortrag entnommen werden, dass diese Nachteile geeignet wären, den PKW zu beschädigen.Eine konkrete Gesundheitsbeschädigung hat der Kläger, abgesehen von pauschalen Äußerungen zur Gesundheitsgefährdung der Weltbevölkerung durch behauptete erhöhte Abgasemissionen, nicht dargelegt.4. Dem Kläger steht der geltend gemachte Zahlungsanspruch Zug um Zug gegen Herausgabe und Übereignung des gegenständlichen Fahrzeugs gemäß §§ 826, 249 Abs. 1 BGB nicht zu, da der Einbau eines Motors, in welchem eine unerlaubte Abschalteinrichtung verbaut ist und dessen Verschweigen gegenüber dem Kläger, kein sittenwidriges Verhalten darstellt. Darüber hinaus hat der Kläger unabhängig von dem Vorliegen des objektiven Tatbestands des § 826 BGB - welcher nach Ansicht des Gerichts zu verneinen ist - nicht substantiiert zu den subjektiven Voraussetzungen einer vorsätzlichen sittenwidrigen Schädigung vorgetragen.a) Die Beweislast für das Vorliegen der Voraussetzungen von § 826 BGB trifft den Kläger (hM, BGHZ 175, 58).b) Nach Ansicht des Gerichts ist das Verhalten der Beklagtenseite nicht als sittenwidrig einzustufen.Ein Verhalten ist objektiv sittenwidrig, wenn es nach Inhalt und Gesamtcharakter, welcher durch eine zusammenfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt, mithin mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist (statt vieler: BGH NJW-RR 2013, 550, 551). Nicht ausreichend ist hingegen, dass das Verhalten gesetzes- oder vertragswidrig ist, unbillig erscheint oder einen Schaden hervorruft. Vielmehr muss eine nach dem Maßstab der allgemeinen Gesellschaftsmoral und des als "anständig" Geltenden besondere Verwerflichkeit des Verhaltens, die sich aus dem verfolgten Zweck, den eingesetzten Mitteln, der zutage tretenden Gesinnung oder den eingetretenen Folgen ergeben kann, gegeben sein (vgl. nur: BGH NJW 2012, 1800, 1803). Nach allgemeiner Auffassung in Rechtsprechung und Literatur führt ein Gesetzesverstoß nicht zwingend zum Vorliegen der Sittenwidrigkeit, vielmehr muss die relevante Norm Ausdruck einer sittlichen Wertung und nicht wertneutral sein (vgl. dazu: Beck'scher Online-Kommentar, 37. Edition, § 826 BGB, Rn. 4 m.w.N.). Relevanter Maßstab ist die im Zeitpunkt der Vornahme der Handlung, vorliegend dem Einbau der unzulässigen Abschalteinrichtung, herrschende Sozialmoral für den jeweiligen Lebenskreis (grundlegend: BGH NJW 1975, 638, 639).Gemessen an den vorgenannten Maßstäben stellt der Einbau und das Verschweigen der unzulässigen Abschalteinrichtung kein sittenwidriges Verhalten der Beklagten dar, welches auch nicht vom Schutzzweck der verletzten Norm umfasst wäre.(1) Die von der ... in dem Motor des streitgegenständlichen Fahrzeugs verbaute Software, welche den Stickoxidausstoß im Prüfstand beeinflusst, stellt zwar einen Verstoß gegen Art. 3 Nr. 10, 5 Abs. 2 EUVO 715/2007 dar und ist somit unzulässig. Die Beklagte hat nicht bestritten, dass die Software den im Prüfstand gemessenen Stickoxidausstoß, wie in der Klageschrift dargestellt, positiv beeinflusst, weswegen dieses Vorbringen als zugestanden gilt, § 138 Abs. 3 ZPO. Die Verwendung der Software verstößt daher gegen Art. 5 Abs. 2 EUVO 715/2007. Gleichfalls unbestritten, hat die Beklagte den Motor des Typs ... nicht hergestellt oder entwickelt, sondern nur in dem von dem Kläger von ihr hergestellten Fahrzeug verbaut.Dass es mit der Entwicklung und dem Einbau der betreffenden Abschalteinrichtung durch die ... - ungeachtet des Fehlens substantiierten Parteivortrages hierzu (z.B.: zwischen welchen Personen auf Beklagtenseite bzw. der ... eine derartige Absprache getroffen worden und weiche Motivation hierbei im Einzelnen maßgeblich gewesen sein soll), dessen es trotz der klägerseits angenommenen Offensichtlichkeit der Sittenwidrigkeit bedarf - primär um Kostenersparnis respektive Gewinnmaximierung gegangen ist, kann als gegeben unterstellt werden. Dies stellt in einem marktwirtschaftlichen System kein grundsätzlich zu beanstandendes Verhalten dar, zumal klägerseits nicht dargelegt wird, wessen Vorteil diese Gewinnmaximierung dienen sollte (z.B.: Vorstand; konkrete (ggf. an der Entwicklung der entsprechenden Software beteiligte) Mitarbeiter; Aktionäre). Das für diesen Fall eingesetzte Mittel ist zwar rechtlich zu beanstanden, da ein Verstoß gegen Art. 3 Nr. 10, 5 Abs. 2 EUVO 715/2007 vorliegt. Allerdings sind diese Vorschriften kein Ausdruck einer sittlichen Gesinnung, sondern stellen sich vielmehr - wie insbesondere aus der Präambel Ziffern (4) bis (7) ersichtlich wird - als Regelungen zum Schutz der Umwelt dar (vgl. dazu: OLG Bamberg, Beschluss vom 21.10.2013, Az. 5 U 507/13, Rn. 44 - juris). Daneben soll die EUVO 715/2007 - wie nahezu alle wirtschaftsbezogenen europäischen Regelungen - der Harmonisierung der nationalen Regelungen und damit der Stärkung des Binnenmarktes dienen (vgl. insbesondere: Präambel Ziffer (1)). Mit den vorgenannten Vorschriften soll somit zuvörderst eine Reduzierung der Schadstoffemissionen von Kraftfahrzeugen zur Minimierung der Umweltbelastung erzielt werden. Damit ist keine sittliche Wertung verbunden.Daher ergibt die vorzunehmende Gesamtbeurteilung von Zweck, Mittel und Folgen keine Sittenwidrigkeit des Verhaltens der Beklagten. Etwas anderes gilt nicht deshalb, weil eine große Anzahl von Fahrzeugen betroffen. Die reine Quantität eines objektiven Verstoßes beeinflusst jedoch nach obigen genannten Beurteilungskriterien die Qualität eines Verhaltens im Hinblick auf die Einstufung als sittenwidrig nicht.(2) Im Übrigen wäre der - unterstellt - bei dem Kläger eingetretene Schaden nicht vom Schutzzweck der verletzten EUVO 715/2007 umfasst.Genauso wie bei § 823 Abs. 1 und Abs. 2 BGB ist auch die Haftung wegen sittenwidriger Schädigung nach Maßgabe des Schutzzwecks der verletzten Verhaltensnorm beschränkt (MüKoBGB/Wagner BGB § 826 Rn. 22, beck-online). Dabei kommt es allerdings nicht auf den abstrakten Gesetzeszweck des § 826 BGB an, sondern auf den Schutzzweck der konkret verletzten Verhaltensnorm. Mittelbar Betroffene sind in den Schutzbereich nicht schon dann einbezogen, wenn sich die Handlung zwar gegen einen anderen richtet, der Täter indessen mit der Möglichkeit der Schädigung (auch) des Dritten gerechnet hat. Vielmehr kommt es darauf an, dass das Vermögen des Dritten nicht nur reflexartig als Folge der sittenwidrigen Schädigung eines anderen betroffen wird (vgl. MüKoBGB/Wagner BGB § 826 Rn. 45-48, beck-online).Demnach besteht eine Schadensersatzpflicht nur, wenn der geltend gemachte Schaden nach Art und Entstehungsweise unter den Schutzzweck der verletzten Norm fällt, mithin muss es sich um Nachteile handeln, die aus dem Bereich der Gefahren stammen, zu deren Abwendung die verletzte Norm erlassen worden ist (jüngst: BGH, Urteil vom 07.07.2015, Az. VI ZR 372/14 - juris; explizit für § 826 BGB: BGH, Urteil vom 11.11.1985, Az. II ZR 109/85 - juris). Diese Voraussetzungen sind vorliegend nicht erfüllt, da die einschlägige EUVO 715/2007 - wie oben ausgeführt - primär dem Umweltschutz dient und der Kläger ausschließlich Nachteile geltend macht, die mit dem verordnungsrechtlich bezweckten Schutz der Umwelt in keinem Zusammenhang stehen (u.a.: drohender Entzug der Zulassung; Wertminderung; schwierigere Verkäuflichkeit).c) Ein Anspruch des Klägers scheitert auch daran, dass er nicht substantiiert dargelegt hat, dass die Beklagte oder die ... den objektiven Tatbestand des § 826 BGB vorsätzlich verwirklicht haben.Nach im Zivil- wie Strafrecht allgemeiner Ansicht muss sich der Vorsatz auf die Tatsachen beziehen, die den konkreten Tatbestand ausmachen, vgl. § 16 StGB. Bei § 826 ist somit zu fordern, dass der Täter Kenntnis von dem Eintritt eines Schadens, der Kausalität des eigenen Verhaltens und der die Sittenwidrigkeit des Verhaltens begründenden Umstände hat (MüKoBGB/Wagner BGB § 826 Rn. 25-26, beck-online). Die Passivlegitimation folgt auch im Rahmen des § 826 BGB allgemeinen deliktsrechtlichen Grundsätzen. Das Verhalten von Leitungsorganen und anderen verfassungsmäßigen Vertretern juristischer Personen wird nach § 31 BGB zugerechnet. Als innere Tatsache ist der Vorsatz dem direkten Beweis nicht zugänglich, sondern er muss aus äußeren Umständen erschlossen werden.Im Rahmen des § 826 BGB ist somit Voraussetzung, dass ein Vertreter i.S.d. § 31 BGB den objektiven und subjektiven Tatbestand dieser Anspruchsgrundlage verwirklicht hat (vgl. BGH vom 20. Dezember 2011 - VI ZR 309/10, NJW-RR 2012, 404 Rn. 8).Die Darlegungs- und Beweislast bezüglich des subjektiven Tatbestands treffen dabei den Kläger, welcher zumindest substantiiert Vortragen muss, welches Organ (§ 31 BGB) der Beklagten Kenntnis von den die nach Ansicht des Klägers die Sittenwidrigkeit begründenden Umständen haben sollte. Zur Substantiierung ist die verantwortliche Person zu benennen (MüKoBGB/Arnold BGB § 31 Rn. 44, beck-online). Auch wenn vom Kläger keine genaueren Kenntnisse von den Vorgängen bei der Beklagten oder der ... erwartet werden können, genügt sein pauschaler Vortrag keineswegs, um eine sekundäre Darlegungslast der Beklagten zu begründen. Der im Zivilprozess herrschende Beibringungsgrundsatz, kann nicht auf den Verweis einer Presseberichterstattung ersetzt werden. Der Kläger hätte zumindest vortragen müssen, welcher verfassungsmäßig berufene Vertreter der Beklagten durch welche abstrakten Vorgänge, zu welchem Zeitpunkt, Kenntnis über den Einsatz der "Schummelsoftware" erlangt haben soll.Der Kläger hat lediglich vorgetragen, dass auf Grund der Pressemitteilung der ... vom 19.09.2015, bestätigt durch den damaligen Vorstandsvorsitzenden am 20.09.2015 feststehe, dass mit Wissen und Wollen und Kenntnis der Geschäftsleitung manipulierte Software eingesetzt wurde. Ein sittenwidriges Verhalten einzelner Mitarbeiter werde dabei dem Gesamtkonzern zugerechnet.Dieser Vortrag ist nicht ausreichend. Es drängt sich auch nicht auf, dass ein Vertreter der Beklagten auf Grund der Stellung der Beklagten als Tochterunternehmen der ..., von dem Einbau der manipulierten Software zwingend (vor dem Erwerb des Fahrzeugs durch den Kläger) Kenntnis erlangt haben muss.Einen den oben dargelegten Anforderungen genügenden Tatsachenvortrag hinsichtlich der Kenntnis eines Organs der ... hat der Kläger ebenfalls nicht ausreichend substantiiert dargelegt. Insoweit kommt es auf die Frage der Zurechenbarkeit einer etwaigen Kenntnis der ... der Beklagten eigentlich nicht an. Die konzernrechtliche Verbundenheit zweier oder mehrerer Unternehmen reicht für eine unternehmensübergreifende Wissenzurechnung jedenfalls nicht aus (vgl. OLG Düsseldorf, Urteil vom 18. August 2011 - I-2 U 71/10 -, juris).5. Die Beklagte haftet auch nicht aus § 831 BGB für eigenes zu vermutendes Auswahl- und Überwachungsverschulden, da die ... nicht Verrichtungsgehilfin der Beklagten ist. Für vorsätzlich-sittenwidrige Handlungen von Verrichtungsgehilfen hat der Geschäftsherr gemäß § 831 BGB einzustehen. Es ist weder von dem Kläger vorgetragen, noch sonst ersichtlich inwiefern die ... bezüglich der Entwicklung und Herstellung der von den Manipulationsvorwürfen betroffenen Motoren gegenüber der Beklagten weisungsabhängig gewesen sein soll.Der Personenkreis, der i.S.v. § 831 BGB "zu einer Verrichtung bestellt" ist, unterscheidet sich von dem Kreis der Erfüllungsgehilfen i.S.v. § 278 BGB durch den Mangel an Selbstständigkeit und Eigenverantwortlichkeit. Während selbstständige Unternehmen ohne weiteres Erfüllungsgehilfen sein können, setzt die Qualifikation als Verrichtungsgehilfe Abhängigkeit und Weisungsgebundenheit voraus; der Geschäftsherr muss dazu in der Lage sein, die Tätigkeit dem Handelnden jederzeit zu entziehen, sie zu beschränken oder nach Zeit und Umfang zu regeln (MüKoBGB/Wagner BGB § 831 Rn. 14-18, beck-online). Selbstständige Unternehmen fallen aus dem Anwendungsbereich des § 831 BGB heraus, denn sie sind für ihr Verhalten selbst verantwortlich, und ihr Vertragspartner - der vermeintliche Geschäftsherr - darf sich in den Grenzen des Vertrauensgrundsatzes darauf verlassen, dass sie ihren deliktischen Sorgfaltspflichten nachkommen werden.Mangels Gehilfenstellung der ... scheidet somit eine Haftung nach § 831 BGB aus.6. Der Kläger hat auch keinen Anspruch auf Rückabwicklung des Kaufvertrages aus §§ 823 Abs. 2 BGB, 263 Abs. 1 StGB.§ 263 Abs. 1 StGB ist ein Schutzgesetz im Sinne von § 823 Abs. 2 BGB. Ob der objektive Tatbestand von § 263 Abs. 1 StGB von der Beklagten verwirklicht wurde, kann dahinstehen, da es jedenfalls an der Absicht der Beklagten fehlt, sich einen rechtswidrigen Vermögensvorteil zu verschaffen. Der Kläger hat eine Absicht rechtswidriger Bereicherung der Beklagten nicht dargelegt. Bereicherungsabsicht setzt voraus, dass die Tat subjektiv auf die Erlangung eines rechtswidrigen Vermögensvorteils für den Täuschenden oder einen Dritten gerichtet ist; dabei muss der Vorteil die Kehrseite des Schadens und ihm "stoffgleich" sein, er muss unmittelbare Folge der täuschungsbedingten Verfügungen sein, die den Schaden des Opfers herbeiführt; maßgeblich ist die Unmittelbarkeit der Verschiebung (Fischer, StGB, 63. Aufl., Paragraf 263 Rn. 187 m.w.N.). Dem Täter muss es darauf ankommen, sich oder einem Dritten einen Vermögensvorteil zu verschaffen; an der erforderlichen Absicht fehlt es, wenn der Täter die Vorteilserlangung nur als notwendige Folge eines anderen Zwecks in Kauf nimmt (Fischer, a.a.O., § 263 Rn. 190 m.w.N.). Vorliegend erscheint bereits fraglich, ob es der ... oder der Beklagten - bei jeweils unterstellter Kenntnis - bei der Verwendung der eingebauten Software um einen Wettbewerbsvorteil durch die Reduzierung ansonsten erforderlicher Entwicklungs- und Produktionskosten ging. Soweit der Kläger einen Schaden durch den Vertragsschluss mit dem Vertragshändler und die Belastung mit der Verpflichtung zur Zahlung des Kaufpreises geltend macht, fehlt es an der Unmittelbarkeit der Vermögensverschiebung. Der Vertragsschluss mit dem Vertragshändler stellt insoweit die mittelbare Folge der von der Beklagten primär beabsichtigten (unmittelbaren) Veräußerung des Fahrzeugs an den Vertragshändler dar.7. Mangels Hauptanspruchs hat der Kläger auch keinen Zinsanspruch aus den §§ 288 Abs. 1, 286 BGB oder § 291 BGB.Ebenso hat der Kläger keinen Anspruch auf Erstattung der vorgerichtlichen Kosten.8. Die Beklagte ist aufgrund der Ausführungen zu II. weder verpflichtet, dem Kläger den Kaufpreis zurückzuzahlen, noch den streitgegenständlichen PKW zurückzunehmen. Daher hat der Feststellungsantrag des Klägers, dass sich die Beklagte in Annahmeverzug befinden sollte, keinen Erfolg.III.Die Kostenentscheidung folgt aus § 91 Abs. 1 ZPO, die Entscheidung zur vorläufigen Vollstreckbarkeit aus § 709 S. 1 und 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2323218.html (https://oj.is/2323218)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate8
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen5
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

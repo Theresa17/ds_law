@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 15.12.2020 - 18 O 266/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 15.12.2020 - 18 O 266/20
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 15.12.2020 - 18 O 266/20 = openJur 2022, 4690
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 15.12.2020 - 18 O 266/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 4690
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits trägt die Klägerin.3. Das Urteil ist gegen Sicherheitsleistung von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Die Klägerin nimmt die Beklagte anlässlich des sog. Diesel-Skandals in Anspruch.Am 28.08.2017 kaufte die Klägerin bei der I GmbH & Co. KG in A einen gebrauchten PKW der Marke W des Typs D X.X YYY mit einer bisherigen Laufleistung von 14.240 Kilometern zum Preis von 31.500,00 EUR. Erstzulassung 12.08.2016. In das Fahrzeug verbaute die Beklagte ein Dieselmotor des Typs XX XXX.Fahrzeughersteller müssen nach der Verordnung (EG) Nr. 715/2007 vom 20.06.2007 nachweisen, dass die von ihnen produzierten (Neu-)Fahrzeuge über eine sog. Typengenehmigung verfügen (Art. 4 Abs. 1 S. 1 der Verordnung). Zur Erlangung dieser Typengenehmigung müssen die Fahrzeuge bestimmte Emissionsgrenzwerte (vgl. Anhang 1 der Verordnung) unter normalen Betriebsbedingungen einhalten (Art. 5 Abs. 1 der Verordnung). Die Einhaltung dieser Werte wird unter Laborbedingungen gemessen. Die Verwendung von Abschalteinrichtungen, die die Wirkung von Emissionskontrollsystemen verringern, ist unzulässig (Art. 5 Abs. 2 S. 1 der Verordnung), es sei denn, die Einrichtung ist notwendig, um den Motor vor Beschädigung oder Unfall zu schützen und um den sicheren Betrieb des Fahrzeugs zu gewährleisten (Art. 5 Abs. 2 S. 2 Buchst. a der Verordnung). Dabei ist "Abschalteinrichtung" definiert als "ein Konstruktionsteil, das die Temperatur [...] oder sonstige Parameter ermittelt, um die Funktion eines beliebigen Teils des Emissionskontrollsystems zu aktivieren, zu verändern, zu verzögern oder zu deaktivieren, wodurch die Wirksamkeit des Emissionskontrollsystems unter Bedingungen, die bei normalem Fahrzeugbetrieb vernünftigerweise zu erwarten sind, verringert wird" (Art. 3 Nr. 10 der Verordnung).Das streitgegenständliche Fahrzeug verfügt über eine Typengenehmigung für die Emissionsklasse Euro 6. In den Motor hatte die Beklagte eine Software integriert, die reguliert, in welchem Außentemperaturbereich es zu einer Abgasnachbehandlung zur Reduzierung des Stickoxidausstoßes kommt (sog. Thermofenster).Die Klägerin beauftragte ihre jetzigen Prozessbevollmächtigten mit der vorgerichtlichen Rechtsverfolgung und ließ die Beklagte mit Schreiben vom 17.06.2020 unter Fristsetzung bis zum 01.07.2020 vergeblich zum Schadensersatz Zug um Zug gegen Rückgabe des streitgegenständlichen Fahrzeugs unter Abzug von Nutzungsersatz auffordern. Hierfür stellten ihre Prozessbevollmächtigten Kosten in Höhe von 1.171,67 EUR in Rechnung, bestehend aus einer 1,3 Geschäftsgebühr aus einem Gegenstandswert von 21.222,71 EUR zuzüglich 20 EUR Auslagenpauschale und 19 % Mehrwertsteuer.Die Klägerin behauptet, die in den Motor integrierte Software habe unter Verstoß gegen Art. 5 Abs. 2 S. 1 der Verordnung (EG) Nr. 715/2007 vom 20.06.2007 zur Folge, dass unter den Bedingungen der standardisierten Prüfstandbedingungen der Abgasuntersuchung im Rahmen des Neuen Europäischen Fahrzyklus (NEFZ) durch erhöhte Abgasrückführung ein zulässiger Stickoxidausstoß entstehe, nicht aber in den im normalen Fahrzeugbetrieb zu erwartenden Temperaturfenstern, in welchen das Vielfache der erlaubten Schadstoffkonzentration emittiert würde. Aufgrund des Temperaturfensters, wie auch aufgrund der Erkennung des Lenkeinschlages und weiterer Parameter würde der Prüfstand erkannt. Hiervon hätte die Beklagte auf Vorstandsebene Kenntnis gehabt und eine Schädigung der betroffenen Fahrzeugkunden in Kauf genommen. Durch den Abschluss des Kaufvertrags sei ihr ein Schaden entstanden. Sie hätte das Fahrzeug in Kenntnis dieser Umstände nicht erworben.Die Klägerin beantragt sinngemäß,1. die Beklagte zu verurteilen, an sie 21.222,71 EUR zuzüglich Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 02.07.2020 und Zinsen in Höhe von 4 Prozent auf einen Betrag von 31.500,00 EUR ab dem 29.08.2017 bis zum 01.07.2020 abzüglich der weiter seit Klageerhebung angefallenen, vor dem Schluss der mündlichen Verhandlung zu beziffernden Nutzungsentschädigung, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs W E E E X.X XXX XXX mit der Fahrzeug-Identifikationsnummer XXXXXXXXXXXXXXXXX zu zahlen,2. festzustellen, dass sich die Beklagten mit der Annahme des in Ziffer 1. genannten Fahrzeugs seit dem 02.07.2020 in Annahmeverzug befindet,3. die Beklagte zu verurteilen, an die B Rechtsschutz-Versicherungs-AG, V-Straße, XXXXX G zur Schadensnummer: ...#/... vorgerichtliche Rechtsanwaltskosten in Höhe von 906,78 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu erstatten, sowie sie von weiteren vorgerichtlichen Rechtsanwaltskosten in Höhe von 246,89 EUR gegenüber der F S mbH freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Sie ist der Ansicht, die Klägerin habe einen haftungsbegründenden Sachverhalt nicht in einer den prozessualen Substantiierungsanforderungen genügenden Weise dargelegt. Sie behauptet, die Verwendung von sog. Thermofenstern sei bei Dieselfahrzeugen üblich und notwendig, um den Motor vor Beschädigung zu schützen.Die Klage ist der Beklagten am 15.09.2020 zugestellt worden. Das Gericht hat am 03.11.2020 mündlich verhandelt. Für den Sach- und Streitstand im Übrigen wird auf den Inhalt der Akte, die gewechselten Schriftsätze der Parteien und deren Anlagen, sowie das Protokoll der mündlichen Verhandlung verwiesen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I.Die Klägerin hat gegen die Beklagte keine Ansprüche auf Schadensersatz wegen des streitgegenständlichen Lebenssachverhalts; solche folgen weder aus einer vorsätzlichen sittenwidrigen Schädigung (§ 826 BGB) noch aus einer sonstigen unerlaubten Handlung (§ 823 Abs. 2 BGB iVm. § 263 Abs. 1 StGB bzw. Art. 5 Abs. 2 S. 1 der Verordnung (EG) Nr. 715/2007 vom 20.06.2007), da die Klägerin die anspruchsbegründenden Tatsachen nicht schlüssig vorgetragen hat; dabei kann dahinstehen, ob es sich bei der in den Motor integrierten Software um eine unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2 S. 1 der Verordnung (EG) Nr. 715/2007 vom 20.06.2007 handelt.Für die Haftung der Beklagten nach § 826 BGB fehlt es an der Darlegung eines sittenwidrigen Verhaltens. Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt (BGH, Urt. v. 28.06.2016 - VI ZR 536/15, Rn. 16). Diese Voraussetzungen sind auf Grundlage des klägerischen Sachvortrags (Verwendung eines sog. Thermofensters durch die Beklagte) nicht erfüllt. Das EU-Recht selbst sieht für die Beurteilung einer Abschalteinrichtung als unzulässig bzw. ausnahmsweise zulässig spezifische technische bzw. normative Voraussetzungen vor ("Schutz des Motors vor Beschädigung" / "Notwendigkeit"; siehe Art. 5 Abs. 2 S. 2 Buchst. a der Verordnung (EG) Nr. 715/2007 vom 20.06.2007). Die Beurteilung dessen, ob diese Voraussetzungen vorliegen oder nicht, erfordert eine technische bzw. normative Bewertung im Einzelfall, die falsch oder richtig sein kann. Nicht jede falsche Bewertung und die hierauf gegründeten Maßnahmen stellen sich indes zugleich als sittenwidrig dar; vielmehr ist ein Handeln "um jeden Preis" erforderlich, das auch einen Verstoß gegen gesetzliche Vorschriften billigend in Kauf nimmt (siehe OLG Köln, Beschl. v. 04.07.2019 - 3 U 148/18, Rn. 6). Dass diese Grenze überschritten wäre, ist nicht erkennbar. Insoweit unterscheidet sich der hier zu entscheidende Fall maßgeblich von den Fällen des sog. W-Abgasskandals, in denen die erkennende Kammer ein sittenwidriges Verhalten der dortigen Beklagten angenommen hat, weil die dort verwendete Software keinerlei technischen Nutzen besitzt und allein dafür gedacht ist, die Prüfstandssituation zu erkennen und dort günstigere Emissionswerte zu erzielen als im normalen Fahrzeugbetrieb. Eine derartige, auf die konkrete Situation bezogene Ab- bzw. Anschaltung findet durch das sog. Thermofenster allerdings unstreitig nicht statt, zumal sich die Beklagte hier auf den Bauteilschutz als technischen Nutzen beruft. Trotz Hinweises des Gerichts in der mündlichen Verhandlung vom 03.11.2020 hat die Klägerin keine weiteren Umstände dargelegt, die nahe legen, dass das streitgegenständliche Fahrzeug nicht nur eine unzulässige Abschalteinrichtung aufweise, sondern auch dass der Schluss nahe liege, dass diese Abschalteinrichtung zum Zwecke der vorsätzlich sittenwidrigen Schädigung des Fahrzeugerwerbers diene. Insbesondere hat die Klägerin auch mit dem Schriftsatz vom 24.11.2020 nach Erteilung des Hinweises keine weiteren erheblichen Umstände vorgetragen. Aus den zitierten Berichten und Presseartikeln folgt nicht, dass Anzunehmen sei, dass das streitgegenständliche Fahrzeug eine solche Fahrkurve aufweise. Nur weil dies bei anderen Fahrzeugreihen der Fall sein mag, bedeutet das nicht zwingend, dass es hier auch so ist. Dies insebsondere vor dem Hintergrund, da die Erstzulassung weit nach der 22. Kalenderwoche 2016 erfolgt ist und daher auch die Beschreibung der Beklagten des Motors nicht von einer Fahrkurve spricht. Im Rahmen ihrer Darlegungslast wäre sie zu konkretem Tatsachenvortrag bezogen auf das streitgegenständliche Fahrzeug aber verpflichtet gewesen (vgl. OLG Köln, Urt. v. 18.05.2020 - 12 U 270/19).Unabhängig davon hätte es der Klägerin oblegen darzulegen, dass eine - unterstellte - Sittenwidrigkeit und ein - auch für eine Haftung der Beklagten nach § 823 Abs. 2 BGB i.V.m. § 263 Abs. 1 StGB relevanter - Schädigungsvorsatz dem Vorstand bzw. einem anderen "verfassungsmäßig berufenen Vertreter" der Beklagten bekannt gewesen ist (§ 31 BGB). Ihr Vortrag hierzu genügt nicht den prozessualen Substantiierungsanforderungen, sondern stellt sich im Wesentlichen als lediglich von allgemeinen Erwägungen getragene Behauptung "ins Blaue hinein" dar, die insbesondere keine sekundäre Darlegungslast der Beklagten auszulösen vermögen. Selbst wenn die streitgegenständliche "Thermofenster"-Software als unzulässige Abschalteinrichtung anzusehen wäre, ließe sich aus diesem Umstand nicht mit der erforderlichen Gewissheit schlussfolgern, dass die Organe der Beklagten in dem Bewusstsein gehandelt haben, eine solche zu verwenden. Allein aus diesem Umstand lässt sich nicht entnehmen, dass die Organe der Beklagten in dem Bewusstsein gehandelt haben, eine unzulässige Abschalteinrichtung zu verwenden oder sie nicht der redlichen Überzeugung gewesen sein sollen, in Verfolgung eines unerlaubten Interesses zu handeln (vgl. z.B. OLG Köln, Urt. v. 18.05.2020 - 12 U 270/19; OLG Köln, Beschl. v. 04.07.2019 - 3 U 148/18; OLG Koblenz, Urt. v. 21.10.2019 - 12 U 246/19; OLG Stuttgart, Urt. v. 30.07.2019 - 10 U 134/19).Nach dem derzeitigen Erkenntnisstand ist es vielmehr ohne weiteres denkbar, dass die Organe der Beklagten jedenfalls davon ausgingen, dass es sich nicht um eine unzulässige Abschalteinrichtung handelt (vgl. zu alldem OLG Köln, Beschl. v. 10.09.2019 - 16 U 193/19 mwN). Eine Auslegung, wonach ein "Thermofenster" eine zulässige Abschalteinrichtung darstellt, ist jedenfalls nicht unvertretbar. Ein Handeln unter vertretbarer Auslegung des Gesetzes kann nicht als besonders verwerfliches Verhalten angesehen werden (vgl. OLG Stuttgart, Urteil vom 30.07.2019, Az. 10 U 134/19 mwN). Würde man jede fahrlässige, unzutreffende, da zu weite Auslegung von Zulassungsvorschriften als sittenwidrige Schädigung von Kunden begreifen, würde dies § 826 BGB eine generalklauselartige Weite verleihen, die der Vorschrift nach der gesetzgeberischen Konzeption gerade nicht zukommen soll (vgl. OLG Köln, Urt. v. 18.05.2020 - 12 U 270/19; OLG Stuttgart, Urt. v. 30.07.2019 - 10 U 134/19; LG Bonn, Urt. v. 10.09.2019 - 10 O 107/19).Mangels Bestehens einer Hauptforderung gehen auch die Zinsforderungen ins Leere.II.Mangels Bestehens einer Hauptforderung kann die Beklagte auch nicht mit der Entgegennahme des Fahrzeugs in den Annahmeverzug geraten sein.III.Mangels Bestehens einer Hauptforderung geht auch die Forderung die vorgerichtlichen Rechtsverfolgungskosten zu ersetzen ins Leere.IV.Die prozessualen Nebenentscheidungen beruhen auf §§ 91 Abs. 1 S. 1, 709 S. 1 und 2 ZPO.Der Streitwert wird auf 21.222,71 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2388477.html (https://oj.is/2388477)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

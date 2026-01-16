@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 28.07.2020 - 8 O 347/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 28.07.2020 - 8 O 347/19
+                      m. Fundstelle
+                      LG Köln, Urteil vom 28.07.2020 - 8 O 347/19 = openJur 2021, 17786
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 28.07.2020 - 8 O 347/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 17786
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte wird verurteilt, an die Klagepartei 7.527,79 EUR sowie Zinsen in Höhe von 1.038,70 EUR, nebst weiterer Zinsen aus 7.527,79 EUR i. H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 30.05.2020 (jedoch nicht mehr als 4 Prozent Jahreszinsen) zu zahlen, und die Klagepartei von den aktuell noch bestehenden Verbindlichkeiten gegenüber der B Bank einer Zweigniederlassung der W Bank GmbH aus dem Darlehensvertrag zur Vertragsnummer ...# in Höhe von derzeit noch 24.701,16 EUR freizustellen, Zug um Zug gegen Abgabe eines Angebots der Klagepartei an die Beklagte auf Übergabe des Fahrzeuges B ... mit der Fahrzeugidentifikationsnummer W... und Abgabe eines Angebots der Klagepartei an die Beklagte auf Übertragung des der Klagepartei gegenüber der B Bank einer Zweigniederlassung der W Bank GmbH zustehenden Anwartschaftsrechts auf Übereignung des vorstehend bezeichneten Fahrzeugs.Es wird festgestellt, dass sich die Beklagte mit der Annahme des zuvor genannten Fahrzeugs seit dem 19.11.2020 im Annahmeverzug befindet.Es wird festgestellt, dass der Rechtsstreit im Übrigen erledigt istIm Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits trägt die Beklagte.Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung i. H.v. 110% des jeweils zu vollstreckenden Betrags. 
+				Tatbestand
+				Der Kläger begehrt von der beklagten B AG Rückabwicklung eines Kaufvertrages im Zusammenhang mit dem Abgasskandal.Am 09.11.2017 kaufte der Kläger einen Pkw B ... 3.0 TDI Quattro mit der Fahrzeugident-Nr. W... (Datum der Erstzulassung 03.11.2014) zu einem Kaufpreis von 35.460,- €. Das Auto wies eine Laufleistung von 44.385 km auf. Das Fahrzeug ist darlehensfinanziert.Bei dem Fahrzeug ist ein Dieselmotor in Form eines 3.0L-Aggregats verbaut. Die genaue Typbezeichnung ist zwischen den Parteien streitig. Jedenfalls bezieht sich auf das streitgegenständliche Fahrzeug und das dort verbaute Aggregat unstreitig der zur Akte gereichte Rückrufbescheid des KBA Bl. 75 ff. AH, wegen dessen näheren Inhalts auf das AH verwiesen wird.Der Kläger ist der Ansicht, das in dem Fahrzeug - unstreitig - zur Anwendung kommende "Thermofenster" stelle eine unzulässige Abschaltvorrichtung dar, deren Verwendung bereits seine geltend gemachten Schadensersatzansprüche begründen würde. Zudem behauptet er, dass das streitgegenständliche Fahrzeug über eine Software verfüge, anhand derer das Fahrzeug erkenne, ob bzw. dass es sich im NEFZ befindet. So registriere das Fahrzeug beispielsweise, dass es sich im Fahrbetrieb befinde,aber nur die Antriebsachse in Rotation versetzt werde; eine im realen Fahrbetrieb kaum anzutreffende Fahrsituation.aber seit Fahrtbeginn das Lenkrad nicht mehr als 15 Grad eingeschlagen worden sei; eine im realen Fahrbetrieb ebenfalls kaum anzutreffende Fahrsituation.aber die Motorhaube geöffnet sei. Dies werde in der Instrumententafel des Armaturenbretts angezeigt. Im NEFZ fehle der kühlende Fahrtwind des realen Fahrbetriebs, weshalb die Motorhaube geöffnet und der Motor mittels vor dem Fahrzeug aufgestellter Ventilatoren gekühlt werde.aber der vorgeschriebene Reifendruck erhöht sei. Hierdurch werde der Rollwiderstand der Reifen verringert. Seit 2012 müssen Fahrzeuge mit einem sog. Reifendruckkontrollsystem ausgestattet sein.aber das Gurtschloss des Fahrers geöffnet sei.aber die Lichtmaschine abgeklemmt sei und dadurch die Batterie nicht nachgeladen werde. Dies werde in der Instrumententafel des Armaturenbretts angezeigt.aber Heizung, Gebläse und Radio bzw. die Multimedia-Einheit abgeschaltet seien.und das im NEFZ vorgeschriebene Geschwindigkeitsprofil abgefahren werde.Registriere das Fahrzeug diese Parameter nicht, schalte die Motorsteuerungssoftware in den Modus des realen Fahrbetriebs (Nicht-Prüfstandmodus), bei dem die Komponenten der Abgasreinigungsanlage (weitestgehend) abgeschaltet sind (defeat device). Wegen der nähere Ausführungen des Klägers wird auf den klägerischen Schriftsatz vom 02.06.2020, dort S. 16 ff. (Bl. 146 ff. GA) verwiesen.Er stützt den geltend gemachten Schadensersatzanspruch auf §§ 823 Abs. 2 BGB i.V.m. § 263 StGB, § 831 BGB, §§ 823 Abs. 2 BGB i.V.m. §§ 4, 6, 35, 27 EG-FGV und § 826 BGB auch in Verbindung mit § 31 BGB.Wegen seines ursprünglichen Antrags wird auf die Klageschrift vom 01.10.2019 verwiesen. Er beantragt nunmehr:1. Die Beklagte wird verurteilt, an die Klagepartei 7.527,79 EUR sowie Zinsen in Höhe von 1.038,70 EUR, nebst weiterer Zinsen aus 13.837,80 EUR in Höhe von 4 Prozent pro Jahr seit dem 30.05.2020 zu zahlen, und die Klagepartei von den aktuell noch bestehenden Verbindlichkeiten gegenüber der B Bank einer Zweigniederlassung der W Bank GmbH aus dem Darlehensvertrag zur Vertragsnummer ...# in Höhe von derzeit noch 24.701,16 EUR freizustellen, Zug um Zug gegen Abgabe eines Angebots der Klagepartei an die Beklagte auf Übergabe des Fahrzeuges B ... mit der Fahrzeugidentifikationsnummer W...# und Abgabe eines Angebots der Klagepartei an die Beklagte auf Übertragung des der Klagepartei gegenüber der B Bank einer Zweigniederlassung der W Bank GmbH zustehenden Anwartschaftsrechts auf Übereignung des vorstehend bezeichneten Fahrzeugs.2. Es wird festgestellt, dass sich die Beklagte mit der Annahme des in Ziff.1 genannten Fahrzeugs zwei Wochen nach Rechtshängigkeit im Annahmeverzug befindet.3. Es wird festgestellt, dass der Rechtsstreit im Übrigen erledigt ist.Die Beklagte beantragt,die Klage abzuweisen.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf den vorgetragenen Inhalt der zwischen den Parteien gewechselten Schriftsätze und die von ihnen zu den Akten überreichten Unterlagen verwiesen. 
+				Gründe
+				Die zulässige Klage ist überwiegend begründet.I.Aus zivilprozessualen Gründen ist der Beurteilung des Falles zugrunde zu legen, dass in dem streitgegenständlichen Fahrzeug eine Software verbaut ist, die in technischer Hinsicht in qualitativ gleichlaufender Form wie bei dem Motor, welcher dem Urteil des BGH vom 25.05.2020 - VI ZR 252/19 - zugrunde liegt, erkennt, ob das Fahrzeug auf einem Prüfstand dem Neuen Europäischen Fahrzyklus (NEFZ) unterzogen wird und in diesem Fall einen Stickoxid (NOx)-optimierten Modus schaltet. Dies hat der Kläger wie vorgenannt im Tatbestand dargestellt technisch differenziert substantiiert dargetan. Dieser Vortrag findet seine Stütze in den Ausführungen des KBA in dem zur Akte gereichten Rückrufbescheid (Bl. 75 ff. AH), der das hier streitgegenständliche Fahrzeug betrifft. Dem ist die Beklagte nicht hinreichend substantiiert entgegengetreten. Insbesondere fehlt jegliche Auseinandersetzung mit den doch deutlichen Ausführungen des KBA in dem vorbenannten Bescheid. Trotz Gewährung eines Schriftsatznachlasses auf den Schriftsatz der Klägerseite vom 02.06.2020 im Termin vom 16.06.2020 hat die Beklagtenseite hierzu nicht weiter Stellung bezogen.II.Der Kläger hat gegenüber der Beklagten einen Anspruch auf Schadensersatz gem. §§ 826, 31 BGB in dem sich aus dem Tenor ergebenden Umfang.1.Die Beklagte hat dem Kläger in einer gegen die guten Sitten verstoßenden Weise vorsätzlich einen Schaden zugefügt.Den Ausführungen des BGH in seinem Urteil vom 25.05.2020 (Az. VI ZR 252/19 = NJW 2020, 1962) schließt sich das Gericht uneingeschränkt an. Die dortigen Erwägungen müssen im hiesigen Fall für die Beklagte in gleicher Weise gelten, wenn in dem von ihr massenhaft vertriebenen streitgegenständlichen Fahrzeugtyp ein Aggregat verbaut ist, dass über eine in technischer Hinsicht in qualitativ gleichlaufender Form funktionierende Abschaltvorrichtung verfügt, wie es das Fahrzeug in dem seitens des BGH in seinem durch Urteil vom 25.05.2020 (Az. VI ZR 252/19 = NJW 2020, 1962) entschiedenen Fall aufwies.Der Umstand, dass der Kaufvertragsschluss hier am erst 09.11.2017 stattfand, ändert an der Annahme des für die Haftung nach § 826 BGB erforderlichen Vorsatzelements nichts. In den Fällen, in denen Betroffene ein Fahrzeug der Marke W mit einem Motor des Typs ...# Monate nach der Adhoc-Mitteilung der W AG vom 22.09.2015 kauften, wird vertreten, dass es an dem für § 826 BGB erforderlichen Vorsatzelement fehle, denn es sei nicht davon auszugehen, dass die W AG es zu diesem Zeitpunkt weiterhin billigend in Kauf genommen hätte, dass mehrere Monate nach Bekanntwerden der Manipulationen weitere Personen die mit der unzulässigen Abschalteinrichtung versehenden Fahrzeuge in Unkenntnis derselben erwerben würden. Diese Argumentation greift indes nur für solche Fahrzeuge des W konzerns, die mit dem Motorentyp EA189 ausgestattet sind, denn nur auf diesen Motorentyp bezog sich vorbenannte Adhoc-Mitteilung. Für das dem hiesigen Fall zugrunde liegende Aggregat wurde die Installation vorbezeichneter unzulässiger Abschaltvorrichtung nach dem Parteivortrag frühestens erst mit der Veröffentlichung des Rückrufbescheids des KBA Bl. 75 ff. AH bekannt, dem ausweislich seines Inhalts Erkenntnisse zugrunde liegen, die sich erst aus Gesprächen mit der B AG am 09.11.2017 ergaben.2.Die Beklagte hat dem Kläger nach § 826 i.V.m. den §§ 249 f. BGB den entstandenen Schaden zu ersetzen.Der hier relevante Schaden besteht im Kaufvertragsabschluss (vgl. BGH, a.a.O., Rn. 44 ff.). Infolge der Täuschung hat der Kläger den Kaufpreis gezahlt, den er über ein Darlehen finanziert hat. Er hat neben einer Anzahlung von 6.600,- EUR bis zum 29.05.2020 insgesamt 30 (tilgende) Darlehensraten i.H.v. jeweils 241,26 EUR monatlich, also insgesamt 13.837,80 EUR geleistet und zusätzlich Zinsen von 1.038,70 EUR gezahlt. Das Fahrzeug wies zum 15.06.2020 einen Kilometerstand von 89.871 km auf. Die offenen Verbindlichkeiten gegenüber der B Bank belaufen sich auf 24.701,16 EUR.Die - im Wege des Vorteilsausgleichs anzurechnenden (vgl. BGH, a.a.O., Rn. 64 ff.) - Gebrauchsvorteile des Klägers hat er zurecht mit angesetzt und in Abzug gebracht. Dabei hat das Gericht den unstreitigen Kilometerstand vom 15.06.2020 von 89.871 km abzüglich der bei Kauf bereits vorhandenen Laufleistung von 44.385 km zugrunde gelegt. Das Gericht hat die zu erwartende Gesamtlaufleistung gemäß § 287 ZPO auf 300.000 km geschätzt, sodass die bei Kauf noch verbleibende Restlaufzeit unter Abzug der zurückgelegten Laufleistung von 44.385 km noch 255.615 km betrug. Denn nach Einschätzung des Gerichts kann eine Gesamtlaufleistung von 300.000 km bei einem als langlebig geltenden Dieselfahrzeug typischerweise erwartet werden. Der Anspruch auf Nutzungsentschädigung bei gebrauchten Kraftfahrzeugen berechnet sich nach zutreffender Rechtsauffassung nach folgender Methode:Bruttokaufpreis X gefahrene KilometerGesamtlaufleistung - Kilometerstand bei KaufDanach ergibt sich ein Betrag für die Nutzungsentschädigung von 6.310,01 EUR. Somit verbleibt im Hinblick auf die geleistete Anzahlung zzgl. der gezahlten Tilgungsraten von insgesamt 13.837,80 EUR ein Erstattungsanspruch von 7.527,79 EUR. Zusätzlich sind die seitens des Klägers an die B Bank gezahlten Zinsen von 1.038,70 EUR als Schaden zu ersetzen. Überdies ist er von den restlichen Verbindlichkeiten gegenüber der B Bank freizustellen.3.Zinsen stehen dem Kläger gemäß §§ 286, 288 Abs. 1 BGB in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem auf die Zustellung der Klageschrift folgenden Tag, dem 05.11.2019, zu. Er begehrt indes nur 4 Prozent Zinsen pro Jahr ab dem 30.05.2020, sodass ein darüber hinausgehender Zinsanspruch nicht zugesprochen werden konnte.Ein Zinsanspruch besteht im Übrigen auch nur in Bezug auf den ausgeurteilten Zahlungsanspruch von 7.527,79 EUR und nicht aus einem Betrag von 13.837,80 EUR. Ein Zinsanspruch nach § 849 BGB besteht nicht - der Klageantrag zu 1. ist insoweit unbegründet -, da diese Vorschrift weder nach ihrem Wortlaut noch nach ihrem Normzweck einschlägig ist (vgl. im Einzelnen: Riehm, NJW 2019, 1105, 1109; ebenso: OLG Köln, Urteil vom 25.06.2020, Az. 8 U 100/19, n.v., sowie Urteil vom 19.03.2020, Az. 3 U 136/19). Gegenstand des Verfahrens ist nicht Wertersatz bzw. -minderung wegen der Entziehung oder der Beschädigung einer Sache. Nichts anderes ergibt sich aus der Entscheidung des BGH vom 26.11.2017 - II ZR 167/07. Jedenfalls dann, wenn für die Überlassung des Geldes eine Gegenleistung erbracht wurde, ist nach Ansicht des Gerichts § 849 BGB nicht einschlägig, ohne dass es darauf ankommt, ob die Gegenleistung angemessen ist. Dass die Gegenleistung durch Nutzungsersatz abgegolten ist (so OLG Köln, Urteil vom 17. Juli 2019 - 16 U 199/18) überzeugt nicht, da die Gegenleistung nicht die - durch den Nutzungsersatz abgegoltene - Nutzung des Autos war, sondern Eigentum und Besitz am Auto.III.Nachdem die Voraussetzungen des § 293 BGB zumindest ab dem in dem Antrag genannten Zeitpunkt vorliegen, war festzustellen, dass sich die Beklagte im Annahmeverzug befindet.IV.Soweit sich der Schadensersatzanspruch im Hinblick auf die während der Dauer des Prozesses zurückgelegten Kilometer reduziert hat, hat sich die Klage in der Hauptsache nach Rechtshängigkeit erledigt. Nachdem sich die Beklagte der Erledigungserklärung nicht angeschlossen hat und die Klage insofern im ursprünglichen Umfang begründet war, war die Erledigung in der Hauptsache im Übrigen festzustellen.V.Die Kostenentscheidung ergibt sich aus §§ 92 Abs. 2 Nr. 1, die Vollstreckbarkeitsentscheidung aus § 709 ZPO.Der Streitwert wird auf bis zu 40.000,- EUR bis zum 02.06.2020 und ab dann auf bis zu 35.000,- EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2339694.html (https://oj.is/2339694)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

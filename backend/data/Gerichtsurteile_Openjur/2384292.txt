@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG ArnsbergRechtsprechungUrteil vom 19.12.2019 - 2 O 254/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Arnsberg, Urteil vom 19.12.2019 - 2 O 254/19
+                      m. Fundstelle
+                      LG Arnsberg, Urteil vom 19.12.2019 - 2 O 254/19 = openJur 2022, 1564
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Arnsberg, Urteil vom 19.12.2019 - 2 O 254/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 1564
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Am 15.11.2013 erwarb der Kläger einen Pkw VW Golf VII bei dem Autohaus F1 zu einem Preis von 28.145,12 €.Im Fahrzeug ist der Motor mit der Typbezeichnung EA 288 verbaut. Dabei handelt es sich um das Nachfolgemodell des Motors EA 189.Mit anwaltlichem Schreiben von 09.04.2019 forderte der Kläger die Beklagte auf, den Kaufpreis des Pkw Zug um Zug gegen Rückgabe des Kfz bis zum 23.04.2019 zurückzuzahlen.Der Kläger behauptet, auch der Motor mit der Typbezeichnung EA 288 enthalte, wie der Motortyp EA 189, eine unzulässige Abschalteinrichtung im Sinne des Art. 3 Nr. 10 VO (EG) 715/2007 i.V.m. Art. 5 Abs. 2 VO (EG) 715/2007.Er behauptet, die Motorsteuerungssoftware im streitgegenständlichen Fahrzeug sei so programmiert, dass sie den Betrieb des Fahrzeugs auf einem Prüfstand im Neuen Europäischen Fahrzyklus (NEFZ) erkenne und die Abgasbehandlung vom Modus 0 in den sogenannten Modus 1 versetze, wobei der ausschließlich für den Prüfstand vorgesehene Modus 1 zu einem geringeren Stickoxidausstoß führe. Der Stickoxidausstoß im normalen Fahrbetrieb auf der Straße sei daher höher als auf dem Prüfstand.Die Abschalteinrichtung des EA 288 beruhe auf demselben Mechanismus.Dies unterstreiche auch die Tatsache, dass bei einem anderen Modell aus der Produktion der Beklagten, dem VW Multivan T6, welches ebenfalls mit dem EA 288 ausgestattet ist, eine Rückrufaktion durchgeführt wurde. Eine Stilllegung des Fahrzeugs durch das KBA drohe.Damit sei auch beim EA 288 eine vorsätzliche sittenwidrige Schädigung zu bejahen.Der Kläger beantragt,1. die Beklagte zu verurteilen, an die Klägerpartei 30.226,56 € nebst Zinsen in Höhe von 4 % seit dem 16.11.2013 bis 24.04.2019 und seither 5 Prozentpunkten über dem Basiszinssatz Zug um Zug gegen Rückgabe und Übereignung des Fahrzeuges mit der Fahrgestellnummer XXXXXXXXX1 zu zahlen,2. festzustellen, dass sich die Beklagte seit dem 24.04.2019 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befindet,3. die Beklagte zu verurteilen, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 2.077,74 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 24.04.2019 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, dass im Motor EA 288 keine unzulässige Abschaltvorrichtung verbaut sei.Das in den EA288 - Motoren enthaltene Emissionskontrollsystem arbeite in beiden Fahrsituationen, also sowohl im Prüfstand als auch auf der Straße mit identischer Wirksamkeit.Der Kläger habe auch keine behördliche verpflichtende Aufforderung durch die Beklagte oder das KBA erhalten, ein Software-Update an seinem Fahrzeug durchführen zu lassen.Für das klägerische Fahrzeug gebe es gesetzliche Vorgaben für "zulässige Abgaswerte" ausschließlich für den Prüfstand. Diese vorgeschriebenen Grenzwerte würden im allein maßgeblichen Prüfstand auch eingehalten. Für die Einhaltung der Emissionsgrenzen der Abgasnorm EU5 und Abgasnorm EU 6W und EU 6ZD sei nach den gesetzlichen Vorgaben nur der synthetische Fahrzyklus unter Laborbedingungen (NEFZ) maßgeblich.Auch dem europäischen Gesetzgeber sei bewusst gewesen, dass im normalen Fahrbetrieb höhere Emissionen zu erwarten seien. Bei der schrittweisen Umstellung auf Real Drive Emissionstests würden daher für die seit 01.09.2017 neu zu genehmigenden Fahrzeugmodelle durch den EU-Gesetzgeber "Konformitätsfaktoren" vorgegeben (anfangs Faktor 2,1; vgl. Anhang III A Absatz 2.1 der VO (EU) 2017/1151), die im Straßenverkehr ausdrücklich höhere Verbrauchs- und Emissionswerte als auf dem Prüfstand erlauben.Die Klage ist am 17.06.2019 zugestellt worden. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I.Das Landgericht Arnsberg ist jedenfalls gem. § 39 ZPO örtlich zuständig.Der Kläger hat gegen die Beklagte weder einen Anspruch auf Schadensersatz aus §§ 826, 31 BGB noch aus §§ 823 Abs. 2 i. V. m. § 263 StGB, § 16 UWG oder Art. 5 Abs. 2 VO (EG) Nr. 715/2007.1.Der Kläger hat gegen die Beklagte keinen Schadensersatzanspruch wegen vorsätzlicher sittenwidriger Schädigung gem. §§ 826, 31 BGB.a)Objektiv sittenwidrig ist nach der Rechtsprechung ein Verhalten, das nach Inhalt oder Gesamtcharakter, der durch zusammenfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt, das heißt mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist (BGH, Urteil vom 19.11.2013 - VI ZR 336/12, NJW 2014, 383, Rn. 9; Teilversäumnis- und Endurteil vom 28.06.2016 - VI ZR 536/15, NJW 2017, 250, Rn. 16). Dass das Verhalten gegen vertragliche Pflichten oder das Gesetz verstößt, unbillig erscheint oder einen Schaden hervorruft, genügt nicht. Insbesondere die Verfolgung eigener Interessen bei der Ausübung von Rechten ist im Grundsatz auch dann legitim, wenn damit eine Schädigung Dritter verbunden ist (BGH, Urteil vom 19.10.1987 ‒ II ZR 9/87, NJW 1988, 700). Hinzutreten muss eine besondere Verwerflichkeit des Verhaltens, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zu Tage tretenden Gesinnung oder den eintretenden Folgen ergeben kann (BGH, Urteil vom 13.12.2011 − XI ZR 51/10, NJW 2012, 1800, Rn. 28; Urteil vom 03.12.2013 - XI ZR 295/12, NJW 2014, 1098; Urteil vom 15.10.2013 - VI ZR 124/12, NJW 2014, 1380; vgl. insgesamt Palandt/Sprau, BGB, 78. Aufl. 2019, § 826, Rn. 4 m.w.N.).b)Subjektiv ist ein Bewusstsein der Sittenwidrigkeit nicht erforderlich. Der Schädiger muss aber grundsätzlich die Tatumstände kennen, die sein Verhalten als sittenwidrig erscheinen lassen (BGH, Urteil vom 13.09.2004 ‒ II ZR 276/02, NJW 2004, 3706, 3710; Teilversäumnis- und Endurteil vom 28.06.2016 - VI ZR 536/15, NJW 2017, 250, Rn. 23; vgl. insgesamt Palandt/Sprau, BGB, 78. Aufl. 2019, § 826, Rn. 5).c)Dabei kann es dahinstehen, ob es sich bei dem in der Motorsteuerungssoftware des streitgegenständlichen Fahrzeugs vorhandenen sog. Thermofenster um eine unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2 (VO) EG Nr. 715/2007 handelt. Jedenfalls lässt sich aus Sicht des Gerichts nicht feststellen, dass die Beklagte durch die Verwendung eines solchen sog. Thermofensters gegen das Anstandsgefühl aller billig und gerecht Denkenden verstoßen hat.Das Gericht erkennt in der Verwendung von sog. Thermofenstern keine besondere Verwerflichkeit.(1)Die Verwendung von sog. Thermofenstern ist bei Dieselfahrzeugen aller Hersteller weit verbreitet. Im Bericht der Untersuchungskommission "Volkswagen" stellte das Bundesministerium für Verkehr und digitale Infrastruktur (nachfolgend: BMVI) bei allen Herstellern Abschalteinrichtungen gem. der Definition in Artikel 3 der Verordnung (EG) Nr. 715/2007 fest.(2)Die Verwendung von sog. Thermofenstern ist den Zulassungsbehörden bekannt. Außerdem lässt sich dem Bericht der Untersuchungskommission "Volkswagen" entnehmen, dass das BMVI gegen die grundsätzliche Verwendung von sog. Thermofenstern keine Bedenken hat, soweit diese zum Motorschutz erforderlich sind. Vor diesem Hintergrund kann allein aus der Verwendung von sog. Thermofenstern nicht auf eine besondere Verwerflichkeit geschlossen werden.(3)Darüber hinaus ist das Gericht nicht der Auffassung, dass durch die Verwendung von sog. Thermofenstern durch die Beklagte eine besondere Verwerflichkeit gerade im Verhältnis zum Kläger gegeben ist. Die Beschränkung der Abgasreinigung auf bestimmte Temperaturbereiche dient gerade dem Schutz und der Dauerhaltbarkeit von Motorbauteilen. Die Dauerhaltbarkeit der Motorbauteile dürfte unter Berücksichtigung der allgemeinen Lebenserfahrung im vorrangigen Interesse der Fahrzeughalter sein. Vor diesem Hintergrund ist eine besondere Verwerflichkeit des Handels der Beklagten gegenüber dem Kläger zu verneinen.d)Zu weiteren im streitgegenständlichen Fahrzeug verwendeten Abschalteinrichtungen trägt der Kläger nicht hinreichend substantiiert vor. Allein der Umstand, dass die Beklagte - nach Ansicht des KBA - unzulässige Abschalteinrichtungen in Motoren des Typs EA189 verwendet hat, begründet keinen Generalverdacht gegen die Beklagte. Die Einholung eines Sachverständigengutachtens entspräche insoweit einer Ausforschung des Sachverhalts. Ausweislich des Berichts der Untersuchungskommission "Volkswagen" konnte in keinem der untersuchten Fahrzeuge (darunter auch Fahrzeuge mit Motoren des Typs EA288) eine unzulässige Abschalteinrichtung vergleichbar den vom Rückruf betroffenen Fahrzeugen mit Motoren des Typs EA189 festgestellt werden.e)Es kann dahinstehen, ob das klägerische Fahrzeug im Realbetrieb einen höheren Stickoxidausstoß aufweist als im Rahmen der für die Zulassung erforderlichen Laboruntersuchung. Unterschiede in Bezug auf den Schadstoffausstoß ergeben sich durch Fahrprofil, Fahrweise und weitere äußere Einflüsse. Es ist nicht erkennbar, inwiefern darin eine vorsätzliche und sittenwidrige Schädigung durch die Beklagte liegen soll.2.Der Kläger hat gegen die Beklagte ebenfalls keinen Anspruch auf Schadensersatz gem. § 823 Abs. 2 i. V. m. § 263 StGB.Eine rechtswidrige Täuschung des Klägers durch die Beklagte ist aus den oben genannten Gründen nicht ersichtlich. Konkrete Hinweise darauf, dass dem klägerischen Fahrzeug ein Entzug der Zulassung droht, sind vom Kläger nicht vorgetragen worden. Das streitgegenständliche Fahrzeug ist bislang von keinem Rückruf des KBA betroffen.Wenn der Kläger weiter darauf abstellt, darüber getäuscht worden zu sein, dass der Stickoxidausstoß im Realbetrieb höher ausfällt als im Laborbetrieb, ist von Klägerseite bereits nicht vorgetragen worden, dass die Beklagte behauptet hat, dass die Emissionen im Realbetrieb denen im Laborbetrieb entsprechen. Soweit der Kläger lediglich davon ausgegangen ist, dass dies der Fall ist, liegt jedenfalls keine Täuschung durch die Beklagte vor.3.Der Kläger hat gegen die Beklagte auch keinen Schadensersatzanspruch gem. § 823 Abs. 2 BGB i. V. m. § 16 UWG.a)Keine Angaben im Sinne des § 16 UWG sind Bezeichnungen ohne inhaltlich nachprüfbaren Tatsachenkern wie plakative allgemeinsprachliche Anpreisungen, einfache Kaufappelle, reine Meinungsäußerungen, subjektive Werturteile oder reklamehafte Übertreibungen (vgl. MüKoUWG/Brammsen UWG § 16 Rn. 50)b)Es ist bereits nicht ersichtlich, welche unwahren Angaben die Beklagte konkret verbreitet haben soll. Allein der Umstand, dass sich die Beklagte, wie der Kläger behauptet, in der öffentlichen Wahrnehmung als besonders umweltfreundlich präsentiert, reicht als allgemeine Anpreisung nicht aus.4.Schadensersatzansprüche gegen die Beklagte gem. §§ 823 Abs. 2 i. V. m. Art. 5 Abs. 2 VO (EG) Nr. 715/2007 scheiden ebenfalls aus.Es fehlt bereits an der Schutzgesetzeigenschaft des Art. 5 Abs. 2 VO (EG) Nr. 715/2007.a)Schutzgesetz im Sinne von § 823 Abs. 2 BGB ist jede Rechtsnorm, die zumindest auch dazu dienen soll, einen Einzelnen oder einen bestimmten Personenkreis gegen die Verletzung eines bestimmten Rechtsinteresses zu schützen (vgl. BGH, Urteil vom 13. Dezember 2011, Az. XI ZR 51/10). Der Schutz eines Einzelnen ist dabei nicht bereits dann bezweckt, wenn er als Reflex einer Befolgung der Norm objektiv erreicht wird, sondern nur dann, wenn der Gesetzgeber dem Einzelnen selbst die Rechtsmacht in die Hand geben wollte, mit Mitteln des Privatrechts gegen denjenigen vorzugehen, der das Verbot übertritt und sein Rechtsinteresse beeinträchtigt (vgl. BGH, aaO).b)Die Kammer schließt sich insoweit den überzeugenden Ausführungen des OLG Braunschweig (Urteil vom 19.02.2019, Az. 7 U 134/17) vollständig an:"Ziel der VO (EG) 715/2007 ist nach deren einleitenden Bemerkungen (1) bis (4) sowie zusammengefasst nochmals in (27) die Harmonisierung des Binnenmarktes / die Vollendung des Binnenmarktes durch Einführung gemeinsamer technischer Vorschriften zur Begrenzung von Fahrzeugemissionen. Zwar werden neben der Vereinheitlichung der Rechtsregelungen ein hohes Umweltschutzniveau (1) als Ziel und die Reinhaltung der Luft als Vorgabe für Regelungen zur Senkung der Emissionen von Fahrzeugen (4) beschrieben, doch folgt aus den Ausführungen unter (7), die die Verbesserung der Luftqualität in einem Zuge mit der Senkung der Gesundheitskosten (und dem Gewinn an Lebensjahren) nennen, dass es auch insoweit nicht um individuelle Interessen, sondern letztlich um umwelt- und gesundheitspolitische Ziele geht. Dass der europäische Gesetzgeber i.S.d. Definition des Schutzgesetzes dem einzelnen Verbraucher die Rechtsmacht in die Hand geben wollte, mit Mitteln des Privatrechts gegen denjenigen vorzugehen, der in dieser Verordnung zur Umsetzung dieser Ziele geregelte Verbote übertritt und sein Rechtsinteresse beeinträchtigt, geht damit aus den Vorbemerkungen nicht hervor. Vielmehr spricht stattdessen sogar der Umstand, dass die Ziele in (7) in Beziehung gesetzt werden zu den Auswirkungen der Emissionsgrenzwerte auf die Märkte und die Wettbewerbsfähigkeit von Herstellern, gegen einen entsprechenden Willen des Gesetzgebers. Dies gilt umso mehr, als auch die Regelungen der VO (EG) 715/2007 selbst keinen Bezug zu Individualinteressen des einzelnen Bürgers aufweisen (so i.E. auch Riehm, DAR 2016, DAR Jahr 2016 Seite 12, DAR Jahr 2016 13). Gerade einen derartigen Bezug zu Individualinteressen sieht der Europäische Gerichtshof aber in seiner Vorabentscheidung vom 16.02.2017, EUGH Aktenzeichen C21915 C - 219/15, zitiert nach juris, Rzn. 55, 56, als Erfordernis für eine Schutzgesetzeigenschaft an."5.Mangels Hauptanspruch stehen dem Kläger auch keine Zinsansprüche zu.6.Auch der Antrag zu 2. ist unbegründet.Die Beklagte befindet sich nicht im Annahmeverzug, da sie zur Rücknahme des Fahrzeugs nicht verpflichtet ist.7.Der Antrag zu 3. ist ebenfalls unbegründet.Da kein Schadensersatzanspruch besteht, sind auch die Rechtsverfolgungskosten nicht erstattungsfähig.II.Die Nebenentscheidungen beruhen auf §§ 91 Abs. 1, 709 ZPO.Der Streitwert wird auf 30.226,56 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2384292.html (https://oj.is/2384292)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

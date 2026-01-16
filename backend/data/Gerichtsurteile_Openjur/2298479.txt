@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBaden-WürttembergOrdentliche GerichtsbarkeitOLG StuttgartRechtsprechungBeschluss vom 04.07.2019 - 14 U 95/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Stuttgart, Beschluss vom 04.07.2019 - 14 U 95/19
+                      m. Fundstelle
+                      OLG Stuttgart, Beschluss vom 04.07.2019 - 14 U 95/19 = openJur 2020, 81526
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Stuttgart, Beschluss vom 04.07.2019 - 14 U 95/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 81526
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Es handelt sich hierbei um einen Hinweisbeschluss gem. § 522 II ZPO. Das Berufungsverfahren wurde zwischenzeitlich durch Berufungsrücknahme erledigt. 
+				
+				Tenor
+				1. Der Senat weist darauf hin, dass er beabsichtigt, die Berufung gemäß § 522 Abs. 2 ZPO zurückzuweisen, weil er einstimmig der Auffassung ist, dass die Berufung offensichtlich keine Aussicht auf Erfolg hat, der Rechtssache auch keine grundsätzliche Bedeutung zukommt, weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Berufungsgerichts erfordert und die Durchführung einer mündlichen Verhandlung über die Berufung nicht geboten ist.2. Hierzu besteht Gelegenheit zur Stellungnahme binnen drei Wochen nach Zustellung dieses Beschlusses.  
+				Gründe
+				I.1. Der Kläger nimmt die Beklagte auf Schadensersatz im Zusammenhang mit einem Dieselfahrzeug in Anspruch, das über eine unzulässige Abschalteinrichtung verfügen soll.Der Kläger hat in erster Instanz zunächst vorgetragen, im Fahrzeug sei eine Software verbaut, die bewirke, dass bei den Tests im Rahmen des Typgenehmigungsverfahrens andere Schadstoffwerte erreicht würden als im normalen Fahrbetrieb.Der bewusste Einsatz einer Software, mit der gezielt Umweltvorgaben umgangen würden, stelle eine sittenwidrige Schädigung der späteren Käufer dar.Der Kläger habe einen Schaden in der Form erlitten, dass er ein Fahrzeug erworben habe, dessen Wiederverkaufswert durch den Einbau einer manipulierenden Software und der Belastung der Marke X durch den Abgasskandal reduziert sei.Erstmals in der mündlichen Verhandlung vor dem Landgericht hat der Kläger geltend gemacht, das Fahrzeug verfüge über ein sogenanntes "Thermofenster".2. Das Landgericht hat die Klage abgewiesen. Der Kläger habe nicht schlüssig dargelegt, warum im streitgegenständlichen Fahrzeug eine unzulässige Abschalteinrichtung verbaut worden sein soll. Soweit sich der Kläger in Anlehnung an die Y-Fälle auf das Vorhandensein einer Motorsteuerungssoftware berufe, die in der Lage sei, zwischen dem Prüfzyklus und dem realen Straßenbetrieb zu unterscheiden, habe er eine unzulässige "Behauptung ins Blaue hinein" aufgestellt. Hinreichende Anhaltspunkte, dass der Motor des streitgegenständlichen Fahrzeugs über eine derartige Abschalteinrichtung verfüge, bestünden nicht, nachdem insbesondere ein Fahrzeugrückruf bezogen auf diesen Fahrzeugtyp ausweislich einer im Internet abrufbaren Liste der Beklagten nicht erfolgt sei.Soweit sich der Kläger auf das Vorhandensein einer illegalen Abschalteinrichtung in Form eines "Thermofensters" berufe, sei der Vortrag unsubstantiiert.3. Mit seiner Berufung verfolgt der Kläger sein erstinstanzliches Klageziel weiter. Er stützt sich dabei nunmehr ausschließlich darauf, dass in dem Fahrzeug ein sogenanntes "Thermofenster" verbaut sei und trägt ergänzend dazu vor, wobei es sich darum handele und weshalb darin eine unzulässige Abschalteinrichtung zu sehen sei.Wegen des Vortrags im Einzelnen wird auf die Berufungsbegründung (GA 106 ff.) verwiesen.II.1. Der Senat geht auf der Grundlage der Berufungsbegründung davon aus, dass soweit der ursprüngliche Vortrag in erster Instanz dahingehend zu verstehen war, das Fahrzeug verfüge ähnlich wie in den Y-Fällen über eine Software, die in der Lage sei, anhand des Motorbetriebs zu erkennen, dass sich dieser in einem Prüfbetrieb befindet und dementsprechend in einen - gegenüber dem "Normalbetrieb" schadstoffärmeren - "Prüfmodus" schalte ("Abschaltsoftware"), dieser Vortrag nicht mehr aufrechterhalten wird, nachdem in der Berufungsbegründung nur noch auf das Vorhandensein einer unzulässigen Abschalteinrichtung in Form eines sogenannten "Thermofensters" abgestellt wird.Sollte der ursprüngliche Vortrag in der Berufungsinstanz zur "Abschaltsoftware" weiterverfolgt werden sollen, wäre bereits fraglich, ob insoweit eine ordnungsgemäße Berufungsbegründung vorliegt, da in der Berufungsbegründung die Erwägungen, mit denen das Landgericht auf einen solchen Mangel gestützte Ansprüche verneint hat, gar nicht angegriffen werden. Bei mehreren prozessualen Ansprüchen ist jedoch eine ordnungsgemäße Begründung für jeden Anspruch nötig (Zöller/Heßler, ZPO, 32. Aufl., § 520 Rn. 27) . Wenn man also von einer separaten Mangelbehauptung ausginge, wäre dieser Anforderung hinsichtlich der ursprünglich behaupteten "Abschaltsoftware" nicht genügt.2. Hinsichtlich der Behauptung, das Fahrzeug verfüge über eine illegale Abschalteinrichtung in Form eines "Thermofensters", ist der Vortrag der Klägerseite in erster Instanz ersichtlich unsubstantiiert. Er erschöpft sich nämlich in der Aussage des Unterbevollmächtigten in der mündlichen Verhandlung, er verweise bezüglich des Vorhandenseins einer illegalen Abschalteinrichtung auch auf ein "sogenanntes Thermofenster".In welcher Form dieses "Thermofenster" funktionieren soll, inwieweit es eine illegale Abschalteinrichtung darstellt und aus welchen Umständen sich die für einen Anspruch aus § 826 BGB erforderliche Sittenwidrigkeit herleiten lässt, wird vom Kläger nicht - auch nicht im Ansatz - vorgetragen.Der unsubstantiierte klägerische Vortrag "Thermofenster" ist nicht einlassungsfähig, mit der Folge, dass er in erster Instanz nicht, wie der Kläger meint, als unstreitig zu behandeln, sondern vielmehr unbeachtlich war.Ob der in der Berufungsbegründung gehaltene Vortrag, mit dem der Sachvortrag zu der behaupteten illegalen Abschalteinrichtung in Form eines "Thermofensters" ergänzt sowie zu den Voraussetzungen eines darauf gestützten Anspruchs aus § 826 Abs. 1 BGB näher vorgetragen wurde, ausreichend ist, um die Klage zu substantiieren, kann offenbleiben. Denn jedenfalls ist dieser Sachvortrag gemäß § 531 Abs. 2 ZPO in der Berufungsinstanz präkludiert. Die in § 531 Abs. 2 Nr. 1 bis 3 ZPO vorgesehenen Ausnahmetatbestände, unter denen neue Angriffs- und Verteidigungsmittel zuzulassen sind, sind hier nicht einschlägig.Insbesondere bedurfte es eines weiteren gerichtlichen Hinweises auf die Unsubstantiiertheit nicht, nachdem das Gericht bereits vor der mündlichen Verhandlung wiederholt in Hinweisbeschlüssen beanstandet hatte, dass es bislang an einer substantiierten Darlegung zur behaupteten Abschalteinrichtung fehle und die Gegenseite zudem ausweislich des Protokolls der mündlichen Verhandlung konkret die Unsubstantiiertheit des nachgeschobenen Vortrags "Thermofenster" beanstandet hatte, ohne dass darauf mit ergänzendem Sachvortrag reagiert worden wäre.
+			
+			
+			
+			Permalink: https://openjur.de/u/2298479.html (https://oj.is/2298479)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

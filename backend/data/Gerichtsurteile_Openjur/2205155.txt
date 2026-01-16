@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNiedersachsenOrdentliche GerichtsbarkeitLG BraunschweigRechtsprechungUrteil vom 20.07.2017 - 11 O 3688/16
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Braunschweig, Urteil vom 20.07.2017 - 11 O 3688/16
+                      m. Fundstelle
+                      LG Braunschweig, Urteil vom 20.07.2017 - 11 O 3688/16 = openJur 2020, 8889
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Braunschweig, Urteil vom 20.07.2017 - 11 O 3688/16
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 8889
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger trägt die Kosten des Rechtsstreits.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger begehrt als Nachlieferung für seinen von der Beklagten gekauften Pkw XXX 2,0 l TDI mit dem Dieselmotor EA 189 ein Fahrzeug aus der aktuellen Serienproduktion mit identischer technischer Ausstattung.Mit Kaufvertrag vom 08.11.2008 (Verbindliche XXX-Bestellung, Anlage K 1) erwarb der Kläger einen Pkw XXX, 2,0 l TDI, 125 kW zum Preis von 47.150,59 € von der Beklagten. Der Kaufpreis wurde gezahlt, das Fahrzeug an den Kläger ausgeliefert und zugelassen.Der Abschluss des Kaufvertrages erfolgte unter Einbeziehung folgender Klausel:„6. Konstruktions- oder Formänderungen, Abweichungen im Farbton sowie Änderungen des Lieferumfangs seitens des Herstellers bleiben während der Lieferzeit vorbehalten, sofern die Änderungen oder Abweichungen unter Berücksichtigung der Interessen des Verkäufers für den Käufer zumutbar sind. Sofern der Verkäufer oder der Hersteller zur Bezeichnung der Bestellung oder des bestellten Kaufgegenstandes Zeichen oder Nummern gebraucht, können allein daraus keine Rechte hergeleitet werden“.In dem Fahrzeug ist ein Motor der Baureihe EA 189 verbaut. Es verfügt über eine Typgenehmigung nach der Euro 4 Norm. Die Einhaltung der dafür nach der EG-Verordnung maßgeblichen Grenzwerte für Stickoxide hängt davon ab, in welchem Ausmaß Abgase aus dem Auslassbereich des Motors über ein Abgasrückführungsventil in den Ansaugtrakt des Motors zurückgeleitet werden. Im streitgegenständlichen Fahrzeug lässt die das Abgasrückführungsventil steuernde Software des Motorsteuerungsgerätes eine Abgasrückführung im zur Einhaltung der Grenzwerte nötigen Umfang nur unter den Bedingungen des zur Erlangung der Typgenehmigung durchgeführten gesetzlich vorgeschriebenen Testlaufs zu. Es ist nahezu ausgeschlossen, dass im normalen Straßenverkehr die Fahrkurven dieses Testlaufs - neuer europäischer Fahrzyklus (NEFZ) - exakt nachgefahren werden.Das Kraftfahrbundesamt (KBA) erkannte in der genannten Software eine unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2, Art. 3 Ziff. 10 der Verordnung (EG) Nr. 715/2007 und ordnete einen Rückruf an.Dem vom Kläger erworbenen Modell XXX 2,0 l TDI 125 kW der „6. Generation“ (Baujahr 2009) ist bereits die 7. und nunmehr „8. Modellgeneration“ (interne Bezeichnung der Beklagten) gefolgt. Diese ist seit dem Jahr 2014 auf dem Markt und unterscheidet sich von dem mit Vertrag vom 08.11.2008 erworbenen Modell in der Motorleistung und durch sonstige technische Weiterentwicklungen, die unter anderem zur Erlangung der Typgenehmigung nach der Euro 6 Norm führten.Der Kläger ist der Ansicht, er habe mangelbedingt einen Anspruch auf Lieferung eines Neufahrzeugs aus der aktuellen Serienproduktion. Diese weiche von der von ihm gekauften Modellgeneration nur unwesentlich ab. Das streitgegenständliche Fahrzeug könne noch beschafft werden.Ein solcher Nacherfüllungsanspruch ergebe sich zunächst als Nachlieferungsanspruch aus §§ 434, 437 Nr. 1, 439 BGB. Der Mangel des vom Kläger erworbenen Fahrzeugs liege darin, dass dessen uneingeschränkter Betrieb im öffentlichen Straßenverkehr nicht gewährleistet sei, da es nicht den geltenden Zulassungsvoraussetzungen entspreche. Des Weiteren liege der CO2-Ausstoß des Fahrzeugs mehr als 10 % höher als vom Hersteller angegeben.Der Anspruch auf ein Fahrzeug der aktuellen Serienproduktion ergebe sich darüber hinaus auch nach den Grundsätzen der Prospekthaftung.Mit der Ausstellung einer unwirksamen EG-Übereinstimmungsbescheinigung - das verfahrensgegenständliche Fahrzeug habe im Zeitpunkt seiner Herstellung in diverser Hinsicht nicht den in der Europäischen Union geltenden Rechtsvorschriften entsprochen - hafte die Beklagte außerdem aus einer Garantie im Sinne von § 443 BGB. Ferner nehme die Beklagte mit der Ausstellung der EG-Übereinstimmungsbescheinigung besonderes Vertrauen in Anspruch, welches zu einer entsprechenden Vertrauenshaftung führe. Da die Vorschriften über die EG-Übereinstimmungs-bescheinigung auch drittschützenden Charakter hätten, hafte die Beklagte wegen der Ausstellung einer unwirksamen EG -Übereinstimmungsbescheinigung auch nach § 823 Abs. 2 BGB.Der geltend gemachte Anspruch auf Lieferung eines Neufahrzeugs aus der aktuellen Serie ergebe sich ferner aus § 823 Abs. 2 BGB iVm § 263 StGB sowie aus § 823 Abs. 2 BGB iVm § 16 UWG, aus § 823 Abs.2 BGB iVm § 4 Nr. 11 UWG aF und aus § 826 BGB.Als Rechtsfolge der Schadensersatzansprüche sei die Beklagte verpflichtet, ein neues Fahrzeug zu liefern. Es sei der Zustand herzustellen, der bestehen würde, wenn die Beklagtenpartei nicht manipuliert hätte.Der Kläger beantragt,1. die Beklagtenpartei zu verurteilen, ihm ein mangelfreies fabrikneues typengleiches Ersatzfahrzeug aus der aktuellen Serienproduktion des Herstellers mit identischer technischer Ausstattung wie das Fahrzeug XXX 2,0 l TDI, FIN: XXX Zug um Zug gegen Rückübereignung des mangelhaften Fahrzeugs XXX 2,0 l TDI, FIN: XXX nachzuliefern;2. festzustellen, dass sich die Beklagte mit der Rücknahme des im Klagantrag Ziffer 1 genannten Fahrzeugs in Verzug befindet;3. die Beklagte zu verurteilen, ihn von den durch die Beauftragung seiner  Prozessbevollmächtigten entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 2.791,74 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.Der Kläger hat keinen Anspruch auf Lieferung eines typengleichen Ersatzfahrzeugs aus der aktuellen Serienproduktion des Herstellers.I. Der Kläger begehrt als „Nachlieferung“ im Sinne des § 439 BGB: Ein mangelfreies fabrikneues typengleiches Ersatzfahrzeug aus der aktuellen Serienproduktion des Herstellers mit identischer technischer Ausstattung wie das von ihm mit Kaufvertrag vom 08.11.2011 erworbene Fahrzeug XXX 2,0 l TDI.1. Der Kläger hat keinen Anspruch auf Lieferung eines XXX 2,0 l TDI aus der aktuellen Serienproduktion als Nacherfüllung im Sinne des § 439 BGB. Fahrzeuge aus der aktuellen XXX 2,0 l TDI Serienproduktion sind vom ursprünglichen Erfüllungsanspruch nicht erfasst. Der Nacherfüllungsanspruch kann nicht weiter reichen als der ursprüngliche Erfüllungsanspruch. Der Verkäufer schuldet nochmals die Übergabe des Besitzes und die Verschaffung des Eigentums einer mangelfreien Sache - nicht weniger, aber auch nicht mehr (BGH, Urteil vom 17.12.2012, VIII ZR 226/11, juris, Rn 24). Die Fahrzeuge aus der aktuellen XXX 2,0 l TDI Serienproduktion unterscheiden sich zu gravierend von dem laut Kaufvertrag geschuldeten Fahrzeug (vgl. Anlage K 1). Technische Weiterentwicklungen haben unter anderem zur Erlangung der Typgenehmigung nach der Euro 6 Norm geführt. Die Fahrzeuge der aktuellen Serienproduktion halten also wesentlich geringere Schadstoffgrenzwerte ein (vgl. Verordnung 715/2007/EG mit Ergänzungs-Verordnungen) als das gekaufte Fahrzeug.Auch unter Berücksichtigung des durch Auslegung zu ermittelnden Willens der Parteien bei Vertragsschluss folgt aus dem Kaufvertrag kein Anspruch des Klägers auf die Lieferung eines XXX 2,0 l TDI der nach interner Bezeichnung 8. Generation (zur Erforderlichkeit der Vertragsauslegung vgl. BGH, Urteil vom 07.06.2006, VIII ZR 209/05, juris, Rn 23). Dem Willen des Verkäufers entsprach es - auch und gerade bei Berücksichtigung von Ziffer III.6. der einbezogenen Allgemeinen Geschäftsbedingungen - nicht, bei eventuellen Mängeln ein Fahrzeug aus einer neuen Modellreihe zu liefern. Diese Klausel stellt schon vom Wortlaut her ein einseitiges Leistungsbestimmungsrecht des Verkäufers dar. Sie erweitert einseitig die Rechte des Verkäufers, wobei bezüglich der Rechte des Käufers nur eine Billigkeitskontrolle auf Zumutbarkeit stattfindet. Dieser Charakter der Klausel verbietet es, sie im Wege der Vertragsauslegung zur Begründung einer Benachteiligung des Verkäufers bei gleichzeitiger Erweiterung der Rechte des Käufers heranzuziehen.2. Eine etwaig begehrte Nachlieferung eines Fahrzeugs im Sinne des § 439 BGB ist gemäß § 275 BGB ausgeschlossen. Das vom Kläger erworbene Modell wird nicht mehr hergestellt. Aus der aktuellen Serienproduktion des Herstellers gibt es kein Fahrzeug, das nach den Vorstellungen beider Parteien noch gleichartig und gleichwertig im Sinne der Rechtsprechung des Bundesgerichtshofes (BGH zum Stückkauf/ Gebrauchtwagenkauf, Urteil vom 07.06.2006, VIII ZR 209/05, juris, Rn 23) wäre (s.o. I.1.).II. Der Kläger hat keinen Anspruch aus §§ 311, 241 Abs. 2 BGB:Ein Anspruch auf Lieferung eines Neufahrzeuges ist auch unter dem Gesichtspunkt einer (nicht spezialgesetzlich geregelten) Prospekthaftung gem. §§ 311, 241 Abs. 2 BGB nicht schlüssig dargelegt. Die Grundsätze der Prospekthaftung sind auf den vorliegenden Fall nicht übertragbar. Sie wurde von der Rechtsprechung für den sog. „grauen“, nicht organisierten Kapitalmarkt vor dem Hintergrund entwickelt, dass in jenem Markt das Emissionsprospekt die einzige Informationsquelle für den interessierten Kapitalanleger darstellt. Nur wenn die dortigen Angaben vollständig und richtig sind, kann der Interessent die ihm angebotene Kapitalanlage objektiv beurteilen und vor allem sein Anlagerisiko richtig einschätzen (vgl. BGHZ 111, 114 ff.). Im vorliegenden Fall eines Autokaufs ist die Ausgangslage des interessierten Kunden gänzlich anders. Er kann sich nicht nur aus Verkaufsprospekten sondern auch aus Testberichten einer Vielzahl einschlägiger Zeitschriften und im Internet informieren. Ferner kann er sich ein vergleichbares Fahrzeug anschauen und gegebenenfalls Probe fahren.III. Der Kläger hat keine Ansprüche im Zusammenhang mit einer eventuell unwirksamen EG-Übereinstimmungsbescheinigung:Durch die in Erfüllung des Kaufvertrages übergebene EG-Übereinstimmungs-bescheinigung der Herstellerin nach Art. 18 der Richtlinie 2007/46/EG hat die Beklagte weder eine Garantieerklärung nach § 443 BGB abgegeben, noch haftet sie dadurch für besonderes Vertrauen im Sinne des § 311 Abs. 3 BGB. Sie war vielmehr dazu verpflichtet, diese Erklärung der Herstellerin - hier ist die Beklagte sowohl Verkäuferin als auch Herstellerin - nach Abschluss des Kaufvertrages zu übergeben.IV. Der Kläger hat keinen Anspruch aus § 823 Abs. 2 BGB iVm Art. 12 und Art.18 der Richtlinie 2007/46/EG, §§ 4, 6, 25  EG-FGV oder iVm § 16 UWG oder iVm § 4 Nr.11 UWG aF oder iVm § 263 Abs. 1 StGB auf ein Fahrzeug aus der aktuellen Serienproduktion:Der Anspruch aus § 823 Abs. 2 BGB ist auf Naturalrestitution gem. § 249 Abs. 1 BGB gerichtet, d.h. darauf, den Geschädigten so zu stellen, wie er ohne das schädigende Ereignis stehen würde. Anders als der Kläger meint, hätte die Beklagte aber kein Fahrzeug aus der aktuellen Serienproduktion zu liefern, um den Zustand herzustellen, der bestehen würde, „wenn die Beklagtenpartei nicht manipuliert hätte“ (Klageschrift Seite 61, Bl. 64 d.A.). Wenn der geltend gemachten Schaden im Abschluss eines Vertrages liegen soll - und ein solches Verleiten zum Vertragsschluss wird der Beklagten hier sowohl als Herstellerin als auch als Verkäuferin vorgeworfen - kann aus § 823 Abs. 2 BGB zwar der Ersatz des Erfüllungsinteresses geschuldet sein. Aber nur wenn feststeht, dass bei Unterbleiben der unerlaubten Handlung der Vertrag mit einem anderen Inhalt geschlossen worden wäre, kann Herstellung dieses Zustands verlangt werden (Palandt-Sprau BGB, 76. Aufl. 2017, Vor § 823 Rn 24). Im vorliegenden Fall steht im Gegensatz zur Rechtsansicht des Klägers jedoch fest, dass die Beklagte ohne die streitgegenständliche Motorsteuerungssoftware jedenfalls keinen Kaufvertrag über ein Fahrzeug aus der nunmehr aktuellen Serienproduktion zu demselben Preis wie im oben genannten Kaufvertrag abgeschlossen hätte (vgl. oben I.1.).V. Der Kläger hat keinen Anspruch aus § 826 BGB auf Lieferung eines Neufahrzeugs.Auch nach einer vorsätzlich sittenwidrigen Schädigung hat der Geschädigte einen Anspruch, so gestellt zu werden, wie er ohne Eintritt des schädigenden Ereignisses stünde (Staudinger/Jürgen Oechsler (2014) BGB § 826, Rn. 153 mwN, zitiert nach juris). Weder der Einbau der streitgegenständlichen Software durch die Beklagte als Herstellerin noch ein etwaiges arglistiges Verschweigen durch die Beklagte bei  den Kaufvertragsverhandlungen könnte hier zu einem Anspruch aus § 826 BGB auf Lieferung eines Fahrzeugs aus der aktuellen Serienproduktion führen.Selbst wenn sich der Schadensersatzanspruch beim arglistigen Verschweigen eines Sachmangels auf das positive Interesse richten sollte (so Staudinger/Jürgen Oechsler (2014) BGB § 826, Rn. 154, 149.1 mwN, zitiert nach juris), umfasst dieses nicht das hier begehrte Fahrzeug aus der aktuellen Serienproduktion (vgl. oben IV und I.1.). Der Geschädigte wird auch bei Ersatz des positiven Interesses nicht besser gestellt, als er bei mangelfreier Erfüllung des ursprünglich geschlossenen Vertrages stehen würde.VI.Soweit der Kläger die Feststellung begehrt, dass sich die Beklagte mit der Rücknahme des ursprünglich gelieferten Fahrzeugs im Verzug befindet, ist die Klage ebenfalls nicht schlüssig. Die Beklagte befindet sich nicht im Annahmeverzug, weil der Kläger keinen Anspruch auf Lieferung eines Neufahrzeugs aus der aktuellen Produktion hat.Ein Anspruch auf Freistellung von seinen vorgerichtlichen Rechtsanwaltskosten steht dem Kläger mangels begründeter Hauptforderung ebenfalls nicht zu.VII.Die Kostenentscheidung folgt aus § 91 ZPO.Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus § 709 S.1, S.2 ZPO.Der nicht nachgelassene Schriftsatz des Beklagtenvertreters vom 12.07.2017 bot keine Veranlassung, die mündliche Verhandlung wiederzueröffnen.
+			
+			
+			
+			Permalink: https://openjur.de/u/2205155.html (https://oj.is/2205155)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert4
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

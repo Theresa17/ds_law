@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BielefeldRechtsprechungUrteil vom 18.05.2021 - 6 O 125/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bielefeld, Urteil vom 18.05.2021 - 6 O 125/20
+                      m. Fundstelle
+                      LG Bielefeld, Urteil vom 18.05.2021 - 6 O 125/20 = openJur 2021, 20062
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bielefeld, Urteil vom 18.05.2021 - 6 O 125/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 20062
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits werden dem Kläger auferlegt.Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 110 Prozent des jeweils zu vollstreckenden Betrages. 
+				Tatbestand
+				Der Kläger nimmt die beklagte Automobilherstellerin auf Schadensersatz im Zusammenhang mit dem Erwerb eines nach seiner Darstellung vom sog. Abgasskandal betroffenen Fahrzeugs in Anspruch.Mit Vereinbarung vom 22.11.2018 erwarb der Kläger das Fahrzeug Audi A6 Avant 3,0 TDI mit der Fahrzeug-Identifikationsnummer XXX mit einem Kilometerstand von 124.228 km von der E. GmbH zu einem Gesamtpreis von 23.500,00 EUR.Von dem Gesamtkaufpreis zahlte der Kläger 3.500 € als Anzahlung und nahm über die restlichen 20.000 € ein Darlehen bei der Sparkasse H. in Höhe von 20.000 € auf.Das Fahrzeug ist mit einem Motor des Typs 3.0 TDI ausgestattet und in Deutschland bzw. Europa für die Abgasnorm "Euro 5" zugelassen. Das Fahrzeug unterliegt keinem Rückruf durch das Kraftfahrtbundesamt.Die Kontrolle der Stickoxidemissionen erfolgt bei dem Fahrzeug über die Abgasrückführung. Hierbei wird ein Teil des Abgases zurück in das Ansaugsystem des Motors geführt und nimmt erneut an der Verbrennung teil.Das hier in Rede stehende Fahrzeug ist mit einem Dieselmotor mit Thermofenster ausgestattet. Bei einem Thermofenster wird die Abgasrückführung bei kühleren Temperaturen zurückgefahren.Der Kläger behauptet, das Fahrzeug sei mit einer Manipulationssoftware ausgestattet, mithilfe derer die Fahrt auf dem Prüfstand erkannt werden könne. Bei Erkennung des Prüfstands werde ein emissionsarmes Getriebeschaltprogramm aktiviert, zudem werde die Abgasreinigung vollständig aktiviert und die Abgasrückführungsrate über AGR-Ventil erhöht. Weiter sei die Dosierung der Harnstofflösung (Ad-Blue) für den SCR-Katalysator außerhalb des Prüfstands unzureichend. Diese Maßnahmen führten zu auf dem Prüfstand gegenüber dem Straßenbetrieb verringerten Stickoxidemissionen.Die Prüfstandserkennung erfolge dabei durch eine Lenkwinkelerkennungssoftware. Diese könne am Einschlag des Lenkrades und der Längs- und Querbeschleunigung des Fahrzeugs Fahrten im realen Fahrbetrieb und Prüfstandsfahrten voneinander unterscheiden. Bei einem Einschlag des Lenkrade um mehr als 15 Grad werde die Abgasreinigung gedrosselt.Ferner sei in dem Fahrzeug ein Höhenmesser eingebaut, der die Abgasreinigung oberhalb von 1.00 m über der Meereshöhe ausschalte. Die Abgasrückführung werde zudem nach ca. 20 Minuten Fahrtzeit abgeschaltet, etwas der Zeit, die der Prüfzyklus einnehme (1.180 Sekunden). Das Fahrzeug nutze zudem nur auf dem Prüfstand einen normalen Aufheizmodus, der gegenüber dem im Straßenverkehr aktiven "alternativen Aufheizen" verkürzt sei Während des normalen Warmlaufmodus werde die Abgasrückführung erheblich reduziert, was zu einem vermehrten Stickoxidausstoß führe.Der Kläger beantragt,die Beklagte zu verurteilen, an ihna. 6.413,64 EUR (Stand:17.03.2020) zuzüglich Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 22.02.2020 zu zahlen;b. 284,69 EUR zuzüglich Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 22.02.2020 zu zahlen;c. ihn von den Verpflichtungen aus dem mit der Sparkasse H. geschlossenen Darlehensvertrag Nr. xxx von 17.757,23 EUR freizustellen;Zugum-Zug gegen Rückgabe des Fahrzeugs Audi A6 Avant 3,0 TDI mit der Fahrzeugidentifikationsnummer XXX mit dem amtlichen Kennzeichen XXXX der Übertragung des Anwartschaftsrechts, Rückgabe der Zulassungsbescheinigung Teil I sowie der zugehörigen Fahrzeugschlüssel;festzustellen, dass sich die Beklagte im Annahmeverzug mit der Rücknahme des im Antrag zu 1. aufgeführten Fahrzeugs befindet;die Beklagte zu verurteilen, an ihn außergerichtliche Rechtsverfolgungskosten in Höhe von 1.358,86 EUR zuzüglich Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 22.02.2020 zu zahlen;festzustellen, dass die Beklagte verpflichtet ist, ihm alle weiteren Schäden, welche ursächlich mit dem Kaufvertrag über das im Antrag zu 1. genannten Fahrzeug zusammenhängen, zu ersetzen.Die Beklagte beantragt,die Klage abzuweisen.Sie behauptet, die temperaturabhängige Abgasrückführung sei zum Schutz des Motors erforderlich gewesen. Eine unverminderte Abgasrückführung bei zu niedrigen Temperaturen könne zur Ablagerung von Abgasbestandteilen an den Bauteilen (sog. Versottung) führen, was wiederum die dauerhafte Schädigung des Motors nach sich ziehen könne. Die temperaturabhängige Abgasrückführung stehe in keinem Zusammenhang mit einer Prüfstandserkennung. Dem Kraftfahrtbundesamt sei der Einsatz des Thermofensters auch bekannt gewesen.Das Fahrzeug verfüge nicht über unterschiedliche Getriebeschaltprogramme für den realen Fahrbetrieb und den Rollenprüfstand. Ebenso treffe es nicht zu, dass die Stickoxidwerte nur für den Rollenprüfstand über eine höhere Abgasrückführungsquote gemindert werden.Das Fahrzeug verfüge schon gar nicht über einen SCR-Katalysator und benötige daher keine Harnstofflösung (Ad-Blue).Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischenden Parteien gewechselten Schriftsätze und die zu den Akten gereichten UnterlagenBezug genommen. 
+				Gründe
+				Die zulässige Klage ist nicht begründet.Der begehrte Schadensersatzanspruch steht dem Kläger gegen die Beklagte unter keinem rechtlichen Gesichtspunkt zu.I.Eigene vertragliche Anspruchsgrundlagen kann der Kläger mangels eines Vertragsverhältnisses mit der Beklagten nicht geltend machen.Ein Anspruch des Klägers folgt auch nicht aus § 280 Abs. 1 BGB in Verbindung mit einem Vertrag mit Schutzwirkung zugunsten Dritter.Ein etwaiger Kaufvertrag zwischen der Beklagten und dem unbekannten Erstkäufer des Fahrzeugs, zu welchem der Kläger bereits nicht konkret vorträgt, ist jedenfalls kein Vertrag mit Schutzwirkung zugunsten des Klägers.Dem Kläger ist es schon nicht gelungen die erforderliche Gläubigernähe darzulegen. Das Interesse des Erstkäufers, sich bei einem etwaigen Weiterverkauf von Mängelansprüchen der Zweitkäufers oder unbegrenzt weiterer Käufer dadurch freizuhalten, dass er Regress beim Hersteller nehmen kann, ist nicht ausreichend, um auch ein Interesse des Erstkäufers zu konstruieren, dass alle nachfolgenden Käufer einen eigenen Anspruch gegen die Beklagte haben sollen. Dies gilt gerade in Hinblick darauf, dass es klägerseits keinen Vortrag dazu gibt, wer der Erstkäufer war, wie viele Zwischenverkäufe stattgefunden haben und ob zum Zeitpunkt des Erwerbs ein Weiterverkauf überhaupt absehbar war. Auch kann nicht nachgehalten werden, ob dem Erstkäufer der Kläger überhaupt bekannt gewesen ist.II.Ein solcher folgt nicht aus §§ 826, 31 BGB. Die Voraussetzungen eines Schadensersatzanspruchs wegen vorsätzlicher sittenwidriger Schädigung sind nicht hinreichend dargelegt.1.Dem Kläger ist es nicht gelungen, das Vorliegen einer Prüfstandserkennungssoftware schlüssig darzulegen. Dementsprechend ist es dem Kläger auch nicht gelungen, darzulegen, dass die Abgasreinigung prüfstandsbezogen aktiviert bzw. deaktiviert wird. Gleiches gilt für den Einbau einer Zeitschaltung und eines Höhenmessers, sowie einer wiederum prüfstandsabhängigen Warmlauffunktion. Der dahingehende Vortrag des Klägers ist als prozessual nicht zu berücksichtigende "Behauptung ins Blaue hinein” zu werten.Nach der Rechtsprechung des Bundesgerichtshofs ist es im Zivilprozess unzulässig, eine Behauptung "ins Blaue hinein” aufzustellen (BGH, Urteil vom 20. September 2002 - V ZR 170/01 -, Rn. 9, juris). Bei der Annahme eines solchen rechtsmissbräuchlichen Verhaltens ist Zurückhaltung geboten (BGH, Beschluss vom 02. April 2009 - V ZR 177/08 -, Rn. 11, juris). Einer Partei muss es auch möglich sein, im Zivilprozess Tatsachen zu behaupten, über die sie keine genaue Kenntnis haben kann, die sie aber für wahrscheinlich hält (BGH, Urteil vom 20. September 2002 - V ZR 170/01 -, Rn. 9, juris). Eine zivilprozessual unzulässige Ausforschung ist aber dann erreicht, wenn eine Partei Behauptungen ohne greifbare Anhaltspunkte für das Vorliegen eines bestimmten Sachverhalts willkürlich aufs Geratewohl aufstellt (vgl. BGH, Urteil vom 20. September 2002 - V ZR 170/01 -, Rn. 9, juris; OLG Hamm, Urteil vom 06. Juli 2020 - 17 U 168/19 -, Rn. 63, juris; Brandenburgisches Oberlandesgericht, Beschluss vom 20. April 2020 - 1 U 103/19 -, Rn. 19, juris).Objektive Anhaltspunkte für das Vorliegen einer Prüfstanderkennungssoftware, oder einer zeitabhängigen Abschaltung der Abgasreinigung, sowie eines Höhenmessers und der Warmlauffunktion sind dem klägerischen Vortrag nicht zu entnehmen.Der Kläger stützt seinen Verdacht, dass das hier in Rede stehende Fahrzeug über eine Prüfstandserkennungssoftware verfüge auf den Rückruf anderer Fahrzeugmodelle der Beklagten, so z.B. des Audi A8 D4 mit V6 und V8-Dieselmotor (Euro 5) oder Modellen mit 3,0 Liter Dieselmotor (Euro 6) durch das Kraftfahrtbundesamt. Aus dem Rückruf dieser anderen Fahrzeugmodelle kann jedoch nicht auf die Verwendung einer bestimmten Softwarefunktion auch in dem vorliegenden Fahrzeugtyp geschlossen werden. Die zurückgerufenen Fahrzeugmodelle unterliegen zum Teil schon einer anderen Abgasnorm. Doch selbst aus einem Rückruf von Fahrzeugen des gleichen Motorentyps lässt sich kein konkreter Anhaltspunkt dafür herleiten, dass das hier in Rede stehende Fahrzeug gleichermaßen diese Funktionen aufweist. Ein Pflichtrückruf für den hier in Rede stehenden Fahrzeugtyp ist unstreitig nicht erfolgt. Das Kraftfahrtbundesamt hat offenbar wegen den in dem vorliegenden Fahrzeugmodell verbauten Softwarefunktionen keinen Anlass zur Beanstandung gesehen.Aus der Durchführung freiwilliger Kundendienstmaßnahmen zur Verbesserung der Stickoxidemissionen lässt sich ein objektiver Anhaltspunkt für das Vorliegen einer der von dem Kläger behaupteten Softwarefunktionen nicht herleiten. Es ist dem Kläger nicht gelungen, Verdachtsmomente vorzubringen, die diesbezüglich über ein reines Behaupten hinausgehen. Die reine Tatsache, dass die Beklagte eine nachträgliche, freiwillige Verbesserung des Emissionsverhaltens bei ihren Fahrzeugen herbeiführt, lässt den Schluss nicht zu, dass zuvor eine Prüfstandserkennungssoftware in der Motorsteuerung implementiert war. Ebenso kann eine vorher zulässige, aber eben nicht optimal konzipierte Motorsteuerung verbessert worden sein.Auch aus dem in dem "Untersuchungsbericht Volkswagen" aufgeführten Testergebnis ergibt sich kein konkreter Anhaltspunkt für das Vorliegen einer Prüfstandserkennungssoftware. Allein das Überschreiten der für den Teststand vorgegebenen Emissionsgrenzwerte ist nicht aussagekräftig. Gerade in Hinblick darauf, dass die Tests ausweislich des Untersuchungsberichtes bei 10 Grad Celsius bzw. 7 Grad Celsius durchgeführt wurden können sich Testergebnisse auch durch das vom Kläger behauptete Thermofenster erklären, das den Vorwurf einer sittenwidrigen Schädigung in diesem Fall nicht begründen kann (s.u.). Einen Hinweis auf weitere Softwarefunktionen, die prüfstands-, zeit oder höhenbezogen die Abgasreinigung steuern geben diese Ergebnisse nicht.Ohne dass es mangels konkreter Anhaltspunkte für das Vorliegen einer der behaupteten Softwarefunktionen darauf ankäme, lässt sich der Vortrag des Klägers zur Warmlauffunktion diesseits schon nicht so verstehen, dass die Abgasreinigung im Prüfstand optimiert werde. So heißt es auf S. 302 d. A., dass das Fahrzeug auf dem Prüfstand den normalen Aufheizmodus verwende, nur Zeilen zuvor ist aber ausgeführt, dass in dem normalen Warmlaufmodus die Abgasrückführung erheblich reduziert sei, was zu einem vermehrten Stickoxidausstoß führe. Die ausgedehnte und damit nach dem Verständnis des Gerichts in Hinsicht auf den Stickoxidausstoß überlegene Warmlauffunktion kommt danach im Straßenbetrieb zum Einsatz.Eine solche Software, die im Realbetrieb effektiver funktioniert und eine bessere Abgasreinigung gewährleistet als im Prüfstand, kann schon denklogisch nicht zu einer sittenwidrigen Schädigung führen.2.Soweit der Kläger sich für den Anspruch gemäß § 826 BGB weiter darauf stützt, dass das Fahrzeug eine unzulässige Abschalteinrichtung in Form des sogenannten "Thermofensters" aufweise, kann dahinstehen, ob ein solches sich als unzulässige Abschalteinrichtung iSv Art. 5 Abs. 2 VO (EG) 715/2007 darstellt. Denn das bloße Vorliegen einer unzulässigen Abschalteinrichtung für sich genommen wäre nicht geeignet, den Vorwurf einer vorsätzlichen sittenwidrigen Schädigung zu begründen. Allein aus dem Vorliegen eines unterstellten Gesetzesverstoßes kann nicht auf eine solche geschlossen werden (OLG Hamm, Urteil vom 06. Juli 2020 - 17 U 168/19 -, Rn. 67, juris). Vielmehr hätte es der Darlegung bedurft, dass in subjektiver Hinsicht das Bewusstsein der Beklagten vorhanden war, sittenwidrig zu handeln, mithin gegen die gesetzlichen Vorschriften zu verstoßen und dieser Gesetzesverstoß im Zeitpunkt des Inverkehrbringens des konkreten Fahrzeugs billigend in Kauf genommen wurde (OLG Hamm, Urteil vom 06. Juli 2020 - 17 U 168/19 -, Rn. 71, juris). Der Rückschluss aus einem, hier nur unterstellten, objektiven Gesetzesverstoß ist bei Einsatz eines sogenannten Thermofensters nicht zwingend und nur dann gerechtfertigt, wenn durch die gewählte technische Lösung der Gesetzeszweck des Art. 5 Abs. 2 VO (EG) 715/2007 in evident unzulässiger Weise ausgehebelt würde (OLG Hamm, Urteil vom 06. Juli 2020 - 17 U 168/19 -, Rn. 73 ff., juris). Das hat der Kläger hier nicht dargelegt.Auch die klägerseits angedeutete Behauptung (S. 6 d. Schriftsatzes vom 10.02.2021, Bl. 539 d.A.), das Vorhandensein eines Thermofensters könne dem Kraftfahrtbundesamt im Typengenehmigungsverfahren von der Beklagten verschwiegen worden sein, ist in diesem Zusammenhang unbeachtlich. Zwar könnten diese Gesichtspunkte grundsätzlich geeignet sein, das Bewusstsein der Sittenwidrigkeit bei der Beklagten herzuleiten (vgl. BGH, Beschluss vom 19. Januar 2021 - VI ZR 433/19 -, Rn. 24, juris), doch handelt es sich bei der Behauptung abermals um eine prozessual unzulässige Behauptung ins Blaue hinein. Dem Vortrag des Klägers können keine objektiven Anhaltspunkte für das Verheimlichen eines Thermofensters gegenüber dem Kraftfahrtbundesamt entnommen werden. Es ist nicht nachzuvollziehen, auf welche Tatsachen sich der Verdacht des Klägers gründet.III.Der Kläger hat auch keinen Schadensersatzanspruch gegen die Beklagte aus § 823 Abs. 2 BGB iVm den §§ 6 Abs. 1, 27 Abs. 1 EG-FGV oder Art. 5 Abs. 2 iVm Art. 3 Nr. 10 VO (EG) Nr. 715/2007. Bei der VO (EG) Nr. 715/2007 und bei der Regelung der §§ 6 Abs. 1, 27 Abs. 1 EG-FGV handelt es sich nicht um Schutzgesetze iSv § 823 Abs. 2 BGB (OLG Hamm a.a.O. m.w.Nachw., OLG Düsseldorf, Urteil vom 12. März 2020 - I-5 U 110/19 -, Rn. 55, juris). Angesichts dessen hat der Kläger auch keinen Anspruch gemäß § 831 Abs. 1 BGB.IV.Aus den oben ausgeführten Erwägungen scheitert auch der Klageantrag hinsichtlich der Feststellung der Schadensersatzpflicht der Beklagten.V.Mangels Anspruchs in der Hauptsache besteht auch kein Anspruch auf die geltend gemachten Zinsen und außergerichtlichen Rechtsanwaltskosten, sowie auf die Feststellung des Annahmeverzuges.VI.Die prozessualen Nebenentscheidungen beruhen auf den §§ 91 Abs. 1, 709 ZPO.VII.Der Streitwert wird auf 25.955,56 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2342848.html (https://oj.is/2342848)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

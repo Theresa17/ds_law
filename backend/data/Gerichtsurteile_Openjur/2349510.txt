@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSchleswig-HolsteinOrdentliche GerichtsbarkeitOLG SchleswigRechtsprechungUrteil vom 19.08.2021 - 11 U 31/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Schleswig, Urteil vom 19.08.2021 - 11 U 31/20
+                      m. Fundstelle
+                      OLG Schleswig, Urteil vom 19.08.2021 - 11 U 31/20 = openJur 2021, 24617
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Schleswig, Urteil vom 19.08.2021 - 11 U 31/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 24617
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Dass eine Berufungsschrift aus Textbausteinen besteht, steht der Zulässigkeit der Berufung nicht entgegen, solange einzelne Textbausteine auf den konkreten Fall passen. Dann bezeichnen sie im Sinne der gesetzlichen Vorgaben Umstände, aus denen das Urteil unrichtig ist.Ist ein Fahrzeug von keiner Rückrufanordnung des Kraftfahrtbundesamtes betroffen und ist auch sonst nicht erkennbar, dass wegen Einschränkung der Abgasreinigung derzeit oder zukünftig Betriebsbeschränkungen drohen, liegt kein Schaden i.S. d. § 826 BGB vor. 
+				
+				Tenor
+				Die Berufung des Klägers gegen das Urteil des Einzelrichters der 4. Zivilkammer des Landgerichts Lübeck vom 10.02.2020 wird zurückgewiesen.Der Kläger hat die Kosten des Berufungsverfahrens zu tragen.Dieses Urteil und das angefochtene Urteil sind ohne Sicherheitsleistung vorläufig vollstreckbar. Der Kläger darf die Vollstreckung durch Sicherheitsleistung in Höhe von 110 % des aufgrund der Urteile gegen ihn zu vollstreckenden Betrages abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 % des jeweiligen Vollstreckungsbetrages leistet.Der Gegenstandswert wird für das Berufungsverfahren auf 43.232,00 € festgesetzt.  
+				Gründe
+				I.Der Kläger verlangt von dem beklagten Autohersteller Schadensersatz im Zusammenhang mit dem sogenannten Abgasskandal.Der Kläger kaufte im Jahr 2016 einen gebrauchten Pkw (X, genutzt als Wohnmobil), der mit dem von der Beklagten entwickelten und hergestellten Dieselmotor OM 642 ausgestattet ist. Die Motorsteuerung ist so programmiert, dass die Abgasreinigung durch die Abgasrückführung bei bestimmten Temperaturen reduziert wird, dadurch erhöht sich der Ausstoß von Stickoxiden in bestimmten Temperaturbereichen (sogenanntes Thermofenster).Anwaltlich vertreten forderte der Kläger die Beklagte auf, das Fahrzeug zurückzunehmen. Er ist der Auffassung, er sei durch das Thermofenster von der Beklagten sittenwidrig geschädigt worden. Dabei handele es sich um eine verbotene Abschalteinrichtung. Die für das Fahrzeug erteilte Typengenehmigung sei deshalb rechtswidrig. Ein von der Beklagten vorgesehenes Software-Update beseitige diesen Zustand nicht.Wegen des weiteren Sachverhalts wird auf die tatsächlichen Feststellungen im angefochtenen Urteil Bezug genommen.Das Landgericht hat die Klage abgewiesen. Zur Begründung hat es ausgeführt, der Kläger habe gegen die Beklagte keinen Schadensersatzanspruch aus § 826 BGB. Das Inverkehrbringen des Fahrzeugs mit Thermofenster sei keine sittenwidrige Handlung. Es komme dabei nicht darauf an, ob es sich um eine unzulässige Abschalteinrichtung handele. Anders als bei einer Abschalteinrichtung, die die Prüfstandsituation erkenne, arbeite die hier eingebaute Motorsteuerungssoftware vom Grundsatz her im normalen Fahrbetrieb in gleicher Weise wie auf dem Prüfstand. Es könnten auch ernsthafte Gesichtspunkte des Motor- und Bauteilschutzes als Rechtfertigung angeführt werden. Deshalb könne bei Fehlen konkreter Anhaltspunkte nicht ohne weiteres unterstellt werden, dass die Handelnden das Bewusstsein hatten, eine unzulässige Abschalteinrichtung zu verwenden. Vielmehr müsse eine möglicherweise falsche, aber dennoch vertretbare Gesetzesauslegung durch die Organe der Beklagten in Betracht gezogen werden. Sittenwidriges Handeln komme nur infrage, wenn über die bloße Kenntnis der Verwendung einer Software hinaus zugleich auch Anhaltspunkte dafür erkennbar wären, dass dies in dem Bewusstsein geschah, hiermit möglicherweise gegen die gesetzlichen Vorschriften zu verstoßen, und dieser Gesetzesverstoß billigend in Kauf genommen worden sei.Solche Anhaltspunkte seien vom Kläger nicht vorgetragen oder sonst ersichtlich.Gegen Vorsatz der Beklagten spreche, dass die Auslegung der Ausnahmevorschrift des Art. 5 Abs. 2 S. 2a der VO (EG) 715/2007 nicht eindeutig sei. Auch zeige der in der Literatur betriebene erhebliche Aufwand bei der Begründung der Einstufung des Thermofensters als unzulässige Abschalteinrichtung, dass keine klare und eindeutige Rechtslage gegeben sei, welche die Verwendung dieses Thermofensters als bewussten Rechtsverstoß der Beklagten erscheinen lassen müsse. Eine Auslegung der maßgeblichen Vorschriften dahingehend, dass ein Thermofenster eine zulässige Einrichtung darstelle, sei jedenfalls nicht unvertretbar. Ein Handeln unter vertretbarer Auslegung des Gesetzes könne aber nicht als besonders verwerfliches Verhalten angesehen werden.Ein Schadensersatzanspruch ergebe sich auch nicht aus § 831 BGB oder aus § 823 Abs. 2 in Verbindung mit den europäischen Verordnungen zu Fahrzeugemissionen.Gegen die Abweisung seiner Klage wendet sich der Kläger mit der Berufung. Er ist der Ansicht, dass der Einsatz einer temperaturabhängigen Motorsteuerung bei Würdigung der Gesamtumstände sittenwidrig sei, wenn die in dem Fahrzeug vorhandenen Thermofenster die Steuerung des Motors exakt auf die Prüfbedingungen im NEFZ ausrichteten. Dann sei von einem planmäßigen Vorgehen auszugehen, das die bewusste Täuschung des Kraftfahrtbundesamtes und sodann der Endverbraucher enthalte. Ein sachlicher Grund im Sinne einer Notwendigkeit für eine Reduzierung der Abgasreinigung außerhalb des nach den Prüfungsbedingungen vorgegebenen Temperaturrahmens liege nicht vor. Es bestehe deshalb ein Anscheinsbeweis für ein vorsätzliches und sittenwidriges Täuschungs- und Schädigungsverhalten der Beklagten. Bezüglich dieses Motortyps seien zahlreiche Bescheide des Kraftfahrtbundesamtes ergangen, die den verpflichtenden Rückruf wegen des Einbaus einer unzulässigen Abschalteinrichtung angeordnet hätten. Greifbare Anhaltspunkte für die Verwendung einer unzulässigen Abschalteinrichtung seien nicht erst dann gegeben, wenn das Kraftfahrtbundesamt auch bezüglich des konkreten Fahrzeugtyps eine Rückrufaktion angeordnet habe. Die erforderliche Typengenehmigung sei durch Täuschung des Kraftfahrtbundesamtes erlangt worden. Die Beklagte habe im Rahmen ihrer sekundären Darlegungslast vortragen müssen, dass sie die Funktionsweise der Motorsteuerungssoftware dem Kraftfahrtbundesamt in ihrer konkreten Ausgestaltung mitgeteilt habe. Da ein entsprechender Vortrag der Beklagten nicht erfolgt sei, sei zu schlussfolgern, dass die Fahrzeugkäufer bewusst dem Risiko ausgesetzt worden seien, Fahrzeuge zu erwerben, deren Typengenehmigung nach Bekanntwerden der Abschalteinrichtung möglicherweise zurückgenommen würde. Die Beklagte habe den Graubereich der Regelung des Art. 5 Abs. 2 S. 2 der Verordnung erkannt und habe nicht das Risiko eingehen wollen, dass das Kraftfahrtbundesamt die Typengenehmigung nicht erteilt, sondern stattdessen in Kauf genommen, durch Verschweigen die EG-Typengenehmigung zu erlangen. Jedenfalls zu der Frage, weshalb bei welcher Temperatur in welchem Umfang die Abgasrückführung aus Gründen des Motorschutzes und sicheren Betriebes notwendig sei, habe ein Sachverständigengutachten eingeholt werden müssen. Die Aussagen der Beklagten hierzu seien pauschal. Die Beklagte habe darlegen müssen, dass der Motorschutz nicht durch andere technische Maßnahmen habe erreicht werden können.Es sei davon auszugehen, dass dem Vorstand des Unternehmens der Einbau der unzulässigen Abschalteinrichtung bekannt gewesen sei.Es sei auch ein Anspruch nach § 831 BGB gegeben, da die Entwicklung und Freigabe des Motors bei der Beklagten letztlich auf der Arbeitsebene unterhalb der Repräsentanten erfolgt sei. Diese Mitarbeiter seien Verrichtungsgehilfen der Beklagten.Ein Schadensersatzanspruch ergebe sich auch aus §§ 280 Abs. 1 S. 1, 241 Abs. 2, 311 Abs. 3 BGB da zwischen dem Kläger und der Beklagten ein Schuldverhältnis gemäß § 241 Abs. 2 BGB mit Rücksichtnahme- und Schutzpflichten zustande gekommen sei.Der Kläger beantragt,I. unter Aufhebung des am 10.02.2020 verkündeten Urteils des Landgerichts, die Beklagte zu verurteilen, Zug um Zug gegen Übereignung des Fahrzeugs der Marke Y mit der Fahrgestellnummer XXX an ihn 43.232,00 € nebst Zinsena. in Höhe von 4% aus 44.800,00 € vom 08.02.2016 bis zum 27.06.2018 sowieb. in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz aus 43.232,00 € seit dem 28.06.2018 zu bezahlen,II. festzustellen, dass sich die Beklagte mit der Rücknahme des Fahrzeugs gemäß vorstehender Ziffer I. in Annahmeverzug befindet,III. die Beklagte zu verurteilen, ihm die Kosten des außergerichtlichen Vorgehens in Höhe von 1.706,94 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 28.05.2018 zu erstatten.Die Beklagte beantragt,die Berufung zurückzuweisen.Die Beklagte ist der Auffassung, dass die Berufung unzulässig sei, weil die Berufungsbegründung ausschließlich aus Textbausteinen bestehe, die weder etwas mit dem angegriffenen Urteil noch mit dem Fahrzeug zu tun hätten. Der Kläger habe nahezu identische Berufungsbegründungen auch in weiteren Verfahren beim Senat, Aktenzeichen 11 U 156/19 und 11 U 12/20, eingereicht. Die Begründungen bestünden fast ausschließlich aus wörtlichen Zitaten aus einem Urteil der 23. Zivilkammer des Landgerichts Stuttgart. Der Kläger habe keine Anhaltspunkte dafür vorgetragen, dass auf Seiten der Beklagten das für eine Sittenwidrigkeit erforderliche Bewusstsein eines möglichen Gesetzesverstoßes und dessen billigende Inkaufnahme bestand. Das Urteil des Landgerichts stehe im Einklang mit der Rechtsprechung der Oberlandesgerichte.Die Berufung sei auch unbegründet. Der Kläger müsse dasjenige Konstruktionsteil benennen, das die Abschalteinrichtung darstellen solle und seine Funktionsweise konkret beschreiben, sowie darlegen, warum kein Zulässigkeitsgrund einschlägig sei. Der Verweis des Klägers auf andere gerichtliche Entscheidungen ersetze den Tatsachenvortrag im vorliegenden Fall nicht. Bei dem streitgegenständlichen Fahrzeug handele es sich um einen Kleintransporter aus dem Jahr 2014 der Schadstoffklasse Euro-5 ohne SCR-System. Bei dem nach Angabe des Klägers vollständig vergleichbaren Stuttgarter Sachverhalt sei es hingegen um einen Geländewagen aus dem Jahr 2013 gegangen, der der Schadstoffklasse Euro-6 unterfalle, mit einem SCR/AdBlue System ausgestattet und von einem Rückruf des KBA betroffen sei.Abweichungen zwischen den Emissionen im realen Fahrbetrieb und den für die Zertifizierung maßgeblichen Grenzwerten seien unerheblich. Die EG-Typengenehmigung des KBA als zuständiger Fachbehörde entfalte Bindungswirkung gegenüber den Zivilgerichten. Es sei bei den Genehmigungsbehörden anerkannt, dass es notwendig sei, die Abgasrückführung unter Berücksichtigung der Rahmenbedingungen zu steuern, um eine hinreichende Reduzierung sämtlicher relevanter Emissionen zu erzielen, Schäden am Motor und Abgassystem zu vermeiden und den sicheren Betrieb des Systems zu gewährleisten. Ein einfacher Verstoß gegen verwaltungsrechtliche Vorschriften sei für sich genommen nicht ausreichend, um ein sittenwidriges Handeln der Beklagten zu begründen. Sie - die Beklagte - habe hinsichtlich der Rechtskonformität des Fahrzeugs und des Emissionsverhaltens eine zutreffende, zumindest aber vertretbare Rechtsauffassung vertreten. Dies schließe den Vorwurf der Sittenwidrigkeit aus.Im Rahmen der Typengenehmigung im Oktober 2003 bei der Beschreibung des Abgasrückführungssystems habe sie gegenüber dem KBA angegeben, dass dieses durch die Lufttemperatur gesteuert werde. Weitere Angaben seien vom KBA nicht verlangt worden und auch nicht üblich.Sie habe ohne Schädigungsvorsatz gehandelt. Die technischen Gestaltungsentscheidungen zum Emissionskontrollsystem seien bei dem Fahrzeug auf Mitarbeiterebene und nicht von den verfassungsmäßig berufenen Vertretern getroffen worden.II.Die Berufung des Klägers hat keinen Erfolg.1.Die Berufung ist zwar zulässig. Sie ist nicht deshalb als unzulässig zu verwerfen, weil sie entgegen § 522 Abs. 1 S. 1 ZPO nicht in der gesetzlichen Form und Frist begründet worden ist. Nach § 520 Abs. 3 S. 2 Nrn. 2, 3 ZPO muss die Berufungsbegründung die Umstände, aus denen sich die Rechtsverletzung und deren Erheblichkeit für die angefochtene Entscheidung ergibt, sowie konkrete Anhaltspunkte bezeichnen, die Zweifel an der Richtigkeit und Vollständigkeit der Tatsachenfeststellung im angefochtenen Urteil begründen und deshalb eine erneute Feststellung gebieten. Soweit wird von der Berufungsbegründung verlangt, darauf hinzuweisen, in welchen Punkten und mit welchen Gründen das angefochtene Urteil für unrichtig gehalten werde. Die Berufungsbegründung muss jeweils auf den Streitfall zugeschnitten sein und im Ergebnis erkennen lassen, in welchen Punkten tatsächlicher oder rechtlicher Art sowie aus welchen Gründen der Berufungskläger das angefochtene Urteil für unrichtig hält. Formularmäßige Sätze und allgemeine Redewendungen genügen dabei nicht (vgl. Zöller/Heßler 33. Aufl., § 520 ZPO Rn. 35).Die Berufungsschrift geht auf das Urteil ein. Der Umstand, dass dabei möglicherweise in großem Umfang Textbausteine verwendet werden, steht dem nicht entgegen. Wenn einzelne Textbausteine auf den konkreten Fall passen, bezeichnen sie im Sinne der gesetzlichen Vorgaben Umstände, aus denen das Urteil unrichtig ist. Ob der Berufungsführer etwas als Textblock oder vielmehr Buchstabe für Buchstabe schreibt, ist rechtlich bedeutungslos.Entscheidender Gesichtspunkt im landgerichtlichen Urteil ist, dass die Verwendung des Thermofensters nicht vorsätzlich sittenwidrig gewesen sei, weil die Gesetzeslage zur Abgasrückführung nicht unzweifelhaft und eindeutig gewesen sei. Dieser Gesichtspunkt wird in der Berufungsbegründung an einer Stelle angesprochen. Und zwar heißt es auf Seite 2 und 3 der Berufungsbegründung (Blatt 190, 200) nach einer Aufzählung derjenigen Regelungsmechanismen, die die Abgasrückführung steuern: "bei derartigen konkret auf die vorgenannten Prüfbedingungen abgestimmten Ermittlungen von Parametern, die dem Zyklus des NEFZ entsprechen, insbesondere mit Ermittlung des Parameters Temperatur, also von ´Thermofenstern`, ist von einem planmäßigen Vorgehen, das die bewusste Täuschung des Kraftfahrtbundesamtes und sodann der Endverbraucher beinhaltet, auszugehen". Anschließend ist von einem Anscheinsbeweis für ein vorsätzliches und sittenwidriges Täuschungs- und Schädigungsverhalten der Beklagten in diesem Zusammenhang die Rede. Damit ist erkennbar, in welchen Punkten der Kläger das Urteil angreifen möchte.2.Die Berufung ist jedoch unbegründet.2.1.Ein Anspruch wegen vorsätzlicher sittenwidriger Schädigung aus § 826 BGB besteht nicht. Die Beklagte hat den Kläger nicht vorsätzlich sittenwidrig geschädigt.2.1.1.Dem Kläger ist kein Schaden entstanden.Das Fahrzeug des Klägers ist von einer Rückrufanordnung des Kraftfahrtbundesamtes nicht betroffen. Der Kläger ist deshalb nicht durch den Abschluss eines ungewollten Vertrages geschädigt. Ein Schaden kann zwar auch darin bestehen, dass jemand durch ein haftungsbegründendes Verhalten zum Abschluss eines Vertrages gebracht wird, den er sonst nicht geschlossen hätte. Zum Vermögensschaden kommt es dadurch, dass die Leistung für die Zwecke des Klägers nicht brauchbar ist. Die Bejahung eines Vermögensschadens setzt aber voraus, dass die durch den unerwünschten Vertrag erlangte Leistung nicht aus rein subjektiv willkürlicher Sicht als Schaden angesehen wird, sondern dass auch die Verkehrsanschauung bei Berücksichtigung der obwaltenden Umstände den Vertragsschluss als unvernünftig, den konkreten Vermögensinteressen nicht angemessen und damit als nachteilig ansieht (vgl. BGH, Urteil vom 25.05.2020, VI ZR 252/19, Rn. 46). Dieser Argumentation liegt der Erfahrungssatz zugrunde, dass nach der allgemeinen Lebenserfahrung und der Art des zu beurteilenden Geschäfts auszuschließen ist, dass ein Käufer ein Fahrzeug erwirbt, dem eine Betriebsbeschränkung oder -untersagung droht und bei dem im Zeitpunkt des Erwerbs in keiner Weise absehbar ist, ob dieses Problem behoben werden kann (BGH a.a.O. Rn. 50).Die Gebrauchsuntersagung oder sonstige Betriebsbeschränkung droht dem klägerischen Fahrzeug aber nicht. Der Kläger hat in seiner persönlichen Anhörung durch das Landgericht auch angegeben, dass er die Klage rechtswahrend erhoben hat, für den Fall, dass ihm finanzielle oder rechtliche Nachteile in irgendeiner Form aufgrund der Funktionsweise des Motors drohen. Es ist damit gar nicht erkennbar, dass dem Kläger wegen der Einschränkung der Abgasreinigung derzeit oder zukünftig Betriebsbeschränkungen drohen.Wenn ein Autohersteller vor Vertragsschluss offenlegt, dass zum Motorschutz und zur Reduzierung von Versottung durch erhöhte Kondensation bei bestimmten Temperaturen diese Abgasrückführung reduziert werde, so schließt dies nicht praktisch aus, dass Käufer das Auto erwerben, es sei denn, sie dürften deswegen mit dem Fahrzeug nicht fahren. Denn die Reduzierung von Belastungen für den Motor hätte für die Käufer erhebliche Vorteile. Nach der allgemeinen Lebenserfahrung legten in der Vergangenheit die meisten Autokäufer großen Wert auf Aussehen, Sparsamkeit, Sicherheit, Komfort, Langlebigkeit und Leistungsfähigkeit ihrer Fahrzeuge. Das Emissionsverhalten spielt dagegen erfahrungsgemäß - im Gegensatz zum Kraftstoffverbrauch - nur eine eher geringe Rolle. Hätte dieses im Regelfall im Mittelpunkt des Interesses der Autokäufer gestanden, so wären in der Vergangenheit in erster Linie emissionsarme Kleinwagen verkauft worden, nicht dagegen schwere Fahrzeuge wie der vom Kläger erworbene Kleinbus oder SUV. Es besteht deshalb kein Erfahrungssatz, wonach auszuschließen ist, dass ein Käufer auch bei Kenntnis der negativen Emissionseigenschaften des Motors dieses Fahrzeug erwerben würde.Der Kläger behauptet zwar, die Umweltfreundlichkeit seines Fahrzeugs sei für ihn ein Kaufargument gewesen. Von welchen konkreten Werten gerade im Bereich des Stickoxidausstoßes er hierbei ausgegangen ist, trägt er aber nicht vor. Es ist zudem nicht vorgetragen, dass das Auto für eines dieser Klasse nicht insgesamt umweltfreundlich ist, dass es also keinen geringen Verbrauch und auch im Vergleich zu anderen Kleintransportern keine geringen Schadstoffemissionen aufweist und damit den Wünschen und Vorstellungen des Klägers widerspricht. Deshalb ist auch nicht auszuschließen, dass er das Auto auch bei Kenntnis der Eigenschaften der Motorsteuerung gekauft hätte.2.1.2.Selbst wenn ein Schaden vorläge, fehlten weitere Voraussetzungen für einen Anspruch aus § 826 BGB.Es fehlt an den objektiven und subjektiven Voraussetzungen des Sittenwidrigkeitsvorwurfs. Die Begründung des angefochtenen Urteils ist richtig.Allein der Umstand, dass eine - unterstellt - unzulässige Abschalteinrichtung in Form eines Thermofensters in einem Dieselfahrzeug verbaut ist, reicht auch unter Berücksichtigung einer damit verbundenen Gewinnerzielungsabsicht des Herstellers nicht aus, um den Vorwurf der Sittenwidrigkeit zu rechtfertigen. Hierfür bedarf es vielmehr weiterer Umstände, wie zum Beispiel unzutreffenden Angaben des Herstellers über die Arbeitsweise des Abgasrückführungssystems im Genehmigungsverfahren (vgl. BGH VI ZR 433/19 Rn. 19, 23; Schleswig-Holsteinisches Oberlandesgericht, 7 U 68/20 Rn. 68; OLG Hamm 34 U 97/20 Rn. 40; Brandenburgisches OLG, 11 U 113/20 Beschluss vom 24.03.2021, Rn. 6).Dass die Beklagte im Rahmen des Typengenehmigungsverfahrens gegenüber dem Kraftfahrtbundesamt unzutreffende Angaben gemacht hat, kann der Senat nicht feststellen.Die Beklagte legt dar, welche Erklärungen sie im Rahmen des Typengenehmigungsverfahrens gegenüber dem KBA abgegeben hat. In der Beschreibung des Systems heißt es, dass die AGR-Menge durch den Parameter Lufttemperatur gesteuert werde. Weitere Angaben sind nach dem Vorbringen der Beklagten, das vom Kläger nicht bestritten worden ist, nicht gemacht worden. Diese Angabe der Beklagten im Typengenehmigungsverfahren war richtig. Der Senat hat auch keinerlei Anhaltspunkte dafür, dass es sich bei diesen Angaben nicht wie von der Beklagten vorgetragen um die in der Verwaltungspraxis vom KBA erwarteten und auch üblichen Angaben handelt. Die Beklagte hat die Temperaturabhängigkeit der Steuerung ihrer Emissionskontrollsysteme mithin nicht pflichtwidrig verheimlicht, es ist nicht erkennbar, worin konkret eine Täuschungshandlung der Beklagten gegenüber dem Kraftfahrtbundesamt liegen soll.Dass weitergehende, gegebenenfalls falsche Angaben gegenüber dem KBA gemacht worden sind, kann der Senat ebenfalls nicht feststellen. Der Kläger trägt den Inhalt solcher Erklärungen nicht vor. Eine sekundäre Darlegungslast der Beklagten kommt dem Kläger im jetzigen Verfahrensstadium nicht zugute. Denn die Beklagte hat dargelegt, was sie gegenüber dem KBA im Genehmigungsverfahren erklärt hat.Die Anspruchsgegnerin trifft die sekundäre Darlegungslast zudem nur dann, wenn die darlegungsbelastete Partei außerhalb des von ihr darzulegenden Geschehensablaufs steht und keine nähere Kenntnis der maßgeblichen Tatsachen hat, während der Gegner alle wesentlichen Tatsachen kennt und ihm detaillierte Angaben zuzumuten sind. Genügt der Anspruchsgegner seiner sekundären Darlegungslast nicht, gilt die Behauptung des Anspruchsstellers nach § 138 Abs. 3 ZPO als zugestanden (vgl. BGH VI ZR 505/19, Rn. 27). Erforderlich ist dabei, dass der Anspruchsteller ausreichende Anhaltspunkte dafür vorträgt, dass eine sittenwidrige Handlung vorlag (vgl. BGH V ZR 244/17, Rn. 47).Auch daran fehlt es hier. Allein der Umstand, dass die Abgasrückführung temperaturgesteuert ist und damit die Emissionswerte im realen Betrieb höher als im Testbetrieb sind, bietet keinen Anhaltspunkt dafür, dass die Zulassungsbehörde vorsätzlich getäuscht wurde. Inwieweit derartige Temperatursteuerungen rechtlich zulässig waren, war bis zur Entscheidung des EuGH (Urteil vom 17. Dezember 2020 - C-693/18) umstritten und ungeklärt. Es ist deshalb zweifelhaft, ob überhaupt Veranlassung für die Beklagte bestanden hätte, zur Erlangung der Typengenehmigung gegenüber dem KBA weitergehende falsche Angaben zu machen. Ebenso gut konnte sie die tatsächliche Konfiguration - nämlich dass eine Temperatursteuerung der Abgasrückführung vorliegt - mitteilen und abwarten, ob das KBA diese für zulässig halten oder weitere Angaben verlangen würde.2.1.3.Die oben genannten Erwägungen zum Schaden sprechen ebenfalls dagegen, das Verhalten der Beklagten als sittenwidrig zu werten. Wenn die Beklagte davon ausging, dass die von ihr gestaltete Motorkonfiguration rechtmäßig sein konnte, und sie annahm, dass diese Vorteile für die Wartungsfreiheit und Haltbarkeit des Motors mit sich brachte, dann war es nicht verwerflich, diese auf den Markt zu bringen. Schließlich wollte sie ihren Kunden damit das zur Verfügung stellen, was diese nach der allgemeinen Lebenserfahrung in erster Linie bei ihren Fahrzeugen wünschten. Legitimen Kundenwünschen nachzukommen, verstößt nicht gegen Anstandsgefühle und ist deshalb regelmäßig nicht sittenwidrig.2.2.Der Schadensersatzanspruch kann auch nicht auf § 831 BGB wegen einer vorsätzlichen sittenwidrige Schädigung durch einen Verrichtungsgehilfen der Beklagten gestützt werden. Welcher Verrichtungsgehilfe der Beklagten den Kläger geschädigt hat, trägt er nicht vor. Aus den oben genannten Gründen fehlt es auch am Tatbestand einer vorsätzlichen sittenwidrigen Schädigung.2.3.Ein Anspruch ergibt sich nicht aus § 823 Abs. 2 BGB i.V.m. § 6 Abs. 1, § 27 Abs. 1 EG-FGV oder Art. 5 VO 715/2007/EG wegen der Verletzung von Schutzgesetzen. Der Kläger stützt seinen Schadensersatzanspruch darauf, dass er von der Beklagten zur Eingehung einer ungewollten Verbindlichkeit veranlasst worden sei. Das Interesse, nicht zur Eingehung einer ungewollten Verbindlichkeit veranlasst zu werden, liegt aber im Aufgabenbereich weder des § 6 Abs. 1, § 27 Abs. 1 EG-FGV noch des Art. 5 VO 715/2007/EG (vgl. BGH, Urteil vom 30. Juli 2020 - VI ZR 5/20, Juris Rn. 11 und 12).3.Die Kostenentscheidung folgt aus § 97 Abs.1 ZPO. Die Vollstreckbarkeitsentscheidung beruht auf §§ 708 Nr. 10, 711 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2349510.html (https://oj.is/2349510)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

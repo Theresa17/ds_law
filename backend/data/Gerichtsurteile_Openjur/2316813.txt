@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG DarmstadtRechtsprechungUrteil vom 12.02.2019 - 19 O 98/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Darmstadt, Urteil vom 12.02.2019 - 19 O 98/18
+                      m. Fundstelle
+                      LG Darmstadt, Urteil vom 12.02.2019 - 19 O 98/18 = openJur 2021, 3590
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Darmstadt, Urteil vom 12.02.2019 - 19 O 98/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 3590
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits trägt die Klägerin.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar.Beschluss:Der Streitwert wird festgesetzt auf EUR 23.000. 
+				Tatbestand
+				Die Klägerin verlangt von der Beklagten als Herstellerin eines [Fahrzeugtyp] (im Folgenden das "Fahrzeug") Schadensersatz.Die Klägerin ist Eigentümerin des streitgegenständlichen Fahrzeugs; die Beklagte dessen Herstellerin.Die Klägerin erwarb am 15.03.2017 von der A GmbH in ... (im Folgenden "Verkäufer") das Fahrzeug als Gebrauchtwagen zu einem Kaufpreis von EUR 18.000 bei einem Kilometerstand von 83.000 km. In dem Fahrzeug war das Softwareupdate zu diesem Zeitpunkt bereits installiert, dies war bereits am 08.11.2016 geschehen.Der in dem Fahrzeug verbaute Dieselmotor des Typs EA 189 wurde von der Beklagten entwickelt und konstruiert. Die Motorsteuerung wurde dabei so programmiert, dass der Wagen bei der Messung der Schadenstoffemissionen auf einem Prüfstand die Situation erkennt und deshalb den Stickoxidausstoß im sogenannten "Modus 1" optimiert, nicht aber im normalen Fahrbetrieb, bei dem der Motor im sogenannten "Modus 0" läuft. Aus diesem Grund werden beim Betrieb im Straßenverkehr die gesetzlich vorgegebenen Schadenstoffwerte der Euro-5-Abgasnorm erheblich überschritten.Mit Rückrufbescheid des Kraftfahrbundesamtes (im Folgenden: KBA) vom 15.10.2015 wurde der Rückruf aller vom "...-Abgasskandal" betroffenen Fahrzeuge angeordnet, um die notwendigen Nachbesserungsarbeiten zur Entfernung der "unzulässigen Abschalteinrichtung" durchzuführen. Andernfalls drohte eine Betriebsuntersagung.Den aktuellen Kilometerstand des Klägerfahrzeugs behauptete die Klägerin im Termin zur mündlichen Verhandlung am 13.11.2018 noch mit (exakt) 100.000 km, um dann in einem nachgelassenen Schriftsatz vom 04.12.2018 einen Kilometerstand von 128.928 km zu behaupten.Die Klägerin trägt im Wesentlichen vor, wegen der Manipulation des Motors liege ein Mangel des Fahrzeuges vor. Es handele sich um eine illegale Abschalteinrichtung. Letztlich sei von einem betrügerischen Verhalten der Beklagten auszugehen. Beim Erwerb des Fahrzeuges sei es ihr darauf angekommen, einen umweltfreundlichen Pkw zu erwerben, der die einschlägigen Abgasnormen einhält. Bei Kenntnis der Manipulation hätte sie das Fahrzeug nicht gekauft. Das Softwareupdate habe das Problem nicht beseitigt. Es sei mit erheblichen Nachteilen zu rechnen, u.a. mit einem Kraftstoffmehrverbrauch von "2 Litern", Leistungseinbußen und einem erhöhten Verschleiß. Es drohe außerdem ein merkantiler Minderwert von "mindestens 30 %" des ursprünglichen Kaufpreises.Die Klägerin habe im Zeitpunkt des Erwerbs des Fahrzeugs keine Kenntnis von der Abschalteinrichtung gehabt, da sie ausschließlich türkische Medien konsumiere. Es komme zudem gar nicht darauf an, welche Faktoren für die Klägerin kaufentscheidend waren. Zudem habe die Klägerin im Kaufzeitpunkt nicht absehen können, wie sich der sogenannte Dieselskandal entwickeln würde.Die Klägerin beantragt mit am 20.06.2018 zugestellter Klage,1. Die Beklagte wird verurteilt, an den Kläger 18.000,00 EUR nebst Zinsen in Höhe von 4 Prozentpunkten über dem Basiszinssatz hieraus seit dem 15.03.2017 sowie 5 Prozentpunkten seit dem 01.03.2018 zu zahlen, Zug-um-Zug gegen Übergabe und Übereignung Fahrzeugs [Fahrzeugtyp], Fahrgestellnummer: [...].2. Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des in Ziffer 1 genannten Fahrzeugs in Verzug befindet.3. Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klägerin Schadensersatz zu bezahlen für Schäden, die aus der Manipulation des Fahrzeugs [Fahrzeugtyp] Fahrgestellnummer: [...] durch die Beklagte resultieren.4. Die Beklagte wird verurteilt, der Klägerin von vorgerichtlichen Rechtsanwaltskosten seines Prozessbevollmächtigten in Höhe von 1.100,51 Euro freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Sie trägt im Wesentlichen vor, ein Mangel liege schon deshalb nicht vor, weil für die Erteilung der erforderlichen Typengenehmigung letztlich nur die Laborwerte relevant seien. Die im normalen Fahrbetrieb ermittelten Emissionswerte seien unerheblich. Eine Korrelation der Werte sei gesetzlich nicht vorgegeben. Zudem seien die Gebrauchsfähigkeit und die Verkehrssicherheit des Fahrzeuges nicht beeinträchtigt. Es liege schon aus technischen Gründen keine unzulässige Abschalteinrichtung vor. Eine Nachbesserung sei mit einem sehr geringen Aufwand möglich, so dass - wenn überhaupt - ein unerheblicher Mangel vorliege. Soweit der Kläger von drohenden Nachteilen ausgehe, handele es sich um unbegründete Spekulationen. Ein strafrechtlich relevantes Verhalten der Beklagten sei nicht gegeben, insbesondere liege kein vorsätzliches Verhalten vor. Auch von einer Arglist sei nicht auszugehen. Sie versuche derzeit noch immer, die genauen Hintergründe der Vorgänge aufzuklären. Soweit sie zu einer Nachbesserung der betroffenen Fahrzeuge bereit sei, handele sie nur aus "unternehmerischer Verantwortung". Ein Schuldeingeständnis sei damit nicht verbunden.Die Beklagte behauptet weiter, dass die Klägerin im Kaufzeitpunkt bereits über die Abschalteinrichtung informiert sein musste, da sie das Fahrzeug deutlich nach der ad hoc-Mitteilung der Beklagten erwarb.Wegen des weiteren Vorbringens der Parteien wird auf die gewechselten Schriftsätze nebst Anlagen sowie den übrigen Akteninhalt Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I.Die Klägerin hat gegen die Beklagte weder einen Anspruch aus §§ 823 Abs. 2 BGB i.V.m. § 263 StGB noch aus § 826 BGB. Auch weitere Anspruchsgrundlagen scheiden aus. Der Klägerin ist es bereits nicht gelungen, eine Täuschung durch die Beklagte schlüssig darzulegen.Voraussetzung eines Anspruchs aus § 823 Abs. 2 BGB i.V.m. § 263 StGB ist zunächst, dass die Klägerin durch die Beklagte getäuscht wurde. Täuschung ist die Vorspiegelung falscher Tatsachen oder die der Entstellung bzw. Unterdrückung wahrer Tatsachen. Eine Täuschung liegt dann nicht vor, wenn auf den Umstand bezüglich dessen die Täuschung behauptet wurde, ausdrücklich hingewiesen wurde. So war es hier aufgrund der ad hoc-Mitteilung der Beklagten im Jahre 2015, die auch in sämtlichen Medien Wiederhall fand. Spätestens im Jahr 2016 war es allgemein bekannt, dass in den Dieselfahrzeugen der Beklagten eine Abschalteinrichtung verbaut war. Es kann daher am 15.03.2017 nicht mehr davon ausgegangen werden, dass die "wahren Tatsachen" durch die Beklagte nicht dargelegt wurden. Es fehlt somit bereits am objektiven Tatbestand der Täuschung.Auf den Umstand, dass die Klägerin behauptet, von der gesamten Thematik keine Kenntnis genommen zu haben, kommt es danach gar nicht mehr entscheiden an. Behelflich ist ihr diese Behauptung aber auch nicht, denn das Thema war in den Medien dermaßen überpräsent, dass man es wahrnehmen musste. Die Behauptung, dass das Thema in den türkischen Medien gar keine Rolle gespielt habe, ist dabei schon im Ausgangspunkt und unter Berücksichtigung des Umstandes, dass diese Medien wegen der vielen in Deutschland lebenden und aus der Türkei stammenden Menschen sich auch auf den hiesigen Markt ausrichten, unglaubhaft. Jedenfalls aber kann sich die Klägerin wenn sie sich im deutschen Rechtsraum bewegt nicht darauf zurückziehen, dass sie sich den frei verfügbaren hiesigen Informationsquellen verschließt, um so zu behaupten, getäuscht worden zu sein. Auch kommt es nicht darauf an, ob die Klägerin im Kaufzeitpunkt die weitere Entwicklung des Abgasskandals absehen konnte: für die Frage der Täuschung kommt es nur auf den Zeitpunkt derselben an. Die Beklagte kann schon denklogisch nicht über eine Entwicklung täuschen, die ihr im damaligen Zeitpunkt noch nicht bekannt sein konnte. Es ist allein auf das Vorstellungsbild der Parteien im Kaufzeitpunkt - hier also am 15.03.2017 - abzustellen.Gleichsam fehlt es an dem für einen Anspruch aus § 826 BGB erforderlichen Sittenverstoß: selbst wenn man davon ausgeht, dass ein solcher in der Verwendung einer unzulässigen Abschalteinrichtung zu sehen wäre, wirkte dieser aber doch nur so lange, bis dieser Umstand öffentlich gemacht wurde. Im Kaufzeitpunkt jedenfalls lag jedenfalls kein Sittenverstoß mehr vor.Nicht gefolgt werden kann weiter der Argumentation der Klägerin, dass es "gar nicht darauf ankomme, welche Faktoren für die Klägerin kaufentscheidend waren" - die Kausalität zwischen Täuschung, Irrtum und Vermögensverfügung ist zwingender Bestandteil beider von der Klägerin angesprochener Tatbestände.Darüber hinaus konnte die Klägerin auch einen Schaden nicht schlüssig behaupten. Es gelingt der Klägerseite nicht darzulegen, worin genau der Schaden liegen soll. So wird aufgeführt, das Fahrzeug sei aufgrund der Abschalteinrichtung mangelhaft, worin der Klägerin im Ausgangspunkt zugestimmt werden kann. Dann aber führt die Klägerin aus, dass das Softwareupdate diesen Mangel nicht beseitigen könne. Diese Erwägung kann aber von vornherein nur dann eine Rolle spielen, wenn die Klägerin ein Fahrzeug ohne Softwareupdate erworben hätte, dann nämlich wäre die Frage entscheidend, ob durch das Softwareupdate ein bereits vorliegender Schaden beseitigt worden ist. Im vorliegenden Fall aber hat die Klägerin ein Fahrzeug erworben, bei dem das Softwareupdate bereits installiert ist. Der nach § 249 BGB anzustellende Vergleich zwischen dem Soll- und dem Ist-Zustand hat daher zu fragen, ob das Fahrzeug mit Softwareupdate einen Schaden hat. Dazu fehlt es an Vortrag der Klägerseite. Die sich auf das Softwareupdate beziehenden Ausführungen beschränken sich einerseits auch nach dem Hinweis des Gerichts in der mündlichen Verhandlung vom 13.11.2018 auf unsubstantiierte Behauptungen. In dem Schriftsatz vom 04.12.2018 (Bl. 303 ff. d. A.) schreibt die Klägerin nach wie vor nur davon, dass der Motor "schlechter reagiere", dadurch "mehr" Treibstoff verbrauche und dies "typischerweise" zu "weiteren technischen Schäden" am Motor führe. Das bleibt bereits weit hinter dem zurück, was als substantiierter Vortrag erwartet werden kann. Andererseits aber trägt die Klägerin nichts dazu vor, inwieweit bei dem schon mit dem Softwareupdate gekauften Fahrzeug aus sich ein Schaden vorliegt. Die entsprechenden Darlegungen sind schablonenhaft an dem "Normalfall" ausgerichtet, dass das Fahrzeug vor Durchführung des Softwareupdates erworben wurde. Das zeigt sich etwa darin, dass ein merkantiler Minderwert behauptet wird, ohne darzulegen, an welche Zeiträume angeknüpft werden soll - diese Behauptung nämlich ergibt bei einem Erwerb Anfang 2017 gar keinen Sinn mehr, da hier der sogenannte Abgasskandal eben schon allgemein bekannt und daher bei den Fahrzeugpreisen schon eingepreist war.Dass die Klägerin dabei ihrerseits im Termin zur mündlichen Verhandlung einen um knapp 20.000 km niedrigeren Kilometerstand behauptete, um so die von ihr begehrte Klagesumme zu erhöhen, bedarf an dieser Stelle keines weiteren Kommentars.II.Lediglich obiter dictum ist noch weiter auszuführen: Das Gericht hegt erhebliche Zweifel daran, ob von Klägerseite überhaupt ein schlüssiger Vortrag dahin gehalten wurde, dass die diversen Behauptungen zu den Gedankengängen überhaupt schlüssig der Klägerin individualisierbar zugeschrieben wurden. Die Schriftsätze der Klägerseite entstammen offensichtlich einer ganzen Reihe ähnlicher Verfahren. Die Klägerseite hat sich dabei trotz mehrfacher Hinweise durch das Gericht nicht einmal in der Lage gesehen, die Klägerin konsequent als Klägerin zu bezeichnen. Auch in dem Schriftsatz vom 04.11.2018 (Bl. 303 ff. d. A.) wird die Klägerin allein im ersten Absatz als Klägerin bezeichnet, danach dann nahezu durchgehend als "Kläger". Es bestehen daher erhebliche Zweifel, ob in dem Rechtsstreit individueller Vortrag gehalten wurde oder ob einfach nur ohne jegliche individuelle Anpassung Schriftsätze verwendet wurden, die in einer Vielzahl anderer Verfahren auch Verwendung fanden. Derartiges würde den Anforderungen an ordentlichen Vortrag im Zivilprozess nicht genügen.Darauf aber kommt es aufgrund der Erwägungen unter Ziffer I. nicht entscheidend an.III.Die Nebenforderungen teilen das Schicksal der Hauptforderungen. Auf den Umstand, dass die Klägerseite ein außergerichtliches Tätigwerden nicht einmal behauptet und dennoch Anwaltsgebühren verlangt sowie darauf, dass diese mit 1,8 Gebühren weit überhöht sind, kommt es danach nicht mehr an.IV.Die prozessualen Nebenentscheidungen folgen aus §§ 91, 709 ZPO.V.Die Streitwertfestsetzung ergibt sich aus einer Addition des Zahlungsantrages aus der Klageschrift mit einem mit EUR 5.000 geschätzten Wert des Antrags zu 3. Die Anträge zu 2. und zu 4. haben keinen eigenen Wert.
+			
+			
+			
+			Permalink: https://openjur.de/u/2316813.html (https://oj.is/2316813)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

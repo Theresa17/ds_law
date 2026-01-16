@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG BambergRechtsprechungEndurteil vom 13.05.2019 - 43 O 259/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bamberg, Endurteil vom 13.05.2019 - 43 O 259/18
+                      m. Fundstelle
+                      LG Bamberg, Endurteil vom 13.05.2019 - 43 O 259/18 = openJur 2021, 31755
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bamberg, Endurteil vom 13.05.2019 - 43 O 259/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 31755
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 120% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar.4. Der Streitwert wird auf 19.920, -- € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatzansprüche im Zusammenhang mit dem sog. "VW-Abgasskandal".Der Kläger erwarb am 07.03.2017 einen gebrauchten Audi Q3 zum Preis von 24.900, - € (Anlage K 50), ein Pkw. Der km-Stand beim Erwerb betrug 96.000 km.Der in dem Fahrzeug verbaute, von der Beklagten entwickelte und produzierte Dieselmotor des Typs EA 189 verfügt über eine Software, die Stickoxidwerte (NOx) im Prüfstandlauf optimiert (sog. Umschaltlogik). Sie erkennt, wenn das Fahrzeug den "Neuen Europäischen Fahrzyklus" (NEFZ) durchfährt und schaltet das regulär im Betriebsmodus 0 (Straßenbetrieb) betriebene Fahrzeug dann in den Betriebsmodus 1, in dem der Ausstoß von Stickoxiden dadurch verringert wird, dass mehr Abgas über die Abgasrückführung in den Ansaugtrakt des Motors zurückgeführt wird.Dadurch werden auf dem Prüfstand geringere Stickoxidwerte (NOx) erzielt und es konnten im Testzyklus die nach der Euro-5-Abgasnorm (Verordnung (EG) 715/2007 vom 20.06.2007) vorgegebenen Werte eingehalten werden - was im Betriebsmodus 0 nicht möglich gewesen wäre.Das Fahrzeug erhielt folglich auch die EG-Typengenehmigung und wird von der Beklagten seitdem massenhaft in den Verkehr gebracht.Die Erstellung der Software - welche von der Firma Bosch entwickelt wurde - erfolgte jedenfalls spätestens im Jahre 2007 - wer auf Seiten der Beklagten hierüber informiert war, ist zwischen den Parteien streitig.Im Jahre 2015 erließ das Kraftfahrtbundesamt (im Folgenden: KBA) einen - inzwischen bestandskräftigen - Bescheid, wonach es feststellte, dass es sich bei der geschilderten Software um eine unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2 S. 1 VO (EG) 715/2007 i.V.m. Art. 3 Nr. 10 VO (EG) 715/007 handele und in dem es den Rückruf der Fahrzeuge anordnete, die in einen Zustand zu bringen sind, der den öffentlichrechtlichen Normen entspricht. Seitens der Beklagten wird - in Abstimmung mit dem KBA - eine technische Überarbeitung mittels Software-Update und Einbau eines Strömungstransformators angeboten, welches der Kläger inzwischen hat aufspielen lassen. Funktionsweise, Kosten und Auswirkungen des Software-Updates sind zwischen den Parteien streitig. Bei dem konkreten Fahrzeug war bei Erwerb durch den Kläger das Update bereits aufgespielt.Das Fahrzeug durfte seit Anordnung des Rückrufs weiter im Straßenverkehr genutzt werden und wurde vom Kläger auch genutzt. Zuletzt betrug der km-Stand 154.447 km.Der Kläger stützt seine Klage u.a. auf Ansprüche nach §§ 826, 31 BGB.Er ist der Meinung, bei der sog. Umschaltlogik handele es sich um eine unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2 S. 1 VO (EG) 715/2007 i.V.m. Art. 3 Nr. 10 VO (EG) 715/2007 - dies sei bereits durch den Bescheid des KBA bindend festgestellt.Die Beklagte habe - auch auf Vorstandsebene - seit spätestens Mai 2014 Kenntnisse über die Manipulationssoftware gehabt:Der Kläger ist der Meinung, dass die erteilte Typengenehmigung von Anfang an und auch nach Aufspielen des Updates unwirksam sei - das Fahrzeug befinde sich weiterhin in einem nicht zulassungsfähigen Zustand, so dass das Risiko bestehe, dass das Fahrzeug mangels Genehmigung stillgelegt werde.Insbesondere über das Bestehen der Typengenehmigung, aber auch über andere Punkte, wie die Schadstoffwerte sei von der Beklagten getäuscht worden.In Kenntnis der gesamten Thematik hätte er das streitgegenständliche Fahrzeug nicht erworben. So habe er auch bei Vertragsschluss danach gefragt, ob das Fahrzeug vom Abgasskandal betroffen sei und ein Update aufgespielt werden müssen - was der Käufer verneint habe.Zudem führe das Update zu negativen Auswirkungen auf das Fahrzeug, insbesondere zu höherem Spritverbrauch, höherem CO²-Ausstoß, geringerer Motorleistung und Einschränkungen der Dauerhaltbarkeit der Teile.Zudem führe allein die Betroffenheit des Pkws vom Abgasskandal dazu, dass der Marktwert des Fahrzeugs nicht unerheblich gesunken sei.Ziel der Klage sei das Fahrzeug zurückzugeben und einen Gegenwert in bar zu erhalten.Der Kläger beantragt zuletzt,festzustellen, dass die Beklagtenpartei verpflichtet ist, der Klägerpartei Schadensersatz zu leisten für Schäden, die aus der Manipulation des Fahrzeugs Audi Q3 (Fahrzeugidentifikationsnummer: ...38) durch die Beklagtenpartei resultieren.die Beklagte zu verurteilen, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.195,95 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte ist der Meinung, die Umschaltlogik stelle bereits keine unzulässige Abschalteinrichtung dar, da die Software nicht Bestandteil des Emissionskontrollsystems sei und auch nicht im realen Fahrbetrieb auf dieses einwirke - vielmehr handele es sich um eine bloße innermotorische Maßnahme (Abgasrückführung in den Ansaugtrakt des Motors), die von den nachgelagerten Maßnahmen der Abgasreinigung zu unterscheiden sei.Die Beklagte meint weiter, der Sachvortrag des Klägers zur Kenntnis der Beklagten sei unsubstantiiert. Nach jetzigen Erkenntnissen - die Aufklärung sei noch nicht abgeschlossen - sei davon auszugehen, dass die Entscheidung, die Motorsteuerungssoftware zu verändern, von Mitarbeitern unterhalb der Vorstandsebene auf nachgeordneten Arbeitsebenen getroffen worden sei. Weder der damalige Vorstandsvorsitzende noch einzelne Vorstandsmitglieder seien hieran beteiligt gewesen oder hätten dies gebilligt.Die erteilte Typengenehmigung sei wirksam und das Fahrzeug weiterhin technisch sicher und uneingeschränkt gebrauchstauglich.Sowohl mangels Einbindung der Beklagten in den Verkaufsvorgang als auch ansonsten seien keinerlei Täuschungen durch die Beklagte erfolgt, insbesondere nicht bzgl. der Typengenehmigung, der Nutzbarkeit des Fahrzeugs oder der Schadstoffwerte.Das Update führe nicht zu Leistungseinbußen, Erhöhung des Kraftstoffverbrauchs oder verringerter Lebensdauer des Fahrzeugs. Vielmehr werde durch die Veränderung diverser Parameter (etwa Optimierung des Verbrennungsprozesses durch Anpassung der Einspritzcharakteristik - insb. zusätzliche Nacheinspritzung und Erhöhung des Einspritzdrucks um 10% im Teillastbereich) bei Kosten von ca. 35, - € nunmehr ein einheitlicher adaptierter Modus 1 geschaffen, der auch im regulären Straßenbetrieb gefahren werde und der keinerlei negative Auswirkungen auf das Fahrzeug habe. Entsprechendes habe auch das KBA mit Bescheid vom 21.07.2016 - mit dem das Update freigegeben wurde - bestätigt.Angesichts der fortbestehenden Nutzbarkeit und des geringen Update-Aufwands sei auch mit Nichtwissen zu bestreiten, dass der Kläger den Kaufvertrag überhaupt nicht geschlossen hätte, wenn er von der Existenz der Software gewusst hätte. Zudem sei der Kläger durch die adhoc Mitteilung vom 22.09.2015 sowie der in den Folgejahren bis zum Kaufvertragsabschluss erfolgten Presseberichterstattung sei davon auszugehen, dass der Kläger über die Betroffenheit des Fahrzeugs sowie das Aufspielen des Updates informiert gewesen war.Die Marktwerte der betroffenen Fahrzeuge seien stabil. Lediglich aufgrund der - von dem Abgasskandal unabhängigen - Thematik etwaiger Dieselfahrverbote habe sich die Nachfrage zu Benzinern hin verschoben.Wegen der weiteren Einzelheiten des umfangreichen Sachvortrags der Parteien wird auf die gewechselten Schriftsätze nebst Anlagen, das Protokoll der mündlichen Verhandlung vom 08.04.2019 (Bl. 372 f. d.A.) und den sonstigen Akteninhalt Bezug genommen. 
+				Gründe
+				A.Die Klage ist unzulässig bzw. in Bezug auf den Klageantrag zu 2) unbegründet.I.Es fehlt an einem hinreichend bestimmten Klageantrag.Gemäß § 253 Abs. 2 Nr. 2 ZPO muss die Klage einen bestimmten Antrag enthalten. Ein Feststellungsantrag muss die Identität und damit den Umfang der Rechtskraftwirkung des begehrten Feststellungsanspruchs klar erkennen lassen. Dazu ist die genaue Bezeichnung des festzustellenden Rechtsverhältnisses, bei Schadensersatzansprüchen die bestimmte Bezeichnung des zum Ersatz verpflichtenden Ereignisses bzw. Umstandes nötig (Thomas/Putzo/Reichold, 39. Auflage 2018, § 253 Rn. 13).Dies ist im vorliegenden Fall nicht geschehen. Der Kläger beantragt lediglich festzustellen, dass die Beklagtenpartei verpflichtet ist, Schadensersatz für Schäden zu leisten, die aus der Manipulation des Fahrzeugs VW Tiguan (Fahrzeugidentifikationsnummer: ...11) durch die Beklagtenpartei resultieren.In diesem Antrag liegt keine eindeutige und genaue Bezeichnung des begehrten Feststellungsanspruchs. Die Formulierung "aus der Manipulation" reicht hierfür nicht aus. In seiner Klagebegründung führt der Kläger mehrere Punkte an, in welchem die Beklagte das streitgegenständliche Fahrzeug manipuliert und den Kläger daher getäuscht haben soll. Der Kläger führt aus, es habe eine Abgasmanipulation durch eine Abschalteinrichtung in Bezug auf die Stickoxidwerte durch die Beklagte gegeben. Der Kläger führt dann aber im weiteren Verlauf (Seite 16 ff. der Klageschrift/Bl. 16 ff. d.A.) auch aus, dass die Beklagte darüber hinaus falsche Angaben beim Dieselverbrauch und auch bei den CO₂-Werten gemacht habe. Zudem sei ein weiterer Betrug hinsichtlich der On-Board-Diagnose gegeben.Aus diesen Ausführungen wird deutlich, dass der Kläger der Beklagten zahlreiche falsche Angaben bzw. Manipulationen im Hinblick auf das streitgegenständliche Fahrzeug vorwirft. Insoweit ist jedoch die Angabe im Klageantrag "Manipulation des Fahrzeugs" nicht hinreichend konkret. Es wird nicht deutlich, auf welche Manipulationen bzw. Falschangaben sich der klägerseits begehrte Schadensersatzanspruch, welcher mit vorliegender Klage festgestellt werden soll, genau bezieht. Da der Klageantrag jedoch derart weit und unbestimmt ist, vermag auch eine Auslegung durch zu Hilfenahme der Klagebegründung nicht weiter zu helfen.11. Der Feststellungsantrag zudem auch deshalb unzulässig, weil es insoweit an einem Feststellungsinteresse des Klägers fehlt (§ 256 Abs. 1 ZPO).Der Kläger könnte die ihm gegen die Beklagte nach seinem Vorbringen allenfalls zustehenden und ausdrücklich auch gewünschten Ansprüche (Erstattung des Kaufpreises abzgl. Nutzungen, Zugum-Zug gegen Übergabe und -eignung des PKW) unproblematisch beziffern - so wie dies eine Vielzahl anderer Kläger regelmäßig tut - und per Leistungsklage verfolgen.Weitere, von der Beklagten zu erstattende, vom Kläger aber noch nicht bezifferbare Schadenspositionen ergeben sich aus dem Klagevorbringen nicht, jedenfalls nicht mit hinreichender Wahrscheinlichkeit.Bei reinen Vermögensschäden erfordert eine vorbeugende Feststellungsklage die Wahrscheinlichkeit eines auf die Verletzungshandlung zurückzuführenden Schadenseintritts, wobei ausreichend, aber auch erforderlich ist, dass nach der Lebenserfahrung und dem gewöhnlichen Verlauf der Dinge mit hinreichender Wahrscheinlichkeit ein erst künftig aus dem Rechtsverhältnis erwachsender Schaden angenommen werden kann. Hingegen besteht ein Feststellungsinteresse für einen künftigen Anspruch auf Ersatz eines allgemeinen Vermögensschadens regelmäßig nicht, wenn der Eintritt irgendeines Schadens noch ungewiss ist (st. Rspr. des BGH, vgl. z.B. Urteil vom 10. Juli 2014 - IX ZR 197/12 -, Rn. 11, juris m.w.N.).Nach diesen Grundsätzen ist z.B. die Gefahr von Steuernachzahlungen - vom Kläger auch nicht substantiiert geltend gemacht - zu ungewiss.Noch ferner liegen - zumal nach Durchführung des Software-Updates - die vom Kläger befürchteten versicherungs- und haftungsrechtlichen Nachteile.Soweit der Kläger fürchtet, sich nach §§ 223, 224 StGB in Form von Stickoxid-Emissionen strafbar zu machen bzw. gemacht zu haben, liegt allenfalls ein "Wahndelikt" vor (Schönke/Schröder/Eser/Bosch, 30. Aufl. 2019, StGB § 22 Rn. 78-92) und besteht nicht einmal die theoretische Gefahr der Strafverfolgung.Das Feststellungsinteresse gegenüber derBeklagten kann - entgegen LG Offenburg, Urteil vom 12. Mai 2017 - 6 O 119/16 -, Rn. 17, juris - auch nicht mit der Erwägung bejaht werden, weitere von der Beklagten ggfs. zu ersetzende Begleitschäden seien, auch wenn sie nicht mit hinreichender Wahrscheinlichkeit drohen, jedenfalls verjährungsbedroht. Verjährung - gegenüber der Beklagten - droht dem Kläger bezüglich derzeit nicht absehbarer Schadensteile nicht, denn solange er keine Kenntnis oder grob fahrlässige Unkenntnis von Fakten hat, die ihm die zumutbare Erhebung einer Feststellungsklage ermöglichen, fehlt es an den subjektiven Voraussetzungen des Verjährungsbeginns nach § 199 BGB. Maßgeblich für den Verjährungsbeginn ist, ob der Geschädigte zumindest eine Feststellungsklage erheben könnte, die bei verständiger Würdigung der ihm bekannten Tatsachen so viel Aussicht auf Erfolg bietet, dass sie für ihn zumutbar ist (Lakkis in: Herberger/Martinek/Rüßmann u.a., jurisPK-BGB, 8. Aufl. 2017, § 199 BGB, Rn. 159 m.w.N.).Solange sich ein weiterer Schaden jedoch - wie ausgeführt - nicht hinreichend wahrscheinlich abzeichnet, ist im vorliegenden Fall eine Feststellungsklage aber gerade nicht zumutbar, sondern unzulässig.Auch mit der Erwägung, die Beklagte werde sich bereits einem bloßen Feststellungsurteil beugen, kann das Feststellungsinteresse nicht bejaht werden:Zwar schreibt die Rechtsprechung bestimmten Beklagten - wie z.B. Körperschaften des öffentlichen Rechts - eine besonders ausgeprägte Rechtstreue zu und stellt insofern abgesenkte Anforderungen an die Zulässigkeit einer Feststellungsklage (Musielak/Voit/Foerste, ZPO, 15. Auflage, § 256 Rn. 13 m.N.). Jedoch neigt - zumindest nach Vorbringen des Klägers - die Beklagte gerade nicht zu besonderer Rechtstreue. Außerdem wäre selbst dann nur die Bezifferung des Schadens entbehrlich, nicht aber, dass ein solcher überhaupt mit der erforderlichen Wahrscheinlichkeit droht. Denn für die vorbeugende gerichtliche Klärung rein abstrakter Eventualitäten besteht auch gegenüber besonders rechtstreuen Beklagten kein Rechtsschutzbedürfnis.Der Klageantrag ist gegenüber der Beklagten auch nicht als Zwischenfeststellungsklage gem. § 256 Abs. 2 ZPO im Hinblick auf Klageantrag Ziffer 2, mit dem Freistellung von vorgerichtlichen Anwaltskosten begehrt wird, zulässig. Der mit Klageantrag Ziffer 2 geltend gemachte Freistellungsanspruch scheitert gegenüber der nämlich bereits aus anderen Gründen, ohne dass es auf die Frage nach der grundsätzlichen Schadensersatzpflicht überhaupt ankommt (s. unten).III.Der Klageantrag Ziffer 2 ist unbegründet:Ein Anspruch auf Zahlung vorgerichtlicher Rechtsanwaltskosten gemäß § 826 Abs. 1 (bzw. anderer deliktsrechtlicher Normen) i.V.m. § 249 Abs. 1 BGB steht dem Kläger nicht zu.Nachdem durch diverse gerichtliche Entscheidungen sowie aus Presseveröffentlichungen davon auszugehen ist, dass jedenfalls den Prozessbevollmächtigten des Klägers - und damit gemäß § 166 BGB auch ihm selbst - bekannt war, dass ein vorgerichtliches Herantreten an die Beklagte zwecklos ist, scheidet ein Anspruch auf Erstattung vorgerichtlicher Rechtsanwaltskosten aus.Ist der Schuldner - wie hier - bekanntermaßen zahlungsunwillig und erscheint der Versuch einer außergerichtlichen Forderungsdurchsetzung auch nicht aus sonstigen Gründen erfolgversprechend, werden durch die vorgerichtliche Tätigkeit somit offensichtlich nur unnötige weitere Kosten verursacht, so sind diese mangels Zweckmäßigkeit nicht erstattungsfähig (vgl. BGH vom 8. Mai 2012 - XI ZR 262/10, WM 2012, 1337 Rn. 70 BGH vom 26. Februar 2013, XI ZR 345/10, Rz. 38). Hierbei handelt es sich um echte, vom Geschädigten darzulegende und zu beweisende Anspruchsvoraussetzungen und nicht lediglich um im Rahmen des § BGB § 254 BGB bedeutsame, die Ersatzpflicht beschränkende und damit in die Darlegungs- und Beweislast des Schädigers fallende Umstände (BGH, Urteil vom 27. Juli 2010 - VI ZR 261/09, Rn 26). Außergerichtliche Rechtsanwaltskosten sind Nebenforderungen gem. § 4 Abs. 1 Hs. 2 ZPO (BGH vom 29.04.2010, III ZR 145/09, und 21.12.2010, XI ZR 157/10), so dass auch kein Hinweis des Gerichts erforderlich war (§ ZPO § 139 ZPO BGH, Urteil vom 21. Februar 2017 - XI ZR 467/15, Rz. 37 vgl. ebenso zur Beauftragung eines Inkassobüros bei Zahlungsunwilligkeit oder -unfähigkeit des Schuldners: OLG Karlsruhe, Urteil vom 11.06.1986 - 6 U 234/85 -, NJW-RR 1987, S. 15 OLG München a.a.O.; Grüneberg, in: Palandt, BGB, 77. Auflage 2018, § 286 Rn. 46).B.Die Kostenentscheidung folgt aus § 91 Abs. 1 ZPO. Der Ausspruch über die vorläufige Vollstreckbarkeit ergibt sich aus § 709 S. 1, 2 ZPOC.Für die Festsetzung des Streitwertes ist zu berücksichtigen, dass der Kläger in der Hauptsache Feststellung begehrte, daher ist lediglich ein Wert in Höhe von 80% des Kaufpreises - entspricht 24.900,00 € - in Ansatz zu bringen.
+			
+			
+			
+			Permalink: https://openjur.de/u/2350808.html (https://oj.is/2350808)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen4
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

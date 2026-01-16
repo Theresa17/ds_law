@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG MünchenRechtsprechungEndurteil vom 22.04.2020 - 13 U 3807/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG München, Endurteil vom 22.04.2020 - 13 U 3807/19
+                      m. Fundstelle
+                      OLG München, Endurteil vom 22.04.2020 - 13 U 3807/19 = openJur 2020, 74284
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG München, Endurteil vom 22.04.2020 - 13 U 3807/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 74284
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Berufung des Klägers gegen das Urteil des Landgerichts Passau vom 14.06.2019, Az. 4 O 1109/18, wird zurückgewiesen.2. Der Kläger hat die Kosten des Berufungsverfahrens zu tragen.3. Das in Ziffer 1 genannte Urteil des Landgerichts Passau und dieses Urteil sind vorläufig vollstreckbar. Der Kläger kann die Vollstreckung durch Sicherheitsleistung in Höhe von 110% des vollstreckbaren Betrages abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110% des jeweils zu vollstreckenden Betrages leistet.4. Die Revision wird nicht zugelassen.BeschlussDer Streitwert wird für das Berufungsverfahren auf 37.000,00 € festgesetzt.  
+				Gründe
+				I.Die Klagepartei verlangt von der Beklagten Schadensersatz, weil sie ein Fahrzeug erworben hat, in welchem ein Dieselmotor des Typs EA 189 verbaut war.Die Klagepartei kaufte am 19.04.2016 beim Autohaus V. in H. einen Pkw Audi Q3 2.0 TDI, Erstzulassung 2014, Kilometerstand 19.200 km zum Preis von 37.000 € brutto. Der von der Beklagten hergestellte Dieselmotor des Typs EA 189 war mit einer Motorsteuerungssoftware ausgestattet, die erkannte, ob sich das Fahrzeug im regulären Straßenbetrieb oder auf einem Rollenprüfstand zur Durchführung des NEFZ (Neuer Europäischer Fahrzyklus) befindet. Auf dem Rollenprüfstand war der Abgasrückführungsmodus 1 mit einer NOxoptimierten höheren Abgasrückführungsrate aktiv, während die Software im normalen Straßenverkehr auf einen partikeloptimierten Modus 0 umschaltete. Nur im Modus 1 wurden die im Datenblatt aufgeführten Stickoxidwerte eingehalten. Die für das Fahrzeug erteilte Betriebserlaubnis wurde nicht aufgehoben; das Fahrzeug ist als solches der Abgasnorm EU 5 klassifiziert.Am 22.09.2015 veröffentlichte die Beklagte eine Adhoc-Mitteilung zur Dieselproblematik. Im Anschluss daran wurde die Dieselthematik in der breiten Öffentlichkeit diskutiert, es wurde in Presse, Funk und Fernsehen darüber berichtet.Mit rechtskräftigem Bescheid vom 15.10.2015 ordnete das Kraftfahrtbundesamt an, dass zur Gewährleistung der Vorschriftsmäßigkeit der mit der Typgenehmigung oder einem ihrer Nachtragsstände genehmigten Aggregate des Typs EA 189 EU 5 die "unzulässigen Abschalteinrichtungen" zu entfernen seien, und ordnete den verpflichtenden Rückruf der Dieselfahrzeuge an, von dem auch das verfahrensgegenständliche Fahrzeug betroffen war. Die Beklagte stimmte mit dem Kraftfahrtbundesamt einen Zeit- und Maßnahmenplan ab, mit dessen Umsetzung Anfang 2016 begonnen wurde. Mit Bescheid vom 21.07.2016 gab das Kraftfahrtbundesamt die von der Beklagten entwickelte technische Maßnahme für Fahrzeuge des Typs Audi Q3 2.0 TDI frei und bestätigte, dass das Software-Update geeignet ist, die Vorschriftsmäßigkeit der betroffenen Fahrzeuge herzustellen, dass die ursprünglich vom Hersteller angegebenen Kraftstoffverbrauchswerte und CO₂-Emissionen in Prüfungen durch einen technischen Dienst bestätigt wurden und dass Motorleistung und Geräuschemissionen unverändert sind.Das Software-Update wurde im Juli 2018 bei dem klägerischen Fahrzeug aufgespielt. Seitdem wird das Fahrzeug nur noch im adaptierten Betriebsmodus 1 betrieben, der zuvor praktisch ausschließlich auf dem Rollenprüfstand aktiv war.Der anwaltliche Vertreter der Klagepartei forderte die Beklagte mit Schreiben vom 25.10.2018 unter Fristsetzung bis zum 08.11.2018 und weiterem Schreiben vom 05.12.2018 unter Fristsetzung bis zum 12.12.2018 auf, zu erklären, dass sie Zug um Zug gegen Rückgabe des Fahrzeugs 37.000 € brutto an die Klagepartei zahle. Die Beklagte reagierte hierauf nicht.Die Klagepartei behauptet, der damalige Vorstandsvorsitzende Prof. Dr. W. habe aus reiner Gewinnsucht und Betrugsabsicht einen Wertverlust um mindestens 30% gegenüber dem vorherigen Gebrauchtwagenwert billigend in Kauf genommen, sobald die Mängel auf dem Markt bekannt werden. Prof. Dr. W. habe bereits 2004 in seiner damaligen Funktion als Mitglied des Vorstands und Forschungs- und Entwicklungsleiter die R. B. GmbH beauftragt, das Motorsteuergerät EDC 17 zu konstruieren, und dieses in der Folgezeit weiterentwickelt (Zeuge Prof. Dr. W.). In den Jahren 2005 und 2006 habe die Beklagte festgestellt, dass die Erhöhung der Abgasrückführungswerte zu einem früheren Verschleiß der Partikelfilter führt. Mit Kenntnis von Prof. Dr. W. hätten die Entwicklungsingenieure entschieden, eine Software einzusetzen, die ausschließlich im Testmodus durch erhöhte Abgasrückführung für die Einhaltung der erforderlichen Stickoxidwerte sorgt.Die Klagepartei trägt ferner vor, in Kenntnis des tatsächlichen Sachverhalts hätte sie das Fahrzeug nicht erworben. Es sei ihr darauf angekommen, ein umweltfreundliches und wertstabiles Fahrzeug zu erwerben.Die Beklagte bestreitet, dass ihr damaliger Vorstandsvorsitzender oder andere Mitglieder des Vorstands seinerzeit von der Entwicklung der Software wussten.Ferner trug sie vor, dass der Kläger sich in Kenntnis der Software dazu entschieden habe, das Fahrzeug zu erwerben.Hinsichtlich der weiteren Einzelheiten wird auf das Urteil des Landgerichts Passau vom 14.06.2019, Az. 4 O 1109/18, Bezug genommen, § 540 Abs. 1 Nr. 1 ZPO.In der mündlichen Verhandlung in der Berufungsinstanz am 05.02.2020 hörte der Senat den Kläger an. Insoweit wird auf das Protokoll über die mündliche Verhandlung Bezug genommen. Der Kilometerstand des klägerischen Fahrzeugs betrug zu diesem Zeitpunkt 59.280 km.Das Landgericht Passau hat die Klage mit Endurteil vom 14.06.2019 abgewiesen. Der Kläger sei bereits nicht aktivlegitimiert, weil er Zweiterwerber des Fahrzeugs sei, der Schaden aber bereits beim Ersterwerber eingetreten sei. Die Voraussetzungen für einen Schadensersatzanspruch nach §§ 823 Abs. 2 BGB, § 263 StGB und § 826 BGB seien ferner deshalb nicht erfüllt, weil zum Erwerbszeitpunkt das Verhalten der Beklagten nach seinem Gesamtcharakter nicht mehr gegen das Anstandsgefühl aller billig und gerecht Denkenden verstoßen habe, weil es dem Kläger auf Grund der ihm zugänglichen Informationen bei vollständiger Durchdringung dieses Tatsachenstoffs problemlos möglich gewesen wäre, die Betroffenheit des streitgegenständlichen Fahrzeugs zu erkennen und beim Kauf zu berücksichtigen. Auch eine konkludente Täuschung scheide mit Bekanntgabe der Problematik aus.Gegen das der Klagepartei am 18.06.2019 zugestellte Urteil legte diese mit Schriftsatz des Klägervertreters vom 12.07.2019, eingegangen am selben Tag, Berufung ein, die sie mit Schriftsatz des Klägervertreters vom Montag, dem 19.08.2019, eingegangen am selben Tag, im Wesentlichen wie folgt begründete:Der Anspruch scheide nicht bereits deswegen aus, weil der Kläger nicht Ersterwerber des Fahrzeugs sei; der Schaden sei erst mit Aufdeckung der Abschalteinrichtung eingetreten. Die Beklagte habe vorausgesehen, dass die von ihr produzierten Fahrzeuge mehrfach verkauft werden würden.Ein Anspruch nach § 826 BGB scheitere auch nicht an der mangelnden Sittenwidrigkeit.Der Anspruch der Klagepartei ergebe sich auch aus §§ 823 Abs. 2 BGB, 263 StGB. Die Beklagte habe das Abschalten der auf dem Prüfstand erhöhten Verbrennung von Stickoxiden im normalen Betrieb bis zum 23.09.2015 ständig verschwiegen. Hierdurch habe sie bei dem Kläger einen Irrtum erregt. Der Kläger habe ein im Wert deutlich gemindertes Fahrzeug erhalten. Es habe die Untersagung der Nutzung des Fahrzeugs auf öffentlichen Straßen gedroht.Der Kausalzusammenhang zwischen dem sittenwidrigen Verhalten der Beklagten und der Schädigung des Klägers sei auch nicht dadurch unterbrochen worden, dass der Kläger die "Dieselthematik" bei Abschluss des Kaufvertrages gekannt habe. Der Kläger habe bei Abschluss des Kaufvertrages trotz der Diskussion nichts davon gewusst, dass konkret auch sein Fahrzeug betroffen sei. Die Beklagte sei in entsprechender Anwendung des § 24 Abs. 1 S. 1, 2. Alt. StGB gehalten gewesen, sich um die ernsthafte Verhinderung des Erfolgseintritts zu bemühen.Die Klagepartei beantragt,I. Unter Abänderung des am 14.06.2019 verkündeten Urteils des LG Passau, Az.: 4 O 1109/18 die Beklagte zu verurteilen, Zug um Zug gegen Rückgabe und Übereignung des Fahrzeugs Audi Q3 mit der Fahrgestellnummer ...23 an den Kläger 37.000,00 Euro nebst Zinsen in Höhe von 5%-Punkten über dem Basiszinssatz seit 19.04.2016 zu zahlen.II. Unter Abänderung des am 14.06.2019 verkündeten Urteils des LG Passau, Az.: 4 O 1109/18 die Beklagte zu verurteilen, den Kläger von den außergerichtlichen Rechtsanwaltskosten seines Rechtsanwalts M. H. in Höhe von 2.193,65 Euro nebst Zinsen in Höhe von 5%-Punkten über dem Basiszinssatz seit Rechtshängigkeit freizustellen.III. Unter Abänderung des am 14.06.2019 verkündeten Urteils des LG Passau, Az.: 4 O 1109/18 festzustellen, dass sich die Beklagte seit dem 13.12.2018 mit der Rücknahme des im Klageantrag Ziffer 1 bezeichneten Fahrzeugs in Annahmeverzug befindet.Die Beklagte beantragtdie Zurückweisung der Berufung.Sie ist der Auffassung, ein Schadensersatzanspruch der Klagepartei bestehe nicht.Eine Täuschung der Klagepartei oder die Erregung eines Irrtums bei ihr seien aufgrund des Bekanntseins der Software-Thematik zum Zeitpunkt des Kaufvertragsabschlusses nicht mehr möglich gewesen. Die Maßnahmen der Beklagten zur Bekanntmachung der Thematik stünden auch der Annahme einer vorsätzlichen sittenwidrigen Schädigung entgegen. Die Klagepartei nutze das streitgegenständliche Fahrzeug seit dem Erwerb ohne jede Beanstandung, sodass ihr auch kein Schaden entstanden sei. Schließlich wäre eine vermeintliche Schädigungshandlung der Beklagten auch nicht kausal für einen etwaigen Schaden der Klagepartei.Ergänzend wird auf die von den Parteien im Berufungsverfahren gewechselten Schriftsätze Bezug genommen.II.Die zulässige Berufung der Klagepartei ist nicht begründet. Der Kläger hat gegen die Beklagte keinen Anspruch auf Schadensersatz.1. Ein Anspruch des Klägers ergibt sich nicht aus § 826 BGB.1) Das Inverkehrbringen eines Motors mit der streitgegenständlichen Umschaltlogik stellt eine konkludente Täuschung durch die Beklagte dar.1) Durch diese Täuschung entsteht dem Erstkäufer und späteren Käufern der betroffenen Fahrzeuge ein Schaden, der im Abschluss des Kaufvertrags zu sehen ist.1) Allerdings ist der Senat nach Anhörung des Klägers in der mündlichen Verhandlung vom 05.02.2020 nicht davon überzeugt, dass der Kläger das streitgegenständliche Fahrzeug nicht erworben hätte, wenn er Kenntnis von der streitgegenständlichen Software und ihrer Wirkungsweise gehabt hätte.1) Die Darlegungs- und Beweislast für den Kausalzusammenhang zwischen Täuschung und eingegangener Verpflichtung trifft den Geschädigten; auf den Nachweis der konkreten Kausalität der Täuschung für den Willensentschluss des Getäuschten kann nicht verzichtet werden (BGH, Urteil vom 04.06.2013 - VI ZR 288/12 -, juris Rn. 25; Palandt-Sprau, BGB, 79. Aufl., § 826 Rn. 18, 57).1) Der Senat hat nach Anhörung des Klägers Zweifel daran, dass der Kläger das Fahrzeug nicht erworben hätte, wenn er Kenntnis von der streitgegenständlichen Software und ihrer Wirkungsweise gehabt hätte.Der Kläger gab zwar in der Anhörung in der mündlichen Verhandlung vom 05.02.2020 zunächst an, er habe sich über eine Betriebserlaubnis keine Gedanken gemacht, er sei davon ausgegangen, dass sich der Händler darum kümmere; wenn er gewusst hätte, dass die Betriebserlaubnis in Gefahr steht, hätte er das Auto nicht gekauft; er habe eigentlich nichts vom Diesel-Skandal gewusst (Protokoll über die mündliche Verhandlung vom 05.02.2020, S. 2). Auf Nachfrage, was "eigentlich" heiße, erklärte er, dass er nichts vom Diesel-Skandal gewusst habe, und bestätigte auf nochmalige Nachfrage, dass er bis April 2016 nicht gewusst habe, dass VW die Software von Dieselfahrzeugen manipuliert habe (Protokoll über die mündliche Verhandlung vom 05.02.2020, Seite 2 unten).Dies entspricht auch den Angaben des Klägers in der mündlichen Verhandlung vor dem Landgericht am 22.05.2019 (Protokoll über die mündliche Verhandlung vom 22.05.2019, S. 3 Mitte und S. 5 oben).In der Folge änderte er seine Angaben jedoch mehrmals.So erklärte er im Zusammenhang mit den von ihm genutzten Medien, er habe einen Fernseher und sehe vielleicht einmal pro Tag die Nachrichten. Es sei möglich, dass in den Nachrichten vom VW-Skandal die Rede war, er habe das aber nicht zur Kenntnis genommen (Protokoll über die mündliche Verhandlung vom 05.02.2020, Seite 3 oben).Damit konfrontiert, dass er zu Beginn der Vernehmung erklärt habe, dass er ein deutsches Auto wollte (Protokoll über die mündliche Verhandlung vom 05.02.2020, Seite 2), und nunmehr ein deutscher Hersteller in diesem Skandal verwickelt war, gab der Kläger an, er habe gedacht, das betreffe die Autos in Amerika (Protokoll über die mündliche Verhandlung vom 05.02.2020, Seite 3 oben). Dies würde jedoch voraussetzen, dass er die Nachrichten über den Skandal doch zur Kenntnis genommen hätte.Auf erneute Nachfrage gab der Kläger an, dass er, wenn er vorher gesagt habe, dass er nichts vom Dieselskandal gehört habe, gemeint habe, dass ihn das nicht betreffe, weil es ja in Amerika sei. Wahrscheinlich habe er gedacht, dass in Amerika andere Autos verkauft würden als in Deutschland. (Protokoll über die mündliche Verhandlung vom 05.02.2020, Seite 3). Dass sein Auto tatsächlich betroffen sei, habe er erst erfahren, als er das Schreiben erhalten habe, dass er ein Software-Update machen müsse. Wenn er das früher erfahren hätte, hätte er kein Geld mehr in das Auto gesteckt, zum Beispiel keine Anhängerkupplung und keinen Satz neue Reifen gekauft (Protokoll über die mündliche Verhandlung vom 05.02.2020, Seite 3).Ferner erklärte der Kläger, er habe den Bogen zu dem Abgasskandal von VW zu Audi nicht gezogen, VW und Audi seien für ihn getrennt gewesen (Protokoll über die mündliche Verhandlung vom 05.02.2020, Seite 4). Dies widerspricht den Angaben des Klägers in der mündlichen Verhandlung vor dem Landgericht vom 22.05.2019, wo er angegeben hat, dass er VW verklagt habe, weil VW und Audi eigentlich das Gleiche sei (Protokoll über die mündliche Verhandlung vom 22.05.2019, Seite 3).Zum Schluss erklärte der Kläger erneut, dass er zum Zeitpunkt des Kaufs nicht gewusst habe, dass es einen Abgasskandal bei VW gibt (Protokoll über die mündliche Verhandlung vom 05.02.2020, Seite 4 oben).Zwar ist denkbar, dass die mehrfach wechselnden Angaben des Klägers darauf beruhen, dass es ihm schwerfällt, die einzelnen Fragestellungen (Kenntnis von der Diesel-Problematik überhaupt, Kenntnis von der Betroffenheit auch deutscher Fahrzeuge, Kenntnis von der Betroffenheit auch anderer Fahrzeugmarken als VW, Kenntnis von der Betroffenheit des streitgegenständlichen Fahrzeugs) zu trennen.Dennoch vermag sich der Senat bei dieser Sachlage keine Überzeugung dahingehend zu bilden, dass der Kläger in Kenntnis der Umstände das Fahrzeug nicht erworben hätte.2. Jedenfalls aus den vorgenannten Gründen scheitert auch ein Anspruch des Klägers gemäß § 823 Abs. 2 BGB iVm § 263 StGB. Dies gilt auch für andere denkbare Anspruchsgrundlagen.3. Ein Anspruch auf Zinsen und vorgerichtliche Rechtsanwaltskosten besteht mangels einer Hauptforderung ebenso wenig wie ein Feststellungsinteresse hinsichtlich eines Annahmeverzugs der Beklagten.III.1. Die Kostenentscheidung ergibt sich aus § 97 Abs. 1 ZPO.2. Die Entscheidung zur vorläufigen Vollstreckbarkeit folgt aus §§ 708 Nr. 10, 711, 709, S. 2 ZPO.3. Die Voraussetzungen für die Zulassung der Revision liegen nicht vor. Die Rechtssache hat keine grundsätzliche Bedeutung und die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung erfordern kein Urteil des Revisionsgerichts. Es handelt sich vorliegend um eine Einzelfallentscheidung auf Grundlage der Rechtsprechung des BGH.
+			
+			
+			
+			Permalink: https://openjur.de/u/2301182.html (https://oj.is/2301182)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

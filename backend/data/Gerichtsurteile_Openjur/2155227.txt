@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 24.05.2017 - 7 O 120/16
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 24.05.2017 - 7 O 120/16
+                      m. Fundstelle
+                      LG Köln, Urteil vom 24.05.2017 - 7 O 120/16 = openJur 2019, 20123
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 24.05.2017 - 7 O 120/16
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 20123
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits trägt der Kläger.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht gegen die Beklagte als Muttergesellschaft des Y-Konzerns Ansprüche im Zusammenhang mit dem so genannten "Y-Abgasskandal" geltend.Der Kläger erwarb von dem D GmbH & Co. KG am 02.05.2011 das im Klageantrag näher bezeichnete Fahrzeug der Marke Y, Typ Tiguan 2,0l TDI zu einem Kaufpreis von 28.181,10 €. Einschließlich einer Gebrauchtwagengarantie und Zulassungskosten betrug der Gesamtpreis 28.680,01 €.In dem Fahrzeug des Klägers wie auch in vielen anderen Fahrzeugen mit demselben Motortyp (Dieselmotor EA 189) wurde - ohne dies gegenüber Käufern oder Behörden offen zu legen - eine Software eingebaut, die zwei unterschiedliche Betriebsmodi zur Steuerung der Abgasrückführung kennt. Im Modus 1, der im unter Laborbedingungen festgelegten Fahrzyklus (NEFZ) aktiv ist, kommt es zu einer erhöhten Abgasrückführung. Unter normalen Fahrbedingungen, die im Straßenverkehr vorzufinden sind, ist der Modus 0 aktiv, in dem es nicht zu einer erhöhten Abgasrückführung kommt. Das Kraftfahrbundesamt hat mit bestandskräftigem Bescheid festgestellt, dass es sich bei der bislang verwendeten Software um eine unzulässige Abschalteinrichtung handele. Den Käufern von Autos mit den entsprechenden Motoren wird seitens der Verkäufer bzw. des Herstellers angeboten, das Fahrzeug mit einer Software nachrüsten zu lassen, die dazu führen soll, dass sich das Fahrzeug durchgängig im Modus 1 befindet. Das Kraftfahrbundesamt prüft die für die unterschiedlichen Motorentypen entwickelten Softwareupdates und erteilt, sofern aus Sicht des Kraftfahrbundesamtes die Voraussetzungen erfüllt sind, Bestätigungen, in denen u.a. zum Ausdruck gebracht wird, dass nunmehr keine unzulässige Abschalteinrichtung festgestellt werde. Für Einzelheiten wird auf Anlage B 1 verwiesen.Der Kläger ist der Ansicht, die Beklagte hafte ihm wegen vorsätzlicher sittenwidriger Schädigung gemäß §§ 826, 249 BGB auf Naturalrestitution. Hierzu behauptet er, das Fahrzeug sei von dem so genannten "Abgasskandal" betroffen, da es seitens eines Konzernunternehmens der Beklagten mit einer Abschalteinrichtung versehen worden sei, um im Falle eines Abgastests die zulässigen Abgaswerte zu erreichen. Die Beklagte habe aus eigenem Gewinnstreben und um die Marktführerschaft auf dem Markt für Personenfahrzeuge zu erreichen, Dieselmotoren entwickeln wollen, die die Voraussetzungen nach der Euro 5-Norm erreichen. Zudem habe der Vorstand der Beklagten um Herrn Z einen Angriff auf den amerikanischen Markt starten wollen, um dort wertvolle Marktanteile zu erkämpfen. Als es der Beklagten aus verschiedenen Gründen nicht gelungen sei, die Motoren im Einklang mit den gesetzlichen Bestimmungen zu entwickeln, seien die vorgenannten Ziele ernsthaft gefährdet gewesen. Die Entwicklungsingenieure hätten auf Anweisung des Vorstands der Beklagten eine Software aus dem Hause Bosch, die ausschließlich für Testzwecke programmiert gewesen sei, ab 2008 in alle EA189-Motoren integriert, um im Falle eines Abgastests die Messwerte für NOx im Sinne des Herstellers aus dem Konzern der Beklagten zu manipulieren und so zur Erlangung der Typengenehmigung die Grenzwerte der Euro 5-Norm bzw. der amerikanischen Normen zu unterschreiten. Sämtliche Führungsmitglieder der Beklagten einschließlich des Vorstandes und des Aufsichtsrates seien über die Vorkommnisse informiert gewesen. Bei der in seinem Fahrzeug eingebauten Software handele es sich um eine unzulässige Abschaltvorrichtung. Das Fahrzeug habe einen erheblich höheren Schadstoffausstoß als seitens der Beklagten oder eines Tochterunternehmens angegeben. Für ihn sei gerade die Werbung der Beklagten und ihrer Tochterunternehmen mit der besonderen Umweltfreundlichkeit des Fahrzeugtyps ein besonders schlagendes Kaufargument gewesen. Es bestehe das Risiko, dass dem Fahrzeug aufgrund unmittelbarer oder analoger Anwendung des § 19 Abs. 2 Satz 2 Nr. 3 StVZO die Allgemeine Betriebserlaubnis entzogen werde, wodurch auch der Versicherungsschutz erlöschen würde. Da eine unzulässige Abschalteinrichtung vorliege, ergebe sich zudem die Konsequenz, dass keine Betriebserlaubnis für das Fahrzeug bestehe, auch wenn das Kraftfahrbundesamt bislang -unstreitig- nur androhe, die Betriebserlaubnis zu entziehen, falls man nicht an der Nachrüstungsaktion der Beklagten teilnehme. Eine weitere Nutzung sei für ihn ebenso wenig hinnehmbar wie die Teilnahme an dem von der Beklagten initiierten Rückruf. Es sei - so behauptet er - zu besorgen, dass das Fahrzeug nach dem Eingriff entweder noch denselben Mangel wie derzeit (NOx-Ausstoß zu hoch) habe und/oder einen höheren Verbrauch und damit auch höhere CO2-Werte aufweisen werde. Zudem sei die Dauer der beklagtenseits initiierten Rückrufaktion derart lang, dass für ihn ein Abwarten unzumutbar sei. Ferner sei der Marktwert des Fahrzeugs aufgrund der Manipulation um mindestens 6000,- € gesunken; der hierin liegende Schaden ist Gegenstand des Hilfsantrages. Das Verhalten der Beklagten stelle sich als sittenwidrig dar, weil die Beklagte eine Abschalteinrichtung eingebaut habe, die bei einem Abgastest dem Prüfer "vorgaukele", die Abgaswerte entsprächen den gesetzlichen Bestimmungen. Die absichtliche Übervorteilung des Fahrzeugerwerbers zum Zwecke der Erreichung eigener materieller Ziele verstoße nicht nur gegen jede Ethik und Moral, sondern sei zudem mit einem erheblichen ökologischen Schaden für die Umwelt und die Menschen, die in dieser Umwelt leben, verbunden.Weiter ist der Kläger der Ansicht, ein Anspruch auf Rückgabe des Fahrzeugs ergebe sich auch aus §§ 823 Abs. 2 BGB i.V.m. § 27 Abs. 1 EG-FGV und aus § 831 BGB.Der Kläger beantragt,1. die Beklagte zu verurteilen, Zug um Zug gegen Herausgabe des Fahrzeugs Y Tiguan 2,0l TDI mit der Fahrgestellnummer ... an den Kläger 28.680,01 € unter Anrechnung einer Nutzungsentschädigung i.H.v. 6670,37 € nebst Zinsen i.H.v. 5 Prozentpunkten über dem Basissatz seit dem 06.07.2016 zu zahlen;hilfsweise: die Beklagte zu verurteilen, einen in das Ermessen des Gerichts zu stellenden Schadensersatz in Höhe von mindestens 6000 € an den Kläger zu zahlen;2. die Beklagte zu verurteilen, außergerichtliche Anwaltskosten in Höhe von 1564,26 € Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 22.03.2016 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte ist der Auffassung, dass keine unzulässige Abschaltvorrichtung vorliege, da dies voraussetze, dass im realen Fahrbetrieb -und nicht lediglich im unter Laborbedingungen festgelegten Fahrzyklus (NEFZ)- die Wirksamkeit der Abgasreinigungsanlage reduziert werde. Die von der in Rede stehenden Software betroffene Abgasrückführung sei kein Teil Abgasreinigungsanlage. Die Feststellungen der US-amerikanischen Umweltbehörde seien nicht auf die Situation in Deutschland übertragbar, insbesondere seien die rechtlichen Rahmenbedingungen nicht vergleichbar. Eine sittenwidrige Handlung sei nicht gegeben, da diese mehr als einen Gesetzesverstoß erfordere. Soweit es um Verstöße gegen Vorschriften gehe, fehle es für die Annahme einer Sittenwidrigkeit zudem am Schutzzweck der Norm. Dem Kläger sei kein Schaden entstanden, da er das Fahrzeug weiter nutze und die entsprechenden behördlichen Genehmigungen weiterhin bestünden. Eine Aufhebung der behördlichen Genehmigungen sei nicht zu besorgen. Die technische Überarbeitung, die bei verschiedenen Modellen schon erfolgreich verlaufen sei, würde in einer Werkstatt weniger als eine Stunde in Anspruch nehmen und Kosten von deutlich unter 100,- € verursachen, die nicht vom Käufer des Fahrzeugs getragen werden müssten. Ferner werde dem Kunden in diesem Fall auf Wunsch ein Ersatzfahrzeug zur Verfügung gestellt.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die wechselseitigen Schriftsätze nebst Anlagen, das Protokoll der Sitzung sowie den sonstigen Akteninhalt Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.Dem Kläger stehen die geltend gemachten Ansprüche unter keinem denkbaren Gesichtspunkt zu.I.Dem Kläger steht kein Anspruch auf Rückabwicklung des Kaufvertrages gemäß dem Hauptantrag zu 1 zu.1.Vertragliche Anspruchsgrundlagen scheiden aus, da zwischen den Parteien keine vertraglichen Beziehungen bestehen. Solche Anspruchsgrundlagen werden von dem Kläger daher zu Recht nicht geltend gemacht.2.Ein Anspruch des Klägers gegen die Beklagte ergibt sich nicht aus § 826 BGB.Es kann dahinstehen, ob ein sittenwidriges Verhalten der Beklagten vorliegt. Denn selbst wenn ein solches sittenwidriges Verhalten der Beklagten unterstellt wird, so fallen die entstandenen Schäden nicht in den Schutzbereich der verletzten Norm.Für Ansprüche aus unerlaubten Handlungen gilt allgemein, dass die Ersatzpflicht auf solche Schäden beschränkt ist, die in den Schutzbereich des verletzten Ge- oder Verbots fallen (BGH NJW 1986, 837, 838; BGHZ 57, 137 (142) = NJW 1972, 36 = LM § 812 BGB Nr. 97 m. w. Nachw.). Auf eine derartige Eingrenzung der Haftung kann, um das Haftungsrisiko in angemessenen und zumutbaren Grenzen zu halten, auch im Rahmen des § 826 BGB nicht verzichtet werden (BGH NJW 1986, 837, 838, Wagner in: Münchener Kommentar zum BGB, 6. Aufl., § 826 Rn. 38 ff § 826 Rn. 38). Ein Verhalten kann hinsichtlich der Herbeiführung bestimmter Schäden, insbesondere auch hinsichtlich der Schädigung bestimmter Personen, als sittlich anstößig zu werten sein, während ihm diese Qualifikation hinsichtlich anderer, wenn auch ebenfalls adäquat verursachter Schadensfolgen nicht zukommt (BGH NJW 1986, 937, 838; vgl. auch BGH, NJW 1979, 1599 = LM § 826 BGB (Gb) Nr. 11; RGZ 136, 247 (254 f.)). Die Ersatzpflicht beschränkt sich in einem solchen Fall auf diejenigen Schäden, die dem in sittlich anstößiger Weise geschaffenen Gefahrenbereich entstammen (BGH NJW 1986, 837, 838). Mittelbar Betroffene sind in den Schutzbereich nicht schon dann einbezogen, wenn sich die Handlung zwar gegen einen anderen richtet, der Täter indessen mit der Möglichkeit der Schädigung (auch) des Dritten gerechnet hat. Vielmehr kommt es darauf an, dass das Vermögen des Dritten nicht nur reflexartig als Folge der sittenwidrigen Schädigung eines anderen betroffen wird (Wagner in: Münchener Kommentar zum BGB, 6. Aufl., § 826 Rn. 38 ff § 826 Rn 38).In der Verwendung von Abschaltvorrichtungen, die die Wirkung von Emissionskontrollsystemen verringern, liegt ein Verstoß gegen Art. 5 Abs. 2 i. V. m. Art. 3 Nr. 10 der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20.06.2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge. Wie die Erwägungsgründe der Verordnung erkennen lassen, dient diese aber nicht dem Schutz individueller Vermögensinteressen, sondern gesamtgesellschaftlichen Zielen, nämlich der Weiterentwicklung des Binnenmarkts durch Harmonisierung der technischen Vorschriften über die Typgenehmigung von Kraftfahrzeugen sowie der Sicherstellung eines hohen Umweltschutzniveaus. Etwaige Vermögensschäden der Käufer von Fahrzeugen mit unzulässigen Abschaltvorrichtungen fallen daher nicht in den Schutzbereich der verletzten Norm.Ein -unterstellter- Verstoß gegen die vorgenannte Verhaltensnorm führt folglich, da der Kläger nicht in den Schutzbereich der Vorschrift einbezogen ist, nicht zu einer Haftung aus § 826 BGB. Soweit der Kläger in seinem Schriftsatz vom 15.03.2017 vorgetragen hat, ein Schutzzweckzusammenhang müsse nicht vorliegen, da im vorliegenden Fall "überhaupt kein Störgefühl" aufkomme, ist dieser Vortrag ersichtlich substanzlos.Es sind, abgesehen von dem Verstoß gegen die vorgenannten Vorschriften auch sonst keine Anhaltspunkte ersichtlich, die dazu führen würden, aus dem Verhalten der Beklagten auf eine sittenwidrige Gesinnung zu schließen.Es sind auch keine Folgen ersichtlich, deren Eintritt allein das Sittenwidrigkeitsurteil tragen würde. Abgesehen davon, dass nicht erkennbar ist, dass die Folgen für die Umwelt bezogen auf jedes einzelne Fahrzeug besonders groß sind, ist nicht ersichtlich, dass es sich um eine Folge handelt, die sich im Vermögen des Klägers niederschlägt. Soweit es um die möglichen Folgen im Vermögen des Klägers, etwa durch Stilllegung des Fahrzeugs mangels vorhandener Betriebserlaubnis geht, greifen auch hier wieder die Grundsätze vom Schutzzweck der Norm. Es kann immer nur um Folgen für Rechtspositionen gehen, die vom vorgenannten Schutzzweck umfasst sind. Etwaige Folgen im Vermögen des Klägers sind allenfalls mittelbar von einem -unterstellten- Verstoß betroffen und damit hier nicht maßgeblich.Die betroffenen Käufer werden auch nicht rechtlos gestellt, da sie in aller Regel über Rechtsschutzmöglichkeiten im Verhältnis zum Verkäufer verfügen, insbesondere aus der verschuldensunabhängigen Sachmängelhaftung. Soweit solche Ansprüche im konkreten Einzelfall einmal nicht bestehen sollten, kann dies kein Argument für eine generelle Ausweitung deliktischer Haftungstatbestände sein. Denn damit würden die vertraglichen Risikozuweisungen in unzulässiger Weise unterlaufen (vgl. zu diesem Aspekt, Wagner, a.a.O. § 826 Rn 18).3.Der Kläger hat auch keinen Anspruch gegen die Beklagte aus § 823 Abs. 2 BGB iVm. einem Verstoß gegen Art. 5 Abs. 2 i. V. m. Art. 3 Nr. 10 der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20.06.2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge sowie Art. 27 Abs. 1 der EG- Fahrzeuggenehmigungsverordnung (EG-FGV).Dies folgt daraus, dass die vorgenannten Normen entgegen der auf ein Rechtsgutachten des Prof. Dr. L (Anlage K 17) gestützten Ansicht des Klägers kein Schutzgesetz im Sinne von § 823 Abs. 2 BGB darstellen.Eine Norm ist nach der ständigen Rechtsprechung des BGH dann Schutzgesetz i.?S. von § 823 Abs. 2 BGB, wenn sie nach Zweck und Inhalt zumindest auch dazu dienen soll, den Einzelnen oder einzelne Personenkreise gegen die Verletzung eines bestimmten Rechtsguts zu schützen (BGH NJW 2012, 1800, 1802). Dafür kommt es nicht auf die Wirkung, sondern auf Inhalt und Zweck des Gesetzes sowie darauf an, ob der Gesetzgeber bei Erlass des Gesetzes gerade einen Rechtsschutz, wie er wegen der behaupteten Verletzung in Anspruch genommen wird, zu Gunsten von Einzelpersonen oder bestimmten Personenkreisen gewollt oder doch mit gewollt hat (BGH a.a.O.). Es genügt, dass die Norm auch das in Frage stehende Interesse des Einzelnen schützen soll, mag sie auch in erster Linie das Interesse der Allgemeinheit im Auge haben (BGH a.a.O.). Andererseits soll der Anwendungsbereich von Schutzgesetzen nicht ausufern. Deshalb reicht es nicht aus, dass der Individualschutz durch Befolgung der Norm als ihr Reflex objektiv erreicht werden kann; er muss vielmehr im Aufgabenbereich der Norm liegen (BGH a.a.O.; vgl. BGH, NJW 2004, 356 [357], und BGHZ 186, 58 = NJW 2010, 3651 = NZG 2010, 1071 Rn.?26, jew. m.?w. Nachw.). Zudem muss die Schaffung eines individuellen Schadensersatzanspruchs sinnvoll und im Lichte des haftungsrechtlichen Gesamtsystems tragbar erscheinen, wobei in umfassender Würdigung des gesamten Regelungszusammenhangs, in den die Norm gestellt ist, geprüft werden muss, ob es in der Tendenz des Gesetzgebers liegen konnte, an die Verletzung des geschützten Interesses die deliktische Einstandspflicht des dagegen Verstoßenden mit allen damit zu Gunsten des Geschädigten gegebenen Beweiserleichterungen zu knüpfen (BGH a.a.O.; BGHZ 186, 58 = NJW 2010, 3651 = NZG 2010, 1071 Rn.?26, 29, zu § 34?a I 1 WpHG, und Senat, BGHZ 175, 276 = NJW 2008, 1734 = NZG 2008, 477 Rn.?18 m.?w. Nachw., zu § 32 II Nr.?1 WpHG).Gemessen an diesen Maßstäben ist kein Verstoß gegen ein Schutzgesetz ersichtlich. Hierzu wird auf die obigen Ausführungen zum Schutzzweck der Norm verwiesen, die entsprechend gelten. Wie dort ausgeführt, sind individualschützende Absichten der Verordnung (EG) Nr. 715/2007 nicht ersichtlich. Der Rechtsakt dient nicht dem Schutz individueller Vermögensinteressen, sondern gesamtgesellschaftlichen Zielen, nämlich der Weiterentwicklung des Binnenmarkts durch Harmonisierung der technischen Vorschriften über die Typgenehmigung von Kraftfahrzeugen sowie der Sicherstellung eines hohen Umweltschutzniveaus. Dies muss entsprechend auch für § 27 Abs. 1 EG-FGV gelten, da diese Norm lediglich über die Richtlinie 2007/46/EG auf die Verordnung Nr. 715/2007 verweist.4.Es besteht auch kein Anspruch aus § 823 Abs. 2 BGB i.V.m. § 263 StGB.Abgesehen davon, dass der Kläger selbst nicht konkret zu dieser Anspruchsgrundlage vorträgt, ist die Erfüllung der Tatbestandvoraussetzungen auch aus dem Gesamtvortrag des Klägers nicht erfüllt.Es mangelt bereits an einer (direkten) Täuschung der Beklagten gegenüber dem Kläger. Auch die Voraussetzungen einer mittelbaren Täterschaft der Beklagten liegen nicht vor. Dazu hat der Kläger nichts vorgetragen. Gleiches gilt für eine etwaige Mittäterschaft der Beklagten.Es läge allenfalls eine Täuschung des Kraftfahrbundesamtes vor, indem man diesem "vorgegaukelt" hat, die Abgaswerte entsprächen den gesetzlichen Bestimmungen und seien nicht durch eine unzulässige Abschalteinrichtung hervorgerufen. Selbst wenn man dies annähme, wäre es aber so, dass es - eine Täuschung und einen Irrtum dort unterstellt- dort nicht zu einer Vermögensverfügung gekommen ist. Zu einer Vermögensverfügung mag es im Vermögen des Klägers gekommen sein. Dieser ist aber nicht getäuscht. Da Verfügender und Getäuschter nicht identisch sind, kommt es auch nicht darauf an, ob das Kraftfahrbundesamt "im Lager des Klägers" steht, um zu ermitteln, ob die Voraussetzungen eines sogenannten "Dreiecksbetrugs" vorliegen. Darauf kommt es nur an, wenn der Getäuschte / Verfügende personenidentisch ist, während der Schaden im Vermögen eines Dritten eingetreten ist (Fischer, StGB, 64. Aufl., § 263 Rn 79, 82).5.Schließlich lässt sich ein Anspruch des Klägers gegen die Beklagte auch nicht aus § 831 BGB herleiten.Gemäß der Norm des § 831 BGB haftet der Geschäftsherr aufgrund eigenen Fehlverhaltens beim Einsatz von Hilfspersonen. Die Norm gewährt dem Geschädigten einen Schadensersatzanspruch unter der Voraussetzung, dass der Geschäftsherr einen Verrichtungsgehilfen bestellt hat und dieser beim Handeln im Rahmen der ihm übertragenen Verrichtung dem Geschädigten rechtswidrig einen Schaden zugefügt hat. Der Verrichtungsgehilfe muss demnach den objektiven Tatbestand einer unerlaubten Handlung gemäß §§ 823 ff. BGB rechtswidrig erfüllt haben (zu alledem Palandt, BGB, 76. Aufl., § 831 Rn. 1 ff.)Die Erfüllung dieser Tatbestandsvoraussetzungen hat der Kläger nicht substantiiert dargelegt. Abgesehen von Mutmaßungen, die auf Presseberichten beruhen, hat der Kläger schon nicht dargetan, dass die von ihm mit Schriftsatz vom 15.03.2017 erstmals namentlich benannten Personen (Bl. 195 ff.) den objektiven Tatbestand einer Deliktsnorm rechtswidrig erfüllt haben.Überdies ist der neue Vortrag des Klägers zu diesen Personen und zu der Organisationsstruktur der Beklagten (Schriftsatz vom 15.03.2017) auch verspätet und damit nicht zu berücksichtigen (§ 296 Abs. 1 ZPO). Denn dem Kläger ist durch richterliche Verfügung vom 03.11.2016 eine Frist bis zum 28.02.2017 gesetzt worden, um auf die Klageerwiderung zu replizieren (§§ 276 Abs. 3, 277 Abs. 4 ZPO). Binnen dieser Frist war der Kläger deshalb gehalten, sämtliche Angriffsmittel vorzubringen, soweit es nach der Prozesslage einer sorgfältigen und auf Förderung des Verfahrens bedachten Prozessführung entspricht (§ 277 Abs. 1 S. 1 ZPO). Nach Überzeugung des Gerichts würde die Zulassung des neuen Vortrags den Rechtsstreit auch verzögern, nachdem die Beklagte das Vorbringen in dem nachgelassenen Schriftsatz in weiten Teilen bestritten hat. Es gilt der absolute Verzögerungsbegriff (ständige Rechtsprechung, BGH NJW 2012, 2808; NJW 1983,576; Zöller, ZPO, § 296 Rn. 20).II.Der Kläger hat auch keinen Anspruch auf Zahlung von mindestens 6.000,- €, die er mit seinem Hilfsantrag geltend macht.Auch insoweit greift keine Anspruchsgrundlage durch. Vertragliche Ansprüche bestehen nicht. Deliktische Ansprüche scheitern ebenfalls. Hierzu wird auf die obigen Ausführungen verwiesen, die entsprechend gelten.III.Mangels Anspruchs in der Hauptsache besteht auch kein Anspruch auf Verzinsung und Erstattung von Rechtsanwaltskosten.IV.Die Nebenentscheidungen folgen aus §§ 91 Abs. 1, 709 ZPO.Streitwert: 28.680,01 Euro
+			
+			
+			
+			Permalink: https://openjur.de/u/2155227.html (https://oj.is/2155227)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate9
+				
+				
+					 Zitiert2
+				
+
+				
+					 Referenzen4
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

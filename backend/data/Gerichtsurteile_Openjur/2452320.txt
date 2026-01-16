@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG MemmingenRechtsprechungEndurteil vom 17.01.2022 - 35 O 1458/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Memmingen, Endurteil vom 17.01.2022 - 35 O 1458/21
+                      m. Fundstelle
+                      LG Memmingen, Endurteil vom 17.01.2022 - 35 O 1458/21 = openJur 2022, 18540
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Memmingen, Endurteil vom 17.01.2022 - 35 O 1458/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 18540
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1.Die Beklagte wird verurteilt, an die Klägerin einen Betrag in Höhe von 31.397,17 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz hieraus seit dem 30.10.2021 Zugum-Zug gegen Rückgabe und Übereignung des Fahrzeuges Audi, Typ Q5 mit der Fahrgestellnummer ... zu zahlen.Im Übrigen wird die Klage abgewiesen.Von den Kosten des Rechtsstreits haben die Klägerin 11 % und die Beklagte 89 % zu tra- gen.2.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 35.887,76 € festgesetzt. 
+				Tatbestand
+				Die Klagepartei erhebt Ansprüche auf Schadensersatz gegen die Beklagte aus dem Kauf eines Pkws der Marke Audi, welcher vom sog. "Abgasskandal" betroffen sein soll.Die Klagepartei erwarb gemäß Auftragsbestätigung vom 26.05.2015 (Anlage K1) bei dem Autohaus Sch. in Kr. einen neuen Pkw der Marke Audi Q5 3.0 TDI mit 258 PS, Fahrzeugidentifikationsnummer ... zu einem Kaufpreis von45.252,10 € netto. Das Fahrzeug wurde an die Klagepartei übergeben und der Kaufpreis überwiesen. Der Motor wurde von der Beklagten entwickelt.Für das Fahrzeug besteht ein verbindlicher Rückruf des Kraftfahrtbundesamts (KBA), welches von dem Vorliegen einer unzulässigen Abschalteinrichtung ausgeht. Das für Fahrzeuge der Marke Audi Q5 3.0 V6-TDI, entwickelte Software-Update wurde vom KBA mit Bescheid vom 26.11.2018 freigegeben.Der Kilometerstand des Fahrzeuges zum Zeitpunkt der letzten mündlichen Verhandlung am 13.01.2022 betrug 76.543 km.Die Klagepartei trägt vor, dass in dem Fahrzeug ein 3.0 Liter TDI-Motor verbaut sei, welcher durch die Beklagte manipuliert worden sei. Die Klagepartei sei beim Erwerb des Fahrzeuges davon ausgegangen, dass das Fahrzeug nicht vom Abgasskandal betroffen sei und über keine illegale Abschalteinrichtung verfüge. Sie sei davon ausgegangen, dass das Fahrzeug alle vorgeschriebenen Abgaswerte einhalte. Die Beklagte habe die Klagepartei über die Gesetzeskonformität des Fahrzeuges getäuscht. Die Klagepartei habe aufgrund ihres Irrtums einen für sie nachteiligen Vertrag abgeschlossen. Der Mangel könne auch durch das angebotene Update nicht (vollständig) behoben werden. In Kenntnis der Umstände der Manipulation hätte die Klägerseite das Fahrzeug nicht erworben.In technischer Hinsicht trägt die Klagepartei zu den behaupteten "Manipulationen" wie folgt vor: Die Beklagte habe die softwaregesteuerte Zudosierung von "AdBlue" derart manipuliert, dass sich der "AdBlue"-Tank nur sehr langsam leerte. Die Beklagte hätte wissentlich zu kleine "AdBlue" Tanks in die Fahrzeuge eingebaut. Dabei sei es für die Beklagte unerheblich gewesen, dass die Abgasreinigung auf diese Weise nicht in der gesetzlich vorgeschriebenen Weise einzuhalten gewesen sei. Zur Vermeidung des Verbrauchs größerer Mengen von "AdBlue" sei dessen Verbrauch per Manipulationssoftware für den Straßenbetrieb gedrosselt worden. Das Ergebnis sei gewesen, dass eine im Hinblick auf den Schadstoffausstoß angemessene Zudosierung von "AdBlue" nicht mehr erfolge. Die potentiell mögliche Abgasreinigung sei unterblieben. In der Folge hätten die betroffenen Fahrzeuge die gesetzlichen EURO-Abgasnormen überschritten.Weiterhin kämen im Zusammenhang mit dem Temperaturmanagement des Motors - auch des streitgegenständlichen - verschiedene Strategien zum Einsatz, die für ein Einhalten der Stickoxidgrenzwerts auf dem Prüfstand sorgten. Diese Strategien seien ausschließlich auf den Prüfstand ausgerichtet, sodass diese die entsprechenden - den Stickoxidausstoß verringernden Funktionen - nicht im Fahrbetrieb verwendet würden. Wie das KBA festgestellt habe, springe somit die schadstoffmindernde, sog. schnelle Motoraufwärmfunktion bei den betroffenen Fahrzeugen nur im Prüfzyklus NEFZ an. Im realen Verkehr unterbleibe diese NOx-Schadstoffminderung. Dies werde erkennbar an den Parametern, unter denen die Strategien ausgelöst würden.Die Beklagte habe zudem in den Motoren - und damit auch dem streitgegenständlichen Fahrzeug - eine weitere Abschalteinrichtung in Gestalt des sogenannten "Thermofensters" verbaut. Diese Einrichtung nehme aufgrund der Außentemperatur, die mit Sonden gemessen werde, Einfluss auf die Abgasrückführung und die sonstige Abgasreinigung. Bei einer bestimmten Außentemperatur unter einem Grenzwert bzw. über einem bestimmten Wert werde die Abgasrückführung zurückgefahren.Die Beklagte habe im Rahmen der Untersuchungen der Untersuchungskommission Volkswagen eingeräumt, dass sie temperaturabhängig, insbesondere ab einer Temperatur von 17 Grad die Abgasrückführung reduziere.Es sei Teil einer strategischen Konzernentscheidung gewesen, die Kosten der Abgasreinigung so gering wie möglich zu halten. Solche Absprachen könnten nur von Vorstandsmitgliedern, zumindest aber von verfassungsmäßigen Vertretern getroffen worden sein. Die Entscheidung zum Einbau eines "Thermofensters" sei bereits damals juristisch unhaltbar gewesen.Die nach der Verordnung (EG) Nr. 715/2007 zwingend vorgeschriebenen Schadstoffgrenzwerte würden nicht eingehalten.Die Klagepartei ist der Auffassung, sie habe gegen die Beklagte einen Schadensersatzanspruch gerichtet auf Rückabwicklung unter Anrechnung von Nutzungsersatz. Der Anspruch der Klagepartei ergebe sich insbesondere aus § 823 Abs. 2 BGB i.V. m. § 263 StGB bzw. § 27 EG-FGV, § 826 BGB sowie § 831 BGB. Die Klagepartei ist der Auffassung, die Beklagte sei im Rahmen einer sekundären Darlegungs- und Beweislast verpflichtet, näher zu den konzerninternen Abläufen in Bezug auf die streitgegenständliche Softwareentwicklung und -implementierung vorzutragen, da die Klagepartei bereits alle ihr bekannten und zugänglichen Tatsachen vorgetragen habe.Die Klagepartei beantragt zuletzt,Die Beklagte wird verurteilt, an die Klagepartei EUR 45.252,10 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit abzüglich einer Nutzungsentschädigung in Höhe von EUR 9.896,38 Zugum-Zug gegen Rückgabe und Übereignung des Fahrzeugs Porsche, Typ Audi Q5, mit der Fahrgestellnummer ...19 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte trägt vor, dass nach Auffassung des KBA bei dem streitgegenständlichen Motor die Bedatung der vom KBA beanstandeten Softwarebestandteile zu ändern bzw. aufzuweiten gewesen sei, um einen breiteren Anwendungsbereich im Straßenbetrieb zu gewährleisten. Dies werde durch eine entsprechende Anpassung der Motorsteuerungssoftware sichergestellt.Unzutreffend sei die Behauptung, es komme während des Durchfahrens des NEFZ zu einer Erhöhung der AdBlue Einspritzung gegenüber den Fahrsituationen außerhalb des Zeit-Strecke-Korridors des NEFZ. Dies sei nicht der Fall. Bei dem künstlichen Harnstoff AdBlue handele es sich um einen gewöhnlichen Betriebsstoff wie Dieselkraftstoff und Motoröl. Der AdBlue-Verbrauch sei abhängig von der individuellen Fahrweise, der Betriebstemperatur des Systems und von der Umgebungstemperatur, in der das Fahrzeug betrieben werde. Er lasse sich ohne Bezugnahme auf bestimmte Fahrparameter deshalb nicht exakt bestimmen. Fahre der Fahrer sehr dynamisch, steige der Verbrauch, da mehr AdBlue eingespritzt werde, um die NOx Emissionen zu reduzieren. Fahre er zurückhaltend sinke der Verbrauch. Wie lange die im Tank befindliche Menge Adblue halte, hänge von der Fahrweise des Fahrers ab.In dem Fahrzeug komme kein unzulässiges Thermofenster zum Einsatz. Ungeachtet des klägerischen Vortrags zum Temperaturbereich des Thermofensters handele es sich bei dem Thermofenster nicht um eine unzulässige Abschalteinrichtung i. S. d. Art. 5 Abs. 2 Satz 1 VO (EG) 715/2007, da es zum Bauteileschutz verwendet werde und damit gemäß Art. 5 Abs. 2 Satz 2 lit a) der VO zulässig sei. Auch das KBA gehe davon aus, dass es sich bei dem im streitgegenständlichen Fahrzeug bedateten Thermofenster nicht um eine unzulässige Abschalteinrichtung handele. Der verbindlich angeordnete Rückruf des KBA beziehe sich nicht hierauf.Die Beklagte ist der Auffassung, dass ein Schadensersatzanspruch der Klagepartei nicht bestehe. Ein als Täuschung zu qualifizierendes Verhalten der Audi  AG gegenüber der Klagepartei in Bezug auf den streitgegenständlichen Kaufvertrag liege nicht vor. Selbst bei einer unterstellten Täuschung sei ein Schaden nicht entstanden, da der Pkw keinem Minderwert unterliege und nach wie vor vollumfänglich nutzbar ist.Eine sittenwidrige Schädigung durch die Audi  AG durch die vorsätzliche Verwendung unzulässiger Abschaltvorrichtungen sei durch die Klagepartei nicht schlüssig dargelegt worden.Es fehle weiterhin an der haftungsbegründenden Kausalität. Die Emissionswerte des streitgegenständlichen Fahrzeuges seien für die Klagepartei bei einem 3.0 V6 TDI Motor mit einer Leistung von 258 PS nicht entscheidend gewesen. Vielmehr sei es der Klagepartei darauf angekommen, ein möglichst leistungsstarkes Fahrzeug zu erwerben. Die Klagepartei habe das Fahrzeug nach Bekanntwerden der Diesel-Thematik erworben. Es sei davon auszugehen, dass die Klagepartei das Fahrzeug auch bei Kenntnis der behaupteten Gefahr der Betriebsbeschränkung erworben hätte. Das Fahrzeug sei technisch sicher und könne uneingeschränkt genutzt werden.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf das Protokoll der mündlichen Verhandlung vom 13.01.2022 sowie auf den Inhalt der von den Parteien gewechselten umfangreichen Schriftsätze samt Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage erweist sich als überwiegend begründet.I. Das Landgericht Memmingen ist örtlich jedenfalls gemäß § 32 ZPO und sachlich gem. §§ 1 ZPO i.V. m. 23 Nr. 1, 71 Abs. 1 GVG zuständig.II. Die Klage ist überwiegend begründet.Der Klagepartei steht gegenüber der Beklagten ein Anspruch aus §§ 826, 31 BGB zu. Die Beklagte hat der Klagepartei in einer gegen die guten Sitten verstoßenden Weise vorsätzlich einen ersatzfähigen Schaden zugefügt, der zu dem tenorierten Zug um Zug abzuwickelnden Schadensersatzanspruch führt. Für die deliktische Haftung der Beklagten ist es rechtlich unerheblich, dass sie nicht Vertragspartnerin der Klagepartei gewesen ist und von dem konkreten Vertragsschluss auch nichts mitbekommen hat.1. Die Beklagte hat die zuständige Genehmigungsbehörde durch das Herstellen und Inverkehrbringen des Motors mit einer manipulierten Motorsteuerungssoftware konkludent getäuscht. Mit dem Antrag auf Erteilung einer Typengenehmigung für ein Fahrzeug nebst Motor gibt ein Hersteller gegenüber der Genehmigungsbehörde die Erklärung ab, dass der Einsatz dieses Fahrzeugs entsprechend seinem Verwendungszweck im Straßenverkehr uneingeschränkt zulässig ist, d. h. insbesondere, dass das Fahrzeug eine uneingeschränkte Betriebserlaubnis erhalten darf, deren Fortbestand nicht aufgrund bereits bei der Auslieferung des Fahrzeugs dem Hersteller bekannter, konstruktiver Eigenschaften gefährdet ist. Das setzt voraus, dass nicht nur die erforderlichen Zulassungs- und Genehmigungsverfahren formal erfolgreich durchlaufen werden, sondern auch, dass die für den Fahrzeugtyp erforderliche EG-Typengenehmigung nicht durch eine Täuschung des zuständigen Kraftfahrt-Bundesamtes erschlichen worden ist und das Fahrzeug den für den Erhalt und die Fortdauer der EG-Typengenehmigung einzuhaltenden Vorschriften tatsächlich entspricht. Trifft dies nicht zu, steht es wertungsmäßig einer unmittelbaren arglistigen Täuschung des Pkw-Käufers gleich (vgl. OLG Hamm, Urteil vom 23.11.2020, 8 U 43/20; BGH, Urteil vom 25.05.2020; VI ZR 252/19, Rn. 25; OLG Hamm, Urteil vom 10.09.2019, 13 U 149/18).Die Beklagte hat nur hinsichtlich des Vorliegens eines Thermofensters substantiiert das Vorliegen einer unzulässigen Abschalteinrichtung bestritten und hat bestritten, dass es während des Durchfahrens des ca. 11 Kilometer langen NEFZ zu einer Erhöhung der Ad-Blue Einspritzung gegenüber den Fahrsituationen außerhalb des Zeit-Strecke-Korridors des NEFZ komme. Nicht substantiiert bestritten wurde hingegen die vom KBA beanstandete Aufheizstrategie. Insoweit gibt es einen bestandskräftigen Bescheid des KBA, der Anordnungen betreffend für unzulässig gehaltener Abschalteinrichtungen des streitgegenständlichen Motors u. a. wegen der Aufheizstrategie (Strategie A) enthält, die zum Schutz der Motoren (insbesondere vor Versottung) nicht erforderlich sei. Das KBA hat der Beklagten nachträgliche Nebenbestimmungen für die erteilten Typengenehmigungen zur Herstellung der Vorschriftsmäßigkeit aller produzierten Fahrzeuge im Rahmen einer Rückrufaktion auferlegt: Nach dem Inhalt des Bescheids hatte das KBA festgestellt, dass die Beklagte im Emissionskontrollsystem des genannten Motortyps eine Strategie verwendet, die nahezu ausschließlich unter den Bedingungen der Prüfung Typ 1 genutzt wird. Die von der Beklagten applizierten Schaltkriterien seien so gewählt, dass die Aufheizstrategie nahezu ausschließlich nur im NEFZ wirkt. Demgegenüber werde sie schon bei geringsten Abweichungen von den Prüfbedingungen des NEFZ, die im realen Verkehr nutzerunabhängig praktisch immer eintreten, abgeschaltet. Darin liege eine unzulässige Abschalteinrichtung. Die von der Beklagten vorgebrachten Motorschutzargumente wurden als nicht tragfähig erachtet.Nach Art. 3 Nr. 10 der Verordnung (EG) Nr. 715/2007 ist eine "Abschalteinrichtung" ein Konstruktionsteil, das die Temperatur, die Fahrzeuggeschwindigkeit, die Motordrehzahl (UpM), den eingelegten Getriebegang, den Unterdruck im Einlasskrümmer oder sonstige Parameter ermittelt, um die Funktion eines beliebigen Teils des Emissionskontrollsystems zu aktivieren, zu verändern, zu verzögern oder zu deaktivieren, wodurch die Wirksamkeit des Emissionskontrollsystems unter Bedingungen, die bei normalem Fahrzeugbetrieb vernünftigerweise zu erwarten sind, verringert wird. Wenn das KBA durch Bescheid eine unzulässige Abschalteinrichtung in Bezug auf Fahrzeuge mit dem streitgegenständlichen Motor feststellt und die Beklagte diesen Bescheid bestandskräftig werden lässt, dann spricht eine tatsächliche Vermutung dafür, dass die ursprünglich erteilte Typengenehmigung auf einer auf dem Prüfstand ausreichenden Programmierung aller Bestandteile des Emmisionskontrollsytems beruhte, welches im Normalbetrieb deaktiviert war. Es wäre an der Beklagten, ergänzend dazu vorzutragen, wie genau und aus welchen Gründen diese unterschiedliche Programmierung erfolgt ist. Ohne diesen Vortrag ist davon auszugehen, dass die unterschiedlichen Betriebsmodi dazu dienten, das KBA - und dem folgend den Verbraucher und weitere Personen und Stellen - über den tatsächlichen Stickoxidausstoß im normalen Fahrbetrieb zu täuschen.2. Das oben genannte Verhalten der Beklagten stellt eine vorsätzlich sittenwidrige Schädigung dar.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann (BGH, Urteil vom 07.05.2019, VI ZR 512/17). Der Beweggrund für die Verwendung der Software ist in einer von der Beklagten angestrebten Profitmaximierung zu sehen. Ziel für die Handlung der Beklagten war es, - allein formal - die Höchstgrenzen des NOx-Ausstoßes einzuhalten und so die Typengenehmigung für die Fahrzeuge zu erhalten. Auf diese Weise sollte auf kostengünstigem Weg die Einhaltung der festgesetzten gesetzlichen Abgasgrenzwerte vorgetäuscht werden. Einen anderen Grund für die Verwendung der Software hat die Beklagte nicht vorgetragen und ist auch nicht ersichtlich (vgl. OLG Koblenz, Urteil vom 17.03.2021, 5 U 1343/20).Das von der Beklagten entwickelte Softwareupdate musste vom KBA freigegeben und dann auf diverse Fahrzeugvarianten angepasst werden. Wenn dies zum Zeitpunkt der Fahrzeugfabrikation schon problemlos und ohne großen Kostenaufwand möglich gewesen wäre, ist nicht ersichtlich, warum die Beklagte den Weg der Abschalteinrichtung überhaupt gewählt hat bzw. ihr Vorgehen nicht insgesamt unter Darlegung der Problemlage offenbart hat (vgl. OLG Koblenz a.a.O).3. Das schädigende Verhalten ist der Beklagten auch analog § 31 BGB zuzurechnen, denn es ist davon auszugehen, dass die Organe der beklagten AG an der zumindest konkludenten Täuschung des KBA - die einer Täuschung der Klagerpartei gleichsteht - verantwortlich beteiligt waren. Die Klagepartei hat substantiiert unter Beweisantritt vorgetragen, welche verantwortlichen Personen bei der Beklagten, insbesondere Herr Ulrich Hackenberg Kenntnis von der Verwendung der unzulässigen Abschaltvorrichtung hatte. Diesem Vortrag ist die Beklagte nicht substantiiert entgegen getreten.Es ist auch unwahrscheinlich, dass die Entwicklung und Inverkehrgabe von Motoren mit einer derartigen inkriminierten Steuerungssoftware einschließlich deren Wirkungsweise auf der unteren Mitarbeiter- oder Ingenieurebene der Beklagten gesteuert worden ist und nicht vom Konzernvorstand bzw. einem oder mehreren für diese technischen Prozesse intern zuständigen Vorstandsmitgliedern. Wie auch betreffend den Motor EA 189 gemäß Urteil des BGH vom 25.05.2020 (VI ZR 252/19) trifft vorliegend die Beklagte eine sekundäre Darlegungslast, dass und warum der Vorstand in die Entwicklung nicht involviert gewesen sei. Dieser Darlegungslast ist die Beklagte wie ausgeführt mit ihrem Vortrag nicht nachgekommen.4. Die Täuschung war vorliegend auch kausal. In tatsächlicher Hinsicht ist nach der allgemeinen Lebenserfahrung davon auszugehen, dass die Klagepartei den streitgegenständlichen Pkw nicht gekauft hätte, wenn er um die unzulässige Abgassoftware und die davon ausgehende Gefahr der nicht ordnungsgemäßen Betriebserlaubnis gewusst hätte. Entsprechend der Grundsatzentscheidung des BGH (Urteil vom 25.05.2020, VI ZR 252/19) ist davon auszugehen, dass bei lebensnaher Betrachtung kein informierter und wirtschaftlich vernünftig denkender Verbraucher ein Fahrzeug mit einer unzulässigen Software kaufen würde, welche zumindest erhebliche Zweifel an der Zulässigkeit der Betriebserlaubnis begründet. Im Zeitpunkt des Erwerbs war vorliegend noch nicht einmal absehbar, ob das Problem behoben werden konnte, da die Freigabe des Updates erst zu einem späteren Zeitpunkt erfolgte. Es bestand daher die Gefahr der Stilllegung. Der Umstand, dass die Klagepartei auch ein leistungsstarkes Fahrzeug erwerben wollte, steht daher der Annahme, dass Käufer in der Regel ein Fahrzeug mit einer nicht gefährdeten Betriebserlaubnis erwerben möchten, nicht entgegen.5. Die Klagepartei hat auch einen Schaden in Höhe des tenorierten Inhalts erlitten. Der Schaden liegt in dem Erwerb eines mit der Steuerungssoftware ausgerüsteten Fahrzeugs (OLG Hamm, Urteil vom 10.09.2019, I-13 U 149/18, juris, Rn. 49). Der Schaden kann auch in der Eingehung einer "ungewollten" Verbindlichkeit bestehen, selbst wenn dieser eine Forderung auf eine objektiv gleichwertige Gegenleistung gegenübersteht. Dies ist der Fall, wenn die Leistung für die Zwecke des Erwerbers nicht brauchbar ist (BGH, Urteil vom 26.09.1997, V ZR 29/96, juris). Es kann offenbleiben, ob die betroffenen Fahrzeuge einen geringeren Marktwert oder sonstige unmittelbaren wirtschaftlichen Nachteile haben. Auch die enttäuschte Erwartung und die Zweckverfehlung sind als Schaden anzusehen.Ausgehend hiervon liegt ein ersatzfähiger Schaden der Klagerpartei vor. Auch wenn das Fahrzeug seinen primären Zweck des betriebs- und verkehrstechnisch sicheren Fahrens erfüllt, verfügt es über eine Einrichtung, bei deren Bekanntwerden die Typengenehmigung für das Fahrzeug nicht erteilt worden wäre. Aufgrund der Einrichtung unterliegt es einer Rückrufaktion der Beklagten. Wie sich konkret aus dem Inhalt des Bescheids des KBA ergibt, drohte für den Fall der Nichtbefolgung der Anordnungen der vollständige oder teilweise Widerruf bzw. die Rücknahme der betroffenen Typengenehmigung gem. § 25 Abs. 3 EG-FGV und damit ohne die Durchführung des Software-Updates eine Betriebsuntersagung. Zweck des Erwerbs war aber die uneingeschränkte Teilnahme am Straßenverkehr (vgl. OLG Hamm Urteil vom 17.03.2021, 5 U 1343/20).6. Der Höhe nach setzt sich der zu ersetzende Schaden aus dem gezahlten Kaufpreis abzüglich des im Rahmen der Vorteilsanrechnung auszugleichenden Nutzungsersatzes zusammen.Das Gericht folgt dabei der Höhe nach der linearen Berechnungsweise entsprechend dem Urteil des BGH vom 25.05.2020 (VI ZR 252/19). Soweit die Beklagte rügt, dass die lineare Berechnung verkenne, dass der Wertverlust eines Pkws zu Beginn direkt nach dem Kauf überproportional hoch sei, mag dies im Ansatz zutreffen, erscheint in der Gesamtbetrachtung auch unter Berücksichtigung einer Vielzahl an betroffenen Gebrauchtwagenfällen dennoch die vorzugswürdige Berechnungsmethode zu sein. Das Gericht schätzt dabei im Hinblick auf das derzeitige Alter des Fahrzeuges und die bisherige Kilometerleistung die zu erwartende Gesamtlaufleistung auf 250.000 km, so dass sich eine Nutzungsentschädigung in Höhe von 13.854,93 € ergibt (45.252,10 € x [(76.543 km - 0 km):(250.000 km - 0 km) ]).Ausgehend von dem zuletzt geltend gemachten Klageantrag ergibt sich nach Abzug der oben genannten Nutzungsentschädigung ein Betrag in Höhe von 31.397,17 €.III. Im Übrigen war die Klage abzuweisen. Dies betrifft die Differenz der tenorierten Summe zu dem Kaufpreis in Höhe von 45.252,10 € abzüglich der von der Klagepartei beantragten Nutzungsentschädigung in Höhe von 9.896,38 €.IV. Die Kostenentscheidung ergibt sich aus § 92 Abs. 1 S. 1 ZPO.V. Die Entscheidung zur vorläufigen Vollstreckbarkeit folgt aus §§ 708 Nr. 11, 711, 709 S. 1, S. 2 ZPO.VI. Der Streitwert wurde nach §§ 63, 39 ff. GKG, 3 ff. ZPO festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2452320.html (https://oj.is/2452320)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBaden-WürttembergOrdentliche GerichtsbarkeitOLG StuttgartRechtsprechungUrteil vom 16.06.2021 - 4 U 168/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Stuttgart, Urteil vom 16.06.2021 - 4 U 168/20
+                      m. Fundstelle
+                      OLG Stuttgart, Urteil vom 16.06.2021 - 4 U 168/20 = openJur 2022, 9955
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Stuttgart, Urteil vom 16.06.2021 - 4 U 168/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 9955
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Berufungen des Klägers und der Beklagten gegen das Urteil des Landgerichts Ellwangen (Jagst) vom 13.03.2020, Az. 3 O 454/19, werden zurückgewiesen.2. Die durch die Anrufung des unzuständigen Landgerichts Dortmund entstandenen Kosten trägt der Kläger. Die übrigen Kosten des Rechtsstreits hat die Beklagte zu tragen.3. Das Urteil und das in Ziffer 1 genannte Urteil des Landgerichts Ellwangen (Jagst) sind hinsichtlich der Kosten vorläufig vollstreckbar. Der jeweilige Vollstreckungsschuldner kann die Vollstreckung durch Sicherheitsleistung in Höhe von 110 % des aufgrund des Urteils vollstreckbaren Betrages abwenden, wenn nicht zuvor der Vollstreckungsgläubiger Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrages leistet4. Die Revision gegen dieses Urteil wird zugelassen.BeschlussDer Streitwert wird für das Berufungsverfahren auf 23.920,00 EUR festgesetzt.  
+				Gründe
+				I.Die Parteien streiten im Berufungsverfahren um deliktische Ansprüche des Klägers gegen die Beklagte vor dem Hintergrund des so genannten VW-Diesel-Abgasskandals, die der Kläger im vorliegenden Verfahren primär im Wege der Feststellungsklage verfolgt.1.Der Kläger erwarb auf Grund Kaufvertrags vom 13.07.2011 (Anl. K 50, Teil von Bl. 139a) von der Fa. W... A... S... G... einen gebrauchten Audi A6 (Laufleistung 15.785 km, Erstzulassung 15.10.2010), in den ein von der Beklagten entwickelter und hergestellter Dieselmotor der Reihe EA 189 eingebaut ist, zum Kaufpreis von 29.900 EUR. Das Fahrzeug unterliegt der Abgasnorm Euro 5 A.Die Motorsteuerung des Fahrzeugs war mit einer Software ausgestattet gewesen, die erkannt hatte, wenn das Fahrzeug auf einem Prüfstand den "Neuen Europäischen Fahrzyklus" (NEFZ) zur Ermittlung des Abgasausstoßes durchfuhr. (Nur) in diesem Fall wurde die Abgasrückführung erhöht und der Schadstoffausstoß, insbesondere von Stickoxiden (NOx), vermindert ("Modus 1"). Die gesetzlichen Grenzwerte wurden in diesem Modus eingehalten. Im regulären "Straßenbetrieb" war die erhöhte Abgasrückführung nicht aktiviert, der Schadstoffausstoß war höher ("Modus 0").Das Kraftfahrtbundesamt hat die Beklagte verpflichtet, die Motorsteuerung der Fahrzeuge mit den Motoren EA 189 nach Euro 5 dahin anzupassen, dass eine Unterscheidung zwischen Prüfstandsmodus und Alltagsbetrieb entfällt. Der Kläger hat am 22.10.2016 eine von der Beklagten zur Verfügung gestellte technische Maßnahme (Softwareupdate, ggf. mit technischen Anpassungen) an seinem Fahrzeug vornehmen lassen, durch welche die Motorsteuerung in einem adaptierten Modus betrieben wird.Der Kläger hat sich am 21.12.2018 zur unter dem Az. 4 MK 1/18 anhängig gewesenen Musterfeststellungsklage beim OLG Braunschweig angeschlossen (Anl. R 24 und E 25), die Anmeldung dann aber am 14.06.2019 wieder zurückgenommen (Anl. R 27 und R 28).Zum Schluss der mündlichen Verhandlung vor dem Senat wies das Fahrzeug eine Laufleistung von 159.226 km auf.Der Kläger hat die Beklagte u. a. aus § 826 BGB für schadensersatzpflichtig gehalten.Die Beklagte hat die Feststellungsklage für unzulässig gehalten und Ansprüche des Klägers bestritten. Sie hat ferner die Einrede der Verjährung erhoben.2.Das Landgericht hat der Feststellungsklage (Klagantrag Ziff. 1) stattgegeben und den Antrag auf Erstattung vorgerichtlicher Rechtsanwaltskosten (Klagantrag Ziff. 2) abgewiesen. Der Feststellungsantrag sei unter Berücksichtigung des Vorbringens des Klägers dahingehend auszulegen, dass er das zum Schadensersatz verpflichtende Ereignis des Einbaus der Abschalteinrichtung betreffe. Ein Feststellungsinteresse bestehe, da die Beklagte bestreite, dass es im Rahmen der Abgasproblematik zu einer sittenwidrigen Schädigung gekommen sei. Ein Vorrang der Leistungsklage bestehe nicht. Der Kläger habe dargelegt, dass zum jetzigen Zeitpunkt noch nicht absehbare Schäden wie bspw. Steuernachforderungen eintreten könnten, und er sei nicht gehalten, seine Klage in eine Leistungs- und eine Feststellungsklage aufzuspalten. Die Beklagte sei dem Kläger in der Sache nach §§ 826, 31 BGB schadensersatzpflichtig. Der Anspruch sei nicht verjährt. Die regelmäßige Verjährungsfrist von drei Jahren habe erst zum Schluss des Jahres 2016 begonnen zu laufen. Eine positive Kenntnis der anspruchsbegründenden Umstände noch im Jahre 2015 habe beim Kläger nicht vorgelegen. Voraussetzung hierfür wäre, dass dem Kläger vor Ende des Jahres 2015 die konkrete Betroffenheit des streitgegenständlichen Fahrzeugs bekannt gewesen wäre. Der Kläger habe bei seiner Anhörung glaubwürdig angegeben, dass dies nicht der Fall gewesen sei. Auch eine grob fahrlässige Unkenntnis habe 2015 noch nicht vorgelegen. Dass der Kläger sich 2015 keine Kenntnis verschafft habe, sei nicht als grob fahrlässig anzusehen. Freistellung von den vorgerichtlichen Rechtsanwaltskosten könne der Kläger nicht verlangen, weil er nicht dargelegt habe, wann die Klägervertreter gegenüber der Beklagten für ihn tätig gewesen seien.3.Gegen dieses Urteil wenden sich die Berufungen der Beklagten und des Klägers.Der Kläger verfolgt mit seinem Rechtsmittel sein Ziel der Freistellung von vorgerichtlichen Rechtsanwaltskosten weiter, wobei er nach wie vor eine 2,0-fache Geschäftsgebühr für ersatzfähig hält.Der Kläger beantragt:1. Das Urteil des Landgerichts Ellwangen vom 13.03.2020, 3 O 454/19 wird, soweit die Klage abgewiesen wurde, aufgehoben und wie folgt abgeändert.2. Die Beklagte wird verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtliche Rechtsanwaltskosten in Höhe von EUR 1.307,51 freizustellen.sowie Zurückweisung der Berufung der Beklagten.Da die Beklagte nicht bestritten habe, dass er vorgerichtlich ihre Prozessbevollmächtigten mit der Geltendmachung Ihrer Ansprüche gegenüber der Gegenseite beauftragt habe und dass die Ansprüche außergerichtlich durch die Prozessbevollmächtigten geltend gemacht worden seien, sie kein weiterer Vortrag seinerseits erforderlich gewesen. Der genaue Zeitpunkt sei irrelevant für die Entstehung der Gebühr. Die Ansprüche seien mit Schreiben vom 27.02.2019 (Anl. KB 1) gegenüber der Beklagten geltend gemacht worden.Die Beklagte beantragt:das am 13. März 2020 verkündete Urteil des Landgerichts Ellwangen (Jagst), Az. 3 O 454/19, im Umfang der Beschwer der Beklagten abzuändern und die Klage vollumfänglich abzuweisen.sowie Zurückweisung der Berufung des Klägers.Sie hält die Ansprüche des Klägers nach wie vor für verjährt. Kenntnis, wenigstens grob fahrlässige Unkenntnis, habe bereits 2015 vorgelegen. Die Anmeldung zur Musterfeststellungsklage habe die Verjährung nicht gehemmt, weil sie allein zum Zwecke der Hemmung der Verjährung und damit rechtsmissbräuchlich erfolgt sei.4.Im Übrigen wird gemäß § 540 Abs. 1 Nr. 1 ZPO auf die tatsächlichen Feststellungen im angefochtenen Urteil des Landgerichts vom 13.03.2020 und wegen des weiteren Vortrags der Parteien auf die gewechselten Schriftsätze sowie das Protokoll der Sitzung des Senats vom 19.05.2021 Bezug genommen.II.Die Berufungen der Parteien sind zulässig, jedoch nicht begründet. Denn der vom Kläger primär gestellte Feststellungsantrag ist vom Landgericht zu Recht zugesprochen worden (nachfolgend 1.), wohingegen ein Anspruch auf Freistellung von vorgerichtlichen Rechtsanwaltskosten nicht besteht (nachfolgend 2.).1.Der primär gestellte Feststellungsantrag ist zulässig (nachfolgend a)) und begründet (nachfolgend b)).a)Das erforderliche Feststellungsinteresse (§ 256 Abs. 1 ZPO) besteht; der Grundsatz des Vorrangs der Leistungsklage (siehe nur Zöller-Greger, ZPO, 33. Aufl. § 256 Rn. 7a) steht hier der Zulässigkeit der Feststellungsklage nicht entgegen. Denn bei Einreichung der Klage war die Schadensentwicklung für den Kläger (noch) nicht absehbar, schon, weil nicht zu übersehen war, wie sich der konkrete Schadensersatzanspruch der Höhe nach im Blick auf die abzuziehende Nutzungsentschädigung, aber auch im Blick auf allfällige Reparaturen gerade eventuell als Folge der unzulässigen ursprünglichen Abschalteinrichtung und auch gegebenenfalls als Folge der mit dem Software-Update geänderten Motorsteuerungssoftware oder im Blick auf eventuelle vom Landgericht auf LGU S. 7 angeführte Steuernachforderungen entwickeln würde. In einer solchen Situation ist die Beachtung des Vorrangs der Leistungsklage aber nicht zumutbar (vgl. Zöller-Greger, a.a.O., § 256 Rn. 7a mwN zur Rechtsprechung).Es ist zwar richtig, dass bei dem hier allein in Frage stehenden deliktischen Schadensersatz, der dem Grunde nach gefordert werden kann (s.u. b)), grundsätzlich nur das negative Interesse zu ersetzen sein wird, und es ist tatsächlich durchaus denkbar, dass auch bei der Frage, welche der später noch beziffert von der Klägerin geltend zu machenden Schadenspositionen von der Beklagten ersetzt werden müssen, Streit entstehen mag. Das ist aber hinzunehmen, nachdem die Klägerin im Rechtsstreit von Anfang an den Weg der "bloßen" Feststellung gewählt hat, der ihr wegen des nach dem oben Gesagten hier fehlenden Vorrang der Leistungsklage nicht versagt werden kann. Auch ansonsten ist es bei zulässigen Feststellungsklagen nicht ungewöhnlich, dass in der Folge bei der Regulierung des bezifferten Anspruchs Streit entsteht (vgl. auch Senatsurteile vom 4.11.2020 und vom 11.11.2020 in den Sachen 4 U 48/20 und 4 U 231/19).b)Der Feststellungsantrag ist auch begründet.aa)Dass und warum die Beklagte dem Kläger dem Grunde nach auf Schadensersatz haftet, hat der VI. Zivilsenat des BGH in einer Reihe von Urteilen seit dem 25.5.2020 (VI ZR 252/19) ausführlich dargelegt. Darauf nimmt der Senat zur Vermeidung von Wiederholungen Bezug. Auch im vorliegenden Fall kann ohne Weiteres nach der Lebenserfahrung davon ausgegangen werden, dass der Kläger das streitgegenständliche Fahrzeug nicht erworben hätte, wenn er von der von der Beklagten so genannten "Umschaltlogik" im eingebauten Motor, die ein Stilllegungsrisiko mit sich brachte, gewusst hätte. Die Beklagte hat denn auch schließlich auf ihren Antrag auf Parteivernehmung des Klägers dazu, dass er auch in Kenntnis der "Umschaltlogik" den PKW erworben hätte, verzichtet (S. 2 des Protokolls vom 12.05.2021, Bl. 678 eAkte).Der Umstand, dass die Beklagte hinsichtlich des streitgegenständlichen Fahrzeugs nur den Motor hergestellt (und an die Herstellerin geliefert) hat und nicht auch den gesamten vom Kläger erworbenen Pkw, rechtfertigt keine andere Bewertung und ändert an der Verwirklichung des § 826 BGB nichts. Der Beklagten (genauer: den für die Beklagte verantwortlichen Personen i. S. v. § 31 BGB) als Konzerngesellschaft ist völlig klar gewesen, dass die von ihr gebauten Motoren in Fahrzeuge ihrer Tochtergesellschaften oder der sonstigen Erwerber des Motors, hier der Marke Audi, eingebaut und diese Fahrzeuge dann in den Verkehr gebracht werden, da dies gerade Sinn und Zweck der Herstellung und des Vertriebs der Motoren an die Tochtergesellschaften gewesen ist. Es macht wertungsmäßig keinen Unterschied, ob der Motorhersteller den von ihm mit einer unzulässigen Abschalteinrichtung versehenen Motor in von ihm selbst produzierte Fahrzeuge einbaut und diese dann in Verkehr bringt oder er derartige Motoren an Fahrzeughersteller vertreibt, die dann die Motoren in von ihnen hergestellte Fahrzeuge einbauen und diese schließlich in Verkehr bringen.bb)Der Feststellungsantrag geht trotz des Wortlauts auch nicht zu weit. Denn wie bereits das Landgericht auf LGU S. 7 zutreffend ausgeführt hat, ist zu seiner Auslegung das zu seiner Begründung gehaltene Vorbringen heranzuziehen. Sollte der Antrag nach dem ursprünglichen Vorbringen des Klägers (S. 16 ff. der Klageschrift vom 08.08.2019) neben der oben beschriebenen Abschalteinrichtung (Modus 1 und 0) "die Manipulation" auch falsch angegebene Werte zum Dieselverbrauch und zum CO2-Wert sowie eine Manipulation am On Board Diagnosis-System umfassen, hat der Kläger nachfolgend mit Schriftsatz vom 29.11.2020 (Bl. 332 eAkte) das Ziel des Feststellungsantrags konkret wie folgt umrissen: "Bei Auslegung des Klageantrags Ziffer 1 ist eindeutig erkennbar, dass die Klägerpartei die Feststellung begehrt, dass die Beklagte verpflichtet ist, Schadensersatz zu leisten für Schäden, die daraus resultieren, dass die Beklagtenpartei in den Motor, Typ EA 189, des streitgegenständlichen Fahrzeugs eine unzulässige Abschalteinrichtung in der Form einer Software eingebaut hat, welche bei Erkennung standardisierter Prüfstandsituationen (NEFZ) die Abgasaufbereitung so optimiert, dass möglichst wenige Stickoxide (NOx) entstehen und Stickstoffemissionsmesswerte reduziert werden, und die im Normalbetrieb Teile der Abgaskontrollanlage außer Betrieb setzt, so dass es zu einem höheren NOx -Ausstoß führt." Auch wenn der Kläger in der der Folge in diesem Schriftsatz wieder zu weiteren, behaupteten Manipulationen (wie z. B. dem Thermofenster) Stellung genommen hat, ist damit klargestellt, dass Gegenstand der Feststellung die aus der ursprünglichen Abschaltvorrichtung ("Umschaltlogik") entstehenden Schäden sein sollen, zumal der Kläger in der mündlichen Verhandlung vor dem Senat klargestellt hat, dass die Ausführungen auf Bl. 332 eAkte den Umfang der begehrten Feststellung wiedergeben sollen (S. 2 des Protokolls vom 12.05.2021, Bl. 678 eAkte).cc)Verjährung ist entgegen der Auffassung der Beklagten nicht eingetreten. Vielmehr ist der Ablauf der dreijährigen Regelverjährungsfrist durch die Erhebung der Klage in vorliegender Sache mit Schriftsatz vom 08.08.2019, beim Landgericht eingegangen am selben Tage und zugestellt am 06.09.2019 (Bl. 146), rechtzeitig gehemmt worden.(1)Dies folgt schon daraus, dass hinsichtlich der vom Kläger geltend gemachten Ansprüche bei diesem im Jahr 2015 weder Kenntnis noch grob fahrlässige Unkenntnis i. S. v. § 199 Abs. 1 Nr. 2 BGB feststellen lässt, sondern erst für das Jahr 2016, so dass die Verjährungsfrist erst mit Schluss des Jahres 2016 zu laufen begann.(a)Kenntnis des Klägers von den den Anspruch begründenden Umständen i. S. v. § 199 Abs. 1 Nr. 2 BGB m Jahr 2015 liegt nicht vor, weil schon nicht festgestellt werden kann, dass der Kläger im Jahr 2015 Kenntnis davon erlangte, dass sein Fahrzeug vom VW-Abgasskandal betroffen ist. Nach den Angaben, die er bei seiner informatorischen Anhörung durch das Landgericht in der mündlichen Verhandlung vom 29.01.2020 (Bl. 218) und durch den Senat in der mündlichen Verhandlung vom 12.05.2021 (S. 2 unten / 3 des Protokolls, Bl. 678 f. eAkte) gemacht hat, war dies nicht der Fall. Dies Angaben sind auch nicht unplausibel, zumal angesichts des auch vom Landgericht zutreffend angeführten Umstands (LGU S. 12 oben), dass es sich um einen Audi und nicht um einen VW handelt. Die Beklagte hat in der mündlichen Verhandlung vor dem Senat am 12.05.2021 ihren Antrag auf Parteivernehmung des Klägers dazu, dass dieser schon im Jahr 2015 Kenntnis davon hatte, dass sein Fahrzeug vom Abgasskandal betroffen war, nicht aufrechterhalten und auf diesen Antrag verzichtet (S. 3 des Protokolls, Bl. 679 eAkte). Da die beweisbelastete Beklagte keinen weiteren Beweis angetreten hat, ist zugunsten des Klägers davon auszugehen, dass er im Jahr 2015 keine Kenntnis von der Betroffenheit seines Fahrzeugs vom VW-Abgasskandal hatte.(b)Auch die Voraussetzungen einer grob fahrlässigen Unkenntnis noch im Jahr 2015 lassen sich nicht feststellen. Insoweit kann zunächst auf die zutreffenden Ausführungen des Landgerichts auf LGU S. 12 f. unter II. 2. b) der Entscheidungsgründe verwiesen werden. Ferner erschließt es sich dem Senat ganz grundsätzlich nicht, warum der Umstand, dass ein Fahrzeughalter es unterlassen hat, trotz einer schon im Herbst 2015 frei geschalteten Website der Beklagten, auf welcher der einzelne Fahrzeughalter - gegebenenfalls unter Einschaltung eines Fachhändlers - unter Eingabe der konkreten FIN seines Fahrzeugs nachsehen hätte können, ob sein Fahrzeug betroffen ist, sich über die Betroffenheit seines Fahrzeugs zu vergewissern, die Schwelle von der wohl fraglos anzunehmenden Fahrlässigkeit zur groben Fahrlässigkeit überschreiten lässt, zumal auch der Bundesgerichtshof im Urteil vom 30.07.2020 (VI ZR 5/20) ausgeführt hat, dass "die Beklagte [im Herbst 2015] die Abschalteinrichtung nicht selbst als illegal gebrandmarkt hat, sondern im Gegenteil dieser (zutreffenden) Bewertung in der Folgezeit entgegengetreten ist, dass sie eine bewusste Manipulation geleugnet hat und dass sie möglicherweise weitere Schritte zur umfassenden Aufklärung hätte unternehmen können" (a.a.O., Rn. 38). Der abweichenden Auffassung u.a. des 10. Zivilsenats des Oberlandesgerichts Stuttgart im Urteil vom 7.4.2020 in der Sache 10 U 512/19 (juris, Rn. 33 ff), die allerdings auch von Besonderheiten des dort geschilderten Einzelfalls maßgeblich geprägt war, des OLG München im Beschluss vom 7.9.2020 in der Sache 3 U 7123/19 und des OLG Frankfurt im Beschluss vom 17.6.2020 in der Sache 3 U 19/20 schließt sich der Senat aus den genannten Gründen nicht an.(2)Im Übrigen wäre Verjährung selbst dann nicht eingetreten, wenn man zugunsten der Beklagten annehmen wollte, die dreijährige Regelverjährungsfrist habe mit Schluss des Jahres 2015 zu laufen begonnen. Denn der Kläger hat sich der beim OLG Braunschweig unter dem Aktenzeichen 4 MK 1/18 anhängig gewesenen Musterfeststellungsklage gegen die Beklagte wirksam und daher mit verjährungshemmender Wirkung angeschlossen (vgl. § 204 Abs. 1 Nr. 1a BGB).(a)Die Anmeldung erfolgt unter dem Datum 21.12.2018 mit den nach § 608 Abs. 2 ZPO erforderlichen Angaben (Anlage R 24).(b)Die hierdurch eingetretene Hemmung endete nach § 204 Abs. 2 Satz 2 BGB sechs Monate nach der am 14.06.2019 erfolgten Rücknahme der Anmeldung. Zu diesem Zeitpunkt war aber längst Klage erhoben.(c)Der von der Beklagten erhobene Einwand des Rechtsmissbrauchs (S. 3 unten des Protokolls vom 12.05.2021, Bl. 679 eAkte) greift nicht durch, auch wenn nach den Angaben des Klägers bei seiner Anhörung durch den Senat (S. 4 oben des Protokolls, Bl. 680 eAkte: "Meine Hauptanwälte, also die Rechtsanwälte S... & S..., hatten mich darauf hingewiesen, dass die Teilnahme an der Musterfeststellungsklage schon aus zeitlichen Gründen für mich in Betracht käme und ich dies machen sollte. Sie haben das dann für mich erledigt, weil sie die Individualklage nicht rechtzeitig fertig bekamen.") davon auszugehen ist, dass die Anmeldung nur zum Zwecke der Hemmung der Verjährung erfolgte. Der Senat schließt sich insoweit der Auffassung des 2. Zivilsenats des OLG Stuttgart im Urteil vom 25.2.2021 (2 U 441/19) in jeder Hinsicht an und macht sich die dortigen, nachfolgend zitierten Ausführungen zu Eigen:"Der Verjährungshemmung steht der von der Beklagten behauptete Rechtsmissbrauch nicht entgegen.... Die Rechtsprechung des BGH zum Rechtsmissbrauch beim Anruf einer Streitbeilegungsstelle gem. § 204 Abs. 1 Nr. 4 BGB (vgl. BGH, NJW 2016, 233, RN 34) ist ... auf die Anmeldung zum Musterfeststellungsverfahren gem. § 2094 Abs. 1 Nr. 1a BGB nicht übertragbar, weil gerade die Schaffung einer einfachen Möglichkeit zur Verjährungshemmung und die Freiheit zur Rücknahme der Anmeldung ein Ziel des Gesetzgebers war (Meller-Hannich in beck-online, Großkommentar, Stand 1.12.2020, § 204, RN 113.1; Rüsing, NJW 2020, 2588, RN 15; a. A. Mansel, WM 2019, 1621). Dieser wollte gerade im Hinblick auf die Manipulationen in der Motorsteuerung von Dieselmotoren noch vor Ende 2018 ein Instrument zur Verjährungshemmung schaffen (vgl. BT-Drucksache 19/2701, S. 7 Nr. 14). Nach seiner Vorstellung konnte sich der Beklagte einer Musterfeststellungsklage mit deren Erhebung darauf einstellen, dass bei Ansprüchen mit demselben Lebenssachverhalt zunächst Verjährungshemmung eintritt und nur für die Verbraucher wieder entfällt, die ihre Ansprüche nicht bzw. nicht wirksam zum Klageregister anmelden (BT-Drucksache 19/2701, S. 9f). Angesichts dieses gesetzgeberischen Ziels kann es nicht als rechtsmissbräuchlich angesehen werden, wenn ein Verbraucher durch die Anmeldung zum Klageregister die verjährungshemmende Wirkung der Musterfeststellungsklage auch für seine Ansprüche herbeiführt, auch wenn dies der einzige Grund seiner Anmeldung ist und er die Anmeldung wieder zurücknimmt (Peters/Jacoby in Staudinger, BGB, [2019 - Updatestand 18.6.2020], § 204; RN 48 h.1; OLG Karlsruhe, Urteil vom 13.1.2021, 13 U 232/20, juris RN 91; OLG Oldenburg, Urteil vom 17.9.2020, 14 U 74/20, BeckRS 2020, 27483, RN 15 f; a. A. OLG Frankfurt, 3 U 269/19, Beschlüsse vom 22.6.2020, juris RN 32 ff und 10.8.2020, juris RN 15; OLG München, 3 U 2049/20, Beschlüsse vom 9.6.2020 und 7.9.2020, BeckRS 2020, 13124, RN 20 ff und BeckRS 2020, 28274 RN 26). Missbräuchlichem Verhalten des Gläubigers ist durch die Regelung in § 608 Abs. 3 ZPO, die die Möglichkeit, eine Anmeldung zurückzunehmen, zeitlich beschränkt, hinreichend Einhalt geboten (Peters/Jacoby in Staudinger, ebenda; a. A. Mansel, WM 2019, 1621, 1624)."2.Dem Kläger steht der geltend gemachte Anspruch auf Freistellung von vorgerichtlichen Rechtsanwaltskosten nicht zu.a)Das Landgericht hat die Klage insoweit mit der Begründung abgewiesen, der Kläger habe nicht dargetan, wann der Klägervertreter gegenüber der Beklagten für ihn tätig geworden sei, aus der Anlage K 1 erschließe sich das nicht. Insoweit wendet die Berufung des Klägers zwar an sich zutreffend ein, der genaue Zeitpunkt sei für die Entstehung der Gebühr unerheblich. Jedoch handelt es sich bei der Anl. K 1 (Teil von Bl. 139a) lediglich um Schreiben der Beklagten an die Klägervertreter, aus denen nicht ersichtlich ist, dass sie sich überhaupt auf den Kläger und die von diesem geltend gemachten Ansprüche beziehen; teilweise tragen sie den Betreff "Ihre Mandantschaft: divers".b)Im Berufungsbegründung trägt der Kläger nunmehr vor, die Ansprüche der "Klagepartei" seien mit einem Schreiben vom 27.02.2019 gegenüber der Beklagten geltend gemacht worden und beruft sich zum Beweis auf die Vorlage eines als Anl. KB 1 (Bl. 281 eAkte) vorgelegten Schreibens, in dem es heißt "Wir haben Ihnen gegenüber bereits für eine Vielzahl von Mandanten Ansprüche geltend gemacht ... Wir überlassen anbei eine Liste mit weiteren Mandanten, die uns mit der Geltendmachung von Schadensersatzansprüchen gegen Sie beauftragt haben" (Hervorhebung durch den Senat). Eine vorgerichtliche anwaltliche Tätigkeit für den Kläger vor dem 27.02.2019 ist danach nicht schlüssig dargelegt.c)Die im Schreiben vom 27.02.2019 zum Ausdruck kommende Tätigkeit der Klägervertreter ist ebenfalls nicht geeignet, den geltend gemachten Anspruch zu begründen. Denn zu diesem Zeitpunkt hatte sich der Kläger bereits zur Musterfeststellungsklage angemeldet. Durch das Gesetz zur Einführung einer zivilprozessualen Musterfeststellungsklage vom 12.7.2018 wurde § 19 Abs. 1 Satz 2 Nr. 1 a RVG dahingehend ergänzt, dass auch die Anmeldung von Ansprüchen oder Rechtsverhältnissen zum Klageregister für Musterfeststellungsklagen sowie die Rücknahme der Anmeldung zu dem Verfahren gehört, für das der Rechtsanwalt einen Klageauftrag hat. Der Gesetzgeber wollte mit der Änderung klarstellen, dass die Einreichung von Anmeldungen zum Klageregister für einen mit Klageauftrag versehenen Rechtsanwalt mit der Verfahrensgebühr für das Prozessverfahren abgegolten ist (Mayer, NJW 2018, 3558 unter Verweis auf BT-Drs. 19/2507, 28). Ein Ausnahmefall dergestalt, dass für die klägerischen Prozessbevollmächtigen bei der Anmeldung zum Klageregister für die Musterfeststellungsklage nur ein anwaltlicher Auftrag zur außergerichtlichen Geltendmachung bestanden hatte (Mayer, aaO., ebenfalls unter Verweis auf BT-Drs. 19/2507, 28), kann trotz des Vortrags auf S. 2 der Berufungsbegründung (Bl. 276 eAkte) nicht angenommen werden. Denn der Kläger hat bei seiner Anhörung angegeben, die (noch im Dezember 2018 erfolgte) Anmeldung zur Musterfeststellungsklage durch seine jetzigen Prozessbevollmächtigten sei erfolgt, weil diese "die Individualklage nicht rechtzeitig fertig bekamen" (S. 4 des Protokolls vom 12.05.2021, Bl. 680 eAkte), was eindeutig dafür spricht, dass zum Zeitpunkt der außergerichtlichen Tätigkeit der jetzigen klägerischen Prozessbevollmächtigten im Februar 2019 bereits (unbedingter) Klagauftrag bestanden hat.III.Die Kostenentscheidung beruht auf §§ 281 Abs. 3 Satz 2, 92 Abs. Nr. 1 ZPO und der Ausspruch über die vorläufige Vollstreckbarkeit auf §§ 708 Nr. 10, 711 ZPO.Die Revision ist zuzulassen, weil der Senat sowohl bei der Frage der Rechtsmissbräuchlichkeit der Anmeldung zur Musterfeststellungsklage als auch bei der Frage der grob fahrlässigen Unkenntnis im Sinne von § 199 Abs. 1 Nr. 2 BGB im Jahr 2015 von den Entscheidungen anderer Oberlandesgerichte abweicht.
+			
+			
+			
+			Permalink: https://openjur.de/u/2396192.html (https://oj.is/2396192)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate9
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

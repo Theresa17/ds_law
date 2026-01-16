@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitOLG Frankfurt am MainRechtsprechungUrteil vom 16.12.2020 - 17 U 157/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Frankfurt am Main, Urteil vom 16.12.2020 - 17 U 157/19
+                      m. Fundstelle
+                      OLG Frankfurt am Main, Urteil vom 16.12.2020 - 17 U 157/19 = openJur 2021, 14614
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Frankfurt am Main, Urteil vom 16.12.2020 - 17 U 157/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 14614
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die gegen das Urteil des Landgerichts Hanau vom 30. Januar 2019 gerichtete Berufung wird zurückgewiesen.Die Kosten des Berufungsverfahrens fallen dem Kläger zur Last.Das Urteil ist vorläufig vollstreckbar. Dem Kläger bleibt nachgelassen, die Vollstreckung der Beklagten durch Sicherheitsleistung i.H.v. 110 % des vollstreckbaren Betrages abzuwenden, wenn nicht die Beklagte zuvor Sicherheit i.H.v. 110 % des jeweils zu vollstreckenden Betrages leistet.Die Revision wird nicht zugelassen.  
+				Gründe
+				I.Der Kläger wendet sich mit der Berufung gegen die Abweisung seiner Klage, mit der er die Beklagte auf Schadensersatz wegen des Erwerbs eines von der Beklagten hergestellten Fahrzeugs, welches mit einer vorgeblich unzulässigen Abschalteinrichtung versehen war, in Anspruch genommen hat.Am 13. Februar 2015 schloss der Kläger einen Kaufvertrag über einen gebrauchten Audi A5 Sportback mit der Autohaus A GmbH. Der Kaufpreis für das am 3. Dezember 2012 erstmals zugelassene Fahrzeug betrug 26.175,00 €. Das Fahrzeug ist mit dem von der Volkswagen AG hergestellten Dieselmotor des Typs EA 189 ausgestattet. Die Motorsteuerung dieses Motors war zum Zeitpunkt der erstmaligen Zulassung so programmiert, dass im Falle des Durchlaufens des Neuen Europäischen Fahrzyklus (NEFZ), welcher Teil des Typgenehmigungsverfahrens ist, die Abgasrückführung in einen NOx-optimierten Betriebsmodus (Modus 1) versetzt wurde, während sie außerhalb des NEFZ im Straßenverkehr im nicht NOx-optimierten Betriebsmodus (Modus 0) operierte. Im Modus 0 war die Abgasrückführungsrate geringer.Am 22. September 2015 veröffentlichte die Volkswagen AG eine Ad-hoc-Mitteilung und eine Pressemitteilung. Darin teilte die Volkswagen AG mit, dass bei Motoren vom Typ EA 189 eine auffällige Abweichung zwischen Prüfstandwerten und realem Fahrbetrieb festgestellt worden sei. Man arbeitet daran, diese Abweichungen mit technischen Maßnahmen zu beseitigen. In der Folge wurde ein Softwareupdate für die Motorsteuerung zur Beseitigung der Umschaltung der Betriebsmodi der Abgasrückführung entwickelt und vom zuständigen Kraftfahrtbundesamt für den Einbau in die betroffenen Fahrzeuge freigegeben. Das Softwareupdate wurde beim Fahrzeug des Klägers nach dem streitgegenständlichen Erwerb installiert.Der Kläger hat die Ansicht vertreten, die Beklagte sei ihm zum Schadensersatz gemäß §§ 826, 31 BGB, §§ 823 Abs. 2, 31 BGB i.V.m. § 263 StGB verpflichtet. Die Programmierung der streitgegenständlichen Motorsteuerungssoftware sei gesetzwidrig. Die Beklagte habe eine "Abschaltvorrichtung" verwendet, die die Wirkung der Emissionskontrollsysteme markant verringere. Dies verstoße gegen Art. 5 Abs. 2 der Verordnung (EG) 715/2007. Die Beklagte habe dem Kläger durch die sittenwidrige Handlung einen Vermögensschaden zugefügt. Dieser bestehe darin, dass der Kläger in Unkenntnis der nicht gesetzeskonformen Motorsteuerungssoftware den streitgegenständlichen Pkw erworben und damit einen wirtschaftlich nachteiligen Vertrag abgeschlossen habe.Weiter hat der Kläger behauptet, der Vorstand der Beklagten habe von der nicht gesetzeskonformen Motorsteuerungssoftware gewusst. Nachdem der Leiter des Ingenieurteams des Werks in Stadt1 und der ehemalige Chef der Aggregate-Entwicklung der Beklagten in Untersuchungshaft genommen worden seien, sei kaum anzunehmen, dass eine derartig wesentliche strategische Entscheidung wie die Einführung einer manipulierten Motorsteuerungssoftware mit den damit einhergehenden wirtschaftlichen Risiken von in der Betriebshierarchie nachrangigen Mitarbeitern in eigener Verantwortung getroffen worden sei. Nach der Lebenserfahrung sei vielmehr davon auszugehen, dass diese Entscheidung zumindest mit Wissen des Vorstands getroffen und umgesetzt worden sei. Dies zeigten auch die weiteren Ermittlungsverfahren gegen führende Manager und Vorstandsmitglieder der Beklagten sowie die in diesem Zuge erfolgten Durchsuchungen und Festnahmen. Zu berücksichtigen seien die engen personellen Verflechtungen zwischen der Beklagten und der Volkswagen AG als Muttergesellschaft. So sei der Manager Ulrich Hackenberg, dem die Manipulation an der Abgaseinrichtung bekannt gewesen sei, nicht nur in exponierter Position bei der Volkswagen AG tätig gewesen, sondern im Zeitraum 2013 bis 2015 auch als Entwicklungschef bei der Beklagten tätig gewesen. Der frühere Vorstandschef der Beklagten, A, sei schon 2006 über die Problematik informiert worden. Herrn A sei wie auch den anderen Vorstandsmitgliedern klar gewesen, dass die Abgasreinigung nicht den gesetzlichen Vorgaben entspreche. Der Kläger stehe außerhalb des Geschehens bei der Beklagten. Er habe keine nähere Kenntnis von den maßgeblichen Tatsachen. Daher sei es Sache der Beklagten, die Vorgänge und Entscheidungsprozesse, die die Programmierung und Implementierung der Steuerungssoftware betreffen, offenzulegen.Das Verhalten der Beklagten verstoße gegen die guten Sitten. Um Kosten zu sparen und sich einen Wettbewerbsvorteil zu erschleichen, habe die Beklagte auf technisch und rechtlich einwandfreie, aber teure Lösungen zur Abgasreinigung verzichtet. Zudem sei die Manipulation so gestaltet, dass sie nur zufällig und auch nur von Fachleuten habe entdeckt werden können.Weiter hat der Kläger vorgetragen, es sei zu befürchten, dass das implementierte Softwareupdate negative Auswirkungen für das Fahrzeug habe. Symptome seien ein erhöhter Kraftstoffverbrauch, eine verringerte Motorleistung und ein verringertes Drehmoment sowie ein höherer Verschleiß und höhere Geräuschemissionen. Darüber hinaus sei zu befürchten, dass die Haltbarkeit des Motors beeinträchtigt werde. Dies gelte insbesondere für das Abgasrückführungsventil, das dazugehörige Kühlsystem und den Dieselpartikelfilter. Bei diesen Bauteilen könne es zu einem erhöhten Verschleiß kommen.Schließlich erfülle das Verhalten der Beklagten den Tatbestand des § 263 StGB. Durch das Verschweigen der Abschalteinrichtung gegenüber dem Kraftfahrtbundesamt habe die Beklagte auch den Kläger getäuscht. Die irrtumsbedingte Vermögensverfügung des Klägers liege im Erwerb des Fahrzeugs. Die Beklagte habe vorsätzlich und mit Bereicherungsabsicht gehandelt.Die Beklagte sei zum Schadensersatz in Höhe des Kaufpreises Zug um Zug gegen Herausgabe des erworbenen Fahrzeugs sowie zur Erstattung vorgerichtlich aufgewendeter Rechtsanwaltskosten verpflichtet.Die Beklagte hat u.a. geltend gemacht, sie müsse schon deshalb nicht haften, da sie den in dem Fahrzeug verbauten Motor nicht entwickelt und nicht hergestellt habe. Der Kläger habe nicht substantiiert vorgetragen, dass Personen, deren Kenntnisse der Beklagten zuzurechnen wären, in Bezug auf die vermeintlich die Sittenwidrigkeit begründenden Umstände und den geltend gemachten Schaden gehandelt hätten. Es lägen keine Erkenntnisse vor, dass einzelne Mitglieder des Vorstands, deren Kenntnisse der Beklagten rechtlich zuzurechnen wären, an der Entwicklung der Software für den Motor des Typs EA 189 beteiligt gewesen wären.Das Landgericht hat mit dem angefochtenen Urteil, auf das im Übrigen Bezug genommen wird, die Klage abgewiesen. Zur Begründung hat das Landgericht ausgeführt, es könne dahinstehen, ob der Kläger einen Schadensersatzanspruch wegen einer vorsätzlichen sittenwidrigen Schädigung gemäß § 826 BGB gegen die Beklagte gehabt habe. Jedenfalls sei der dem Kläger dadurch entstandene Schaden durch das Aufspielen des Softwareupdates beseitigt worden. Das Fahrzeug verfügen nun nicht mehr über eine Prüfstanderkennung. Die Abgasreinigung funktioniere dauerhaft. Das Kraftfahrtbundesamt habe bestätigt, dass das Softwareupdate keine negativen Folgen für das Fahrzeug habe. Der Bescheid des Kraftfahrtbundesamts vom 27. Mai 2016 sei für das erkennende Gericht bindend. Wenn der Kläger behaupte, das Fahrzeug habe einen bleibenden Minderwert, reiche dies nicht aus, um den Substantiierungsanforderungen gerecht zu werden. Es fehlten die erforderlichen konkreten Anknüpfungstatsachen. Schließlich habe der Kläger auch keine Verkürzung der konkret zu erwartenden Lebensdauer des Fahrzeugs durch das Softwareupdate dargelegt.Mit der Berufung verfolgt der Kläger sein erstinstanzliches Klageziel in vollem Umfang weiter. Er macht geltend, das Landgericht habe die Klage zu Unrecht abgewiesen. Entgegen der Einschätzung des Landgerichts seien in erster Instanz die nach Aufspielen des Updates entstandenen Mängel am Fahrzeug und damit ein Schaden ausreichend substantiiert dargelegt worden. Der Kläger habe zu den einzelnen Fahrzeugkomponenten und deren Schädigung durch das Update vorgetragen. Im Übrigen habe das Landgericht verkannt, dass die Beklagte darlegen und beweisen müsse, dass die Schadensbeseitigung durch das Softwareupdate erfolgreich gewesen sei. Der Kläger habe keine Kenntnisse über die technischen Details und die Wirkungsweise des Softwareupdates. Die Begründung des Landgerichts, aufgrund der Mitteilung des Kraftfahrtbundesamts seien negative Folgen des Softwareupdates ausgeschlossen, sei ebenfalls nicht tragfähig. Das Kraftfahrtbundesamt habe lediglich die grundsätzlichen Eigenschaften des Softwareupdates beschrieben. Im Einzelfall sei dennoch ein Schaden möglich. Im Übrigen wirke der Bescheid des Kraftfahrbundeamts als Verwaltungsakt nur zwischen den Parteien des Verwaltungsverfahrens und nicht gegenüber dem Kläger. Dieser habe keine Möglichkeit gehabt, an dem Verwaltungsverfahren mitzuwirken.Das Landgericht habe sich nicht mit dem Anspruch aus § 823 Abs. 2 BGB i.V.m. § 263 StGB auseinandergesetzt. Damit habe es seine an Befangenheit grenzende Voreingenommenheit offenbart.Schließlich habe das Landgericht übersehen, dass der geltend gemachte Schadensersatzanspruch aus § 823 Abs. 2, 31 BGB i.V.m. § 27 EG-FGV folge. Nach § 27 EG-FGV dürften neue Fahrzeuge im Inland zur Nutzung im Straßenverkehr nur veräußert oder in Verkehr gebracht werden, wenn sie mit einer gültigen Übereinstimmungsbescheinigung gemäß Anhang IX der Richtlinie 2007/46/EG ausgestattet seien. Durch die unzulässige Abschalteinrichtung, die in dem Fahrzeug verbaut sei, entspreche das Fahrzeug nicht der erteilten Typgenehmigung. Indem die Beklagte dennoch eine Übereinstimmungsbescheinigung ausgestellt habe, habe sie gegen § 27 EG-FGV verstoßen. Auch wenn die Beklagte nicht an der Entwicklung des Motors beteiligt gewesen sei, trage sie dennoch die Verantwortung für gesetzeskonforme Angaben im Typgenehmigungsverfahren. Sollte die Beklagte keine Kenntnis von der Funktionsweise der Motorsteuerungssoftware gehabt haben, hätte sie gegenüber dem Kraftfahrtbundesamt Angaben ins Blaue hinein gemacht und damit gegen ihre Pflicht verstoßen, den ihr gelieferten Motor auf seine Funktionsmäßigkeit und Gesetzmäßigkeit zu prüfen.Die bekannten Umstände sprächen dafür, dass die Beklagte die manipulierende Motorsteuerungssoftware vorsätzlich entwickelt und eingesetzt und die Übereinstimmungsbescheinigung in Kenntnis der Abweichung des Fahrzeugs von der Typgenehmigung ausgestellt habe. Eine fahrlässige Begehungsweise scheide aus, da der Beklagten als Herstellerin von Fahrzeugen mit langjähriger Erfahrung die Voraussetzungen für die Typgenehmigung bekannt gewesen sein mussten.Nutzungsersatz müsse sich der Kläger nicht anrechnen lassen. Dies habe das Landgericht Augsburg entschieden. Hilfsweise sei ein entsprechender Betrag abzuziehen.Der Kläger beantragt,unter Abänderung des am 30. Januar 2019 verkündeten Urteils des Landgerichts Hanau1. die Beklagte zu verurteilen, an den Kläger 26.175,00 € nebst Zinsen i.H.v. 5 Prozentpunkten über dem Basiszinssatz seit dem 21. März 2018 zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Pkw Audi A5 Sportback 2.0 TDI, FIN ...,2. die Beklagte zu verurteilen, an den Kläger vorgerichtliche Rechtsanwaltskosten von 1.666,95 € nebst Zinsen i.H.v. 5 Prozentpunkten über dem Basiszinssatz seit dem 21. März 2018 zu zahlen.Die Beklagte beantragt,die Berufung zurückzuweisen.Die Beklagte verteidigt unter Wiederholung und Vertiefung ihres erstinstanzlichen Vortrags die angefochtene Entscheidung.Sie bringt unter anderem vor, auch auf der Grundlage der zulasten der Volkswagen AG ergangenen Entscheidung des Bundesgerichtshofs vom 25. Mai 2020 treffe sie keine sekundäre Darlegungslast in Bezug auf die interne Kenntnis von den fraglichen technischen Gegebenheiten. Die Beklagte sei an der Entwicklung des Motors EA 189 nicht beteiligt gewesen. Die Volkswagen AG als Entwicklern des Motors habe für sämtliche Marken des Volkswagen-Konzerns, unter anderem für die Beklagte, das für die Typgenehmigung erforderliche Zulassungsverfahren einschließlich der hierbei durchzuführenden Tests organisiert und begleitet. Die Volkswagen AG habe dem jeweiligen technischen Dienst die entsprechenden Fahrzeuge bereitgestellt und den technischen Dienst bei den Typprüfungs-Messungen begleitet. Der gesamte Homologationsprozess für das Aggregat sei ohne Beteiligung der Beklagten durchgeführt worden. Daher lägen bei der Beklagten keinerlei für den Nachweis eines Schädigungsvorsatzes maßgebliche Umstände vor, so dass der Beklagten auch nicht auferlegt werden könne, den Sachverhalt umfassend aufzuklären. Zu berücksichtigen sei zudem, dass sich der Kläger anders als in der Entscheidung des Bundesgerichtshofs nicht in einer Darlegungs- und Beweisnot befinde. Der Kläger hätte seine Klage gegen die Volkswagen AG richten können. Wegen der Einzelheiten des Vorbringens der Beklagten zur Entwicklung des Motors EA 189, zum Typgenehmigungsverfahren des streitgegenständlichen Fahrzeugtyps und zur Herstellung des Motors EA 189 wird auf den Schriftsatz der Beklagten vom 13. Oktober 2020 (Bl. 324 ff. d.A) Bezug genommen.II.Die zulässige Berufung des Klägers hat in der Sache keinen Erfolg.Zwar vermag sich der Senat der Auffassung des Landgerichts, der dem Kläger durch den Erwerb des Fahrzeugs entstandene Schaden sei durch das Aufspielen des Softwareupdates vollständig kompensiert worden, sodass ein deliktischer Schadensersatzanspruch nicht mehr bestehe, unter Berücksichtigung der zwischenzeitlich ergangenen höchstrichterlichen Rechtsprechung (vgl. BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 58, juris) nicht anzuschließen.Die klageabweisende erstinstanzliche Entscheidung ist jedoch aus anderen Gründen richtig. Der Kläger hat unter keinem rechtlichen Gesichtspunkt einen Anspruch auf Zahlung von Schadensersatz gegen die Beklagte wegen des Inverkehrbringens eines mit einer unzulässigen Abschalteinrichtung versehenen Fahrzeugs.Der vom Kläger geltend gemachte Schadensersatzanspruch gem. §§ 826, 31 BGB setzt ua. voraus, dass ein verfassungsmäßig berufener Vertreter der Beklagten i.S.v. § 31 BGB spätestens zum Zeitpunkt des erstmaligen Inverkehrbringens des streitgegenständlichen Fahrzeugs Kenntnis von der in der Motorsteuerung implementierten Prüfstanderkennung und deren Auswirkungen auf das Abgasverhalten sowie der nicht erfolgten Offenlegung dieser Umstände im Typgenehmigungsverfahren hatte. Hier hat der Kläger in erster Instanz behauptet, dass führenden Managern, Vorstandsmitgliedern und Ingenieuren der Beklagten die technischen und rechtlichen Einzelheiten der Prüfstanderkennung und deren Auswirkungen auf die Abgasreinigung bereits seit 2006 bekannt gewesen seien. Die Beklagte ist diesem Vortrag jedoch unter detaillierter Schilderung der Abläufe bei der Entwicklung des Motors EA 189 sowie der technischen Prüfung im Rahmen des Typgenehmigungsverfahrens entgegengetreten. Sie hat dabei ausdrücklich in Abrede gestellt, dass der Einsatz der "Umschaltlogik" einem (damaligen) Vorstandsmitglied oder einem anderen maßgeblichen Repräsentanten, dessen Wissen der Beklagten analog § 31 BGB zuzurechnen wäre, vor dem 18. September 2015 bekannt gewesen sei. Insoweit unterscheidet sich der Vortrag der Beklagten vom Vortrag der Volkswagen AG, der der Entscheidung des Bundesgerichtshofs vom 25. Mai 2020 - VI ZR 252/19 - zugrunde lag. In jenem Verfahren hat die Volkswagen AG den Vortrag des dortigen Klägers wonach der vormalige Leiter der Entwicklungsabteilung im Jahr 2011 Kenntnis von den illegalen Praktiken in Bezug auf die unzulässige Abschalteinrichtung erlangt und dies im Bewusstsein der Täuschung über die Zulassungsfähigkeit der Fahrzeuge gebilligt habe, unzulässig mit Nichtwissen bestritten, sodass der Vortrag gem. § 138 Abs. 3 ZPO als zugestanden angesehen werden musste (vgl. BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 30, juris). Zudem hat die Volkswagen AG den Vortrag des dortigen Klägers, der vormalige Vorstand der Beklagten habe von der Entwicklung und Verwendung der unzulässigen Abschalteinrichtung gewusst, nur unzureichend bestritten. Der Vortrag der Volkswagen AG war angesichts der in diesem Zusammenhang bestehenden sekundären Darlegungslast ungenügend. Obwohl der dortige Kläger hinreichende Anhaltspunkte für eine Kenntnis des Vorstands von der Verwendung der unzulässigen Abschalteinrichtung angeführt hatte, hat sich die Volkswagen AG darauf beschränkt vorzutragen, dass nach dem derzeitigen Ermittlungsstand keine Erkenntnisse dafür vorlägen, dass eines ihrer Vorstandsmitglieder im Sinne des Aktienrechts an der Entwicklung der Software beteiligt gewesen sei oder die Entwicklung und Verwendung der Software in Auftrag gegeben oder davon gewusst habe (vgl. BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 39 ff., juris).Hier liegt der Fall indes anders. Die Beklagte hat den Motor EA 189 nebst Motorsteuerung weder entwickelt noch hergestellt. Sie war auch nicht an der technischen Prüfung im Rahmen des Typzulassungsverfahrens beteiligt. Die Beklagte hat die Umstände der arbeitsteiligen Entwicklung und Herstellung des streitgegenständlichen Fahrzeugtyps - ohne dass der Kläger dem etwa entgegengetreten ist - als sog. Längsplattformmodell detailliert dargestellt. Danach war die Beklagte für die Entwicklung und Herstellung der Plattform und die Volkswagen AG für die Entwicklung und Herstellung des Motors zuständig, wobei der Motor in Werken der Volkswagen AG und die Hardware der Motorsteuerung von Zulieferern hergestellt wurden. Die Software für die Motorsteuerung wurde von der Volkswagen AG entwickelt und auf dem Konzernserver zur Installation auf dem Motorsteuerungsgerät bereitgestellt. Des Weiteren hat die Beklagte detailliert geschildert, dass die Vorführung der Fahrzeuge beim technischen Dienst im Rahmen des Typgenehmigungsverfahrens ebenso wie die Begleitung der Prüfung ausschließlich durch Mitarbeiter der Volkswagen AG erfolgt ist. Unter diesen Umständen, die vom Kläger lediglich pauschal und damit unzureichend in Abrede gestellt wurden, gibt es keinen Anlass davon auszugehen, dass der Vorstand oder sonstige Repräsentanten der Beklagten Kenntnis vom Vorhandensein und der Wirkungsweise der Abschalteinrichtung gehabt haben müssen. Schon deshalb war die Beklagten nicht verpflichtet, die Ergebnisse ihrer internen Ermittlungen zur Frage, ob ein Vorstandsmitglied oder ein anderer Repräsentant Kenntnis hatte, offenzulegen. Im Übrigen hat der Kläger vorgetragen, dass der damalige Vorstandsvorsitzende der Beklagten, A, bereits im Jahr 2006 wusste, dass die Abgaswerte des fraglichen Motors durch unzulässige technische Maßnahmen "geschönt" werden. Wenn die darlegungs- und beweisbelastete Partei die anspruchsbegründenden Umstände kennt und sie im Rechtsstreit vortragen kann, bedarf es keines Vortrags des Anspruchsgegners. Dann ist es Sache des Anspruchstellers, die von ihm behaupteten Tatsachen zu beweisen.Dies ist indes nicht der erfolgt. Der Kläger hat keinen Beweis für die von ihm behauptete Kenntnis der einzelnen von ihm benannten Vorstandsmitglieder und Repräsentanten angeboten.Entgegen der Ansicht des Klägers lässt sich der geltend gemachte Schadensersatzanspruch nicht mit Erfolg auf § 823 Abs. 2 BGB i.V.m. § 263 StGB stützen. Ein solcher Schadensersatzanspruch setzt haftungsbegründend voraus, dass sämtliche objektiven und subjektiven Merkmale des Betrugstatbestands im Sinne von § 263 Abs. 1 StGB erfüllt sind. Wie der Bundesgerichtshof erst jüngst entschieden hat, fehlt es in Fällen wie dem vorliegenden an der Bereicherungsabsicht und der in diesem Zusammenhang erforderlichen Stoffgleichheit des erstrebten rechtswidrigen Vermögensvorteils mit einem etwaigen Vermögensschaden (BGH, Urteil vom 30. Juli 2020 - VI ZR 5/20 -, Rn. 18, juris). Dem schließt sich der Senat an.Schließlich kann der Kläger sein Schadensersatzbegehren auch nicht mit Erfolg aus § 823 Abs. 2 BGB i.V.m. § 27 Abs. 1 EG-FGV herleiten. Nach Rechtsprechung des Bundesgerichtshofs, von der abzuweichen die vorliegende Fallgestaltung keinen Anlass bietet, liegt das Interesse, nicht zur Eingehung einer ungewollten Verbindlichkeit veranlasst zu werden, nicht im Schutzbereich des § 27 Abs. 1 EG-FGV. Der Gesetz- und Verordnungsgeber bezweckte mit dieser Vorschrift nicht den Schutz der allgemeinen Handlungsfreiheit und speziell des wirtschaftlichen Selbstbestimmungsrechts der einzelnen Käufer. Auch gibt es keine Anhaltspunkte, dass der Gesetz- und Verordnungsgeber an die vorsätzliche oder fahrlässige Erteilung einer inhaltlich unrichtigen Übereinstimmungsbescheinigung einen gegen den Hersteller gerichteten Anspruch auf (Rück-)Abwicklung eines mit einem Dritten geschlossenen Kaufvertrags knüpfen wollte (BGH, Urteil vom 30. Juli 2020 - VI ZR 5/20 -, Rn. 11, juris; BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 76, juris). Der geltend gemachte Anspruch aus § 823 Abs. 2 BGB i.V.m. § 27 Abs. 1 EG-FGV besteht daher auch dann nicht, wenn die Beklagte die Abweichung der Motorsteuerung von der Typgenehmigung bei gehöriger Prüfung hätte feststellen können und müssen und sie deshalb fahrlässig eine falsche Übereinstimmungsbescheinigung ausgestellt hätte.Sollte der Vortrag des Klägers dahin zu verstehen sein, dass der geltend gemachte Anspruch auf Schadensersatz auch auf die behaupteten Folgen des zur Beseitigung der unzulässigen Abschalteinrichtung installierten Softwareupdates gestützt wird, änderte dies nichts an der Unbegründetheit der Berufung.Ein auf die negativen Folgen des Softwareupdates gestützter Schadensersatzanspruch aus § 826 BGB besteht nicht, da die Beklagte den Kläger mit der Installation des Updates nicht vorsätzlich sittenwidrig geschädigt hat.Wenn der Kläger geltend macht, das Softwareupdate verursache Folgeprobleme, ist dies unerheblich. Der Kläger verlangt von der Beklagten im Wege des Schadensersatzes die "Rückgängigmachung" der Folgen des mit einem Dritten geschlossenen ungewollten Vertrags. Das Softwareupdate ist jedoch erst nach Vertragsschluss freigegeben und installiert worden. Insoweit ist nicht nachzuvollziehen, inwieweit der Kläger durch ein haftungsbegründendes Verhalten der Beklagten im Zusammenhang mit dem Softwareupdate zum Abschluss des Kaufvertrages gebracht worden sein soll, den er sonst nicht geschlossen hätte. Einen nach der sog. Differenztheorie ermittelten Schaden hat der Kläger nicht dargelegt. Er behauptet nicht, dass bei einem Vergleich der Vermögenslagen mit und ohne installiertem Softwareupdate eine Differenz zwischen den jeweiligen Vermögenswerten festzustellen wäre. Überdies lässt sich dem Vortrag nicht entnehmen, dass der Beklagten die vom Kläger vorgetragenen Auswirkungen des Softwareupdates bekannt gewesen wären und sie das Update dennoch dem Kraftfahrtbundesamt zur Freigabe vorgelegt hätte, ohne die ihr bekannten Folgen für die Lebensdauer des Motors, den Kraftstoffverbrauch etc. zu offenbaren.Der geltend gemachte Schadensersatzanspruch folgt auch nicht aus § 823 Abs. 2 BGB i.V.m. § 263 StGB.Der Kläger hat nicht behauptet, dass die Beklagte gegenüber dem Kläger vorgespiegelt hätte, das Update werde keinerlei nachteilige Auswirkungen auf den Kraftstoffverbrauch, die Motorleistung, die Haltbarkeit des Motors und der Abgasanlage etc. haben, obgleich sie bereits zu diesem Zeitpunkt von dem Gegenteil ausgegangen sei. Im Übrigen fehlt es auch insoweit an der schlüssigen Darlegung eines kausalen Schadens.Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf den §§ 708 Nr. 10, 711 ZPO.Gründe für eine Zulassung der Revision (§ 543 Abs. 2 ZPO) liegen nicht vor. Soweit das Oberlandesgericht Hamm eine Haftung der Beklagten wegen des Inverkehrbringens eines mit einer unzulässigen Abschalteinrichtung versehenen Kraftfahrzeugs angenommen hat (vgl. OLG Hamm, Urteil vom 14. August 2020 - 45 U 22/19 -, juris), lag dem ein anderer Sachverhalt zugrunde. Wie den Entscheidungsgründen zu entnehmen ist, hat die Beklagte dort die Abläufe bei der Entwicklung und Herstellung des Fahrzeugs und des verbauten Motors nicht im Einzelnen dargestellt (vgl. OLG Hamm, Urteil vom 14. August 2020 - 45 U 22/19 -, Rn. 115 aE, juris).
+			
+			
+			
+			Permalink: https://openjur.de/u/2334391.html (https://oj.is/2334391)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

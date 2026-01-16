@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG MarburgRechtsprechungUrteil vom 04.11.2021 - 7 O 145/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Marburg, Urteil vom 04.11.2021 - 7 O 145/20
+                      m. Fundstelle
+                      LG Marburg, Urteil vom 04.11.2021 - 7 O 145/20 = openJur 2022, 2104
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Marburg, Urteil vom 04.11.2021 - 7 O 145/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 2104
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1.Die Klage wird abgewiesen2.Die Kosten des Rechtsstreits trägt der Kläger.3.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar.4.Der Streitwert wird festgesetzt auf 22.138,54 €. 
+				Tatbestand
+				Die Parteien streiten über Ansprüche des Klägers im Zusammenhang mit dem sogenannten VW-Abgasskandal.Der Kläger erwarb mit Kaufvertrag vom 28.06.2012 bei dem Autohaus ... in ... einen VW Tiguan (Fahrzeug-Identifizierungsnummer: ...) zu einem Kaufpreis in Höhe von 30.963,00 € und mit einem Kilometerstand von 0 km. Die Gesamtfahrleistung des Fahrzeugs betrug zum Zeitpunkt der Klageeinreichung 114.000 km.In dem Fahrzeug ist ein Dieselmotor des Typs EA 189 verbaut. In die Motorsteuerung baute die Beklagte eine Software ein, welche erkennt, ob sich das Fahrzeug im normalen Straßenverkehr fortbewegt oder mit laufendem Motor auf einem Prüfstand befindet. Erkennt die Software die aktuelle Situation als eine solche auf dem Prüfstand, initiiert sie eine Motorenabstimmung, die zu einem niedrigen - die entsprechenden Grenzwerte einhaltenden -Stickoxidausstoß führte. Ordnete sie die Situation hingegen als eine des normalen Straßenverkehrs ein, veranlasste sie eine Motorenabstimmung, die zu einem höheren - die maßgeblichen Grenzwerte nicht einhaltenden - Stickoxidausstoß führte. Mit Hilfe dieser Software erreichte man, dass der Motor in die Schadstoffklasse EURO 5 eingeordnet wurde. Infolgedessen wurde das Fahrzeug auch als der Schadstoffklasse EURO 5 zugehörig angeboten und als solches verkauft.Der Einsatz dieser Software in Dieselmotoren des Typs EA 189 in Fahrzeugen des Volkswagenkonzerns wurde Ende September 2015 bekannt. Die Beklagte veröffentlichte am 22.09.2015 eine entsprechende Ad-hoc-Mitteilung. Zudem erstellte und veröffentlichte die Beklagte mit einer Pressemitteilung vom 02.10.2015 eine Internetseite, auf der mit der Eingabe der Fahrzeugidentifikationsnummer festgestellt werden konnte, ob das Fahrzeug betroffen war.Das Fahrzeug des Klägers verfügte und verfügt über eine wirksame EG-Typengenehmigung für die Emissionsklasse EU5 sowie über eine wirksame Betriebserlaubnis. Der Kläger ließ das vom Kraftfahrt-Bundesamt (KBA) geprüfte und freigegebene Software-Update für den streitgegenständlichen PKW aufspielen.Mit anwaltlichem Schreiben vom 13.07.2020 forderte der Kläger die Beklagte mit Frist bis zum 15.07.2020 zur Erfüllung der Klageforderung auf.Mit am 15.07.2020 eingegangener Klage macht der Kläger sein Begehren nunmehr gerichtlich geltend.Der Kläger ist nicht in das Klageregister der Musterfeststellungsklage gegen die Beklagte vor dem Oberlandesgericht Braunschweig (Az. 4 MK 1/18) eingetragen.Die Beklagte erhebt mit Schriftsatz vom 19.08.2020 die Einrede der Verjährung.Der Kläger behauptet, ihm sei es bei seiner Kaufentscheidung auf die Zuordnung zu der angegebenen Schadstoffklasse angekommen. Wenn er von den rechtswidrigen Bedingungen gewusst hätte, hätte er das Fahrzeug nicht gekauft.Der Kläger ist der Ansicht, ihm stünden insbesondere deliktische Ansprüche gegen die Beklagte zu, etwa wegen einer vorsätzlichen sittenwidrigen Schädigung oder unter dem Gesichtspunkt des Betruges.Der Kläger hat zunächst beantragt,1.die Beklagte zu verurteilen, an den Kläger 22.138,54 € nebst Zinsen in Höhe von 4 Prozent aus 30.963,00 € seit dem 28.06.2012 bis Rechtshängigkeit und seit Rechtshängigkeit in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs VW Tiguan, Fahrzeugidentifikationsnummer ...2.festzustellen, dass sich die Beklagte mit der Rücknahme des Fahrzeugs VW Tiguan, Fahrzeugidentifikationsnummer ... im Annahmeverzug befindet;3.die Beklagte zu verurteilen, den Kläger von den vorgerichtlichen Gebühren seiner Prozessbevollmächtigten, in Höhe von 1.211,50 € freizustellen.Mit Schriftsatz vom 14.09.2020 hat der Kläger die Klage hinsichtlich der in Ziffer 1 geltend gemachten Deliktszinsen zurückgenommen.Der Kläger beantragt nunmehr,1.die Beklagte zu verurteilen, an den Kläger 22.138,54 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs VW Tiguan, Fahrzeugidentifikationsnummer ...2.festzustellen, dass sich die Beklagte mit der Rücknahme des Fahrzeugs VW Tiguan, Fahrzeugidentifikationsnummer ... im Annahmeverzug befindet;3.die Beklagte zu verurteilen, den Kläger von den vorgerichtlichen Gebühren seiner Prozessbevollmächtigten, in Höhe von 1.211,50 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Sie ist der Auffassung, der Klägerin sei kein kausaler Schaden entstanden. Im Übrigen sei ein Anspruch jedenfalls verjährt.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die wechselseitigen Schriftsätze der Parteien nebst Anlagen sowie den sonstigen Akteninhalt Bezug genommen. 
+				Gründe
+				Die Klage ist zulässig, aber, soweit noch über sie zu entscheiden war, unbegründet.Die teilweise Klagerücknahme im Hinblick auf die mit Ziff. 1 geltend gemachten Deliktszinsen war gem. § 269 Abs. 1 ZPO auch ohne Zustimmung der Beklagten zulässig, da sie vor Beginn der mündlichen Verhandlung erfolgt ist. Folglich war hinsichtlich der Deliktszinsen keine Entscheidung zu treffen.Dem Kläger steht kein durchsetzbarer Anspruch gegen die Beklagte zu.Der Anspruch des Klägers ist verjährt und daher nicht durchsetzbar, § 214 Abs. 1 BGB.Dem Kläger stünde zwar dem Grunde nach gegen die Beklagte gemäß § 826 Abs. 2 i.V.m. § 31 BGB analog wegen vorsätzlicher sittenwidriger Schädigung ein Schadensanspruch auf Rückzahlung des Kaufpreises abzüglich einer Nutzungsentschädigung zu (vgl. BGH, Urteil vom 25.05.2020 - VI ZR 252/19, BeckRS 2020,10555; OLG Koblenz, Urteil vom 12.06.2019 -5 U 1318/18, NJW 2019, 2237).Die hier in Rede stehende Fallgestaltungen entspricht der Fallgestaltung, die vom Oberlandesgericht Koblenz und dem Bundesgerichtshof in den vorstehend genannten Entscheidungen entschieden worden ist. Die Kammer macht sich die dortigen Ausführungen zu Eigen:Wer vorsätzlich ein Fahrzeug mit einer unzulässigen, weil die Typengenehmigung infrage stellenden Einrichtung (hier abgasrückführungsabschalte Einrichtung) in den Verkehr bringt, kann aufgrund sittenwidriger Schädigung nach § 826 BGB Schadenersatz schulden.Nach dem BGH steht es wertungsmäßig einer unmittelbaren arglistigen Täuschung der Fahrzeugkäufer gleich, wenn ein Fahrzeughersteller im Rahmen einer von ihm bei der Motorenentwicklung getroffenen strategischen Entscheidung, die Typgenehmigungen der Fahrzeuge durch arglistige Täuschung des Kraftfahrt-Bundesamts zu erschleichen und die derart bemakelten Fahrzeuge alsdann in Verkehr zu bringen, die Arglosigkeit und das Vertrauen der Fahrzeugkäufer gezielt ausnutzt. Wird jemand durch ein haftungsbegründendes Verhalten zum Abschluss eines Vertrages gebracht, den er sonst nicht geschlossen hätte, kann er auch bei objektiver Werthaltigkeit von Leistung und Gegenleistung dadurch einen Vermögensschaden erleiden, dass die Leistung für seine Zwecke nicht voll brauchbar ist (BGH, Urteil vom 25.05.2020 - Az. VI ZR 252/19, BeckRS 2020, 10555).Die vom Bundesgerichtshof und dem Oberlandesgericht Koblenz zugrunde gelegten Tatsachen waren insoweit gemäß § 291 ZPO auch dem vorliegenden Rechtsstreit zugrunde zu legen, weil es sich insoweit um offenkundige Tatsachen handelt. Zur näheren Begründung des Schadensersatzanspruches dem Grunde nach wird insoweit auf diese Entscheidungen verwiesen. Die Parteien haben Vortrag nicht gehalten, der die Kammer veranlasst, die Tatsachen anders zu werten oder sie der Entscheidung nicht zu Grunde zu legen.Dieser und ein etwaiger anderer deliktischer Schadensersatzanspruch sind vorliegend aber nicht durchsetzbar, weil sie verjährt sind, § 214 Abs. 1 BGB.Die Beklagte hat die Einrede der Verjährung erhoben. Die Verjährung ist auch eingetreten.Die regelmäßige Verjährungsfrist für deliktische Ansprüche beträgt drei Jahre (§ 195 BGB). Sie beginnt nach § 199 Abs. 1 BGB mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger von den den Anspruch begründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste. Entstanden ist der Anspruch, sobald er im Wege der Klage geltend gemacht werden kann (vgl. BGH 55, 340; 73, 365; 79, 178). Voraussetzung dafür ist grundsätzlich die Fälligkeit im Sinne des § 271 BGB (vgl. BGHZ 53, 222; 113, 193; ZIP 2008, 1762). Für Schadensersatzansprüche gilt der Grundsatz der Schadenseinheit, der besagt, dass dieser einheitlich auch für die erst in Zukunft fällig werdenden Beträge entsteht, sobald ein erster Teilbetrag durch Leistungsklage geltend gemacht werden kann (vgl. BGHZ 50, 24; 119, 71; NJW 1998,1488; NJW-RR 2006, 694; DB 2008, 1093; NJW 2010, 596; WM 2011, 96). Ist im Falle fehlerhafter Aufklärung und Beratung bereits die Eingehung einer Verbindlichkeit der Schaden, entsteht der Anspruch bereits im Zeitpunkt des Vertragsschlusses (vgl. BGH NJW 2010, 596). Die Umstandskenntnis muss in der Person des Gläubigers vorliegen. Dieser muss die Kenntnis der anspruchsbegründenden Tatsachen haben, wofür nicht erforderlich ist, dass er den Vorgang rechtlich zutreffend beurteilt (vgl. BGH NJW 2008, 1729; 2427; 2576; ZIP 2008, 1268, 1538). Die Kenntnis muss sich auf die Tatsachen, die die Voraussetzungen der anspruchsbegründenden Norm erfüllen, beziehen. Dazu gehören bei Schadensersatzansprüchen die Pflichtverletzung oder gleichstehende Handlung, der Eintritt des Schadens und die Kenntnis von der eigenen Schadenbetroffenheit (vgl. BGH NJW 1993, 648; 1996, 117). Die Kenntnis aller Einzelheiten ist nicht erforderlich. Es genügt, dass der Gläubiger aufgrund der ihm bekannten oder erkennbaren Tatsachen eine hinreichend aussichtsreiche, wenn auch nicht risikolose Klage erheben kann (vgl. BGH NJW 2001, 1721; 2004, 510; 2007, 830; 2008, 2576; ZIP 2008, 1268; BAG NJW 2002, 1066). Dem Verjährungsbeginn steht nicht entgegen, dass der Schuldner seine Verantwortlichkeit bestreitet (vgl. OLG Düsseldorf VersR 1997, 1241) oder dass der Gläubiger die ihm bekannten Anspruchsvoraussetzungen wegen fehlender Beweismittel nicht beweisen kann (vgl. BGH NJW 2008, 2576; ZIP 2008, 1268). Erforderlich ist schließlich, auch die Kenntnis der Person des Schuldners hinsichtlich der ladungsfähigen Anschrift (vgl. BGH NJW 1998, 988; 2001, 1721; 2012, 1645).Die grob fahrlässige Unkenntnis steht der Kenntnis gleich.Grob fahrlässig handelt der Gläubiger, wenn seine Unkenntnis darauf beruht, dass er die im Verkehr erforderliche Sorgfalt in ungewöhnlich groben Maße verletzt und auch ganz naheliegende Überlegungen nicht angestellt oder das nicht beachtet hat, was jedem hätte einleuchten müssen (vgl. BGH NJW-RR 2009, 544; 812; NJW 2009, 587; 1482). Das Unterlassen einer Nachfrage ist nur dann grob fahrlässig, wenn weitere Umstände, insbesondere das Aufdrängen einer Schädigung aufgrund konkreter Anhaltspunkte, hinzutreten, die das Unterlassen schlicht als unverständlich erscheinen lassen (vgl. BGH NJW-RR 2010, 681). Insbesondere liegt eine grobe Fahrlässigkeit dann vor, wenn der Geschädigte, der sich die Kenntnis in zumutbarer Weise ohne nennenswerte Mühe beschaffen könnte, die auf der Hand liegende Erkenntnismöglichkeit nicht ausnutzt (vgl. BGH, WM 2010, 1493; OLG Köln, BauR 2008, 526; OLG Saarbrücken, NZG 2008, 638).Unter Anwendung dieser Grundsätze begann die dreijährige Verjährungsfrist mit Ablauf des Jahres 2015 zu laufen. Ein etwaiger deliktischer Anspruch entstand mit Abschluss des Kaufvertrages über das streitgegenständliche Fahrzeug am 28.06.2012, da der Schaden in der Belastung mit der Verbindlichkeit - also der Verpflichtung zur Kaufpreiszahlung zu sehen ist (vgl. BGH, Urteil vom 25.05.2020 - VI ZR 252/19). Der Kläger hatte nach Auffassung des Gerichts auch Kenntnis bzw. grob fahrlässige Unkenntnis von den anspruchsbegründenden Umständen. Denn aufgrund der Ad-hoc-Mitteilung der Beklagten vom 22.09.2015 und der anschließend fortdauernden ständigen Berichterstattung in den Medien an prominenter Stelle wusste ein Käufer eines Dieselfahrzeugs allein wegen der großen Zahl der betroffenen Dieselfahrzeuge darum, dass sein Fahrzeug voraussichtlich betroffen ist.Hinzu kommt die ab dem 02.10.2015 bestehende Möglichkeit, auf einer Internetseite der Beklagten durch die schlichte Eingabe der Fahrzeugidentifikationsnummer feststellen zu können, ob das erworbene Fahrzeug von dem sogenannten Abgasskandal betroffen ist. Wenn ein Käufer diese einfache Möglichkeit nicht nutzt, handelt er offensichtlich zumindest grob fahrlässig, wenn sich nicht ohnehin schon die Kenntnis aus der Ad-hoc-Mitteilung und der Medienberichterstattung ergibt (vgl. auch OLG München, MDR 2020, 348). Damit wusste der Kläger, dass sein Fahrzeug betroffen ist und auch, dass er zuvor einen Kaufvertrag über das Fahrzeug geschlossen hat, den er nach eigenem Vortrag bei Kenntnis der Manipulation nicht geschlossen hätte. Die ladungsfähige Anschrift der Beklagten ist allgemein bekannt bzw. ohne größeren Aufwand zu ermitteln. Weitere detaillierte Kenntnisse über die handelnden Personen benötigte der Kläger zur Klageerhebung nicht, wie auch die hiesige Klage zeigt, bei der der Kläger auf eine sekundäre Darlegungslast der Beklagten abstellt.Soweit der Kläger auf eine angeblich fehlende Kenntnis von der Betroffenheit seines Fahrzeuges abstellen will, kommt es darauf wegen der aus vorgenannten Gründen zumindest gegebenen grob fahrlässigen Unkenntnis nicht an. Eine Verharmlosung oder Verschleierung durch die Beklagte ist angesichts der öffentlich und in den Medien publizierten Internetseite nicht gegeben. Der Kläger hätte ohne weiteres von dieser einfachen Möglichkeit Gebrauch machen können, um die Betroffenheit des streitgegenständlichen Fahrzeuges als eines von den mehreren Millionen manipulierten festzustellen. Dass er dies nicht getan hat, beruht schlicht auf grober Fahrlässigkeit (vgl. OLG Frankfurt, Beschluss v. 17.06.2020, Az. 3 U 65/20).Die Verjährungsfrist lief daher mit Ablauf des Jahres 2018 ab.Die Verjährungsfrist wurde auch nicht vor deren Ablauf gehemmt. Denn die Klageschrift ging erst am 15.07.2020 und damit weit nach Ablauf der Verjährungsfrist bei Gericht ein, sodass § 204 Abs. 1 Nr. 1 BGB nicht eingreift.Die geltend gemachten Nebenforderungen (Feststellung des Annahmeverzugs, Zinsen) wären jedenfalls mit dem Hauptanspruch verjährt (§ 217 BGB).Der Kläger hat gegen die Beklagte auch keinen Anspruch auf Freistellung von vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.211,50 €. Auch dieser Anspruch ist verjährt, sei es, dass die Rechtsanwaltskosten zum Schaden gehören - dann gelten die Ausführungen zur Hauptforderung - oder sei es, dass sie eine Nebenforderung sind - dann gilt § 217 BGB.Soweit der Kläger vorträgt, dass die Einrede der Verjährung auch deshalb nicht eingreife, weil auch das Softwareupdate weitere unzulässige Abschalteinrichtungen enthalte und daher eine weitere Täuschungshandlung begründe, die zu einem Schaden des Klägers geführt habe, so kann dem nicht gefolgt werden, da es diesbezüglich jedenfalls an einem kausalen Schaden fehlen würde, da der Schaden im Abschluss des Kaufvertrags liegt, der hier aber nicht aufgrund des Softwareupdates entstanden ist (vgl. BGH, Urteil vom 25. Mai 2020, VI ZR 252/19). Im Übrigen ist diese Behauptung unsubstantiiert. Das Abschreiben eines Urteils ersetzt keinen substantiierten Vortrag. Überdies ist auch in der Verwendung eines sogenannten Thermofensters grundsätzlich keine vorsätzliche sittenwidrige Schädigung des Fahrzeugerwerbers zu sehen und zwar unabhängig davon, ob der Temperaturbereich dieses "Thermofensters" den Zulassungsvorschriften entspricht, da es jedenfalls an einem deliktischen Schädigungsvorsatz mangelt (vgl. OLG Frankfurt, Urteil vom 07.11.2019 - 6 U 119/18 = NJW-RR 2020,476).Die Berufung auf die Einrede der Verjährung seitens der Beklagten ist auch nicht treuwidrig, denn die Beklagte hat unmittelbar nach Bekanntwerden der unzulässigen Abschalteinrichtung Unregelmäßigkeiten eingeräumt.Etwas anderes ergibt sich auch nicht aus § 852 BGB.Nach § 852 BGB ist der Ersatzpflichtige auch nach Eintritt der Verjährung des Anspruchs auf Ersatz des aus einer unerlaubten Handlung entstandenen Schadens zur Herausgabe des Erlangten nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung verpflichtet, wenn er etwas durch eine unerlaubte Handlung auf Kosten des Verletzten erlangt hat. Dieser Anspruch verjährt in zehn Jahren von seiner Entstehung an, ohne Rücksicht auf die Entstehung in 30 Jahren von der Begehung der Verletzungshandlung oder dem sonstigen, den Schaden auslösenden Ereignis an.Der Kläger beruft sich insoweit auf einen Aufsatz von Prof. Dr. Augenhofer (VuR 2019, 83) in welchem diese sich wie folgt positioniert:"Sind Schadensersatzansprüche des Verbrauchers gem. §§ 195, 199 BGB verjährt, ist im konkreten Fall auch § 852 BGB einschlägig. Nach dieser Bestimmung hat der Ersatzpflichtige nach Verjährung des Schadensersatzanspruchs nach den Vorschriften über die ungerechtfertigte Bereicherung herauszugeben, was er durch die unerlaubte Handlung auf Kosten des Verletzten erlangt hat. Es handelt sich um einen sogenannten Restschadensersatzanspruch. Bei einem Verweis auf die Vorschriften des Bereicherungsrechts handelt es sich um eine Rechtsfolgenverweisung. Es müssten daher die Voraussetzungen des deliktischen Schadensersatzanspruchs vorliegen. Nicht aber die Voraussetzungen des Kondiktionsanspruchs. Nach den bereicherungsrechtlichen Vorschriften richtete sich hingegen die Berechnung des Anspruchs. Da es bei § 852 BGB nicht darauf ankommt, dass die Vermögensverschiebung direkt zwischen dem Schädiger und dem Geschädigten eingetreten ist, ist es auch unschädlich, wenn der Kaufvertrag zwischen dem geschädigten Verbraucher und einem VW-Händler abgeschlossen wurde, nicht aber mit der VW-AG selbst. Der Anspruch würde im VW-Fall den Betrag, den das Unternehmen auf Kosten der Verbraucher erlangt hat, also den Kaufpreis abzüglich Händlermarge, umfassen. Zu dem durch die unerlaubte Handlung erlangten Vorteil gehören gem. § 818 Abs. 1 BGB auch die durch die Nutzung des Kapitals erlangten tatsächlichen Zinsen."Im Übrigen beruft sich der Kläger auf einen Beschluss des Amtsgericht Marburg (9 C 891/19), in welchem angenommen wurde, dass die Verjährung gem. § 852 BGB einschlägig sein dürfte.Dem kann vorliegend nicht gefolgt werden.Selbst wenn man grundsätzlich von der Anwendbarkeit des § 852 BGB ausginge (so wohl Augenhofer, VuR 2019, 83; AG Marburg 9 C 891/19), so hätte der Kläger bereits nicht substantiiert dargelegt, was die Beklagte auf Kosten der Klägerin erlangt haben soll. Zwar ist eine Bereicherung selbst dann herauszugeben, wenn der Schädiger über einen Vertragspartner auf Kosten des Geschädigten den Vorteil erlangt hat (vgl. BeckOK BGB, 54. Edition, Stand 01.05.2020, § 852 BGB, Rn. 3). Das "Etwas" muss vom Ersatzpflichtigen auf Kosten des Verletzten erlangt worden sein. Dazu muss der Zufluss beim Ersatzpflichtigen mit einem entsprechenden Nachteil — in Form eines Abflusses oder eines entgangenen Zuflusses beim Geschädigten korrespondieren (BeckOGK, GesamtHrsg: Gsell/Krüger/Lorenz/Reymann, Stand: 01.08.2020, § 852 BGB, Rn. 19). Ein Anspruch aus § 852 besteht deshalb auch dann, wenn der Zufluss beim Ersatzpflichtigen von dritter Seite, d.h. nicht unmittelbar aus dem Vermögen des Verletzten erfolgte. Entscheidend ist allein ein Zusammenhang des Zuflusses mit dem Schaden des Verletzten. (BeckOGK, GesamtHrsg: Gsell/Krüger/Lorenz/Reymann, Stand: 01.08.2020, § 852 BGB, Rn. 20).Das "Erlangte" ist jedoch keinesfalls mit dem Schaden des Verletzten gleichzusetzen (OLG Hamburg BeckRs 2009,86281 für Schäden aus wettbewerbswidrigen Handlungen; vgl. BeckOK BGB, 54. Edition, Stand 01.05.2020, § 852 BGB, Rn. 3). Während der Geschädigte vor Eintritt der Verjährung eine konkrete Schadensposition gegenüber dem Schädiger geltend machen kann - unabhängig davon, ob dieser durch die unerlaubte Handlung einen Vorteil erlangt hat - kann er nach Eintritt der Verjährung nur noch den Vorteil geltend machen, der beim Schädiger verbleibt (BGH GRUR 2019, 496; vgl. BeckOK BGB, 54. Edition, Stand 01.05.2020, § 852 BGB, Rn. 3). Diesbezüglich fehlt es an jeglichem Vortrag des Klägers.Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO und hinsichtlich der Teilklagerücknahme auf § 269 Abs. 3 S. 2 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 ZPO.Der Streitwert wird auf 22.138,54 € festgesetzt. Die Streitwertfestsetzung beruht auf §§ 63 Abs. 2, 48 GKG i.V.m. § 3 ZPO. Die Höhe des Streitwerts ergibt sich aus der gewählten Antragsform. Zwar wurde bei der Antragstellung bereits eine Nutzungsentschädigung berücksichtigt, allerdings wurde die Höhe der Nutzungsentschädigung nicht in das Ermessen des Gerichts gestellt, weshalb der Klagebetrag in Ziff. 1 in voller Höhe anzurechnen war und eine weitere etwaige Nutzungsentschädigung für den Zeitraum ab Klageeinreichung nicht mehr zu berücksichtigen war.
+			
+			
+			
+			Permalink: https://openjur.de/u/2384960.html (https://oj.is/2384960)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate26
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

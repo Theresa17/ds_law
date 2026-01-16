@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG WuppertalRechtsprechungUrteil vom 14.05.2019 - 4 O 404/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Wuppertal, Urteil vom 14.05.2019 - 4 O 404/18
+                      m. Fundstelle
+                      LG Wuppertal, Urteil vom 14.05.2019 - 4 O 404/18 = openJur 2022, 1915
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Wuppertal, Urteil vom 14.05.2019 - 4 O 404/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 1915
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Das Versäumnisurteil des Landgerichts Wuppertal vom 12.03.2019 (Az. 4 O 404/18) wird aufrechterhalten.Der Kläger trägt die weiteren Kosten des Rechtsstreits.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 Prozent des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. Die Vollstreckung aus dem Versäumnisurteil darf nur gegen Leistung dieser Sicherheitsleistung fortgesetzt werden. 
+				Tatbestand
+				Der Kläger begehrt von der Beklagten Schadensersatz aufgrund von Wertminderung eines von der Beklagten hergestellten Fahrzeugs mit dem Motor "EA 288", hilfsweise im Wege des Schadensersatzes die Rückzahlung eines an einen Dritten gezahlten Kaufpreises Zug um Zug gegen Übergabe und Übereignung des Kaufgegenstandes an die Beklagte.Die Beklagte ist ein weltweit bedeutender Hersteller von Kraftfahrzeugen. Sie entwickelte unter der Bezeichnung "EA 189" einen Dieselmotor, in welchen sie eine Software zur Abgassteuerung bzw. Abgasreinigung implementierte. Diese Software kennt zwei unterschiedliche Betriebsmodi, die die Abgasrückführung steuern. In dem im Hinblick auf den Stickoxidausstoß optimierten sog. "Modus 1", welcher beim Durchfahren des Neuen Europäischen Fahrzyklus (nachfolgend: NEFZ), dem für die amtliche Bestimmung der Fahrzeugemissionen maßgeblichen Prüfverfahren, automatisch aktiviert wird, kommt es zu einer höheren Abgasrückführungrate, wodurch die gesetzlich geforderten Grenzwerte für Stickoxidemissionen eingehalten werden. Unter Fahrbedingungen, die im normalen Straßenverkehr vorzufinden sind, ist der partikeloptimierte sog. "Modus 0" aktiv. Im normalen Straßenbetrieb ist es praktisch ausgeschlossen, den NEFZ nachzufahren, weswegen sich das Fahrzeug außerhalb der NEFZ-Prüfung durchgehend im "Modus 0" befindet.Am 15.10.2015 erließ das Kraftfahrt-Bundesamt gegenüber der Beklagten einen Bescheid, in welchem es gemäß § 25 Abs. 2 EG-FGV für die der Beklagten erteilten Typengenehmigungen bezüglich des Dieselmotors vom Typ EA 189 aufgrund der Implementierung der Software zur Abgassteuerung nachträgliche Nebenbestimmungen anordnete. Mit dem Bescheid wurde der Beklagten auferlegt, geeignete Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit insbesondere bezüglich der Emissionen des genehmigten Systems nach der Entfernung der Software zur Abgassteuerung zu ergreifen.Die Beklagte rief nach dem Einschreiten des Kraftfahrt-Bundesamtes gegenüber der Beklagten die mit einem Motor "EA 189" versehenen Fahrzeuge zurück und führte Maßnahmen zur Modifikationen durch.Der Kläger erwarb am 15.09.2016 bei dem Fahrzeughändler Automobile V aus Z ein gebrauchtes Fahrzeug vom Typ Audi A5 Sportback 2,0 TDI S-line clean diesel (FIN: xxxxxxx) zu einem Kaufpreis i.H.v. 30.500,00 EUR brutto. In dem Fahrzeug ist ein Dieselmotor vom Typ EA 288 verbaut. Ein Bescheid des Kraftfahrtbundesamtes erging hinsichtlich des Dieselmotors vom Typ EA 288 nicht. Der Motor des streitgegenständlichen Fahrzeugs verfügt über eine Software, die auch als sog. "Thermofenster" bezeichnet wird und die Abgasrückführung temperaturabhängig steuert.Der Kläger behauptet, der Dieselmotor vom Typ EA 288 verfüge wie der Dieselmotor vom Typ EA 189 über eine manipulative Software zur Motorsteuerung, die in unzulässiger Weise die Abgasreinigung reduziere, wenn sich das Fahrzeug auf dem Prüfstand befinde. Diese Software kenne zwei unterschiedliche Betriebsmodi, die die Abgasrückführung steuern. Dies führe dazu, dass die Abgasrückführungsrate im Prüfungsverfahren höher sei als im normalen Straßenbetrieb. Zudem reguliere die als "Thermofenster" bezeichnete Software die Abgasrückführungsrate derart, dass die Abgasrückführung lediglich im Temperaturbereich von +15 Grad Celsius bis +33 Grad Celsius aktiviert sei.Ursprünglich hat der Kläger beantragt, die Beklagte zu verurteilen, an ihn 7.625,00 EUR als "kleinen Schadensersatz" für die Wertminderung des Kfz Audi A 5 Sportback 2.0 TDI S-line clean diesel, FIN: XXXXXX durch Softwaremanipulation und Dieselskandal, zuzüglich Zinsen i.H.v. vier Prozent aus 30.500,00 EUR, hilfsweise aus 7.625,00 EUR seit dem 30.09.2016 zu zahlen. Die Ladung zum Gütetermin und frühen ersten Termin am 12.03.2019 ist dem Prozessbevollmächtigten des Klägers am 16.01.2019 gegen Empfangsbekenntnis zugestellt worden. Im Gütetermin am 12.03.2019 erschien für den Kläger niemand. Auf Antrag der Beklagten ist in diesem Termin ein klageabweisendes Versäumnisurteil gegen den Kläger ergangen. Das Versäumnisurteil ist dem Prozessbevollmächtigten des Klägers am 21.03.2019 zugestellt worden. Mit Schriftsatz vom 04.04.2019, am selben Tag bei Gericht eingegangen, hat der Kläger Einspruch gegen das Versäumnisurteil eingelegt.Der Kläger beantragt nunmehr,das Versäumnisurteil aufzuheben und die Beklagte zu verurteilen, an ihn 7.625,00 EUR als Wertminderung für Softwaremanipulation für das Kfz Audi A 5 Sportback 2.0 TDI S-line clean diesel, FIN: XXXXXX zuzüglich Zinsen i.H.v. 4 Prozent aus 30.500,00 EUR, hilfsweise aus 7.625,00 EUR seit dem 30.09.2016 zu zahlen;hilfsweise,die Beklagte zu verurteilen, 30.500,00 EUR nebst Zinsen i.H.v. 4 Prozent aus 30.500,00 EUR seit dem 30.09.2016 zu zahlen, Zug um Zug gegen Übereignung und Übergabe des PKW Audi A 5 Sportback 2.0 TDI S-line clean diesel, FIN: XXXXXX an die Beklagte sowie festzustellen, dass sich die Beklagte mit der Annahme des Angebots auf Übereignung und Übergabe dieses Fahrzeugs in Verzug befindet.Die Beklagte beantragt,das Versäumnisurteil aufrechtzuerhalten.Sie behauptet, die als "Thermofenster" bezeichnete Software diene dem Schutz bestimmter Bauteile des Motors vor Schäden, der auf andere Weise nicht hergestellt werden könne. In bestimmten Temperaturbereichen müsse die Abgasrückführungsrate reduziert werden, da es ohne Korrektur der Abgasrückführung aufgrund der adhäsiven Wirkung des Abgases zu einer Funktionsstörung des AGR-Ventils, der sog. Verlackung sowie einer massiven Ablagerung von Ruß und unverbrannten Kohlenwasserstoffen in den AGR-führenden Bauteilen, der sog. Versottung, käme.Die Beklagte hat die örtliche Zuständigkeit des erkennenden Gerichtes gerügt. 
+				Gründe
+				Die Klage ist zulässig, aber unbegründet.I.Der Einspruch gegen das Versäumnisurteil des Landgerichts Wuppertal vom 12.03.2019 ist zulässig. Insbesondere erfolgte der Einspruch des Klägers fristgemäß nach § 339 Abs. 1 BGB mit Schriftsatz vom 04.04.2019, am selben Tag eingegangen bei Gericht.II.Der Einspruch gegen das Versäumnisurteil hat keinen Erfolg. Die Klage ist zulässig, aber unbegründet.1.Die Klage ist zulässig. Insbesondere ist das Landgericht Wuppertal örtlich zuständig. Gemäß § 32 ZPO ist für Klagen aus unerlaubten Handlungen das Gericht zuständig, in dessen Bezirk die Handlung begangen wurde. Der Begehungsort ist vorliegend der Belegenheitsort des Vermögens des Klägers, da dieser den Kaufpreis aus diesem entnahm und entrichtete. Das Vermögen des Klägers befindet sich im Bezirk des Landgerichts Wuppertal an dessen Wohnort in F.2.Die Klage ist unbegründet. Der Kläger hat unter keiner denkbaren Anspruchsgrundlage einen Anspruch auf Zahlung von Schadensersatz.a)Insbesondere besteht kein Anspruch aus § 826 BGB. Die Haftung aus § 826 BGB setzt voraus, dass die Beklagte dem Kläger einen Schaden zugefügt hat, welcher auf vorsätzlichem sittenwidrigem Verhalten beruht.aa)Diese Voraussetzungen liegen hinsichtlich des Einsatzes einer sog. "Abschalteinrichtung", die den Prüfstand erkennt, nicht vor. Insoweit fehlt es schon an jeder Substantiierung des klägerischen Vortrags bezüglich des Vorliegens einer solchen. Der Vortrag des Klägers, aufgrund des Einsatzes einer sog. "Abschalteinrichtung" bezüglich des Motors vom Typ EA 189 ließe sich unweigerlich auf den Einsatz einer solchen in dem Motor vom Typ EA 288 schließen, entbehrt jeglicher Substanz.Es gibt hinsichtlich des streitgegenständlichen Fahrzeugs kein Einschreiten durch das Kraftfahrt-Bundesamt. Auch die von dem Kläger zitierten Presseartikel zeigen keine - konkreten - Anhaltspunkte für eine manipulierte Software bei dem hier in Rede stehenden Motortyp auf. Sie erschöpfen sich ihrerseits im Wesentlichen in unbelegten Spekulationen und stammen gerichtsbekannt zum Teil aus der Feder anderer Parteivertreter, die gleichgerichtete Klagen führen.Dem Beweisangebot auf Einholung eines Sachverständigengutachtens war von der Kammer, weil auf bloße Ausforschung des Sachverhaltes gerichtet, nicht nachzugehen. Im rechtlichen Ausgangspunkt ist es einer Partei nicht verwehrt, eine tatsächliche Aufklärung auch hinsichtlich solcher Punkte zu verlangen, über die sie selbst kein zuverlässiges Wissen besitzt und auch nicht erlangen kann. Sie kann deshalb genötigt sein, eine von ihr nur vermutete Tatsache zu behaupten und unter Beweis zu stellen (st. Rspr., statt vieler BGH, Urteil vom 07.02.2019 - III ZR 498/16, Rn. 37, zitiert nach juris). Vorliegend überspannt der Kläger mit seinem unzureichenden Vortrag in rechtlich unzulässiger Weise diese in der Rechtsprechung anerkannten Grundsätze. Er stellt willkürlich, dies meint ohne greifbare Anhaltspunkte, bloße Spekulationen über das Vorliegen einer Manipulationssoftware in seinem Fahrzeug an und begehrt die Beweiserhebung in der Hoffnung, dass sich dadurch erstmals Anhaltspunkte für seine "auf das Geratewohl" aufgestellte Behauptung ergeben. Ein solches, ersichtlich auf bloße Ausforschung gerichtetes Verhalten ist nach ständiger ober- und höchstgerichtlicher Rechtsprechung unstatthaft (vgl. BGH, Urteil vom 07.02.2019, a. a. O.; OLG Düsseldorf, Beschluss vom 28.09.2018 - 22 U 95/18 -, Rn. 6, zitiert nach juris).bb)Der Vortrag des Klägers, sein Fahrzeug verfüge über eine unzulässige Abschalteinrichtung i. S. d. Art. 5 Abs. 2 VO EG 715/2007, indem die Abgasrückführung bereits bei bestimmten Außentemperaturen im Plusbereich reduziert oder ganz abgeschaltet werde ("Thermofenster"), vermag ein sittenwidriges Verhalten der Beklagten nicht zu belegen. Dabei kann die Kammer offenlassen, ab welcher Außentemperatur die Abgasrückführung tatsächlich abschaltet und ob dies mit Art. 5 Abs. 2 VO EG 715/2007 vereinbar ist oder nicht.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt (st. Rspr.; vgl. nur BGH, Urteil vom 15.10.2013, Az. VI ZR 124/12 Rz. 8 mit zahlreichen w.N. = NJW 2014, 1380). Dafür genügt es im Allgemeinen nicht, dass der Handelnde vertragliche Pflichten oder das Gesetz verletzt oder bei einem anderen einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zu Tage tretenden Gesinnung oder den eingetretenen Folgen ergeben kann (BGH, a.a.O.).Selbst wenn hypothetisch ein Verstoß gegen Art. 5 Abs. 2 VO EG 715/2007 vorliegen sollte, ergibt sich aus einer unzutreffenden rechtlichen Bewertung von Ausnahmetatbeständen auf Beklagtenseite noch nicht das Verdikt der Sittenwidrigkeit. Es bedarf zusätzlich einer besonderen Verwerflichkeit. Anhaltspunkte dafür, dass sich die Beklagte etwa sehenden Auges über eine bestimmte, von ihr als richtig erkannte Rechtsauslegung hinweggesetzt haben könnte, werden von dem Kläger nicht einmal im Ansatz aufgezeigt. Vielmehr erschöpft sich sein Vortrag in der formelhaften Behauptung eines planmäßigen Verhaltens der Beklagten, ohne dies durch hinreichende Tatsachen auch nur ansatzweise zu unterlegen.Auch wenn man mit dem Kläger unterstellt, dass eine Funktionsminderung der Abgasreinigung nicht die Versottung und Verlackung des Motor verhindern sollte, sondern lediglich Wettbewerbsvorteile geschaffen werden sollten, kommt die Kammer zu keinem anderen Ergebnis. Ein wirtschaftlich tätiges Unternehmen darf ohne Zweifel derartige Ziele verfolgen, indem es sich durch überdurchschnittliche Leistung, besondere Qualität, technische Überlegenheit, herausragenden Service oder ähnliches von der Konkurrenz abhebt. Es ist auch nicht verwerflich, wenn das Unternehmen nicht nur im Verhältnis zu den Wettbewerbern, sondern auch im Verhältnis zu den Kunden die eigenen wirtschaftlichen Interessen voranstellt. Die Grenze wird erst dort überschritten, wo die an sich legalen Ziele mit verwerflichen Mitteln zu erreichen versucht werden. Von einer solchen Grenzüberschreitung ist vorliegend nicht auszugehen.Insbesondere die Funktionsfähigkeit der Abgasreinigung in einem gewissen Temperaturbereich - gleich, ob die Angaben von Kläger- oder Beklagtenseite unterstellt werden - spricht entscheidend gegen eine Verwerflichkeit des Mittels, da kein völliger Funktionsausfall vorliegt und das Fahrzeug die Beschaffenheitsvereinbarung unter gewissen Umständen erfüllt. Diese Umstände, in Form von Temperaturwerten, treten auch nicht so selten auf, dass eine Verwerflichkeit allein aus der Auftretenshäufigkeit heraus begründet werden könnte - wiederum gleich, welche Temperaturwerte unterstellt werden. Zudem sind auch nach Bekanntwerden des sog. "Dieselskandals" für Motoren, die sich der Software des sog. "Temperaturfensters" bedienen, keine Folgen eingetreten, die das Merkmal der besonderen Verwerflichkeit stützen könnten. Diesen Motoren ist nicht die Typengenehmigung entzogen worden, ein Software-Update musste nicht bereitgestellt werden und darüber hinaus ist auch das Kraftfahrtbundesamt nicht eingeschritten.b)Dem Kläger steht auch kein Anspruch aus § 823 Abs. 2 BGB in Verbindung mit § 263 StGB, Art. 5 Abs. 2 VO EG 715/2007 oder § 16 UWG zu.Als tatsächliche Anknüpfung für diese Haftungstatbestände käme allenfalls der streitige Vortrag des Klägers zu dem sog. Thermofenster in Betracht. Voraussetzung ist aber in allen Fällen ein Verschulden der Beklagten, und zwar auch dann, wenn das Schutzgesetz selbst kein Verschulden voraussetzt, vgl. § 823 Abs. 2 S. 2 BGB. Wird - wie hier die Beklagte - eine juristische Person haftungsrechtlich in Anspruch genommen, so hat sie gemäß § 31 BGB für den Schaden einzustehen, den ihr "verfassungsmäßig berufener Vertreter" durch eine unerlaubte Handlung einem Dritten zugefügt hat.Dass maßgebliche Mitarbeiter der Beklagten, bis in die Vorstandsebene, bei denen es sich zweifelsfrei um verfassungsmäßig berufene Vertreter handelt, Kenntnis von allen maßgeblichen haftungsbegründenden tatsächlichen Umständen hatten bzw. hätten haben können, hat der Kläger gleichfalls nicht substantiiert dargelegt. Insoweit hätte es eines entsprechenden Vortrages bedurft, warum dies bei der vorgenannten Bewertung der Ausnahme des Art. 5 Abs. 2 VO EG 715/2007 hätte der Fall sein sollen. Erst dann wäre es der Beklagten im Wege der sekundären Darlegungslast zugefallen, weiter vorzutragen. Soweit der Kläger zu meinen scheint, es genüge für die Auslösung der sekundären Darlegungslast bereits die bloße Behauptung, der Vorstand der Beklagte habe alle haftungsbegründenden Umstände gewusst, trifft diese Auffassung, worauf bereits die Beklagte aufmerksam gemacht hat, nicht zu.c)Die hilfsweise gestellten Klageanträge auf Schadensersatz Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs sowie auf Feststellung des Annahmeverzugs der Beklagten haben gleichfalls keinen Erfolg. Ein Anspruch besteht aus keiner ersichtlichen Anspruchsgrundlage; es gelten die zuvor getätigten Ausführungen entsprechend.I.Die Kostenentscheidung beruht auf § 91 Abs. 1 S. 1 ZPO. Der Ausspruch hinsichtlich der vorläufigen Vollstreckbarkeit des Urteils folgt aus § 709 S. 2 und 3 ZPO.II.Der Streitwert wird festgesetzt auf EUR 31.000 EUR.
+			
+			
+			
+			Permalink: https://openjur.de/u/2384709.html (https://oj.is/2384709)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

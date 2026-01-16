@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 06.07.2021 - 5 S 28/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 06.07.2021 - 5 S 28/21
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 06.07.2021 - 5 S 28/21 = openJur 2022, 9981
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 06.07.2021 - 5 S 28/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 9981
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 106 C 7/20
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das Urteil des Amtsgerichts Bonn vom 19.01.2021 (Az.: 106 C 7/20) wird zurückgewiesen.Die Kosten des Rechtsmittelverfahrens trägt der Kläger.Das Urteil ist vorläufig vollstreckbar.Die Revision wird zugelassen.  
+				Gründe
+				I.Der Kläger macht gegen die Beklagte, bei der es sich um einen Hersteller der vom sogenannten "Abgasskandal" betroffenen Fahrzeuge handelt, einen Anspruch auf Schadensersatz in Höhe des merkantilen Minderwerts des von ihm erworbenen, ebenfalls vom Abgasskandal betroffenen Fahrzeugs geltend.Der Kläger erwarb als Privatperson am 12.09.2014 einen Gebrauchtwagen Pkw A B mit der Fahrzeug-Identitizierungsnummer XXXXXX#XXXX... von einem an diesem Rechtsstreit nicht beteiligten Unternehmer zu einem Preis von 12.999,00 Euro. Der Pkw war erstmals am 06.04.2011 zugelassen worden, zum Zeitpunkt des Erwerbs durch den Kläger belief sich der Kilometerstand auf 60.400 km. Zum Zeitpunkt der Klageeinreichung am 31.12.2019 betrug der Kilometerstand nach Angaben des Klägers etwa 275.000 km.Zum Zeitpunkt des Kaufs wies das Fahrzeug den vom Abgasskandal betroffenen, manipulierten "Standard"-Motor CD ...# auf, welcher Gegenstand des sog. "Diesel-Abgas-Skandal" war. Die verbaute Software der Motorsteuergeräte verfügte über eine Umschaltlogik, die erkannte, wenn das Fahrzeug den sogenannten Neuen Europäischen Fahrzyklus (NEFZ) durchfuhr.Bei dem NEFZ handelt es sich um einen gesetzlich vorgegebenen Testlauf, der aus fünf synthetischen Fahrkurven besteht. Im NEFZ werden bei Testfahrzeugen unter Laborbedingungen die für die Erlangung einer Typengenehmigung maßgeblichen Abgaswerte gemessen. Denn Hersteller von Fahrzeugen müssen nach der VO (EG) Nr.715/2007 (Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20.06.2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge nachweisen, dass die von ihnen produzierten (Neu-) Fahrzeuge über eine Typengenehmigung verfügen. Zur Erlangung dieser Typengenehmigung müssen die Fahrzeuge bestimmte, unter diesen Laborbedingungen gemessene, Emissionsgrenzwerte einhalten.Erkannte die im streitgegenständlichen Fahrzeug ursprünglich installierte Software diese Testbedingungen des NEFZ, so wurde die Abgasrückführung des Fahrzeuges so gesteuert, dass möglichst wenig Stickoxide (N0x) ausgestoßen werden ("NOxoptimierter Modus 1"). Im normalen Fahrbetrieb und Straßenverkehr war hingegen der "Abgasrückführungs-Modus 0" aktiv, weshalb die NOx-Emissionen dann höher waren. Die Beklagte informierte zunächst weder den Kläger noch die zuständigen Genehmigungsbehörden über das Vorhandensein einer solchen Motorsteuerung.Im September 2015 räumte die Beklagte öffentlich die Verwendung einer entsprechenden Software ein. Am 15.10.2015 erging gegen sie ein bestandskräftiger Bescheid des Kraftfahrt-Bundesamts (KBA) mit nachträglichen Nebenbestimmungen zur Typgenehmigung, der auch das Fahrzeug des Klägers betrifft. Das KBA stellte das Vorliegen einer unzulässigen Abschalteinrichtung fest und gab der Beklagten auf, diese zu beseitigen und die Einhaltung der maßgeblichen Grenzwerte anderweitig zu gewährleisten. Die Beklagte gab mit Pressemitteilung vom 25.11.2015 bekannt, Software-Updates durchzuführen, mit denen diese Software aus allen Fahrzeugen mit Motoren des Typs CD...# entfernt werden sollte. Der Kläger ließ das Software-Update durchführenMit Anwaltsschreiben vom 31.12.2019 forderte die Klägerseite die Beklagte unter Fristsetzung bis zum 06.01.2020 auf, den von ihr geforderten Schadensersatz in Form des merkantilen Minderwertes von wenigstens 20 % des Kaufpreises, mithin 2.599,80 EUR, zu zahlen.Der Kläger hat die Ansicht vertreten, er habe unter anderem einen Anspruch gegen die Beklagte gemäß §§ 826, 31, 166 analog, 249 ff BGB im Rahmen dessen die Beklagte den merkantilen Minderwert seines Fahrzeugs in Höhe von 20% des Kaufpreises (= 2.599,80 EUR) zu erstatten habe.Der Kläger hat beantragt,die Beklagte zu verurteilen, an ihn eine der Höhe nach in das Ermessen des Gerichtes gestellte merkantile Wertminderung von mindestens 2.599,80 EUR sowie vorgerichtliche Rechtsanwaltsgebühren in Höhe von 502,18 EUR, jeweils nebst Zinsen in der Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 07.01.2020, zu zahlen.Die Beklagte hat beantragt,die Klage abzuweisen.Die Beklagte hat die Einrede der Verjährung erhoben und im Übrigen die Ansicht vertreten, das streitgegenständliche Fahrzeug weise keinen softwarebedingten Wertverlust auf, sie habe keinen Schädigungsvorsatz gehabt und es fehle an der Kausalität zwischen dem Schädigungsvorwurf und dem Kaufentschluss des Klägers.Durch das dem Kläger am 26.01.2021 zugestellte Urteil vom 19.01.2021, auf dessen tatsächliche Feststellungen ergänzend gemäß § 540 ZPO Bezug genommen wird, hat das Amtsgericht Bonn die Klage abgewiesen und zur Begründung ausgeführt, die hier einzig in Betracht kommenden deliktischen Anspruchsgrundlagen seien ausschließlich auf Ersatz des negativen Interesse gerichtet und gewährten keinen Ersatz eines merkantilen Minderwertes.Hiergegen richtet sich die am 23.02.2021 bei Gericht eingegangene und mittels eines am 23.03.2021 eingegangenen Schriftsatzes begründete Berufung des Klägers, mit der er sein Anliegen unter Wiederholung und Vertiefung seines erstinstanzlichen Vorbringens weiter verfolgt.Der Kläger beantragt,1. die Beklagte unter Abänderung des am 19.01.2021 verkündeten Urteils des Amtsgericht Bonn, Aktenzeichen: 106 C 7/20, zu verurteilen, an ihn Erstattung des zu viel geleisteten Kaufpreises i.H.v. 2.599,80 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 07.01.2020 zu zahlen.2. die Beklagte unter Abänderung des am 19.01.2021 verkündeten Urteils des Amtsgericht Bonn, Aktenzeichen: 106 C 7/20, zu verurteilen, an ihn vorgerichtliche Rechtsanwaltsgebühren in Höhe von 502,18 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 07.01.2020 zu zahlen.Die Beklagte beantragt unter Bezugnahme auf das erstinstanzliche Urteil,die Berufung zurückzuweisen.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die wechselseitigen Schriftsätze der Parteien sowie das Protokoll der mündlichen Verhandlung vom 08.06.2021 (Bl. 435 f. d. A.) Bezug genommen.II.Die zulässige, insbesondere form- und fristgerecht eingelegte und begründete Berufung des Klägers gegen das Urteil des Amtsgerichts Bonn vom 19.01.2021 (Az.: 103 C 7/20) hat in der Sache keinen Erfolg. Das Amtsgericht hat die Klage zu Recht abgewiesen.1.Der Kläger hat gegen die Beklagte keinen Anspruch auf Ersatz des begehrten merkantilen Minderwertes in Höhe von mindestens 2.599,80 EUR aus §§ 826, 823 Abs. 2 BGB i.V.m. § 263 StGB, der hier einzig in Betracht kommenden Anspruchsgrundlage.a)Das AG hat zu Recht darauf hingewiesen, dass mit Urteil des Bundesgerichtshofs vom 25.05.2020 - VI ZR 252/19 = NJW 2020, 1962 ff., nunmehr im Grundsatz geklärt ist, dass- das Inverkehrbringen der Fahrzeuge mit den Dieselmotoren der Baureihe CD ...# mit einer unzulässigen Abschalteinrichtung eine sittenwidrige Schädigung i.S.d. § 826 BGB begründen kann (BGH, a.a.O., Rn. 13 ff.),- sich die Beklagte das Verhalten ihrer für die Motorentwicklung verantwortlichen Personen (Leiter der Entwicklungsabteilung und die für die Forschungs- und Entwicklungsaktivitäten der Beklagten verantwortlichen vormaligen Vorstände) nach § 31 BGB zurechnen lassen muss (BGH, a.a.O., Rn. 29 ff.),- in Bezug auf die von der Beklagtenseite bestrittene haftungsbegründende Kausalität zwischen dem Schädigungsvorwurf und der Kaufentscheidung regelmäßig ein Erfahrungssatz zugunsten des Erwerbers anzunehmen ist, wonach dieser das Fahrzeug bei Kenntnis der unzulässigen Abschalttechnik und der damit einhergehenden Risiken nicht gekauft hätte (BGH, a.a.O., Rn. 49 ff.),- der Schaden des Erwerbers eines vom Abgasskandal betroffenen Fahrzeugs in der ungewollten Verbindlichkeit in Form des geschlossenen Vertrages zu sehen ist (BGH, a.a.O., Rn. 44 ff.), nicht erst in dadurch verursachten wirtschaftlichen Nachteilen (OLG Koblenz Urt. v. 13.3.2020 - 8 U 1351/19 = BeckRS 2020, 6237 Rn. 31), und- der Käufer damit grundsätzlich von der Beklagten die Rückzahlung des Kaufpreises Zug um Zug gegen Rückgabe des Fahrzeugs unter Berücksichtigung der zwischenzeitlich gezogenen Nutzungen verlangen kann (vgl. BGH, a.a.O., Rn. 64 ff.).b)Das Begehren des Klägers im Streitfall ist indes ein anderes. Er begehrt Ersatz des merkantilen Minderwertes des Fahrzeugs. Hiermit hat er keinen Erfolg.aa)Die Kammer verkennt nicht, dass die Mehrzahl an ergangenen Entscheidungen, durch die in vergleichbaren Streitfällen das klägerische Begehren unter Hinweis auch die Unschlüssigkeit des Vortrages abgewiesen worden ist, in diesem Punkt nicht auf den Streitfall übertragbar sind. Denn zur Begründung wurde insoweit ausgeführt, dass ein Anspruch auf Zahlung des behaupteten Minderwertes (kleiner Schadensersatz) jedenfalls dann unbegründet sei, wenn nicht feststehe, dass der insoweit darlegungs- und beweisbelastete Käufer bei Kenntnis der verheimlichten Umstände bereit gewesen wäre, den Kaufvertrag zu einem geringeren Kaufpreis zu schließen (OLG Karlsruhe, Urt. v. 18.12.2019, Az. 13 U 670/19 = BeckRS 2019, 32588 Rn. 19 ff.) oder er gar behaupte, dass er bei Kenntnis der Abschalteinrichtung den Kaufvertrag mit dem Händler nicht geschlossen hätte, denn dann wäre ihm der behauptete Minderwert bereits nicht entstanden, der Vortrag zum Minderungsanspruch sei dann nicht schlüssig (OLG Frankfurt a.M., Urt. v. 17.06.2020 - 17 U 732/19 = BeckRS 2020, 20270 Rn. 50; OLG Hamm, Urt. v. 27.02.2020 - 34 U 129/19 = NJW-RR 2020, 663 Rn. 18; OLG Oldenburg, Urt. v. 04.02.2020 - 2 U 297/19 = BeckRS 2020, 1973 Rn. 10; LG Koblenz Urt. v. 16.4.2021 - 12 O 380/20 = BeckRS 2021, 11300).Im Streitfall ist eine Unschlüssigkeit der Klage nicht anzunehmen. Der Kläger hat mehrfach behauptet, dass er in Kenntnis der Sachlage wie jeder vernünftige und durchschnittlich risikoscheuende Fahrzeugkäufer, den Kaufvertrag über das Fahrzeug nicht zu diesen Konditionen abgeschlossen hätte, sondern vielmehr nur bereit gewesen wäre, das Fahrzeug zu nicht mehr als 80 Prozent des tatsächlich veranschlagten Kaufpreises zu erwerben. Eine Einlassung dahingehend, dass er in Kenntnis der Abgasmanipulation das Fahrzeug gar nicht erst erworben hätte, ist nicht erfolgt.bb)Die deliktische Anspruchsgrundlage der §§ 826, 823 Abs. 3 BGB i.V.m. § 263 StGB trägt indes die begehrte Rechtsfolge nicht. Ein Ersatz des merkantilen Minderwerts kommt bei deliktischen Ansprüchen anders als bei vertraglichen oder quasivertraglichen Ansprüchen grundsätzlich nicht in Betracht.Ausgangspunkt für die Schadensfeststellung ist der nach der sogenannten Differenzhypothese vorzunehmende Vergleich der Vermögenslagen unter Berücksichtigung und Außerachtlassung des haftungsbegründenden Ereignisses. Deliktische Schadensersatzansprüche sind auf den Ersatz des negativen Interesses gerichtet. Der Kläger kann verlangen, so gestellt zu werden, wie er stünde, wenn er nicht über die Manipulation getäuscht worden wäre Mithin so, als ob er den Kaufvertrag über das Fahrzeug nicht abgeschlossen hätte. Das Begehren auf Rückabwicklung des Kaufvertrages Zug um Zug gegen Herausgabe des Fahrzeugs (großer Schadensersatz) ist daher regelmäßig bei Vorliegen der Voraussetzungen im Übrigen und Vorteilsausgleichung begründet (vgl. BGH, Urt. v. 25.05.2020, Az. VI ZR 252/19 Rn. 64 ff.). Davon zu unterscheiden ist der Anspruch auf Ersatz des Erfüllungsinteresses. Dieses ist zu ersetzen, wenn der Anspruchsinhaber verlangen kann, so gestellt zu werden, als ob eine Verbindlichkeit ordnungsgemäß erfüllt worden wäre. Regelmäßig besteht nur bei vertraglichen oder vertragsähnlichen Beziehungen die begründete Erwartung der Deckung des Erfüllungsinteresses (vgl. insg. BGH, Urt. v. 21.12.2010 - VI ZR 312/09 = NJW 2011, 1962 Rn. 8 ff.).Unter Anwendung dieser Grundsätze ist ein Ersatzanspruch des Klägers zu verneinen. Zu Recht hat das Erstgericht unter Bezugnahme auf die Entscheidung des OLG München, Urt. v. 10.8.2020 — 21 U 2719/19, BeckRS 2020, 18878 Rn. 28 ff, darauf abgestellt, dass das Interesse des Klägers in der Sache darauf gerichtet ist, so gestellt zu werden, als hätte er einen Kaufvertrag über ein nicht manipuliertes Fahrzeug abgeschlossen. Damit beansprucht er aber das Erfüllungsinteresse, denn er möchte im Ergebnis so gestellt werden, als wäre der Vertrag ihm gegenüber ordnungsgemäß erfüllt worden. Ein solcher Anspruch steht ihm gegenüber der Beklagten als Dritter nach den für Ersatzansprüche aus unerlaubter Handlung gemäß § 249 Satz 1 BGB maßgebenden Grundsätzen der Differenzhypothese jedoch nicht zu (OLG München, a.a.O., Rn. 30; OLG Karlsruhe, Az. 13 U 670/19). Mit den Worten des LG Bamberg, Endurteil v. 29.5.2020 - 3 S 108/19, BeckRS 2020, 17182, kann der Kläger auf deliktischer Grundlage gegenüber der Beklagten, die nicht die Verkäuferin des erworbenen Fahrzeugs ist und zu der er keine vertraglichen Beziehungen hat, nicht sein Äquivalenzinteresse beanspruchen und so gestellt werden, als ob der Kaufvertrag gehörig erfüllt worden wäre. Namentlich kann er nicht den Pkw behalten und den Minderwert, d.h. die Herabsetzung des Kaufpreises, verlangen, weil er dann immer noch den Pkw hätte, den er mit der betreffenden Abschalteinrichtung - und allein dies ist mit Blick auf die §§ 823, 826 BGB haftungsbegründend - nicht gewollt und ohne die Täuschung hierüber nicht gekauft hätte. Qua der vom Kläger begehrten Rechtsfolge - Ersatz des Minderwertes - kann demnach das von §§ 823, 826 BGB geschützte Integritätsinteresse weder im Wege der Naturalrestitution (§ 249 Abs. 1 BGB) noch im Wege geldwerter Kompensation (§ 251 Abs. 1 BGB) befriedigt werden (LG Bamberg Endurteil v. 29.5.2020 - 3 S 108/19, BeckRS 2020, 17182 Rn. 26).Vorstehende Rechtsauffassung teilt die Kammer. Sie führt zur Unbegründetheit der Klage und der Berufung. Das Vorliegen einer Täuschung ist anspruchsbegründendes Tatbestandsmerkmal deliktischer Haftungstatbestände und kann im Rahmen des Haftungsumfangs nicht hinweggedacht werden. Die Bejahung eines Ersatzanspruchs in begehrter Höhe von 20% des Kaufpreises würde ab einem Grenzwert von 50.000 gefahrenen km bei einer angenommenen Gesamtlaufleistung von 250.000 km zudem zu einer Besserstellung des Käufers führen im Vergleich zum Vorgehen nach dem großen Schadensersatz. Dies trifft auch auf den Streitfall zu. Nachdem der Kläger ab dem Kauf des Fahrzeugs am 12.09.2013 (km-Stand: 60.400) bis zur Klageerhebung im Dezember 2019 (km-Stand: etwa 275.000 km) über 200.000 km zurückgelegt hat, müsste er sich etwa 80% des Kaufpreises als Nutzungsvorteil anrechnen lassen. Eine Ausnahmekonstellation, in der der Differenzschaden dem Erfüllungsinteresse entspricht und der Anspruchsteller gleichsam das positive Interesse ersetzt verlangen kann (vgl. BGH, Urt. v. 21.12.2010 - VI ZR 312/09 = NJW 2011, 1962 Rn. 10), liegt nicht vor. Der Anwendungsbereich ist auf deliktische Haftungsansprüche des arglistig getäuschten Vertragspartners beschränkt, während zwischen den Parteien unstreitig keine Vertragsbeziehung bestand.cc)Die einzig bekannte Gegenstimme zum hier befürworteten Ausschluss etwaiger Minderungsansprüche bei deliktischen Schadensersatzansprüchen überzeugt nicht. Soweit das OLG Stuttgart, Urt. v. 11.02.2019 - 9 U 3/19 = BeckRS 2019, 32200 Rn. 54, 56 ff., dem Anspruchsinhaber neben der Befreiung von der ungewollt eingegangenen Verbindlichkeit durch Rückabwicklung wahlweise zubilligt, den Vertrag bestehen zu lassen und Ersatz des durch die unerlaubte Handlung bedingten Mehraufwands zu verlangen, ist dies für Fälle der (quasi-)vertraglichen Haftung anerkannt, aber auch hierauf beschränkt. Die insoweit vom OLG Stuttgart, a.a.O.,in Bezug genommene Fundstelle Palandt/Sprau, BGB, 78. Aufl. 2019, vor § 823 Rn. 24, verweist auf BGH, NJW 77, 1536. Die dort ausgeurteilte Verurteilung des dortigen Beklagten wiederum beruhte auf einer Haftung aus cic, also einem Anspruch aus Verschulden bei Vertragsschluss, welcher als vor- oder quasivertraglicher Anspruch auf das positive Interesse gerichtet sein kann. Eine Übertragung auf Ansprüche aus unerlaubter Handlung erfolgte nicht.c)Der begehrte Anspruch des Klägers scheitert darüber hinaus am fehlenden Nachweis der haftungsbegründenden Kausalität zwischen Täuschung und Schaden.Soweit der Kläger auf BGH, Urt. v. 19.05.2006 - V ZR 264/05 = NJW 2006, 3139, Rn. 22, abstellt und die Ansicht vertritt, er brauche nicht nachzuweisen, dass sich sein Vertragspartner auf einen Vertragsschluss zu einem niedrigeren Preis eingelassen hätte, kann die Kammer dieser Ansicht nicht folgen. Zum einen liegt dem Streitfall dort kein deliktischer Schadensersatzanspruch, sondern ein solcher aus Verschulden bei Vertragsanbahnung zugrunde. Zum anderen bezieht sich die Textpassage offenbar auf die haftungsausfüllende Kausalität, indem sie auf die Bemessung des Vertrauensschadens abstellt.Bereits im nachfolgenden Absatz führt der BGH, a.a.O., entsprechend aus:"Der als Folge einer Pflichtverletzung bei Vertragsschluss zu ersetzende Schaden kann unter besonderen Umständen zwar auch ein solches Erfüllungsinteresse umfassen. Voraussetzung dafür ist jedoch, dass bei erfolgter Aufklärung ein für den Geschädigten günstigerer Vertrag zu Stande gekommen wäre (BGHZ 108, 200 [207f.] = NJW 1989, 3095; NJW 1998, 2900 [2901]; RGZ 97, 336 [339]; RGZ 159, 33 [57]; Emmerich, in: MünchKomm, § 311 Rdnr. 240; Palandt/Heinrichs, § 311 Rdnr. 58). Dann kann der Geschädigte verlangen, so gestellt zu werden, wie wenn er diesen günstigeren Vertrag geschlossen hätte. Das aber hat der Geschädigte darzulegen und zu beweisen (BGH, NJW 1998, 2900 [2901]). Auf diesen Nachweis kann entgegen der Ansicht der Revision, die sich dazu auf Schrifttum stützen kann (vgl. Erman/Kindl, § 311 Rdnr. 43 a.E.), auch nicht mit Rücksicht auf die dargestellte so genannte Minderungsrechtsprechung des BGH verzichtet werden. Es geht in dieser Konstellation nicht um die Berechnung des tatsächlich eingetretenen Vertrauensschadens, sondern um die Feststellung, ob der Geschädigte durch die Pflichtverletzung einen Erfüllungsschaden erlitten hat, weil ihm ein günstigerer Vertrag entgangen ist. Davon kann nicht ohne Weiteres ausgegangen werden. Wäre die aufklärungspflichtige Vertragspartei ihrer Pflicht nachgekommen, hätte sie die andere auf ihren Irrtum aufmerksam gemacht und diese einen höheren Preis gefordert. Die aufklärungspflichtige Partei ist indes auch nach erfolgter Aufklärung nicht gehindert, den eigenen Erwerbsentschluss mit Rücksicht auf den höheren Preis zu überdenken und gegebenenfalls auch von dem Erwerb Abstand zu nehmen. Sie mag im Einzelfall den Vertrag auch zu für sie ungünstigeren Bedingungen geschlossen haben. Das aber hat der Geschädigte darzulegen und gegebenenfalls zu beweisen. An beidem fehlt es."(BGH, a.a.O., Rn. 23; Unterstreichungen ergänzt)Soweit der Kläger mithin vorträgt, er wäre nur bereit gewesen zu max. 80% des Kaufpreises den Vertrag abzuschließen, ist weder dargelegt noch bewiesen, dass auch die andere Vertragspartei unter diesen Konditionen abschlussbereit gewesen wäre. Mit dem BGH, Urt. v. 25.05.2020 - VI ZR 252/19 = NJW 2020, 1962 Rn. 49 ff., mag angenommen werden, dass der Käufer regelmäßig nur bei geringerem Kaufpreis abschlusswillig gewesen wäre. Es besteht aber kein dahingehender Erfahrungssatz, dass auch der Verkäufer bereit gewesen wäre, dem zuzustimmen. Der Preisabschlag wäre daher wohl nicht zu realisieren gewesen. Mit dem OLG Stuttgart, Endurteil v. 19.12.2019 - 7 U 72/19, BeckRS 2019, 42272 Rn. 28, erscheint es der Kammer vielmehr wahrscheinlicher, dass bei öffentlicher Kenntnis der illegalen Abschalteinrichtung die Fahrzeuge nicht oder erst nach Überarbeitung mit einer neuen Software auf den Markt gekommen wären wie dies auch im Nachgang geschehen ist.2.Die Unbegründetheit der Nebenforderungen folgt aus der Unbegründetheit der Hauptforderung.III.Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO.Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus §§ 708 Nr. 10, 711, 713 ZPO.Die Revision wird zugelassen, § 543 Abs. 1 Nr. 1, Abs. 2 Satz 1 ZPO. Die Frage, ob und unter welchen Voraussetzungen deliktische Anspruchsgrundlagen den Ersatz des merkantilen Minderwertes einer Sache umfassen, hat grundsätzliche Bedeutung. Die Frage ist höchstgerichtlich nicht entschieden und wird von den Instanzgerichten unterschiedlich beantwortet, so dass die Fortbildung des Rechts und die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Revisionsgerichts erfordern.Streitwert des Berufungsverfahrens: 2.599,80 EUR.
+			
+			
+			
+			Permalink: https://openjur.de/u/2396218.html (https://oj.is/2396218)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate19
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

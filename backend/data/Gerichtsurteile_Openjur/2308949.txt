@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG MünsterRechtsprechungUrteil vom 26.07.2019 - 16 O 135/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Münster, Urteil vom 26.07.2019 - 16 O 135/19
+                      m. Fundstelle
+                      LG Münster, Urteil vom 26.07.2019 - 16 O 135/19 = openJur 2020, 78542
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Münster, Urteil vom 26.07.2019 - 16 O 135/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 78542
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte wird verurteilt, an den Kläger 8.991,87 € sowie Zinsen in Höhe von 4 Prozentpunkten über dem Basiszinssatz der EZB, höchstens jedoch 4 Prozent, aus 20.700,00 € seit dem 05.06.2012 zu zahlen Zug-um-Zug gegen Übergabe und Rückübereignung des PKW VW Touran Comfort Line 1.6 TDI DPF, FIN: WVGZZZ1TZBW...Im Übrigen wird die Klage abgewiesen.Von den Kosten des Rechtsstreits tragen der Kläger 57 % und die Beklagte 43 %.Das Urteil ist vorläufig vollstreckbar, für den Kläger jedoch nur gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages. Dem Kläger bleibt nachgelassen, die Vollstreckung durch Sicherheitsleistung in Höhe von 110 % des aufgrund des Urteils vollstreckbaren Betrages abzuwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrages leistet. 
+				Tatbestand
+				Die Parteien streiten über Ansprüche nach einem PKW-Kauf in Zusammenhang mit dem sogenannten "VW-Abgasskandal".Der Kläger erwarb von der Autohaus X in B mit verbindlicher Bestellung vom 05.06.2012 einen gebrauchten VW Touran Comfort Line 1.6 TDI DPF zum Preis von 20.700,00 Euro. Das Fahrzeug wies im Zeitpunkt des Kaufs eine Laufleistung von 26.200 km auf und war am 17.05.2011 erstmals zugelassen worden.Eingebaut in das Fahrzeug ist ein Motor des Typs EA 189, der von der Beklagten entwickelt und in ihre Fahrzeuge zahlreicher Baureihen eingebaut worden ist. Das von dem Kläger gekaufte Fahrzeug ist vom sogenannten "Abgasskandal" betroffen. Der verbaute Dieselmotortyp EA 189 enthielt eine Software, die Stickoxidwerte im Prüflaufstand "optimiert". Diese Software erkannte, ob das Fahrzeug sich auf einem technischen Prüfstand zur Ermittlung der Emissionswerte befindet oder im normalen Straßenverkehr gefahren wird. Diese Software sah zwei Betriebsmodi für die Abgasrückführung vor. Im Modus, der im Emissionsprüfungsverfahren aktiv war, waren die Abgasrückführungsraten höher, d.h. der Stickstoff-Ausstoß war geringer als bei Nutzung des PKW im Straßenverkehr. Ohne den Einsatz der Software hätte der Motor die Erfordernisse der Einstufung in die sog. "Euro-5-Norm", in die er tatsächlich eingestuft wurde, nicht erfüllt.Nach Bekanntwerden der Software im September 2015 ordnete das Kraftfahrt-Bundesamt (KBA) ab Oktober 2015 den Rückruf von VW-Markenfahrzeugen an, die mit der entsprechenden Software ausgestattet sind, hierzu gehört auch das streitgegenständliche Fahrzeug. Das KBA vertrat die Auffassung, dass es sich bei der Software um eine unzulässige Abschalteinrichtung handelt. Es legte der Beklagten mit Bescheid auf, die Software aus den betroffenen Fahrzeugen zu entfernen und geeignete Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit zu ergreifen. Die Beklagte entwickelte daraufhin Software-Updates.Es ist gerichtsbekannt, dass das KBA bei Nichtaufspielen des von der Beklagten entwickelten Software-Updates androht, die Betriebserlaubnis des betroffenen Fahrzeugs zu entziehen.Der Kläger ließ das Update in der Folge am 20.01.2017 aufspielen.Der Kilometerstand des streitgegenständlichen Fahrzeugs betrug am 28.06.2019 181.064 km.Der Kläger vertritt mit näherer Begründung die Auffassung, die Beklagte hafte u.a. gemäß § 826 BGB, denn ohne die Manipulation und Täuschung hätte er das streitgegenständliche Fahrzeug nicht erworben.Es sei auch davon auszugehen, dass der Vorstand Kenntnis von den Vorgängen hatte, da es sich bei der Entwicklung und dem Einbau der Motorsteuerungssoftware um eine strategische Entscheidung mit enormer wirtschaftlicher Reichweite handele. Diesbezüglich ist der Kläger der Auffassung, dass die Beklagte eine sekundäre Darlegungslast treffe.Der Kläger beantragt,1. die Beklagte zu verurteilen, an ihn 20.700,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz der EZB seit Rechtshängigkeit zu zahlen, Zugum-Zug gegen Übergabe und Rückübereignung des PKW VW Touran Comfort Line 1.6 TDI DPF, FIN: WVGZZZ1TZBW..., amtliches Kennzeichen ...-... ...;2. hilfsweise für den Fall der Abweisung des Klageantrags zu Ziffer 1 die Beklagte zu verurteilen, an ihn 20.700,00 € abzüglich einer Nutzungsentschädigung in Höhe von 11.708,13 € zu zahlen, Zugum-Zug gegen Übergabe und Rückübereignung des PKW VW Touran Comfort Line 1.6 TDI DPF, FIN: WVGZZZ1TZBW..., amtliches Kennzeichen ...-... ...;3. hilfsweise für den Fall der Abweisung des Klageantrags zu Ziffer 1 und 2 die Beklagte zu verurteilen, an ihn einen Betrag in Höhe von zumindest 3.105,00 € (15 % des ursprünglichen Kaufpreises i.H.v. 20.700,00 €) nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz der EZB seit Rechtshängigkeit zu zahlen;4. die Beklagte zu verurteilen, an ihn Zinsen in Höhe von 4 Prozentpunkten über dem Basiszinssatz der EZB seit dem 05.06.2012 aus 20.700,00 € zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.In ihrer Klageerwiderung tritt sie dem Klagebegehren, soweit relevant, zusammengefasst wie folgt entgegen:Die eingebaute Software stelle keine Abschalteinrichtung dar, erst recht keine unzulässige. Dem Kläger sei wirtschaftlich kein Schaden entstanden, da das Fahrzeug uneingeschränkt gebrauchstauglich und von dem Kläger auch über Jahre beanstandungslos verwendet worden sei, ein Wertverlust oder merkantiler Minderwert sei nicht eingetreten, ferner die Dispositionsfreiheit des Klägers nicht beeinträchtigt worden. Die Vorgaben des KBA seien umgesetzt worden, mit Aufspielen des Updates seien alle Vorgaben eingehalten und keinerlei negative Folgen der technischen Maßnahmen nach Überprüfung eingetreten oder sonst zu besorgen. Die maßgebliche Übereinstimmungsbescheinigung sei weder ungültig, noch unzutreffend, die EG-Übereinstimmungsbescheinigung nicht erloschen, so dass das Fahrzeug über alle erforderlichen Genehmigungen verfüge.Sie, die Beklagte, habe den Kläger schon nicht über Tatsachen getäuscht. Jedenfalls aber habe sich der Kläger nicht täuschungsbedingt geirrt und seine Kaufentscheidung sei unabhängig von den Angaben zum Motor erfolgt, zumal Umweltaspekte und ein bestimmter Abgasausstoß nicht für die Kaufentscheidung des Klägers maßgeblich gewesen seien. Sie stellt in Abrede, dass der Kläger von einer Übereinstimmung des Fahrzeugs mit dem genehmigten Typ ausgegangen sei. Es sei nicht vorgetragen, dass der Kläger überhaupt mit der maßgeblichen Übereinstimmungsbescheinigung in Berührung gekommen bzw. ihm diese zur Kenntnis gelangt sei.Jedenfalls aber seien die subjektiven Voraussetzungen des § 826 BGB nicht vorgetragen worden. Sie, die Beklagte, kläre die genaue Entstehung der Software derzeit auf. Die umfangreichen Untersuchungen dauerten noch an. Die Untersuchungen seien aufwändig und zeitintensiv. Es würden demgegenüber keine Erkenntnisse dafür vorliegen, dass einzelne Vorstandsmitglieder der Beklagten an der Entwicklung der Software beteiligt waren oder die Entwicklung/Verwendung in Auftrag gegeben oder gebilligt hätten. Der klägerische Vortrag zur maßgeblichen Kenntnis sei auch nicht hinreichend konkret.Wegen der Einzelheiten des Parteivortrags wird auf den Inhalt der gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				A. Die zulässige Klage ist nur zum Teil begründet.I. Der Kläger kann von der Beklagten im Wege des Schadensersatzes gemäß §§ 826, 31 BGB Zahlung des von ihm im Jahr 2015 an den Händler gezahlten Kaufpreises Zugum-Zug gegen Rückgabe und Rückübereignung des streitgegenständlichen Fahrzeugs verlangen. Zudem muss er sich Nutzungsersatz in einem Umfang von 11.708,13 € im Wege der Vorteilsausgleichung anrechnen lassen.1. Das im Sinne der Vorschrift erforderliche haftungsbegründende Verhalten der Beklagten liegt in der Entwicklung und dem Einbau eines Motors nebst Software, welche erkennt, ob das Fahrzeug im normalen Straßenverkehr bewegt wird oder sich auf einem technischen Prüfstand zur Emissionswertermittlung befindet, wobei sich auf dem Prüfstand durch die Software der Stickoxid-Ausstoß des Fahrzeugs gegenüber dem Betrieb im Straßenverkehr verringert. Hiermit beabsichtigte die Beklagte, dass die so verfälschten Ergebnisse zugunsten der Beklagten sowohl bei der Schadstoffklasseneingruppierung der Markenfahrzeuge, als auch in Werten, welche die Kaufinteressenten entweder unmittelbar oder etwa über "Vergleichstests" verschiedener Fahrzeuge in den Medien erreichen, Eingang finden und so die Kaufentscheidung zugunsten Markenfahrzeugen des Konzerns manipulierend beeinflussen (LG Münster, Urteil vom 28. Juni 2017 - 2 O 165/16 -, Rn. 69/70, juris; LG Kleve, Urteil vom 31. März 2017 - 3 O 252/16 -, Rn. 79, juris).2. Dieses Verhalten erfüllt das Merkmal der Sittenwidrigkeit. Objektiv sittenwidrig ist eine Handlung, die nach Inhalt oder Gesamtcharakter, der durch zusammenfassende Würdigung von Inhalt, Beweggründen und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt, das heißt mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist. Abzustellen ist auf die in der Gemeinschaft oder in der beteiligten Gruppe anerkannten moralischen Anschauungen. Dabei ist ein durchschnittlicher Maßstab anzulegen (BGH, Urteil vom 09. Juli 1953 - IV ZR 242/52 -, BGHZ 10, 228-234, Rn. 8); besonders strenge Anschauungen sind ebenso wie besonders laxe Auffassungen unbeachtlich (Palandt, 78. Aufl. 2019, § 826 Rn. 4 sowie § 138 Rn. 2 ff.). Hinzutreten muss zu der objektiven Sittenwidrigkeit eine besondere Verwerflichkeit des Verhaltens, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zu Tage tretenden Gesinnung oder den eintretenden Folgen ergeben kann (Palandt, § 826 Rn. 4).Diese Anforderungen sind erfüllt, denn die Entwicklung und Verwendung der Software für die Markenfahrzeuge des Konzerns diente - ersichtlich, eine andere Erklärung ist ausgeschlossen - dem Zweck, zur Kostensenkung und möglicherweise auch zur Umgehung technischer Probleme rechtlich und technisch einwandfreie, aber teurere Lösungen der Abgasreinigung zu vermeiden und mit Hilfe der scheinbar umweltfreundlichen Prüfstandswerte Wettbewerbsvorteile zu erzielen. Dieses Gewinnstreben um den Preis der bewussten Täuschung und Benachteiligung von Kunden lässt das Handeln als sittenwidrig erscheinen. Hinzu kommt, dass durch die Manipulation der Motorsteuerungssoftware ein Teil des Motors beeinflusst wird, den ein technischer Laie keinesfalls und selbst ein Fachmann nur mit Mühe durchschaut, sodass die Entdeckung der Manipulation mehr oder weniger vom Zufall abhängt und der Entwickler und Verwender darauf hoffen konnte, niemals erwischt zu werden. Dieses Verhalten ist auch bei Anwendung eines durchschnittlichen Maßstabes als sittenwidrig anzusehen. Zu beachten ist ferner, dass es sich bei dem Kauf eines Pkw für viele Verbraucher um eine wirtschaftliche Entscheidung von erheblichem Gewicht mit oft deutlichen finanziellen Belastungen handelt, die durch das unredliche Verhalten der Beklagten nachteilig beeinflusst worden ist (LG Hildesheim, Urteil vom 17. Januar 2017 - 3 O 139/16 -, Rn. 47, juris). Insofern handelt insbesondere sittenwidrig, wer - wie hier - durch sein Verhalten einen anderen zum Vertragsschluss bewegen will (Palandt, 78. Aufl. 2019, § 826 Rn. 20).3. Die Entwicklung und Verwendung der im Streit stehenden Software für die in den Verkehr zu bringenden Fahrzeuge ist der Beklagten auch zurechenbar. Mangels hinreichend konkreter Darlegungen der Beklagten ist - ausgehend vom Klägervortrag - davon auszugehen, dass der Vorstand, ein Mitglied des Vorstands oder ein anderer verfassungsmäßig berufener Vertreter im Sinne des § 31 BGB der Beklagten die Anordnung traf, die streitgegenständliche Manipulationssoftware zu entwickeln und in den Motor EA 189 einzubauen und dies geheim zu halten.Zutreffend ist zwar, dass die primäre Darlegungs- und Beweislast bei dem geschädigten Kläger liegt (Palandt, 78. Aufl. 2019, § 826 Rn. 18). Aufgrund der Umstände des Falls ist jedoch vorliegend eine sekundäre Darlegungslast auf Seiten der Beklagten anzunehmen. Genauerer Vortrag hinsichtlich der bei der Beklagten verantwortlichen Personen kann nämlich von dem Kläger, der Verbraucher ist, nicht verlangt werden. Denn er hat nachvollziehbarer Weise keinerlei Einblicke in die internen Konzernstrukturen, Geschäftspolitik und Abläufe der Beklagten, welche zur Entwicklung eines bestimmten Fahrzeugtyps und der Herstellung der entsprechenden Komponenten führen. Ihm ist kein näherer Vortrag dahingehend möglich, in welcher Organisationseinheit der Beklagten wann die maßgebliche Entscheidung gefallen und bis zu welcher höheren Ebene diese Entscheidung dann kommuniziert worden ist. Die Beklagte kennt hingegen ihre interne Organisation und die Entscheidungsstrukturen. Vorliegend weiß der Vorstand der Beklagten oder kann sich zumindest ein Wissen verschaffen, wer die Entscheidung getroffen hatte, die Software zu entwickeln und einzusetzen, die im Prüfstand einem im normalen Betrieb des Fahrzeugs nicht vorhandenen Stickoxid-Ausstoß vorspiegelt. Eine entsprechende Darlegung ist ihr möglich, um damit dem Kläger auf dieser Grundlage zu ermöglichen, seinerseits die ihm obliegende weitergehende Darlegung und den erforderlichen Beweisantritt vornehmen zu können (LG Münster a.a.O., Rn. 75 unter Bezugnahme auf LG Osnabrück, Urteil vom 09.05.2017, 5 O 1198/16).Dem ist die Beklagte jedoch bislang weder in diesem Verfahren noch in anderen gleichgelagerten Fällen nachgekommen. Der der Kammer aus unzähligen Verfahren bekannte, (seit Jahren) stets gleichlautende Vortrag, die Beklagte sei intensiv mit der Aufklärung befasst und bislang gebe es keinerlei Anhaltspunkte, dass ein Vorstandsmitglied Kenntnis gehabt hätte, weshalb Entsprechendes bestritten werde, ist nicht hinreichend. Allein die Tragweite der Problematik, wonach insgesamt mehr als 10 Millionen Fahrzeuge betroffen sein sollen, spricht dafür, dass die Entscheidung nicht unterhalb der Vorstandsebene getroffen werden konnte. Hinzu kommt, dass angesichts der lange bekannten technischen Problematik, die Euro-5-Norm erfüllen zu müssen, ohne dass es gleichzeitig zu nachteiligen Leistungsänderungen oder Motorschäden kommt, für den Vorstand der Beklagten ein deutlicher Anlass zu einer genaueren Überprüfung der Abläufe in ihrem eigenen Unternehmen bei der Herstellung der Motoren bestanden hätte, als aus Sicht der für die Motorenentwicklung zuständigen Mitarbeiter die Auflösung dieser technischen Problematik einmal gelungen war (LG Krefeld, Urteil vom 19. Juli 2017 - 7 O 147/16 -, Rn. 41, juris). Der Vortrag des Klägers erfolgt damit keineswegs ins Blaue hinein oder unsubstantiiert, sondern ist im Gegenteil allzu naheliegend (vgl. auch mit äußerst lebensnahen Erwägungen LG Dortmund, Urteil vom 06. Juni 2017 - 12 O 228/16 -, Rn. 28, juris). Es greift damit ein Fall der gesteigerten Darlegungslast der Beklagten ein.4. Der dem Kläger entstandene Vermögensschaden liegt im Abschluss des für ihn nachteiligen Kaufvertrages mit einem Gebrauchtwagenhändler über ein Kraftfahrzeug, dessen Abgaswerte unter Verwendung einer manipulierten Motorsteuerungssoftware erzielt worden sind und der hierdurch veranlassten Erfüllung seiner vertraglichen Verpflichtung zur Entrichtung des Kaufpreises (§ 433 Abs. 2 BGB).a) Das dargestellte haftungsbegründende Verhalten ist ursächlich für diesen Schadenseintritt beim Kläger geworden. Hätte dieser gewusst, dass das von ihm erworbene Fahrzeug einen höheren Stickoxid-Ausstoß als angegeben hat und zudem eine Nachbesserung erforderlich ist, um nicht den Verlust der Betriebserlaubnis zumindest zu riskieren, so hätte er das Fahrzeug nicht erworben. Insoweit ist zu berücksichtigen, dass es für die Annahme eines Zusammenhangs zwischen Täuschung - die Entwicklung und das zur Verfügung Stellen eines Motorentyps mit manipulativer Software stellt zugleich eine Täuschungshandlung dar - und Abgabe der Willenserklärung genügt, dass der Getäuschte Umstände dargetan hat, die für seinen Entschluss von Bedeutung sein konnten, und dass die Täuschung nach der Lebenserfahrung bei der Art des zu beurteilenden Rechtsgeschäfts Einfluss auf die Entschließung hat. Einer solchen Lebenserfahrung entspricht es gerade, dass die oben dargestellten Umstände auch im vorliegenden Fall Einfluss auf die Kaufentscheidung des Klägers hatten (LG Münster, a.a.O. Rn. 78, unter Bezugnahme auf BGH NJW 1995, 2361, letzteres in Bezug auf eine arglistige Täuschung). Denn kein vernünftiger Verbraucher wird sich aus objektiver Sicht für den Kauf eines Fahrzeugs entscheiden, wenn er weiß, dass gesetzliche Abgaswerte nicht eingehalten werden und überdies die Gefahr besteht, dass bei Verwendung der Software ein Entzug der Betriebserlaubnis droht.b) Entgegen der Auffassung der Beklagten liegt nach allgemeinen schadensrechtlichen Grundsätzen bereits in dem gerade durch den sittenwidrigen und damit widerrechtlichen Eingriff in die Dispositionsfreiheit veranlassen Abschluss eines Verpflichtungsgeschäfts und dessen Erfüllung durch den Kläger ein gemäß § 249 BGB ersatzfähiger Schaden (sog. persönlicher Schadenseinschlag). Darauf, ob das Verhältnis von Leistung und Gegenleistung äquivalent ist bzw. ob durch den Einsatz manipulierter Software bezogen auf den Verkehrswert eine Störung desselben eintritt, kommt es - vor allem im Verhältnis zum (deliktischen) Schädiger als Drittem - nicht zwingend an. Denn im Rahmen der Differenzmethode kann auch bei Äquivalenz von Leistung und Gegenleistung jeder Vertragsschluss einen Schaden darstellen, der für den Abschließenden aus anderen Gründen (siehe oben unter a) nachteilig ist (BGH, Urteil vom 19. Dezember 1997 - V ZR 112/96 -, Rn. 13, juris; BGH, Urteil vom 28. Oktober 2014 - VI ZR 15/14 -, Rn. 17 ff., juris).Irrelevant ist für die Schadenszurechnung bezogen auf den "Schutzzweck der Norm" auch, ob die europarechtlichen Normen des Typengenehmigungsrechts gerade auch den Vermögensinteressen des Klägers zu dienen bestimmt und damit drittschützend sind. Maßgeblich ist allein, dass der Abschluss des Kaufvertrages aufgrund eines Umstandes zurechenbar durch die Beklagte veranlasst worden ist, der für den Kläger persönlich relevant war. Dies ist nach den obigen Darlegungen der Fall.5. Den dargelegten Schaden hat die Beklagte dem Kläger auch vorsätzlich zugefügt, d.h., sie hat zumindest für möglich gehalten und billigend in Kauf genommen, dass Verbraucher - auch wie vorliegend im Rahmen von Weiterverkäufen gebrauchter Fahrzeuge - solche Fahrzeuge ihres Konzerns gerade infolge der Unkenntnis des Einsatzes manipulativer Software erwerben, weil das Nichtvorhandensein solcher Software, von der auch die Betriebserlaubnis des Fahrzeugs abhängen kann (s.o.), für den vernünftigen Verbraucher - wie vorliegend den Kläger - selbstverständlich von wesentlicher Bedeutung ist. Hieraus folgt auch, dass sich die Beklagte bei der Entwicklung und dem Einbau des Motors EA 189 nebst Software der Umstände der Sittenwidrigkeit ihres auf Profitmaximierung angelegten Handelns (s.o.) bewusst war. Eine andere Würdigung ist schlechterdings nicht möglich. Hinsichtlich des Vorsatzes gelten die obigen Ausführungen zu § 31 BGB.6. Als Rechtsfolge des Schadenersatzes ist der Kläger so zu stellen, als hätte er den für ihn nachteiligen Vertrag nicht abgeschlossen und hätte demzufolge ein Leistungsaustausch nicht stattgefunden.Verlangen kann der Kläger danach den von ihm hingegebenen Kaufpreis i.H.v. 20.700,00 € abzüglich einer Nutzungsentschädigung in Höhe von11.708,13 € gegen Rückgabe und Rückübereignung des Fahrzeugs.a) Zurück zu gewähren ist im Wege der Vorteilsausgleichung von dem Kläger zunächst, wie von ihm auch zugestanden, die Gegenleistung in Form des Eigentums und Besitzes am streitgegenständlichen Fahrzeug.b) Aus demselben Gesichtspunkt muss sich der Kläger schadensmindernd Nutzungsersatz für die gefahrenen Kilometer anrechnen lassen.aa) Eine Vorteilsausgleichung scheidet nicht deshalb aus, weil ihre Voraussetzungen nicht vorliegen würden. Insbesondere sieht die Kammer keinerlei Veranlassung, eine unbillige Entlastung der Beklagten anzunehmen. Auch der Zweck des Schadenersatzanspruchs steht einer Anrechnung nicht entgegen. Dass das Fahrzeug möglicherweise gesetzeswidrig bewegt worden ist, ändert nichts an dem Umstand, dass der Kläger hieraus Nutzen gezogen hat.bb) Die Höhe des danach anzurechnenden Nutzungsersatzes schätzt die Kammer in Anwendung des § 287 ZPO auf 11.708,13 €. Dabei wendet die Kammer die anerkannte Formel "Bruttopreis x zurückgelegte Fahrstrecke : voraussichtliche Restlaufleistung" an (MüKoBGB/Gaier, 8. Aufl. 2019, § 346 Rn. 34 f., beckonline).Hieraus ergibt sich für den vorliegenden Fall: Während der Nutzungszeit hat der Kläger 181.064 - 26.200 = 154.864 km Wegstrecke mit dem Fahrzeug zurückgelegt. Ausgehend von einer realistischerweise erwartbaren und insoweit geschätzten Gesamtlaufleistung des Fahrzeugs von 300.000 km ergibt sich eine Restlaufzeit im Zeitpunkt des Kaufs von 273.800 km. Der Nutzungsersatzanspruch beträgt somit 20.700 € x 154.864 km : 273.800 km = 11.708,13 €.II. Der Antrag auf Zinszahlung in Höhe von 4 Prozentpunkten über dem Basiszinssatz der EZB aus dem Kaufpreis in Höhe von 20.700,00 € seit dem 05.06.2012 ist begründet. Es besteht ein Anspruch aus §§ 849, 246 BGB.1. Nach § 849 BGB kann der Verletzte, sofern wegen der Entziehung einer Sache der Wert oder wegen der Beschädigung einer Sache die Wertminderung zu ersetzen ist, Zinsen des zu ersetzenden Betrags von dem Zeitpunkt an verlangen, welcher der Bestimmung des Wertes zugrunde gelegt wird. § 849 BGB erfasst jeden Sachverlust durch ein Delikt. Auch wenn der Schädiger den Geschädigten durch eine unerlaubte Handlung dazu bestimmt, eine Sache wegzugeben oder darüber zu verfügen, entzieht er sie ihm. § 849 BGB ist nach seinem Wortlaut nicht auf die Wegnahme beschränkt und verlangt nicht, dass die Sache ohne oder gegen den Willen des Geschädigten entzogen wird. Der Geschädigte muss auch nicht im Besitz der Sache gewesen sein. Eine Beschränkung auf den Verlust einer Sache ohne oder gegen den Willen des Geschädigten widerspräche auch dem Normzweck von § 849 BGB. Der Zinsanspruch soll mit einem pauschalierten Mindestbetrag den Verlust der Nutzbarkeit einer Sache ausgleichen, der durch den späteren Gebrauch derselben oder einer anderen Sache nicht nachgeholt werden kann. Der Geschädigte verliert die Sachnutzung gleichermaßen, wenn ihm eine Sache ohne seinen Willen entwendet wird und wenn er durch eine unerlaubte Handlung dazu gebracht wird, sie wegzugeben oder darüber zu verfügen (BGH, Versäumnisurteil vom 26.11.2007 - II ZR 167/06).2. Dem Kläger ist eine Sache entzogen worden. Sache im Sinne von § 849 BGB ist auch Geld. § 849 BGB ist nicht durch § 90 BGB, wonach nur körperliche Gegenstände Sachen im Sinne des Gesetzes sind, auf die Entziehung von Bargeld beschränkt. Der Zweck des § 849 BGB, den später nicht nachholbaren Verlust der Nutzbarkeit einer Sache auszugleichen, erfasst jegliche Form von Geld. Von den Nutzungen eines hingegebenen Geldbetrags ist der Geschädigte nicht nur ausgeschlossen, wenn er mit Bargeld bezahlt hat, sondern auch, wenn er eine Zahlung auf andere Art und Weise geleistet hat. Auch wirtschaftlich besteht kein Unterschied zwischen der Übergabe von Bargeld, der Übergabe eines Schecks, der Einzahlung von Bargeld und einer Überweisung auf ein Konto (BGH, 26.11.2007 - II ZR 167/06).3. Wer demnach durch eine unerlaubte Handlung dazu bestimmt wird, Geld zu überweisen oder zu übergeben, kann vom Schädiger eine Verzinsung nach § 849 BGB beanspruchen (vgl. zu § 849 BGB betreffend den "VW-Abgasskandal" auch LG Essen, Urteil vom 04.09.2017 - 16 O 245/16, und LG Stuttgart, Urteil vom 17. Januar 2019 - 23 O 178/18 -, Rn. 125 ff., juris).4. Dies ist der Fall. Die Beklagte hat den Kläger durch eine unerlaubte Handlung nach § 826 BGB zur Bezahlung des Kaufpreises bestimmt, weshalb der Kläger eine Verzinsung des Kaufpreises nach § 849 BGB verlangen kann.5. § 246 BGB sieht allerdings höchstens eine Verzinsung von 4 Prozent vor, sodass der beantragte Zinsanspruch von 4 Prozentpunkten über dem Basiszinssatz hierdurch nach oben begrenzt wird.B. Die Nebenentscheidungen beruhen auf §§ 92 Abs. 1 Satz 1, 708 Nr. 11, 709 Satz 1 und 2, 711 ZPO.C. Der Streitwert wird auf 20.700,00 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2308949.html (https://oj.is/2308949)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate10
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen4
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

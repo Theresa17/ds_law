@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG MünchenRechtsprechungEndurteil vom 30.07.2020 - 9 U 4899/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG München, Endurteil vom 30.07.2020 - 9 U 4899/19
+                      m. Fundstelle
+                      OLG München, Endurteil vom 30.07.2020 - 9 U 4899/19 = openJur 2022, 8283
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG München, Endurteil vom 30.07.2020 - 9 U 4899/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 8283
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Auf die Berufung der Beklagten wird das Urteil des Landgerichts München I vom 30.07.2019, Az. 3 O 18922/18, abgeändert. Die Klage wird abgewiesen.2. Die Klägerin hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist vorläufig vollstreckbar. Die Klägerin kann die Vollstreckung abwenden durch Sicherheitsleistung in Höhe von 110% des vollstreckbaren Betrages, wenn nicht die Beklagte vorher Sicherheit in gleicher Höhe leistet.4. Die Revision gegen dieses Urteil wird nicht zugelassen.  
+				Gründe
+				A.Die Klägerin begehrt von der Beklagten Ersatz des ihr durch den Erwerb eines PKW ..., in den ein von der Beklagten hergestellter Motor der Baureihe "EA 189" eingebaut ist, entstandenen Schadens.Mit Kaufvertrag vom 19.04.2016 erwarb die Klägerin den PKW ... von der Beklagten als Neuwagen zum Preis von 20.565,58 €. Auf Seite 2 des Kaufvertrags ist unter der Überschrift "Sonderausstattung" vermerkt: "EA 189 MOTOR!!!". Der PKW wurde der Klägerin am 15.06.2016 (Anlage K2) übergeben. Mit Schreiben vom 13.12.2018 wurde der Kaufvertrag gegenüber der Beklagten angefochten. Hilfsweise trat die Klägerin vom Kaufvertrag zurück. Am 14.07.2020 wies der PKW einen Kilometerstand von 51.712 km auf.Der PKW war mit einem von der Beklagten hergestellten Motor EA 189 ausgestattet. Für den Fahrzeugtyp wurde die EG-Typengenehmigung mit der Schadstoffklasse Euro 5 erteilt. In diesem Motor ist eine Steuerungssoftware verbaut, die erkennt, ob das Fahrzeug auf einem Prüfstand dem Neuen Europäischen Fahrzyklus (NEFZ) unterzogen wird. In diesem Fall veranlasst die Software, dass Abgase beim Durchfahren des Prüfzyklus in den Motor zurückgeführt werden, bevor sie das Emissionskontrollsystem erreichen. Durch die Aktivierung dieses Modus (sog. Modus 1) werden bei der standardisierten Kontrolle auf dem Rollenprüfstand die Grenzwerte nach Euro 5 eingehalten. Im normalen Fahrbetrieb außerhalb des Prüfstands schaltet die Software in Modus 0, bei dem eine deutlich geringere Abgasrückführung erfolgt und in der Folge der Stickoxidausstoß wesentlich höher ist, so dass die Grenzwerte nach Euro 5 nicht mehr eingehalten werden.Nach Bekanntwerden dieser sog. Umschaltlogik ordnete das Kraftfahrbundesamt als nachträgliche Nebenbestimmung zur EG-Typengenehmigung die technische Überarbeitung der Motorsteuerungssoftware an. Die Beklagte entwickelte daraufhin ein Software-Update, das vom KBA freigegeben wurde. Dieses wurde auch beim Fahrzeug der Klägerin am 20.05.2016, und damit noch vor Auslieferung des PKW an die Klägerin, aufgespielt.Wegen des weiteren Sach- und Streitstandes wird auf die tatsächlichen Feststellungen in dem landgerichtlichen Urteil Bezug genommen.Das Landgericht hat mit Endurteil vom 30.07.2019 der Klage überwiegend stattgegeben. Es begründet seine Entscheidung damit, dass der PKW vor und nach Aufspielen des Software-Updates mangelhaft sei. Eine Fristsetzung zur Mangelbeseitigung sei entbehrlich. Die Beklagte hafte zudem aus Delikt. Zudem stellte es den Annahmeverzug fest und sprach vorgerichtliche Rechtsanwaltskosten zu. Der Zinsanspruch aus § 849 BGB wurde verneint.Die Klägerin hat gegen das ihr am 01.08.2019 zugestellte Urteil mit Schriftsatz vom 30.08.2019 Berufung eingelegt (Bl. 572/573). Die Beklagte hat gegen dieses ihr am 02.08.2019 zugestellte Urteil mit Schriftsatz vom 27.08.2019 (Bl. 567/568) Berufung eingelegt. Die Berufung der Klägerin wurde mit Schriftsatz vom 04.12.2019 (Bl. 654/658) innerhalb verlängerter Frist begründet. Die Berufung der Beklagten wurde mit Schriftsatz vom 29.11.2019 (Bl. 579/652) innerhalb verlängerter Frist begründet.Die Klägerin ist der Ansicht, das Erstgericht habe einen zu hohen Betrag als Nutzungsentschädigung vom Kaufpreis in Abzug gebracht, da von einer regelmäßigen Laufleistung des PKW von 500.000 km auszugehen sei. Hinsichtlich der Kosten für die außergerichtliche Rechtsverfolgung sei eine 2,0 Geschäftsgebühr angemessen. Auch sei der Anspruch auf Zinsen aus § 849 BGB zu Unrecht verneint worden.Die Klägerin beantragt,Das Urteil des Landgerichts München I vom 30.07.2019, Az. 3 O 18922/18 wird wie folgt abgeändert:1. Die Beklagte wird verurteilt, an die Klagepartei € 20.595,58 nebst Zinsen in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit dem 17.12.2018 zu bezahlen, Zug um Zug gegen Übereignung und Herausgabe des PKW ... und Zug um Zug gegen Zahlung einer von der Beklagten zu 1) noch darzulegenden Nutzungsgentschädigung für die Nutzung des PKW ... .2. Die Beklagte wird verurteilt, an die Klagepartei Zinsen in Höhe von 4% aus € 20.565,58 seit dem 22.06.2016 bis zum 16.12.2018 zu bezahlen.3. (...)4. Die Beklagte wird verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von € 1.789,76 freizustellen.Die Beklagte beruft sich darauf, dass der Kaufvertrag erst nach Bekanntwerden des Dieselskandals geschlossen wurde und in der Vertragsurkunde auf den betroffenen Motor ausdrücklich hingewiesen wurde. Jedenfalls nach Aufspielen des Software-Updates sei der PKW nicht mehr mangelhaft.Die Voraussetzungen der deliktischen Haftung seien zudem nicht gegeben. Auch liege ein ersatzfähiger Schaden nicht vor. Der Vertragsschluss sei nicht wirtschaftlich nachteilig, da das Fahrzeug durch das Bekanntwerden der Softwaremanipulation keinen Wertverlust erlitten habe. Zum maßgeblichen Zeitpunkt der letzten mündlichen Verhandlung habe es kein Risiko der Stilllegung gegeben. Jedenfalls liege darin nur eine abstrakte Gefährdung des Vermögens. Ein Zinsanspruch aus § 849 BGB bestehe nicht.Die Beklagte beantragt,das am 30.07.2019 verkündete Urteil des Landgerichts München I, Az. 3 O 18922/18 im Umfang der Beschwer der Beklagten abzuändern und die Klage vollumfänglich abzuweisen.Beide Parteien beantragen die Zurückweisung der Berufung der jeweils anderen Partei.Wegen des weiteren Parteivorbringens im Berufungsverfahren wird Bezug genommen auf die weiteren gewechselten Schriftsätze.Die Einzelrichterin hat am 14.07.2020 mündlich zur Sache verhandelt. Auf das Protokoll vom gleichen Tag und die darin erteilten Hinweise wird Bezug genommen (Bl. 720/722).B.Die Berufung der Klägerin ist zulässig aber unbegründet. Die Berufung der Beklagten ist zulässig und begründet.I. Die Klägerin hat keine kaufrechtlichen Ansprüche gegen die Beklagte.Zwischen der Klägerin und der Beklagten kam ein Kaufvertrag zustande, da das Autohaus Moll den Vertrag ausweislich der Vertragsurkunde im Namen der Beklagten schloss. Ein Sachmangel im Sinne des § 434 BGB liegt jedoch nicht vor.Nach § 434 BGB ist die Sache frei von Sachmängeln, wenn sie bei Gefahrübergang die vereinbarte Beschaffenheit hat. Soweit eine Beschaffenheit nicht vereinbart ist, ist die Sache frei von Sachmängeln, wenn sie sich für die nach dem Vertrag vorausgesetzte Verwendung eignet. An die Vereinbarung einer Beschaffenheit sind regelmäßig strenge Anforderungen zu stellen. Sie setzt voraus, dass der Verkäufer in vertragsgemäß bindender Weise die Gewähr für das Vorhandensein einer Eigenschaft der Kaufsache übernimmt und damit seine Bereitschaft u erkennen gibt, für alle Folgen des Fehlens dieser Eigenschaft einzustehen (BGH NJW 2017, 2817).Vorliegend wurde in die Vertragsurkunde aufgenommen, dass der PKW mit dem Motor EA 189 ausgestattet ist. Ob dies die Vereinbarung einer Beschaffenheit darstellt, kann dahinstehen.Unabhängig davon war nämlich der PKW jederzeit für die nach dem Vertrag vorausgesetzte Verwendung geeignet. Dem Erstgericht ist zuzugeben, dass der durchschnittliche Käufer objektiv erwarten darf, dass die gesetzlich vorgegebenen Abgaswerte eingehalten werden und das Fahrzeug die gesetzlichen Voraussetzungen der Zulassung erfüllt und die Genehmigung nicht infolge einer Täuschung durch den Hersteller erteilt wurde. So liegt der Fall hier aber nicht. Vielmehr war bei Zulassung des fraglichen PKW die Manipulationssoftware sowohl den Zulassungsbehörden als auch der Öffentlichkeit bereits bekannt und wurde der PKW mit aufgespieltem Software-Update ausgeliefert und zugelassen. Da diese Vorgehensweise der Überwindung der Softwaremanipulation durch das Update vom KBA ausdrücklich zugelassen wurde, lagen die Voraussetzungen für einen gesetzmäßigen Gebrauch des Fahrzeugs im Straßenverkehr bei Gefahrübergang vor. Ein Sachmangel bestand daher nicht mehr. Dieser bestand auch nicht darin, dass die Klägerin einen mit dem Dieselskandal belasteten PKW erwarb, da dieses ausdrücklich vereinbart war.Etwaigen Mängelgewährleistungsansprüchen würde zudem § 442 BGB entgegenstehen. Da im Kaufvertrag ausdrücklich auf den inkriminierten Motor hingewiesen wurde, war ein etwaiger Mangel der Klägerin bei Vertragsschluss bekannt. Dagegen spricht nicht, dass der Hinweis "EA 189 MOTOR!!!" im Vertrag nicht näher erläutert wurde. Aus der Presseberichterstattung war der interessierten Öffentlichkeit der "Dieselskandal" im Allgemeinen und die Betroffenheit von VW-Wagen im Besonderen bekannt. Die Berichterstattung erwähnte auch ausdrücklich den Motor EA 189. Die Beklagte weist zu Recht darauf hin, dass die Motorbezeichnung regelmäßig nicht im Kaufvertrag erwähnt wird. Der ausdrückliche Hinweis darauf in Großbuchstaben und mit drei Ausrufezeichen versehen musste, selbst wenn im Verkaufsgespräch darauf nicht eingegangen worden sein sollte, von der Klägerin bemerkt und in den richtigen Kontext eingeordnet worden sein. Auch wenn er unter der Überschrift "Sonderausstattung" stand, so war er doch nicht, wie die anderen Elemente der Sonderausstattung, mit einem zusätzlichen Preis versehen, sodass er als werterhöhendes Accessoire nicht verstanden werden konnte. Der Klägerin ist daher positive Kenntnis von dem Umstand zu unterstellen, dass sie einen PKW mit dem von der Manipulationssoftware betroffenen Motor der Beklagten erwarb. Ihr stand daher ein Rücktrittsrecht aus §§ 437, 440, 323, 326 Abs. 5 BGB nicht zu.II. Die Beklagte haftet der Klägerin auch nicht aus den §§ 826, 31 BGB Im Zusammenhang mit dem Kaufvertragsschluss der Parteien lag kein sittenwidriges Verhalten der Beklagten vor. Die im Rahmen des § 826 BGB erforderliche Verwerflichkeit kann sich auch aus einer bewussten Täuschung ergeben. Insbesondere bei mittelbaren Schädigungen kommt es darauf an, dass den Schädiger das Unwerturteil, sittenwidrig zu gehandelt zu haben, gerade auch in Bezug auf die Schäden desjenigen trifft, der Ansprüche aus § 826 BGB geltend macht (BGH Urteil vom 25.05.2020, VI ZR 252/19, Rz. 15). Vorliegend trifft gerade diese Voraussetzung nicht zu. Im Gegensatz zu den Fällen, in denen bei Inverkehrbringen der fraglichen Fahrzeuge und dem erstmaligen Verkauf über die Voraussetzungen der Zulassungsfähigkeit durch die Beklagte getäuscht wurde und die Käufer dem tatsächlichen Risiko ausgesetzt waren, das Fahrzeug im Straßenverkehr nicht mehr nutzen zu können, bestand vorliegend diese Gefahr nicht. Der gegenständliche PKW wurde bereits mit Software-Update ausgeliefert und konnte daher regelkonform im Straßenverkehr genutzt werden. Zu keinem Zeitpunkt bestand das Risiko der Betriebsbeschränkung oder -untersagung, da das Update vom KBA zugelassen wurde.Die Beklagte hat zudem, wie bereits ausgeführt wurde, die Klägerin auf den Umstand, dass der gegenständliche PKW vom Dieselskandal betroffen ist, ausdrücklich hingewiesen. Auch lag keine Täuschung der zuständigen Typgenehmigungs- und Marktüberwachungsbehörde, des KBA, vor.Zum Zeitpunkt des Inverkehrbringens des gegenständlichen PKW kann der Beklagten daher keine verwerfliche Gesinnung und damit sittenwidriges Verhalten vorgeworfen werden.Mit derselben Begründung haftet die Beklagte auch nicht aus den §§ 823 Abs. 2 BGB i.V.m. § 263 StGB oder §§ 6, 27 EG-FGV.III. Da eine Haftung der Beklagten ausscheidet, bestehen auch die weiteren Ansprüche der Klägerin auf Feststellung des Annahmeverzugs, Zinsen und Freistellung von vorgerichtlichen Rechtsanwaltskosten nicht.C. Kosten und Nebenentscheidungen:Die Kostenentscheidung beruht auf § 97 ZPO. Die Entscheidung zur vorläufigen Vollstreckbarkeit findet ihre Grundlage in §§ 708 Nr. 10, 711 ZPO.Die Revision war nicht zuzulassen, weil die Voraussetzungen des § 543 Abs. 2 ZPO nicht vorliegen. Die Entscheidung steht im Einklang mit der ober- und höchstrichterlichen Rechtsprechung.
+			
+			
+			
+			Permalink: https://openjur.de/u/2394354.html (https://oj.is/2394354)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

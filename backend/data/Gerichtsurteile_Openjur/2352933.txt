@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBaden-WürttembergOrdentliche GerichtsbarkeitOLG StuttgartRechtsprechungUrteil vom 17.06.2020 - 4 U 38/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Stuttgart, Urteil vom 17.06.2020 - 4 U 38/19
+                      m. Fundstelle
+                      OLG Stuttgart, Urteil vom 17.06.2020 - 4 U 38/19 = openJur 2021, 27386
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Stuttgart, Urteil vom 17.06.2020 - 4 U 38/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 27386
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Auf die Berufungen des Klägers und der Beklagten wird das Urteil des Landgerichts Stuttgart vom 12.12.2018, Az. 2 O 147/18, teilweise abgeändert und wie folgt neu gefasst:(1) Die Beklagte wird verurteilt, an den Kläger 13.654,21 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 15.09.2018 zu zahlen Zug um Zug gegen Übereignung und Herausgabe des Fahrzeugs der Marke Audi vom Typ A1 1.6TDI mit der Fahrzeugidentifikationsnummer (FIN) W... nebst zwei Fahrzeugschlüsseln, Kfz-Schein, Kfz-Brief und Serviceheft.(2) Die Beklagte wird weiter verurteilt, an den Kläger 29.345,18 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 15.09.2018 zu zahlen Zug um Zug gegen Übereignung und Herausgabe des Fahrzeugs der Marke VW vom Typ Passat CC 2.0 TDI Coupé mit der Fahrzeugidentifikationsnummer (FIN) W... nebst zwei Fahrzeugschlüsseln, Kfz-Schein, Kfz-Brief und Serviceheft.(3) Die Beklagte wird ferner verurteilt, den Kläger von den durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen Kosten in Höhe von 2.251,48 EUR freizustellen.(4) Im Übrigen wird die Klage abgewiesen.2. Die weitergehenden Berufungen werden zurückgewiesen.3. Von den Kosten des Berufungsverfahrens tragen der Kläger 27 % und die Beklagte 73 %. Von den Kosten des erstinstanzlichen Verfahrens tragen der Kläger 28 % und die Beklagte 72 %.4. Das Urteil und - soweit die Berufungen zurückgewiesen werden - das in Ziffer 1 genannte Urteil des Landgerichts Stuttgart sind vorläufig vollstreckbar. Der jeweilige Vollstreckungsschuldner kann die Vollstreckung gegen Sicherheitsleistung in Höhe von 110 % des auf Grund des Urteils vollstreckbaren Betrags abwenden, wenn nicht der Vollstreckungsgläubiger zuvor Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrags leistet.5. Die Revision gegen dieses Urteil wird zugelassen, soweit die Anträge des Klägers auf Zahlung von Zinsen i. H. v. 4 % aus 16.340,00 EUR für den Zeitraum 23.12.2014 bis 14.09.2018 und aus 27.418,84 EUR für den Zeitraum 22.07.2011 bis 14.09.2018 (Deliktszinsen gem. § 849 BGB) abgewiesen werden.BeschlussDer Streitwert wird für das Berufungsverfahren auf bis 50.000,00 EUR festgesetzt.  
+				Gründe
+				I.Der Kläger verlangt von der Beklagten Schadensersatz, weil er zwei Pkw erworben hat, die vom sog. "Diesel(abgas)skandal" betroffen sind.1.Der Kläger erwarb die auf S. 3 Absätze 1 und 2 des landgerichtlichen Urteils (i. F.: LGU) aufgeführten beiden Fahrzeuge. In beiden ist ein Dieselmotor des Typs EA 189 verbaut, dessen Herstellerin die Beklagte ist. Die Beklagte ist ferner Herstellerin des einen Fahrzeugs (VW Passat), nicht aber des anderen (Audi A1).Die Motorsteuerung wurde von Mitarbeitern der Beklagten mit einer Software ausgestattet, die erkannte, wenn das Fahrzeug auf einem Prüfstand den "Neuen Europäischen Fahrzyklus" (NEFZ) zur Ermittlung des Abgasausstoßes durchfahren hat. (Nur) In diesem Fall wurde die Abgasrückführung erhöht und der Schadstoffausstoß, insbesondere von Stickoxiden (NOx), vermindert ("Modus 1"). Die gesetzlichen Grenzwerte wurden in diesem Modus eingehalten. Im Betriebsmodus bei "normalem Straßenbetrieb" war die erhöhte Abgasrückführung nicht aktiviert, der Schadstoffausstoß war höher ("Modus 0").Der Kläger ließ bei beiden Fahrzeugen ein Software-Update der Beklagten aufspielen, mit dem der NOx-Ausstoß überarbeitet werden soll.Der Kläger hat vorgebracht, die Software habe eine verbotene Abschalteinrichtung dargestellt. Die Beklagte habe sittenwidrig und betrügerisch gehandelt. Der Mangel sei trotz des Updates nicht behebbar. Der Nutzungsersatz sei auf Basis einer Gesamtfahrleistung von 350.000 km zu berechnen.Die Beklagte hat vorgebracht, es habe keine verbotene Abschalteinrichtung vorgelegen, noch hafte sie hierfür. Sie habe weder hinsichtlich eines möglichen Schadens noch hinsichtlich einer möglichen Sittenwidrigkeit vorsätzlich gehandelt. Das Software-Update habe keine negativen Auswirkungen auf die vom Kläger gekauften Pkw. Ein Nutzungsersatz sei auf Basis einer Gesamtfahrleistung von 200.000 – 250.000 km zu berechnen.2.Das Landgericht hat der Klage überwiegend stattgegeben.Der Kläger habe gegen die Beklagte einen Schadensersatzanspruch aus §§ 831, 826 BGB. Vorliegend habe zumindest ein Verrichtungsgehilfe der Beklagten gehandelt. Die Motorsteuerungssoftware sei unstreitig durch Entwicklungs- und/oder Produktionspersonal der Beklagten im Rahmen der zugewiesenen Aufgaben eingebaut worden.Der für die Beklagte handelnde Verrichtungsgehilfe habe den Tatbestand einer unerlaubten Handlung in Form der vorsätzlichen sittenwidrigen Schädigung gem. § 826 verwirklicht. Die konkludente Täuschung des Endkunden durch Inverkehrbringen der Fahrzeuge weise ein besonderes Maß an Verwerflichkeit auf und sei sittenwidrig.Der Kläger habe durch den Vertragsschluss einen Schaden erlitten, weil die Fahrzeuge zwar formal über eine erteilte Typgenehmigung verfügt, dieser aber nicht entsprochen hätten, weil die verwendete Software mit der Umschaltlogik eine Umgehung der VO (EG) Nr. 715/2007 und damit eine unzulässige Fahrzeugmanipulation dargestellt und damit Nebenbestimmungen zur Typ-Genehmigung oder gar deren Widerruf gedroht hätten. Das Aufspielen des Software-Updates habe den bereits im Vertragsschluss selbst liegenden, voll realisierten Schaden weder verhindern noch mindern können.Die Beklagte habe sich nicht exkulpiert (§ 831 Abs. 1 Satz 2 BGB).Der Kläger sei gem. § 249 BGB so zu stellen, als ob der Vertrag nie geschlossen worden wäre. Er könne den gezahlten Kaufpreis zurückverlangen und habe im Wege des Vorteilsausgleichs die Fahrzeuge herauszugeben und die gezogenen Nutzungen. Gemäß § 287 ZPO sei die Gesamtlaufleistung jeweils auf 250.000 km zu schätzen.Der Kläger könne Zinsen gem. § 849 BGB für das weggegebene Geld – ebenfalls eine Sache – fordern.Vorgerichtliche Rechtsanwaltskosten seien ersatzfähig, allerdings nur eine 1,3-fache Geschäftsgebühr, weil es sich bekanntermaßen um ein Massengeschäft handle, bei dem mit Textbausteinen operiert werde. Der Gegenstandwert bemesse sich nach dem addierten Kaufpreis beider Kaufverträge.3.Gegen dieses Urteil wenden sich die Berufung der Beklagten und die Anschlussberufung des Klägers.Die Beklagte verfolgt ihr Ziel der vollständigen Klagabweisung weiter und bringt vor, es liege kein sittenwidriges Handeln vor. Es fehle mangels ihrer Beteiligung an den Erwerbsvorgängen auch an einem täuschenden und manipulativen Verhalten ihrerseits gegenüber dem Kläger. Das Landgericht habe keine Aussage getroffen, durch welche konkrete Handlung sie auf das Vorstellungsbild des Klägers eingewirkt habe. Es habe übergangen, dass der Kläger die Kausalität zwischen der Motorsteuerungssoftware und dem Vertragsschluss nicht dargelegt und unter Beweis gestellt habe. Stattdessen stelle es durch keinerlei tatsächliche Anhaltspunkte begründete Vermutungen und allgemeine Lebenserfahrungsgrundsätze auf. Auch unterstelle es rechtsfehlerhaft einen ersatzfähigen Vermögensschaden des Klägers.Selbst wenn ein Hauptanspruch begründet wäre, bestünde kein Anspruch auf Deliktszinsen aus § 849 BGB.Die Beklagte beantragt:Auf die Berufung der Beklagten wird das Urteil des Landgerichts Stuttgart vom 12. Dezember 2018, Az. 2 O 147/18, im Umfang der Beschwer der Beklagten abgeändert und die Klage insgesamt abgewiesen.Der Kläger beantragt:die Berufung zurückzuweisen.Er verteidigt das landgerichtliche Urteil, soweit es seiner Klage stattgegeben hat.Das Landgericht habe allerdings zu Unrecht die Nutzungsentschädigung auf Basis einer Gesamtlaufleistung von 250.000 km statt wie zutreffend i. H. v. 350.000 km berechnet. Zudem sei aufgrund der Schwierigkeit und des Umfangs der anwaltlichen Tätigkeit sowie der Bedeutung für den Auftraggeber eine 2,0-fache Geschäftsgebühr erstattungsfähig.Der Kläger beantragt deshalb im Wege der Anschlussberufung:1. die Beklagte zu verurteilen, über den vom Landgericht zugesprochenen Betrag hinausgehend an den Kläger einen Betrag von 663,17 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen.2. die Beklagte zu verurteilen, über den vom Landgericht zugesprochenen Betrag hinausgehend an den Kläger einen Betrag in Höhe von 4.276,43 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen.3. Die Beklagte zu verurteilen, über den vom Landgericht zugesprochenen Betrag hinausgehend den Kläger von durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 297,02 EUR freizustellen.Die Beklagte beantragt:Die Anschlussberufung zurückzuweisen.4.Im Übrigen wird für das Vorbringen der Parteien auf die eingereichten Schriftsätze nebst Anlagen und die Protokolle der Sitzungen des Senats vom 16.09.2019 und vom 03.06.2020 verwiesen.II.Die Berufung der Beklagten ist zulässig, insbesondere form- und fristgerecht eingelegt und begründet worden. Die Anschlussberufung des Klägers ist ebenfalls zulässig. Sie ist innerhalb der Berufungserwiderungsfrist eingelegt (§ 524 Abs. 2 Satz 2 ZPO, siehe Bl. 299 und 303 f.) und in der Anschlussschrift begründet worden (§ 524 Abs. 3 Satz 1 ZPO, siehe Bl. 304 und 339 ff.).Die Berufung hat nur insoweit Erfolg, als sie die Zuerkennung von Deliktszinsen gem. § 849 BGB und die Feststellung des Annahmeverzugs durch das Landgericht angreift.Die Anschlussberufung hat insoweit Erfolg, als die im Rahmen des Vorteilsausgleichs zu berücksichtigende Nutzungsentschädigung für die vom Kläger mit den Fahrzeugen gefahrenen km auf der Basis einer Gesamtlaufleistung der Fahrzeuge von jeweils 300.000 km (statt 250.000 km wie vom Landgericht angenommen) zu berechnen ist sowie – im Ergebnis – hinsichtlich der vorgerichtlichen Rechtsanwaltskosten.Im Einzelnen:1.Die Beklagte haftet dem Kläger aufgrund der auch in den streitgegenständlichen Fahrzeugen eingebauten Motorsteuerungssoftware, die eine unzulässige Abschalteinrichtung darstellt, gemäß §§ 826, 31 BGB auf Schadensersatz. Darauf ist die Beklagte in Ziff. 3 der Verfügung vom 22.04.2020 hingewiesen worden.a)Insoweit kann zur Begründung vollumfänglich auf die Ausführungen des Bundesgerichtshofs in dessen Urteil vom 25.05.2020 (VI ZR 252/19) verwiesen werden.b)Der vorliegende Fall gibt zur Haftung der Beklagten lediglich zu folgenden ergänzenden Ausführungen Anlass:aa)Soweit die Beklagte auf S. 5 ihres Schriftsatzes vom 23.09.2019 (Bl. 358) Beweis durch Parteivernehmung des Klägers dafür angeboten hat, dass der Vertragsschluss nicht ungewollt war und es an der Kausalität einer ihr zurechenbaren Handlung für den Abschluss des Kaufvertrags fehle, ist sie mit diesem Beweisantritt nach § 531 Abs. 2 Satz 1 ZPO ausgeschlossen. Zulassungsgründe nach § 531 Abs. 2 Satz 1 Nr. 1 – 3 sind nicht vorgetragen und nicht ersichtlich, nachdem die Beklagte die Themen Kausalität und Kaufmotivation bereits in erster Instanz gesehen und explizit thematisiert hatte (Klagerwiderung S. 35 unter IV., Bl. 138, und S. 62 – 64 unter e), Bl. 165 – 167, in Reaktion auf S. 83 letzter Absatz bis 85 der Klageschrift).bb)Der Umstand, dass die Beklagte hinsichtlich eines der beiden streitgegenständlichen Fahrzeuge (Audi A1) nur den Motor hergestellt (und an die Herstellerin geliefert) hat und nicht auch den gesamten vom Kläger erworbenen Pkw, rechtfertigt keine andere Bewertung und ändert an der Verwirklichung des § 826 BGB nichts. Der Beklagten (genauer: den für die Beklagte verantwortlichen Personen i. S. v. § 31 BGB) als Konzerngesellschaft ist völlig klar gewesen, dass die von ihr gebauten Motoren in Fahrzeuge ihrer Tochtergesellschaften oder der sonstigen Erwerber des Motors, hier der Marke Audi, eingebaut und diese Fahrzeuge dann in den Verkehr gebracht werden, da dies gerade Sinn und Zweck der Herstellung und des Vertriebs der Motoren an die Tochtergesellschaften gewesen ist. Es macht wertungsmäßig keinen Unterschied, ob der Motorhersteller den von ihm mit einer unzulässigen Abschalteinrichtung versehenen Motor in von ihm selbst produzierte Fahrzeuge einbaut und diese dann in Verkehr bringt oder er derartige Motoren an Fahrzeughersteller vertreibt, die dann die Motoren in von ihnen hergestellte Fahrzeuge einbauen und diese schließlich in Verkehr bringen.2.Mithin hat die Beklagte auch hier entsprechend der Entscheidung des Bundesgerichtshofs vom 25.05.2020 (VI ZR 252/19) dem Kläger als Schaden den Kaufpreis für die erworbenen Fahrzeuge zu ersetzen, freilich Zug um Zug gegen Übergabe und Übereignung der beiden Fahrzeuge und unter Abzug eines Vorteilsausgleichs für die vom Kläger gezogenen Nutzungen.a)Insoweit schätzt der Senat die Gesamtfahrleistung der beiden Pkw in Anwendung von § 287 ZPO auf jeweils 300.000 km. Dies entspricht der vom Bundesgerichtshof in seinem Urteil vom 25.05.2020 gebilligten Schätzung der dortigen Vorinstanz für einen VW Sharan 2.0 TDI (a.a.O., Rn. 83) und scheint auch für die hier in Rede stehenden Fahrzeugtypen (Audi A1 1.6 TDI und VW Passat CC 2.0 TDI Coupé) angemessen. Der Senat hat ferner bereits in Ziff. 3 der Verfügung vom 22.04.2020 zu erkennen gegeben, dass er die Gesamtfahrleistung auf jedenfalls 300.000 km schätzen wird. Weiterer Vortrag der Parteien ist dennoch nicht erfolgt. Schließlich hat die Beklagte ihre Behauptung einer Gesamtfahrleistung i. H. v. 250.000 km schon nicht unter Beweis gestellt, obwohl sie als Schädiger die Beweislast für Vorteile trifft, die den Schaden mindern sollen (BGH NJW-RR 2004, 79, 81).b)Die allgemein übliche Formel (Bruttokaufpreis geteilt durch die zum Zeitpunkt des Erwerbs zu erwartende Restlaufleistung multipliziert mit den vom Käufer gefahrenen km), die auch in Fällen der vorliegenden Art angemessen erscheint (vgl. BGH, a.a.O., Rn. 80 - 82) ergibt aufgrund der unstreitigen Kilometerstände von 92.271 (VW Passat) bzw. 71.592 (Audi A1 - siehe S. 2 des Protokolls vom 03.06.2020) einen Nutzungsersatz von13.034,82 EUR für den VW Passat (=42.380 EUR : 300.000 km x 92.271 km)und2.685,79 EUR für den Audi A1 (=16.340 EUR : (300.000 km – 26.664 km) x (71.592 km – 26.664 km).Daraus folgt für den Passat ein Schadenersatzanspruch i. H. v. 29.345,18 EUR (statt der vom Landgericht mit LGU Tenor Ziff. 2 zuerkannten 27.418,84 EUR) und für den Audi A1 ein solcher von 13.654,21 EUR (statt der vom Landgericht in Ziff. 2 des Tenors zuerkannten 14.195,73 EUR).3.Deliktszinsen stehen dem Kläger entgegen der Auffassung des Landgerichts nicht zu, worauf in der Verfügung vom 22.04.2020 unter Ziff. 3 hingewiesen wurde.Zwar kann die Vorschrift des § 849 BGB jeden Sachverlust durch ein Delikt erfassen und erstreckt sich auch auf Geld (BGH, Versäumnisurt. v. 26.11.2007, II ZR 167/06, NJW 2008, 1084). Der Regelung des § 849 BGB kann aber kein allgemeiner Rechtssatz dahin entnommen werden, dass deliktische Schadensersatzansprüche stets von ihrer Entstehung an zu verzinsen seien (so ausdrücklich BGH, Urt. v. 12.06.2018, KZR 56/16, NJW 2018, 2479, 2482 Rn. 45). Der Zweck der Vorschrift richtet sich darauf, einen Verlust an der Nutzbarkeit der weggegebenen Sache als pauschalierten Mindestbetrag auszugleichen, der durch den späteren Gebrauch derselben oder einer anderen Sache nicht nachgeholt werden kann (Wagner in Münchener Kommentar zum BGB, 7. Aufl. 2017, § 849 Rn. 2). Bei Anwendung des § 849 BGB ergibt sich ein pauschalierter Mindestbetrag unabhängig von einer im Einzelfall tatsächlich gezogenen Nutzung; die Vorschrift hat deshalb eine andere Zielrichtung als die im Rahmen des Vorteilsausgleichs zu berücksichtigende konkret vorgenommene Fahrzeugnutzung. Im vorliegenden Fall hat der Kläger als Käufer des streitgegenständlichen Fahrzeugs den bezahlten Kaufpreis nicht ersatzlos weggeben, sondern im Gegenzug Eigentum und Besitz am streitgegenständlichen Pkw einschließlich der damit verbundenen abstrakten Nutzungsmöglichkeit erhalten, wobei die Möglichkeit zur Nutzung für den Kläger nicht fühlbar eingeschränkt gewesen war (OLG Stuttgart, Urt. v. 28.11.2019, 14 U 89/19, BeckRS 2019, 30073 Rn. 55; Urt. v. 26.11.2019, 12 U 142/19, BeckRS 2019, 30074 Rn. 68; OLG Hamm, Urt. v. 10.09.2019, 13 U 149/18, Rn. 81; OLG Karlsruhe, Urt. v. 06.11.2019, 13 U 37/19 Rn. 131 ff. m. Nachw.; Riehm, NJW 2019, 1105, 1109).Für die Anwendung des § 849 BGB ist unter diesen Umständen kein Raum. Der abweichenden Auffassung, die etwa vom Oberlandesgericht Oldenburg (Urt. v. 02.10.2019, 5 U 47/19, Rn. 41 ff.), vom 17. Zivilsenat des Oberlandesgerichts Karlsruhe (Urt. v. 19.11.2019, 17 U 146/19, Rn. 110 ff., BeckRS 2019, 28963) oder vom Oberlandesgericht Koblenz vertreten worden ist, das bei wirtschaftlicher Betrachtung zumindest einen teilweisen Entzug des Kaufpreises gesehen hat (Urt. v. 16.09.2019, 12 U 61/19, r+s 2019, 657, 662 f.), schließt sich der Senat deshalb nicht an.Der Senat sieht im Übrigen auch nicht eine Vergleichbarkeit des vorliegend zu beurteilenden Sachverhalts mit demjenigen, der der Entscheidung des Bundesgerichtshofs vom 12.6.2018 (NJW 2018, 2479 ff, RZ 44- 46 nach juris) zugrunde lag. Ungeachtet der dort zu beachtenden Besonderheit eines Kartellrechtsverstoßes, bei dem nach Auffassung des Kartellsenats des Bundesgerichtshofs eine entsprechende Anwendung von § 849 BGB einem unionsrechtlichen Postulat genügen sollte, kann hier schon wegen der uneingeschränkten Nutzung des Fahrzeugs durch den Kläger nicht erkannt werden, dass und inwieweit von diesem ein überhöhter Preis im Sinne der kartellrechtlichen Erwägungen des Bundesgerichtshofs gezahlt worden wäre.4.Annahmeverzug ist entgegen der Auffassung des Landgerichts nicht eingetreten, worauf in Ziff. 3 der Verfügung vom 22.04.2020 ebenfalls hingewiesen wurde.a)Wie der Bundesgerichtshof in Rn. 85 seines Urteils vom 25.05.2020 (VI ZR 252/19) bestätigt hat, muss auch das wörtliche Angebot der geschuldeten Leistung entsprechen (Palandt-Grüneberg, BGB, 79. Aufl., § 295 Rn. 2), d. h., die Leistung muss so, wie sie zu bewirken ist, angeboten worden sein (BGH NJW 1996, 923, 924), weshalb eine Zuvielforderung des Schuldners den Eintritt des Annahmeverzugs des Gläubigers hindert (BGH NJW 2005, 2848, 2851 unter II. 4. a); OLG Stuttgart, Urteil vom 12.12.2019, 13 U 13/19, juris Rn. 144 m.w.N. aus der obergerichtl. Rspr.).b)Der zuletzt genannte Fall ist hier gegeben: Der Kläger hat vorgerichtlich in den Anwaltsschreiben vom 27.02.2018 (Anl. K 27 und K 27a) die Zahlung des jeweils vollen Kaufpreises verlangt, ohne einen Nutzungsersatz für die von ihm gefahrenen Kilometer abzuziehen. Im Prozess hat er von Anfang und bis heute zu Unrecht (s. o. 3.) Zinsen gem. § 849 BGB verlangt. Damit hat er durchgängig die Zahlung eines deutlich höheren Betrags verlangt, als er beanspruchen kann.5.Zu Recht hat das Landgericht hingegen Zinsen i. H. v. 5 %-Punkten über dem Basiszinssatz ab Rechtshängigkeit zuerkannt. Zwar hindert die Zuvielforderung des Klägers auch den Eintritt des Schuldnerverzugs der Beklagten (vgl. BGH NJW 2005, 2848, 2851 unter II. 4. a), hierauf bezugnehmend BGH, Urteil vom 25.05.2020, VI ZR 252/19, Rn. 86), Rechtshängigkeitszinsen gem. § 291 BGB wie hier geltend gemacht sind dennoch geschuldet (vgl. den Tenor des Urteils vom 25.05.2020, VI ZR 252/19).6.Hingegen ist auf die Anschlussberufung hin die Beklagte zur Freistellung des Klägers von weiteren 297,02 EUR und damit von insgesamt 2.251,48 EUR vorgerichtlichen Rechtsanwaltskosten zu verurteilen.a)Zwar besteht kein Anlass, statt der vom Landgericht zuerkannten 1,3-fachen Geschäftsgebühr wie vom Kläger gefordert eine 2,0-fache anzusetzen.aa)Gem. Nr. 2300 des VV zum RVG (Anl. 1 zu § 2 Abs. 2) darf mehr als die 1,3-fache Geschäftsgebühr nur angesetzt werden, wenn die Tätigkeit des Rechtsanwalts "umfangreich oder schwierig" war (BGH NJW 2012, 2813 Rn. 8, 11), was bedeutet, dass sie "überdurchschnittlich" sein muss (BGH, a.a.O., Rn. 8; BGH, Urteil vom 28.05.2013, XI ZR 421/10, Rn. 50).bb)Diese Voraussetzungen liegen hier nicht vor. Zwar behauptet der Kläger, es handle sich um einen "insgesamt einzigartigen Fall", "in der deutschen Rechtsgeschichte existiere kein nur annähernd vergleichbarer". Dies trifft aber nur auf den Dieselskandal insgesamt zu. Die vorliegende Einzelklage und die vorausgegangene vorgerichtliche Geltendmachung der mit dieser verfolgten Ansprüche ist "Massenware" (vgl. auch die als Anl. K 27, 27b vorgelegten Schreiben vom 27.02.2018). Die Ausführungen auf S. 39 – 41 der Berufungserwiderung berücksichtigen nicht hinreichend, dass es sich bei den "Dieselfällen" – wie das Landgericht auf LGU S. 17 unter cc) richtig ausführt – um ein "Massengeschäft" handelt, bei dem überwiegend mit Textbausteinen operiert wird. Nach der Rechtsprechung des Bundesgerichtshofs ist die Arbeitsersparnis durch gleichlaufende Parallelfälle maßgeblich zu berücksichtigen, es kommt auf den Zeitaufwand für das konkrete Mandat an (BGH, Urteil vom 28.05.2013, XI ZR 421/10, Rn. 50, sowie Urteil vom 26.02.2013, XI ZR 345/10, Rn. 44). Der Kläger hat nicht geltend gemacht, dass die Schriftsätze in vorliegender Sache (ausnahmsweise) nicht überwiegend aus Textbausteinen bestehen und die "Dieselklagen" für die Kanzlei seiner Prozessbevollmächtigten kein Massengeschäft darstellen, worauf die Beklagte bereits in der Klagerwiderung (S. 84, Bl. 187) hingewiesen hat. Soweit der Kläger auf S. 41/42 der Berufungserwiderung mit der Bedeutung der Sache für den Auftraggeber operiert, ist dies von vornherein irrelevant, da unerheblich für Umfang oder Schwierigkeit der Sache.b)Die Freistellung von vorgerichtlichen Rechtsanwaltskosten in der mit der Anschlussberufung geforderten Höhe ist dennoch zuzuerkennen, weil es sich bei der vorgerichtlichen Geltendmachung der Ansprüche durch die anwaltlichen Bevollmächtigten nicht um eine, sondern um zwei Angelegenheiten i. S. d. RVG handelte, da es um zwei zu völlig unterschiedlichen Zeitpunkten abgeschlossene Kaufverträge über unterschiedlicher Fahrzeuge verschiedener Hersteller geht. Hierauf ist in der Verfügung vom 22.04.2020 unter Ziff. 3 ebenfalls hingewiesen worden, ohne dass dem die Parteien widersprochen hätten. Die sich aufgrund dessen errechnenden vorgerichtlichen Rechtsanwaltskosten übersteigen den geltend gemachten Betrag von 2.251,48 EUR selbst dann, wenn man annimmt, dass die zum Zeitpunkt der mündlichen Verhandlung vor dem Landgericht unstreitigen Kilometerstände (siehe LGU S. 3 Absätze 1 und 2) schon zum Zeitpunkt der Beauftragung der anwaltlichen Bevollmächtigten vorlagen, wie nachfolgende Berechnung zeigt:VW Passat:Höhe des berechtigt geltend gemachten Anspruchs: 42.380 EUR - (42.380 EUR : 300.000 km x 88.256 km) = 29.912,37 EURRechtsanwaltskosten hieraus: 1.358,66 EUR (=1,3-fache Geschäftsgebühr aus bis 30.000 EUR zuzüglich 20 EUR Auslagenpauschale und 19 %Mehrwertsteuer).Audi A1:Höhe des berechtigt geltend gemachten Anspruchs: 16.340 EUR - (16.340 EUR : (300.000 km – 26.664 km) x (55.972 km – 26.664 km) = 14.587,97 EURRechtsanwaltskosten hieraus: 1.029,35 EUR (=1,3-fache Geschäftsgebühr aus bis 16.000 EUR zuzüglich 20 EUR Auslagenpauschale und 19 %Mehrwertsteuer).Mithin betragen die vorgerichtlichen Rechtsanwaltskosten für beide Angelegenheiten (Fahrzeuge) 2.388,01 EUR.c)Zinsen hierauf sind nicht geschuldet (Freistellung, keine Geldschuld).III.Die Kostenentscheidung beruht auf §§ 92 Abs. 1, 97 Abs. 1 ZPO. Dabei hat der Senat das Unterliegen des Klägers hinsichtlich der Deliktszinsen aus § 849 BGB bei der Bildung der Kostenquote berücksichtigt, weil insoweit angesichts des in Rede stehenden Betrages nicht mehr von einer verhältnismäßig geringfügigen Zuvielforderung i. S. v. § 92 Abs. 2 Nr. 1 ZPO ausgegangen werden kann. Denn die eingeklagten Deliktszinsen ergeben hier einen Betrag von ca. 14.500 EUR und übersteigen damit bei weitem die richtigerweise (siehe BGH NJW 2019, 2308 Rn. 56; BGH, Beschl. v. 19.09.2006, X ZR 49/05, Rn. 9; Thomas/Putzo-Hüßtege, ZPO, 40. Aufl., § 92 Rn. 8; Musielak/Voit-Flockenhaus, ZPO, 17. Aufl., § 92 Rn. 2 und 6) bei 10 % anzusetzende Geringfügigkeitsgrenze.Der Ausspruch über die vorläufige Vollstreckbarkeit beruht auf §§ 708 Nr. 10, 711 ZPO.Die Zulassung der Revision ist auf die in der Rechtsprechung der Oberlandesgerichte umstrittene Frage, ob ein vom "Dieselskandal" geschädigter Käufer wie hier der Kläger Anspruch auf den Deliktszins aus § 849 BGB hat, zu beschränken. Im Übrigen sind die sich stellenden Rechtsfragen – insbesondere durch das Urteil des Bundesgerichtshofs vom 25.05.2020 – geklärt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2352933.html (https://oj.is/2352933)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate17
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen4
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

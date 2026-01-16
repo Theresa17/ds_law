@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG KemptenRechtsprechungEndurteil vom 03.06.2022 - 63 O 312/22
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Kempten, Endurteil vom 03.06.2022 - 63 O 312/22
+                      m. Fundstelle
+                      LG Kempten, Endurteil vom 03.06.2022 - 63 O 312/22 = openJur 2023, 1819
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Kempten, Endurteil vom 03.06.2022 - 63 O 312/22
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2023, 1819
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger trägt die Kosten des Rechtsstreits.3. Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrages.Beschluss:Der Streitwert wird festgesetzt auf Euro 41.715,52. 
+				Tatbestand
+				Der Kläger erwarb am 16.11.2017 den streitgegenständlichen Audi Q5, 2.0 TDI (FIN: ...47) von der Autohaus zu einem Gesamtpreis von Euro 43.880,00 als Gebrauchtwagen (Anl. K 1). Beim Kauf hatte das Fahrzeug einen Kilometerstand von 27.800 km. Die Zulassungsbescheinigung Teil 1 weist unter Ziff. 14 die Schadstoffklasse Abgasnorm Euro 6 aus (Anl. K 2). Zur Finanzierung des Kaufpreises schloss der Kläger ein Darlehen in Höhe von 41.096,95 Euro (Brutto Darlehensbetrag) bei der A.  Bank ab (Darlehensvertrag v. 17.12.2017, Anl. K 1a). Das Darlehen ist bereits vollständig abgelöst (Anl. K 1b). In dem Fahrzeug ist der von der Beklagten hergestellte Dieselmotor des Typs EA 288 verbaut.Der Kläger behauptet nun im Wesentlichen, von der Beklagten sittenwidrig und betrügerisch geschädigt worden zu sein. Er sei auf Grund der Herstellerverlautbarungen davon ausgegangen, dass der NOx-Ausstoß innerhalb der für die Abgasnorm Euro 6 geltenden Bestimmungen liege. Ihm sei es auf die Zuordnung zu der angegebenen Schadstoffklasse bei der Kaufentscheidung angekommen. Das gekaufte Fahrzeug würde unter den sogenannten Abgasskandal fallen. Der von der Beklagten entwickelte und hergestellte Motor verfüge ebenso wie der Vorgängermotor mit der Bezeichnung EA 189 über eine illegale Motorsteuerungssoftware, die den Ausstoß von Stickoxid (NOx) im Prüfstandbetrieb (NEFZ) optimiere. Auf diese Weise würden die Euro 6 Grenzwerte für Stickoxid im Testbetrieb eingehalten, im realen Straßenverkehr jedoch um ein vielfaches überschritten, da das Auto im realen Fahrbetrieb mit einer viel geringeren Abgasrückführungsrate betrieben werde. Zusätzlich habe die Beklagte eine Software eingebaut, die das Fahrverhalten erkenne (Fahrverhaltenserkennung).Die von der Beklagten installierte Software, welche für die Abgaskontrollanlage zuständig ist, erkenne die Prüfungssituation.Bei diesen Bedingungen sei die Abgasaufbereitung so optimiert, dass möglichst wenige Stickoxide entstehen würden. Im normalen Fahrbetrieb würden dagegen Teile der Abgaskontrollanlage außer Betrieb gesetzt, weshalb die Stickoxidemmisionen dann erheblich höher wären. Auch sei in dem streitgegenständlichen Audi eine sogenannte Akustikfunktion verbaut. Hierbei handele es ich um eine Funktion, durch deren Aktivierung die Einspritzstrategie und die AGR-Rate der Stickoxidemmisionen vermindert werde. Diese sei bereits in den Fahrzeugen der Modellreihe EA 189 verbaut worden und nun auch in der Motorenreihe des EA 288 verwendet worden. Die Akustikfunktion aktiviere sich erst, wenn die Temperaturen von Motor, Wasser, Schmieröl und Kraftstoff in einem Bereich von 18 Grad Celsius und 33 Grad Celsius liegen. Zusätzlich müsse der Umgebungsdruck über 930 mbar liegen. Diese Parameter würden nahe zu den Bedingungen, die bei einem NEFZ-Test vorherrschen, entsprechen.Die Akustikfunktion sei somit als Prüfstand- bzw. NEFZ-Erkennung einzuordnen. Wäre dem Kläger beim Kauf die Tatsache bewusst gewesen, dass das Fahrzeug die Abgasnorm EUR 6 nur unter den benannten, rechtswidrigen Bedingungen im Prüfstandsbetrieb einhalte, hätte der Kläger das Fahrzeug nicht gekauft. Der Kläger sei hinsichtlich der Abgaswerte vorsätzlich und sittenwidrig getäuscht worden. Er begehrt daher die Rückzahlung des Kaufpreises, abzüglich einer Nutzungsentschädigung, Zug um Zug gegen Rückgabe und Übereignung des Fahrzeugs. Der Kläger gründet seine Ansprüche insbesondere auf §§ 826 BGB, 823 Abs. 2,31 BGB, 263 StGB, 823 Abs. 1, Abs. 2,31 BGB, §§ 6 Abs. 1, 27 Abs. 1 EG-FGV.Der Kläger beantragt:Die Beklagte wird verurteilt, an die Klagepartei Euro 41.715,52 nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu bezahlen, Zug-um-Zug gegen Übereignung und Herausgabe des PKW Audi Q5, 2.0 TDI, (FIN: ...47).Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des im Klageantrag Ziff. 1 genannten PKW in Annahmeverzug befindet.Die Beklagte wird verurteilt, der Klagepartei, die durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen, vorgerichtlichen Rechtsanwaltskosten in Höhe von Euro 1.877,11 nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.Die Beklagte beantragt kostenpflichtige Klageabweisung.Die Beklagte bestreitet im Wesentlichen eine Manipulation am Fahrzeug vorgenommen zu haben, welche eine unzulässige Abschalteinrichtung darstelle. Sie behauptet, dass Abgasbehandlungssystem der EA 288 Motoren arbeite im NEFZ-Zyklus wie auch außerhalb dessen mit der gleichen Wirksamkeit. Umfangreiche Überprüfungen des KBA an Fahrzeugen mit EA 288 Motoren und eine amtliche Auskunft des KBA würden bestätigen, dass in dem streitgegenständlichen Fahrzeug keine unzulässige Abschalteinrichtung zum Einsatz komme. Weder die in dem streitgegenständlichen Fahrzeug verwendete Fahrkurvenerkennung, noch das Thermofenster würden solche Abschalteinrichtungen darstellen. Deliktische Schadensersatzansprüche würden daher ausscheiden. Das gelte selbst dann, wenn man unterstellen würde, in dem streitgegenständlichen Fahrzeug sei eine unzulässige Abschalteinrichtung verbaut. In diesem Fall bedürfe es weiterer Umstände für die Bejahung eines Anspruchs nach § 826 BGB, welche nicht vorliegen würden. Hinsichtlich des weiteren Parteivorbringens wird auf die gewechselten Schriftsätze nebst Anlagen Bezug genommen. Das Gericht hat mit Zustimmung der Parteien im schriftlichen Verfahren nach § 128 Abs. 2 ZPO entschieden.Als Zeitpunkt der dem Schluss der mündlichen Verhandlung entspricht und bis zu dem Schriftsätze eingereicht werden können, wurde der 20.05.2022 bestimmt. 
+				Gründe
+				I.Dem Kläger steht der geltend gemachte Schadenersatzanspruch nicht zu.1. Der Kläger kann seinen Schadenersatzanspruch gegen die Beklagte nicht aus § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, 27 Abs. 1 EG-FGV herleiten.Einem solchen Anspruch steht bereits die Tatsache entgegen, dass die Regeln der §§ 6 Abs. 1, 27 Abs. 1 EG-FGV keine Schutzgesetze im Sinne des § 823 Abs. 2 BGB darstellen (BGH v. 30.07.2020, Az.: ZR 5/20; OLG München v. 04.12.2019, Az.: 3 U 2943/19). Darüber hinaus ist auch nicht jede materielle rechtlich zu Unrecht erteilte EG-Typengenehmigung ungültig im Sinne v. § 6 Abs. 1 in Verbindung mit § 27 Abs. 1 EG-FGV (OLG München v. 04.12.2019, Az.: 3 U 2943/19; OLG Stuttgart v. 19.02.2020, Az.: 9 U 272/19).2. Ein Schadenersatzanspruch aus §§ 826, 31 BGB, den der Bundesgerichtshof für den Verkäufer eines Fahrzeugs mit dem Motor des Typs EA 189 bejaht hat, steht dem Kläger im zu beurteilenden Fall auf Grundlage seines Vorbringens ebenfalls nicht zu.Der Kläger vermutet lediglich eine Manipulation der Beklagten unter Hinweis auf die dargelegten Unregelmäßigkeiten bei der Abgasrückführung und bietet dabei Beweis durch Einholung eines Sachverständigengutachtens an. Ausreichend konkrete Anknüpfungstatsachen, weshalb die Motorisierung des Fahrzeugs nicht den gesetzlichen Anforderungen entspricht, trägt er jedoch nicht vor, sodass die Einholung des angebotenen Beweises eine zulässige Ausforschung wäre. Die bloße Überschreitung der Grenzwerte in anderen Messumgebungen als im Rahmen des Prüfzyklus kann schon kein hinreichender Anhaltspunkt sein, denn die erforderlichen Messungen im Prüfzyklus stellen auf eine genormte Situation ab, die zwangsläufig im Rahmen von Messungen im realen Straßenverkehr nicht vorliegt. Es kann auch nicht allein auf Grund des Vortrags zur Entwicklung von Abschalteinrichtungen im Volkswagenkonzern, oder zu Rückrufen zu verschiedenen Fahrzeugen der Beklagten grundsätzlich unterstellt werden, dass jedes ihrer Dieselfahrzeuge manipuliert ist. Insoweit schließt sich das erkennende Gericht der Rechtsprechung des OLG München v. 14.04.2021, Az.: 15 U 3584/20; OLG München v. 15.01.2021 Az.: 27 U 6421/20 und des OLG Frankfurt v. 28.09.2018 Az.: 4 U 171/18 an. Soweit die Klägerseite die Behauptung aufstellt, dass der im verfahrensgegenständlichen Fahrzeug verbaute EA 288 ebenso über eine unzulässige Abschalteinrichtung verfüge, wie der Vorgängermotor des EA 189, hat die Beklagte zutreffend darauf hingewiesen, dass der hier streitgegenständliche Motor weder von verbindlichen Rückrufaktionen betroffen war, noch durch das Kraftfahrbundesamt oder das Bundesministerium für Verkehr beanstandet wurde. Vielmehr hat das Kraftfahrtbundesamt für das streitgegenständliche Aggregat, EA 288 Diesel Euro 6 bestätigt, dass darin keine unzulässige Abschalteinrichtung zum Einsatz komme, das die einschlägigen Stickoxid-Grenzwerte auch bei Deaktivierung der Fahrkurvenfunktion nicht überschritten werden. Insoweit kann Bezug genommen werden auf die vorgelegten amtlichen Auskünfte des Kraftfahrtbundesamtes vom 31.08.2021, 08.03.2021 und vom 15.12.2021 (Anlagen B 18, B 19, B 20).Gleiches gilt für die im Fahrzeug installierte Fahrkurvenerkennung, bzw. das betroffene Thermofenster.Insoweit hat das Kraftfahrtbundesamt bestätigt, dass weder der Einsatz einer Fahrkurvenerkennung in den EA 288 Fahrzeugen noch das Thermofenster unzulässig sind (Anl. B 21, B 26).Selbst wenn hinsichtlich des im Fahrzeug installierten sogenannten Thermofensters unterstellt wird, dass eine derartige themperaturbeeinflusste Steuerung der Abgasrückführung als unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2 S. 1 der Verordnung 715/2007/EG zur qualifizieren ist, wäre der darin liegende Gesetzesverstoß nach der Entscheidung des Bundesgerichtshofs v. 19.11.2021 (Az.: XI ZR 433/19, BeckRS 2021, 847), der sich das Gericht vollumfänglich anschließt, auch unter Berücksichtigung einer damit einhergehenden Gewinnerzielungsabsicht der Beklagten, für sich genommen nicht geeignet, den Einsatz dieser Steuerungssoftware durch die für die Beklagte handelnden Personen als besonders verwerflich erscheinen zu lassen. Hierfür bedürfte es vielmehr weiterer Umstände, welche vorliegend nicht gegeben sind. Die Applikation eines solchen Thermofensters und einer Fahrkurvenerkennung sind nicht mit der Verwendung der Prüfstandserkennungssoftware im sogenannten Skandalmotor EA 189 zu vergleichen, die die Beklagte dort zum Einsatz gebracht hatte. Diese Prüfstandserkennungssoftware zielte unmittelbar auf die arglistige Täuschung der Typengenehmigungsbehörde ab und stand einer unmittelbaren arglistigen Täuschung der Fahrzeugerwerber in der Bewertung gleich. Soweit der BGH mit grundlegendem Urteil zum "Dieselskandal" festgestellt hat, dass ein Schaden auch im Abschluss eines Kaufvertrages über ein Fahrzeug liegen kann, bei dem das Risiko der Nichtbenutzbarkeit auf Grund des zu befürchtenden Widerrufs der erschlichenen Typengenehmigung besteht, ist es für den vorliegenden Fall nicht einschlägig, da unstreitig das Kraftfahrbundesamt den Motor des Typs EA 288 mehrfach untersucht hat und keinen Grund zur Beanstandung gefunden hat. Dies belegt, dass von vornherein das Risiko einer Nichtbenutzbarkeit nicht einmal abstrakt bestand, sodass nicht von einem objektiv wirtschaftlich nachteiligen Vertragsschluss auszugehen ist. Letztlich ist - unabhängig vom Vorliegen einer unzulässigen Abschalteinrichtung im konkreten Fall - zu beachten, dass die Beklagte bereits Ende des Jahres 2015, bzw. Anfang 2016 dem Kraftfahrtbundesamt Mitteilung hinsichtlich der beanstandeten Abschalteinrichtungen (Thermofenster, Fahrkurve) gemacht hat. Dies erfolgte vor dem Erwerb des streitgegenständlichen Fahrzeugs durch den Kläger. Dies begründet - wie das Oberlandesgericht Oldenburg in seinem Urteil vom 22.07.2021 (Az.: 8 U 241/20) ausführlich dargelegt hat - durchgreifende Bedenken hinsichtlich eines etwaigen vorsätzlich täuschendes und sittenwidriges Verhalten der Beklagten. Auf Grund des im Zulassungsverfahrens geltenden Amtsermittlungsgrundsatzes, gilt dies auch dann, wenn die genaue Wirkungsweise einer Abschalteinrichtung nicht offen gelegt wird, zumal umfangreiche Untersuchungen entsprechender Motoren über Jahre nicht zu einem Rückruf des streitgegenständlichen Fahrzeugs wegen unerlaubter Abschalteinrichtung geführt haben (OLG Koblenz v. 08.01.2021, Az.: 8 U 258/20; BGH v. 30.07.2020, Az.: XI ZR 5/20). Das erkennende Gericht schließt sich insoweit auch der überzeugenden Rechtsprechung des Oberlandesgerichts München an (Beschluss v. 15.03.2021, Az.: 20 U 7287/20; Beschluss v. 16.02.2022, Az.: 14 U 8602/21).3. Aus den oben genannten Gründen scheitert auch ein Schadenersatzanspruch aus §§ 823 Abs. 2, 31 BGB, in Verbindung mit § 263 StGB.4. Mangels begründeter Hauptforderung waren auch die geltend gemachten Nebenforderungen (Zinsen, vorgerichtliche Rechtsanwaltskosten) abzuweisen.II.Die Kostenentscheidung beruht auf § 91 ZPO.III.Die Entscheidung über die vorläufige Vollstreckbarkeit ergibt sich aus § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2463102.html (https://oj.is/2463102)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate8
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

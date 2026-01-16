@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSchleswig-HolsteinOrdentliche GerichtsbarkeitLG KielRechtsprechungUrteil vom 08.05.2019 - 13 O 64/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Kiel, Urteil vom 08.05.2019 - 13 O 64/18
+                      m. Fundstelle
+                      LG Kiel, Urteil vom 08.05.2019 - 13 O 64/18 = openJur 2020, 31545
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Kiel, Urteil vom 08.05.2019 - 13 O 64/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 31545
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Die Klagpartei begehrt Schadenersatz von der Beklagten als Herstellerin des Motors seines von einem Autohändler erworbenen Fahrzeugs im Zusammenhang mit dem sogenannten Abgasskandal.Die Klagpartei erwarb den streitgegenständlichen Pkw, VW Touareg V6 3.0 TDI mit 176 kw mit der Fahrzeugidentifikationsnummer xxxxxxx am 30.08.2018 bei der Auto xxxx GmbH, als Neuwagen mit 0 km zu einem Endpreis von 66.400 €. (Anlage K1 und I zum Protokoll der mündlichen Verhandlung vom 27.02.2019).Die Beklagte ist Entwicklerin und Herstellerin des in dem Fahrzeug verbauten Dieselmotors.Das hiesige Fahrzeug ist unstreitig nicht von einer Rückrufaktion betroffen. Es enthält auch nicht den in vielen Parallelfällen verbauten Motor EA 189.Bei dem Motor EA 189 existiert die im nachfolgenden beschriebene Software:Für den Betrieb dieses Motors setzte die Beklagte eine Software ein, die zwei unterschiedliche Betriebsmodi zur Steuerung der Abgasrückführung kannte. Im Modus 1 kam es zu einer höheren Abgasrückführung und somit zu einem geringeren Ausstoß von Stickoxiden als in Modus 0. Der Modus 1 war allerdings nur beim Durchfahren des Neuen Europäischen Fahrzyklus (NEFZ) aktiv. Im normalen Straßenverkehr wurde der im streitgegenständlichen Fahrzeug verbaute Motor nur im Betriebsmodus 0 betrieben. Ab September 2015 wurde die Verwendung dieser Software mit zwei Betriebsmodi zur Fahrzeugsteuerung bekannt. Später ordnete das Kraftfahrtbundesamt den Rückruf derjenigen Fahrzeuge an, deren Motor mit der oben genannten Software ausgerüstet worden waren. Es gab der Beklagten auf, Maßnahmen zu entwickeln und nach Freigabe zu ergreifen, um die betroffenen Fahrzeuge in einen ordnungsgemäßen Zustand zu versetzen. Im Rahmen der nach der Entwicklung der notwendigen Software und ihrer Freigabe durch das Kraftfahrtbundesamt schließlich folgenden Rückrufaktion bot die Beklagte den Kunden und darunter auch der Klagpartei an, ihr Fahrzeug bzw. die hier installierte Software zur Motorsteuerung kostenfrei einem Software-Update zu unterziehen, das nach Aufspielen auf die betroffenen Fahrzeuge dazu führen solle, dass auch im normalen Betrieb die öffentlich-rechtlichen Grenzwerte der Schadstoffklassen eingehalten würden. Nach der Installation des Updates würde der Motor des Fahrzeugs durchgängig in einem angepassten Modus 1 betrieben.Die Klagepartei behauptet, dass nicht nur sämtlich Motoren mit dem Motor EA 189 eine Betrugssoftware verbaut hätten, sondern auch die Fahrzeuge mit dem 3,0 l Diesel Aggregat wie das streitgegenständliche dieser 2009 auf den Markt gebracht worden sind, hiervon betroffen sein. Dabei verweist die Klägerin auf die Ausführungen zum US-Markt, und die dortigen Ermittlungen. Dort sei es dazu gekommen, dass in Fahrzeugen mit 3,0 l Motoren eine unzulässige Abschalteinrichtung eingebaut worden sei. Insbesondere sei es zu Beanstandungen bei den VW Tuareg aus dem Modelljahr 2004, dem Porsche Cayenne aus dem Jahr 1015 und dem Audi A6 Quattro aus dem Jahr 2016 (jeweils mit einem 3.0-Liter-Dieselmotor) gekommen.Mit anwaltlichen Schreiben vom 10.1.2018 (Anlage K 18) forderte der Prozessbevollmächtigte der des Klägers die Beklagte entsprechend dem Klageantrag zu 1) zu Zahlung und Rückabwicklung Zug-um-Zug unter Anrechnung einer Nutzungsentschädigung bis zum 14.1.2018 auf.Die Klagpartei meint, wobei sie insoweit behauptet, dass der hiesige Motor genau so wie der Motor EA 189 von einer Betrugssoftware betroffen sei, bei der in dem Fahrzeug eingesetzten Software handle es sich um eine illegale Abschalteinrichtung. Das Fahrzeug sei deswegen mangelhaft.Von der Manipulation der Motorprogrammierung habe der Vorstand der Beklagten zumindest gewusst, sodass auch die Beklagte aus unerlaubter Handlung selbst verantwortlich für den Abgasskandal und seine Folgen sei. Auch lägen die Voraussetzungen für eine Haftung nach § 831 BGB vor. Sie behauptet zudem, dass sie das Fahrzeug nicht gekauft hätte, wenn sie davon gewusst hätte, dass das Abgasrückführungssystem über zwei Betriebsmodi verfügt und die Euro 5-Grenzwerte nur im Prüfmodus eingehalten werden. Die nunmehr angebotene Nachbesserung durch ein Software-Update sei ungeeignet, den Mangel zu beheben; zudem seien schädliche Auswirkungen auf den Motor zu befürchten. Eine Nachbesserung sei auch unzumutbar.Die Klagpartei beantragt,1. die Beklagte zu verurteilen, an die Klagepartei 77.998,75 € zuzüglich Zinsen in Höhe von 4 % seit dem 31.8.2010 bis zur Rechtsfähigkeit und seither in Höhe von fünf Prozentpunkten über dem Basiszinssatz Zug um Zug gegen Rückgabe und Rückübereignung des Fahrzeuges VW Tuareg V6 3,0 l CDI mit der Fahrgestellnummer xxxxx unter Anrechnung einer Nutzungsentschädigung von 12.719,78 € zu zahlen;2. festzustellen, dass sich die Beklagte seit dem 25.01.2018 im Annahmeverzug befindet;3. die Beklagte zu verurteilen, außergerichtliche Rechtsanwaltskosten in Höhe von 2.561,83 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 15.12.2017 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Klagschrift ist am 12.04.2018 zugestellt worden.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die wechselseitigen Schriftsätze der Parteien nebst Anlagen sowie auf den Hinweis vom 01.04.2019 Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.Die Klagpartei hat keinen Anspruch auf Zahlung des Kaufpreises abzüglich des Nutzungsersatzes Zug-um-Zug gegen Übergabe und Übereignung des streitgegenständlichen Fahrzeugs aus § 826 BGB.Ein ausreichender Tatsachenvortrag auf Seiten des Klägers, der gegebenenfalls nach Einholung eines Sachverständigengutachtens ein Rückschluss auf Fehler in der Motorsteuerung bzw. die Nichteinhaltung der Abgasnorm Euro 5 zulässt, liegt nicht vor. Letztlich beruft der Kläger sich auf Gerüchte und nicht näher belegte Quellen und Ausführungen zu offensichtlich anderen Motoren, die für anderen Märkte, nämlich u.a. den US-Markt, konzipiert wurden.Das hier streitgegenständliche Fahrzeug ist, was zwischen den Parteien unstreitig ist, von keiner Rückrufaktion, auch nicht von einer des Kraftfahrtbundesamtes und auch nicht von der Rückrufaktion 23Y3 betroffen. Das hier streitgegenständliche Fahrzeug verfügt noch nicht einmal über den von der sogenannten "Diesel-Thematik" bzw. dem sogenannten "Abgaskanal" betroffenen Motor EA 189. Betroffen vom Abgasskandal bzw. der Dieselthematik war viel eher ein Tuareg II, nämlich ein Geländewagen mit einem 3,0 l CDI und der Euro Norm 6 aus dem Modelljahr 2014 -2017, was insoweit aus anderen Parallelverfahren gerichtsbekannt ist. Das hier streitgegenständliche Fahrzeug kann jedoch keinesfalls von diesem besagten Rückruf erfasst sein, da es deutlich vorher produziert wurde und 2010 erworben wurde.Insoweit sind bereits keine ausreichenden Tatsachen vorgetragen, die das Gericht dazu veranlassen würden, wegen entsprechender Anknüpfungstatsachen ein gerichtliches Gutachten einzuholen. Der Vortrag ist viel mehr als unschlüssig und spekulativ zu bezeichnen. Auch die insoweit angestrebten Vergleiche zu der Situation auf dem US-Markt und den dortigen Fahrzeugen, die ebenfalls ein 3,0 l Diesel-Motor verbaut haben, ist auch nicht geeignet es als nahe liegende Begründung oder einen nahe liegenden Schluss zu bezeichnen, dass auch das hier streitgegenständliche Modell von einer etwaigen Manipulation betroffen ist. Ausweislich des am 01.04.2019 erteilten Hinweis (auf Bl. 350 d.A.) ist es vielmehr so, das ausweislich des Berichtes der Untersuchungskommission Volkswagen des Bundesministeriums für Verkehr und digitale Infrastruktur, welcher öffentlich zugänglich ist, dort auf den Seiten 12, 24, 25 und insbesondere 119 der vom Kläger als Indiz für seine Vermutung für das Vorliegen einer sogenannten "Schummelsoftware" bemühte Vergleich zu den in den USA erhobenen Vorwürfe zur Verwendung einer unzulässigen Abschalteinrichtung, sich nicht bestätigt hat. Insoweit wird auf die oben genannten Seiten des Berichtes verwiesen. Denn der hier streitgegenständliche VW Tuareg mit dem entsprechenden 3,0 l Motor wurde im dem dortigen Berichtsteil C. II. zur KBA-Felduntersuchung genannt und weitergehend überprüft. Insoweit gibt es viel eher sogar begründete Anknüpfungspunkte dafür, dass das hier streitgegenständliche Fahrzeug gerade über keine Abschalteinrichtung verfügt.Das Gericht verweist insoweit hinsichtlich der hier vertretenen Rechtsauffassung, nämlich dass insoweit kein ausreichender Tatsachenvortrag des Klägers vorliegt, auf die zutreffenden Ausführungen in dem Schriftsatz der Beklagten vom 20.2.2019 und die insoweit als Anlagen angefügten obergerichtlichen Entscheidungen (Bl. 330, 334, 340, 344 d.A.). Angesichts dieser sehr konkreten und zutreffenden Aufklärung erforderte es auch in der mündlichen Verhandlung keines weiteren Hinweises durch das Gericht mehr.Mangels Erfolg des Hauptanspruches hat der Kläger auch keinen Anspruch auf Feststellung eines Annahmeverzuges, Ersatz von vorgerichtlichen Rechtsanwaltskosten oder Zinsen.Gemäß den obigen Ausführungen besteht auch kein Anspruch aus den anderen, klägerseits bemühten Anspruchsgrundlagen.Die Kostenentscheidung folgt aus § 91 Abs. 1 S. 1 ZPO, die vorläufige Vollstreckbarkeit aus § 709 S. 1 und 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2240710.html (https://oj.is/2240710)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

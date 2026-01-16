@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteRheinland-PfalzOrdentliche GerichtsbarkeitOLG KoblenzRechtsprechungUrteil vom 29.08.2019 - 1 U 241/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Koblenz, Urteil vom 29.08.2019 - 1 U 241/19
+                      m. Fundstelle
+                      OLG Koblenz, Urteil vom 29.08.2019 - 1 U 241/19 = openJur 2020, 19509
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Koblenz, Urteil vom 29.08.2019 - 1 U 241/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 19509
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das Urteil des Einzelrichters der 5. Zivilkammer des Landgerichts Trier vom 15. Januar 2019 (Az.: 5 O 123/18) wird zurückgewiesen.Die Kosten des Berufungsverfahrens trägt der Kläger.Das angefochtene Urteil und das Senatsurteil sind vorläufig vollstreckbar.  
+				Gründe
+				I.Der Kläger begehrt von dem beklagten Autohersteller die Rückabwicklung eines Kaufvertrages und Schadensersatz nach einem PKW-Kauf über ein Fahrzeug, das von dem sogenannten "Abgas-Skandal" betroffen war.Der Kläger kaufte bei dem Autohaus H GmbH am 09.06.2016 ein Fahrzeug der Marke VW Golf zum Preis von 15.998,00 €. Bei dem Fahrzeug handelt es sich um einen Gebrauchtwagen mit einem Kilometerstand von 65.000 km. Es verfügt über einen Dieselmotor des Typs EA 189, der ursprünglich mit einer Software ausgestattet war, die zwei unterschiedliche Betriebsmodi zur Steuerung der Abgasrückführung kannte. Im Abgasrückführungsmodus 1, der bei standardisierten Tests und Prüfungssituationen aktiv war, kam es zu einer höheren Abgasrückführungsrate und in der Folge zu einem geringeren Emissionsausstoß. Unter Fahrbedingungen, die im normalen Straßenverkehr vorzufinden sind, war der Abgasrückführungsmodus 0 aktiv, der eine geringere Abgasrückführungsrate und einen höheren Emissionsausstoß zur Folge hatte. Im normalen Straßenverkehr befand sich das Fahrzeug durchgehend im Modus 0.Das Fahrzeug gehört der Schadstoffklasse Euro/EU-Fünf-Norm an. Die erteilte entsprechende Typengenehmigung des Fahrzeugs basiert auf der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typengenehmigung von Kraftfahrzeugen hinsichtlich der Emission von leichten Personenkraftwagen und Nutzfahrzeugen und über den Zugang zur Reparatur und Wartungsinformation für Fahrzeuge. Die diesbezügliche gesetzlich vorgeschriebenen Emissionsgrenzwerte hielt das Fahrzeug lediglich im oben genannten Modus 1 ein.Das von der Beklagten angebotene und vom Kraftfahrtbundesamt für den streitgegenständlichen Fahrzeugtyp freigegebene Software-Update wurde am Fahrzeug durchgeführt.Der Kläger hat vorgetragen, in dem von ihr erworbenen Fahrzeug sei eine illegale Abschalteinrichtung verbaut worden, um die geltenden Abgasnormen zu umgehen. Die Typengenehmigung hätte für das Fahrzeug nicht erteilt werden dürfen. Das Fahrzeug leide unter einem Wertverlust bezüglich seines Wiederverkaufswertes und des Makels des Diesel-Skandals. Es bestünde zudem der dringende Verdacht, dass durch das Aufspielen des Software-Updates weitere Mängel entstehen. Es seien ein höherer Verbrauch und eine Leistungsreduzierung sowie die Lebenszeitverkürzung von Partikelfilter und Motor zu erwarten. Der Schaden des Klägers liege bereits in der Belastung mit einer ungewollten, wirtschaftlich nachteiligen Verbindlichkeit, mithin dem Abschluss des Kaufvertrages.Der Kläger hat beantragt,1. die Beklagte wird verurteilt, an die Klagepartei 15.998 € nebst Zinsen in Höhe von 5 Prozentpunkte über dem Basiszinssatz seit 21.02.2018 Zug um Zug gegen Übereignung und Rückgabe des Fahrzeugs VW Golf VI Var. 2.0 TDI mit der FIN WV...82 zu zahlen.2. es wird festgestellt, dass sich die Beklagte seit dem 21.02.2018 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befindet.3. die Beklagte wird verurteilt, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.184,05 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 21.02.2018 zu zahlen.Die Beklagte hat beantragt,die Klage abzuweisen.Sie hat vorgetragen, dass es sich bei der verbauten Software nicht um eine unzulässige Abschalteinrichtung handele. Das Fahrzeug verfüge über eine wirksame Typengenehmigung entsprechend der einzuhaltenden Euro-Fünf-Norm. Die gesetzlichen Emissionsgrenzwerte bezögen sich ausschließlich auf Laborbedingungen (sogenannter Neuer Europäischer Fahrzyklus NEFZ). Das Software-Update werde keine negativen Auswirkungen auf das Fahrzeug der Klägerin und dessen Nutzung haben. Solche Auswirkungen seien von dem Kläger auch nicht substantiiert vorgetragen.Ein Wertverlust liege nicht vor. Die Verkaufswerte betroffener Fahrzeuge seien seit Bekanntwerden der streitgegenständlichen Diesel-Thematik stabil geblieben. Mittlerweile zu erkennende Nachfrageverschiebungen stünden nicht in Verbindung mit der Umschaltlogik, sondern mit der allgemeinen Debatte über Fahrverbote für Diesel-Fahrzeuge.Letztlich sei dem Kläger bei Abschluss des Kaufvertrages im Sommer 2016 die beschriebene Motorsteuerungssoftware bekannt gewesen. Es liege bereits keine Täuschung vor, überdies fehle es auch an den weiteren Voraussetzungen eines Schadensersatzanspruches, da es an einem sittenwidrigen Verhalten sowie einem Schädigungsvorsatz ihrerseits ebenso fehle wie an einem kausalen Schaden der Klägerin.Hinsichtlich des weiteren Sach- und Streitstandes wird auf den Tatbestand des angefochtenen Urteils Bezug genommen, § 540 Abs. 1 ZPO.Das Landgericht hat die Klage abgewiesen. Es hat entschieden, dass der Klägerin aus keinem rechtlichen Gesichtspunkt ein Anspruch auf Schadensersatz zustehe. Die von der Klägerin behauptete Unkenntnis sei hinsichtlich des generellen Vorgangs angesichts der breiten Öffentlichkeitsdiskussion nicht vorstellbar und werde von der Klägerin auch nicht substantiiert behauptet. Bei einer einmal unterstellten Täuschung liege ab Herbst 2015 in jedem Fall ein Rücktritt vom Betrugsversuch vor, so dass eine deliktische Haftung aus § 823 Abs. 2 BGB, § 263 StGB ausscheide. Auch die weiteren denkbaren Ansprüche seien nicht begründbar, u.a. auch aus § 826 BGB.Gegen diese Entscheidung wendet sich der Kläger mit seiner Berufung. Er wiederholt und vertieft sein erstinstanzlichen Vorbringen. Er bemängelt insbesondere, dass das Landgericht keine konkreten Einzelheiten festgestellt habe, woraus der Kläger Kenntnis von der generellen Thematik der in Fahrzeugen des VW-Konzerns konkret verwendeten Motorsteuerungssoftware gehabt habe. Ihm sei zwar bekannt gewesen, dass es eine sog. Abgasaffäre gibt; bei Kaufvertragsabschluss unbekannt seien ihm allerdings die konkreten Auswirkungen für das streitgegenständliche Fahrzeug gewesen, die er näher ausführt. Die Beklagte habe durch die Produktion und das Inverkehrbringen der unzulässigen Abschalteinrichtung die Autobesitzer getäuscht und die Typengenehmigung erschlichen. Ihre Repräsentanten hafteten für den eingetretenen Schaden. Dieser Schaden liege in einer Vermögensgefährdung dahingehend, dass der Entzug der Zulassung gedroht habe und auch jetzt der Entzug der EG-Typengenehmigung drohe, wenn sie nicht sogar schon erloschen sei. Das Prüfverfahren nach der EG-Typenverordnung habe den Zweck, Verbrauchswerte nach einem geregelten Verfahren zu ermitteln und dem Verbraucher genaue und objektive Information zu liefern. Dies gelte nicht nur beim Ersterwerb, sondern auch bei einem Folgeerwerb. Zudem sei das Fahrzeug erheblich im Wert gemindert. Die Beklagte habe nicht den Beweis erbracht, dass das eingebaute Softwareupdate den Mangel beseitigte habe.Er beantragt,1. die Beklagte wird verurteilt, an die Klägerpartei EUR 15.998,00 € nebst Zinsen in Höhe von 4 Prozent seit dem 10.06.2016 bis zum 20.02.2018 und seitdem von fünf Prozentpunkten über dem Basiszinssatz seit dem 21.02.2018 Zug-um-Zug gegen Rückgabe und Übereignung des Fahrzeugs VW Golf VI Var. 2.0 TDI mit der Fahrgestellnummer WV...82 zu zahlen.2. es wird festgestellt, dass sich die Beklagte seit dem 21.02.2018 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befindet.3. die Beklagte wird verurteilt, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von EUR 1.184,05 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 21.02.2017 zu zahlen.Hilfsweise,4. das erstinstanzliche Urteil des Landgerichts Trier, Az. 5 O 123/18 vom 15.01.2019, aufzuheben und zur erneuten Verhandlung zurück zu verweisen,hilfsweise,5. die Revision zuzulassen.Die Beklagte beantragt,die Berufung zurückzuweisen.Hinsichtlich des weiteren Vorbringens der Parteien wird auf die eingereichten umfangreichen Schriftsätze, Anlagen und Urkunden Bezug genommen.II.Die zulässige Berufung des Klägers ist unbegründet. Dem Kläger, der zu keinem Zeitpunkt in einem vertraglichen oder vertragsähnlichen Verhältnis mit der Beklagten stand, könnten allenfalls deliktische Ansprüche, insbesondere nach § 823 Abs. 2 BGB i.V.m. § 263 StGB oder § 826 BGB zustehen. Die Voraussetzungen liegen im vorliegenden Fall jedoch nicht vor.1. Es fehlt bereits an einer vorsätzlichen Täuschungshandlung der Beklagten, die kausal für den von dem Kläger behaupteten Schaden sein könnte.Die Beklagte hat den Kläger nicht über vertragsrelevante Merkmale, insbesondere über eine manipulierte Abgasrückführung getäuscht. Der Vorsatz eines Betruges muss sich auf die Verursachung des (unmittelbar verursachten) Vermögensschadens erstrecken. Der Täter muss die wesentlichen Umstände, die den Schaden begründen, erkennen oder mit ihrer Möglichkeit rechnen und sie billigend in Kauf nehmen. Jedenfalls nicht ausreichend ist die Kenntnis einer nur "potentiellen Gefährdungslage" (BGH NStZ-RR 08, 239). Der maßgebliche Zeitpunkt zur Bewertung dieses Umstandes ist der Zeitpunkt des Vertragsschlusses, im vorliegenden Fall der 09.06.2016. Weit vorher liegende Umstände (mögliche Täuschungshandlungen) können nicht mehr kausal für den Vorsatz des Täuschenden im Hinblick auf den Vertragsschluss 2016 sein, wenn der einmal in Gang gesetzte Handlungsablauf unterbrochen worden ist. Dies ist im vorliegenden Fall geschehen durch Bekanntwerden des sogenannten Diesel-Abgasskandals im Jahr 2015, mithin eine geraume Zeit vor dem vorliegenden Vertragsschluss. Die "Manipulation" durch Mitarbeiter der Beklagten ist im Jahr 2015 öffentlich bekannt geworden und in aller Breite und in einer Vielzahl von Medien umfangreich und wiederholt diskutiert worden. Die Vertreter der Beklagten haben zumindest in objektiver Hinsicht eingestanden, dass in einer Vielzahl von von ihnen gebauten Fahrzeugen bei dem verwendeten Motor EA 189 eine Manipulation der sogenannten Abgasrückführung stattgefunden hat. Diesbezüglich hat dann ein Verfahren vor dem Kraftfahrtbundesamt stattgefunden, das zu einer Verpflichtung der Beklagten führte, ein sogenanntes Software-Update durchzuführen. Auch dies ist breit medial dargetan worden und die Beklagte hat eine entsprechende Aufforderung an alle Käufer eines manipulierten Fahrzeuges durchgeführt. Auch das streitgegenständliche Fahrzeug wurde sodann dem entsprechenden Software-Update zugeführt. Dies bedeutet für den vorliegenden Fall, dass der Kläger, auch wenn er sich subjektiv keine Vorstellungen über ihr Fahrzeug, insbesondere den dort verbauten Motor, gemacht haben sollte, objektiv nicht mehr von der Beklagten getäuscht worden sein konnte, da der sogenannte Abgas-Skandal offengelegt war und die Beklagte durch Bereitstellung des Software-Updates alle erforderlichen Schritte eingeleitet hat, um den Zustand, der im Jahr 2015 vor der Aufdeckung des Skandals herrschte, zu beseitigen. Nach öffentlicher Verlautbarung des sogenannten Diesel-Skandals und entsprechenden Reaktionen der Beklagten durch Bereitstellung eines Software-Updates für den manipulierten Motor konnte eine Täuschung von Käufern in objektiver Hinsicht nicht mehr erfolgen. Ein vorsätzliches Handeln der Beklagten zu diesem Zeitpunkt war nicht mehr gegeben. Der Kläger wendet sich auch nicht konkret gegen die begründete Annahme des Landgerichts, dass ein wirksamer Rücktritt von dem einmal unterstellten Betrugsversuch gegenüber Gebrauchtwagenkäufern gegeben ist, was gleichfalls zum Ausschluss der deliktischen Haftung führt.2. Darüber hinaus hat der Kläger auch keinen Schaden erlitten. Sofern das Fahrzeug durch Einbau des Motors EA 189 mit manipulierter Abgasrückführung ursprünglich über einen Mangel verfügt hat, so ist dieser Mangel durch Aufspielen des vom KBA geforderten und genehmigten Software-Updates beseitigt worden, so dass das Fahrzeug zumindest jetzt nicht mehr mangelbehaftet ist.Mit der wohl ganz überwiegenden Auffassung in Rechtsprechung und Literatur (vgl. nur BGH, Hinweisbeschluss vom 8. Januar 2019 - VIII ZR 225/17 -, NJW 2019, 1133 ff., OLG Koblenz, NJW 2018, 376 ff.; OLG Köln, NJW 2018, 72 ff.; OLG München, NJW-RR 2017, 1238; Staudinger/ Rucks, NJW 2019, 1179 ff.) ist auch der Senat der Auffassung, dass die von der Klägerin beanstandete Softwaresteuerung einen Mangel im Sinne des § 434 BGB dargestellt hat. Dieser Mangel lag für den Senat darin, dass dem streitgegenständlichen PKW mit dieser Softwaresteuerung eine Betriebsuntersagung des mit einer unzulässigen Abschalteinrichtung versehenen Dieselmotors drohte (vgl. Hessischer VGH, Beschluss vom 20. März 2019 - 2 B 261/19 -, zfs 2019, 295). Der Senat sieht ausschließlich in dieser drohenden Betriebsuntersagung den hier relevanten Mangel. Sonstige, bei Abschluss des Kaufvertrags vorhandene oder später aufkommende Erwartungen eines Käufers spielen keine Rolle, da es entscheidend darauf ankommt, ob die Sache (PKW) für die Nutzungsart geeignet ist, die die Parteien dem Vertrag zugrunde gelegt haben (BGH, Urteil vom 20. März 2019 - VIII ZR 213/18 -, MDR 2019, 597 f.). Damit kommt es für den Senat nicht entscheidend darauf an, ob und gegebenenfalls welche Vorstellungen ein Käufer hinsichtlich der Umweltverträglichkeit des von ihm gekauften PKWs hatte oder hat. Im vorliegenden Fall ist jedoch der ursprünglich vorliegende mangelhafte Zustand durch Einbau des angebotenen Software-Updates behoben worden. Hierdurch ist nach Auffassung des Senats der oben konkret bezeichnete Mangel beseitigt worden. Dem Kfz des Klägers droht eine Betriebsuntersagung nicht. Dem Kläger stehen deswegen weder kaufvertragliche noch deliktische Rechte zu.3. Der Senat kann es daher offen lassen, ob der Kläger tatsächlich nicht darüber informiert war, dass sein Fahrzeug ursprünglich einmal vom sogenannten Diesel-Skandal betroffen gewesen ist, was bereits nach § 442 BGB dazu führen würde, dass die Rechte des Klägers wegen eines Mangels ausgeschlossen wären. Die Bedenken des Senats gegen die von dem Kläger behauptete Unkenntnis dahingehend, dass sein Fahrzeug vom sogenannten Abgas-Skandal betroffen gewesen ist, müssen daher nicht weiter vertieft werden.4. Auch kann offen bleiben, ob der Kläger nach ihrem eigenen Vortrag keinen Schaden erlitten hat, weil er (möglicherweise) wegen des "Diesel-Skandals" für das konkrete erworbene Fahrzeug ohnehin einen geringeren Kaufpreis zahlen musste. Eine Abtretung von entsprechenden Ansprüchen seines Verkäufers ist weder dargetan noch sonst ersichtlich.5. Weitere denkbare und erörterte Anspruchsgrundlagen greifen aus den landgerichtlich dargelegten Gründen nicht ein; dies gilt auch für Ansprüche aus § 826 BGB.III.Die Kostenentscheidung folgt aus § 97 Abs. 1 i.V.m. § 91 Abs. 1 S. 1 ZPO.Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf den §§ 708 Nr. 10, 711, 713 ZPO.IV.Die Voraussetzungen für die Zulassung der Revision für den Fall des Erwerbs eines Gebrauchtwagens nach Herbst 2015 liegen nicht vor. Die Rechtssache betrifft die Entscheidung in einem Einzelfall und hat weder grundsätzliche Bedeutung (§ 543 Abs. 2 S. 1 Nr. 1 ZPO), noch ist der Streitfall zur Fortbildung des Rechts oder zur Sicherung einer einheitlichen Rechtsprechung einer Entscheidung des Bundesgerichtshofs zu eröffnen (§ 543 Abs. 2 S. 1 Nr. 2 ZPO).V.Der Streitwert für den Berufungsrechtszug wird gemäß den §§ 47 Abs. 1 S. 1, Abs. 2 S. 1, 48 Abs. 1 S. 1 GKG i.V.m. § 3 ZPO festgesetzt auf 15.998,00 €.
+			
+			
+			
+			Permalink: https://openjur.de/u/2193255.html (https://oj.is/2193255)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert3
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

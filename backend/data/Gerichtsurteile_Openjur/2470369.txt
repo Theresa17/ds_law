@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG ArnsbergRechtsprechungUrteil vom 27.10.2022 - 2 O 55/22
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Arnsberg, Urteil vom 27.10.2022 - 2 O 55/22
+                      m. Fundstelle
+                      LG Arnsberg, Urteil vom 27.10.2022 - 2 O 55/22 = openJur 2023, 6109
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Arnsberg, Urteil vom 27.10.2022 - 2 O 55/22
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2023, 6109
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Am 15.01.2018 erwarb der Kläger von der Beklagten einen Pkw S., N01 als Neuwagen für einen Kaufpreis von 42.007,00 €, wobei der Kaufpreis finanziert wurde. Am 26.10.2022 betrug der Kilometerstand des fahrzeugs 40.545 km.Im Fahrzeug ist der von der Beklagten entwickelte Motor mit der Typbezeichnung EA 288 (EU 6) verbaut. Dabei handelt es sich um das Nachfolgemodell des Motors EA 189. In dem streitgegenständlichen Fahrzeug ist ein SCR-Katalysator verbaut.Der Kläger behauptet, auch der Motor mit der Typbezeichnung EA 288 enthalte, wie der Motortyp EA 189, eine unzulässige Abschalteinrichtung im Sinne des Art. 3 Nr. 10 VO (EG) 715/2007 i.V.m. Art. 5 Abs. 2 VO (EG) 715/2007. Insbesondere liege bei dem streitgegenständlichen Fahrzeug eine Fahrzykluserkennung anhand einer Fahrkurvenerkennung vor, wodurch das Motorsteuerungsgerät erkenne, wenn sich das Fahrzeug auf dem Prüfstand befinde.Er ist der Ansicht, bei der verwendeten temperaturgesteuerten Abschaltvorrichtung ("Thermofenster") handele es sich um eine unzulässige Abschalteinrichtung im Sinne der v.g. Verordnung. Auch in der Verwendung der Software zur Fahrverhaltenerkennung liege eine unzulässige Abschalteinrichtung.Der Kläger fühlt sich von der Beklagten über die Tatsache getäuscht, dass das Fahrzeug die Abgasnorm Euro 6 nur unter den - aus ihrer Sicht rechtswidrigen - Bedingungen im Prüfstand einhalte. Sie behauptet, dass die sie das Fahrzeug in Kenntnis dessen nicht gekauft haben würde.Der Kläger hat zunächst beantragt, wie folgt zu erkennen:1. Die Beklagte wird verurteilt, an den Kläger Schadenersatz i.H.v. 36.966,16 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 17.02.2022 zu zahlen,Zug um Zug gegen Übergabe des Fahrzeugs S. mit der N01 sowie Abtretung sämtlicher Rechte, die der Klagepartei gegen die O. Bank aus dem Finanzierungsvertrag mit der Nummer N02 hinsichtlich des streitgegenständlichen Fahrzeugs zustehen.2. Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des Fahrzeuges S. mit der N01 seit dem 17.02.2022 im Annahmeverzug befindet.3. Die Beklagte wird verurteilt, an den Kläger die durch die Beauftragung des Prozessbevollmächtigten entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 887.80 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 17.02.2022 zu zahlen.In der mündlichen Verhandlung vom 27.10.2022 hat der Kläger den Rechtsstreit bzgl. des Klageantrags zu 1) in Höhe von 636,41 € teilweise für erledigt erklärt und mit dem Antrag zu Ziff. 1) nunmehr beantragt,die Beklagte zu verurteilen, an den Kläger Schadenersatz i.H.v. 36.329,75 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 17.02.2022 zu zahlen,Zug um Zug gegen Übergabe des Fahrzeugs S. mit der N01 sowie Abtretung sämtlicher Rechte, die der Klagepartei gegen die O. Bank aus dem Finanzierungsvertrag mit der Nummer N02 hinsichtlich des streitgegenständlichen Fahrzeugs zustehen.Die Beklagte, die sich der Teilerledigungserklärung nicht angeschlossen hat, beantragt,die Klage abzuweisen.Sie ist der Ansicht, dass der streitgegenständliche Motor keine unzulässigen Abschalteinrichtungen enthalte. Das KBA habe den streitgegenständlichen Motortyp EA288 eingehend überprüft und bereits im Jahr 2016 festgestellt, dass dort keine unzulässige Abschalteinrichtung zum Einsatz komme. Insbesondere sei in dem Fahrzeug aufgrund des späten Produktionsstarts dieses Modelltyps zu keinem Zeitpunkt eine Fahrkurvenerkennung hinterlegt gewesen. Die Beklagte habe Ende 2015 entschieden, die Fahrkurvenerkennung in der Motorsteuerungssoftware für neu in Produktion gehende Fahrzeugtypen mit EA288-Aggregaten bzw. bei solchen, an denen Modellpflege-Maßnahmen erfolgen sollten, nicht mehr zu hinterlegen. Selbst bei Vorliegen einer Fahrkurvenerkennung im streitgegenständlichen Fahrzeug (hypothetisch unterstellt) verfüge das streitgegenständliche Fahrzeug nach Ansicht der Beklagten über keine unzulässige Abschalteinrichtung.Jedenfalls fehle es aber an einer sittenwidrigen Schädigung der Beklagten, da es vorliegend insbesondere an einer Täuschungshandlung der Beklagten - auch gegenüber dem Kraftfahrtbundesamt - fehle.Wegen der weiteren Einzelheiten des Sach- und Streitstands wird auf die wechselseitigen Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.Der Kläger hat gegen die Beklagte keinen Anspruch auf Schadensersatz aus §§ 826, 31 BGB oder aus §§ 823 Abs. 2 i. V. m. § 263 StGB oder Art. 5 Abs. 2 VO (EG) Nr. 715/2007.1.Der Kläger hat gegen die Beklagte keinen Schadensersatzanspruch wegen vorsätzlicher sittenwidriger Schädigung gemäß §§ 826, 31 BGB.a)Objektiv sittenwidrig ist nach der Rechtsprechung ein Verhalten, das nach Inhalt oder Gesamtcharakter, der durch zusammenfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt, das heißt mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist (BGH, Urteil vom 19.11.2013 - VI ZR 336/12, NJW 2014, 383, Rn. 9; Teilversäumnis- und Endurteil vom 28.06.2016 - VI ZR 536/15, NJW 2017, 250, Rn. 16). Dass das Verhalten gegen vertragliche Pflichten oder das Gesetz verstößt, unbillig erscheint oder einen Schaden hervorruft, genügt nicht. Insbesondere die Verfolgung eigener Interessen bei der Ausübung von Rechten ist im Grundsatz auch dann legitim, wenn damit eine Schädigung Dritter verbunden ist (BGH, Urteil vom 19.10.1987 ‒ II ZR 9/87, NJW 1988, 700). Hinzutreten muss eine besondere Verwerflichkeit des Verhaltens, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zu Tage tretenden Gesinnung oder den eintretenden Folgen ergeben kann (BGH, Urteil vom 13.12.2011 − XI ZR 51/10, NJW 2012, 1800, Rn. 28; Urteil vom 03.12.2013 - XI ZR 295/12, NJW 2014, 1098; Urteil vom 15.10.2013 - VI ZR 124/12, NJW 2014, 1380; vgl. insgesamt Palandt/Sprau, BGB, 78. Aufl. 2019, § 826, Rn. 4 m.w.N.).b)Subjektiv ist ein Bewusstsein der Sittenwidrigkeit nicht erforderlich. Der Schädiger muss aber grundsätzlich die Tatumstände kennen, die sein Verhalten als sittenwidrig erscheinen lassen (BGH, Urteil vom 13.09.2004 ‒ II ZR 276/02, NJW 2004, 3706, 3710; Teilversäumnis- und Endurteil vom 28.06.2016 - VI ZR 536/15, NJW 2017, 250, Rn. 23; vgl. insgesamt Palandt/Sprau, BGB, 78. Aufl. 2019, § 826, Rn. 5).c)Es kann bereits dahinstehen, ob es sich bei dem in der Motorsteuerungssoftware des streitgegenständlichen Fahrzeugs vorhandenen sog. Thermofenster und die Fahrkurvenerkennung - so denn eine in dem streitgegenständlichen Fahrzeug hinterlegt wäre - um eine unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2 (VO) EG Nr. 715/2007 handelt. Jedenfalls lässt sich aus Sicht der Kammer nicht feststellen, dass die Beklagte durch die Verwendung eines solchen sog. Thermofensters oder durch die Hinterlegung einer sog. Fahrkurvernerkennung gegen das Anstandsgefühl aller billig und gerecht Denkenden verstoßen hat.Die Kammer erkennt insoweit keine besondere Verwerflichkeit im Verhalten der Beklagten.aa)So ist die Kammer nicht der Auffassung, dass durch die Verwendung von sog. Thermofenstern durch die Beklagte eine besondere Verwerflichkeit gerade im Verhältnis zum Kläger gegeben ist. Das Oberlandesgericht Hamm hat diesbezüglich in seiner Entscheidung vom 14.09.2021 (19 U 1490/19) überzeugend ausgeführt:"Der in der Verwendung eines Thermofensters liegende - unterstellte - Gesetzesverstoß reicht für sich genommen auch nicht aus, um das Gesamtverhalten der Beklagten als sittenwidrig zu qualifizieren. Hierfür bedürfte es vielmehr weitere Umstände im Zusammenhang mit der Entwicklung und Genehmigung des Software-Updates (vgl. BGH, Urteil vom 09.03.2021, Az. VI ZR 889/20, juris, und Beschluss vom 19.01.2021, Az. VI ZR 433/19, juris). Die Applikation einer temperaturabhängigen Steuerung des Emissionskontrollsystems ist nicht mit der Verwendung der Prüfstandserkennungssoftware zu vergleichen, die in den Motoren des Typs EA 189 zunächst zum Einsatz gekommen ist. Vielmehr ist der Einsatz einer temperaturabhängigen Steuerung des Emissionskontrollsystems nicht von vornherein durch Arglist geprägt. Sie führt nicht dazu, dass bei erkannten Prüfstandsbetrieb eine verstärkte Abgasrückführung aktiviert und der Stickoxidausstoß gegenüber dem normalen Fahrbetrieb reduziert wird, sondern arbeitet in beiden Fahrsituationen im Grundsatz im gleicher Weise (vgl. BGH, a. a. O.). Die besondere Verwerflichkeit des Verhaltens der Beklagten durch die Verwendung des Thermofensters stellte demnach nur dann ein besonders verwerfliches Verhalten dar, wenn zu dem - hier unterstellten - Verstoß gegen Art. 5 Abs. 2 S. 1 VO 715/2007/EG weitere Umstände hinzutreten, die das Verhalten der für sie handelnden Personen als besonders verwerflich erscheinen ließen. Dies setzt jedenfalls voraus, dass diese Personen bei der Entwicklung und/oder Applikation der temperaturabhängige Steuerung des Emissionskontrollsystems in dem Bewusstsein handelten, eine unzulässige Abschlusseinrichtung zu verwenden, und den darin liegenden Gesetzesverstoß billigend in Kauf nahmen (vgl. BGH, a. a. O.)." (OLG Hamm Urt. v. 14.9.2021 - 19 U 1490/19, BeckRS 2021, 43193 Rn. 67, beckonline)Diesen überzeugenden Ausführungen schließt sich die Kammer nach eigener Überprüfung vollumfänglich an. An einem konkreten Vorbringen des Klägers in dem vorgenannten Sinn, nämlich hinsichtlich weiterer Umstände, die das Verhalten der Beklagten im Zusammenhang mit der Verwendung des Thermofensters als sittenwidrig erscheinen lassen, fehlt es vorliegend.bb)Auch hinsichtlich der Verwendung einer sog. Fahrkurvenerkennung - unterstellt sie ist vorliegend hinterlegt - lässt sich eine besondere Verwerflichkeit gegenüber dem Kläger nicht feststellen. Insoweit kann dahin gestellt bleiben, ob die Verwendung der Fahrkurvenerkennung in der Gesamtschau mit allen zu berücksichtigenden Umständen überhaupt dazu geeignet ist, ein ursprünglich besonders verwerfliches Verhalten der Beklagten im Sinne des § 826 BGB zu begründen. Jedenfalls in dem für die Beurteilung des Verhaltens der Beklagten im vorliegenden Rechtstreit maßgeblichen Zeitpunkt des Erwerbs des Pkw im Januar 2018 wäre ihr Verhalten zum einen nicht (mehr) als besonders verwerflich und damit auch nicht (mehr) als sittenwidrigen vorsätzliche Schädigung im Sinne des § 826 BGB anzusehen. Zum anderen wäre auch ein Schädigungsvorsatz der Beklagten im Zeitpunkt des Schadenseintritts nicht (mehr) gegeben.Hierzu hat das Oberlandesgericht Hamm in dem v.g. Urteil unter Berücksichtigung der Rechtsprechung des Bundesgerichtshofs zur Verwendung der Fahrkurvenerkennung Folgendes ausgeführt:"Ferner kann dahingestellt bleiben, ob die Verwendung der Fahrkurvenerkennung in der Gesamtschau mit allen weiteren zu berücksichtigenden Umständen überhaupt dazu geeignet war, ein ursprünglich besonders verwerfliches Verhalten der Beklagten im Sinne des § 826 BGB zu begründen. Jedenfalls in dem für die Beurteilung des Verhaltens der Beklagten im vorliegenden Rechtsstreit maßgeblichen Zeitpunkt des Erwerbs des Pkws im Mai 2016 wäre ihr Verhalten zum einen nicht (mehr) als besonders verwerflich und damit auch nicht (mehr) als sittenwidrige vorsätzliche Schädigung im Sinne des § 826 BGB anzusehen. Zum anderen wäre auch ein Schädigungsvorsatz der Beklagten im Zeitpunkt des Schadenseintritts nicht (mehr) gegeben.Da für die Bewertung eines schädigenden Verhaltens als (nicht) sittenwidrig in einer Gesamtschau dessen Gesamtcharakter zu ermitteln ist, ist der Beurteilung das gesamte Verhalten des Schädigers bis zum Eintritt des Schadens beim konkreten Geschädigten zugrunde zu legen. Dies wird insbesondere dann bedeutsam, wenn - wie hier - die erste potenziell schadensursächliche Handlung und der Eintritt des Schadens zeitlich auseinanderfallen und der Schädiger sein Verhalten zwischenzeitlich nach außen erkennbar geändert hat (vgl. BGH, Urteile vom 30.07.2020, Az. VI ZR 5/20, juris, und vom 25.05.2020, Az. VI ZR 252/19, juris).Unter Berücksichtigung der Ausführungen und Erwägungen des Bundesgerichtshofs in den vorgenannten Entscheidungen, denen der Senat folgt, kann das Verhalten der Beklagten im Zusammenhang mit der Verwendung der Fahrkurvenerkennung bei der gebotenen Gesamtbetrachtung bei dem hier streitgegenständlichen Erwerb eines Fahrzeugs mit einem Motor des Typs EA 288 (EU 6) im Mai 2016 nicht (mehr) als besonders verwerflich im Sinne des § 826 BGB angesehen werden .Wesentliche Umstände, aufgrund derer das Verhalten der Beklagten gegenüber früheren Käufern aufgrund der Verwendung der Fahrkurvenerkennung möglicherweise als besonders verwerflich anzusehen gewesen sein könnte, sind jedenfalls ab dem 29.12.2015 entfallen (vgl. Senatsurteile vom 07.09.2021, Az. 19 U 1476/19, und vom 03.09.2021, Az. 19 U 905/19)." (OLG Hamm Urt. v. 14.9.2021 - 19 U 1490/19, BeckRS 2021, 43193 Rn. 72-75, beckonline)So liegt der Fall auch hier. Indem die Beklagte das Kraftfahrtbundesamt bereits Ende 2015 über die Verwendung der Fahrkurvenerkennung informierte, hat die Beklagte spätestens zu diesem Zeitpunkt eine Verhaltensänderung vorgenommen und die Verwendung einer (möglicherweise unzulässigen) Abschalteinrichtung offengelegt. Spätestens in diesem Zeitpunkt wäre eine besondere Verwerflichkeit im Verhalten der Beklagten - sofern sie zuvor anzunehmen gewesen wäre - jedenfalls entfallen.cc)Zu weiteren im streitgegenständlichen Fahrzeug verwendeten Abschalteinrichtungen trägt der Kläger nicht hinreichend substantiiert vor (vgl. in dem Zusammenhang auch OLG Köln, Hinweisbeschluss vom 06.08.2019 - 7 U 119/19). Allein der Umstand, dass die Beklagte - nach Ansicht des KBA - unzulässige Abschalteinrichtungen in Motoren des Typs EA189 verwendet hat, begründet keinen Generalverdacht gegen die Beklagte. Die Einholung eines Sachverständigengutachtens entspräche insoweit einer Ausforschung des Sachverhalts.2.Der Kläger hat gegen die Beklagte ebenfalls keinen Anspruch auf Schadensersatz gem. § 823 Abs. 2 i. V. m. § 263 StGB.Eine rechtswidrige Täuschung des Klägers durch die Beklagte ist aus den oben genannten Gründen nicht ersichtlich. Konkrete Hinweise darauf, dass dem klägerischen Fahrzeug ein Entzug der Fahrerlaubnis droht, sind von dem Kläger nicht vorgetragen worden. Das streitgegenständliche Fahrzeug ist bislang von keinem Rückruf des KBA betroffen.Wenn der Kläger weiter darauf abstellt, darüber getäuscht worden zu sein, dass der Stickoxidausstoß im Realbetrieb höher ausfällt als im Laborbetrieb, ist von Klägerseite bereits nicht vorgetragen worden, dass die Beklagte behauptet hat, dass die Emissionen im Realbetrieb denen im Laborbetrieb entsprechen. Soweit der Kläger lediglich davon ausgegangen sein sollte, dass dies der Fall ist, liegt jedenfalls keine Täuschung durch die Beklagte vor.3.Schadensersatzansprüche gegen die Beklagte gem. §§ 823 Abs. 2 i. V. m. Art. 5 Abs. 2 VO (EG) Nr. 715/2007 scheiden ebenfalls aus.Es fehlt nach Ansicht der Kammer bereits an der Schutzgesetzeigenschaft des Art. 5 Abs. 2 VO (EG) Nr. 715/2007.Schutzgesetz im Sinne von § 823 Abs. 2 BGB ist jede Rechtsnorm, die zumindest auch dazu dienen soll, einen Einzelnen oder einen bestimmten Personenkreis gegen die Verletzung eines bestimmten Rechtsinteresses zu schützen (vgl. BGH, Urteil vom 13. Dezember 2011, Az. XI ZR 51/10). Der Schutz eines Einzelnen ist dabei nicht bereits dann bezweckt, wenn er als Reflex einer Befolgung der Norm objektiv erreicht wird, sondern nur dann, wenn der Gesetzgeber dem Einzelnen selbst die Rechtsmacht in die Hand geben wollte, mit Mitteln des Privatrechts gegen denjenigen vorzugehen, der das Verbot übertritt und sein Rechtsinteresse beeinträchtigt (vgl. BGH, aaO). Diese Voraussetzungen sind bezogen auf die genannten Verordnungen nicht erfüllt.Der Bundesgerichtshof hat insoweit überzeugend ausgeführt:"Wie der Senat in seinem Urteil vom 25.5.2020 (NJW 2020, 1962 = ZIP 2020, 1179 Rn. 76) ausgeführt hat, liegt das Interesse, nicht zur Eingehung einer ungewollten Verbindlichkeit veranlasst zu werden, nicht im Aufgabenbereich des §§ 6 I, 27 I EG-FGV. Es sind auch im vorliegenden Verfahren keine Anhaltspunkte dafür ersichtlich, dass der Gesetz- und Verordnungsgeber mit den genannten Vorschriften (auch) einen Schutz der allgemeinen Handlungsfreiheit und speziell des wirtschaftlichen Selbstbestimmungsrechts der einzelnen Käufer bezweckte und an die (auch fahrlässige) Erteilung einer inhaltlich unrichtigen Übereinstimmungsbescheinigung einen gegen den Hersteller gerichteten Anspruch auf (Rück-)Abwicklung eines mit einem Dritten geschlossenen Kaufvertrags hätte knüpfen wollen.(...)"Das Interesse, nicht zur Eingehung einer ungewollten Verbindlichkeit veranlasst zu werden, liegt offensichtlich auch nicht im Aufgabenbereich des Art. 5 VO (EG) Nr. 715/2007.Gemäß Art. 5 I VO (EG) Nr. 715/2007 hat der Hersteller das Fahrzeug so auszurüsten, dass die Bauteile, die das Emissionsverhalten voraussichtlich beeinflussen, so konstruiert, gefertigt und montiert sind, dass das Fahrzeug unter normalen Betriebsbedingungen der Verordnung und ihren Durchführungsmaßnahmen entspricht. Gemäß Art. 5 II 1 VO (EG) Nr. 715/2007 ist die Verwendung von Abschalteinrichtungen, die die Wirkung von Emissionskontrollsystemen verringern, unzulässig; S. 2 regelt Ausnahmefälle. Die VO (EG) Nr. 715/2007 dient, wie sich aus ihren Erwägungsgründen ergibt, der Vollendung des Binnenmarktes durch Einführung gemeinsamer technischer Vorschriften zur Begrenzung der Emissionen von Kraftfahrzeugen (Erwgr. 1, 27) sowie dem Umweltschutz, insbesondere der Verbesserung der Luftqualität (Erwgr. 1, 4-7). Erwähnt sind ferner die Senkung der Gesundheitskosten und der Gewinn zusätzlicher Lebensjahre (Erwgr. 7). Auch hier fehlt es an jeglichen Anhaltspunkten dafür, dass die Verordnung, insbesondere ihr Art. 5, dem Schutz des wirtschaftlichen Selbstbestimmungsrechts des einzelnen Fahrzeugerwerbers dienen könnte."(NJW 2020, 2798 Rn. 12, 13, beckonline)Dieser nachvollziehbar begründeten und überzeugenden Sicht des Bundesgerichtshofs schließt sich die Kammer nach eigener Überprüfung an. Soweit die Klägerin in diesem Zusammenhang darauf hinweist, dass der Generalanwalt beim EuGH am 02.06.2022 in Sachen C-100/21 in seinen Schlussanträgen die Ansicht vertreten habe, dass insbesondere Art. 5 Abs. 2 VO (EG) Nr. 715/2007 auch dem Schutz der Fahrzeugkäufer dient und damit Schutzgesetz im Sinne des § 823 Abs. 2 BGB sein könne, was zu einer Haftung für bloß fahrlässiges Handeln eines Herstellers führen würde, sieht sich die Kammer allein hierdurch nicht zur Abkehr von der herrschenden obergerichtlichen Rechtsprechung der nationalen Gerichte veranlasst. Der EuGH selbst hat insoweit noch nicht entschieden, so dass die Kammer weiterhin der überzeugenden Rechtsprechung des Bundesgerichtshofs folgt.Im Übrigen wäre - selbst wenn man unterstellen würde, dass auch eine Haftung für fahrlässiges Verhalten der Beklagten in Betracht käme - eine solche Fahrlässigkeit unter den Gesichtspunkten der Verwendung eines Thermofensters und der Fahrkurvenerkennung vorliegend nicht anzunehmen, da die - unterstellte - Rechtswidrigkeit für die Beklagte nicht erkennbar war. Denn es ist davon auszugehen, dass das KBA als zuständige Genehmigungsbehörde die v.g. Technik nicht als unzulässig beanstandet hätte, wenn sich die Beklagte vor dem Inverkehrbringen bei diesem entsprechend erkundigt hätte. Dem KBA sind die v.g. Techniken seit Jahren bekannt, ohne dass bis heute Beanstandungen erhoben oder gar Maßnahmen ergriffen worden wären (OLG Hamm, 13 U 329/21, Urteil vom 28.07.2022).4.Aus dem vorgenannten Grund ist das Verfahren auch nicht gemäß § 148 ZPO bis zur Entscheidung des Rechtsstreits vor dem Europäischen Gerichtshof im Verfahren C-100/21 auszusetzen. Die dortige Entscheidung ist für das vorliegende Verfahren nicht vorgreiflich, da selbst ein fahrlässiges Verhalten der Beklagten im vorliegenden Fall nicht festzustellen ist.5.Da der Kläger gegen die Beklagte keinen Schadensersatzanspruch hat, ist auch keine teilweise Erledigung des Rechtsstreits eingetreten. Die Klage war auch insoweit von Anfang an nicht begründet.6.Mangels Hauptanspruch stehen dem Kläger auch weder ein Ersatzanspruch auf vorgerichtliche Rechtsanwaltskosten noch Zinsansprüche zu.7.Die Nebenentscheidungen beruhen auf §§ 91 Abs. 1, 709 S. 1, 2 ZPO.Der Streitwert wird auf 36.966,16 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2470369.html (https://oj.is/2470369)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate15
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

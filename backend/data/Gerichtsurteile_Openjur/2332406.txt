@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNiedersachsenOrdentliche GerichtsbarkeitLG AurichRechtsprechungUrteil vom 29.06.2020 - 5 O 1183/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Aurich, Urteil vom 29.06.2020 - 5 O 1183/19
+                      m. Fundstelle
+                      LG Aurich, Urteil vom 29.06.2020 - 5 O 1183/19 = openJur 2021, 13512
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Aurich, Urteil vom 29.06.2020 - 5 O 1183/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 13512
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1.) Die Klage wird abgewiesen.2.) Der Kläger hat die Kosten des Rechtsstreits zu tragen.3.) Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar.Streitwert: 43.752,36 € 
+				Tatbestand
+				Die Parteien streiten um Ansprüche auf Schadensersatz aus unerlaubter Handlung.Der vorsteuerabzugsberechtigte Kläger erwarb ausweislich der Rechnung vom 11.12.2017 bei dem Audi Zentrum Hanau einen Audi A7 Sportback 3,0 TDI quattro zu einem Kaufpreis von 44.105,04 € netto. Auf den Kaufpreis leistete der Kläger eine Anzahlung von 6.500,00 €. Im Übrigen wurde der Kaufpreis durch ein Darlehen der S. Bank AG finanziert. Der Darlehensvertrag sieht vor, dass im Januar 2018 eine Darlehensrate von 555,97 € gezahlt wird. Zudem sind ab Februar 2018 46 monatliche Darlehensraten von 600,00 € zu zahlen. Weiter ist eine Schlussrate von 22.573,40 € zu zahlen. Der Kläger trägt vor, er habe zum Zeitpunkt der Klagerhebung neben der Anzahlung von 6.500,00 € die Rate für Januar 2018 in Höhe von 555,97 € sowie 21 Raten in Höhe von jeweils 600,00 € für den Zeitraum Februar 2018 bis Oktober 2019 gezahlt, so dass sich die bisherigen Zahlungen auf 16.517,62 € netto (19.655,97 € brutto) belaufen.Der Kilometerstand des Fahrzeugs mit einer Erstzulassung vom 20.09.2016 betrug zum Zeitpunkt des Erwerbs durch den Kläger 12.360 km. Die Beklagte ist Herstellerin des Fahrzeugs und des Motors.Ein Rückruf des streitgegenständlichen Fahrzeugs durch das Kraftfahrtbundesamt erfolgte am 12.12.2018 (Veröffentlichungsdatum). In der hierzu auf der Homepage des KBA veröffentlichten Pressemitteilung heißt es auszugweise (Bl. 4 Band I d.A.):„Bei der Überprüfung der Audi 3,0 l Euro 6 Modelle A4, A5, A6, A7, A8, Q5, SQ5, Q 7 durch das Kraftfahrt-Bundesamt (KBA) wurden unzulässige Abschalteinrichtungen nachgewiesen. Die schadstoffmindernde, sogenannte schnelle Motoraufwärmfunktion springt bei diesen Fahrzeugen nahezu nur im Prüfzyklus NEFZ an. Im realen Verkehr unterbleibt diese NOx-Schadstoffminderung. Die Strategien unterscheiden sich leicht von Fahrzeugtyp zu Fahrzeugtyp.Das KBA hat deshalb in den vergangenen Wochen verpflichtende Rückrufe der Fahrzeuge angeordnet, um die Vorschriftsmäßigkeit der Fahrzeuge wiederherzustellen“.Mit außergerichtlichem anwaltlichem Schreiben vom 17.10.2019 unter Anfügung eines Klageentwurfes forderte der Kläger die Beklagte erfolglos zur Erfüllung der geltend gemachten Ansprüche unter Fristsetzung zum 22.10.2019 auf.Zum Schluss der mündlichen Verhandlung betrug der Kilometerstand des Fahrzeugs 60.283 km.Der Kläger ist der Ansicht, dass ihm aufgrund der in seinem Fahrzeug verbauten unzulässigen Abschalteinrichtung gegen die Beklagte ein Anspruch auf Schadensersatz aus § 826 BGB zustehe. Die eingebaute Abschalteinrichtung sei illegal und von der Beklagten bei der Typengenehmigung nicht angegeben worden. Bei den betroffenen Fahrzeugen sei die Motorsteuerung so programmiert, dass der Wagen erkenne, ob er sich im realen Fahrbetrieb („Modus 0“) oder auf einem technischen Prüfstand („Modus 1“) befinde und könne je nach Fahrsituation in unterschiedliche Abgasreinigungsmodi wechseln. Befinde sich das Fahrzeug bei der Messung der Schadstoffemissionen auf einem Prüfstand, schalte es in den „Modus 1“, in dem eine höhere Abgasrückführungsrate erzielt werde und folglich weniger Stickoxide abgegeben würden als im „Echtbetrieb“, bei welchem die Abgasrückführungsrate geringer sei. Die im „Modus 1“ erzielten und dem technischen Datenblatt aufgenommenen Abgaswerte hielten dadurch die gesetzlich vorgegebenen Stickstoffoxid Werte ein. Zudem werde die Nutzung der Harnstofflösung AdBlue unzulässig eingeschränkt. Die Einspritzung von Harnstoff (AdBlue) werde gedrosselt, bevor der Tank leer gehe. So könne der Fahrer weiterfahren, obwohl der SCR Katalysator zur Reinigung von Stickoxiden im Abgas nicht oder nur eingeschränkt funktioniere. In der Folge würden die Abgaswerte nicht mehr stimmen. Die in der EG-Übereinstimmungsbescheinigung genannten Abgaswerte würden überschritten.Der Beklagten sei seiner Ansicht nach insofern eine sittenwidrige Täuschung vorzuwerfen, die ihn im Rahmen eines Schadenersatzanspruches auf § 826 BGB zur Rückabwicklung des Vertrages berechtigen würde. Aufgrund der illegalen Maßnahmen der Beklagten und der erhöhten Abgaswerte habe er jedwedes Vertrauen in die Beklagte und deren Fahrzeuge verloren. Wenn er gewusst hätte, dass sich in dem gekauften Fahrzeug illegale Einrichtungen befinden, hätte er das Fahrzeug niemals gekauft. Hinzu komme, dass vom Abgasskandal betroffene Fahrzeuge einen massiven Wertverlust erleiden würden und sich sehr schlecht weiterverkaufen ließen.Zudem würden, dies sei aus dem VW Abgasskandal bekannt, Software-Updates die Problematik der zu hohen CO2-Emissionen Abgaswerte nicht beheben. Er habe das Software Update am 31.7.2019 aufspielen lassen um eine Stilllegung des Fahrzeugs durch das Kraftfahrtbundesamt bzw. die örtliche Kfz-Zulassungsstelle zu vermeiden. Zuvor habe er ein entsprechendes Anschreiben der Beklagten erhalten. Seit dem Software Update würden sich diverse negative Veränderungen zeigen. Das Fahrverhalten habe sich negativ verändert. Bei langsamer Fahrt, ohne Last, komme es zu einem unangenehmen Ruckeln. Auch habe sich das Reaktionsverhalten des Fahrzeuges (verschlechterte Gasabnahme, verschlechterte Schaltvorgänge, Beschleunigung etc.) stark verändert. Der Verbrauch sei von ursprünglich 7,3 l auf rund 8,3 l pro 100 km angestiegen. Seitdem das Software-Update aufgespielt wurde, komme es auch zu elektronischen Systemausfällen. Der Bremsassistent, das Radio und das Navigationssystem würden ihre Dienste versagen. Die Klimaanlage schalte sich selbstständig aus. Die Kindersicherung hinten sei aktiviert worden. Angesichts der vorgeschriebenen Zustände habe er keinerlei Vertrauen mehr in das Fahrzeug.Im Rahmen der Rückabwicklung des Vertrages habe er eine Nutzungsentschädigung berücksichtigt, wobei er von einer Gesamtlaufleistung des Fahrzeugs von (mindestens) 400.000 km ausgegangen sei. Bei einem Kaufpreis von 44.105,04 € netto und von ihm gefahrenen 38.140 km zum Zeitpunkt der Klageerhebung ergebe sich ein abzuziehender Nutzungsersatz von 4.339,50 €.Der Kläger hat zunächst beantragt,1.) die Beklagte zu verurteilen, an ihn 12.178,12 € nebst Zinsen in Höhe von 9 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen und ihn von den künftigen Netto-Darlehensraten aus dem Darlehensvertrag mit der S. Bank AG, Finanzierungs-Nr. … freizustellen, Zug um Zug gegen Herausgabe des Fahrzeugs Audi A7 Sportback 3.0 TDI, Fahrzeugidentifikationsnummer …(Streitwert: 12.178,12 € + 25 Netto-Darlehensraten i.H.v. je 504,20 € netto + Schlussrate i.H.v. 18.969,24 € = 43.752,36 €),2.) festzustellen, dass sich die Beklagte mit der Annahme des Fahrzeugs Audi A7 Sportback 3.0 TDI, Fahrzeugidentifikationsnummer … im Annahmeverzug befindet,3.) die Beklagte zu verurteilen, ihn von den vorgerichtlichen Gebühren seiner Prozessbevollmächtigten, der Rechtsanwälte H. &amp; Partner mbH, G.straße, O., in Höhe von 1.434,20 € freizustellen.Mit Schriftsatz vom 20.05.2020 hat der Kläger im Hinblick auf die zwischenzeitlich weiteren gezahlten Raten und klagerweiternd hinsichtlich von Zinsen aus § 849 BGB nunmehr beantragt,1.) die Beklagte zu verurteilen, an ihn 15.707,53 € nebst Zinsen in Höhe von 4 Prozent aus 52.485,00 € seit dem 19.12.2017 bis zum 22.10.2019 und in Höhe von 9 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 23.10.2019 zu zahlen und ihn von den künftigen Netto-Darlehensraten aus dem Darlehensvertrag mit der S. Bank AG, Finanzierungs-Nr. … freizustellen, Zug um Zug gegen Herausgabe des Fahrzeugs Audi A7 Sportback 3.0 TDI, Fahrzeugidentifikationsnummer …,2.) festzustellen, dass sich die Beklagte mit der Annahme des Fahrzeugs Audi A7 Sportback 3.0 TDI, Fahrzeugidentifikationsnummer … im Annahmeverzug befindet,3.) die Beklagte zu verurteilen, ihn von den vorgerichtlichen Gebühren seiner Prozessbevollmächtigten, der Rechtsanwälte H. &amp; Partner mbH, G.straße, O., in Höhe von 1.434,20 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Sie bestreitet wegen der Finanzierung des Fahrzeugs bereits die Aktivlegitimation des Klägers sowie die Zahlung der Raten bis Mai 2020 mit Nichtwissen.Sie ist zudem der Ansicht, dass ihr eine sittenwidrige Täuschung nicht vorgeworfen werden könne. Es liege keine Handlung ihrerseits vor, die als Täuschung oder sittenwidrige Schädigung zu qualifizieren sei. Zwar nehme sie auf Anordnung des KBA eine Aktualisierung der Motorensoftware der Fahrzeuge vom streitgegenständlichen Typ AUDI A7 Sportback 3.0 TDI (EU6 plus) vor. Das KBA habe die technische Maßnahme für das streitgegenständliche Fahrzeug bereits freigegeben. Der Kläger habe sein Fahrzeug auch bereits kostenfrei bei einem Servicepartner der AUDI AG aktualisieren lassen. Ansprüche könne der Kläger hieraus nicht herleiten. Das streitgegenständliche Fahrzeug war und sei zu jedem Zeitpunkt sicher und fahrbereit gewesen und verfüge nach wie vor über alle erforderlichen Genehmigungen.Jedenfalls wäre – auch wenn der Vortrag des Klägers hierzu aus ihrer Sicht unsubstantiiert sei – eine etwaige Täuschung ihrerseits nicht für den Kaufvertragsschluss über das streitgegenständliche Fahrzeug kausal geworden. In dem streitgegenständlichen AUDI A7 Sportback 3.0 TDI, der ein Leergewicht von zwei Tonnen aufweise, sei ein Sechszylinder Turbodieselmotor (235 kW) mit 2.967 ccm Hubraum und einer Leistung von 320 PS verbaut. Es sei schon auf tatsächlicher Ebene nicht nachvollziehbar, inwiefern das Emissionsverhalten dieses Fahrzeugs aus Sicht des Klägers der entscheidende Faktor für den Abschluss des Kaufvertrages gewesen sein soll, vielmehr sei davon auszugehen, dass es dem Kläger darauf angekommen sei, ein besonders leistungsstarkes Fahrzeug zu erwerben.Schließlich sei dem Kläger auch kein Schaden entstanden. Der Vertragsschluss sei für den Kläger nicht wirtschaftlich nachteilig gewesen. Er habe das Fahrzeug seit dessen Kauf nach eigenen Angaben schließlich auch genutzt.Hinsichtlich der weiteren Einzelheiten des Sach- und Streitstandes wird auf den Inhalt der wechselseitigen Schriftsätze der Parteien nebst Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.A.Die örtliche Zuständigkeit ergibt sich aus § 32 ZPO. Bei einem deliktischen Anspruch ist der Erfolgsort entscheidend, mithin der Ort, an dem, wie bei § 826 BGB erforderlich, der Vermögensschaden eingetreten ist. Liegt dieser im Abschluss eines Vertrages, kann sowohl dieser Ort als auch der Ort, an dem das Vermögen des Geschädigten belegen ist, Erfolgsort sein. Der Kaufvertrag über das streitgegenständliche Fahrzeug ist in Hanau abgeschlossen worden. Der Kläger hat seinen Wohnort in U., so dass jedenfalls – aufgrund des im hiesigen Gerichtsbezirks belegenen Klägervermögen - auch eine Zuständigkeit des Landgerichts Aurich begründet ist.B.I. Der geltend gemachte Anspruch steht dem Kläger gegen die Beklagte aus keinem rechtlichen Gesichtspunkt zu.Mangels vertraglicher Beziehung der Parteien kommen allein deliktische Ansprüche in Betracht.1. Der Kläger hat keinen Anspruch gegen die Beklagte auf Schadensersatz aus §§ 826, 31, 823 Abs. 2 BGB i.V.m. § 263 StGB.Gemäß § 826 BGB ist zum Schadensersatz verpflichtet, wer in einer gegen die guten Sitten verstoßenden Weise einem anderen vorsätzlich Schaden zufügt.Nach der Rechtsprechung des Bundesgerichtshofs (Urteil vom 03.12.2013, Aktenzeichen XI ZR 295/12, zitiert nach juris, Randziffer 23) ist ein Verhalten dann sittenwidrig, wenn es gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt (st. Rspr. seit RGZ 48, 114, 124). In diese rechtliche Beurteilung ist einzubeziehen, ob es nach seinem aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter mit den guten Sitten nicht zu vereinbaren ist (BGH, Urteile vom 20. November 2012 - VI ZR 268/11, WM 2012, 2377 Rn. 25 und vom 4. Juni 2013 - VI ZR 288/12, WM 2013, 1310 Rn. 14, jeweils mwN). Ein Unterlassen verletzt die guten Sitten nur dann, wenn das geforderte Tun einem sittlichen Gebot entspricht. Hierfür reicht die Nichterfüllung einer allgemeinen Rechtspflicht, aber auch einer vertraglichen Pflicht nicht aus. Es müssen besondere Umstände hinzutreten, die das schädigende Verhalten wegen seines Zwecks oder wegen des angewandten Mittels oder mit Rücksicht auf die dabei gezeigte Gesinnung nach den Maßstäben der allgemeinen Geschäftsmoral und des als "anständig" Geltenden verwerflich machen (BGH, Urteile vom 20. November 2012 - VI ZR 268/11, a.a.O. und vom 4. Juni 2013 - VI ZR 288/12, a.a.O., jeweils m.w.N.).a) Der Anspruch des Klägers scheitert nicht an einer fehlenden Substantiierung seines Vortrages hinsichtlich einer unzulässigen Abschalteinrichtung. Der Kläger behauptet, in seinem Fahrzeug sei eine unzulässige Abschalteinrichtung verbaut. Hierzu hat der Kläger das Schreiben des KBA vorgelegt, aus dem sich die Feststellung des KBA ergibt, dass man unter anderem in dem Fahrzeugtyp des Klägers unzulässige Abschalteinrichtungen festgestellt habe, die einen verpflichtenden Rückruf zur Folge haben. Konkret sei wurde durch das KBA festgestellt, dass die schadstoffmindernde, sogenannte schnelle Motoraufwärmfunktion bei diesen Fahrzeugen nahezu nur im Prüfzyklus NEFZ anspringt.Der Vortrag des Klägers hierzu kann nicht als eine „Behauptung ins Blaue hinein“ bewertet werden, denn die hierfür erforderliche Schwelle überschreitet der Vortrag des Klägers sehr wohl.Hierzu führt etwa das OLG Koblenz in seiner Entscheidung vom 18.06.2019, Aktenzeichen 3 U 416/19, juris, aus:„Grundsätzlich ist bei der Annahme einer „ins Blaue hinein“ aufgestellten Behauptung Zurückhaltung geboten. Die Annahme eines willkürlichen Sachvortrags kommt nur im Ausnahmefall in Betracht, da es einer Partei durchaus möglich sein muss, im Zivilprozess Tatsachen zu behaupten, über die sie keine genaue Kenntnis haben kann, die sie aber nach Lage der Dinge für wahrscheinlich hält (vgl. etwa BeckOK-ZPO/von Selle, Ed. 32, § 138 ZPO, Rn. 32 m.w.N.). Eine zivilprozessual unzulässige Ausforschung ist aber dann gegeben, wenn eine Partei ohne greifbaren Anhaltspunkt für das Vorliegen eines bestimmten Sachverhalts willkürlich „aufs Geratewohl“ Behauptungen aufstellt (vgl. etwa BGH, NJW-RR 2003, 69, 70; BGH, NJW-RR 2002, 1419, 1420). Diese Voraussetzungen sind vorliegend gegeben, da jeglicher tatsächlicher Anhaltspunkt für den Einsatz einer Manipulationssoftware entsprechend der Ausstattung des Motortyps EA 189 im Fahrzeug des Klägers fehlt (vgl. auch OLG Köln, Beschl. v. 28. Januar 2019 - 28 U 36/18; OLG München, Beschl. v. 22. März 2019 - 21 U 533/19; OLG Köln, Beschl. v. 19. Februar 2019 - 4 U 175/18; OLG Oldenburg, Beschl. v. 27. Februar 2019 - 1 U 50/18; OLG Celle, Beschl. v. 9. Januar 2019 - 7 U 169/18).So liegt der Fall hier aber nicht. Der Vortrag des Klägers beschränkt sich eben nicht darauf, lediglich auf den Motor EA 189 zu verweisen, sondern bezieht sich hinreichend auf den konkreten streitgegenständlichen Motor und die in diesem verwendete Abschalteinrichtung.b) Der Anspruch scheitert aber an der fehlenden Sittenwidrigkeit des Verhaltens der Beklagten.Es ist nicht per se sittenwidrig, ein Produkt in den Verkehr zu bringen, welches möglicherweise mangelhaft ist.Aber auch die bloße Behauptung eines Sachmangels bei dem streitgegenständlichen Fahrzeug reicht für die schlüssige Darlegung einer Haftung der am Kaufvertrag nicht beteiligten Beklagten als Herstellerin des Fahrzeugs gemäß 826, 823 Abs. 2 BGB i.V.m. § 263 StGB nicht aus. Nicht jeder Verstoß gegen vertragliche Pflichten oder Gesetze und nicht jede Zufügung eines Vermögensschadens begründet zugleich den Vorwurf der Sittenwidrigkeit. Dieser Vorwurf ist eben erst dann begründet, wenn eine besondere Verwerflichkeit des Handelns festgestellt werden kann, was bei dem bloßen Inverkehrbringen eines mit einem Sachmangel behafteten Fahrzeugs nicht der Fall ist (OLG Köln, Urteil vom 11.04.2019, Aktenzeichen 3 U 67/18, juris, Randziffer 28).Abschalteinrichtungen sind auch nicht per se unzulässig und begründen überhaupt einen Mangel.Die Zulässigkeit von Abschalteinrichtungen ist in Art. 5 Abs. 2 VO 2007/715/EG geregelt, in dem es heißt:„Die Verwendung von Abschalteinrichtungen, die die Wirkung von Emissionskontrollsystemen verringern, ist unzulässig. Dies ist nicht der Fall, wenn:a) die Einrichtung notwendig ist, um den Motor vor Beschädigung oder Unfall zu schützen und um den sicheren Betrieb des Fahrzeugs zu gewährleisten;b) die Einrichtung nicht länger arbeitet, als zum Anlassen des Motors erforderlich ist;c) die Bedingungen in den Verfahren zur Prüfung der Verdunstungsemissionen und der durchschnittlichen Auspuffemissionen im Wesentlichen enthalten sind.“Es ist im Übrigen auch nicht ausreichend, dass das KBA die Steuerung als unerlaubte Abschalteinrichtung eingestuft hätte. Denn es ist nicht von vornherein ausgeschlossen, dass die Entwickler davon ausgingen, es handele sich um erlaubte Ausnahmen, etwa zum Schutz des Motors (Schleswig-Holsteinisches Oberlandesgericht, Hinweisbeschluss vom 11.03.2918, Aktenzeichen 1 U 79/18). Alleine die Durchführung einer Nachrüstung von Dieselfahrzeugen eröffnet nicht ansatzweise die Schlussfolgerung auf die Möglichkeit einer Manipulationssoftware (so OLG Koblenz, Urteil vom 18.06.2019, Aktenzeichen 3 U 416/19, juris, Randziffer 34).Soweit, wie hier, über die Auslegung dieser Vorschrift über die Zulässigkeit von Abschalteinrichtungen gestritten wird, kann eine anderweitige Auslegung dieser Vorschrift ein sittenwidriges Verhalten nicht begründen. Vielmehr muss in dieser Situation eine möglicherweise falsche, aber dennoch vertretbare und im Übrigen auch vom KBA und dem BMVI geteilte Gesetzesauslegung und -anwendung durch die Organe der Beklagten in Betracht gezogen werden. Diese kann in Ermangelung gegenteiliger Indizien auch nicht widerlegt werden. Eine Verkennung der Rechtslage begründet aber selbst im Falle eines fahrlässigen oder gar grob fahrlässigen Handelns nicht den im Rahmen der §§ 826, 823 Abs. 2 BGB in Verbindung mit § 263 StGB geforderten Schädigungsvorsatz. Letzterer erfordert vielmehr das Bewusstsein eines möglichen Gesetzesverstoßes verbunden mit einer zumindest billigenden Inkaufnahme desselben, wofür es hier an belastbaren Anhaltspunkten fehlt (OLG Köln, Hinweisbeschluss vom 04.07.2019, Aktenzeichen 3 U 148/18, juris).Der vorliegende Fall ist insoweit nicht mit dem von VW entwickelten Motor EA 189 vergleichbar.Bei einer sogenannten „Schummelsoftware“, wie sie in dem VW-Motor EA 189 verwendet worden ist, ergibt sich die Sittenwidrigkeit des Handelns per se aus der Verwendung einer Umschaltlogik, die - auf den Betriebszustand des Fahrzeugs abstellend - allein danach unterscheidet, ob sich dieses auf dem Prüfstand oder im normalen Fahrbetrieb befindet. Eine solche Abschalteinrichtung ist eindeutig unzulässig; an dieser rechtlichen Wertung kann auch aus Sicht der Handelnden bzw. hierfür Verantwortlichen kein Zweifel bestehen. Bei einer anderen die Abgasreinigung (Abgasrückführung oder Abgasnachbehandlung) beeinflussenden Motorsteuerungssoftware, wie dem hier in Rede stehenden Thermofenster, die vom Grundsatz her im normalen Fahrbetrieb in gleicher Weise arbeitet wie auf dem Prüfstand und bei der Gesichtspunkte des Motor-, respektive des Bauteilschutzes als Rechtfertigung ernsthaft erwogen werden können, kann bei Fehlen jedweder konkreter Anhaltspunkte nicht ohne weiteres unterstellt werden, dass die Handelnden bzw. Verantwortlichen bei der Beklagten in dem Bewusstsein agiert haben, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden. Vielmehr muss in dieser Situation, selbst wenn hinsichtlich des Thermofensters von einer objektiv unzulässigen Abschalteinrichtung auszugehen sein sollte, eine möglicherweise falsche, aber dennoch vertretbare Gesetzesauslegung und -anwendung durch die Organe der Beklagten in Betracht gezogen werden (Senatsurteil vom 21.10.2019, Az.: 12 U 246/19, Beck RS 2019, 25135; so auch OLG Stuttgart MdR 2019, Seite 1248-1249; OLG Köln, Beschluss vom 04.07.2019 - Aktenzeichen 3 U 148/18, juris, Rn. 6). Eine Sittenwidrigkeit kommt daher hier nur in Betracht, wenn über die bloße Kenntnis von der Verwendung einer Software mit der in Rede stehenden Funktionsweise in dem streitgegenständlichen Motor hinaus zugleich auch Anhaltspunkte dafür erkennbar wären, dass dies von Seiten der Beklagten in dem Bewusstsein geschah, hiermit möglicherweise gegen die gesetzlichen Vorschriften zu verstoßen, und dieser Gesetzesverstoß billigend in Kauf genommen wurde (OLG Stuttgart und OLG Köln a. a. O.). Solche Anhaltspunkte hat der Kläger weder vorgetragen, noch sind diese anderweitig ersichtlich. Alleine der Umstand, dass das streitgegenständliche Fahrzeug von einer vom KBA angeordneten Rückrufaktion betroffen ist, ist hierfür nicht ausreichend.Solange daher in Betracht zu ziehen ist, dass die Beklagte die Rechtslage fahrlässig verkannt hat, fehlt es in subjektiver Hinsicht an dem für die Sittenwidrigkeit erforderlichen Bewusstsein der Rechtswidrigkeit (vgl. Palandt / Sprau, BGB, 78. Auflage 2019, § 826 Rn. 8). Dass auf Seiten der Beklagten die Erkenntnis eines möglichen Gesetzesverstoßes zumindest in Form eines billigenden Inkaufnehmens desselben, vorhanden war, ist von dem - insoweit darlegungs- und beweispflichtigen - Kläger weder dargetan, noch aus den Gesamtumständen ersichtlich (OLG Koblenz, Urteil vom 23.12.2019 - 12 U 1721/19, zitiert nach beckonline, BeckRS 2019, 32694, Randziffer 32 f).2. Mangels Anspruch in der Hauptsache hat der Kläger gegen die Beklagte auch keinen Anspruch auf Ersatz seiner außergerichtlichen Rechtsanwaltskosten.C. Die Kostenentscheidung folgt aus § 91 Abs. 1 ZPO, die Entscheidung zur vorläufigen Vollstreckbarkeit aus § 709 Satz 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2332406.html (https://oj.is/2332406)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate11
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

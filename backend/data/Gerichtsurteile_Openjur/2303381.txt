@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBaden-WürttembergOrdentliche GerichtsbarkeitLG HeidelbergRechtsprechungUrteil vom 30.06.2017 - 3 O 6/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Heidelberg, Urteil vom 30.06.2017 - 3 O 6/17
+                      m. Fundstelle
+                      LG Heidelberg, Urteil vom 30.06.2017 - 3 O 6/17 = openJur 2020, 81648
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Heidelberg, Urteil vom 30.06.2017 - 3 O 6/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 81648
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Keine Verpflichtung zur Lieferung eines Ersatzfahrzeugs aus einer neuen Modellreihe (hier: VW Tiguan), da dieses nicht zu der geschuldeten Gattung gehört 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags. 
+				Tatbestand
+				Die Parteien streiten über einen Anspruch des Klägers auf Lieferung eines mangelfreien Neufahrzeugs im Rahmen der Nachbesserung eines zwischen den Parteien geschlossenen Kaufvertrags über einen Neuwagen, der vom sog. VW-Abgasskandal betroffen ist.Anfang 2012 erwarb der Kläger von der Beklagten, einer selbstständigen Autohändlerin, einen fabrikneuen VW Tiguan "Sport & Style" BlueMotion Techn. 2,0 l TDI 103 kW (140 Ps) 6-Gang zu einem Kaufpreis in Höhe von 30.472 Euro. Hinsichtlich der weiteren Details zu dem streitgegenständlichen Fahrzeug wird auf die Rechnung vom 26.03.2012 (Anlage K1) Bezug genommen. Der Wagen wurde am 26.03.2012 an den Kläger übergeben. In den Vertrag einbezogen wurden die Neuwagen-Verkaufsbedingungen der Beklagten. Diese sehen in Ziff. IV. 6. unter anderem vor:"Konstruktions- und Formänderungen, Abweichungen im Farbton sowie Änderungen des Lieferumfangs seitens des Herstellers bleiben während der Lieferzeit vorbehalten, sofern die Änderungen und Abweichungen unter Berücksichtigung der Interessen des Verkäufers für den Käufer zumutbar sind."Das Fahrzeug ist mit einem 2,0-Liter-Dieselmotor des Typs EA189 ausgestattet, der vom sog. VW-Abgasskandal betroffen ist. Das Steuerungsgerät dieses Motors steht in Verbindung mit einer Software, die die Stickoxid-Emissionswerte im behördlichen Prüfverfahren in gesetzlich unzulässiger Weise optimiert. Die Software erkennt, ob sich das Fahrzeug im üblichen Straßenverkehr oder auf einem technischen Prüfstand befindet, und bewirkt, dass auf dem Prüfstand geringere Stickoxidwerte (im Folgenden: NOx-Werte) erzielt werden als im normalen Fahrbetrieb.Nach Bekanntwerden des Einsatzes des in der Öffentlichkeit als Manipulationssoftware bezeichneten Motorsteuerungsprogramms in verschiedenen Diesel-Fahrzeugen des VW-Konzerns ordnete das Kraftfahrt-Bundesamt (KBA) dieses als unzulässige Abschalteinrichtung ein und verpflichtete den Herstellerkonzern mit Bescheid vom 15.10.2015, die Software bei allen betroffenen Fahrzeugen mit dem Aggregat EA 189 zu entfernen sowie geeignete Maßnahmen zu ergreifen, um die Vorschriftsmäßigkeit der betroffenen Fahrzeuge wiederherzustellen. In der Folgezeit prüfte das KBA einen vorgelegten Maßnahmenplan und gab zeitlich gestaffelt die auf den jeweiligen Fahrzeugtyp abgestimmten Software-Updates frei.Das Software-Update für das hier streitgegenständliche Fahrzeug des Typs VW Tiguan wurde am 01.06.2016 durch das KBA freigegeben. Bei dem klägerischen Fahrzeug wurde dieses Software-Update bislang nicht durchgeführt. Auch ohne das Update ist der streitgegenständliche Wagen derzeit öffentlich-rechtlich für den Straßenverkehr zugelassen und gebrauchstauglich. Auch die EG-Typengenehmigung wurde bislang nicht entzogen, wenngleich das KBA das Aufspielen des jeweiligen Software-Updates für die Typengenehmigung als verpflichtend ansieht.Mit Schreiben vom 14.07.2016 rügten die Prozessbevollmächtigten des Klägers gegenüber der Beklagten die Mangelhaftigkeit des Fahrzeugs und forderte sie erfolglos zur Lieferung eines nach aktuellen Vorschriften zulassungsfähigen mangelfreien und vertragsgemäßen Neuwagens bis zum 25.08.2016 auf (Anlage K2). Mit Schreiben vom 25.07.2016 verwies die Beklagte den Kläger auf das von der Volkswagen AG entwickelte Software-Update und wies die begehrte Ersatzlieferung zurück (Anlage K3).Der Kläger verlangt die Lieferung eines mangelfreien, fabrikneuen, typengleichen Ersatzfahrzeugs daher nunmehr im Klagewege. Das Fahrzeugmodell VW Tiguan wird in der Form, in der es der Kläger erworben hat, inzwischen nicht mehr hergestellt. Seit Januar 2016 produziert die Volkwagen AG vielmehr ein Nachfolgemodell, den sog. Tiguan II. Dieser verfügt über eine abweichende Motorisierung, erreicht die Abgasnorm nach EU-Klassifikation Euro 6 und weist optische und technische Änderungen auf, deren Bedeutung zwischen den Parteien streitig ist.Der Kläger behauptet, dass das von ihm erworbene Fahrzeug bzw. dessen Dieselmotor die nach der Euro-5-Abgasnorm vorgegebenen NOx-Grenzwerte im realen Fahrbetrieb nicht einhalte. Er müsse nun damit rechnen, dass ihm die Zulassung entzogen werde, was derzeit allein wegen der Ausnahmegenehmigung des KBA noch nicht geschehen sei. Auch sei es ihm beim Erwerb des Fahrzeugs gerade auf dessen Umweltfreundlichkeit und auf die geringen Abgaswerte angekommen, damit er den Wagen auch in Städten nutzen könne, die eine Grüne Umweltplakette fordern. Er könne daher im Rahmen seiner Gewährleistungsrechte die Nachlieferung eines Ersatzfahrzeuges aus der aktuellen Serienproduktion verlangen. Die Volkswagen AG biete das streitgegenständliche Fahrzeug derzeit in nahezu identischer Ausstattung an. Einzig der mangelhafte Motor sei durch ein neues, den Anforderungen der Euro-6-Norm entsprechendes Aggregat ersetzt worden, bei dem sich lediglich kleine Abweichungen beim Hubraum oder der PS-Zahl ergeben hätten. Die Produktionsumstellung im Januar 2016 sei somit lediglich als sog. Facelift und nicht als echter Modellwechsel einzuordnen. Es existiere somit ein Neufahrzeug, das der Gattung des vom Kläger erworbenen Fahrzeugs entstamme und damit eine Nacherfüllung in Form der Nachlieferung ermögliche. Dies ergebe sich insbesondere auch aus den Neuwagen-Verkaufsbedingungen, die Änderungen des geschuldeten Fahrzeugmodells in den ursprünglichen Erfüllungsanspruch einbezögen.Auf die Durchführung des Software-Updates müsse er sich schon deshalb nicht verweisen lassen, weil mit dieser Form der Nacherfüllung nachteilige Folgen verbunden seien. Das Software-Update führe zu einem erhöhten Kraftstoffverbrauch, einer Reduzierung der Leistung, einer erhöhten Geräuschentwicklung sowie einem Anstieg von Verschleißerscheinungen infolge stärkerer Verrußung und Beanspruchung des Motors und sei daher nicht geeignet, den vertragsgemäßen Zustand herzustellen. Jedenfalls verbleibe ein merkantiler Minderwert, da der Wagen auch nach einer technisch einwandfreien Reparatur zu einer bemakelten Fahrzeuggruppe gehöre und die langfristigen Auswirkungen des Software-Updates völlig unbekannt seien. Zudem sei ihm die Durchführung der Nachbesserung auch deshalb nicht zuzumuten, weil ihn der VW-Konzern, der das Software-Update bereitstelle, bewusst über die Existenz der Manipulationssoftware getäuscht habe und daher die Vertrauensgrundlage endgültig weggefallen sei. Davon abgesehen träfen die Beklagte durch die Nachlieferung auch keine unverhältnismäßigen Kosten, weil sie bei der Volkswagen AG Regress nehmen könne und zudem bei den Kosten der Nachbesserung die erheblichen Kosten für die Entwicklung des Software-Updates zu berücksichtigen seien.Der Kläger beantragt zuletzt - nach einer nachgeholten Bezifferung des Klageantrags Ziff. 3 durch Schriftsatz vom 27.04.2017 -,1. die Beklagtenpartei zu verurteilen, der Klägerpartei ein mangelfreies fabrikneues typengleiches Ersatzfahrzeug aus der aktuellen Serienproduktion des Herstellers mit identischer technischer Ausstattung wie das Fahrzeug VW Tiguan, 2,0 l TDI, FIN: WVG... Zug um Zug gegen Rückübereignung des mangelhaften Fahrzeugs VW Tiguan, 2,0 l TDI, FIN: WVG... nachzuliefern;2. festzustellen, dass sich die Beklagtenpartei mit der Rücknahme des im Klageantrag Ziffer 1 genannten Fahrzeugs in Verzug befindet;3. die Beklagtenpartei zu verurteilen, die Klagepartei von den durch die Beauftragung des Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 2.256,24 Euro freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Sie behauptet, mit der Produktionsumstellung auf die 2. Modellgeneration im Januar 2016 sei eine völlige technische Neukonstruktion des VW Tiguan und damit ein echter Modellwechsel durchgeführt worden. Das Nachfolgemodell basiere nunmehr auf dem neuen modularen Querbaukasten des VW-Konzerns, der fundamentale Unterschiede in Baureihe, Typ, Karosserie und Motor im Vergleich zur Vorgängergeneration nach sich gezogen habe. Die nunmehr eingebauten Motoren seien nicht nur in der Leistung, sondern auch in der Bauweise, dem maximalen Drehmoment, der Beschleunigung, der Höchstgeschwindigkeit, dem Kraftstoffverbrauch und der Schadstoffemission nicht mit dem im klägerischen Fahrzeug verwendeten Motor vergleichbar. Zu den weiteren Einzelheiten der von der Beklagtenseite behaupteten optischen und technischen Unterschiede wird auf die Schriftsätze der Beklagten vom 12.04.2017 und vom 09.06.2017 nebst Anlagen verwiesen. Die Beklagte ist nach alledem der Ansicht, dass die Fahrzeuge der aktuellen Serienproduktion nicht mit dem klägerischen Fahrzeug vergleichbar seien und die Lieferung eines mangelfreien typengleichen fabrikneuen Ersatzfahrzeugs somit unmöglich sei.Jedenfalls sei eine Nachlieferung nach § 439 Abs. 3 BGB im Vergleich zu einer möglichen Nachbesserung unverhältnismäßig. Durch das Aufspielen des vom KBA geprüften und freigegebenen Software-Updates lasse sich die Abgasproblematik mit einem Kostenaufwand von lediglich 100 Euro und einem Werkstattaufenthalt von etwa 30 Minuten vollständig und ohne jegliche weitere Nachteile für den Kläger vollständig beseitigen. Weder sei die Nachbesserung zwangsläufig mit einem erhöhten Kraftstoffverbrauch, einer Motorminderleistung, einer geringeren Dauerhaltbarkeit oder einer höheren Geräuschentwicklung verbunden noch verbleibe nach Durchführung des Software-Updates ein merkantiler Minderwert. Auch auf eine vermeintliche arglistige Täuschung der Volkswagen AG könne sich der Kläger gegenüber der Beklagten nicht berufen, da diese selbst erst im September 2015 von der Abgasproblematik Kenntnis erlangt habe und sich eine vermeintliche Täuschung seitens der Volkswagen AG als selbstständige Vertragshändlerin auch nicht zurechnen lassen müsse.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die wechselseitigen zur Akte gereichten Schriftsätze der Parteien nebst Anlagen Bezug genommen. 
+				Gründe
+				I.Die zulässige Klage bleibt in der Sache ohne Erfolg. Dem Kläger steht gegen die Beklagte kein Anspruch gemäß §§ 437 Nr. 1, 439 Abs. 1 Alt. 2 BGB auf Lieferung eines mangelfreien fabrikneuen typengleichen Ersatzfahrzeugs aus der aktuellen Serienproduktion des Herstellers Zug um Zug gegen Rückgabe und Rückübereignung des streitgegenständlichen VW Tiguan zu.1. Die Parteien haben einen wirksamen Kaufvertrag über das streitgegenständliche Fahrzeug gemäß § 433 BGB geschlossen. Auch war das erworbene Fahrzeug im Zeitpunkt der Übergabe mangelhaft.Zwar ist die Behauptung des Klägers, ihm sei es beim Erwerb des streitgegenständlichen VW Tiguan auf die besondere Umweltverträglichkeit des Fahrzeugs angekommen, offenkundig unzutreffend. Denn bei dem VW Tiguan handelt es sich um einen sogenannten SUV mit hohem Gewicht, Luftwiderstand und Motorleistung und damit verbunden mit einem hohen Kraftstoffverbrauch. Der Erwerb eines solchen Fahrzeugs lässt darauf schließen, dass der Käufer kein besonderes Interesse an einer Umweltverträglichkeit des Fahrzeugs haben kann.Allerdings ist das Fahrzeug deshalb mangelhaft, weil es aufgrund der auf das Motorsteuerungsgerät unzulässig einwirkenden Software jedenfalls nicht die übliche Beschaffenheit im Sinne des § 434 Abs. 1 S. 2 Nr. 2 BGB aufweist.Gemäß § 434 Abs. 1 S. 2 Nr. 2 BGB ist ein Kaufgegenstand frei von Sachmängeln, wenn er sich für die gewöhnliche Verwendung eignet und eine Beschaffenheit aufweist, die bei Sachen der gleichen Art üblich ist und die der Käufer nach der Art der Sache erwarten kann. Das vom Kläger erworbene Fahrzeug eignet sich zwar trotz des Einbaus der Abschalteinrichtung für die übliche Verwendung, weil es technisch sicher und verkehrstauglich ist. Es weist aber nicht die Beschaffenheit auf, die ein durchschnittlicher Käufer nach der Art der Sache erwarten kann. Der Durchschnittskäufer eines Neufahrzeugs kann berechtigterweise davon ausgehen, dass in seinem Fahrzeug keine unzulässige Abschaltsoftware eingebaut ist, die dafür sorgt, dass der Prüfstandlauf für die Messung der Emissionswerte erkannt und über eine entsprechende Programmierung der Motorsteuerung in gesetzlich unzulässiger Weise insbesondere der NOx-Ausstoß reduziert wird (vgl. LG Kempten, Urt. v. 29.03.2017 - 13 O 808/16, BeckRS 2017, 106279 Rn. 41 f.; LG Aachen, Urt. v. 21.03.2017 - 10 O 177/16, juris Rn. 30; LG Regensburg, Urt. v. 04.02.2017 - 7 O 967/16, juris Rn. 30; LG Oldenburg, Urt. v. 01.09.2016 - 16 O 790/16, juris Rn. 26; LG Münster, Urt. v. 14.03.2016 - 11 O 341/15, juris Rn. 18; Urt. v. 04.10.2016 - 2 O 1/16, juris Rn. 22, jeweils m.w.N.). Die Installation einer solchen Abschaltsoftware ist bei Fahrzeugen anderer Hersteller in einer vergleichbaren Fahrzeugklasse auch nicht bekanntermaßen üblich (vgl. LG Regensburg, Urt. v. 04.02.2017 - 7 O 967/16, juris Rn. 30; LG Braunschweig, Urt. v. 12.10.2016 - 4 O 202/16, juris Rn. 19). Insoweit resultiert die Mangelhaftigkeit also nicht etwa daraus, dass die unter Laborbedingungen im Prüfstandlauf gemessenen Werte im alltäglichen Straßenverkehr nicht eingehalten werden, sondern gründet sich darauf, dass der Motor die im Prüfstandlauf gemessenen Werte nur aufgrund der manipulierten Software erzielen konnte (vgl. LG Münster, Urt. v. 14.03.2016 - 11 O 341/15, juris Rn. 18; LG Kempten, Urt. v. 29.03.2017 - 13 O 808/16, BeckRS 2017, 106279 Rn. 41; LG Regensburg, Urt. v. 04.02.2017 - 7 O 967/16, juris Rn. 30). Dass die Emissionswerte für Stickoxide nach bisheriger Rechtslage unter Laborbedingungen und nicht im realen Straßenverkehr zu messen sind, ergibt sich aus Erwägungsgrund Nr. 15 der einschlägigen Verordnung (EU) Nr. 715/2007 (vgl. LG Düsseldorf, Urt. v. 31.05.2017 - 12 O 68/17).2. Das Fahrzeug leidet somit an einem Sachmangel. Damit kann der Kläger grundsätzlich nach seiner Wahl gemäß §§ 437 Nr. 1, 439 Abs. 1 BGB Ersatzlieferung eines mangelfreien Fahrzeugs oder die Beseitigung des Mangels verlangen. Mit anwaltlichem Schreiben vom 14.07.2016 hat er gegenüber der Beklagten ausdrücklich die Variante der Ersatzlieferung gewählt. Dieser Anspruch ist jedoch nach § 275 Abs. 1 BGB ausgeschlossen, weil der Beklagten die Lieferung eines mangelfreien Fahrzeugs, das derselben Gattung des vom Kläger erworbenen Fahrzeugs angehört und daher von dem Nacherfüllungsanspruch gedeckt ist, unmöglich ist.a. Der Nacherfüllungsanspruch ist nichts anderes als die Fortsetzung des Erfüllungsanspruchs des Käufers in modifizierter Form (vgl. nur BT-Drs. 14/6040, S. 221; BGHZ 195, 135 in Rn. 24; Matusche-Beckmann, in: Staudinger, BGB, 2013, § 439 Rn. 1). Sein Zweck liegt darin, den ursprünglich geschuldeten Zustand herzustellen. Der Käufer soll mit der Nacherfüllung das erhalten, was er vertraglich zu beanspruchen hat - nicht mehr und nicht weniger (BGHZ 195, 135 in Rn. 24; vgl. auch LG Kempten, Urt.v. 29.03.2017 – 13 O 808/16, BeckRS 2017, 106279 in Rn. 47; LG Aachen, Urt. v. 21.03.2017 - 10 O 177/16, juris Rn. 34). Der Nacherfüllungsanspruch kann daher nicht weiter reichen als der ursprüngliche Erfüllungsanspruch.Gleichwohl ist - schon beim Stückkauf - anerkannt, dass sich der Ersatzlieferungsanspruch nicht nur auf mit der ursprünglich geschuldeten Kaufsache identische Sachen bezieht, sondern auch die Neulieferung einer gleichartigen und gleichwertigen Sache verlangt werden kann. Liegt - wie hier - eine Gattungsschuld vor, kann der Anspruch auf Nacherfüllung durch Lieferung einer Sache erfüllt werden, die derselben Gattung angehört wie der geschuldete Gegenstand. Erst wenn die gesamte Gattung untergegangen oder mangelbehaftet ist, scheidet eine Nacherfüllung im Wege der Ersatzlieferung wegen Unmöglichkeit aus (vgl. nur Weidenkaff, in: Palandt, BGB, 76. Aufl. 2017, § 439 Rn. 15).Welche Gegenstände der von den Parteien vereinbarten Gattung zugehörig sind und daher vom Anspruch auf Ersatzlieferung umfasst sind, ist durch Auslegung des Kaufvertrags zu bestimmen, §§ 133, 157 BGB. Maßgeblich ist daher, welche Gegenstände die Parteien im Zeitpunkt des Vertragsschlusses noch vom ursprünglichen Erfüllungsanspruch umfasst ansahen, so dass deren Übergabe und Übereignung eine ordnungsgemäße Erfüllung des Kaufvertrags darstellen würde.b. Gemäß dem zwischen den Parteien geschlossenen Kaufvertrag schuldete der Kläger einen fabrikneuen VW Tiguan "Sport & Style" BlueMotion Techn. 2,0 l TDI 103 kW (140 Ps) 6-Gang mit den in der Anlage K1 ergänzend beschriebenen Eigenschaften. Die Ersatzlieferung eines Fahrzeugs dieses konkreten Modelltyps ist objektiv unmöglich. Das vom Kläger erworbene Modell des VW Tiguan wird unstreitig seit Januar 2016 nicht mehr hergestellt. Vor diesem Zeitpunkt produzierte Fahrzeuge sind schon deshalb nicht mehr nacherfüllungstauglich, weil sie aufgrund der zwischenzeitlichen Standzeiten nicht mehr als "fabrikneu" anzusehen sind (vgl. dazu BGH, NJW 2004, 160). Zudem sind sämtliche Fahrzeuge dieses Modelltyps ebenfalls mit dem 2,0-Liter-Dieselmotor vom Typ EA 189 und damit auch mit der Manipulationssoftware ausgestattet und leiden daher an demselben Sachmangel wie das klägerische Fahrzeug. Die Lieferung eines mangelfreien Fahrzeugs desselben Fahrzeugtyps ist daher nicht möglich.c. Die Beklagte ist im Rahmen des vorliegenden Gattungskaufs auch nicht verpflichtet, dem Kläger ein Ersatzfahrzeug aus der neuen Modellreihe des VW Tiguan zu liefern, da ein solches nicht mehr zu der geschuldeten Gattung gehört (ebenso für den VW Tiguan: LG Kempten, Urt. v. 29.03.2017 - 13 O 808/16, BeckRS 2017, 106279 in Rn. 45 ff.; LG Aachen, Urt. v. 21.03.2017 - 10 O 177/16, juris Rn. 32 ff.; LG Bayreuth, Urt. v. 20.12.2016 - 21 O 34/16; LG Hagen (Westfalen), Urt. v. 07.10.2016 - 9 O 58/16, juris Rn. 37 ff.; a.A. LG Offenburg, Urt. v. 21.03.2017 - 3 O 77/16).Die Kammer ist aufgrund der insbesondere von Beklagtenseite vorgelegten Unterlagen auch ohne Einholung eines Sachverständigengutachtens davon überzeugt, dass die Abweichungen zwischen dem VW Tiguan aus der aktuellen Serienproduktion und dem vom Kläger im Jahr 2012 erworbenen Modell so erheblich sind, dass ein Fahrzeug der aktuellen Modellgeneration nicht mehr vom Leistungsumfang des ursprünglich zwischen den Parteien vereinbarten Erfüllungsanspruchs gedeckt ist. Schon optisch und in ihren Abmessungen unterscheiden sich die beiden Fahrzeuge erheblich voneinander (vgl. Anlage B1). Im Vergleich zum Vorgänger wirkt das Modell aus der aktuellen Serienproduktion deutlich kantiger und sportlicher und weist insbesondere an der Frontpartie im Bereich des Kühlergrills und der Scheinwerfer ein offensichtlich geändertes Design auf. Fahrzeughöhe und -breite haben sich jeweils um 3 cm, die Fahrzeuglänge um 6 cm verändert und der Radstand ist 7,7 cm größer geworden. Auch im Innenraum haben sich die Abmessungen verändert. Zudem ist dokumentiert, dass die Fahrzeuge der aktuellen Serienproduktion im Gegensatz zum Vorgängermodell die Plattform des Modularen Querbaukastens verwenden (vgl. Anlage B 6).Einen besonders ins Gewicht fallenden Unterschied stellt die geänderte Motorisierung dar (hierauf entscheidend abstellend LG Aachen, Urt. v. 21.03.2017 - 10 O 177/16, juris Rn. 34). In den Fahrzeugen der aktuellen Serienproduktion werden Motoren verbaut, die nicht lediglich von der Manipulationssoftware befreit sind, sondern gegenüber dem im klägerischen Fahrzeug verbauten Motor auch ansonsten andere Leistungsmerkmale aufweisen. Ein vom Kläger gewählter Dieselmotor mit 140 PS ist in den Fahrzeugen der aktuellen Serienproduktion nicht mehr verfügbar. Der am ehesten vergleichbare Dieselmotor des Typs EA 288 mit 150 PS weist hingegen zahlreiche Unterschiede zu dem im klägerischen Fahrzeug verbauten Aggregat auf: Neben der maximalen Leistung von 150 PS bei 3.500 Umdrehungen/min statt 140 PS mit 4.200 Umdrehungen/min beträgt das maximale Drehmoment 340 Nm statt 320 Nm, die Beschleunigung erfolgt in 9,3 sec. auf 100 km/h statt in 10,2 sec. und der Verbrauch liegt trotz der höheren Leistungsstärke bei 5,4 l pro 100 km statt bei 5,3 l (vgl. Anlagen B7 und B8). Die Fahrzeuge der aktuellen Serienproduktion verfügen zudem über eine Harnstoffeinspritzung (AdBlue) und erfüllen die Voraussetzungen der Abgasnorm Euro-6 anstatt Euro-5. Aufgrund dieser und weiterer technischer und optischer Unterschiede wird der seit Januar 2016 hergestellte "Tiguan II" ausweislich der Anlagen B4 und B5, B7 und B8, B9, B11, B12, B15 und B16 sowohl in der Fachwelt als auch in der Öffentlichkeit als offizielles Nachfolgemodell des vom Kläger erworbenen Fahrzeugtyps angesehen. Demnach hat auch in der öffentlichen Wahrnehmung ein echter Modellwechsel und nicht lediglich ein sog. Facelift stattgefunden.Vor diesem Hintergrund erscheint es auch bei ergänzender Vertragsauslegung fernliegend, dass die Parteien bei Abschluss des Kaufvertrags im Jahr 2012 ein derart abweichendes Fahrzeugmodell als vom ursprünglichen Erfüllungsanspruch gedeckt angesehen haben. Etwas anderes ergibt sich auch nicht unter Berücksichtigung der Ziff. IV. 6 der Neuwagen-Verkaufsbedingungen der Beklagten. Denn zum einen enthalten auch diese eine (enge) zeitliche Begrenzung für Abweichungen von dem vereinbarten Leistungsinhalt auf die Lieferzeit. Zum anderen sind die von der Änderungsklausel umfassten Abweichungen katalogartig umschrieben und beziehen sich nur auf Konstruktions- und Formänderungen, Abweichungen im Farbton sowie Änderungen des Lieferumfangs. Dass vor diesem Hintergrund auch ein Fahrzeug mit geänderter Motorisierung, das in der Öffentlichkeit als offizielles Nachfolgemodell des geschuldeten Fahrzeugs wahrgenommen wird und fast vier Jahre nach der Lieferung auf den Markt kommt, von der ursprünglichen Parteivereinbarung umfasst sein soll, lässt sich aus Ziff. IV. 6. der Neuwagen-Verkaufsbedingungen nicht ableiten, zumal diese Klausel ersichtlich nicht zu dem Zweck verwendet wurde, die (Erfüllungs-)Rechte des Käufers auszuweiten, sondern vielmehr einer möglichen Problematik des Verkäufers Rechnung zu tragen. Der VW Tiguan aus der aktuellen Serienproduktion ist daher nicht derselben Gattung zuzuordnen wie das vom Kläger erworbene Modell, sodass im Wege der Nacherfüllung auch nicht die Ersatzlieferung eines solchen Fahrzeugs verlangt werden kann.3. Der Anspruch des Klägers aus § 439 Abs. 1 BGB auf Lieferung eines typengleichen, mangelfreien, vertragsgemäßen Ersatzfahrzeugs aus der aktuellen Serienproduktion ist daher gemäß § 275 Abs. 1 BGB ausgeschlossen. Ein solcher Anspruch lässt sich entgegen der Ansicht des Klägers auch nicht aus §§ 311 Abs. 2, 241 Abs. 2 BGB herleiten. Denn unabhängig davon, ob die Voraussetzungen dieser Anspruchsgrundlage vorliegen, kann mit ihr jedenfalls nicht die ordnungsgemäße Erfüllung des geschlossenen Vertrags durch Lieferung einer mangelfreien Sache verlangt werden.Die Klage ist somit im Hauptantrag unbegründet. Auf die Frage, ob die Beklagte die Nacherfüllung auch gemäß § 439 Abs. 3 BGB wegen unverhältnismäßiger Kosten hätte ablehnen können, kommt es nicht an.4. Da dem Kläger kein Anspruch auf Lieferung eines mangelfreien Ersatzfahrzeugs zusteht, befindet sich die Beklagte mit der Rücknahme des klägerischen PKW auch nicht im Annahmeverzug nach §§ 293, 294 BGB. Ein Anspruch auf Freistellung des Klägers von den vorgerichtlichen Rechtsanwaltskosten besteht mangels begründetem Hauptantrag ebenfalls nicht. Die Klage hat somit auch in den Anträgen Ziff. 2 und 3 keinen Erfolg und ist daher vollumfänglich abzuweisen.II.Die Kostenentscheidung beruht auf § 91 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit hat ihre Grundlage in § 709 S. 1, S. 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2303381.html (https://oj.is/2303381)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate10
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

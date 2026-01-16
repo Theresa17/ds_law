@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungBeschluss vom 29.11.2018 - 18 U 70/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Beschluss vom 29.11.2018 - 18 U 70/18
+                      m. Fundstelle
+                      OLG Köln, Beschluss vom 29.11.2018 - 18 U 70/18 = openJur 2019, 8368
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Beschluss vom 29.11.2018 - 18 U 70/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 8368
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Der Senat beabsichtigt, die Berufung der Beklagten gegen das Urteil des Landgerichts Köln vom 12. April 2018 - 24 O 287/17 -gemäß § 522 Abs. 2 S. 1 ZPO zurückzuweisen.Es besteht Gelegenheit zur Stellungnahme binnen drei Wochen nach Zugang dieses Beschlusses.  
+				Gründe
+				I.1. Der Kläger begehrt Schadenersatz von der Beklagten als Herstellerin des Motors seines von einem Autohändler gekauften Gebrauchtwagens der Marke Audi.Der Kläger erwarb den streitgegenständlichen Pkw bei der B. GmbH. Die Beklagte ist Entwicklerin und Herstellerin des in dem Fahrzeug verbauten Dieselmotors EA189 Eu5. Das Fahrzeug wurde als der Schadstoffklasse Euro 5 zugehörig verkauft.In den Motor dieses Pkw setzte die Beklagte eine Software ein, die zwei unterschiedliche Betriebsmodi zur Steuerung der Abgasrückführung kannte. Im Modus 1 kam es zu einer höheren Abgasrückführung und somit zu einem geringeren Ausstoß von Stickoxiden als in Modus 0. Der Modus 1 war allerdings nur beim Durchfahren des Neuen Europäischen Fahrzyklus (NEFZ) aktiv. Im normalen Straßenverkehr wurde der im streitgegenständlichen Fahrzeug verbaute Motor nur im Betriebsmodus 0 betrieben. Ab September 2015 wurde die Verwendung dieser Software mit zwei Betriebsmodi zur Fahrzeugsteuerung bekannt. Später ordnete das Kraftfahrtbundesamt den Rückruf derjenigen Fahrzeuge an, die mit der oben genannten Software ausgerüstet worden waren. Es gab der Beklagten auf, Maßnahmen zu entwickeln und nach Freigabe zu ergreifen, um die betroffenen Fahrzeuge in einen ordnungsgemäßen Zustand zu versetzen. Im Rahmen der nach der Entwicklung der notwendigen Software und ihrer Freigabe durch das Kraftfahrtbundesamt schließlich folgenden Rückrufaktion bot die Beklagte den Kunden und darunter auch dem Kläger an, sein Fahrzeug bzw. die hier installierte Software zur Motorsteuerung kostenfrei einem Software-Update zu unterziehen, das nach Aufspielen auf die betroffenen Fahrzeuge dazu führen solle, dass auch im normalen Betrieb die öffentlichrechtlichen Grenzwerte eingehalten würden. Nach der Installation des Updates würde der Motor des das Fahrzeugs durchgängig in einem angepassten Modus 1 betrieben. Der Kläger ließ die Installation des Updates allerdings nicht durchführen.Der Kläger hat behauptet, er hätte das Fahrzeug nicht gekauft, wenn er davon gewusst hätte, dass das Abgasrückführungssystem über zwei Betriebsmodi verfügt und die Euro 5-Grenzwerte nur im Prüfmodus eingehalten werden. Die nunmehr angebotene Nachbesserung durch ein Software-Update sei ungeeignet, den Mangel zu beheben; zudem seien schädliche Auswirkungen auf den Motor zu befürchten.Die Beklagte hat die Ansicht vertreten, dass es sich bei der Software nicht um eine illegale Abschalteinrichtung i.S.v. Art. 5 Abs. 2 S. 1 der Verordnung (EG) Nr. 715/2007 und der Kläger keinen wirtschaftlichen Schaden erlitten habe. Sie hat bestritten, dass der Vorstand der Beklagten oder eines ihrer Organe Kenntnis von der Installation dieser Software hatte.Wegen der weiteren Einzelheiten des Sach- und Streitstandes im ersten Rechtszug einschließlich der gestellten Anträge wird auf den Tatbestand des angefochtenen Urteils Bezug genommen.2. Mit seinem am 12. April verkündeten (vgl. Bl. 382 GA) Urteil (vgl. 383 ff. GA) hat das Landgericht Köln der Klage überwiegend stattgegeben und zur Begründung ausgeführt, die Beklagte hafte nach § 826 BGB.Dabei hat das Landgericht eine Täuschung der Beklagten über den unter normalen Fahrbedingungen erhöhten Stickoxidausstoß bejaht und das Verhalten der Entscheidungsträger in Bezug auf die Verwendung der Software dem Vorstand nach § 31 BGB analog zugerechnet. Eine Kenntnis des Vorstands selbst erachtet das Landgericht als unbewiesen. Die Verwendung der Software sei eine illegale Abschalteinrichtung.Die weiteren Details der rechtlichen Würdigung des Landgerichts lassen sich den Entscheidungsgründen des angefochtenen Urteils entnehmen.3. Die Beklagte hat gegen das ihr am 18. April 2018 (Bl. 396 GA) zugestellte Urteil mit einem beim Oberlandesgericht am 15. Mai 2018 eingegangen Schriftsatz Berufung eingelegt (Bl. 413 f. GA) und ihr Rechtsmittel - nach entsprechende Fristverlängerung - mit einem am 16. Juli 2018 eingegangen Schriftsatz begründet (Bl. 424 ff.GA).Sie stellt die angefochtene Entscheidung insgesamt zu Überprüfung und rügt die Verletzung von Verfahrensrecht. Insofern vertritt sie die Ansicht, dass das Urteil auf einer unrichtigen Tatsachenfeststellung beruhe. Auch die materiellrechtliche Bewertung des Landgerichts sei fehlerhaft, denn ein Schadenersatzanspruch aus § 826 BGB scheitere am Tatbestandsmerkmal der Sittenwidrigkeit, an einer Schädigungshandlung der Beklagten im Verhältnis zum Kläger, am Vorsatz eines Vorstandsmitglieds oder eines anderen Organs der Beklagten und am fehlenden Schaden.Die Beklagte beantragt sinngemäß,das angefochtene Urteil des Landgerichts Köln vom 12.04.2018, Az.: 24 O 287/17 abzuändern und die Klage abzuweisen.Der Kläger beantragt,die Berufung zurückzuweisen,verteidigt die angefochtene Entscheidung und hält an seinem erstinstanzlichen Vorbringen fest.II.1. Die Berufung der Beklagte ist nach den hierfür maßgebenden §§ 511 ff. ZPO zwar statthaft und auch im Übrigen zulässig, aber offensichtlich nicht begründet (§ 522 Abs. 2 S. 1 Nr. 1 ZPO), denn das angegriffene Urteil des Landgerichts Köln beruht nicht auf einem Rechtsfehler, sondern unter Zugrundelegung der Rechtsprechung einerseits zu den Voraussetzungen einer sittenwidrigen, vorsätzlichen Schädigung im Sinne des § 826 BGB bereits durch Inverkehrbringung mangelhafter Waren und andererseits zu den Erleichterungen der Darlegungslast zugunsten nicht am Geschehensablauf beteiligter Personen sowie schließlich zum Schadenseintritt schon durch den Abschluss von Verträgen und den Erwerb eines von den gerechtfertigten Vorstellungen des Erwerbers abweichenden Gegenstandes kommt eine andere, für die Beklagte günstigere Entscheidung nicht in Betracht.Im Einzelnen:a) aa) Sittenwidrig ist ein Verhalten immer dann, wenn es nach seinem unter zusammenfassender Würdigung von Inhalt, Beweggrund und Zweck zu ermittelnden Gesamtcharakter in dem Sinne dem Anstandsgefühl aller billig und gerecht Denkenden zuwiderläuft, dass es mit grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist (vgl. etwa BGH, Urt. v. 19.11.2013 - VI ZR 336/12 -, NJW 2014, S. 383 [Tz. 9] m.w.N.).Ein derartiger, als sittenwidrig zu bewertender Verstoß gegen die Rechts- und Sittenordnung kann rein tatsächlich nicht nur in einer bereits nach § 123 BGB rechtlich missbilligten Täuschung eines Vertragspartners oder eines später hinzutretenden Dritten liegen, sondern schon in der Veräußerung eines z.B. wegen eines Unfallschadens mangelhaften Kfz an einen Zwischenerwerber, wenn nämlich in dem konkreten Fall damit zu rechnen war, dass derselbe es unter Verschweigen des Mangels weiterveräußern würde (vgl. dazu etwa OLG Braunschweig, Urt. v. 13. April 2006 - 8 U 29/05 -, juris Rn. 21 ff. m.w.N. zur diesbezüglichen OLG-Rechtsprechung sowie Sprau, in: Palandt, BGB, 77. Aufl., § 826 Rn. 23).Einerseits liegt der Verstoß gegen die für das Sittenwidrigkeitsurteil maßgebenden Wertungen der Rechts- und Sittenordnung hier nicht bereits in der Veräußerung einer mangelhaften Sache als solcher und ebenso wenig schon in einem diesbezüglichen Gewinnstreben des Erstverkäufers. Vielmehr gehört es durchaus zum gewöhnlichen Rechtsverkehr, auch mangelhafte Sachen entgeltlich zu veräußern.Andererseits bedarf es auch nicht der Täuschung des Erstkäufers bzw. Weiterverkäufers durch den Schädiger bzw. Erstverkäufer, sondern es ist ebenso anstößig, wenn dem Zweitverkäufer die Eigenschaften der erworbenen und weiter zu veräußernden Ware genau bekannt sind, der Erstverkäufer und der Zweitverkäufer aber dahingehend kollusiv zusammenwirken, einem Dritten die betreffende Sache zu veräußern, von dem sie annehmen müssen, dass er über keine Kenntnisse hinsichtlich der betreffenden, nachteiligen Eigenschaft verfügt, aber in Kenntnis der Umstände von dem Geschäft Abstand nehmen würde. In einem solchen Fall liegt der Tatbeitrag des Erstverkäufers bereits in der Veräußerung der mangelbehafteten Sache. Die Sittenwidrigkeit seines Verhaltens ergibt sich aber erst aus den weiteren Umständen, also der Kenntnis nicht nur des Mangels, sondern auch der bevorstehenden Weiterveräußerung an einen ahnungslosen Dritten. Darüber hinaus kommt es darauf an, dass der Erstverkäufer auch in der Vorstellung handelt, dass der Dritte in Kenntnis der Umstände von dem Erwerb Abstand nehmen würde.Den vorstehenden Erwägungen ist zu entnehmen, dass es letztlich auch nicht darauf ankommt, inwiefern der Erstkäufer bzw. Zweitverkäufer von dem betreffenden Mangel Kenntnis hat. Ebenso gut ist eine Konstellation denkbar, bei der der Erstverkäufer über überlegene Kenntnis verfügt, die Sache also dem ahnungslosen Zweitverkäufer bzw. Weiterverkäufer in der Vorstellung veräußert, dass dieser den Mangel weder kennt noch entdeckt und die Sache schon deshalb ohne entsprechende Information an einen Dritten veräußern wird. Auch darin liegt eine sittenwidrige Veräußerung.Schließlich kommt es für die Sittenwidrigkeit des Verhaltens des Erstverkäufers als solche auch nicht darauf an, ob die Täuschung des Dritten und Zweitkäufers tatsächlich gelingt. Vielmehr ist zu berücksichtigen, dass das Verhalten des Erstverkäufers zu dem Zeitpunkt der möglichen Täuschung bereits abgeschlossen ist. Maßgebend können demnach nur die Vorstellungen des Erstverkäufers sein.Kurz: Sittenwidrig handelt, wer eine Sache, von deren Mangelhaftigkeit er weiß, in der Vorstellung in den Verkehr bringt, dass die betreffende Sache von dem Erwerber in unverändert mangelhaftem Zustand an einen ahnungslosen Dritte, die in Kenntnis der Umstände von dem Geschäft Abstand nähmen, veräußert werden wird.bb) Im vorliegenden Fall haben Mitarbeiter der Beklagten den Motor EA 189 Eu5 mit einer Software zur Motorsteuerung ausrüsten lassen, die zwei Betriebsmodi und darunter einen im Sinne der Abgasrückführung optimierten Betriebsmodus vorsah, und auf dieser Grundlage haben Mitarbeiter der Beklagten die Typengenehmigungen der so ausgerüsteten Fahrzeuge erwirkt, ohne die dafür zuständige Behörde hiervon in Kenntnis zu setzen. Darin allein liegt, wie der Senat bereits in den andere Zusammenhänge betreffenden Verfahren 18 U 112/17 und 18 U 134/17 ausgeführt hat, mit Rücksicht auf die daraus folgende Rechtsunsicherheit für die Typengenehmigung und die Betriebszulassung der entsprechend ausgerüsteten Fahrzeuge ein gravierender Mangel.Hinzu kommt, dass die Mitarbeiter der Beklagten die mit der manipulativ wirkenden Software ausgerüsteten Motoren des Typs EA 189 Eu5 den zum VW-Konzern gehörenden Herstellern gerade zum Zweck der Weiterveräußerung überließen, also damit rechnen mussten und zur Überzeugung des Senats auch tatsächlich damit rechneten, dass die so ausgerüsteten Fahrzeuge ohne Hinweis auf die Erwirkung der Typengenehmigung unter Einsatz einer manipulativ wirkenden Software mit zwei Betriebsmodi weiterveräußert werden würden.Aus der Heimlichkeit des Einsatzes der Software gegenüber dem Kraftfahrtbundesamt, den beteiligten Stellen und den potentiellen Kunden gegenüber ergibt sich schließlich mit hinreichender Sicherheit, dass die beteiligten Mitarbeiter der Beklagten auch in der Vorstellung handelten, dass der Einsatz der Software zu Schwierigkeiten hinsichtlich der Typengenehmigung und der Betriebszulassung der so ausgestatteten Fahrzeuge führen könnte und dass potentielle Kunden Fahrzeuge, die derart mit rechtlichen Unsicherheiten belastet waren, nicht ohne weiteres erwerben würden.cc) Diese Kenntnisse und Vorstellungen sind der Beklagten nach § 31 BGB zuzurechnen, weil aufgrund des hier maßgebenden Sach- und Streitstandes davon auszugehen ist, dass der Vorstand der Beklagten nicht nur über umfassende Kenntnisse von dem Einsatz der oben geschilderten Software verfügte, sondern auch in der Vorstellung die Herstellung und die Inverkehrgabe der mangelbehafteten Motoren veranlasste, dass diese unverändert und ohne entsprechenden Hinweis weiter veräußert werden würden.Insofern greift in zweierlei Hinsicht zugunsten der Zweitkäufer und darunter auch des Klägers eine Erleichterung der Darlegungslast:(1.) Steht nämlich ein (primär) darlegungspflichtiger Anspruchsteller außerhalb des für seinen Anspruch erheblichen Geschehensablaufs und kennt der Anspruchsgegner alle wesentlichen Tatsachen, so genügt nach den höchstrichterlichen Grundsätzen über die sekundäre Darlegungslast das einfaches Bestreiten seitens des Anspruchsgegners nicht, sofern ihm nähere Angaben zuzumuten sind (vgl. BGH, Urt. v. 17. Januar 2008 - III ZR 239/06 -, juris Rn. 16 m.w.N. zur BGH-Rspr.).Soll aber für diese höchstrichterliche Rechtsprechung überhaupt ein Anwendungsbereich eröffnet sein, müssen schon die Anforderungen an die primären Darlegungen seitens des Anspruchstellers auf die allgemeine Behauptung der nach dem maßgebenden Tatbestandsmerkmal erforderlichen Tatsache beschränkt werden, denn zur Frage des Umfangs einer sekundären Darlegungslast kann man stets nur dann gelangen, wenn der Anspruchsteller die Voraussetzung der ihn treffenden primären Darlegungslast zu erfüllen vermag. Das aber kann mit Rücksicht auf den Umstand, dass der Anspruchsteller in der von der zitierten höchstrichterlichen Rechtsprechung erörterten Fällen jeweils außerhalb des Geschehensablaufs steht und ihm entsprechende Kenntnisse aus strukturellen Gründen fehlen, nur dann geschehen, wenn man allgemeine Behauptungen ausreichen lässt und von weiterer Substantiierung absieht.(2.) Vor diesem Hintergrund reicht einerseits die Behauptung des Klägers aus, dass dem Vorstand der Beklagten sämtliche oben erörterten Umstände bekannt gewesen seien, während andererseits das Vorbringen der Beklagten zu den internen Geschehnissen im Zusammenhang mit der Beauftragung, der Bezahlung, dem Empfang, der Kontrolle und der Verwendung der oben erwähnten Motorsteuerungs-Software nicht einmal ansatzweise ausreichen. Da die Beklagte auch nicht konkret darlegt, dass und wie einzelne Mitarbeiter unter Ausschluss des Vorstandes die mangelhafte Software pflichtwidrig beauftragen, bezahlen und verwenden ließen, kann sich die Beklagte auch hierauf nicht berufen und muss es sowohl bei der Annahme umfassender Kenntnisse des Vorstandes der Beklagten als auch bei der Anwendung des § 31 BGB im Sinne einer Zurechnung bleiben.b) Der Kläger hat den geltend gemachten Schaden schon durch den Erwerb des mit der bereits mehrfach erwähnten Software zur Motorsteuerung ausgerüsteten Fahrzeugs erlitten. Auf die Fragen, welchen Verkehrswert das Fahrzeug hatte und hat und worauf eine negative Entwicklung des Verkehrswertes des Diesel-Fahrzeugs des Klägers zurückgeht, kommt es nicht an.Der Schaden des Klägers besteht im vorliegenden Fall bereits in dem Erwerb des mit der manipulativ wirkenden Software zur Motorsteuerung ausgerüsteten Fahrzeugs, weil das erworbene Fahrzeug infolge der eingesetzten Software hinter den Vorstellungen des Klägers von der allgemein ordnungsgemäßen Ausrüstung des zu erwerbende Pkw zurückblieb und sich dieses Zurückbleiben schon infolge der damit zunächst verbundenen Unsicherheiten für die Typengenehmigung und die Betriebszulassung nachteilig auf den Vermögenswert des Pkw auswirkte.In welchem Umfang das genau der Fall war und inwiefern andere Gesichtspunkte hinzutraten, die zu einem erheblichen Wertverlust sämtlicher Diesel-Fahrzeuge führten und führen, ist für die Entscheidung des vorliegendes Falles schon deshalb nicht relevant, weil der Kläger als Schadenersatz die Rückabwicklung des Erwerbs begehrt und nicht Zahlung irgendeiner Wertdifferenz verlangt. Ausschlaggebend ist hier allein, dass das Fahrzeug mit einer Software ausgestattet war, die zu Unsicherheiten hinsichtlich des Fortbestandes der Typengenehmigung und der Betriebszulassung führte sowie nach den verbindlichen Vorgaben des Kraftfahrtbundesamtes einen Rückruf und ein Update mit einer seitens des Kraftfahrtbundesamtes genehmigten Software des Herstellers erforderte.c) aa) Die Beklagte hat den nach den vorstehenden Erwägungen eingetretenen Vermögensschaden auch im Sinne einer "condicio sine qua non" (vgl. dazu Grüneberg, in: Palandt, BGB, 77. Aufl., Vorb. v. § 249 Rn. 25 m.w.N.) verursacht. Hätte sie nämlich die Motoren des Typs EA 189 Eu5 nicht mit der manipulativ wirkenden Software zur Motorsteuerung ausgerüstet und die so ausgestatteten Motoren nicht zwecks Weiterverwendung an den Fahrzeughersteller veräußert, hätte der Kläger den hier streitgegenständlichen Pkw Audi A4 2.0 l TDI nicht erwerben können.Das Vorgehen der Beklagten, die mit einer Manipulations-Software ausgerüsteten Motoren des Typs EA 189 Eu5 durch Veräußerung an Fahrzeughersteller in den Verkehr zu bringen, war auch nicht nur unter ganz besonderen, außerhalb jeder Wahrscheinlichkeit liegenden Umständen geeignet den Schaden herbeizuführen (vgl. zur notwendigen Adäquanz Grüneberg, in: Palandt, BGB, 77. Aufl., Vorb. v. § 249 Rn. 25 m.w.N.). Vielmehr war es so, dass die Motoren gerade für den Einbau in die für die Veräußerung bestimmten Fahrzeuge vorgesehen war und dass das heimliche Vorgehen hinsichtlich der eingesetzten Software nur dann sinnvoll war, wenn man davon ausging, dass auch die Fahrzeughersteller weder die zuständigen öffentlichen Stellen, noch Händler, noch Kunden informieren würden. Dementsprechend war der Eintritt solcher Schäden, wie sie der Kläger erlitten hat, nicht nur nicht gänzlich unwahrscheinlich, sondern sogar bei gewöhnlichem Lauf der Geschehnisse sicher zu erwarten.Auch mit Rücksicht auf den Schutzzweck des hier verletzten Verhaltensgebots (vgl. zu den entsprechenden Einschränkungen der Haftung aus § 826 BGB Wagner, in: MünchKomm-BGB, 7. Aufl., § 826 Rn. 46 m.w.N.) kommt hier kein anderes Ergebnis in Betracht. Denn oben ist bereits ausgeführt worden, dass sittenwidrig hier bereits das Inverkehrbringen der mit der Manipulations-Software ausgerüsteten Motoren des Typs EA 189 Eu5 in de Vorstellung war, dass diese ein Fahrzeuge eingebaut werden würden und diese Fahrzeug ahnungslosen Kunden veräußert werden würden. Der Sinn des entsprechenden Verhaltensverbots liegt aber in der Vermeidung solcher Schäden, wie sie der Kläger hier erlitten hat.bb) Im Zusammenhang mit dem Schaden und der Kausalität ist abschließend klarzustellen, dass es nicht auf eine Täuschung über die Einhaltung von Grenzwerten der Euro-5-Norm im Alltagsbetrieb o.ä. Vorstellungen des Klägers als Käufer ankommt. Maßgebend für das Vorhandensein eines Schadens ist vielmehr lediglich die allgemeine Vorstellung des Klägers als Käufer eines für die Nutzung im Straßenverkehr bestimmten Pkw, dass die dafür notwendige Typengenehmigung und die Betriebszulassung ohne gegenüber den zuständigen öffentlichen Stellen verheimlichte Manipulation erwirkt wurden und dass es deshalb keine rechtlichen Unsicherheiten im Zusammenhang mit der Typengenehmigung und der Betriebszulassung und ausgehend von einer heimlichen Manipulation gibt und geben wird.Der Senat ist aufgrund des feststehenden Erwerbs des Fahrzeugs seitens des Klägers zum Zwecke der Nutzung im Straßenverkehr davon überzeugt, dass der Kläger die danach hinreichende Vorstellung hatte.d) Dass nach dem hier maßgebenden Sach- und Streitstand Mitarbeiter der Beklagten vorsätzlich handelten und dass ihr dies entsprechend § 31 BGB zuzurechnen ist, ist der Sache nach bereits oben und im Zusammenhang mit der Qualifikation des Verhaltens der Beklagten als sittenwidrig näher ausgeführt worden. Die dort angestellten Überlegungen gelten sinngemäß auch für den Vorsatz hinsichtlich des Schadens.e) Die Schätzung des Nutzungsvorteils ausgehend von einer Gesamtlaufleistung von 300.000 km ist vor dem Hintergrund des § 287 ZPO nicht in einem für die Beklagten günstigen Sinne zu beanstanden, zumal der Senat selbst im Verfahren 18 U 134/17 von einer noch deutlich höheren Gesamtlaufleistung ausgeht.2. Die Berufung hat nach den vorstehenden Erwägungen nicht nur wegen ihrer offensichtlichen Unbegründetheit im Sinne des § 522 Abs. 2 S. 1 Nr. 1 ZPO keine Aussicht auf Erfolg, sondern der Fall wirft keine ungeklärten Rechtsfragen auf und lässt sich unter Rückgriff auf die höchstrichterliche Rechtsprechung ohne weiteres entscheiden. Weder bedarf es demnach der Klärung von Rechtsfragen, noch divergiert der Senat in einer Rechtsfrage, noch bedarf es einer Rechtsfortbildung, noch erscheint eine mündliche Verhandlung zur weiteren Sachaufklärung oder aus anderen Gründen geboten, § 522 Abs. 2 S. 1 Nr. 2 bis 4 ZPO. Gelegentlich vorkommende abweichende Rechtsauffassungen von Berufungsgerichten beruhen vielmehr auf Abweichungen der Subsumtion und geben dementsprechend Anlass weder von der Anwendung des § 522 Abs. 2 ZPO abzusehen, noch die Revision zuzulassen.
+			
+			
+			
+			Permalink: https://openjur.de/u/2143376.html (https://oj.is/2143376)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

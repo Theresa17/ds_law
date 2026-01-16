@@ -1,0 +1,9 @@
+# Artifacts
+
+In diesem Ordner werden die Ergebnisse der Analyse gespeichert.
+
+- model.joblib: trainiertes Klassifikationsmodell  
+- vectorizer.joblib: TF-IDF-Vectorizer zur Umwandlung von Text in numerische Merkmale  
+
+Die Dateien werden im Jupyter Notebook erzeugt und später vom Backend geladen,
+um neue Texte zu analysieren, ohne das Modell erneut trainieren zu müssen.

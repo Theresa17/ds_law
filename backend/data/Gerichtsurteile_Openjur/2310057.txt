@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG BambergRechtsprechungUrteil vom 07.05.2020 - 1 U 417/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Bamberg, Urteil vom 07.05.2020 - 1 U 417/19
+                      m. Fundstelle
+                      OLG Bamberg, Urteil vom 07.05.2020 - 1 U 417/19 = openJur 2020, 79262
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Bamberg, Urteil vom 07.05.2020 - 1 U 417/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 79262
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Berufung des Klägers gegen das Endurteil des Landgerichts Würzburg vom 12.11.2019, Az. 94 O 884/19, wird zurückgewiesen.2. Der Kläger hat die Kosten des Berufungsverfahrens zu tragen.3. Das Urteil ist vorläufig vollstreckbar. Das in Ziffer 1 genannte Endurteil des Landgerichts Würzburg ist ohne Sicherheitsleistung vorläufig vollstreckbar. Der Kläger kann die Vollstreckung durch Sicherheitsleistung in Höhe von 110% des vollstreckbaren Betrags abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit leistet in Höhe von 110% des zu vollstreckenden Betrags.4. Die Revision gegen dieses Urteil wird zugelassen. 
+				Tatbestand
+				Der Kläger verlangt Schadensersatz von der Beklagten als Motorenherstellerin nach einem PkwKaufvertrag.1. Der Kläger erwarb am 09.12.2015 von einem gewerblichen Händler einen gebrauchten Pkw A. mit einer Laufleistung von 43.740 km (Erstzulassung 20.09.2012) zu einem Kaufpreis von 15.247,72 €.Das Fahrzeug ist mit einem Dieselmotor der Baureihe EA 189 ausgestattet bei einer Schadstoffklasse Euro 5. In dem Fahrzeug ist eine Motorensteuerungsgerätesoftware installiert, die erkennt, wenn das Fahrzeug auf dem Prüfstand den Neuen Europäischen Fahrzyklus (NEFZ) durchfährt, und dann einen besonderen Modus aktiviert (sog. Umschaltlogik). Erst nach Abschluss des Kaufvertrags wurde bei dem Fahrzeug ein von der Beklagten entwickeltes Softwareupdate vorgenommen, mit dem die Umschaltlogik verändert wurde.Am 22.09.2015 wurde der sog. Abgasskandal mit der Adhoc-Mitteilung der Beklagten über die manipulierten Dieselmotoren publik, und es wurde in den nationalen und internationalen Medien berichtet. Mitte Oktober 2015 ordnete das Kraftfahrt-Bundesamt (KBA) den Rückruf von 2,4 Millionen Fahrzeugen der Beklagten an und verpflichtete diese, bei allen betroffenen Fahrzeugen mit dem Motor EA 189 EU5 die aus Sicht des Bundesamtes unzulässige Abschaltvorrichtung zu entfernen und nachzuweisen, dass die gesetzlichen Anforderungen erfüllt werden.Der Kläger hat erstinstanzlich behauptet, er hätte das Fahrzeug bei Kenntnis von der durch die Beklagte mittels der Abschaltvorrichtung erfolgten Manipulation nicht erworben. Er habe erst nach dem Erwerb Kenntnis von der Betroffenheit des Fahrzeugs in Bezug auf den Abgasskandal und dem hiermit einhergehenden wirtschaftlichen Nachteil erhalten. Die Beklagte habe sittenwidrig gehandelt und müsse sich das Verhalten und die Kenntnis ihrer verfassungsgemäßen Vertreter zurechnen lassen.Im Übrigen haben die Parteien erstinstanzlich streitig über die Voraussetzungen deliktischer Ansprüche des Klägers verhandelt.2. Das Landgericht hat die Klage abgewiesen. Zur Begründung hat es darauf verwiesen, dass aufgrund der Berichterstattung in den Medien nach der Adhoc-Mitteilung der Beklagten vom 22.09.2015 die Manipulation allgemein bekannt gewesen sei. Es fehle daher an einer für den Kaufvertragsschluss kausalen Täuschung durch die Beklagte. Ferner sei der Kaufpreis nicht an die Beklagte gezahlt worden, so dass dieser kein Vermögensvorteil entstanden sei. Der Kläger habe sein Fahrzeug ohne Einschränkungen nutzen können. Schließlich seien mittels einer 2019 erhobenen Klage verfolgte Ansprüche verjährt, da bis Ende 2015 zumindest von grob fahrlässiger Unkenntnis des Klägers von den anspruchsbegründenden Umständen auszugehen sei.Wegen der Einzelheiten wird auf Tatbestand und Entscheidungsgründe des angefochtenen Endurteils Bezug genommen.3. Mit seiner Berufung verfolgt der Kläger sein erstinstanzliches Klageziel weiter. Er vertritt die Auffassung, dass durch die Adhoc-Mitteilung der Beklagten vom 22.09.2015 und die anschließende Presseberichterstattung nicht zwangsläufig die Kenntnis des Klägers von der Mangelhaftigkeit des Fahrzeugs verbunden gewesen sei. Für diese sei die Beklagte darlegungsund beweisbelastet. Die Manipulationen der Beklagten begründeten die Annahme eines Schädigungsvorsatzes und den Vorwurf der Sittenwidrigkeit. Mit ihrem Verhalten ab dem 22.09.2015 habe die Beklagte auch nicht alle Möglichkeiten ausgeschöpft, um den weiteren Handel mit manipulierten Fahrzeugen auszuschließen. Die Beklagte habe weder vollumfänglich ein fehlerhaftes Verhalten eingeräumt noch ohne Einschränkungen die Aufklärung des Abgasskandals betrieben. Daher manifestiere sich auch im streitgegenständlichen Kauf durch den Kläger ein sittenwidrig schädigendes Verhalten der Beklagten.Der Kläger beantragt,1. Das Urteil des Landgerichts Würzburg vom 12.11.2019 (Az. 94 O 884/19) wird aufgehoben.2. Die Beklagte wird verurteilt, Zug um Zug gegen Herausgabe und Übereignung des Fahrzeugs Marke X., Typ A., FIN ... an die Klagepartei einen Betrag in Höhe von 15.247,00 € nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.3. Die Beklagte wird verurteilt, an die Klagepartei Zinsen in Höhe von 4% aus 15.247,00 € seit dem 09.12.2015 bis zu Beginn der Rechtshängigkeit zu bezahlen.4. Es wird festgestellt, dass sich die Beklagte mit der Annahme der in dem Klageantrag zu 1. genannten Zugum-Zug-Leistung im Annahmeverzug befindet.5. Die Beklagte wird verurteilt, die Kosten des außergerichtlichen Vorgehens in Höhe von 1.570,80 € nebst Zinsen in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklagte beantragt,die Berufung des Klägers zurückzuweisen.Sie verteidigt das angefochtene Urteil unter Wiederholung und Vertiefung ihres erstinstanzlichen Vortrags. Insbesondere weist sie darauf hin, dass nach aktueller Rechtsprechung verschiedener Oberlandesgerichte Ansprüche aus Delikt aufgrund der umfassenden Medienberichterstattung nach Bekanntwerden des Abgasskandals ausschieden, da diese eine Täuschung durch die Beklagte sowie einen Irrtum des Klägers ausschlössen. Auch sei die Klage unzulässig, da der Kläger sich der Musterfeststellungsklage vor dem OLG Braunschweig angeschlossen habe.Wegen des weiteren Parteivorbringens im Berufungsverfahren wird Bezug genommen auf die Berufungsbegründung, die Berufungserwiderung und die weiteren im Berufungsverfahren eingereichten Schriftsätze, jeweils mit Anlagen. 
+				Gründe
+				I.Die gemäß §§ 511 ff. ZPO zulässige Berufung des Klägers ist unbegründet. Dem Kläger steht gegen die Beklagte bei der hier vorliegenden Fallkonstellation kein Anspruch auf Schadensersatz zu, da allein in Betracht kommende deliktische Ansprüche des Klägers gegen die Beklagte nicht bestehen.1. Die Klage ist zulässig. Soweit die Beklagte die Unzulässigkeit der Klage aufgrund eines Anschlusses des Klägers an die Musterfeststellungsklage rügt, hat der Kläger bereits erstinstanzlich unbestritten vorgetragen, dass er sich zur Verjährungshemmung zwar noch im Jahr 2018 der Musterfeststellungsklage angeschlossen hatte, die Anmeldung jedoch noch vor der Klageerhebung im hiesigen Verfahren am 10.05.2019 zurückgenommen worden sei.2. Die Klage ist allerdings nicht begründet. Vorliegend handelt es sich um einen so bezeichneten "Spätfall" im Rahmen der Vielzahl von Verfahren betreffend durch Automobilhersteller manipulierte Abgaswerte. Dieser ist dadurch gekennzeichnet, dass ein Fahrzeug mit einem von der Beklagten hergestellten Motor der Baureihe EA 189 zu einem Zeitpunkt erworben wurde, als durch die Adhoc-Mitteilung der Beklagten vom 22.09.2015, die sich anschließende umfangreiche Medienberichterstattung sowie weitere Handlungen der Beklagten die Manipulation bereits weithin bekannt war. Der Senat schließt sich für diese Fallgestaltung einer Vielzahl anderer obergerichtlicher Entscheidungen an, in denen eine deliktische Haftung der Beklagten abgelehnt wurde (vgl. etwa OLG Frankfurt, Urteil v. 06.11.2019, Az. 13 U 156/19; OLG Saarbrücken, Urteil v. 28.08.2019, Az. 2 U 94/18; OLG Stuttgart, Urteil v. 07.08.2019, Az. 9 U 9/19; OLG Stuttgart, Urteil v. 26.11.2019, Az. 10 U 199/19; OLG Köln, Urteil v. 06.06.2019, Az. 24 U 5/19; OLG Dresden, Urteil v. 24.07.2019, Az. 9 U 2067/18; OLG Celle, Urteil v. 29.04.2019, Az. 7 U 159/19; OLG Braunschweig, Urteil v. 02.11.2017, Az. 7 U 69/17; OLG Schleswig-Holstein, Urteil v. 29.11.2019, Az. 1 U 32/19; OLG Koblenz, Urteil v. 25.10.2019, Az. 3 U 948/19; OLG München, Urteil v. 27.01.2020, Az. 21 U 1896/19; Urteil v. 30.03.2020, Az. 21 U 6056/19; OLG Oldenburg, Urteil v. 26.11.2019, Az. 13 U 33/19).Die in Teilen der obergerichtlichen Rechtsprechung vertretene gegenteilige Auffassung (vgl. etwa OLG Hamm, Urteil v. 10.09.2019, Az. 13 U 149/18; OLG Oldenburg, Urteil v. 16.01.2020, Az. 14 U 166/19; OLG Koblenz, Urteil v. 03.04.2020, Az. 8 U 1956/19) vermag hingegen nicht zu überzeugen.a. Ein Anspruch des Klägers gemäß § 826 BGB besteht nicht, da es an dem erforderlichen Zurechnungszusammenhang zwischen der Schädigungshandlung und dem behaupteten Schaden fehlt. Dieses gilt unabhängig davon, ob der Kläger konkrete Kenntnis von der Betroffenheit des von ihm erworbenen Fahrzeugs von den Manipulationen der Beklagten besaß.(1) Nach der Rechtsprechung des Bundesgerichtshofs begründet die vorsätzliche Zufügung eines Schadens allein noch nicht die Haftung aus § 826 BGB. Auf sie muss vielmehr immer auch das Urteil der Sittenwidrigkeit zutreffen. Das mag ohne weiteres in den Fällen zu bejahen sein, in denen die sittenwidrige Handlung den Schaden, sei es auch erst über die Schädigung des von ihr unmittelbar Betroffenen, mitverursacht, ohne dass eine Handlung oder Unterlassung des Geschädigten hinzutritt, die erst zu dem Vermögensschaden führt. Macht hingegen der Geschädigte geltend, er sei durch die sittenwidrige Handlung des Täters zu schädlichen Vermögensdispositionen veranlasst worden, dann genügt es nicht, dass der Täter die Möglichkeit eines solchen Kausalverlaufs erkannt und gebilligt hat. Vielmehr trifft ihn der haftungsbegründende Vorwurf der sittenwidrigen Schädigung nur dann, wenn der Geschädigte die ihn schädigende Handlung gerade deswegen vorgenommen hat, weil er dazu sittenwidrig veranlasst worden ist. Anderenfalls hat sich das Tatbestandsmerkmal der Sittenwidrigkeit bei der Schädigung nicht verwirklicht (vgl. BGH, Urteil v. 20.02.1979, Az. VI ZR 189/78).Zu berücksichtigen ist vorliegend, dass der Kläger als Erwerber eines Gebrauchtfahrzeuges nur mittelbar Geschädigter sein kann, da sich das manipulative Handeln der Beklagten zunächst nur auf den Erstkäufer bezog.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann. Insbesondere bei mittelbaren Schädigungen kommt es darauf an, dass den Schädiger das Unwerturteil, sittenwidrig gehandelt zu haben, gerade auch in Bezug auf die Schäden desjenigen trifft, der Ansprüche aus § 826 BGB geltend macht (BGH, Urteil v. 07.05.2019, Az. VI ZR 512/17).Die Zurechnung erfährt in diesen Fällen eine Einschränkung beziehungsweise Korrektur durch die Schutzzwecklehre, nach der eine Haftung nur für diejenigen äquivalenten und adäquaten Schadensfolgen besteht, die aus dem Bereich der Gefahren stammen, zu deren Abwendung die verletzte Norm erlassen oder die verletzte Vertragspflicht übernommen wurde. Der geltend gemachte Schaden muss in einem inneren Zusammenhang mit der durch den Schädiger geschaffenen Gefahrenlage stehen; ein äußerlicher, gleichsam zufälliger Zusammenhang genügt nicht. Insoweit ist eine wertende Betrachtung geboten (std. Rspr., vgl. BGH, Urteil v. 21.11.2019, Az. III ZR 244/18).(2) Es kann dahinstehen, ob das Inverkehrbringen des streitgegenständlichen Motors der Baureihe EA 189 durch die Beklagte als sittenwidriges Verhalten im Sinne von § 826 BGB anzusehen ist. Unter Zugrundelegung vorstehend bezeichneter Maßstäbe besteht jedenfalls nicht der erforderliche Zurechnungszusammenhang mit dem Kauf des Fahrzeugs durch den Kläger. Selbst wenn es zuträfe, dass das erstmalige Inverkehrbringen des Fahrzeugs als Neuwagen durch die Beklagte mit der implementierten Umschaltlogik eine sittenwidrige Schädigung jedenfalls der Erstkäufer bis zum Bekanntwerden des Abgasskandals darstellte, sind bei einem nachgelagerten mittelbaren Schaden darüber hinaus das gesamte Verhalten des Schädigers sowie weitere das Unwerturteil beeinflussende Umstände bis zur Realisierung des Schadens beim Zweiterwerber im Rahmen einer umfassenden Würdigung einzubeziehen.Der Zurechnungszusammenhang zwischen sittenwidrigem Inverkehrbringen des Fahrzeugs und einem möglichen Schaden ist bei dem vorliegenden Erwerb eines Gebrauchtfahrzeugs am 09.12.2015 nicht mehr gegeben. Bis zu diesem Zeitpunkt hatte die Beklagte derart umfassende Aktivitäten unternommen, damit es nicht zu weiteren Vermögensschäden bei potentiellen Käufern im Hinblick auf Fahrzeuge mit dem Motor der Baureihe EA 189 kommt, dass zwischen ihrem ursprünglichen vermeintlich sittenwidrigen Verhalten - der Konzernentscheidung zur Implementierung der Software und dem Inverkehrbringen der Fahrzeuge bzw. Motoren - und dem durch den Erwerb des hier in Streit stehenden Fahrzeugs entstandenen Schaden des Klägers kein so enger innerer Zusammenhang mehr begründet werden kann, dass im Sinne der oben dargelegten Grundsätze das Verhalten der Beklagten auch gegenüber diesem als sittenwidrig angesehen werden kann. Vielmehr liegt nur ein äußerer, gleichsam zufälliger Zusammenhang vor, da im Zeitpunkt des Kaufs die Beklagte nach objektiven Maßstäben davon ausgehen durfte, dass potentielle Käufer über die vorgenommenen Manipulationen informiert waren.Unstreitig und gerichtsbekannt begann die Beklagte mit Pressemitteilung vom 02.10.2015 erstmals aktiv mit aufklärerischen Tätigkeiten hinsichtlich der Offenlegung von Details zu Umfang und Tragweite des in ihrem Herrschaftsbereich spielenden Skandals. So wurde auf ihrer Webseite ein Tool bereitgestellt, mittels dessen jeder Fahrzeughalter anhand seiner Fahrzeugidentifikationsnummer (FIN) abfragen konnte, ob sein Fahrzeug von den - immer noch nicht so genannten - Manipulationen betroffen ist oder nicht.Das Kraftfahrtbundesamt teilte mit Pressemitteilung vom 16.10.2015 erstmals mit, es habe mit Bescheid vom 15.10.2015 gegenüber der Beklagten den Rückruf von insgesamt 2,4 Millionen Fahrzeugen der Marke der Beklagten angeordnet und vertrete die Auffassung, dass es sich bei der in diesen Fahrzeugen verwendeten Software um eine unzulässige Abschalteinrichtung handele, weswegen der Beklagten auferlegt worden sei, die entsprechende Software aus allen Fahrzeugen zu entfernen und geeignete Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit zu ergreifen, was durch entsprechende Nachweise zu belegen sei. Zudem ist von einem von der Beklagten am 7. Oktober 2015 vorgelegten Maßnahmenplan die Rede, und es werden erstmals nähere Angaben zu den betroffenen Motoren gemacht (EURO 5 Dieselmotoren der Größe 2 Liter, 1,6 Liter und 1,2 Liter Hubraum).Die Beklagte arbeitete im Rahmen eines Maßnahmenplans mit dem Kraftfahrtbundesamt zum Erhalt der Typengenehmigung der betroffenen Fahrzeuge zusammen (zur Chronologie des Abgasskandals vgl. insoweit OLG Celle, Beschluss v. 27.05.2019, Az. 7 U 335/18).Diesen Rückruf griff die Beklagte mit Pressemitteilungen vom 15. und 22.10.2015 auf und teilte mit, dass auch für weitere konzerneigene Marken ein entsprechendes Tool bereitstehe, um die Betroffenheit des eigenen Fahrzeugs mit dem Motor EA 189 festzustellen. Unter Hinweis darauf, dass die aktuelle Nachfolge-Motorengeneration EA 288 (Einsatz ab 2012) nicht betroffen sei, heißt es weiter, ab Januar 2016 werde mit der Nachbesserung der Fahrzeuge begonnen, wobei die technischen Lösungen zunächst den zuständigen Behörden vorgestellt und danach die Halter dieser Fahrzeuge informiert werden würden. Damit wurde klargestellt, dass sich die Beklagte nicht gegen den Rückruf wehren, sondern an der Beseitigung der Abschalteinrichtungen mitwirken werde.Mit Pressemitteilung vom 25. November 2015 teilte die Beklagte darauf aufbauend schließlich mit, dem KBA seien die erarbeiteten technischen Maßnahmen der betroffenen EA 189- Dieselmotoren nunmehr vorgestellt und diese Maßnahmen seien nach intensiver Begutachtung bestätigt worden. Zudem schloss die Beklagte mögliche zivilrechtliche Schadensersatzansprüche nicht aus, indem sie "ausdrücklich bis zum 31. Dezember 2016 auf die Erhebung der Verjährungseinrede im Hinblick auf etwaige Gewährleistungsansprüche/Garantieansprüche wegen der in Fahrzeugen mit Motorentyp EA 189 eingebauten Software, sofern diese Ansprüche nicht bereits verjährt sind", verzichtete.Begleitend zu den Maßnahmen der Beklagten sowie des KBA war die Thematik Gegenstand einer sehr intensiven Berichterstattung in nahezu allen Zeitungen sowie Fernsehsendern und Onlinemedien in Deutschland, wobei auch über die Betroffenheit der im Konzern hergestellten Fahrzeuge berichtet und deren Abfragemöglichkeit informiert wurde. Von einer klägerseits behaupteten verharmlosenden Darstellung der Beklagten kann angesichts dessen auch ohne ein umfassendes Schuldanerkenntnis nicht gesprochen werden, soweit es den Umfang der Manipulationen betrifft.Daher ist der Zurechnungszusammenhang zwischen einem eventuellen sittenwidrigen Handeln der Beklagten und dem möglicherweise durch den Kauf des Fahrzeugs am 09.12.2015 entstandenen Schaden des Klägers unterbrochen worden.c. Zu Recht weist zudem das Schleswig-Holsteinische Oberlandesgericht (Urteil vom 29. November 2019 - 1 U 32/19) darauf hin, dass es zu weit gehen würde, von der Beklagten eine lückenlose Aufklärung aller potentiellen Käufer in jedem Einzelfall zu verlangen, und ihr trotz der von ihr umfangreich ergriffenen Maßnahmen das Risiko eines Erwerbes durch einen Käufer, der trotz aller Medienberichterstattung vom Einsatz der problematischen Software keine Kenntnis hatte und von einem Händler betreut wird, der sich nicht an die ihm mitgeteilte Hinweispflicht hält, zuzuweisen. Dies würde zu einer zeitlich unbegrenzten und letztlich schrankenlosen Haftung des ehemals sittenwidrig Schädigenden führen, auch wenn dieser alles aus seiner Sicht Erforderliche und der verkehrsüblichen Sorgfalt Entsprechende getan hat, um die zukünftige Verwirklichung des tatbestandlichen Erfolges zu verhindern. Nach Auffassung des Senats kann keine Parallele zu der fortbestehenden Verantwortlichkeit in den strafrechtlichen Fällen des beendeten Versuchs gezogen werden (so aber OLG Oldenburg, Urteil v. 16.01.2020, Az. 14 U 166/19), da es vorliegend im Fall einer mittelbaren Schädigung an der die strafrechtliche Verantwortlichkeit kennzeichnenden Finalität des Handelns fehlt.Unabhängig davon, ob der hiesige Kläger von den oben genannten Informationen subjektiv Kenntnis hatte, scheidet damit eine Haftung aus § 826 BGB jedenfalls mangels objektiven Zurechnungszusammenhangs aus.2. Ein Anspruch des Klägers aus § 823 Abs. 2 BGB i.V.m. § 263 StGB scheidet bereits objektiv aufgrund der fehlenden Stoffgleichheit zwischen dem klägerseits behaupteten Schaden und einer möglichen Bereicherung der Beklagten aus. Der Kläger behauptet, sein Schaden liege in der Eingehung einer ungewollten Verbindlichkeit. Bei der Beklagten ist eine solche jedoch allenfalls dadurch eingetreten, dass sie das Fahrzeug an den Erstkäufer ausgeliefert hat (vgl. OLG Stuttgart, Urteil v. 07.08.2019, Az. 9 U 9/19; auch OLG Karlsruhe, Urteil v. 09.01.2020, Az. 17 U 133/19).Zudem ist aufgrund der ergriffenen Aufklärungsmaßnahmen der Beklagten nicht mehr davon auszugehen, dass sie vorsätzlich - ggfs. in mittelbarer Täterschaft - eine Irrtumserregung bei Käufern herbeiführte, die nach Bekanntwerden der Manipulationen Fahrzeuge erwarben (vgl. Schleswig-Holsteinisches Oberlandesgericht, Urteil v. 29.11.2019, Az. 1 U 32/19; OLG München, Urteil v. 30.03.2020, Az. 21 U 6056/19). Überdies wäre im Zeitpunkt des täuschungsbedingten Kaufes des Klägers im Dezember 2015 keine gemäß § 263 StGB erforderliche Bereicherungsabsicht der Beklagten gegeben.3. Dem Kläger steht schließlich auch kein Anspruch gemäß § 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV zu. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV stellen nach richtiger Auffassung bereits keine Schutzgesetze im Sinne von § 823 Abs. 2 BGB dar (ebenso OLG Braunschweig, Urteil v. 19.02.2019, Az. 7 U 134/17; OLG München, Beschluss v. 29.08.2019, Az. 8 U 1449/19; OLG Karlsruhe, Urteil v. 09.01.2020, Az. 17 U 107/19; OLG Celle, Beschluss v. 01.07.2019, Az. 7 U 33/19). Der Individualschutz in der konkreten Ausprägung des Schutzes des Vermögens des Erwerbers eines Kraftfahrzeugs liegt nicht im Aufgabenbereich der genannten Vorschriften und ist auch nicht der zugrunde liegenden RL 2007/46/EG zu entnehmen Überdies ist zwischenzeitlich eine Verletzung nicht mehr ersichtlich. Das Kraftfahrtbundesamt hat auch 4 ½ Jahre nach Bekanntwerden der Manipulationen der Beklagten die Typengenehmigungen der betroffenen Fahrzeuge nicht widerrufen. Spätestens mit dem Update der Software sind daher rechtliche Probleme der Typengenehmigung und Übereinstimmungsbescheinigung beseitigt (vgl. Schleswig-Holsteinisches Oberlandesgericht, Urteil v. 29.11.2019, Az. 1 U 32/19).II.Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO.Der Ausspruch über die vorläufige Vollstreckbarkeit folgt aus § 708 Nr. 10, § 711 ZPO.Die Revision ist zuzulassen, weil die Rechtssache grundsätzliche Bedeutung hat und die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Revisionsgerichts erfordert (§ 543 Abs. 2 Satz 1 Nr. 1, 2 ZPO). Bei der Frage der deliktischen Haftung des Motorenherstellers in den vorstehend bezeichneten Spätfällen handelt es sich nach Auffassung des Senats um eine in einer Vielzahl von Verfahren erhebliche, klärungsfähige und -bedürftige Rechtsfrage, über die der Bundesgerichtshof noch nicht tragend entschieden hat. Des Weiteren weicht das hiesige Urteil jedenfalls von den tragenden Erwägungen der oben zitierten Entscheidungen mehrerer Oberlandesgerichte ab.
+			
+			
+			
+			Permalink: https://openjur.de/u/2310057.html (https://oj.is/2310057)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate18
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

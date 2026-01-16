@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSaarlandOrdentliche GerichtsbarkeitLG SaarbrückenRechtsprechungUrteil vom 10.10.2018 - 12 O 39/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Saarbrücken, Urteil vom 10.10.2018 - 12 O 39/18
+                      m. Fundstelle
+                      LG Saarbrücken, Urteil vom 10.10.2018 - 12 O 39/18 = openJur 2020, 80685
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Saarbrücken, Urteil vom 10.10.2018 - 12 O 39/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 80685
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits hat der Kläger zu tragen.3. Das Urteil ist vorläufig vollstreckbar. Der Kläger kann die Vollstreckung durch Sicherheitsleistung in Höhe von 115 % des aufgrund des Urteils zu vollstreckendenBetrages abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 115 % des jeweils zu vollstreckenden Betrages leistet. 
+				Tatbestand
+				Der Kläger begehrt mit seiner Klage von der Beklagten Schadensersatz aufgrund der bei Kauf in dem Motor seines Fahrzeugs verbauten Software.Der Kläger kaufte mit Kaufvertrag vom 04.03.2013 bei dem Autohaus M. GmbH einen Audi A3 Sportback Attraction 1.6 TDI zu einem Gesamtpreis von 23.260,00 €.Das Fahrzeug ist mit einem Motor vom Typ EA 189, Schadstoffnorm EU 5 ausgestattet, bei dem die Software der Motorsteuerung "die Stickoxidwerte (NOx) im Prüfstandlauf optimiert" (so die Beklagte). Die Motorsteuerung ist bei dem streitgegenständlichen Motortyp so ausgestaltet, dass die Software erkennt, ob das Fahrzeug im Prüfstandmodus (sog. Neuer Europäischer Fahrzyklus (NEFZ)) betrieben wird oder nicht. Wenn die Software einen solchen Prüfstandmodus erkennt, wird der sogenannter Modus 1 aktiviert, bei dem eine höhere Abgasrückführungsrate erreicht wird. Beim Normalbetrieb im Straßenverkehr wird der sogenannte Modus 0 mit einer geringeren Abgasrückführungsrate und einem damit verbundenen höheren Stickoxidausstoß wirksam. Herstellerin des Fahrzeugs ist die Beklagte. Den Motor hat sie nicht entwickelt.Das Kraftfahrt-Bundesamt (im Folgenden KBA) sah in dieser Software eine unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2, Art. 3 Ziff. 10 der Verordnung (EG) Nr. 715/2007 und ordnete gem. § 25 Abs. 2 EG-FGV einen Rückruf an, um bei allen betroffenen Fahrzeugen mit dem Aggregat EA189 EU5 die "unzulässige Abschalteinrichtung zu entfernen". Die VW AG entwickelte daraufhin eine reine Softwarelösung für Fahrzeuge mit dem EA189-Motor mit einem Hubraum von 1,2 und 2,0 Litern. Bei Fahrzeugen mit einem EA189-Motor mit einem Hubraum von 1,6 Litern ist zusätzlich zu dem SoftwareUpdate der Einbau eines Strömungsgleichrichters vorgesehen. Die zuständige Behörde bestätigte unter anderem, dass die von der VW AG für die Fahrzeuge Audi A3 vorgestellten Änderungen der Applikationsdaten geeignet seien, die Vorschriftsmäßigkeit dieser Fahrzeuge herzustellen.Dem Kläger wurde im März 2017 angeboten, eine Umprogrammierung des Motorsteuergerätes durchzuführen. Die benötigte Software stehe für sein Fahrzeug zur Verfügung und das Fahrzeug könne nunmehr umprogrammiert werden.Mit anwaltlichem Schreiben vom 19.2017 forderte der Kläger die Beklagte unter Fristsetzung zum 22.09.2017 erfolglos auf, den gezahlten Kaufpreis Zug um Zug gegen Rückgabe des Fahrzeugs zurückzuzahlen.Am 13.06.2018 betrug der Kilometerstand des streitgegenständlichen Fahrzeugs 322.863 km.Laut Schwacke-Fahrzeugbewertung (Bl. 9 ff. d.A.) betrug am 25.09.2017 bei einer Laufleistung von 270.000 km der Händlereinkaufswert des Fahrzeugs 4.400,00 €, der Händlerverkaufswert 6.050,00 €.Der Kläger macht gegen die Beklagte Schadensersatz in Höhe des Händlerverkaufswertes in Höhe von 6.050,00 €, Zug um Zug gegen Rückgabe und Rückübereignung des streitgegenständlichen Fahrzeugs sowie die außergerichtlichen Rechtsanwaltsgebühren geltend.Der Kläger behauptet; Der Vorstand der Beklagten hätte von dem Einbau und dem Einsatz der Software gewusst. Der Kläger hätte den Kaufvertrag über das streitgegenständliche Fahrzeug bei Kenntnis der gesetzeswidrigen Software nicht geschlossen. Die Stilllegung des Fahrzeugs drohe. Aufgrund des Einsatzes der speziellen Steuerungssoftware habe das Fahrzeug einen erheblichen Wertverlust erlitten.Der Kläger ist der Ansicht, ihm stünden gegen die Beklagte Schadensersatzansprüche aus Deliktsrecht zu. Er meint, dass die Beklagte gegen die guten Sitten verstoßen habe. Die Optimierung der Motorsteuerungssoftware in dem von der Beklagten hergestellten Fahrzeug stelle eine sittenwidrige Schädigung der Käufer und damit auch des Klägers dar.Der Kläger beantragt,1.die Beklagte zu verurteilen, an den Kläger 6.050,00 € zu zahlen, nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem jeweils geltenden Basiszinssatz seit dem 19.12.2017, Zug um Zug gegen Herausgabe und Übereignung des PKW Audi A3 Sportback Attraction 1,6 TDI, Fahrgestellt-Nummer WA...29;2.die Beklagte zu verurteilen, an den Kläger 650,34 € an außergerichtlichen Rechtsanwaltsgebühren zu zahlen.Die Beklagte beantragt, die Klage abzuweisen.Die Beklagte behauptet Das Fahrzeug des Klägers sei nicht mangelhaft. Aus der Vorgabe des KBA zur Überarbeitung der betroffenen Motoren könne nicht geschlossen werden, dass diese ohne die Überarbeitung, also ohne das Software-Update mangelhaft seien. In dem Update würden die Erkenntnisse aus der Weiterentwicklung des Diesel-Brennverfahrens der letzten 10 Jahre aufgegriffen und berücksichtigt. Nach den Feststellungen des Kraftfahrtbundesamtes stehe fest, dass sich nach der Durchführung keine negativen Änderungen hinsichtlich sonstiger Eigenschaften des Fahrzeugs ergäben. Der Kläger entstehe kein Schaden, da das Aufspielen des Updates keine finanziellen Beeinträchtigungen verursache und auch kein Wertverlust oder merkantiler Minderwert des Fahrzeugs gegeben sei. Im Übrigen sei die Beklagte nicht Herstellerin des streitgegenständlichen Motors.Wegen der weiteren Einzelheiten das Sach- und Streitstandes wird auf die wechselseitigen Schriftsätze nebst Anlagen verwiesen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I. Es kann dahinstehen, ob dem Kläger dem Grund nach ein Anspruch auf Schadensersatz gemäß § 826 BGB i.V.m. § 31 BGB gegen die Beklagte zusteht. Denn selbst wenn man unterstellt, dass die Beklagte dem Kläger in einer gegen die guten Sitten verstoßenden Weise zumindest bedingt vorsätzlich Schaden einen Schaden zufügt hat, verbleibt bei Anrechnung der Nutzungsentschädigung kein zu ersetzender Schaden.Dem Kläger stünde bei Annahme der Haftung dem Grunde nach gegen die Beklagte ein Anspruch auf Schadenersatz nach den Vorschriften der §§ 249 ff. BGB zu. Der Kläger ist dabei so zu stellen, wie er stehen würde, wenn er die Mangelhaftigkeit des Kraftfahrzeugs bzw. des Motors bekannt gewesen wäre.a) In diesem Fall ist davon auszugehen, dass der Kläger dieses Fahrzeug nicht erworben hätte. Der Schadensersatzanspruch ist daher gerichtet auf die Zahlung des gezahlten Kaufpreises Zug um Zug gegen Übergabe und Übereignung des Kraftfahrzeugs (hier im Wege der Vorteilsausgleichung).b) Der Kläger muss sich jedoch im Wege der Vorteilsausgleichung die von ihm gezogenen Nutzungen anrechnen lassen. Aufgrund der Laufleistung des Fahrzeugs von mindestens 322.863 km (Stand 13.06.2018) verbleibt danach kein zu ersetzender Schaden.Der Schaden ist nach der Differenzmethode durch einen rechnerischen Vergleich zwischen dem im Zeitpunkt der Schadensberechnung vorhandenen Vermögen des Geschädigten und dem Vermögen, das der Geschädigte ohne das schädigende Verhalten gehabt hätte, zu berechnen. Bei der Differenzberechnung kommen die allgemeinen Grundsätze der Schadenszurechnung und damit auch der Vorteilsausgleichung zur Anwendung. Zu solchen, in die Differenzrechnung einzustellenden Vorteilen gehört auch der Wert der von dem Geschädigten gezogenen Nutzungen (§ 100 BGB), da dieser aufgrund des Kaufvertrages den Besitz der Kaufsache und dadurch die Möglichkeit erhalten hat, sie zu nutzen (BGH, Urteil vom 31. März 2006 - V ZR 51/05 -, BGHZ 167, 108-118, Rn. 9).Der Vorteilsausgleich für die Nutzungen errechnet sich unter Heranziehung von § 287 ZPO in gleicher Art und Weise wie die Nutzungsentschädigung im Rahmen des Rücktritts nach § 346 BGB. Die Berechnung des Nutzungsvorteils erfolgt, indem der Bruttokaufpreis in Höhe von 23.170,00 € mit den gefahrenen Kilometern multipliziert und das Produkt durch die bei Vertragsschluss zu erwartende Restlaufleistung des Fahrzeugs dividiert wird. Die zu erwartende Gesamtlaufleistung schätzt das Gericht gemäß § 287 ZPO auf 250.000 km. Hieraus ergeben sich gezogene Nutzungen im Wert von 29.922,94 € (23.170,00 € × 322.863 km: 250.000 km). Die von dem Kläger gezogenen Nutzungen übersteigen danach den von ihm gezahlten Kaufpreis.Der von dem Kläger geltend gemachte Händlerverkaufspreis stellt dagegen nicht seinen Schaden dar. Davon abgesehen, dass die Schwacke-Fahrzeugbewertung mit der Maßgabe erstellt wurde, dass das Fahrzeug eine Laufleistung von 270.000 km aufweist, es tatsächlich bereits vor der letzten mündlichen Verhandlung am 13.06.2018 jedoch eine Laufleistung von 322.863 km aufwies, kann nicht nachvollzogen werden, aus welchem Grund der Händlerverkaufspreis einen Schaden des Klägers beziffern sollte.II. Ein Anspruch auf Ersatz der außergerichtlichen Rechtsanwaltskosten besteht nicht. Diese teilen als prozessuale Nebenforderungen das Schicksal der Hauptsache.V. Die Kostenentscheidung beruht auf § 91 ZPO, die der vorläufigen Vollstreckbarkeit auf § 708 Nr. 11, 711 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2306016.html (https://oj.is/2306016)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 03.05.2019 - 15 O 385/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 03.05.2019 - 15 O 385/17
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 03.05.2019 - 15 O 385/17 = openJur 2020, 84725
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 03.05.2019 - 15 O 385/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 84725
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits werden dem Kläger auferlegt.Das Urteil ist gegen Sicherheitsleistung von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht gegen die Beklagte als Herstellerin des streitgegenständlichen Pkw A B #.# §§§ Schadensersatzansprüche im Zusammenhang mit dem sogenannten Diesel-Abgasskandal geltend.Der von der Beklagten hergestellte A B #.# §§§ wurde am 12.09.2014 erstmals zugelassen. Er ist mit einem #.# Liter Dieselmotor der Baureihe CD 666 ausgestattet. In den Motor dieses Pkw setzte die Beklagte eine Software ein, die zwei unterschiedliche Betriebsmodi die zur Steuerung der Abgasrückführung kannte, und zwar einen hinsichtlich des Stickoxidausstoßes optimierten Betriebsmodus 1 mit einer verhältnismäßig hohen Abgasrückführungsrate sowie einen Betriebsmodus 0 mit einer erheblich geringeren Abgasrückführungsrate. Dabei konnte die Motorsteuerung erkennen, ob das Fahrzeug auf einem technischen Prüfstand zur Ermittlung der Emissionswerte eingesetzt wurde oder ob es im Straßenverkehr betrieben wurde und schaltete bei einer Prüfung der Emissionen auf dem Prüfstand in den Modus 1. Auf diese Art und Weise wurde sichergestellt, dass bei der Prüfung der betreffenden Fahrzeuge nach den gesetzlich vorgesehenen Maßgaben der Euro-5 Abgasnorm geringere Stickoxidemissionen gemessen wurden und dementsprechend die Stickoxidgrenzwerte im Laborbetrieb eingehalten wurden. Dagegen schaltete die Motorsteuerung in den Modus 0, wenn das Fahrzeug im Straßenverkehr eingesetzt wurde.Am 22.09.2015 veröffentlichte die Beklagte eine Adhoc-Mitteilung, in der sie über die Dieselthematik informierte. Darin hieß es unter anderem: "A treibt die Aufklärung von Unregelmäßigkeiten einer verwendeten Software bei Dieselmotoren mit Hochdruck voran... Auffällig sind Fahrzeuge mit Motoren vom Typ CD 666. Bei diesem Motortyp wurde eine auffällige Abweichung zwischen Prüfstandswerten und realem Fahrbetrieb festgestellt."Im direkten Anschluss an diese Adhoc-Mitteilung der Beklagten wurde die Dieselthematik in einer breiten Öffentlichkeit diskutiert und in Presse, Funk und Fernsehen ausführlich hierzu berichtet. In einer Presserklärung vom 16.12.2015 teilte die Beklagte u. a. Folgendes mit:"Der A Konzern hat dem KBA die konkreten technischen Maßnahmen für die betroffenen CD 666-Motoren mit #,#, #,# und #,# Liter Hubraum vorgestellt. Nach intensiven Prüfungen hat das KBA alle Maßnahmen vollumfänglich bestätigt. Damit stehen für alle betroffenen Fahrzeuge die Abhilfemaßnahmen fest." Weiter heißt es in der Presserklärung: "Nach der Umsetzung erfüllen die Fahrzeuge die jeweils gültigen Abgasnormen, mit dem Ziel, dies ohne Beeinträchtigung der Motorleistung, des Verbrauchs und der Fahrleistungen zu erreichen."Der Kläger erwarb das Fahrzeug als Gebrauchtwagen mit einer Laufleistung von 24.500 km von der Autohaus XY GmbH in Z am 21.01.2016 zu einem Kaufpreis von 28.990,01 Euro. Bei Abschluss des Kaufvertrages hatte der Kläger Kenntnis vom Verbau der Betrugssoftware.Mit Bestätigung vom 21.07.2016 gab das KBA die technischen Maßnahmen für Fahrzeuge des streitgegenständlichen Typs A B #.# Liter §§§ 130 kW frei. Nach dieser Bestätigung wurden keine unzulässigen Abschalteinrichtungen festgestellt. Hinsichtlich von Schadstoffemissionen und der Dauerhaltbarkeit von emissionsmindernden Einrichtungen wurde attestiert, dass die Grenzwerte und die anderen Anforderungen eingehalten werden. Die ursprünglich vom Hersteller angegebenen Kraftstoffverbrauchswerte und CO 2-Emissionen seien in Prüfungen durch einen technischen Dienst bestätigt worden. Die bisherige Motorleistung und das maximale Drehmoment seien unverändert geblieben, ebenso die bisherigen Geräuschemissionswerte. Wegen der Einzelheiten wird insoweit auf die Anlage B 6 Bezug genommen.In der ersten Jahreshälfte 2017 ließ der Kläger das Softwareupdate bei dem Fahrzeug durchführen. Mit Schreiben seiner Prozessbevollmächtigten vom 14.09.2017 forderte der Kläger die Beklagte zur Rückzahlung des Kaufpreises unter Rückgabe des Fahrzeugs auf. Dabei berief er sich darauf, von dem Einbau der Abschalteinrichtung bei Ankauf des Fahrzeuges keine Kenntnis gehabt zu haben. Dies lehnte die Beklagte mit Schreiben vom 27.11.2017 ab.Zum Zeitpunkt der mündlichen Verhandlung hatte das Fahrzeug einen Kilometerstand von 82 804 km.Der Kläger stützt den von ihm geltend gemachten Schadensersatzanspruch vor allem auf § 826 BGB. Entgegen seiner vorprozessualen Darstellung und den Ausführungen in der Klageschrift räumt er in der Replik zwar ein, vom Einbau der Betrugssoftware bei Ankauf des Fahrzeuges Kenntnis gehabt zu haben. Eine Haftung der Beklagten sei jedoch deshalb gegebenen, weil der Kläger berechtigt davon ausgegangen sei, ein Fahrzeug erworben zu haben, welches zwar nicht im Zeitpunkt seiner Übergabe, aber spätestens mit dem nachfolgend aufgespielten Softwareupdate den gesetzlichen Vorschriften entspreche und mangelfrei sei. Denn zum Zeitpunkt des Kaufvertragsschlusses sei der Öffentlichkeit und damit auch dem Kläger bekannt gewesen, dass die Beklagte für betroffene Fahrzeuge vermeintlich adäquate und zielführende Maßnahmen zur Beseitigung des Mangels "Betrugssoftware" angeboten habe und diese für alle betroffenen Fahrzeuginhaber zur Verfügung stehen würden. Das durchgeführte Softwareupdate habe den Mangel jedoch nicht beseitigen können, weil die begründete Befürchtung bestehe, dass das Fahrzeug trotz der Nachbesserung nicht mangelfrei sei. Von Fachleuten sei mehrfach geäußert und in zahlreichen Presseartikeln zititert worden, dass die Entfernung der Manipulationssoftware negative Auswirkungen auf die Emissionswerte, den Kraftstoffverbrauch und die Motorleistung sowie den Verschleiß haben könnte. Es werde ferner davon berichtet, dass die von der Beklagten angebotenen Maßnahmen zur Versottung des Vergasers führten. Aufgrund der Unsicherheiten hinsichtlich möglicher negativer Folgen der Nachbesserung erscheine es realistisch, dass sich der Preis für von der Manipulationssoftware betroffene Fahrzeuge zukünftig negativ entwickeln könnte. Von dem Umstand, dass das angebotene Softwareupdate zwar die illegale Abschalteinrichtung beseitigen, jedoch zu weiteren, vermutlich unbehebbaren Mängeln führen werde, habe der Kläger bei Ankauf des Fahrzeugs keine Kenntnis gehabt. Bei Kenntnis dieser Umstände hätte er das Fahrzeug nie gekauft. Unter Berücksichtigung eines Gebrauchsvorteils von 6.061,07 Euro errechnet der Kläger einen Schadensersatzbetrag von 25.571,54 Euro zuzüglich kapitalisierter Zinsen in Höhe von 4.492,97 Euro. Wegen der Berechnung im Einzelnen wird auf den Schriftsatz vom 08.10.2018 (Bl. 264 f. GA) Bezug genommen.Der Kläger beantragt,die Beklagte zu verurteilen, an ihn 25.571,54 Euro nebst ausgerechneter Zinsen in Höhe von 4.492,97 Euro sowie weitere Zinsen aus 28.990,01 Euro in Höhe von 4 % pro Jahr seit dem 01.10.2018 Zug um Zug gegen Übergabe und Übereignung des Fahrzeuges A B #.# §§§ EF GHI 4 x 4 mit der Fahrzeugidentifikationsnummer JKL zu zahlen;festzustellen, dass sich die Beklagte mit der Annahme des in Ziffer 1 genannten Fahrzeuges seit dem 27.11.2017 in Annahmeverzug befindet;die Beklagte zu verurteilen, an den Kläger vorgerichtliche nicht anrechenbare Rechtsanwaltskosten in Höhe von 794,03 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklagte beantragt,die Klage abzuweisen.Sie ist der Auffassung, es fehle schon an einer Täuschung bzw. vorsätzlichen sittenwidrigen Schädigung seitens der Beklagten, da der Kläger Kenntnis von der streitgegenständlichen Software gehabt habe.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf den Inhalt der wechselseitigen Schriftsätze nebst Anlagen sowie auf das Sitzungsprotokoll vom 16.10.2018 (Bl. 268 GA) Bezug genommen. 
+				Gründe
+				Die zulässige Klage hat in der Sache keinen Erfolg.I.Dem Kläger steht unter keinem rechtlichen Gesichtspunkt ein Schadensersatzanspruch in der geltend gemachten Höhe Zug um Zug gegen Rückgabe und Übereignung des streitgegenständlichen A B zu.1.Insbesondere ergibt sich ein solcher Anspruch nicht aus § 826 BGB. Die Beklagte hat dem Kläger nicht in einer gegen die guten Sitten verstoßenden Weise vorsätzlich Schaden zugefügt. Es fehlt sowohl an einem objektiv sittenwidrigen Verhalten der Beklagten, als auch an der Kenntnis der Beklagten von Tatumständen, die das Verhalten als sittenwidrig erscheinen lassen.Objektiv sittenwidrig ist nach der Rechtsprechung ein Verhalten, dass nach Inhalt oder Gesamtcharakter, der durch zusammenfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt, d. h. mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist. Dass das Verhalten gegen vertragliche Pflichten oder das Gesetz verstößt, unbillig erscheint oder einen Schaden hervorruft, gerügt nicht; insbesondere ist die Verfolgung eigener Interessen bei der Ausübung von Rechten im Grundsatz auch dann legitim, wenn damit eine Schädigung Dritter verbunden ist. Hinzu treten muss eine nach den Maßstäben der allgemeinen Geschäftsmoral und des als "anständig" Geltenden besondere Verwerflichkeit des Verhaltens, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage tretenden Gesinnung oder den eintretenden Folgen ergeben kann (Palandt/Sprau, 78. Aufl., BGB, § 826 Randziffer 4 m.w.N.). Subjektiv ist zwar das Bewusstsein der Sittenwidrigkeit auf Seiten des Schädigers nicht erforderlich. Der Schädiger muss aber grundsätzlich die Tatumstände kennen, die sein Verhalten als sittenwidrig erscheinen lassen (Palandt/Sprau a.a.O., § 826 Randziffer 8).a)Ein sittenwidriges Verhalten, auf das der Kläger einen Schadensersatzanspruch stützen könnte, liegt im vorliegenden Fall nicht in der ursprünglichen Inverkehrbringung des streitgegenständlichen Fahrzeugs mit der ursprünglich installierten Motorsoftware betreffend die Abgasrückführung.Zwar bringt der Hersteller mit dem Inverkehrbringen des Fahrzeuges gegenüber seinen potenziellen Kunden zum Ausdruck, dass für das entsprechende Fahrzeug die erforderlichen Genehmigungen und Zulassungen zu Recht erteilt worden sind. Der Kunde geht aufgrund des Inverkehrbringens des Fahrzeugs regelmäßig auch davon aus, dass dieses die technischen und die rechtlichen Voraussetzungen der Zulassung erfüllt und dass der Hersteller die für den Fahrzeugtyp erforderlichen Erlaubnisse und Genehmigungen nicht durch eine Täuschung erwirkt hat. Deshalb liegt in dem Inverkehrbringen des mit der fraglichen Motorsteuerungssoftware ausgestatteten Fahrzeugs grundsätzlich eine Täuschung potenzieller Kunden (OLG Köln, Beschluss vom 16.07.2018 - 27 U 10/18; Beschluss vom 15.02.2019 - 16 U 156/18). Weitere Voraussetzung für eine sittenwidrige Schädigung des Kunden ist jedoch, dass dieser von der Installation dieser Software keine Kenntnis hat (OLG Köln, Beschluss vom 16.07.2018 - 27 U 10/18). An dieser zuletzt genannten Voraussetzung fehlt es vorliegend.Der Kläger hat in der Replik ausdrücklich klargestellt, dass ihm beim Kauf des Gebrauchtwagens im Januar 2016 bekannt gewesen sei, dass das Fahrzeug mit der Betrugssoftware "hergestellt worden war". Damit kannte der Kläger den ursprünglichen Mangel der Motorsteuerung, sodass er darüber nicht getäuscht und folglich auch nicht sittenwidrig geschädigt werden konnte. Entgegen seinem ursprünglichen Vortrag hat der Kläger in der Replik ausdrücklich ausgeführt, er habe nicht darauf vertraut, dass das Fahrzeug im Zeitpunkt der Übergabe den gesetzlichen Vorschriften entsprach.Insoweit kommt es schon nicht mehr darauf an, ob die Beklagte nicht unabhängig davon ohnehin darauf vertrauen konnte, dass die Problematik aufgrund ihrer Pressemitteilungen und der allgemeinen öffentlichen Diskussion Anfang 2016 allgemein bekannt war.b)Ein sonstiges sittenwidriges Verhalten der Beklagten hat der Kläger nicht schlüssig dargelegt. Im Kern beruft er sich insoweit darauf, durch das Aufspielen des Softwareupdates sei eine Reihe sonstiger Nachteile zu erwarten und bei anderen Fahrzeugen auch schon aufgetreten. Das Softwareupdate habe demnach nicht zu einem mangelfreien Fahrzeug geführt. Dies vermag jedoch eine sittenwidrige Schädigung seitens der Beklagten nicht zu begründen.Es ist weder konkret dargelegt noch sonst ersichtlich, dass die von der Beklagten abgegebenen Erklärungen im Zusammenhang mit dem Softwareupdate falsch waren und ihr als sittenwidriges Verhalten anzulasten sind. Die Beklagte hat in ihrer Presseerklärung vom 16.12.2015 mitgeteilt, nach der Umsetzung des Softwareupdates würden die Fahrzeuge die jeweils gültigen Abgasnormen erfüllen, und zwar mit dem Ziel, dies ohne Beeinträchtigung der Motorleistung, des Verbrauchs und der Fahrleistungen zu erreichen. Voraussetzung für ein sittenwidriges Verhalten wäre insoweit zumindest, dass der Beklagten zum damaligen Zeitpunkt bekannt war, dass die von ihr mitgeteilten Ziele von vornherein gar nicht zu erreichen waren. Dies legt der Kläger für das streitgegenständliche Auto schon nicht ansatzweise konkret dar. Es ist aber auch im Übrigen nicht ersichtlich, dass die Beklagte insoweit eine falsche Erklärung abgegeben hat.Dagegen spricht insbesondere die Freigabebestätigung des Kraftfahrtbundesamtes. In dieser Bestätigung wird nicht nur ausdrücklich festgestellt, dass die Grenzwerte und andere Anforderungen hinsichtlich der Schadstoffemissionen und der Dauerhaltbarkeit von emissionsmindernden Einrichtungen eingehalten werden. Darüberhinaus bescheinigt das KBA auch, die ursprünglich vom Hersteller angegebenen Kraftstoffverbrauchswerte und CO 2-Emissionen seien in Prüfungen durch einen technischen Dienst bestätigt worden. Zudem seien die bisherige Motorleistung und das maximale Drehmoment unverändert geblieben. Nach den Überprüfungen der obersten Bundesbehörde liegen demnach keine Anhaltspunkte dafür vor, dass das Softwareupdate zu konkreten Nachteilen hinsichtlich des Kraftstoffverbrauchs, die CO 2-Emissionen oder der Motorleistung geführt haben.Unter diesen Umständen sind keine greifbaren Anhaltspunkte dafür ersichtlich, dass die Beklagte zum Zeitpunkt des Kaufvertrages im Januar 2016 damit rechnete, dass das Softwareupdate zu sonstigen Mängeln bzw. Nachteilen führen würde und eine insoweit gebotene Aufklärung unterlassen hat. Insbesondere lässt sich dies nicht daraus schließen, dass - wie der Kläger behauptet - nach Aufspielen des Softwareupdates bei anderen Fahrzeugen teilweise Mängel festgestellt worden sein sollen. Im Übrigen ist in diesem Zusammenhang auch zu beachten, dass die Beklagte in ihrer Presserklärung keine Garantie übernommen hat. Vielmehr hat die Beklagte lediglich formuliert, die Umsetzung des Softwareupdates erfolge "mit dem Ziel, dies ohne Beeinträchtigung der Motorleistung, des Verbrauchs und der Fahrleistung zu erreichen". Dies lässt die Möglichkeit offen, dass dies nicht in jedem Fall und eventuell auch nicht vollständig gelingt.Eine Haftung der Beklagten aus § 826 BGB scheidet demnach bereits deshalb aus, weil ein sittenwidriges Verhalten der Beklagten hinsichtlich des hier streitgegenständlichen Kaufvertrages im Jahr 2016 nicht festzustellen ist (im Ergebnis ebenso OLG Braunschweig, Beschluss vom 02.11.2017 - 7 U 69/17).2.Ein Schadensersatzanspruch ergibt sich für den Kläger auch nicht aus § 823 Abs. 2 in Verbindung mit § 263 StGB. Es fehlt bereits an einer Täuschungshandlung der Beklagten. Insoweit gelten die vorstehenden Ausführungen unter Ziffer 1. entsprechend.3.Entgegen der Auffassung des Klägers ergibt sich ein Schadensersatzanspruch auch nicht aus § 823 Abs. 2 BGB in Verbindung mit Artikel 5 Abs. 2 VO (EG) Nr. 715/2007. Diese Verordnung stellt kein Schutzgesetz im Sinne des Deliktrechts dar.Rechtsnormen als abstrakt - generelle Regelungen außerhalb des Zivil- und Schadensersatzrechts können nur dann als Schutzgesetz im Sinne von § 823 Abs. 2 BGB eingeordnet werden, wenn sie zumindest auch dazu dienen sollen, den Einzelnen oder einzelne Personenkreise gegen die Verletzung eines bestimmten Rechtsgutes zu schützen (Palandt/Sprau, a.a.O., § 823 Randnr. 58 m.w.N.). Ob dies der Fall ist, bestimmt sich nach dem Inhalt und Zweck der Rechtsnormen sowie danach, ob der Normgeber bei Erlass der Vorschrift gerade einen individuellen Rechtsschutz, wie er wegen der behaupteten Verletzung in Anspruch genommen wird, zugunsten von Einzelpersonen oder Personenkreisen intendiert hat. Handelt es sich bei dem hier zur Diskussion stehenden Schutz von Individualinteressen hingegen nur um einen Reflex, der durch Einhaltung der Rechtsnorm zwar erreicht werden kann, aber nicht in ihrem spezifischen Aufgabenbereich liegt, dann fehlt es an der Schutzgesetzeigenschaft (Palandt/Sprau a.a.O.).Dieser individuelle Rechtsschutz ist von dem Normgeber der VO (EG) Nr. 715/2007 nicht beabsichtigt, weil dieser Aspekt weder in der Verordnung selbst, noch in dem Vorspann in dieser Verordnung an irgendeiner Stelle zum Ausdruck kommt (Reinking/Eggert, der Autokauf 13. Aufl., Randnr. 1897). Die ausweislich der dort formulierten Zielsetzung einer Vollendung des Binnenmarktes durch die Einführung gemeinsamer technischer Vorschriften zur Begrenzung der Emissionen zeigt vielmehr, dass der Schutz der Gesundheit des Einzelnen lediglich aus einer Reflexwirkung dieser Verordnung folgt. Allein diese Reflexwirkungen ermöglichen indes keine Einstufung der VO (EG) Nr. 715/2007 als Schutzgesetz im Sinne von § 823 Abs. 2 BGB (OLG Braunschweig, Urteil vom 19.02.2019 - 7 U 134/17 - BeckRS 2019, 2737, Randnr. 128 ff.; LG Bonn, Urteil vom 02.02.2018 - 1 O 140/17; LG Aachen, Urteil vom 03.05.2018 - 10 O 364/17).4.Ein Anspruch steht dem Kläger auch nicht aus § 823 Abs. 2 BGB i. V. mit §§ 6 Abs. 1, 27 Abs. 1 EG-FGV zu. Auch bei diesen Vorschriften, die die vorstehend genannte Richtlinie in nationales Recht umsetzen, handelt es sich nicht um Schutzgesetze im Sinne von § 823 Abs. 2 BGB. Dies ergibt sich insbesondere aus dem Ziel der Richtlinie, das in erster Linie die Vollendung des europäischen Binnenmarktes ist. Darüberhinaus sollen die technischen Anforderungen in Rechtsakten harmonisiert und spezifiziert werden, wobei diese Rechtsakte vor allem auf hohe Verkehrssicherheit, Gesundheits- und Umweltschutz, rationelle Energienutzung und wirksamen Schutz gegen unbefugte Nutzung abzielen. Individualinteressen, vor allem das Vermögensinteresse von Kraftfahrzeugerwerbern sind in den Erwägungsgründen nicht genannt. Insgesamt fehlt es gerade auch hinsichtlich der Übereinstimmungsbescheinigung nach § 27 EG - FGV an einer Systematik und Zielsetzung der Rechtsvorschriften über die Erteilungsvoraussetzungen und Funktion einer Übereinstimmungsbescheinigung hinreichend erkennbaren Absicht des Richtlinien - und des diese umsetzenden nationalen Verordnungsgebers, hieraus eine Herstellerhaftung mit dem vom Kläger in diesem Rechtsstreit verfolgten Inhalt ableiten zu wollen (OLG Braunschweig, a.a.O.; LG Bonn, Urteil vom 02.02.2018 - 1 O 140/17). Zur weiteren Begründung wird auf die vorstehend zitierten Urteile im Einzelnen Bezug genommen.5.Ein Schadensersatzanspruch ergibt sich entgegen der Auffassung des Klägers schließlich auch nicht aus § 823 Abs. 2 BGB in Verbindung mit § 16 UWG. Eine irreführende Werbung ist seitens des Klägers nicht schlüssig dargelegt. Welche Angaben in welchen Prospekten im Einzelnen falsch gewesen sein sollen, wird vom Kläger nicht dargestellt. Unabhängig davon gilt auch hier, dass für einen Schadensersatzanspruch des Klägers nicht auf die ursprünglich installierte Motorsteuerungssoftware abgestellt werden kann. Dieser Umstand war dem Kläger bei Erwerb des Fahrzeugs bekannt. Für eine irreführende Werbung im Zusammenhang mit dem Softwareupdate ist vom Kläger erst recht nichts dargelegt.II.Da dem Kläger schon in der Hauptsache demnach unter keinen rechtlichen Gesichtspunkt ein Schadensersatzanspruch zusteht, hat er auch keinen Anspruch auf Zinsen oder Ersatz vorprozessualer Rechtsanwaltskosten.Eins Anspruch auf Feststellung des Annahmeverzugs hinsichtlich der Rücknahme des Fahrzeugs besteht ebenfalls nicht.III.Die Kostenentscheidung beruht auf § 91 Abs. 1 S. 1 ZPO.Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus § 709 S. 1 und 2 ZPO.Streitwert: bis 30.000,00 Euro
+			
+			
+			
+			Permalink: https://openjur.de/u/2239724.html (https://oj.is/2239724)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

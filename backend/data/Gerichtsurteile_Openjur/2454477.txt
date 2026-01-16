@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG WürzburgRechtsprechungEndurteil vom 29.10.2020 - 14 O 653/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Würzburg, Endurteil vom 29.10.2020 - 14 O 653/20
+                      m. Fundstelle
+                      LG Würzburg, Endurteil vom 29.10.2020 - 14 O 653/20 = openJur 2022, 20044
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Würzburg, Endurteil vom 29.10.2020 - 14 O 653/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 20044
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Klägerin hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.4. Der Streitwert wird auf 51.614,70 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatz hinsichtlich des Kaufs eines Gebrauchtwagens, deren Herstellerin und Verkäuferin die Beklagte ist.Die Klagepartei erwarb das streitgegenständliche Fahrzeug der Marke ... Abgasnorm Euro 6, am 26.10.2017 von der Beklagten zu einem Kaufpreis von 51.614,70 € netto (Anlage K 1). Das Fahrzeug war gebraucht und wies im Zeitpunkt der Übergabe an die Kägerin einen km-Stand von 7.479 km auf. Der im PKW verbaute 3.0 l Motor wurde von der Beklagten selbst entwickelt und produziert.Im Fahrzeug ist eine u.a. temperaturabhängige Steuerung der Abgasrückführung vorhanden.Das Kraftfahrtbundesamt ordnete für das Modell ..., Baujahre 2015 bis 2018, zu dem auch der streitgegenständliche Fahrzeug gehört, in Bezug auf das Emissionsverhalten einen Rückruf an, mit der Aufforderung, "unzulässige Abschalteinrichtungen bzw. die unzulässige Reduzierung der Wirksamkeit des Emissionskontrollsystems" zu entfernen. Mit Bescheid des KBA vom 26.11.2018 wurden die von der Beklagten hierzu vorgeschlagenen Maßnahmen durch das KBA freigegeben (Anlage B 5).Das streitgegenständliche Fahrzeug hat das bereitgestellte Software-Update erhalten.Die Klagepartei behauptet, die Beklagte habe sie vorsätzlich sittenwidrig geschädigt, weil sie ein Fahrzeug hergestellt und in Verkehr gebracht habe, dessen Motor mit einer unzulässigen Abschalteinrichtung ausgestattet sei.Die Motor-Steuersoftware sei so programmiert, dass sie erkenne, ob sich das Fahrzeug auf einem Prüfstand im Neuen Europäischen Fahrzyklus befinde oder im regulären Betrieb. Die Werte, die zur Einstufung des Fahrzeugs für die Euro 6-Norm eingehalten werden müssen, würden nur auf den Prüfstand eingehalten. Außerhalb des Prüfstandmodus würden die Werte um ein Vielfaches überschritten.Die Abschalteinrichtung bestehe in einer unzulässigen Aufheizstrategie, bei der im Fahrzeug eine Software installiert sei, die die Umgebungstemperatur und andere physikalische Größen messe. Schließe die Software aus diesen Umständen darauf, dass sich das Fahrzeug auf einem Rollenprüfstand befinde, schalte sie eine Aufheizvorrichtung an, die den Schadstoffausstoß vermindere.Unter anderem am Lenkwinkeleinschlag des Lenkrades erkenne die Software den Testbetrieb auf dem Prüfstand. Im realen Straßenbetrieb sei diese Funktion hingegen abgeschaltet. Zudem seien weitere unzulässige Abschalteinrichtungen vorhanden.Die Klägerseite ist im Kern ihres Vorbringens der Auffassung, dass ihr gegenüber der Beklagtenseite ein Anspruch auf Schadensersatz in Gestalt der Rückabwicklung des geschlossenen Kaufvertrags durch Rückzahlung des Kaufpreises Zug um Zug gegen Herausgabe des Pkws zustehe, weil die Beklagte sie vo-sätzlich sittenwidrig geschädigt und betrogen habe. Die Klägerin hätte, wenn sie von den Manipulationen gewusst hätte, das Fahrzeug nicht erworben. Sie sei daher schon durch den Vertragsschluss geschädigt.Die erforderliche Kausalität zwischen Täuschungshandlung und Erwerb des PKW sei gegeben, da es der Klagepartei wesentlich darauf angekommen sei, ein Fahrzeug zu erwerben, das über alle erforderliche Genehmigungen verfüge und dem nicht die Betriebsuntersagung drohe.Die Klägerseite beantragt:Die Beklagte wird verurteilt, an die Klägerschaft 51.614,70 € zzgl. Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 20.10.2017 zu zahlen, Zug um Zug gegen Übergebe und Übereignung des Farzeugs ... mit der Fahrgestellnummer: ...Es wird festgestellt, dass sich die Beklagte mit der Entgegengnahme des im Klageantrag zu 1. genannten Fahrzeugs in Ännahmeverzug befindet.Die Beklagte wird verurteilt, die Klägerschaft von vorgerichtlichen Rechtsverfolgungskosten i.H.v. 3736,60 € freizustellen.Die Beklagterseite beantragt,die Klage abzuweisen.Die Beklagte bestreitet eine vorsätzliche sittenwidrige Schädigung der Klägerin. Dieser sei es offensichtlich nicht auf die Einhaltung der Stickoxidwerte angekommen, sondern allein darauf, ein besonders leistungsstarkes Fahrzeug zu erwerben.Die Beklagtenseite trägt vor, dass das streitgegenständliche Fahrzeug nicht von der im September 2015 bei Motoren des Typs EA189 bekannt gewordenen Umschaltlogik der Abgasrückführung betroffen sei. Die Motorsteuerungssoftware des streitgegenständlichen Fahrzeugs verfüge nicht über die bei Fahrzeugen mit 1,2 Liter, 1,6 Liter und 2,0 Liter Motoren des Typs EA-189 enthaltene Umschaltlogik. Die Klagepartei scheine fälschlicherweise der Meinung zu sein, ihr Fahrzeug sei von derselben Umschaltlogik betroffen wie Fahrzeuge mit EA-189 Motoren. Dias sei aber gerade nicht der Fall. Sowohl die vorzufindenden Eigenschaften der Motoren, bei denen das KBA Anpassungsbedarf feststellte, als auch die jeweils vorzunehmenden Anpassungen seien miteinander technisch nicht vergleichbar.Zutreffend sei dass nach Auffassung des KBA beim streitgegenständlichen Fahrzeug die Bedatung der vom KBA beanstandten Softwarebestandteile zu ändern bzw. aufzuweiten sei, um einen breiteren Anwendungsbereich im Straßenbetrieb zu gewährleisten. Dies werde durch eine entsprechende Anpassung der Motorsteuerungssoftware sichergestellt. Es fehle ferner an einem schlüssigen Vortrag der Klagepartei, inwieweit die Beklagte sie vermeintlich getäuscht bzw. sittendwidrig geschädigt haben, soll. Sie habe nicht substantiiert vorgetragen, dass eine Person, deren Kenntnisse der Beklagten zuzurechnen wären, mit Vorsatz im Hinblick auf die schon nicht vorgetragene Täuschung bzw. sittenwidrige Schädigung gehandelt haben soll.Ergänzend wird zu den Einzelheiten des weiteren Sachvortrags sowie insbesondere den vertretenen Rechtsauffassungen der Parteien und den diesbezüglich ausgetauschten Argumenten auf die zur Akte genommenen Schriftsätze nebst den zugehörigen Anlagen Bezug genommen.Zum Verlauf und Inhalt der mündlichen Verhandlung vom 24.09.2020, wird auf die Sitzungsniederschrift Bezug genommen.Beweis wurde nicht erhoben. 
+				Gründe
+				I. Die Klage ist zulässig, aber unbegründet.1. Soweit die Klagepartei ihren Anspruch auf § 823 Abs. 2 BGB i.V.m. § 263 StGB stützt, muss sie das Vorliegen eines Betrugs der Beklagten zu ihren Lasten schlüssig und substantiiert vortragen und beweisen.Erste Tatbestandsvoraussetzung ist insoweit eine Täuschung durch die Beklagte. Eine aktive Täuschung mittels konkreter Verkaufs- oder Werbeunterlagen ist bereits nicht dargelegt.Eine Täuschung der Beklagten kann jedoch auch darin liegen, dass die Zulassung des Fahrzeugs zum Straßenverkehr und die Einstufung in die angegebene Schadstoffklasse gesetzmäßig erfolgten, während sie tatsächlich erschlichen wurde und hierüber Aufklärung unterlassen wurde. Auch hierfür liegen jedoch keine hinreichenden Anhaltspunkte vor.Die Klägerin müsste schlüssig und substantiiert vortragen und beweisendass es sich bei der in seinem Fahrzeug verwendeten Software um eine unzulässige Abschalteinrichtung i.S. von Art. 5 Abs. 2 der Verordnung (EG) Nr. 715/2007 handeltdass die Beklagte zur Vermeidung des Widerrufs oder der Rücknahme der Typgenehmigungen verpflichtet ist, diese unzulässigen Abschalteinrichtungen zu entfernen und geeignete Mäßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit zu ergreifen, was durch Beibringen geeigneter Nachweise zu belegen ist.dass die Beklagte diese Abschalteinrichtung bewusst und gewollt und in Täuschungsabsicht in den Motor eingebaut hat.Zwar gab es für das hier streitgegenständliche Fahrzeug ein von der Beklagten auf Anordnung des KBA angebotenes Software-Update auf Grund einer Rückrufaktion des KBA.Dieser Vorgang ist jedoch nicht automatisch identisch und gleichzusetzen mit dem Software-Update auf Anordnung des Kraftfahrtbundesamts bei Motoren des Typs EA 189, das erfolgte, weil unzulässige Abschalteinrichtungen in Form einer Umschaltlogik mit zwei Betriebsmodi nachgewiesen wurden.Dies bestreitet die Beklagte gerade ausdrücklich. Auch dem Rückrufbescheid des KBA ist eine "Umschaltlogik" nicht zu entnehmen. Es heißt dort nur als Beschreibung "Entfernung unzulässiger Abschalteinrichtungen bzw. der unzulässigen Reduzierung der Wirksamkeit des Emissionskontrollsystems." Die genauen Gründe für das Erfordernis der angeordneten Softwareüberarbeitung bleiben offen. Es ist genauso möglich und eher naheliegend, dass der Rückruf wegen eines nach Meinung des KBA unzulässigen Thermofensters erfolgt ist. So geht auch das Schleswig-Holsteinische Oberlandesgericht in der mit Anlage B 1 vorgelegten Entscheidung nur von einer "schadstoffmindernden Aufwärrrstrategie" aus (Seite 3 5. Absatz).Die Klägerin trägt - trotz Hinweises des Gerichts - in keinster Weise konkrete Anknüpfungspunkte vor, aus denen sich eine irgendwie geartete Wahrscheinlichkeit ergeben könnte, dass in dem streitgegenständlichen Fahrzeug - wie in der Fahrzeugen mit Motor EA 189 - eine Umschaltlogik in Form einer Prüfstandserkennung verbaut ist. Es ergeben sich deshalb in keinster Weise ausreichende Anhaltspunkte für das Vorliegen einer Täuschung seitens der Beklagten über eine unzulässige Abschalteinrichtung in der behaupteten Form einer Umschaltlogik in Form einer Prüfstandserkennung, die eine Beweisaufnahme rechtfertigen würden. Bei den Beweisangeboten handelt es sich um "Ausforschungsbeweise", denen nicht nachzugehen war.Hinsichtlich etwaiger weiterer, seitens der Klägerpertei vorgebrachter Einwirkungssysteme auf das Emissionsverhalten des Fahrzeugs gilt - unabhängig davon, ob diese zulässig sind oder nicht-, dass es jedenfalls an der subjektiven Tatbestandsvoraussetzungen des § 263 StGB fehlt. Es ist hier seitens der Klägerseite nicht dargelegt und nachgewiesen, dass die Beklagte davon ausging, dass es sich bei diesen Systemen um unzulässige Abschalteinrichtungen handelte oder sie vor dieser Erkenntnis "blind" die Augen verschlossen hat und deshalb es unterlassen hat über das System aufzuklären. Vielmehr ist es gleichermaßen möglich, dass die Motorentwickler der Beklagten davon ausgingen und ausgehen durften, dass ein solches System zum Motorschutz nach Art. 5 Abs. 2 VO (EG) Nr. 715/2007 erlaubt ist (so auch OLG Schleswig, a.a.O. Anlage B 1 Seite 4). Diese Annahme und Auslegung des EU-Rechts ist nach Auffassung des Gerichts auch nicht unvertretbar. Eine vorsätzliche Täuschung seitens der Beklagten ist deshalb insoweit nicht nachgewiesen.2. Auch auf einen Anspruch aus sittenwidriger vorsätzlicher Schädigung nach § 826 BGB kann die Klagepartei ihr Begehren nicht stützen.Die Kagepartei ist auch hier für sämtliche Tatbestandsmerkmale darlegungs- und beweisbelatet. Ein vorsätzlich sittenwidriges Verhalten der Beklagten ist nicht nachgewiesen und bereits nicht substantiiert vorgetragen. Zum einen ist, wie bereits oben erörtert, bereits nicht ausreichend dargelegt, dass das Fahrzeug eine unzulässige Abschalteinrichtung in Form einer Prüfstandserkennung aufweist.Zum anderen gilt hinsichtlich der seitens der Klagepartei im Übrigen vorgebrachten Abschalteinrichtungen, dass eine zumindest vertretbare Auslegung des Gesetzes (siehe oben) nicht als besonders verwerfliches Verhalten gewertet werden kann. Erforderlich wäre hier zumindest, dass das Vorliegen einer unzulässigen Abschalteinrichtung derart offenkundig ist, dass eine andere Auffassung kaum vertretbar erscheint und deshalb Beweggrund und Zweck des Einbaus einer solchen Funktion eine besonders verwerfliche Gesinnung offenbaren. Davon kann nicht ausgegangen werden, wenn zumindest vertretbar ist, dass es sich bei dem vorliegenden System um eine zulässige Abschalteinrichtung handelt (LG Stuttgart, Urteil vom 23. Mai 2019 - 9 O 341/18 -, juris). Es handelt sich zudem, mangels geeigneten klägerischen Sachvortrags, um keine zielgerichtete Verschleierung der Abgaswerte im Prüfstandslauf zur Erlangung einer EG-Typengenehmigung durch Einsatz einer "Umschaltlogik", sondern lediglich um die Reduzierung der Abgasrückführung bei niedrigeren Außentemperaturen (vgl. auch LG Heidelberg, Urteil vom 17. Mai 2019 - 4 O 60/19-, juris).3. Auch ein Anspruch nach § 823 Abs. 2 BGB i.V.m. §§ 6, 27 EG-FGV kommt nicht in Betracht.Bei den vorstehend genannten Normen handelt es sich bereits um keine Schutzgesetze, in dessen persönlichen Anwendungsbereich die Klagepartei als Käufer zur Abwehr von Vermögenseinbußen fallen würde. Vielmehr handelt es sich um Normen mit gesamtgesellschaftlichen Zielen, nämlich der Weiterentwicklung des Binnenmarktes durch Harmonisierung der technischen Vorschriften sowie der Sicherstellung eines hohen Umweltschutzniveaus.4. Auch besteht kein Anspruch der Klagepartei aus § 831 BGB.Es fehlt wiederum bereits an einem substantiierten Vortrag dazu, dass eine Täuschung der Beklagten vorliegt. Unerlaubte Handlungen eines/mehrerer Verrichtungsgehilfen gegenüber der Klagepartei sind zudem nicht ausreichend dargelegt und es fehlt an den weiteren Voraussetzungen des § 263 StGB und § 826 BGB (vgl. bereits oben).Die Klage ist damit insgesamt unbegründet.II.Die Kostenentscheidung beruht auf § 91 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf § 709 S. 1, S. 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2454477.html (https://oj.is/2454477)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

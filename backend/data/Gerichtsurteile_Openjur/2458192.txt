@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG SchweinfurtRechtsprechungEndurteil vom 26.03.2021 - 24 O 875/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Schweinfurt, Endurteil vom 26.03.2021 - 24 O 875/20
+                      m. Fundstelle
+                      LG Schweinfurt, Endurteil vom 26.03.2021 - 24 O 875/20 = openJur 2022, 21746
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Schweinfurt, Endurteil vom 26.03.2021 - 24 O 875/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 21746
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Klägerin hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 23.288,20 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatzansprüche aufgrund des Erwerbs eines PKW im Zusammenhang mit dem "VW-Abgasskandal".Als "VW-Abgasskandal" wird ein seit dem 18.09.2015 aufgedeckter Vorgang bezeichnet, bei dem die Beklagte zur Optimierung der Stickstoff-Emissionswerte bestimmter Dieselmotoren eine Software verwendete, die erkennt, ob sich das Kraftfahrzeug auf einem technischen Prüfstand zur Ermittlung der Emissionswerte oder aber im üblichen Straßenverkehr befindet. Auf dem Rollenprüfstand lässt die eingebaute Software im Hinblick auf den Stickoxidausstoß ein anderes Motorprogramm ablaufen als im Normalbetrieb. Im Prüfstand hält der Motor während des Prüfstandtests die gesetzlich vorgegebenen und im technischen Datenblatt aufgenommenen Abgaswerte ein. Unter realen Fahrbedingungen im Straßenverkehr wird das Fahrzeug mit einer geringeren Abgasrückführungsrate betrieben und es werden die im Prüfstand erzielten Stickoxidwerte überschritten.Mit Kaufvertrag vom 25.07.2013 erwarb die Klagepartei vom Autohaus V. ein Kraftfahrzeug VW Passat 2.0 TDI als Neuwagen zu einem Kaufpreis von 34.450,00 €. Das Fahrzeug war mit einem von der Beklagten entwickelten und hergestellten Dieselmotor der Baureihe EA189 ausgestattet, dessen Motorsteuerung die vorgenannte Software beinhaltete.Am 22.09.2015 erfolgte eine Adhoc-Mitteilung der Beklagten, mit welcher die Beklagte die Öffentlichkeit über die "Abgasskandal-Thematik" informierte. Sie informierte auch, dass eine Vielzahl von Dieselfahrzeugen aller ihrer Konzernmarken betroffen waren. Am 02.10.2015 informierte die Beklagte über eine Pressemeldung außerdem darüber, dass auf einer Internetseite durch Eingabe der Fahrzeugidentifikationsnummer überprüft werden könne, ob ein konkretes Fahrzeug mit der Motorsoftware ausgerüstet ist.Im Hinblick darauf forderte das Kraftfahrt-Bundesamt (KBA) die Beklagte mit Bescheid vom 15.10.2015 auf, die in Deutschland betroffenen Fahrzeuge zurückzurufen, die aus deren Sicht unzulässige "Abschalteinrichtung" zu entfernen und den Nachweis zu führen, dass danach alle technischen Anforderungen der relevanten Einzelrechtsakte der RL 2007/46/EG erfüllt werden.Die Beklagte entwickelte in der Folge eine Konzeptsoftware, die sodann für die verschiedenen, ca. 1.200 Fahrzeug- und Motorvarianten aller Konzernmarken der Beklagten feinabgestimmt und einer besonderen Prüfung durch das Kraftfahrt-Bundesamt (sog. Cluster) unterzogen werden musste. Seit Januar 2016 lässt die Beklagte sukzessive bei den betroffenen Fahrzeugen aller Konzernmarken durch die Werkstätten der jeweiligen Vertragshändler die von ihr verantwortete Software installieren.Zum Zeitpunkt der letzten mündlichen Verhandlung betrug der Kilometerstand des streitgegenständlichen Fahrzeugs 177.436 km.Die Klagepartei behauptet, sie hätte bei Kenntnis der Prüfstandserkennung das Fahrzeug nicht erworben. Neben der Prüfstandserkennung sei im streitgegenständlichen Fahrzeug auch ein unzulässiges Thermofenster verbaut. Ein solches Thermofenster sei insbesondere mit Aufspielen des Software-Updates auf das Fahrzeug installiert worden. Auch das OBD-System sei manipuliert, es zeige keine erhöhten Abgaswerte an.Neben § 826 BGB ergäben sich die Ansprüche auch aus § 823 Abs. 2 BGB i.V.m. § 263 StGB sowie §§ 6 Abs. 1, 27 EG-FGV. Sollten diese Ansprüche verjährt sein, hafte die Beklagte jedenfalls gemäß § 852 BGB.Die Klagepartei beantragt,Die Beklagte wird verurteilt, an die Klagepartei € 23.288,20 nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 24.10.2020 zu bezahlen, Zug um Zug gegen Übereignung und Herausgabe des Pkw VW Passat 2.0 TDI, FIN: ...Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des im Klageantrag Ziffer genannten Pkw im Annahmeverzug befinde.Die Beklagte wird verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von € 1.899,24 nebst Zinsen in Höhe von 5%-Punkten seit dem 24.10.2020 freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Sie erhebt die Einrede der Verjährung. Es sei der Klagepartei bereits im Jahr 2015 möglich gewesen, Klage zu erheben. Verjährung sei damit bereits mit Ablauf des Jahres 2018 eingetreten. Spätestens ab dem Jahr 2016 sei Klageerhebung möglich gewesen. Zudem sei der Klagepartei im Rahmen des § 826 BGB ein kausaler Schaden nicht entstanden.Auch ein Anspruch aus § 852 BGB sei nicht gegeben. Die Norm sei bereits nicht anwendbar, jedenfalls habe die Beklagte nichts auf Kosten der Klägerin erlangt. 
+				Gründe
+				Die zulässige Klage ist unbegründet.A.Die von der Klägerseite gegen die Beklagtenseite geltend gemachten Schadensersatzansprüche sind jedenfalls verjährt, §§ 195, 199 Abs. 1 Nr. 2 Alt. 2 BGB. Es kann daher im Ergebnis dahinstehen, ob gemäß dem Sachvortrag der Klägerseite ein Handeln bzw. Unterlassen der Beklagten vorlag, das dem Grunde nach einen Schadensersatzanspruch gemäß § 826 BGB oder anderen Anspruchsgrundlagen begründen könnte (siehe unter I). Auch ein Anspruch auf den sogenannten Restschadensersatz i.S.d. § 852 Satz 1 BGB steht der Klagepartei nicht zu (siehe unter II). In der Folge ist auch die Klage im Übrigen unbegründet (siehe sodann unter III).I. Die Verjährungsfrist gemäß § 199 Abs. 1 BGB begann am 31.12.2015 und endete somit am 31.12.2018. Die Klageerhebung erfolgte erst im Jahr 2020, vorherige verjährungshemmende oder -unterbrechende Tatbestände, insbesondere eine Anmeldung zur Musterfeststellungsklage, sind nicht vorgetragen.1. Nach § 199 Abs. 1 Nr. 1, Nr. 2 BGB beginnt die regelmäßige Verjährungsfrist mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger jedenfalls ohne grobe Fahrlässigkeit Kenntnis von den den Anspruch begründenden Umständen und der Person des Schuldners hätte erlangen müssen. Diese Voraussetzungen waren hier bereits im Jahr 2015 erfüllt.a) Der Anspruch ist bereits im Jahr 2015 entstanden.b) Die Klägerseite hätte noch in diesem Jahr ohne grobe Fahrlässigkeit Kenntnis von den den Anspruch begründenden Umständen und der Person des Schuldners erlangen müssen.aa) Nach der Rechtsprechung des Bundesgerichtshofs (BGH NJW-RR 2016, 1187 Rn. 33 ff.) setzt grobe Fahrlässigkeit einen objektiv schwerwiegenden und subjektiv nicht entschuldbaren Verstoß gegen die Anforderungen der im Verkehr erforderlichen Sorgfalt voraus. Grob fahrlässige Unkenntnis i.S.v. § 199 Abs. 1 Nr. 2 BGB liegt nur vor, wenn dem Gläubiger die Kenntnis deshalb fehlt, weil er ganz nahe liegende Überlegungen nicht angestellt und nicht beachtet hat, was im gegebenen Fall jedem hätte einleuchten müssen. Ihm muss persönlich ein schwerer Obliegenheitsverstoß in seiner eigenen Angelegenheit der Anspruchsverfolgung ("Verschulden gegen sich selbst") vorgeworfen werden können, weil sich ihm die den Anspruch begründenden Umstände förmlich aufgedrängt haben, er davor aber letztlich die Augen verschlossen hat. Hierbei trifft den Gläubiger aber generell keine Obliegenheit, im Interesse des Schuldners an einem möglichst frühzeitigen Beginn der Verjährungsfrist Nachforschungen zu betreiben; vielmehr muss das Unterlassen von Ermittlungen nach Lage des Falls als geradezu unverständlich erscheinen, um ein grob fahrlässiges Verschulden des Gläubigers bejahen zu können.bb) Diese Voraussetzungen waren hier bereits im Jahr 2015 erfüllt. Die Beklagte hatte mit Adhoc-Mitteilung vom 22.09.2015 erklärt, dass auffällige Abweichungen zwischen Prüfstandswerten und realem Fährbetrieb bei Fahrzeugen des gesamten Konzerns der Beklagten mit Motoren vom Typ EA189 bestünden. Auf diese Mitteilung der Beklagten folgte eine lang andauernde und äußerst umfangreiche Berichterstattung in einer Vielzahl von deutschen Medien, insbesondere auch in Nachrichtensendungen sowie regionalen und überregionalen Tageszeitungen. Diese außergewöhnlich umfangreiche und langandauernde Berichterstattung ergab sich aus dem Umstand, dass die Beklagte mit ihren Fahrzeugen einen sehr hohen Marktanteil in Deutschland erzielte und daher ein ausgesprochen hohes Interesse sowohl der Öffentlichkeit als auch der Politik an den Vorgängen bestand. Es erscheint lebensfern anzunehmen, dass ein Halter eines Fahrzeuges mit Dieselmotor aus dem Konzern der Beklagten im damaligen Zeitraum diese Berichterstattung nicht in irgendeiner Form wahrgenommen hat.Die Klägerseite hätte bereits im Jahr 2015 ohne grobe Fahrlässigkeit von den den Anspruch begründen Umständen Kenntnis erlangen müssen. Von Beginn der umfangreichen Berichterstattung an war klar, dass Fahrzeuge mit einem Dieselmotor der Beklagten, der in einer Vielzahl auch damals relativ aktueller Fahrzeuge vieler Baureihen eingesetzt wurde, betroffen sein konnten. Außerdem hat die Beklagte noch im Jahr 2015 eine Suchmöglichkeit über das Internet bereitgestellt, über die Fahrzeughalter ermitteln konnten, ob ihr Fahrzeug mit einem Dieselmotor EA189 ausgestattet und somit von der Problematik betroffen war cc) Bei der Frage, ob das Unterlassen von Nachforschungen durch die Klägerseite im Jahr 2015 als grobe Fahrlässigkeit einzuordnen ist, muss insbesondere berücksichtigt werden, dass unmittelbar nach Bekanntwerden der Vorwürfe gegen die Beklagte jeder Halter eines Fahrzeuges aus dem Konzern der Beklagten mit einem Dieselmotor in besonders hohem Maße daran interessiert sein musste abzuklären, ob sein Fahrzeug betroffen ist, da im damaligen Zeitraum weder absehbar war, dass durch die Beklagte ein technisches Update entwickelt werden kann, noch dass die Zulassungsbehörden die Zulassung der Fahrzeuge fortbestehen lassen.Zu keinem anderen Ergebnis führt auch der Umstand, dass durch die Presseberichterstattungen in den Jahren ab 2016, insbesondere gestützt auch auf Ermittlungsergebnisse der Strafverfolgungsbehörden, weitergehende Erkenntnisse über interne Abläufe bei der Beklagten verfügbar wurden. Nach der Rechtsprechung des Bundesgerichtshofs (BGH NJW-RR 2010, 681 Rn. 6) reicht es aus, wenn dem Gläubiger auf Grund der ihm grob fahrlässig unbekannt gebliebenen Tatsachen zugemutet werden kann, zur Durchsetzung seiner Ansprüche gegen eine bestimmte Person aussichtsreich, wenn auch nicht risikolos Klage - sei es auch nur in Form einer Feststellungsklage - zu erheben. Diese Voraussetzungen sind hier erfüllt, der wesentliche Sachvortrag der 2020 erhoben Klage hätte hier auch bereits im Jahr 2015 vorgebracht werden können. Selbst wenn man auf das Jahr 2016 abstellen würde, wären die Ansprüche mit Ablauf des Jahres 2019 vor Klageerhebung ebenfalls bereits verjährt.2. Soweit die Klagepartei geltend macht, dass durch das nach dem Kauf auf das Fahrzeug aufgespielte Softwareupdate technische Probleme und Folgeschäden eintreten könnten oder das Update (Thermofenster) selbst wieder eine unzulässige Abschalteinrichtung sei, und eine eigenständige Haftung der Beklagten aus §§ 826, 31 BGB hierauf stützen will, kann diese - selbst wenn der Sachvortrag der Klagepartei zutreffen sollte - unter Berücksichtigung und Wertung des sonstigen Verhaltens der Beklagten nach dem 22.09.2015 nicht als sittenwidrig beurteilt werden. Denn das Aufspielen des Updates in Absprache und mit Billigung des Kraftfahrt-Bundesamtes stellt eine nach dem Kauf erfolgte Nachbesserungsmaßnahme dar, um die Gefahr einer Betriebsuntersagung zu bannen. Die Entwicklung des Updates und dessen Aufspielen stellen eigenständige, vom Inverkehrbringen des Motors EA189 unabhängige Handlungen dar, die nicht geeignet sind, einen Anspruch wegen vorsätzlicher sittenwidriger Schädigung zu begründen. Selbst wenn das Update seinerseits gesetzlichen Bestimmungen nicht genügen sollte, liegt aufgrund des mit dem Kraftfahrt-Bundesamt abgestimmten Vorgehens allenfalls eine fahrlässige Handlung der Beklagten vor, die den Schluss auf ein sittenwidriges Verhalten nicht rechtfertigt (OLG Bamberg, Beschluss vom 05.11.2020 - Az. 6 U 40/20).Es kommt hinzu, dass der für einen Anspruch aus § 826 BGB erforderliche kausale Schaden nach der Rechtsprechung des Bundesgerichtshofs in dem Abschluss des Kaufvertrags über das (mit der unzulässigen Abschalteinrichtung) bemakelte Fahrzeug liegt (vgl. BGH NJW 2020,1962 Rn. 44 ff.). Sollte es sich daher bei dem erst nach dem Kauf auf das Fahrzeug der Klagepartei aufgespielten Softwareupdate wieder um eine unzulässige Abschalteinrichtung handeln, führt dies nicht zu einem - einen eigenständigen Anspruch aus § 826 BGB auslösenden - Schaden, sondern lediglich dazu, dass der ursprüngliche Schaden nicht beseitigt worden ist (OLG Bamberg, Beschluss vom 05.11.2020 - Az. 6 U 40/20).II. Der Klagepartei steht auch kein Anspruch auf den sog. Restschadensersatz aus § 852 Satz 1 BGB zu. Zwar wäre ein diesbezüglicher Anspruch nicht verjährt, da insofern eine Verjährungsfrist von zehn Jahren gilt (§ 852 Satz 2 BGB). Jedoch liegen die Anspruchsvoraussetzungen nicht vor.1. Bei der Norm des § 852 S. 1 BGB handelt es sich um eine Rechtsfolgenverweisung auf das Bereicherungsrecht. Der Anspruch aus unerlaubter Handlung bleibt erhalten, jedoch wird sein Umfang auf die ungerechtfertigte Bereicherung beschränkt, die der Schädiger aus der unerlaubten Handlung erlangt hat (vgl. Palandt aaO, § 852 Rn. 2). Mit der Vorschrift soll verhindert werden, dass derjenige, der durch eine unerlaubte Handlung etwas erworben hat, nach Ablauf der kurzen Verjährungsfrist der §§ 194 ff. BGB zu Lasten des Geschädigten im Genuss des Erlangten bleibt. Daraus folgt, dass es nicht darauf ankommen kann, ob dem Mittäter die Bereicherung unmittelbar vom Geschädigten oder durch Vermittlung eines anderen, an der Tat Beteiligten zugeflossen ist. Maßgebend ist vielmehr allein, ob der Erwerb des Schuldners im Verhältnis zum Geschädigten unrechtmäßig war und ob die dadurch entstandene Vermögensvermehrung auf dessen Kosten geht. Ist dies der Fall, dann besteht nach dem aufgezeigten Zweck des § 852 BGB die Herausgabepflicht unabhängig davon, ob es sich um eine unmittelbare oder eine mittelbare Vermögensverschiebung handelt (vgl. BGH, Urteil vom 10.06.1965 - VII ZR 198/63).2. Das Oberlandesgericht Oldenburg (OLG Oldenburg, Beschluss vom 05.01.2021 - 2 U 168/20) weist zutreffend darauf hin, dass für die Vermögensverschiebung eine wirtschaftliche Betrachtung maßgebend ist, weil es sich bei dem Anspruch aus § 852 BGB um eine Fortsetzung des Schadensersatzanspruchs in anderem rechtlichen Kleid handelt. Voraussetzung für einen Anspruch ist daher, dass der Vermögensverlust beim Geschädigten einen entsprechenden Vermögenszuwachs beim Schädiger zur Folge gehabt hat (BGH, Urteil vom 14.02.1978 -XZR 19/76.). Der Schaden der Klagepartei besteht demgegenüber gerade nicht in einem rechnerischen und damit wirtschaftlichen Minus als Saldo des Vergleichs zwischen der infolge des haftungsbegründenden Ereignisses in Gestalt der vorsätzlichen sittenwidrigen Schädigung eingetretenen Vermögenslage mit derjenigen, die ohne dieses Ereignis eingetreten wäre. Vielmehr besteht der Schaden in der Eingehung einer ungewollten Verbindlichkeit, die sich nach objektiver Verkehrsanschauung unter Berücksichtigung der Umstände des Vertragsschlusses als unvernünftig, den konkreten Vermögensinteressen nicht angemessen und damit als nachteilig darstellt, weil dem Fahrzeug das Risiko einer Betriebsbeschränkung oder -Untersagung innewohnte (vgl. BGH NJW 2020, 1962 Rn.45 ff). Weil aber der Anspruch des Geschädigten aus § 852 BGB durch den rein wirtschaftlichen Schaden der Klagepartei limitiert ist, ist nach der zutreffenden Ansicht des Oberlandesgerichts Oldenburg der Anwendung der Vorschrift von vornherein der Boden entzogen, wenn sich ein solcher - wie hier - gerade nicht feststellen lässt, denn die Klagepartei hat das ihr übereignete Fahrzeug uneingeschränkt genutzt und kann dies auch weiterhin.3. Selbst wenn man den Schaden der Klagepartei zunächst in Höhe des entrichteten Kaufpreises ansetzt, kann er im Rahmen von § 852 BGB nicht mehr verlangen als die Gewinnmarge der Beklagten aus dem Verkauf des Fahrzeugs. Denn der Anspruch aus § 852 BGB ist durch die Höhe der dem Schädiger verbliebenen Bereicherung begrenzt (MüKoBGB/Wagner, 8. Aufl. 2020, BGB § 852 Rn. 6). Der Beklagten verbleibende Vorteil, den sie aus dem Inverkehrbringen des manipulierten Kraftfahrzeugs und damit der unerlaubten Handlung im Sinne des § 852 BGB gezogen hat, besteht aber allein in dem Gewinn, den sie aus dem Verkauf des konkreten Kraftfahrzeuges gezogen hat (OLG Oldenburg, Beschluss v. 21.01.2021 - 2 U 168/20). Soweit die Klagepartei meint, sie könne den Kaufpreis abzüglich der Händlermarge verlangen, kann dem nicht zugestimmt werden. Es dürfte auf der Hand liegen, dass der Beklagten nicht der an sie gerichtete Kaufpreis abzüglich einer Händlermarge als Gewinn verbleibt.Im Übrigen hätte die Klagepartei auch in diesem Fall im Wege der Vorteilsanrechnung nicht nur das Fahrzeug an die Beklagte herauszugeben, sondern sich auf ihren Restschadensersatzanspruch auch Nutzungsentschädigung anrechnen zu lassen (OLG Oldenburg a.a.O.). Denn aus der Rechtsnatur des Anspruchs § 852 BGB als im Umfang beschränkter Schadensersatzanspruch folgt, dass die herauszugebende Bereicherung den Schaden des Geschädigten nicht übersteigen kann. Es erfolgt somit keine generelle Abschöpfung sämtlicher Vorteile aus einer unerlaubten Handlung, sondern nur soweit, wie der ursprüngliche Schadensersatzanspruch bestand. Dies korrespondiert auch mit dem Normzweck, der darin besteht, dem Geschädigten einen längeren Zeitraum zur Anspruchsverfolgung zu gewähren. Der Anspruch aus § 852 S. 1 BGB ist folglich "doppelt limitiert", durch Schaden und Bereicherung. Ohne Schaden besteht überhaupt kein Anspruch (BeckOGK/Eichelberger, 01.03.2021, BGB § 852 Rn. 25). Mithin gelten die bereits den ursprünglichen Schadensersatz der Höhe nach beschränkenden Grundsätze der Vorteilsanrechnung uneingeschränkt auch für den Anspruch aus § 852 BGB. Die von der Klagepartei gezogenen und als Vorteil anzurechnenden Nutzungsvorteile durch die mit dem Fahrzeug gefahrenen Kilometer schätzt das Gericht in ständiger Rechtsprechung in Übereinstimmung mit der Rechtsprechung aller Senate des OLG Bamberg in EA189-Fällen anhand einer wirtschaftlichen Gesamtfahrleistung von 250.000 km. Bei mit dem Fahrzeug insgesamt zurückgelegten 177.436 km ergibt sich damit eine anzurechnende Nutzungsentschädigung in Höhe von 24.450,68 EUR. Es erscheint ausgeschlossen, dass die Beklagte mit dem Fahrzeug einen Gewinn erzielt hat, der auch nur ansatzweise in dieser Höhe liegt.III. Die weiteren Klageanträge bzw. Nebenforderungen teilen das Schicksal der Hauptforderung und waren mangels bestehenden Anspruchs ebenfalls abzuweisen.B.Die Entscheidung über die Kosten beruht auf § 91 Abs. 1 Satz 1 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit richtet sich nach §§ 709 Satz 1 und 2 ZPO.C.Die Festsetzung des Streitwerts folgt aus §§ 63 Abs. 2, 48 GKG i.V.m. § 3 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2458192.html (https://oj.is/2458192)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHamburgOrdentliche GerichtsbarkeitLG HamburgRechtsprechungUrteil vom 28.07.2021 - 305 O 210/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Hamburg, Urteil vom 28.07.2021 - 305 O 210/20
+                      m. Fundstelle
+                      LG Hamburg, Urteil vom 28.07.2021 - 305 O 210/20 = openJur 2022, 12126
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Hamburg, Urteil vom 28.07.2021 - 305 O 210/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 12126
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Das Urteil ist für die Beklagte gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.3. Der Streitwert wird auf 8.750,00 € festgesetzt. 
+				Tatbestand
+				Der Kläger verlangt Schadensersatz von der Beklagten wegen vorsätzlicher sittenwidriger Schädigung im Zusammenhang mit dem Erwerb eines von der Beklagten hergestellten Kraftfahrzeugs, welches nach seiner Auffassung von dem sogenannten "Diesel-Abgasskandal" betroffen sei.Der Kläger erwarb am 11. Juli 2018 von einem privaten Verkäufer in Hamburg einen Gebrauchtwagen Modell Porsche Panamera Diesel 3 Liter V6 TDI der Abgasklasse EU 5 zu einem Kaufpreis in Höhe von 35.000 € brutto (Anlage K 1). In dem Fahrzeug ist ein von der A. AG entwickelter und hergestellter Motor eingebaut, wobei der konkrete Motortyp zwischen den Parteien streitig ist.Bei dem Fahrzeug erfolgt die Reduktion der Stickoxid-Emission (NOx-Emission) über die sogenannte Abgasrückführung, bei der ein Teil der Abgase zurück in das Ansaugsystem des Motors geführt wird und dort erneut an der Verbrennung teilnimmt. Der Wirkungsgrad der Abgasrückführung ist von unterschiedlichen Parametern abhängig und erfolgt unter anderem temperaturgesteuert (sog. "Thermofenster"), wobei zwischen den Parteien streitig ist, bei welchen Außen-/Ladelufttemperaturen die Abgasrückführung reduziert wird. Das Fahrzeug des Klägers ist nicht von einem behördlichen Rückruf durch das Kraftfahrtbundesamt (KBA) betroffen. Seit Beginn des Jahres 2020 steht für den streitgegenständlichen Fahrzeugtyp seitens der Beklagten ein freiwilliges Softwareupdate zur Verfügung, welches beim streitgegenständlichen Fahrzeug jedoch nicht durchgeführt wurde. Mit Schreiben vom 11. Juni 2020 forderte der Kläger die Beklagte erfolglos auf, wegen des behaupteten Minderwertes des Fahrzeugs 25 % des Kaufpreises, mithin 8.750,- €, zu zahlen (Anlage K 4).Der Kläger behauptet, in dem streitgegenständlichen Fahrzeug sei ein Motor des Typs EA897 verbaut. Das in diesen Motor des Fahrzeugs integrierte Thermofenster stelle eine unerlaubte Abschalteinrichtung dar, sofern die Abgasrückführung bei Außentemperaturen von 7 Grad Celsius oder darunter um bis 45 % reduziert werde. Das von der Beklagten angebotene Software- Update sei nicht geeignet, die Gesetzeswidrigkeit zu beheben. Die Beklagte habe den Kläger konkludent über die gesetzesmäßige Zulassung und Einstufung der Schadstoffklasse getäuscht. Bei Kenntnis von dieser Abschalteinrichtung hätte der Kläger den Kaufvertrag nicht geschlossen. Infolge des Verhaltens der Beklagten habe er einen wirtschaftlich nachteiligen Vertrag abgeschlossen.Der Kläger ist der Ansicht, die Beklagte habe ihn vorsätzlich sittenwidrig geschädigt. Aufgrund der unzulässigen Abschalteinrichtung sei der Wert des Fahrzeugs um mindestens 25 % herabgemindert.Der Kläger beantragt,1. Die Beklagte wird verurteilt, dem Kläger einen Betrag bezüglich des Fahrzeugs Porsche Panamera Diesel, FIN:..., dessen Höhe in das Ermessen des Gerichts gestellt wird, jedoch mindestens 8.750,00 € betragen muss, zu zahlen nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit.2. Die Beklagte wird verurteilt an die A. R.- S. GmbH,... B., Schaden-Nr.:... außergerichtliche Rechtsverfolgungskosten des Unterzeichners in Höhe von 658,13 € von 808,13 € seit Rechtshängigkeit zu zahlen.3. Die Beklagte wird verurteilt, an den Kläger außergerichtliche Rechtsverfolgungskosten in Höhe von 150,00 € von 808,13 € seit Rechtshängigkeit zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte trägt vor, das Fahrzeug entspreche den gesetzlichen Vorgaben. Insbesondere sei dem KBA der Einsatz des Thermofensters im Motor des streitgegenständlichen Fahrzeugtyps bekannt und habe dessen technische Notwendigkeit bestätigt. Das Thermofenster diene dem Motorschutz und sei keine unzulässige Abschalteinrichtung.Ergänzend wird hinsichtlich der weiteren Einzelheiten des Sach- und Streitstands auf die eingereichten Schriftsätze nebst Anlagen sowie das Protokoll der mündlichen Verhandlung vom 16. Juni 2021 Bezug genommen. 
+				Gründe
+				Die Klage ist zulässig aber unbegründet.I. Die Klage ist zulässig. Das Gericht ist nach § 32 ZPO, jedenfalls aber aufgrund der rügelosen Einlassung der Beklagten auch örtlich zuständig, § 39 ZPO.II. Die Klage ist jedoch unbegründet. Dem Kläger stehen die mit der Klage geltend gemachten deliktischen Ansprüche nicht zu.1. Dem Kläger steht gegen die Beklagte kein Anspruch auf Schadensersatz aus § 826 BGB wegen eines von ihm behaupteten Vermögensschadens infolge der Ausstattung des Fahrzeugs mit einer unzulässigen Abschalteinrichtung in Form eines Thermofensters zu.a) Es liegt keine sittenwidrige Schädigung des Klägers durch die Beklagte vor. Dabei kann dahinstehen, ob ein Thermofenster eine objektiv unzulässige Abschalteinrichtung darstellt, deren Verwendung als sittenwidrige Handlung einzustufen ist. Denn das klägerische Vorbringen reicht auch bei unterstellter Sittenwidrigkeit nicht aus, um eine Haftung der Beklagten zu begründen.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggründen und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflichtverletzung und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zu Tage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann. Dabei kann es auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen. Sie kann sich auch aus einer bewussten Täuschung ergeben (BGH, Urteil vom 28.06.2016, VI ZR 516/15). Das vom Fahrzeughersteller erstrebte Ziel der Erhöhung des Gewinns ist dann als verwerflich anzusehen, wenn es auf der Grundlage einer strategischen Unternehmensentscheidung durch arglistige Täuschung der zuständigen Typgenehmigungs- und Marktüberwachungsbehörde - das KBA - erreicht werden soll, und dies mit einer Gesinnung verbunden ist, die sich sowohl im Hinblick auf die für den einzelnen Käufer möglicherweise eintretenden Folgen und Schäden als auch im Hinblick auf die insoweit geltenden Rechtsvorschriften, insbesondere zum Schutz der Gesundheit der Bevölkerung und der Umwelt, gleichgültig zeigt (BGH, Urteil vom 25.5.2020, VI ZR 252/19; OLG Koblenz, Urteil vom 08.02.2021, 12 U 1057/20).Ausgehend von diesem Maßstab ist bereits zweifelhaft, ob die Verwendung einer die Abgasreinigung mittels Thermofenster beeinflussenden Motorsteuerungssoftware, die grundsätzlich im normalen Fahrbetrieb in gleicher Weise arbeitet wie auf dem Prüfstand und bei der Gesichtspunkte des Motor- und Bauteilschutzes als Rechtfertigung ernsthaft erwogen werden können, als sittenwidrige Handlung zu qualifizieren ist (vgl. BGH, Urteil vom 19.1.2021, VI ZR 433/19, juris). Dies kann jedoch dahinstehen, da auch bei unterstellter Sittenwidrigkeit der Verwendung des Thermofensters in der Motorsteuerungssoftware des Fahrzeugs nicht ausreichend dargelegt wurde, dass die Beklagte Schuldnerin eines entsprechenden Anspruchs ist. Denn die Beklagte ist nicht Herstellerin des Motors, sondern hat den von der A. AG entwickelten und hergestellten Motor lediglich bezogen und in das streitgegenständliche Fahrzeug eingebaut.aa) Die Zurechnung des Handelns von Organen und anderer "verfassungsmäßig berufener Vertreter" erfolgt bei juristischen Personen in entsprechender Anwendung des § 31 BGB. Die Haftung aus § 31 BGB analog erstreckt sich auf alle Personen einer juristischen Person, denen durch die allgemeine Betriebsregelung und Handhabung bedeutsame, wesensmäßige Funktionen der juristischen Person zur selbstständigen, eigenverantwortlichen Erfüllung zugewiesen sind, sodass sie die juristische Person im Rechtsverkehr repräsentieren (vgl. BGH, Urteil vom 5.3.1998, III ZR 183/96, NJW 1998, 1854). Dabei ist die Haftung nach § 826 BGB i.V.m. § 31 BGB analog begründet, wenn zumindest eine dieser Personen den objektiven und subjektiven Tatbestand des § 826 BGB verwirklicht hat (BGH, Urteil vom 28.6.2016, VI ZR 536/15, NJW 2017, 250; LG Saarbrücken, Urteil vom 13.3.2020, 12 O 23/19, BeckRS 2020, 4682). Nach diesen Grundsätzen reicht das klägerische Vorbringen nicht aus, um eine entsprechende Haftung der Beklagten schlüssig zu begründen. Der Kläger hat bereits nicht schlüssig vorgetragen, dass Mitarbeiter der Beklagten Kenntnis von der behaupteten Abschalteinrichtung hatten. Es ist daher nicht ersichtlich, dass der Vorstand oder andere verfassungsmäßige Vertreter der Beklagten im Sinne des § 31 BGB in den Entscheidungsprozess bezüglich der Verwendung des Thermofensters eingebunden waren. Die Beklagte muss sich unter den gegebenen Umständen auch nicht fremdes Wissen zurechnen lassen.bb) Zwar kann es, wie der Klägervertreter in der mündlichen Verhandlung vom 16. Juni 2021 richtig eingewendet hat, im Rahmen eines Konzerns, wie hier zwischen der Beklagten und der A. AG, zu einer Wissenszurechnung kommen. Nach der Rechtsprechung des Bundesgerichtshofes kommt es aber insoweit entscheidend darauf an, ob und inwieweit ein Konzernunternehmen in Sinne einer sog. Wissensorganisationspflicht Zugriff auf die in einem anderen Konzernunternehmen vorhandenen Informationen hat, den es vorwerfbar nicht nutzt (vgl. BGH, Urteil vom 13.12.1989, IVa ZR 177/88, NJW-RR 1990, 285; OLG Frankfurt, Urteil vom 4.9.2019, 13 U 136/18, WM 2019, 1927; LG Saarbrücken aaO mwN). Eine derartige Verantwortung kann sich etwa aus den Pflichten der Konzernobergesellschaft in Bezug auf den Konzern ergeben, mit der Folge, dass ihr das Wissen einer Tochtergesellschaft zuzurechnen ist.cc) Von einer derartigen Wissenszurechnung ist hier jedoch nicht auszugehen. Die Beklagte und die A. AG sind Schwestergesellschaften im V. Konzern und als solche regelmäßig nicht für die Wissensorganisation im Konzern verantwortlich (vgl. OLG Frankfurt aaO). Gründe hiervon abzuweichen sind bereits nicht vorgetragen. Es ist auch nicht ersichtlich, dass die Beklagte als Schwestergesellschaft der A. AG zwingend Kenntnis von der Verwendung des Thermofensters hatte.dd) Anders als der Kläger meint, trifft die Beklagte unter den gegebenen Umständen auch keine sekundäre Darlegungslast. Die vom Kläger insoweit angeführte Entscheidung des OLG Stuttgart vom 8. Mai 2019 (OLG Stuttgart, 3 U 101/18) führt zu keinem anderen Ergebnis. Das Gericht verkennt dabei nicht, dass es dem Kläger kaum möglich ist, konkret zum internen Wissen eines Organs oder eines verfassungsmäßig berufenen Vertreters der Beklagten vorzutragen. Jedoch ist eine bloße pauschale Behauptung der Kenntnis des Vorstands oder eines anderen Repräsentanten des in Anspruch genommenen Unternehmens nicht geeignet, eine sekundäre Darlegungslast auszulösen. Die Grundsätze der sekundären Darlegungslast reduzieren nicht bereits die allgemeinen Anforderungen an die Substantiierung der primären Darlegung des Anspruchstellers auf die allgemeine Behauptung der maßgebenden Tatbestandsmerkmale. Der Beklagten ist es grundsätzlich nicht zuzumuten, auf die bloße pauschale Behauptung, der fragliche Vorstand oder ein sonstiger Unternehmensrepräsentant hätte Kenntnis von einer unzulässigen Abschalteinrichtung gehabt, im Einzelnen darlegen zu müssen, dass dies nicht zutrifft und dadurch eine sog. negative Tatsache darzulegen und gegebenenfalls zu beweisen. Anderenfalls müsste die Beklagte faktisch die gesamte Kommunikation innerhalb des Unternehmens über einen jahrelangen Zeitraum offenlegen. Eine solche Sichtweise würde den Beibringungsgrundsatz aushöhlen und dem beklagten Autohersteller eine der Zivilprozessordnung fremde allgemeine Aufklärungspflicht auferlegen (OLG Koblenz, Urteil vom 18.5.2020, 12 U 2149/19; OLG Stuttgart, Urteil vom 30.7.2019, 10 U 134/19).Der Kläger hat auch auf den Hinweis des Gerichts in der mündlichen Verhandlung vom 16. Juni 2021 nicht weiter begründet, warum davon auszugehen sei, dass die Beklagte zum Zeitpunkt des Inverkehrbringens des streitgegenständlichen Fahrzeugs Kenntnis von dem verwendeten Thermofenster hatte oder ihr insofern fremdes Wissen zuzurechnen sei. Vorliegend fehlt es somit bereits an der Grundlage für die Anwendung des Rechtsinstituts der sekundären Darlegungslast.b) Darüber hinaus hat der Kläger nicht ausreichend dargelegt, dass ihm durch die behauptete sittenwidrige Handlung der Beklagten ein ersatzfähiger Schaden entstanden ist. Der Kläger beantragt, die Beklagte zu verurteilen, einen in das Ermessen des Gerichts gestellten Schadensersatz in Höhe von mindestens 25 % des Kaufpreises des Fahrzeugs zu bezahlen und beansprucht damit den sogenannten kleinen Schadensersatz (vgl. Bl. 15 f. dA), der vorliegend nicht geschuldet ist.aa) Nach § 249 Abs. 1 BGB hat der zum Schadensersatz Verpflichtete den Zustand herzustellen, der bestehen würde, wenn der zum Ersatz verpflichtende Umstand nicht eingetreten wäre. Dabei kommt es darauf an, den Geschädigten wirtschaftlich möglichst so zu stellen, wie er ohne das schadensstiftende Ereignis stünde (vgl. BGH, Urteil vom 28.10.2014, VI ZR 15/14 -, juris, Rn. 25, m.w.N.).Wie der Kläger richtig vorträgt, hat der Bundesgerichtshof auch in Drei-Personen-Verhältnissen ein Wahlrecht desjenigen bejaht, der im Vertrauen auf die Richtigkeit oder Vollständigkeit der Angaben eines mit ihm vertraglich verbundenen Schädigers enttäuscht wurde und in diesem Zusammenhang eine vertragliche Bindung mit einem Dritten eingegangen ist. Danach kann der Anspruchsinhaber einerseits, im Wege des Schadensersatzes vom Schädiger "Rückgängigmachung" der Folgen des mit einem Dritten geschlossenen Vertrags verlangen, hierzu das Erlangte dem Schädiger zur Verfügung stellen und seine Aufwendungen ersetzt bekommen. Andererseits kann er auch an dem Vertrag mit dem Dritten insgesamt festhalten und vom Schädiger lediglich Entschädigung seines enttäuschten Vertrauens fordern (sog. kleiner Schadensersatz) (vgl. BGH, Urteil vom 28.10.2014, VI ZR 15/14 -, juris, Rn. 28, m.w.N.; BGH, Urteil vom 6.2.2018, II ZR 17/17 -, juris, Rn. 12). Bei einem Kaufvertrag geschieht dies durch die Herabsetzung der Leistung des Geschädigten auf das tatsächlich angemessene Maß.bb) Unabhängig von der Frage, ob und unter welchen Voraussetzungen der kleine Schadensersatz auch im Rahmen der deliktischen Haftung verlangt werden kann (vgl. hierzu OLG Frankfurt aM, Urteil vom 17.6.2020, 17 U 732/19, BeckRS 2020, 20270 Rn. 45 ff.) muss der Kläger hierfür jedenfalls darlegen und gegebenenfalls beweisen, dass er sich in Kenntnis der schädigenden Handlung gleichwohl auf den Abschluss des Kaufvertrages eingelassen und diesen dann zu einem niedrigeren Kaufpreis abgeschlossen hätte. Der Kläger hat dies auch auf entsprechenden Hinweis des Gerichts nicht - auch nicht hilfsweise - behauptet, sondern nur geltend gemacht, er hätte das streitgegenständliche Fahrzeug nicht gekauft, wenn er gewusst hätte, dass eine unzulässige Abschalteinrichtung eingebaut gewesen sei. Danach wäre ihm der behauptete Minderwert als Schaden bereits nicht entstanden. Daher fehlt es hier im Sinne der Differenzhypothese schon an der Darlegung einer entsprechenden hypothetischen Vermögenslage, weshalb im Ergebnis dahinstehen kann, ob der Kläger ansonsten auch im Bereich der unerlaubten Handlung verlangen könnte, so behandelt zu werden, als wäre es ihm bei Kenntnis der wahren Sachlage gelungen, den Vertrag zu einem niedrigeren Preis abzuschließen (OLG Frankfurt aM, aaO Rn. 50).2. Aus den dargelegten Gründen bestehen gegen die Beklagte auch weder Ansprüche aus § 823 Abs. 2 BGB i.V.m. § 273 StGB noch aus § 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV.3. Ein Anspruch aus § 831 BGB kommt ebenfalls nicht in Betracht. Der Kläger hat nicht vorgetragen, dass Mitarbeiter der Beklagten in die Entwicklung der behaupteten Abschalteinrichtung eingebunden gewesen sind.Mangels eines Hauptanspruchs des Klägers gegen die Beklagte war die Klage somit insgesamt abzuweisen.III. Die Kostenentscheidung beruht auf § 92 Abs. 1 ZPO. Die Entscheidung zur vorläufigen Vollstreckbarkeit folgt aus § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2410172.html (https://oj.is/2410172)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate12
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

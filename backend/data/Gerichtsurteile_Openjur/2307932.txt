@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungBeschluss vom 20.04.2020 - 12 U 23/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Beschluss vom 20.04.2020 - 12 U 23/20
+                      m. Fundstelle
+                      OLG Köln, Beschluss vom 20.04.2020 - 12 U 23/20 = openJur 2020, 77817
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Beschluss vom 20.04.2020 - 12 U 23/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 77817
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 1 O 243/19
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das Urteil des Landgerichts Bonn (1 O 243/19) vom 18.12.2019 wird zurückgewiesen.Die Kosten des Rechtsmittels trägt der Kläger.Dieser Beschluss und das angefochtene Urteil sind ohne Sicherheitsleistung vorläufig vollstreckbar.Dem Kläger wird nachgelassen, die Zwangsvollstreckung durch die Beklagte gegen Sicherheitsleistung in Höhe von 110 Prozent des vollstreckbaren Betrages abzuwenden, wenn nicht die Beklagte zuvor Sicherheit in Höhe von 110 Prozent des jeweils zu vollstreckenden Betrages leistet.Der Streitwert des Berufungsverfahrens wird auf 23.440,00 EUR festgesetzt.  
+				Gründe
+				I.Der Kläger begehrt Schadensersatz wegen des Erwerbs eines vom sog. Abgasskandal betroffenen Gebrauchtfahrzeugs vom Typ Volkswagen A Diesel im April 2017. Die Beklagte ist die Herstellerin des Fahrzeugs und des in ihm verbauten Dieselmotors vom Typ EA 189 (EU 5).Der Kläger erwarb bei der Firma B GmbH, C, unter dem 10.04.2017 einen gebrauchten Pkw VW A Diesel, (Erstzulassung 14.02.2013, Laufleistung 21000 km, 130 KW = 177 PS, 1.968 ccm = 2,0 l) zu einem Kaufpreis von 23.440,00 EUR. Die Übergabe des Fahrzeugs an den Kläger erfolgte am 25.04.2017. Das Fahrzeug ist mit einem Dieselmotor des Typs EA189 ausgestattet, der von der Beklagten hergestellt und in den Verkehr gebracht wurde und mit der Abgasnorm EURO 5 zertifiziert ist. Die verbaute Software der Motorsteuergeräte verfügt über eine Umschaltlogik, die erkennt, wenn das Fahrzeug den sogenannten Neuen Europäischen Fahrzyklus (NEFZ) durchfährt.Das Kraftfahrt-Bundesamt ordnete zunächst den Rückruf aller mit dem Motortyp EA189 EU5 und der beschrieben Umschaltlogik versehenen Fahrzeuge an und genehmigte später ein von der Beklagten für diesen Motortyp entwickeltes Software-Update. Dieses wurde bei dem streitgegenständlichen Fahrzeug des Klägers zu einem nicht näher bekannten Zeitpunkt aufgespielt. Die Aufspielung des Software-Updates zur Beseitigung der Manipulationssoftware war jedenfalls bei Erwerb des Fahrzeuges durch den Kläger bereits vollzogen, was dem Kläger auch bekannt war. Darüber hinaus war dem Kläger aufgrund der ab September 2015 erfolgten umfangreichen Presseberichterstattung sowie der Presseerklärungen der Beklagten bei Erwerb des Fahrzeuges bekannt, dass das Fahrzeug ursprünglich mit einer softwaregestützten "Abschalteinrichtung" zur Manipulation der Abgaswerte ausgestattet gewesen und inzwischen ein Software-Update aufgespielt worden war, aufgrund dessen die Genehmigung des Motortyps durch das Kraftfahrt-Bundesamt erfolgt war.Das Landgericht hat die Klage mit Urteil vom 18.12.2019, auf das wegen der weiteren tatsächlichen Feststellungen, des erstinstanzlichen Parteivorbringens, der in erster Instanz gestellten Anträge sowie der Entscheidungsgründe Bezug genommen wird (§ 540 Abs. 1 Nr. 1 ZPO), abgewiesen. Hiergegen richtet sich die Berufung des Klägers, mit der er sein erstinstanzliches Klagebegehren weiterverfolgt. Er rügt die Verletzung materiellen Rechts.Der Kläger vertieft seine erstinstanzliche Behauptung, dass auch das Software-Update eine unzulässige Abschalteinrichtung enthalte, welche die Beklagte als Thermofenster bezeichne. Der Kläger beruft sich insoweit auf Hinweise des Landgerichts Stuttgart in dem Rechtsstreit 23 O 22/19 sowie auf ein Urteil des Landgerichts Düsseldorf vom 31.07.2019 in dem Rechtsstreit 7 O 166/18. Rechtsfehlerhaft habe das Landgericht Bonn in dem angefochtenen Urteil Ansprüche aus § 826 BGB und aus § 823 Abs. 2 BGB i.V.m. § 263 StGB verneint. Der Kläger behauptet, das von der Beklagten entwickelte Software-Update führe zu Folgeschäden an den betroffenen Fahrzeugen, was der Kläger auf Seite 9 ff. seiner Berufungsbegründung (Bl. 233 ff.) näher ausführt. Entgegen der Auffassung des Landgerichts bestehe auch ein Anspruch aus § 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV, i.V.m. Art. 5 Abs. 2 VO (EG) Nr. 715/2007 und i.V.m. § 16 UWG. Wegen der Einzelheiten wird auf die diesbezüglichen Ausführungen des Klägers auf Seite 12 ff. der Berufungsbegründung (Bl. 236 ff.) Bezug genommen.Der Kläger beantragt,das am 18.12.2019 verkündete Urteil des Landgerichts Bonn, Az. 1 O 243/19, wie folgt abzuändern:1. Die Beklagte wird verurteilt, an die Klagepartei 23.440 € nebst Zinsen i.H.v. 2.047,09 € sowie weiterer Zinsen aus 23.440 € i.H.v. 4 Prozent pro Jahr seit dem 01.07.2019 Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs Volkswagen A mit der Fahrzeugidentifikationsnummer D zu zahlen.2. Es wird festgestellt, dass sich die Beklagte mit der Annahme des in Ziffer 1 genannten Fahrzeuges seit drei Wochen nach Rechtshängigkeit in Annahmeverzug befindet.Die Beklagte beantragt,die Berufung zurückzuweisen.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die gewechselten Schriftsätze der Parteien nebst Anlagen Bezug genommen.II.Der Beschluss ergeht gemäß § 522 Abs. 2 ZPO.Zur Begründung wird auf den Hinweisbeschluss vom 09.03.2020 Bezug genommen.Die hierzu erfolgte Stellungnahme des Klägers vom 06.04.2020 rechtfertigt eine andere Entscheidung nicht, sondern gibt lediglich zu folgender ergänzenden Begründung Anlass:Wie bereits in dem Hinweisbeschluss vom 09.03.2020 ausgeführt, vermag allein das Vorhandensein einer unzulässigen Abschalteinrichtung nach der Durchführung des Software-Updates eine deliktische Haftung der Beklagten nicht zu begründen. Es fehlt jedenfalls an der schlüssigen Darlegung der subjektiven Voraussetzungen einer vorsätzlichen sittenwidrigen Schädigung oder eines Betruges. Das Software-Update wurde durch die Beklagte in Abstimmung mit dem Kraftfahrt-Bundesamt entwickelt und bei dem streitgegenständlichen Fahrzeug aufgespielt. Anhaltspunkte für einen Schädigungsvorsatz der Beklagten bestehen nicht. Insofern ist das Verhalten der Beklagten im Zusammenhang mit dem nach dem Bekanntwerden des Abgasskandals in Abstimmung mit dem Kraftfahrt-Bundesamt entwickelten und durchgeführten Software-Update nicht mit dem heimlichen Einbau einer unzulässigen Manipulationssoftware zu vergleichen, welche erkannte, wenn das Fahrzeug einen Prüfstand durchfährt. Zur Vermeidung von Wiederholungen nimmt der Senat Bezug auf seine Ausführungen in dem Hinweisbeschluss vom 09.03.2020 unter Ziffer I. 2b) und 3.Ob das Software-Update einen Sachmangel begründet, kann dahinstehen, weil zwischen den Parteien kein Kaufvertrag und auch kein vertragsähnliches Schuldverhältnis besteht. Auf die Ausführungen unter Ziffer I. 1. des Hinweisbeschlusses vom 09.03.2020 wird verwiesen.Das vom Kläger zitierte Urteil des Oberlandesgerichts Koblenz vom 12.06.2019 - 5 U 1318/18 - (veröffentlicht bei juris) rechtfertigt keine andere Bewertung. Der vom Oberlandesgericht Koblenz entschiedene Fall betrifft den Erwerb eines Fahrzeugs im Januar 2014 mit einer heimlich bei der Herstellung des Motors eingebauten unzulässigen Manipulationssoftware, also einer Kaufentscheidung vor Bekanntwerden des sog. Abgasskandals und vor der Durchführung des Software-Updates. Dies ist nicht mit dem vorliegenden Sachverhalt vergleichbar, dass sich ein Käufer in Kenntnis der ursprünglich vorhandenen unzulässigen Manipulationssoftware und nach der Durchführung des Software-Updates bewusst für den Kauf eines vom Abgasskandal betroffenen Fahrzeugs entscheidet (volenti non fit iniuria).Entgegen den Ausführungen des Klägers in seiner ergänzenden Stellungnahme lässt sich ein Anspruch gegen die Beklagte nicht aus § 823 Abs. 2 BGB i.V.m. Art. 5 Abs. 2 VO (EG) Nr. 2007/715 herleiten. Bei Art. 5 Abs. 2 VO 2007/715/EG handelt es sich nicht um ein Schutzgesetz im Sinne des § 823 Abs. 2 BGB. Die Vorschrift regelt abstrakt die Zulässigkeit von Abschalteinrichtungen. Eine Verhaltenspflicht der Beklagten in Bezug auf die geschützten Rechtsgüter des Klägers lässt sich der Regelung nicht entnehmen. Hinsichtlich des vom Kläger geltend gemachten Anspruchs aus § 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 S.1 EG-FGV hält der Senat an seinen Ausführungen unter Ziffer I. 4. des Hinweisbeschlusses uneingeschränkt fest.Die Voraussetzungen für einen Schadensersatzanspruch aus § 823 Abs. 2 BGB i.V.m. § 16 Abs. 1 UWG sind auch unter Berücksichtigung der ergänzenden Ausführungen des Klägers nicht schlüssig vorgetragen. Der Kläger legt nicht dar, durch welche konkreten unwahren Tatsachenangaben die Beklagte in Bezug auf das bei dem streitgegenständlichen Fahrzeug durchgeführte Software-Update in der Öffentlichkeit irreführend geworben haben soll. Der Hinweis des Klägers auf das "Gesamtbild der Außendarstellung" vermag einen konkreten Sachvortrag nicht zu ersetzen.Die Kostenentscheidung beruht auf § 97 ZPO; die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus §§ 708 Nr. 10, 711 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2307932.html (https://oj.is/2307932)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 11.07.2019 - 36 O 309/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 11.07.2019 - 36 O 309/18
+                      m. Fundstelle
+                      LG Köln, Urteil vom 11.07.2019 - 36 O 309/18 = openJur 2021, 4932
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 11.07.2019 - 36 O 309/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 4932
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte wird verurteilt, an die Klägerin 12.400 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 24.12.2018 Zug-um-Zug gegen Übereignung und Herausgabe des PKWs W D , FIN: W...# abzüglich einer Nutzungsentschädigung in Höhe von 3.700,37 € zu zahlen.Es wird festgestellt, dass die Beklagte sich mit der Rücknahme des Fahrzeugs seit dem 22.12.2018 in Annahmeverzug befindet.Die Beklagte wird weiter verurteilt, den Kläger von den durch die Beauftragung seiner Prozessbevollmächtigten entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 958,19 € freizustellen.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits trägt die Beklagte.Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages. 
+				Tatbestand
+				Die Parteien streiten um Ansprüche der Klägerin gegen die Beklagte im Zusammenhang mit dem sogenannten W -Abgasskandal.Der Vater der Klägerin erwarb das streitgegenständliche Fahrzeug Modell W D mit Kaufvertrag vom 20.01.2015 als Gebrauchtwagen zu einem Kaufpreis in Höhe von 12.400 Euro von einem Kölner Gebrauchtwagenhändler. Das Fahrzeug wurde am selben Tag übergeben, der Kaufpreis entrichtet. Das Fahrzeug der Klägerin wies laut Kaufvertrag vom 20.01.2015 bei Übergabe einen km-Stand von 64.500 km und am Tag der mündlichen Verhandlung einen km-Stand von 154.025 km aus. Das Fahrzeug wurde auf die Klägerin zugelassen.Die Beklagte ist Entwicklerin und Herstellerin des in dem Fahrzeug verbauten Dieselmotors ...In dem Motor dieses Fahrzeugs war durch die Beklagte eine Software installiert worden, welche über zwei unterschiedliche Betriebsmodi zur Steuerung der Abgasrückführung verfügt. Hintergrund dieser Software ist, dass ein Fahrzeug zum Nachweis, dass bei seinem Betrieb die europaweit einheitlich festgesetzten Abgasgrenzwerte eingehalten werden, über eine Typgenehmigung gemäß Art. 4 Abs. 1 der "Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (...) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge" (im Folgenden: VO (EG) 715/2007) verfügen muss. Die zur Erteilung dieser Typgenehmigung durchgeführte Prüfung der Abgasgrenzwerte erfolgt in einem europaweit festgelegten einheitlichen Testverfahren, dem Neuen Europäischen Fahrzyklus (NEFZ), auf einem Prüfstand. Die seitens der Beklagten entwickelte und seit dem Jahr 2006 in den Fahrzeugen mit den Motoren der ...#-Baureihe - unter anderem dem des Klägers - eingesetzte Software erkannte, wann ein Fahrzeug den NEFZ durchlief und schaltete in diesem Fall in den Betriebsmodus 1, welcher zu einer höheren Abgasrückführungsrate in den Motor führte und damit zu einem reduzierten Schadstoffausstoß. Dieser Betriebsmodus war ausschließlich in der Prüfsituation aktiviert. Unter normalen Bedingungen im Straßenverkehr wurden die Motoren im Betriebsmodus 0 betrieben, welcher mit einem höheren Schadstoffausstoß verbunden war.Nach Bekanntwerden des Vorhandenseins dieser Software kam das Kraftfahrtbundesamt (im Folgenden: KBA) mit Bescheid vom 15.10.2015 zu dem Ergebnis, dass es sich bei der verwendeten Software um eine unzulässige Abschalteinrichtung handele. Ferner verpflichtete es die Beklagte, bei allen betroffenen Fahrzeugen mit den Motoren der ... (Euro 5)-Baureihe die aus Sicht des KBA vorhandene unzulässige Abschalteinrichtung zu entfernen. Von der grundsätzlich bestehenden Möglichkeit der Stilllegung der Fahrzeuge gemäß § 5 FZV in Verbindung mit § 25 EG-FGV wurde zunächst kein Gebrauch gemacht.In der Folge entwickelte die Beklagte für die jeweiligen Fahrzeug- bzw. Motorvarianten Software-Updates, um den von KBA geforderten ordnungsgemäßen Zustand der betroffenen Fahrzeuge herzustellen. Die verschiedenen Software-Updates wurden dem KBA durch die Beklagte zur Prüfung vorgelegt, welches im Laufe des Jahres 2016 jeweils die Freigabe erklärte. Daraufhin bot die Beklagte den Kunden - unter anderem auch der Klägerin mit Schreiben aus Dezember 2016 (Anl. DB 2a, Bl. 25 f. d. A.) - im Rahmen der durchgeführten Rückrufaktion an, ihr Fahrzeug einem kostenlosen Software-Update zu unterziehen, welches dazu führen sollte, dass auch im normalen Betrieb die öffentlichrechtlichen Grenzwerte eingehalten würden. Das Fahrzeug würde nach Aufspielen des Software-Updates nur noch im Modus 1 betrieben. Die Klägerin ließ das angebotene Software-Update daraufhin durchführen.Im weiteren zeitlichen Verlauf kam es zu einem Defekt an den Einspritzdüsen des streitgegenständlichen Fahrzeugs. Die Reparatur wurde bei der Firma Autoservice Q durchgeführt, welche der Klägerin hierfür mit Rechnung vom 28.03.2017 einen Betrag in Höhe von 838,41 € in Rechnung stellte.Zwischenzeitlich wurden - wie dem Gericht aus der Berichterstattung in den allgemein zugänglichen Medien über den "W -Abgasskandal" bekannt ist - die Rückrufaktionen hinsichtlich der betroffenen Fahrzeuge und die Software-Updates weitestgehend durchgeführt. Ebenso ist aus der Berichterstattung in den allgemein zugänglichen Medien gerichtsbekannt, dass es mittlerweile in einzelnen Fällen, in denen Eigentümer betroffener Pkws die Durchführung des Software-Updates verweigerten, weil sie negative Konsequenzen für das Fahrverhalten, den Emissionsausstoß oder die Lebensdauer ihres Fahrzeugs befürchten, zu Stilllegungsverfügungen der zuständigen Kfz-Zulassungsämter gekommen ist, die gelegentlich auch schon bestätigt wurden (vgl. etwa VG Gießen, Urteil vom 25.01.2019 - 6 L 5550/18.Gl, 6 L 5936/18.Gl).Mit anwaltlichem Schriftsatz vom 11.12.2018 forderte die Klägerin die Beklagte unter Berufung auf die technische Mangelhaftigkeit des streitgegenständlichen Fahrzeugs wegen der implementierten Software unter Fristsetzung bis zum 21.12.2018 zur Leistung von Schadensersatz in Form der Rückerstattung des Kaufpreises abzüglich gezogener Nutzungen Zug um Zug gegen Übergabe des Fahrzeugs sowie zur Abgabe einer Freistellungserklärung dem Grunde nach bezüglich ihrer außergerichtlichen Rechtsanwaltskosten erfolglos auf.Die Klägerin behauptet, sie sei Eigentümerin des streitgegenständlichen Fahrzeugs. Ihr Vater habe das Fahrzeug lediglich für sie erworben; man sei sich von Anfang an einig gewesen, dass das Fahrzeug unmittelbar in das Eigentum der Klägerin übergehen sollte.Die Klägerin ist der Ansicht, die Beklagte sei ihr unter anderem wegen vorsätzlicher sittenwidriger Schädigung im Sinne von § 826 BGB zur Leistung von Schadensersatz verpflichtet.Sie behauptet, sie hätte das Fahrzeug bei Kenntnis davon, dass das Abgasrückführsystem über zwei Betriebsmodi verfüge und die Euro 5-Grenzwerte nur im Prüfstand eingehalten würden, nicht gekauft.Sie behauptet zudem, der Defekt an den Einspritzdüsen des streitgegenständlichen Fahrzeugs sei auf das von der Beklagten angebotene und von ihr durchgeführte Software-Update zurückzuführen.Sie meint, auch nach Durchführung des Software-Updates verbliebe bei dem streitgegenständlichen PKW ein Mangel.Die Klägerin beantragt,1. die Beklagte zu verurteilen, an die Klägerin 13.238,41 € abzüglich einer im Termin zu beziffernden Nutzungsentschädigung nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 24.12.2018 zu bezahlen, Zug um Zug gegen Übergabe und Rückübereignung des PKWs W D , FIN: W...#.2. Festzustellen, dass die Beklagte sich mit der Rücknahme des im Klageantrag zu 1) genannten Fahrzeugs seit dem 22.12.2018 in Annahmeverzug befindet.3. Die Beklagte zu verurteilen, die Klägerin von den Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.570,80 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 22.12.2018 freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Sie bestreitet die Aktivlegitimation der Klägerin.Die Beklagte meint, die Klägerin könne gegen sie keinerlei Ansprüche geltend machen, da sie, die Beklagte, an dem Kaufvertragsabschluss -unstreitig- nicht beteiligt war.Die Beklagte ist ferner der Ansicht, das von der Klägerin erworbene Fahrzeug sei im Hinblick auf die -unstreitig vorhandene Fahrbereitschaft- mangelfrei. Die in das Fahrzeug zunächst implementierte Software sei keine unzulässige Abschaltvorrichtung gewesen. Auch habe der PKW der Klägerin über die erforderliche EU-Typengenehmigung und eine wirksame Zulassung verfügt. Zudem sei ein etwaiger Mangel jedenfalls durch das zwischenzeitlich durchgeführte Software-Update behoben.Nach Durchführung des Software-Updates seien keinerlei weitere Nachteile - etwa hinsichtlich der Lebensdauer des Fahrzeugs - zu befürchten.Sie ist zudem der Ansicht, die Klägerin habe eine arglistige Täuschung durch sie nicht hinreichend substantiiert dargelegt.Hinsichtlich der weiteren Einzelheiten des Sach- und Streitstandes wird auf die von den Parteien zu den Akten gereichten Schriftsätze nebst Anlagen ergänzend Bezug genommen. 
+				Gründe
+				Die Klage ist zulässig und überwiegend in dem aus dem Tenor ersichtlichen Umfang begründet.Im Einzelnen:Der Kläger hat gegen die Beklagte unter dem Gesichtspunkt der vorsätzlichen sittenwidrigen Schädigung gemäß § 826 BGB einen Anspruch auf Erstattung des für den streitgegenständlichen Pkw gezahlten Kaufpreises in Höhe von 12.400,- Euro abzüglich gezogener Gebrauchsvorteile in Höhe von 3.700,37 €, mithin 8.699,63 €, Zugum-Zug gegen Übergabe des Fahrzeugs.Ein Anspruch auf Ersatz der geltend gemachten Reparaturkosten in Höhe von 838,41 € sowie auf Freistellung von vorgerichtlichen Rechtsanwaltskosten über den ausgeurteilten Betrag hinaus besteht hingegen nicht.1.Die Klägerin ist aktivlegitimiert. Sie hat substantiiert dargelegt, dass sie das Eigentum an dem Fahrzeug erworben hat, indem sie mit ihrem Vater vereinbart hatte, dass dieser das Fahrzeug für sie lediglich erwerben, sie aber unmittelbar das Eigentum daran erwerben sollte. Auch die Beklagte selbst ging im Rahmen der Durchführung des Software-Updates offensichtlich davon aus, dass die Klägerin Eigentümerin des Fahrzeugs ist (vgl. Schreiben aus Dezember 2016, Bl. 25 d. A.). Das einfache Bestreiten der Beklagten ist daher gemäß § 138 Abs. 3 ZPO unbeachtlich.2.Die Klägerin hat durch ein Verhalten der Beklagten, nämlich das Inverkehrbringen des, wie die Beklagte wusste, technisch mangelbehafteten streitgegenständlichen Pkw-Motors, einen Schaden erlitten. Ein Schaden im Sinne des § 826 BGB ist nicht nur die Verletzung bestimmter Rechte oder Rechtsgüter oder eine nachteilige Einwirkung auf die Vermögenslage, sondern darüber hinaus jede Beeinträchtigung eines rechtlich anerkannten Interesses (BGH, Urteil vom 19.07.2004, Az. II zR 402/02, juris Rz. 41; LG Offenburg, Urteil vom 12.05.2017, Az. 6 O 119/16, juris Rz. 28). Es genügt jede Schadenszufügung im weitesten Sinne, also jede nachteilige Einwirkung auf die Vermögenslage in ihrer Gesamtheit. Nach dem subjektbezogenen Schadensbegriff stellt auch der Abschluss eines Geschäfts, welches nicht den Zielen des Geschädigten entspricht, einen Schaden im Rahmen des § 826 BGB dar, ohne dass es darauf ankäme, ob die erhaltene Leistung wirtschaftlich betrachtet hinter der Gegenleistung zurückbleibt (so auch LG Offenburg a. a. O.).Die Klägerin hat ein von der Beklagten hergestelltes, mit einem Motor der Baureihe ... und mit der streitgegenständlichen Manipulationssoftware ausgestattetes und in Verkehr gebrachtes Fahrzeug erworben, welches in einem bedeutsamen Gesichtspunkt anders beschaffen war, als ein vernünftiger Durchschnittskäufer dies erwarten durfte. Ein vernünftiger Durchschnittskäufer darf nämlich davon ausgehen, dass ein von ihm erworbener PKW entweder zu Recht zugelassen oder zulassungsfähig ist. Hierzu gehört, dass der Hersteller die für das Fahrzeug erforderliche Typgenehmigung nicht durch Täuschung erwirkt hat. Das gilt auch, wenn der Käufer sich bis zum Bekanntwerden einer solchen Täuschung keine konkreten Vorstellungen von den technischen Einrichtungen und den rechtlichen Voraussetzungen für die Typgenehmigung gemacht hat (so auch OLG Köln, Beschluss vom 20.12.2017, Az. 18 U 112/17, juris Rz. 36, 38). Bei der von der Beklagten in das streitgegenständliche Fahrzeug implementierten Software handelt es sich nach der zutreffenden und von der erkennenden Kammer geteilten Beurteilung des Kraftfahrtbundesamtes um eine verbotene Abschalteinrichtung gemäß Art. 3 Nr. 10, Art. 5 Abs. 2 VO (EG) 715/2007. Das Vorhandensein dieser Abschalteinrichtung begründet Unsicherheiten für die Typengenehmigung und die Betriebszulassung des Fahrzeugs, welche sich nachteilig auf seinen Vermögenswert auswirken (so auch OLG Köln, Beschluss v. 03.01.2019, Az. 18 U 70/18, zit. nach juris Rz. 39); das reicht als Schaden im Sinne des § 826 BGB vollkommen aus. Zudem entsprechen die Abgaswerte des Fahrzeugs nicht jenen, die die Klägerin aufgrund der gesetzlichen Grenzwerte erwarten durfte. Zwar mag der Einwand der Beklagten zutreffen, dass auch dem durchschnittlichen Pkw-Käufer normalerweise bekannt ist, dass die auf dem Prüfstand ermittelten Abgaswerte im allgemeinen Straßenverkehr regelmäßig nicht erreicht werden; der Kunde darf allerdings berechtigterweise erwarten, dass diese übliche Abweichung nicht durch den Einsatz einer Manipulationssoftware noch vergrößert wird (so auch LG Offenburg, Urteil vom 12.05.2017, Az. 6 O 119/16, juris Rz. 32). Die schädigende Handlung der Beklagten lag hier gerade darin, dass sie die Motoren der Baureihe ... wissentlich in einem Zustand hergestellt und zum Zwecke der Weiterveräußerung an ahnungslose Fahrzeugkäufer auf den Markt gebracht hat, in welchem durch die eingebaute Manipulationssoftware dem Prüfstandsverfahren die Aussagekraft in Bezug auf den realen Fahrbetrieb des Fahrzeugs genommen wurde und damit die ohnehin durch die Beschränkung auf die Prüfstandswerte nur eingeschränkte staatliche Kontrolle der Abgasgrenzwerte ihre Wirksamkeit vollends verloren hat (ähnlich auch LG Aachen, Urteil v. 07.07.2017, Az. 8 O 12/16, zitiert nach: juris Rz. 29; LG Osnabrück, Urteil v. 09.05.2017, Az. 1 O 29/17, zitiert nach: juris Rz. 42; LG Arnsberg, Urteil v. 14.06.2017, Az. 1 O 25/17, zitiert nach: juris Rz. 22; jeweils m. w. N.).Der der Klägerin entstandene Schaden ist auch nicht durch die Durchführung des Software-Updates beseitigt worden. Maßgeblich für die Frage des Schadens ist der Zeitpunkt des Fahrzeugerwerbs. Zu diesem Zeitpunkt war der Schadenseintritt erfolgt (vgl. OLG Koblenz, Urteil vom 12.06.2019 - 5 U 1318/18). Zudem ist davon auszugehen, dass bei dem streitgegenständlichen Fahrzeug allein aufgrund der Betroffenheit vom W -Abgasskandal ein merkantiler Minderwert verbleiben wird.3.Das schädigende Verhalten der Beklagten ist auch als sittenwidrig im Sinne des § 826 BGB zu beurteilen. Sittenwidrig handelt, wer eine Sache, von deren Mangelhaftigkeit er weiß, in der Vorstellung in den Verkehr bringt, dass die betreffende Sache von dem Erwerber in unverändert mangelhaftem Zustand an ahnungslose Dritte, die in Kenntnis der Umstände von dem Geschäft Abstand nähmen, veräußert werden wird (OLG Köln, Beschluss vom 03.01.2019, Az. 18 U 70/18, zit. nach juris, Rz. 27).Ein solches vorsätzliches Handeln liegt hier vor, da der Einbau einer verbotenen Abschalteinrichtung denknotwendig nur bewusst und in Täuschungsabsicht geschehen kann. Auch aus der Heimlichkeit des Einsatzes der Software gegenüber dem Kraftfahrtbundesamt, den beteiligten Stellen und den potentiellen Kunden gegenüber ergibt sich mit hinreichender Sicherheit, dass die beteiligten Mitarbeiter der Beklagten auch in der Vorstellung handelten, dass der Einsatz der Software zu Schwierigkeiten hinsichtlich der Typengenehmigung und der Betriebszulassung der so ausgestatteten Fahrzeuge führen könnte und dass potentielle Kunden Fahrzeuge, die derart mit rechtlichen Unsicherheiten belastet waren, nicht ohne weiteres erwerben würden (OLG Köln a. a. O., Rz. 30).Zudem hat die Beklagte in großem Umfang und mit erheblichem technischen Aufwand vorsätzlich gesetzliche Umweltschutzvorschriften ausgehebelt und zugleich ihre Kunden getäuscht und geschädigt. Sie hat dabei nicht einfach nur gesetzliche Abgaswerte außer Acht gelassen, sondern mit der Abschaltvorrichtung zugleich ein System zur planmäßigen Verschleierung ihres Vorgehens gegenüber den Aufsichtsbehörden und den Verbrauchern geschaffen, welches sich insgesamt als sittenwidriges Verhalten darstellt (so auch LG Arnsberg, Urteil vom 14.06.2017, Az. 1 O 25/17, juris Rz. 52 m. w. N.; LG Offenburg, Urteil vom 12.05.2017, Az. 6 O 119/16, juris Rz. 46).4.Das gegen die guten Sitten verstoßende Verhalten der Beklagten hat den Schaden der Klägerin auch kausal und zurechenbar ausgelöst. Denn die durch die Beklagte manipulierten Werte des Prüfstandsverfahrens zur Untersuchung der Abgaswerte haben neben dem Bezug zur Umweltverträglichkeit auch Einfluss auf die Zulassung, bzw. Zulassungsfähigkeit des Fahrzeugs. Insoweit ist bereits nach der allgemeinen Lebenserfahrung davon auszugehen, dass die Gesetzmäßigkeit und Zulassungsfähigkeit eines Fahrzeugs für die Kaufentscheidung eines potentiellen Käufers von wesentlicher Bedeutung ist, ohne dass es darauf ankommt, ob der Käufer konkrete Vorstellungen über die für die Zulassung und Zulassungsfähigkeit im Einzelnen erforderlichen technischen Einrichtungen, rechtlichen Voraussetzungen und Zulassungs- bzw. Genehmigungsverfahren macht. Denn ein Fahrzeugkäufer darf auch ohne solche detaillierten Vorstellungen davon ausgehen, dass ein von ihm für den Inlandsbetrieb erworbener Pkw eines namhaften Herstellers entweder zu Recht zugelassen oder zulassungsfähig ist (vgl. OLG Köln, Beschluss v. 20.12.2017, Az. 18 U 112/17, zitiert nach juris Rz. 36 ff.; ähnlich auch LG Arnsberg, Urteil vom 14.06.2017, Az. 1 O 25/17, juris Rz. 53). Da eine Täuschung in dem für den erlaubten Betrieb und die Zulassung des Fahrzeugs bedeutsamen Bereich sowohl die Allgemeine Betriebserlaubnis des Fahrzeugs gefährdet als auch erhebliche Einbußen des Verkehrswerts zur Folge haben kann, ist bereits nach der allgemeinen Lebenserfahrung davon auszugehen, dass die Klägerin das streitgegenständliche Fahrzeug nicht erworben hätte, wenn sie von der Manipulation gewusst hätte.5.Die Beklagte hat auch sämtliche vorbeschriebenen Merkmale der Schadenszufügung im Sinne des § 826 BGB in ihrer Person verwirklicht.Aufgrund des als unstreitig zugrunde zulegenden Sach- und Streitstandes ist davon auszugehen, dass der Vorstand der Beklagten über umfassende Kenntnisse hinsichtlich des Einsatzes der manipulativ wirkenden Software verfügte und diese auch in der Vorstellung herstellte und in Verkehr bringen ließ, dass sie unverändert und ohne entsprechenden Hinweis weiter veräußert werden würden.Insoweit reicht es vorliegend nach den allgemeinen Grundsätzen über die sekundäre Darlegungslast aus, wenn die Klägerin sich im Rahmen der sie treffenden Erstdarlegungslast auf die allgemeine Behauptung der nach dem maßgebenden Tatbestandsmerkmal erforderlichen Tatsache beschränkt (OLG Köln, Beschluss vom 03.01.2019, Az. 18 U 70/18, zit. nach juris Rz. 34). Da der Vortrag der Klägerin diesen Anforderungen genügt, hätte es hiernach der Beklagten oblegen, Einzelheiten zu den internen Geschehnissen im Zusammenhang mit der Beauftragung, der Bezahlung, dem Empfang, der Kontrolle und der Verwendung der streitgegenständlichen Motorsteuerungs-Software darzulegen, sowie dazu, ob und ggfs. einzelne Mitarbeiter unter Ausschluss des Vorstandes diese Software millionenfach pflichtwidrig beauftragen, bezahlen und verwenden lassen konnten (so auch OLG Köln a. a. O., Rz. 35); da die Beklagte solches nicht vorgetragen hat, ist der diesbezügliche Vortrag der Klägerin der Entscheidung als unstreitig zugrunde zu legen.6.In subjektiver Hinsicht ist es im Rahmen des § 826 BGB nicht erforderlich, dass der Schädiger selbst zur Bewertung seines Tuns als sittenwidrig gelangt, es genügt die Kenntnis der die Sittenwidrigkeit begründenden Umstände. Eine solche Kenntnis der Beklagten ist - wie dargelegt - zu bejahen. Die Beklagte handelte auch mit Schädigungsvorsatz im Sinne des § 826 BGB. Insoweit muss der Schädiger nicht im Einzelnen wissen, wer der durch sein Verhalten Geschädigte sein wird. Er muss nur die Richtung, in der sich sein Verhalten zum Schaden anderer auswirken könnte, und die Art des möglichen Schadens vorausgesehen und mindestens billigend in Kauf genommen haben (BGH, Urteil vom 19. Juli 2004, Az. II ZR 402/02, juris Rz. 47; LG Offenburg, Urteil vom 12.05.2017, Az. 6 O 119/16, juris Rz. 48). Für die beteiligten Organe der Beklagten im Sinne des § 31 BGB war aufgrund ihrer Kenntnis von der Implementation der Software offensichtlich, dass die Kunden der Beklagten künftig Fahrzeuge erwerben würden, welche ihren berechtigten Erwartungen an den gesetzeskonformen Erwerb der Typgenehmigung und die technische Mangelfreiheit nicht entsprachen, was sich zudem nachteilig auf den Vermögenswert der Fahrzeuge auswirken würde.7.Da - wie erörtert - alle Anspruchsmerkmale des § 826 BGB verwirklicht sind, hat die Klägerin gegen die Beklagte aus dieser Norm in Verbindung mit § 249 BGB einen Anspruch auf Ersatz des ihr entstandenen Schadens, der hier auf Rückabwicklung des streitgegenständlichen Kaufvertrages gerichtet ist, da die Klägerin, wenn sie von der Täuschung gewusst hätte, den streitgegenständlichen Pkw nicht erworben hätte.8.Die Klägerin muss sich allerdings die Vorteile anrechnen lassen, die sie durch die Nutzung des Fahrzeugs hatte. Hierbei ist von der üblichen Formelgefahrene Kilometer x Bruttokaufpreisvoraussichtliche Gesamtlaufleistung des Fahrzeugsauszugehen.Auf dieser Basis schätzt die Kammer im vorliegenden Fall - ausgehend von einer geschätzten Gesamtlaufleistung des streitgegenständlichen Pkw von 300.000 km (so auch OLG Köln, Beschluss v. 03.01.2019, Az. 18 O 70/18, zit. nach juris Rz. 52) - die von dem Kläger für die Zeit bis zum Schluss der mündlichen Verhandlung zu leistende Nutzungsentschädigung auf89.525 km x 12.400,- € = 3.700,37 €.300.000 km9.Ein Anspruch auf Ersatz der ihr im Rahmen des Defekts an den Einspritzdüsen entstandenen Reparaturkosten ist der Klägerin hingegen nicht zuzugestehen. Die Klägerin hat trotz entsprechendem Hinweises der Kammer (vgl. Protokoll der mündlichen Verhandlung vom 23.05.2019, Bl. 169 d. A.) nicht dargelegt, inwieweit dieser Defekt auf das Software-Update zurückzuführen sein soll.10.Die Begründetheit des Feststellungsantrags ergibt sich aus § 293 BGB in Verbindung mit § 256 ZPO.11.Vorgerichtliche Anwaltskosten kann die Klägerin gemäß § 280 Abs. 1 BGB als Schadensersatz unter dem Gesichtspunkt der zweckentsprechenden Rechtsverfolgung verlangen. Dies allerdings nur in Höhe einer 1,3-Geschäftsgebühr aus Nr. 2300 VV-RVG nebst Auslagenpauschale und Umsatzsteuer. Bei den W -Abgasfällen handelt es sich um Massenverfahren, die für die beteiligten Rechtsanwälte wenig Arbeitsaufwand erfordern und leicht sind. Die Argumente sind bereits in Tausenden von Verfahren hinlänglich ausgetauscht. Zudem war von einem Streitwert in Höhe von 12.400,- € auszugehen.10.Der zuerkannte Zinsanspruch ergibt sich aus § 288 Abs. 1 BGB.Die Kostenentscheidung beruht auf § 92 Abs. 2 Nr. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus § 709 S. 1 und 2 ZPO.Streitwert: 13.238,41 €.Rechtsbehelfsbelehrung:Hinweis zum elektronischen Rechtsverkehr:Die Einlegung ist auch durch Übertragung eines elektronischen Dokuments an die elektronische Poststelle des Gerichts möglich. Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet und mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der verantwortenden Person signiert und auf einem sicheren Übermittlungsweg gemäß § 130a ZPO nach näherer Maßgabe der Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach (BGBl. 2017 I, S. 3803) eingereicht werden. Weitere Informationen erhalten Sie auf der Internetseite www.justiz.de.
+			
+			
+			
+			Permalink: https://openjur.de/u/2318707.html (https://oj.is/2318707)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungUrteil vom 13.01.2022 - 10 U 34/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Urteil vom 13.01.2022 - 10 U 34/21
+                      m. Fundstelle
+                      OLG Köln, Urteil vom 13.01.2022 - 10 U 34/21 = openJur 2024, 3313
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Urteil vom 13.01.2022 - 10 U 34/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2024, 3313
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das am 07.05.2021 verkündete Urteil der 9. Zivilkammer des Landgerichts Bonn - 9 O 185/20 - wird zurückgewiesen.Die Kosten des Berufungsverfahrens werden dem Kläger auferlegt.Dieses und das angefochtene Urteil sind ohne Sicherheitsleistung vorläufig vollstreckbar. Dem Kläger bleibt nachgelassen, die Vollstreckung gegen Sicherheitsleistung in Höhe von 110% des vollstreckbaren Betrages abzuwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110% des zu vollstreckenden Betrages leistet.  
+				Gründe
+				I.Der Kläger kaufte am 01.08.2018 einen gebrauchten Audi Q5 (Erstzulassung: 03.07.2015, Laufleistung bei Kauf: 65.098 km) zu einem Preis von 29.775,00 €. Das Fahrzeug ist mit einem Motor des Typs EA 288 (Euro 6) ausgestattet, der von der Beklagten hergestellt worden ist. Dieser Motor arbeitet im Zuge der Abgasnachbehandlung mit einer SCR-Technik. In dem Motorsteuerungsgerät ist eine Fahrkurve hinterlegt, welche den Prüfstand erkennt und bei Durchfahren des NEFZ sicherstellt, dass nach Erreichen der für die optimale Funktionsfähigkeit des SCR erforderlichen Betriebstemperatur von ca. 200° C die hohe Abgasrückführungsrate aufrecht erhalten bleibt.Der Kläger hat zuletzt Rückzahlung des Kaufpreises abzüglich Nutzungen Zug um Zug gegen Rückgabe des Fahrzeugs mit der Behauptung verlangt, in dem Motor befinde sich eine prüfstandserkennende Software, die über eine Lenkwinkelerkennung in gleicher Weise unzulässig arbeite wie bei der sog. Umschaltlogik des Motors EA 189. Auch hat er auf ein - unstreitig eingesetztes - Thermofenster verwiesen, welches er für eine unzulässige Abschalteinrichtung gehalten hat.Mit Urteil vom 07.05.2021 hat das Landgericht die Klage abgewiesen und zur Begründung ausgeführt, das Inverkehrbringen eines Fahrzeugs mit einer unzulässigen Abschalteinrichtung könne nur bei Hinzutreten weiterer Umstände als vorsätzliche sittenwidrige Schädigung i.S.d. § 826 BGB gewertet werden; selbst wenn die Verwendung eines Thermofensters unzulässig wäre, seien Anhaltspunkte dafür, dass die Beklagte diesen Gesetzesverstoß gekannt und wissentlich in Kauf genommen habe, nicht vorgetragen oder ersichtlich. Bei einer nur fahrlässig verkannten Rechtslage fehle es an dem subjektiven Element des Bewusstseins der Rechtswidrigkeit. Auch Ansprüche aus § 823 Abs. 2 BGB, § 263 StGB oder § 823 Abs. 2 BGB, Art. 5 Abs. 2, A Nr. 10 VO 715/2007 schieden aus.Wegen des weiteren Inhalts der angefochtenen Entscheidung wird auf Bl. 261 - 272 d.A. verwiesen.Hiergegen richtet sich die form- und fristgerecht eingelegte und auch ansonsten zulässige Berufung des Klägers. Er wiederholt und vertieft seine Ansicht, wonach das Thermofenster eine unzulässige Abschalteinrichtung darstelle. Auch behauptet er eine jedenfalls prüfstandsoptimierte Prüfstandserkennung, zu der er zunächst behauptet, es handele sich um eine Lenkwinkel-, sodann, es handele sich um eine Fahrkurvenerkennung. Nachdem er zunächst eine der Umschaltlogik vergleichbare Funktion behauptet hat, behauptet er zuletzt, die SCR-Strategie sei im Realbetrieb temperatur-, im Prüfstand aber zeitgesteuert. Schließlich gebe es Manipulationen bei der AdBlue-Dosierung. Die Beklagte habe, so behauptet er weiter, das Kraftfahrtbundesamt hierüber nicht in (umfassende) Kenntnis gesetzt, sondern eine nur "situationsangepasste" Offenlegung dessen betrieben, was nicht mehr zu verbergen gewesen sei. Vor dem Hintergrund dieser Täuschung seien auch die Erklärungen des Kraftfahrtbundesamtes zum Motor EA 288 nicht brauchbar, um die Beklagte zu entlasten.Der Kläger beantragt,unter Abänderung des am 07.05.2021 verkündeten Urteils des Landgerichts Bonn - 9 O 185/20 - die Beklagte zu verurteilen, an den Kläger 25.097,49 € zuzüglich Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Zinssatz seit dem 16.11.2020 zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs Audi Q5 mit der Fahrzeug-Identifikationsnummer N01;festzustellen, dass sich die Beklagte mit der Entgegennahme dieses Fahrzeugs in Annahmeverzug befindet;die Beklagte zu verurteilen, den Kläger von vorgerichtlichen Rechtsverfolgungskosten in Höhe von 2.525,90 € freizustellen.Die Beklagte beantragt,die Berufung zurückzuweisen.Sie verteidigt die erstinstanzliche Entscheidung, wobei sie insbesondere unter Bezugnahme auf den Bericht der Untersuchungskommission Volkswagen und auf Messungen sowie amtliche Auskünfte des Kraftfahrtbundesamtes dazu vorträgt, dass sich die SCR-Strategie bzw. Fahrkurvenerkennung nicht auf die Einhaltung der Grenzwerte auswirke. Sie bestreitet den Einsatz einer Zeitsteuerung im SCR-Kat und behauptet hierzu, dieser arbeite auf Prüfstand und im Realbetrieb in seiner Wirkungsweise identisch.Wegen aller weiteren Einzelheiten des Vorbringens der Parteien im Berufungsverfahren wird auf die im Berufungsrechtszug gewechselten Schriftsätze nebst Anlagen verwiesen.II.Die gemäß §§ 511 ff. ZPO statthafte und auch im Übrigen zulässige Berufung des Klägers hat in der Sache keinen Erfolg. Zu Recht hat das Landgericht die Klage abgewiesen; auch unter Berücksichtigung des weiteren Vorbringens des Klägers in der Berufungsinstanz ist ein deliktischer Anspruch gegen die Beklagte aus § 826 BGB nicht tauglich dargetan, weil es an Umständen fehlt, die eine besondere Verwerflichkeit des Handelns nahelegen könnten.Im Einzelnen:Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann (BGH, Urt. v. 25.05.2020 - VI ZR 252/19, NJW 2020, 1962; BGH, Urt. v. 30.07.2020 - VI ZR 5/20, NJW 2020, 2798). Schon zur Feststellung der objektiven Sittenwidrigkeit kann es daher auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen. Die Verwerflichkeit kann sich auch aus einer bewussten Täuschung ergeben (BGH, Urt. v. 25.05.2020 - VI ZR 252/19, NJW 2020, 1962; BGH, Urt. v. 30.07.2020 - VI ZR 5/20, NJW 2020, 2798; BGH, Urt. v. 19.01.2021 - VI ZR 433/19, NJW 2021, 921).1. Ein besonders verwerfliches Vorgehen kann daher dann vorliegen, wenn Abschalteinrichtungen - nur - prüfstandsbezogen arbeiten. Das Kriterium der Prüfstandsbezogenheit ist grundsätzlich geeignet, um zwischen nur unzulässigen Abschalteinrichtungen und solchen, deren Implementierung die Kriterien einer sittenwidrigen vorsätzlichen Schädigung erfüllen können, zu unterscheiden (BGH, Beschl. v. 29.09.2021 - VII ZR 126/21, IBRRS 2021, 3387). Dann liegt nämlich nicht nur eine unzulässige Abschalteinrichtung vor, sondern es werden die deutlich höheren Anforderungen an eine sittenwidrige vorsätzliche Schädigung im Sinne des § 826 BGB erfüllt, wenn eine Manipulationssoftware ausschließlich im Prüfstand die Abgasreinigung verstärkt aktiviert; dies indiziert nämlich eine arglistige Täuschung der Genehmigungsbehörden.a. Soweit der Kläger hierzu den Einsatz eines "Thermofensters" bemängelt, bleibt dies - ungeachtet schon des Umstandes, dass er zuletzt hierauf nicht mehr maßgebend abgestellt hat (Bl. 1300 d.A., "Hauptansatzpunkt ist (...) nicht das Thermofenster") - ohnehin unbehelflich. Selbst nach dem Vortrag des Klägers wird die Abgasrückführung temperaturabhängig gesteuert, so dass diese außentemperaturgesteuerte Abgasrückführung in beiden Fahrsituationen - Prüfstand wie Straßenbetrieb - grundsätzlich gleich wirksam ist. Diese Situation ist nicht identisch mit dem Motor VW-EA 189, bei dem von der Einhaltung der Stickoxidgrenzwerte im realen Fahrbetrieb vollständig abgesehen und dem Kraftfahrt-Bundesamt stattdessen zwecks Erlangung der Typgenehmigung mittels einer eigens zu diesem Zweck entwickelten Motorsteuerungssoftware wahrheitswidrig vorgespielt wurde, dass die Dieselfahrzeuge die neu festgelegten Stickoxidgrenzwerte einhalten (vgl. BGH, Beschl. v. 19.01.2021 - VI ZR 433/19, NJW 2021, 921; BGH, Beschl. v. 09.03.2021 - VI ZR 889/20, VersR 2021, 661 (664/665), zum Software-Update für den VW-Motor EA189; BGH, Hinweisbeschl. v. 29.09.2021 - VII ZR 126/21, IBRRS 2021, 3387), denn vorliegend arbeiten die Funktionen in beiden Fahrsituationen im Grundsatz in gleicher Weise. Unter den für den Prüfzyklus maßgebenden Bedingungen (Umgebungstemperatur, Luftfeuchtigkeit, Geschwindigkeit, Widerstand) entspricht die Rate der Abgasrückführung daher im normalen Fahrbetrieb derjenigen auf dem Prüfstand (vgl. BGH, Beschl. v. 09.03.2021 - VI ZR 889/20, VersR 2021, 661 (664/665). Bei dem Einsatz einer temperaturabhängigen Steuerung des Emissionskontrollsystems wie im vorliegenden Fall fehlt es aber an einem arglistigen Vorgehen des beklagten Automobilherstellers, das die Qualifikation seines Verhaltens als objektiv sittenwidrig rechtfertigen würde.b. Aber auch der - insoweit unstreitige - Umstand, dass der Motor durch eine Fahrkurvenerkennung zwei verschiedene Abgasstrategien in Prüf- und Realbetrieb einsetzt, verhilft der Klage nicht zum Erfolg.Für den Vorwurf einer rücksichtslosen Gesinnung, die gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt, wäre erforderlich, dass die Beklagte - wie im Falle des Motors EA 189 - systematisch und bewusst eine Software eingesetzt hätte, durch die die Stickoxidgrenzwerte der Euro 5-Norm nur im Prüfbetrieb eingehalten wurden, wodurch zugleich der Stickoxidausstoß ohne diese Software über das Maß des nach den gesetzlichen Vorgaben Zulässigen hinaus erhöht wurde, und all dies dem Kraftfahrtbundesamt gegenüber verschleiert hätte (vgl. BGH, Urt. v. 25.05.2020 - VI ZR 252/19, NJW 2020, 1962).So liegt es hier aber gerade nicht. Die Beklagte hat dargelegt, dass gerade der Motor EA 288 Gegenstand einer nachhaltigen, langfristigen und wiederholten Überprüfung seitens des Kraftfahrtbundesamt gewesen ist und - von Einzelfällen abgesehen - zu keinen durchgreifenden Beanstandungen geführt hat (Bl. 1005 ff. d.A.). Insbesondere ist keine Divergenz zwischen den Abgaswerten im Prüfstand und dem Realbetrieb im Sinne einer Überschreitung von Grenzwerten festgestellt worden, die für eine Manipulation hätte sprechen können. Die Beklagte hat weiter dargelegt, dass in beiden Modi (Prüfstand: streckengesteuert; Realbetrieb: strecken- und beladungsgesteuert) die maßgebenden Grenzwerte des NEFZ auch tatsächlich - und zwar unabhängig von der Fahrkurvenerkennung - eingehalten werden (Bl. 1006 ff., 1022 d.A.).Dass ohne die - fahrkurvenbasierte - Prüfstandserkennung die Grenzwerte im NEFZ gerade nicht eingehalten worden wären, hat der Kläger vor dem Hintergrund dieses Sachvortrages der Beklagten nicht ausreichend schlüssig vorgetragen.Seine - isoliert in den Raum gestellte - Behauptung, das Fahrzeug halte "erst" durch die Zuschaltung des SCR-Kat in Verbindung mit einer unverändert hohen Abgasrückführungsrate im Prüfstand die Grenzwerte ein (Bl. 923 d.A.), wird nicht durch konkreten Vortrag zur Funktionsweise der Software und behaupteten Grenzwertverstößen ergänzt, sondern erschöpft sich in diesem Schlagwort und stellt lediglich eine - aus dem Vorhandensein der Prüfstandserkennungsfunktionen abgeleitete (Bl. 1325 d.A.) - Mutmaßung des Klägers dar. Soweit der Kläger meint, die Beklagte habe nicht vorgetragen, dass bei einer beladungsgesteuerten Regeneration des NSK-Katalysators die Grenzwerte eingehalten würden (Bl. 954 d.A.), fehlt dem schon der Bezug zum vorliegenden Fahrzeug, welches nicht mit NSK, sondern - unstreitig - mit SCR-Technologie arbeitet.Der Kläger, der auch ansonsten im Berufungsverfahren hauptsächlich seine Rechtsansicht vertieft, das Kraftfahrtbundesamt sei dadurch relevant getäuscht worden, dass diesem zunächst mitgeteilt worden sei, die Fahrkurvenerkennung habe "keinen Einfluss" auf das Abgasverhalten, wohingegen die Beklagte nun einen nicht grenzwertrelevanten ("ein bisschen Einfluss") einräume (Bl. 1324 d.A.), hat hierdurch nicht schon dem Beweis zugänglich behauptet, dass die Grenzwerte des NEFZ außerhalb des Prüfstandes unter prüfstandsgleichen Bedingungen gerade nicht eingehalten würden. Insoweit behauptet er vielmehr selbst nur eine "Schönung" des Abgasverhaltens auf dem Prüfstand (Bl. 1326, 1334 d.A.). Dass er mit Nichtwissen bestreitet, dass das Kraftfahrtbundesamt über das Aufrechterhalten der hohen Abgasrückführung informiert worden sei (Bl. 2009 d.A.), verkennt, dass den Kläger die Darlegungslast für eine kausale Täuschung trifft.Allerdings fehlt es am Unwert einer behaupteten Täuschung, wenn auch ohne diese das Fahrzeug (in Bezug auf die Grenzwerte) genehmigungsfähig bleibt. Es wird in diesem Fall gerade nicht wahrheitswidrig vorgespiegelt, dass die Grenzwerte eingehalten werden, sondern sie werden auch ohne die prüfstandsoptimierende Software tatsächlich noch eingehalten.Der Kläger, dessen Prozessbevollmächtigter im Termin seinen Vortrag mit dem Beispiel illustriert hat, der Verbraucher erwarte, dass in Nahrungsmitteln keine Giftstoffe seien, und werde daher bereits dann getäuscht, wenn "nur ein bisschen" Zyankali beigesetzt werde, ohne dass dies offengelegt sei, verkennt insoweit - um im Bild zu bleiben - dass nach dem Vortrag der Beklagten die von ihr "zugesetzten Giftmengen" sich im Rahmen der Grenzwerte für Lebensmittelzusatzstoffe gehalten haben. Er irrt daher, wenn er meint, "jedwede Täuschung" führe quasi automatisch zu einem Schadensersatzanspruch aus § 826 BGB (Bl. 2012 d.A.).Die von dem Kläger als "unzulässige" Abschalteinrichtung angesehene Software-Steuerung ist dem Kraftfahrtbundesamt nämlich jedenfalls aktuell bekannt und von der Beklagten auch gar nicht in Abrede gestellt worden. Mag es auch sein, dass - wie der Kläger ausführt - die Beklagte das Kraftfahrtbundesamt nur "scheibchenweise" und Stück für Stück über die Funktionsweise einer Motorsteuerung aufgeklärt hat, die prüfstandserkennend arbeitet, so hat dieses gleichwohl - wie sich aus den vorgelegten Schreiben vom 13.11.2020 (Bl. 1289 d.A.) und vom 25.01.2021 (Bl. 749 d.A.) ergibt - jedenfalls aktuell nach Prüfungen der (explizit als solche bezeichneten) "Umschaltlogik" keine Grenzwertkausalität erkennen können und die Funktion daher für nicht unzulässig erachtet (Bl. 1290 d.A.: "Prüfungen im KBA zeigen, dass auch bei Deaktivierung der Funktion die Grenzwerte in den Prüfverfahren (...) nicht überschritten werden"; Bl. 750 d.A.: "Im Falle der Fahrzeuge mit nachgeschalteter Abgasnachbehandlung mittels SCR-Katalysator (...) wird die Fahrkurvenerkennung zur Umschaltung der Betriebsmodi der Abgasrückführung im Rahmen der Typprüfung genutzt (...) Bei einer Betrachtung des gesamten Emissionskontrollsystems bleiben somit die Schadstoffemissionen unterhalb der Grenzwerte. Dies erfolgt nicht nur über die Fahrkurve im Testzyklus, sondern auch unter realen Betriebsbedingungen auf der Straße (...) Prüfungen im KBA zeigen, dass auch bei Deaktivierung der Fahrkurvenfunktion die Grenzwerte (...) nicht überschritten werden".).Schon dadurch stellt sich die Frage einer Verschleierung und dadurch ausgelöster Fehlvorstellungen bei der Typgenehmigung nicht. Hält nämlich das Vorgehen der Beklagten einer nachträglichen Überprüfung stand, so kann auch das ursprüngliche Inverkehrbringen nicht sittenwidrig gewesen sein.Die bloße Möglichkeit, dass die Beklagte bei der Entwicklung der Motorsteuerung nicht nur zum Motorschutz gehandelt habe und sie nicht hinreichend versucht haben könnte, einen Ausgleich zwischen der Einhaltung der Grenzwerte für Schadstoffemissionen und dem Motorschutz zu finden, erlaubt nicht schon einen Schluss auf sittenwidriges Handeln, mag das System der Abgasbearbeitung auch öffentlichrechtlich von zweifelhafter Zulässigkeit sein. Auch das Vorgehen der Beklagten gegenüber dem Kraftfahrtbundesamt kann von dem Kläger zwar als "Verschleierungstaktik" (Bl. 1323 d.A.) und "intransparent" (Bl. 1302 d.A.) angesehen werden und insoweit auch nachvollziehbare Erwartungen gegenüber diesem Fahrzeughersteller enttäuschen; ein schädigender und zugleich grober Rechtsverstoß liegt hierin allerdings ebenso wenig wie eine Täuschungshandlung (so ebenfalls OLG Schleswig, Urt. v. 13.08.2021 - 17 U 9/21, zit. n. Juris). Selbst wenn die Beklagte nämlich etwa erforderliche Angaben zu den Einzelheiten der Abgassteuerung unterlassen haben sollte, wäre die Typgenehmigungsbehörde nach dem Amtsermittlungsgrundsatz gemäß § 24 Abs. 1 S. 1. 2 VwVfG gehalten gewesen, diese zu erfragen, um sich in die Lage zu versetzen, die Zulässigkeit der Abschalteinrichtung im streitgegenständlichen Fahrzeug zu prüfen (vgl. BGH, Urt. v. 16.09.2021 - VII ZR 286/20, zit. n. Juris).c. Die Ausführungen des Klägers zu der AdBlue-Dosierung (Bl. 1326 ff. d.A.). schließlich stellen ebenfalls keinen ausreichenden Sachvortrag einer unzulässigen Prüfstandsbezogenheit dar. Nach der Behauptung des Klägers trete die maximale Stickoxid-Reduktion nur zu einem geringen Anteil der Fahrzeit in Aktion, wohingegen in der restlichen Zeit weniger oder gar kein AdBlue zugeleitet und entsprechend erheblich mehr Stickoxid ausgestoßen werde. Ob diese so geschilderte Steuerung indes nicht bereits unterschiedslos auf Prüfstand und im Realbetrieb eingreift, ist in Ermangelung sonstiger Darlegungen zu den externen Kriterien für die AdBlue-Dosierung bereits nicht ausreichend klargestellt, ganz zu schweigen davon, dass der Kläger erneut allenfalls eine "Beschönigung" der Werte, aber gerade keine Grenzwertkausalität behauptet (Bl. 1334 d.A.).Soweit er schließlich noch darauf abzustellen scheint, dass die von der Motorsteuerung vorgesehene AdBlue-Dosierung auf längeren Fahrten nicht hinreiche, um eine (nicht näher konkretisierte) "ausreichende Reinigung" (Bl. 1329 d.A.) zu erreichen, ist dies ohne Relevanz. Eine Behauptung von Diskrepanzen im Abgasverhalten unter Prüfstandbedingungen, die nach damaliger Rechtslage (Euro-5-Norm) zur Erlangung der Typgenehmigung allein maßgeblich waren, und unter normalen Betriebsbedingungen auf der Straße wäre allenfalls geeignet, die Sinnhaftigkeit der Testkriterien in Frage zu stellen, bietet aber keinen greifbaren Anhaltspunkt für die Verwendung prüfstandsbezogener Software (ebenso BGH, Urt. v. 13.07.2021 - VI ZR 128/20, NZV 2021, 525 (528); auch BGH, Beschl. v. 19.01.2021 - VI ZR 433/19, NJW 2021, 921).2. Bei dieser Sachlage des Einsatzes einer nur möglicherweise öffentlichrechtlich unzulässigen Abschalteinrichtung ohne Relevanz für die Testergebnisse wäre der Vorwurf der Sittenwidrigkeit gegenüber der Beklagten nur gerechtfertigt, wenn zu dem - behaupteten - Verstoß gegen die Verordnung 715/2007/EG weitere Umstände hinzuträten, die das Verhalten der für sie handelnden Personen als besonders verwerflich erscheinen ließen (vgl. BGH, Urt. v. 19.01.2021 - VI ZR 433/19, NJW 2021, 921). An solchen fehlt es aber.Die jeweiligen technischen Auslegungen der Beklagten beim Einsatz der Abgasrückführungssysteme mag man, wie ausgeführt, als kritisch oder - gemessen an Bestimmungen, die inhaltlich darauf zielen, dass sich die Reinigungseffekte auf dem Prüfstand von denen unter normalen Betriebsbedingungen regelmäßig nicht wesentlich unterscheiden sollten - auch als vorschriftenwidrig ansehen können. Für den Vorwurf eines von vornherein schlechthin verwerflichen Geschäftsgebarens der Beklagten reicht all das - auch wenn die Beklagte selbst im Rahmen der "Modellpflege" die Fahrkurvenerkennung bei bestimmten Modellen des EA288 ("zur Vermeidung von Verunsicherung", Bl. 1016 d.A.) nachträglich wieder entfernt hat - indes nicht (so auch ausdrücklich OLG Schleswig, Beschl. v. 16.03.2021 - 16 U 99/20, zit. n. Juris; OLG Schleswig, Urt. v. 13.08.2021 - 17 U 9/21, zit. n. Juris).3. Schlussendlich fehlt es aber auch an einem kausal bedingten haftungsausfüllenden Schaden (vgl. OLG Brandenburg, Beschl. v. 29.01.2021 - 11 U 113/20, zit. n. Juris; OLG Schleswig, Urt. v. 13.08.2021 - 17 U 9/21, zit. n. Juris). In dem Fall eines mit dem Motor EA 189 ausgestatteten Fahrzeuges ist dieses, wie der Bundesgerichtshof (Urt. v. 25.05.2020 - VI ZR 252/19, NJW 2020, 1962) ausgeführt hat, für die Zwecke desjenigen, der durch ein sittenwidriges Verhalten zum Vertragsabschluss veranlasst wird, nicht voll brauchbar, weil es aus der ex ante Sicht des Käufers letztlich vom Zufall abhängt, ob der unerkannt bestehende Mangel aufgedeckt und die Gebrauchsfähigkeit des Fahrzeugs in der Folge eingeschränkt wird. Bei Berücksichtigung dieser Umstände des Einzelfalls sei - so der Bundesgerichtshof weiter - der Erwerb des Fahrzeugs auch nach der Verkehrsanschauung unvernünftig und damit für den Kläger nachteilig, die Brauchbarkeit des Fahrzeugs mithin nicht nur aus rein subjektiv willkürlicher Sicht des Klägers eingeschränkt. Der Schaden liege in der Belastung mit einer ungewollten Verbindlichkeit, da ein wegen Rückrufs potentiell nicht im Straßenverkehr nutzbares Fahrzeug für den Käufer nicht den Wert eines voll gebrauchsfähigen Wagens habe.Anders als in den Fällen des Motors EA 189-Fällen ist indes vorliegend ein verpflichtender Rückruf zur Installation eines Updates gerade nicht erfolgt. Soweit es bei dem Motortyp EA 288 vereinzelt zu Rückrufen gekommen ist, ist das Fahrzeug des Klägers hiervon unstreitig nicht betroffen (gewesen). Der Kläger hat sein Fahrzeug nicht nur tatsächlich, sondern auch rechtlich ohne Einschränkungen nutzen können und kann dies auch weiterhin. Angesichts der innerhalb eines Zeitraums von fünf Jahren wiederholten Überprüfung von Fahrzeugen mit dem Motortyp EA 288 des VW-Konzerns durch das Kraftfahrbundesamt und dem Umstand, dass - anders als bei EA 189 - alle Elemente der Motorsteuerung dem Kraftfahrtbundesamt (spätestens) bei den nachfolgenden Überprüfungen offen gelegt worden sind, wären indes weitere Ausführungen des Klägers dazu erforderlich, warum er auch jetzt noch befürchten sollte, von Nachteilen wie der Stilllegung des Fahrzeugs, einem Fahrverbot oder wirtschaftlichen Nachteilen betroffen zu sein. An einer solchen Darlegung fehlt es indes.Der nachgelassene Schriftsatz der Beklagten vom 16.12.2021 (Bl. 1415 d.A.) gibt ebenso wenig Anlass zur Wiedereröffnung der mündlichen Verhandlung wie das - nicht nachgelassene - weitere Vorbringen des Klägers im Rahmen seiner Stellungnahme zum Protokollberichtigungsantrag durch Schriftsatz vom 28.12.2021 (Bl. 2006 d.A.).Die prozessualen Nebenentscheidungen beruhen auf §§ 97 Abs. 1, 708 Nr. 10, 711 ZPO.Anlass für eine Zulassung der Revision besteht nicht. Dem Rechtsstreit kommt keine grundsätzliche Bedeutung zu; es handelt sich vielmehr um einen Streit, dessen Tragweite sich im konkreten Einzelfall erschöpft. Ob die Voraussetzungen für eine Haftung wegen einer unzulässigen Abschalteinrichtung vorliegen, ist eine tatrichterliche Frage der Würdigung des jeweiligen Sachverhalts und nicht Gegenstand einer grundsätzlichen Klärung des Bundesgerichtshofs, der diese Voraussetzungen bereits hinreichend geklärt hat (BGH, Beschl. v. 13.10.2021 - VII ZR 179/21). Auch die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung erfordern keine Entscheidung des Berufungsgerichts durch Urteil; die von dem Kläger angeführten Entscheidungen geben keinen Anlass zu einer anderen Beurteilung, weil schon die Vergleichbarkeit des Parteivortrages nicht feststeht und selbst eine abweichende Würdigung des Sachverhalts keine Revisionszulassung rechtfertigen würde (BGH, Beschl. v. 13.10.2021 - VII ZR 99/21).Streitwert für das Berufungsverfahren: 25.097,49 €
+			
+			
+			
+			Permalink: https://openjur.de/u/2485775.html (https://oj.is/2485775)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate9
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

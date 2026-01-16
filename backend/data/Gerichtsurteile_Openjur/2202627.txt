@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungUrteil vom 07.11.2019 - 7 U 131/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Urteil vom 07.11.2019 - 7 U 131/19
+                      m. Fundstelle
+                      OLG Köln, Urteil vom 07.11.2019 - 7 U 131/19 = openJur 2020, 6562
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Urteil vom 07.11.2019 - 7 U 131/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 6562
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 15 O 385/17
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das Urteil des Einzelrichters der 15. Zivilkammer des Landgerichts Bonn vom 03.05.2019, Az: 15 O 385/17, wird zurückgewiesen.Die Kosten des Rechtsmittels hat der Kläger zu tragen.Das Urteil ist vorläufig vollstreckbar. Der Kläger kann die Vollstreckung gegen Sicherheitsleistung in Höhe von 110 % des auf Grund des Urteils vollstreckbaren Betrages abwenden, wenn nicht die Beklagte zuvor Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrages leistet.Die Revision wird nicht zugelassen.Der Streitwert wird auf bis zu 30.000,00 EUR festgesetzt.  
+				Gründe
+				I.Der Kläger macht gegen die Beklagte als Herstellerin des streitgegenständlichen Pkw A 2.0 TDI Schadensersatzansprüche im Zusammenhang mit dem sogenannten Diesel-Abgasskandal geltend.Der von der Beklagten hergestellte A 2.0 TDI wurde am 12.09.2014 erstmals zugelassen. Er ist mit einem 2,0 Liter Dieselmotor der Baureihe EA 189 ausgestattet. In dem Motor dieses Pkw setzte die Beklagte eine Software ein, die zwei unterschiedliche Betriebsmodi zur Steuerung der Abgasrückführung kannte, und zwar einen hinsichtlich des Stickoxidausstoßes optimierten Betriebsmodus 1 mit einer verhältnismäßig hohen Abgasrückführungsrate sowie einen Betriebsmodus 0 mit einer erheblich geringeren Abgasrückführungsrate. Dabei konnte die Motorsteuerung erkennen, ob das Fahrzeug auf einem technischen Prüfstand zur Ermittlung der Emissionswerte eingesetzt wurde oder ob es im Straßenverkehr betrieben wurde und schaltete bei einer Prüfung der Emissionen auf dem Prüfstand in den Modus 1. Auf diese Art und Weise wurde sichergestellt, dass bei der Prüfung der betreffenden Fahrzeuge nach den gesetzlich vorgesehenen Maßgaben der Euro-5 Abgasnorm geringere Stickoxidemissionen gemessen wurden und dementsprechend die Stickoxidgrenzwerte im Laborbetrieb eingehalten wurden. Dagegen schaltete die Motorsteuerung in den Modus 0, wenn das Fahrzeug im Straßenverkehr eingesetzt wurde.Am 22.09.2015 veröffentlichte die Beklagte eine Adhoc-Mitteilung, in der sie über die Dieselthematik informierte. Darin hieß es unter anderem: "Volkswagen treibt die Aufklärung von Unregelmäßigkeiten einer verwendeten Software bei Dieselmotoren mit Hochdruck voran... Auffällig sind Fahrzeuge mit Motoren vom Typ EA 189...Bei diesem Motortyp wurde eine auffällige Abweichung zwischen Prüfstandswerten und realem Fahrbetrieb festgestellt."Im direkten Anschluss an diese Adhoc-Mitteilung der Beklagten wurde die Dieselthematik in einer breiten Öffentlichkeit diskutiert und in Presse, Funk und Fernsehen ausführlich hierzu berichtet. In einer Presserklärung vom 16.12.2015 teilte die Beklagte u. a. Folgendes mit:"Der Volkswagen Konzern hat dem KBA die konkreten technischen Maßnahmen für die betroffenen EA 189-Motoren mit 1,2, 1,6 und 2,0 Liter Hubraum vorgestellt. Nach intensiven Prüfungen hat das KBA alle Maßnahmen vollumfänglich bestätigt. Damit stehen für alle betroffenen Fahrzeuge die Abhilfemaßnahmen fest." Weiter heißt es in der Presserklärung: "Nach der Umsetzung erfüllen die Fahrzeuge die jeweils gültigen Abgasnormen, mit dem Ziel, dies ohne Beeinträchtigung der Motorleistung, des Verbrauchs und der Fahrleistungen zu erreichen."Der Kläger erwarb das Fahrzeug als Gebrauchtwagen mit einer Laufleistung von 24.500 km von der Autohaus B GmbH in C am 21.01.2016 zu einem Kaufpreis von 28.990,01 Euro. Bei Abschluss des Kaufvertrages hatte der Kläger Kenntnis vom Verbau der beanstandeten Software.In der ersten Jahreshälfte 2017 ließ der Kläger das Softwareupdate bei dem Fahrzeug durchführen. Mit Schreiben seiner Prozessbevollmächtigten vom 14.09.2017 forderte der Kläger die Beklagte zur Rückzahlung des Kaufpreises unter Rückgabe des Fahrzeugs auf. Dabei berief er sich darauf, von dem Einbau der Abschalteinrichtung bei Ankauf des Fahrzeuges keine Kenntnis gehabt zu haben. Eine Rückabwicklung lehnte die Beklagte mit Schreiben vom 27.11.2017 ab.Zum Zeitpunkt der letzten mündlichen Verhandlung erster Instanz hatte das Fahrzeug einen Kilometerstand von 82.804 km, am 17.10.2019, dem Tag der mündlichen Verhandlung vor dem Senat, einen solchen von 101.805 km.Der Kläger hat sich nicht der Musterfeststellungsklage gegen die Beklagte angeschlossen.Der Kläger hat den von ihm geltend gemachten Schadensersatzanspruch vor allem auf § 826 BGB gestützt. Entgegen seiner vorprozessualen Darstellung und den Ausführungen in der Klageschrift hat er in der Replik zwar eingeräumt, vom Einbau der unzulässigen Software bei Ankauf des Fahrzeuges Kenntnis gehabt zu haben. Eine Haftung der Beklagten sei jedoch deshalb gegeben, weil der Kläger berechtigt davon ausgegangen sei, ein Fahrzeug erworben zu haben, welches zwar nicht im Zeitpunkt seiner Übergabe, aber spätestens mit dem nachfolgend aufgespielten Softwareupdate den gesetzlichen Vorschriften entspreche und mangelfrei sei. Von dem Umstand, dass das angebotene Softwareupdate zwar die illegale Abschalteinrichtung beseitigen, jedoch zu weiteren, vermutlich unbehebbaren Mängeln führen werde, habe der Kläger bei Ankauf des Fahrzeugs keine Kenntnis gehabt. Bei Kenntnis dieser Umstände hätte er das Fahrzeug nie gekauft. Unter Berücksichtigung eines Gebrauchsvorteils von 6.061,07 Euro hat der Kläger erstinstanzlich einen Schadensersatzbetrag von 25.571,54 Euro zuzüglich kapitalisierter Zinsen in Höhe von 4.492,97 Euro errechnet und diese zunächst klageweise geltend gemacht. Wegen der Berechnung im Einzelnen wird auf den Schriftsatz vom 08.10.2018 (Bl. 264 f. GA) Bezug genommen.Der Kläger hat beantragt,die Beklagte zu verurteilen, an ihn 25.571,54 Euro nebst ausgerechneter Zinsen in Höhe von 4.492,97 Euro sowie weitere Zinsen aus 28.990,01 Euro in Höhe von 4 % pro Jahr seit dem 01.10.2018 Zug um Zug gegen Übergabe und Übereignung des Fahrzeuges A 2.0 TDI AT DSG 4 x 4 mit der Fahrzeugidentifikationsnummer D zu zahlen;festzustellen, dass sich die Beklagte mit der Annahme des in Ziffer 1 genannten Fahrzeuges seit dem 27.11.2017 in Annahmeverzug befindet;die Beklagte zu verurteilen, an den Kläger vorgerichtliche nicht anrechenbare Rechtsanwaltskosten in Höhe von 794,03 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklagte hat beantragt,die Klage abzuweisen.Sie hat die Auffassung vertreten, es fehle schon an einer Täuschung bzw. vorsätzlichen sittenwidrigen Schädigung seitens der Beklagten, da der Kläger Kenntnis von der streitgegenständlichen Software gehabt habe.Das Landgericht hat die Klage mit Urteil vom 03.05.2019, Az: 15 O 385/17, auf das wegen des weiteren erstinstanzlichen Sachvortrags der Parteien und der Begründung im Einzelnen Bezug genommen wird, abgewiesen.Hiergegen wendet sich der Kläger mit seiner Berufung.Er behauptet nunmehr ohne jede weitere Erläuterung erneut, er habe von dem Verbau der Umschaltsoftware im Zeitpunkt des Kaufvertragsabschlusses keine Kenntnis gehabt. Hierzu wiederholt und vertieft er seinen erstinstanzlichen Sachvortrag.Der Kläger beantragt,das am 03.05.2019 verkündete und am 08.05.2019 zugestellte Urteil des Landgerichts Bonn, Az. 15 O 385/17, wie folgt abzuändern:1. Die Beklagte wird verurteilt, an den Kläger 25.571,54 Euro nebst ausgerechneter Zinsen in Höhe von 4.492,97 Euro sowie weitere Zinsen aus 28.990,01 Euro in Höhe von 4 % pro Jahr seit dem 01.10.2018 Zug um Zug gegen Übergabe und Übereignung des Fahrzeuges A 2.0 TDI AT DSG 4 x 4 mit der Fahrzeugidentifikationsnummer D zu zahlen;2. Es wird festgestellt, dass sich die Beklagte mit der Annahme des in Ziffer 1 genannten Fahrzeuges seit dem 27.11.2017 in Annahmeverzug befindet;3. Die Beklagte wird verurteilt, an den Kläger vorgerichtliche nicht anrechenbare Rechtsanwaltskosten in Höhe von 794,03 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklagte beantragt,die Berufung zurückzuweisen.Sie verteidigt das angefochtene Urteil aus den ihrer Auffassung nach zutreffenden Gründen.In der mündlichen Verhandlung vor dem Senat haben die Parteien übereinstimmend den Rechtsstreit im Hinblick auf den sich aus dem aktuellen Kilometerstand von 101.805 km ergebenden weiteren Nutzungsvorteil des Klägers für erledigt erklärt und insoweit wechselseitige Kostenanträge gestellt.II.Die Berufung des Klägers hat in der Sache keinen Erfolg. Zu Recht und mit zutreffender Begründung hat das Landgericht die Klage abgewiesen.Soweit der Kläger nunmehr in der Berufungsbegründung erneut behauptet, er habe beim Fahrzeugkauf keine Kenntnis von dem Einbau der Manipulationssoftware gehabt (vergleiche Seite 3 der Berufungsbegründung vom 05.07.2019, Bl. 357 GA), kann er mit dieser Behauptung nicht gehört werden. Sie steht in Widerspruch zu seinem Vortrag in 1. Instanz, in dem er ausdrücklich zugestanden hat, dass er bei Abschluss des Kaufvertrages am 10.06.2016 Kenntnis vom Verbau der Manipulationssoftware hatte (vergleiche Schriftsatz vom 05.06.2018, Bl. 172 GA). Entsprechend findet sich auch im unstreitigen Tatbestand des angefochtenen Urteils die Feststellung, dass der Kläger "bei Abschluss des Kaufvertrages (...) Kenntnis vom Verbau der Betrugssoftware" hatte (vergleiche Seite 3 des angefochtenen Urteils, 2. Absatz, Bl. 333 GA). Einen Tatbestandsberichtigungsantrag hat der Kläger nicht gestellt. Der Senat ist dementsprechend gemäß § 529 ZPO an diese erstinstanzlich ohne Rechtsfehler festgestellte Tatsache gebunden und hat sie seiner Entscheidung zugrundezulegen.Hatte der Kläger jedoch im Zeitpunkt des Erwerbs des streitgegenständlichen Kraftfahrzeuges Kenntnis von dem Inverkehrbringen des Fahrzeugs bzw. des darin verbauten Motors mit der Manipulationssoftware, fehlt es jedenfalls an der erforderlichen Kausalität einer Täuschungshandlung der Beklagten für den Erwerb des streitgegenständlichen Kraftfahrzeuges durch den Kläger.Gleiches gilt im Hinblick auf das Inverkehrbringen des Fahrzeugs bzw. des in ihm verbauten Motors für alle weiteren vom Kläger angeführten Anspruchsgrundlagen, weil es auch insoweit an der stets erforderlichen Kausalität etwaiger deliktischer Handlungen der Beklagten für seine Kaufentscheidung fehlt.Soweit sich der Kläger erstinstanzlich weiterhin darauf berufen hat, er habe zwar Kenntnis von dem Verbau der Manipulationssoftware gehabt, sei jedoch aufgrund der Presseerklärung der Beklagten vom 16.12.2015 noch berechtigt davon ausgegangen, ein Fahrzeug erworben zu haben, welches zwar nicht im Zeitpunkt seiner Übergabe, aber spätestens mit dem nachfolgend aufgespielten Softwareupdate dann den gesetzlichen Vorschriften entspreche und mangelfrei sei, verhilft auch dies seiner Klage nicht zum Erfolg.Der Senat schließt sich insoweit vollumfänglich den Erwägungen des 19. Zivilsenates im Urteil vom 05.07.2019, Az. 19 U 50/19, an, in welchem dieser wie folgt ausgeführt hat:"Entgegen der Auffassung des Klägers begründet auch die Pressemitteilung der Beklagten vom 16.12.2015, in der sie die Umsetzung des Softwareupdates ankündigt, keine arglistige Täuschung, so dass auch insoweit keine Schädigungshandlung im Sinne des § 826 BGB vorliegt. Die positive Erregung des Irrtums durch falsche oder irreführende (insbesondere bewusst unvollständige) Angaben setzt voraus, dass vom Verhandlungspartner erfragte oder auch spontan geäußerte objektiv nachprüfbare Angaben über gegenwärtige oder zukünftige Tatsachen gemacht werden. Auch konkludente Behauptungen können täuschende Angaben sein. Die Angaben müssen nicht objektiv falsch sein; vielmehr genügt es, dass sie irreführend sind (MüKoBGB/Armbrüster, 8. Aufl. 2018, BGB § 123 Rn. 29). Solche Angaben der Beklagten zu ihrem Softwareupdate liegen selbst unter Zugrundelegung der klägerischen Behauptung, das Softwareupdate habe nachteilige Folgen für den Motor, nicht vor. Die Hauptaussage der Pressemitteilung, dass das Softwareupdate in Kürze nach und nach aufgespielt werde und dazu führe, dass die Abgasnormen eingehalten würden, ist in der Sache zutreffend. Soweit die Beklagte ferner mitteilt, das Ziel zu verfolgen, dies ohne Beeinträchtigung der Motorleistung, des Verbrauchs oder der Fahrleistungen zu erreichen, liegt darin gerade nicht die Behauptung der (zukünftigen) Tatsache, dass dies auch tatsächlich so sein wird. Denn es ist ein - langläufig bekannter und nicht nur semantischer - Unterschied, ob erklärt wird, ein Ziel zu verfolgen, oder ob behauptet wird, dieses Ziel auch in Zukunft zu erreichen."Mangels Bestehens eines Zugum-Zug zuzusprechenden Hauptanspruchs hat die Berufung des Klägers auch in Bezug auf den Feststellungsantrag mit Blick auf den Annahmeverzug sowie die geltend gemachten Nebenansprüche keinen Erfolg.III.Die prozessualen Nebenentscheidungen beruhen auf §§ 97 Abs. 1, 91 a, 708 Nr. 10, 711 ZPO.Der Kläger hat gemäß § 91 a ZPO auch die auf den von den Parteien übereinstimmend für erledigt erklärten Teil der Hauptsache entfallenden Kosten zu tragen. Wie sich aus den vorstehenden Ausführungen ergibt, wäre er auch insoweit in der Hauptsache unterlegen.Der Zulassung der Revision bedurfte es nicht. Die vorliegende Rechtssache hat weder grundsätzliche Bedeutung noch erfordert die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Revisionsgerichts, § 543 Abs. 2 ZPO. Der Senat hat den Rechtsstreit aufgrund allgemein anerkannter Rechtsgrundsätze allein aufgrund der Besonderheiten des Einzelfalls entschieden.
+			
+			
+			
+			Permalink: https://openjur.de/u/2202627.html (https://oj.is/2202627)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

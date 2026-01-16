@@ -1,0 +1,157 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteThüringenOrdentliche GerichtsbarkeitLG ErfurtRechtsprechungBeschluss vom 15.06.2020 - 8 O 1045/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Erfurt, Beschluss vom 15.06.2020 - 8 O 1045/18
+                      m. Fundstelle
+                      LG Erfurt, Beschluss vom 15.06.2020 - 8 O 1045/18 = openJur 2020, 31202
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Erfurt, Beschluss vom 15.06.2020 - 8 O 1045/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 31202
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+				
+					
+						Europarecht Öffentliches Recht Zivilrecht 
+						
+					
+				
+
+			
+			
+			
+			
+				 
+					
+				document.addEventListener('DOMContentLoaded', function () {
+				  document.getElementById('togglerubrum')
+				          .addEventListener('click', function toggleRubrum() { var tb = document.getElementById('rubrumToggleButton'); tb.classList.toggle('fa-plus-square'); tb.classList.toggle('fa-minus-square'); });
+				});
+				 Rubrum
+				
+				 
+				 In dem Rechtsstreit... A..., G..., E...- Klägerin -Prozessbevollmächtigte:Rechtsanwälte ..., ..., ..., Gz.: ...gegenB... AG, vertreten durch d. Vorstand, B..., W...- Beklagte -Prozessbevollmächtigte:Rechtsanwälte ... LLP, ..., ...wegen Schadensersatzes aus „Abgasskandal“hat die 8. Zivilkammer des Landgerichts Erfurt durch Richter am Landgericht Dr. B...als Einzelrichter am 15.06.2020beschlossen:
+				 
+				
+				Tenor
+				I. Das Verfahren wird ausgesetzt.II. Dem Gerichtshof der Europäischen Union werden nach Art. 267 AEUV folgende Fragen zur Vorabentscheidung vorgelegt:1. Gebietet es das Recht der Union, insbesondere der Effektivitätsgrundsatz und die europäischen Grundrechte, im Falle eines Verstoßes des Herstellers eines Fahrzeuges oder Motors gegen das europäische Zulassungsrecht und gegen europäische Abgasnormen keine Anrechnung der tatsächlichen Nutzung des Fahrzeuges auf den Schaden des Käufers vorzunehmen? Gilt ein solches Abzugsverbot jedenfalls für den Fall, dass ein Hersteller den Kunden sittenwidrig vorsätzlich schädigt?2. Handelt es sich bei dem vorlegenden Gericht um ein unabhängiges und unparteiisches Gericht im Sinne von Art. 267 AEUV in Verbindung mit Art. 19 Abs. 1 S. 3 EUV sowie Art. 47 Abs. 2 der Charta der Grundrechte der Europäischen Union?  
+				Gründe
+				A. Sachverhalt und AusgangsverfahrenDer Ausgangsrechtsstreit gehört zu den zahlreichen „Dieselfällen“, in denen europaweit Schadensersatz gegen Hersteller von Fahrzeugen oder Motoren geltend gemacht wird, die eine unzulässige Abschalteinrichtung aufweisen.Die Klägerin erwarb am 2. Juni 2012 von einem Autohändler einen neuen Pkw Typ SEAT Ibiza 1,6 L TDI. Das Fahrzeug verfügt über einen von der Beklagten stammenden Dieselmotor des Typs EA 189, Schadstoffnorm Euro 5. Dieser Motor ist mit einer Steuerungssoftware ausgestattet, die den Stickoxidausstoß auf dem Prüfstand gegenüber dem normalen Fahrbetrieb reduziert.Die Übergabe an die Klägerin und Erstzulassung erfolgten am 20. Juli 2012, nach Zahlung des Kaufpreises in Höhe von 21.000,00 € brutto. Im Zuge einer „Rückrufaktion“ ließ die Klägerin am 25. Juni 2018 ein sog. Software-Update durchführen. Sie erhob im September 2018 Klage und verlangt Zahlung von 21.000,00 €, d.h. in Höhe des ungeschmälerten Kaufpreises, und Zinsen bereits seit dem 20. Juli 2012, dies Zug-um-Zug gegen Rückgabe des Fahrzeuges.B. Vorlagefragen und EntscheidungserheblichkeitI. Zur ersten Vorlagefrage1. Die deutsche Rechtslage ist in Fällen wie hier weitgehend geklärt. Der Bundesgerichtshof bejaht in einem Grundsatzurteil vom 25. Mai 2020 die Haftung der Beklagten aus § 826 BGB, d.h. wegen sittenwidriger vorsätzlicher Schädigung (BGH, Urteil vom 25. Mai 2020, VI ZR 252/19, juris). Dabei geht er von einer unzulässigen Abschalteinrichtung nach Art. 5 Abs. 2 S. 1 VO 715/2007/EG aus (s. auch Schlussanträge der Generalanwältin E. Sharpston vom 30. April 2020, C-693/18, www.curia.europa.eu).a) Diese Haftung des Herstellers eines Fahrzeuges oder Motors führt zu einer „Rückabwicklung“. Der geschädigte Käufer kann vom Hersteller die Zahlung von Schadensersatz verlangen, Zug um Zug gegen Rückgabe des Fahrzeuges. Dabei ist von dem ursprünglich bezahlten Kaufpreis als Schaden auszugehen.b) Streitig und noch nicht abschließend geklärt ist die konkrete Höhe des Schadensersatzes. Hier geht es um zwei wirtschaftlich im Mittelpunkt stehende Fragen, nämlich ob und inwieweit einerseits die tatsächliche Nutzung des Fahrzeuges durch den Käufer schadensmindernd zu berücksichtigen ist, und andererseits, ob und inwieweit, insbesondere ab welchem Zeitpunkt die vom Hersteller zu zahlende Schadenssumme zu verzinsen ist.c) Der Bundesgerichtshof möchte die zwischenzeitlich erfolgte tatsächliche Nutzung („gefahrene Kilometer“) schadensmindernd anrechnen, d.h. vom Kaufpreis - im Wege einer Saldierung - in Abzug bringen (BGH, Urteil vom 25. Mai 2020, VI ZR 252/19, juris Rn. 64 ff.).Dies ist nach deutschem Recht keineswegs zwingend; beachtliche Argumente sprechen dagegen (siehe den Überblick bei Michael Heese, Projekt "Dieselskandal“, abrufbar unter www.uni-regensburg.de/rechtswissenschaft/buergerliches-recht/heese/projekt-dieselskandal/index.html). Insbesondere muss ein Ausgleich etwaiger Vorteile – hier eine tatsächliche Nutzung des Fahrzeuges – dem Geschädigten zumutbar sein, und der Schädiger darf nicht unangemessen entlastet werden (ständige Rechtsprechung, s. nur BGH, Urteil vom 30. September 2014, X ZR 126/13, juris Rn. 14).d) Das vorlegende Gericht hat entscheidungserhebliche Zweifel daran, dass ein solcher Abzug dem Effektivitätsgrundsatz des Unionsrechts und dem Gebot, die Grundrechte und Grundsätze der Charta der Grundrechte der Europäischen Union zu optimieren (Art. 51 Abs. 1 S. 2 GRC), gerecht wird. Zudem dürfte eine Saldierung von Vor- und Nachteilen aufgrund analoger Anwendung der Vorschriften zum Verbrauchsgüterkauf ausscheiden.aa) Der unionsrechtliche Effektivitätsgrundsatz verlangt, dass die Anwendung nationalen Rechts die Ausübung der vom Unionsrecht gewährten Rechte und Ansprüche weder vereitelt noch übermäßig erschwert (vgl. Art. 47 GRC, Art. 19 EUV). Auch die vom Unionsrecht verfolgten Zwecke dürfen nicht vereitelt oder übermäßig erschwert werden.Die vom europäischen Zulassungs- und Emissionsrecht verfolgten Ziele und Zwecke erlangen nur dann praktische Wirksamkeit, wenn begangene Verstöße sanktioniert und künftige verhindert werden (s. auch Art. 46 RL 2007/46/EG). Es bedarf einer wirksamen Sanktion mit abschreckender Wirkung, um die Ziele einer hohen Verkehrssicherheit, eines hohen Gesundheits- und Umweltschutzes, einer rationellen Energienutzung, eines wirksamen Schutzes vor unbefugter Benutzung und ggf. des Verbraucherschutzes zu gewährleisten. Dies haben die nationalen Gerichte zu beachten (vgl. EuGH, Urteil vom 3. Oktober 2013, C-32/12).Beides – Sanktionierung wie Präventionswirkung – erscheint jedoch in Frage gestellt, wenn sich Rechtsverletzungen „rechnen“, d.h. weitgehend risikolos begangen werden können. Die vom Bundesgerichtshof vorgenommene Saldierung könnte aus unionsrechtlicher Sicht zu einer unbilligen Entlastung des Schädigers führen. Durch den Zeitablauf kommt eine Vorteilsausgleichung nämlich zunehmend den Herstellern zu Gute, während die geschädigten Käufer unzumutbar belastet werden können. Mithin könnte ein starker Anreiz entstehen, die Rechtsverletzung gleichwohl zu begehen und die Anspruchserfüllung ungehörig zu verzögern.Jedenfalls führt eine zunehmende Verfahrensdauer zu einem immer geringeren „Schaden“. Vor deutschen Gerichten gab es bereits Fälle, in denen der nach den hierfür geltenden Maßstäben errechnete Nutzungsvorteil den ursprünglichen Kaufpreis überstieg. Hier gibt es im Ergebnis keinen, zu ersetzenden Schaden mehr. Auch im Ausgangsfall würde sich eine erhebliche Reduzierung der von der Beklagten gegen Herausgabe des Fahrzeuges zu zahlenden Schadenssumme ergeben. Bereits zum Zeitpunkt der Klageerhebung im September 2018 soll die Klägerin rund 130.000 km zurückgelegt haben, was zum Abzug von 9.000,00 € führte.bb) Wie der Effektivitätsgrundsatz könnten auch die unionalen Grundrechte einer Berücksichtigung der tatsächlich erfolgten Nutzung entgegenstehen (zur grundrechtlichen Dimension s. bereits Hinweisbeschluss vom 25. März 2019, Az.: 8 O 1045/18, juris Rn. 74 ff.).Der Anwendungsbereich der Grundrechtecharta ist vorliegend eröffnet, d.h. sie bindet und verpflichtet die Europäische Union sowie deren Mitgliedstaaten (Art. 51 Abs. 1 GRC). DieAnwendbarkeit des Unionsrechts - hier des Zulassungsrechts - umfasst und bedingt nämlich die Anwendbarkeit der durch die Charta garantierten Grundrechte (EuGH, Urteil vom 26. Januar 2013, C-617/10, Rn. 21).In materieller Hinsicht sind vor allem das Recht auf Leben (Art. 2 Abs. 1 GRC) und das Recht auf körperliche und geistige Unversehrtheit (Art. 3 Abs. 1 GRC) - als „ökologisches Menschenrecht“ - einschlägig. Diese fundamentalen Rechte entfalten aufgrund ihrer engen Verbindung zur Würde des Menschen in Art. 1 der Charta eine unmittelbare Drittwirkung oder Horizontalwirkung. Sie beanspruchen somit Bindungswirkung zwischen Privaten in einem Zivilrechtsstreit (vgl. EuGH, Urteil vom 17. April 2018, C-414/16, Rn. 76 ff.). Weiter treten die Grundsätze des Gesundheitsschutzes in Art. 35 GRC, des Umweltschutzes in Art. 37 GRC und des Verbraucherschutzes in Art. 38 GRC hinzu. Alle diese Grundrechte und Grundsätze bringen weitreichende Schutzpflichten mit sich, die von den Gerichten zu beachten sind (s. auch Gerechtshof Den Haag, Urteil vom 9. Oktober 2018, 200178.245/01).cc) Schließlich könnten die Wertungen aus dem Recht des Verbrauchsgüterkaufs (RL 1999/44/EG) auf den vorliegenden Fall zu übertragen sein. So ist es dem Verkäufer, der ein vertragswidriges Verbrauchsgut geliefert hat, nicht gestattet, vom Verbraucher Wertersatz für die Nutzung des vertragswidrigen Verbrauchsguts bis zu dessen Austausch durch ein neues Verbrauchsgut zu verlangen (EuGH, Urteil vom 17. April 2008, C-404/06).e) Hat eine Saldierung jedenfalls dann zu unterbleiben, wenn – wie im vorliegenden Fall – der Hersteller die Käufer vorsätzlich und in sittenwidriger Weise geschädigt hat? Der Bundesgerichtshof hat hierzu festgestellt, dass die Beklagte im Rahmen einer von ihr bei der Motorenentwicklung getroffenen strategischen Entscheidung, die Typgenehmigung durch arglistige Täuschung des Kraftfahrt-Bundesamtes zu erschleichen und die derart bemakelten Fahrzeuge in Verkehr bringen zu lassen, die Arglosigkeit und das Vertrauen der Fahrzeugkäufer gezielt ausnutzte (BGH, Urteil vom 25. Mai 2020, VI ZR 252/19, juris Rn. 16 ff.). Dahinter soll das Interesse an einer Kostensenkung, Gewinnmaximierung und an Wettbewerbsvorteilen gestanden haben.f) Es stellt sich abschließend die Frage, gerade wenn die tatsächliche Nutzung des Fahrzeuges schadensmindernd berücksichtigt werden dürfte, ob dem Effektivitätsgrundsatz und den unionalen Grundrechten dadurch Genüge getan würde, dass – gewissermaßen zum Ausgleich – der tatsächlich zugesprochene Schadensersatz in spürbarer Weise zu verzinsen wäre.Das deutsche Recht stellt Vorschriften zur Verfügung, nach denen nicht nur Prozesszinsen zu zahlen sind, d.h. Zinsen ab Rechtshängigkeit (§ 291 BGB), sondern – zeitlich vorgelagert – ab dem Verzug des Schädigers mit der Ersatzleistung (§§ 286, 288 BGB), oder, noch weitergehend,  ab der Zahlung des Kaufpreises (§§ 849, 246 BGB).2. Die Antwort des Gerichtshofes und seine Unterweisung zur ersten Frage und zu sämtlichen damit verbundenen Gesichtspunkten sind entscheidungserheblich und für die Beteiligten von erheblicher wirtschaftlicher Bedeutung. Im Ausgangsverfahren verlangt die Klägerin Schadensersatz in Höhe des von ihr gezahlten Kaufpreises, d.h. ungeschmälert, ohne jeden Abzug für die von ihr gefahrenen Kilometer. Weiter fordert sie - gestützt auf § 849 BGB - Zinsen seit dem 20. Juli 2012 und somit dem Tag der Zahlung des Kaufpreises.II. Zur zweiten Vorlagefrage1. Das vorlegende Thüringer Zivilgericht teilt die Bedenken und Zweifel des Verwaltungsgerichts Wiesbaden mit Blick auf die institutionelle Unabhängigkeit und Vorlageberechtigung der deutschen Gerichte nach Art. 267 AEUV (Az.: 6 K 1016/15.WI, juris, auch abrufbar über www.dejure.org oder www.openjur.de). Auf die Vorlage des Verwaltungsgerichts Wiesbaden vom 28. März 2019 und das vor dem Europäischen Gerichtshof anhängige Verfahren (Az.: C-272/19, www.curia.europa.eu) wird Bezug genommen.a) Der Gerichtshof hatte wiederholt Gelegenheit, die grundlegenden Normen der Art. 19 EUV und Art. 47 GRC zur richterlichen Unabhängigkeit auszulegen und anzuwenden. Zudem präzisierte er die Anforderungen an das Vorlageverfahren nach Art. 267 AEUV. Es ist kein Grund dafür ersichtlich, bei Art. 267 AEUV andere Maßstäbe anzulegen als für Art. 19 EUV und Art. 47 GRC. Der Gerichtshof geht zu Recht von einem engen Zusammenhang dieser grundlegenden Normen des Unionsrechtes aus (vgl. EuGH, Urteil vom 25. Juli 2018, C-216/18, Rn. 54, sowie EuGH, Urteil vom 27. Februar 2018, C-64/16, Rn. 38, 41 ff., und EuGH, Urteil vom 16. Februar 2017, C-503/15, Rn 36 ff.).Es spricht zudem viel dafür, dass die Maßstäbe, die der Gerichtshof zur „völligen Unabhängigkeit“ von Datenschutzbehörden aufgestellt hat (EuGH, Urteil vom 9. März 2010, C-518/07), erst recht für Gerichte gelten, die zur umfassenden Grundrechtsverwirklichung berufen sind.b) Nach ständiger Rechtsprechung des Gerichtshofes muss ein Gericht seine Funktionen in völliger Autonomie ausüben können, ohne mit irgendeiner Stelle hierarchisch verbunden oder ihr untergeordnet zu sein und ohne von irgendeiner Stelle Anordnungen oder Anweisungen zu erhalten (s. nur EuGH, Urteil vom 16. Februar 2017, C-503/15, Rn. 36 ff.). Nur so sind die Richter vor Interventionen oder Druck von außen geschützt, die die Unabhängigkeit ihres Urteils gefährden und ihre Entscheidungen beeinflussen könnten. Nur so wird bei den rechtsuchenden Menschen jeder berechtigte Zweifel an der Unempfänglichkeit der Gerichte für äußere Faktoren und an ihrer Neutralität hinsichtlich der widerstreitenden Interessen ausgeräumt.c) Die nationale Verfassungslage in Deutschland und Thüringen wird diesen Anforderungen nicht gerecht (zur fehlenden Unabhängigkeit der deutschen Staatsanwaltschaft s. bereits EuGH, Urteil vom 27. Mai 2019, C-508/18 u.a.). Sie kennt nur eine funktionale richterliche Unabhängigkeit im Kernbereich der richterlichen Tätigkeit, eine persönliche Unabhängigkeit. Diese reicht jedoch nicht aus, um vor jeder äußeren Einflussnahme zu bewahren. Die hierfür zudem erforderliche institutionelle Unabhängigkeit der Gerichte ist nämlich keineswegs gewährleistet. Die Unabhängigkeit des einzelnen Richters wird jedoch durch die Unabhängigkeit der Justiz als Ganzes gewährleistet.Die Thüringer Justizverfassung und das Thüringer Richterrecht entsprechen nicht den Maßstäben, die das europäische Verfassungsrecht und der Europäische Gerichtshof für die Unabhängigkeit der Gerichte aufstellen (s. nur EuGH, Urteil vom 19. November 2019, C-585/18 u.a., Rn. 121 ff., weiter EuGH, Urteil vom 24. Juni 2019, C-619/18, sowie EuGH, Urteil vom 25. Juli 2018, C-216/18). Im Einzelnen:aa) Organisation und Verwaltung der Gerichte liegen in Thüringen - wie in sämtlichen anderen deutschen Ländern - in der Hand der Exekutive, die die Gerichte überwölbt und personell wie materiell steuert. Die Justizministerien entscheiden über die Planstellen und die Anzahl der Richter an einem Gericht sowie die materielle Ausstattung der Gerichte. Zudem werden die Richter von den Justizministern ernannt und befördert. Die zugrunde liegende Beurteilung der Richter obliegt den Ministerien und Gerichtspräsidenten, die - bis auf eine etwaige eigene richterliche Tätigkeit - der Exekutive zuzurechnen sind. Die Justizminister und die ihnen administrativ unterstellten und weisungsgebundenen Präsidenten erweisen sich in der Praxis als Gatekeeper. Zudem üben die Präsidenten die Dienstaufsicht über sämtliche Richter aus.bb) Für Deutschland und Thüringen kennzeichnend sind zudem zahlreiche formelle und informelle Verschränkungen und personelle Verflechtungen zwischen Judikative und Exekutive. So können Richter etwa mit Geschäften der Justizverwaltung betraut werden. Bedenken begegnet insbesondere die traditionelle Praxis der Abordnung von Richtern an Landes- oder Bundesministerien. Häufig sind abgeordnete Richter jahrelang in die Hierarchie eines Ministeriums eingebunden. Auch ein mehrfacher Wechsel zwischen Ministerien und Gerichten, selbst zwischen dem Status als Richter und dem Status als Beamter, ist nicht unüblich.Der vorlegende Einzelrichter war selbst von drei solcher Abordnungen betroffen, nämlich zweimal an das Thüringer Justizministerium und zudem an die Thüringer Staatskanzlei.Diese personelle Verzahnung von Exekutive und Judikative verstößt nicht nur gegen Europarecht, sondern auch gegen die weltweit gültigen Bangalore Principles of Judicial Conduct (s. Commentary on the Bangalore Principles of Judicial Conduct, www.unodc.org, S. 36: „The  movement  back  and  forth  between  high-level  executive  and  legislative  positions and the judiciary promotes the very kind of blurring of functions that the concept of separation of powers intends to avoid.“).cc) Vor allem die informellen Praktiken erscheinen bisweilen arbiträr. Während die Gerichte nach außen Garanten der Willkürfreiheit sind, sind Richter auch aufgrund informeller Praktiken drohender Willkür und administrativem Dezisionismus ausgesetzt. Soweit in jüngerer Zeit aufgrund zunehmenden Problembewusstseins sogenannte „Interessenbekundungsverfahren“ eingeführt wurden, so auch jüngst in Thüringen, etwa für Abordnungen und Erprobungen an Obergerichte(n) oder für die Leitung von Arbeitsgemeinschaften für Rechtsreferendare, fehlt es bisher an einer Justiziabilität, d.h. an einer Einklagbarkeit.dd) Dies alles eröffnet der Exekutive die Möglichkeit, auf die rechtsprechende Gewalt in unzulässiger Weise Einfluss zu nehmen. Hierher zählen auch mittelbare, subtile und psychologische Einflussnahmen. Es besteht die reale Gefahr des „Belohnens“ oder „Abstrafens“ für ein bestimmtes Entscheidungsverhalten (vgl. BVerfG, Beschluss vom 22. März 2018, 2 BvR 780/16, juris Rn. 57, 59).ee) Die enge Verzahnung der deutschen Justiz mit der Exekutive, ihre Hierarchisierung und institutionelle Abhängigkeit gehen auf den deutschen Obrigkeitsstaat des 19. Jahrhunderts und das „Führerprinzip“ der Nationalsozialisten zurück - ein langer Schatten der Vergangenheit. Der Gesamtheit der deutschen Justizverfassungen liegt hinsichtlich der Dienstaufsicht das sogenannte Präsidentenmodell zugrunde (in der NS-Zeit sogar als Missbrauch im Sinne einer Übertragung des „Führerprinzips“ auf die Gerichte pervertiert, s. § 14 Abs. 1 Nr. 1 der Gerichtsverfassungs-Verordnung vom 20. März 1935, RGBl. 1935 I S. 403; vgl. hierzu auch Hans-Ernst Böttcher, Interview vom 2. Juli 2018, www.lto.de, sowie Wilhelm Tappert, DRiZ 2018, S. 234 ff.; kritisch Udo Schneider, BDVR-Rundschreiben 4/2018, S. 13 ff.).Der große Einfluss der Exekutive auf die Personalentscheidungen der Justiz gehört nicht zur deutschen Rechtskultur. Die aus vordemokratischer Zeit stammende Justizstruktur setzt einer politischen Instrumentalisierung keine ausreichenden Hindernisse entgegen. Es fehlt an der constitutional resilience (vgl. Thomas Groß, Die institutionelle Unabhängigkeit der Justiz in Deutschland – ein Defizitbefund, VerfBlog, 2019/6/06, www.verfassungsblog.de).ff) Die nicht nur informelle, sondern darüber hinaus institutionelle Gewaltenverschränkung in Thüringen lässt sich im Wesentlichen aus den folgenden Normen ableiten:Art. 89 Abs. 2 der Thüringer Verfassung gibt vor: Über die vorläufige Anstellung der Richter entscheidet der Justizminister, über deren Berufung auf Lebenszeit entscheidet er mit Zustimmung des Richterwahlausschusses. Gemäß Art. 89 Abs. 4 der Thüringer Verfassung bleibt die nähere Ausgestaltung dem Gesetz vorbehalten.Dementsprechend bestimmt § 3 Abs. 1 Thüringer Richter- und Staatsanwältegesetz (ThürRiStAG), dass der für Justiz zuständige Minister die Richter und Staatsanwälte ernennt und entlässt. Gemäß § 3 Abs. 2 ThürRiStAG ist das für Justiz zuständige Ministerium die oberste Dienstbehörde im Sinne dieses Gesetzes für die Richter und Staatsanwälte; nach § 3 Abs. 3 ThürRiStAG ist der für Justiz zuständige Minister auch Mitglied im Richterwahlausschuss.Über die Vergabe eines Beförderungsamtes entscheidet, wie sich aus §§ 3 und 63 ThürRiStAG ergibt, sowohl im Verfahren als auch im Ergebnis - abschließend und letztverbindlich - ebenfalls der für Justiz zuständige Minister als oberste Dienstbehörde. Gemäß § 63 Abs. 3 S. 3 ThürRiStAG kann bei der Vergabe eines Beförderungsamtes - im Dissensfall zwischen Richterwahlausschuss und Justizminister - der Minister erneut einen Bewerber vorschlagen oder die Stelle neu ausschreiben (“Vetorecht“).Weiter sind in den Landesnormen zur Ausführung der Gerichtsverfassung etliche Regelungen enthalten, die die Gewaltenverschränkung und Machtfülle der Exekutive verdeutlichen. Nach § 3 AGGVG bestimmt das für die Justiz zuständige Ministerium die Zahl der Kammern und Senate an den Gerichten. Inhaltlich entsprechende Regelungen finden sich beispielsweise für die Verwaltungsgerichtsbarkeit in § 1 Abs. 4 und § 2 AGVwGO. Die Dienstaufsicht tritt hinzu. Nach § 10 Abs. 1 AGGVG üben die Dienstaufsicht aus:1. das für Justiz zuständige Ministerium über die Gerichte der ordentlichen Gerichtsbarkeit und die Staatsanwaltschaften des Landes,2. der Präsident des Oberlandesgerichts und der Präsident des Landgerichts über die Gerichte ihres Bezirks.Dabei sind die Präsidenten selbst der Dienstaufsicht unterworfen (zu den damit verbundenen Problemen siehe bereits Günter Weist in DRiZ 1968, S.  223 ff.).gg) Die Beteiligungs- und Mitbestimmungsrechte der Richterschaft in Thüringen sind wie die zur Verfügung stehenden Rechtsbehelfe kein zureichendes Korrektiv. Zum einen wird denRichtervertretungen eine volle Mitbestimmung nach § 40 ThürRiStAG nur in eingeschränktem Umfang zugebilligt; die Mitbestimmung entspricht bei weitem nicht derjenigen der Landesbeamten.Hohe Hürden bestehen zum anderen für die arkanen Rechtsbehelfe, die bei Eingriffen in die richterliche Unabhängigkeit in Betracht kommen. Die Anrufung des Richterdienstgerichtes stellt eine erhebliche Belastung dar, mit bisweilen hohen beruflichen und sozialen Folgekosten. Es darf nicht verkannt werden, dass sich das Rechtsmittel in der Regel gegen Maßnahmen der Dienstvorgesetzten richtet, d.h. der Gerichtspräsidenten, denen das Beurteilungswesen obliegt und damit die „Steuerung“ von Beförderungen und Einsatzgebieten zukommt. Zudem ist einer Klage vor dem Richterdienstgericht in Thüringen ein aufwändiges Widerspruchsverfahren vorgeschaltet, das in der Hand der Exekutive liegt.d) Diese Defizite können in der Öffentlichkeit zu berechtigten Zweifeln daran führen, dass die deutschen Gerichte hinreichend vor Interventionen oder Druck von außen, insbesondere von Seiten der Exekutive, geschützt sind. Es können zudem berechtigte Zweifel daran aufkommen, dass die Gerichte für unmittelbare oder mittelbare Einflussnahmen von außen unempfänglich sind. Letztlich besteht auch die Gefahr einer interessengeleiteten Anwendung des Rechts, d.h. einer fehlenden Neutralität in Bezug auf die widerstreitenden Interessen der Parteien (s. zu diesen Kriterien EuGH, Urteil vom 19. November 2019, C-585/18 u.a.).e) Der Grundsatz der Trennung von Exekutive und Judikative wird auch in der Rechtsprechung des Straßburger Gerichtshofes für Menschenrechte betont. So äußerte er jüngst Zweifel an der Unabhängigkeit und Unparteilichkeit des am Oberlandesgericht Celle errichteten Notarsenats (EGMR, Urteil vom 30. Januar 2020, Nr. 29295/16, www.hudoc.echr.int). Die Tatsache, dass die Richter dieses Senats hinsichtlich ihrer Laufbahn und möglicher Disziplinarverfahren gegen sie der Verwaltungsautorität des OLG-Präsidenten unterstehen, sei geeignet, objektiv begründete Befürchtungen bei dem Antragsteller zu wecken.f) Das Verwaltungsgericht Wiesbaden hebt in praktischer Hinsicht auf solche Verfahren vor den Verwaltungsgerichten ab, in denen das jeweilige Justizministerium Beteiligter ist, so bei Beamtenstreitigkeiten oder im Streit zwischen Konkurrenten.Die Zivilgerichte entscheiden häufig in Verfahren, in denen das eigene Bundesland oder die Bundesrepublik Deutschland beteiligt sind. Dies betrifft etwa große Bauvorhaben oder die Staatshaftung. In solchen Fällen ist fraglich, ob die Gerichte aufgrund ihrer institutionellen Abhängigkeit gegenüber der Exekutive als Partei oder Beteiligte des Rechtsstreits die notwendige Eigenschaft eines neutralen „Dritten“ haben (s. zu dieser wesentlichen Anforderung an die Unabhängigkeit nur EuGH, Urteil vom 9. Oktober 2014, C-222/13, Rn. 29, und EuGH, Urteil vom 22. Dezember 2010, C-517/09, Rn. 38).Nur eine „Entflechtung“ der Justiz aus den Fesseln der Exekutive, wie sie bereits in zahlreichen anderen Mitgliedstaaten erfolgt ist, mithin die Schaffung eigenständiger, finanziell hinreichend ausgestatteter und hierarchiearmer Justizstrukturen, vermag die hohe Qualität der deutschen Rechtsprechung und ein good judging weiterhin zu gewährleisten, als Bedingung der Möglichkeit des Vertrauens in die Justiz.2. Die Vorlageberechtigung nach Art. 267 AEUV und die vom Gerichtshof ersuchte Auslegung der Art. 19 Abs. 1 S. 3 EUV, 47 Abs. 2 GRC sind entscheidungserheblich und nicht hypothetischer Natur. Sie stehen in engem und untrennbarem Zusammenhang mit dem Ausgangsverfahren und der konkreten Situation des vorlegenden Gerichts (vgl. EuGH, Urteil vom 27. Februar 2018, C-64/16, Rn. 19 ff.). Relevant sind insbesondere die folgenden tatsächlichen und rechtlichen Umstände:a) Im Ausgangsrechtsstreit hat das Gericht - als Unionsgericht - über Fragen der Anwendung und Auslegung des Unionsrechts, hier des europäischen Zulassungsrechts im Zusammenhang mit dem auch in Art. 19 EUV, 47 GRC verankerten unionalen Effektivitätsprinzip und den europäischen Grundrechten, zu entscheiden. Das Ausgangsverfahren weist einen engen Bezug zum Unionsrecht auf.b) In diesem Zusammenhang stellt sich das verfahrensrechtliche Problem, ob und unter welchen Voraussetzungen überhaupt eine Vorlageberechtigung besteht. Der Gerichtshof wird als zuständig und befugt angesehen, dem vorlegenden Gericht die Kriterien des Unionsrechtes aufzuzeigen, die zur Lösung der Frage einer Vorlageberechtigung beitragen können (vgl. EuGH, Urteil vom 19. November 2019, C-585/18 u.a., Rn. 100). Wenn der Gerichtshof zuständig und berechtigt ist, prozessuale Vorfragen bzw. Fragen zu klären, die sich auf die Auslegung von Verfahrensvorschriften des Unionsrechts beziehen, die das vorlegende Gericht zum Erlass seines Urteils anzuwenden hat (vgl. EuGH, Urteil vom 26. März 2020, C-558/18 u.a., Rn. 50), dann sollte dies erst recht für Fragen zu den notwendigen Eigenschaften des vorlegenden Gerichts gelten.c) Es besteht weiter ein enger und untrennbarer Zusammenhang zwischen den Vorlagefragen zum „Dieselskandal“ und dem Status des vorlegenden Gerichts. An der Beklagten ist der Staat in erheblicher Weise beteiligt. Angesichts der mit der deutschen Autoindustrie verbundenen wirtschaftlichen und arbeitsmarktpolitischen Interessen, gerade in den Zeiten der Pandemie, und aufgrund der schieren Masse an Verfahren ist der auf den Gerichten lastende Druck außerordentlich hoch. Es ist auch aufgefallen, dass Zivilgerichte mit einer Nähe zur Beklagten - anders als die große Mehrheit der deutschen Instanzgerichte und nunmehr der Bundesgerichtshof - die Klagen gegen die Beklagte abgewiesen haben.d) Darüber hinaus ist ein Schreiben des Präsidenten des Oberlandesgerichts Dresden vom 9. April 2020 - mit dem Betreff „Weitere Bearbeitung der sogenannten VW-Verfahren“ - von wesentlicher Bedeutung. Dieses an sämtliche Präsidenten der deutschen Oberlandesgerichte adressierte Schreiben fand in der Thüringer Justiz Verteilung und Verbreitung und erreichte auch den vorlegenden Einzelrichter.Die Anregung zur Prüfung, ob die weitere Bearbeitung und Entscheidung von Dieselverfahren „zurückgestellt“ werden kann, ist geeignet, unmittelbar Einfluss zu nehmen. Dies gilt erst recht für die in dem Schreiben deutlich zum Ausdruck kommende ablehnende Haltung gegenüber einer „Chance der vollen Rückzahlung des Kaufpreises ohne jeden Abzug für eine - auch jahrelange - Nutzung des Fahrzeugs“. Gerade hierzu verhält sich aber die erste Vorlagefrage.e) Eine zunehmend vorlagekritische Haltung in Deutschland kommt hinzu, jedenfalls soweit es um Ersuchen der Instanzgerichte geht, bis hin zu dem Ruf, die Vorlageberechtigung der Instanzgerichte zu beschneiden. So hat der scheidende Vizepräsident des Bundesverfassungsgerichts Ferdinand Kirchhof die Ansicht vertreten, die Befugnis unterinstanzlicher Gerichte zur Vorlage begünstige eine Umgehung der nachfolgenden Instanzen und tendiere zur Zersplitterung der Rechtsprechung (NJW-aktuell 16/2019, S. 12, 13; s. zu aktuellen Tendenzen Olaf Kowalski: Packt die Exekutive den Rechtsstaat?: Zu den sechs Punkten Thomas de Maizières für eine „bessere Justiz“, VerfBlog, 2019/11/30, www.verfassungsblog.de).Dies alles kann dazu führen, dass Instanzgerichte in Deutschland von Vorlagen abgehalten werden (zum unbeschränkten und unbeschränkbaren Recht auf Vorlage s. EuGH, Urteil vom 26. März 2020, C-558/18 u.a., Rn. 55 ff.).
+			
+			
+			
+			Permalink: https://openjur.de/u/2231800.html (https://oj.is/2231800)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert1
+				
+
+				
+					 Faksimile
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

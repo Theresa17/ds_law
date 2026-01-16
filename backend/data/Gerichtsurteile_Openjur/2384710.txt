@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG WuppertalRechtsprechungUrteil vom 10.10.2019 - 5 O 131/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Wuppertal, Urteil vom 10.10.2019 - 5 O 131/19
+                      m. Fundstelle
+                      LG Wuppertal, Urteil vom 10.10.2019 - 5 O 131/19 = openJur 2022, 1916
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Wuppertal, Urteil vom 10.10.2019 - 5 O 131/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 1916
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils beizutreibenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Mit Rechnung vom 11.11.2016 erwarb der Kläger von der B GmbH ein Fahrzeug der Marke Audi A6 3.0 TDI zum Kaufpreis von 52.800 €. Die Beklagte ist Herstellerin des Fahrzeugs, in welches von ihr einMotor der Euro Norm 6 plus eingebaut wurde. In diesem Fahrzeug befinden sich 2 Einrichtungen zur Reduktion von Stickoxiden, die Abgasrückführung und der SCR Katalysator.Im Jahre 2018 ordnete das Kraftfahrtbundesamt einen Rückruf für verschiedene Audi Fahrzeuge an, weshalb Software-Updates am Motorsteuergerät des jeweiligen Fahrzeugs vorgenommen wurden. Für die Fahrzeuge des streitgegenständlichen Typs Audi A6 (EU 6plus) bestätigte das Kraftfahrtbundesamt am 12.11.2018 die Freigabe des Software-Updates. Über diese Maßnahme wurde der Kläger von der Beklagten mit Schreiben aus Dezember 2018 informiert. Am 03.01.2019 ließ der Kläger sein Fahrzeug aktualisieren.Mit vorgerichtlichem Schreiben seiner Prozessbevollmächtigten vom 20.02.2019 wurde die Beklagte vom Kläger aufgefordert, den Kaufpreis i.H.v. 52.800 € zu Zug um Zug gegen Herausgabe des streitgegenständlichen Fahrzeugs zu zahlen.Der Kläger behauptet, dass das Fahrzeug vom sogenannten Abgasskandal betroffen sei, so dass von einer erheblichen Mangelhaftigkeit auszugehen sei. Es liege eine unzulässige Abschalteinrichtung in Gestalt eines sogenannten thermischen Fensters vor, welches entgegen den Vorschriften des Kraftfahrt-Bundesamtes als Genehmigungsbehörde nicht offengelegt worden sei.Die verbaute Abschalteinrichtung in Gestalt des Thermofensters stelle eine unzulässige Abschalteinrichtung im Sinne der Vorschrift des Art. 3 Nr. 10 EG-VO 715/2007 dar.Der Kläger beantragt,1.die Beklagte zu verurteilen, an den Kläger 52.800 € nebst jährlichen Zinsen i.H.v. 4 % seit dem 15.11.2016 bis zum 20.03.2019 sowie i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 21.03.2019 Zug um Zug gegen Übergabe des Fahrzeuges Audi, A 6 3.0 TDI, FIN: XXXXXX, zu zahlen,2.festzustellen, dass sich die Beklagte mit der Rücknahme des vorbezeichneten Fahrzeugs in Annahmeverzug befindet,3.die Beklagte zu verurteilen, an den Kläger weitere 1.954,46 € nebst Zinsen i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte bestreitet, dass das streitgegenständliche Fahrzeug von der im September 2015 bekannt gewordenen sogenannten "Diesel-Thematik" betroffen sei. Die Motorsteuerungssoftware des streitgegenständlichen Fahrzeugs verfüge nicht über die bei den Fahrzeugen des Typs EA 189 enthaltene Abschaltlogik, die dauerhaft zwischen dem Betrieb auf dem Prüfstand und dem Betrieb auf der Straße unterscheide und die Abgasrückführung unter Prüfstandbedingungen optimiere. Das Verhalten des Abgasnachbehandlungssystems des Fahrzeugs sei auf der Straße und auf dem Rollenprüfstand identisch. Dem Rückruf durch das Kraftfahrtbundesamt liege lediglich der Umstand zu Grunde, dass, wenn der Ad-Blue-Tank zur Neige gehe und der Fahrer zudem hochdynamisch fahre, es zu einer minimalen Herabsetzung der Ad-Blue-Eindosierung gerade von mal 2 % komme. Dies werde durch das Softwareupdate angepasst.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die wechselseitigen, zur Gerichtsakte gelangten Schriftsätze der Parteien nebst Anlagen verwiesen. 
+				Gründe
+				Die Klage hat in der Sache keinen Erfolg.Der Kläger kann von der Beklagten unter keinem rechtlichen Gesichtspunkt Schadensersatz im beantragten Umfang verlangen.Kaufvertragliche (Gewährleistung-)Ansprüche bestehen schon deshalb nicht, weil zwischen den Parteien ein Kaufvertrag nicht geschlossen wurde.Ansprüche gemäß §§ 826, 31 BGB sind ebenfalls nicht ersichtlich.Danach ist derjenige, der in einer gegen die guten Sitten verstoßenden Weise einem anderen vorsätzlich Schaden zufügt, zum Ersatz dieses Schadens verpflichtet. Sittenwidrig ist nach allgemeiner Meinung ein Verhalten, das gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Hierfür genügt es im allgemeinen aber nicht, dass der Handelnde vertragliche Pflichten verletzt, gegen eine gesetzliche Vorschrift verstößt oder bei einem anderen einen Vermögensschaden hervorruft, vielmehr muss sich die besondere Verwerflichkeit des Verhaltens aus dem verfolgten Ziel, den eingesetzten Mitteln, der zu Tage tretenden Gesinnung oder den eingetretenen Folgen ergeben (vergleiche BGH Urteil vom 19.10.2010 VI ZR 145 / 09).Soweit der Kläger vorträgt, der Wagen verfüge über eine unzulässige Abschalteinrichtung und das Fahrzeug sei vom Abgasskandal betroffen, genügt dies nicht, ein entsprechendes, gegen die guten Sitten verstoßendes Verhalten der Beklagten festzustellen. Der streitgegenständliche Wagen verfügt nämlich nach dem insoweit nicht konkret bestrittenen Vorbringen der Beklagten nicht über eine Software, die den Prüfstand "erkennt" und damit auf dem Prüfstand eine andere Abgasreinigung durchführt als im realen Betrieb. Nur dann wäre aber nach Ansicht des Gerichts eine besondere Verwerflichkeit der Gesinnung der Beklagten festzustellen. Dass die in dem Fahrzeug des Klägers verbaute Software die Prüfstandsituation erkennt und nur deshalb eine besondere Abgasreinigung vornimmt, die den Anforderungen des Prüfstandes genügt, hat der Kläger nicht hinreichend substantiiert dargetan. Die Beklagte hat vielmehr hierzu vorgetragen, dass das Fahrzeug mit einer Motorsteuerungssoftware ausgestattet ist, welche keinen Unterschied macht, ob der Wagen im Normalbetrieb gefahren wird oder ob die Prüfstandsituation vorliegt. Dass der Wagen die Vorgaben des Prüfstandes einhält, ist zwischen den Parteien nicht im Streit. Wenn ein Fahrzeug auf dem Prüfstand nur im Rahmen bestimmter Temperaturbereiche getestet wird, die nicht dem realen Fahrbetrieb entsprechen, so dass im regulären Betrieb aufgrund der dort herrschenden, vom Prüfstand sich unterscheidenden Temperaturen ein höherer Stickoxidausstoß erfolgt, ist dies eben den vorgegebenen Prüfstandbedingungen geschuldet und nicht Folge einer irgendwie gearteten unzulässigen Manipulation.Der Kläger kann sich dabei nicht darauf berufen, dass das Kraftfahrtbundesamt im Jahre 2018 einen Bescheid erlassen hat, welcher auch das streitgegenständliche Fahrzeug betrifft. Denn nach dem nicht widersprochenen Vorbringen der Beklagten bezieht sich diese Maßnahme auf den sogenannten SCR-Katalysator, der dann, wenn der Ad-Blue-Tank zur Neige geht und der Fahrer zudem hochdynamisch fährt, die Ad-Blue-Eindosierung um 2 % herabsetzt. Die Steuerungssoftware unterscheidet dabei nach dem nicht widersprochenen Vorbringen der Beklagten aber nicht zwischen dem regulären Fahrbetrieb und der Prüfstandssituation. Insoweit unterscheidet sich der vorliegende Sachverhalt von dem, der dem sogenannten "VW-Diesel-Skandal" zugrunde liegt. Denn dort liegt eine Software vor, die die Prüfstandsituation erkennt und dann in einem anderen Modus eine Abgasreduzierung durchführt als im realen Fahrbetrieb. Das ist aber nicht der Sachverhalt, der vorliegend zu prüfen ist.Schließlich kann sich der Kläger auch nicht auf § 823 Abs. 2 BGB i.V.m. § 6 Abs. 1 S. 1, § 27 Abs. 1 EG-FGV bzw. in Verbindung mit Art. 3 Nr. 10 EG-VO 715/2007 berufen.Allerdings kann danach ein Schadensersatzanspruch bestehen, wenn der Schädiger schuldhaft gegen ein Schutzgesetz verstoßen hat.Dabei kann nach Auffassung der Kammer dahinstehen ob § 6 Abs. 1 EG-FGV bzw. § 27 Abs. 1 EG-FGV oder auch Art. 3 Nr. 10 EG-VO 715/2007 grundsätzlich als Schutzgesetze im Sinne des § 823 Abs. 2 BGB in Betracht kommen können (so wohl Landgericht Augsburg NJW-RR 2018, 1073 ff.; dagegen Landgericht Braunschweig NJW-RR 2018, 379 ff.).Denn der Kläger macht mit seiner Klage einen Vermögensschaden geltend. Reine Vermögensinteressen sind jedoch nach Auffassung der Kammer weder vom sachlichen noch modalen Schutzbereich der vorgenannten Vorschriften der EG-FGV und der EG-VO 715/2007 erfasst. Das Gericht hat keine Bedenken, die vorgenannten Vorschriften dahingehend zu verstehen, dass der Kläger zum Kreis derjenigen Personen gehört, die die vorgenannten Vorschriften schützen will. Dass jedoch diese Regelungen das Vermögen des Klägers als geschütztes Rechtsgut im Auge haben, ist nach Auffassung der Kammer nicht erkennbar. Dies gilt zunächst vor dem Hintergrund, dass regelmäßig, wie man der Vorschrift des § 823 Abs. 1 BGB entnehmen kann, Vermögensschäden im Deliktsrecht nur unter besonderen Voraussetzungen geschützt werden, also nur restriktiv ein solcher Schutz anzunehmen ist. So hat der Bundesgerichtshof mehrfach entschieden, dass die Übertretung einer Verkehrsregel nicht automatisch eine Haftung für sämtliche Vermögensschäden, die mit dem Verkehrsverstoß in einem adäquaten Kausalzusammenhang stehen, begründet. Vielmehr sind danach die dortigen Regeln in sachlicher Hinsicht auf die Rechtsgüter Leib, Leben und Eigentum beschränkt (vergleiche BGH NJW 2005, Seite 2923 ff.).Vorliegend ist das Gericht der Auffassung, dass die Regelungen der EG-FGV und der EG-VO 715/2007 primär dem Schutz der Umwelt und anderer allgemeiner Ziele, die etwa im EG-Typengenehmigungsverfahren überprüft werden, dienen. Soweit daneben auch eine Erleichterung des behördlichen Zulassungsverfahrens und damit die Ermöglichung des freien Warenverkehrs bezweckt werden soll, begründet dies nach Ansicht des Gerichts keinen individuellen Vermögensschutz zu Gunsten des Klägers.Wie sich aus den vorstehenden Ausführungen ergibt, haben damit auch die Klageanträge zu 2 und 3 keinen Erfolg.Die prozessualen Nebenentscheidungen folgen den §§ 91, 709 ZPO.Streitwert: 52.800 EUR
+			
+			
+			
+			Permalink: https://openjur.de/u/2384710.html (https://oj.is/2384710)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 12.03.2024 - 31 O 114/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 12.03.2024 - 31 O 114/21
+                      m. Fundstelle
+                      LG Köln, Urteil vom 12.03.2024 - 31 O 114/21 = openJur 2024, 2707
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 12.03.2024 - 31 O 114/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2024, 2707
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits trägt die Klägerin.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Die Klägerin macht Ansprüche resultierend aus einem Kaufvertrag über ein Wohnmobil im Zusammenhang mit dem sog. Dieselskandal geltend.Die Klägerin kaufte am 18.12.2019 ein Wohnmobil G. F. Van I650MEG FIN: entfernt mit einem damaligen Kilometerstand von 30.200 Kilometern zu einem Preis von 53.300,00 EUR. Das Fahrzeug verfügt über einen 2,3 l-Motor der Abgasnorm Euro-5 (vgl. Anlage K1a und K1b). Der Kilometerstand im Zeitpunkt der letzten mündlichen Verhandlung beläuft sich auf 49.082 Kilometer.Die Beklagte ist eine italienische Fahrzeugherstellerin, die u.a. für die Marke "G." verantwortlich ist. Sie ist die rechtliche Nachfolgeorganisation der U. Italy S.p.A., die laut Zulassungsbescheinigung Teil 1 Herstellerin des Basisfahrzeugs des Wohnmobils der Klägerin ist (vgl. Anlage K1b). Das Basisfahrzeug ist im Rahmen eines sog. Mehrstufen-Typgenehmigungsverfahren durch die italienische Typgenehmigungsbehörde, das Ministerium für Infrastruktur und Transport (MIT), genehmigt worden. Ein Rückruf des streitgegenständlichen Fahrzeugs durch das Kraftfahrtbundesamt oder durch die italienischen Behörden erfolgte bislang nicht.Im Hinblick auf etwaige Abschalteinrichtungen in "G."-Fahrzeugen ist gerichtsbekannt, dass das deutsche Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) im Jahr 2016 das MIT auf Unregelmäßigkeiten in der Abgasnachbehandlung an Fahrzeugen des Herstellers G.-H.-Automobiles hingewiesen hatte. Im Rahmen der Überprüfungen der Untersuchungskommission C. seien Hinweise zu Unregelmäßigkeiten im Emissionskontrollsystem bei Euro 6-Fahrzeugen mit Dieselmotoren (Hubräume 1.6 l, 2.0 l und 2.2 l) des Herstellers G.-H. aufgetreten. Daraufhin habe das KBA eigene Untersuchungen an vier weiteren U.-Fahrzeugen durchgeführt. Die Ergebnisse dieser Untersuchungen zeigten deutlich, dass ein qualitativ ähnliches Verhalten im Anstieg von NOx-Emissionen von Zyklus zu Zyklus vorliege. Dazu gehöre die Abschaltung der Abgasrückführung (AGR) nach 22 Minuten sowie die Einstellung der Regeneration des Stickoxid-Speicherkatalysators (NSK) nach ca. sechs Regenerationszyklen. Damit sei aus Sicht des KBA der Nachweis des Einsatzes einer unzulässigen Abschalteinrichtung erbracht.Das MIT nahm daraufhin eigene Untersuchungen der Fahrzeuge der Beklagten vor, die nach dortiger Einschätzung keine Auffälligkeiten ergaben, insbesondere nicht den Befund des KBA einer unzulässigen Abschalteinrichtung bestätigten. Auflagen für die Fahrzeuge der Beklagten gab es von Seiten des MIT nicht.Die Klägerin behauptet, der Motor des Fahrzeugs sei mit einer rechtswidrigen Motorsteuerungssoftware manipuliert. Diese erkenne den Prüfstand und verringere bzw. deaktiviere mithilfe einer unzulässigen Abschalteinrichtung die Abgasreinigung nach einer Motorlaufzeit von 22 Minuten (sog. Timerfunktion). Außerdem werde ein unzulässiges Thermofenster und weitere Abschalteinrichtungen genutzt. Das streitgegenständliche Fahrzeug halte die gesetzlich vorgeschriebenen Abgaswerte im Straßenbetrieb nicht ein. Die Beklagte habe die Zulassungsbehörden getäuscht und die EG-Typgenehmigung auf diesem Weg erhalten.Die Klägerin meint, die Beklagte hafte aus § 826 BGB, daneben auch aus § 823 Abs. 2 BGB i. V. m. verschiedenen europäischen Abgasnormen. Nach der neuen Rechtsprechung des BGH schulde die Beklagte jedenfalls kleinen Schadensersatz in Höhe von 15 % des Kaufpreises.Die Klägerin beantragt zuletzt,1. die Beklagte zu verurteilen, an die Klagepartei einen Betrag in Höhe von € 51.893,54 nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit dem 28.04.2021 zu zahlen, Zugum-Zug gegen Übereignung und Herausgabe des Wohnmobils G. F. Van I650MEG FIN: entfernt.2. festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag Ziffer 1. genannten Wohnmobils im Annahmeverzug befindet.3. Hilfsweise,Die Beklagte wird verurteilt, an die Klagepartei einen Betrag in Höhe von € 7.995,00 nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.4. Die Beklagte wird verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtliche Rechtsanwaltskosten in Höhe von € 3.291,54 nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit dem 28.04.2021 freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, das Fahrzeug weise keine unzulässigen Abschalteinrichtungen auf. Insbesondere seien keine Abgaswerte im Rahmen des Typgenehmigungsverfahrens manipuliert worden. Die wirksame EG-Typgenehmigung des MIT sei angesichts des grenzüberschreitenden EU-Sachverhalts bindend. Die Beklagte treffe auch kein Verschulden, weil sie sich aufgrund der wirksamen EG-Typgenehmigung jedenfalls in einem unvermeidbaren Verbotsirrtum befunden habe. Schließlich liege auch kein Schaden vor, da das Fahrzeug voll einsatzfähig sei und keine besonderen Maßnahmen oder Auflagen durch die Genehmigungsbehörden drohten. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I.Die Klägerin dringt weder mit ihren Hauptanträgen noch mit ihrem hilfsweise geltend gemachten Antrag durch. Sie hat keinen Anspruch gegen die Beklagte, insbesondere nicht aus den §§ 826, 31 BGB und § 823 Abs. 2 i. V. m. § 6 Abs. 1, 27 Abs. 1 EG-FGV i. V. m. Art. 5 Abs. 2 VO (EG) 715/2007.1.Die Klägerin hat keinen Anspruch auf Schadensersatz aus §§ 826, 31 BGB gegen die Beklagte.Die Beklagte handelte nicht sittenwidrig. Sittenwidrig im Sinne von § 826 BGB ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann. Schon zur Feststellung der Sittenwidrigkeit kann es daher auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen. Die Verwerflichkeit kann sich auch aus einer bewussten Täuschung ergeben. Insbesondere bei mittelbaren Schädigungen kommt es ferner darauf an, dass den Schädiger das Unwerturteil, sittenwidrig gehandelt zu haben, gerade auch in Bezug auf die Schäden desjenigen trifft, der Ansprüche aus § 826 BGB geltend macht (vgl. BGH NJW 2020, 1962 Rn. 15).Unabhängig davon, ob es sich bei der Motorsteuerung, die die Beklagte in dem streitgegenständlichen Fahrzeug verbaut hat, um eine unzulässige Abschalteinrichtung i. S. d. VO (EG) Nr. 715/2007 handelt, liegt jedenfalls kein sittenwidriges Handeln der Beklagten in Bezug auf die Verwendung einer solchen Einrichtung vor. Denn bereits der objektive Tatbestand der Sittenwidrigkeit setzt voraus, dass die für den vermeintlichen Schädiger handelnden Personen bei der Entwicklung und/oder Verwendung der betreffenden Motorsteuerung das Bewusstsein hatten, eine unzulässige Abschalteinrichtung zu verwenden, und den darin liegenden Gesetzesverstoß billigend in Kauf nahmen (vgl. BGH BeckRS 2022 10055 Rn. 15). Nach diesen Maßstäben kann ein sittenwidriges Verhalten der Beklagten nach den gegebenen Umständen nicht bejaht werden.Dem MIT als für die Fahrzeuge der Marke "G." zuständiger italienischer Typgenehmigungsbehörde waren aufgrund der ausdrücklichen Aufforderung durch das BMVI im Jahr 2016 die von der Klägerin im hiesigen Fall behaupteten Motorsteuerungssysteme spätestens seit 2016 bekannt. Die Behörde hat diese am Motor des streitgegenständlichen Fahrzeugs entweder nicht festgestellt oder sie nicht als unzulässige Abschalteinrichtungen im Sinne von Art. 5 Abs. 2 S. 1 VO (EG) Nr. 715/2007 betrachtet. Das MIT lehnt ein behördliches Einschreiten in Bezug auf den Konzern der Beklagten bis heute ab.Dass die Beklagte unter diesen Umständen das streitgegenständliche Basisfahrzeug der Marke G. mit dem hier gegenständlichen 2,3 l-Dieselmotor in den Verkehr gebracht hat, ist nicht als in besonderem Maße verwerflich im Sinne von § 826 BGB zu betrachten. Denn aufgrund der Einschätzung des MIT konnte sie gerade davon ausgehen, dass die verbaute Motorsteuerung zulässig war und einem Vertrieb des Fahrzeugs offenbar keine zwingenden Gründe entgegenstanden.Insoweit ist auch zu beachten, dass die Klägerin nicht hinreichend konkret dargetan hat, dass die Beklagte im Zulassungsverfahren unzutreffende oder unvollständige Angaben zur Wirkungsweise der Abgasreinigung gemacht und die Typgenehmigung für den streitgegenständlichen Fahrzeugtyp hierdurch erschlichen hat. Insbesondere ist eine Täuschung durch Unterlassen nicht konkret dargelegt. Dies gilt im Speziellen hinsichtlich des sog. Thermofensters.Das Urteil des Europäischen Gerichtshofs vom 17.12.2020 (NJW 2021, 1216) ist nicht geeignet, eine bereits zum Zeitpunkt der Genehmigungszulassung bestehende subjektive Kenntnis der bei der Herstellerin verantwortlich Tätigen rückwirkend zu begründen (vgl. OLG Koblenz BeckRS 2021, 1241 Rn. 37). Die Gesetzeslage war an dieser Stelle nicht unzweifelhaft und eindeutig. Dies zeigt die kontrovers geführte Diskussion über Inhalt und Reichweite der Ausnahmevorschrift des Art. 5 Abs. 2 Satz 2 a) VO (EG) 2007/715. Eine Auslegung der Norm, wonach ein Thermofenster eine zulässige Abschalteinrichtung darstellt, war daher jedenfalls nicht unvertretbar. Ein Handeln unter vertretbarer Auslegung des Gesetzes kann nicht als besonders verwerfliches Verhalten angesehen werden (vgl. OLG Köln BeckRS 2019, 15640 Rn. 5; OLG Koblenz BeckRS 2021, 1241 Rn. 27 ff.). Im Übrigen ist auch zu berücksichtigen, dass sich ein Fahrzeughersteller bis zur Entscheidung des EuGHs zur Unzulässigkeit von Abschalteinrichtungen in Dieselfahrzeugen vom 17.12.2020 (NJW 2021, 1216) auf die Zulässigkeit der Verwendung von Thermofenstern verlassen durfte und damit eine Täuschungskonstellation und der erforderliche Schädigungsvorsatz des Herstellers gerade nicht vorliegen (vgl. OLG Frankfurt BeckRS 2021, 49518 Rn. 60). Eine etwaige bloße Nichtoffenlegung des Thermofensters ist in diesem Fall einer bewussten Verschleierung auch nicht gleichzustellen (vgl. OLG München BeckRS 2021, 47471 Rn. 20).Die Klägerin hat auch nicht schlüssig dargelegt, dass ihr Fahrzeug eine oder mehrere der von ihm behaupteten manipulativ wirkenden unzulässigen Abschalteinrichtungen aufweist, insbesondere nicht die Verwendung einer sog. zeitbasierten Abschalteinrichtung oder eine Prüfstanderkennung.Ein Sachvortrag zur Begründung eines Anspruchs ist dann schlüssig, wenn die Partei Tatsachen vorträgt, die in Verbindung mit einem Rechtssatz geeignet und erforderlich sind, das geltend gemachte Recht als in der Person der Partei entstanden erscheinen zu lassen. Die Angabe näherer Einzelheiten ist nicht erforderlich, soweit diese für die Rechtsfolgen nicht von Bedeutung sind. Das Gericht muss nur in die Lage versetzt werden, aufgrund des tatsächlichen Vorbringens der Partei zu entscheiden, ob die gesetzlichen Voraussetzungen für das Bestehen des geltend gemachten Rechts vorliegen. Sind diese Anforderungen erfüllt, haben die Gerichte in die Beweisaufnahme einzutreten und dabei gegebenenfalls die benannten Zeugen oder die zu vernehmende Partei nach weiteren Einzelheiten zu befragen oder einem Sachverständigen die beweiserheblichen Streitfragen zu unterbreiten (BGH, VersR 2019, 835; VersR 2019, 568). Eine Partei ist grundsätzlich auch nicht daran gehindert, Tatsachen zu behaupten, über die sie keine genauen Kenntnisse hat, die sie aber nach Lage der Dinge für wahrscheinlich hält. Sie darf sich grundsätzlich auch auf nur vermutete Tatsachen stützen, wenn sie - wie hier - mangels Sachkunde und Einblick in bestimmte Prozesse keine sichere Kenntnis von Einzeltatsachen hat, wie der Bundesgerichtshof gerade auch in einem Fall des sog. Dieselskandals festgestellt hat (BGH NJW 2020, 1741 Rn. 8). Eine Behauptung ist allerdings unbeachtlich, wenn sie ohne greifbare Anhaltspunkte für das Vorliegen eines bestimmten Sachverhalts willkürlich "aufs Geratewohl" oder "ins Blaue hinein" aufgestellt worden ist, weswegen die Partei greifbare Umstände anführen muss, auf die sie den Verdacht gründet, ihr Fahrzeug weise eine oder mehrere Abschalteinrichtungen auf (BGH NJW 2023, 2259 Rn. 53).Bei der von der Klägerin behaupteten sog. zeitbasierten Abschalteinrichtung handelt es sich nicht um eine Abschalteinrichtung in Gestalt einer Prüfstanderkennung, die zwischen dem realen Straßenbetrieb und dem Prüfstand unterscheidet. Nach dem klägerischen Vorbringen ist diese Abschalteinrichtung daran gekoppelt, dass die Abgasrückführung 22 Minuten nach dem Motorstart reduziert bzw. die Regeneration des NOx-Speicherkatalysators nach 22 Minuten bzw. nach 6 Regenerationsvorgängen verringert oder deaktiviert wird. Die (De-)Aktivierungsparameter Zeitablauf und Anzahl der Regenerationsvorgänge sind sowohl auf dem Prüfstand als auch im Straßenbetrieb aktiv. Sie ist nicht wie die sog. Kippschalterlogik beim C.-Motor EA189 ausschließlich auf dem Prüfstand aktiviert. Eine parameterabhängige Steuerung der Abgasrückführung unterscheidet jedenfalls im Ausgangspunkt nicht danach, ob sich das Fahrzeug auf dem Prüfstand oder im normalen Fahrbetrieb befindet. Eine solche Steuerung weist damit im Grundsatz keine Funktion auf, die (nur) bei erkanntem Prüfstandsbetrieb eine verstärkte Abgasrückführung aktiviert und den Stickoxidausstoß gegenüber dem normalen Fahrbetrieb reduziert, sondern arbeitet in beiden Fahrsituationen im Grundsatz in gleicher Weise. Das Kriterium der Prüfstandsbezogenheit ist dabei grundsätzlich geeignet, um zwischen nur unzulässigen Abschalteinrichtungen und solchen, deren Implementierung die Kriterien einer sittenwidrigen vorsätzlichen Schädigung erfüllen können, zu unterscheiden. Erst die Tatsache, dass eine Manipulationssoftware ausschließlich im Prüfstand die Abgasreinigung verstärkt aktiviert, indiziert eine arglistige Täuschung der Genehmigungsbehörden (BGH BeckRS 2022, 8085 Rn. 15).Hinzu kommt, wie oben bereits beschrieben, dass dem KBA und dem MIT die sog. zeitbasierte Abschalteinrichtung jedenfalls ab dem Jahr 2016 bekannt waren. Gleichwohl hat das MIT die beanstandeten Abschalteinrichtungen weiterhin für zulässig gehalten und ist nicht weiter tätig geworden. War die zeitbasierte Abschalteinrichtung dem MIT - wie hier - vor dem Erwerb des Fahrzeugs im Jahr 2018 sowohl durch das Kraftfahrtbundesamt als auch durch die Beklagte mitgeteilt worden, fehlt es in diesem Fall selbst dann an einer (fortwirkenden) Täuschung im Zeitpunkt des Abschlusses des Kaufvertrages, der erst 2018 erfolgte, wenn die Beklagte ursprünglich mit der sog. zeitbasierten Abschalteinrichtung eine Prüfstanderkennung implementiert haben sollte.Es fehlt schließlich an einer schlüssigen Darlegung der Klägerin, dass eine irgendwie geartete unzulässige Abschalteinrichtung in Form einer Prüfstanderkennung verbaut wurde.Eine Prüfzykluserkennung ist nicht per se unzulässig. Sie ist etwa erforderlich, um die Funktionen ABS, ESP, ASR und BAS auf dem Prüfstand zu deaktivieren. Eine Prüfzykluserkennung ist nur dann unzulässig, wenn sie dazu benutzt wird, um die Funktion eines Teils des Emissionskontrollsystems so zu verändern, dass deren Wirksamkeit im normalen Fahrbetrieb verringert wird (vgl. OLG Frankfurt am Main BeckRS 2020, 46880 Rn. 45; OLG Oldenburg BeckRS 2021, 45194 Rn. 50).Allein aus dem Umstand, dass die Messwerte im Realbetrieb die Grenzwerte möglicherweise um ein Mehrfaches übertreffen, lässt sich schon kein konkreter Bezug zu dem hier streitgegenständlichen Fahrzeug entnehmen. Soweit bei einer erheblichen Überschreitung der Emissionen im Realbetrieb im Vergleich zum Testbetrieb eine Indizwirkung für das Vorliegen einer unzulässigen Abschalteinrichtung erwogen wird, setzt dies jedenfalls voraus, dass die angegebenen Untersuchungen sich auf denselben Fahrzeugtyp und denselben Motor mit gleicher Schadstoffklasse und Leistung beziehen sowie konkrete Angaben zu den vorgegebenen Messbedingungen (Außentemperatur, Feuchtigkeit u. Ä.) enthalten, um eine Vergleichbarkeit mit dem streitgegenständlichen Fahrzeug sicherstellen zu können. Derartige - einen konkreten Bezug zu dem streitgegenständlichen Fahrzeug aufweisende - Messungen hat die Klägerin hier indes nicht vorgetragen (vgl. zu diesem Erfordernis zuletzt BGH BeckRS 2021, 37995 Rn. 30). Das Vorbringen des Klägers bezieht sich auf andere Motoren und andere Schadstoffklassen. Bei Wohnmobilen handelt es sich um individuelle Fahrzeuge mit unterschiedlicher Technik, einem unterschiedlichen Aufbau und einem unterschiedlichen Gewicht und Luftwiderstand. Hinzu kommt, dass eine Abweichung der Messwerte im Realbetrieb von den Messwerten nach NEFZ als Indiz für eine Abschalteinrichtung, und noch dazu für eine Manipulationssoftware, die die Voraussetzungen des § 826 BGB erfüllen könnte, angesichts der unstreitigen gravierenden Unterschiede der Bedingungen, unter denen die Messung erfolgt, ungeeignet ist. Bei bestimmten besonders hohen Abweichungen ist auch zu berücksichtigen, dass jedenfalls allein schon aufgrund des von der Klägerin auch hier behaupteten Einsatzes von Thermofenstern deutliche Abweichungen verursacht werden. Daher ist ein Schluss aus besonders hohen Grenzwertüberschreitungen auf das Vorliegen von anderen Abschalteinrichtungen nicht gerechtfertigt (vgl. OLG München BeckRS 2021, 47471 Rn. 22).2.Die Klägerin hat auch keinen Anspruch gegen die Beklagte gem. §§ 823 Abs. 2 BGB i. V. m. § 6 Abs. 1, 27 Abs. 1 EG-FGV i. V. m. Art. 5 Abs. 2 VO (EG) 715/2007.Es muss nicht entschieden werden, ob die Klägerin einen Anspruch aus den letztgenannten Normen herleiten kann. Soweit ein Anspruch in der höchstrichterlichen Rechtsprechung anerkannt ist, richtet sich dieser allenfalls auf den Ersatz eines sogenannten Differenzschadens (BGH, Urteil v. 26.06.2023 - VIa ZR 335/21, NJW 2023, 2259). Dieser soll 5 bis 15% des gezahlten Kaufpreises betragen, wobei schadensminderen Umstände zu berücksichtigen sind. Insbesondere Nutzungsvorteile und der Restwert des Fahrzeugs sind schadensmindernd anzurechnen, als sie den Wert des Fahrzeugs bei Abschluss des Kaufvertrags (gezahlter Kaufpreis abzüglich Differenzschaden) übersteigen.Die Berücksichtigung von Restwert und Nutzungsvorteilen führt unter diesen Prämissen zu einer vollständigen Aufzehrung eines der Klägerin - unterstellt - zustehenden Differenzschadens. Ein - unterstellter - Differenzschaden, der sich höchstens auf 7.995,00 EUR (15 % des Kaufpreises) belaufen würde, ist bereits durch die schadensmindernde Anrechnung des Restwertes aufgezehrt. Es muss in diesem Zusammenhang nicht entscheiden werden, in welcher tatsächlichen Höhe ein - unterstellter - Differenzschaden entstanden wäre. Es muss auch nicht entschieden werden, welche weiteren Nutzungsvorteile die Klägerin gezogen hat. Bereits der Restwert des Klägerfahrzeuges übersteigt den Wert des Fahrzeuges bei Abschluss des Kaufvertrages um mindestens 29.365,00 EUR (80.000,00 EUR - 95 % des Kaufpreises). Der Kaufpreis des streitgegenständlichen Fahrzeuges betrug 53.300,00 EUR. Die Kammer schätzt den Restwert des Klägerfahrzeuges auf Grundlage entsprechender von der Beklagtenseite vorgelegter Angebote aus Onlinebörsen auf 80.000,00 EUR (§ 287 ZPO - vgl. hierzu OLG Schleswig, Urt. v. 10.10.2023 - 7 U 100/22, BeckRS 2023, 27262 Rn. 72 ff.).3.Der Klägerin steht der geltend gemachte Anspruch auch nicht aus § 823 Abs. 2 BGB i. V. m. § 263 StGB zu. Es besteht keine Stoffgleichheit der etwaigen Vermögenseinbuße der Klägerin mit den denkbaren Vermögensvorteilen, die ein verfassungsmäßiger Vertreter der Beklagten (§ 31 BGB) für sich oder einen Dritten erstrebt haben könnte (vgl. BGH NJW 2020, 2798 Rn. 24).4.Die geltend gemachten Ansprüche auf Feststellung des Annahmeverzugs, Zinsen und vorgerichtliche Rechtsanwaltskosten teilen das Schicksal des Hauptanspruchs.5.Hinsichtlich des Hilfsantrags gelten die obigen Ausführungen entsprechend.II.Die prozessualen Nebenentscheidungen folgen aus §§ 91 Abs. 1 S. 1, 709 S. 1, 2 ZPO.III.Der Streitwert wird auf 51.893,54 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2484775.html (https://oj.is/2484775)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate11
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

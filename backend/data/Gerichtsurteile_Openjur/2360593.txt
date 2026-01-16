@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSchleswig-HolsteinOrdentliche GerichtsbarkeitLG KielRechtsprechungUrteil vom 22.04.2020 - 4 O 197/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Kiel, Urteil vom 22.04.2020 - 4 O 197/18
+                      m. Fundstelle
+                      LG Kiel, Urteil vom 22.04.2020 - 4 O 197/18 = openJur 2021, 31109
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Kiel, Urteil vom 22.04.2020 - 4 O 197/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 31109
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.Der Streitwert wird auf 84.500,01 € festgesetzt. 
+				Tatbestand
+				Der Kläger nimmt die Beklagte als Herstellerin des von ihm erworbenen Neufahrzeugs auf Schadensersatz in Anspruch.Mit Datum vom 26.11.2015 bestellte der Kläger beim Porsche Zentrum ... einen Porsche Macan S Diesel V6 TDI zu einem Kaufpreis von 84.500,01 € brutto, welcher am 10.02.2016 an den Kläger ausgeliefert wurde (Lieferschein als Anlage K 1, Bl. 18 f. d.A.). In dem von der Beklagten hergestellten Fahrzeug ist ein 3,0 Liter V6-Dieselmotor des Herstellers Audi mit einer Leistung von 190 kW (258 PS) verbaut, den die Beklagte - die selbst seit Jahrzehnten ausschließlich Benzinmotoren entwickelt - zugekauft hat. Die Firma Audi, die ebenso wie die Beklagte eine Konzerntochter der Volkswagen AG ist, hat dabei im Auftrag der Beklagten auch die Motorsteuerungssoftware entwickelt und die fahrzeugspezifischen Anpassungen vorgenommen. Die von Audi vorgenommene Vernetzung der Antriebseinheit mit dem Fahrzeug umfasste dabei die Einstellung des Motors sowie die sogenannte Bedatung und Abstimmung der Software auf das entsprechende Fahrzeug. Der Fahrzeugtyp verfügt über eine EG-Typgenehmigung nach der EU6 Norm.Bei Auslieferung war das streitgegenständliche Fahrzeug mit einer Motorsteuergeräte-Software versehen, deren konkrete Bedatung des Warmlaufmodus (SCR-Katalysator) später vom Kraftfahrtbundesamt (KBA) als unzulässig beanstandet wurde. Nachdem im September 2015 auch in Deutschland der sogenannte "Abgasskandal" bei der Konzernschwester Volkswagen bekannt wurde, der sich zunächst auf die in den Motoren des Baureihe EA 189 verwendeten unzulässigen Abschalteinrichtungen bezog, führte die Beklagte zunächst eine mit dem Kraftfahrtbundesamt durchgeführte freiwillige Servicemaßnahme durch. Im Zuge dieser Servicemaßnahme erhielt auch das Fahrzeug des Klägers am 11.01.2017 ein vom Kraftfahrtbundesamt freigegebenes, intern mit WG22 bezeichnetes Software-Update.Nachdem im September/ Oktober 2015 Anhaltspunkte dafür bekannt wurden, dass in der US-amerikanischen Variante des in dem Porsche Cayenne des Modelljahres 2015 verbauten 3,0 Liter V6 (TDI) Motors unzulässige Abschalteinrichtungen verwendet worden seien, bestätigte die Konzernschwester Audi der Beklagten wiederholt schriftlich, dass die an die Beklagte gelieferten Vs (TDI) Motoren mit EU-Abgaskonzepten keine unzulässigen Abschalteinrichtungen enthalten. Für die Einzelheiten wird insoweit auf die als Anlagen Annex 1a sowie 1 c bis 1 d (Bl.115 ff. d. A.) eingereichten Bestätigungen der Audi AG verwiesen.Mit Bescheid vom 10.07.2018 ordnete das Kraftfahrtbundesamt sodann doch den Rückruf von Fahrzeugen des Typs Macan Diesel V6 EU6 an und verpflichtete die Beklagte zur Entfernung der unzulässigen Abschalteinrichtungen. Die als unzulässige Abschalteinrichtung qualifizierte konkrete Bedatung des Warmlaufmodus war allerdings zu diesem Zeitpunkt aufgrund des zwischenzeitlich erfolgten ersten Software-Updates (WG22) bereits nicht mehr im streitgegenständlichen Fahrzeug vorhanden. Gleichwohl ist die Beklagte verpflichtet, bei sämtlichen Fahrzeugen dieses Typs, die ursprünglich die beanstandete Bedatung aufwiesen, ein intern als AJ07 bezeichnetes - Software-Update durchzuführen. Der Kläger hat dieses zweite Software-Update bisher nicht vornehmen lassen.Mit anwaltlichem Schreiben vom 27.11.2018 (Anlage K 4, Bl. 21 d. A.) forderte der Kläger die Beklagte zum Schadensersatz in Höhe des Kaufpreises Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs, hilfsweise unter Abzug einer Nutzungsentschädigung von 9.737,50 € für 34.571 gefahrene Kilometer auf. Zugleich machte er vorgerichtliche Rechtsanwaltskosten (1,3-Gebühr nach Streitwert 92.950,01 €) in Höhe von 2.217,45 € geltend.Im Zeitpunkt der letzten mündlichen Verhandlung wies das Fahrzeug eine Fahrleistung von 53.271 km auf.Der Kläger ist der Ansicht, die Beklagte habe ihn vorsätzlich und in sittenwidriger Weise geschädigt, indem sie das Fahrzeug mit dem Dieselmotor unter Verschweigen der gesetzeswidrigen Softwareprogrammierung in den Verkehr gebracht habe. Hierzu behauptet er, das Fahrzeug verfüge über eine unzulässige Abschaltvorrichtung nach Art. 6 Abs. 2 VO (EG) Nr. 715/2007, bei der die Abgassoftware so manipuliert sei, dass die betroffenen Fahrzeuge im Prüfstand weniger Stickoxide ausstießen als im Fahrbetrieb. Der Einbau der Software sei mit Wissen und Wollen des damaligen Vorstands der Beklagten erfolgt und mit dem Vorsatz erfolgt, durch den heimlichen Einbau geltende Umweltvorschriften zu umgehen und die individuelle Vermögensdisposition der späteren Käufer zu beeinflussen. Die Kenntnis des Vorstands der Beklagten von den Vorgängen bzw. dem Mangel ergäbe sich aus zahlreichen personellen Umständen, den Ermittlungen der Staatsanwaltschaft und Gerichtsurteilen im Zuge des Skandals. So sei etwa VW Chef ... zur Zeit des Dieselabgasbetrugs zugleich auch Vorstandschef der Dachgesellschaft Porsche SE gewesen, was die Annahme rechtfertige, dass sein Wissen auch der Porsche SE bekannt gewesen sein müsse. Auch sehe es die Staatsanwaltschaft als erwiesen an, dass ein beschuldigter Porschevorstand, der sich seit 2017 in Haft befinde, Kenntnis davon gehabt habe, dass in die Motoren unzulässige Steuerungsgeräte verbaut worden seien. Auch sei nach dem Urteil Landgerichts Kiel vom 30.10.2018 (12 O 406/17) davon auszugehen, dass sowohl der Konzernchef ... als Vorstandsvorsitzender als auch der Leiter der Elektronikentwicklung der Beklagten ... zum Zeitpunkt des Inverkehrbringens des klägerischen Fahrzeugs Kenntnis von der unzulässigen Abschaltvorrichtung in dem von Audi bezogenen Motor hatten, den Motor aber gleichwohl in das Fahrzeug einbauen ließen und damit die Vermögensschädigung der potentiellen Käufer in Kauf nahmen. Im Übrigen habe die Beklagte auch die Aufdeckung des VW-Dieselskandals im Jahr 2015 zum Anlass nehmen müssen, selbst ihre Fahrzeuge bezüglich eventueller manipulierter Software überprüfen zu lassen.Er - der Kläger - habe auch einen Schaden erlitten, weil er den Kaufvertrag bei Kenntnis der Betroffenheit des Fahrzeugs vom sogenannten Abgasskandal und des Ausmaßes der Softwaremanipulation nicht erworben hätte.Der Kläger ist der Ansicht, dass er infolgedessen Schadensersatz verlangen könne, wobei er so gestellt werden müsse, wie er ohne Abschluss des Kaufvertrages stünde. Jedenfalls aber müsste ihm der wirtschaftliche Mehraufwand erstattet werden, der ihm durch die Täuschung entstanden sei.Nachdem der Kläger zunächst Schadensersatz in Form des von ihm gezahlten Kaufpreises ohne Abzug einer Nutzungsentschädigung geltend gemacht hat, hat er seine Klageforderung mit Schriftsatz vom 02.04.2019 unter Anerkennung einer Verpflichtung zum Nutzungsersatz modifiziert.Der Kläger beantragt zuletzt,1. die Beklagte zu verurteilen, an den Kläger 84.500,01 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 14.12.2018 Zug um Zug gegen Übergabe und Übereignung des Pkws Porsche Macan S mit dem amtlichen Kennzeichen ... mit der Fahrzeug-Identifikationsnummer ... und Zug um Zug gegen Zahlung einer Nutzungsentschädigung für die Nutzung des Pkw durch den Kläger zu zahlen;2. festzustellen, dass sich die Beklagte mit der Annahme des Pkws Porsche Macan S mit dem amtlichen Kennzeichen ... mit der Fahrzeug-Identifikationsnummer ... in Verzug befindet:3. die Beklagte zu verurteilen, an den Kläger außergerichtliche Rechtsanwaltskosten in Höhe von 2.217,45 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen;sowie hilfsweise, für den Fall, dass das Gericht den Antrag zu 1) abweist,4. die Beklagte zu verurteilen, an den Kläger 9.000,- € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen:5. festzustellen, dass die Beklagte verpflichtet ist, dem Kläger sämtliche künftige Schäden zu ersetzen, die ihm aufgrund der Ausstellung der falschen Übereinstimmungsbescheinigung für den Pkw Porsche Macan S mit dem amtlichen Kennzeichen ... mit der Fahrzeug-Identifikationsnummer ... entstehen.Die Beklagte beantragt,die Klage abzuweisen.Sie ist der Ansicht, dem Kläger nicht zum Schadensersatz verpflichtet zu sein, weil sie den streitgegenständlichen Motor und die entsprechende Motorsteuerungssoftware einschließlich der fahrzeugspezifischen Anpassungen - was unstreitig ist - weder entwickelt noch hergestellt habe. Soweit der Kläger behaupten wolle, dass Vorstandsmitglieder der Beklagten im Zeitpunkt des Kaufvertragsschlusses am 26. November 2015 Kenntnis von der konkreten, vom Kraftfahrtbundesamt letztlich als unzulässig eingestuften Bedatung der Motorsteuerungssoftware gehabt hätten, werde dies angesichts der Informationen, die in ihrer umfangreichen Sachverhaltsermittlung zutage getreten seien, bestritten. Dies gelte auch, soweit es Herrn ... oder Herrn ... betreffe, der im Übrigen niemals Leiter der Elektronikabteilung der Beklagten gewesen sei. Die entsprechenden Behauptungen des Klägers erfolgten ins Blaue hinein. Soweit der Kläger weiter auf Herrn ... abstelle, sei dieser niemals Vorstandsmitglied bei der Beklagten gewesen; auf die Porsche SE könne es insoweit nicht ankommen. Der pauschale Verweis auf angebliche Konzernverflechtungen reiche im Übrigen für eine "Wissenszurechnung" nicht aus.Nachdem in den USA die Vorwürfe der Environmental Protection Agency (EPA) hinsichtlich einiger US-amerikanische V6 (TDI) Motoren bekannt geworden seien, habe sie sich zudem auf die ausdrücklichen Erklärungen der Audi AG verlassen dürfen, nach denen auszuschließen sei, dass bei den EU 6 (TDI) Aggregaten eine Softwarefunktion enthalten sei, die der von der EPA bei den US-amerikanischen Motoren beanstandeten entspreche.Im Übrigen sei die angebliche Täuschung auch nicht kausal für den Kaufvertragsschluss geworden und sei der Kläger durch den Erwerb des Fahrzeugs auch keinen Schaden entstanden.Für den weitergehenden Sach- und Streitstand wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen Bezug genommen.Das Gericht hat den Kläger persönlich angehört. Für das Ergebnis der Anhörung wird auf das Protokoll der mündlichen Verhandlung vom 12.02.2020 (Bl. 173 ff. d.A.) Bezug genommen. 
+				Gründe
+				Die zulässige Klage hat keinen Erfolg.Der Kläger kann von der Beklagten unter keinem rechtlichen Gesichtspunkt Schadensersatz wegen der Verwendung einer unzulässigen Abschalteinrichtung in dem von ihm erworbenen Fahrzeug verlangen.1. Ein Schadensersatzanspruch aus vorsätzlicher sittenwidriger Schädigung (§§ 826, 31 BGB) ist nicht gegeben.Gemäß § 826 BGB ist derjenige, der in einer gegen die guten Sitten verstoßenden Weise einem anderen vorsätzlich Schaden zufügt, diesem anderen zum Ersatz des Schadens verpflichtet. Handelt es sich bei dem Schädiger um eine juristische Person, so hat sie gemäß § 31 BGB für den Schaden einzustehen, den ihr "verfassungsmäßig berufener Vertreter" einem anderen durch ein vorsätzlich sittenwidriges Verhalten im Sinne des § 826 BGB zugefügt hat. Die tatbestandlichen Voraussetzungen dieser Vorschriften liegen hier jedoch nicht vor.Zwar spricht viel dafür, dass ein verfassungsmäßig berufener Vertreter der Beklagten den Kläger durch das Inverkehrbringen des streitgegenständlichen Fahrzeugs mit einer Motorsteuerungssoftware, dessen Bedatung das Kraftfahrtbundesamt zwischenzeitlich als unzulässig eingestuft hat, geschädigt hat. Ob der objektive Tatbestand des § 826 BGB vorliegend erfüllt, das Verhalten der Beklagten insbesondere auch als sittenwidrig gewertet werden kann, kann jedoch letztlich dahinstehen. § 826 BGB setzt nämlich in subjektiver Hinsicht Schädigungsvorsatz sowie Kenntnis der Tatumstände voraus, die das Verhalten als sittenwidrig erscheinen lassen. Ein solcher, für die deliktische Haftung erforderlichen zurechenbare Vorsatz eines verfassungsmäßig berufenen Vertreters der Beklagten kann jedoch hier nach dem Vorbringen der Parteien jedoch nicht festgestellt werden.Der gemäß § 826 BGB erforderliche Vorsatz enthält ein Wissens- und ein Wollenselement. Der Handelnde muss die Tatumstände, die sein Verhalten als sittenwidrig erscheinen lassen, sowie die Schädigung eines anderen gekannt bzw. vorausgesehen und in seinen Willen aufgenommen, jedenfalls aber für möglich gehalten und billigend in Kauf genommen haben. Es genügt nicht, dass die relevanten Tatumstände lediglich objektiv erkennbar waren und der Handelnde sie hätte kennen können oder kennen müssen oder sie sich ihm sogar hätten aufdrängen müssen; in einer solchen Situation ist lediglich ein Fahrlässigkeitsvorwurf gerechtfertigt (vgl. BGH NJW 2017, 250).Der für das Vorliegen auch der subjektiven Tatbestandsvoraussetzungen des § 826 BGB darlegungs- und beweisbelastete Kläger hat bereits nicht hinreichend substantiiert dargelegt, dass der damalige Vorstand der Beklagten oder sonst ein verfassungsmäßig berufener Vertreter im Sinne des § 31 BGB im hier maßgeblichen Zeitpunkt des Fahrzeugerwerbs (Vertragsschluss durch verbindliche Bestellung vom 26. November 2015) oder aber bei Auslieferung an den Fahrzeughändler im Februar 2016 überhaupt Kenntnis der maßgeblichen Umstände in Bezug auf den streitgegenständlichen Fahrzeugtyp, insbesondere von der Funktionsweise der Motorsteuerungssoftware und der damit (möglicherweise) unzulässigen Abschalteinrichtung hatte.Der Kläger behauptet lediglich pauschal, der Einbau der beanstandeten Motorsteuerungssoftware sei mit Wissen und Wollen des Vorstands der Beklagten erfolgt. Dass der Vorstand der Beklagten Kenntnis von den Vorgängen bzw. von dem Mangel gehabt hätten, ergebe sich aus zahlreichen personellen Umständen, den Ermittlungen der Staatsanwaltschaften sowie Gerichtsurteilen im Zuge des Skandals. Soweit der Kläger dabei auf personelle Verflechtungen zwischen der VW AG und der Dachgesellschaft Porsche SE abstellt, ist dies für den vorliegenden Rechtsstreit ebenso unerheblich wie das zitierte Urteil des Landgerichts Stuttgart, welches gegen die Porsche SE (und eben nicht die Beklagte) sowie wegen einer verspäteten Information des Kapitalmarktes (und nicht wegen der behaupteten Verwendung einer unzulässigen Abschalteinrichtung) ergangen ist. Auch die pauschale Verweisung auf staatsanwaltschaftliche Maßnahmen, Festnahmen oder Einschätzungen reichen in diesem Zusammenhang nicht aus.Soweit der Kläger auf ein Urteil der 12. Zivilkammer des Landgerichts Kiel vom 30.10.2018 (Az. 12 O 406/17) verweist, nach dem "der Konzernchef ... als Vorstandsvorsitzender zum Zeitpunkt des Inverkehrbringens des klägerischen Fahrzeuges Kenntnis von der unzulässigen Abschalteinrichtung in dem von Audi bezogenen Motor hatte (...)", hilft dies ebenfalls nicht weiter. Zutreffend weist die Beklagte darauf hin, dass diese Behauptung in dem zitierten Urteil nur aus prozessualen Gründen als feststehend zugrunde gelegt worden ist, nämlich weil die Beklagte dies in dem dortigen Rechtsstreit - anders als hier - nicht bestritten hatte. Näherer Vortrag dazu, wann der Vorstandsvorsitzende welche Kenntnisse gehabt haben soll, die für den hier streitgegenständlichen Fahrzeugtyp und den hier maßgeblichen Erwerbszeitraum ausschlaggebend sind, ist nicht erfolgt; einen Beweis für seine lediglich auf das zitierte Urteil gestützte Behauptung hat der Kläger im Übrigen ebenso wenig angetreten.b) Die Beklagte trifft auch keine sekundäre Darlegungslast in Bezug auf die Frage, wer in ihrem Unternehmen im Zeitpunkt des Kaufvertragsschlusses bzw. bei Auslieferung des Fahrzeugs welche Kenntnisse hatte hinsichtlich der unzulässigen Abschalteinrichtung hatte.Die Annahme einer sekundären Darlegungslast setzt nach der Rechtsprechung des BGH voraus, dass die nähere Darlegung dem Behauptenden nicht möglich oder nicht zumutbar ist, während der Bestreitende alle wesentlichen Tatsachen kennt und es ihm zumutbar ist, nähere Angaben zu machen. Genügt der Anspruchsgegner seiner sekundären Darlegungslast, ist es Sache des Anspruchstellers, die für seine Behauptung sprechenden Umstände darzulegen und zu beweisen. Genügt der Anspruchsgegner seiner sekundären Darlegungslast nicht, gilt die Behauptung des Anspruchstellers dagegen nach § 138 Abs. 3 ZPO als zugestanden. In diesem Fall muss der Anspruchsteller seine Behauptung nicht beweisen (vgl. BGH NJW 2018, 2412).Voraussetzung für die Annahme einer sekundären Darlegungslast sind aber hinreichende Anhaltspunkte für die Richtigkeit der behaupteten Tatsache (vgl. OLG München, BeckRS 2019, 26072). Daran fehlt es hier jedoch. Denn die Beklagte hat den Motor und die Motorsteuerungssoftware weder selbst entwickelt noch hergestellt. Auch ist unstreitig, dass sie die konkrete Bedatung nicht selbst vorgenommen, sondern sämtliche Leistungen von einem Dritten - der Audi AG - zugekauft hat. Anders als in Fällen, in denen der Fahrzeughersteller auch den Motor und die Motorsteuerungssoftware selbst hergestellt und entwickelt hat, ist einem solchen Fall des "Zukaufs" nicht ohne weiteres der Rückschluss gerechtfertigt, dass Verantwortliche des Zukäufers entsprechende Kenntnisse von der Funktionsweise der Motorsteuerungssoftware bzw. der sogenannten Abschalteinrichtung hatten und ihren Einsatz in dem Bewusstsein ihrer möglichen Unzulässigkeit billigend in Kauf genommen haben.Sonstige hinreichende Anhaltspunkte dafür, dass ein verfassungsmäßig berufener Vertreter der Beklagten gleichwohl im hier maßgeblichen Zeitraum Kenntnis von der von der Audi AG entwickelten Manipulationssoftware bzw. der unzulässigen Bedatung Kenntnis hatte oder diese jedenfalls für möglich gehalten und billigend in Kauf genommen hat, hat der Kläger nicht dargelegt. Derartige Anhaltspunkte ergeben sich auch nicht etwa aus dem Bekanntwerden des sogenannten VW-Dieselskandals im September 2015. Der Kläger argumentiert in diesem Zusammenhang, die Beklagte habe nach Bekanntwerden des Skandals und angesichts der direkten Verknüpfung zum Mutterkonzern und deren Tochter Audi die Pflicht gehabt, selbst ihre Fahrzeuge bezüglich eventueller manipulierter Fahrzeuge überprüfen zu lassen. Ob die Beklagte insoweit fahrlässig gehandelt hat, sich ihr die mögliche Betroffenheit auch des streitgegenständlichen Fahrzeugtyps gar hätte aufdrängen müssen, kann dabei aber dahinstehen, da ein solcher Fahrlässigkeitsvorwurf für den von § 826 BGB geforderten Vorsatz nicht genügt. Erforderlich wäre weitergehend, dass die verfassungsmäßig bestellten Vertreter die Betroffenheit des hier streitgegenständlichen Fahrzeugtyps und die damit verbundene Schädigung potentieller Erwerber im Zeitpunkt des Fahrzeugerwerbs durch den Kläger oder jedenfalls im Zeitpunkt der Auslieferung nicht nur für möglich hielten, sondern auch billigend in Kauf genommen haben. Dies lässt sich nach den von der Beklagten unwidersprochen dargelegten zeitlichen Abläufen aber nicht annehmen.Wie die Beklagte unwidersprochen dargelegt hat, hat sie nach Aufkommen der Dieselthematik in den USA Erkundigungen bei Audi als Zulieferer eingezogen, ob in den an sie gelieferten EU V6 (TDI) Motoren unzulässige Abschalteinrichtungen enthalten seien, was von Audi Ende September 2015 mehrfach ausdrücklich verneint worden sei. Nachdem Anfang November 2015 bekannt geworden sei, dass in den USA auch ein Porsche Modell betroffen sein soll, in welchem die US-amerikanische Variante des 3,0 Liter V 6 (TDI) Motors verbaut ist, habe sie von Audi - auch dies ist unstreitig geblieben - schriftliche Bestätigungen verlangt, dass die an Porsche gelieferten V6 (TDI) Motoren mit EU-Abgaskonzepten - anders als die US-amerikanische Variante - keine unzulässigen Abschalteinrichtungen enthalte. Dies habe ihr Audi mehrfach, etwa mit schriftlicher Erklärung vom 24. November 2015, aber auch nachfolgend im März und Juli 2016 bestätigt. Wie die Beklagte weiter dargelegt hat, hat der Vorstand der Beklagten diesen schriftlichen Bestätigungen des Zulieferers vertraut.Der Kläger ist diesem Vorbringen der Beklagten in keiner Weise entgegengetreten. Weder hat sie bestritten, dass sich die Beklagte in der von ihr geschilderten Weise um Aufklärung bemüht hat, noch hat sie die als Anlagen eingereichten Bestätigungen des Zulieferers in irgendeiner Weise in Zweifel gezogen. Vor diesem Hintergrund sieht das Gericht keine belastbaren Anhaltspunkte dafür, dass die verfassungsmäßig bestellten Vertreter der Beklagten im hier maßgeblichen Zeitraum nicht nur für möglich hielten, sondern weitergehend (zumindest) billigend in Kauf genommen haben, dass die im europäischen Raum - und damit auch im streitgegenständlichen Fahrzeugtyp - verbauten EU V6 (TDI) Motoren ebenfalls mit entsprechenden unzulässigen Abschalteinrichtungen versehen sind. Dies gilt um so mehr, als offenbar auch das Kraftfahrtbundesamt zum damaligen Zeitpunkt nicht vom Einsatz einer unzulässigen Abschalteinrichtung ausging.2. Auch ein Anspruch aus §§ 823 Abs. 2, 31 BGB i.V.m. § 263 StGB ist nicht gegeben. Voraussetzung wäre, dass ein verfassungsmäßig berufener Vertreter im Sinne des § 31 BGB den objektiven und subjektiven Tatbestand des § 263 BGB verwirklicht hat. Schon der im Rahmen des § 263 StGB erforderliche Vorsatz ist aber aus den oben ausgeführten Gründen nicht hinreichend dargelegt.3. Ein Anspruch aus § 831 Abs. 1 BGB i.V.m. § 826 BGB kommt ebenfalls nicht in Betracht. Der Kläger hat bereits nicht dargelegt, dass Mitarbeiter der Beklagten in die Entwicklung der Abschalteinrichtung bei der Audi AG eingebunden waren. Soweit er auch insoweit auf das bereits oben zitierte Urteil des Landgerichts Kiel vom 30.10.2019 (Az. 12 O 406/17) verwiesen hat, nach dem auch der Leiter der Elektronikabteilung ... Kenntnis von der unzulässigen Abschalteinrichtung gehabt habe, wird auf die obigen Ausführungen verwiesen.4. Ein Schadensersatzanspruch aus § 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV kommt darüber hinaus schon deshalb nicht in Betracht, weil §§ 6 Abs. 1, 27 Abs. 1 EG-FGV kein Schutzgesetz im Sinne des § 823 Abs. 2 BGB ist (vgl. OLG Braunschweig BeckRS 2019, 2737)Die Kostenentscheidung folgt aus § 91 Abs. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf §§ 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2360593.html (https://oj.is/2360593)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSchleswig-HolsteinOrdentliche GerichtsbarkeitOLG SchleswigRechtsprechungUrteil vom 11.03.2022 - 1 U 94/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Schleswig, Urteil vom 11.03.2022 - 1 U 94/21
+                      m. Fundstelle
+                      OLG Schleswig, Urteil vom 11.03.2022 - 1 U 94/21 = openJur 2022, 5584
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Schleswig, Urteil vom 11.03.2022 - 1 U 94/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 5584
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Dem Käufer eines bewusst mit einer unzulässigen Abschalteinrichtung versehenen, direkt von der Herstellerin erworbenen Neufahrzeugs steht nach Verjährung seines Anspruchs aus § 826 BGB ein Anspruch auf Restschadensersatz nach § 852 BGB zu. 
+				
+				Tenor
+				Die Berufung der Beklagten gegen das Urteil des Landgerichts Kiel vom 10.09.2021 wird zurückgewiesen.Die Beklagte hat die Kosten des Berufungsverfahrens zu tragen.Dieses Urteil und das angefochtene Urteil sind ohne Sicherheitsleistung vorläufig vollstreckbar.  
+				Gründe
+				I.Die Klägerin verlangt von der Beklagten Schadensersatz, weil die Motorsteuerung ihres PKW manipulierend auf den Stickoxidausstoß einwirkte.Die Klägerin bestellte am 21.09.2011 einen neuen VW Tiguan 2,0l TDI bei der X GmbH zu einem Preis von 35.792,70 € (Anlage K 50, AB). Der PKW ist mit einem von der Beklagten entwickelten und hergestellten Motor EA189 ausgerüstet. Die Motorsteuerung erkannte, wenn sich der PKW auf einem Abgas-Prüfstand befand. Der Motor lief dann in einem Modus 1, wobei es zu einer erhöhten Abgasrückführung und dadurch zu einem geringeren Stickoxidausstoß kam. Im normalen Straßenverkehr wurde in einen Modus 0 mit einer geringeren Abgasrückführung und einem dadurch höheren Stickoxidausstoß umgeschaltet. Auf Verpflichtung durch das Kraftfahrt-Bundesamt entwickelte die Beklagte Updates zur Beseitigung der Umschaltung, die auf die Motorsteuerungen der betroffenen Fahrzeuge aufgespielt wurden.Die Beklagte teilte am 22.09.2015 in einer ad-hoc-Mitteilung und einer Presseerklärung mit, dass Millionen Fahrzeuge der Konzernmarken mit einer von dem Kraftfahrt-Bundesamt beanstandeten Software ausgestattet waren. In einer Presserklärung vom 15.10.2015 teilte sie mit, dass die betroffenen Fahrzeuge vom Kraftfahrt-Bundesamt zurückgerufen worden waren. In einer Presseerklärung vom 15.11.2015 stellte sie das zur Entfernung der Abschalteinrichtung entwickelte Update vor. Die Beklagte und ihre Tochtergesellschaften richteten im Oktober 2015 Internetseiten ein, auf denen Halter durch Eingabe der FIN prüfen konnten, ob ihr Fahrzeug von der Manipulation betroffen war, und machten dies durch Pressemitteilungen bekannt. Die Beklagte unterrichtete noch im Jahr 2015 das Händlernetzwerk über die Manipulation. Über alle diese Umstände wurde umfangreich in allen Medien berichtet. Ab Februar 2016 versandte die Beklagte an die Halter Schreiben, in denen sie darüber informierte, dass ihr Fahrzeug von der beanstandeten Software betroffen war.Die Beklagte erhebt die Einrede der Verjährung.Die Klägerin hat die Verurteilung der Beklagten zur Zahlung von 35.782,70 € nebst Zinsen abzgl. einer Nutzungsentschädigung Zug um Zug gegen Übereignung des PKW sowie weiterer 1.492,05 € und die Feststellung des Annahmeverzuges begehrt. Die Beklagte hat Klagabweisung beantragt.Die Beklagte hat behauptet, die Klägerin habe bereits im Jahr 2015 aufgrund der umfangreichen Berichterstattung Kenntnis von der Abschalteinrichtung und allen anspruchsbegründenden Tatsachen gehabt. Spätestens seit 2016 habe sie aufgrund des Informationsschreibens Kenntnis gehabt.Sie habe durch den Einbau der Abschalteinrichtung eine Ersparnis erlangt, die sich auf ca. 93,00 € belaufe. Der Gewinn je Fahrzeug sei nicht feststellbar, betrage jedoch jedenfalls unter 600,00 €.Das Landgericht, auf dessen Urteil wegen der näheren Einzelheiten gemäß § 540 Abs. 1 Nr. 1 ZPO Bezug genommen wird, hat die Beklagte unter Klagabweisung im Übrigen zur Zahlung von 16.829,46 € nebst Zinsen Zug um Zug gegen Übereignung des Fahrzeugs verurteilt. Zur Begründung hat es im Wesentlichen ausgeführt, der Klägerin stehe ein Anspruch aus § 826 BGB zu, der jedoch teilweise verjährt sei. Teilweise sei der Anspruch nach § 852 BGB nicht verjährt. Die Beklagte habe den Kaufpreis auf Kosten der Klägerin erlangt. Diese habe das Fahrzeug als Neuwagen bestellt. Der Verkauf sei im Namen der Beklagten erfolgt. Die Vorschrift sei nicht aufgrund der Möglichkeit, sich der Musterfeststellungsklage anzuschließen, teleologisch zu reduzieren. Dem Schädiger sollten auch nach Verjährung des Schadensersatzanspruchs die Vorteile der Tat entzogen werden. Es sei nicht ersichtlich, dass das nur der Fall sein solle, wenn die Erhebung der Klage in der Verjährungsfrist mit Risiken verbunden sei oder der Geschädigte alles unternommen habe, die Verjährung zu hemmen. Die Höhe des Anspruchs sei durch die Höhe des Schadensersatzanspruchs begrenzt. Daher müsse die Klägerin das Fahrzeug Zug um Zug übereignen. Von dem erlangten Kaufpreis seien die Nutzungsvorteile mit 18.953,24 € abzuziehen. Der Rest sei weniger als das, was die Beklagte abzüglich Händlermarge und Umsatzsteuer erhalten haben müsse.Gegen dieses Urteil richtet sich die frist- und formgerecht eingelegte und begründete Berufung der Beklagten. Zur Begründung führt sie im Wesentlichen aus, § 852 BGB sei nicht anwendbar, weil kein wirtschaftlicher Schaden vorliege, sondern nur ein normativer.Die Vorschrift sei teleologisch zu reduzieren. Ihr Sinn sei, den Geschädigten vor ungewissen Prozessrisiken zu schützen. Diese hätten nicht vorgelegen, weil der Kläger sich der Musterfeststellungsklage hätte anschließen können.Jedenfalls die Höhe des Anspruchs sei falsch ermittelt worden. Vermögensvorteil sei nur der Nettogewinn. Der Gewinn durch den Einsatz der Abschalteinrichtung habe 93,00 € betragen. Der Gewinn je Fahrzeug sei nicht feststellbar, liege jedoch jedenfalls unter 600,00 €. Das Landgericht habe die Grundlage seiner Schätzung nicht angegeben. Abzuziehen sei der Aufwand für die Schadensminderung und -beseitigung im Interesse des Geschädigten, nämlich die anteiligen Kosten für den Rückruf und das Update. Die Vorschrift des § 818 Abs. 3 BGB sei anwendbar, §§ 818 Abs. 4, 819 Abs. 1 BGB stünden dem nicht entgegen.Die Beklagte beantragt,das am 10.09.2021 verkündete Urteil des Landgerichts Kiel, Az. 9 O 263/20, im Umfang der Beschwer der Beklagten abzuändern und die Klage vollumfänglich abzuweisen.Die Klägerin beantragt,die Berufung zurückzuweisen;hilfsweise für den Fall, dass das Gericht von der Verjährung der Schadensersatzansprüche sowie von der Unbegründetheit der bezifferten Anträge ausgehen sollte,die Beklagte zu verurteilen, Auskunft an sie zu erteilen, welchen Kaufpreis sie durch den Verkauf des Fahrzeugs VW Tiguan 2.0 TDI (Fahrzeugidentifikationsnummer:  ), an die Erstankäuferin vereinnahmt hat und welche Nutzungen sie seither aus dem vereinnahmten Kaufpreis gezogen hat;für den Fall, dass dieser Antrag Erfolg hat,die Beklagte zu verurteilen, die Richtigkeit der Auskunft an Eides statt zu versichern;die Beklagte zu verurteilen, an sie Schadensersatz in einer Höhe zu bezahlen, die nach Erteilung der Auskunft noch zu bestimmen ist, nebst Zinsen aus dem fraglichen Betrag in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit.Die Klägerin verteidigt das Urteil des Landgerichts.II.Die zulässige Berufung der Beklagten hat in der Sache keinen Erfolg.1. Die Feststellungen des Landgerichts zu dem Anspruch der Klägerin gegen die Beklagte aus § 826 BGB und zu dessen Verjährung werden mit der Berufung nicht angegriffen.2. Der Klägerin steht ein Anspruch aus § 852 BGB zu.a) Der Käufer eines mit einer unzulässigen Abschalteinrichtung versehenen Fahrzeugs hat einen wirtschaftlichen Schaden erlitten (OLG Koblenz, Urteil vom 29.07.2021, 6 U 934/20, Rn. 59 bei juris; OLG Hamm, Urteil vom 03.05.2021, 17 U 196/20, Rn. 4 bei juris; OLG Oldenburg, Urteil vom 22.04.2021, 14 U 225/20, Rn. 46 bei juris; OLG Stuttgart, Urteil vom 09.03.2021, 10 U 339/20, Rn. 46 f. bei juris). Daran ändert es nichts, dass der Schaden in Form der Belastung mit einem ungewollten Vertrag aufgrund einer normativen Betrachtung ermittelt wird (a. A. OLG Bamberg, Urteil vom 22.09.2021, 3 U 269/21, Rn. 55 ff. bei juris; OLG Oldenburg, Beschluss vom 05.01.2021, 2 U 168/20, Beilage § 852, Bl. 606 ff. d. A.). Denn der so ermittelte Schaden macht sich wirtschaftlich in Form der Belastung mit dem gezahlten Kaufpreis bemerkbar. Darin setzt sich der Schaden durch die Eingehung einer ungewollten Verbindlichkeit fort (BGH, Urteil vom 28.09.2021, VI ZR 29/20, Rn. 24 bei juris).Die Vorschrift des § 852 BGB ist anwendbar, auch wenn eine Erwerberin eines vom Abgasskandal betroffenen Fahrzeugs ein voll funktionsfähiges Fahrzeug erworben und seitdem genutzt hat (a. A. OLG Bamberg, Urteil vom 04.08.2021, 3 U 110/21, Rn. 10 f.; OLG Düsseldorf, Urteil vom 20.05.2021, 5 U 57/20, Rn. 55 ff.). Denn der Schaden in Form der ungewollt eingegangenen Verbindlichkeit besteht unabhängig von der Nutzbarkeit des Fahrzeugs. Die Kompensation erfolgt durch die Anrechnung des Nutzungsvorteils bei der Ermittlung der Schadenshöhe. Da der Anspruch aus § 852 BGB u. a. durch die Höhe des Schadensersatzanspruchs begrenzt wird, wirkt diese Kompensation auch dort.b) Der Anspruch ist nicht aus dem Grund ausgeschlossen, dass die Klägerin sich nicht an der Musterfeststellungsklage beteiligt hat. Die Vorschrift des § 852 BGB ist nicht dahin teleologisch zu reduzieren, dass sie nicht eingreift, wenn der Geschädigte den Anspruch hat verjähren lassen, obwohl eine Klage ohne besonderes Prozessrisiko möglich gewesen wäre (BGH, Urteile vom 21.02.2022, VIa 8/21 und VIa 57/21; OLG Koblenz, Urteil vom 29.07.2021, 6 U 934/20, Rn. 61 bei juris; OLG Karlsruhe, Urteil vom 09.07.2021, 13 U 168/21, Rn. 77 bei juris; OLG Oldenburg, Urteil vom 22.04.2021, 14 U 225/20, Rn. 48 f. bei juris; OLG Koblenz, Urteil vom 31.03.2021, 7 U 1602/20, Rn. 47 ff. bei juris; OLG Stuttgart, Urteil vom 09.03.2021, 10 U 339/20, Rn. 468 ff. bei juris; a. A. OLG Bamberg, Urteil vom 22.09.2021, 3 U 269/21, Rn. 45 ff. bei juris; OLG Frankfurt, Beschluss vom 21.01.2021, 19 U 170/20, Rn. 17 bei juris; GA Martinek, S. 27 ff., Beilage § 852, AB).Die teleologische Reduktion der Vorschrift wird damit begründet, dass sie nach dem Willen des Gesetzgebers die Geschädigte begünstigen solle, indem sie ihr einer längere Bedenkfrist gebe, ob sie den Anspruch gerichtlich durchsetzen wolle. Dieser Begünstigung bedürfe sie nicht, wenn sie ohne Prozessrisiko gegen den Schädiger vorgehen könne (GA Martinek, S. 28 f.).Richtig ist, dass sich die Gesetzesbegründung auf Konstellationen stützt, in denen die Geschädigte eine längere Bedenkfrist, benötigt, etwa weil der Schädiger derzeit vermögenslos oder der Bestand eines Patents unsicher ist (BT-Drucks. 14/6040, S. 270). Indes ist damit nicht abschließend bestimmt, dass die Vorschrift nur in solchen Fällen eingreifen soll. Denn es werden nur Beispiele genannt, in denen sie von Bedeutung sein kann.Dementsprechend ist eine Anspruchsvoraussetzung im Sinne eines vertretbaren Verjährenlassens des Schadensersatzanspruchs nicht in den Wortlaut des § 852 BGB aufgenommen worden. Nach dem Wortlaut ist es vielmehr unerheblich, wie es zu der Verjährung gekommen ist, insbesondere ob der Geschädigte die anspruchsbegründenden Tatsachen kannte oder grob fahrlässig nicht kannte, wie er sie rechtlich bewertete und wie er die Risiken einer gerichtlichen Durchsetzung beurteilte. Dass insbesondere die Möglichkeit, sich einer Musterfeststellungsklage anzuschließen, einen Anspruch aus § 852 BGB nicht ausschließen soll, ergibt sich daraus, dass diese Vorschrift bei der Einführung des § 204 Abs. 1 Nr. 1a BGB unverändert gelassen wurde (OLG Koblenz, Urteil vom 31.03.2021, 7 U 1602/20, Rn. 53 bei juris).Die Vorschrift des § 852 BGB bezweckt jedenfalls auch die Abschöpfung eines Vermögensvorteils aufgrund eines Delikts beim Schädiger (BGH, Urteil vom 14.02.1978, X ZR 19/76, Rn. 62 bei juris; BGH, Urteil vom 10.06.1965, VII ZR 198/63, Rn. 66 bei juris). Damit wäre es unvereinbar, den Anspruch davon abhängig zu machen, ob der Geschädigte den Schadensersatzanspruch aufgrund vertretbarer Erwägungen hat verjähren lassen. Es ist nicht begründbar, dass der Schädiger über die Beschränkung des Anspruchs auf das Erlangte hinaus weiter begünstigt werden soll, wenn der Geschädigte den Anspruch in vorwerfbarer Weise hat verjähren lassen.Im Übrigen ist nicht trennscharf zu definieren, wann das Verhalten des Geschädigten vorwerfbar sein soll. Es müssten in jedem Fall die Kenntnisse des Geschädigten und ihre Motive, den Schadenersatzanspruch nicht gerichtlich geltend zu machen, einer Prüfung unterzogen werden. Ein Maßstab dafür findet sich in der Vorschrift des § 852 BGB nicht.Im vorliegenden Fall müsste feststehen, dass die Klägerin die Anspruchsvoraussetzungen kannte, die zutreffenden rechtlichen Schlüsse daraus zog und wusste, dass sie durch die Meldung zur Musterfeststellungsklage die Verjährung hemmen konnte. Zu den letzten beiden Punkten trägt die Beklagte nichts vor.c) Die Beklagte hat etwas auf Kosten der Klägerin erlangt. Dieses Merkmal erfordert keine unmittelbare Vermögensverschiebung zwischen dem Geschädigten und dem Schädiger. Es ist vielmehr eine wirtschaftliche Betrachtungsweise anzustellen. Es reicht, wenn der Vermögenszuwachs bei dem Schädiger und die Vermögenseinbuße bei dem Geschädigten kausal auf die deliktische Handlung zurückzuführen sind (BGH, Urteil vom 14.02.1978, X ZR 19/76, Rn. 62 f. bei juris; BGH, Urteil vom 10.06.1965, VII ZR 198/63, Rn. 66 bei juris; Staudinger/Vieweg, BGB (2015), § 852, Rn. 9; MK-BGB/Wagner, BGB, 8. Aufl., § 852, Rn. 7; Grüneberg/Sprau, BGB, 81. Aufl., § 852, Rn. 2; GA Martinek, S. 39, 41, 43; GA Artz, S. 31 ff. Bl. 463 ff. d. A.).Der Kausalzusammenhang zwischen dem Delikt und dem Vermögensabfluss und -zufluss ist gegeben, wenn das mit der unzulässigen Abschalteinrichtung versehene Fahrzeug als Neufahrzeug erworben wird (BGH, Urteile vom 21.02.2022, VIa 8/21 und VIa 57/21). Die Klägerin hat das streitgegenständliche Fahrzeug als Neufahrzeug bei einer Vertragshändlerin bestellt, die dabei im Namen und für Rechnung der Beklagten handelte. Sie ging mit der Bestellung eine ungewollte Verbindlichkeit ein. Die Beklagte brachte das Fahrzeug aufgrund der Bestellung in Verkehr und erhielt einen Vermögenszufluss in Form der Kaufpreiszahlung. Die Klägerin erlitt einen Vermögensabfluss, als sie in Erfüllung der Verbindlichkeit den Kaufpreis zahlte.d) Die Beklagte hat den Nettokaufpreis abzüglich der Händlermarge erlangt. Da sie nach § 819 Abs. 1 BGB bösgläubig war, sind die Herstellungskosten nicht abzuziehen (BGH, Urteile vom 21.02.2022, VIa 8/21 und VIa 57/21).Im Übrigen hat die Klägerin nicht nur den Nettogewinn für das Fahrzeug oder nur den Nettogewinn aufgrund des Einsatzes der unzulässigen Abschalteinrichtung erlangt (OLG Schleswig, Urteil vom 22.10.2021, 17 U 40/21, Rn. 38 bei juris; OLG Oldenburg, Urteil vom 22.04.2021, 14 U 225/20, Rn. 51 ff. bei juris; OLG Stuttgart, Urteil vom 09.03.2021, 10 U 339/20, Rn. 61 ff. bei juris; a. A. OLG Bamberg, Urteil vom 22.09.2021, 3 U 269/21, Rn. 42 f. bei juris; OLG Stuttgart, Urteil vom 12.05.2021, 9 U 17/21, Rn. 67 ff. bei juris; OLG Düsseldorf, Urteil vom 13.04.2021, 23 U 143/20, Rn. 29; OLG Stuttgart, Urteil vom 10.03.2021, 9 U 402/21, S. 14 f., Beilage § 852, Bl. 613 ff.; GA Martinek, S. 60 f.).Dagegen lässt sich nicht einwenden, dass es im Rahmen des § 852 BGB allein um die Gewinnabschöpfung gehe (so GA Martinek, S. 60 f.) oder die Kosten der Herstellung des Fahrzeugs bei der gebotenen wirtschaftlichen Betrachtung abzuziehen seien (so OLG Stuttgart, Urteil vom 10.03.2021, 9 U 402/21, S. 14 f., Beilage § 852, Bl. 613 ff.). Dass bei Patentverletzungen der Schaden des Patentinhabers u. a. anhand des vom Verletzer erzielten Gewinns berechnet werden kann (BGH NJW 1962, 1507) und sich nach der Verjährung des Schadensersatzanspruches der Anspruch auf Herausgabe des Verletzergewinns in dem Anspruch aus § 852 BGB fortsetzen kann (BGH, Urteil vom 26.03.2019, X ZR 109/16, Rn. 15 ff.), ist nicht verallgemeinerungsfähig, sondern beruht auf den Besonderheiten des Patentrechts (OLG Stuttgart, Urteil vom 09.03.2021, 10 U 339/20, Rn. 73 f. bei juris). Die Besonderheit besteht darin, dass der Eingriff in das Recht bereits im Gebrauch des Patents liegt. Der dadurch erlangte Vorteil kann nicht herausgegeben werden, sodass der Schädiger Wertersatz in Form einer Lizenzgebühr schuldet (BGH, Urteil vom 26.03.2019, X ZR 109/16, Rn. 16). Der Verletzte kann aber nach den Regeln des Patentrechts auch den Gewinn abschöpfen, der dem Schädiger nicht verbleiben soll (BGH, Urteil vom 26.03.2019, X ZR 109/16, Rn. 20). Dieses Ziel setzt sich in dem Anspruch aus § 852 BGB fort.Bei dem Inverkehrbringen eines mit einer unzulässigen Abschalteinrichtung versehenen Fahrzeugs ist eine andere wirtschaftliche Betrachtungsweise geboten. Der Schadensersatzanspruch aus § 826 bezweckt nicht die Abschöpfung von Gewinn der Beklagten, sondern die Kompensation des Schadens der Erwerberin in der Form der Zahlung des Kaufpreises. Die Beklagte hat unter der Aufwendung von Kosten einen Wert geschaffen, der sich in dem Fahrzeug verkörpert und sich in dem Kaufpreis ausdrückt. Sie erhält für die Hergabe des Fahrzeuges den vom Händler gezahlten Kaufpreis, nicht nur einen Gewinnanteil.Die Rechtsfolgen des Anspruchs aus § 852 BGB richten sich nach § 818 ff. BGB. Danach ist es unerheblich, welche Kosten die Beklagte für die Herstellung des Fahrzeugs hatte. Zur Ermittlung der Höhe von Bereicherungsansprüchen wird der Aufwand des Schuldners zur Erlangung des Vermögensvorteils ebenfalls nicht betrachtet, um das Erlangte zu ermitteln. Ein Ausgleich findet bei wechselseitigen Bereicherungsansprüchen dadurch statt, dass die jeweiligen Leistungen rückabzuwickeln und bei Gleichartigkeit zu saldieren sind. Damit korrespondiert, dass der geschädigte Fahrzeugkäufer im Wege der Vorteilsausgleichung auch bei der Geltendmachung des Anspruchs aus § 852 BGB das Fahrzeug an die Beklagte übereignen und herausgeben muss, weil sein Anspruch durch den ursprünglichen Schadensersatzanspruch begrenzt wird. Dadurch gelangt der durch die Produktion geschaffene Wert an die Beklagte zurück (OLG Schleswig, Urteil vom 22.10.2021, 17 U 40/21, Rn. 38 bei juris). Eine doppelte Begünstigung der Beklagten durch die Anrechnung der Kosten der Herstellung des Fahrzeugs und durch dessen Rückerwerb wäre nicht gerechtfertigt.e) Das Landgericht hat die Höhe des Erlangten nicht fehlerhaft zu Lasten der Beklagten geschätzt. Es hat zutreffend angenommen, dass der der Klägerin zugesprochene Betrag unterhalb dessen liegt, was der Beklagten zugeflossen ist.Der Kaufpreis betrug 35.782,70 brutto, das entspricht 30.069,50 netto. Der Senat schätzt die Händlermarge auf maximal 15 %. Angesichts des Umstandes, dass die Beklagte angibt, selbst nur einen Nettogewinn von maximal 600,00 € je Fahrzeug zu erzielen, erscheint dieser Wert realistisch. Der der Beklagten zugeflossene Betrag wird danach auf mindestens 26.147,39 € geschätzt, was deutlich über dem zugesprochenen Betrag liegt.f) Die Beklagte kann sich nicht auf eine Entreicherung nach § 818 Abs. 3 BGB wegen der anteiligen Kosten des Rückrufs und der Entwicklung des Updates berufen. Es kann offenbleiben, ob diese Vorschrift auch bei Bösgläubigkeit des Schuldners anwendbar ist (so GA Martinek, S. 46 ff.), wogegen allerdings Wortlaut und Zweck der § 819 Abs. 1, 818 Abs. 4 BGB sprechen dürften. Denn die Beklage hat keine Aufwendungen zu Gunsten des Klägers getätigt.Die Kosten des Rückrufes und der Entwicklung des Updates standen mit dem Erlangten nicht in Zusammenhang. Sie kamen dem Kläger auch nicht zugute. Denn der Schaden durch die Belastung mit der ungewollten Verbindlichkeit wurde durch das Update nicht beseitigt (BGH, Urteil vom 25.05.2020, VI ZR 252/19, Rn. 58 bei juris). Zudem hat die Beklagte die Aufwendungen nicht im Interesse der Geschädigten getätigt, sondern im Eigeninteresse, um den Auflagen des Kraftfahrt-Bundesamts nachzukommen.3. Der Hilfsantrag der Klägerin entfaltet keine Wirkung. Es handelt sich der Sache nach um eine Hilfsanschlussberufung. Eine Hilfsanschlussberufung ist zulässig (Zöller/Heßler, ZPO, 34. Aufl., § 524, Rn. 17). Da keine Frist zur Berufungserwiderung gesetzt worden ist, ist die Anschlussberufung auch nicht verfristet.Die Bedingung für die Bescheidung des Hilfsantrags ist aber nicht eingetreten. Der Senat geht zwar von der Verjährung des Anspruchs aus § 826 BGB aus, aber auch davon, dass der Anspruch aus § 852 BGB in der vom Landgericht ausgeurteilten Höhe besteht.4. Die Kostenentscheidung folgt aus § 97 Abs. 1 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit aus §§ 708 Nr. 10, 713 ZPO.Die Zulassung der Revision ist nicht angezeigt, weil die Rechtssache weder grundsätzliche Bedeutung hat noch die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Revisionsgerichts erfordert (§ 543 Abs. 2 ZPO). Es handelt sich um eine Entscheidung im Einzelfall. Die entscheidungserheblichen Rechtsfragen sind geklärt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2390422.html (https://oj.is/2390422)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate18
+				
+				
+					 Zitiert7
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

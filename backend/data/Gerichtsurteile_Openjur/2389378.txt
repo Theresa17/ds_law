@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG ArnsbergRechtsprechungUrteil vom 22.01.2020 - 2 O 77/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Arnsberg, Urteil vom 22.01.2020 - 2 O 77/19
+                      m. Fundstelle
+                      LG Arnsberg, Urteil vom 22.01.2020 - 2 O 77/19 = openJur 2022, 5405
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Arnsberg, Urteil vom 22.01.2020 - 2 O 77/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 5405
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist hinsichtlich der Kosten gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten im Zusammenhang mit der Abgasthematik.Der Kläger erwarb am 22.08.2017 das im Antrag zu 1.) näher bezeichnete Fahrzeug zu einem Kaufpreis in Höhe von 33.960,00 €. Zur Finanzierung des Kaufpreises nahm der Kläger ein Darlehen auf.In dem vom Kläger gekauften Fahrzeug befindet sich ein Dieselmotor des Typs EA 288.Das Fahrzeug ist jedenfalls bislang von keinem Rückruf des Kraftfahrtbundesamtes (nachfolgend: KBA) betroffen.Der Kläger ist der Ansicht, dass das Fahrzeug über unzulässige Abschalteinrichtungen im Sinne von Artikel 5 Abs. 3 der Verordnung (EG) Nr. 715/2007 verfüge. Insbesondere sei das von der Beklagten in der Motorsteuerungssoftware hinterlegte sog. Thermofenster eine unzulässige Abschalteinrichtung. Darüber hinaus erkenne das Fahrzeug die Fixierung von Vorderrädern im Prüfstand und schalte in der Folge "nur für die Prüfstandanordnung in den gesetzlich vorgeschriebenen sauberen Modus, während auf der Straße die Abgasreinigungssysteme weitestgehend ausgeschaltet bleiben". Zudem besitze das Fahrzeug einen Temperatursensor. Dieser messe "die Temperatur und erkennt, wenn die Umgebungstemperatur über einen der Prüfstandsanordnung vorausgehenden Zeitraum konstant 20 Grad Celsius beträgt". Auch erfasse das streitgegenständliche Fahrzeug die Dauer der Messung und wechsele nur "für diesen Zeitraum in einen Fahrmodus, der den gesetzlich vorgeschriebenen Abgaswerten gerecht wird".Der Kläger beantragt:1. Die Beklagte wird verurteilt, an die Klagepartei 35.242,18 € nebst Zinsen in Höhe von 4 Prozent seit dem 23.08.2017 bis 22.01.2019 und seither fünf Prozentpunkten über dem Basiszinssatz abzüglich einer im Termin zu beziffernden Nutzungsentschädigung Zugum-Zug gegen Rückgabe und Übereignung des Fahrzeugs G1, Fahrgestellnummer XXX1 zu zahlen.2. Es wird festgestellt, dass sich die Beklagte seit dem 23.01.2019 mit der Rücknahme des im Klageantrag zu 1.) bezeichneten Gegenstandes in Annahmeverzug befindet.3. Die Beklagte wird verurteilt, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.698,13 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 23.01.2019 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die wechselseitigen Schriftsätze der Parteien nebst Anlagen Bezug genommen. 
+				Gründe
+				I.Die zulässige Klage ist unbegründet.1.Ein Anspruch auf die begehrte Rückabwicklung des Kaufvertrages und Feststellung des Annahmeverzugs besteht unter keinem Gesichtspunkt.Alle in Betracht kommenden Ansprüche, auch § 826 BGB i. V. m. § 31 BGB, setzen die Kenntnis des Vorstandes oder eines Vorstandsmitgliedes der Beklagten von dem Einbau der vermeintlichen "Schummelsoftware" und deren Wirkweise voraus. Wann welches Vorstandsmitglied zu welcher Zeit konkrete Kenntnisse von dem Einbau und der Wirkweise der Software des streitgegenständlichen 2,0-Liter-Motors erlangt hat, ist weder vorgetragen noch sonst ersichtlich. Zu beachten ist hierbei, dass der betroffene Motor nicht von der Beklagten hergestellt, sondern lediglich eingebaut wurde. Die Herstellung erfolgte durch die F1. Eine etwaige Kenntnis deren Vorstandes kann der Beklagten nicht zugerechnet werden.2.Selbst wenn man eine solche Kenntnis der Beklagten unterstellt, hat der Kläger keinen Anspruch gegen die Beklagte.Der Kläger hat gegen die Beklagte weder einen Anspruch auf Schadensersatz aus §§ 826, 31 BGB noch aus §§ 823 Abs. 2 i. V. m. § 263 StGB, § 16 UWG oder Art. 5 Abs. 2 VO (EG) Nr. 715/2007.a)Der Kläger hat gegen die Beklagte keinen Schadensersatzanspruch wegen vorsätzlicher sittenwidriger Schädigung gem. §§ 826, 31 BGB.aa)Objektiv sittenwidrig ist nach der Rechtsprechung ein Verhalten, das nach Inhalt oder Gesamtcharakter, der durch zusammenfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt, das heißt mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist (BGH, Urteil vom 19.11.2013 - VI ZR 336/12, NJW 2014, 383, Rn. 9; Teilversäumnis- und Endurteil vom 28.06.2016 - VI ZR 536/15, NJW 2017, 250, Rn. 16). Dass das Verhalten gegen vertragliche Pflichten oder das Gesetz verstößt, unbillig erscheint oder einen Schaden hervorruft, genügt nicht. Insbesondere die Verfolgung eigener Interessen bei der Ausübung von Rechten ist im Grundsatz auch dann legitim, wenn damit eine Schädigung Dritter verbunden ist (BGH, Urteil vom 19.10.1987 ‒ II ZR 9/87, NJW 1988, 700). Hinzutreten muss eine besondere Verwerflichkeit des Verhaltens, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zu Tage tretenden Gesinnung oder den eintretenden Folgen ergeben kann (BGH, Urteil vom 13.12.2011 − XI ZR 51/10, NJW 2012, 1800, Rn. 28; Urteil vom 03.12.2013 - XI ZR 295/12, NJW 2014, 1098; Urteil vom 15.10.2013 - VI ZR 124/12, NJW 2014, 1380; vgl. insgesamt Palandt/Sprau, BGB, 78. Aufl. 2019, § 826, Rn. 4 m.w.N.).bb)Subjektiv ist ein Bewusstsein der Sittenwidrigkeit nicht erforderlich. Der Schädiger muss aber grundsätzlich die Tatumstände kennen, die sein Verhalten als sittenwidrig erscheinen lassen (BGH, Urteil vom 13.09.2004 ‒ II ZR 276/02, NJW 2004, 3706, 3710; Teilversäumnis- und Endurteil vom 28.06.2016 - VI ZR 536/15, NJW 2017, 250, Rn. 23; vgl. insgesamt Palandt/Sprau, BGB, 78. Aufl. 2019, § 826, Rn. 5).cc)Es kann dahinstehen, ob es sich bei dem in der Motorsteuerungssoftware des streitgegenständlichen Fahrzeugs vorhandenen sog. Thermofenster um eine unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2 (VO) EG Nr. 715/2007 handelt. Jedenfalls lässt sich aus Sicht des Gerichts nicht feststellen, dass die Beklagte durch die Verwendung eines solchen sog. Thermofensters gegen das Anstandsgefühl aller billig und gerecht Denkenden verstoßen hat.Das Gericht erkennt in der Verwendung von sog. Thermofenstern keine besondere Verwerflichkeit.(1)Die Verwendung von sog. Thermofenstern ist bei Dieselfahrzeugen aller Hersteller weit verbreitet. Im "Bericht der Untersuchungskommission "F2" - Untersuchungen und verwaltungsrechtliche Maßnahmen zu F2, Ergebnisse der Felduntersuchung des Kraftfahrt-Bundesamtes zu unzulässigen Abschalteinrichtungen bei Dieselfahrzeugen und Schlussfolgerungen" (nachfolgend: Bericht der Untersuchungskommission "F2") stellte das Bundesministerium für Verkehr und digitale Infrastruktur (nachfolgend: BMVI) bei allen Herstellern Abschalteinrichtungen gem. der Definition in Artikel 3 der Verordnung (EG) Nr. 715/2007 fest.(2)Die Verwendung von sog. Thermofenstern ist den Zulassungsbehörden bekannt. Außerdem lässt sich dem Bericht der Untersuchungskommission "F2" entnehmen, dass das BMVI gegen die grundsätzliche Verwendung von sog. Thermofenstern keine Bedenken hat, soweit diese zum Motorschutz erforderlich sind. Vor diesem Hintergrund kann allein aus der Verwendung von sog. Thermofenstern nicht auf eine besondere Verwerflichkeit geschlossen werden.(3)Darüber hinaus ist die Kammer nicht der Auffassung, dass durch die Verwendung von sog. Thermofenstern durch die Beklagte eine besondere Verwerflichkeit gerade im Verhältnis zum Kläger gegeben ist. Die Beschränkung der Abgasreinigung auf bestimmte Temperaturbereiche dient gerade dem Schutz und der Dauerhaltbarkeit von Motorbauteilen. Die Dauerhaltbarkeit der Motorbauteile dürfte unter Berücksichtigung der allgemeinen Lebenserfahrung im vorrangigen Interesse der Fahrzeughalter sein. Vor diesem Hintergrund ist eine besondere Verwerflichkeit des Handels der Beklagten gegenüber dem Kläger nicht festzustellen.dd)Zu weiteren im streitgegenständlichen Fahrzeug verwendeten Abschalteinrichtungen trägt der Kläger nicht hinreichend substantiiert vor (vgl. in dem Zusammenhang auch OLG Köln, Hinweisbeschluss vom 06.08.2019 - 7 U 119/19). Allein der Umstand, dass die Beklagte - nach Ansicht des KBA - unzulässige Abschalteinrichtungen in Motoren des Typs EA189 verwendet hat, begründet keinen Generalverdacht gegen die Beklagte. Die Einholung eines Sachverständigengutachtens entspräche insoweit einer Ausforschung des Sachverhalts.Der Bericht der Untersuchungskommission "F2" berücksichtigt das streitgegenständliche Modell (G1) und ordnet das Fahrzeug in die Bewertungsgruppe I ein. Der Gruppe I wurden alle Fahrzeuge zugeordnet, die ein unauffälliges Verhalten zeigten oder bei denen die Hersteller gewisse Auffälligkeiten in der Höhe der NOx-Werte technisch plausibel und akzeptabel darstellen konnten.Dabei ist zu berücksichtigen, dass die Testungen auch Straßenmessungen umschlossen. Vor dem Hintergrund gibt es keinerlei Anhaltspunkte für die behauptete Lenkwinkelerkennung.Weiter ist auch zu berücksichtigen, dass der "Prüfzyklus 2 - NEFZ warm" aufzeigen sollte, ob eine unerlaubte Optimierung der Emissionswerte angewendet wird, indem beispielsweise nach 1180 Sekunden auf eine Reduzierung der Emissionsminderungsmaßnahmen umgeschaltet wird. Vor dem Hintergrund gibt es keinerlei Anhaltspunkte für die behauptete unzulässige Zeiterfassung.Soweit der Kläger einen Temperatursensor beanstandet, erschließt sich die Relevanz nicht.Klarstellend sind auch die klägerseitigen Ausführungen zu der AdBlue-Thematik unerheblich. Das streitgegenständliche Fahrzeug verfügt nicht über einen SCR-Katalysator.ee)Es kann dahinstehen, ob das klägerische Fahrzeug im Realbetrieb einen höheren Stickoxidausstoß aufweist als im Rahmen der für die Zulassung erforderlichen Laboruntersuchung. Unterschiede in Bezug auf den Schadstoffausstoß ergeben sich durch Fahrprofil, Fahrweise und weitere äußere Einflüsse. Es ist nicht erkennbar, inwiefern darin eine vorsätzliche und sittenwidrige Schädigung durch die Beklagte liegen soll.b)Der Kläger hat gegen die Beklagte ebenfalls keinen Anspruch auf Schadensersatz gem. § 823 Abs. 2 i. V. m. § 263 StGB.Eine rechtswidrige Täuschung des Klägers durch die Beklagte ist aus den oben genannten Gründen nicht ersichtlich. Konkrete Hinweise darauf, dass dem klägerischen Fahrzeug ein Entzug der Fahrerlaubnis droht, sind vom Kläger nicht vorgetragen worden. Das streitgegenständliche Fahrzeug ist bislang von keinem Rückruf des KBA betroffen.Wenn der Kläger weiter darauf abstellt, darüber getäuscht worden zu sein, dass der Stickoxidausstoß im Realbetrieb höher ausfällt als im Laborbetrieb, ist von Klägerseite bereits nicht vorgetragen worden, dass die Beklagte behauptet hat, dass die Emissionen im Realbetrieb denen im Laborbetrieb entsprechen. Soweit der Kläger lediglich davon ausgegangen sein sollte, dass dies der Fall ist, liegt jedenfalls keine Täuschung durch die Beklagte vor.c)Der Kläger hat gegen die Beklagte auch keinen Schadensersatzanspruch gem. § 823 Abs. 2 BGB i. V. m. § 16 UWG.aa)Keine Angaben im Sinne des § 16 UWG sind Bezeichnungen ohne inhaltlich nachprüfbaren Tatsachenkern wie plakative allgemeinsprachliche Anpreisungen, einfache Kaufappelle, reine Meinungsäußerungen, subjektive Werturteile oder reklamehafte Übertreibungen (vgl. MüKoUWG/Brammsen UWG § 16 Rn. 50)bb)Es ist bereits nicht ersichtlich, welche unwahren Angaben die Beklagte konkret verbreitet haben soll. Allein der Umstand, dass sich die Beklagte in der öffentlichen Wahrnehmung als besonders umweltfreundlich präsentiert haben mag, reicht als allgemeine Anpreisung nicht aus.d)Schadensersatzansprüche gegen die Beklagte gem. §§ 823 Abs. 2 i. V. m. Art. 5 Abs. 2 VO (EG) Nr. 715/2007 scheiden ebenfalls aus.Es fehlt bereits an der Schutzgesetzeigenschaft des Art. 5 Abs. 2 VO (EG) Nr. 715/2007.aa)Schutzgesetz im Sinne von § 823 Abs. 2 BGB ist jede Rechtsnorm, die zumindest auch dazu dienen soll, einen Einzelnen oder einen bestimmten Personenkreis gegen die Verletzung eines bestimmten Rechtsinteresses zu schützen (vgl. BGH, Urteil vom 13. Dezember 2011, Az. XI ZR 51/10). Der Schutz eines Einzelnen ist dabei nicht bereits dann bezweckt, wenn er als Reflex einer Befolgung der Norm objektiv erreicht wird, sondern nur dann, wenn der Gesetzgeber dem Einzelnen selbst die Rechtsmacht in die Hand geben wollte, mit Mitteln des Privatrechts gegen denjenigen vorzugehen, der das Verbot übertritt und sein Rechtsinteresse beeinträchtigt (vgl. BGH, aaO).bb)Das Gericht schließt sich insoweit den überzeugenden Ausführungen des OLG Braunschweig (Urteil vom 19.02.2019, Az. 7 U 134/17) vollständig an:"Ziel der VO (EG) 715/2007 ist nach deren einleitenden Bemerkungen (1) bis (4) sowie zusammengefasst nochmals in (27) die Harmonisierung des Binnenmarktes / die Vollendung des Binnenmarktes durch Einführung gemeinsamer technischer Vorschriften zur Begrenzung von Fahrzeugemissionen. Zwar werden neben der Vereinheitlichung der Rechtsregelungen ein hohes Umweltschutzniveau (1) als Ziel und die Reinhaltung der Luft als Vorgabe für Regelungen zur Senkung der Emissionen von Fahrzeugen (4) beschrieben, doch folgt aus den Ausführungen unter (7), die die Verbesserung der Luftqualität in einem Zuge mit der Senkung der Gesundheitskosten (und dem Gewinn an Lebensjahren) nennen, dass es auch insoweit nicht um individuelle Interessen, sondern letztlich um umwelt- und gesundheitspolitische Ziele geht. Dass der europäische Gesetzgeber i.S.d. Definition des Schutzgesetzes dem einzelnen Verbraucher die Rechtsmacht in die Hand geben wollte, mit Mitteln des Privatrechts gegen denjenigen vorzugehen, der in dieser Verordnung zur Umsetzung dieser Ziele geregelte Verbote übertritt und sein Rechtsinteresse beeinträchtigt, geht damit aus den Vorbemerkungen nicht hervor. Vielmehr spricht stattdessen sogar der Umstand, dass die Ziele in (7) in Beziehung gesetzt werden zu den Auswirkungen der Emissionsgrenzwerte auf die Märkte und die Wettbewerbsfähigkeit von Herstellern, gegen einen entsprechenden Willen des Gesetzgebers. Dies gilt umso mehr, als auch die Regelungen der VO (EG) 715/2007 selbst keinen Bezug zu Individualinteressen des einzelnen Bürgers aufweisen (so i.E. auch Riehm, DAR 2016, DAR Jahr 2016 Seite 12, DAR Jahr 2016 13). Gerade einen derartigen Bezug zu Individualinteressen sieht der Europäische Gerichtshof aber in seiner Vorabentscheidung vom 16.02.2017, EUGH Aktenzeichen C21915 C - 219/15, zitiert nach juris, Rzn. 55, 56, als Erfordernis für eine Schutzgesetzeigenschaft an."3.Mangels Vorliegens eines Hauptanspruchs des Klägers gegen die Beklagte besteht auch kein Anspruch auf die begehrten Nebenforderungen in Form von vorgerichtlich angefallenen Rechtsanwaltskosten.II.Die prozessualen Nebenentscheidungen folgen aus §§ 91 Abs. 1, 709 ZPO.Der Streitwert wird auf bis zu 35.000,00 EUR festgesetzt.Rechtsbehelfsbelehrung:Gegen dieses Urteil ist das Rechtsmittel der Berufung für jeden zulässig, der durch dieses Urteil in seinen Rechten benachteiligt ist,1. wenn der Wert des Beschwerdegegenstandes 600,00 EUR übersteigt oder2. wenn die Berufung in dem Urteil durch das Landgericht zugelassen worden ist.Die Berufung muss innerhalb einer Notfrist von einem Monat nach Zustellung dieses Urteils schriftlich bei dem Oberlandesgericht Hamm, Heßlerstr. 53, 59065 Hamm, eingegangen sein. Die Berufungsschrift muss die Bezeichnung des Urteils (Datum des Urteils, Geschäftsnummer und Parteien) gegen das die Berufung gerichtet wird, sowie die Erklärung, dass gegen dieses Urteil Berufung eingelegt werde, enthalten.Die Berufung ist, sofern nicht bereits in der Berufungsschrift erfolgt, binnen zwei Monaten nach Zustellung dieses Urteils schriftlich gegenüber dem Oberlandesgericht Hamm zu begründen.Die Parteien müssen sich vor dem Oberlandesgericht Hamm durch einen Rechtsanwalt vertreten lassen, insbesondere müssen die Berufungs- und die Berufungsbegründungsschrift von einem solchen unterzeichnet sein.Mit der Berufungsschrift soll eine Ausfertigung oder beglaubigte Abschrift des angefochtenen Urteils vorgelegt werden.
+			
+			
+			
+			Permalink: https://openjur.de/u/2389378.html (https://oj.is/2389378)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

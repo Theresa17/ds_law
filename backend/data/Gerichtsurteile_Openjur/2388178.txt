@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG IngolstadtRechtsprechungEndurteil vom 29.01.2020 - 33 O 279/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Ingolstadt, Endurteil vom 29.01.2020 - 33 O 279/19
+                      m. Fundstelle
+                      LG Ingolstadt, Endurteil vom 29.01.2020 - 33 O 279/19 = openJur 2022, 8270
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Ingolstadt, Endurteil vom 29.01.2020 - 33 O 279/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 8270
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger trägt die Kosten des Rechtsstreits.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. Beschluss Der Streitwert wird auf 46.890,00 € festgesetzt. 
+				Tatbestand
+				Der Kläger kaufte bei der Beklagten zu 1, einer Vertragshändlerin für Audi-Fahrzeuge in Ingolstadt, am 21.07.2016 das streitgegenständliche Fahrzeug Audi A6 3,0 TDI, zum Kaufpreis von 46.890 € (Anlage K 73).Das Kraftfahrtbundesamt hat für das streitgegenständliche Fahrzeug einen Rückruf angeordnet (Anlage K 77).Der Kläger meint, die Beklagte habe eine unerlaubte Handlung durch Inverkehrbringen des Fahrzeuges mit Dieselmotor mit einer illegalen Programmierung der Motorsteuerung begangen, um die gemessenen Abgaswerte zu manipulieren. Ihm stehe ein Anspruch auf Schadensersatz zu, die Beklagte schulde die Wiederherstellung des Zustandes, der ohne das schadenstiftende Ereignis bestehen würde, der Anspruch des Klägers sei auf Ersatz des negativen Interesses, mithin Rückabwicklung des Vertrages gerichtet. Ferner ergeben sich Ansprüche aus ungerechtfertigter Bereicherung wegen Nichtigkeit des Kaufvertrages sowie Mängelgewährleistungsansprüche aus Kaufrecht.Der Kläger beantragt nach Klageänderung vom 28.06.2019 und 09.10.2019:Die Beklagte zu 1 wird verurteilt, an die Klagepartei 46.890 € nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 04.09.2018 zu bezahlen, Zug um Zug gegen Übereignung und Herausgabe des Pkw Audi A6, 3,0 TDI, FIN XXX Zug um Zug gegen Zahlung einer von der Beklagten zu 1 noch darzulegenden Nutzungsentschädigung für eine Nutzung des vorgenannten Pkw. Es wird festgestellt, dass die Beklagte 2 verpflichtet ist, der Klägerpartei Schadensersatz zu bezahlen für Schäden, die daraus resultieren, dass die Beklagte in dem Fahrzeug Audi A6 3,0 TDI (FIN XXX) unzulässige Abschalteinrichtungen verbaut hat und zwar a, in Gestalt einer Funktion, welche durch Bestimmung der Außentemperatur die Parameter der Abgasbehandlung so verändert, dass die Abgasnachbehandlung außerhalb eines Temperaturfensters von 17 °C bis 33 °C reduziert wird (sogenanntes Thermofenster), b, in Gestalt einer Schalt-Einstellung des Getriebes, welche erkennt, ob sich das Fahrzeug auf dem Prüfstand befindet und daraufhin ein Schaltprogramm aktiviert, welches besonders wenige Schadstoffe produziert, und c, in Gestalt einer Funktion, welche erkennt, ob sich das Fahrzeug auf dem Prüfstand befindet und auf dem Prüfstand den AdBlue-Verbrauch erhöht verbaut hat und hierdurch die Emissionswerte auf dem Rollenprüfstand reduziert werden. Dieser Feststellungsantrag ist dann begründet, wenn eine oder mehrere dieser vorstehend genannten 3 Abschalteinrichtungen im streitgegenständlichen Fahrzeug verbaut sind. Es wird festgestellt, dass sich die Beklagte zu 1 mit der Rücknahme des im Klageantrag Ziffer 1 genannten Pkw in Annahmeverzug befindet.Die Beklagten werden jeweils getrennt, nicht gesamtschuldnerisch verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtliche Anwaltskosten in Höhe von jeweils 2791,74 € freizustellen.Die Beklagte beantragt,Die Klage wird abgewiesen.Die Beklagten meinen, es sei auf obergerichtliche Rechtsprechung hinzuweisen, die gegen einen Erfolg der Klage spreche. Emissionswerte, die im Rahmen des Typgenehmigungsverfahrens gemessen werden, entsprächen stets Laborwerten. Deshalb komme es naturgemäß zu Abweichungen zwischen den angegebenen Abgaswerten und denjenigen, die das Fahrzeug im normalen Straßenbetrieb aufweise. Die streitgegenständliche Software wirke auch nicht auf das Emissionskontrollsystem ein, weiter dies nicht im realen Betrieb. Die Motorsteuergerätesoftware verfüge über eine Fahrzykluserkennung, die ein Durchfahren des Neuen Europäischen Fahrzyklus erkenne. Das Fahrzeug sei auch nicht mangelhaft, es sei technisch sicher und uneingeschränkt gebrauchstauglich. Auch die Wirksamkeit der Genehmigung als Abgasnorm EU 5 sei nicht gefährdet. Die Beklagte habe Maßnahmen zur technischen Überarbeitung des Fahrzeuges entwickelt, das Kraftfahrtbundesamt habe diese freigegeben. Vertragliche Ansprüche zwischen den Parteien bestünden ohnehin nicht, auch nach Deliktsrecht könne die Klage keinen Erfolg haben. Auch habe der Kläger keinen Schaden erlitten, es fehle zudem an Kausalität zwischen etwaiger Täuschung und Vertragsabschluss. Negative Folgen seien mit dem Update nicht verbunden, ebenso habe das Fahrzeug keinen Wertverlust erlitten. Etwaige kaufrechtliche Ansprüche seien verjährt.Es wird verwiesen auf das Protokoll zur mündlichen Verhandlung vom 09.10.2019, die Schriftsätze der Parteivertreter und die zum Akt gelangten Anlagen. 
+				Gründe
+				Die zulässige Klage ist nicht begründet.Der Kläger verfügt gegen die Beklagte über keine durchsetzbaren vertraglichen oder deliktischen Ansprüche auf Rücktritt oder Schadensersatz, auch merkantilen Minderwert kann er nicht ersetzt verlangen.I. Der Kläger hat den streitbefangenen Wagen bei der Beklagten zu 1, einer Vertragshändlerin für Audi Fahrzeuge, erworben. Damit sind im grundsätzlich die kaufrechtlichen Gewährleistungsansprüche eröffnet, § 434 fortfolgende BGB. Der Unterfertigte vertritt in diesen Sachverhaltskonstellationen auch die Rechtsauffassung, dass Rücktrittsansprüche aus Kaufvertrag aufgrund Vorliegens nicht nachbesserungsfähiger Sachmängel am Fahrzeug gegeben sein können. Auf entsprechende Rechtsprechung darf verwiesen werden (Landgericht Ingolstadt 33 O 1160/16, 1571/16, 1721/16, 122/17,18 115/16 und andere). Dies gilt allerdings nur für die Geltendmachung von Gewährleistungsansprüchen in nicht rechtsverjährter Zeit. Gemäß § 438 Abs. 1 Ziff. 3 BGB verjähren Sachmängel in 2 Jahren, wobei die Verjährung mit der Ablieferung der Sache beginnt. Demgegenüber ist das Klageverfahren erst mit Klage vom 08.02.2019 und alsbaldiger Zustellung eröffnet worden, sodass kaufrechtliche Ansprüche unabhängig von der Beantwortung vieler rechtlicher Detailfragen abzuweisen sind. Hemmungstatbestände sind nicht vorgetragen oder ersichtlich.Soweit der Kläger deliktische Anspruchsgrundlagen bemüht, ist die Klage nicht begründet.Der Kläger stützt die Haftung der Beklagten auf § 823 BGB und weiter aus § 826 BGB, der vorsätzlichen sittenwidrigen Schädigung in Verbindung mit § 31 BGB. Das Inverkehrbringen eines Fahrzeugs mit manipulierter Motorsteuerungssoftware habe beim Kläger einen Vermögensschaden erzeugt.Wer in einer gegen die guten Sitten verstoßenden Weise einem anderen vorsätzlich Schaden zufügt, ist dem anderen zum Ersatz des Schadens verpflichtet, § 826 BGB.Es genügt dabei nicht, dass der Schädiger vertragliche oder gesetzliche Pflichten verletzt, denn sonst wäre das in § 823 Abs. 2 BGB normierte Erfordernis der Verletzung eines Schutzgesetzes für die Vorsatzhaftung beseitigt. Hinzukommen müssen besondere Umstände, die das schädigende Verhalten wegen seines Zwecks oder wegen des angewandten Mittels oder mit Rücksicht auf die dabei gezeigte Gesinnung nach den Maßstäben der allgemeinen Geschäftsmoral und des als ‚anständig’ Geltenden verwerflich machen. Entscheidend kommt es auf den Zeitpunkt ex ante bei Vornahme des potentiell sittenwidrigen Verhaltens an (MüKoBGB/Wagner BGB § 826 Rn. 9-10, beckonline).Ein Verhalten ist objektiv sittenwidrig, wenn es nach Inhalt und Gesamtcharakter, welcher durch eine zusammenfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt, mithin mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist (statt vieler: BGH NJW-RR 2013, 550, 551). Nicht ausreichend ist hingegen, dass das Verhalten gesetzes- oder vertragswidrig ist, unbillig erscheint oder einen Schaden hervorruft. Vielmehr muss eine nach dem Maßstab der allgemeinen Gesellschaftsmoral und des als "anständig" Geltenden besondere Verwerflichkeit des Verhaltens, die sich aus dem verfolgten Zweck, den eingesetzten Mitteln, der zutage tretenden Gesinnung oder den eingetretenen Folgen ergeben kann, gegeben sein (vgl. nur: BGH NJW 2012, 1800, 1803). Nach allgemeiner Auffassung in Rechtsprechung und Literatur führt ein Gesetzesverstoß nicht zwingend zum Vorliegen der Sittenwidrigkeit, vielmehr muss die relevante Norm Ausdruck einer sittlichen Wertung und nicht wertneutral sein (vgl. dazu: Beck'scher Online-Kommentar, 37. Edition, § 826 BGB, Rn. 4 m. w. N.). Relevanter Maßstab ist die im Zeitpunkt der Vornahme der Handlung, vorliegend dem Einbau der - nach Klägerauffassung unzulässigen - Abschalteinrichtung, herrschende Sozialmoral für den jeweiligen Lebenskreis (grundlegend: BGH NJW 1975, 638, 639).Gemessen an den vorgenannten Maßstäben stellt der Einbau und das Verschweigen der unzulässigen Abschalteinrichtung kein sittenwidriges Verhalten der Beklagten dar, welches auch nicht vom Schutzzweck der verletzten Norm umfasst wäre. Zudem würde mit der Annahme der Haftung gemäß § 826 BGB die vertragliche Risikozuweisung unterlaufen werden.Dass es mit der Entwicklung und dem Einbau der betreffenden Abschalteinrichtung auf Beklagtenseite - ungeachtet des Fehlens substantiierten Parteivortrages hierzu (z. B.: zwischen welchen Personen auf Beklagtenseite eine derartige Absprache getroffen worden und welche Motivation hierbei im Einzelnen maßgeblich gewesen sein soll), dessen es trotz der klägerseits angenommenen Offensichtlichkeit der Sittenwidrigkeit bedarf - primär um Kostenersparnis respektive Gewinnmaximierung gegangen ist, kann als gegeben unterstellt werden. Dies stellt in einem marktwirtschaftlichen System kein grundsätzlich zu beanstandendes Verhalten dar, zumal klägerseits nicht dargelegt wird, wessen Vorteil diese Gewinnmaximierung dienen sollte. Das für diesen Fall eingesetzte Mittel wäre zwar rechtlich zu beanstanden, da ein Verstoß gegen Art. 3 Nr. 10, 5 Abs. 2 EUVO 715/2007 vorliegen würde. Allerdings sind diese Vorschriften kein Ausdruck einer sittlichen Gesinnung, sondern stellen sich vielmehr - wie insbesondere aus der Präambel Ziffern (4) bis (7) ersichtlich wird - als Regelungen zum Schutz der Umwelt dar (vgl. dazu: OLG Bamberg, Beschluss vom 21.10.2013, Az. 5 U 507/13, Rn. 44 - juris).Daneben soll die EUVO 715/2007 - wie nahezu alle wirtschaftsbezogenen europäischen Regelungen - der Harmonisierung der nationalen Regelungen und damit der Stärkung des Binnenmarktes dienen (vgl. insbesondere: Präambel Ziffer (1)). Mit den vorgenannten Vorschriften soll somit zuvörderst eine Reduzierung der Schadstoffemissionen von Kraftfahrzeugen zur Minimierung der Umweltbelastung erzielt werden. Damit ist keine sittliche Wertung verbunden.Ein anderes Ergebnis ließe sich ggf. erzielen, wenn - wie etwa von Umweltverbänden und Interessenvertretern der Fahrzeugnutzer seit vielen Jahren gefordert - der Schadstoffausstoß unter realen - wenngleich standardisierten - Fahrbedingungen und nicht unter Laborbedingungen zum Gegenstand des Typenzulassungsverfahrens gemacht werden würde. Dass dies bislang nicht der Fall ist, kann bei einer Bewertung des in Rede stehenden Verhaltens als sittenwidrig nicht der Beklagten zum Nachteil gereichen. Daher ergibt die vorzunehmende Gesamtbeurteilung von Zweck, Mittel und Folgen keine Sittenwidrigkeit des Verhaltens der Beklagten. Etwas anderes gilt nicht deshalb, weil eine große Anzahl von Fahrzeugen betroffen ist, da aufgrund der allgemein bekannten umfangreichen Produktionszahlen der Beklagten naturgemäß in einem kurzen Zeitraum eine Vielzahl von Fahrzeugen fertiggestellt wird, sodass sich die unzulässige Abschalteinrichtung zwangsläufig in vielen Fahrzeugen befindet. Die reine Quantität eines objektiven Verstoßes beeinflusst jedoch nach den genannten Beurteilungskriterien die Qualität eines Verhaltens im Hinblick auf die Einstufung als sittenwidrig nicht (LG Ellwangen, Urteil vom 10. Juni 2016 - 5 O 385/15 -, Rn. 20, juris). Der Kläger wird im Termin zur mündlichen Verhandlung vom 09.10.2019 formlos angehört. Er erklärt: "Ich habe diesen Wagen 2016 gekauft. Es war ein Gebrauchtwagen, ein Jahreswagen. Ich hatte vorher ein Fahrzeug mit dem EA 189 Motor. Das Fahrzeug habe ich in Zahlung gegeben. Es war älter gewesen. Es hat durchaus auch das Motiv gegeben den Wagen zurückzugeben, weil eine Abgasmanipulation bei diesem Fahrzeug durchgeführt wurde, aber ich wollte da nicht klagen. Ich habe gedacht, das passiert dem Hersteller eben so. Ich habe beim Neuerwerb dann darauf geachtet, diesen Motor nicht mehr zu kaufen, sondern eigens eine neuere Motorgeneration mit Euro 6 Standard ausgewählt. Weiter habe ich darauf geachtet, dass ich ein Modell mit SCR-Katalysator erwerbe. Hier wird Ad Blue eingespritzt. Ich halte das für die einzige Möglichkeit, die Abgaswerte insoweit in den Griff zu bekommen. Durch die Presse habe ich Anfang 2018 erfahren, dass nicht nur die alten Motoren EA189, sondern auch die neuen Motoren betroffen sind. Zunächst war nicht klar, ob mein Motor auch betroffen ist, aber ich bekam dann einen Rückruf vom KBA. Ich gehe davon aus, dass dieses Schreiben sich beim Akt befindet. Nachdem ich sehen musste, dass diese Manipulationen einen sehr großen Umfang genommen haben, möchte ich das nicht mehr mittragen und deshalb den Wagen zurückgeben. Ich befürchte auch Fahrverbote in Städten. Ich muss beruflich nach Frankfurt fahren. Derzeit gibt es dort Fahrverbote für Euro 5 Diesel. Bei meinem Fahrzeug mit Euro 6 b steht zu erwarten, dass es ebenfalls von Fahrverboten betroffen sein wird. Ich wurde aufgefordert, ein Update durchführen zu lassen von der Audi Werkstatt, habe das aber nicht getan. Ich halte das nicht für erfolgversprechend und befürchte auch eine weitere Belastung der Bauteile. Ich weiß aus Berichten, dass in diesem Falle die Stilllegung des Fahrzeuges droht. Der Kläger gibt den aktuellen Kilometerstand zum Protokoll. Dieser wird angegeben gemäß Fotografie mit 65.772 km".Ausgehend von dem damaligen Kenntnishorizont des Klägers kann nicht von einer Täuschung des Verbrauchers über das tatsächliche Abgasverhalten gesprochen werden. Vor Bekanntwerden der hier streitgegenständlichen Manipulationen war dem durchschnittlichen KFZ-Erwerber die Thematik von unzutreffenden technischen Angaben nicht bekannt, die Käufer maßen dem Abgasverhalten der Fahrzeuge auch keine eigene Bedeutung zu, in rechtlicher Hinsicht konnten sie hierüber auch nicht für die Kaufentscheidung kausal getäuscht werden. Soweit die Klage die Anordnung von Fahrverboten befürchtet, spricht sie nicht die Stickoxidproblematik an, die durch die entsprechende Manipulation bei den Motoren der Baureihe EA189 des VW-Konzerns durchgeführt wurde, sondern eine Feinstaubthematik an, die unabhängig vom Hersteller ist und einen kausalen Schaden zur Manipulation nicht darstellt. In rechtlicher Hinsicht kann dem Kläger nicht darin beizupflichten sein, dass die Beklagte durch die Softwaremanipulation Eigentum des Klägers beschädigt hätte. Vielmehr hat der Kläger ein von Anfang an mangelhaftes Fahrzeug erworben, eine Eigentumsverletzung nach § 823 I BGB liegt darin jedoch nicht begründet.Die lokale obergerichtliche Rechtsprechung fordert vom Kläger den Vortrag, welche einzelnen Personen welche Art von Täuschungshandlungen zu seinem Nachteil begangen haben sollen, diese dann der Beklagten zuzurechnen seien. Zum gegenwärtigen Stand strafrechtlicher Ermittlungsverfahren sei es deshalb für Kläger entsprechend schwer, schlüssig zu Täuschungshandlungen und inneren Verantwortlichkeiten vorzutragen (OLG München, Beschluss vom 25.7.2017, 13 U 566/17).Diese Hinweise setzen sich mit einem für den Kläger bestehenden Verjährungsproblem und einer grundlegenden Ablehnungshaltung der Beklagten zur Regulierung von Verbraucheransprüchen jedoch nicht auseinander.Der Kläger trägt zum Kaufvertrag und einer etwa zugrunde liegenden Beratung nicht vor. Auch bleibt offen, wie etwaige Täuschungshandlungen über das Emissionsverhalten des Fahrzeuges Inhalt der Gespräche geworden sein sollen. Das Gericht hätte die geringeren Zurechnungsprobleme damit, ein von der Beklagten herausgegebenes Werbematerial mit entsprechenden technischen Daten ihr auch als Veranlasserin zuzurechnen, selbst wenn Dritte, Vertragshändler oder wie vorliegend freie Händler, sich dieses Informationsmaterials zur Weitergabe an den Kunden bedienen.III. Der Kläger kann weiter das Vorliegen eines Schadens als merkantiler Minderwert nicht schlüssig darstellen. Ein Sachverständigenbeweis zur Ermittlung eines merkantilen Minderwertes war nicht durchzuführen. Denn im Gegensatz zu dem Untersuchungsgegenstand merkantilen Minderwertes nach Erleiden eines Verkehrsunfalls, bei dem das beschädigte und ordnungsgemäß reparierte Fahrzeug sich mit einer beliebigen Anzahl unfallfreier Kraftfahrzeuge auf dem Markt vergleichen lassen muss, sind sämtliche von der Beklagten im einschlägigen Zeitraum hergestellten Kraftfahrzeuge dieser Art und Motorisierung (EA 189 (EU 5)) von den Manipulationsmaßnahmen betroffen, es existiert schon kein geeigneter Vergleichsgegenstand.Daraus ist auch abzuleiten, dass die Tatbestandsvoraussetzungen der Gewährung merkantilen Minderwertes bereits aus Rechtsgrundsätzen nicht vorliegen. Voraussetzung für eine Ersatzpflicht ist stets, dass der Markt einen Unfallschaden bei der Preisbemessung mit Abschlägen "bestraft". Fehlt insoweit ein relevanter Markt, dann kommt der Ausgleich eines merkantilen Minderwerts nicht in Betracht (MüKoBGB/Oetker BGB § 249 Rn. 53-58, beckonline).Die klägerische Begehr lässt sich in wirtschaftlicher Hinsicht nicht näher greifbar machen. Auch unabhängig vom Aufkommen des Dieselskandals und seiner medialen, politischen, technischen sowie juristischen Aufarbeitung (die auch durch die Obergerichte wünschenswert wäre) verfügt der Kraftfahrzeugmarkt über eine immanente wirtschaftliche Schwankungsbreite, es sei hier lediglich auf saisonale Nachfragedefizite hingewiesen.Dabei stellt es auch eine Selbstverständlichkeit dar, das die erhält von Nachfolgemodellen den Wiederverkaufswert der Vorgängermodelle senken.Hinzu kommt, dass nicht zuletzt aus politischen Gründen in jüngster Zeit mit drohenden Fahrverboten in Innenstädten, die allerdings auf der Feinstaubproblematik fußen, das Verhalten der Konsumenten massiv beeinflusst wurde und die Verkaufs- und Zulassungszahlen für Dieselfahrzeuge massiv zurückgegangen sind. Da die Beklagte -soweit bekannt lediglich mit Stickstoffwerten manipuliert hat, muss sie sich die negative wirtschaftliche Auswirkung aus der Feinstaub-Thematik jedoch nicht zurechnen lassen.Dem Kläger ist kein darstellungsfähiger Schaden entstanden. Nicht bereits der Abschluss des Kaufvertrages mit einem Dritten ist als Schaden zu begreifen, nach der Auffassung des Klägers ist der merkantile Minderwert aus dem Umstand herzuleiten, dass sein Fahrzeug zur Dieselthematik gehört. Eine schlüssige Darstellung eines finanziellen Schadens liegt darin nicht. Darüber kann auch das beantragte gerichtliche Ermessen nach § 287 ZPO nicht hinweghelfen, zumal in diesen Fällen das Vorliegen von Schadensersatzansprüchen nachgewiesen sein muss. Im Übrigen wäre der bei der Klägerin eingetretene Schaden nicht vom Schutzzweck der verletzten EUVO 715/2007 umfasst. Demnach besteht eine Schadensersatzpflicht nur, wenn der geltend gemachte Schaden nach Art und Entstehungsweise unter den Schutzzweck der verletzten Norm fällt, mithin muss es sich um Nachteile handeln, die aus dem Bereich der Gefahren stammen, zu deren Abwendung die verletzte Norm erlassen worden ist (jüngst: BGH, Urteil vom 07.07.2015, Az. VI ZR 372/14 - juris; explizit für § 826 BGB: BGH, Urteil vom 11.11.1985, Az. II ZR 109/85 - juris).Diese Voraussetzungen sind vorliegend nicht erfüllt, da die einschlägige EUVO 715/2007 primär dem Umweltschutz dient und die Klägerin ausschließlich Nachteile geltend macht, die mit dem verordnungsrechtlich bezweckten Schutz der Umwelt in keinem Zusammenhang stehen (u. a.: drohender Entzug der Zulassung; Wertminderung; schwierigere Verkäuflichkeit).Schließlich würde die Annahme der Sittenwidrigkeit des Verhaltens der Beklagten dazu führen, dass die vertragsrechtlichen Risikozuweisungen unterlaufen würden (vgl. zu diesem Aspekt: Münchener Kommentar/Wagner, 6. Auflage (2013), § 826 BGB, Rn. 18 m. w. N.). Dass dem Kläger gegenüber seinem Kaufvertragspartner bei Mangelhaftigkeit des streitgegenständlichen Fahrzeugs grundsätzlich Gewährleistungsansprüche gemäß § 437 BGB zustehen, ist als Ausdruck der vertraglichen Risikozuweisung vorrangig gegenüber dem nur hilfsweisen deliktischen Schutz des Vermögens gemäß § 826 BGB. Nachdem das Deliktsrecht insofern nur subsidiär zur Anwendung gelangt, würde mit der Bejahung der Haftung gemäß § 826 BGB die vertragliche Risikozuweisung konterkariert werden, da die Verkäuferin bei vorliegender Mangelhaftigkeit des streitgegenständlichen Fahrzeugs voraussichtlich wiederum Regress bei der Beklagten nehmen könnte. Dieses Dreiecksverhältnis mit der Notwendigkeit der Geltendmachung der gegenüber dem jeweiligen Vertragspartner bestehenden Ansprüche würde durch die Annahme einer Direkthaftung der Beklagten gegenüber der Klägerin vollständig außer Kraft gesetzt, ohne dass hierfür ein sachlicher Grund ersichtlich ist (vgl. LG Ellwangen, Urteil vom 10. Juni 2016 - 5 O 385/15 -, Rn. 24, juris).Die Klage zeigte sich deshalb unbegründet.IV. Die Kostenentscheidung beruht auf § 91 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit stammt aus § 709 Satz 1, 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2388178.html (https://oj.is/2388178)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

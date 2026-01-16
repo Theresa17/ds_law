@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG LandshutRechtsprechungEndurteil vom 12.02.2021 - 54 O 2990/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Landshut, Endurteil vom 12.02.2021 - 54 O 2990/20
+                      m. Fundstelle
+                      LG Landshut, Endurteil vom 12.02.2021 - 54 O 2990/20 = openJur 2021, 5402
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Landshut, Endurteil vom 12.02.2021 - 54 O 2990/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 5402
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Beklagte wird verurteilt, an den Kläger 41.092,36 € nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit 29.10.2020 zu bezahlen Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs Audi A7 Sportback mit der Fahrzeugidentifikationsnummer -.2. Es wird festgestellt, dass sich die Beklagte mit der Annahme des in Ziffer I genannten Fahrzeugs in Annahmeverzug befindet. 3. Im Übrigen wird die Klage abgewiesen.4. Die Kosten des Rechtsstreits trägt die Beklagte. 5. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 6. Der Streitwert wird auf 44.734,58 € festgesetzt. 
+				Tatbestand
+				Der Kläger macht Schadensersatz nach Kauf eines Dieselfahrzeugs geltend.Der Kläger erwarb am 19.12.2014 von einem Autohaus in N. einen A7 Sportback zum Preis von 57.800 €. Zum Zeitpunkt des Kaufs wies das Fahrzeug einen Kilometerstand von 11.319 km auf. In diesem Fahrzeug ist ein 3 Liter-Dieselmotor verbaut. Dieser Motor weist eine Leistung von 230 kW auf und ist in die Schadstoffklasse Euro 5 eingruppiert. Die herstellerinterne Typbezeichnung für dieses Fahrzeug lautet 4G, die Motorkennung CGQB.Der Kläger behauptet, in dem Fahrzeug sei eine Prüfstandserkennung ähnlich dem von der V.  AG entwickelten EA189-Motor verbaut. Dadurch würde eine prüftstandsabhängige Abschalteinrichtung des Abgasrückführungs (AGR)-Systems bestehen, was unzulässig sei. Darüber hinaus sei die Onboard-Diagnosis-Unit (OBD) damit einhergehend manipuliert worden, um eine Überprüfung der Motorkennwerte zu verhindern.Der Kläger beantragt zuletzt,I. Die Beklagte wird verurteilt, an die Klagepartei 44.060,83 EUR zuzüglich Zinsen hieraus in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Abgabe eines Angebots der Klagepartei an die Beklagte auf Übergabe und Übereignung des Fahrzeuges Audi A7 Sportback mit der Fahrzeugidentifikationsnummer -.I. Es wird festgestellt, dass sich die Beklagte mit der Annahme des Fahrzeuges Audi A7 Sportback mit der Fahrzeugidentifikationsnummer - zwei Wochen nach Rechtshängigkeit in Annahmeverzug befindet.Die Beklagte beantragtdie Klage abzuweisen.Die Beklagte behauptet, bei einem Thermofenster würde es sich nicht um eine unzulässige Abschalteinrichtung handeln.Eine Beweisaufnahme hat nicht stattgefunden.Zur Vervollständigung des Tatbestands wird verwiesen auf sämtliche Schriftsätze der Parteien nebst Anlagen sowie sonstige Aktenteile. 
+				Gründe
+				Die zulässige Klage ist fast vollständig begründet.I.Dem Kläger steht ein Anspruch auf Zahlung von Schadensersatz Zug um Zug gegen Rückgabe des streitgegenständlichen Fahrzeugs gegen die Beklagte nach § 826 BGB zu.I.Die Grundlagen einer Haftung aus § 826 BGB in sogenannten Dieselfällen hat der BGH im Urteil vom 25.05.2020 (Az. VI ZR 252/19) niedergelegt. Die dortige Entscheidung stellte auf den EA189-Motor des Volkswagen Konzerns ab, welcher eine sogenannte prüfstandsbezogene Abschalteinrichtung aufwies. Das Fahrzeug erkannte also die Prüfstandssituation und schaltete in einen anderen Abgasreinigungsmodus, um auf dem Prüfstand die Abgasvorschriften der Euro 5-Norm einzuhalten. Sobald das Fahrzeug sich im Straßenverkehr befand, wurde ein anderer Modus aktiviert, welcher die Abgasreinigung letzten Endes stark reduzierte oder aussetzte, wodurch es zu einer Verzerrung der Abgaswerte kam. Eine derartige strategische Entscheidung des Herstellers hat der BGH einer unmittelbaren arglistigen Täuschung eines Fahrzeugkäufers gleichgesetzt, was den Vorwurf der Sittenwidrigkeit gegen den Volkswagen  Konzern und seine Tochtergesellschaften begründet.I.Nichts anders muss gelten, wenn zwar eine entsprechende prüfstandsbezogene Abschalteinrichtung in Form einer Prüfstandserkennung und eines entsprechenden Umschaltens der Abgasreinigung auf den Prüfstand- bzw. im Straßenmodus nicht wie beim EA189-Motor erfolgt, eine solche jedoch auf andere Art und Weise erfolgt. Es ist gerichtsbekannt (z.B. Az. 14 O 1203/20), dass der hier streitgegenständliche Motor von einem verpflichtenden Rückruf des Kraftfahrtbundesamtes betroffen ist. Hintergrund dieses Rückrufs war die Tatsache, dass in gewissen Modellen des 3 Liter-V6-TDI-Motors der Audi  AG der Emissionsstufe Euro 5 eine Strategie zur Erhöhung der AGR nahezu ausschließlich unter den Bedingungen der Prüfung nach der Verordnung (EG) 715/2017 genutzt wurde. Um die Strategie zu aktivieren wurde eine Vielzahl von Initialisierungsparameter verwendet, die über eine logische UND-Verknüpfung miteinander verbunden waren. Diese Bedingungen mussten somit alle gleichzeitig vorliegen, damit die Strategie genutzt wurde. Die zu diesen Parametern gehörenden Werte, also die zugrundeliegenden Schaltbedingungen, wurden so eng ausgewählt, dass diese Strategie nahezu ausschließlich im NEFZ und den dort herrschenden Prüfbedingungen wirkte. Letzten Endes wurde dadurch die Bedingung des Prüfstands softwaremäßig abgebildet, sodass kleine Abweichungen an den Parametern, insbesondere den Umgebungsbedingungen, zur Abschaltung der Strategie und damit zur Erhöhung der Schadstoffwerte führen mussten, wie sie im normalen Straßenbetrieb zwangsläufig ständig vorkommen. Nachvollziehbarerweise hat das Kraftfahrtbundesamt dies als unzulässige Abschalteinrichtung bewertet und die Beklagte aufgefordert, diese aus den Fahrzeugen zu entfernen, so auch aus dem streitgegenständlichen (Anlage K3).Wie der BGH in der zitierten Entscheidung ausgeführt hat, ist daher der Kaufvertrag gegenüber dem Hersteller des Fahrzeugs rückabzuwickeln.I.Diese Folge ist auch und gerade in Anbetracht der Tatsache anzunehmen, dass die Beklagte sich im Schriftsatz vom 03.02.2021 weigert, den Beanstandungsbescheid des KBA, welcher Grundlage für den Freigabebescheid vom 15.01.2020 (Anlage B4) war, vorzulegen. Aus dem Freigabebescheid ergibt sich ein Aktenzeichen des -, der Bescheid datiert auf den -.Entgegen der Auffassung der Beklagten liegen auch die Voraussetzungen des § 142 ZPO vor. Es ist die Beklagte, welche den Freigabebescheid vorgelegt hat und Vortrag zur Prozessrelevanz getätigt hat, nämlich die Tatsache der Freigabe des damit verbundenen Updates (Zöller, ZPO, 33. A., § 142, Rn. 6/7). Bei der für die Anordnung erforderlichen Ermessensausübung sind berechtigte Geheimhaltungsinteressen der Beklagten zu berücksichtigen. Derartige berechtigte Interessen liegen hier aber nicht vor. Diese Beanstandungsbescheide sind dem Gericht aus anderen Verfahren hinreichend bekannt. Entgegen der falschen Behauptung der Beklagten im Schriftsatz vom 03.02.2021 findet sich in einem Beanstandungsbescheid folgende Formulierung (vgl. 54 O 3562/20):Insgesamt verwendet Audi vier verschiedene Strategien im Emissionskontrollsystem der benannten Fahrzeuge, die im Folgenden in den Strategien A - D dargestellt erden.Strategien A und BDie von Audi verwendeten Strategien A und B werden nahezu ausschließlich unter den Bedingungen der Prüfung Typ 1 der Verordnung (EG) Nr. 715/2007 genutzt. Der Nutzung einer Aufheizstrategie (Strategie A) bei der Prüfung Typ 1 geht die Nutzung einer Strategie "Alternatives Aufheizen" (Strategie B) während der Vorkonditionierung des Fahrzeugs zum Zwecke der Prüfung 1 voraus. Beim Einsatz beider Strategien wird die Überschreitung des NOx-Grenzwertes von 80 mg/km bei der Prüfung Typ 1 sicher vermieden.Bei der Strategie A wird zum Starten der Aufheizstrategie eine Vielzahl von Initialisierungsparametern verwendet, die über eine UND-Verknüpfung miteinander verknüpft sind. D. h., alle Bedingungen müssen gleichzeitig vorliegen, dann wird die Aufheizstrategie genutzt. Die zu den Parametern gehörenden Werte (Schaftbedingungen) sind so eng bedatet, dass die Aufheizstrategie nahezu ausschließlich im Neuen Europäischen Fahrzyklus (NEFZ) und den dort definierten Prüfbedingungen wirkt. Schon kleine Abweichungen in Fahrprofil und Umgebungsbedingungen führen zur Abschaltung der Aufheizstrategie.Der auf den Prüfzyklus Typ 1 abstellenden Strategie A ist eine Strategie B vorgelagert. Strategie B ist durch einen Softwarealgorithmus gekennzeichnet, der die Vorkonditionierung des Fahrzeugs zur Durchführung der Prüfung Typ 1 erkennen kann. Mit dieser Vorkonditionierungserkennung wird ein höherer NH3-Füllstand im SCR erreicht.Die Parameter und die zugehörigen Werte (Schaltbedingungen) sind so bedatet, dass sie die Vorkonditionierung des Fahrzeugs mit drei außerstädtischen Fahrzyklen des NEFZ sowie das damit einhergehende Lastprofil erkennen.Strategie CWeiterhin besitzt das in Rede stehende Fahrzeug keine Strategie (Re-Entry Aufheizen = Strategie C), mit der unter normalen Betriebsbedingungen der erneute Einstieg in die Aufheizstrategie ermöglicht wird.Strategie DZudem werden beim Betrieb des SCR-Katalysators zwei unterschiedliche Betriebsarten zur Eindüsung von Reagens verwendet, welche als Parameter für die Umschaltung unter anderem die Fahrzeuggeschwindigkeit verwenden. Unterschieden werden der Speicher- und der Onlinebetrieb.Der Sachverhalt dieses Bescheids enthält also entgegen der Behauptung der Beklagten gerade keine spezifischen Konstruktionsdaten des Fahrzeugs, sondern legt lediglich die softwaremäßige Ausgestaltung der Abgasreinigung offen, welche vom KBA beanstandet wurde. Es besteht also kein Geheimhaltungsbedürfnis für die Beklagte wegen eines Betriebsgeheimnisses, sondern ein Bedürfnis dahingehend, dass nicht offengelegt wird, dass der Motor von der sittenwidrigen Ausgestaltung der Abgasreinigung betroffen ist. Dieses Interesse ist aber nicht schutzwürdig, sondern dient allenfalls der Vermeidung nachteiliger Entscheidungen. Nachdem die Beklagte selber zugibt, dass das Fahrzeug von einem Rückruf betroffen ist, wäre es daher auch an ihr gewesen, zumindest im Rahmen der sekundären Darlegungslast auch den Grund für den Rückruf offenzulegen, was in anderen Fällen (vor allem in denen, die nichts mit der Abgasreinigung zu tun haben) auch stets erfolgt.Damit ist bei der Beweiswürdigung (vgl. Zöller, a.a.O., Rn. 14/15) die Weigerungshaltung der Beklagten zu berücksichtigen. Einzig nachvollziehbarer Grund für die Weigerung der Vorlage kann nur eine Betroffenheit des Fahrzeugs von der Nahezu-Strategie sein, dies ist daher zuungunsten der Beklagten auch anzunehmen. Das Gericht ist umgekehrt davon überzeugt, dass die Beklagte den Bescheid vorlegen würde, wenn sich gerade nicht die Beanstandung der Nahezu-Strategie aus dem Bescheid ergeben würde.I.Wie der BGH ebenso in mehreren Entscheidungen festgehalten hat (woran sich auch der Kläger hält), muss sich der Kläger die gezogenen Nutzungen anrechnen lassen. Dabei hat der BGH in der Entscheidung vom 30.07.2020 (Az. VI ZR 354/29, Rn. 12) die vom Gericht in Rückabwicklungsfällen bei Kraftfahrzeugkäufen üblicherweise verwendete Formel gebilligt. Eine Gesamtlaufleistung von 250.000 km zugrunde gelegt ergibt sich damit der aus Ziffer I des Tenors ersichtliche Rückzahlungsbetrag.I.Soweit die Beklagte die Einrede der Verjährung wegen des erhöhten Kraftstoffverbrauchs erhebt, kommt es darauf nicht an, da Kernpunkt der Klageforderung nicht die Sittenwidrigkeit wegen eines möglichen Softwareupdates, sondern wegen der ursprünglich im Fahrzeug verbauten Software ist.II.Das Feststellungsinteresse für die Feststellung des Annahmeverzugs ergibt sich aus den Wirkungen des § 300 BGB.III.Die Verzinsung folgt aus § 286 Abs. 1 S. 2 BGB, die Zinshöhe aus § 288 Abs. 1 S. 2 BGB.IV.Die Kostenfolge ergibt sich aus § 92 Abs. 1 Nr. 1 ZPO. Die vorläufige Vollstreckbarkeit resultiert aus § 709 ZPO. Der Streitwert folgt der Klageforderung.
+			
+			
+			
+			Permalink: https://openjur.de/u/2320048.html (https://oj.is/2320048)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

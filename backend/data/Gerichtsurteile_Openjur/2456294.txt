@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG MünsterRechtsprechungUrteil vom 07.07.2021 - 2 O 392/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Münster, Urteil vom 07.07.2021 - 2 O 392/20
+                      m. Fundstelle
+                      LG Münster, Urteil vom 07.07.2021 - 2 O 392/20 = openJur 2022, 20711
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Münster, Urteil vom 07.07.2021 - 2 O 392/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 20711
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte wird verurteilt, an die Klägerin 25.872,66 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz auf einen Betrag in Höhe von 23.595,06 EUR seit dem 15.12.2020 und auf einen Betrag in Höhe von 2.277,60 EUR seit dem 03.06.2021 zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs Audi Q7 3.0 TDI mit der Fahrzeugidentifikationsnummer WAUZZZ4L9BD...Die Beklagte wird verurteilt, an die Klägerin 1.044,40 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 15.12.2020 zu zahlen.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits tragen die Beklagte zu 77 % und die Klägerin zu 23 %.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger begehrt von der Beklagten im Wege des Schadensersatzes die Rückabwicklung eines mit einem Händler geschlossenen Kaufvertrages über ein Kraftfahrzeug.Ausweislich der Auftragsbestätigung vom 23.04.2012 (Anlage K1, Bl. 35 d.A.) erwarb die - zum Vorsteuerabzug berechtigte - Klägerin von der Firma A in Münster einen gebrauchten Pkw der Marke Audi vom Typ Q7, V6, 3.0 TDI, 176 kW, damalige Laufleistung: 13.800 km, Fahrzeugidentifikationsnummer: WAUZZZ4L9BD0... zu einem Kaufpreis in Höhe von 47.731,09 EUR netto bzw. 56.800,00 EUR brutto.Wegen eines Betrages in Höhe von 39.800,00 EUR hat die Klägerin den Kaufpreis über die Audi Bank finanziert, wofür sie Zinsen in Höhe von insgesamt 2.277,60 EUR gezahlt hat.In dem Fahrzeug ist ein von der Beklagten hergestellter Motor mit der herstellerinternen Bezeichnung EA 897 verbaut, der der Euro-6-Abgasnorm unterfällt. Er verfügt über ein System zur Abgasrückführung sowie einen SCR-Katalysator. Bei diesem System wird dem Abgas eine wässrige Harnstofflösung ("AdBlue") beigemischt, die durch die hohen Temperaturen im Abgassystem in Ammoniak umgewandelt wird. Im SCR-Katalysator kommt es zu einer chemischen Reaktion, bei der die Stickoxide im Wesentlichen zu Stickstoff und Wasser umgewandelt werden.Das Fahrzeug ist von einem verpflichtenden Rückruf des Kraftfahrt-Bundesamtes betroffen. Wegen dessen Einzelheiten wird auf die Anlage K3 (Bl. 38-41 d.A.) verwiesen.Mit Schreiben vom 02.11.2020 (Anlage K4, Bl. 42 f. d.A.) ließ die Klägerin die Beklagte zur Rückabwicklung des Kaufvertrages auffordern, was die Beklagte mit Schreiben vom 08.11.2020 (Anlage K5, Bl. 44 f. d.A.) ablehnte.Die Klägerin behauptet, in dem Fahrzeug seien unterschiedliche Abschalteinrichtungen verbaut.Das Fahrzeug verfüge zunächst über eine Strategie A (Aufheizstrategie). Diese trage dafür Sorge, dass im Prüfzyklus des NEFZ eine sogenannte schadstoffmindernde Aufwärmstrategie anspringt. Die Initialisierungsparameter seien so bedatet, dass die Aufwärmstrategie nahezu ausschließlich im NEFZ wirke. Die Aufheizstrategie bezwecke damit in erster Linie, die Abgaswerte auf dem Prüfstand im Einklang mit den gesetzlichen Vorgaben der Abgasnorm möglichst niedrig zu halten. Im normalen Fahrbetrieb schalte die Software hingegen diesen umweltfreundlichen oder auch gesetzeskonformen Modus wieder ab. Damit komme es zu einem höheren Stickoxidausstoß. Mit der Strategie C, dem sogenannten "Re-Entry-Aufheizen" werde sichergestellt, dass unter normalen Betriebsbedingungen der erneute Einstieg in die Aufheizstrategie (Strategie A) ermöglicht wird.Die Strategie D betreffe die Dosierungsmenge beim SCR-Katalysator. Bei der sogenannten "Überdosierung" werde in einem zeitlichen Bereich, der einer Prüfung nach den NEFZ entspricht, eine Erhöhung der Harnstoff-Eindosierung im Speicher-Modus erreicht, um den Füllstand des NH3 im SCR-Katalysator zu erhöhen. Der Strategie A vorgeschaltet sei außerdem noch die Strategie B, das sogenannte "Alternative Aufheizen", mit welchem erreicht werde, dass ein höherer NH3-Füllstand im SCR-Katalysator erreicht werde.Die Klägerin meint, sie habe wegen der Manipulation am Motor ihres Pkws im Wege des Schadensersatzes einen Rückabwicklungsanspruch gegen die Beklagte.Die Klägerin hat ursprünglich u.a. beantragt,1. die Beklagte zu verurteilen, an die klagende Partei 31.382,55 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszins seit dem 08.11.2020 zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs Audi Q7 3.0 TDI mit der Fahrzeugidentnr. WAUZZZ4L9BD...#,Im Termin vom 02.06.2021 hat die Klägerin die Klage um die angefallenen Finanzierungskosten erweitert und die Klage teilweise wegen der zwischenzeitlich weiter zurückgelegten Kilometer einseitig für erledigt erklärt.Sie beantragt nunmehr,2. die Beklagte zu verurteilen, an die klagende Partei 32.742,73 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszins auf einen Betrag von 30.465,13 EUR für den Zeitraum vom 08.11.2020 bis zum 02.06.2021 zu zahlen, und auf 32.742,73 EUR ab dem 03.06.2021, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs Audi Q7 3.0 TDI mit der Fahrzeugidentnr. WAUZZZ4L9BD...,3. festzustellen, dass sich die Beklagte mit der Annahme des in vorstehendem Absatz genannten Fahrzeugs seit dem 08.11.2020 in Annahmeverzug befindet,4. die Beklagte zu verurteilen, an die Klägerin 1.239,40 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszins seit Rechtshängigkeit als Nebenforderung zu zahlen,5. festzustellen, dass sich der Rechtsstreit in der Hauptsache in Höhe von 917,42 EUR erledigt hat.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte bestreitet, die Klägerin getäuscht und geschädigt zu haben. Eine Umschaltlogik wie im VW-Motor vom Typ EA 189 liege nicht vor.Die Klage ist der Beklagten am 14.12.2020 zugestellt worden.Wegen des weiteren Vorbringens der Parteien wird auf die wechselseitigen Schriftsätze nebst Anlagen sowie das Sitzungsprotokoll vom 02.06.2021 Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist im tenorierten Umfang begründet. Im Übrigen ist sie unbegründet.I.Die Klägerin hat einen Schadensersatzanspruch aus §§ 826, 31 BGB auf Erstattung des für den Erwerb des streitgegenständlichen Fahrzeugs verauslagten netto-Kaufpreises abzüglich eines Vorteilsausgleichs für die von der Klägerin gezogenen Nutzungen.1.Die Beklagte hat die Klägerin durch das Inverkehrbringen des streitgegenständlichen Motors konkludent getäuscht. Denn die Klägerin durfte erwarten, dass das Fahrzeug entsprechend seinem Verwendungszweck im Straßenverkehr uneingeschränkt zulässig ist, d.h. insbesondere, dass das Fahrzeug über eine uneingeschränkte Betriebserlaubnis verfügt. Dies war allerdings wegen der von der Beklagten vorgenommenen Motorenmanipulation nicht der Fall.Die Klägerin hat dezidiert vorgetragen, welche Abschalteinrichtungen im Einzelnen bei dem streitgegenständlichen Motor zum Einsatz kommen. Dabei hat sie im Wesentlichen zwei unterschiedliche Einrichtungen benannt, nämlich:(1) eine Aufheizstrategie, die bewirkt, dass das Fahrzeug bei Erkennen bestimmter Parameter in einen schadstoffmindernden Modus übergeht und bei welcher die Parameter so bedatet sind, dass die Strategie nahezu ausschließlich im Prüfzyklus des NEFZ aktiv ist, sowie(2) eine Überdosierung des Harnstoffs für den SCR-Katalysator, wobei auch hier die vorgegebenen Parameter dafür Sorge tragen, dass dies nahezu ausschließlich auf dem Prüfstand geschieht.Diesen klägerischen Behauptungen ist die Beklagte nicht erheblich entgegen getreten. Sie hat sich auf den Vortrag zurückgezogen, dass der Fall nicht mit der aus den EA-189-Motoren bekannten Umschaltlogik vergleichbar sei und im Übrigen mit der Klageerwiderung mit offensichtlichen Textbausteinen auf vermeintliche Klagevorwürfe reagiert, die so gar nicht erhoben worden sind.Die klägerischen Behauptungen, die im Übrigen unstreitig Bestandteil des verpflichtenden Rückrufbescheids des Kraftfahrt-Bundesamtes sind, waren daher der Urteilsfindung als zutreffend zugrunde zu legen.Danach entsprach das Fahrzeug nicht der klägerischen Vorstellung bei dessen Erwerb. Denn es war im Straßenverkehr nicht uneingeschränkt zulässig. Die oben unter (1) und (2) beschriebenen Softwareeinstellungen sind mit der aus dem VW-Motor vom Typ EA 189 bekannten Umschaltlogik vergleichbar. Denn wenn die Parameter, die zur Aktivierung der jeweiligen Strategie führen, so eng bedatet sind, dass dies nahezu ausschließlich im Prüfstand der Fall ist, unterscheidet sich die Motorsteuerungssoftware nicht von einer solchen, die den Prüfstandbetrieb exakt erkennt und daraufhin in einen anderen Modus schaltet.Hierbei handelt es sich um verbotene Abschalteinrichtungen im Sinne des Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007, wie sie auch das Kraftfahrt-Bundesamt nach den unwiderlegt gebliebenen Ausführungen der Klägerin angenommen hat. Dies hat zur Folge, dass ohne eine spätere Software-Korrektur ein Widerruf der Typengenehmigung und eine damit einhergehende Stilllegung des Fahrzeuges droht.Der Käufer eines Kraftfahrzeugs, der es im Straßenverkehr verwenden will, kann aber nicht nur davon ausgehen, dass im Zeitpunkt des Erwerbs des Fahrzeugs die notwendige EG-Typengenehmigung formal vorliegt. Ebenso kann er auch erwarten, dass keine nachträgliche Rücknahme oder Änderung der Typengenehmigung droht, weil die materiellen Voraussetzungen bereits bei deren Erteilung nicht vorgelegen haben. Über eine dauerhaft ungefährdete Betriebserlaubnis verfügte das von der Klägerin erworbene Fahrzeug schon deshalb nicht, weil die installierte Motorsteuerungssoftware eine vom KBA als unzulässig eingestufte Abschalteinrichtung im Sinne des Art. 5 Abs. 1 und 2 VO (EG) 715/2007 beinhaltete. Aus diesem Grund lagen die materiellen Voraussetzungen für die Erteilung einer EG-Typengenehmigung nicht vor.2.Durch die Täuschung der Beklagten hat die Klägerin einen Vermögensschaden erlitten, der in dem Abschluss des Kaufvertrages über das bemakelte Fahrzeug zu sehen ist (BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 44, juris).Der Schaden des in die Irre geführten Käufers liegt in der Belastung mit einer ungewollten Verbindlichkeit, nicht erst in dadurch verursachten wirtschaftlichen Nachteilen. Entscheidend ist allein, dass der abgeschlossene Vertrag, nämlich die Eigenschaften des Kaufgegenstands, nicht den berechtigten Erwartungen des Getäuschten entsprach und überdies die Leistung für seine Zwecke nicht voll brauchbar war (vgl. OLG Hamm, Urteil vom 10. September 2019 - 13 U 149/18 -, Rn. 51, juris m.w.N.; BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 48, juris).Die Täuschung der Beklagten war auch kausal für die Willensentschließung der Klägerin, den streitgegenständlichen Kaufvertrag abzuschließen. Denn es liegt schlicht auf der Hand, dass sich die Klägerin für den Kauf nicht entschieden hätte, wenn sie über das Vorhandensein der unzulässigen Abschalteinrichtung und die damit zusammenhängenden Folgen aufgeklärt worden wäre. Es entspricht der allgemeinen Lebenserfahrung, dass Kraftfahrzeugkäufer vom Kauf eines Fahrzeugs Abstand nehmen, wenn ihnen bekannt wäre, dass das betreffende Fahrzeug zwar formal über eine EG-Typengenehmigung verfügt, aber wegen des Einbaus einer unzulässigen Abschalteinrichtung diese nicht hätte erhalten dürfen, weshalb Maßnahmen der die Typengenehmigung erteilenden Behörde und dem folgend der Zulassungsstelle bis zur Stilllegung des betroffenen Fahrzeugs drohen. Denn Zweck des Autokaufs ist grundsätzlich der Erwerb zur Fortbewegung im öffentlichen Straßenverkehr (OLG Hamm, Urteil vom 10. September 2019 - 13 U 149/18 -, Rn. 62, juris). Letztlich entscheidet sich kein Käufer für ein derart bemakeltes Fahrzeug, wenn er zu vergleichbaren Konditionen ein anderes Fahrzeug ohne diesen Mangel erwerben kann (vgl. BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 51, juris).3.Die Beklagte handelte auch sittenwidrig.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zu Tage getretene Gesinnung oder den eingetretenen Folgen ergeben kann. Dabei kann sich die Verwerflichkeit auch aus einer bewussten Täuschung ergeben (BGH, Urteil vom 25.05.2020, VI ZR 252/19 -, Rn. 15, juris m.w.N.).In der Rechtsprechung des Bundesgerichtshofs zum sogenannten Diesel-Abgasskandal ist inzwischen geklärt, dass es ein objektiv sittenwidriges Verhalten darstellt, wenn ein Autohersteller auf der Grundlage einer strategischen Entscheidung im eigenen Kosten- und damit auch Gewinninteresse Fahrzeuge mit einer Motorsteuerungssoftware ausstattet, die bewusst und gewollt so programmiert ist, dass die gesetzlichen Abgasgrenzwerte nur auf dem Prüfstand eingehalten, im normalen Fahrbetrieb hingegen überschritten werden. Denn ein solches Verhalten zielt unmittelbar auf die arglistige Täuschung der Typgenehmigungsbehörde ab und dient dazu, unter bewusster Ausnutzung der Arglosigkeit der Erwerber, die die Einhaltung der gesetzlichen Vorgaben und die ordnungsgemäße Durchführung des Typgenehmigungsverfahrens als selbstverständlich voraussetzten, Fahrzeuge in den Verkehr zu bringen und dabei die damit einhergehende Belastung der Umwelt und die Gefahr, dass bei einer Aufdeckung dieses Sachverhalts eine Betriebsbeschränkung oder -untersagung hinsichtlich der betroffenen Fahrzeuge erfolgen könnte, in Kauf zu nehmen (vgl. BGH, Urteile vom 25.05.2020 - VI ZR 252/19, Rn. 16 ff.; vom 30.07.2020 - VI ZR 5/20, juris Rn. 33; Beschlüsse vom 19.01.2021 - VI ZR 433/19, juris Rn. 17 und vom 09.03.2021 - VI ZR 889/20 -, juris Rn. 16; OLG Koblenz, Urteil vom 30. März 2021 - 3 U 1438/20 -, Rn. 25 - 26, juris m.w.N.).Gemessen an diesen Kriterien ist ein sittenwidriges Verhalten der Beklagten zu bejahen. Die Beklagte hat auf der Grundlage einer für ihren Konzern getroffenen grundlegenden strategischen Entscheidung bei der Motorenentwicklung im eigenen Kosten- und damit auch Gewinninteresse durch bewusste und gewollte Täuschung des Kraftfahrt-Bundesamtes systematisch Fahrzeuge in Verkehr gebracht, deren Motorsteuerungssoftware bewusst und gewollt so programmiert war, dass die gesetzlichen Abgasgrenzwerte mittels einer unzulässigen Abschalteinrichtung nur auf dem Prüfstand eingehalten wurden. Damit ging einerseits eine erhöhte Belastung der Umwelt mit Stickoxiden und andererseits die Gefahr einher, dass bei einer Aufdeckung dieses Sachverhalts eine Betriebsbeschränkung oder -untersagung hinsichtlich der betroffenen Fahrzeuge erfolgen könnte. Ein solches Verhalten ist im Verhältnis zu einer Person, die eines der bemakelten Fahrzeuge in Unkenntnis der illegalen Abschalteinrichtung erwirbt, besonders verwerflich und mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht zu vereinbaren. Das gilt auch, wenn es sich - wie hier - um den Erwerb eines Gebrauchtfahrzeugs handelt. Die Sittenwidrigkeit ergibt sich aus einer Gesamtschau des festgestellten Verhaltens der Beklagten unter Berücksichtigung des verfolgten Ziels, der eingesetzten Mittel, der zutage getretenen Gesinnung und der eingetretenen Folgen (vgl. ausführlich BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 16 ff., juris).Die Sittenwidrigkeit entfällt auch nicht aufgrund eines nachträglich veränderten Verhaltens der Beklagten oder ihres Mutterkonzerns (vgl. hierzu OLG Koblenz, Urteil vom 30. März 2021 - 3 U 1438/20 -, Rn. 32 ff., juris). Denn das Fahrzeug wurde schon 2012 erworben, also weit vor Bekanntwerden des Abgasskandals.4.Die Beklagte handelte auch mit Schädigungsvorsatz und in Kenntnis der Tatumstände.Die Haftung einer juristischen Person aus § 826 BGB i.V.m. § 31 BGB setzt voraus, dass ein "verfassungsmäßig berufener Vertreter" im Sinne des § 31 BGB den objektiven und subjektiven Tatbestand verwirklicht hat. Dabei müssen die erforderlichen Wissens- und Wollenselemente kumuliert bei einem Mitarbeiter vorliegen, der zugleich als verfassungsmäßig berufener Vertreter im Sinne des § 31 BGB anzusehen ist und auch den objektiven Tatbestand verwirklicht hat (BGH, Urteil vom 28.06.2016, VI ZR 536/15 -, Rn. 13, juris).Zunächst ist davon auszugehen, dass der festgestellten Motorenmanipulation eine strategische Unternehmensentscheidung zugrunde gelegen hat, die von einem verfassungsmäßig bestellten Vertreter der Beklagten entweder selbst getroffen, zumindest aber erkannt und gebilligt worden ist.Dies entspricht der allgemeinen Lebenserfahrung, wonach derart weitreichende Unternehmensentscheidungen nicht auf unterer Ebene getroffen bzw. gebilligt werden. Dass dies vorliegend ausnahmsweise anders gewesen sein soll, hat die Beklagte nicht substantiiert vorgetragen. Denn es hätte der Beklagten im Rahmen einer sekundären Darlegungslast oblegen, näher dazu vorzutragen, inwieweit ein nicht als "verfassungsmäßig berufener Vertreter" im Sinne des § 31 BGB tätiger Mitarbeiter für die Installation der Software verantwortlich sein soll. Dem ist sie jedoch nicht nachgekommen.Haben die verantwortlichen technischen Vorstände der Beklagten die strategische Unternehmensentscheidung damit aber wenigstens mitgetragen, so handelten sie auch vorsätzlich gem. § 826 BGB. Der gemäß § 826 BGB erforderliche Vorsatz enthält ein Wissens- und ein Wollenselement. Der Handelnde muss die Schädigung des Anspruchstellers gekannt bzw. vorausgesehen und in seinen Willen aufgenommen, jedenfalls aber für möglich gehalten und billigend in Kauf genommen haben. Dabei braucht der Täter nicht zu wissen, welche oder wie viele Personen durch sein Verhalten geschädigt werden; vielmehr reicht aus, dass er die Richtung, in der sich sein Verhalten zum Schaden irgendwelcher anderer auswirken könnte, und die Art des möglicherweise eintretenden Schadens vorausgesehen und mindestens billigend in Kauf genommen hat. Es genügt nicht, wenn die relevanten Tatumstände lediglich objektiv erkennbar waren und der Handelnde sie hätte kennen können oder kennen müssen oder sie sich ihm sogar hätten aufdrängen müssen; in einer solchen Situation ist lediglich Fahrlässigkeit gegeben. Es kann aber durchaus gerechtfertigt sein, im Einzelfall aus dem Wissen einer natürlichen Person auf deren Willen zu schließen. Aus der Art und Weise des sittenwidrigen Handelns kann sich die Schlussfolgerung ergeben, dass mit Schädigungsvorsatz gehandelt worden ist (BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, BGHZ 225, 316-352, Rn. 61 ff. m.w.N.).Im Falle der technischen Vorstände der Beklagten ist schon nach der Lebenserfahrung davon auszugehen, dass ihnen als für die zentrale Aufgabe der Entwicklung und des Inverkehrbringens der Fahrzeuge zuständigem Organ das Risiko einer Betriebsbeschränkung oder -untersagung bewusst war, dass niemand in Kenntnis der genannten Risiken - ohne einen erheblichen, dies berücksichtigenden Abschlag vom Kaufpreis - ein damit belastetes Fahrzeug erwerben würde (vgl. BGH a.a.O. Rn. 63). Von einer übertriebenen Gewinnsucht als Antrieb des Vorstandes kann ebenfalls ausgegangen werden: Ein anderer plausibler Grund ist schlicht weder vorgetragen noch ersichtlich.5.Der Schadensersatzanspruch ist auf Ersatz des negativen Interesses gerichtet. Die Klägerin kann daher verlangen, so gestellt zu werden, wie sie stehen würde, wenn sie das streitgegenständliche Fahrzeug nicht erworben hätte. Die Klägerin kann mithin die Rückzahlung des Kaufpreises nebst Finanzierungskosten verlangen, muss sich auf ihren Anspruch allerdings die von ihr gezogenen Nutzungen anrechnen lassen. Dabei sind die gegenseitigen, jeweils auf Geld gerichteten Ansprüche automatisch zu saldieren (vgl. OLG Hamm, Urteil vom 10. September 2019 - 13 U 149/18 -, Rn. 84, 85, juris).Da die Klägerin vorsteuerabzugsberechtigt ist, ist Ausgangspunkt der Schadensberechnung der Nettokaufpreis in Höhe von 47.731,09 EUR (OLG Oldenburg (Oldenburg), Urteil vom 04. März 2021 - 14 U 185/20 -, Rn. 50, juris; OLG Stuttgart, Urteil vom 19. Februar 2020 - 4 U 149/19 -, Rn. 43, juris; OLG Hamm, Urteil vom 10. Oktober 2019 - I-18 U 11/19 -, Rn. 43, juris).Danach kann der Kläger vorliegend die Rückzahlung des netto-Kaufpreises in Höhe von 47.731,09 EUR zuzüglich der Finanzierungskosten in Höhe von 2.277,60 EUR und abzüglich einer Nutzungsentschädigung in Höhe von 24.136,03 EUR, also Zahlung in Höhe von 25.872,66 EUR verlangen.Den Wert der durch den Gebrauch des Kraftfahrzeugs gezogenen Nutzungen schätzt der erkennende Einzelrichter nach der anerkannten Faustformel (Brutto-Kaufpreis mal gefahrene Kilometer dividiert durch die Restlaufleistung) entsprechend § 287 ZPO auf insgesamt 24.136,03 EUR.Maßgeblich ist hier - trotz der Vorsteuerabzugsberechtigung der Klägerin - der Kaufpreis inklusive Mehrwertsteuer (OLG Oldenburg (Oldenburg), Urteil vom 04. März 2021 - 14 U 185/20 -, Rn. 52, juris m.w.N.). Dabei geht die Kammer bei dem vorliegenden Fahrzeugtyp von einer regelmäßig zu erwartenden durchschnittlichen Gesamtlaufleistung von 300.000 km aus. Die gefahrenen Kilometer ergeben sich aus dem Vergleich des Kilometerstandes beim Ankauf und im Termin vom 02.06.2021.Hiernach ergibt sich folgende Berechnung:56.800 EUR * 121.615 km (= 135.415 km - 13.800 km) : 286.200 km (= 300.000 km - 13.800 km)= 24.136,03 EURII.Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz stehen der Klägerin nach §§ 288 Abs. 1, 291 BGB ab Rechtshängigkeit, hier also in Anwendung des § 187 Abs. 1 BGB wegen des Kaufpreises ab dem 15.12.2020 und wegen der Finanzierungskosten ab dem 03.06.2021 zu.Ein Verzugsbeginn im Sinne der §§ 280, 286 BGB zum 08. oder 17.11.2020 kann nicht festgestellt werden.Das Aufforderungsschreiben vom 02.11.2020 war angesichts der Forderungshöhe nicht geeignet, einen Verzug der Beklagten mit der tenorierten Forderung zu begründen. So hat die Klägerin hierin einen Nutzungsersatz auf Basis einer - überhöhten - Gesamtlaufleistung von 350.000 km errechnet und ihrer Berechnung zugrunde gelegt.Im Übrigen liegt in dem Schreiben der Beklagten vom 08.11.2020 keine ernsthafte und endgültige Leistungsverweigerung im Sinne des § 286 Abs. 2 Nr. 3 BGB, an die strenge Anforderungen gestellt werden.III.Aus dem gleichen Grund befindet sich die Beklagte auch nicht im Annahmeverzug. Die Klägerin hat der Beklagten die Leistung nicht wie geschuldet angeboten.IV.Als weiteren Schadenersatz kann die Klägerin die Zahlung ihrer vorgerichtlichen Rechtsanwaltskosten verlangen.Diese belaufen sich bei einem im Zeitpunkt der Klageerhebung berechtigten Gegenstandswert in Höhe von bis zu 25.000,00 EUR und unter Zugrundelegung einer 1,3fachen Geschäftsgebühr (entsprechend der 2020 gültigen RVG-Tabelle) zzgl. Auslagen und - wegen der Vorsteuerabzugsberechtigung der Klägerin - ohne Mehrwertsteuer auf 1.044,40 EUR.Die diesbezügliche Zinsforderung folgt aus §§ 288 Abs. 1, 291 BGB.V.Eine Erledigung des Rechtsstreits in Höhe von 917,42 EUR war nicht festzustellen.Eine Erledigung wäre nur dann eingetreten, wenn die ursprünglich zulässige und begründete Klage durch ein nach Rechtshängigkeit eingetretenen Ereignis, nämlich die zwischenzeitlich weiter mit dem Fahrzeug zurückgelegten Kilometer, in dieser Höhe unbegründet geworden wäre.Zum Zeitpunkt der Klageerhebung war die Klägerin 115.153 km (= 128.953 km - 13.800 km) mit dem Fahrzeug gefahren. Unter Zugrundlegung der vorgenannten Faustformel für die anzurechnenden Nutzungen errechnete sich hieraus ein damaliger Gebrauchsvorteil in Höhe 22.853,57 EUR. Die Klägerin hat aber nicht diesen Gebrauchsvorteil von dem Kaufpreis in Abzug gebracht, sondern einen solchen in Höhe von "nur" 16.348,54 EUR. Damit war die Klage in Höhe von 6.505,03 EUR von Anfang an unbegründet, sodass sie sich nicht in Höhe von 917,42 EUR erledigt haben kann.VI.Die Kostenentscheidung folgt aus § 92 Abs. 1 ZPO.Die Entscheidung zur vorläufigen Vollstreckbarkeit beruht auf § 709 ZPO.VII.Der Streitwert des Rechtstreits wird auf 33.660,15 EUR festgesetzt.Der Streitwert setzt sich zusammen aus dem Wert für den Klageantrag zu Ziffer 1. in Höhe von 32.742,73 EUR und dem Wert für den Klageantrag zu Ziffer 4. in Höhe von 917,42 EUR.
+			
+			
+			
+			Permalink: https://openjur.de/u/2456294.html (https://oj.is/2456294)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate8
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBrandenburgOrdentliche GerichtsbarkeitBrandenburgisches OLGRechtsprechungBeschluss vom 20.04.2020 - 1 U 103/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      Brandenburgisches OLG, Beschluss vom 20.04.2020 - 1 U 103/19
+                      m. Fundstelle
+                      Brandenburgisches OLG, Beschluss vom 20.04.2020 - 1 U 103/19 = openJur 2020, 38602
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				Brandenburgisches OLG, Beschluss vom 20.04.2020 - 1 U 103/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 38602
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Der Senat beabsichtigt, die Berufung der Klägerin gegen das Urteil der 4. Zivilkammer des Landgerichts Potsdam vom 12. November 2019 - 4 O 96/19 - durch Beschluss zurückzuweisen.Die Klägerin erhält Gelegenheit zur Stellungnahme binnen drei Wochen.  
+				Gründe
+				I.Die Klägerin begehrt von der Beklagten Schadensersatz im Zusammenhang mit dem sog. Dieselskandal.Die Klägerin kaufte am ... 2018 bei der ... GmbH in ... einen gebrauchten VW Golf Variant Allstar 1,6 TDI mit einem km-Stand von 23.589 km zum Preis von 20.000,00 €. Das Fahrzeug hat einen Dieselmotor des Typs EA 288 mit der Schadstoffklasse Euro6.Bei diesem in dem Fahrzeug verbauten Motor handelt es sich um ein Nachfolgemodel des Motors EA189 des Volkswagenkonzerns. Dieser EA 189 ist - allgemein- und gerichtsbekannt - mit einer unzulässigen Abschalteinrichtung ausgestattet und insoweit Gegenstand einer Vielzahl von gerichtlichen Verfahren gegen den Volkswagenkonzern. Auch der neue Motor EA 288 verfügt über ein System zur Abgasreinigung, welches auf einer Abgasrückführung beruht. Dabei wird ein Teil des Abgases der frisch angesaugten Umgebungsluft beigemischt und in den Motor zurückgeführt. Hierdurch verändert sich die chemische Zusammensetzung des Gemischs, was Einfluss auf die anschließende Verbrennung und damit auf den Ausstoß von Abgasen hat. Die Höhe des Abgasanteils wird durch die Motorsteuerungssoftware bestimmt und richtet sich auch nach der Umgebungslufttemperatur.Die Klägerin behauptet, auch der in dem streitgegenständlichen Fahrzeug eingebaute Motor weise verbotene Abschalteinrichtungen auf, und zwar sogar mindestens zwei solche Abschalteinrichtungen. Zum einen enthalte der streitgegenständliche Motor EA 288 eine Abschalteinrichtung, die in der Funktionsweise der des Motors EA189 entspreche. Diese Einrichtung, die Rollenprüfstandserkennung, erkenne, ob sich der Motor bei der Zulassung auf dem NEFZ-Prüfstand oder im realen Betrieb befindet. Im realen Betrieb schalte diese die Abgasrückführung aus, so dass erheblich mehr Abgase entstehen. Der streitgegenständliche Motor verfüge zudem aber noch über eine weitere Abschalteinrichtung, das Thermofenster. Diese schalte zudem die Abgasreinigung im realen Betrieb bei den in Deutschland herrschenden Außentemperaturen aus. Insoweit funktioniere die Abgasreinigung - aufgrund der zweiten Abschalteinrichtung - nur innerhalb eines engen Temperaturfensters, des sogenannten "Thermofensters". Außerhalb dieses Temperaturbereiches werde der Grenzwert für den Stickoxidausstoß überschritten.Zwar habe das Kraftfahrtbundesamt (KBA) diese Einrichtung nicht beanstandet und bezüglich des Fahrzeuges der Klägerin keinen Rückruf angeordnet. Daraus könne die Beklagte jedoch nichts zu ihren Gunsten herleiten. Denn zum einen habe die Beklagte die Rollenprüfstandserkennung zwischenzeitlich - im Herbst 2016 - anlässlich eines turnusmäßigen Werkstattbesuches durch ein Software-Update beseitigt, so dass sich diese überhaupt nicht (mehr) feststellen lasse. Zum anderen sei das KBA auch technisch überhaupt nicht in der Lage gewesen, das Thermofenster in der Motorsteuerung festzustellen. Insoweit habe das Amt weder das Ob noch die Reichweite eines Thermofensters in den Fahrzeugen der Beklagten feststellen können. Im Übrigen habe die Beklagte dem KBA anlässlich der Typengenehmigung auch die Funktionsweise des Thermofensters nicht offengelegt.Das Inverkehrbringen des Kfz mit den unerlaubten Abschaltsoftwaren sei als vorsätzliche sittenwidrige Schädigung im Sinne des § 826 BGB zu bewerten. In dem Abschluss des ihm nachteiligen Kaufvertrages liege ein Schaden.Der Kläger hat in der Hauptsache beantragt,die Beklagte zu verurteilen, an ihn 16.806,73 € nebst Zinsen in Höhe von neun Prozentpunkten über dem Basiszinssatz seit dem 26. Januar 2019, Zug um Zug gegen Übergabe des Fahrzeugs VW Golf Variant Allster 1,6 TDI mit der Fahrzeugidentifikationsnummer ... zu zahlen.Die Beklagte hat beantragt,die Klage abzuweisen.Die Beklagte behauptet, der streitgegenständliche Motor habe keine unerlaubte Abschalteinrichtung. Dementsprechend sei auch ein Rückruf des hier in Rede stehenden Fahrzeugtyps durch das Kraftfahrtbundesamt nicht erfolgt sei. Das KBA, wie auch das Verkehrsministerium hätten ausdrücklich bestätigt, dass bei den Fahrzeugen mit dem Motor EA 288 die von den Motoren EA189 bekannte Abschalteinrichtung nicht zum Einsatz komme.Mit dem angefochtenen Urteil vom 12. November 2019 hat das Landgericht Potsdam die Klage abgewiesen. Ein Anspruch der Klägerin wegen einer sittenwidrigen Schädigung durch die Beklagte komme vor allem deshalb nicht in Betracht, weil das Kraftfahrtbundesamt das in dem streitgegenständlichen Fahrzeug verwendete Thermofenster - jedenfalls derzeit - als zulässig erachte. Die Besonderheiten des Motors EA189 seien auf den hier verbauten Motor nicht zu übertragen.Gegen dieses Urteil wendet sich der Kläger mit seiner Berufung, mit der er die in erster Instanz gestellten Anträge weiter verfolgt.Die Beklagte verteidigt die angefochtene Entscheidung mit Rechtsausführungen und betont, der Kläger habe nach wie vor keine hinreichenden Anknüpfungstatsachen für das Vorliegen einer unzulässigen Abschalteinrichtung vorgebracht.II.Die Berufung des Klägers ist zulässig, insbesondere in der gesetzlichen Form und Frist eingelegt und begründet worden (§§ 517, 519, 520 ZPO). In der Sache wird das Rechtsmittel ohne Erfolg bleiben.Dem Kläger steht ein Anspruch auf Schadensersatz aus § 826 BGB gegen die Beklagte nicht zu. Hiernach ist zum Schadensersatz verpflichtet, wer einem anderen in einer gegen die guten Sitten verstoßenden Weise vorsätzlich Schaden zufügt. Die erforderliche objektive Sittenwidrigkeit liegt vor, wenn die schädigende Handlung nach ihrem Inhalt beziehungsweise Gesamtcharakter im Widerspruch zum Anstandsgefühl aller billig und gerecht Denkender steht und daher mit den grundlegenden Wertungen der Rechts- und Sittenordnung unvereinbar ist (BGH NJW 2017, 250).Gemessen an diesen Voraussetzungen ergibt sich bereits aus dem klägerischen Vortrag keine Haftung der Beklagten.Soweit die Klägerin darauf abgestellt hat, die schädigende Handlung der Beklagten liege in dem Inverkehrbringen eines Fahrzeugs mit einer Abgasabschalteinrichtung vergleichbar dem Motor EA189, ist dieser Sachvortrag erkennbar ohne Substanz und willkürlich aus der Luft gegriffen. Er rechtfertigt keine Beweisaufnahme.Grundsätzlich ist bei der Annahme einer "ins Blaue hinein" aufgestellten Behauptung Zurückhaltung geboten. Die Annahme eines willkürlichen Sachvortrags kommt nur im Ausnahmefall in Betracht, da es einer Partei durchaus möglich sein muss, im Zivilprozess Tatsachen zu behaupten, über die sie keine genaue Kenntnis haben kann, die sie aber nach Lage der Dinge für wahrscheinlich hält (vgl. etwa BeckOK-ZPO/von Selle, Ed. 34, § 138 ZPO, Rn. 32 m.w.N.). Eine zivilprozessual unzulässige Ausforschung ist aber dann gegeben, wenn eine Partei ohne greifbaren Anhaltspunkt für das Vorliegen eines bestimmten Sachverhalts willkürlich "aufs Geratewohl" Behauptungen aufstellt (vgl. etwa BGH, NJW-RR 2003, 69, 70; BGH, NJW-RR 2002, 1419, 1420). Dies ist dann der Fall, wenn jeglicher tatsächlicher Anhaltspunkt für den Einsatz einer Manipulationssoftware entsprechend der Ausstattung des Motortyps EA189 im klägerischen Fahrzeug des Klägers fehlt (OLG Koblenz, Urteil vom 18. Juni 2019 - 3 U 416/19, Rn. 32, juris). Dies ist vorliegend der Fall:Soweit die Klägerin die Funktionsweise der Abschalteinrichtung beim Motor EA189 beschreibt, dazu Unterlagen vorlegt und auf zu diesen Fällen ergangene Rechtsprechung verweist, ist ihr Vortrag ohne Belang. Denn unstreitig ist das streitgegenständliche Fahrzeug mit einem anderen Motor, dem EA 288, ausgestattet. Die Behauptung der Klägerin, dass auch dieser Motor über eine entsprechende Abschalteinrichtung verfüge, wie es beim EA 189 - und zwar tatsächlich gerichtsbekannt - der Fall ist, wird erkennbar ins Blaue hinein aufgestellt und ist durch nichts stichhaltig belegt. Es sind keine greifbaren Anhaltspunkte vorgetragen oder ersichtlich, nach denen davon ausgegangen werden könnte, dass der hier streitgegenständliche Motor mit einer unzulässigen Abschalteinrichtung, wie dies bei den Motoren EA 189 der Fall ist, ausgestattet ist. Diese Behauptung der Klägerin ist reine Spekulation. Weder aus dem als "Beweis" bezeichneten Bericht der Untersuchungskommission "Volkswagen" des Bundesministeriums für Verkehr, noch aus der ebenfalls als "Beweis" bezeichneten Beschlussempfehlung des 5. Untersuchungsausschusses des Deutschen Bundestages ergeben sich Anhaltspunkte, dass der EA 288 über eine solche unerlaubte Abschalteinrichtung verfügt. Vielmehr kommt die Untersuchungskommission zu dem gegenteiligen Ergebnis, dass sich bei dem Motor EA 288 Abgasmanipulationen gerade nicht feststellen ließen. Die von der Klägerin in Bezug genommene Berichterstattung über in den USA verkaufte Fahrzeuge ist für den vorliegenden Fall ebenfalls gänzlich ohne Relevanz. Auch dem Bericht des Untersuchungsausschusses des Europäischen Parlaments kann nicht entnommen werden, dass der EA 288 über die Abschalteinrichtung verfügt, die beim EA 189 eingebaut war.Aber auch die Behauptung der Klägerin, das Fahrzeug sei mit einer als unzulässige Abschalteinrichtung anzusehenden Motorsteuerung ausgestattet, die außerhalb eines sog. "Thermofensters" die Abgasrückführung reduziere und teils zur Gänze abschalte, genügt nicht, um die Tatbestandsvoraussetzungen des § 826 BGB schlüssig vorzutragen. Diese Behauptung ist in Kombination mit der ebenfalls behaupteten Rollenprüfstandserkennung bereits denklogisch ausgeschlossen. Wenn sich die Abgasrückführung bereits aufgrund der ersten Abschalteinrichtung im Realbetrieb ausschaltet, kann sie sich nicht erneut ausschalten, wenn im Realbetrieb bestimmte Temperaturen über- oder unterschritten werden. Auch insoweit ist der Vortrag der Klägerin unsubstantiiert und daher einer Beweisaufnahme nicht zugänglich.Es sind zudem auch insoweit keine greifbaren Anhaltspunkte vorgetragen oder ersichtlich, nach denen davon ausgegangen werden könnte, dass der hier streitgegenständliche Motor mit einer unzulässigen Abschalteinrichtung ausgestattet ist. Auch diese Behauptung der Klägerin ist reine Spekulation. Die Beklagte kann nämlich darauf verweisen, dass der hier streitgegenständliche Motor weder durch das KBA noch durch des Bundesministerium für Verkehr beanstandet wurde und nicht von Rückrufaktionen betroffen war. In dem Bericht der Untersuchungskommission heißt es dazu: "Hinweise, die aktuell laufende Produktion der Fahrzeuge mit Motoren der Baureihe EA 288 (Euro 6) seien ebenfalls von Abgasmanipulationen betroffen, haben sich hierbei auf Grundlage der Überprüfungen als unbegründet erwiesen." Auch nach der Einreichung der Klage vor mehr als einem Jahr ist seitens des KBA noch keine Rückrufaktion oder sonstige Maßnahme betreffend das klägerische Fahrzeug vorgenommen oder zumindest angekündigt worden ist. Dies spricht dagegen, dass die Behörde sich hinsichtlich dieses Fahrzeugtyps getäuscht sieht oder aus sonstigen Gründen von einer Rechtswidrigkeit der erteilten Typengenehmigung ausgeht und deshalb Beschränkungen drohen. Sieht also die zuständige Behörde die Funktionsweise des Motors als zulässig an, sind die Fahrzeughalter nicht der Gefahr einer drohenden Betriebsbeschränkung oder -untersagung ausgesetzt, so dass die Fahrzeuge diesbezüglich nicht mangelbehaftet sind. Somit sind sowohl vertragliche als auch deliktische Ansprüche gegen die Beklagte ausgeschlossen.Die von der Klägerin dazu aufgestellte These, dass die Abschalteinrichtung zwar vorhanden sei, jedoch das KBA nicht in der Lage sei, dies zu erkennen oder festzustellen, bleibt ebenfalls reine Spekulation.Aber selbst wenn die von der Klägerin geschilderte Wirkungsweise der Abgasrückführung mit ihrer Reduzierung außerhalb des sog. Thermofensters eine unzulässige Abschalteinrichtung darstellen würde, die einen im Wege einer Vertragshaftung zu regulierenden Sachmangel ergeben könnte (vgl. OLG Koblenz, Urteil vom 18. Juni 2019 - 3 U 416/19), fehlt es an der Darlegung konkreter Anhaltspunkte, dass die Beklagte durch ihr Verhalten bewusst das Anstandsgefühl aller billig und gerecht Denkenden verletzt haben könnte. Jedenfalls sind von der Klägerin weder Tatsachen noch sonstige Gesichtspunkte vorgetragen worden oder in sonstiger Weise ersichtlich, die den Rückschluss auf einen bei der Beklagten bestehenden Schädigungsvorsatz zuließen. Vielmehr muss, selbst wenn man von einer objektiv unzulässigen Abschalteinrichtung durch das Thermofenster ausgehen würde, eine zwar möglicherweise falsche, aber jedenfalls vertretbare Gesetzesauslegung und Gesetzesanwendung durch die Organe der Beklagten in Erwägung gezogen werden (OLG Frankfurt a.a.O.; vgl. OLG Köln, Beschluss vom 4. Juli 2019 - 3 U 148/18; OLG Stuttgart a.a.O.). Dass die Beklagte im Zusammenhang mit der Entwicklung des in seiner Wirkungsweise von der Klägerin dargelegten Thermofensters in dem Bewusstsein, möglicherweise einen Gesetzesverstoß zu begehen, gehandelt habe und dies zumindest billigend in Kauf genommen haben könnte, ist von der Klägerin weder konkret dargetan noch in sonstiger Weise ersichtlich.Sollte die Beklagte aber die Rechtslage fahrlässig verkannt haben, dann fehlt es jedenfalls sowohl am erforderlichen Schädigungsvorsatz als auch an dem für die Sittenwidrigkeit in subjektiver Hinsicht erforderlichen Bewusstsein der Rechtswidrigkeit (vgl. Palandt/Sprau, BGB, 79. Auflage 2020, § 826 Rz. 8) sowie an der Kenntnis der die Sittenwidrigkeit begründenden Umstände (OLG Frankfurt a.a.O.). Der Vorsatz, den der Anspruchsteller vorzutragen und zu beweisen hat (BGH, Urteil vom 20. Dezember 2011 - VI ZR 309/10), enthält ein "Wissens-" und ein "Wollenselement". Der Handelnde muss die Umstände, auf die sich der Vorsatz beziehen muss, im Fall des § 826 BGB also die Schädigung des Anspruchstellers, gekannt bzw. vorausgesehen und in seinen Willen aufgenommen haben. Die Annahme der Form des bedingten Vorsatzes setzt voraus, dass der Handelnde die relevanten Umstände jedenfalls für möglich gehalten und billigend in Kauf genommen hat. Dazu genügt es nicht, wenn die relevanten Tatumstände lediglich objektiv erkennbar waren und der Handelnde sie hätte kennen können oder kennen müssen. In einer solchen Situation ist lediglich ein Fahrlässigkeitsvorwurf gerechtfertigt (BGH a.a.O.). Vertraut der Täter darauf, der als möglich vorausgesehene (oder vorauszusehende) Erfolg werde nicht eintreten, und nimmt er aus diesem Grund die Gefahr in Kauf, liegt allenfalls bewusste Fahrlässigkeit vor (BGH, Urteil vom 20. November 2012 - VI ZR 268/11). Es genügt daher nicht, dass die Beklagte unklare Vorgaben, was eine unzulässige Abschalteinrichtung ist, fahrlässig falsch beurteilt hat; die Annahme eines für § 826 BGB erforderlichen - zumindest bedingten - Täuschungsvorsatzes kann erst dann gerechtfertigt sein, wenn die Zulässigkeit der Abschalteinrichtung kaum vertretbar erschiene und damit der Schluss gezogen werden müsste, die Beklagte habe die Unerlaubtheit ihres Vorgehens erkannt und folglich die Typengenehmigungsbehörde und damit letztlich den Kläger als Käufer täuschen wollen (OLG Nürnberg, Urteil vom 19. Juli 2019 - 5 U 1670/18).Einen solchen Vorsatz hat der Kläger nicht vorgetragen und bewiesen. Anders als in den Fällen einer Umschaltlogik, wo sich aufdrängt, dass eine solche gesetzeswidrig ist, kann dies für ein "Thermofenster" nicht ohne weiteres vermutet und damit aus der bloßen Existenz eines solchen auf einen Schädigungsvorsatz geschlossen werden (vgl. Schleswig-Holsteinisches Oberlandesgericht, Urteil vom 18. September 2019 - 12 U 123/18, Rn. 49, juris).Die Auffassung des erkennenden Senates steht auch, soweit ersichtlich, im Ergebnis im Einklang mit der Rechtsprechung anderer Oberlandesgerichte zur deliktischen Haftung in vergleichbaren Fällen. So haben die Oberlandesgerichte Nürnberg (OLG Nürnberg, Urteil vom 19. Juli 2019 - 5 U 1670/18 -, juris,) und das OLG Koblenz selbst in dem Fall, dass das dortige Fahrzeug von einer Rückrufaktion des Kraftfahrtbundesamtes betroffen war, hinsichtlich deliktischer Ansprüche den objektiven Tatbestand als nicht hinreichend dargelegt angesehen und weiterhin den subjektiven Tatbestand verneint (OLG Koblenz, Urteil vom 21. Oktober 2019 - 12 U 246/19 -, juris; ferner: Urteil vom 09. Dezember 2019 - 12 U 555/19). Ebenso hat das OLG Stuttgart deliktische Ansprüche verneint (OLG Stuttgart, Urteil vom 30. Juli 2019 - 10 U 134/19 -, juris), ebenso wie verschiedene Senate des OLG Köln (Beschluss vom 21. Oktober 2019 - 1 U 66/19 und Urteil vom 28. November 2019 - 15 U 93/19), ebenso wie das OLG Frankfurt (Urteil vom 07. November 2019 - 6 U 119/18), das OLG Oldenburg (nicht veröffentlicht Urteile vom 15. Januar 2019 - 2 U 156/18 - und vom 12. September 2019 - 14 U 61/19) und das OLG Celle (Urteil vom 18. Dezember 2019 - 7 U 511/18 -, juris). Das OLG München hat mit Hinweisbeschluss gemäß § 522 Abs. 2 ZPO vom 28. November 2019 sowohl vertragliche wie auch deliktische Schadensersatzansprüche, unterstellt es gebe eine unzulässige Abschalteinrichtung, jedenfalls mangels Verschuldens verneint (Beschluss vom 28. November 2019 - 32 U 3155/19). Auch der 5. Senat des Brandenburgischen Oberlandesgerichts verneint solche Ansprüche (Urteil vom 19. Dezember 2019 - 5 U 103/18 - juris).Mangels hinreichender Anhaltspunkte für einen Vorsatz der Beklagten scheiden Ansprüche aus § 823 Abs. 2 BGB in Verbindung mit § 263 StGB bzw. § 16 UWG aus. Auch Ansprüche aus § 823 Abs. 2 in Verbindung mit §§ 6, 27 EG-FGV scheiden aus, ohne dass es darauf ankommt, ob es sich hierbei überhaupt um Schutzgesetze im Sinne des § 823 Abs. 2 BGB handelt (vgl. OLG Celle, Beschluss vom 1. Juli 2019 - 7 U 33/19). Tatbestandlich fehlt es bereits an einem Verstoß gegen die Normen, wenn - wie vorliegend - das Fahrzeug dem genehmigten Typ entspricht. Das gilt auch dann, wenn das Fahrzeug eine "Abschalteinrichtung" enthält, der genehmigte Typ aber eben auch. Ohne Belang ist, ob die Typgenehmigung in diesem Fall nicht hätte erfolgen dürfen. Selbst eine erschlichene Typgenehmigung macht eine hierauf bezogene Übereinstimmungsbescheinigung nicht unrichtig. Dafür sprechen nicht zuletzt Sinn und Zweck der Übereinstimmungsbescheinigung (OLG Stuttgart, Urteil vom 07. August 2019 - 9 U 9/19).Demzufolge wird die Berufung der Klägerin zurückzuweisen sein, weshalb der Senat zur Vermeidung weiterer Kosten deren Zurücknahme zu erwägen gibt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2253753.html (https://oj.is/2253753)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate18
+				
+				
+					 Zitiert3
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

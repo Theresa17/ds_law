@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG München IIRechtsprechungEndurteil vom 27.08.2020 - 9 O 4190/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG München II, Endurteil vom 27.08.2020 - 9 O 4190/19
+                      m. Fundstelle
+                      LG München II, Endurteil vom 27.08.2020 - 9 O 4190/19 = openJur 2020, 71484
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG München II, Endurteil vom 27.08.2020 - 9 O 4190/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 71484
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Beklagte wird verurteilt, an den Kläger 10.685,46 € nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 14.12.2019 Zug um Zug gegen Rückgabe und Übereignung des Fahrzeuges Skoda Octavia 1,6 TDI, Fahrgestellnummer sowie weitere 1.003,40 € nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 14.12.2019 zu zahlen. Im Übrigen wird die Klage abgewiesen.2. Von den Kosten des Rechtsstreits haben der Kläger 27% und die Beklagte 73% zu tragen.3. Das Urteil ist vorläufig vollstreckbar, für den Kläger jedoch nur gegen Sicherheitsleistung in Höhe von 110% des zu vollstreckenden Betrags. Der Kläger kann die Vollstreckung der Beklagten durch Sicherheitsleistung in Höhe von 110% des aufgrund des Urteils vollstreckbaren Betrags abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110% des zu vollstreckenden Betrags leistet.BeschlussDer Streitwert wird auf 13.999,00 € festgesetzt. 
+				Tatbestand
+				Der Kläger beansprucht mit der am 30.10.2019 eingereichten und am 13.12.2019 zugestellten Klage Schadenersatz gegen die Beklagte im Zusammenhang mit dem sogenannten "Diesel-Skandal".Der Kläger erwarb gemeinsam mit seiner Ehefrau, die mit Geltendmachung der Klageforderung durch den Kläger allein im eigenen Namen einverstanden ist, am 09.06.2015 bei der Autohaus Bauer e.K. zum Preis von 13.999,00 EUR einen Pkw der Marke Skoda mit der im Klageantrag genannten Typenbezeichnung und Fahrzeugidentifikationsnummer. Das Fahrzeug hatte zum Zeitpunkt des Kaufs eine Laufleistung von 59.500 km und zum Zeitpunkt der letzten mündlichen Verhandlung eines solche von 104.591 km.Das Fahrzeug ist mit einem von der Beklagten hergestellten Diesel-Motor der Baureihe EA 189 ausgestattet, dessen Motorsteuerung auf den bei Testuntersuchungen üblichen - stets gleichen - Strecken in einem anderen Modus betrieben wird, als im Normalbetrieb.Der Dieselmotor des Kfz (Typ EA189) ist mit einem Abgasrückführungssystem ausgestattet. Um den Ausstoß von Stickoxiden zu verringern, werden die Stickoxide im Rahmen der Abgasrückführung aus dem Auslassbereich des Motors über ein Rückführungsventil in den Motor zurückgeleitet und ersetzen dort einen Teil der Frischladung, die für den nächsten Verbrennungsprozess benötigt wird, wodurch im Ergebnis weniger Stickoxide ausgestoßen werden. Das streitgegenständliche Abgasrückführungssystem erkennt, wenn das Fahrzeug den sog. Neuen Europäischen Fahrzyklus durchläuft, einen Testlauf, der einem normalen Fahrbetrieb unter Alltagsbedingungen nicht entspricht. Es ist dann der sog. Abgasrückführungsmodus 1 aktiv, in dem es zu einer höheren Abgasrückführungsrate kommt und damit zu einem verringerten Stickoxid-Ausstoß. In diesem Modus werden die Grenzwerte der Schadstoffnorm Euro 5 eingehalten. Tatsächlich befindet sich das Fahrzeug mit der verbauten Software im normalen Fahrbetrieb jedoch ausschließlich im sog. Abgasrückführungsmodus 0, wodurch sich mehr Stickoxide bilden. Die Grenzwerte der Euro 5 Norm werden in diesem Modus überschritten. Daher hätte der streitgegenständliche PKW nicht in die Schadstoffnorm Euro 5 eingestuft werden dürfen. Die gesetzlichen Vorgaben werden nicht erfüllt, da der Stickoxid-Ausstoß überhöht ist.Im September 2015 räumte die Beklagte öffentlich die Verwendung einer entsprechenden Software ein. Unter dem 15.10.2015 erging gegen sie ein bestandskräftiger Bescheid des Kraftfahrt-Bundesamts (KBA) mit nachträglichen Nebenbestimmungen zur Typgenehmigung, der auch das Fahrzeug der Klagepartei betrifft. Das KBA ging vom Vorliegen einer unzulässigen Abschalteinrichtung aus und gab der Beklagten auf, diese zu beseitigen und die Einhaltung der maßgeblichen Grenzwerte anderweitig zu gewährleisten. Die Beklagte gab mit Pressemitteilung vom 25.11.2015 bekannt, Software-Updates durchzuführen, mit denen diese Software aus allen Fahrzeugen mit Motoren des Typs EA189 entfernt werden sollte.Der Kläger meldete sich am 31.12.2018 zum Klageregister des Musterfeststellungsverfahrens gegen die Beklagte beim Oberlandesgericht Braunschweig an und nahm die Anmeldung zum Klageregister am 26.09.2019 zurück.Der Kläger verlangt Schadenersatz in Höhe des Kaufpreises Zug um Zug gegen Fahrzeugübereignung und will sich auf die gefahrenen Kilometer eine Nutzungsentschädigung bezogen auf eine Gesamtlaufleistung von 300.000 km anrechnen lassen. Die geltend gemachten Anwaltskosten basieren auf einer 2,0fachen Geschäftsgebühr, da die Sache nach Ansicht des Klägers besonders schwierig sei. Außerdem werden Deliktszinsen geltend gemacht.Der Kläger beantragt,Die Beklagte wird verurteilt, an die Klägerpartei EUR 13.999,00 nebst Zinsen in Höhe von 4 Prozentpunkten seit dem 10.06.2015 bis 29.10.2019 und seither fünf Prozentpunkte über dem Basiszinssatz abzüglich einer im Termin zu beziffernden Nutzungsentschädigung Zug-um-Zug gegen Rückgabe und Übereignung des Fahrzeuges Skoda Octavia 1.6 TDI mit der Fahrgestellnummer zu zahlen, mit der Maßgabe, dass der Nutzungsausfall, der anzurechnen ist, € 2.171,50 betragen soll.Es wird festgestellt, dass sich die Beklagte seit dem 30.10.2019 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands im Annahmeverzug befindet.Die Beklagte wird verurteilt, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von EUR 1.570,80 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 30.10.2019 zu bezahlen.Die Beklagte beantragtKlageabweisung.Die Beklagte erhebt die Einrede der Verjährung. Die Anmeldung zum Klageregister des Musterfeststellungsverfahrens habe die Verjährung nicht hemmen können, da sie rechtsmissbräuchlich erfolgt sei.Zur Ergänzung des Tatbestandes wird Bezug genommen auf die Schriftsätze der Parteien, insbesondere jene der Klagepartei vom 30.10.2019, 09.07.2020 und jene der Beklagten vom 21.02.2020.Der Kläger wurde in der mündlichen Verhandlung zum Sachverhalt angehört. Eine Beweisaufnahme fand nicht statt. Im Übrigen wird Bezug genommen auf das Protokoll zur mündlichen Verhandlung vom 23.07.2020. 
+				Gründe
+				Die zulässige Klage erwies sich im Wesentlichen als begründet. Unbegründet und insoweit abzuweisen war sie in Teilen der Nebenforderung, hinsichtlich des Feststellungsantrages und soweit eine zu geringe Nutzungsentschädigung in Abzug gebracht wurde.I.Die Klage ist zulässig. Das Gericht ist örtlich nach § 32 ZPO zuständig, da auch der Erfolgsort der deliktischen Handlung am Wohnort des Klägers zum Zeitpunkt des Kaufs die örtliche Zuständigkeit begründet. Auch der Feststellungantrag ist nach § 256 ZPO zulässig. Für die Feststellung des Annahmeverzugs bei einer Zug um Zug geforderten Leistung besteht stets ein Feststellungsinteresse.II.Die Klage ist wie aus dem Tenor ersichtlich begründet, im Übrigen ist sie unbegründet.1. Der Kläger hat Anspruch auf Zahlung von € 10.685,46 aus § 826 BGB Zug um Zug gegen Rückgabe des Fahrzeuges. Ein darüberhinausgehender Anspruch steht dem Kläger indes nicht zu.a. Das Verhalten der Beklagten ist als sittenwidrig im Sinne von § 826 BGB einzustufen.aa. Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann (BGH, NJW 2017, 250 = WM 2016, 1975 Rn. 16 mwN; NJW 2019, 2164 Rn. 8 mwN). Schon zur Feststellung der Sittenwidrigkeit kann es daher auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen. Die Verwerflichkeit kann sich auch aus einer bewussten Täuschung ergeben (BGH, NJW 2017, 250 = WM 2016, 1975 Rn. 16 mwN). Insbesondere bei mittelbaren Schädigungen kommt es ferner darauf an, dass den Schädiger das Unwerturteil, sittenwidrig gehandelt zu haben, gerade auch in Bezug auf die Schäden desjenigen trifft, der Ansprüche aus § 826 BGB geltend macht (BGH, NJW 2019, 2164 Rn. 8 mwN).Nach diesen Grundsätzen ist das Verhalten der Beklagten objektiv als sittenwidrig zu qualifizieren. Die Beklagte hat auf der Grundlage einer für ihren Konzern, zu der auch die Marke Skoda zählt, getroffenen grundlegenden strategischen Entscheidung bei der Motorenentwicklung im eigenen Kosten- und damit auch Gewinninteresse durch bewusste und gewollte Täuschung des KBA systematisch, langjährig und in Bezug auf den Dieselmotor der Baureihe EA189 in siebenstelligen Stückzahlen in Deutschland Fahrzeuge in Verkehr gebracht, deren Motorsteuerungssoftware bewusst und gewollt so programmiert war, dass die gesetzlichen Abgasgrenzwerte mittels einer unzulässigen Abschalteinrichtung nur auf dem Prüfstand eingehalten wurden. Damit ging einerseits eine erhöhte Belastung der Umwelt mit Stickoxiden und andererseits die Gefahr einher, dass bei einer Aufdeckung dieses Sachverhalts eine Betriebsbeschränkung oder -untersagung hinsichtlich der betroffenen Fahrzeuge erfolgen könnte. Ein solches Verhalten ist im Verhältnis zu einer Person, die eines der bemakelten Fahrzeuge in Unkenntnis der illegalen Abschalteinrichtung erwirbt, besonders verwerflich und mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht zu vereinbaren. Die Sittenwidrigkeit ergibt sich aus einer Gesamtschau des festgestellten Verhaltens der Beklagten unter Berücksichtigung des verfolgten Ziels, der eingesetzten Mittel, der zutage getretenen Gesinnung und der eingetretenen Folgen.bb. Die grundlegende strategische Entscheidung in Bezug auf die Entwicklung und Verwendung der unzulässigen Software wurden von den im Hause der Beklagten für die Motorenentwicklung verantwortlichen Personen, namentlich dem vormaligen Leiter der Entwicklungsabteilung und den für die Forschungs- und Entwicklungsaktivitäten der Beklagten verantwortlichen vormaligen Vorständen, wenn nicht selbst, so zumindest mit ihrer Kenntnis und Billigung getroffen bzw. jahrelang umgesetzt. Dies ist der Beklagten nach § 31 BGB zuzurechnen. Dies gilt auch, insoweit es sich vorliegend um ein Fahrzeug der Marke Skoda handelt.(1) Der Leiter der Entwicklungsabteilung eines großen, weltweit tätigen Automobilherstellers wie der Beklagten hat eine für dessen Kerngeschäft verantwortliche, in besonderer Weise herausgehobene Position als Führungskraft inne. Daraus folgt unmittelbar, dass ihm bedeutsame, wesensmäßige Funktionen des Unternehmens zur selbstständigen, eigenverantwortlichen Erfüllung zugewiesen sind, er also das Unternehmen auf diese Weise repräsentiert. Er ist daher als verfassungsmäßiger Vertreter einzuordnen.(2) Aufgrund des Vortrags der Klagepartei ist der Entscheidung außerdem zugrunde zu legen, dass der vormalige Vorstand der Beklagten von der Entwicklung und Verwendung der unzulässigen Abschalteinrichtung wusste. Die Beklagte ist ihrer diesbezüglichen sekundären Darlegungslast nicht nachgekommen. Die Klagepartei hat hinreichende Anhaltspunkte für eine Kenntnis des Vorstands von der Verwendung der unzulässigen Abschalteinrichtung vorgetragen. Hierfür spricht nicht nur der Umstand, dass es sich bei der Verwendung einer unzulässigen Abschalteinrichtung um eine grundlegende, weltweit alle Fahrzeuge mit Motoren der Serie EA189 betreffende Strategieentscheidung handelte, die mit erheblichen Risiken für den gesamten Konzern und auch mit persönlichen Haftungsrisiken für die entscheidenden Personen verbunden war, sondern auch die Bedeutung gesetzlicher Grenzwerte und der technischen und wirtschaftlichen Möglichkeiten ihrer Einhaltung für die Geschäftstätigkeit der Beklagten. Wegen der besonderen Schwierigkeiten der Klagepartei, konkrete Tatsachen darzulegen, aus denen sich die Kenntnis eines bestimmten Vorstandsmitglieds ergibt, ist die Einlassung der Beklagten in hiesigem Rechtsstreit nicht ausreichend.b. Der Klagepartei ist durch das sittenwidrige Verhalten der Beklagten ein Schaden entstanden (§§ 826, 249 Abs. 1 BGB), der in dem Abschluss des Kaufvertrags über das bemakelte Fahrzeug liegt.Ein Schaden ist nämlich nicht nur dann gegeben, wenn sich bei dem vorzunehmenden Vergleich der infolge des haftungsbegründenden Ereignisses eingetretenen Vermögenslage mit derjenigen, die ohne jenes Ereignis eingetreten wäre, ein rechnerisches Minus ergibt. Denn Schadensersatz dient dazu, den konkreten Nachteil des Geschädigten auszugleichen, so dass der Schadensbegriff im Ansatz subjektbezogen ist. Wird jemand durch ein haftungsbegründendes Verhalten zum Abschluss eines Vertrags gebracht, den er sonst nicht geschlossen hätte, kann er auch bei objektiver Werthaltigkeit von Leistung und Gegenleistung dadurch einen Vermögensschaden erleiden, dass die Leistung für seine Zwecke nicht voll brauchbar ist. Voraussetzung ist dabei, dass die durch die durch den unerwünschten Vertrag erlangte Leistung nicht nur aus rein subjektiv willkürlicher Sicht als Schaden angesehen wird, sondern dass auch die Verkehrsanschauung bei Berücksichtigung der obwaltenden Umstände den Vertragsschluss als unvernünftig, den konkreten Vermögensinteressen nicht angemessen und damit als nachteilig ansieht.Im Fall einer vorsätzlichen sittenwidrigen Schädigung dient der Schadensersatzanspruch nicht nur dem Ausgleich jeder nachteiligen Einwirkung durch das sittenwidrige Verhalten auf die objektive Vermögenslage des Geschädigten. Vielmehr muss sich der Geschädigte auch von einer auf dem sittenwidrigen Verhalten beruhenden Belastung mit einer "ungewollten" Verpflichtung wieder befreien können. Schon eine solche stellt unter den dargelegten Voraussetzungen einen gem. § 826 BGB zu ersetzenden Schaden dar. Insoweit bewirkt § 826 BGB einen Schutz der allgemeinen Handlungsfreiheit und speziell des wirtschaftlichen Selbstbestimmungsrechts des Einzelnen (BGH, NJW 2020, 1962).Im Streitfall ist der Klagepartei veranlasst durch das einer arglistigen Täuschung gleichstehende sittenwidrige Verhalten der Beklagten eine ungewollte Verpflichtung eingegangen. Dabei kann dahinstehen, ob sie einen Vermögensschaden dadurch erlitten hat, dass im Zeitpunkt des Erwerbs des Fahrzeugs eine objektive Werthaltigkeit von Leistung und Gegenleistung nicht gegeben war (§ 249 Abs. 1 BGB), auch wenn dafür angesichts des zum Zeitpunkt des Vertragsschlusses vorhandenen verdeckten Sachmangels, der zu einer Betriebsbeschränkung oder -untersagung hätte führen können (vgl. BGH NJW 2019, 1133 Rn. 17 ff.), einiges spricht. Denn ein Schaden ist hier jedenfalls deshalb eingetreten, weil der Vertragsschluss nach den oben genannten Grundsätzen als unvernünftig anzusehen ist. Die Klagepartei hat durch den ungewollten Vertragsschluss eine Leistung erhalten, die für seine Zwecke nicht voll brauchbar war (BGH, NJW 2020, 1962).Das Gericht hatte auch davon auszugehen, dass die Klagepartei den Kaufvertrag in Kenntnis der illegalen Abschalteinrichtung nicht abgeschlossen hätte, § 286 ZPO. Dabei hat der Einzelrichter bei seiner Würdigung einen sich aus der allgemeinen Lebenserfahrung und der Art des zu beurteilenden Geschäfts ergebenden Erfahrungssatz zugrunde gelegt, wonach auszuschließen ist, dass ein Käufer ein Fahrzeug erwirbt, dem eine Betriebsbeschränkung oder -untersagung droht.c. Ein Schädigungsvorsatz der handelnden Personen, auch im Hinblick auf die Klagepartei, lag vor. Die handelnden Personen kannten die grundlegende und mit der bewussten Täuschung des KBA verbundene strategische Entscheidung in Bezug auf die Entwicklung und Verwendung der unzulässigen Software und setzten diese jahrelang um. Daher ist schon nach der Lebenserfahrung davon auszugehen, dass ihnen als für die zentrale Aufgabe der Entwicklung und des Inverkehrbringens der Fahrzeuge zuständigem Organ oder verfassungsmäßigem Vertreter (§ 31 BGB) bewusst war, in Kenntnis des Risikos einer Betriebsbeschränkung oder -untersagung der betroffenen Fahrzeuge werde niemand - ohne einen erheblichen, dies berücksichtigenden Abschlag vom Kaufpreis - ein damit belastetes Fahrzeug erwerben (BGH, NJW 2020, 1962 Rn. 63).d. Dem Kläger ist der entstandene Schaden nach den §§ 249 ff. BGB zu ersetzen. Der Schaden ist vorliegend in Höhe des Kaufpreises von 13.999,00 EUR eingetreten.e. Der Kläger muss sich im Wege des Vorteilsausgleichs aber die von ihm gezogenen Nutzungen anrechnen lassen. Die Nutzungsentschädigung ist abweichend vom Vortrag des Klägers auf Basis einer Gesamtlaufleistung von 250.000 km zu berechnen. Dabei handelt es sich um die hypothetische Lebensdauer von Fahrzeug und Motor, die der Einzelrichter gemäß § 287 ZPO auf diesen Wert schätzt.Das Fahrzeug wies beim Kauf eine Laufleistung von 59.500 km auf, hatte also eine voraussichtliche Restlaufleistung von 190.500 km, für die der Kläger den Kaufpreis aufwandte. Mit dem Klägerfahrzeug wurden bis zum Zeitpunkt der mündlichen Verhandlung weitere 45.091 km zurückgelegt, sodass es nunmehr eine Laufleistung von 104.591 km aufweist. Die klägerseits zurückgelegte Strecke zur Restlaufleistung und zum Kaufpreis ins Verhältnis gesetzt ergibt eine Nutzungsentschädigung in Höhe von EUR 3.313,54, dies sich der Kläger anrechnen lassen muss (13.999,00 € / 190.500 * 45091). Der Ersatzanspruch des Klägers besteht daher in Höhe von € 10.685,46.f. Soweit der Anspruch dem Kläger gemeinsam mit seiner Ehefrau zusteht, er aber Zahlung an sich fordert, handelt er mit Einverständnis seiner Ehefrau.g. Verjährung ist nicht eingetreten. Dabei kann dahingestellt bleiben, ob Klageerhebung bereits im Jahre 2015 zumutbare gewesen wäre. Die Verjährung war durch Anmeldung zur Musterfeststellungsklage gemäß § 204 Abs. 1 Nr. 1a BGB am 31.12.2018 gehemmt. Die Hemmung endete nach § 204 Abs. 2 S. 2 BGB sechs Monate nach Rücknahme der Anmeldung. Vor Ende der Hemmung wurde jedoch Klage erhoben. Für eine Rechtsmissbräuchlichkeit der Anmeldung zur Musterfeststellungsklage liegen vorliegend keinerlei Anhaltspunkte vor.2. Der Kläger hat keinen Anspruch auf Feststellung des Schuldnerverzugs.Der Kläger hat von der Beklagten mit Schreiben vom 15.10.2019 die Erstattung des Kaufpreises abzüglich einer Nutzungsentschädigung, die sich aus einer Gesamtlaufleistung von 350.000 km berechne, verlangt und die Fahrzeugübereignung nur Zug um Zug gegen die Zahlung eines höheren als den geschuldeten Betrages angeboten. Ein zur Begründung von Annahmeverzug auf Seiten der Beklagten geeignetes Angebot liegt also nicht vor.3. Nach Maßgabe dessen sind auch keine Verzugszinsen geschuldet, §§ 286, 288 BGB, aber Prozesszinsen ab 14.12.2019.4. Der Kläger hat keinen Anspruch auf Zahlung von weitergehenden Deliktszinsen nach § 849 BGB - um den Entzug einer Sache geht es nicht und der Fall ist auch nicht vergleichbar damit (BGH Urt. v. 30.7.2020 - VI ZR 354/19).5. Der Kläger hat aus § 826 BGB Anspruch auf Ersatz der ihm entstandenen Rechtsanwaltskosten, allerdings lediglich in Höhe einer angemessenen Gebühr in Höhe einer 1,3fachen Gebühr zuzüglich 20 Euro Auslagenpauschale und 16% MwSt. Daraus ergibt sich ein Betrag in Höhe von € 1.003,40. Ein weitergehender Anspruch besteht nicht.III.Die Kostenentscheidung ergibt sich aus § 92 Abs. 1 ZPO. § 92 Abs. 2 ZPO ist nicht einschlägig, da der Kläger in nicht unerheblicher Höhe mit seiner Forderung nach Deliktszinsen und Nebenforderungen unterliegt.IV.Vorläufige Vollstreckbarkeit: § 709 ZPO für den Kläger und §§ 708 Ziff. 11, 711 ZPO für die Beklagte.
+			
+			
+			
+			Permalink: https://openjur.de/u/2296709.html (https://oj.is/2296709)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

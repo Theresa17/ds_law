@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG WuppertalRechtsprechungUrteil vom 26.04.2017 - 3 O 156/16
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Wuppertal, Urteil vom 26.04.2017 - 3 O 156/16
+                      m. Fundstelle
+                      LG Wuppertal, Urteil vom 26.04.2017 - 3 O 156/16 = openJur 2017, 546
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Wuppertal, Urteil vom 26.04.2017 - 3 O 156/16
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2017, 546
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte zu 2) wird verurteilt, an die Klägerin 30.714,66 EUR nebst Zinsen i. H.v. 5 Prozentpunkten über dem Basiszinssatz seit dem 21.04.2016 Zug um Zug gegen Übergabe des Fahrzeugs mit der Fahrgestellnummer XXX zu zahlen.Es wird festgestellt, dass sich die Beklagte zu 2) seit dem 21.04.2016 im Annahmeverzug mit der Rücknahme befindet.Die Beklagte zu 2) wird verurteilt, an die Klägerin die Kosten der außergerichtlichen Rechtsverfolgung i. H.v. 1.832,01 EUR nebst Zinsen i. H.v. 5 Prozentpunkten über dem Basiszinssatz seit dem 21.04.2016 zu zahlen.Im Übrigen wird die Klage abgewiesen.Die Gerichtskosten tragen die Klägerin und die Beklagte zu 2) je zur Hälfte. Die außergerichtlichen Kosten der Beklagten zu 1) trägt die Klägerin. Die außergerichtlichen Kosten der Klägerin trägt die Beklagte zu 2) zur Hälfte. Im Übrigen tragen die Parteien ihre außergerichtlichen Kosten selbst.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten um die Rückabwicklung eines Kaufvertrages im Zusammenhang mit dem sogenannten "VW-Abgasskandal".Die Klägerin erwarb am 10.04.2014 über die Beklagte zu 1) ein Fahrzeug der Marke VW Tiguan "CUP" 4Motion 2,0 l TDI, welches die Beklagte zu 2) hergestellt hat. Ausweislich der verbindlichen Bestellung vom 10.04.2014 erfolgte der Verkauf im Namen der Beklagten zu 2) (Anlage K1, Bl. 19 d.A.). Die Klägerin erhielt einen Preisnachlass in Höhe von 6.466,50 EUR (15 % des Kaufpreises) im Rahmen einer Aktion der Beklagten zu 2) für Menschen mit Behinderung (vgl. Anlage K&W 1, Bl. 188 d.A.). Die Beklagte zu 2) erteilte die Rechnung in Höhe von 36.643,50 EUR unter dem 10.08.2014 mit dem Hinweis: "Rechnungsstellung erfolgt durch die Volkswagen AG. Schuldbefreiende Zahlung ist ausschließlich auf das in dieser Rechnung angegebene Konto der Volkswagen AG möglich" (Anlage K&W 7, Bl. 184 ff. d.A.). Die Beklagte zu 1) stellte der Klägerin darüber hinaus insgesamt 678,00 EUR für das Selbstabholer Paket und die Zulassung des Fahrzeugs in Rechnung (Anlage K&W 7, Bl. 187 d.A.). Insgesamt zahlte die Klägerin 37.321,50 EUR für das streitgegenständliche Fahrzeug.Der Kilometerstand betrug bei Übergabe des Wagens 0 km. In das Fahrzeug ist ein 2,0 l TDI 103 kW Dieselmotor des Typs EA 189 EUR5 eingebaut.Nach Abschluss des Kaufvertrages wurde bekannt, dass bei der Herstellung in Fahrzeuge mit Dieselmotoren des Typs EA 189 eine Software eingespeist wurde, die dazu führt, dass eine Abgasrückführung aktiviert wird sobald der Wagen den Neuen Europäischen Fahrzyklus (NEFZ) durchfährt. Dieser NEFZ wird auf dem Rollenstand unter Laborbedingungen durchgeführt, um unter anderem die Stickoxidwerte zu messen. Die Abgasrückführung im sogenannten Betriebsmodus 1 bewirkt sodann, dass der Ausstoß von Stickoxiden optimiert wird, in dem das Abgas aus dem Auslassbereich des Motors über ein Abgasrückführungsventil in den Ansaugtrakt des Motors zugeleitet wird. Das Abgas ersetzt dort einen Teil der für den Verbrennungsprozess benötigten Frischluft und im Ergebnis bilden sich dadurch weniger Stickoxide aufgrund der Abkühlung während des Verbrennungsvorganges.Während des Normalbetriebes im Straßenverkehr schaltet die Software auf den sogenannten Betriebsmodus 0 um, so dass keine höhere Abgasrückführungsrate bewirkt wird.Diese Software unterscheidet sich aufgrund der erhöhten Abgasrückführung im Betriebsmodus 1 von dem gewöhnlicherweise in Kraftfahrzeugen vorhandenem Prüfstandmodus. Üblicherweise werden Fahrzeuge auf dem Prüfstand lediglich unter Abschaltung des ABS, ESP etc. betrieben, ohne Erhöhung der Abgasrückführungsrate zur Optimierung der Stickoxidwerte.Mit Bescheid vom 14.10.2015 wurde die Beklagte zu 2) vom Kraftfahrt-Bundesamt verpflichtet, bei allen betroffenen Fahrzeugen mit dem Aggregat EA 189 EU5 die "unzulässige Abschalteinrichtung zu entfernen" und den Nachweis zu führen, dass "nach Entfernen der unzulässigen Abschalteinrichtung alle technischen Anforderungen der relevanten Einzelrechtsakte der Richtlinie 2007/46/EG erfüllt werden". Hierzu entwickelte die Beklagte zu 2) ein Software-Update, wodurch der Wagen durchgängig im optimierten Modus 1, also auch im normalen Straßenverkehr, betrieben wird. Mit Bescheid vom 01.06.2016 erklärte das Kraftfahrt-Bundesamt, die Beklagte zu 2) habe den geforderten Nachweis u.a. für den Fahrzeugtyp Tiguan erbracht (vgl. Anlage K&W 9, Bl. 189 ff. d.A.).Unter Eingabe der Fahrzeugidentifikationsnummer auf der Homepage der Beklagten zu 2) erhielt die Klägerin die Information, dass ihr Wagen von der vorgenannten Software betroffen ist (vgl. Anlage K2, Bl. 20 d.A.).Mit anwaltlichem Schreiben vom 12.04.2016 (Anlage K5, Bl. 28 ff. d.A.), welches an die Beklagte zu 1) adressiert war, erklärte die Klägerin den Rücktritt vom Kaufvertrag und forderte, unter Abzug von gezogenen Nutzungen, die Rückzahlung des Kaufpreises i.H.v. 31.271,50 EUR bis zum 20.04.2016. Aufgrund dieses Schreibens sind der Klägerin vorgerichtliche Rechtsanwaltskosten i.H.v. 1.832,01 EUR entstanden.Die Beklagte zu 1) wies den Rücktritt mit Schreiben vom 20.04.2016 (Anlage K6, Bl. 33 f. d.A.) zurück. Im weiteren Verlauf boten die Beklagten der Klägerin an, das Software-Update in einer Vertragswerkstatt aufspielen zu lassen. Die hierdurch anfallenden Kosten in Höhe von weniger als 100 EUR würde die Beklagte zu 2) übernehmen.Die Klägerin trägt vor, den Kaufvertrag mit der Beklagten zu 1) geschlossen zu haben und die Beklagte zu 2) habe den Wagen lediglich hergestellt. Dies verdeutliche der Bestellschein, der - insoweit unstreitig - den Briefkopf, die Unterschrift und den Stempel von der Beklagten zu 1) trägt. Sie habe sich bei der Wahl des Wagens bewusst für das umweltfreundlichste Fahrzeug dieser Klasse entschieden.Der Wagen enthalte die vom Kraftfahrt-Bundesamt monierte Software und sei daher mangelhaft. Sowohl dem Vorstand der Beklagten zu 2), in Person des Herrn Dr. X, als auch der Beklagten zu 1) als Vertragshändlerin sei die Software bekannt gewesen. Diese sei in Betrugsabsicht zur Umgehung geltender Abgasnormen entworfen und von beiden Beklagten bewusst eingesetzt worden. Ohne diese Software könne das Fahrzeug die Grenzwerte für die Schadstoffklasse EUR5 nicht einhalten. Die Software stelle eine unzulässige Abschalteinrichtung dar, weswegen das Kraftfahrtbundesamt gehalten sei, aufgrund der rechtswidrig erteilten Typengenehmigung die Allgemeine Betriebserlaubnis zu entziehen und das Straßenverkehrsamt anzuweisen, den Fahrzeughaltern Stilllegungsverfügungen zuzustellen.Eine Nacherfüllung seitens der Beklagten sei unzumutbar, weil das Vertrauensverhältnis nachhaltig gestört sei und das von der Beklagten zu 2) entwickelte Software-Update Versottungsschäden hervorrufen würde. Durch diese würden Partikelschäden bereits ab einer Laufzeit von 30.000 km und Motorschäden ab einer Laufzeit von 50.000 km auftreten.Aufgrund der Manipulation zeige sich ein deutlicher Preisverfall der betroffenen Wagen, so dass der merkantile Minderwert 20 % betrage.Daher sei der Rücktritt wirksam erfolgt und zudem würden ihr beide Beklagten aus § 823 Abs. 2 BGB i.V.m. § 263 StGB sowie § 826 BGB haften.Die Klägerin hat zunächst nur Klage gegen die Beklagte zu 1) erhoben. Mit Schriftsatz vom 05.09.2016 hat sie die Klage auch gegen die Beklagte zu 2) gerichtet.Die Klägerin beantragt,1. die Beklagten als Gesamtschuldner zu verurteilen, an sie 37.271,50 EUR nebst Zinsen i.H.v. 5 Prozentpunkten über dem Basiszinssatz seit dem 21.04.2016 Zug um Zug gegen Übergabe des Fahrzeuges mit der Fahrgestellnummer XXX abzüglich einer Nutzungsentschädigung i.H.v. 3.105,96 EUR zu zahlen;2. festzustellen, dass sich die Beklagten spätestens seit dem 21.04.2016 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befindet;3. die Beklagten tragen die Kosten des Rechtsstreits und die Kosten der außergerichtlichen Rechtsverfolgung i.H.v. 1.832,01 EUR nebst Zinsen i.H.v. 5 Prozentpunkten über dem Basiszinssatz seit dem 21.04.2016.Die Beklagten beantragen,die Klage abzuweisen.Sie tragen vor, dass der Kaufvertrag mit der Beklagten zu 2) zustande gekommen sei. Der Wagen halte die europarechtlichen Schadstoffgrenzwerte unter Laborbedingungen ein, so dass die Typengenehmigung nicht rechtswidrig erteilt worden sei. Das Fahrzeug sei auch mangelfrei, da es technisch sicher und uneingeschränkt fahrbereit sei. Selbst wenn das Fahrzeug mangelhaft sein sollte, sei dieser nicht erheblich, weil die Kosten der Nacherfüllung in Relation zum Kaufpreis weniger als 5 % betragen würden. Ein Rücktritt sei zudem ausgeschlossen, da die Klägerin - insoweit unstreitig - keine Frist zur Nacherfüllung gesetzt hat und diese auch nicht entbehrlich gewesen sei.Die Beklagte zu 1) behauptet zudem, von der Abgasthematik erst durch die mediale Berichterstattung im September 2015 erfahren zu haben.Die Beklagte zu 2) behauptet, ihr Vorstand habe von der Entwicklung und Verwendung der Software keine Kenntnis gehabt. Die Entscheidung, die Motorsteuerungssoftware zu verändern, sei von Mitarbeitern unterhalb der Vorstandsebene auf nachgeordneten Arbeitsebenen getroffen worden.Das Gericht hat in der mündlichen Verhandlung vom 22.02.2017 den Kilometerstand des streitgegenständlichen Fahrzeuges in Augenschein genommen, er wies 44.734 gefahrene Kilometer aus.Wegen der weiteren Einzelheiten des Parteivorbringens wird auf die gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist hinsichtlich der Beklagten zu 1) unbegründet und hinsichtlich der Beklagten zu 2) größtenteils begründet.Die Klägerin hat gegen die Beklagte zu 2) Anspruch auf Zahlung i.H.v. 30.714,66 EUR Zug um Zug gegen Übereignung und Herausgabe des streitgegenständlichen Pkws gem. §§ 437 Nr. 2, 323, 346 Abs. 1, 348 BGB.Das Fahrzeug war bei Gefahrübergang mangelhaft i.S.d. § 434 Abs. 1 S. 2 Nr. 2 BGB, weil es zu einer unzulässigen Abänderung der Abgaswerte durch die eingesetzte Software kommt. Maßgeblich für die Einhaltung der vorgeschriebenen Abgaswerte ist, dass auf dem Prüfstand Abgaswerte ausgegeben werden, die mit den tatsächlichen Werten im Straßenbetrieb in Relation gesetzt werden können. Aufgrund der Software wird aber gerade diese Vergleichbarkeit beseitigt, so dass die unzutreffende Darstellung der Abgaswerte im Prüfbereich eine negative Abweichung der Ist-Beschaffenheit von der zu erwartenden Soll-Beschaffenheit bedingt. Vor diesem Hintergrund besteht auch die nicht unerhebliche Gefahr, dass die Betriebserlaubnis entzogen wird. So dann wäre der Wagen nicht einmal mehr für die gewöhnliche Verwendung geeignet.Wie sich aus der Anlage K2 (Bl. 20 d.A.) ergibt, wurde in das streitgegenständliche Fahrzeug die Software zur sogenannten "Optimierung" der Stickoxidwerte verbaut. Die Beklagte zu 2) kann mit einfachem Bestreiten dahingehend, dass das streitgegenständliche Fahrzeug diese Software gar nicht enthalte, nicht durchdringen. Anhand der übereinstimmenden Fahrzeugidentifikationsnummer zeigt der Ausdruck, dass das streitgegenständliche Fahrzeug die Software enthält. Die dahingehende Information hat die Klägerin von der Homepage der Beklagten zu 2). Auf dieser wurde eigens durch die Beklagte zu 2) eine Möglichkeit errichtet, damit die jeweiligen Fahrzeugbesitzer erfahren können, ob ihr Wagen von der Software betroffen ist. Hinzu kommt, dass die Software in die gesamte Reihe des hier vorliegenden Motortyps eingebaut wurde und der Klägerin noch im Prozess die Aufspielung des Software-Updates angeboten wurde. Dieser Aufspielung bedürfte es aber nicht, wenn der Wagen die eigentliche Software gar nicht enthielte.Aufgrund dieser Software hat das Kraftfahrt-Bundesamt jene Fahrzeuge, die diese Software enthalten, gem. § 25 Abs. 2 EG-FZG zurückgerufen und die Beklagte zu 2) verpflichtet, die als "unzulässige Abschalteinrichtung" benannte Software zu entfernen. Ohne Durchführung des von der Beklagten zu 2) entwickelten Software-Updates besteht eine nicht unerhebliche Wahrscheinlichkeit, den Verlust der allgemeinen Betriebserlaubnis wegen Überschreitens der Stickoxid-Grenzwerte zu riskieren. Es ist auch davon auszugehen, dass diese Grenzwerte ohne das Update überschritten werden. Zum einen wäre das seitens der Beklagten zu 2) entwickelte Update ansonsten gar nicht erforderlich, zum anderen wäre der Einsatz der Software ohne Sinn, wenn das Fahrzeug die Grenzwerte ohnehin einhalten würde. Nur für den Prüfstand bedürfte es der gesteigerten Abgasrückführung zur sogenannten Optimierung der Stickoxidwerte nämlich nicht. Einziger Zweck der entsprechenden "Optimierung" ist die Vortäuschung verminderter Abgaswerte zu Prüfzwecken.Die Genehmigung des Software-Updates durch das Kraftfahrt-Bundesamt ändert nichts daran, dass das Fahrzeug zum Zeitpunkt des Gefahrübergangs mangelhaft war und ohne das Update auch noch immer mangelhaft ist.Der Mangel ist entgegen der Ansicht der Beklagten auch nicht unerheblich i.S.d. § 323 Abs. 5 BGB. Die Prüfung der Erheblichkeit erfordert eine umfassende Interessenabwägung (vgl. Palandt/Grüneberg, § 323 BGB Rn. 32). Dabei ist zwar grds. von einem unerheblichen Mangel auszugehen, wenn die Kosten der Nacherfüllung weniger als 5 % der vereinbarten Gegenleistung ausmachen. Soweit dem Verkäufer aber arglistiges Verhalten gem. § 123 BGB zu Last fällt, ist eine unerhebliche Pflichtverletzung im Sinne von § 323 Abs. 5 Satz 2 BGB in der Regel zu verneinen (BGH, Urteil vom 24. März 2006 - V ZR 173/05 -, BGHZ 167, 19-25, Rn. 11).So liegt der Fall auch hier. Die Beklagte zu 2) hat der Klägerin bei Abschluss des Kaufvertrages arglistig verschwiegen, dass die Stickoxidwerte nach der EUR5-Abgasnorm nicht eingehalten werden, weil die maßgebenden Abgaswerte nur unter unzulässiger Nutzung der Software vorgetäuscht werden können. Aufgrund dessen droht auch der Verlust der Betriebserlaubnis. Die Software dient einzig dem Zweck auf dem Prüfstand einen wesentlich geringeren Stickoxidausstoß vorzutäuschen und so die Motoren als der EUR5-Norm unterfallend verkaufen zu können. Aufgrund des starken Informationsgefälles zu Lasten der Klägerin, hätte die Beklagten zu 2) sicherstellen müssen, dass die Klägerin über die Software und das tatsächliche Überschreiten der Grenzwerte aufgeklärt wird.Dies hat sie in Kenntnis der aufklärungspflichtigen Tatsachen nicht getan, als sie sich für den Vertragsabschluss der Beklagten zu 1) bediente, ohne Maßnahmen zur Erfüllung der Aufklärungspflicht zu ergreifen. Hierbei muss sich die Beklagte zu 2) das Handeln ihrer Erfüllungsgehilfen gem. § 278 BGB zurechnen lassen. Ihre eigenen Mitarbeiter, welche die Software unstreitig entwickelt und eingebaut haben, handelten mit dem Willen der Beklagten zu 2) zur Erfüllung ihrer Verbindlichkeiten. Sie kann sich nicht darauf zurückziehen, dass der Vorstand selbst keine Kenntnis hiervon gehabt habe, sondern lediglich Mitarbeiter unterhalb der Vorstandsebene. Die in Rede stehende Software wurde im Auftrag von Mitarbeitern der Beklagten zu 2) entwickelt und in das streitgegenständliche Fahrzeug verbaut. Diese Mitarbeiter handelten dabei auch im allgemeinen Umkreis des Aufgabenbereichs, zu dessen Wahrnehmung sie die Beklagte zu 2) bestellt hat. Anhaltspunkte dafür, dass diese Mitarbeiter ohne sachlichen Zusammenhang mit ihrem Aufgabenkreis zum Nachteil der Beklagten zu 2) gehandelt hätten, sind nicht einmal ansatzweise ersichtlich.Aufgrund der arglistigen Täuschung verdient das Vertrauen der Beklagten zu 2) in den Bestand des Vertrages auch keinen Schutz, so dass es keiner weiteren Interessenabwägung bedarf.Dass die Klägerin auch bei Kenntnis des Mangels den Vertrag abgeschlossen hätte, konnte die Beklagte zu 2) nicht substantiiert vortragen. Allein der Umstand, dass die Klägerin einen Rabatt auf den Kaufpreis des streitgegenständlichen Fahrzeuges erhalten hat, ist hierfür nicht ausreichend. Es ist davon auszugehen, dass die Klägerin keinen Wagen mit eingebauter Software gekauft hätte, wenn sie von dieser gewusst hätte. Auch unter Berücksichtigung des 15%igen Preisabschlages hätte die Klägerin sich wohl kaum dem nicht unwahrscheinlichen Risiko ausgesetzt, ein Fahrzeug zu erhalten, dem die Betriebserlaubnis entzogen werden könnte. Möglicherweise hätte sie sich im Hinblick auf den Rabatt zwar für einen Wagen der Beklagten zu 2) entschieden, aber wohl kaum für einen mit der in Rede stehenden Software.Aufgrund der arglistigen Täuschung durch die Beklagte zu 2) war eine Fristsetzung zur Nacherfüllung durch die Klägerin entbehrlich. Eine Nachbesserung war der Klägerin zum Zeitpunkt des Rücktritts aufgrund des nachhaltig gestörten Vertrauensverhältnisses unzumutbar i.S.v. §§ 323 Abs. 2 Nr. 3, 440 BGB. So gilt auch im Rahmen der Nacherfüllung, dass die Beklagte zu 2) keinen Schutz vor den mit der Rückabwicklung des Vertrages verbundenen wirtschaftlichen Nachteilen verdient, nachdem sie die Klägerin über das Vorliegen des Mangels arglistig getäuscht hat (vgl. BGH, Urteil vom 09. Januar 2008 - VIII ZR 210/06 -, Rn. 19, juris). Hierbei ist auch unerheblich, ob die Beklagte zu 2) die Nacherfüllung in Form des Software-Updates selbst oder durch einen beauftragten Dritten durchführen würde. Die Beklagte zu 2) hat die Software zur Verfälschung der Messergebnisse entwickelt, so dass sich die Klägerin nicht erneut in ihre Hände begeben muss, um den Mangel mit einer weiteren von der Beklagten zu 2) entwickelten Software eventuell beheben zu lassen.Die Rücktrittserklärung erfolgte fristgerecht. Es ist auch ausreichend, dass die Klägerin diesen nur gegenüber der Beklagten zu 1) erklärt hat. Die Beklagte zu 2) hat sich ihrer zur Abwicklung des Kaufvertrages bedient, so dass die Beklagte zu 1) auch als Empfangsbotin für die Beklagte zu 2) anzusehen ist. Jedenfalls hat die Beklagte zu 2) nichts Gegenteiliges vorgetragen.Die Klägerin muss sich die von ihr gezogenen Nutzungen i.H.v. 6.556,84 EUR gem. § 346 Abs. 1 BGB anrechnen lassen. Das Gericht hat im Rahmen der mündlichen Verhandlung durch Inaugenscheinnahme des Kilometerzählers des streitgegenständlichen Fahrzeuges festgestellt, dass dieser 44.734 km auswies. Das Gericht geht im Wege der Schätzung, unter Berücksichtigung vergleichbarer Rechtsprechung (vgl. LG Kleve Urteil vom 31.03.2017 - Az.: 3 O 252/16, LG Krefeld Urteil vom 14.09.2016 - Az.: 2 O 83/16), nach § 287 ZPO davon aus, dass für den streitgegenständlichen Tiguan mit einem 2,0 l Dieselmotor eine Gesamtlaufleistung von 250.000 km zu erwarten ist. Die Berechnung des Nutzungsvorteils erfolgt, indem der Bruttokaufpreis i.H.v. 36.643,49 EUR mit den gefahrenen Kilometern multipliziert und das Produkt durch die zu erwartende Restlaufleistung bei Übergang der Sache dividiert wird. Letztere liegt bei 250.000 km, da das Fahrzeug bei Abschluss des Kaufvertrages noch keinen Kilometer gefahren war. Hieraus ergeben sich gezogene Nutzungen im Wert von 6.556,84 EUR.Des Weiteren hat die Klägerin gegen die Beklagte zu 2) einen Schadensersatzanspruch i.H.v. 678,00 EUR gem. §§ 280 Abs. 1, 284 BGB. Im Vertrauen auf Erhalt eines mangelfreien Fahrzeuges hat die Klägerin 678,00 EUR für das Selbstabholer-Paket, die Zulassungsbescheinigung Teil II und die Kosten der Zulassung aufgewendet. Eine Fristsetzung bezüglich dessen war gem. § 281 Abs. 2 BGB aufgrund der arglistigen Täuschung der Beklagten zu 2), wie bereits im Rahmen des Rücktritts dargestellt, entbehrlich.Ebenso steht der Klägerin ein Schadensersatzanspruch i.H.v.1.832,01 EUR für die vorgerichtlichen Rechtsanwaltskosten zu. Die Inanspruchnahme eines Rechtsanwalts für die Erklärung des Rücktritts war zweckmäßig und erforderlich i.S.d. § 249 BGB. Der vorliegende Rechtsstreit ist sowohl in rechtlicher als auch in tatsächlicher Hinsicht nicht als einfach gelagerter Fall zu bezeichnen, so dass es der Klägerin nicht zuzumuten war, sich der Sache zunächst allein anzunehmen. Dies gilt umso mehr im Hinblick auf die Größe und Bedeutung der Beklagten zu 2) und des sogenannten "Abgasskandals" in Deutschland. All dies rechtfertigt auch die leicht über dem Mittel liegende Geschäftsgebühr von 1,5 gem. Nr. 2300 VV, §§ 13, 14 RVG.Die Klägerin hat gegen die Beklagte zu 2) auch Anspruch auf Zahlung von Verzugszinsen gem. §§ 280 Abs. 1, 286 Abs. 1, Abs. 2 Nr. 3, 288 BGB seit dem 21.04.2016. Denn seit diesem Zeitpunkt befindet sich die Beklagte zu 2) in Verzug. Durch die Zurückweisung des Rücktritts seitens der Beklagten zu 1), was sich die Beklagte zu 2) gem. § 278 BGB zurechnen lassen muss, hat sie mit Schreiben vom 21.04.2016 die Leistung ernsthaft und endgültig verweigert i.S.d. § 286 Abs. 2 Nr. 3 BGB.Ferner hat die Klägerin einen Anspruch auf Feststellung des Annahmeverzugs der Beklagten zu 2). Diese hat sich die Verweigerung der Rücknahme seitens der Beklagten zu 1) mit Schreiben vom 21.04.2016 nach § 278 BGB zuzurechnen, so dass die Beklagte zu 2) deswegen gem. §§ 298, 293 BGB im Verzug mit der Annahme des streitgegenständlichen Fahrzeugs befindet. Die Klägerin hat mit Schreiben vom 12.04.2016 unter Fristsetzung bis zum 20.04.2016 den Pkw ordnungsgemäß abholbereit angeboten.Die Klägerin hat das nach § 256 ZPO erforderliche Feststellungsinteresse, weil die Feststellung nach § 756 ZPO der erleichterten Vollstreckung des geltend gemachten Leistungsanspruchs dient und hierzu erforderlich ist.Die Klägerin hat jedoch unter keinem rechtlichen Gesichtspunkt einen Anspruch gegen die Beklagte zu 1).Vertragliche Ansprüche kommen gegen die Beklagte zu 1) nicht in Betracht, da diese nicht Vertragspartner der Klägerin geworden ist, sondern die Beklagte zu 2). Es liegt auch kein Fall der mittelbaren Stellvertretung vor. Eine solche ist nur anzunehmen, wenn jemand ein Rechtsgeschäft im eigenen Namen, aber im fremden Interesse und für fremde Rechnung vornimmt und dieses Handeln nicht offenkundig ist (MüKoBGB/Schubert BGB § 164 Rn. 39-45, beckonline). Die Beklagte zu 1) handelte aber offenkundig nicht im eigenen Namen. Die verbindliche Bestellung (Anlage K1, Bl. 19 d.A.) gibt deutlich zu erkennen, dass die Beklagte zu 1) im Namen der Beklagten zu 2) und nicht im eigenen Namen handelte. Dem steht auch nicht entgegen, dass die Beklagte zu 1) die Bestellung auf ihrem Briefpapier mit Stempel und Unterschrift entgegen genommen hat. Der Hinweis befindet sich im Fettdruck und springt dem Leser sofort ins Auge, so dass es keiner weiteren Klarstellung bedurfte, in wessen Namen der Vertragsschluss erfolgt. Auch manifestierte sich kein Rechtsschein der mittelbaren Stellvertretung im Nachhinein. Vielmehr erfolgte die Rechnungsstellung seitens der Beklagten zu 2) und wies die Klägerin deutlich darauf hin, dass eine schuldbefreiende Leistung nur ihr gegenüber erfolgen kann (vgl. Anlage K&W 7, Bl. 184 ff. d.A.). Es ist unschädlich, dass die Beklagte zu 1) im Rahmen der Rücktrittskorrespondenz nicht auf die Beklagte zu 2) verwiesen hat. Die Beklagte zu 2) hat sich der Beklagten zu 1) zum Abschluss des Kaufvertrages bedient, daher erscheint es auch nicht besonders ungewöhnlich, dass sich die Beklagte zu 1) mit der ihr gegenüber erklärten Rücktrittserklärung auseinandersetzt.Deliktische Ansprüche gegen die Beklagte zu 1) scheiden ebenfalls aus, weil keine Anhaltspunkte dafür ersichtlich sind, dass die Beklagte zu 1) Kenntnis von der Täuschung durch die Beklagte zu 2) hatte, geschweige denn in Schädigungsabsicht gehandelt hat. Dass die Beklagte zu 1) Vertragshändlerin der Beklagten zu 2) ist, reicht für eine Kenntnis der Beklagten zu 1) von der Manipulations-Software nicht aus.Mangels Anspruchs in der Hauptsache steht der Klägerin daher auch kein Anspruch auf Erstattung außergerichtlicher Rechtsanwaltskosten oder Feststellung des Annahmeverzugs gegen die Beklagte zu 1) zu.Die Kostenentscheidung beruht auf § 92 ZPO unter Berücksichtigung der Grundsätze der "Baumbach´schen Formel".Die Entscheidung über die vorläufige Vollstreckbarkeit richtet sich nach § 709 ZPO.Streitwert: 39.103,51 EURDieser setzt sich zusammen aus dem Kaufpreis des streitgegenständlichen Fahrzeugs und dem nicht als Nebenforderung geltend gemachten Zahlungsanspruch in Höhe von 1.832,01 EUR für die vorgerichtlichen Rechtsanwaltskosten.
+			
+			
+			
+			Permalink: https://openjur.de/u/964344.html (https://oj.is/964344)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

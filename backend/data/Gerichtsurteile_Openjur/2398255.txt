@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG MönchengladbachRechtsprechungUrteil vom 16.12.2020 - 6 O 475/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Mönchengladbach, Urteil vom 16.12.2020 - 6 O 475/18
+                      m. Fundstelle
+                      LG Mönchengladbach, Urteil vom 16.12.2020 - 6 O 475/18 = openJur 2022, 12038
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Mönchengladbach, Urteil vom 16.12.2020 - 6 O 475/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 12038
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrags. 
+				Tatbestand
+				Die Parteien streiten um Ansprüche des Klägers im Zusammenhang mit dem so genannten "VW-Abgasskandal".Der Kläger, selbst als Rechtsanwalt tätig, erwarb infolge Kaufvertrags vom 23.11.2012 von der Fa. Autohaus Jacob Fleischhauer GmbH das Fahrzeug der Marke VW vom Typ Golf Cabrio mit der Fahrzeugidentifikationsnummer __zu einem Kaufpreis von 27.700,00 EUR. Das Fahrzeug ist über die Volkswagenbank finanziert. Das Fahrzeug wurde am 03.12.2018 auf den Kläger zugelassen. Zum Zeitpunkt der Klageerhebung waren noch Raten in Höhe von insgesamt 8.335,06 EUR offen.In dem Fahrzeug ist ein Motor des Typs EA 189 verbaut, welcher von der Beklagten hergestellt worden ist. Dieser war mit einer Motorsteuerungssoftware versehen, die den Betrieb des Fahrzeugs auf einem Prüfstand im Neuen Europäischen Fahrzyklus (NEFZ) erkannte und die Abgasbehandlung automatisch in einen abgasoptimierten Modus wechselte. Dieser führte dazu, dass der Stickoxidausstoß auf dem Prüfstand geringer war, als beim normalen Fahrbetrieb auf der Straße. Das Fahrzeug verfügt über eine EG-Typgenehmigung für die Emissionsklasse EU 5.Das Kraftfahrtbundesamt ordnete diesbezüglich an, dass die betroffenen Pkw bzw. deren Motoren nachzurüsten seien und einen vorschriftsmäßigen Zustand aufweisen müssten. Zu diesem Zweck entwickelte die Beklagte eine technische Maßnahme, die sicherstellt, dass die Abgasrückführung nur noch in einem einheitlichen Betriebsmodus arbeitet. Für die technische Maßnahme betreffend das streitgegenständliche Fahrzeug erteilte das KBA eine Freigabebestätigung, in der es ausgeführt, dass die Maßnahme geeignet sei, die Vorschriftsmäßigkeit der genannten Fahrzeuge herzustellen.Der Kläger erhielt am 19.05.2016 von dem __ ein Schreiben, in dem die Umrüstung angekündigt wurde (Anlage K3, Bl. 35 GA).Der Kläger ließ am 25.10.2017 das Softwareupdate durchführen.Die Klage ist am 28.12.2018 eingegangen. Am 08.01.2019 wurde eine Vorschussrechnung gerichtet an die Klägervertreter erstellt. Ob diese den Klägervertreter erreicht hat, ist streitig. Am 11.07.2019 wurde eine 1. Rechnung an den Kläger persönlich adressiert. Nach Weiterleitung an die Klägervertreter wurden die Kosten am 07.08.2019 eingezahlt, was jedoch zunächst nicht zu den Akten gelang. Die Akte wurde weggelegt. Mit Schreiben vom 16.04.2020 fragten die Klägervertreter an, wann mit einer Terminierung zu rechnen sei. Bisher fehle sogar die Bestätigung einer Klagezustellung an die Beklagte (Bl. 41 GA). Die Klagezustellung erfolgte sodann am 22.05.2020.Der Kläger behauptet, dass es sich bei der in Rede stehenden Software um eine unzulässige Abschalteinrichtung handele. Wäre diese von der Beklagten eingebrachte Steuerungssoftware nicht eingesetzt worden, so wären schon im Prüfverlauf die gesetzlich vorgeschriebenen Stickoxid-Emissionswerte überschritten worden mit der Folge, dass die Typengenehmigung nicht erteilt worden wäre. Dies sei den Verantwortlichen der Beklagten auch bekannt gewesen. Dennoch sei aus reinem Gewinnstreben eine entsprechende Täuschung der Behörden und der Kunden, mithin auch des Klägers, durchgeführt worden. Das Software-Update sei nicht geeignet, den Mangel zu beheben.Der Kläger behauptet weiter, dass er bei Kenntnis des tatsächlichen Sachverhalts und der damit verbundenen Risiken für den Fortbestand der Betriebserlaubnis er den Kaufvertrag nicht geschlossen hätte. Für ihn sei bei der Kaufentscheidung besonders wichtig gewesen, dass er das Fahrzeug uneingeschränkt nutzen könne, insbesondere in Städten. Auch sei er auf der Suche gewesen nach einem wertstabilen Fahrzeug. Das streitgegenständliche Fahrzeug habe durch die Manipulation einen Wertverlust erlitten.Die Ansprüche seien nicht verjährt. Dass die Klage nicht zeitnah der Beklagten zugestellt worden sei, habe der Kläger nicht zu verantworten. Die Vorschussrechnung vom 08.01.2019 habe weder der Kläger persönlich noch die Prozessbevollmächtigten erhalten. Unmittelbar nach Kenntnis durch Rechnung vom 11.07.2019, dass bisher kein Gerichtskostenvorschuss eingezahlt worden sei, sei dieser eingezahlt worden, sodass den Kläger kein Verschulden treffe.Der Kläger ist der Ansicht, die Beklagte habe ihn insbesondere gem. § 826 BGB in einer gegen die guten Sitten verstoßenden Weise vorsätzlich Schaden zugefügt, um wirtschaftliche Vorteile zu erlangen. Die schädigende Handlung sei der Beklagten auch zuzurechnen. Es sei davon auszugehen, dass ein verfassungsmäßig berufener Vertreter der Beklagten im Sinne des § 31 BGB gehandelt habe. Die Beklagte sei im Übrigen ihrer sekundären Darlegungslast zu der Frage, welches ihrer Organe Kenntnis von der Manipulation der Motorsteuerungssoftware gehabt und das Inverkehrbringen entsprechend ausgerüsteter Motoren veranlasst habe, nicht nachgekommen.Der Kläger beantragt,1. die Beklagte zu verurteilen, an ihn Zugum-Zug gegen Übergabe und Übereignung des Fahrzeuges der Marke VW, Typ Golf Cabrio mit der Fahrgestellnummer _ 27.700,00 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen,davon 19.364,50 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit an ihnund 8.335,06 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit an die , vertreten d.d.GF;2. festzustellen, dass sich die Beklagte mit der Annahme des Fahrzeugs in Annahmeverzug befindet;Hilfsweise,1. Die Beklagte zu verurteile, einen in das Ermessen des Gerichts zu stellenden Schadensersatz in Höhe von mindestens 8.100,00 EUR an den Kläger zu zahlen;2. festzustellen, dass die Beklagte verpflichtet ist, ihm alle Schäden zu ersetzen, die dieser im Zusammenhang mit dem Kauf des hier streitgegenständlichen Fahrzeugs entstanden sind und zukünftig entstehen werden.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, in dem Fahrzeug sei keine unzulässige Abschalteinrichtung installiert. Von einer unzulässigen Abschalteinrichtung könne nur gesprochen werden, wenn im Laufe des realen Fahrzeugbetriebs die Wirksamkeit der Abgasreinigungsanlage reduziert wurde. Dies sei nicht der Fall, da die streitgegenständliche Software zum einen nicht auf das Emissionskontrollsystem einwirke, sondern dazu führe, dass Abgase beim Durchfahren des neuen europäischen Fahrzyklus (NEFZ) in den Motor zurückgeführt würden, bevor sie überhaupt das Emissionskontrollsystem erreichten und zum anderen nicht im realen Betrieb auf das Emissionskontrollsystem eingewirkt werde. Diese Technik werde bereits seit den 1970er Jahren von Automobilherstellern zur Vermeidung von NOx-Entstehung eingesetzt. Die Motorsteuergerätesoftware erkenne, wenn das Fahrzeug den NEFZ durchfahre. Generell müsse bei jedem Fahrzeug ein Prüfstandmodus aktiviert werden, wenn es auf einem Prüfstand betrieben werde. Dies sei auch bei anderen Herstellern üblich. Vorliegend komme es bei Einsatz der Software im NOxoptimierten Modus, der im NEFZ aktiv sei, zu einer höheren Abgasrückführungsrate. Im normalen Straßenverkehr sei dagegen der partikeloptimierte Modus 0 aktiv. Nach Installation des von der Beklagten angebotenen Softwareupdates werde das Fahrzeug nur noch im Modus 1 betrieben.Im Übrigen sei den Interessen der Klagepartei durch Einspielen eines Softwareupdates, durch das das Fahrzeug nur noch in einen adaptierten Betriebsmodus 1 versetzt werde, Rechnung getragen. Das Software-Update habe nach Bestätigung des KBA auch keine negativen Auswirkungen auf das Fahrzeug. Die Klagepartei habe auch keinen Schaden in Gestalt einer Wertminderung ihres Fahrzeugs erlitten. Die Gebrauchtwagenpreise seien nicht gefallen.Die Beklagte habe sich gegenüber dem Kläger auch nicht sittenwidrig verhalten. Insbesondere habe die Beklagte den Kläger nicht getäuscht. So habe dieser bislang auch nicht vorgetragen, welche konkreten unzutreffenden Angaben die Beklagte ihr gegenüber gemacht haben solle.Bezüglich einer möglichen Kenntnis ihres Vorstands von der Installation der streitgegenständlichen Software treffe sie vorliegend keine sekundäre Darlegungslast, da der Kläger bereits nicht substantiiert vorgetragen habe, dass ein verfassungsmäßig berufener Vertreter der Beklagten im Zeitpunkt des Abschlusses des Kaufvertrags vorsätzlich bei ihr eine Fehlvorstellung über den Einsatz der Software hervorgerufen habe. Zudem lägen der Beklagten selbst noch keine belastbaren Erkenntnisse zu dieser Frage vor.Jedenfalls müsse sich der Kläger Nutzungsersatz anrechnen lassen.Sie erhebt zudem die Einrede der Verjährung. Die Zustellung der Klage erst im Jahr 2020, wobei der Sachverhalt bereits aufgrund monatelanger Berichterstattung im Jahre 2015 in aller Munde gewesen sei, sei jedenfalls grob fahrlässig.Mit nicht nachgelassenem Schriftsatz vom 02.12.2020 hat der Kläger weiter vorgetragen: Er habe aufgrund des Aktenzeichens darauf vertrauen dürften, dass alles seine Ordnung habe. Sowohl beim Kläger als auch bei den Prozessbevollmächtigten werde es stets so gehandhabt, dass eine Überweisung der Gerichtskosten von den Erhalt einer Gerichtskostenrechnung abhängig gemacht werde. Die nicht rechtzeitige Einzahlung liege allein im Verantwortungsbereich des Gerichts. Jedenfalls sei von einer Kenntnis des Klägers nicht einmal im Jahre 2016 auszugehen. Der Kläger habe auf die Erklärungen der Beklagten, mit dem Update sei alles beseitigt, vertrauen dürfen. Zudem sei im Hinblick auf § 852 BGB jedenfalls ein zu Unrecht erlangter finanzieller Vorteil in Form eines Restschadensersatzanspruchs noch nicht verjährt. Dies sei der Kaufpreis abzüglich Händlermarge zuzüglich der durch die Nutzung des Kapitals erlangten bzw. gezahlten Zinsen.Hinsichtlich des weiteren Sach- und Streitstands wird auf die gewechselten Schriftsätze sowie die in den Entscheidungsgründen getroffenen Feststellungen Bezug genommen. 
+				Gründe
+				I.Die zulässige Klage ist unbegründet.Der Kläger hat gegen die Beklagte keinen Anspruch auf Zahlung in Höhe von 27.700,00 EUR Zug um Zug gegen Übergabe und Übereignung der streitgegenständlichen Fahrzeuges aus §§ 437 Nr. 2, 326 Abs. 5, 346 Abs. 1, 348 BGB bzw. §§ 823 Abs. 2 BGB i.V.m. §§ 263 StGB, 6 Abs. 1, 27 Abs. 1 EG-FGV oder aus § 826 BGB.Etwaige Ansprüche sind nach §§ 195,199 BGB nach Ablauf der dreijährigen Verjährungsfrist verjährt.Dabei kann offenbleiben, ob für den Verjährungsbeginn bei Fahrzeugen mit dem Motor EA 189 bereits mit Kenntnis oder grob fahrlässigen Unkenntnis im Jahre 2015 oder erst mit Ablauf des Jahres 2016 zu laufen begonnen hat. Jedenfalls erfolgte die Zustellung am 22.05.2020 erst nach Ablauf der dreijährigen Frist.Die regelmäßige Verjährungsfrist hat gemäß § 199 Abs. 1 BGB spätestens mit Ablauf des Jahres 2016 zu laufen begonnen und endete mit Ablauf von 3 Jahren, mithin spätestens am 31.12.2019 um 24:00 Uhr.Ein Verjährungsbeginn erst im Jahre 2017 vermag das Gericht nicht anzunehmen.Die Kammer ist davon überzeugt, dass der Kläger im Rahmen der umfassenden Berichterstattung ab September 2015 aufgrund der Ad hoc-Mitteilung des VW-Konzerns sowie der Anordnung des Rückrufes durch das KBA spätestens mit Ablauf des Jahres 2015 Kenntnis bzw. grob fahrlässig in Unkenntnis über den Verbau der streitgegenständlichen Software in den Motoren des Typs EA 189 war. Spätestens jedoch mit dem Schreiben des Autohauses vom 19.05.2016 musste dem Kläger als tätiger Rechtsanwalt klar sein, dass sich insoweit auch Ansprüche gegen die Beklagte ergeben könnten. Ein schutzwürdiges Vertrauen in das Software-Update vermag das Gericht ob der zu diesem Zeitpunkt bereits angelaufene Verjährung nicht mehr zu erkennen.Die Zustellung der Klageschrift bei der Beklagten, welche für die Rechtshängigkeit der Klage und damit der Hemmung der Verjährung nach § 204 Abs. 1 Nr. 1 BGB maßgeblich ist, ist erst 22.05.2020 und damit nach Ablauf der Verjährungsfrist eingetreten.Die Verjährungshemmung durch Zustellung nach § 204 Abs. 1 Nr. 1 BGB wirkte auch nicht nach § 167 ZPO auf den Eingang des Antrags zurück.Zwar erfolgte der Klageeingang am 27.12.2018 noch fristgerecht, die Zustellung ist aber nach § 167 ZPO nicht "demnächst" erfolgt.Die Zustellung ist nur dann "demnächst" erfolgt, wenn in nicht allzu erheblichem zeitlichem Abstand zum Fristablauf zugestellt wird, wobei eine zeitliche und eine wertende Komponente zu beachten ist.Die Frage, ob die Zustellung noch demnächst erfolgt ist, ist auch davon abhängig, wer die Verzögerung verursacht hat.Hier dürfte eine wesentlich Verzögerung durch den Kläger bzw. dessen Prozessbevollmächtigten, dessen Verschulden sich der Kläger nach § 85 Abs. 2 ZPO zurechnen lassen muss, eingetreten sein.Dabei kann offen bleiben, ob eine schuldhafte Verzögerung schon deshalb vorliegt, weil trotz Aufforderung zur Zahlung des Gerichtskostenvorschusses vom 08.01.2019 eine solcher Vorschuss nicht eingezahlt wurde (vgl. Zöller/Greger, § 167 Rn. 15 m.w.N.); denn auch unter Zugrundelegung des klägerischen Vortrags, weder er selbst noch der Prozessbevollmächtigte habe eine Vorschussrechnung vom 08.01.2019 erhalten, liegt eine (zurechenbare) schuldhafte Verzögerung des Klägers vor: Bleibt die Vorschussanforderung durch das Gericht generell aus, darf die Partei bzw. dessen Bevollmächtigte nicht länger als angemessen einfach untätig bleiben, sondern sie muss nachfragen, einzahlen oder einen Antrag nach § 14 GKG stellen (vgl. Zöller/Greger, § 167 Rn. 15 m.w.N.); welche Zeitspanne für das Abwarten genau als angemessen angesehen wird, ist nicht eindeutig geklärt; der BGH scheint Zeitspannen zwischen 3 und 6 Wochen nach Klageeinreichung, jedenfalls aber nach Fristablauf, als angemessen anzusehen; jedenfalls aber spätestens nach 6 Monaten hat der Kläger bzw. seine Bevollmächtigten nachzufragen (vgl. BGH NJW-RR 2015, 125 (127), Tz. 16; jedenfalls 6 Monate zu lang: BGH NJW 2009, 984 (985), Tz. 18). Tun sie dies nicht (rechtzeitig), liegt eine zurechenbare Verzögerung vor, die einer Zurückwirkung nach § 167 ZPO entgegensteht (vgl. BGH NJW 2009, 984).Vorliegend hat der Kläger bzw. der Klägervertreter keinerlei Anfragen gestellt, bis die nächste Kostenaufforderung im Juli bzw. August 2019, mithin über 7 Monate nach ursprünglicher Klageeinreichung, bei ihm eingetroffen ist. Damit hat er es schuldhaft unterlassen, nach einer angemessenen Wartefrist bei Gericht anzufragen. Dass der Kläger bzw. die Prozessbevollmächtigten immer erst zahlen, wenn eine Zahlungsaufforderung kommt, vermag an dieser Einschätzung nichts zu ändern. Ein Anwalt hat in solchen Fällen jedenfalls durch geeignete Maßnahmen Vorsorge zu treffen, dass die entsprechende Aufforderung zur Zahlung zeitnah eintrifft und andernfalls durch Nachfragen oder Erinnerungen auf das Weiterbetreiben des Verfahrens hinzuwirken.Das Gericht vermag auch im Rahmen einer wertenden Betrachtung kein den Fehler der Klägervertreter überwiegendes schutzwürdiges Vertrauen in eine rechtzeitige Zustellung durch das Gericht zu erkennen. Wie die Klägervertreter selbst einräumen, hat es bis zum 16.04.2020 auch an einer Bestätigung der Klagezustellung gefehlt. Auf eine etwaige Zustellung kann nicht vertraut werden, wenn nicht einmal eine Bestätigung der Klagezustellung oder sonstige Schreiben in der Sache eingegangen sind. Auch auf eine Zustellung ohne Gerichtskostenvorschuss kann jedenfalls bis zur Einzahlung im August 2019 kein berechtigtes Vertrauen entstehen. Vielmehr haben die Klägervertreter durch geeignete Büroorganisation nachzuhalten, ob der Gerichtskostenvorschuss eingezahlt wurde und gegebenenfalls nachzufragen.Die Zustellung wirkte damit bereits aufgrund der Tatsache, dass es für ein entschuldbares Zuwarten bis August 2019 zu lang gewesen ist, nicht auf die Klageeinreichung zurück. Maßgeblich ist allein die Zustellung am 22.05.2020.Daher ist auch für den hiesigen Rechtsstreit unbeachtlich, dass das Gericht die Klage sodann nicht unverzüglich nach Einzahlung des Vorschusses im August/September 2019 zugestellt hat. Die Zustellung wirkte schon wegen der fehlenden Nachfrage nach der Kostenaufforderung nicht mehr zurück.Zudem ist auch insoweit zu berücksichtigen, dass der Kläger auch bei nichterfolgter Klagezustellung trotz Einzahlung des Vorschusses erst im April 2020 nachgefragt hat. Denn auch in dem Fall, in dem die Zustellung aus für den Kläger unerklärlichen Gründen nicht zugestellt wird, muss er sich zeitnah bei dem Gericht nach den Ursachen erkundigen und kann nicht bloß weiter zuwarten (vgl. BGH NJW 2004, 1575 (1576) Tz. 3)- Auch hierfür ist die Zeitspanne bis April 2020 zu weit.Die Klageforderung steht dem Kläger auch nicht aus dem sog. Restschadensersatz aus § 852 S. 1 BGB zu.Zwar wäre ein diesbezüglicher Anspruch nicht verjährt, da insofern - abweichend zu den Ansprüchen aus unerlaubter Handlung (vgl. Palandt, 78. Auflage, § 852 Rn. 1) - eine Verjährungsfrist von 10 Jahren gilt (§ 852 S. 2 BGB). Jedoch sind die Anspruchsvoraussetzungen bereits nicht ausreichend vorgetragen und stützen den Klageanspruch nicht.Bei der Norm des § 852 S. 1 BGB handelt es sich um eine Rechtsfolgenverweisung auf das Bereicherungsrecht. Der Anspruch aus unerlaubter Handlung bleibt erhalten, jedoch wird sein Umfang auf die ungerechtfertigte Bereicherung beschränkt, die der Schädiger aus der unerlaubten Handlung erlangt hat (vgl. Palandt aaO, § 852 Rn. 2). Mit der Vorschrift soll verhindert werden, dass derjenige, der durch eine unerlaubte Handlung etwas erworben hat, nach Ablauf der kurzen Verjährungsfrist der §§ 194 ff. BGB zu Lasten des Geschädigten im Genuss des Erlangten bleibt.Der Kläger hat jedoch hierzu nicht ausreichend vorgetragen. Der Kläger hat den streitgegenständlichen Pkw nicht von der Beklagten, sondern von der Fa. Autohaus Jacob Fleischhauer GmbH & Co. KG erworben. Vorliegend bleibt schon unklar, ob es sich um einen Neuwagen handelt. Auch insoweit wäre aber jedenfalls bei einem Erwerb vom Händler nicht der gezahlte Kaufpreis, sondern nur die - von Klägerseite darzulegende - konkrete Bereicherung herauszugeben (vgl. LG Osnabrück, Urteil vom 03.07.2020 - 6 O 842/20, BeckRS 2020, 17605, Rn. 40 ff.).Hierzu hat der Kläger jedoch nicht ausreichend vorgetragen. Mit nicht nachgelassenem Schriftsatz hat er lediglich erklärt, ein Restschadensersatzanspruch bestehe in Höhe des Kaufpreises abzüglich der Händlermarge zuzüglich der Zinsen. Den Kaufpreis hat jedoch die Beklagte gar nicht erhalten, sondern das . In Betracht käme daher lediglich eine - zu beziffernde - an die Beklagte weitergeleitete Gewinnmarge. Den unveränderten Klageantrag stützt dies jedoch auch unter Berücksichtigung des § 296a ZPO in keinster Weise.Aus gleichem Grund scheitern auch der Hilfsantrag und die weiter geltend gemachten Ansprüche.II.Die Nebenentscheidungen beruhen auf den §§ 91 Abs. 1, 709 Abs. 2 BGB.Der Streitwert wird auf 27.700,00 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2398255.html (https://oj.is/2398255)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen3
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

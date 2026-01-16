@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 02.03.2017 - 2 O 317/16
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 02.03.2017 - 2 O 317/16
+                      m. Fundstelle
+                      LG Köln, Urteil vom 02.03.2017 - 2 O 317/16 = openJur 2019, 12929
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 02.03.2017 - 2 O 317/16
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 12929
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Ein Kraftfahrzeug weist einen Sachmangel auf, wenn die Motorsteuerung so programmiert ist, dass der Stickoxidausstoß nur auf den Prüfstand reduziert wird. Ein solcher Sachmangel ist erheblich, auch wenn er mit einem geringen Kostenaufwand durch ein Software-Update behoben werden kann. Die Erheblichkeit des Sachmangels folgt insbesondere aus der Arglist der Herstellerin. Auch beim Kauf von einem freien nicht vertraglich mit der Herstellerin verbundenen Händler spielt die Arglist der Herstellerin eine Rolle für die Erheblichkeit des Sachmangels, wenn dieser nur durch ein von der Herstellerin bereitgestelltes Software-Update behoben werden kann. 
+				
+				Tenor
+				1. Der Beklagte wird verurteilt, an die Klägerin 19.067,99 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 9.2.2016 Zug um Zug gegen Übergabe und Übereignung des Fahrzeuges Typ/Modell: VW Passat 2.0l TDI CR DPF BMT DSG CL/3C/Limousine/Euro-5, Fahrgestellnummer: ..., zu zahlen.2. Es wird festgestellt, dass der Beklagte mit der Rücknahme des im Tenor zu 1 bezeichneten Fahrzeuges im Annahmeverzug ist.3. Im Übrigen wird die Klage abgewiesen.4. Die Kosten des Rechtsstreits werden dem Beklagten auferlegt. Die Kosten der Nebenintervention trägt die Streithelferin.5. Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags. 
+				Tatbestand
+				Die Klägerin verlangt vom Beklagten, einem gewerblichen Autohändler, die Rückabwicklung eines Kaufvertrags vom 15.1.2015. Mit diesem Vertrag erwarb die Klägerin vom Beklagten einen gebrauchten Pkw Passat 2.0 TDI mit einer Laufleistung von ca. 26.400 km zum Preis von 21.900 €. In der hierüber erstellten "Rechnung" (K 1, Bl. 17), die von beiden Parteien unterschrieben ist, heißt es im Feld "Typ/Modell": "VW Passat 2.0l TDI [...] Limousine / Euro-5".Die Klägerin finanzierte den Kaufpreis teilweise über eine Bank. Im schriftlichen Kreditvertrag gab sie an, sie sei angestellt und beziehe ein monatliches Einkommen von 1.330 €. Das Fahrzeug werde der Bank zur Sicherheit übereignet. Mittlerweile ist das Darlehen abgelöst.Der Motor des Fahrzeugs hat den Typ EA 189. Die zur Motorsteuerung aufgespielte Software verfügt über zwei Modi. Im Modus 1, der automatisch auf Prüfständen aktiviert wird, ist der Stickoxidausstoß reduziert und erfüllt die Vorgaben der Norm Euro 5. Im Modus 0, der in allen anderen Situationen, also auch im Straßenverkehr, automatisch eingestellt ist, wird der Stickoxidausstoß nicht reduziert.Mit anwaltlichem Schreiben vom 9.11.2015 forderte die Klägerin den Beklagten auf, "unter Zurücknahme des mangelhaften Fahrzeugs ein mangel- und makelfreies Fahrzeug der gleichen Marke zu liefern" (K 4, Bl. 25). Der Beklagte erwiderte mit Schreiben vom 11.11.2015 (K 5, Bl. 27):"Nach Rücksprache mit VW sind alle im Zusammenhang mit dem Abgasskandal stehenden Ansprüche ausschließlich an Volkswagen zu richten. Dieser ist Hersteller der manipulierten Fahrzeuge und trägt Sorge für alle Ansprüche und Nachbesserungen."Mit Schreiben vom 11.12.2015 zeigte der jetzige Prozessbevollmächtigte des Beklagten der jetzigen klägerischen Prozessbevollmächtigten an, dass er die rechtlichen Interessen des Beklagten vertrete. Er erklärte, er halte eine Ersatzlieferung für unmöglich und bitte um Bestätigung, dass die Klägerin stattdessen mit einer Nachbesserung einverstanden sei.Mit anwaltlichem Schreiben vom 4.1.2016 (K 8, Bl. 35) erklärte die Klägerin den Rücktritt vom Kaufvertrag. Mit weiterem Schreiben vom 25.1.2016 (K 10, Bl. 43) setzte sie für die Rückabwicklung des Vertrags eine Frist bis zum "8. Februar 2015".Am 3.6.2016 gab das Kraftfahrtbundesamt eine von der Streithelferin entwickelte Software frei, mit welcher der Motor von Pkw des streitgegenständlichen Typs so gesteuert werden kann, dass der Stickoxidausstoß auch im Straßenverkehr reduziert ist. Dieses Update kann von einer Vertragswerkstatt der Streithelferin in weniger als einer Stunde aufgespielt werden.Im Zeitpunkt des Schlusses der mündlichen Verhandlung hatte der Pkw eine Laufleistung von 55.315 km.Die Klägerin ist der Ansicht, aus der von ihr mit dem Fahrzeug zurückgelegten Strecke errechne sich ein Gebrauchsvorteil von 2.424,94 €.Die Klägerin hat ursprünglich beantragt, den Beklagten zu verurteilen, an sie 21.900 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 9.2.2016 Zug um Zug gegen "Übergabe" des Fahrzeugs zu zahlen. Des Weiteren hat sie die nachfolgend unter Ziffern 2 und 3 wiedergegebenen Anträge angekündigt.Nach Hinweis des Beklagten, dass die Klägerin sich Gebrauchsvorteile anrechnen lassen müsse und dass die bloße Übergabe des Fahrzeugs nicht ausreiche, hat die Klägerin ihren Klageantrag zu 1 neu gefasst.Die Klägerin beantragt nunmehr sinngemäß,1. den Beklagten zu verurteilen, an die Klägerin 21.900 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 9.2.2016 abzüglich eines Betrags in Höhe von 2.424,94 € Zug um Zug gegen Übergabe und Übereignung des Fahrzeuges Typ/Modell: VW Passat 2.0l TDI CR DPF BMT DSG CL/3C/Limousine/Euro-5, Fahrgestellnummer: ..., zu zahlen;2. festzustellen, dass der Beklagte spätestens seit dem 9.2.2016 mit der Rücknahme des im Klageantrag zu 1 bezeichneten Fahrzeugs im Annahmeverzug ist;3. den Beklagten zu verurteilen, an die Klägerin 1.171,67 € nebst Zinsen in Höhe von 5 Prozentpunkten seit Rechtshängigkeit (20.10.2016) zu zahlen.Der Beklagte und die Streithelferin beantragen,die Klage abzuweisen.Die Streithelferin erklärt sich zur Frage, ob die Klägerin bei Abschluss des Kaufvertrags als Verbraucherin gehandelt hat, mit Nichtwissen. 
+				Gründe
+				Die zulässige Klage hat weit überwiegend Erfolg. Die Klägerin hat gegen den Beklagten einen Anspruch auf Rückzahlung des Kaufpreises von 21.900 € abzüglich gezogener Gebrauchsvorteile in Höhe von 2.832,01 €, mithin 19.067,99 €, Zug um Zug gegen Rückgabe und Rückübereignung des im Tenor bezeichneten Fahrzeugs (§§ 346 Abs. 1, 348, 437 Nr. 2, 323 Abs. 1 BGB). Lediglich die Gebrauchsvorteile waren geringfügig höher anzusetzen, und es besteht kein Anspruch auf Erstattung der vorgerichtlichen Anwaltskosten.1. Das Fahrzeug wies im Zeitpunkt der Übergabe an die Klägerin einen Sachmangel auf, weil es die Euro-5-Abgasnorm jedenfalls in Bezug auf den Stickoxidausstoß nicht erfüllte. Die Einhaltung dieser Norm war vertraglich vereinbart. Dies ergibt sich aus dem als "Rechnung" bezeichneten, beidseits unterschriebenen Schriftstück (K 1), das der Sache nach ein Kaufvertrag ist und in welchem die Euro-5-Norm als Teil der Typbezeichnung angegeben ist.Dass das Fahrzeug die Vorgaben der Norm nicht einhielt, folgt schon aus dem Umstand, dass die Abgasbehandlung in zwei verschiedenen Modi vorgenommen wurde, von denen einer für die Situation auf Prüfständen galt. Nur in diesem Modus war der Stickoxidausstoß reduziert. Eine solche differenzierte Motorsteuerung je nach Situation war aus Sicht der Entwickler nur dann nötig, wenn das Fahrzeug im anderen Modus - auf der Straße - die Euro-5-Norm in Bezug auf Stickoxid nicht einhielt.Die Ansicht des Beklagten und der Streithelferin, das Fahrzeug erfülle gleichwohl die Norm, weil diese nur auf die Situation auf dem Prüfstand abstelle, ist abwegig. Sie passt auch nicht zu der Umweltliebe, mit der die Streithelferin für sich wirbt. Abgas- und Verbrauchswerte auf dem Prüfstand stimmen zwar nicht mit denen im Straßenbetrieb überein; Letztere sind höher. Jedoch muss die Motorsteuerung in beiden Situationen gleich sein, damit die Werte auf dem Prüfstand und auf der Straße zumindest korrelieren (so auch LG Krefeld, Urt. v. 14.9.2016 - 2 O 72/16, Rn 25).2. Die Pflichtverletzung des Beklagten ist nicht unerheblich im Sinne von § 323 Abs. 5 S. 2 BGB. Entgegen der Ansicht des Beklagten und der Streithelferin ist nicht nur auf die Kosten des Software-Updates in Relation zum Kaufpreis abzustellen. Vielmehr ist eine umfassende Abwägung der beiderseitigen Interessen im Zeitpunkt der Rücktrittserklärung nötig (Palandt-Grüneberg, BGB, 76. Aufl., § 323, Rn 32 mwN). Bei dieser fallen weitere Faktoren ins Gewicht:a) Die Erheblichkeit wird indiziert, wenn ein Verstoß gegen eine Beschaffenheitsvereinbarung vorliegt. Hier war die Einhaltung der Euro-5-Norm vereinbart.b) Die Erheblichkeit wird auch indiziert, wenn der Mangel einen für den Gläubiger wesentlichen Qualitätsaspekt betrifft. Dies ist anzunehmen, denn die Einordnung in die Euro-5-Norm ist auch Voraussetzung für die möglichst weitgehende räumliche Benutzbarkeit des Autos, da der Betrieb von umweltschädlichen Pkw jedenfalls im Zentrum von Großstädten in den letzten Jahren eingeschränkt wurde und anzunehmen ist, dass weitere Einschränkungen folgen werden. Zudem war im Rücktrittszeitpunkt zu befürchten, dass das Fahrzeug seine Betriebserlaubnis verlieren könnte. Selbst aktuell wird noch öffentlich erörtert, ob ein fehlendes Software-Update bei einem EA-189-Motor dazu führen kann, dass die Hauptuntersuchung als nicht bestanden gilt.c) Arglist des Vertragspartners führt in der Regel dazu, dass die Pflichtverletzung nicht unerheblich ist. Arglistig gehandelt hat vorliegend die Streithelferin, die weder Vertragspartnerin der Klägerin wurde noch mit dem Beklagten vertraglich verbunden ist, denn dieser ist freier Händler. Jedoch spielt die Arglist der Herstellerin auch in dieser Konstellation eine Rolle: Ein Software-Update kann die Klägerin nicht vom Beklagten beziehen, sondern nur von der Herstellerin (über eine Vertragswerkstatt). Die Klägerin hat wenig Anlass, der Herstellerin in Bezug auf Motorsoftware zu vertrauen, nachdem diese sowohl die Behörden als auch ihre Kunden über Jahre hinweg systematisch irregeführt hat.d) Die Motorsteuerung ist ein besonders sensibler Bereich eines Autos. Nicht ohne Grund erlischt die Hersteller-Garantie, wenn im Wege des sogenannten Chip-Tunings die Software eines nicht autorisierten Drittanbieters aufgespielt wird. So wie der Hersteller beim Chip-Tuning befürchtet, dass es zu Spätschäden am Motor kommt, hat vorliegend die Klägerin Grund zur Sorge, das Software-Update könne bislang unbekannte Folgen für ihren Motor haben, die erst nach längerem Betrieb zu Tage treten.e) Ebenso wenig kann ausgeschlossen werden, dass das Fahrzeug auch nach Aktualisierung der Software mit einem Makel behaftet ist, der den Wiederverkaufswert mindert. Dem steht nicht entgegen, dass bisherige Marktuntersuchungen keinen Wertverfall von Pkw mit EA-189-Motor ergeben haben. Es ist allgemein bekannt, dass in ganz Deutschland eine Vielzahl von Klagen, die auf Rückabwicklung gerichtet sind, anhängig ist. Dies indiziert, dass eine Vielzahl von Käufern die Absicht hat, sich - vorzeitig - von ihrem Fahrzeug zu trennen. Dieses zusätzliche Angebot ist derzeit noch nicht auf dem Markt, weil die Käufer zunächst den Ausgang ihrer Prozesse abwarten.f) Im Zeitpunkt der Rücktrittserklärung gab es keinen absehbaren Zeitpunkt oder Zeitraum, zu dem das Software-Update verfügbar sein würde.Die genannten Umstände wiegen in der Gesamtbetrachtung deutlich schwerer als der vergleichsweise geringe Kostenaufwand eines Software-Updates.3. Eine Fristsetzung zur Nachbesserung war nicht erforderlich. Beim Verbrauchsgüterkauf muss in richtlinienkonformer Auslegung keine Frist gesetzt werden (Palandt-Weidenkaff, BGB, 76. Aufl., § 439, Rn 7). Dass die Klägerin Verbraucherin ist, folgt aus dem - als solches unstreitigen - Inhalt des Darlehensvertrags. Es ist kein Grund ersichtlich, warum die Klägerin damals wahrheitswidrig angegeben haben sollte, sie sei angestellt.Beim Verbrauchsgüterkauf genügt nach alledem ein Nacherfüllungsverlangen. Dieses hat die Klägerin mit anwaltlichem Schreiben vom 9.11.2015 kundgetan. Dass sie die Ersatzlieferung verlangte, nicht Nachbesserung, ist unschädlich, denn der Beklagte reagierte, indem er jegliche Art der Nacherfüllung mit seinem Schreiben vom 11.11.2015 ernsthaft und endgültig verweigerte und stattdessen auf die Herstellerin verwies. Es ändert nichts, dass der Prozessbevollmächtigte des Beklagten einen Monat später um "Bestätigung" bat, dass die Klägerin mit einer Nachbesserung einverstanden sei. Denn der Beklagte war - wie jeder andere auch - zu diesem Zeitpunkt zur Nachbesserung nicht in der Lage, weil das dafür nötige Software-Update erst im Juni 2016 freigegeben wurde.4. Die Gebrauchsvorteile der Klägerin sind mit 2.832,01 € anzusetzen. Das streitgegenständliche Fahrzeug ist mit einem 2,0l-TDI-Motor ausgestattet, der grundsätzlich langlebig ist; eine Gesamtlaufleistung von 250.000 km kann berechtigt erwartet werden. Die Klägerin erwarb das Fahrzeug mit einer Laufleistung von ca. 26.400 km, so dass sie noch ca. 223.600 km mit dem Pkw hätte zurücklegen können. Tatsächlich ist sie bis dato 28.915 mit dem Wagen gefahren (55.315 km ./. 26.400 km). Die Gebrauchsvorteile errechnen sich demnach wie folgt: 28.915 km/ 223.600 km × 21.900 € = 2.832,01 €.5. Seit Ablauf der Frist zur Rücknahme des Fahrzeugs (8.2.2016) befindet sich der Beklagte in Annahmeverzug. Das Datum des Beginns des Annahmeverzugs muss allerdings nicht tenoriert werden, weil die Klägerin ein Feststellungsinteresse nur daran hat, dass Annahmeverzug besteht.6. Vorgerichtliche Anwaltskosten kann die Klägerin nicht ersetzt verlangen. Die Anwaltskosten sind mit Beauftragung der klägerischen Prozessbevollmächtigten entstanden und damit vor Eintritt des Verzugs des Beklagten mit der Nacherfüllung.Ein vertraglicher Anspruch auf Schadensersatz in Form der Anwaltskosten ist nicht ersichtlich. Den Beklagten trifft an dem Mangel kein Verschulden.7. Der nicht nachgelassene Schriftsatz des Beklagten vom 10.2.2017 bietet keinen Anlass zur Wiedereröffnung der mündlichen Verhandlung, § 156 ZPO.8. Die Kostenentscheidung beruht auf § 92 Abs. 2 Nr. 1, § 101 Abs. 1 Hs. 2 ZPO. Die Teil-Klagerücknahme (Abzug der Gebrauchsvorteile) hat keine Mehrkosten verursacht. Ebenso wenig sind Mehrkosten dadurch entstanden, dass die Gebrauchsvorteile etwas höher zu bemessen sind als von der Klägerin angesetzt.Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus § 709 S. 1 und 2 ZPO.Streitwert: bis 22.000 €
+			
+			
+			
+			Permalink: https://openjur.de/u/2148054.html (https://oj.is/2148054)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

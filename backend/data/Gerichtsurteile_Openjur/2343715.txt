@@ -1,0 +1,146 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteThüringenOrdentliche GerichtsbarkeitLG ErfurtRechtsprechungBeschluss vom 17.06.2021 - 8 O 1130/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Erfurt, Beschluss vom 17.06.2021 - 8 O 1130/20
+                      m. Fundstelle
+                      LG Erfurt, Beschluss vom 17.06.2021 - 8 O 1130/20 = openJur 2021, 20633
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Erfurt, Beschluss vom 17.06.2021 - 8 O 1130/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 20633
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+					
+				document.addEventListener('DOMContentLoaded', function () {
+				  document.getElementById('togglerubrum')
+				          .addEventListener('click', function toggleRubrum() { var tb = document.getElementById('rubrumToggleButton'); tb.classList.toggle('fa-plus-square'); tb.classList.toggle('fa-minus-square'); });
+				});
+				 Rubrum
+				
+				 
+				 Beschlusszur Vorlage an denEuropäischen GerichtshofIn dem Rechtsstreit...wegen Schadensersatzes aus "Dieselskandal"hat die 8. Zivilkammer des Landgerichts Erfurt durchRichter am Landgericht Dr. ...als Einzelrichter am 17.06.2021b e s c h l o s s e n :
+				 
+				
+				Tenor
+				I. Das Verfahren wird ausgesetzt.II. Dem Gerichtshof der Europäischen Union werden nach Art. 267 AEUV folgende Fragen zur Auslegung des Unionsrechts vorgelegt:1. Haben die Art. 18 Abs. 1, Art. 26 Abs. 1, Art. 46 der RL 2007/46/EG in Verbindung mit Art. 4, 5 und 13 der VO (EG) Nr. 715/2007 auch den Zweck und die Zielrichtung, die Interessen individueller Erwerber von Kraftfahrzeugen und deren Vermögen zu schützen? Zählt dazu auch das Interesse eines individuellen Fahrzeugerwerbers, kein Fahrzeug zu erwerben, das mit den unionsrechtlichen Vorgaben nicht übereinstimmt, insbesondere kein Fahrzeug zu erwerben, das mit einer unzulässigen Abschalteinrichtung gemäß Art. 5 Abs. 2 VO (EG) Nr. 715/2007 ausgestattet ist?2. Gebietet es das Recht der Union, insbesondere der Effektivitätsgrundsatz und die europäischen Grundrechte sowie Eigenrechte der Natur, dass ein zivilrechtlicher Ersatzanspruch des Fahrzeugerwerbers gegen den Fahrzeughersteller bei jeglichem schuldhaften - fahrlässigen oder vorsätzlichen - Handeln des Fahrzeugherstellers beim Inverkehrbringen eines Fahrzeugs, das mit einer unzulässigen Abschalteinrichtung gem. Art. 5 Abs. 2 VO (EG) Nr. 715/2007 ausgestattet ist, besteht?  
+				Gründe
+				A. Sachverhalt und AusgangsverfahrenDer Ausgangsrechtsstreit gehört zu den zahlreichen "Dieselfällen", in denen europaweit Schadensersatz gegen Hersteller von Fahrzeugen oder Motoren geltend gemacht wird, die eine unzulässige Abschalteinrichtung aufweisen.Der Kläger erwarb im Juli 2017 von einem Autohändler einen gebrauchten Pkw Typ Mercedes-Benz GLK 200 CDI. Das Fahrzeug verfügt über einen von der Beklagten stammenden Dieselmotor des Typs OM 651, Schadstoffnorm Euro 5.Mit seiner Klage verlangt der Kläger die Verurteilung der Beklagten zur Zahlung von 8.457,47 € und zur Freistellung von Darlehensverbindlichkeiten in Höhe von 15.528,32 €, Zug um Zug gegen Übergabe des Fahrzeuges.Bei dem Fahrzeug besteht eine temperaturabhängige Steuerung der Abgasrückführung, dh. die Abgasrückführung wird bei bestimmten Außentemperaturen reduziert (sogenanntes Thermofenster), was zu einem höheren Ausstoß an NOx (Stickstoffoxid) führt.B. Anwendbare Vorschriften des deutschen RechtsDie für die Entscheidung des Rechtsstreits maßgebenden Bestimmungen des deutschen Rechts lauten:§ 823 BGB Schadensersatzpflicht(1) Wer vorsätzlich oder fahrlässig das Leben, den Körper, die Gesundheit, die Freiheit, das Eigentum oder ein sonstiges Recht eines anderen widerrechtlich verletzt, ist dem anderen zum Ersatz des daraus entstehenden Schadens verpflichtet.(2) Die gleiche Verpflichtung trifft denjenigen, welcher gegen ein den Schutz eines anderen bezweckendes Gesetz verstößt. Ist nach dem Inhalt des Gesetzes ein Verstoß gegen dieses auch ohne Verschulden möglich, so tritt die Ersatzpflicht nur im Falle des Verschuldens ein.§ 826 BGB Sittenwidrige vorsätzliche SchädigungWer in einer gegen die guten Sitten verstoßenden Weise einem anderen vorsätzlich Schaden zufügt, ist dem anderen zum Ersatz des Schadens verpflichtet.C. Entscheidungserheblichkeit der VorlagefragenBei dem "Thermofenster" des streitgegenständlichen Fahrzeugs handelt es sich nach vorläufiger Würdigung des Gerichts um eine unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2 S. 2 lit. a) in Verbindung mit Art. 3 Nr. 10 VO (EG) Nr. 715/2007. Die Verwendung einer solchen Abschalteinrichtung wirft die Frage auf, ob sich aus dem Unionsrecht - über eine Schutzwirkung oder unmittelbar - ein zivilrechtlicher Anspruch des Fahrzeugkäufers auch bei einem nur fahrlässigen Verstoß des Fahrzeugherstellers gegen unionales Recht ergibt. Von der Beantwortung dieser Frage hängt der Erfolg der vorliegenden Klage ab, da eine Haftung wegen sittenwidriger vorsätzlicher Schädigung iSd. § 826 BGB ausscheiden dürfte. Der Gerichtshof hat diese Frage noch nicht entschieden. Es handelt sich auch nicht um einen Acte clair.1. Zur ersten VorlagefrageDie erste Frage zielt darauf ab, ob das Unionsrecht auch den Zweck und die Intention hat, den individuellen Käufer eines Fahrzeuges mit einer unzulässigen Abschaltvorrichtung zu schützen. In diesem Fall gewährt das deutsche Recht nämlich aus § 823 Abs. 2 BGB dem Grunde nach einen Schadensersatzanspruch.Eine deliktsrechtliche Haftung der Beklagten könnte sich aus § 823 Abs. 2 BGB in Verbindung mit Art. 18 Abs. 1, Art. 26 Abs. 1, Art. 46 der RL 2007/46/EG und Art. 4, 5 und 13 der VO (EG) Nr. 715/2007 ergeben. Dies setzt voraus, dass diese Vorschriften - einzeln betrachtet oder in einer Gesamtschau - als "Schutzgesetz" angesehen werden können.Zu den Voraussetzungen eines Schutzgesetzes hat der Bundesgerichtshof in seinem Vorlageersuchen im "Brustimplantatefall" ausgeführt (BGH, EuGH-Vorlage vom 9. April 2015 - VII ZR 36/14):"Nach der ständigen Rechtsprechung des Bundesgerichtshofs ist eine Norm als Schutzgesetz im Sinne von § 823 Abs. 2 BGB anzusehen, wenn sie nach Zweck und Inhalt zumindest auch dazu dienen soll, den Einzelnen oder einzelne Personenkreise gegen die Verletzung eines bestimmten Rechtsguts zu schützen. Dafür kommt es nicht auf die Wirkung, sondern auf Inhalt und Zweck des Gesetzes sowie darauf an, ob der Gesetzgeber bei Erlass des Gesetzes gerade einen Rechtsschutz, wie er wegen der behaupteten Verletzung in Anspruch genommen wird, zu Gunsten von Einzelpersonen oder bestimmten Personenkreisen gewollt oder doch mit gewollt hat. Es genügt, dass die Norm auch das in Frage stehende Interesse des Einzelnen schützen soll, mag sie auch in erster Linie das Interesse der Allgemeinheit im Auge haben. Andererseits soll der Anwendungsbereich von Schutzgesetzen nicht ausufern. Deshalb reicht es nicht aus, dass der Individualschutz durch Befolgung der Norm als ihr Reflex objektiv erreicht werden kann; er muss vielmehr im Aufgabenbereich der Norm liegen. Zudem muss die Schaffung eines individuellen Schadensersatzanspruchs sinnvoll und im Sinne des haftungsrechtlichen Gesamtsystems tragbar erscheinen, wobei in umfassender Würdigung des gesamten Regelungszusammenhangs, in den die Norm gestellt ist, geprüft werden muss, ob es in der Tendenz des Gesetzgebers liegen konnte, an die Verletzung des geschützten Interesses die deliktsrechtliche Einstandspflicht des dagegen Verstoßenden mit allen damit zu Gunsten des Geschädigten gegebenen Beweiserleichterungen zu knüpfen."Im vorliegenden Zusammenhang stellt sich daher die Frage, ob das gesamte unionale Recht, vor allem die Art. 18 Abs. 1, Art. 26 Abs. 1 der RL 2007/46/EG sowie Art. 5 Abs. 2 VO (EG) Nr. 715/2007 außer dem Schutz allgemeiner Interessen auch den einzelnen Erwerber davor schützen sollen, ein nicht unionsrechtskonformes Kraftfahrzeug zu erwerben, insbesondere ein solches mit einer unzulässigen Abschalteinrichtung gem. Art. 5 Abs. 2 VO (EG) Nr. 715/2007.2. Zur zweiten VorlagefrageDarüber hinaus stellt sich die Frage, ob sich unmittelbar aus dem Unionsrecht - unabhängig von einem Charakter als Schutzgesetz - ein Schadensersatzanspruch des Fahrzeugkäufers ergibt. Hierfür könnte der Effektivitätsgrundsatz in Verbindung mit den unionalen Grundrechten und mit Eigenrechten der Natur sprechen.a) Der unionsrechtliche Effektivitätsgrundsatz verlangt, dass die vom Unionsrecht verfolgten Zwecke nicht vereitelt oder übermäßig erschwert werden.Die vom europäischen Zulassungs- und Emissionsrecht verfolgten Ziele und Zwecke erlangen nur dann praktische Wirksamkeit, wenn begangene Verstöße sanktioniert und künftige verhindert werden (s. auch Art. 46 RL 2007/46/EG). Es bedarf einer wirksamen Sanktion mit abschreckender Wirkung, um die Ziele einer hohen Verkehrssicherheit, eines hohen Gesundheits- und Umweltschutzes, einer rationellen Energienutzung, eines wirksamen Schutzes vor unbefugter Benutzung und des Verbraucherschutzes zu gewährleisten. Dies haben die nationalen Gerichte zu beachten (vgl. EuGH, Urteil vom 3. Oktober 2013, C-32/12, ECLI:EU:C:2013:637).Beides - Sanktionierung wie Präventionswirkung - erscheint jedoch in Deutschland in Frage gestellt. Es wird vorgebracht, dass Deutschland unzureichende Sanktionen vorhält. Im deutschen Recht fänden sich keine Sanktionsnormen, die den Anforderungen des Unionsrechts entsprechen. Ein Unternehmensstrafrecht fehlt.Nach dem Effektivitätsgrundsatz könnte es somit geboten sein, zum Ausgleich jedes schuldhafte (fahrlässige oder vorsätzliche) Handeln von Fahrzeugherstellern in Bezug auf das Vorliegen einer Abschalteinrichtung dadurch zu sanktionieren, dass der Erwerber einen deliktischen Schadenersatzanspruch gegen den Hersteller geltend machen kann.b) Wie der Effektivitätsgrundsatz könnten auch die unionalen Grundrechte einen genuin europäischen Schadensersatzanspruch begründen.Der Anwendungsbereich der Grundrechtecharta - als living instrument - ist vorliegend eröffnet, d.h. sie bindet und verpflichtet die Europäische Union sowie deren Mitgliedstaaten (Art. 51 Abs. 1 GRC). Die Anwendbarkeit des Unionsrechts - hier des Kfz-Zulassungsrechts - umfasst und bedingt nämlich die Anwendbarkeit der durch die Charta garantierten Grundrechte (EuGH, Urteil vom 26. Januar 2013, C-617/10, ECLI:EU:C:2013:105, Rn. 21).In materieller Hinsicht sind vor allem das Recht auf Leben (Art. 2 Abs. 1 GRC) und das Recht auf körperliche und geistige Unversehrtheit (Art. 3 Abs. 1 GRC) - als "ökologisches Menschenrecht" - einschlägig. Diese fundamentalen Rechte entfalten aufgrund ihrer engen Verbindung zur Würde des Menschen in Art. 1 der Charta eine unmittelbare Drittwirkung oder Horizontalwirkung (Meyer/Hölscheidt/Borowsky, Chartakommentar, 5. Aufl. 2019, Art. 1 Rn. 43). Sie beanspruchen somit Bindungswirkung zwischen Privaten in einem Zivilrechtsstreit (vgl. EuGH, Urteil vom 17. April 2018, C-414/16, ECLI:EU:C:2018:257, Rn. 76 ff.). Dies gilt vor allem für marktmächtige, staatsähnliche Akteure. Weiter treten die Grundsätze des Gesundheitsschutzes in Art. 35 GRC, des Umweltschutzes in Art. 37 GRC und des Verbraucherschutzes in Art. 38 GRC hinzu, die Optimierungsgebote enthalten.Alle diese Grundrechte und Grundsätze bringen weitreichende Schutzpflichten mit sich (s. auch Gerechtshof Den Haag, Urteil vom 9. Oktober 2018, 200178.245/01 - "Urgenda"). Schließlich und wesentlich geht es um die Wirksamkeit und effektive Durchsetzung der europäischen Grundrechte. Gemäß Art. 51 Abs. 1 S. 2 GRC haben die Union und die Mitgliedstaaten die Grundrechte und Grundsätze der Charta zu fördern. Diese ausdrückliche Förderpflicht zielt auf eine umfassende Verwirklichung der Grundrechte und eine Optimierung des Grundrechtsschutzes.c) Eigenrechte der Natur vermögen in den Dieselfällen schutzverstärkend hinzuzutreten (für eine solche "ökologische Revolution des Rechts" Kersten, APuZ 11/2020, S. 27 ff.). Stickoxide sind in hohem Maße umweltschädlich (s. auch EuGH, Urteil vom 3. Juni 2021, C-635/18, ECLI:EU:C:2021:437, sowie die Schlussanträge des GA Bobek vom 10. Juni 2021, C-177/19, ECLI:EU:C:2021:476). Durch den Ausstoß von hochgradig umweltschädlichen Stickoxiden in einem höheren Maße als zulässig werden Rechte der Natur verletzt, etwa ihr Recht auf Unversehrtheit aus Art. 3 GRC in analoger Anwendung.Solche Rechte der Natur können aus der Charta wie dem europäischen Vertragswerk abgeleitet werden, etwa im Wege der Analogie. Der in der Charta vielfach verwendete offene Begriff "Person" umfasst auch die Natur oder einzelne Ökosysteme (Fischer-Lescano, ZUR 2018, 205 ff.; s. weiter Vial, in: Tinière/Vial, Les dix ans de la Charte des droits fondamentaux de l’Union européenne, 2020, S. 377 ff.). Es wäre auch widersprüchlich, Künstlicher Intelligenz Rechtssubjektivität zuzusprechen, wie auf europäischer Ebene intendiert, nicht jedoch Ökosystemen.Die Anerkennung von spezifischen Rechten der Natur durch Auslegung und Anwendung des geltenden Rechts ist aufgrund der Wichtigkeit und Dringlichkeit der ökologischen Herausforderungen geboten. Das Recht der Europäischen Union ist hierfür offen (s. die 2020 veröffentlichte Studie "Towards an EU Charter of the Fundamental Rights of Nature").Es besteht jedenfalls ein fundamentaler Wertungswiderspruch: Die Interessen des Kapitals und Vermögensinteressen werden seit Jahrhunderten rechtlich codiert und abgesichert (s. Pistor, The Code of Capital, 2019), aktuell Kryptowährungen, während ökologische Interessen traditionell vernachlässigt werden. Der intrinsische Wert der Natur und Umwelt und deren Wert für den Menschen - Conditio sine qua non für die Ausübung sämtlicher Menschenrechte - bleiben unbeachtet.Die Anerkennung von Rechten der Natur entspricht einer weltweiten Tendenz (grundlegend Stone, Should Trees Have Standing, 1972; zur Entwicklungsgeschichte Schröter/Bosselmann, ZUR 2018, 195 ff.; zu aktuellen Tendenzen www.centerforenvironmentalrights.org).Maßstäbe setzen Verfassungen und Gerichte im Global South, etwa in Ecuador oder Kolumbien. So hat das kolumbianische Verfassungsgericht einem Fluss, dem Rio Atrato, und dem kolumbianischen Amazonasgebiet Rechtspersönlichkeit zugesprochen. In zahlreichen weiteren Rechtsordnungen zeichnen sich vergleichbare Entwicklungen ab. Dies gilt für Neuseeland oder aktuell die Schweiz wie Schweden (s. auch den Entscheid des schweizerischen Bundesgerichts zu Grundrechten für Primaten, Urteil vom 16. September 2020, 1C_105/2019).Die unionale Rechtsordnung ist zudem offen für internationale Einflüsse. Die dynamische Öffnungsklausel in Art. 53 GRC lässt es zu, die beschriebene weltweite Rechtsentwicklung aufzugreifen (Meyer/Borowsky, Chartakommentar, 4. Aufl. 2014, Art. 53 Rn. 14 b ff.).Nicht gegen, sondern für die Anerkennung von Rechten der Natur spricht auch die Menschenwürdegarantie der Charta. Aus der in Art. 1 GRC verankerten Würde des Menschen und der in der Präambel postulierten Verantwortung gegenüber der menschlichen Gemeinschaft und den künftigen Generationen folgt nämlich das Gebot, durch die Anerkennung von Rechten der Natur auch künftigen Generationen ein freies und selbstbestimmtes Leben in Würde zu ermöglichen.Dies dient nicht nur intergenerationeller und intertemporaler Freiheitssicherung, sondern auch dem in der Charta verwurzelten Gleichheitsgedanken. Es entspricht dem Gebot der Solidarität, das die gesamte Charta durchdringt. Aus den unionalen Grundrechten - vom Recht auf Leben bis hin zum Eigentumsrecht - und deren Schutzcharakter folgt die Verpflichtung, Rechte der Natur anzuerkennen.Im Übrigen wird auf vergleichbare Vorlagen zum "Dieselskandal" verwiesen, etwa des Landgerichts Ravensburg (s. insbesondere das mit Beschluss vom 31. März 2021 vorgelegte Verfahren mit Az.: 2 O 339/19 zu demselben Motor OM 651).Im vorliegenden Verfahren wurden die Parteien mit Verfügung vom 14. Mai 2021 auf die beabsichtigte Vorlage hingewiesen, mit einer Frist zur Stellungnahme bis 28. Mai 2021. Es erfolgten fristgerechte Stellungnahmen beider Seiten. Mit Beschluss vom 31. Mai 2021 lehnte die Zivilkammer eine Übernahme des Verfahrens gemäß § 348 Abs. 3 S. 2 ZPO ab. Somit sind auch nach deutschem Recht sämtliche Anforderungen an ein Vorabentscheidungsersuchen - rechtliches Gehör wie vorherige Vorlage an die Kammer durch den Einzelrichter - erfüllt.Die Bedenken zur Unabhängigkeit der deutschen Justiz aus der vorangehenden Vorlage vom 15. Juni 2020 (Az.: C-276/20) werden aufrechterhalten.
+			
+			
+			
+			Permalink: https://openjur.de/u/2343715.html (https://oj.is/2343715)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert2
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

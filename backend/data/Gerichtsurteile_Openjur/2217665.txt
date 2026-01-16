@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteRheinland-PfalzOrdentliche GerichtsbarkeitLG Frankenthal (Pfalz)RechtsprechungUrteil vom 09.01.2019 - 2 O 10/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Frankenthal (Pfalz), Urteil vom 09.01.2019 - 2 O 10/18
+                      m. Fundstelle
+                      LG Frankenthal (Pfalz), Urteil vom 09.01.2019 - 2 O 10/18 = openJur 2020, 19718
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Frankenthal (Pfalz), Urteil vom 09.01.2019 - 2 O 10/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 19718
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist vorläufig vollstreckbar. Der Kläger kann die Vollstreckung der Beklagten durch Sicherheitsleistung in Höhe von 110 % des aufgrund des Urteils vollstreckbaren Betrags abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrags leistet. 
+				Tatbestand
+				Der Kläger nimmt die Beklagte auf Schadensersatz in Gestalt der Erstattung von Erwerbskosten gegen Überlassung des Fahrzeuges wegen des sogenannten "XX-Dieselabgasskandals" in Anspruch.Der Kläger erwarb mit Kaufvertrag vom 04.07.2016 von der Beklagte A. R.-N. GmbH in M. einen gebrauchten PKW XX XX zu einem Preis von 17.491,00 Euro und finanzierte diesen Erwerb bei der XX Bank. Er zahlte als Anzahlung und an Raten bis zur Klageerhebung insgesamt den mit der Klage geltend gemachten Betrag. Der Motor des Wagens vom Typ EA 189 ist von dem sogenannten "XX-Dieselabgasskandal" betroffen, war also zumindest ursprünglich mit einer Software ausgestattet, die Prüfstandfahrten erkennt, was dann zu einem anderen Stickoxidausstoß führt als im Normalbetrieb.Der Kläger hat geltend gemacht,bei der ursprünglich verwandten Software handele es sich um eine unerlaubte Abschalteinrichtung. Der Vorstand der Beklagten habe davon gewusst. Die Beklagte könne dies nicht ohne näheren Vortrag bestreiten, sie treffe insoweit sogar eine sekundäre Darlegungslast. Das Aufspielen eines Software-Updates könne das Problem nicht beseitigen, eine mangelfreie Herstellung sei nicht möglich. Insbesondere drohe aber ein erheblicher Wertverlust des Fahrzeugs. Ihm stehe der eingeklagte Rückabwicklungsanspruch aus § 826 BGB gegen die Beklagte zu. Die Ad-hoc-Mitteilung der Beklagten vom 22.09.2015 habe er nicht gekannt. Im Kaufzeitpunkt seien die Folgen der Manipulation noch nicht voll absehbar gewesen, zumal die Beklagte diese bagatellisiert habe.Der Kläger beantragt,die Beklagte zu verurteilen, an ihn 7.054,06 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz hieraus seit dem 31.05.2018 Zug um Zug gegen Rückübereignung des Fahrzeugs XX, Fahrgestellnummer: XXXXXXXXXXX zu zahlen;festzustellen, dass sich die Beklagte mit der Annahme des besagten Fahrzeugs in Verzug befindet;die Beklagte weiter zu verurteilen, an ihn außergerichtliche Rechtsanwaltskosten in Höhe von 650,34 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte macht geltend,das Software-Update sei bei Kaufvertragsschluss bereits aufgespielt gewesen und mache das Fahrzeug mangelfrei, es habe insbesondere keine Auswirkungen auf Verbrauch, Leistung und Lebensdauer. Das Fahrzeug habe stets eine gültige Typgenehmigung gehabt und den Maßstab "Euro 5" erfüllt. Es habe sich im Übrigen auch gar nicht um eine unzulässige Abschalteinrichtung gehandelt. Ansprüche des Klägers seien schon ausgeschlossen, weil er den Kaufvertrag erst nach Bekanntwerden der Softwareproblematik in der Folge der Ad-hoc-Mitteilung der Beklagten vom 22.09.2015 und der anschließenden breiten öffentlichen Diskussion erworben habe.Wegen weiterer Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen verwiesen. 
+				Gründe
+				Die zulässige Klage erweist sich als unbegründet. Der Kläger hat nicht den von ihm geltend gemachten deliktischen Anspruch gegen die Beklagte.Eine deliktische Haftung aus § 826 BGB oder § 823 BGB kann nur daran anknüpfen, dass infolge des verheimlichten Einsatzes der in Rede stehenden Software in Motoren der Beklagten der Kläger durch den Abschluss eines Vertrages geschädigt worden ist, den er in Kenntnis der Softwareproblematik nicht oder nicht so abgeschlossen hätte. Die Beklagte beruft sich vorliegend zu Recht darauf, dass der Kläger durch die breite öffentliche Diskussion des Skandals in der Folge der Ad-hoc-Mitteilung von September 2015 Kenntnis von der Problematik gehabt haben müsse. Der Kläger bestreitet auch weder diese öffentliche Diskussion noch seine grundsätzliche Kenntnis. Er müsste auch, wenn er Unkenntnis behaupten wollte, zumindest näher ausführen, aufgrund welcher besonderen Umstände er trotz der als allgemein bekannt und damit offenkundig im Sinne des § 291 ZPO anzusehenden breiten Erörterung des Themas in allen Medien sogleich nach dem Zeitpunkt der Veröffentlichung der besagten Ad-hoc-Mitteilung davon keine Kenntnis erlangt haben will; anderenfalls muss von einer Kenntniserlangung vor dem Kauf ausgegangen werden (vgl. hierzu OLG Braunschweig, Beschluss vom 02.11.2017 zum Az. 7 U 69/17, Rnr 8, zitiert nach Beck-online); auf die Kenntnis des genauen Inhalts der Ad-hoc-Mitteilung selbst kommt es insoweit nicht an. Der Kläger hat also in Kenntnis der Problematik das Fahrzeug erworben und kann sich daher nicht darauf berufen, die Verheimlichung des Einsatzes der problematischen Software habe ihn hierzu bewogen. Soweit er anführt, die bis heute nicht abschließend zu beurteilende Tragweite der Problematik seinerzeit nicht voll erfasst zu haben, hat er dieses Risiko durch den Entschluss zum Erwerb trotz Kenntnis des Softwareproblems selbst zu tragen. Dass sich aus einer solchen Softwaremanipulation und dem Versuch ihrer Beseitigung technische und rechtliche Folgeprobleme ergeben können und dass der Marktwert der betroffenen Fahrzeuge dadurch beeinflusst werden kann, ist für jedermann offenkundig; darauf dass dies naturgemäß auch von Beginn an Gegenstand der besagten breiten öffentlichen Erörterungen war, kommt es angesichts dessen nicht weiter an. Diese Risiken hat der Kläger sehenden Auges im Wortsinne in Kauf genommen. Ob und inwieweit solche Risiken tatsächlich bestehen und sich noch realisieren können und ob und inwieweit das Softwareupdate tatsächlich Abhilfe schafft, kann angesichts dessen dahinstehen.Die Kostenentscheidung beruht auf § 91 ZPO, diejenige über die vorläufige Vollstreckbarkeit auf §§ 708 Nr. 11, 711 ZPO.BeschlussDer Streitwert wird auf 7.054,06 € festgesetzt (der Feststellungsantrag begründet keinen zusätzlichen Streitwert).
+			
+			
+			
+			Permalink: https://openjur.de/u/2217665.html (https://oj.is/2217665)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

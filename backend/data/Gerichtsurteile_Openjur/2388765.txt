@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG AachenRechtsprechungUrteil vom 20.10.2020 - 12 O 516/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Aachen, Urteil vom 20.10.2020 - 12 O 516/19
+                      m. Fundstelle
+                      LG Aachen, Urteil vom 20.10.2020 - 12 O 516/19 = openJur 2022, 4911
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Aachen, Urteil vom 20.10.2020 - 12 O 516/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 4911
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger verlangt Rückzahlung eines Kaufpreises für ein Fahrzeug im Wege des Schadensersatzes.Er kaufte am 20.12.2017 in Essen ein Fahrzeug der Marke W2 6 zu einem Kaufpreis von 26.800,00 €. Das Fahrzeug wies einen Kilometerstand von 5.392 km auf und wurde an den Kläger im Januar 2018 übergeben. Die Beklagte ist die Herstellerin des Fahrzeugs, das ein Aggregat EA 288 aufweist. Zur Finanzierung des Kaufpreises schloss der Kläger einen Darlehensvertrag bei der W zu einem Gesamtbetrag von 29.666,56 € ab (Bl. 29 d. A).Der Kläger behauptet, dass das streitgegenständliche Fahrzeug vom sog. Abgasskandal betroffen sei. Das Auto sei von der Beklagten mit einer sog. Abschalteinrichtung versehen worden, um im Falle eines Abgastests die zulässigen Abgaswerte zu erreichen. Das Fahrzeug erkenne, ob es sich ob sich das Fahrzeug im Prüfstand befinde und wirke daraufhin dergestalt auf die Motorsteuerung ein (Modus 1), dass geringere sog. "NOX-Werte" als im normalen Fahrbetrieb (Modus 0) erreicht würden. Es gäbe Stellungnahmen dazu, dass die Software der entspreche, die in den Fahrzeugen mit dem Motortyp EA 189 verbaut seien. Die Steuerungssoftware schalte bei einer bestimmten Drehzahl bzw. Lenkeinschlägen die Abgasreinigung aus, so dass es zu einem unzulässigen Anstieg von Stickoxydemissionen komme. Weiter trägt der Kläger vor, die Voraussetzungen für die EG-Typengenehmigung lägen manipulationsbedingt nicht vor und er verfüge nicht über eine gültige Übereinstimmungsbescheinigung.Das Fahrzeug sei mittlerweile stillgelegt, da es sich auch um ein besonderes Fahrzeug handele, das der Kläger nur für den Urlaub verwende.In der mündlichen Verhandlung vom 15.09.2020 haben die Parteien einen Kilometerstand von 34.277 km zu Anfang September unstreitig gestellt.Der Kläger beantragt,1. die Beklagte zu verurteilen, an ihn 26.800,00 € (Kaufpreis mit Nebenkosten), zuzüglich Zinsen in Höhe von 4 % seit dem 10.01.2018 zu zahlen; hilfsweise abzüglich einer Nutzungsentschädigung in €, die sich nach der Formel 26.644,11 € (Kaufpreis ohne Nebenkosten) x Kilometerstand bei Rückgabe des Fahrzeuges: 300.000 km berechnet; Zug um Zug gegen Rückgabe des Pkw W26, Baujahr 2016, FIN: WV2ZZZ7HZGH082792;2. festzustellen, dass die Beklagte verpflichtet ist, dem Kläger die Finanzierungskosten, die Kosten der Finanzierung Nr. 42221840V835 bei der W GmbH zu ersetzen.Die Beklagte beantragt,die Klage abzuweisen.Sie behauptet, das Aggregat EA 288 verfüge nicht über eine Umschaltlogik, welche den Stickoxidausstoß dahingehend beeinflusse, dass erkannt werde, ob sich das Fahrzeug im Prüfstand befinde und daraufhin dergestalt auf die Motorsteuerung einwirke. Auch eine Fahrkurvenerkennung oder ein unzulässiges Thermofenster läge nicht vor. Das KBA habe den Vorwurf einer unzulässigen Abschalteinrichtung geprüft und festgestellt, dass keine unzulässige Abschalteinrichtung bestehe. Die EG-Typengenehmigung sei wirksam. Zudem habe die Beklagte dem Kläger mehrmals ein Software-Update mit der Aktionsnummer "23Z7" angeboten, welches der Kläger bisher nicht aufgespielt habe. Das KBA habe das Software-Update mit Freigabebestätigung vom 19.11.2018 freigegeben und ausdrücklich bestätigt, dass keine negativen Auswirkungen von diesem ausgingen. Der Kläger habe das Update indes nicht aufgespielt.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage hat in der Sache keinen Erfolg.Dem Kläger steht gegen die Beklagte unter keinem rechtlichen Gesichtspunkt ein Anspruch auf Rückzahlung des Kaufpreises zu.Nach § 826 BGB ist zum Schadensersatz verpflichtet, wer einem anderen in einer gegen die guten Sitten verstoßenden Weise vorsätzlich Schaden zufügt. Ein Verhalten ist dann als gegen die guten Sitten verstoßend anzusehen, wenn es nach Inhalt oder Gesamtcharakter, der durch zusammenfassenden Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, dem Anstandsgefühl aller billig und gerecht Denkenden zuwiderläuft, d.h. mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist (BGH - NJW 2017, 250). Für einen Anspruch aus § 823 Abs. 2 BGB i.V.m. § 263 StGB ist erforderlich, dass ein Verhalten des in Anspruch Genommenen festgestellt werden kann, das den Betrugstatbestandes § 263 StGB erfüllt. Dieser setzt wiederum voraus, dass der in Anspruch Genommene das Vermögen des Geschädigten durch vorsätzliche Vorspiegelung falscher Tatsachen in der Absicht, sich einen rechtswidrigen Vermögensvorteil zu verschaffen, geschädigt hat. In subjektiver Hinsicht erfordern beide vorstehenden Anspruchsgrundlagen die Feststellung eines Schädigungsvorsatzes auf Seiten des Schädigers. Dieser muss sich darauf beziehen, dass durch die Handlung einem anderen Schaden zugefügt wird und erfordert die positive Feststellung, dass der Schädiger spätestens im Zeitpunkt des Schadenseintritts die Art und Richtung des Schadens und die Schadensfolgen vorausgesehen und die Schädigung im Sinne eines direkten Vorsatz gewollt oder zumindest im Sinne eines bedingten Vorsatz zur Erreichung seines Ziels billigend in Kauf genommen hat. Etwaiges Wissen ihrer Organe müssen sich juristische Person wie die Beklagte insoweit gemäß § 31 BGB analog zurechnen lassen.Dass die Beklagte gemessen an diesen Maßstäben und bezogen auf das konkrete streitgegenständliche Fahrzeug ein solches Verhalten zum Vorwurf gemacht werden kann, hat der Kläger nicht hinreichend substantiiert dargetan. Dabei folgt das Gericht der Entscheidung des Oberlandesgerichts Köln vom 6.8.2019 7 U 119/19. Soweit der Kläger der Beklagten zum Vorwurf macht, dass das Fahrzeug über eine illegale Abschalteinrichtungen im Motor verfügt, so ist der Klägervortrag bezogen auf das konkrete streitgegenständliche Fahrzeug unsubstantiiert. Er bezieht sich in weiten Teilen auf den vorliegenden nicht streitgegenständlichen Motortyp EA 189 und die in diesem verbauten Abschalteinrichtung und erschöpft sich im Übrigen in allgemeinen Erwägungen und Spekulationen, die einen Bezug auf den vorliegenden konkret streitgegenständlichen Motor nicht erkennen lassen. Die Beklagte hat in zulässiger Weise in Abrede gestellt, dass der hier streitgegenständliche Motortyp über eine entsprechende Abschaltvorrichtung verfügt. Weiter hat die Beklagte auch darauf hingewiesen, dass der klägerische Vortrag in Bezug auf die Funktionsweise des Motortyps EA 288 unsubstantiiert und nicht einlassungsfähig ist. Zwar behauptet der Kläger, dass es Vermutungen darüber gibt, dass auch der Motortyp EA 288 über eine ähnliche Abschalteinrichtung verfügt, dabei trägt er allerdings nicht vor, woraus sich eine solche Vermutung ergibt. Konkrete Indizien für die Richtigkeit seiner Behauptung hat der Kläger nicht aufgezeigt. Die Beklagte hat aber den Einbau einer unzulässigen Abschalteinrichtung substantiiert bestritten. Unter Berücksichtigung dieses Vortrags hat der Kläger nicht ausreichend konkret zu einer manipulierenden Software beziehungsweise zu einer unzulässigen Abschalteinrichtung vorgetragen. Die Klägerbehauptungen sind in der vorgetragenen Form zu pauschal, um ausreichende Anhaltspunkte für eine unzulässige Abschalteinrichtung zu bieten. Ausreichende Anknüpfungstatsachen, welche die Einholung eines Sachverständigengutachtens rechtfertigen würden, sind nicht vorhanden. Auch der Vortrag des Klägers zu sogenannten Thermofenstern ist nicht ausreichend substantiiert. In Rechtsprechung und Schrifttum ist anerkannt, dass der Kläger in solchen Fällen die konkreten Konstruktionsteile benennen und ihre Funktionsweise beschreiben muss (KG, BeckRS 2020, 9869; OLG Koblenz BeckRS 2019, 25135, jew. M. w. Nachw.).Die Kostenentscheidung beruht auf §§ 91 Abs. 1 S. 1 ZPO; die Entscheidung über die vorläufige Vollstreckbarkeit hat ihre Rechtsgrundlage in § 709 ZPO.StreitwertAntrag zu 1.: 26.800,00 €, § 3 ZPOAntrag zu 2.: 500,00 €, § 3 ZPO27.300,00 €Eine Nutzungsentschädigung war nicht von der Klageforderung in Abzug zu bringen. Weder in der Klageschrift noch in der mündlichen Verhandlung wurde von Klägerseite ein bestimmter Betrag dafür in Ansatz gebracht.Prof. Dr. N urlaubsbedingt an derUnterschrift gehindert)
+			
+			
+			
+			Permalink: https://openjur.de/u/2388765.html (https://oj.is/2388765)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

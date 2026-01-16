@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG Nürnberg-FürthRechtsprechungEndurteil vom 09.03.2021 - 9 O 7845/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Nürnberg-Fürth, Endurteil vom 09.03.2021 - 9 O 7845/20
+                      m. Fundstelle
+                      LG Nürnberg-Fürth, Endurteil vom 09.03.2021 - 9 O 7845/20 = openJur 2021, 14916
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Nürnberg-Fürth, Endurteil vom 09.03.2021 - 9 O 7845/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 14916
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Beklagte wird verurteilt, an die Klagepartei 9.125,80 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 17.12.2020 Zug-um-Zug gegen Rückgabe und Übereignung des Fahrzeuges VW Caddy mit der Fahrzeugidentifikationsnummer ... zu zahlen.2. Im Übrigen wird die Klage abgewiesen.3. Von den Kosten des Rechtsstreits haben die Klagepartei 35 % und die Beklagte 65 % zu tragen.4. Das Urteil ist vorläufig vollstreckbar, für die Klagepartei jedoch nur gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages. Die Klagepartei darf die Vollstreckung durch Sicherheitsleistung in Höhe von 110 % des aufgrund des Urteils zu vollstreckenden Betrages abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in gleicher Höhe leistet.5. Der Streitwert wird auf 14.141,52 € festgesetzt. 
+				Tatbestand
+				Die Klagepartei begehrt Rückabwicklung eines Kaufvertrags über einen PKW als Schadensersatz.Am 04.03.2011 erwarb die Klagepartei ein neues Fahrzeug VW Caddy zum Kaufpreis von 22.280,00 €. Das mit dem Dieselmotor des Typs EA189 ausgestattete Fahrzeug wurde der Klagepartei mit einer Laufleistung von 0 km übergeben, der Kaufpreis an den Verkäufer gezahlt.Die Laufleistung des Fahrzeugs betrug am 01.02.2021 147.601 km.Das Fahrzeug verfügte über eine Software mit zwei unterschiedlichen Betriebsmodi, die die Abgasrückführung steuerten. Im NOx-optimierten Modus 1, der im NEFZ aktiv war, kam es zu einer höheren Abgasrückführungsrate. Unter Fahrbedingungen, die im normalen Straßenverkehr vorzufinden waren, war der partikeloptimierte Modus 0 aktiv. Das Fahrzeug befand sich im normalen Straßenverkehr durchgehend im Modus 0. Durch die bereits erfolgte Installation des Software-Updates wird das Fahrzeug nur noch im adaptierten Modus 1 betrieben, der bisher im Ursprungs-Modus 1 in Prüfsituationen aktiv war.Die Klagepartei hat sich nicht zur Musterfeststellungsklage beim OLG Braunschweig (4 MK 1/18) angemeldet.Die Klagepartei behauptet, dass das Software-Update zu technischen Nachteilen führen könne. Auch nach der Durchführung des Software-Updates verbleibe ein merkantiler Minderwert. Die Klagepartei ist der Auffassung ein Anspruch ergebe sich vorliegend zumindest aus § 852 BGB.Die Klagepartei beantragt:I. Die Beklagte wird verurteilt, an den Kläger 14.141,52 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz hieraus seit Rechtshängigkeit zu zahlen, Zug-um-Zug gegen Herausgabe und Übereignung des Fahrzeugs VW Caddy 1.6 TDI, FIN ....II. Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des in Ziffer I. genannten Fahrzeugs in Annahmeverzug befindet.Die Beklagte beantragt:die Klage abzuweisen.Sie behauptet, durch das vom KBA genehmigte Software-Update würden keine technischen Nachteile für das Fahrzeug der Klagepartei entstehen. Sie beruft sich ferner auf Verjährung.Hinsichtlich der Einzelheiten des Sach- und Streitstands wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist in dem aus dem Tenor ersichtlichen Umfang begründet.A. ZulässigkeitDas Landgericht Nürnberg-Fürth ist sachlich (§ 71 Abs. 1 GVG), wie auch örtlich zuständig (§ 32 ZPO).B. BegründetheitI.Der Klagepartei steht gegen die Beklagte ein Anspruch auf 14.008,01 € aus § 852 BGB zu.1. Grundsätzlich würde die Beklagte der Klagepartei aus vorsätzlich sittenwidriger Schädigung (§ 826 BGB) auf Ersatz der ihr aus dem Kauf des streitgegenständlichen PKW entstandenen Schäden haften (BGH, VI ZR 252/19, Urteil vom 25.05.2020). Die Rechtsfolge dieses Schadensersatzanspruches ergäbe sich aus §§ 249 ff. BGB und entspräche im Ergebnis daher derjenigen der Rückabwicklung (vgl. BGH NJW 2011, 1962), wobei der Abzug der Nutzungsentschädigung im Rahmen der Vorteilsanrechnung zu erfolgen hätte. (vgl. BGH NJW 2015, 3160 zur Zug-um-Zug-Verurteilung bei fehlender Gleichartigkeit zwischen Ersatzanspruch und Vorteil). Auch im Falle einer vorsätzlichen sittenwidrigen Schädigung gelten die Grundsätze der Vorteilsausgleichung (BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19). Die Nutzungsentschädigung - von deren Abzug die Klagepartei vorliegend selbst ausgeht - errechnete sich damit vorliegend aus der Multiplikation des Bruttokaufpreises (22.280,00 €), und der von der Klagepartei zurückgelegten Fahrstrecke von 147.601 km geteilt durch die beim Kauf zu erwartende Laufleistung, welche vom erkennenden Gericht unter Verweis auf die Rechtsprechung des OLG Nürnberg (Urt. v. 28.10.2020, 12 U 2265/18) nunmehr auf 250.000 km geschätzt wird und beträgt 23.651,99 €. Diese wäre mit dem zu erstattenden Kaufpreis zu saldieren. Insoweit bestünde in Schadensersatzanspruch in Höhe von 13.154,20 €.2. Diesem Anspruch aus § 826 BGB kann die Beklagte allerdings erfolgreich den Einwand der Verjährung entgegensetzen (§ 214 Absatz 1 BGB).a) Deren Frist hat spätestens am 01.01.2017 begonnen und nach drei Jahren am 31.12.2019 geendet (§§ 195, 199 Absatz 1 BGB).(a) Die gegen gesetzliche Vorschriften verstoßende Steuerung der Abgase durch die von der Beklagten verwendete Software bei den mit Diesel betriebenen Motoren (EA 189) ist auf Grund deren Veröffentlichung am 22.09.2015 und wegen der hierauf folgenden Berichte in allen Medien bis Ende des Jahres 2016 allgemein bekannt gewesen. Die Klageseite trägt auch keine Umstände vor, die bei ihr eine solche Kenntnis verhindert haben sollen.(b) Darüber hinaus trifft einen Fahrzeughalter der Vorwurf grober Fahrlässigkeit i.S.d. § 199 Abs. 1 Nr. 2 BGB, wenn er sich nicht bis zum Ende des Jahres 2016 darüber informiert hat, ob sein Fahrzeug über die streitgegenständliche Abschaltvorrichtung verfügt.Grobe Fahrlässigkeit setzt einen objektiv schwerwiegenden und subjektiv nicht entschuldbaren Verstoß gegen die Anforderungen der im Verkehr erforderlichen Sorgfalt voraus (BGH NJW-RR 2016, 1187 (1189); BeckOGK/Piekenbrock, BGB, Stand: 01.08.2019, § 199 Rn. 122). Grob fahrlässige Unkenntnis liegt nur vor, wenn dem Gläubiger die Kenntnis deshalb fehlt, weil er ganz nahe liegende Überlegungen nicht angestellt und nicht beachtet hat, was im gegebenen Fall jedem hätte einleuchten müssen. Ihm muss persönlich ein schwerer Obliegenheitsverstoß in seiner eigenen Angelegenheit der Anspruchsverfolgung ("Verschulden gegen sich selbst") vorgeworfen werden können, weil sich ihm die den Anspruch begründenden Umstände förmlich aufgedrängt haben, er davor aber letztlich die Augen verschlossen hat (vgl. BGH NJW-RR 2016, 1187 (1189) m.w.N.).Die Verwendung der unzulässigen Abschaltvorrichtung in den Dieselmotoren vom Typ EA 189 war aufgrund der auf die Bekanntmachung der Beklagten vom 22.09.2015 folgenden intensiven Medienberichterstattung bis Ende des Jahres 2016 allgemein bekannt. Über die am 02.10.2015, durch die Beklagte im Internet eingerichtete und öffentlich bekannt gegebene Webseite hat die Klageseite durch einfache Eingabe der FIN ihres Fahrzeugs leicht dessen Betroffenheit klären und erkennen können. Wer bis Ende des Jahres 2016 eine solche Abfrage nicht durchgeführt hat, hat schlichtweg die Augen davor verschlossen, dass sein Fahrzeug von dem medial breit und langandauemd thematisierten sog. "Abgasskandal" betroffen sein konnte, und handelte damit grob fahrlässig i.S.d. § 199 Abs. 1 Nr. 2 BGB.(c) Die Klagepartei hat mit ihren obigen vorhandenen oder auf Grund grober Fahrlässigkeit fehlenden Kenntnissen bereits bis zum 31.12.2016 eine schlüssige Klage gegen die Beklagte erheben können. Das belegen sowohl die vorliegende Klage als auch unzählige 2016 eingeleitete und gegen die Beklagte erfolgreich gewesene bundesweite Rechtsstreite (statt vieler 9 O 3631/16). Dabei ist rechtlich unerheblich, dass die Beklagte (bis jetzt) weder die für den Einsatz der Software verantwortlich gewesenen Personen namentlich benennt noch ein vorsätzliches Handeln zugesteht (BGH. Urteil vom 17. Dezember 2020 - VI ZR 739/20). Denn diese Tatsachen haben sich sowohl bis zum 31.12.2016 als auch bis jetzt stets nur aus dem äußeren Geschehen (Verwenden einer gesetzlich unzulässigen Abschalteinrichtung) folgern lassen.Die Klageerhebung muss anhand der zur Kenntnis gelangten bzw. grob fahrlässig unbekannt gebliebenen Tatsachen lediglich Erfolg versprechend, nicht jedoch risikolos möglich sein (BGH, NJW-RR 2010, 681). Eine Rechtsverfolgung ist daher nicht allein deshalb unzumutbar, weil Divergenzen in der (obergerichtlichen) Rechtsprechung bestehen oder weil noch keine höchstrichterliche Entscheidung zur maßgeblichen Rechtsfrage ergangen ist (Piekenbrock, in: BeckOGK, BGB, Stand: 1.8.2020, § 199 Rn 134; BGH NJW 2018, 1469 (1470). Schließlich dienen der Rechtsweg und insbesondere die Revisionsinstanz gerade dazu, offene Rechtsfragen zu klären, vgl. § 543 Abs. 2 S. 1 ZPO (Piekenbrock, In: BeckOGK, BGB. Stand: 1.8.2020, § 199 Rn 133; BAG NZA 2013, 785).Im Übrigen ist eine besonders unsichere oder zweifelhafte Rechtslage, die zur Unzumutbarkeit der Klageerhebung führen würde, vorliegend nicht ansatzweise erkennbar (vgl. Ittner/Halder, WVR 2020, 283 (288). Der in Frage stehende deliktsrechtliche Anspruch gegenüber der Beklagten, dessen Bejahung allgemeinen delikts- und schadensrechtlichen Grundsätzen folgt, ist nicht mit den Fallkonstellationen vergleichbar, in denen der Bundesgerichtshof ausnahmsweise die Unzumutbarkeit der Klageerhebung bejaht hatte (OLG Köln, Beschluss v. 04.03.2020, Az. 26 U 73/19, BeckRS 2020, 4947 Rn. 16). Bei diesen bestand entweder im Zeitpunkt des eigentlichen Verjährungsbeginns eine entgegengesetzte höchstrichterliche Rechtsprechung (so BGH. NJW 2014, 3713), oder die bisherige Rechtsnormanwendung erfuhr nach diesem Zeitpunkt eine höchstrichterliche Rechtsfortbildung (so BGH NJW 1999, 20141).b) Daher hat die ab 31.12.2019 eingetretene Verjährung nicht mehr von der erst am 24.11.2020 eingereichten und der Beklagten am 16.12.2020 zugestellten Klage gehemmt (§§ 204 Absatz 1 Nr. 1 BGB, 167 ZPO) werden können.c) Weiter ist in dem Aufspielen des Software-Updates kein den Neubeginn der Verjährung auslösendes Anerkenntnis nach § 212 Abs. 1 Nr. 1 BGB zu sehen, da aus dem Handeln der Beklagten insoweit nicht entnommen werden kann, einen deliktischen Schadensersatzanspruch anerkennen zu wollen. Insoweit unterscheidet sich die Fallgestaltung auch von einem Aufspielen des Software-Updates im Rahmen kaufrechtlicher Gewährleistungsansprüche wo diesem ggf. ein Anerkenntnis hinsichtlich kaufrechtlicher Mängelansprüche entnommen werden könnte (vgl. BGH, Beschl. V. 09.06.2020. VIII ZR 315/19).d) Schließlich ist das Berufen der Beklagten auf die Einrede der Verjährung auch nicht treuwidrig (§ 242 BGB). Zwar kann das Berufen auf die Einrede der Verjährung im Einzelfall eine unzulässige Rechtsausübung darstellen, wenn sich objektiv das Gesamtbild eines widersprüchlichen Verhaltens ergibt, weil das frühere Verhalten mit dem späteren sachlich unvereinbar ist und Interessen der Gegenseite im Hinblick darauf vorrangig schutzwürdig erscheinen (OLG München Endurteil v. 3.7.2019 - 3 U 4029/18), doch ist dies vorliegend bereits nicht erkennbar.II.Die Klagepartei hat allerdings gegen die Beklagte einen Anspruch aus § 852 BGB.1. Im Falle der erhobenen Verjährungseinrede ist das Vorliegen der Voraussetzungen des Herausgabeanspruchs nach § 852 BGB von Amts wegen zu prüfen (BGH, Urt. v. 13.10.2015 - II ZR 281/14).Danach ist der Ersatzpflichtige auch nach Eintritt der Verjährung des Anspruchs auf Ersatz des aus einer unerlaubten Handlung entstandenen Schadens zur Herausgabe nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung verpflichtet, wobei dieser Anspruch in zehn Jahren von seiner Entstehung an, ohne Rücksicht auf seine Entstehung in 30 Jahren von der Begehung der Verletzungshandlung oder dem sonstigen, den Schaden auslösenden Ereignis an, verjährt. Nicht vorausgesetzt ist weiterhin, dass der deliktische Anspruch tatsächlich verjährt ist (BeckOGK/Eichelberger, 1.12.2020 Rn. 21. BGB § 852 Rn. 21).2. Bei § 852 BGB handelt es sich um einen so genannten Restschadensersatzanspruch, also einen Anspruch aus unerlaubter Handlung, der in Höhe der Bereicherung nicht verjährt ist (BGH, Urt. v. 15.1.2015 - I ZR 148/13). Nicht herauszugeben ist demgegenüber der vom Ersatzpflichtigen mit Hilfe des Bereicherungsgegenstandes erzielte Gewinn (BeckOGK/Eichelberger, 1.12.2020, BGB § 852 Rn. 23). Weiter müssen dabei die Kondiktionsvoraussetzungen nicht vorliegen, da es sich um eine Rechtsfolgenverweisung handelt (MüKoBGB/Wagner, 7. Aufl. 2017, BGB § 852 Rn. 5; BeckOGK/Eichelberger, 1.8.2020, BGB § 852 Rn. 10). Daher ist zunächst anhand der Voraussetzungen des maßgeblichen Deliktsanspruchs ein möglicher Anspruch zu prüfen. Ein derartiger Anspruch ergäbe sich dabei vorliegend wie dargestellt aus § 826 BGB in Höhe von 9.125,80 €.3. Nachdem feststeht, was der Geschädigte nach Deliktsrecht hätte beanspruchen können, ist in einem zweiten Schritt anhand der §§ 818 ff. BGB zu ermitteln, welchen Umfang die vom Schädiger durch die unerlaubte Handlung erlangte Bereicherung hat (MüKoBGB/Wagner, 7. Aufl. 2017, BGB § 852 Rn. 5). Diese ist danach allenfalls bis zur Grenze der ursprünglichen Schadenshöhe herauszugeben, mithin findet eine Limitierung statt (Martinek, JM 2021, 9, 10). Neben der - hier vorliegenden unerlaubten Handlung - muss der Schädiger dabei etwas auf Kosten des Verletzten erlangt haben. Dabei wird wohl überwiegend davon ausgegangen, dass - entgegen dem unmittelbaren Wortlaut des § 852 BGB (auf Kosten des Verletzten) - ein unmittelbarer Vermögenszufluss beim Ersatzpflichtigen nicht zu verlangen ist (vgl. m.w.Nw. (MüKoBGB/Wagner, 7. Aufl. 2017, BGB § 852 Rn. 5) und auch ein mittelbarer Vermögenszufluss bspw. über Vertragspartner herauszugeben ist. Gleichwohl muss die Bereicherung Folge der unerlaubten Handlung sein, die Beklagte müsste dabei gerade etwas durch die unerlaubte Handlung erlangt haben (BeckOGK/Eichelberger, 1.8.2020, BGB § 852 Rn 17), also hier durch die vorsätzliche sittenwidrige Schädigung der Klagepartei im Rahmen des Kaufvertragsabschlusses.4. Dabei setzt die Prüfung des § 852 BGB zunächst den Vortrag der Klagepartei dazu voraus, dass und in welcher Höhe die Beklagte, die nicht Verkäuferin des Fahrzeugs war, etwas aus dem Fahrzeugverkauf erlangt hat (BGH, Urt. v. 17.12.2020, VI ZR 739/20). Soweit die Klagepartei dabei vorträgt seitens der Beklagten sei der entrichtete Kaufpreis, ggf. abzüglich einer Händlermarge erlangt worden, so genügt dies den erforderlichen Voraussetzungen.a) Mit Blick auf die Rechtsfolgenverweisung ist im Rahmen der Prüfung des Umfangs der Herausgabeverpflichtung in einem ersten Schritt gemäß § 818 Abs. 1 BGB das seitens der Beklagte erlangte etwas zu ermitteln. Während dies bei einem Direktkauf der gesamte gezahlte Kaufpreis sein dürfte, ist in Fällen des durch Händler veräußerten Neuwagens regelmäßig der Kaufpreis abzüglich einer Händlermarge (hierzu: Augenhofer, VuR 2019, 83, 86) maßgeblich. Die Frage nach einem möglichen Gewinn (so wohl Martinek, JM 2021, 9, 13) der Beklagten bereits zu diesem Zeitpunkt würde zu einer unzutreffenden Vermengung der einzelnen Prüfungsschritte im Rahmen der Vorschrift des § 818 BGB führen.Der insoweit der Beklagten obliegenden sekundären Darlegungslast hinsichtlich der Händlermarge bzw. des tatsächlich an sie geflossenen Zahlbetrag ist diese trotz Hinweis des Gerichts nicht nachgekommen.Gleichwohl kann das Gericht vorliegend von einer konkreten Schätzung nach § 287 ZPO Abstand nehmen, da mit Blick auf die grundsätzliche Limitierung des Anspruchs durch die ursprüngliche Schadenshöhe (s. o.), vorliegend weniger als 50 % des ursprünglichen Kaufpreises herauszugene sind. Eine dies übersteigende Händlermarge erachtet das Gericht für nicht realistisch und wurde auch beklagtenseits nicht vorgetragen.b) Da die Herausgabe des erlangten etwas in Form des durch die Händlermarge verringerten Kaufpreise in natura ausscheidet, ist grds. Wertersatz in entsprechender Höhe zu leisten, § 818 Abs. 2 BGB.c) Weiter kann sich die Beklagte vorliegend auch nicht erfolgreich auf den Einwand der Bereicherung berufen, § 818 Abs. 3 BGB. Zwar können im Rahmen von Kondiktionsansprüchen im Einzelfall Aufwendungen im Zusammenhang mit dem ursprünglichen Erwerb des Bereicherungsgegenstandes grundsätzlich abzugsfähig sein, doch scheitert dies vorliegend an der Vorschrift des § 819 BGB. Nach überwiegender und vorliegend auch zutreffender Auffassung ist es dem bösgläubigen Bereicherungschulder versagt, sich erfolgreich auf den Einwand der Entreicherung zu berufen (vgl. mit zahlreichen Nachweisen BeckOK BGB/Wendehorst, 56. Ed. 1.11.2020, BGB § 818 Rn. 83), da es im Hinblick auf seine Kenntnis an der Schutzbedürftigkeit fehlt. Auch soweit nach Martinek (JM 2021, 9, 13), zumindest solche Vermögensdispositionen über den Bereicherungsgegenstand abzugsfähig sein sollen, welche den Interessen des Bereicherungsgläubigers dienlich und erwünscht seien, ergibt sich nichts anderes. Insoweit darf unter Berücksichtigung der vorsätzlichen sittenwidrigen Handlung und der damit einhergehenden Bösgläubigkeit der Beklagten nicht verkannt werden, dass die seitens der Beklagten aufgewendeten Kosten für Entfernung der Software und Wiederherstellung der Vorschriftsmäßigkeit letztlich (mittelbare) Folgen der ursprünglichen Schädigungshandlung der Beklagten sind. Zwar kann ein grundsätzliches Interesse der jeweiligen Käufer nicht in Gänze abgelehnt werden, doch erachtet das Gericht eine Ausnahme von der verschärften bereicherungsrechtlichen Haftung unter diesen Umständen als nicht geboten.c) Letztlich darf allerdings auch auf der Grundlage des § 852 BGB mit Blick auf das schadensrechtliche Bereicherungsverbot - wie auch der ursprüngliche Anspruch - eine Verurteilung vorliegend nur Zug-um-Zug gegen Herausgabe und Übereignung des Fahrzeuges erfolgen.d) Die Notwendigkeit einer teleologischen Reduktion der Vorschrift des § 852 BGB dahingehend, Fälle in denen die Möglichkeit zur Anmeldung zur Musterfeststellungsklage bestand, vom Anwendungsbereich auszunehmen (so erkennbar nur Martinek JR 2021, 56), ist für das Gericht letztlich nicht erkennbar. Insbesondere ist der Begründung des Gesetzgebers (BT-Drs. 14/6040 S. 273) bereits das "ungeschriebene Erfordernis eines besonderen Prozesskostenrisikos" nicht entnehmbar.e) Der Anspruch aus § 852 BGB ist seinerseits auch nicht verjährt, da dessen 10-jährige Verjährungsfrist (§ 852 S. 2 BGB) erst mit Kaufvertragsschluss begonnen hat.III.Ein Anspruch auf Feststellung des Annahmeverzugs der Beklagten besteht vorliegend nicht, da sich die Beklagte nicht gemäß § 293 BGB im Annahmeverzug befindet. Ein solcher setzt voraus, dass der Schuldner dem Gläubiger die Leistung, so wie sie geschuldet wird, ordnungsgemäß anbietet (BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 Rn 85; sowie Urteil vom 30.07.2020-VI ZR 397/19; OLG Nürnberg, Urt. V. 28.10.2020, 12 U 2265/18; Grüneberg in: Palandt, 79. Aufl. 2020, § 293, Rn. 9). Ein derartiges Angebot fehlt vorliegend. Zwar verlangt die Klagepartei Rückzahlung des Kaufpreises unter Anrechnung einer Nutzungsentschädigung und kann auch in einer auf Zug-um-Zug-Leistung gerichteten Klageerhebung das Angebot der Zug-um-Zug zu erbringenden Leistung gesehen werden, doch bringt die Klagepartei eine deutlich niedriger Nutzungsentschädigung in Abzug. Eine derartige Zuvielforderung hindert allerdings den Eintritt des Annahmeverzugs (BGH, Urteil vom 20.7.2005 - VIII ZR 275/04; NJW 2005, 284), da das Angebot so vorgenommen werden muss, dass der Gläubiger nicht weiter zu tun braucht, als zuzugreifen und die Leistung anzunehmen (BGH, Urteil vom 25.05.2020 - VI ZR 252, 19; OLG Nürnberg, Urteil vom 16.12.2020 - 12 u 1983/19). Die potenziell weit reichenden Folgen des Annahmeverzugs können einem Gläubiger billigerweise dann nicht aufgebürdet werden, wenn sich der Schuldner zur Herausgabe selbst gegen Erhalt der ihm seinerseits zustehenden Leistung nicht bereit erklärt (OLG Koblenz, Urt. v. 16.9.2019 - 12 U 61/19).V.Der Klagepartei stehen ferner Prozesszinsen gemäß §§ 291, 288 Abs. 1 S. 2 BGB ab Klagezustellung zu.VII.Die Kostenentscheidung beruht auf §§ 91, 92 Abs. 1 ZPO. Die vorläufige Vollstreckbarkeit folgt aus §§ 708 Nr. 11, 709 S. 1, 2, 711 ZPO.C.Der Streitwert war entsprechend der klägerseitigen Bewertung des Zahlungsantrags festzusetzen. Nebenforderungen bleiben dabei außer Betracht. Der Antrag auf Feststellung des Annahmeverzugs hat keinen eigenständigen wirtschaftlichen Wert (BGH NJW-RR 2010, 1295; OLG Düsseldorf, Urt. v. 28.10.2016, Az. I-22 U 84/16, BeckRS 2016, 118018; OLG Naumburg, NJW-RR 2012, 1213).
+			
+			
+			
+			Permalink: https://openjur.de/u/2334855.html (https://oj.is/2334855)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate22
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen3
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

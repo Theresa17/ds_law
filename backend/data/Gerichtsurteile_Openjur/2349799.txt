@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungUrteil vom 13.07.2021 - 25 U 91/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Urteil vom 13.07.2021 - 25 U 91/20
+                      m. Fundstelle
+                      OLG Köln, Urteil vom 13.07.2021 - 25 U 91/20 = openJur 2021, 24844
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Urteil vom 13.07.2021 - 25 U 91/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 24844
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 24 O 167/20
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Auf die Berufung der Beklagten wird das Urteil des Landgerichts Köln vom 19. November 2020 (24 O 167/20) hinsichtlich der unter Ziffer 1. a) getroffenen Hauptsacheentscheidung teilweise abgeändert und wie folgt neu gefasst:Die Beklagte wird verurteilt, an den Kläger 47.818,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 5. Mai 2020 Zug um Zug gegen Rückgabe und Übereignung des Fahrzeugs Volkswagen A mit der Fahrgestellnummer B zu zahlen.Die weitergehende Berufung wird zurückgewiesen.Die Beklagte trägt die Kosten des Berufungsverfahrens.Das angefochtene Urteil und dieses Urteil sind ohne Sicherheitsleistung vorläufig vollstreckbar. Die Beklagte darf die Vollstreckung durch Sicherheitsleistung in Höhe von 110 % des vollstreckbaren Betrages abwenden, wenn nicht der Kläger vor der Vollstreckung Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrages leistet.Der Streitwert des Berufungsverfahrens wird auf bis 50.000 € festgesetzt.Die Revision wird nicht zugelassen.  
+				Gründe
+				Der Kläger verlangt Schadensersatz wegen des Erwerbs eines Dieselfahrzeugs.Der Kläger kaufte am 23. März 2015 ein von der Beklagten hergestelltes Fahrzeug (VW A 2,0 l TDI) zum Kaufpreis von 55.500,00 €. Das Fahrzeug hatte bei Übergabe einen Kilometerstand von 12.335 km. Es war mit einem Dieselmotor EA189 ausgerüstet, dessen Software einen Prüfstandsbetrieb als solchen erkannte, die Abgasreinigung in Abhängigkeit von der Umgebungstemperatur steuerte (Thermofenster) und eine Überschreitung des Euro-5-Grenzwerts für Stickoxide nicht unter allen Prüfbedingungen verhinderte.Mit Anwaltsschreiben vom 27. April 2020 (Anlage K13) forderte der Kläger die Beklagte Erstattung des Kaufpreises abzüglich einer Nutzungsentschädigung gegen Übereignung und Übergabe des Fahrzeugs und zur Übernahme der vorgerichtlichen Anwaltskosten auf.Am 25. Mai 2021 hatte der Wagen einen Kilometerstand von 52.152 km.Der Kläger hat behauptet, dass die Abgasreinigung außerhalb des Prüfstands so zurückgefahren werde, dass die gesetzlichen Grenzwerte um ein Vielfaches überschritten würden. Der Einsatz der Software sei von den maßgeblichen Entscheidungsträgern der Beklagten gebilligt worden, um durch Täuschung von Kunden eine bessere Marktstellung zu erreichen. In Kenntnis der eingesetzten Software und der damit verbundenen Risiken für den Bestand der Betriebszulassung hätte er den Wagen nicht gekauft. Bei Anrechnung der seinerseits gezogenen Nutzungen seien diese auf der Grundlage einer Gesamtlaufleistungserwartung von 500.000 km zu bewerten.Die Beklagte hat behauptet, dass im streitgegenständlichen Fahrzeug keine unzulässige Abschalteinrichtung zum Einsatz komme, die auf dem Prüfstand in einen abgasoptimierten Modus schalte, um die Emissionsgrenzwerte einzuhalten. Die Voraussetzungen lägen schon auf der Tatbestandsebene nicht vor, da auf das Emissionskontrollsystem nicht in unzulässiger Weise eingewirkt werde, wenn das Fahrzeug auf dem Prüfstand stehe. Das Emissionskontrollsystem arbeite vielmehr in beiden Fahrsituationen mit identischer Wirksamkeit.Als A-Modell sei das Fahrzeug nicht von dem KBA-Rückruf im Zusammenhang mit einer unzulässigen Abschalteinrichtung in Form der sogenannten EA189-Umschaltlogik erfasst. Die zuständige Abteilung der Beklagten, die Volkswagen Nutzfahrzeuge-Abteilung, habe die Betroffenheit des hier vorliegenden Fahrzeugtyps nach Aufkommen der NOx-Thematik im September 2015 aufgeklärt. Die Beklagte habe hierzu Ende 2015 die C GmbH, einen der im Bereich Verbrennungsmotoren und Fahrzeugtechnik führenden Entwicklungsdienstleister, beauftragt, um zu überprüfen, ob die Umschaltlogik im streitgegenständlichen Fahrzeugtyp aktiv ist. C habe daraufhin etwa zwei Monate lang an A-Fahrzeugen unterschiedlicher Laufleistungen und Baujahre diverse Messungen durchgeführt, dies sowohl im Prüfstandsbetrieb als auch im repräsentativen Straßenbetrieb, um anhand der Messergebnisse Rückschlüsse über etwaige Systematiken zur Optimierung auf dem Prüfstand ziehen zu können. Neben den Messungen habe die Beklagte C zahlreiche Dokumente sowie die Kalibrierstrategie der Motoren vorgelegt, die von C gesichtet und ausgewertet worden seien. Das Ergebnis dieser kostenintensiven und aufwendigen Messungen habe keinen Eingriff in die Motorsteuerung zur Optimierung der Emissionen auf dem Prüfstand erkennen lassen. Damit sei eine Umschaltlogik, wie sie in anderen EA189-Fahrzeugtypen zum Einsatz komme, sei in dem streitgegenständlichen Fahrzeugtyp "nicht aktiv". Anfang 2016 habe man die Messungen der C nebst den der C bereits zur Verfügung gestellten Dokumente dem KBA übermittelt. Hierauf basierend habe das KBA keine Unregelmäßigkeiten festgestellt.Das Thermofenster sei aus Gründen des Motorschutzes zulässig. Die Überschreitung des Stickstoffgrenzwerts unter bestimmten Prüfbedingungen sei Folge einer Konformitätsabweichung gewesen, die die durch ein freiwilliges Update am 6. April 2017 beseitigt worden sei.Im Falle einer Haftung sei bei der Bewertung der vom Kläger erlangten Nutzungen von einer Gesamtlaufleistung von höchstens 250.000 km auszugehen.Mit Urteil vom 19. November 2020, auf das wegen der tatsächlichen Feststellungen und der Begründung im Einzelnen Bezug genommen wird, hat das Landgericht die Beklagte unter Abweisung der weitergehenden Klage verurteilt, an den Kläger Zug und Zug gegen Rückgabe des Fahrzeugs 47.991,64 € sowie an vorgerichtlichen Rechtsverfolgungskosten weitere 1.822,96 € jeweils nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 5. Mai 2020 zu zahlen, und festgestellt, dass sich die Beklagte mit der Rücknahme des Fahrzeugs seit dem 5. Mai 2020 in Annahmeverzug befindet. Das Fahrzeug sei mit einem unzulässigen Thermofenster ausgestattet. Wegen sittenwidriger Schädigung schulde die Beklagte Erstattung des Kaufpreises abzüglich eines auf der Grundlage einer Gesamtlaufleistungserwartung von 300.000 km berechneten Nutzungswerts in Höhe von 7.508,36 €.Gegen das ihren Prozessbevollmächtigten am 24. November 2020 zugestellte Urteil hat die Beklagte mit einem am 22. Dezember 2020 bei Gericht eingegangenen Schriftsatz Berufung eingelegt. Die Berufungsbegründung ist innerhalb der bis zum 25. März 2021 verlängerten Begründungsfrist bei Gericht eingegangen.Die Beklagte ist der Auffassung, dass die Verwendung des Thermofensters weder unzulässig noch sittenwidrig gewesen sei. Das Landgericht habe übersehen, dass das Kraftfahrt-Bundesamt einen Rückruf der Fahrzeuge des hier vorliegenden Typs lediglich aufgrund einer Konformitätsabweichung und nicht aufgrund einer unzulässigen Abschalteinrichtung angeordnet habe und dass die Abweichung beim Fahrzeug des Klägers bereits vor dem Rückruf durch ein Softwareupdate beseitigt worden sei. Im Falle einer Haftung sei der anzurechnende Vorteil des Klägers nicht anhand der gefahrenen Kilometer, sondern anhand des ersparten Wertverlustes eines Alternativfahrzeugs zu berechnen. Die vom Landgericht zuerkannten Anwaltskosten seien nicht erstattungsfähig, weil auf Grund der weithin bekannten Rechtsansicht der Beklagten mit einer freiwilligen Zahlung nicht zu rechnen gewesen sei.Die Beklagte beantragt,das am 19. November 2020 verkündete Urteil des Landgerichts Köln, Az. 24 O 167/20, im Umfang der Beschwer der Beklagten abzuändern und die Klage vollumfänglich abzuweisen.Der Kläger beantragt,die Berufung zurückzuweisen.Wegen der Einzelheiten des Sach- und Streitstands wird auf die von den Parteien eingereichten Schriftsätze nebst Anlagen Bezug genommen.II.Die zulässige Berufung führt zu einer Kürzung des ausgeurteilten Betrags um den Wert der zwischenzeitlich gezogenen Nutzungsvorteile und bleibt im Übrigen ohne Erfolg.1.Der Kläger hat gegen die Beklagte einen Schadensersatzanspruch aus § 826 BGB.a)Der Kläger hat schlüssig dargelegt, dass das von der Beklagten Fahrzeug mit einer nach Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007 unzulässigen Abschalteinrichtung im Sinne von Art. 3 Nr. 10 derselben Verordnung (EG) in Form einer auf der Erkennung von Prüfstandssituationen beruhenden Umschaltlogik ausgestattet wurde.Der Kläger behauptet, dass sein Fahrzeug mit einer Software ausgestattet worden sei, die Prüfstandssituationen erkenne und die Abgasreinigung außerhalb des Prüfstands zurückfahre, so dass die gesetzlichen Grenzwerte um ein Vielfaches überschritten würden. Der Kläger stellt diese Behauptung nicht "ins Blaue hinein" auf, denn der im streitgegenständlichen Fahrzeug eingebaute Motor EA 189 wurde bei verschiedenen anderen Modellen der Beklagten unstreitig mit eben der Software ausgerüstet, die der Kläger beschreibt. Das mag nicht ausreichen, um den sicheren Rückschluss zu ziehen, dass auch das Fahrzeug des Klägers so ausgestattet ist (vgl. OLG Hamm, Urteil vom 11. Mai 2021 - 13 U 77/20, beklagtenseits vorgelegt als Anlage BB10, S. 12), erlaubt ihm aber, dies in prozessual zulässiger Weise zu behaupten. Sein Vorbringen ist auch nicht deshalb unbeachtlich, weil das Kraftfahrt-Bundesamt nach verschiedenen Auskünften in anderen Verfahren in Fahrzeugen des Modells A keine unzulässigen Abschalteinrichtungen festgestellt bzw. keine entsprechenden Erkenntnisse hat (vgl. BGH, Beschluss vom 28. Januar 2020 - VIII ZR 57/19, Rn. 13). Die von der Beklagten vorgelegten Auskünfte besagen nicht, dass das Kraftfahrt-Bundesamt auf Grund eigener oder fremder Untersuchungen positiv festgestellt hätte, dass eine auf einer Prüfstandserkennung beruhende Umschaltlogik nicht vorliegt.b)Die Beklagte ist dem schlüssigen Vorbringen des Klägers nicht in erheblicher Weise entgegengetreten.(1)Nach § 138 Abs. 2 ZPO hat sich jede Partei über die von dem Gegner behaupteten Tatsachen erklären. Sie darf sich also, wenn der Gegner seiner Erklärungslast nachgekommen ist, nicht mit einem bloßen Bestreiten begnügen, sondern muss erläutern, von welchem Sachverhalt sie ausgeht (BGH, Urteil vom 4. April 2014 - V ZR 275/12, Rn. 11). Dabei hängen die Anforderungen an die Substantiierungslast des Bestreitenden zunächst davon ab, wie substantiiert der darlegungspflichtige Gegner vorgetragen hat. In der Regel genügt gegenüber einer Tatsachenbehauptung des darlegungspflichtigen Klägers das einfache Bestreiten des Beklagten. Ob und inwieweit die nicht darlegungsbelastete Partei ihren Sachvortrag substantiieren muss, lässt sich nur aus dem Wechselspiel von Vortrag und Gegenvortrag bestimmen, wobei die Ergänzung und Aufgliederung des Sachvortrags bei hinreichendem Gegenvortrag immer zunächst Sache der darlegungs- und beweispflichtigen Partei ist. Eine sekundäre Darlegungslast trifft den Prozessgegner der primär darlegungsbelasteten Partei, wenn diese keine nähere Kenntnis der maßgeblichen Umstände und auch keine Möglichkeit zur weiteren Sachaufklärung hat, während der Bestreitende alle wesentlichen Tatsachen kennt und es ihm unschwer möglich und zumutbar ist, nähere Angaben zu machen. Dem Bestreitenden obliegt es im Rahmen seiner sekundären Darlegungslast, Nachforschungen zu unternehmen, wenn ihm dies zumutbar ist. Die sekundäre Darlegungslast führt jedoch weder zu einer Umkehr der Beweislast noch zu einer über die prozessuale Wahrheitspflicht und Erklärungslast (§ 138 Abs. 1 und 2 ZPO) hinausgehenden Verpflichtung des in Anspruch Genommenen, dem Anspruchsteller alle für seinen Prozesserfolg benötigten Informationen zu verschaffen. Genügt der Anspruchsgegner seiner sekundären Darlegungslast nicht, gilt die Behauptung des Anspruchstellers nach § 138 Abs. 3 ZPO als zugestanden (BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19, Rn. 36 f.).(2)Nach diesen Grundsätzen oblag der Beklagten eine substantiierte Einlassung zur Funktionsweise der Abgassteuerung im Rahmen des Wechselspiels von Vortrag und Gegenvortrag bereits deshalb, weil der Kläger mit der Prüfstandserkennung einen Steuerungsmechanismus substantiiert, nämlich so beschrieben hat, dass sich auf der Grundlage dieses Vorbringens entscheiden lässt, ob - dessen Richtigkeit unterstellt - eine nach Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007 unzulässige Abschalteinrichtung im Sinne von Art. 3 Nr. 10 derselben Verordnung vorliegt. Eine entsprechend substantiierte Schilderung war der Beklagten als Herstellerin des Motors im Rahmen der Erklärungslast nach § 138 Abs. 2 ZPO zumutbar.(3)Das Vorbringen der Beklagten, im streitgegenständlichen Fahrzeug komme keine unzulässige Abschalteinrichtung zum Einsatz, weil auf das Emissionskontrollsystem nicht in unzulässiger Weise eingewirkt werde, wenn das Fahrzeug auf dem Prüfstand stehe, das Emissionskontrollsystem vielmehr in beiden Fahrsituationen mit identischer Wirksamkeit arbeite, ist derart mit eigenen rechtlichen Wertungen der Beklagten verwoben, dass es eine hiervon unabhängige rechtliche Würdigung nicht erlaubt. Insbesondere ist aus einer Vielzahl von Verfahren gerichtsbekannt, dass die Beklagte die Rechtsauffassung vertritt, die Abgasrückführung innerhalb des Motors sei in Abgrenzung zur Abgasnachbehandlung kein Emissionskontrollsystem im Sinne von Art. 3 Nr. 10 der Verordnung (EG) Nr. 715/2007, so dass eine darauf einwirkende Umschaltlogik auch nicht auf ein solches System einwirken könne. Diese Auffassung ist zwar unzutreffend (EuGH, Urteil vom 17. Dezember 2020 - C-693/18, Rn. 90; vgl. auch Schlussanträge der Generalanwältin vom 30. April 2020, Rn. 97: "haarspalterische Unterscheidung"), ist aber von der Beklagten bis in jüngste Zeit (vgl. OLG Rostock, Urteil vom 11. Februar 2021 - 5 U 130/18, juris Rn. 29) immer wieder vertreten worden. Vor diesem Hintergrund ist die bereits erstinstanzlich vorgebrachte Einlassung, das "Emissionskontrollsystem" arbeite auf dem Prüfstand und außerhalb davon mit identischer Wirksamkeit, gegenüber dem Vorwurf einer Manipulation der innermotorischen Abgasrückführung bedeutungslos, weil die Beklagte diese jedenfalls seinerzeit nicht als Teil des Emissionskontrollsystems ansah.(4)Mit ihren Ausführungen zu den Feststellungen des von ihr beauftragten Entwicklungsdienstleisters und des auf dieser Grundlage unterbliebenen Rückrufs der hier vorliegenden Modellreihe durch das Kraftfahrt-Bundesamt ist die Beklagte ihrer Erklärungslast nach § 138 Abs. 2 ZPO ebenfalls nicht ausreichend nachgekommen.Die Beklagte hat nicht geltend gemacht, dass die Umschaltlogik mit Prüfstandserkennung bei der Programmierung der Steuerungssoftware für die in ihren A-Modellen eingesetzten EA189-Motoren überhaupt keine Verwendung gefunden habe. Der von der Beklagten beauftragte Entwicklungsdienstleister habe vielmehr überprüfen sollen, ob "die Umschaltlogik im streitgegenständlichen Fahrzeugtyp aktiv ist." Davon sei nicht auszugehen, weil kostenintensive und aufwendige Messungen keinen Eingriff in die Motorsteuerung auf dem Prüfstand hätten erkennen lassen.Abgesehen davon, dass an der Umschaltlogik nicht die Steuerung auf dem Prüfstand, sondern die Steuerung im normalen Fahrbetrieb problematisch ist, begegnet dieses Vorbringen bereits vom Ansatz her Bedenken. Es erweckt den Eindruck, die Beklagte sei darauf angewiesen, anhand aufwendiger Untersuchungen Indizien dafür zu suchen, ob eine in ihrem Auftrag entwickelte und von ihr selbst eingebaute Umschaltlogik in bestimmten Fahrzeugen aktiv ist oder nicht. Von der Beklagten als Herstellerin des Motors kann jedoch verlangt werden, dass sie die Funktionsweise ihrer Motorsteuerung unabhängig davon beschreibt, was ein anderes Unternehmen anhand diverser Messungen und der Auswertung "zahlreicher" Dokumente festgestellt hat. Zu den ihr im Rahmen ihrer sekundären Darlegungslast zumutbaren Nachforschungen gehört insbesondere die Auswertung einer etwa vorhandenen Dokumentation zur Funktionsweise der Software und zu den Einstellungen, mit denen sei in dem hier in Rede stehenden Modell, eingesetzt wurde, sowie die Rücksprache mit den an den insoweit maßgeblichen Entscheidungen und Vorgängen beteiligten Personen. Das Vorbringen der Beklagten lässt nicht erkennen, dass dies geschehen ist oder dass dem Drittunternehmen, auf dessen Erkenntnisse verwiesen wird, alle relevanten Informationen vorlagen (siehe hierzu auch die kritischen Anmerkungen auf den Seiten 27 ff. des von der Beklagten selbst zuletzt als Anlage BB9 vorgelegten Gutachtens aus einem Parallelverfahren). Die Erklärungslast der Beklagten beschränkt sich nicht auf das, was Dritte anhand der von der Beklagten zur Verfügung gestellten Informationen feststellen können. Dies gilt gleichermaßen für das Gutachten vom 1. September 2020 (Anlage BB9) und den C-Bericht vom 2. November 2015 (Anlage BB8), deren Vorlage auch keine Veranlassung zur Wiedereröffnung der mündlichen Verhandlung gibt.Hiervon unabhängig hat die Beklagte über das Zugeständnis des Thermofensters und das punktuelle Bestreiten einer "aktiven Umschaltlogik" hinaus nicht erläutert, von welchem Sachverhalt sie selbst ausgeht. Insbesondere hat sie sich nicht positiv dazu erklärt, zu welchem Zweck die Software neben der Umgebungstemperatur andere die Prüfstandssituation definierende Parameter ermittelt und ob und gegebenenfalls inwieweit die Funktion von Teilen des Emissionskontrollsystems von einzelnen dieser Parameter abhängt. Auch die Gründe dafür, dass die als Teil der Programmierung vorhandene "Umschaltlogik" in dem vom Kläger erworbenen Fahrzeugmodell nicht aktiviert wurden, sind nicht dargelegt worden. Der Verzicht auf eine geschlossene Sachverhaltsdarstellung ist nicht deshalb unschädlich, weil eine Haftung aus § 826 BGB ohne eine "aktive Umschaltlogik" von vornherein nicht in Betracht käme. Zwar ist eine unmittelbar an die Prüfstandssituation anknüpfende Umschaltlogik schon im Ansatz von einer Täuschungsabsicht geprägt, während es für eine Steuerung anhand einzelner Parameter der Prüfstandssituation (wie z. B. die Temperatur) redliche oder zumindest nicht besonders verwerfliche Motive geben kann. Eine entsprechende, im Rahmen von § 826 BGB erforderliche umfassende Würdigung von Inhalt, Beweggrund und Zweck des beanstandeten Verhaltens setzt indessen eine Sachverhaltsschilderung voraus, die der Beklagten als Herstellerin des Motors im Rahmen ihrer sekundären Darlegungslast über das schlichte Bestreiten der vom Kläger behaupteten Aktivierung der Prüfstandslogik hinaus zumutbar ist.c)Der weiteren Behauptung des Klägers, dass die Abschalteinrichtung mit Billigung der maßgeblichen Entscheidungsträger eingebaut wurde, ist die Beklagte ebenfalls nicht in erheblicher Weise entgegengetreten.d)Der insoweit nach § 138 Abs. 3 ZPO als unstreitig anzusehende Sachverhalt füllt die tatbestandlichen Voraussetzungen des § 826 BGB aus (vgl. BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19, Rn. 13 ff.). Dabei ist es unerheblich, dass das Fahrzeug des Klägers in den inzwischen fast sechs Jahren seit Bekanntwerden der Umschaltlogik tatsächlich keinem Rückruf wegen einer unzulässigen Abschalteinrichtung unterlag, denn dies war zum Zeitpunkt des Schadenseintritts nicht absehbar (vgl. BGH, aaO, Rn. 21). Von einer Schädigung durch einen ungewollten Vertragsschluss ist schon auf Grund der nach § 138 Abs. 3 ZPO zu unterstellenden aktiven Umschaltlogik auszugehen. Es kommt daher nicht darauf an, ob der Kläger seine Kaufentscheidung auch unter der selbstverständlichen Voraussetzung traf, dass sein Fahrzeug nicht mit einer unzulässigen Abschalteinrichtung ausgerüstet ist, die in zahlreichen anderen Motoren desselben Typs aktiviert ist und deren Inaktivität im selbst erworbenen Modell vom Hersteller nach dem "Aufkommen" der Thematik erst durch aufwendige Untersuchungen "aufgeklärt" werden muss.e)Damit kommt es auf den Gesichtspunkt des Thermofensters, auf den das Landgericht die Verurteilung noch ohne Berücksichtigung der erst nach Abschluss des erstinstanzlichen Verfahrens ergangenen Entscheidungen des Bundesgerichtshofs vom 19. Januar 2021 (VI ZR 433/19) und vom 9. März 2021 (VI ZR 889/20) gestützt hat, nicht entscheidend an. Die Parteien haben in beiden Instanzen nicht nur zum Thermofenster, sondern auch zu den Gesichtspunkten der vom Kläger behaupteten Umschaltlogik und der von der Beklagten eingeräumten Kompatibilitätsabweichung ausführlich vorgetragen und dabei auch den Umfang der Darlegungslast beider Seiten erörtert. In der Berufungsverhandlung sind alle drei Aspekte angesprochen worden.2.Auf den Schadensersatzanspruch muss sich der Kläger durch die Nutzung des Fahrzeugs erlangte Vorteile im Wert von 7.682,00 € anrechnen lassen.a) Die Bemessung der anzurechnenden Nutzungsvorteile anhand des Kaufpreises, der Restlaufleistungserwartung und der während der Nutzungszeit zurückgelegten Fahrstrecke wird vom Bundesgerichtshof nicht beanstandet (BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19, Rn. 82). Sie entspricht der Schätzungspraxis des Senats.b) Die vom Landgericht in Ansatz gebrachte Gesamtlaufleistungserwartung von 300.000 km ist nicht zu beanstanden. Die Beklagte zeigt nicht auf, aus welchen konkreten Gründen ein VW A 2.0 l TDI) eine Gesamtlaufleistung von 300.000 km in der Regel nicht erreichen sollte (vgl. BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 Rn. 83). Hieraus folgt für den Zeitpunkt des Erwerbs eine Restlaufleistungserwartung von 287.665 km (= 300.000 km - 12.335 km).c) Unter Berücksichtigung des Kaufpreises, des Kilometerstands bei Erwerb, des Kilometerstands am Tag der Berufungsverhandlung ergibt sich für die bis dahin zurückgelegte Strecke ein anzurechnender Nutzungswert von 7.682,00 € (= (52.152 km - 12.335 km) x 55.500 € / 287.665 km).3.Als weitere adäquate Folge der Schädigung sind auch die vorgerichtlichen Anwaltskosten zu ersetzen. Die vorgerichtliche Geltendmachung war im April 2020 eine zweckentsprechende Maßnahme der Rechtsverfolgung. Gegen die vom Landgericht zuerkannte Höhe des Erstattungsanspruchs (1,3-Gebühr aus einem Gegenstandswert bis 50.000 €) erhebt die Beklagte mit der Berufung zu Recht keine Beanstandungen.4.Der zuerkannten Zinsanspruch ergibt sich aus § 288 Abs. 1 BGB, die Feststellung des Annahmeverzugs aus §§ 293 ff. BGB.III.Die Kostenentscheidung beruht auf §§ 97, 92 Abs. 2 Nr. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus §§ 708 Nr. 10, 713 ZPO.IV.Die Revision ist nicht zuzulassen.Die Rechtssache hat keine grundsätzliche Bedeutung. Die für die konkret zu treffende Entscheidung maßgeblichen Rechtsfragen sind durch höchstrichterliche Rechtsprechung hinreichend geklärt.Eine Entscheidung des Revisionsgerichts ist auch nicht zur Fortbildung des Rechts oder zur Sicherung einer einheitlichen Rechtsprechung erforderlich. Die Beurteilung des Streitfalls beruht auf einer Würdigung des konkreten Vorbringens der Parteien im hier vorliegenden Einzelfall. Die von der Beklagtenseite zuletzt vorgelegte Entscheidung des Oberlandesgerichts Hamm vom 11. Mai 2021 (13 U 77/20) betrifft zwar dasselbe Fahrzeugmodell, aber einen anderen Sach- und Streitstand. Sie stützt sich darauf, dass der dortige Kläger bei zutreffender Würdigung seines Vorbringens (S. 12 ff.) nicht geltend gemacht hatte, sein Fahrzeug sei mit der aus anderen Fahrzeugen mit dem EA189-Motor bekannten Prüfstandserkennungssoftware ausgestattet. Eine entsprechende Würdigung lässt das Vorbringen des hiesigen Klägers nicht zu. Auf Grund ihres anderen Ausgangspunktes befasst sich die Entscheidung des Oberlandesgerichts Hamm konsequenterweise nicht mit der Frage, ob die Beklagte mit dem im dortigen Verfahren (anders als hier) jedenfalls ansatzweise vorhandenen Vorbringen zu den Gründen für die Wahl einer "abweichenden Auslegung" (S. 14) einer sekundären Darlegungslast genügt hat, sondern behandelt das Fehlen der Prüfstanderkennung als unstreitigen Prozessstoff (S. 15).
+			
+			
+			
+			Permalink: https://openjur.de/u/2349799.html (https://oj.is/2349799)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

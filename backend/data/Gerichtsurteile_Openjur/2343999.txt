@@ -1,0 +1,137 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG LandshutRechtsprechungEndurteil vom 07.05.2021 - 54 O 140/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Landshut, Endurteil vom 07.05.2021 - 54 O 140/21
+                      m. Fundstelle
+                      LG Landshut, Endurteil vom 07.05.2021 - 54 O 140/21 = openJur 2021, 20855
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Landshut, Endurteil vom 07.05.2021 - 54 O 140/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 20855
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				 
+				Tatbestand
+				Der Kläger macht Schadensersatz nach Kauf eines Dieselfahrzeugs geltend.Der Kläger erwarb am 31.01.2020 von einem Autohaus in - einen Audi SQ5 zum Preis von 37.850 €. In diesem Fahrzeug ist ein 3 Liter-Dieselmotor verbaut. Dieser Motor weist eine Leistung von 240 kW auf und ist in die Schadstoffklasse Euro 6 eingruppiert. Die herstellerinterne Typbezeichnung für dieses Fahrzeug lautet 8R, die Motorkennung CVUB.Die Beklagte wurde durch das Kraftfahrt-Bundesamt verpflichtet, die Motorsteuerungssoftware wegen des Einsatzes einer unzulässigen Abschalteinrichtung zu aktualisieren. Dieses Update wurde noch vor dem Erwerb durch den Kläger am 28.02.2019 auf das streitgegenständliche Fahrzeug eingespielt.Der Kläger behauptet, in dem Fahrzeug sei eine Prüfstandserkennung ähnlich dem von der V.  AG entwickelten EA189-Motor verbaut. Dadurch würde eine prüftstandsabhängige Abschalteinrichtung des Abgasrückführungs (AGR)-Systems bestehen, was unzulässig sei.Der Kläger beantragt zuletzt,I. Die Beklagte wird verurteilt, an die Klägerschaft 35.810,35 € zzgl. Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs Audi Sq5 TDI mit der Fahrzeug-Identifizierungsnummer -.II. Es wird festgestellt, dass sich die Beklagte mit der Entgegennahme des im Klageantrag zu 1. genannten Fahrzeugs in Annahmeverzug befindet.III. Die Beklagte wird verurteilt, die Klägerschaft von vorgerichtlichen Rechtsverfolgungskosten in Höhe von 3.037,48 € freizustellen.Die Beklagte beantragtdie Klage abzuweisen.Die Beklagte behauptet, bei einem Thermofenster würde es sich nicht um eine unzulässige Abschalteinrichtung handeln.Eine Beweisaufnahme hat nicht stattgefunden.Zur Vervollständigung des Tatbestands wird verwiesen auf sämtliche Schriftsätze der Parteien nebst Anlagen sowie sonstige Aktenteile. 
+				Gründe
+				Die zulässige Klage ist unbegründet.1) Ein Anspruch aus § 826 BGB besteht ebenso wenig wie ein Anspruch aus § 823 BGB.a) Gerichtsbekannt ist der hier streitgegenständliche Motor (Kennzeichen CVUB) von der sog. Nahezu-Strategie betroffen. Diese Strategie umfasst die software-mäßige Nachstellung der NEFZ-Bedingungen dergestalt, dass das Fahrzeug nur in den Umgebungsbedingungen des Prüfstands die Abgaswerte einhält, während bei Realbedingungen das Fahrzeug die Abgasreinigung anders durchführt, da die Bedingungen des Prüfstands im Realbetrieb faktisch nie gleichzeitig vorliegen. Die Betroffenheit dieses Motors ergibt sich beispielsweise aus der Anklageschrift gegen den ehemaligen Vorstandsvorsitzenden der Beklagten Rupert Stadler, die in mehreren Verfahren dem Gericht vorgelegt wurde.Zu Recht hat das Kraftfahrt-Bundesamt diese Nahezu-Strategie als unzulässige Abschalteinrichtung eingestuft, da der Effekt dieser Strategie der gleiche ist wie die Prüfstandsumschaltung beim EA189-Motor der V.  AG.b) Die grundsätzlich für derartige Motoren bestehende Haftung der Beklagten kann aber im vorliegenden Fall nicht zu einem kausalen Schaden beim Kläger führen, da dieser bei Abschluss des Kaufvertrags nicht mehr über das Nichtvorhandensein einer unzulässigen Abschalteinrichtung getäuscht werden konnte.Unstreitig ist die fehlerhafte Motorsteuerungssoftware bereits vor Erwerb durch den Kläger an dem Fahrzeug durch Einspielen eines vom Kraftahrt-Bundesamt zugelassenen Updates beseitigt worden, nämlich am 28.02.2019, fast ein Jahr vor Erwerb durch den Kläger.Damit entsprach aber das Fahrzeug zum Zeitpunkt des Erwerbs (und nur darauf kann es aus Sicht des Klägers ankommen) den entsprechenden Anforderungen der VO (EG) 715/2007. Der Kläger ist auf diesen Gesichtspunkt nicht eingegangen, stattdessen wurde in der Klageschrift zu einer Vielzahl von Rückrufen vorgetragen, die mit dem streitgegenständlichen Fahrzeug nichts zu tun haben und in der Replik zu Nachteilen des Updates vorgetragen, die hier nicht relevant sein können, da das Fahrzeug von Beginn an genau den Vorgaben der regulatorischen Bestimmungen entsprach.Der Kläger konnte in der Verhandlung auch nicht auf Frage des Gerichts erklären, warum er sich erneut für ein Fahrzeug der Beklagten entschieden hatte, nachdem das Vorgängerfahrzeug, ein Audi A4, ebenfalls vom Abgasskandal betroffen war und mit einem Update versehen werden musste. Dazu passt allerdings auch die Tatsache, dass der Kläger mangels Beratung durch die ihn vertretende Kanzlei keinerlei Ahnung von den Konsequenzen eines zusprechenden Urteils hat, nämlich der Verpflichtung zur Rückgabe des Fahrzeugs. Auf die relevanten Gesichtspunkte, hier das bereits vor Erwerb aufgespielte Update, wurde nicht vorgetragen, die "Folgen des Updates" (S. 5 der Replik vom 12.04.2021, Bl. 105 d.A.) sind ersichtlich ins Blaue hinein vorgetragen, da der Kläger auf Befragen des Gerichts ausdrücklich erklärte, dass er aufgrund der kurzen Besitzzeit zum Thema Verbrauch und Fahrleistung keine Aussagen tätigen könne. Ein Vergleich mit den Fahrleistungen vor dem Update ist dem Kläger ohnehin nicht möglich, da er das Fahrzeug ja bereits mit dem Update erworben hat.Ein möglicher Wertverlust, wie ihn der Kläger in der Replik behauptet, kann den Kläger gar nicht kausal betreffen, da er das Fahrzeug bereits mit dem geringeren Wert (sollte diese Behauptung überhaupt zutreffen) erworben hat.2) Mangels Hauptanspruchs besteht weder ein Anspruch auf Feststellung des Annahmeverzugs noch auf Ersatz außergerichtlicher Kosten.3) Die Kostenfolge ergibt sich aus § 91 ZPO. Die vorläufige Vollstreckbarkeit resultiert aus § 709 ZPO. Der Streitwert folgt der Klageforderung.
+			
+			
+			
+			Permalink: https://openjur.de/u/2343999.html (https://oj.is/2343999)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 28.11.2019 - 18 O 262/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 28.11.2019 - 18 O 262/18
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 28.11.2019 - 18 O 262/18 = openJur 2021, 15101
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 28.11.2019 - 18 O 262/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 15101
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1.Die Klage wird abgewiesen.2.Der Kläger hat die Kosten des Rechtsstreits zu tragen.3.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger verlangt von der Beklagten Schadensersatz aus vorsätzlicher sittenwidriger Schädigung.Der Kläger erwarb am 07.02.2017 einen Pkw vom Typ X ...# $$$ mit einem Kilometerstand von 156.000 km zu einem Preis von 10.000,- €. Das Fahrzeug, erstmals zugelassen am 02.06.2010, ist ausgestattet mit einem Dieselmotor des Typs $$...#. Die Laufleistung des Fahrzeugs bei Klageerhebung betrug - nach dem Vortrag des Klägers - 188.000 km.Fahrzeughersteller müssen nach der Verordnung (EG) Nr. 715/2007 vom 20.06.2007 nachweisen, dass die von ihnen produzierten (Neu-)Fahrzeuge über eine sog. Typengenehmigung verfügen (Art. 4 Abs. 1 S. 1 der Verordnung). Zur Erlangung dieser Typengenehmigung müssen die Fahrzeuge bestimmte Emissionsgrenzwerte (vgl. Anhang 1 der Verordnung) einhalten (Art. 5 Abs. 1 der Verordnung). Die Einhaltung dieser Werte wird unter Laborbedingungen gemessen. Die Verwendung von Abschalteinrichtungen, die die Wirkung von Emissionskontrollsystemen verringern, ist unzulässig (Art. 5 Abs. 2 S. 1 der Verordnung), es sei denn, dass die Einrichtung notwendig ist, um den Motor vor Beschädigung oder Unfall zu schützen und um den sicheren Betrieb des Fahrzeugs zu gewährleisten (Art. 5 Abs. 2 S. 2, lit. a der Verordnung). Dabei ist Abschalteinrichtung definiert als "ein Konstruktionsteil, das die Temperatur [...] oder sonstige Parameter ermittelt, um die Funktion eines beliebigen Teils des Emissionskontrollsystems zu ... verändern ..., wodurch die Wirksamkeit des Emissionskontrollsystems ... verringert wird" (Art. 3 Nr. 10 der Verordnung).Bei Abschluss des Kaufvertrags verfügte das streitgegenständliche Fahrzeug über eine Typengenehmigung für die Emissionsklasse Euro-5. In den Motor hatte die Beklagte eine Software integriert (im Folgenden: Thermofenster), die reguliert, bei welcher Außentemperatur es zu einer Abgasnachbehandlung zur Reduzierung des Stickoxidausstoßes kommt, wobei - nach dem Vortrag des Klägers - bei kühleren Temperaturen ab 14° Celsius und bei mehr als 33° Celsius die Abgasrückführung zurückgefahren wird.Mit Schreiben vom 25.06.2018 forderte der Kläger die Beklagte auf, das Fahrzeug bis zum 25.07.2018 zurückzunehmen.Der Kläger behauptet,das Fahrzeug sei von dem Dieselskandal betroffen. Der streitgegenständliche Motor verfüge über eine Steuerungssoftware, die den Ausstoß von Stickoxid (NOx) unter den Bedingungen des Prüfstandbetriebs optimiere. Nur unter den Bedingungen des Prüfstandes werde die Abgasreinigung vollständig aktiviert. Das von der Beklagten angebotene Softwareupdate führe dazu, dass die Dauerhaltbarkeit des Fahrzeugs leide.Die Beklagte habe durch das Inverkehrbringen des streitgegenständlichen Motors die Haftungsvoraussetzungen für eine vorsätzliche sittenwidrige Schädigung i.S.d. §§ 826, 31 BGB erfüllt. Hierzu behauptet er, die Vorstandsmitglieder der Beklagten hätten jedenfalls Kenntnis von der Verwendung der Umschaltsoftware gehabt. Er, der Kläger, habe das streitgegenständliche Fahrzeug gekauft, weil er von seiner Umweltfreundlichkeit und Gesetzmäßigkeit ausgegangen sei.Der Kläger meint,auch nach Auffassung des KBA sei die Software des Motors nicht gesetzeskonform.Der Kläger beantragt,1. Die Beklagte wird verurteilt, Zug um Zug gegen Übereignung und Herausgabe des Fahrzeugs der Marke X ...# $$$, Fahrgestellnummer $$$...#$... an den Kläger 9.360,- € nebst Zinsen in Höhe von 4% aus 10.000,- € vom 07.02.2017 bis zum 25.07.2018 sowie in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszins aus 9.360,- € seit dem 26.07.2018 zu zahlen.2. Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des Fahrzeugs gemäß vorstehender Ziffer 1. in Annahmeverzug befindet.3. Die Beklagte wird verurteilt, dem Kläger die Kosten des außergerichtlichen Vorgehens in Höhe von 887,03 € nebst Zinsen in Höhe von fünf Prozentpunkten über dem (jeweiligen) Basiszins seit dem 25.06.2018 zu erstatten.Die Beklagte beantragt,die Klage abzuweisenSie behauptet,die Abgasrückführung in dem streitgegenständlichen Fahrzeug sei bei bis zu zweistelligen Minusgraden aktiv.Ergänzend wird auf die gewechselten Schriftsätze nebst Anlagen verwiesen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.1) Der Kläger hat gegen die Beklagte keinen Anspruch auf Schadensersatz auf der Grundlage der vorgetragenen Tatsachen. Dabei kann dahinstehen, ob es sich bei dem Thermofenster um eine unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2 S. 1 der Verordnung (EG) Nr. 715/2007 handelt.2) Nach der Vorschrift des § 826 BGB ist derjenige, der in einer gegen die guten Sitten verstoßenden Weise einem anderen vorsätzlich Schaden zufügt, diesem zum Ersatz dieses Schadens verpflichtet. Diese Voraussetzungen liegen hinsichtlich der Beklagten auf der Grundlage der vorgetragenen Tatsachen nicht vor. Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Das Verhalten der Beklagten lässt sich jedoch nicht als sittenwidrig qualifizieren.Die genannte Verordnung sieht für die Beurteilung einer Abschaltvorrichtung als unzulässig bzw. ausnahmsweise zulässig spezifische technische bzw. normative Voraussetzungen vor ("Schutz des Motors vor Beschädigung" / "Notwendigkeit"). Das Urteil darüber, ob diese Voraussetzungen vorliegen oder nicht vorliegen, erforderte eine technische bzw. normative Bewertung im Einzelfall, die falsch oder richtig sein mag. Nicht jede - aus Sicht des Klägers - falsche Bewertung und die hierauf gegründeten Maßnahmen stellen sich indes zugleich als sittenwidrig dar; vielmehr ist ein Handeln "um jeden Preis" erforderlich, das auch einen Verstoß gegen gesetzliche Vorschriften billigend in Kauf nimmt (vgl. OLG Köln, Beschluss vom 04.07.2019, 3 U 148/18; OLG Köln, Beschluss vom 19.09.2019, 15 U 117/19; OLG München, Beschluss vom 29.08.2019, 8 U 1449/19). Dass diese Grenze überschritten ist, ist nicht erkennbar. Insoweit unterscheidet sich der hier zu entscheidende Fall maßgeblich von den Fällen des Z-Abgasskandals, in denen das Gericht ein sittenwidriges Verhalten der Z AG angenommen hat, weil die dort verwendete Software allein dafür gedacht war, die Prüfstandssituation zu erkennen und dort günstigere Emissionswerte zu erzielen als im normalen Fahrbetrieb.3) Unabhängig hiervon hat der Kläger nicht hinreichend dargetan, dass ihm durch den streitgegenständlichen Sachverhalt ein Schaden entstanden ist, der durch die Rückabwicklung des Kaufs zu kompensieren wäre. Weder hat er dargetan, dass ihm die Stilllegung des Fahrzeugs droht, noch dass der geltend gemachte Zustand nicht durch technische Maßnahmen beseitigt werden kann.4) Die Klage gegen die Beklagte ist daher auch mit dem Feststellungsantrag wie mit dem Anspruch auf die Nebenforderungen unbegründet.5) Angesichts dessen war ein Schriftsatznachlass für den Kläger zum Vorbringen der Beklagten aus deren Schriftsatz vom 20.11.2019 nicht veranlasst.6) Die prozessualen Nebenentscheidungen beruhen auf §§ 91 Abs. 1 S. 1, 709 S. 1 und 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2321259.html (https://oj.is/2321259)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

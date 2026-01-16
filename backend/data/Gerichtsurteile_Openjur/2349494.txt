@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG Nürnberg-FürthRechtsprechungEndurteil vom 28.10.2019 - 9 O 3379/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Nürnberg-Fürth, Endurteil vom 28.10.2019 - 9 O 3379/19
+                      m. Fundstelle
+                      LG Nürnberg-Fürth, Endurteil vom 28.10.2019 - 9 O 3379/19 = openJur 2021, 25340
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Nürnberg-Fürth, Endurteil vom 28.10.2019 - 9 O 3379/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 25340
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 34.500,00 € festgesetzt. 
+				Tatbestand
+				Die Klagepartei begehrt gegen die Beklagte die Rückabwicklung eines Kaufvertrags über einen PKW.Die Klagepartei erwarb am 18.03.2009 von der Audi ... GmbH einen Pkw ... zu einem Kaufpreis von 34.500,00 € bei einem Kilometerstand von 14.000 km. Das Fahrzeug wurde durch die Beklagte hergestellt und mit einem Dieselmotor des Typs EA189 ausgestattet, welchen die Beklagte hergestellt hat.In einer Adhoc- bzw. Pressemitteilungen vom 20.09.2015 und 22.09.2015 hat der Vorstandsvorsitzende der ... AG, ..., eingeräumt, dass auf den durch die ... AG hergestellten Motoren des Typs EA189 eine Software mit Umschaltlogik installiert sei, abhängig davon, ob das Fahrzeug in einem Testlabor den sog. "Neuen Europäischen Fahrzyklus (NEFZ), Modus 1, durchfährt oder auf der Straße betrieben wird, Modus 0. Nachfolgend hat die Beklagte ein Software-Update dazu bereit gestellt, das dazu führt, dass im Straßenverkehr ausschließlich noch ein adaptierter Modus 1 zur Anwendung kommt.Mit Schreiben ihres anwaltlich Bevollmächtigten vom 08.03.2019 (klägerisch vorgelegte Anlage) hat die Klagepartei die Beklagte mit Frist bis 22.03.2019 aufgefordert, ihr den Kaufpreis Zug um Zug gegen Übereignung und Übergabe des Fahrzeuges zu erstatten.Die Klagepartei behauptet, das Fahrzeug verfüge im Hinblick auf die Abgasreinigung über eine versteckte Software, eine sog. "Abschalteinrichtung", die erkennen könne, ob das Fahrzeug in einem Testlabor oder auf der Straße betrieben werde. Wenn sie einen Testzyklus erkenne, ändere sie die Abgasreinigung, um die Emissionen in Übereinstimmung mit den geltenden Normen zu bringen. Außerhalb des Testzyklus senke die Software die Emissionskontrolle, was zu NOx-Emissionen weit über die zulässigen Grenzen hinaus führe.Die Klagepartei behauptet, das angebotene und durchgeführte Software-Update führe zu massiven technischen Problemen, so sei erhöhter Kraftstoffverbrauch und Minderleistung des Motors zu befürchten, außerdem sinke die Lebensdauer der Motoren; in Einzelfällen komme es bereits zu Beschädigungen des Rußpartikelfilters.Die Klagepartei behauptet, sie habe das streitgegenständliche Fahrzeug am 13.05.2019 für 7.890,00 Euro bei einem Kilometerstand von 99.000 Kilometern verkauft.Die Klagepartei beantragt zuletzt,Die Beklagte wird verurteilt, an die Klagepartei 26.610,00 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 07.03.2019 zu zahlen.Die Beklagte wird verurteilt, die Klagepartei von den außergerichtlichen Rechtsanwaltskosten ihres Rechtsanwaltes M. H. in Höhe von 2.033,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte erklärt, die eingebaute Software stelle keine sog. "Abschalteinrichtung" dar, da sie erstens nicht auf das Emissionskontrollsystem einwirke, sondern dazu führe, dass Abgase beim Durchfahren des NEFZ (Neuer Europäischer Fahrzyklus) in den Motor zurückgeführt würden, bevor sie überhaupt das Emissionskontrollsystem erreichten und zweitens nicht im realen Fahrbetrieb auf das Emissionskontrollsystem einwirke. Die Software kenne zwei unterschiedliche Betriebsmodi, die die Abgasrückführung steuerten. Im NOxoptimierten Modus 1, der im NEFZ aktiv sei, komme es zu einer höheren Abgasrückführungsrate. Unter Fahrbedingungen, die im normalen Straßenverkehr vorzufinden seien, sei der partikeloptimierte Modus 0 aktiv. Das Fahrzeug befinde sich im normalen Straßenverkehr durchgehend im Modus 0. Nach der Installation des SoftwareUpdates werde das Fahrzeug nur noch im adaptierten Modus 1 betrieben, der bisher im Ursprungs-Modus 1 praktisch ausschließlich in Prüfsituationen aktiv gewesen sei.Die Beklagte bestreitet zudem, dass eines ihrer Vorstandsmitglieder im Zeitpunkt des Kaufs des Fahrzeugs durch die Klagepartei Kenntnis von der auf dem Motor des Typs EA189 installierten streitgegenständlichen Software gehabt habe.Die Beklagte beruft sich auf Verjährung.Die Klagepartei hat sich zum Klageregister der seit dem 01.11.2018 beim Oberlandesgericht Braunschweig unter dem Az. 4 MK 1/18 anhängigen Musterfeststellungsklage mit Anmeldung vom 05.04.2019 angemeldet und von dieser am 28.05.2019 wieder abgemeldet.Auf den schriftsätzlichen Parteivortrag inklusive jeweiliger Anlagen und das Terminsprotokoll wird Bezug genommen. 
+				Gründe
+				Die Klage ist zulässig, aber unbegründet.A. - ZulässigkeitDie örtliche Zuständigkeit des Landgerichts Nürnberg-Fürth insbesondere ergibt sich daraus, dass nach klägerischem Vortrag eine unerlaubte Handlung (Betrug in mittelbarer Täterschaft durch die Verkäuferin an deren Sitz) in Nürnberg begangen worden sein soll.B. - BegründetheitEin durchsetzbarer Anspruch gegen die Beklagte gemäß dem klägerischen Antrag ergibt sich aus dem klägerischen Vortrag nicht.I.Etwaige Schadensersatzansprüche der Klagepartei gegen die Beklagte sind verjährt.1. Ob der geltend gemachte Schadensersatzanspruch der Klagepartei bereits nach der regelmäßigen Verjährung gem. §§ 195, 199 Abs. 1 BGB verjährt ist, deren Verjährungsfrist mit dem Schluss des Jahres beginnt, in dem 1. der Anspruch entstanden ist und 2. der Gläubiger von den den Anspruch begründenden Umständen und der Person des Schuldners Kenntnis erlangte oder ohne grobe Fahrlässigkeit erlangen musste, kann vorliegend dahinstehen.Vorliegend war im Zeitpunkt der Klageerhebung jedenfalls die absolute Verjährungsfrist gem. §§ 195, 199 Abs. 3 Satz 1 Nr. 1 BGB abgelaufen. Danach verjähren Schadensersatzansprüche ohne Rücksicht auf die Kenntnis oder grob fahrlässige Unkenntnis in zehn Jahren von ihrer Entstehung an. Entstanden ist der Anspruch grundsätzlich im Zeitpunkt des Kaufvertragsschlusses, mit welchem die Klagepartei sich zur Begleichung des Kaufpreises verpflichtet und als Gegenleistung, dem klägerischen Vortrag zufolge lediglich ein Fahrzeug mit unzulässiger Abschalteinrichtung erhalten hat, vorliegend also am 18.03.2009. Damit lief die absolute Verjährungsfrist am 18.03.2019 ab. Die vorliegende Klage wurde erst am 04.06.2019 erhoben.2. Die Verjährung wurde hier auch nicht durch zwischen den Parteien schwebende Verhandlungen gem. § 203 Satz 1 BGB gehemmt. Verhandlung im Sinne des § 203 Satz 1 BGB ist jeder Meinungsaustausch über den Anspruch oder den Anspruch begründende Umstände, auf Grund dessen der Gläubiger davon ausgehen kann, dass sein Begehren von der Gegenseite noch nicht endgültig abgelehnt wird (Münchener Kommentar zum BGB/Grothe, 7. Auflage 2015, § 203, Rn. 5).Aus dem Vortrag der Klagepartei geht jedoch hervor, dass die Beklagte sich zu dem Schreiben ihres klägerischen Bevollmächtigten vom 08.03.2019 überhaupt nicht geäußert habe. Verhandlungen haben also nicht stattgefunden.3. Die Verjährung wurde hier auch nicht durch Erhebung der seit dem 01.11.2018 beim Oberlandesgericht Braunschweig unter dem Az. 4 MK 1/18 anhängigen Musterfeststellungsklage gehemmt, der sich die Klagepartei mit Anmeldung vom 05.04.2019 angeschlossen hat.Aus Wortlaut des § 204 Abs. 1 Nr. 1a BGB, dass die Verjährung gehemmt werde "durch die Erhebung einer Musterfeststellungsklage für einen Anspruch, den ein Gläubiger zu dem zu der Klage geführten Klageregister wirksam angemeldet hat" scheint zunächst hervorzugehen, dass es für die Verjährungshemmung ausschließlich auf den Zeitpunkt der Erhebung der Musterfeststellungsklage an sich ankomme, unabhängig davon, wann sich der Gläubiger ihr angeschlossen hat. Wenn der Gesetzeswortlaut sodann die betreffenden Ansprüche eingrenzt auf "Anspruch, den ein Gläubiger zu dem zu der Klage geführten Klageregister wirksam angemeldet hat", scheint darin auf den ersten Blick nicht die Einschränkung enthalten zu sein, dass es sich dabei um im Zeitpunkt der Anmeldung noch unverjährte Ansprüche handeln müsse.Dies ist jedoch auch im Lichte des Regelungszwecks der Verjährungsvorschriften in ihrer Gesamtheit zu sehen: Verjährungsvorschriften sollen dem Schuldner grundsätzlich die Rechtssicherheit geben, dass er nach Ablauf der jeweils einschlägigen Verjährungsfrist nicht mehr wird leisten müssen. Davon bilden die Vorschriften zur Verjährungshemmung wiederum eine Ausnahme, die ihrerseits eng umgrenzt und im Hinblick auf den Ablauf der Verjährungsfrist vorhersehbar sein muss: Durch Maßnahmen der Rechtsverfolgung macht der Gläubiger für den Schuldner erkennbar deutlich, dass er seinen Anspruch geltend machen will. Es ist deshalb gerechtfertigt, diesen Maßnahmen verjährungshemmende Wirkung zu geben: Der Anspruch soll nicht während der Rechtsverfolgung verjähren; der Schuldner kann sich wegen der Rechtsverfolgung darauf einrichten, dass er auch nach Ablauf der ursprünglichen Verjährungsfrist wird leisten müssen.(BeckOGK/Meller-Hannich, 1.9.2019, BGB § 204 Rn. 2) Eben dies ist aber nicht gegeben für den Fall, dass die Verjährungsfrist (egal, ob absolute oder regelmäßige) zunächst abläuft und der Gläubiger selbst seine Rechtsverfolgungsmaßnahme (Anmeldung zur Musterfeststellungsklage) sodann erst einleitet. Einen so weitgehenden Schutz verdient der Gläubiger nach dem Regelungszweck der Vorschriften zur Verjährungshemmung nicht. Diese verfolgen vielmehr auch das Ziel, dass der Schuldner sich nach Ablauf der Verjährungsfrist, sofern bis dahin kein hemmendes Ereignis eingetreten ist, darauf einrichten kann, nicht mehr leisten zu müssen. Das mögliche Argument, dass der Schuldner im Falle einer bereits anhängigen Musterfeststellungsklage grundsätzlich damit rechnen muss, dass eine Vielzahl von Verbrauchern sich dieser nach deren Anhängigkeit noch anschließen kann, führt zu keinem anderen Ergebnis, da die Annahme einer Hemmung auch für vor der Anmeldung bereits verjährte Ansprüche das Ausmaß der Forderungen, denen sich die Beklagte gegenüber sähe, ins Uferlose anwachsen ließe. Diesem berechtigten Interesse des Beklagten einer Musterfeststellungsklage, das Ausmaß der zu erwartenden Forderungen abschätzen zu können, trägt der Gesetzgeber auch mit den Einsichtsrechten der Beteiligten gem. §§ 607, 609 ZPO Rechnung.Die nach eingetretener Verjährung erfolgte Anmeldung zur Musterfeststellungsklage kann daher den Verjährungseintritt nicht rückwirkend beseitigen, unabhängig davon, ob es sich bei der abgelaufenen Verjährungsfrist um die regelmäßige (§§ 195, 199 Abs. 1 BGB) oder absolute Verjährungsfrist (§§ 195, 199 Abs. 3 BGB) handelt.Eine andere Bewertung rechtfertigt sich auch nicht unter teleologischer Auslegung der §§ 204 Abs. 1 Nr. 1a BGB, 606 ff. ZPO. Ausweislich der Gesetzesbegründung sollen die betroffenen Verbraucherinnen und Verbraucher lediglich "die Möglichkeit erhalten, ihre Ansprüche gegen die beklagte Partei mit verjährungshemmender Wirkung und ohne Anwaltszwang zu einem Klageregister anzumelden. Außerdem soll das Musterfeststellungsurteil Bindungswirkung für nachfolgende Klagen der Verbraucherinnen und Verbraucher entfalten." (Deutscher Bundestag Drucksache 19/2439 19. Wahlperiode 04.06.2018)Die Formulierung aus der Gesetzesbegründung "mit verjährungshemmender Wirkung" legt den Schluss nahe, dass dieser auf das klassische Verständnis des Verjährungsrechts Bezug nehmen wollte, das Institut der Verjährungshemmung also nur bei noch laufender Verjährungsfrist eingreifen lassen wollte. Eine Absicht, systemwidrig eine Verjährungshemmung eingreifen zu lassen für eine bereits abgelaufene Verjährungsfrist, die bereits eingetretene Verjährung also rückwirkend wieder zu beseitigen, wäre durch den Gesetzgeber deutlicher kenntlich gemacht worden.Zwar erfolgte seitens der Bundesregierung auf Bedenken aus dem Rechtsausschuss im Rahmen des Gesetzgebungsverfahrens eine Einordnung der Nichtanmeldung des Anspruchs als auflösende Bedingung für eine grundsätzlich mit Erhebung einer Musterfeststellungsklage angenommene Verjährungshemmung für sämtliche dieser unterfallende Ansprüche (Röthemeyer, Musterfeststellungsklage, Spezialkommentar zum 6. Buch ZPO, § 204 BGB, Rn. 5). Dass der Gesetzgeber sich entgegen den Bedenken aus dem Rechtsausschuss dieser Auffassung angeschlossen habe, wäre durch den Gesetzgeber aber ebenfalls deutlicher kenntlich gemacht worden. Eine gesetzgeberische Absicht, in das bislang gepflegte Verständnis des Verjährungsrechts derart revolutionär einzugreifen, erkennt das Gericht aus der Gesetzesbegründung nicht.3. Anhaltspunkte dafür, dass die Erhebung der Verjährungseinrede eine unzulässige Rechtsausübung i.S.d. § 242 BGB darstellt, ergeben sich aus dem Vortrag der Klagepartei nicht. An die Annahme, die Erhebung der Verjährungseinrede stelle unzulässige Rechtsausübung dar, sind strenge Anforderungen zu stellen (BGH, NJW-RR 1989, 215; IBRRS 2008, 4767). Angesichts des langen Zeitraums seit Entstehung etwaiger Ansprüche sind die engen Voraussetzungen, unter denen sich die Erhebung der Verjährungseinrede als unzulässige Rechtsausübung darstellen würde, nicht erfüllt.II.Der Klageantrag zu II. ist ebenfalls unbegründet, da sich die Beklagte zu 1) nicht mit einer Rücknahme des Fahrzeugs in Annahmeverzug gemäß § 293 BGB befindet. Wie vorstehend dargelegt, ist kein Rückgewährverhältnis zu der Beklagten entstanden.III.Der Klageantrag zu III. ist hingegen begründet, da der Klagepartei gegen die Beklagte aus § 823 Abs. 2 BGB i.V.m. § 263 StGB ein Anspruch auf Freistellung hinsichtlich der beantragten vorgerichtlichen Rechtsanwaltskosten in der sich aus dem Tenor ergebenden Höhe zusteht und auch durchsetzbar ist.1. Der Klagepartei stand insoweit hingegen im Zeitpunkt der Schadensentstehung (hier: Entstehung der Anwaltsgebühren mit anwaltlicher Tätigkeit am 08.03.2019) gegen die Beklagte ein Schadensersatzanspruch aus § 823 Abs. 2 BGB i.V.m. §§ 263 Abs. 1, 25 Abs. 1 Satz 2 StGB zu.Die Beklagte haftet als mittelbare Täterin gemäß § 25 Abs. 1 Fall 2 StGB für den durch die Verkäuferin als vorsatzloses Werkzeug begangenen Betrug (§ 263 Abs. 1 StGB) der Klagepartei auf Ersatz der ihr aus dem Kauf des streitgegenständlichen Pkw entstandenen Schäden (§ 823 Abs. 2 BGB).a) In das streitgegenständliche Fahrzeug ist ein von der Beklagten hergestellter Motor (EA 189) eingebaut worden, der eine unzulässige Abschalteinrichtung aufweist. Dies steht fest auf Grund des Bescheids des KBA vom 14.10.2015 bzw. 11.12.2015, auf den das KBA in seinem beklagtenseits als Anlage vorgelegten Schreiben Bezug nimmt. Zudem stellt ein Programm, das eine auf dem Prüfstand erhöhte Rückführung und Verbrennung von Abgasen (Modus 1) bei Fahrten auf öffentlichen Straßen abschaltet (Modus 0), eine Konstruktion dar, mit der eine wirksame Kontrolle und Einschränkung der im normalen Betrieb zu erwartenden Emissionen (hier: Stickoxide) verhindert wird.b) Diese Tatsache war zum Zeitpunkt des Abschlusses des streitgegenständlichen Kaufvertrags unstreitig weder der Klagepartei noch der Verkäuferin bekannt. Die Beklagte ist aber verpflichtet gewesen (§ 13 StGB), als Herstellerin des Motors über dessen (technische) Abweichung von den gesetzlichen Vorgaben sowohl für den Erhalt der Typengenehmigung (Art. 4 Absatz 2 VO/EG 715/2007) das KBA als auch, weil dies unterblieben war, spätestens zum Zeitpunkt des vorliegenden Fahrzeugkaufs die entsprechenden Kraftfahrzeug-Händler davon zu unterrichten. Es bestand daher bei der Klagepartei ein von der Beklagten durch Verschweigen verursachter Irrtum über das Vorhandensein einer unzulässigen Abschalteinrichtung.c) Mangels hinreichend konkreter Darlegungen der Beklagten ist davon auszugehen, dass der Vorstand, ein Mitglied des Vorstands oder ein anderer verfassungsmäßig berufener Vertreter (vgl. § 31 BGB) der Beklagten die Anordnung traf, die streitgegenständliche Manipulationssoftware in den Motor EA 189 einzubauen und dies geheim zu halten. Genauere Feststellungen diesbezüglich sind aufgrund der Besonderheiten der streitgegenständlichen Problematik nicht erforderlich, genauerer Vortrag hinsichtlich der bei der Beklagten verantwortlichen Personen kann von der Klagepartei, die Verbraucher ist und keinerlei Kenntnisse über die Strukturen der Beklagten haben muss, nicht verlangt werden. Vielmehr ist es allein die Beklagte, die interne Ermittlungen durchführen lässt und Auskunft über die handelnden Personen geben könnte, was sie aber weder im vorliegenden Verfahren noch in anderen, dem Gericht bekannten gleichgelagerten Fällen tut. Ein Hinweis gemäß § 139 ZPO musste diesbezüglich nicht erfolgen, da die Beklagte mehrfach geäußert hat, Einzelheiten zu handelnden Personen nicht mitteilen zu wollen. Auch nach Hinweisen anderer Gerichte (vgl. LG Offenburg, Urt. v. 12.05.2017, Az. 6 O 119/166, BeckRS 2017, 109841) erfolgte kein konkretisierender Vortrag diesbezüglich. Die Beklagte trägt hinsichtlich ihrer Entscheidungsstrukturen im Hinblick auf die streitgegenständliche Problematik die sekundäre Darlegungslast, insbesondere hinsichtlich des behaupteten Umstands, dass die Entscheidung unterhalb der Vorstandsebene getroffen worden sei (vgl. LG Paderborn, Urt. v. 07.04.2017, Az. 2 O 118/16). Diese Behauptung ist ohne nähere Begründung nicht glaubhaft. Vielmehr spricht bereits eine tatsächliche Vermutung dafür, dass eine Entscheidung mit dieser Tragweite (unstreitig sind von der streitgegenständlichen Problematik insgesamt mehr als 10 Millionen Fahrzeuge betroffen) nicht unterhalb der Vorstandsebene getroffen werden konnte. Hinzu kommt, dass angesichts der lange bekannten technischen Problematik, die Euro 5-Norm erfüllen zu müssen, ohne dass es gleichzeitig zu (nachteiligen) Leistungsänderungen oder Motorschäden kommt, für den Vorstand der Beklagten ein deutlicher Anlass zu einer genaueren Überprüfung der Abläufe in ihrem eigenen Unternehmen bei der Herstellung der Motoren bestanden hätte, als aus Sicht der für die Motorenentwicklung zuständigen Mitarbeiter die Auflösung dieser technischen Problematik auf einmal gelungen war (vgl. LG Krefeld, Urt. v. 19.07.2017, Az. 7 O 147/16, BeckRS 2017, 117776).Etwas anderes ergibt sich auch nicht im Hinblick auf die Rechtsprechung des BGH mit Urteil vom 28.06.2016, Az. VI ZR 536/15. Insoweit unterscheidet die streitgegenständliche Thematik sich grundsätzlich von der Thematik des zitierten BGH-Urteils. So handelte es sich in diesem BGH-Urteil um einen Fall der Prospekthaftung (§ 826 BGB), wobei es wohl nur ein Vorstandsmitglied der dortigen Beklagten gegeben hat und der BGH den personellen Charakter der Haftung nach § 826 BGB betont. Vorliegend handelt es sich bei der Beklagten um einen großen Autokonzern, bei dem die Entscheidungsstrukturen für Außenstehende nicht einsehbar sind, wobei zu berücksichtigen ist, dass der Begriff des "verfassungsmäßig berufenen Vertreters" i.S.d. § 31 BGB weit zu verstehen ist, so dass es sich nicht zwingend um ein Vorstandsmitglied handeln muss. Es genügt, dass ihm durch die allgemeine Betriebsregelung und Handhabung bedeutsame wesensmäßige Funktionen der juristischen Person zur selbständigen, eigenverantwortlichen Erfüllung zugewiesen sind und er die juristische Person insoweit repräsentiert (Palandt/Ellenberger, a.a.O., § 31 BGB, Rn. 6, m.w.N.). Hinzu kommt, dass auch nach BGH-Rechtsprechung die Frage der Wissenszurechnung von Organvertretern der juristischen Personen jedenfalls im Rahmen der Arglist nicht logischstringent, sondern nur in wertender Betrachtung zu entscheiden ist (vgl. BGH NJW 1996, 1339, m.w.N.).Daraus folgt, dass bereits aufgrund des bestehenden enormen Informationsgefälles zwischen den Kunden und der Beklagten diese jedenfalls im Rahmen der sekundären Darlegungslast (ggf. Zwischen-)Ergebnisse der internen Ermittlungen vorzutragen hat. Für die Beklagte wäre es möglich, die Entscheidungsstrukturen hinsichtlich der streitgegenständlichen Problematik so nachvollziehbar darzulegen, ohne einzelne Personen der Gefahr strafrechtlicher Verfolgung auszusetzen, dass die oben geäußerte tatsächliche Vermutung widerlegt wird. Ein solcher Vortrag fehlt jedoch.d) Der Abschluss des Kaufvertrags und die anschließende Zahlung des Kaufpreises durch die Klagepartei an die Verkäuferin stellte eine Vermögensverfügung dar, die zur Schadensentstehung führen kann und im Falle einer behördlichen Stilllegungsanordnung oder eines anderweitigen behördlich veranlassten Verlusts der Zulassung bzgl. des Fahrzeugs auch führen wird. Die Beklagte handelte in der Absicht, den Verkäufer als Dritten i.S.d. § 263 StGB zu bereichern. Die unmittelbare Drittbereicherung insoweit vorsatzloser Zwischenhändler stellt sich als notwendige Voraussetzung der Erlangung eines eigenen Vermögensvorteils dar, weil ohne diese kein breiter Vertrieb der Fahrzeuge möglich wäre (LG Krefeld, a.a.O.). Die Bereicherungsabsicht bestand hinsichtlich aller Personen, die das Fahrzeug schließlich in Verkehr bringen oder weiterverkaufen, unabhängig davon, ob es sich um Neu- oder Gebrauchtfahrzeuge handelte. Insbesondere war der Beklagten bewusst, dass die Fahrzeuge mit dem von ihr hergestellten Motor in der Regel mehrfach weiterverkauft werden. Die Beklagte muss die wirtschaftlichen Folgen der garantenpflichtwidrig unterlassenen Mitteilung über die streitgegenständliche Software ungeschehen machen, indem sie Schäden erstattet, die für das Vermögen der Klagepartei aus einer möglichen behördlichen Stilllegungsanordnung bzw. aus einem Verlust der Zulassung bzgl. des Fahrzeugs eintreten.e) Der Klagepartei ist in Höhe des sich aus dem Tenor zu 1. ergebenden Betrages ein Schaden entstanden.Aus einem im Zeitpunkt des Schreibens angemessenen Gegenstandswert (24.246,50 €, weil Nutzungsersatz für 85.000 gefahrene Kilometer in Höhe von 10.253,50 € abzuziehen war) ergeben sich bei einem angemessenen Ansatz von 1,3 Geschäftsgebühren vorgerichtliche Rechtsanwaltskosten in der aus dem Tenor ersichtlichen Höhe.IV.Die Kostenentscheidung beruht auf § 91 ZPO, da die Klagepartei voll unterliegt.V.Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 S. 1, 2 ZPO.C.Der Streitwert war entsprechend der klägerseitigen Bewertung des Zahlungsantrags festzusetzen. Nebenforderungen bleiben außer Betracht.
+			
+			
+			
+			Permalink: https://openjur.de/u/2349494.html (https://oj.is/2349494)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

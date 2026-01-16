@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNiedersachsenOrdentliche GerichtsbarkeitOLG BraunschweigRechtsprechungBeschluss vom 09.11.2020 - 9 W 34/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Braunschweig, Beschluss vom 09.11.2020 - 9 W 34/20
+                      m. Fundstelle
+                      OLG Braunschweig, Beschluss vom 09.11.2020 - 9 W 34/20 = openJur 2021, 18071
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Braunschweig, Beschluss vom 09.11.2020 - 9 W 34/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 18071
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				1. Bei Vorliegen zweier divergierender ausschließlicher Gerichtsstände gemäß § 32b Abs. 1 ZPO kommt eine Gerichtsstandsbestimmung gemäß § 36 Abs. 1 Nr. 3 ZPO nicht in Betracht. Im Anwendungsbereich von § 32b Abs. 1 ZPO liefe eine Gerichtsstandsbestimmung dessen Regelungszweck zuwider. Dieser verfolgt die Zielsetzung, sämtliche Anlegerklagen wegen Schäden aufgrund von Publizitätspflichtverletzungen beim Gericht am Sitz des betroffenen Emittenten bzw. betroffenen Anbieters zu bündeln (Abgrenzung zu OLG Braunschweig, Beschluss vom 30. Oktober 2017 – 1 W 31/17 –, juris, Rn. 64).2. Die gegen eine Bestimmung nach § 36 Abs. 1 Nr. 3 ZPO durchgreifenden rechtlichen Erwägungen sind davon unabhängig, wer im Einzelfall der betroffene Emittent ist und warum mehrere solcher verklagten Emittenten verschiedene ausschließliche Gerichtsstände nach § 32b ZPO haben; maßgeblich allein ist, dass sie verschiedene ausschließliche Gerichtsstände nach § 32b ZPO haben.3. Für Klagen, in denen ein Schadensersatzanspruch wegen falscher, irreführender oder unterlassener öffentlicher Kapitalmarktinformation geltend gemacht wird, ist, soweit es um die Emittentenpublizität am Sekundärmarkt geht, nicht entscheidend, wessen Wertpapier oder sonstige Vermögensanlage Gegenstand der fehlgeschlagenen Kapitalanlage ist (in Abgrenzung zu OLG Braunschweig, Beschluss vom 30. Oktober 2017 – 1 W 31/17 –, juris, Rn. 38). Betroffener Emittent ist vielmehr derjenige, dem eine Informationspflichtverletzung in Bezug auf die von ihm begebenen Finanzinstrumente vorgeworfen wird (Anschluss an BGH, Beschluss vom 21. Juli 2020 – II ZB 19/19 –, juris, Rn. 31, An-schluss an OLG Braunschweig, Beschluss vom 12.8.2019 – 3 Kap 1/16 –, juris, Rn. 59). Anzuknüpfen ist also an den jeweils erhobenen Vorwurf der Verletzung jeweils eigener originärer Informationspflichtverletzungen.4. Die Zielsetzung des Gesetzgebers, die Verfahren insoweit zu bündeln, hindert, wenn gleichgelagerte Klagen inländischer Anleger bereits erhoben oder zu erwarten sind, bei divergierenden ausschließlichen Gerichtsständen nach § 32b ZPO die Bestimmung des zuständigen Gerichts nach § 36 Abs. 1 Nr. 3 ZPO auch dann, wenn sich die Beklagten gegenüber einem ausländischen Kläger gem. Art. 26 Abs. 1 EuGVVO rügelos einlassen.5. Gegen die Ablehnung einer Bestimmung des zuständigen Gerichts nach § 36 ZPO ist eine Rechtsbeschwerde nicht statthaft. Für ihre Zulassung analog §§ 36 Abs. 3, 574 Abs. 1 Nr. 2, Abs. 2 ZPO ist kein Raum (entgegen OLG Stuttgart, Beschluss vom 24. Juli 2003 – 12 AR 5/03 –, juris, Rn. 17). 
+				
+				Tenor
+				Die Bestimmung des zuständigen Gerichts wird abgelehnt.  
+				Gründe
+				I.Mit ihrer Ende 2018 erhobenen Klage macht die Klägerin und Antragstellerin (im Folgenden: Klägerin) Kursdifferenzschäden aus dem Erwerb von P-Vorzugsaktien in einer Größenordnung von über 4 Millionen € geltend. Es handelt sich um eine Anlegerklage wegen kapitalmarktrechtlichen Pflichtverletzungen beider Beklagten im Zusammenhang mit dem Diesel-Abgasskandal. Insoweit sind vor den Oberlandesgerichten Braunschweig und Stuttgart Musterverfahren nach dem KapMuG anhängig, wobei im Braunschweiger Verfahren Feststellungsziele nur gegenüber der V AG, der hiesigen Beklagten zu 1, gegenständlich sind, vor dem Oberlandesgericht Stuttgart Feststellungsziele nur gegenüber der P Automobil Holding SE, der hiesigen Beklagten zu 2. Das Landgericht Braunschweig hat den vorliegenden Rechtsstreit bislang nicht gemäß § 8 KapMuG ausgesetzt. Die Klägerin wirft beiden Beklagten jeweils die Verletzung originär eigener kapitalmarktrechtlicher Pflichten vor, der Beklagten zu 2 zusätzlich Beihilfe zu den geltend gemachten kapitalmarktrechtlichen Pflichtverletzungen der Beklagten zu 1.Die Klägerin ist der Auffassung, die bisherige Auffassung des Oberlandesgerichts Braunschweig, wie sie im Beschluss des 1. Zivilsenats vom 27.10.2017 – 1 W 31/17 – zum Ausdruck gekommen sei, wonach in Fällen konkurrierender ausschließlicher Gerichtsstände nach § 32b ZPO eine Bestimmung eines für mehrere beklagte Emittenten gemeinsamen Gerichtsstandes entsprechend § 36 Abs. 1 Nr. 3 ZPO nicht in Betracht komme, sei überholt. Sie meint ferner, der 1. Zivilsenat des Oberlandesgerichts Braunschweig habe in der vorgenannten Entscheidung tragend darauf abgestellt, dass § 32b ZPO „die Zielsetzung sämtliche Anlegerklagen wegen Schäden aufgrund von Investitionen in ein Wertpapier bei einem Gericht zu bündeln“ [Hervorhebung durch die Klägerin] verfolge. Die Klägerin schließt daraus, der 1. Zivilsenat des Oberlandesgerichts Braunschweig habe dabei entscheidend auf das betroffene Finanzinstrument abgestellt. Insoweit seien aber inzwischen „die Karten neu gemischt“, weil in der Folgezeit der 3. Zivilsenat des Oberlandesgerichts Braunschweig im Teil-Musterbescheid gemäß Beschluss vom 12.8.2019 – 3 Kap 1/16 – und, diesen bestätigend, auch der Bundesgerichtshof im Beschluss vom 21.7.2020 – II ZB 19/19 – inzwischen klargestellt hätten, dass betroffener Emittent im Sinne von § 32b Abs. 1 Nr. 1 ZPO derjenige Emittent sei, den eine eigene Informationspflichtverletzung in Bezug auf die von ihm begebenen Finanzinstrumente treffe. Weil somit im Sinne von § 32b ZPO entscheidend sei, um welchen Vorwurf es gehe, nicht aber, um welche Finanzinstrumente, zum Beispiel V-Aktie einerseits oder P-Vorzugsaktien andererseits, sei die eine Bestimmung entsprechend § 36 Abs. 1 Nr. 3 ZPO ablehnende Auffassung des 1. Zivilsenats des Oberlandesgerichts Braunschweig nicht mehr zu halten.Ein gemeinsamer Gerichtsstand bezüglich beider Beklagten liege nicht vor. Die internationale Zuständigkeit sowie die örtliche Zuständigkeit des Landgerichts Braunschweig folgten bezüglich der Beklagten zu 1 gemäß Art. 26 Abs. 1 EuGVVO aus deren rügeloser Einlassung, die divergierende örtliche Zuständigkeit der Beklagten zu 2 ergebe sich aus § 32b ZPO.Die Klägerin beantragt,entsprechend § 36 Abs. 1 Nr. 3 ZPO eine für den vorliegenden Rechtsstreit insgesamt zuständiges Landgericht zu bestimmen,hilfsweisedie Rechtsbeschwerde zum Bundesgerichtshof zuzulassen.Wegen der weiteren Einzelheiten wird auf die klägerischen Schriftsätze vom 25.10.2020 (Bl. 507-510 d.A.) und 26.10.2020 (Bl. 511 f. d.A.) Bezug genommen.II.Eine Gerichtsstandsbestimmung gemäß bzw. entsprechend § 36 Abs. 1 Nr. 3 ZPO scheidet im vorliegenden Fall aus.1.Das Oberlandesgericht Braunschweig ist für die Gerichtsstandsbestimmung zuständig. Das zunächst höhere gemeinschaftliche Gericht für die beiden Beklagten ist der Bundesgerichtshof. Gemäß § 36 Abs. 2 ZPO ist in diesem Fall das zuständige Gericht durch das Oberlandesgericht zu bestimmen, zu dessen Bezirk das zuerst mit der Sache befasste Gericht gehört. Da im vorliegenden Fall zunächst das Landgericht Braunschweig mit der Sache befasst war, ist dies das Oberlandesgericht Braunschweig.2.Die Klägerin ist als solche befugt, ein – wie in Verfahren nach § 36 Abs. 1 Nr. 3 ZPO stets erforderlich – Gerichtsbestimmungsgesuch zu stellen (vgl. OLG München, Beschluss vom 25. Januar 2018 – 34 AR 216/17, Rn. 4, juris; Thomas/Putz-Hüßtege, ZPO, 41. Aufl. § 36 Rn. 17a).3.Zwar ist i. S. v. § 36 Abs. 1 Nr. 3 ZPO ein gemeinsamer Gerichtsstand der Beklagten nicht gegeben (a).Die begehrte Bestimmung des zuständigen Gerichts kommt jedoch nicht in Betracht. Eine Bestimmung des zuständigen Gerichts wäre, wie auch in vergleichbaren Fällen, mit dem Sinn und Zweck des § 32b ZPO – auch weiterhin – unvereinbar (b).a)Ein gemeinsamer Gerichtsstand liegt für die Beklagten nicht vor.Die für die beiden Beklagten jeweils geltenden besonderen ausschließlichen Gerichtsstände des § 32b ZPO liegen beim Landgericht Braunschweig bzw. beim Landgericht Stuttgart. Ob bezüglich der Beklagten zu 1 im Hinblick darauf, dass es sich bei der Klägerin um eine ausländische Klagepartei handelt, Art. 26 Abs. 1 EuGVVO die Zuständigkeit des Landgerichts Braunschweig begründet, kann dahinstehen. Weil das rügelose Einlassen der Beklagten zu 1 keine Wirkung für die Beklagte zu 2 entfaltet, ergibt sich auch insoweit kein gemeinsamer Gerichtsstand. In Bezug auf die Beklagte zu 2 rügen zu Recht beide Beklagte die örtliche Zuständigkeit des Landgerichts Braunschweig (Schriftsatz der Beklagten zu 1 vom 26.10.2020, Seite 2 = Bl. 333 d.A.; Schriftsatz der Beklagten zu 2 vom 23.10.2020, Seite 4 = Bl. 341 d.A.).Ein gemeinsamer Gerichtsstand folgt nicht aus § 32b Abs. 1 Nr. 1 ZPO, auch nicht mit Rücksicht darauf, dass die Klägerin der Beklagten zu 2 zusätzlich Beihilfe zur Informationspflichtverletzung der Beklagten zu 1 vorwirft (vgl. BGH, Beschluss vom 21.7.2020 – II ZB 19/19, Rn. 30; OLG Braunschweig, Beschluss vom 12.8.2019 – 3 Kap 1/16, Rn. 67ff., juris).b)Bei Vorliegen zweier divergierender ausschließlicher Gerichtsstände gemäß § 32b Abs. 1 ZPO kommt eine Gerichtsstandsbestimmung gemäß § 36 Abs. 1 Nr. 3 ZPO nicht in Betracht.a)Der 1. Zivilsenat des Oberlandesgerichts Braunschweig hat zu dieser Problematik in seinem Beschluss vom 30.10.2017 – 1 W 31/17 – ausgeführt:„Es ist zwar allgemein anerkannt, dass der Anwendungsbereich des § 36 Abs. 1 ZPO auch dann eröffnet ist, wenn für einen von mehreren Beklagten ein ausschließlicher Gerichtsstand begründet ist (vgl. nur BGH, Beschluss vom 07.02.2007 - X ARZ 423/06; juris-Rn. 14, Beschluss vom 16.02.1984 - I ARZ 395/84, juris-Rn. 9 sowie Beschluss vom 07.07.1972 - I ARZ 112/72, juris-Rn. 6). In einem solchen Fall kommt auch eine von dem ausschließlichen Gerichtsstand abweichende Bestimmung in Betracht (vgl. BGH, a.a.O.). Die Besonderheit einer ausschließlichen Zuständigkeit besteht darin, dass weder durch Parteivereinbarung noch durch rügelose Einlassung (§§ 38 - 40 ZPO) die Zuständigkeit eines anderen Gerichts begründet werden kann. Daraus folgt aber nicht, dass eine ausschließliche Zuständigkeit auch im Verfahren nach §§ 36, 37 ZPO unabänderlich festläge und dass es generell und grundsätzlich der Absicht des Gesetzes widerspräche, wenn in diesem Verfahren ein nicht ausschließlich zuständiges Gericht ausgewählt würde (BGH, Beschluss vom 16.02.1984 - I ARZ 395/84, juris-Rn. 9). Aus diesen Erwägungen folgt zugleich auch die grundsätzliche Zulässigkeit einer Gerichtsstandsbestimmung, wenn zwei ausschließliche Gerichtsstände vorliegen. Ist nämlich anerkannt, dass im Rahmen der Gerichtsstandsbestimmung gemäß §§ 36, 37 ZPO von dem ausschließlichen Gerichtsstand eines Beklagten zugunsten des allgemeinen Gerichtsstand eines anderen Beklagten abgewichen werden kann, ist kein Grund ersichtlich, weshalb es nicht auch möglich sein sollte, von einem ausschließlichen Gerichtsstand eines Beklagten zugunsten eines ausschließlichen Gerichtsstands eines anderen Beklagten abzuweichen. Dies entspricht auch der hierzu bislang ergangenen obergerichtlichen Rechtsprechung (vgl. BayObLG, Beschluss vom 07.07.2000 - 4Z AR 71/00, juris-Rn. 13; OLG Rostock, Beschluss vom 25.03.2010 - 10 UFH 1/09).Diese Grundsätze lassen sich aber nicht auf die ausschließliche Zuständigkeit gemäß § 32b ZPO übertragen. Im Anwendungsbereich von § 32b Abs. 1 ZPO würde eine Gerichtsstandsbestimmung evident dessen Regelungszweck zuwiderlaufen. Dieser verfolgt die Zielsetzung, sämtliche Anlegerklagen wegen Schäden aufgrund von Investitionen in ein Wertpapier bei einem Gericht zu bündeln (s.o.). Mit diesem Regelungszweck wäre es nicht vereinbar, einzelne Verfahren im Wege der Gerichtsstandsbestimmung aus diesem Verbund herauszulösen. Etwas anderes folgt auch nicht aus dem Regelungszweck des § 36 Abs. 1 Nr. 3 ZPO. Dieser dient im Wesentlichen der Prozessökonomie. In der vorliegenden Konstellation entspricht jedoch die Bündelung der Verfahren jeweils an dem gemäß § 32b ZPO begründeten Gerichtsstand der Prozessökonomie.“Der 1. Zivilsenat hat demzufolge – entgegen der Auffassung der ihn nur verkürzt zitierenden Klägerin – dabei allein auf mit § 32b ZPO verfolgten gesetzgeberischen Zweck abgestellt, Anlegerklagen zu bündeln. Dass dieser gesetzgeberische Zweck der Norm als maßgeblich zugrunde liegt, hat sich in der nachfolgenden Rechtsprechung des 3. Zivilsenats Oberlandesgerichts (a.a.O., Rn. 61, juris) und des ihn bestätigenden Bundesgerichtshofs (a.a.O., Rn. 41, juris) bestätigt.Dem schließt sich der für Gerichtsstandsbestimmungsverfahren geschäftsverteilungsmäßig seit dem 1.1.2020 zuständige erkennende 9. Zivilsenat an. Für die dabei, allein maßgeblichen Erwägungen ist es – rechtlich und auch bereits nach allgemeinen Denkgesetzen – ohne Bedeutung, woran bei der Prüfung anzuknüpfen ist, um im Einzelfall den im Sinne von § 32b Abs. 1 ZPO „betroffenen“ Emittenten festzustellen. Denn die vorgenannten, gegen eine Bestimmung nach § 36 Abs. 1 Nr. 3 ZPO durchgreifenden rechtlichen Erwägungen sind davon unabhängig, wer im Einzelfall der betroffene Emittent ist und warum mehrere solcher verklagten Emittenten verschiedene ausschließliche Gerichtsstände nach § 32b ZPO haben; maßgeblich allein ist, dass sie verschiedene ausschließliche Gerichtsstände nach § 32b ZPO haben. Letzteres gilt auch für die Beklagten des vorliegenden Rechtsstreits, wenngleich nunmehr anzuknüpfen ist an den jeweils erhobenen Vorwurf der Verletzung jeweils eigener originärer Informationspflichtverletzungen (vgl. BGH, Beschluss vom 21.7.2020 – II ZB 19/19, Rn. 31; OLG Braunschweig, Beschluss vom 12.8.2019 – 3 Kap 1/16, Rn. 59, jeweils zitiert nach juris).Eine Gerichtsstandsbestimmung nach § 36 Abs. 1 Nr. 3 ZPO kann vorliegend auch nicht mit Bestimmung des Landgerichts Braunschweig unter der etwaigen Annahme in Betracht kommen, es „fehle“ an zwei konkurrierenden Gerichtsständen, weil Art. 26 Abs. 1 EuGVVO in Bezug auf die Beklagte zu 1 eingreife und § 32b ZPO vorgehe. Auch wenn bereits Art. 26 Abs. 1 EuGVVO in Bezug auf die Beklagte zu 1, sofern diese sich rügelos einlässt, die örtliche Zuständigkeit im Verhältnis zu ausländischen Klägern begründet (vgl. OLG Braunschweig, Beschluss vom 10. Juni 2020 – 3 W 6/18, Rn. 49, 63-65, juris), ändert das nichts daran, dass die Bestimmung eines für beide Beklagte zuständigen Gerichts nach § 36 Abs. 1 Nr. 3 ZPO mit dem Sinn und Zweck der Regelung des § 32b ZPO nicht vereinbar wäre. Denn gerichts- wie allgemeinbekannt sind gleichzeitig zahlreiche parallele Anlegerklagen von inländischen Klägern gegen jeweils beide Parteien erhoben worden. Für den unabhängig davon für die Beklagte zu 2 unmittelbar Geltung beanspruchenden Gesetzeszweck des § 32b Abs. 1 ZPO, nämlich zur Bündelung der gegen sie gerichteten Klagen (beim Landgericht Stuttgart), ist die Wirkung einer Anwendung des Art. 26 Abs. 1 EuGVVO ohnehin bedeutungslos, weil sich die Beklagte zu 2 unstreitig nicht rügelos eingelassen hat.Nach alldem hat eine Bestimmung eines für beide Beklagten gemeinsam zuständigen Landgerichts zu unterbleiben.III.Eine Kostenentscheidung war nicht veranlasst, da im Verfahren nach § 36 ZPO– unabhängig von seinem Ausgang – vor dem Oberlandesgericht Gerichtskosten nicht entstehen (Zöller/Schultzky, ZPO, 33. Aufl., § 36 Rn. 44) und die anwaltlichen Kosten zum Rechtszug gehören (OLG Dresden RPfleger 2006, 44; Zöller/Schultzky, a.a.O.).IV.Die Voraussetzungen für eine Vorlage des Verfahrens an den Bundesgerichtshof liegen nicht vor.1.Gemäß § 36 Abs. 3 ZPO hat das Oberlandesgericht das Verfahren dem Bundesgerichtshof zur Entscheidung vorzulegen, wenn es bei der Bestimmung des zuständigen Gerichts in einer bestimmten Rechtsfrage von der Entscheidung eines anderen Oberlandesgerichts abweichen will. Ein solcher Fall liegt hier nicht vor. Zu den entscheidungsrelevanten Rechtsfragen gibt es noch keine obergerichtliche Rechtsprechung, von der eine Entscheidung des Senats abweichen könnte.Die Frage, ob gegen eine die Bestimmung des zuständigen Gerichts ablehnende Entscheidung die Zulassung der Rechtsbeschwerde statthaft ist (siehe nachfolgend zu 2), betrifft nicht die Frage „der Bestimmung des zuständigen Gerichts“ im Sinne von § 36 Abs. 3 ZPO und ist damit kein Gegenstand einer Divergenzvorlage.2.Die Zulassung der Rechtsbeschwerde ist nicht statthaft.a)Die Möglichkeit einer Vorlage des Bestimmungsverfahrens wegen grundsätzlicher Bedeutung sieht die Zivilprozessordnung nicht vor. Für eine analoge Anwendung der §§ 36 Abs. 3, 574 Abs. 1 Nr. 2, Abs. 2 ZPO ist insoweit kein Raum. § 511 Abs. 4 ZPO für die Berufung, § 543 Abs. 2 ZPO für die Revision und § 574 Abs. 2 ZPO für die Rechtsbeschwerde nennen explizit u. a. den Zulassungsgrund der grundsätzlichen Bedeutung der Rechtssache. Es bestehen keine Anhaltspunkte dafür, dass es sich bei der abweichenden Ausgestaltung des § 36 Abs. 3 ZPO um eine unbeabsichtigte Regelungslücke handelt (OLG Braunschweig, Beschl. v. 30.10.2017 – 1 W 31/17, Rn. 69, juris). Der Beschlussempfehlung und dem Bericht des Rechtsausschusses zu dem Gesetzentwurf der Bundesregierung (BT-Drucksache 13/5274), mit dem Absatz 3 des § 36 ZPO eingefügt wurde, lässt sich vielmehr entnehmen, dass durch § 36 Abs. 3 ZPO lediglich die in dem Gesetzeswortlaut zum Ausdruck kommende Divergenzvorlage geregelt werden sollte (vgl. BT-Drs. 13/9124, S. 46). Danach lässt „der dem § 36 ZPO anzufügende neue Absatz 3 […] die Divergenzvorlage des für die Gerichtsstandsbestimmung zuständigen Oberlandesgerichts zum Bundesgerichtshof zu, um die Einheitlichkeit der Rechtsprechung auf Dauer zu gewährleisten“ (a.a.O.; OLG Braunschweig, a.a.O.).b)Die von der Klägerin angeführte Entscheidung, durch die das Oberlandesgericht Stuttgart nach Ablehnung einer Gerichtsstandsbestimmung die Rechtsbeschwerde zugelassen hat (Beschl. v. 24.7.2003 – 12 AR 5/03, Rn. 17, juris), rechtfertigt keine andere Beurteilung.aa)Die Auffassung des Oberlandesgerichts Stuttgart, eine Überprüfung durch den Bundesgerichtshof müsse auch schon vor dem Zeitpunkt divergierender obergerichtlicher Entscheidungen möglich sein, basiert auf folgender tragender Erwägung: „Würde man dies anders sehen, würde die bislang von § 36 Abs. 3 beabsichtigte privilegierte Überprüfungsmöglichkeit im Rahmen der neuen Rechtsbeschwerdemöglichkeiten zu einer Einschränkung der Anrufung des Bundesgerichtshofes führen. Dass der Gesetzgeber dieses gewollt haben könnte, ist nicht ersichtlich“ (OLG Stuttgart, a.a.O., Rn. 21, juris [Unterstreichung hier durch den Senat]).Die Hypothese, mit § 36 Abs. 3 ZPO habe eine „privilegierte Überprüfungsmöglichkeit“ geschaffen werden sollen, ist bereits ohne Grundlage:In § 36 ZPO in der bis zum 31.3.1998 geltenden Fassung war ausnahmslos vorgesehen, dass für die Gerichtsstandsbestimmung stets das nächsthöhere gemeinsame Gericht zuständig war. Das führte dazu, dass immer der Bundesgerichtshof zuständig war, wenn die Bestimmung von Gerichten verschiedener Oberlandesgerichtsbezirke in Betracht kam. Der Gesetzgeber hat hier nur wegen zunehmender Arbeitsbelastung des Bundesgerichtshofs eine Änderung des Gesetzes für erforderlich erachtet und allein deshalb die an sich originär beim Bundesgerichtshof liegende Entscheidungskompetenz auf die Oberlandesgerichte übertragen (BT-Drucksache 13/9124, S. 46). Er hat dabei gesehen, dass dadurch gleichzeitig die Gefahr von Entscheidungsdivergenzen geschaffen wurde. Ausschließlich zum Ausgleich solcher Divergenzen hat der Gesetzgeber die Divergenzvorlage in § 36 Abs. 3 ZPO eingeführt (vgl. BT-Drucksache 13/9124). Es gibt keine Anhaltspunkte dafür, dass dem Gesetzgeber im Rahmen der nur wenige Jahre später in Kraft getretenen großen Zivilprozessreform diese Erwägungen aus dem Blick geraten wären. Vielmehr hat er die Zuständigkeit des Bundesgerichtshofs in Bestimmungsverfahren durch § 36 Abs. 3 ZPO auch durch das Zivilprozessreformgesetz unverändert gelassen, was für eine abschließende Regel spricht (vgl. BayObLG, Beschluss vom 10.6.2002 – 1Z AR 50/02, Rn. 8, juris). Allein aus dem „Unverändertbleiben“ des § 36 Abs. 3 ZPO auf eine Regelungslücke zu schließen, ist denkgesetzlich nicht zulässig.bb)Soweit das Oberlandesgericht Stuttgart argumentiert, es sei nicht nachvollziehbar, dass von Oberlandesgerichten getroffene § 36 ZPO-Entscheidungen außerhalb von Divergenzen nicht überprüfbar seien, Entscheidungen eines Landgerichts hingegen schon in Fällen, in denen eine Gerichtsstandsbestimmung an Orten zweier Amtsgerichtsbezirke desselben Landgerichtsbezirks in Betracht kämen (a.a.O., Rn. 23, juris), so ist dies nur ein scheinbarer Widerspruch. Denn dieses Ergebnis beruht letztlich auf dem Instanzenzug. Ihn zu verlängern muss dem Gesetzgeber vorbehalten bleiben.cc)Entgegen der Auffassung des Oberlandesgerichts Stuttgart spricht der Umstand, dass eine gemäß § 36 Abs. 2 ZPO zur Bestimmung des zuständigen Gerichts berufenes Oberlandesgericht anstelle des Bundesgerichtshofs entscheidet, dessen Entscheidungen einer Überprüfung ohnehin entzogen sind, durchaus gegen die Statthaftigkeit der Rechtsbeschwerde. Das ergibt sich aus den oben dargelegten Gesetzesmotiven für die Einführung des seit 1.4.1998 unverändert geltenden § 36 Abs. 2 und 3 ZPO.Soweit das Oberlandesgericht Stuttgart dagegen einwendet, durch einen klärenden Beschluss des Bundesgerichtshofes könnten die Ziele der Fortbildung des Rechts sowie die Sicherung einer einheitlichen Rechtsprechung erreicht werden, hingegen vermöge eine vom Oberlandesgericht getroffene Entscheidung eine solche Wirkung nicht herbeizuführen (a.a.O., Rn. 24), unterliegt es einem Zirkelschluss. Dieser liegt darin, dass das Oberlandesgericht Stuttgart das von ihm bejahte Bedürfnis einer erweiterten Rechtsbeschwerdemöglichkeit gleichzeitig als Begründung einer entsprechenden (scheinbaren) Regelungslücke anführt. Das ist weder überzeugend, noch zulässig.Unabhängig davon stammen die divergierenden Auffassungen des Bayerischen Obersten Landesgerichts (a.a.O.) und des Oberlandesgerichts Stuttgart (a.a.O.) aus den Jahren 2002 bzw. 2003. Seitdem hat der Gesetzgeber bereits mehrfach ändernd in die reformierte Zivilprozessordnung eingegriffen, sei es beispielsweise rechtsmittelerweiternd (vgl. § 522 Abs. 3 ZPO in der ab 27.10.2011 geltenden Fassung), sei es beispielsweise durch Einführung einer dauerhaften Rechtsmittelbeschränkung (so durch den seit 1.1.2020 geltenden § 544 Abs. 2 Nr. 1 ZPO statt des bislang stets befristeten § 26 Nr. 8 EGZPO). Von der Gelegenheit, die vom Oberlandesgericht Stuttgart angeführte, tatsächlich aber nur scheinbare Regelungslücke zu schließen, hat der Gesetzgeber jeweils keinen Gebrauch gemacht.c)Die Frage, ob eine weitergehende Zuständigkeitskonzentration bei konkurrierenden ausschließlichen Gerichtsständen nach § 32b ZPO über eine entsprechende Anwendung von § 36 Abs. 1 Nr. 3 ZPO erreicht werden kann, hat der Bundesgerichtshof ausdrücklich nicht entschieden („… und muss auch vom Senat nicht beantwortet werden“; Beschluss vom 21.7.2020 – II ZB 19/19, Rn. 48, juris). Dass er bei der – im Übrigen ebenfalls neutralen – Darlegung der Rechtsfrage hinzugesetzt hat „(Roth in Stein/Jonas, ZPO, 23. Aufl., § 32b Rn. 10; aA OLG Braunschweig, ZIP 2018, 348, 352)“, ist ebenfalls nicht geeignet, über § 36 Abs. 3 ZPO hinausgehend das Erfordernis einer Rechtsbeschwerde-möglichkeit zu begründen. Auch dazu ist den Gründen der BGH-Entscheidung (a.a.O.) nichts zu entnehmen.Unabhängig davon existiert kein gesicherter und allgemein anerkannter Erfahrungssatz, wonach die Reihenfolge von Zitierungen, wenn in Entscheidungsgründen ein Meinungsstreit – wie hier – lediglich dargelegt wird, eine „Sympathie“ des Gerichts für die eigene Beantwortung der Meinungsstreitfrage erkennen lässt.V.Da vorliegend die Bestimmung des zuständigen Gerichts abgelehnt worden ist, brauchten die Beklagten vor dieser Entscheidung nicht angehört zu werden (vgl. BGH, Urt. v. 28.9.2004 – IX ZR 155/03, Rn. 17).
+			
+			
+			
+			Permalink: https://openjur.de/u/2340134.html (https://oj.is/2340134)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate11
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

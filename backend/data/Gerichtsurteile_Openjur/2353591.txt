@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBaden-WürttembergOrdentliche GerichtsbarkeitLG FreiburgRechtsprechungUrteil vom 29.06.2018 - 8 O 116/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Freiburg, Urteil vom 29.06.2018 - 8 O 116/17
+                      m. Fundstelle
+                      LG Freiburg, Urteil vom 29.06.2018 - 8 O 116/17 = openJur 2021, 28108
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Freiburg, Urteil vom 29.06.2018 - 8 O 116/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 28108
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				1. Eine unzulässige Abschalteinrichtung im Abgasreinigungssystem begründet einen Schadensersatzanspruch wegen vorsätzlicher sittenwidriger Schädigung aus § 826 BGB.2. Eine auf (bloße) Feststellung der Haftpflicht gerichtete Klage ist zulässig. Der Kläger hat ein Interesse an der Feststellung der Haftung, ein Vorrang der Leistungsklage besteht nicht. 
+				
+				Tenor
+				1. Es wird festgestellt, dass die Beklagte verpflichtet ist, dem Kläger Schadensersatz zu bezahlen für Schäden, die aus der Manipulation des Fahrzeugs VW Golf, FIN-Nr.: ... durch die Beklagte resultieren.2. Die Beklagte wird verurteilt, den Kläger von den durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 958,19 EUR freizustellen.3. Im übrigen wird die Klage abgewiesen.4. Die Beklagte hat die Kosten des Rechtsstreits zu tragen.5. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des vollstreckbaren Betrages vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 10.560,00 EUR (80% des Kaufpreises in Höhe von 13.200,- EUR) festgesetzt. 
+				Tatbestand
+				Der Kläger macht gegen die Beklagte als Herstellerin einen Anspruch auf Feststellung einer Schadensersatzverpflichtung sowie die Erstattung vorgerichtlicher Rechtsanwaltskosten im Hinblick auf einen im Jahr 2014 als Gebrauchtfahrzeug erworbenen VW Golf Variant geltend, der vom sogenannten Abgasskandal des VW-Konzerns betroffen ist.I.Der Kläger kaufte am 31.05.2014 in München von einem Herrn P. B. auf Grundlage eines schriftlichen Kaufvertrages den Pkw VW Golf Variant mit der FIN-Nr. .... Der vereinbarte Gebrauchtwagenkaufpreis des Fahrzeugs, das zu diesem Zeitpunkt einen Kilometerstand von 56.500 km und bereits zwei Vorbesitzer aufwies, betrug 13.200,00 EUR (Anlage K 1).Nach Zahlung in zwei Raten wurde das Gebrauchtfahrzeug am 07.06.2014 an den Kläger übergeben.Das Fahrzeug wird von einem Dieselmotor des Typs EA 189 EU5 angetrieben, der von der Beklagten entwickelt und hergestellt worden ist und die Schadstoffklasse Euro Norm 5 einhalten soll. Die Steuerungssoftware dieses Motors besitzt zwei unterschiedliche Betriebsmodi. Im Betriebsmodus 1, der den Neuen Europäischen Fahrzyklus (NEFZ) erkennt und dem Prüfstandbetrieb des Fahrzeugs entspricht, ist die Abgasrückführungsrate höher als im Betriebsmodus 0, der im normalen Straßenverkehr aktiv ist. Nur im Betriebsmodus 1 hält das Fahrzeug die gesetzlich vorgeschriebenen Stickoxidwerte ein.Das Fahrzeug war am 28.04.2010 erstmals zugelassen (Anlage K 1) und in diesem Zeitraum auch von der Beklagten als Herstellerin in Verkehr gebracht worden.Im September 2015 teilte die Beklagte mit, dass es im Hinblick auf die verwendete Steuerungssoftware zu Unregelmäßigkeiten bei Dieselmotoren des Typs EA 189 EU5 gekommen sei.Das Kraftfahrtbundesamt (KBA) ordnete wegen der im Dieselmotor des Typs EA 189 EU5 enthaltenen Steuerungssoftware einen Rückruf sämtlicher betroffenen Fahrzeuge der Marke VW an und wies die Beklagte an, die Fahrzeuge in einen Zustand zu versetzen, den die öffentlich-rechtlichen Vorschiften vorschreiben.Die Beklagte kündigte am 16.12.2015 öffentlich an, dass ein Rückruf der betroffenen Fahrzeuge beabsichtigt sei und Partnerbetriebe die notwendigen Nachbesserungsmaßnahmen ausführen werden.Der Kläger lehnte die Durchführung des Software-Updates bei seinem Fahrzeug ab.Ohne Veränderungen am Dieselmotor des Typs EA 189 EU5 und der damit im normalen Straßenbetrieb einhergehenden Abgasrückführungsrate droht in letzter Konsequenz der Verlust der Fahrzeugzulassung.Der Kläger hatte seinen Prozessbevollmächtigten ein außergerichtliches Mandat zur Durchsetzung von Ansprüchen gegen die gegen die Beklagte erteilt. Die vorgerichtliche anwaltliche Tätigkeit gegenüber der Beklagten verlief erfolglos.II.Der Kläger behauptet, dass das von ihm am 31.05.2014 erworbene Fahrzeug im Hinblick auf die Steuerungssoftware des Dieselmotors EA 189 EU5 einen Mangel aufweise.Der Kläger behauptet außerdem, verfassungsmäßig berufene Vertreter der Beklagten hätten schon bei Entwicklung des Dieselmotors des Typs EA 189 EU5 von der manipulativen Softwarekonfiguration und deren Auswirkungen auf die Abgasrückführungsrate im Prüfstandbetrieb des Fahrzeugs gewusst. Um gleichwohl maximale Verkaufsprofite für die Beklagte zu erzielen, sei die Manipulationstechnik mit Wissen und Wollen der verfassungsmäßig berufenen Vertreter der Beklagten in den Fahrzeugen der Marke VW eingesetzt, Inverkehr gebracht und dabei Gesundheitsschäden der Bevölkerung durch unzulässige Abgaswerte im Normalbetrieb ebenso billigend in Kauf genommen worden, wie finanzielle Schäden der Fahrzeugkunden infolge der unzulässigen Softwarekonfiguration.Die vom KBA geforderte Nachbesserung des Fahrzeugs sei nicht geeignet, den Mangel zu beseitigen. Ohne Mangelbeseitigung seien ein Entzug der Fahrzeugzulassung sowie Kfz-Steuernachforderungen zu befürchten. Bei Durchführung des angebotenen Softwareupdates sei dagegen mit Nachteilen wie erhöhtem Verbrauch, geringerer Fahrzeugleistung und schnellerem Verschleiß des Motors und des Abgassystems zu rechnen. Zudem sei der Wiederverkaufswert des Fahrzeugs gemindert. Damit seien in jedem Fall finanzielle Einbußen zu erwarten, die aber derzeit noch nicht konkret bezifferbar seien.Der Kläger ist der Ansicht, aus diesem Grund habe er ein rechtliches Interesse daran, eine Ersatzpflicht der Beklagten für sämtliche Schäden, die aus der Manipulation des Fahrzeugs resultierten, feststellen zu lassen.Der Kläger ist schließlich der Auffassung, die außergerichtliche anwaltliche Tätigkeit gegen die Beklagte sei derart umfangreich, bedeutend und schwierig gewesen, dass der Kläger verpflichtet sei, eine 2,0 Geschäftsgebühr nach Nr. 2300 RVG nebst Auslagenpauschale und Umsatzsteuer aus einem Gegenstandswert von 13.200,- EUR - mithin 1.570,80 EUR zu zahlen.III.Der Kläger hat beantragt (AS. 841):1. Es wird festgestellt, dass die Beklagte verpflichtet ist, dem Kläger Schadensersatz zu bezahlen für Schäden, die aus der Manipulation des Fahrzeugs VW Golf, FIN-Nr.: ... durch die Beklagte resultieren.2. Die Beklagte wird verurteilt, den Kläger von den durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.570,80 EUR freizustellen.Die Beklagte hat beantragt:Die Klage wird abgewiesen.IV.Die Beklagte hält die Klage in Bezug auf den gestellten Feststellungsantrag bereits für unzulässig.Die Beklagte behauptet, die Softwarekonfiguration bei Dieselmotoren des Typs EA 189 EU5 stelle keinen Mangel dar. Durch das bereits angebotene, aber vom Kläger abgelehnte Softwareupdate lasse sich zudem ein vorschriftsmäßiger Fahrzeugzustand herstellen, ohne dass hierdurch finanzielle Nachteile entstünden.Die Beklagte meint außerdem, die Softwarekonfiguration bei Dieselmotoren des Typs EA 189 EU5 habe weder sittenwidrigen Zwecken gedient noch seien durch deren Verwendung Schutzgesetze im Sinne von § 823 Abs. 2 BGB verletzt worden.Eine Verpflichtung zur Freistellung von vorgerichtlichen Anwaltskosten bestehe nicht.V.Wegen des weiteren Sach- und Rechtsvortrags wird auf die gewechselten Schriftsätze nebst Anlagen sowie auf das Protokoll der mündlichen Verhandlung vom 19.03.2018 (AS. 837 ff.) Bezug genommen. 
+				Gründe
+				I.Die Klage ist zulässig.1. Das Landgericht Freiburg ist für das gesamte Klagebegehren örtlich zuständig. Die vom Kläger auf Grundlage von § 826 BGB schlüssig geltend gemachte deliktische Beeinträchtigung seines Vermögens tritt an seinem Wohnort in M. - mithin einem Begehungsort im Sinne von § 32 ZPO - ein.2. Der Kläger besitzt auch das notwendige Feststellungsinteresse gemäß § 256 ZPO, um mit Klagantrag Ziffer 1) im Wege einer Feststellungsklage seine Rechte gegen die Beklagte verfolgen zu können, ohne dass er hierdurch durch den grundsätzlich bestehenden Vorrang der Leistungsklage gehindert wäre. Der Feststellungsantrag ist zudem hinreichend bestimmt.a) Eine Feststellungsklage, mit der - wie vorliegend im Falle eines bereits veräußerten Fahrzeugs - die Ersatzpflicht für reine Vermögensschäden festgestellt werden soll, ist nur zulässig, wenn zumindest eine hinreichende Wahrscheinlichkeit eines auf die Verletzungshandlung zurückzuführenden Schadenseintritts besteht (BGH, Urteil vom 24. Januar 2006 - XI ZR 384/03, BGHZ 166, 84 Rn. 27 m.w.N.). Daran fehlt es, wenn der Eintritt irgendeines Schadens ungewiss ist (BGH, Urteil vom 10. Juli 2014 - IX ZR 197/12, ZIP 2014, 2150 Rn. 11 m.w.N.). Der Kläger muss die Wahrscheinlichkeit eines Schadenseintritts substantiiert dartun (BGH, Beschluss vom 04. März 2015 - IV ZR 36/14 -, Rn. 17, juris).Diesen Darlegungsanforderungen ist der Kläger vorliegend gerecht geworden, indem er sich darauf berufen hat, dass ihm bei einer Weiternutzung des Fahrzeugs entweder - ohne Durchführung des vom KBA geforderten Software-Updates - ein Verlust der Fahrzeugzulassung oder - bei Durchführung des Softwareupdates - nicht konkret bezifferbare finanzielle Einbußen durch den von ihm behaupteten erhöhten Kraftstoffverbrauch, geringere Fahrzeugleistung sowie einen schnelleren Verschleiß des Motors und des Abgassystems droht.Vor dem Hintergrund, dass die Folgen und Konsequenzen des vom KBA geforderten Software-Updates über zweieinhalb Jahren nach Bekanntwerden der speziellen Softwarekonfiguration des Dieselmotortyps EA 189 weder technisch noch rechtlich abschließend zu bewerten sind, hält das Gericht die vom Kläger benannten negativen Folgen für so hinreichend wahrscheinlich, dass sein Feststellungsinteresse zu bejahen ist.b) Soweit für den Kläger bereits einzelne Schäden konkret entstanden sein sollten - wie dies für das offensichtlich vorrangig, aber nicht ausschließlich verfolgte Kaufvertragsrückabwicklungsinteresse oder den behaupteten verminderten Verkaufswert der Fall sein dürfte - scheitert das Feststellungsinteresse des Klägers im Übrigen auch nicht am Vorrang der Leistungsklage. Zwar fehlt das Feststellungsinteresse im Sinne von § 256 ZPO grundsätzlich, wenn ein Kläger sein Klageziel mit einer Leistungsklage erreichen kann, weil es ihm möglich und zumutbar ist, den Anspruch, dessen er sich berühmt, zu beziffern (BGH MDR 2003, 1304, Rn. 16; BGH NJW 2000, 1256, Rn. 11, BGH NJW 1993, 2993, Rn. 13). Eine auf Feststellung des Anspruchsgrundes beschränkte Feststellungsklage ist in diesem Fall unzulässig (Zöller/Greger, ZPO, 32. Aufl. 2018, § 256 ZPO, Rn. 7a).Da der Kläger sich aber derzeit noch nicht entscheiden muss, ob er im Falle einer rechtskräftig festgestellten Ersatzpflicht der Beklagten sich des Fahrzeugs im Wege einer Kaufvertragsrückabwicklung entledigen oder doch lieber behalten und Ersatz für erst künftig möglicherweise bezifferbare Schäden durchsetzen will, entfällt sein Feststellungsinteresse nicht.3) Schließlich ist der Klagantrag Ziffer 1) trotz seiner zu weiten sprachlichen Fassung ("...Schäden, die aus der Manipulation des Fahrzeugs...resultieren ") hinreichend bestimmt, da unter Berücksichtigung sämtlicher klägerischen Darlegungen unmissverständlich klar wird, dass unter dem Begriff der "Manipulation" allein die Steuerungssoftware des Dieselmotors des Typs EA 189 EU5 gemeint ist, die sicherstellt, dass der Betriebsmodus 1 des Motors nur im Prüfstandbetrieb aktiv ist und nur in dieser Prüfsituation die Abgasrückführungsrate derart erhöht, dass die gesetzlichen Stickoxidwerte eingehalten werden.II.Die Klage ist auch ganz überwiegend begründet. Dem Kläger steht der eingeklagte Feststellungsanspruch wie auch ein Teil des Freistellungsanspruchs bezüglich der vorgerichtlichen Rechtsanwaltskosten zu. Nur soweit der Freistellungsanspruch überhöht geltend gemacht wurde, ist die Klage teilweise abzuweisen.1. Der Kläger hat einen Anspruch auf Feststellung des ihm gegen die Beklagte zustehenden Schadensersatzanspruchs aus § 826 BGB i. V. m. § 31 BGB.Indem die Beklagte den von ihr entwickelten, hergestellten und mit der inkriminierten Steuerungssoftware ausgestatteten Dieselmotor des Typs EA 189 EU5 im streitgegenständlichen Fahrzeug verbaut und dieses im Frühjahr 2010 Inverkehr gebracht hat, hat sie dem Kläger in einer gegen die guten Sitten verstoßenden Weise vorsätzlich Schaden zugefügt. Die Beklagte hat als juristische Person gemäß § 31 BGB für den Schaden einzustehen, den ihre "verfassungsmäßig berufener Vertreter" durch eine unerlaubte Handlung dem Kläger zugefügt haben.a) Die schädigende Handlung der "verfassungsmäßig berufener Vertreter" der Beklagten liegt in dem Inverkehrbringen des vorgenannten Dieselmotors, dessen Motorsteuerungssoftware darauf ausgerichtet ist, mit seinem Betriebsmodus 1, der den Neuen Europäischen Fahrzyklus (NEFZ) erkennt und dem Prüfstandbetrieb des Fahrzeugs entspricht, die Abgasrückführungsrate im Verhältnis zum Betriebsmodus 0, der im normalen Straßenverkehr aktiv ist, zu erhöhen und damit im Prüfstandbetrieb die Einhaltung der gesetzlich vorgeschriebenen Stickoxidwerte vorzutäuschen.b) Durch diese schädigende Handlung hat der Kläger einen Schaden erlitten.§ 826 BGB setzt nicht die Verletzung bestimmter Rechte oder Rechtsgüter voraus. Ein Schaden i.S.v. § 826 BGB ist nicht nur jede nachteilige Einwirkung auf die Vermögenslage, sondern darüber hinaus jede Beeinträchtigung eines rechtlich anerkannten Interesses. Es genügt jede Schadenszufügung im weitesten Sinne, also jede nachteilige Einwirkung auf die Vermögenslage in ihrer Gesamtheit. Danach stellt auch der Abschluss eines Geschäfts, welches nicht den Zielen des Geschädigten entspricht, einen Schaden im Rahmen des § 826 BGB dar, ohne dass es darauf ankäme, ob die erhaltene Leistung wirtschaftlich betrachtet hinter der Gegenleistung zurückbleibt (BGHZ 160, 149 ff., Rn. 41 BGH, Urteil vom 28. Oktober 2014 - VI ZR 15/14 -, Rn. 17 ff.)Gemessen hieran besteht der Schaden des Klägers bereits darin, dass er, als er das Fahrzeug am 31.05.2014 in Unkenntnis der Motorsteuerungssoftware ein mangelhaftes Fahrzeug erworben hatte. Denn dieses weist aufgrund seiner Motorsteuerungssoftware - und der damit einhergehenden Konsequenz, entweder die Fahrzeugzulassung zu verlieren oder sich auf eine vom KBA vorgeschriebene technische Nachbesserungsmaßnahme einlassen zu müssen - keine Beschaffenheit auf, die bei Sachen gleicher Art üblich ist und die der Käufer nach der Art der Sache erwarten darf (vgl. OLG Köln NJW-RR 2018, 373, Rn. 39 ff.).c) Der Eintritt des Schadens ist der schädigenden Handlung der Beklagten - dem Inverkehrbringen des Fahrzeugs mit der betreffenden Motorsteuerungssoftware - auch kausal (§ 287 ZPO) zuzurechnen, da das Gericht davon überzeugt ist, dass der Kläger, wie von ihm dargelegt, das Fahrzeug bei Kenntnis dieses Mangels nicht - nach allgemeiner Lebenserfahrung jedenfalls nicht zu den Bedingungen des am 31.05.2014 zu einem Kaufpreis von 13.200,- EUR geschlossenen Kaufvertrages - erworben hätte.d) Das schädigende Verhalten der Beklagten ist als sittenwidrig einzustufen.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann (BGH, Urteil vom 28. Juni 2016 - VI ZR 536/15 -, Rn. 16).Die Verwerflichkeit kann sich insbesondere aus einer bewussten Täuschung ergeben (vgl. BGH, Urteil vom 21. Dezember 2004 - VI ZR 306/03).Vor diesem Hintergrund ist das Inverkehrbringen des Fahrzeugs mit der betreffenden Motorsteuerungssoftware als sittenwidrig zu qualifizieren.Die Beklagte hat mit erheblichem technischem Aufwand in den Jahren 2008 bis 2015 in Europa planmäßig Millionen Fahrzeuge mit dem Dieselmotortyp EA 189 mit der fraglichen Motorsteuerungssoftware in Verkehr gebracht, um zentrale gesetzliche Umweltschutzvorschriften durch Täuschung der Prüfsysteme umgehen zu können, um auf dieser Weise auf zulässige, aber teure technische Maßnahmen verzichten zu können, die den Profit der Beklagten reduziert hätten. Ein solches auf Täuschung der Behörden und der Verbraucher basierendes Verhalten stellt nicht mehr das sittlich gebilligte Profitstreben in einer sozialen und ökologischen europäischen Marktwirtschaft dar, sondern entspricht einer anstößigen Profitgier auf Kosten der Umwelt und der Gesundheit der Menschen.e) In subjektiver Hinsicht handelten die "verfassungsmäßig berufener Vertreter" der Beklagten sowohl was die schädigende Handlung als auch den beim Kläger als Endkunde zu erwartenden Schaden anging, vorsätzlich. Zugleich hatten sie auch Kenntnis von den die Sittenwidrigkeit begründenden Umständen.Der Kläger hat in seiner Replik vom 01.02.2018 ab Seite 108 ff (insbesondere ab Seite 113 ff.) konkrete Personen benannt, die bereits zum Zeitpunkt des Inverkehrbringens des streitgegenständlichen Fahrzeugs im Frühjahr 2010 als verfassungsmäßig berufenen Vertreter im Sinne des § 31 BGB den objektiven und subjektiven Tatbestand des § 826 BGB verwirklicht haben sollen.Es hätte nun der Beklagten im Rahmen der sie treffenden sekundären Darlegungslast oblegen, diesen Sachvortrag konkret zu bestreiten und sich nicht auf den rechtlich unerheblichen Pauschalvortrag, dass "kein Vorstand im aktienrechtlichen Sinne" den objektiven und subjektiven Tatbestand des § 826 BGB verwirklicht hätte, beschränken dürfen. Im Unterschied zum Kläger hätte die Beklagte, die wiederholt behauptet, die Vorgänge in ihrem Unternehmen seit mehr als zweieinhalb Jahren umfassend aufzuklären, ohne weiteres die zumutbare Möglichkeit gehabt, ihren Sachvortrag zu konkretisieren und - sofern beabsichtigt - ein qualifiziertes Bestreiten zu den vom Kläger benannten Personen zu erbringen.Aufgrund des unzureichenden Bestreitens der Beklagten, gilt der klägerische Vortrag zu den Personen, die alle bereits zum Zeitpunkt des Inverkehrbringens des streitgegenständlichen Fahrzeugs im Frühjahr 2010 als verfassungsmäßig berufener Vertreter im Sinne des § 31 BGB den objektiven und subjektiven Tatbestand des § 826 BGB verwirklicht haben sollen, als zugestanden.2. Der teilweise begründete Anspruch auf Freistellung von vorgerichtlichen Rechtsanwaltskosten folgt ebenfalls aus § 826 i.V.m. § 31 BGB. Die geltend gemachten Anwaltskosten sind Teil des dem Kläger entstandenen Schadens. Die Angelegenheit ist aber - entgegen des Anscheins den die umfangreichen Schriftsätze vermitteln wollen - weder besonders schwierig, umfangreich oder bedeutend, so dass lediglich die Abrechnung einer 1,3 Geschäftsgebühr gemäß Nr. 2300 VV, §§ 13, 14 RVG als Mittelgebühr aus einem Gegenstandswert von maximal 10.560,00 EUR (Feststellungsbegehren = 80% des Kaufpreises von 13.200,- EUR als höchstens anzunehmendes wirtschaftliches Interesse) zuzüglich einer Auslagenpauschale gemäß Nr. 7002 VV und der Umsatzsteuer, mithin die Freistellung von einem Betrag in Höhe von 958,19 EUR, gerechtfertigt ist. Die geltend gemachten weitergehenden Freistellungsansprüche sind demnach als unbegründet abzuweisen.III.Die Kostenentscheidung folgt aus § 91 ZPO, der Ausspruch zur vorläufigen Vollstreckbarkeit beruht auf § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2353591.html (https://oj.is/2353591)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate10
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

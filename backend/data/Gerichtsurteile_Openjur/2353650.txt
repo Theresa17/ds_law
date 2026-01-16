@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBaden-WürttembergOrdentliche GerichtsbarkeitLG FreiburgRechtsprechungUrteil vom 04.04.2019 - 11 O 186/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Freiburg, Urteil vom 04.04.2019 - 11 O 186/18
+                      m. Fundstelle
+                      LG Freiburg, Urteil vom 04.04.2019 - 11 O 186/18 = openJur 2021, 28173
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Freiburg, Urteil vom 04.04.2019 - 11 O 186/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 28173
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Im Verfahren gegen den Hersteller eines vom sog. "Abgasskandal" betroffenen Fahrzeugs ist ein bloßer Feststellungsantrag zulässig und begründet. 
+				
+				Tenor
+				1. Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klägerin Schadensersatz zu leisten für Schäden, die aus der Manipulation der Abgaswerte des Fahrzeugs VW Touran Comfortline 2,0 l TDI, FIN: ..., durch die Beklagte resultieren.2. Im Übrigen wird die Klage abgewiesen.3. Die Beklagte trägt die Kosten des Rechtsstreits.4. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 29.804,02 EUR festgesetzt. 
+				Tatbestand
+				Die Klägerin macht gegen die Beklagte einen Feststellungsanspruch über die Haftung der Beklagten im Zusammenhang mit dem sog. VW-Abgasskandal geltend.Die Klägerin schloss am 07.02.2012 mit dem Autohaus W. in T. einen Kaufvertrag über ein Neufahrzeug VW Touran Comfortline 2,0 l TDI, FIN: ..., zum Preis von 37.255,02 EUR (Anlage K 50). In diesem Fahrzeug ist ein Dieselmotor des Typs EA 189 Euro 5 der Beklagten verbaut.Zur Zulassung des Fahrzeugs musste die Herstellerin gemäß Art. 4 Abs. 1 VO (EG) 715/2007 nachweisen, dass die von ihr hergestellten Neufahrzeuge über eine Typgenehmigung gemäß der Verordnung verfügen. Eine solche Typgenehmigung setzt voraus, dass die in der Verordnung vorgesehenen Abgasgrenzwerte eingehalten werden. Die Werte werden gemäß der zugehörigen Durchführungsverordnung unter Laborbedingungen in dem sogenannten "Neuen Europäischen Fahrzyklus" (NEFZ) ermittelt.In dem von der Klägerin erworbenen Fahrzeug ist eine von der Beklagten entwickelte Software verbaut, welche den NEFZ erkennt und sodann das Abgasrückführungssystem in den Modus 1 schaltet. In diesem Modus kommt es zu einer höheren Abgasrückführungsrate und somit zu einem geringeren Schadstoffausstoß. Im Normalbetrieb wird das Abgasrückführungssystem demgegenüber im Modus 0 betrieben, so dass es zu einem höheren Schadstoffausstoß kommt. Die Beklagte bietet der Klägerin ein kostenloses Software-Update an, mit welchem aus ihrer Sicht den rechtlichen Anforderungen genügt wird.Die Klägerin behauptet, die Vorgaben und Grenzwerte für den Schadstoffausstoß würden beim Betrieb des Fahrzeugs im Modus 0 deutlich überschritten. Der Einbau der Manipulationssoftware sei mit Wissen und Wollen des Vorstandes der Beklagten erfolgt. Das Fahrzeug sei im derzeitigen Zustand nicht genehmigungsfähig und könne jederzeit stillgelegt werden. Die angebotene Nachrüstung führe zu zahlreichen Folgeproblemen.Die Klägerin beantragt,1. festzustellen, dass die Beklagtenpartei verpflichtet ist, der Klägerpartei Schadensersatz zu leisten für Schäden, die aus der Manipulation des Fahrzeugs VW Touran (Fahrzeugidentifikationsnummer: ...) durch die Beklagtenpartei resultieren.2. die Beklagtenpartei zu verurteilen, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von EUR 1.530,64 freizustellen.Die Beklagten beantragen,die Klage abzuweisen.Sie rügt die örtliche Zuständigkeit des Gerichts und hält die Feststellungsklage für unzulässig. Zwar sei mit Bescheid des Kraftfahrt-Bundesamts vom 15.10.2015 die Beklagte verpflichtet worden, bei allen betroffenen Fahrzeugen mit dem Motor EA 189 die aus Sicht des Bundesamts vorliegenden unzulässigen Abschaltvorrichtungen zu entfernen und nachzuweisen, dass nun die gesetzlichen Anforderungen erfüllt würden. Die beabsichtigte Nachrüstung sei aber durch das Kraftfahrt-Bundesamt freigegeben und führe für den Kläger zu keinerlei Nachteilen. Soweit behauptet werde, der Vorstand der Beklagten habe von den unterschiedlichen Betriebsmodi Kenntnis gehabt, reiche das bloße Bestreiten der Kenntnis der Organe der Beklagten hinsichtlich der Manipulation der Abgaswerte aus. Eine sekundäre Darlegungslast über die tatsächlichen Verhältnisse bestehe insoweit nicht. Schließlich liege beim Kläger - auch normativ betrachtet - kein Schaden vor. 
+				Gründe
+				Die Klage ist zulässig und überwiegend begründet.I.Die Klage ist zulässig.1. Das Landgericht Freiburg i. Br. ist örtlich zuständig, hier gemäß § 32 ZPO. Der Prüfung ist insoweit der klägerische Sachvortrag zugrunde zu legen (vgl. BGH, Beschluss vom 25. März 2014 — VI ZR 271/13 —‚ Rn. 10, juris). Die Klägerin hat unter anderem einen Anspruch aus § 826 BGB schlüssig vorgetragen (dazu unten). Da bei § 826 BGB der Eintritt eines Schadens zum Tatbestand gehört, nicht lediglich zur Rechtfolgenseite, ist auch der Ort des Schadenseintritts Begehungsort im Sinne des § 32 BGB (BeckOK-ZPO/Tousseint, 24. Edition, § 32 Rn. 13 m.w.N.). Ort des Schadenseintritts ist der Wohnort des Klägers als Geschädigtem (vgl. BeckOK ZPO/Toussaint aaO Rn. 12.1), welcher sich im Moment des Vertragsschlusses im hiesigen Bezirk befand.2. Die Feststellungsklage ist gemäß § 256 Abs. 1 ZPO zulässig. Besteht der Schaden im Rahmen des § 826 BGB in der sittenwidrigen Herbeiführung eines Vertrags, kann der Geschädigte grundsätzlich den Ersatz des negativen Interesses verlangen. Er ist jedoch nicht gezwungen, dies stets im Wege der Rückabwicklung umzusetzen, also im vorliegenden Fall Ersatz des Kaufpreises gegen Herausgabe des Fahrzeugs zu fordern. Je nach den Umständen des Einzelfalls kann er vielmehr den Vertrag auch bestehen lassen und Ersatz der durch die unerlaubte Handlung entstandenen Nachteile verlangen (vgl. Palandt/Sprau, BGB, 77. Aufl. 2018, § 826 Rn. 15, Einf v 823 Rn. 24, Vorb v § 249 Rn. 17 jeweils m.w.N.; BGH, Urteil vom 28. Oktober 2014 - VI ZR 15/14 -‚ Rn. 28, juris). Der Geschädigte wird dann so behandelt, als wäre es ihm bei Kenntnis der wahren Sachlage gelungen, den Vertrag zu einem niedrigeren Preis abzuschließen (BGH, Urteil vom 19. Mai 2006 – V ZR 264/05 –, BGHZ 168, 35-43, Rn. 22). Ihm steht insoweit ein Wahlrecht zu (BGH, Urteil vom 06. Februar 2018 – II ZR 17/17 –, Rn. 12, juris), das aus der Perspektive ex post in Kenntnis aller Umstände ausgeübt werden kann und das nicht durch das hypothetische Verhalten des Geschädigten auf der Basis des Sachverhalts ex ante, wie er sich ohne Täuschung dargestellt hätte, beschränkt ist. Sonst wäre - da sich der Sachvortrag für eine Rückabwicklung (= Abstandnahme vom Vertrag) und eine Vertragsfortführung mit Ersatz des Vertrauensschadens (= Abschluss zu einem niedrigeren Preis) ausschließen - eine Wahl nicht möglich, sondern die Schadensberechnung durch das hypothetische Verhalten des Geschädigten determiniert.Die Klägerin hat das ihr eingeräumte Recht, eine bestimmte Schadensberechnung zu wählen, bisher nicht ausgeübt. Weder existiert eine entsprechende vorgerichtliche Korrespondenz noch ist in der Klage eine solche Wahl getroffen worden. Woraus sich eine Rechtspflicht der Klägerin ergeben sollte, sich bereits jetzt für eine bestimmte Form der Schadensberechnung zu entscheiden, ist nicht ersichtlich, wenn jedenfalls ein Schaden besteht (siehe unten) und die weitere Schadensentwicklung, insbesondere die Auswirkungen des Software-Updates auf die Fahrzeugeigenschaften und Gesamtfahrleistung, heute noch nicht klar sind. Da über die technischen Auswirkungen der Nachrüstung und die Folgen für die Werthaltigkeit der betroffenen Fahrzeuge auch unter Fachleuten unterschiedliche Auffassungen bestehen und die Beklagte jegliche Schadensersatzverpflichtung ablehnt, hat die Klägerin zur Vermeidung des Verjährungseintritts ein berechtigtes Interesse daran, die Ersatzpflicht der Beklagten feststellen zu lassen. Ein Vorrang der Leistungsklage besteht bei dieser Sachlage nicht. Auch die bei einer Klage auf Feststellung der Ersatzpflicht von Vermögensschäden erforderliche hinreichende Schadenswahrscheinlichkeit (BGH, Beschluss vom 04. März 2015 - IV ZR 36/14 -, Rn. 15, juris) liegt vor. Ein Schaden des Klägers kann bereits zum jetzigen Zeitpunkt sicher festgestellt werden (dazu unten).II.Die Klägerin hat gegen die Beklagte einen Anspruch auf Feststellung der Haftpflicht aus §§ 826, 31 BGB analog. Ein Anspruch auf Freistellung von vorgerichtlichen Anwaltskosten besteht nicht.1. Zum Haftungsgrund gilt - ergänzend zu den zutreffenden Ausführungen des OLG Karlsruhe im Beschluss v. 05.03.2019, 13 U 142/18 - folgendes:a) Die KIägerin hat durch den Erwerb des Fahrzeugs einen Schaden erlitten.aa) § 826 BGB stellt hinsichtlich des Schadens nicht auf die Verletzung bestimmter Rechte oder Rechtsgüter ab: Schaden ist danach nicht nur jede nachteilige Einwirkung auf die Vermögenslage, sondern darüber hinaus jede Beeinträchtigung eines rechtlich anerkannten Interesses (BGH, Urteil vom 19. Juli 2004 - II ZR 402/02 -‚ BGHZ 160, 149-159, Rn. 41). Es genügt jede Schadenszufügung im weitesten Sinne, also jede nachteilige Einwirkung auf die Vermögenslage in ihrer Gesamtheit (RGZ 79, 55, 58; BeckOK-BGB/Förster, 42. Edition, § 826 Rn, 25). Nach dem subjektbezogenen Schadensbegriff stellt auch der Abschluss eines Geschäfts, welches nicht den Zielen des Geschädigten entspricht, einen Schaden im Rahmen des § 826 BGB dar, ohne dass es darauf ankäme, ob die erhaltene Leistung wirtschaftlich betrachtet hinter der Gegenleistung zurückbleibt (vgl. BGH, Urteil vom 19. Juli 2004 - II ZR 402/02 -‚ BGHZ 160, 149-159, Rn. 41; BGH, Urteil vom 28. Oktober 2014 - Vl ZR 15/14 -, Rn. 17 ff., juris; BGH, Urteil vom 03. Dezember 2013 - Xl ZR 295/12 -‚ Rn. 27, juris; Harke, VuR 2017, 83, 90).bb) Die Klägerin hat ein Fahrzeug erworben, welches nicht seinen Vorstellungen entsprach und dadurch einen Schaden erlitten.Die von der Beklagten verbaute Software ist rechtswidrig, da es sich um eine verbotene Abschaltvorrichtung gemäß Art. 3 Nr. 10, Art. 5 Abs. 2 VO (EG) 715/2007 handelt. Das insoweit von der Beklagten angeführten Gegenargument, es liege keine Abschaltvorrichtung vor, da das Abgasrückführungssystem nicht zu dem in der Verordnung genannten Emissionskontrollsystem gehöre, greift nicht durch. Auch europäisches Recht ist nach dem Sinn und Zweck der Vorschriften auszulegen. Es ist nicht erkennbar, warum der gesetzlich nicht definierte Begriff des Emissionskontrollsystems nur die Abgasnachbehandlung, nicht jedoch die Abgasrückführung umfassen sollte, wie es die Beklagte annimmt. Damit würde der Zweck der Vorschrift nicht erreicht. Da die Auslegung insoweit zu einem eindeutigen Ergebnis führt, ist eine Vorlage an den Gerichtshof der Europäischen Union gemäß der acte-clair-Doktrin nicht erforderlich (vgl. BGH, Beschluss vom 24. April 2014 - VII ZB 28/13 -‚ BGHZ 201, 22-31, Rn. 35 m.w.N.).Die verbotene Abschaltvorrichtung führt zu erheblichen Nachteilen für den Kunden. Zum einen entsprechen die Abgaswerte nicht jenen, die er aufgrund der Fahrzeugbeschreibung und der gesetzlichen Grenzwerte erwarten durfte. Zwar geht der Kunde insoweit davon aus, dass die bekanntermaßen unter Laborbedingungen ermittelten Werte im Alltagsbetrieb regelmäßig nicht erreicht werden können. Er erwartet jedoch nicht, dass diese normale Abweichung durch den Einsatz einer verbotenen Software erheblich vergrößert wird.Zum anderen besteht für den Kunden das rechtliche Risiko, dass die zuständigen Behörden aufgrund des Einsatzes einer verbotenen Abschaltvorrichtung gegen den Betrieb des Fahrzeugs vorgehen könnten, Diese Sorge teilt offenbar auch die Beklagte, da sie Kunden mitteilt, dass den betroffenen Fahrzeugen die Stilllegung drohe, wenn die Nachrüstung nicht durchgeführt werde (Anschreiben der Beklagten v. Januar 2016, Anl. K 8).Dementsprechend geht auch die nahezu einhellige Auffassung in der bisherigen Rechtsprechung und Literatur zutreffend davon aus, dass die Verwendung der Abschaltsoftware durch die Beklagte zur kaufrechtlichen Mangelhaftigkeit der betroffenen Fahrzeuge führt (Reinking/Eggert, Der Autokauf, 13. Auflage, Rn. 627 m.w.N.; OLG München, Beschluss vom 23. März 2017 - 3 U 4316/16 - Rn. 13, juris).Aufgrund der vorgenannten Nachteile entsprach das Fahrzeug nicht den Vorstellungen der Klägerin, so dass diese geschädigt wurde. Es ist bereits nach der allgemeinen Lebenserfahrung davon auszugehen, dass ein Neuwagenkäufer stillschweigend davon ausgeht, dass das erworbene Fahrzeug mangelfrei ist, den gesetzlichen Vorschriften genügt und ohne Einschränkungen am öffentlichen Straßenverkehr teilnehmen darf und dass diese Vorstellungen für seinen Kaufentschluss von Bedeutung sind (vgl. BGH, Urteil vorn 12. Mai 1995 - V ZR 34/94 -‚ Rn. 17, juris; Harke, VuR 2017, 83, 90). Soweit diese Vorstellung falsch ist, da die in der Typgenehmigung ausgewiesenen und gesetzlich vorgegebenen Werte nur durch Einsatz einer verbotenen Abschaltvorrichtung erreicht wurden, liegt damit mit dem Erwerb des Fahrzeugs ein Schaden vor.cc) Dieses Ergebnis ist entgegen einer verbreiteten Auffassung (LG Köln, Urteil vom 07. Oktober 2016 - 7 O 138/16 -, Rn. 17 f., juris; LG Ellwangen, Urteil vom 10. Juni 2016 - 5 O 385/15 -‚ Rn. 23, juris; Kehrberger/Roggenkemper, EWiR 2017, 175, 176) auch nicht unter Schutzzweckgesichtspunkten zu korrigieren.(1) Zutreffend ist allerdings der Ausgangspunkt, dass derartige Überlegungen auch im Rahmen von § 826 BGB von Bedeutung sein können (BGH, Urteil vom 11. November 1985 - II ZR 109/84 -, BGHZ 96, 231-244, Rn. 15).(2) Es kommt jedoch insoweit nicht allein auf die Frage an, welchem Zweck die VO (EG) 715/2007 dient. Diese Auffassung liefe darauf hinaus, dass der Fahrzeughersteller folgenlos arglistig über die Einhaltung sämtlicher gesetzlicher Vorschriften täuschen könnte, welche nicht dem Schutz des Fahrzeugerwerbers dienen. Der Schadensersatzanspruch aus § 826 BGB folgt jedoch - anders als ein möglicher Anspruch aus § 823 Abs. 2 BGB - nicht unmittelbar aus dem Verstoß gegen die Verordnung, sondern aus der arglistigen Täuschung über deren Einhaltung bzw. aus dem Inverkehrbringen eines gesetzeswidrigen Fahrzeugs (vgl. Seite 8 f. des Gutachtens des wissenschaftlichen Dienstes des Bundestags vom 15.10.2015, WD 7-3000-184/15). Diese Verstöße sind für den Rechtskreis des Kunden ersichtlich von Bedeutung:(a) Zum einen ist es so, dass viele Kunden bereit sind, für ein Produkt mehr Geld auszugeben, um damit zum Schutz der Umwelt beizutragen. Bei dem Merkmal der Umweltfreundlichkeit handelt es sich somit um ein objektives Qualitätsmerkmal, welches auch den Rechtskreis des Kunden berührt. Demgemäß werben auch viele Fahrzeughersteller - auch die Beklagte - mit der Umweltfreundlichkeit ihrer Produkte.(b) Zum anderen führt der Verstoß gegen gesetzliche Vorschriften jedoch wie ausgeführt auch dazu, dass das Fahrzeug des Klägers mangelhaft ist und ihm im derzeitigen Zustand behördliche Maßnahmen bis hin zur Stilllegung drohen. Damit ist zweifellos der klägerische Rechtskreis betroffen (vgl. auch Steenbuck, MDR 2016, 185, 190).dd) Da bereits der Erwerb des Fahrzeugs den klägerischen Schaden begründet, kommt es nicht darauf an, wie sich der Fahrzeugwert aufgrund der Abschaltvorrichtung entwickelt hat bzw. noch entwickeln wird und ob durch die von der Beklagten angebotene Nachrüstung weitere Nachteile für die Klägerin entstehen würden (aA, jedoch unter Verkennung des subjektbezogenen Schadensbegriffs, Kehrberger/Roggenkemper, EWiR 2017, 175, 176).b) Der Schaden wurde durch die Beklagte verursacht. Die schädigende Handlung liegt in dem Inverkehrbringen des gesetzeswidrigen Fahrzeugs, welches für den entstandenen Schaden ohne weiteres zurechenbar kausal geworden ist. Auch wenn hier als Anknüpfungspunkt der Kausalitätsprüfung nicht das Inverkehrbringen gewählt wird, sondern die Täuschung der Beklagten über ein ordnungsgemäßes Vorgehen nach der VO (EG) 715/2007 nebst Durchführungsverordnung, ist die Kausalität zu bejahen. Denn es kann schon nach der allgemeinen Lebenserfahrung festgestellt werden, dass die Umweltverträglichkeit und insbesondere die Gesetzmäßigkeit eines Fahrzeugs für die Kaufentscheidung von Bedeutung sind. Dies genügt zur Feststellung eines Ursachenzusammenhangs (vgl. BGH, Urteil vom 12. Mai 1995 - V ZR 34/94 -‚ Rn. 17, juris).c) Die Schädigung erfolgte auch sittenwidrig.aa) In objektiver Hinsicht kommt es insoweit darauf an, ob das Verhalten der Beklagten dem Anstandsgefühl aller billig und gerecht Denkenden widersprach. Dies ist zu bejahen. Die Beklagte hat in großem Umfang und mit erheblichem technischen Aufwand im Profitinteresse zentrale gesetzliche Umweltschutzvorschriften ausgehebelt und zugleich ihre Kunden getäuscht. Sie hat dabei nicht einfach nur gesetzliche Abgaswerte außer Acht gelassen, sondern mit der Abschaltvorrichtung zugleich ein System zur planmäßigen Verschleierung ihres Vorgehens gegenüber den Aufsichtsbehörden und den Verbrauchern geschaffen. Im Rahmen einer Gesamtwürdigung ist dieses Verhalten als Sittenverstoß zu bewerten. Zudem gilt der Grundsatz, dass eine bewusste Täuschung zur Herbeiführung eines Vertragsschlusses regelmäßig bereits die Sittenwidrigkeit begründet (BGH, Urteil vom 21. Dezember 2004 - VI ZR 306/03 -, BGHZ 161, 361-371, Rn. 13; BGH, Urteil vom 28. Juni 2016 - VI ZR 536/15 -‚ Rn. 22, juris). Eine solche liegt vor. Die Beklagte hat mit dem Inverkehrbringen des Fahrzeugs stillschweigend erklärt, dass dieses den gesetzlichen Vorschriften genügt, was tatsächlich nicht der Fall ist. Dieser Erklärungswert ihres Verhaltens und das entsprechende Verständnis der Fahrzeugerwerber kann ihr auch nicht verborgen geblieben sein, so dass es sich um eine bewusste Täuschung handelt.bb) In subjektiver Hinsicht ist nicht das Bewusstsein der Sittenwidrigkeit erforderlich, es genügt bereits die Kenntnis der sie begründenden Umstände. Eine solche Kenntnis beim Vorstand der Beklagten ist aufgrund ihres unwirksamen Bestreitens zu bejahen.d) Aus prozessualen Gründen ist der Entscheidung zugrunde zu legen, dass der Einbau der Software mit Wissen und Wollen des seinerzeitigen Vorstands der Beklagten erfolgte und somit der Beklagten gemäß § 31 BGB analog zurechenbar ist.aa) Die Klägerin hat eine solche Kenntnis hinreichend substantiiert behauptet. Er hat keinen Einblick in die inneren organisatorischen Abläufe der Beklagten und kann deswegen dazu nicht im Einzelnen vortragen. Prüfungsmaßstab ist damit lediglich, ob sein Vortrag ohne greifbare Anhaltspunkte ins Blaue hinein erfolgt (vgl. Zöller/Greger, ZPO, 32. Aufl. 2018, Vor § 284 Rn. 34). Dies ist zu verneinen, da es naheliegend ist, dass der millionenfache Einbau der Software nicht ohne Wissen des Vorstandes erfolgen konnte (vgl. ergänzend LG Kleve, Urteil vom 31. März 2017 - 3 O 252/16 - Rn. 89, juris und LG Hildesheim, Urteil vom 17. Januar 2017 - 3 O 139/16 -‚ Rn. 38 f., juris).bb) Die klägerische Behauptung hat die Beklagte nicht wirksam bestritten.(1) Da es wie ausgeführt um Umstände geht, welche die interne Organisation der Beklagten betreffen und in welche die Klägerin keinen Einblick hat, konnte sich die Beklagte nicht mit einem einfachen Bestreiten begnügen. Sie musste sich vielmehr gemäß § 138 Abs. 2, 4 ZPO im Rahmen ihrer sekundären Darlegungslast (vgl. Reinking/Eggert, Der Autokauf, 13. Auflage, Rn. 1898d; a.A. Kehrberger/Roggenkemper, EWiR 2017, 175, 176) im Einzelnen zu der klägerischen Behauptung erklären. Die Beklagte hatte also darzulegen, wie es zu einem Einbau der Software ohne Kenntnis des Vorstands gekommen ist.(2) Dieser Verpflichtung ist die Beklagte nicht nachgekommen.(a) Sie lässt im Wesentlichen vortragen, dass ihr nach dem derzeitigen Stand ihrer internen Untersuchungen keine Erkenntnisse dazu vorlägen, dass Vorstandsmitglieder den Einbau der Software gebilligt hätten. Sie bestreite deswegen eine entsprechende Kenntnis. Ihre derzeitigen Erkenntnisse seien nur vorläufig und die Ermittlungen seien noch nicht abgeschlossen. Sie komme insoweit ihrer Pflicht zur sorgfältigen Prüfung nach, indem sie vor Abschluss der Ermittlungen keine Mutmaßungen und Spekulationen anstelle.(b) Diese Ausführungen stellen kein wirksames Bestreiten dar. Die Beklagte ist im Ergebnis der Auffassung, sie könne Vorgänge aus ihrem Verantwortungs- und Organisationsbereich bis zur endgültigen Aufklärung mit Nichtwissen bestreiten. Dies liefe darauf hinaus, dass sie derzeit eine Klageabweisung erreichen könnte, obwohl es nach ihrem eigenen Vortrag möglich ist, dass sie zu dem Ergebnis gelangen wird, dass die klägerische Behauptung zutreffend ist. Zudem erläutert die Beklagte auch nicht, woraus sich im Einzelnen ihre Einschätzung ergibt, die bisherigen Untersuchungen hätten keine Anhaltspunkte für eine Kenntnis des Vorstands ergeben. Dies lässt sich weder mit § 138 Abs. 4 ZPO noch mit der die Beklagte treffenden sekundären Darlegungslast vereinbaren. Vielmehr ist es prozessual so, dass der Beklagten zwar - wie geschehen - ein gewisser Zeitraum für Erkundigungen einzuräumen ist, dass sie sich jedoch nach Ablauf der gesetzten Frist sodann abschließend und entsprechend ihrer sekundären Darlegungslast zu erklären hat. Da eine entsprechende Softwaresteuerung nicht zufällig auftreten kann, sondern geplant, beschlossen und ausgeführt werden muss, ist eine Kenntnis der Umstände innerhalb des Unternehmens der Beklagten denknotwendig. Es ist dann an der Beklagten, die üblichen Kommunikationswege im Unternehmen darzulegen und insbesondere die Stelle zu bezeichnen, an der die Kommunikation in die Führungsebene des Unternehmens bis zu den Organen der Beklagten abgebrochen ist. Es wäre sodann die Aufgabe des Klägers, diesen Abbruch durch den Nachweis einer Befassung mit diesen Umständen in höheren Hierarchiestufen zu widerlegen. Da die Beklagte dem nicht nachkommen kann oder will, ist der klägerische Vortrag gemäß § 138 Abs. 3 ZPO als zugestanden zu behandeln (vgl. insgesamt LG Kleve, Urteil vom 31. März 2017 - 3 O 252/16 -‚ Rn. 84 if., juris und LG Hildesheim, Urteil vom 17. Januar 2017 - 3 O 139/16 -, Rn. 39, juris).e) Die Beklagte handelte auch mit Schädigungsvorsatz. Der Schädiger braucht nicht im Einzelnen zu wissen, wer der durch sein Verhalten Geschädigte sein wird. Er muss nur die Richtung, in der sich sein Verhalten zum Schaden anderer auswirken könnte, und die Art des möglichen Schadens vorausgesehen und gebilligt haben (BGH, Urteil vom 19. Juli 2004 - II ZR 402/02 -‚ BGHZ 160, 149-159, Rn. 47; Schiemann in: Erman, BGB, 14. Aufl. 2014, § 826 BGB, Rn. 15). Für den Vorstand der Beklagten war aufgrund der - zu unterstellenden - Kenntnis vom Einbau der Software zwingend ersichtlich, dass damit Kunden Fahrzeuge erwerben würden, welche nicht ihren Vorstellungen entsprachen und objektiv mangelhaft waren. Die sich daraus ergebende Schädigung der Kunden hat die Beklagte damit billigend in Kauf genommen (vgl. auch Altmeppen, ZIP 2016, 97, 99).f) Aus dem von der Beklagten mehrfach angeführten Urteil des Bundesgerichtshof vom 28. Juni 2016 (VI ZR 536/15) folgt kein anderes Ergebnis: Aus dem Urteil ergibt sich nur, dass im Rahmen des § 826 BGB der Sittenverstoß und der Schädigungsvorsatz bei juristischen Personen nicht aus der mosaikartigen Zusammensetzung von auf verschiedene Personen verteilten Wissens- und Wollenselementen konstruiert werden können. Im vorliegenden Fall gilt jedoch wegen des unzureichenden Bestreitens der Beklagten der klägerische Vortrag als zugestanden, dass ein oder mehrere Vorstandsmitglieder der Beklagten von dem gesamten Sachverhalt Kenntnis hatten und dass der Softwareeinbau mit ihrem Wissen und Wollen erfolgte. Dies entspricht gerade der in dem Urteil (Rn. 31) geforderten Feststellung.g) Der Anspruch ist auch nicht etwa aufgrund möglicher kaufrechtlicher Ansprüche gegen den Fahrzeugverkäufer ausgeschlossen (aA LG Ellwangen, Urteil vom 10. Juni 2016 - 5 O 385/15 -‚ Rn. 24, juris). § 826 BGB steht grundsätzlich in freier Anspruchskonkurrenz zu anderen Schadensersatzvorschriften (BeckOK-BGB/Förster, 42. Edition, § 826 Rn. 5), denn ein Grund, die vorsätzlich-sittenwidrige Schädigung durch Anerkennung des Vorrangs anderer Rechtsinstitute zu privilegieren, ist nicht ersichtlich (MünchKomm-BGB/Wagner, 7. Aufl., § 826 Rn. 61; vgl. auch Harke, VuR 2017, 83, 90).h) Die Beklagte hat der Klägerin somit gemäß § 249 ff. BGB sämtliche durch die Manipulation des Fahrzeugs entstandene Schäden zu ersetzen.III.Hingegen schuldet die Beklagte keinen Ersatz vorgerichtlicher Rechtsanwaltskosten.Zwar können auch solche Kosten zu dem nach §§ 826, 249 BGB ersatzfähigen Schaden gehören. Es bestünde aber selbst dann, wenn eine Geschäftsgebühr entstanden wäre, kein Ersatzanspruch. Bildet - wie hier - eine Vermögensverletzung den Haftungsgrund, sind diejenigen adäquat verursachten Rechtsverfolgungskosten nach § 249 Abs. 1 BGB zu ersetzen, die aus Sicht des Schadensersatzgläubigers zur Wahrnehmung und Durchsetzung seiner Rechte erforderlich und zweckmäßig waren (BGH, Urteil vom 23. Oktober 2003 - IX ZR 249/02 -‚ Rn. 32, juris). Dies wäre hinsichtlich eines vorgerichtlichen Tätigwerdens gegenüber der Beklagten zu verneinen. Denn bei der derzeitigen allseits bekannten Haltung der Beklagten wäre ein vorgerichtliches Anschreiben ohne Klageauftrag sinnlos gewesen.IV.Die Kostenentscheidung folgt aus § 91 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit ergibt sich aus § 709 ZPO.Der Streitwert ergibt sich entsprechend den Angaben der Klägerin im Hinblick auf das mögliche Rückabwicklungsverlangen der Klägerin aus dem Kaufpreis des Fahrzeugs abzüglich einer Abschlages wegen des Feststellungsantrags von 20 %, insg. also 29.804,02 EUR.
+			
+			
+			
+			Permalink: https://openjur.de/u/2353650.html (https://oj.is/2353650)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate16
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen4
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

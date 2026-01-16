@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSchleswig-HolsteinOrdentliche GerichtsbarkeitLG ItzehoeRechtsprechungUrteil vom 16.12.2021 - 6  O 47/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Itzehoe, Urteil vom 16.12.2021 - 6  O 47/21
+                      m. Fundstelle
+                      LG Itzehoe, Urteil vom 16.12.2021 - 6  O 47/21 = openJur 2021, 46698
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Itzehoe, Urteil vom 16.12.2021 - 6  O 47/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 46698
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				1. Der vortrag, wonach das KBA für andere Fahrzeugtypen des beklagten Herstellers Rückrufe angeordnet habe und eine " Aufheizstrategie" eine unzulässige Abschalteinrichtung sei , ist nicht ausreichend substantiiert.2. Der Schaden des Käufers, der ein behauptet manipuliertes Fahrzeug erworben hat, liegt im Abschluss des ungewollten Kaufvertrages über das mutmaßlich manipulierte Fahrzeug. Im Deliktsrecht besteht nur ein Anspruch auf ersatz des negativen Interesse, nicht des positiven.3.Der Käufer kann deshalb nicht verlangen, so gestellt zu werden, als hätte er seinen vertrag zu einem niedrigeren, den Mangel ( also die behauptete Manipulation) angemessen berücksichtigten Preis geschlossen. Will der Kläger das Fahrzeug behalten und darüber hinaus einen behaupteten Minderwert ersetzt haben, so ist sein begehren darauf gerichtet, so gestellt zu werden, als hätte er einen Kaufvertrag über ein nicht manipuliertes Fahrzeug abgeschlossen. damit beansprucht er aber das Erfüllungsinteresse. 
+				
+				Tenor
+				I. Die Klage wird abgewiesen.II. Der Kläger hat die Kosten des Rechtsstreits zu tragen.III. Das Urteil ist vorläufig vollstreckbar. Der Kläger kann die Vollstreckung der Beklagten durch Sicherheitsleistung in Höhe von 110 % des aufgrund des Urteils vollstreckbaren Betrags abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 % des zu vollstreckenden Betrags leistet.BeschlussDer Streitwert wird auf 5.420,00 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatzansprüche wegen des Erwerbs eines Pkw.Der Kläger kaufte am 01.09.2016 bei der E GmbH in R... einen gebrauchten Audi A 5, 3.0 TDI, Erstzulassung August 2013, zum Preis von 27.100 € brutto (Rechnung eingereicht als Anlage K 1, alle Anlagen: Anlagenband). Die Fahrzeug-Identifizierungsnummer lautet WAUZZZ... . Das Fahrzeug ist nach der Euro-5-Abgasnorm zugelassen.Bis zum Schluss der mündlichen Verhandlung hatte das Kraftfahrtbundesamt (nachfolgend: KBA) für das streitgegenständliche Fahrzeug keinen Rückruf angeordnet. Die Beklagte bietet für den streitgegenständlichen Fahrzeugtyp ein freiwilliges Software-Update an.Mit Schreiben vom 05.02.2021 forderte die Klägerseite die Beklagte zum Schadenersatz auf (Anlage K 24). Mit Schreiben vom 06.02.2021 lehnte die Beklagte etwaige Ansprüche ab.Die Klägerseite hat vorgetragen, der Motor trage die interne Bezeichnung der Beklagten EA 897. Vergleichbare Motoren der Beklagten seien schon von Rückrufen des KBA betroffen. In der Motorsteuerung seien Abschalteinrichtungen installiert. Das Fahrzeug verfüge zum einen über eine "Aufheizstrategie": Die Parameter, die für eine Aktivierung der Aufheizstrategie erforderlich seien, seien so eng gefasst, dass diese Strategie nahezu ausschließlich im Prüfzyklus unter den dortigen Bedingungen wirke. Im realen Fahrbetrieb dagegen werde die Aufheizstrategie nicht verwendet, sodass die Stickoxidwerte des Fahrzeugs erheblich schlechter seien (S. 16 der Klagschrift, Bl. 16 d. A.). Weiter sei in der Motorsteuerung ein "Thermofenster" enthalten. Außerhalb eines Temperaturrahmens von 20 bis 30 °C werde die Abgasrückführung reduziert und schließlich ganz abgeschaltet (S. 17 der Klagschrift und S. 2 des Schriftsatzes vom 16.06.2021, Bl. 17 bzw. Bl. 128 d. A.). Die Beklagte habe das Vorhandensein des Thermofensters gegenüber dem KBA nicht offengelegt und im Rahmen des Typgenehmigungsverfahrens getäuscht (S. 9 des Schriftsatzes vom 16.06.2021, Bl. 135 d. A.). Der Vorstand der Beklagten habe von der Entwicklung und Verwendung dieser Vorrichtungen gewusst und diese zumindest gebilligt.Die Klägerseite hat weiter vorgetragen, dass der Kläger ein Fahrzeug mit einer derartigen Motorsteuerung nicht erworben hätte, wenn die Beklagte ihn vor dem Kauf darüber informiert hätte (S. 57 der Klagschrift, Bl. 57 d. A.). Nach dem Vortrag der Klägerseite hätte der Kläger zudem das Fahrzeug nicht zum tatsächlichen Preis von 27.100 € erworben (ebd.).Die Klägerseite ist der Auffassung, die Klägerin habe gegen die Beklagte einen Schadensersatzanspruch in Höhe eines merkantilen Minderwerts des Fahrzeugs von 20 % des Kaufpreises (S. 36 des Schriftsatzes vom 16.06.2021, Bl. 162 d. A.). Die schädigende Handlung der Beklagten liege im Inverkehrbringen des Motors zum Zweck des Weiterverkaufs unter Verschweigen der gesetzeswidrigen Softwareprogrammierung. Der Motor sei mit mehreren nach Art. 5 der Verordnung (EG) Nr. 715/2007 unzulässigen Abschalteinrichtungen ausgestattet. Dementsprechend habe das Kraftfahrtbundesamt Rückrufe zwar nicht für das streitgegenständliche Fahrzeug, aber für vergleichbare Fahrzeuge der Beklagten angeordnet. Der "Makel des Fahrzeugs, vom Abgasskandal betroffen zu sein", werde sich "prognostisch spürbar negativ auf den erzielbaren Kaufpreis auswirken" (ebd.). Der Kläger habe einen Schaden erlitten, da er in Unkenntnis der gesetzeswidrigen Motorsteuerung das Fahrzeug erworben und insoweit einen für ihn wirtschaftlich nachteiligen Kaufvertrag geschlossen habe. Er habe nicht das erhalten, was ihm aus dem Kaufvertrag zugestanden habe, nämlich ein technisch einwandfreies, den gesetzlichen Bestimmungen entsprechendes Fahrzeug. Das von der Beklagten angebotene Software-Update sei nicht geeignet, den Schaden entfallen zu lassen. Das Verhalten der Beklagten habe auch gegen die guten Sitten verstoßen und die Beklagte habe vorsätzlich gehandelt.Die Klägerseite beantragt daher,1. Die Beklagte wird verurteilt, an den Kläger Schadensersatz in Höhe von 5420 € nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen.2. Die Beklagte wird verurteilt, dem Kläger von den durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 655,69 € freizustellen.Die Beklagtenseite beantragt,die Klage abzuweisen.Die Beklagtenseite hat vorgetragen, im Fahrzeug sei ein Motor mit der internen Bezeichnung EA 896 Gen. 2 verbaut. Die Beklagtenseite bestreitet, dass die Emissionswerte des Fahrzeugs für den Kläger beim Fahrzeugkauf von Bedeutung waren. Sie bestreitet weiter, dass in der Motorsteuerung eine "Aufheizstrategie" vorhanden sei. Sie hat vorgetragen, der Temperaturrahmen des "Thermofensters" sei größer als lediglich von 20 bis 30 °C. Das Vorhandensein des Thermofensters sei dem KBA bekannt gewesen. Dies ergebe sich aus einer vom OLG Stuttgart eingeholten amtlichen Auskunft des KBA (Anlage B 6, Bl. 213 d. A.). Im Typgenehmigungsverfahren im Jahr 2013 habe die Beklagte die Einzelheiten des sogenannten "Thermofensters" noch nicht offenlegen müssen. Die Beklagte habe das KBA im Typgenehmigungsverfahren folglich nicht getäuscht. Das KBA habe das freiwillig von der Beklagten entwickelte Software-Update im Hinblick auf etwaige Abschalteinrichtungen geprüft und nichts beanstandet. Das Update wirke sich nicht negativ auf den Kraftstoffverbrauch, das Emissionsverhalten etc. aus.Die Beklagtenseite ist der Auffassung, das "Thermofenster" sei keine unzulässige Abschaltvorrichtung im Sinne des Art. 5 Abs. 2 der Verordnung (EG) Nr. 715/2007. Es fehle insgesamt an einer Einwirkung der Beklagten auf den Kläger und dessen Kaufentscheidung und somit an einer kausalen Handlung der Beklagten, die als Täuschung oder sittenwidrige Schädigung anzusehen sein könnte. Jedenfalls fehle es an einem Schaden. Dieser liege insbesondere nicht im Abschluss des Kaufvertrages, da dieser für den Kläger weder ungewollt noch nachteilig sei. Da das KBA für den streitgegenständlichen Fahrzeugtyp keinen Rückruf angeordnet habe, das Fahrzeug über eine wirksame EG-Typgenehmigung verfüge und keine Betriebsuntersagung drohe, sei der Kaufvertrag für den Kläger mit keinerlei Nachteilen verbunden. Es sei überhaupt nicht ersichtlich, welche (unerlaubte) Handlung der Beklagten für den klägerseits behaupteten Minderwert des Fahrzeuges ursächlich gewesen sein solle (S. 13 der Klagschrift, Bl. 100 d. A.). Hilfsweise vertritt die Beklagtenseite die Auffassung, dass der Kläger hier als Schadenersatz nicht sein positives Interesse ersetzt verlangen könne und dass bei einer etwaigen Rückabwicklung des Kaufvertrages jedenfalls die vom Kläger gezogene Nutzungen in Ansatz zu bringen seien.Wegen der weiteren Einzelheiten des Parteivortrags wird auf die gewechselten Schriftsätze nebst Anlagen und das Protokoll der mündlichen Verhandlung vom 11.11.2021 (Bl. 230 ff. d. A.) Bezug genommen. 
+				Gründe
+				I.Die Klage ist zulässig, insbesondere ist das Landgericht Itzehoe sachlich gemäß §§ 23, 71 GVG und örtlich gemäß § 32 ZPO zuständig. Der Kläger hat das Fahrzeug im hiesigen Bezirk gekauft.II.Die Klage ist jedoch unbegründet.1) Der Kläger hat gegen die Beklagte keinen Schadensersatzanspruch aus §§ 826, 31 BGB. Es ist nicht ersichtlich, dass die Beklagte den Kläger sittenwidrig vorsätzlich geschädigt haben könnte, indem sie das streitgegenständliche Fahrzeug entwickelt und in den Verkehr gebracht hat.Zwar ist es für einen deliktischen Schadensersatzanspruch keine zwingende Voraussetzung, dass das KBA für den betreffenden Fahrzeugtyp einen verpflichtenden Rückruf angeordnet hat. Bei der Prüfung von Schadenersatzansprüchen ist aber zu berücksichtigen, dass selbst die Programmierung und das Inverkehrbringen eines Motors mit einer unzulässigen Abschaltvorrichtung nicht ohne weiteres eine sittenwidrige vorsätzliche Handlung im Sinne des § 826 BGB darstellen (vgl. BGH, Beschluss vom 09.03.2021, Az. VI ZR 889/20; OLG München, Beschluss vom 20.05.2019, Az. 32 U 1775/19). Dass eine unzulässige Abschaltvorrichtung vorliegt, kann kaufrechtliche Gewährleistungsansprüche auslösen, die aber vorliegend wegen des Kaufs schon im Jahr 2016 und Klageeinreichung erst 2021 nicht mehr in Betracht kommen. Zudem war die Beklagte nicht Vertragspartei des Klägers.Für einen deliktischen Schadensersatzanspruch wegen einer sittenwidrigen Schädigung müssen besondere Umstände hinzutreten. Erforderlich ist, dass die Motorsteuerung, vergleichbar dem Motor der Volkswagen AG mit der Bezeichnung EA 189, eine Vorrichtung enthält, die ausschließlich dem Zweck dient, den Betrieb des Fahrzeugs auf dem Prüfstand im Rahmen des Typgenehmigungsverfahrens zu erkennen und dementsprechend bestimmte Mechanismen zu aktivieren oder zu deaktivieren, damit das Fahrzeug die gesetzlichen Vorgaben einhält.Dafür, dass im streitgegenständlichen Fahrzeug Vorrichtungen dieser Art installiert sein könnten, sind keine ausreichenden Anhaltspunkte ersichtlich.Insbesondere ist es nicht ausreichend, dass das KBA, wie die Klägerseite vorgetragen hat, betreffend andere, von der Beklagten in Verkehr gebrachte Fahrzeuge einen Rückruf angeordnet hat.a) Zu der "Aufheizstrategie" hat die Klägerseite in der Klagschrift (dort S. 16) lediglich vorgetragen, das KBA habe "bei der Überprüfung der Fahrzeugtypen Audi A6 und A7 3.0 Liter Diesel Euro 6 unzulässige Abschalteinrichtungen festgestellt [...]. Mit Bescheid vom 4. Juni 2018 sei für die genannten Modelle [...] ein verpflichtender Rückruf eingeleitet worden". Vorliegend geht es aber um einen Audi A5, der nicht nach der Euro-6-, sondern nach der Euro-5-Abgasnorm zugelassen wurde.Im Schriftsatz vom 16.06.2021 (dort S. 1 und 2) hat die Klägerseite zur "Aufheizstrategie" lediglich allgemeine Ausführungen gemacht, warum es sich hierbei um eine nach Art. 5 der Verordnung (EG) Nr. 715/2007 unzulässige Abschalteinrichtung handele und dass das KBA Fahrzeug mit einem 3,0-Liter-Motor bereits zurückgerufen habe (Bl. 128 d. A.). Aus dem klägerischen Vortrag ist somit nicht ersichtlich, was die beanstandete "Aufheizstrategie" genau beinhaltet und dass diese im streitgegenständlichen Fahrzeug vorhanden sein soll.Das Gericht hatte in der Terminsverfügung sowie erneut in der Verfügung vom 13.09.2021 darauf hingewiesen, dass nicht klar sei, was genau der Vortrag der Klägerseite bezüglich der "Aufheizstrategie" sein soll. Bis zum Termin hat die Klägerseite hierzu nicht mehr vorgetragen. Der im Termin zur mündlichen Verhandlung beantragte Schriftsatznachlass war daher nicht zu gewähren.b) Zu dem "Thermofenster" hat die Klägerseite ausreichend konkret vorgetragen. Die Beklagtenseite hat hierzu vorgetragen, die Beklagte habe im Rahmen des Typgenehmigungsverfahren für das Fahrzeug alle damals erforderlichen Angaben gemacht. Aus der als Anlage B 6 eingereichten Auskunft des KBA ist ersichtlich, dass die "Problematik von umgebungstemperaturgeführten Regelungen" dem KBA seinerzeit bekannt war (Bl. 213 d. A.). Genauere Angaben zu den Temperaturbereichen, in denen die Abgasrückführung voll bzw. nur eingeschränkt oder gar nicht wirksam ist, waren nach Auskunft des KBA offenbar nicht erforderlich. Hierzu mag man mit Recht die Auffassung vertreten, dass gesetzliche Vorgaben für die Emissionswerte ins Leere gehen, wenn diese Werte faktisch nur innerhalb bestimmter Temperaturbereiche eingehalten werden, die nicht einmal genauer bekannt sind, und dass eine derartige Handhabung der normativen Grundlagen sicherlich nicht dem Ziel dient, möglichst emissionsarme Fahrzeuge zu entwickeln.Hat die Beklagte im Rahmen des Typgenehmigungsverfahrens jedoch alle Angaben gemacht, die - nach damaligem Stand - erforderlich waren bzw. die das KBA verlangt hat, so liegt kein Anknüpfungspunkt für irgendeine Täuschungshandlung vor. Daher ist es nicht angezeigt, zu dem "Thermofenster" ein Sachverständigengutachten einzuholen.Der Klagantrag zu 1 ist somit als unbegründet abzuweisen.c) Im Übrigen bestünde nach Ansicht des erkennenden Gerichts kein Anspruch auf Schadensersatz in Höhe eines pauschalen merkantilen Minderwerts von 20 % des Kaufpreises.Denn bei einem deliktischen Schadensersatzanspruch, wie er hier geltend gemacht wird, besteht grundsätzlich ein Anspruch auf Ersatz des negativen Interesses (vgl. Sprau in: Palandt, BGB, 79. Auflage, vor § 823 BGB Rn. 24). So hat auch der BGH in einem Urteil betreffend den sogenannten "Dieselskandal" ausgeführt: "Für die deliktische Haftung ist zu beachten, dass diese nicht das Erfüllungsinteresse oder positive Interesse erfasst, weil sie nicht an das Bestehen einer Verbindlichkeit und deren Nicht- oder Schlechterfüllung anknüpft. Sie beschränkt sich vielmehr auf das "Erhaltungsinteresse" [...] und damit das negative Interesse" (Urteil vom 06.07.2021 - VI ZR 40/20, Juris-Fundstelle Rn. 14)Ein Anspruch auf pauschale Minderung des Kaufpreises besteht bei deliktischen Ansprüchen nicht. Es wird auf die überzeugenden Ausführungen bspw. des OLG München (Urteil vom 10.8.2020 - 21 U 2719/19, BeckRS 2020, 18878, beck-online) verwiesen. Dort heißt es im 2. Leitsatz:"Der Käufer eines solchen Fahrzeugs kann grundsätzlich (nur) die Rückzahlung des Kaufpreises Zug um Zug gegen Rückgabe des Wagens unter Berücksichtigung der zwischenzeitlich gezogenen Nutzungen verlangen. Er kann vom Hersteller keine "Minderung" verlangen, wie im Rahmen der Gewährleistung von seinem Vertragspartner. Im Falle einer unerlaubten Handlung besteht nach höchstrichterlicher Rechtsprechung grundsätzlich kein Anspruch auf das Erfüllungsinteresse (positives Interesse), sondern nur auf das negative Interesse. Der Käufer kann deshalb lediglich fordern, so gestellt zu werden, als hätte er den Pkw nicht gekauft."Dies steht auch im Einklang mit dem klägerischen Vortrag, wonach "kein Kunde, und so auch nicht der Kläger, ein Fahrzeug mit dieser Motorsteuerungssoftware erworben hätte, wenn die Beklagte ihn vor dem Kauf darauf hingewiesen hätte, dass die Software nicht gesetzeskonform ist und er deshalb jedenfalls mit Problemen für den Fall der Entdeckung der Manipulation durch das Kraftfahrtbundesamt rechnen muss" (S. 57 der Klagschrift, Bl. 57 d. A.). Anders als der BGH im oben zitierten Urteil (juris-Fundstelle Rn. 21) ausführt, ist es sehr wohl ein "Widerspruch, wenn der Geschädigte vorträgt, er hätte in Kenntnis der unzulässigen Abschalteinrichtung (aus ex-ante-Sicht) von dem Erwerb des Fahrzeugs ganz Abstand genommen, nunmehr aber am Vertrag festhält und Ersatz der [...] Wertdifferenz verlangt" (siehe hierzu z. B. OLG Karlsruhe, Urteile vom 18.12.2019 - 13 U6 170/19, und vom 22.11.2019 - 13 U 464/19; sowie OLG Oldenburg, Urteil vom 04.02.2020 - 2 U 297/19).Nach einhelliger Auffassung ist der Schaden des Fahrzeugkäufers in der "ungewollten Verbindlichkeit" in Form des geschlossenen Vertrages zu sehen.Das Gericht macht sich die überzeugenden Ausführungen des OLG München (Urteil vom 10.8.2020 - 21 U 2719/19, BeckRS 2020, 18878 Rn. 28-30, beck-online) zu eigen. Dort heißt es: "Der Fahrzeugkäufer kann [...] grundsätzlich von der Beklagten die Rückzahlung des Kaufpreises Zug um Zug gegen Rückgabe des Wagens unter Berücksichtigung der zwischenzeitlich gezogenen Nutzungen verlangen. [...] Er kann jedoch vom Hersteller keine "Minderung" verlangen, wie im Rahmen der Gewährleistung von seinem Vertragspartner. Im Falle einer unerlaubten Handlung der Beklagten hat der Kläger nach der Rechtsprechung des BGH nämlich grundsätzlich keinen Anspruch auf das Erfüllungsinteresse (positives Interesse), sondern er kann nur sein negatives Interesse ersetzt verlangen (so ausdrücklich auch BGH vom 25.05.2020, Az. VI ZR 252/19, Rn. 70). Der Käufer kann deshalb lediglich fordern, so gestellt zu werden, als hätte er den Pkw nicht gekauft (BGH, NJW 2011, 1962, 1963 Rn. 11). [...]Ob ein zu ersetzender Vermögensschaden vorliegt, ist nach der sogenannten Differenzhypothese durch einen Vergleich der infolge des haftungsbegründenden Ereignisses eingetretenen Vermögenslage mit derjenigen, die sich ohne dieses Ereignis ergeben hätte, zu beurteilen. Der [...] zum Schadensersatz Verpflichtete hat den Differenzschaden zu ersetzen. Davon zu unterscheiden ist der Anspruch auf Ersatz des Erfüllungsinteresses. Dieses ist zu ersetzen, wenn der Anspruchsinhaber verlangen kann, so gestellt zu werden, als ob eine Verbindlichkeit ordnungsgemäß erfüllt worden wäre. Regelmäßig besteht nur bei vertraglichen oder vertragsähnlichen Beziehungen die begründete Erwartung der Deckung des Erfüllungsinteresses. Da die deliktische Haftung nicht an das Bestehen einer Verbindlichkeit und deren Nicht- oder Schlechterfüllung anknüpft, stellt sich im Deliktsrecht die Frage nach dem Erfüllungsinteresse als solche nicht (hierzu mit vielen Nachweisen BGH, Urteil vom 18.01.2011, Az. VI ZR 325/09).Nach überzeugender Auffassung kann ein Kläger - bei Vorliegen der Anspruchsvoraussetzungen im Übrigen - nur verlangen, so gestellt zu werden, wie er stünde, wenn er nicht über die Manipulation getäuscht worden wäre, mithin so, als ob er den Kaufvertrag über das Fahrzeug nicht abgeschlossen hätte. Er kann nicht verlangen, so gestellt zu werden, als hätte er einen Vertrag zu einem niedrigeren, den "Mangel" angemessen berücksichtigenden Preis geschlossen. Einen Anspruch auf Rückabwicklung des Vertrages hat der Kläger jedoch nicht geltend gemacht. Hier will der Kläger das Fahrzeug behalten und darüber hinaus noch den ihm "aus dem Erwerb entstandenen Schaden" ersetzt erhalten. In der Sache ist sein Begehren mithin darauf gerichtet, so gestellt zu werden, als hätte er einen Kaufvertrag über ein nicht manipuliertes Fahrzeug abgeschlossen. Damit beansprucht er aber das Erfüllungsinteresse, denn er möchte im Ergebnis so gestellt werden, als wäre der Vertrag ihm gegenüber ordnungsgemäß erfüllt worden. Ein solcher Anspruch steht ihm gegenüber der Beklagten als Dritter nach den für Ersatzansprüche aus unerlaubter Handlung gemäß § 249 Satz 1 BGB maßgebenden Grundsätzen der Differenzhypothese nicht zu (wie hier: OLG Karlsruhe, Az. 13 U 670/19)."3) Da in der Hauptsache kein Anspruch besteht, hat der Kläger auch keinen Anspruch auf Erstattung vorgerichtlicher Rechtsanwaltskosten.III.Die Kostenentscheidung folgt aus § 91 Abs. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf §§ 708 Nr. 11, 711 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2381675.html (https://oj.is/2381675)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

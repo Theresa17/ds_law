@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 09.08.2019 - 17 O 336/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 09.08.2019 - 17 O 336/18
+                      m. Fundstelle
+                      LG Köln, Urteil vom 09.08.2019 - 17 O 336/18 = openJur 2020, 46849
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 09.08.2019 - 17 O 336/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 46849
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 120% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger erwarb am 27.03.2012 in Leverkusen den im Antrag näher bezeichneten Pkw Mercedes-Benz, deren Herstellerin die Beklagte ist, als Neufahrzeug zu einem Gesamtpreis von 25.739,88 Euro (31.683,75 Euro abzüglich Nachlass in Höhe von 5.943,87 Euro, Anlage K1). Das Fahrzeug ist mit dem Dieselmotor OM 651 ausgestattet, der ein so genanntes "thermisches Fenster" besitzt. Hierbei handelt es sich um eine Software der Motorsteuerung, die je nach vorliegenden äußeren Bedingungen das Ausmaß der Abgasrückführung reguliert.Teilweise gab es bezüglich anderer Pkw-Modelle bzw. -typen mit dem Motor OM 651 einen behördlichen Rückruf, das Fahrzeug des Klägers war hiervon nicht betroffen. Allerdings ist das Fahrzeug Teil der freiwilligen Kundendienstmaßnahme, bei der ein Software-Update aufgespielt wird, um den Motor auf den neuesten Stand der Entwicklung zu bringen.Der Kläger behauptet, die Software unterscheide zwischen Prüfstand und Realbetrieb und sei eine unzulässige Abschalteinrichtung. Er bezieht sich dabei u.a. auf die Untersuchungsergebnisse zum Volkswagen Konzern und den dortigen "Abgasskandal". Es sei unerheblich, ob das Fahrzeug von einem Rückruf des KBA betroffen sei oder nicht, da dessen Entscheidung nicht im hiesigen Verfahren bindend sei. Die Beklagte habe wissentlich die Manipulation vorgenommen. Nutzungsersatz müsse er sich nicht anrechnen lassen, da das Fahrzeug nicht zulassungsfähig gewesen sei. Hilfsweise erklärt er die Aufrechnung seines Zinsanspruchs gegen etwaige Nutzungsersatzansprüche.Mit Schriftsatz vom 05.04.2019 hat der Kläger den Zinsantrag umgestellt.Er beantragt daher nunmehr,1. die Beklagte zu verurteilen, an den Kläger 25.789 Euro nebst Zinsen in Höhe von 4% seit dem 29.05.2013 und in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit Zugum-Zug gegen Übereignung und Übergabe des Pkw Mercedes-Benz B 180 CDI Blue Efficiency Sports Tourer, FIN WDDXXXX zu zahlen2. festzustellen, dass die Beklagte mit der Annahme des Angebots gemäß Ziff. 1 in Verzug befindetDie Beklagte beantragt,die Klage abzuweisen.Sie behauptet, das Fahrzeug entspreche der Euro-5-Norm. Eine unzulässige Abschalteinrichtung liege nicht vor, das hier gegebene "thermische Fenster" diene dem Bautteilschutz. Sie beruft sich zudem auf die Einrede der Verjährung.Wegen des weiteren Parteivorbringens im Einzelnen, insbesondere soweit es für die Entscheidungsgründe nicht wesentlich im Sinne des § 313 Abs. 2 ZPO ist, wird auf den vorgetragenen Inhalt der gewechselten Schriftsätze einschließlich der Anlagen und Lichtbilder Bezug genommen. 
+				Gründe
+				Die Klage ist unbegründet.Der Kläger hat nicht schlüssig dargelegt, warum hier ein deliktisch relevantes Verhalten der Beklagten vorliegen sollte. Vielmehr vermischt er den hiesigen Sachverhalt mit demjenigen, der in den Verfahren gegen die VW AG zugrunde liegt und zitiert Urteile, die gegen die Volkswagen AG ergangen sind, um seinen Anspruch zu untermauern.Es fehlt jedoch jeglicher schlüssiger Vortrag dazu, dass die Beklagte in den Motor OM 651 eine ähnlich wie in den VW-Fällen verwendete Software verbaut hat, die den Prüfstand erkennt und nur hier eine entsprechend hohe Abgasrückführung vornimmt. Eine solche Software mag explizit dazu dienen, nicht nur das KBA sondern letztendlich auch den Verbraucher zu täuschen. Dass eine solche Software verwendet worden ist, ist nicht ansatzweise schlüssig dargelegt. Im Gegenteil. Das KBA hat einen Rückruf bezüglich bestimmter Fahrzeugmodelle und -typen, in denen der Motor OM 651 verbaut worden ist, vorgenommen. Nicht bekannt geworden ist jedoch, dass eine Software wie in den VW-Fällen eingesetzt worden ist, dann wäre jedenfalls ein ähnlich umfangreicher Rückruf bezüglich aller Fahrzeuge mit dem Motor OM 651 zu erwarten gewesen. Darüber hinaus ist das streitgegenständliche Fahrzeug ausweislich des vom Kläger vorgelegten Screenshots ohnehin gerade nicht von einem solchen Rückruf betroffen. Es heißt dort ausdrücklich, es handle sich um eine freiwillige Kundendienstmaßnahme, insofern mag der Kläger den Unterschied zur Kenntnis nehmen anstatt wiederholt fehlerhaft zu behaupten, es handle sich um einen Rückruf.Sofern in dem Pkw eine Software verbaut ist, die über ein "thermisches Fenster" verfügt, so dass die Abgasrückführung reduziert oder vollständig abgeschaltet wird, sobald bestimmte äußere Bedingungen (Temperatur, Höhe, etc.) erreicht werden, handelt es sich nicht um eine deliktische Verhaltensweise der Beklagten.Es kann dabei dahinstehen, ob die konkret verwendete Software eine zulässige oder unzulässige Abschalteinrichtung darstellt, mithin ein solches "thermisches Fenster" erlaubt ist oder nicht. Denn eine Täuschung des KBA und mithin des Verbrauchers liegt hierin jedenfalls nicht. Insoweit unterscheidet sich der Fall mehr als eindeutig von den VW-Fällen, in denen die Software explizit nur die Aufgabe hatte, das KBA über die tatsächlichen Abgaswerte zu täuschen. Die Beklagte verfolgt hingegen den - vom Kläger letztlich nicht widerlegten oder schlüssig angezweifelten - Zweck, den Motor vor vorzeitigem Verschleiß zu schützen. Ob die konkrete Software dabei zulässig ist oder nicht, muss angesichts der wenig konkreten Vorschriften einer Auslegung zugeführt werden. Bedarf die Vorschrift einer Auslegung, so kommt schon nicht in Betracht, dass jedweder Verstoß gegen die Vorschrift mit einer sittenwidrigen Schädigung oder sonst einer vorsätzlichen Täuschungshandlung gleichzusetzen ist.Darüber hinaus führt auch nicht jeder Rückruf eines Pkw (der hier ohnehin nicht vorlag) dazu, dass der Käufer gegenüber dem Hersteller einen deliktischen Anspruch hat. Der Hersteller ist schon gar nicht verpflichtet, den Verbraucher über jedwede verwendete Software und jedes technische Detail des Fahrzeuges aufzuklären, dies ginge offenkundig zu weit.Die Kostenentscheidung beruht auf § 91 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf § 709 ZPO.Streitwert: 25.789 Euro
+			
+			
+			
+			Permalink: https://openjur.de/u/2270509.html (https://oj.is/2270509)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert2
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

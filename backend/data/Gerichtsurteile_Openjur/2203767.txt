@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSchleswig-HolsteinOrdentliche GerichtsbarkeitLG KielRechtsprechungUrteil vom 12.10.2018 - 12 O 187/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Kiel, Urteil vom 12.10.2018 - 12 O 187/18
+                      m. Fundstelle
+                      LG Kiel, Urteil vom 12.10.2018 - 12 O 187/18 = openJur 2020, 7468
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Kiel, Urteil vom 12.10.2018 - 12 O 187/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 7468
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Ohne Vortrag der Laufleistung am Tag der mündlichen Verhandlung ist die Schadenersatzklage eines Käufers wegen des sogenannten "Abgasskandals" als unschlüssig abzuweisen. 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Klägerin hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 19.065,23 € festgesetzt. 
+				Tatbestand
+				Die Klägerin kaufte 2014 einen gebrauchten, von der Beklagten hergestellten VW Tiguan für 21.000 € bei einem Händler. Seinerzeit wies das Fahrzeug eine Laufleistung von 37.409 km auf. Das Fahrzeug war erstmals 2012 zugelassen worden.Das Fahrzeug wurde von der Beklagten mit einem Dieselmotor der Baureihe EA 189 ausgestattet. In dem Fahrzeug ist eine Motorensteuerungsgerätesoftware installiert, die erkennt, wenn das Fahrzeug auf dem Prüfstand den Neuen Europäischen Fahrzyklus (NEFZ) durchfährt, und dann einen besonderen Modus aktiviert (sog. Umschaltlogik). In diesem Modus wird die Rückführung von Abgasen im Vergleich zu dem normalen Betriebsmodus verändert, wodurch der nach der Euro-5-Norm vorgegebene NOx-Grenzwert während des Durchfahrens des NEFZ eingehalten wird. Im normalen Fahrbetrieb - auch unter vergleichbaren Bedingungen wie im NEFZ - wird dieser Modus deaktiviert, wodurch es zu einem höheren Schadstoffausstoß kommt. Durch Verwendung der Motorensteuerungsgerätesoftware erlangte die Beklagte die EG-Typengenehmigung für das streitgegenständliche Fahrzeug.Dieser Dieselmotor wurde serienmäßig in diversen Fahrzeugmodellen der Beklagten sowie derer Konzernunternehmen verbaut. Die Entscheidung zum Einsatz der "Umschaltlogik" fiel im Unternehmen der Beklagten.Das Kraftfahrt-Bundesamt verpflichtete die Beklagte, bei allen betroffenen Fahrzeugen mit dem Motor EA 189 die aus Sicht des Bundesamtes unzulässige Abschaltvorrichtung zu entfernen und nachzuweisen, dass die gesetzlichen Anforderungen erfüllt werden. Die Beklagte entwickelte ein Update für die Motorensteuerungsgerätesoftware, nach dessen Einspielen das Fahrzeug nur noch über einen einheitlichen Betriebsmodus verfügt. Das Kraftfahrt-Bundesamt sieht das Aufspielen des Updates als verpflichtend an.Die klagende Partei forderte die Beklagte über ihre jetzigen Prozessbevollmächtigten vorgerichtlich mit Schreiben vom 19.12.2017 auf, an sie den Kaufpreis von 21.000 € Zug um Zug gegen Herausgabe des Fahrzeugs binnen eines Monats zu zahlen. Für ihre außergerichtliche Tätigkeit stellten die Klägervertreter der Klägerin einen Vorschuss von 1.348,27 € in Rechnung; wegen der Einzelheiten wird auf die Rechnung in Anlage K29 Bezug genommen. Die Klägerin zahlte darauf am 08.12.2017 291,49 €.Die Klägerin hat in der Klageschrift behauptet, der damals aktuelle Kilometerstand des Fahrzeugs betrage 61.602 km. Die zu erwartende Gesamtfahrleistung betrage 300.000 km. Die Klägerin lässt sich für die Nutzung des Fahrzeugs 1.934,77 € schadensmindernd anrechnen und fordert mit ihrer Klage die Erstattung des restlichen Kaufpreises.Die Klägerin beantragt,1. die Beklagte zu verurteilen, an die Klägerin 19.065,23 € nebst Zinsen in Höhe von 4% aus 21.000 € seit dem 13.10.2014 bis zum Eintritt der Rechtshängigkeit sowie in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Übereignung und Herausgabe des Fahrzeuges der Marke VW vom Typ Tiguan 2.0 TDI mit der Fahrzeugidentifikationsnummer (FIN) ... nebst zwei Fahrzeugschlüsseln, Kfz-Schein, Kfz-Brief und Serviceheft,2. hilfsweise festzustellen, dass die Beklagte verpflichtet ist, der Klägerin Schadensersatz zu bezahlen für Schäden, die aus der Manipulation des Fahrzeugs mit der Marke VW vom Typ Tiguan 2.0 TDI mit der Fahrzeugidentifikationsnummer (FIN) ... durch die Beklagte resultieren,3. festzustellen, dass sich die Beklagte mit der Annahme der in den vorgenannten Klageanträgen genannten Zug um Zug-Leistung im Annahmeverzug befindet,4. die Beklagte zu verurteilen, der Klägerin die durch die Beauftragung der Prozessbevollmächtigten der Klägerin entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 291,49 € nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen sowie in Höhe weiterer 1.056,78 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen.In der Klageerwiderung hat die Beklagte die klägerseits angegebene Laufleistung des Fahrzeugs bestritten und Inaugenscheinnahme am Tag der mündlichen Verhandlung beantragt. Mit vorbereitendem Schriftsatz vom 30.08.2018 hat die Klägerseite angekündigt, einen Nachweis des zu diesem Zeitpunkt aktuellen Kilometerstands in der mündlichen Verhandlung vorzulegen. In der mündlichen Verhandlung wird die aktuelle Laufleistung jedoch weder vorgetragen noch nachgewiesen; auch steht das Fahrzeug nicht zur Inaugenscheinnahme zur Verfügung. Erst nach der mündlichen Verhandlung reicht die Klägerseite, ohne dass ihr das nachgelassen worden wäre, mit Schriftsatz vom 11.09.2018 eine Angabe zur angeblichen Laufleistung am Tag der mündlichen Verhandlung sowie einen Beleg dafür nach. 
+				Gründe
+				Der Rechtsstreit ist entscheidungsreif. Die mündliche Verhandlung ist nicht nach § 156 ZPO wiederzueröffnen, weil die Voraussetzungen dieser Vorschrift nicht vorliegen. Der Antrag der Klägerseite in der mündlichen Verhandlung, ihr zwecks Nachreichung der aktuellen Laufleistung Schriftsatznachlass zu gewähren, ist zurecht zurückgewiesen worden, weil die Voraussetzungen dafür nicht gegeben waren. Eine Schriftsatzfrist kann nach § 283 ZPO nur zur Erwiderung auf verspätetes Vorbringen des Gegners gewährt werden. Die Beklagte hatte die klägerischen Angaben zur Laufleistung bereits mit der Klageerwiderung bestritten, welche der klagenden Partei rechtzeitig vor dem Termin mitgeteilt worden war. Es besteht auch keine Veranlassung zu einem richterlichen Hinweis, nachdem die klagende Partei selbst vorbereitend angekündigt hatte, in der mündlichen Verhandlung einen Nachweis des aktuellen Kilometerstands vorzulegen.Die Klage ist zulässig, aber nicht begründet.Die klagende Partei hat gegen die beklagte Partei keinen Anspruch auf Schadensersatz wegen des verschwiegenen Einbaus einer "Umschaltlogik" in ihr Fahrzeug, weil die klagende Partei nicht schlüssig dargelegt hat, dadurch einen Schaden erlitten zu haben. Sollte die klagende Partei durch unerlaubte Handlung der beklagten Partei zu einem nicht gewollten Kauf veranlasst worden sein, wäre der klagenden Partei der gezahlte Kaufpreis nur abzüglich des Werts der während der Besitzzeit gezogenen Nutzungen zu erstatten, weil andernfalls eine vom Schadensrecht nicht gedeckte Überkompensation stattfinden würde. Der Vorteilsausgleich erfolgt von Amts wegen. Die Berechnung des Nutzungswerts erfolgt anhand der zu erwartenden restlichen Fahrleistung des Fahrzeugs. Die Schadenshöhe und damit auch die Fahrleistung ist vom Anspruchsteller darzulegen und erforderlichenfalls zu beweisen. Im vorliegenden Fall hat die klagende Partei mangels Vortrags der Fahrleistung nicht dargetan, dass der gezahlte Kaufpreis den Wert der seither gezogenen Nutzungen übersteige. Insbesondere ist ohne Vortrag der Fahrleistung am Tag der mündlichen Verhandlung nicht dargetan, dass die zu erwartende Gesamtfahrleistung des Fahrzeugs - laut Klägerseite 300.000 km - noch nicht erreicht sei. Was den Schriftsatz vom 11.09.2018 angeht, so können nach Schluss der mündlichen Verhandlung, auf die das Urteil ergeht, Angriffs- und Verteidigungsmittel nicht mehr vorgebracht werden (§ 296a ZPO).Nachdem kein Schaden dargetan ist, kann die Klage auch mit dem hilfsweise gestellten Feststellungsantrag keinen Erfolg haben. Dasselbe gilt für den Klageantrag zu 2. Schuldet die Beklagte keinen Schadensersatz, so ist sie auch nicht Zug um Zug zur Annahme des Fahrzeugs verpflichtet. Auch ein Anspruch auf Erstattung vorgerichtlicher Anwaltskosten ist in Ermangelung einer Hauptforderung nicht gegeben.Die Kostenentscheidung beruht auf § 91 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2203767.html (https://oj.is/2203767)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

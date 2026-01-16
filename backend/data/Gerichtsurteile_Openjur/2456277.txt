@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG DüsseldorfRechtsprechungUrteil vom 15.12.2020 - 23 U 49/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Düsseldorf, Urteil vom 15.12.2020 - 23 U 49/20
+                      m. Fundstelle
+                      OLG Düsseldorf, Urteil vom 15.12.2020 - 23 U 49/20 = openJur 2022, 20692
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Düsseldorf, Urteil vom 15.12.2020 - 23 U 49/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 20692
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Auf die Berufung der Beklagten wird das am 12.02.2020 verkündete Urteil der 5. Zivilkammer des Landgerichts Düsseldorf teilweise abgeändert und wie folgt neu gefasstDie Klage wird abgewiesen.Die Klägerin hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist vorläufig vollstreckbar. Die Klägerin darf die Vollstreckung gegen Sicherheitsleistung in Höhe von 120% des aufgrund des Urteils zu vollstreckenden Betrages abwenden, wenn nicht die Beklagte vor Vollstreckung Sicherheit in Höhe von 120 % des jeweils zu vollstreckenden Betrages leistet.Die Revision wird nicht zugelassen.  
+				Gründe
+				I.Die Klägerin erwarb am 22.09.2015 bei der Beklagten einen gebrauchten VW Tiguan mit der Fahrzeugidentifikationsnummer ... zu einem Kaufpreis von 29.300,00 €. Das Fahrzeug ist mit einem 2,0-Liter Dieselmotor des Typs EA189, Schadstoffnorm Euro 5, ausgestattet.Die im Zusammenhang mit dem Motor verwendete Software erkennt, ob das Fahrzeug auf einem Prüfstand dem Neuen Europäischen Fahrzyklus (NEFZ) unterzogen wird und schaltet in diesem Fall vom regulären Abgasrückführungsmodus 0 in einen Stickoxidoptimierten Abgasrückführungsmodus 1. Es ergeben sich dadurch auf dem Prüfstand geringere Stickoxid-Emissionswerte als im normalen Fahrbetrieb. Die Grenzwerte der Euro 5-Norm werden nur im Modus 1 eingehalten.Die Verwendung dieser Software wurde Ende September 2015 in den Medien bekannt. Das Kraftfahrt-Bundesamt (KBA) bewertete die Motorsteuerung als eine unzulässige Abschalteinrichtung und gab der Herstellerin mit Bescheid vom 01.06.2016 (Bl. 40) vor, die Vorschriftsmäßigkeit der damit ausgestatteten Fahrzeuge zu gewährleisten. Diese entwickelte daraufhin unter anderem für Fahrzeuge der hier streitgegenständlichen Art mit Dieselmotoren des Typs EA 189 ein Software-Update.Am 19.09.2016 wurde das Software-Update bei dem Fahrzeug der Klägerin aufgespielt.Mit Anwaltsschreiben vom 12.05.2017 erklärte die Klägerin gegenüber der Beklagten den Rücktritt vom Kaufvertrag. Mit ihrer Klage hat sie unter Anrechnung einer Nutzungsentschädigung Rückzahlung des Kaufpreises in Höhe von 26.271,16 € nebst Zinsen Zugum Zug gegen Rückgabe des Fahrzeuges, Feststellung des Annahmeverzugs der Beklagten seit dem 25.05.2017 und Zahlung von vorgerichtlichen Anwaltskosten in Höhe von 1.564,26 € begehrt.Durch das angefochtene Urteil, auf das wegen der tatsächlichen Feststellungen verwiesen wird, hat das Landgericht der Klage weitgehend stattgegeben und die Beklagte zur Zahlung von 24.965,62 € nebst Zinsen Zug um Zug gegen Rückgabe des Fahrzeugs, Feststellung eines Annahmeverzugs der Beklagten seit dem 13.11.2019 und Zahlung von vorgerichtlichen Anwaltskosten in Höhe von 1.242,84 € verurteilt. Dagegen wendet sich die Beklagte mit ihrer Berufung, mit der sie an ihrem Antrag auf Klageabweisung festhält.Die Beklagte beantragt,das angefochtene Urteil im Umfang ihrer Beschwer abzuändern und die Klage insgesamt abzuweisen.Die Klägerin verteidigt das Urteil unter Wiederholung und Vertiefung ihres erstinstanzlichen Vortrags und beantragt,die Berufung zurückzuweisen,hilfsweise das Urteil aufzuheben und zur erneuten Verhandlung zurückzuweisen, hilfsweise die Revision zuzulassen.II.Die Berufung der Beklagten hat Erfolg.Der Klägerin steht gegen die Beklagte kein Zahlungsanspruch aus §§ 346 Abs. 1, 437 Nr. 2, 434, 323 Abs. 1 BGB bzw. aus §§ 437 Nr. 3, 434, 280 BGB zu.1.Zwar lag im Zeitpunkt des Gefahrenübergangs ein Sachmangel im Sinne des § 434 Abs. 1 BGB vor.Die im Motor EA 189 verwendete Motorsoftware, die bei einem erkannten Prüfstandlauf eine verstärkte Abgasrückführung aktivierte, stellt eine unzulässige Abschalteinrichtung nach Art. 5 Abs. 2 Satz 1 der VO 715/2007 des Europäischen Parlaments und des Rates vom 20.07.2007 dar (vgl. BGH, Urteil vom 25.05.2020, VI ZR 252/19, juris, Rn. 17; Urteil vom 30.07.2020, VI ZR 397/19, juris, Rn. 11). Diese Abschalteinrichtung hätte zu einer Betriebsbeschränkung oder -untersagung führen können. Die bei Gefahrübergang bestehende Gefahr einer Betriebsuntersagung oder -beschränkung durch die Zulassungsbehörde führt dazu, dass dem betroffenem Fahrzeug die Eignung für die gewöhnliche Verwendung im Sinne von § 434 Abs. 1 Satz 2 Nr. 2 BGB fehlte (BGH, Hinweisbeschluss vom 08.01.2019, VIII ZR 225/17, NJW 2019, 1133 Rn. 21; so auch BGH, Urteil vom 25.05.2020, VI ZR 252/19, NJW 2020, 1962 Rn. 53).2.Einer Rückabwicklung des Kaufvertrages aufgrund des von der Klägerin mit Anwaltsschreiben vom 12.05.2017 erklärten Rücktritts steht jedoch entgegen, dass durch das Aufspielen des Software-Updates am 19.09.2016 (Bl. 264) der vorgenannte Mangel beseitigt wurde (vgl. auch OLG München, Urteil vom 26.10.2020, 21 U 6317/19, juris, Rn. 20 m.w.N.). Der Mangel liegt - wie ausgeführt - nicht allein auf der technischen Ebene, vielmehr drohten dem Käufer eines solchen Fahrzeugs behördliche Anordnungen zur Beseitigung der unzulässigen Abschalteinrichtung bis hin zur Stilllegung des Wagens. Das KBA als maßgebliche Zulassungsbehörde geht nicht vom Erlöschen der Betriebserlaubnis bzw. vom Entzug der EG-Typengenehmigung aus; vielmehr ist mit der Durchführung des vom KBA freigegebenem Software-Updates die unzulässige Abschalteinrichtung beseitigt worden, so dass diesbezüglich auch keine behördliche Maßnahme mehr droht.a)Auch das Vorbringen der Klägerin, ihr Fahrzeug sei mit einem Minderwert behaftet, führt nicht zur Unzumutbarkeit der Nacherfüllung bzw. zu einem (weiteren) Sachmangel. Für den behaupteten merkantilen Minderwert bedürfte es konkreter Anhaltspunkte, aus denen folgt, dass gerade Dieselfahrzeuge, bei denen eine unzulässige Abschalteinrichtung durch ein Softwareupdate entfernt wurde, einen geringeren Wiederverkaufswert aufweisen. Zumindest wäre nachvollziehbar darzulegen, dass sich der Preis des streitgegenständlichen Fahrzeugtyps ungünstiger entwickelt hat als der Gesamtmarkt für Diesel-Pkw oder der Markt für andere als mit dem EA189 ausgerüstete Diesel-Pkw aus dem VW-Konzern (vgl. OLG Frankfurt, Urteil vom 20.05.2020, 17 U 382/19, juris, Rn. 90; OLG München, Endurteil vom 16.09.2020, 20 U 4234/18, juris, Rn. 38). Der bloße Hinweis, dass es auf der Hand liege, dass sich der Vertrauensverlust negativ auf die Preisentwicklung von VW-Dieselfahrzeugen auswirke, genügt nicht.b)Ohne Erfolg beruft sich die Klägerin weiter darauf, auch mit dem Update halte das Fahrzeug die gesetzlichen NOx-Grenzwerte der Euro-5-Norm im Realbetrieb weiter nicht ein. Der von der Klägerin in Bezug genommene Bericht des KBA zur "Wirksamkeit von Software-Updates zur Reduzierung von Stickoxiden bei Dieselmotoren" vom 10.01.2020 (Anlage BB 1) bescheinigt dem in Rede stehenden Software-Update eine erhebliche Reduzierung der Stickoxidemissionen. Die Vorgaben aus dem sogenannten Dieselgipfel der Bundesregierung vom 02.08.2017 sollen nach den Messungen des KBA übertroffen worden sein.Die Grenzwerte der Schadenstoffklasse Euro 5 sind in Anhang I Tabellen 1 und 2 der Verordnung (EG) Nr. 715/2007 aufgeführt, auch nachzulesen auf Seite 9 des Berichts des KBA vom 10.01.2020.Die Grenzwerte gelten bis Euro 6 ausschließlich für den Typengenehmigungszyklus (NEFZ = Neuer Europäischer Fahrzyklus) auf dem Rollenprüfstand unter Laborbedingungen (vgl. Anhang III der Verordnung (EG) Nr. 692/2008 i.V.m. der UN-Regelung Nr. 83). Abgelöst wird dieses Messverfahren durch die Worldwide Harmonised Light-Duty Vehicles Test Procedure (WLTP), welches den realen Bedingungen der Fahrzeugnutzung näher kommen soll. Die Prüfnorm gilt allerdings erst seit dem 01.09.2017 für alle neuen Fahrzeugtypen und seit 01.09.2018 für alle ab diesem Datum neu zugelassenen Fahrzeuge. Auf die unter Sachverständigenbeweis gestellte Behauptung der Klägerin, mit dem Update würden weiterhin nicht die gesetzlichen NOx-Grenzwerte im Realbetrieb eingehalten, kommt es demnach nicht an. Entsprechend stellt das KBA in dem Bericht auch klar, dass Fahrzeuge, die nach dem NEFZ typengenehmigt wurden, auch nur die für die Typengenehmigung zugrunde zu legenden Anforderungen erfüllen müssen; die Beseitigung der unzulässigen Abschalteinrichtung erfordere formal nicht, dass das Fahrzeug im realitätsnäheren WLTP bzw. RDE (Real Driving Emissions) den jeweiligen Grenzwert einhalte (Seite 19 letzter Absatz des Berichts).Die Nichteinhaltung der gesetzlich vorgegebenen Grenzwerte folgt auch nicht aus den jeweiligen Tabellen im Bericht, etwa der für den VW EA 189 Cluster # 6 (Bl. 304 = Seite 32 des Berichts). Darin ist zwar auf den Zyklus NEFZ abgestellt, allerdings unter anderen Parametern als beim Rollenprüfstand unter Laborbedingungen. So werden die Messungen ausweislich Seite 20 des Berichts bei dem NEFZ-Fahrprofil auf der Straße unter realen Umgebungsbedingungen - "außerhalb des Rollenprüfstandes" - und in Variationen davon durchgeführt. Soweit die Klägerin weiter vorträgt, dass das Fahrzeug unter "jeglichen Betriebsbedingungen - auch auf dem Prüfstand" die Grenzwerte für den NOx-Ausstoß der Euro 5-Norm nicht erfüllt, stellt sie schon den erforderlichen Bezug zum maßgeblichen Prüfverfahren (Rollenprüfstand unter Laborbedingungen) nicht her, so dass auch den Beweisantritten der Klägerin nicht nachzugehen ist.c)Schließlich vermag auch die allgemeine Bezugnahme auf die Dissertation "Modellierung der Ruß- und NOx-Emissionen des Dieselmotors" vom 21.12.2006 nicht den Vortrag zu ersetzen, dass die Nacherfüllung aus "technischer und chemischer Sicht" nicht möglich und daher untauglich sein soll, die bestehenden Mängel zu beheben. Inwieweit die Ergebnisse aus 2006 im Zusammenhang mit dem im Jahr 2015 bekannt gewordenen Abgasskandal und dem in der Folge entwickelten Software-Update stehen sollen, erschließt sich nicht. Zudem steht die Behauptung im Widerspruch zu der Auffassung der zuständigen Zulassungsbehörde, die die Software-Updates anerkannt hat.III.Die Kostenentscheidung folgt aus § 91 Abs. 1 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit aus §§ 708 Ziff. 10, 711 ZPO.Die Voraussetzungen für die Zulassung der Revision (§ 543 Abs. 2 ZPO) liegen nicht vor.
+			
+			
+			
+			Permalink: https://openjur.de/u/2456277.html (https://oj.is/2456277)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

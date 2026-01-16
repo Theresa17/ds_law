@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSachsen-AnhaltOrdentliche GerichtsbarkeitOLG NaumburgRechtsprechungBeschluss vom 19.11.2019 - 7 U 24/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Naumburg, Beschluss vom 19.11.2019 - 7 U 24/19
+                      m. Fundstelle
+                      OLG Naumburg, Beschluss vom 19.11.2019 - 7 U 24/19 = openJur 2020, 45877
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Naumburg, Beschluss vom 19.11.2019 - 7 U 24/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 45877
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die tatbestandlichen Feststellungen unter Abschnitt A.) des am 27. September 2019 verkündeten Urteils des Senats werden gemäß § 320 Abs. 1 ZPO wie folgt berichtigt:Auf Seite 4, vierter Abschnitt des Urteils wird der Satz:"Der Kläger ließ das Software-Update wegen der Befürchtung etwaiger weiterer Schäden bislang nicht ausführen."durch folgenden Satz ersetzt:"Der Kläger ließ das Software-Update ausführen."2. Der weitergehende Antrag der Beklagten auf Berichtigung der tatbestandlichen Feststellungen des Urteils vom 27. September 2019 wird zurückgewiesen.  
+				Gründe
+				Der Tatbestandsberichtigungsantrag der Beklagten ist nach § 320 Abs. 1 ZPO statthaft und auch im Übrigen zulässig, insbesondere form- und fristgerecht nach § 320 Abs. 1, Abs. 2 ZPO gestellt worden.In der Sache ist dem Berichtigungsantrag der Beklagten jedoch nur teilweise zu entsprechen gewesen.1. Die tatbestandlichen Feststellungen des Urteils des Senates vom 27. September 2019 sind unrichtig, soweit der Senat auf Seite 4 seines Urteils ausgeführt hat, dass der Kläger das Software-Update wegen der Befürchtung etwaiger weiterer Schäden bislang nicht ausführen ließ. Zwar hat der Kläger in der Berufungsbegründung - unter Bezugnahme auf sein erstinstanzliches Vorbringen - noch behauptet, dass er kein Software-Update habe ausführen lassen. Der Behauptung der Beklagten in deren Berufungserwiderung, der Kläger habe das Software-Update zwischenzeitlich aufspielen lassen, ist der Kläger jedoch im Folgenden nicht entgegengetreten.2. Ohne Erfolg begehrt die Beklagte allerdings des Weiteren die Streichung des Satzes auf Seite 4 der tatbestandlichen Feststellungen: "Bei Temperaturen unter 10 ° Celsius und über 32 ° Celsius findet eine Abgasreinigung hingegen nicht statt." Eine Unrichtigkeit der tatbestandlichen Feststellungen des Senats liegt insoweit nicht vor. Der Senat hat den Sach- und Streitstand hierzu vielmehr zutreffend wiedergegeben.Der Kläger hat mit Schriftsatz vom 20. August 2019 im Berufungsverfahren vorgetragen, dass die Beklagte mit dem Software-Update die Abgasreinigung dergestalt habe programmieren lassen, dass sich ein sog. Thermofenster ergebe, d.h. dass die Abgasreinigung nur bei Temperaturen zwischen 10 Grad bis 32 Grad Celsius funktioniere und bei Temperaturen unter 10 Grad Celsius und über 32 Grad Celsius nicht stattfinde, und insoweit inhaltlich auf eine Pressemitteilung des Landgerichts Düsseldorf zu dem dort am 31. Juli 2019 unter der Geschäftsnummer 7 O 166/ 18 verkündeten Urteil verwiesen. Der Behauptung, dass ein solches Thermofenster in dem EA189 - Motor nach dem Software-Update zum Einsatz kommt, ist die Beklagte mit Schriftsatz vom 02. September 2019 nicht entgegengetreten. Sie hat hierzu vielmehr die Ansicht vertreten, dass es sich hierbei nicht um eine unzulässige Abschalteinrichtung handele, und auf Seiten 25 bis 29 ihres Schriftsatzes vom 02. September 2019 die Funktionsweise der sog. Ausrampstrategie allgemein beschrieben. Auch im Termin der mündlichen Verhandlung vom 06. September 2019 hat die Beklagte das Vorbringen des Klägers zur Implementierung eines Thermofensters nicht konkret in Abrede genommen und sich zu den diesbezüglichen Behauptungen aus dem Schriftsatz vom 20. August 2019 nicht näher verhalten. Weder aus dem Schriftsatz der Beklagten vom 02. September 2019 noch aus dem Protokoll der mündlichen Verhandlung vom 06. September 2019 geht mithin hervor, dass die Beklagte den Vortrag des Klägers betreffend das Thermofenster inhaltlich konkret bestritten habe. Ausweislich des Sitzungsprotokolls hat der Kläger im Termin der mündlichen Verhandlung vom 06. September 2019 sogar gerade deshalb einen Schriftsatznachlass beantragt, weil die Beklagte seine Behauptung zum Thermofenster unstreitig gestellt habe.
+			
+			
+			
+			Permalink: https://openjur.de/u/2262463.html (https://oj.is/2262463)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

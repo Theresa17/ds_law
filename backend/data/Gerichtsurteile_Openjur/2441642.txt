@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG MünchenRechtsprechungBeschluss vom 09.09.2021 - 30 U 1573/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG München, Beschluss vom 09.09.2021 - 30 U 1573/21
+                      m. Fundstelle
+                      OLG München, Beschluss vom 09.09.2021 - 30 U 1573/21 = openJur 2022, 13699
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG München, Beschluss vom 09.09.2021 - 30 U 1573/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 13699
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Berufung des Klägers gegen das Endurteil des Landgerichts Augsburg vom 24.02.2021, Az. 025 O 1359/20, wird zurückgewiesen.2. Der Kläger hat die Kosten des Berufungsverfahrens zu tragen.3. Dieser Beschluss ist ebenso wie das in Nr. 1. bezeichnete Urteil des Landgerichts Augsburg ohne Sicherheitsleistung vorläufig vollstreckbar.4. Der Streitwert für das Berufungsverfahren wird auf 7.720,52 € festgesetzt.  
+				Gründe
+				Die Berufung gegen das Urteil des Landgerichts Augsburg vom 24.02.2021, Az. 025 O 1359/20, ist gemäß § 522 Abs. 2 ZPO zurückzuweisen, weil nach einstimmiger Auffassung des Senats das Rechtsmittel offensichtlich keine Aussicht auf Erfolg hat, der Rechtssache auch keine grundsätzliche Bedeutung zukommt, weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Berufungsgerichts aufgrund mündlicher Verhandlung erfordert und die Durchführung einer mündlichen Verhandlung über die Berufung auch aus sonstigen Gründen nicht geboten ist.I.Hinsichtlich der Darstellung des Sach- und Streitstandes wird auf den Tatbestand im angefochtenen Urteil des Landgerichts Augsburg vom 24.02.2021, Az. 025 O 1359/20, Bezug genommen.II.Zur Begründung der Zurückweisung der Berufung wird auf den vorausgegangenen Hinweis des Senats vom 09.08.2021 Bezug genommen.Die Ausführungen in der Gegenerklärung vom 07.09.2021 rechtfertigen keine davon abweichende Beurteilung und geben lediglich zu folgenden Anmerkungen Anlass:1. Nach Auffassung des Senats fehlt es auch in Ansehung des Vorbringens in der Gegenerklärung weiterhin bereits an einer hinreichend substantiierten Darlegung einer unzulässigen Abschalteinrichtung im Sinn des Art. 5 Abs. 2 der VO (EG) 715/2007. Dies gilt insbesondere für die in der Gegenerklärung angeführte "Fahrkurvenerkennung".2. Hervorzuheben ist insoweit, dass die bloße Installation einer Fahrkurvenerkennung nicht per se eine Abschalteinrichtung gemäß Art. 3 Abs. 10 VO (EG) 715/2007 darstellt. Nur wenn die Ermittlung der Parameter genutzt wird, um die Funktion eines Teils des Emissionskontrollsystems so zu aktivieren, zu verändern, zu verzögern oder zu deaktivieren, dass die Wirksamkeit des Emissionskontrollsystems im normalen Fahrbetrieb verringert wird, liegt überhaupt eine Abschalteinrichtung im Sinn des Art. 3 Abs. 10 VO (EG) 715/2007 vor. Für die Beurteilung der Frage, ob eine unzulässige Abschalteinrichtung vorliegt, kommt es zwar nicht allein auf die Feststellungen des Kraftfahrt-Bundesamtes (KBA) an. Bereits im Rahmen der Prüfung des objektiven Tatbestands des § 826 BGB ist aber von Bedeutung, dass umfangreiche Überprüfungen des KBA von Motoren der Baureihe EA 288 gerade nicht zur Feststellung unzulässiger Abschalteinrichtungen führten.3. Für die etwaige Feststellung einer vorsätzlichen sittenwidrigen Schädigung gemäß § 826 BGB, für die der Kläger darlegungs- und beweispflichtig ist, wäre subjektiv über das festzustellende Vorliegen einer unzulässigen Abschalteinrichtung hinaus zusätzlich das Bewusstsein der für die Beklagten handelnden Personen erforderlich, eine unzulässige Abschalteinrichtung zu verwenden. Aus dem Vortrag des Klägers ergeben sich hierfür aus Sicht des Senats keine konkreten Anhaltspunkte. Vielmehr spricht der Umstand, dass das KBA als zuständige Fachbehörde nach Prüfung dieser Frage und Durchführung von Untersuchungen das Vorhandensein einer unzulässigen Abschalteinrichtung verneint hat, ganz erheblich gegen einen derartigen Vorsatz.4. Gegenüber dem KBA wurde offengelegt, dass im Motorsteuergerät des Motors EA 288 zwar eine Fahrkurve hinterlegt sei, daran aber gerade nicht die aus dem EA189-Motor bekannten Folgen der Umschaltlogik angeknüpft seien. Dem entsprechend wurde vom KBA eine Fahrkurvenerkennung bei Fahrzeugen mit dem Motor EA 288 auch nicht als unzulässige Abschalteinrichtung bewertet. Auch hat das KBA umfangreiche Überprüfungen des Motors EA 288 unter realen Fahrbedingungen auf der Straße durchgeführt, ohne dass eine unzulässige Abschalteinrichtung festgestellt wurde.III.1. Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO.2. Der Ausspruch über die vorläufige Vollstreckbarkeit ergibt sich aus § 708 Nr. 10, § 713 ZPO.3. Der Streitwert wurde in Anwendung der §§ 47, 48 GKG bestimmt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2441642.html (https://oj.is/2441642)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

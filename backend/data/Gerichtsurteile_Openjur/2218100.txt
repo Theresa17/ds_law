@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteRheinland-PfalzOrdentliche GerichtsbarkeitOLG KoblenzRechtsprechungUrteil vom 06.02.2020 - 6 U 1219/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Koblenz, Urteil vom 06.02.2020 - 6 U 1219/19
+                      m. Fundstelle
+                      OLG Koblenz, Urteil vom 06.02.2020 - 6 U 1219/19 = openJur 2020, 20149
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Koblenz, Urteil vom 06.02.2020 - 6 U 1219/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 20149
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Berufung des Klägers gegen das Urteil der 5. Zivilkammer des Landgerichts Trier vom 12.06.2019, Az. 5 O 588/18, wird zurückgewiesen.2. Der Kläger hat die Kosten des Berufungsverfahrens zu tragen.3. Das Urteil ist vorläufig vollstreckbar. Der Kläger kann die Vollstreckung durch Sicherheitsleistung in Höhe von 110% des aus dem Urteil vollstreckbaren Betrages abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrages leistet.4. Die Revision wird zugelassen.  
+				Gründe
+				I.Der Kläger begehrt von der Beklagten Schadensersatz in Form der Rückgängigmachung des Erwerbs eines Gebrauchtwagens, der von der Beklagten mit einem Dieselmotor der Baureihe EA 189 hergestellt und in Verkehr gebracht worden war.Bei dem streitgegenständlichen Fahrzeug handelt es sich um einen im Jahre 2012 erstzugelassenen VW Touran 2,0 TDI (Fahrzeug-Identifizierungsnummer: ...21). Für den Fahrzeugtyp wurde eine Typengenehmigung nach Schadstoffklasse Euro 5 erteilt. Die Dieselmotoren der in dem Pkw verbauten Reihe EA 189 verfügten über eine Steuerungssoftware, die auf dem Prüfstand vom regulären Abgasrückführungsmodus 0 in den stickoxid-optimierten Modus 1 wechselt. Die Stickoxid-Emissionswerte auf dem Prüfstand waren hierdurch geringer als im regulären Fahrbetrieb.Die Beklagte informierte die Öffentlichkeit mittels Pressemitteilung vom 22.09.2015 über die Verwendung der Steuerungssoftware mit Umschaltlogik in allen Fahrzeugen mit Motoren des Typs EA 189 und kündigte die Beseitigung der Abweichung in Abstimmung mit dem Kraftfahrtbundesamt an. Über den damit verbundenen "Abgasskandal" wurde in allen nationalen und internationalen Medien ausführlich berichtet. Infolge der Problematik trat am 23.09.2015 der damalige Konzernchef ...[B] zurück. Unmittelbar nach Bekanntwerden der Abgasproblematik informierte die Beklagte ihre Vertragshändler und Servicepartner sowie die anderen Konzernhersteller über den Umstand, dass Fahrzeuge mit EA 189-Motor über die Umschaltsoftware verfügen. Die Servicepartner wurden von ihr angewiesen, die Durchführung des Softwareupdates in den Fahrzeugunterlagen zu vermerken und mittels eines Aktionsaufklebers am Fahrzeug, etwa in der Reserveradmulde, zu kennzeichnen. Anfang Oktober 2015 richtete die Beklagte für Kunden eine Webseite ein, auf der diese sich durch die Eingabe der Fahrzeug-Identifizierungsnummer darüber informieren konnten, ob ihr Fahrzeug von der Abgasproblematik betroffen ist. Bejahendenfalls wurde mitgeteilt, dass der im Fahrzeug eingebaute Motor von einer Software betroffen ist, die Stickoxidwerte (NOx) im Prüfstandlauf (NEFZ) optimiert. Auch über die Einrichtung der Webseite informierte die Beklagte im Wege einer Pressemitteilung; ausgehend hiervon wurde die Freischaltung der Internet-Abfrage-möglichkeit durch zahlreiche Medien an die Öffentlichkeit kommuniziert. Die Internetabfrage gab in der Folgezeit außerdem Auskunft darüber, ob das zur Beseitigung der Umschaltlogik erarbeitete Softwareupdate bei dem jeweiligen Fahrzeug bereits aufgespielt worden war oder nicht. Hinsichtlich der weiteren Einzelheiten des Bekanntwerdens der Abgasproblematik wird auf die Ausführungen der Beklagten in der Berufungserwiderung vom 11.11.2019 (S. 8 ff. = Bl. 696 ff. d.A.) Bezug genommen.Am streitgegenständlichen Fahrzeug wurde die ursprüngliche Umschaltlogik mit einem am 22.11.2016 aufgespielten Software-Update beseitigt.Der Kläger hat vorgetragen,er habe den VW Touran 2,0 TDI im August 2016 mit einem Kilometerstand von 79.700 km zu einem Preis von 17.600 € gekauft. Damals seien ihm zwar der "Abgasskandal", nicht aber dessen konkrete Auswirkungen auf das streitgegenständliche Fahrzeug bekannt gewesen. Hätte er Kenntnis von der implementierten Abschaltvorrichtung und ihren Folgen gehabt, hätte er das Fahrzeug nicht erworben.Der Kläger hat erstinstanzlich beantragt,1. die Beklagte zu verurteilen, an ihn 17.600 € nebst Zinsen in Höhe von vier Prozent seit dem 12.08.2016 bis zur Rechtshängigkeit und seither fünf Prozentpunkten über dem Basiszinssatz, Zug um Zug gegen Rückgabe und Übereignung des Fahrzeugs mit der Fahrgestellnummer ...21 zu zahlen,2. festzustellen, dass sich die Beklagte seit dem 18.12.2018 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstandes in Annahmeverzug befindet,3. die Beklagte zu verurteilen, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.266,16 € nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 18.12.2018 zu zahlen.Die Beklagte hat beantragt,die Klage abzuweisen.Das Landgericht hat die Klage abgewiesen. Eine deliktische Haftung der Beklagten nach §§ 826, 823 Abs. 2 BGB i.V.m. § 263 StGB, § 831 BGB hat es mit der Begründung verneint, dass bei Vertragsschluss keine Täuschung vorgelegen habe, weil die Beklagte bereits neun Monate vor Vertragsschluss die Problematik der Abschalteinrichtung bei EA 189-Motoren offengelegt habe. Jedenfalls seien die für die Beklagte handelnden Organe mit der Aufklärung der Öffentlichkeit vom Versuch der Begehung eines Betruges zurückgetreten. Deshalb sei auch nicht mehr mit Sicherheit von einem irrtumsbedingten Kauf des Klägers auszugehen. Eine Haftung nach § 823 Abs. 2 BGB i.V.m. Artt. 12, 14 der Richtlinie Nr. 2007/46/EG und §§ 4, 6, 25, 27 EG-FGV komme nicht in Betracht, weil die Normen nicht den Schutz des Vermögens der Fahrzeugkäufer bezweckten. Ansprüche nach den Grundsätzen zur Prospekthaftung schieden aus, weil es für Fahrzeuge anders als bei Kapitalanlagen andere allgemein zugängliche Möglichkeiten als nur den Verkaufsprospekt gebe, um sich vor der Kaufentscheidung über ein bestimmtes Modell zu informieren. Schließlich sei ein Schadensersatzanspruch nach §§ 311 Abs. 3, 241 Abs. 2 BGB zu verneinen, weil die Beklagte weder unmittelbar noch mittelbar an den Vertragsverhandlungen beteiligt gewesen sei.Mit der Berufung rügt der Kläger die Besetzung des Landgerichts, weil der erkennende Einzelrichter, Richter am Amtsgericht ...[A], nach dem Geschäftsverteilungsplan des Landgerichts Trier, Stand 01.01.2019, nicht Mitglied des Landgerichts, insbesondere nicht der 5. Zivilkammer, gewesen sei. Im Übrigen macht der Kläger im Wesentlichen geltend, das Landgericht habe deliktische Ansprüche nach §§ 826, 823 Abs. 2 BGB i.V.m. § 263 StGB und/oder § 27 Abs. 1 EG-FGV, § 831 BGB zu Unrecht verneint und wiederholt hierzu sein erstinstanzliches Vorbringen. Das Landgericht habe sich nicht ausreichend damit ausgesetzt, dass der Kläger keine Kenntnis bezüglich der Details der illegalen Abschalteinrichtung bei dem von ihm erworbenen Fahrzeug gehabt habe. Insoweit hätte es den Kläger anhören müssen, um die Umstände aufzuklären. Darüber hinaus habe es nicht berücksichtigt, dass das Fahrzeug auch nach dem Update über außentemperaturabhängige unzulässige Abschalteinrichtungen verfügt habe.Die Klägerin beantragt,unter Abänderung des Urteils des Landgerichts, 5 O 588/18, verkündet am 12.06.2019,1. die Beklagte zu verurteilen, an ihn 17.600 € nebst Zinsen in Höhe von vier Prozent seit dem 12.08.2016 bis zur Rechtshängigkeit und seither fünf Prozentpunkten über dem Basiszinssatz, Zug um Zug gegen Rückgabe und Übereignung des Fahrzeugs mit der Fahrgestellnummer ...21 zu zahlen,2. festzustellen, dass sich die Beklagte seit dem 18.12.2018 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstandes in Annahmeverzug befindet,3. die Beklagte zu verurteilen, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.266,16 € nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 18.12.2018 zu zahlen.Hilfsweise,das erstinstanzliche Urteil des Landgerichts Trier, 5 O 588/18, verkündet am 12.06.2019, aufzuheben und zur erneuten Verhandlung zurückzuweisen.Die Beklagte beantragt,die Berufung zurückzuweisen.Wegen der weiteren Einzelheiten wird auf die tatsächlichen Feststellungen im angegriffenen Urteil sowie die zwischen den Parteien gewechselten Schriftsätze Bezug genommen.II.Die zulässige Berufung des Klägers ist nicht begründet. Das Landgericht hat die Klage zu Recht abgewiesen.1. Die Rüge eines Verstoßes gegen Art. 101 Abs. 1 Satz 2 GG (gesetzlicher Richter), weil der erkennende Einzelrichter der Ausgangsinstanz, Richter am Amtsgericht ...[A], im Geschäftsverteilungsplan des Landgerichts Trier (Stand 01.01.2019) nicht aufgeführt war, greift nicht durch. Vielmehr war Richter am Amtsgericht ...[A] ausweislich der vom Senat beigezogenen Präsidiumsbeschlüsse des Landgerichts Trier vom 25.01.2019 (G 5250/1A) und 23.07.2019 (G 5250/1A) im Zeitpunkt der dem angegriffenen Urteil zugrunde liegenden mündlichen Verhandlung vom 28.05.2019 sowie der Urteilsverkündung Mitglied der 5. Zivilkammer des Landgerichts Trier. Als solches war er für den Erlass der erstinstanzlichen Entscheidung zuständig.2. Die Klage ist nicht begründet.a) Dem Kläger stehen gegen die Beklagte unter keinem rechtlichen Gesichtspunkt Schadensersatzansprüche wegen des laut Klägervortrag von ihm im August 2016 ge-braucht erworbenen, von der Beklagten mit einem Motor der Baureihe EA 189 unter Verwendung der bekannten "Manipulationssoftware" hergestellten VW Touran zu.aa) Ein Anspruch gemäß § 826 BGB scheidet aus, weil der Erwerb des streitgegenständlichen Fahrzeugs nicht auf einer sittenwidrigen Handlung der Beklagten beruht.(1) Ein Anspruch nach § 826 BGB setzt in objektiver Hinsicht ein schadensursächliches Verhalten des Anspruchsgegners voraus, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann (BGH, Urteil v. 28.06.2016 - VI ZR 536/15 -, NJW 2017, 250 Rn. 16 m.w.N. - sämtliche Entscheidungen zitiert nach juris). Insbesondere bei mittelbaren Schädigungen - wie hier - kommt es darauf an, dass den Schädiger das Unwerturteil, sittenwidrig gehandelt zu haben, gerade auch in Bezug auf die Schäden desjenigen trifft, der Ansprüche aus § 826 BGB geltend macht (vgl. BGH, Urteil v. 07.05.2019 - VI ZR 512/17 -, NJW 2019, 2164 Rn. 8 m.w.N.).(2) Diese Voraussetzungen sind bei dem hier streitgegenständlichen Fahrzeugerwerb des Klägers im August 2016 nicht gegeben.(a) Es fehlt bereits an einer geeigneten Schädigungshandlung der Beklagten. Zwar liegt im Inverkehrbringen eines Fahrzeuges, das mit einer unzulässigen, das Abgasverhalten auf dem Prüfstand im Geheimen positiv beeinflussenden Motorsoftware ausgestattet ist, eine konkludente Täuschung der potentiellen Fahrzeugkäufer über die uneingeschränkte Eignung des Fahrzeugs zur Nutzung im Straßenverkehr (vgl. OLG Koblenz, Urteil v. 12.06.2019 - 5 U 1318/18 -, NJW 2019, 2237 Rn. 22 m.w.N.). Diese Täuschung wirkte jedoch im Zeitpunkt des Kaufs durch den Kläger nicht mehr fort, nachdem die Problematik bereits im Herbst 2015 öffentlich bekannt geworden war (vgl. OLG Koblenz, Urteil v. 25.10.2019 - 3 U 948/19 -, juris Rn. 28).Die Beklagte hat gegenüber der Öffentlichkeit mittels Pressemitteilung vom 22.09.2015 die Verwendung der Steuerungssoftware mit Umschaltlogik in allen Fahrzeugen mit Motoren des Typs EA 189 eingeräumt und die Beseitigung der Abweichung in Abstimmung mit dem Kraftfahrtbundesamt angekündigt. Im Anschluss hieran beherrschte das Thema des "Abgasskandals" für Tage die öffentliche Berichterstattung. Infolge der Problematik trat am 23.09.2015 der damalige Konzernchef ...[B] zurück, was weitere Berichterstattung auf den Titelseiten der meisten Print- und Onlinemedien nach sich zog. Auch danach wurde in nationalen und internationalen Medien ausführlich weiter über die "VW-Abgasaffäre" und die "Betrugs-Software" berichtet. Unmittelbar nach Bekanntwerden der Abgasproblematik informierte die Beklagte ihre Vertragshändler und Servicepartner sowie die anderen Konzernhersteller über den Umstand, dass Fahrzeuge mit EA 189-Motor über die Umschaltsoftware verfügen. Die Servicepartner wurden von ihr angewiesen, die Durchführung des Softwareupdates in den Fahrzeugunterlagen zu vermerken und mittels eines Aktionsaufklebers am Fahrzeug, etwa in der Reserveradmulde, zu kennzeichnen. Anfang Oktober 2015 richtete die Beklagte für Kunden eine Webseite ein, auf der diese sich in einfacher Weise durch Eingabe der Fahrzeug-Identifizierungsnummer informieren konnten, ob ihr Fahrzeug von der Abgasproblematik betroffen ist. Bejahendenfalls wurde mitgeteilt, dass der im Fahrzeug eingebaute Motor von einer Software betroffen ist, die Stickoxidwerte (NOx) im Prüfstandlauf (NEFZ) optimiert. Auch über die Einrichtung der Webseite informierte die Beklagte im Wege einer Pressemitteilung; ausgehend hiervon wurde die Freischaltung der Internet-Abfragemöglichkeit wiederum durch zahlreiche Medien an die Öffentlichkeit kommuniziert. Die Internetabfrage gab in der Folgezeit zudem Auskunft darüber, ob das zur Beseitigung der Umschaltlogik erarbeitete Softwareupdate bei dem jeweiligen Fahrzeug bereits aufgespielt worden war oder nicht.Aufgrund des solcherart allgemeinen Bekanntwerdens, dass die Beklagte in Dieselfahrzeugen ihres Konzerns mit dem Motortyp EA 189 eine unzulässige "Manipulationssoftware" eingebracht hatte, war der mit dem Inverkehrbringen der Fahrzeuge verbundene konkludente Erklärungsinhalt ihrer uneingeschränkten Verkehrseignung so abgeschwächt, dass im Zeitpunkt des Gebrauchtwagenkaufs durch den Kläger im August 2016 keine Täuschungseignung mehr gegeben war (vgl. OLG Koblenz, Urteil v. 25.10.2019 - 3 U 948/19 -, a.a.O.).(b) Mit der allgemeinen öffentlichen Bekanntmachung der Abgasproblematik durch die Beklagte und die Medien ist zudem das für einen Anspruch nach § 826 BGB erforderliche Unwerturteil der Sittenwidrigkeit entfallen (vgl. OLG Stuttgart, Urteil v. 26.11.2019 - 10 U 338/19 -, juris Rn. 37 ff.; OLG Köln, Urteil v. 06.06.2019 - 24 U 5/19 -, juris Rn. 44 ff.; OLG Frankfurt, Urteil v. 06.11.2019 - 13 U 156/19 -, juris Rn. 38 ff.). In Bezug auf den klägerseits geltend gemachten, ihm mit dem Kaufvertragsschluss im August 2016 entstandenen Schaden stellt sich das Verhalten der Beklagten nicht (mehr) als sittenwidrig dar. Dabei kommt es nicht entscheidend darauf an, ob die Beklagte im Rahmen ihrer Aufklärung rückhaltlos eingestanden hat, eine illegale Abschalteinrichtung verwendet zu haben oder ob es noch bessere Möglichkeiten zur Aufklärung der Kunden gegeben hätte. Jedenfalls waren die Umstände, die ihr Verhalten ursprünglich als sittenwidrig erscheinen ließen, im Zeitpunkt des Vertragsschlusses des Klägers weggefallen. Denn ab Herbst 2015 war das Handeln der Beklagten nicht mehr darauf gerichtet, gesetzliche Abgasregeln mittels der gegenüber den Zulassungsbehörden geheim gehaltenen Steuerungssoftware unter Täuschung ihrer Kunden zu umgehen und hierdurch ihren Gewinn zu maximieren (vgl. OLG Koblenz, Urteil v. 25.10.2019 - 3 U 948/19 -, a.a.O.; OLG Celle, Beschlüsse v. 01.07.2019 - 7 U 33/19 -, ZIP 2019, 2012 Rn. 24 und v. 27.05.2019 - 7 U 335/18 -, juris Rn. 25).(c) Darüber hinaus fehlt es auch am erforderlichen Ursachenzusammenhang zwischen der (unterstellten) Täuschung und dem Kaufentschluss des Klägers. Die Darlegungs- und Beweislast trägt insoweit nach allgemeinen Regeln der Kläger. Seine Behauptung, ihm sei zwar der Abgasskandal bekannt gewesen, nicht aber die implementierte Abschalteinrichtung im streitgegenständlichen Fahrzeug, reicht für die Annahme eines Kausalzusammenhangs nicht aus. Auf eine Vermutung aufklärungsrichtigen Verhaltens kann sich der Kläger schon deshalb nicht stützen, weil nach Bekanntwerden der Abgasproblematik und der in Abstimmung mit dem Kraftfahrtbundesamt erfolgten Entwicklung von technischen Lösungen zur Beseitigung der Umschaltlogik die Gefahr des Entzugs der Typengenehmigung nunmehr gering war und die Entscheidung für oder wider den Erwerb daher im Einzelfall ebenso gut von anderen Faktoren bestimmt sein konnte. Dementsprechend wurden auch nach Bekanntwerden des Skandals betroffene Gebrauchtfahrzeuge weiterhin vielfach verkauft (vgl. OLG Dresden, Urteil v. 24.07.2019 - 9 U 2067/18 - juris Rn. 31).Es hätte daher seitens des Klägers einer näheren Darlegung bedurft, weshalb er trotz Kenntnis davon, dass bei Dieselfahrzeugen der Beklagten in großem Umfang eine das Abgasverhalten unzulässig beeinflussende Software verbaut ist, eine entsprechende Betroffenheit des streitgegenständlichen VW Touran nicht in Betracht gezogen hat. Einen solchen Vortrag hat er - auch nach Hinweis des Senats in der mündlichen Verhandlung vom 19.12.2019 (vgl. Bl. 835 d.A.) - nicht gehalten. Angesichts der aufgrund des Kaufgegenstands ("VW Touran 2,0 TDI" mit Erstzulassung Februar 2012) mehr als naheliegenden Möglichkeit, dass das Fahrzeug von der Abgasproblematik erfasst ist, hätte es sich aufgedrängt, hierzu Erkundigungen einzuholen. Dies hätte durch eine einfache Nachfrage beim Händler erfolgen können. Dass der Kläger in dieser Hinsicht nichts unternommen haben will, spricht gewichtig dafür, dass die Frage, ob das Fahrzeug mit einem von der Abgasproblematik erfassten Motor ausgestattet war oder nicht, für seine Kaufentscheidung nicht von entscheidender Bedeutung war (so auch OLG Dresden, a.a.O., Rn. 31; OLG Koblenz, Urteil v. 25.10.2019 - 3 U 948/19 -, juris Rn. 39; OLG Köln, Urteil v. 06.06.2019 - 24 U 5/19 -, juris Rn. 49).(3) Ob ein Anspruch des Klägers nach § 826 BGB darüber hinaus am fehlenden Vorsatz der Beklagten im Zeitpunkt des Fahrzeugerwerbs durch den Kläger scheitert (so OLG Schleswig, Urteil v. 29.11.2019 - 1 U 32/19 -, juris Rn. 36 ff.; OLG Oldenburg, Urteil v. 28.05.2019 - 2 U 34/19 -, BeckRS 2019, 21327), braucht nach alldem hier nicht entschieden zu werden.(4) Soweit der Kläger im Übrigen behauptet, dass das Fahrzeug nach dem Aufspielen des Updates über eine temperaturabhängige, ebenfalls unzulässige Abschalteinrichtung verfüge, kann die Richtigkeit dieses Vortrages vorliegend ebenso dahingestellt bleiben wie sein Vorbringen im Schriftsatz vom 29.01.2020, auch mit dem Update halte das Fahrzeug die gesetzlichen NOx-Grenzwerte der Euro 5-Norm nicht ein. Eine für den Kaufentschluss des Klägers ursächliche sittenwidrige Schädigung der Beklagten scheidet diesbezüglich schon deshalb aus, weil das Softwareupdate nach dem Klägervortrag im Zeitpunkt des Kaufvertragsschlusses im August 2016 noch in der Entwicklung befindlich war. Der Kläger trägt selbst vor, er habe deshalb noch nicht wissen können, ob es zur Mängelbeseitigung überhaupt geeignet sein würde (vgl. Bl. 589 d.A.). Insoweit fehlt es mithin an einer Täuschungshandlung der Beklagten, die den Kaufentschluss des Klägers hätte beeinflussen können.bb) Der Kläger kann seinen Schadensersatzanspruch auch nicht auf §§ 823 Abs. 2, 31 BGB i.V.m. § 263 Abs. 1 StGB stützen. Im Rahmen der Tatbestandsanforderungen von § 263 StGB fehlt es nach den vorstehenden Ausführungen ebenfalls an einer zur Irrtumserregung geeigneten Täuschungshandlung der Beklagten sowie an dem erforderlichen Kausalzusammenhang zwischen behaupteter Täuschung und Kaufentschluss des Klägers. Darüber hinaus ist die nach § 263 StGB zudem notwendige Stoffgleichheit zwischen dem vom Täter erstrebten Vermögensvorteil und dem beim Betroffenen eingetretenen Schaden bei dem hier streitgegenständlichen Gebrauchtwagenkauf nicht gegeben (vgl. OLG Stuttgart, Urteile v. 07.08.2019 - 9 U 9/19 juris Rn. 31 f.; v. 26.11.2019 - 10 U 338/19 - juris Rn. 55). Der Kläger sieht in dem Kauf des VW Touran eine Verbindlichkeit, die er bei Kenntnis der Betroffenheit des Fahrzeugs von der Abgasproblematik nicht eingegangen wäre, weil das Fahrzeug so für ihn nicht uneingeschränkt brauchbar gewesen sei. Jedenfalls bei dem vorliegenden Gebrauchtwagenkauf steht diesem Schaden indes kein Vermögensvorteil der Beklagten gegenüber, der unmittelbar aus diesem Kaufgeschäft resultiert und von ihr bzw. den für sie handelnden Personen mit der geltend gemachten Täuschung hätte angestrebt werden können. Soweit es um einen Vermögensvorteil geht, der dem Verkäufer des Gebrauchtwagens durch das Veräußerungsgeschäft zufließt, fehlt es an der erforderlichen Bereicherungsabsicht der Beklagten, da ihr Absatzinteresse sich in dem Erstverkauf des jeweiligen Fahrzeuges erschöpft.cc) Mangels Ursachenzusammenhangs zwischen der (unterstellten) Täuschung und dem Kaufentschluss scheidet eine Haftung der Beklagten auch aus den anderen, vom Kläger angeführten Anspruchsgrundlagen aus.(1) Einen Anspruch aus §§ 280 Abs.1, 311 Abs. 3, 241 Abs. 2 BGB hat das Landgericht zudem zutreffend deshalb verneint, weil die Beklagte weder mittelbar noch unmittelbar an den Vertragsverhandlungen zum Abschluss des streitgegenständlichen Gebrauchtwagenkaufs beteiligt war. Sie war daher von vornherein nicht in der Lage, die Vertragsverhandlungen oder den Vertragsschluss erheblich zu beeinflussen. Auch hatte sie kein erkennbares wirtschaftliches Interesse an dem Abschluss des Gebrauchtwagenkaufes zwischen Kläger und Autohaus. Dass die Beklagte nach § 6 Abs. 1 EG-FGV für das Fahrzeug eine Übereinstimmungsbescheinigung ausgestellt hat, reicht für die Annahme einer Sachwalterhaftung nicht aus. Denn eine solche Erklärung ist Voraussetzung für das Inverkehrbringen jedes neuen Fahrzeuges (vgl. § 27 Abs. 1 EG-FGV) und kein Ausdruck besonderer Gewährsübernahme (vgl. OLG Braunschweig, Urteil v. 19.02.2019  7 U 134/17 -, juris Rn. 97 ff.).(2) Die Beklagte haftet entgegen der Auffassung des Klägers auch nicht gemäß §§ 823 Abs. 2, 31 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 Satz 1 EG-FGV wegen des Ausstellens einer unrichtigen Übereinstimmungsbescheinigung. Ungeachtet des fehlenden Ursachenzusammenhangs und der vom Landgericht verneinten Schutzgesetzeignung der vorgenannten Bestimmungen (vgl. dazu OLG Braunschweig, Urteile v. 19.02.2019 - 7 U 134/17 -, juris Rn. 137 ff.; v. 20.06.2019 - 7 U 185/18 -, juris Rn. 82 ff.; OLG Celle, Beschluss v. 01.07.2019 - 7 U 33/19 -, juris Rn. 37 ff.) kommt ein Anspruch bereits deshalb nicht in Betracht, weil selbst nach dem Vorbringen des Klägers kein Verstoß gegen diese Vorschriften vorliegt. Die Übereinstimmungsbescheinigung war nicht unrichtig, denn das streitgegenständliche Fahrzeug entsprach dem genehmigten Typ, der ebenfalls über die unzulässige Steuerungssoftware verfügte. Insoweit kommt es nicht darauf an, ob die Typengenehmigung von der Beklagten möglicherweise selbst erschlichen worden war oder hätte widerrufen werden können. Die Übereinstimmungsbescheinigung soll eine Einzelprüfung jedes Fahrzeuges überflüssig machen, indem erklärt wird, das Fahrzeug entspreche einem bereits genehmigten "Prototyp". Ihr Aussagegehalt erschöpft sich deshalb darin, dass das Fahrzeug mit dem genehmigten Fahrzeugtyp übereinstimmt (OLG Stuttgart, Urteil v. 07.08.2019 - 9 U 9/19 -, juris Rn. 34 ff.).b) Da dem Kläger nach alldem kein Schadensersatzanspruch gegen die Beklagte zusteht, kann er auch keine Nebenforderungen (Zinsen und Rechtsanwaltsgebühren) geltend machen.Mangels begründeter Schadensersatzforderung befindet sich die Beklagte zudem mit der Rücknahme des Fahrzeuges nicht in Verzug.3. Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO. Der Ausspruch zur vorläufigen Vollstreckbarkeit ergibt sich aus §§ 708 Nr. 10, 711 ZPO.4. Die Revision war gemäß § 543 Abs. 2 Satz 1 Nr. 1 und Nr. 2, 2. Alt. ZPO zuzulassen. Die sich in der vorliegenden Sachverhaltskonstellation stellende Haftungsfrage nach § 826 BGB ist für eine Vielzahl von Fällen von Bedeutung. Sie wird in der obergerichtlichen Rechtsprechung unterschiedlich beurteilt. Eine von der vorliegenden Entscheidung abweichende Auffassung vertritt insbesondere das Oberlandesgericht Oldenburg (Urteil v. 16.01.2020 - 14 U 166/19 -, BeckRS 2020, 280).Der Senat hat beschlossen, den Streitwert für das Berufungsverfahren auf 17.600 € festzusetzen.
+			
+			
+			
+			Permalink: https://openjur.de/u/2218100.html (https://oj.is/2218100)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate14
+				
+				
+					 Zitiert21
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

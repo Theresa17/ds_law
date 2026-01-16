@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG Frankfurt am MainRechtsprechungUrteil vom 03.12.2019 - 2-14 O 243/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Frankfurt am Main, Urteil vom 03.12.2019 - 2-14 O 243/19
+                      m. Fundstelle
+                      LG Frankfurt am Main, Urteil vom 03.12.2019 - 2-14 O 243/19 = openJur 2021, 26327
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Frankfurt am Main, Urteil vom 03.12.2019 - 2-14 O 243/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 26327
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits hat der Kläger zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten über Ansprüche im Zusammenhang mit dem Kauf eines von der Beklagten hergestellten Dieselfahrzeuges.Der Kläger erwarb im Juli 2013 bei der Niederlassung der Beklagten in Frankfurt/Offenbach einen gebrauchten ......... Coupe zu einem Preis von 37.000,00 EUR. Das Fahrzeug wies zum Zeitpunkt des Kaufvertragsschlusses einen Kilometerstand von 26.024 km auf.Die Beklagte ist Herstellerin des Fahrzeuges. Das Fahrzeug ist mit einem von der Beklagten hergestellten Dieselmotor des Typs ....... ausgestattet. Bei dem Fahrzeug wird die Abgasrückführungsrate temperatur- und drehzahlabhängig gesteuert. Sie schaltet sich zu Beginn der Warmlaufphase ab. Weiterhin erfolgt eine Reduzierung bis hin zu einer Deaktivierung bei tiefen und sehr hohen Außentemperaturen (sog. Thermofenster) sowie hohen Drehzahlen.Findet eine zu hohe Abgasrückführung bei zu niedrigen Temperaturen statt, so kommt es ohne technische Gegensteuerung zur Kondensation der Abgasbestandteile im Abgasrück-führkühler und in der Folge zu einer Versottung. Setzt sich das System aufgrund wiederholten Betriebs des Motors in diesem Zustand zu, führt dies zu einer Schädigung bis hin zum totalen Motorausfall. Bei sehr hohen Außentemperaturen sowie bei bestimmten Drehzahlen kommt es infolge der technischen Vorgänge bei der Verbrennung zu einer erhöhten Ölverdünnung, die ebenfalls auf Dauer zu einem Motorschaden führen kann.Das Fahrzeug des Klägers war Teil einer freiwilligen Kundendienstmaßnahme der Beklagten. Gegenstand der Maßnahme war das Aufspielen eines Software-Updates. Ein offizielles Einschreiten des Kraftfahrt-Bundesamtes gab es nicht.Der Kläger erklärte gegenüber der Beklagten mit anwaltlichem Schreiben vom 07.05.2019 den Rücktritt vom Kaufvertrag und forderte die Beklagte zudem auf, Schadensersatz zu leisten, Zug-um-Zug gegen Rückgabe des streitgegenständlichen Fahrzeuges (Anlage K40, im Anlagenband).Der Kläger ist der Ansicht, er sei in vorsätzlicher und sittenwidriger Weise von der Beklagten geschädigt worden. Das von ihm erworbene Fahrzeug sei mangelhaft, da es mit einer unzulässigen Abschalteinrichtung im Sinne der VO (EG) 715/2007 ausgestattet sei. Er behauptet hierzu, die Motorsteuerungs-Software erkenne ein enges Temperaturfenster, das der Temperatur beim Durchfahren des Prüfzyklus entspreche. Wenn das entsprechende Temperaturfenster erkannt werde, werde die Abgasreinigung durch Abgasrückführung, Abgasnachbehandlung oder andere Maßnahmen gegenüber der Abgasreinigung, die in anderen Temperaturfenstern erfolge, erheblich intensiviert und optimiert.Mit Schriftsatz vom 15.10.2019 hat der Kläger den Rechtsstreit teilweise, nämlich in Höhe der Differenz des Nutzungsersatzes zum Zeitpunkt der Klageeinreichung und dem zum Zeitpunkt der mündlichen Verhandlung für erledigt erklärt und den Kilometerstand in der mündlichen Verhandlung mit 116.171 km angegeben. Die Beklagte hat sich der Teilerledigungserklärung nicht angeschlossen.Der Kläger beantragt nunmehr:1. Die Beklagte wird verurteilt, an den Kläger EUR 37.000,00 nebst Zinsen in Höhe von 4 % seit dem 30. Juli 2013 bis zum Eintritt der Rechtshängigkeit sowie in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen. Die Verurteilung erfolgt Zug-um-Zug gegen Übereignung und Herausgabe des Fahrzeugs der Marke ..... vom Typ ...... Coupé mit der Fahrzeugidentifikationsnummer (FIN) .......... nebst 2 Fahrzeugschlüsseln, Kfz-Schein und Kfz-Brief sowie Zahlung eines Nutzungsersatzes in Höhe von EUR 6.971,28.hilfsweise:Es wird festgestellt, dass die Beklagte verpflichtet ist, dem Kläger Schadensersatz zu zahlen für Schäden, die aus der Ausstattung des Fahrzeugs der Marke ...... vom Typ ......... Coupé mit der Fahrzeugidentifikationsnummer (FIN) ........... mit der manipulierten Mutter Software durch die Beklagte resultieren.2. Es wird festgestellt, dass sich die Beklagte mit der Annahme der in vorgenannten Klageanträgen genannten Zug-um-Zug-Leistung im Annahmeverzug befindet.3. Es wird festgestellt, dass der in Antrag zu 1) bezeichnete Anspruch aus einer vorsätzlichen unerlaubten Handlung der Beklagten herrührt.4. Die Beklagte wird verurteilt, den Kläger von den durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von EUR 2.434,74 freizustellen.5. Es wird festgestellt, dass sich die Forderung des Antrags unter 1. In der Höhe des vom Gericht festgesetzten Anspruchs der Beklagten auf Nutzungsersatz für die vom Kläger zwischen Rechtshängigkeit der Klage und dem Termin der letzten mündlichen Verhandlung gezogenen Nutzungen erledig hat.Die Beklagte beantragt,die Klage abzuweisenDie Beklagte behauptet, die Abweichung der von im Prüfstand ermittelten Werte von denjenigen im normalen Straßenbetrieb bei dem klägerischen Fahrzeugmodell resultiere nicht aus einer Manipulation, sondern vielmehr ausschließlich aus der zwingenden gesetzlichen Vorgabe für die Beklagte, die im gesetzlichen Prüfzyklus NEFZ ermittelten Werte für das Genehmigungsverfahren anzugeben. Es sei unerheblich, welches Emissionsverhalten das Fahrzeug jenseits des Prüfstandes ausweise. Die Rechtmäßigkeit der Gestaltung des Fahrzeugmodells stehe aufgrund der EG-Typengenehmigung fest.Die temperatur- und drehzahlabhängige Steuerung des Abgasrückführungssystems sei aus Gründen des Motorschutzes erforderlich. Sämtliche Fahrzeuge am Markt wiesen - neben weiteren Parametern - eine temperaturabhängige Steuerung der Abgasrückführung auf. Die Beklagte habe davon ausgehen dürfen, dass diese industrieweit verwendete Steuerung zulässig sei. Dies sehe auch das Kraftfahrt-Bundesamt so. Die von der Beklagten angebotene Kundendienstmaßnahme sei von ihr ausschließlich freiwillig initiiert worden, um ältere Fahrzeuge auf den technisch neuesten Stand zu bringen.Hinsichtlich etwaiger Gewährleistungsansprüche des Klägers beruft sich die Beklagte auf Verjährung, der Rücktritt sei nach § 218 BGB unwirksam.Wegen der weiteren Einzelheiten des Sach- und Streitstands wird auf die gewechselten Schriftsätze nebst Anlagen verwiesen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I. Der Antrag zu 1), sowohl der Hauptantrag, als auch der Hilfsantrag, hat in der Sache keinen Erfolg. Der Kläger hat gegen die Beklagte weder einen Anspruch auf Zahlung eines Betrages in Höhe von 37.000,00 EUR Zug-um-Zug gegen Übergabe und Übereignung des von ihm erworbenen Fahrzeuges noch auf Feststellung einer Schadensersatzverpflichtung der Beklagten.1. Vertragliche Gewährleistungsansprüche, insbesondere ein Anspruch auf Rückgewähr des Kaufpreises gemäß §§ 346 Abs. 1, 323 i.V.m. §§ 437 Nr. 2, 434 Abs. 1, 433 BGB, sind nicht gegeben.Dem Vorbringen des Klägers lässt sich bereits nicht schlüssig entnehmen, dass das von ihm erworbene Fahrzeug im Hinblick auf seine Abgasreinigung mit einem Sachmangel behaftet ist.Zwar kann ein Fahrzeug, das bei Übergabe an den Käufer mit einer den Stickoxidausstoß auf dem Prüfstand gegenüber dem normalen Fahrbetrieb reduzierenden unzulässigen Abschalteinrichtung ausgerüstet ist, mangelhaft sein. Dies ist insbesondere der Fall, wenn die Steuerungssoftware des Motors erkennt, ob sich das Fahrzeug in einem Prüfzyklus befindet und in diesem Fall in einen Modus schaltet, bei dem verstärkt Abgase in den Motor zurückgelangen und sich so der Ausstoß an Stickoxiden verringert; im normalen Fahrbetrieb hingegen die Software einen anderen Modus aktiviert, bei dem eine Abgasrückführung nur in geringerem Umfang stattfindet (vgl. zur Mangelhaftigkeit von Fahrzeugen mit einem VW-Dieselmotor aus der Baureihe EA 189: BGH, Beschluss vom 08.01.2019, VIII ZR 225/17, NJW 2019, 1133).Der Kläger hat allerdings nicht substantiiert dazu vorgetragen, dass in dem Fahrzeug eine unzulässige Abschalteinrichtung im Sinne von Art. 3 Nr. 10, Art. 5 Abs. 2 VO (EG) Nr. 715/2007 installiert ist. Ab der Annahme der Kaufsache als Erfüllung trägt der Käufer die Darlegungs- und Beweislast für die Mangelhaftigkeit der Kaufsache (vgl. § 363 BGB). Dem ist der Kläger nicht nachgekommen.Das Vorbringen des Klägers beschränkt sich auf die schlichte Behauptung "ins Blaue hinein", in dem streitgegenständlichen Fahrzeug sei eine Software verbaut, die auf den Prüfstand optimiert sei. Einer Partei darf zwar nicht verwehrt werden, eine tatsächliche Aufklärung hinsichtlich solcher Punkte zu verlangen, über die sie selbst kein zuverlässiges Wissen besitzt und auch nicht erlangen kann. Sie kann deshalb genötigt sein, eine von ihr nur vermutete Tatsache zu behaupten und unter Beweis zu stellen (vgl. nur: BGH, Urteil vom 25.03.1987 - IVa ZR 224/85, NJW 1988, 63, 60; zur Zulässigkeit des Vortrags von vermuteten Tatsachen vgl. Thomas/Putzo/Reichold, ZPO, 37. Aufl. 2016, § 138, Rn. 4 sowie § 284, Rn. 3). Unzulässig wird ein solches prozessuales Vorgehen allerdings dann, wenn die Partei ohne greifbare Anhaltspunkte für das Vorliegen eines bestimmten Sachverhalts willkürlich Behauptungen "aufs gerade Wohl" oder "ins Blaue hinein" aufstellt (vgl. BGH, Urteil vom 17.09.1998 - III ZR 174-97, NJW-RR 1999, 362, 361). Zwar ist bei der Annahme von Willkür in diesem Sinne Zurückhaltung geboten; in der Regel wird sie nur das Fehlen jeglicher tatsächlicher Anhaltspunkte rechtfertigen können (BGH, Urteil vom 27.05.2003 - IX ZR 283/99, NJW-RR 2004, 338, 337). Anhaltspunkte dafür, dass das Fahrzeug des Klägers mit einer unzulässigen Software ausgestattet ist, können sich insbesondere aus einem Rückruf gerade auch des streitgegenständlichen Fahrzeuges, Verlautbarungen oder Maßnahmen des Kraftfahrt-Bundesamtes, einem Privatgutachten zum streitgegenständlichen Fahrzeug oder ähnlichem ergeben (vgl. OLG Köln, Beschluss vom 07.03.2019 - 3 U 148/18).Solche Anhaltspunkte trägt der Kläger nicht schlüssig vor. Seine schriftlichen Ausführungen beschränken sich zu großen Teilen auf eine ausschnittsweise Zusammenstellung von Zitaten aus Verfahren, die jeweils den sog. "VW-Abgasskandal" betrafen, wobei in diesen Fällen der Sachverhalt aufgrund der vom Kraftfahrt-Bundesamt festgestellten Funktionsweise der Motorsteuerungssoftware unstreitig war, weshalb es an einer Vergleichbarkeit zum vorliegenden Fall fehlt. Darüber hinaus trägt der Kläger hauptsächlich zu Vorgängen und gerichtlichen Verfahren vor, die sich mit anderen von der Beklagten hergestellten und mit abweichenden Motoren ausgestatteten Fahrzeugen beschäftigten.Sein Fahrzeug ist nicht von einem verbindlich angeordneten Rückruf durch das Kraftfahrtbundesamt betroffen. Dies wird auch durch die allgemein im Internet unter https://www................. abrufbare Liste der von einem Rückruf betroffenen Fahrzeuge bestätigt, die das vom Kläger erworbene Fahrzeug nicht aufführt. Entgegen der Auffassung des Klägers kann auch aus den von der Beklagten angebotenen Service-Updates nicht auf das Vorliegen einer illegalen Abschalteinrichtung geschlossen werden. Diese Updates werden von der Beklagten freiwillig zur Verfügung gestellt und sind mit einem behördlich angeordnet Rückruf nicht zu vergleichen. Weshalb die von der Beklagten angebotenen Service-Updates, wie vom Kläger behauptet, der Vorbeugung eines verbindlichen Rückrufs dienen sollen, erörtert er nicht weiter.Zur der von ihm behaupteten unzulässigen Abschalteinrichtung fehlt es an jeglichem substantiierten Vorbringen. So fehlt bereits eine nähere Auseinandersetzung - etwa auf Grundlage eines eingeholten Privatgutachtens - mit der Funktionsweise des in dem streitgegenständlichen Fahrzeug verbauten Motors. Das aus Sicht des Klägers als unzulässige Abschalteinrichtung zu charakterisierende "Thermofenster" wird nur stichwortartig genannt. Erörterungen, was unter der pauschal behaupteten "Kühlmittel-Solltemperatur-Regelungen" zu verstehen ist, lässt das Vorbringen des Klägers gänzlich vermissen. Ein Bezug zu dem vom Kläger erworbenen Fahrzeug und dessen Motor wird nicht hergestellt. Hinzu kommt, dass die Beklagte die pauschalen Behauptungen des Klägers auch substantiiert in Abrede stellt. Der Kläger hat sich hierzu nicht weiter erklärt. Eine Beweiserhebung ist vor diesem Hintergrund nicht erforderlich und liefe auf eine reine Ausforschung hinaus (zur Zulässigkeit des Ausforschungsbeweises vgl. Musielak/Voit/Foerste, 16. Aufl. 2019, ZPO § 284 Rn. 17; zu ähnlich gelagerten Fällen vgl. OLG Düsseldorf, Beschluss vom 28.09.2018 - I-22 U 95/18; OLG Oldenburg, Urteil vom 08.01.2019 - 2 U 156/18; OLG Köln, Beschluss vom 07.03.2019 - 3 U 148/18).Darüber hinaus wäre der von dem Kläger erklärte Rücktritt auch nach § 218 BGB unwirksam, da zum Zeitpunkt des Rücktritts der Nacherfüllungsanspruch verjährt war und die Beklagte sich hierauf berufen hat. Die Verjährung der Mängelansprüche beim Kauf beginnt nach § 438 Abs. 2 BGB bei beweglichen Sachen mit deren Ablieferung, die vorliegend am 08.08.2013 erfolgte. Die Verjährung des Nacherfüllungsanspruchs trat nach § 438 Abs. 1 Nr. 3 BGB nach zwei Jahren, also bereits 2015 ein.Die regelmäßige Verjährungsfrist nach § 438 Abs. 3 BGB greift nicht ein. Die Beklagte hat dem Kläger keinen Mangel des von ihm erworbenen Fahrzeugs arglistig verschwiegen. Arglist setzt nach der ständigen Rechtsprechung des Bundesgerichtshofs (vgl. etwa BGH, Urteil vom 22. April 2016 - V ZR 23/15 -, Rn. 21, juris) zumindest Eventualvorsatz voraus; leichtfertige oder grob fahrlässige Unkenntnis genügt dagegen nicht. Ein arglistiges Verschweigen ist danach nur gegeben, wenn der Verkäufer den Mangel kennt oder ihn zumindest für möglich hält und zugleich weiß oder doch damit rechnet und billigend in Kauf nimmt, dass der Käufer den Mangel nicht kennt und bei Offenbarung den Vertrag nicht oder nicht mit dem vereinbarten Inhalt geschlossen hätte. Diese Kenntnis muss positiv festgestellt werden; sie kann nicht durch wertende Überlegungen ersetzt werden (BGH, aaO). Nicht ausreichend ist es insbesondere, wenn sich dem Verkäufer das Vorliegen aufklärungspflichtiger Tatsachen hätte aufdrängen müssen, er sie aber nicht positiv kennt (BGH, aaO).Arglist der Beklagten kann nach diesen Grundsätzen nur vorliegen, wenn sie dem Kläger den Pkw in Kenntnis des Vorhandenseins einer unzulässigen Abschalteinrichtung verkauft hätte. Das ist nicht festzustellen. Dabei kann zwar davon ausgegangen werden, dass die Beklagte um die temperatur- und drehzahlabhängige Steuerung der Abgasrückführung wusste. Das allein reicht jedoch nicht. Denn der Vorsatz kann durch einen Rechtsirrtum ausgeschlossen werden (BGH, Urteil vom 29. Juni 2010 - XI ZR 104/08 -, Rn. 43, juris). Hierauf kann sich die Beklagte berufen. Sie hat dargelegt, dass sie davon ausgegangen sei, dass die Steuerung jedenfalls aus Gründen des Motorschutzes zulässig sei. Dass die temperatur- und drehzahlabhängige Steuerung eine geeignete Maßnahme ist, Motorschäden aufgrund von Versottung des Rußpartikelfilters und erhöhter Ölverdünnung zu vermeiden, bestreitet der Kläger nicht. Er stellt lediglich in Abrede, dass es keine andere technische Möglichkeit gebe, derartige Schäden zu verhindern, weil es Fahrzeughersteller gebe, denen dies gelungen sei. Das ist jedoch unerheblich. Denn eine weite Auslegung des Art. 5 Abs. 2 S. 2 lit.a) VO 715/2007/EG, die eine Abschalteinrichtung zum Motorschutz auch bei objektiv gegebener - der Beklagten ggf. unbekannter - anderer technischer Möglichkeit des Motorschutzes erlaubte, war zum Zeitpunkt des Inverkehrbringens des streitgegenständlichen Kfz im Jahr 2013 vertretbar. Die Richtigkeit einer anderen Auslegung war zum fraglichen Zeitpunkt weder eindeutig noch offensichtlich. Dies gilt umso mehr, als die Beklagte angesichts der behördlichen Handhabung davon ausgehen durfte, dass die von ihr und weiteren Herstellern verwendete Steuerung zum Motorschutz zulässig sei. Diese Steuerungen sind weder im Genehmigungsverfahren noch nach Bekanntwerden des Dieselskandals behördlich beanstandet worden. Dabei kann der Kläger sich nicht darauf berufen, dies sei im Genehmigungsverfahren nicht geschehen, weil die Steuerung nicht offengelegt und nicht bekannt gewesen sei. Zunächst lag eine gezielte Manipulation durch die Beklagte nicht vor (siehe oben). Darüber hinaus hat die Beklagte vorgetragen, sie habe im Genehmigungsverfahren ausdrücklich offengelegt, dass die Abgasrückführungsrate u.a. von der Umgebungstemperatur abhängig sei. Dass dies geschehen sei hat die für den subjektiven Tatbestand der arglistigen Täuschung voll darlegungs- und beweisbelastete Klägerin weder ausdrücklich bestritten noch Beweis für ihre pauschale Behauptung einer Behördentäuschung angeboten. Ebenso wenig gibt es nachvollziehbare Indizien oder ein Beweisangebot des Klägers dafür, dass das Kraftfahrt-Bundesamt die Steuerungspraxis der Beklagten nachträglich für unzulässig hält, diese aber - im Gegensatz zur Praxis bei anderen Steuerungsmodellen - nicht öffentlich durch einen Rückruf beanstandet. Dann aber teilt selbst das Kraftfahrt-Bundesamt als zuständige Behörde die Einschätzung der Beklagten.2. Ein Anspruch des Klägers gegen die Beklagte aus § 826 BGB besteht nicht, weil der Beklagten kein sittenwidriges Verhalten vorzuwerfen ist. Ein Verhalten ist sittenwidrig, wenn es gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. In diese rechtliche Beurteilung ist einzubeziehen, ob die Handlung nach ihrem aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter mit den guten Sitten nicht zu vereinbaren ist (BGH, Urteil vom 03.12.2013, XI ZR 195/12, juris, Rn 23 m.w.N.). Nach diesen Grundsätzen genügt es nicht für den Vorwurf der Sittenwidrigkeit, fahrlässig im Vertrauen auf die Richtigkeit einer vertretbaren Rechtsauffassung ein mit einem Mangel behaftetes Fahrzeug in den Verkehr zu bringen.3. Aus dem identischen Grunde scheitert ein Anspruch des Klägers gegen die Beklagte aus § 823 Abs. 2 BGB in Verbindung mit § 263 StGB. Ein Betrugsvorsatz kann angesichts des Umstandes, dass die Beklagte die Richtigkeit der von ihr vertretenen Rechtsauffassung annahm, nicht festgestellt werden.4. Ansprüche des Klägers gegen die Beklagte aus § 823 Abs. 2 BGB in Verbindung mit Art. 5 VO 715/2007/EG oder §§ 6 Abs. 1, 27 EG-FGV scheiden ebenfalls aus.§§ 6 Abs. 1, 27 EG-FGV sind nicht drittschützend (vgl. LG Braunschweig, Urteil vom 17. Januar 2018 - 3 O 1138/16 -, Rn. 58 - 59, juris sowie LG München I, Urteil vom 23. November 2018 - 37 O 6706/18 -, Rn. 53, juris). Nach ständiger Rechtsprechung des Bundesgerichtshofs ist eine Norm als Schutzgesetz anzusehen, wenn sie nach Zweck und Inhalt zumindest auch dazu dienen soll, den Einzelnen oder einzelne Personenkreise gegen die Verletzung eines bestimmten Rechtsguts zu schützen. Dafür kommt es nicht auf die Wirkung, sondern auf Inhalt und Zweck des Gesetzes sowie darauf an, ob der Gesetzgeber bei Erlass des Gesetzes gerade einen Rechtsschutz, wie er wegen der behaupteten Verletzung in Anspruch genommen wird, zu Gunsten von Einzelpersonen oder bestimmten Personenkreisen gewollt oder doch mitgewollt hat. Bei Vorschriften, die - wie hier die EG-FGV - Richtlinien umsetzen, kommt es nach der gebotenen richtlinienkonformen Auslegung insoweit maßgeblich auf den Inhalt und Zweck der Richtlinie - hier der Richtlinie 2007/46/EG - an. Den Erwägungsgründen (2), (4) und (23) zufolge bezweckt die Richtlinie 2007/46/EG die Vollendung des Binnenmarkts und dessen ordnungsgemäßes Funktionieren. Darüber hinaus sollen die technischen Anforderungen in Rechtsakten harmonisiert und spezifiziert werden, wobei die Rechtsakte vor allem auf eine hohe Verkehrssicherheit, hohen Gesundheits- und Umweltschutz, rationelle Energienutzung und wirksamen Schutz gegen unbefugte Benutzung abzielen. An keiner Stelle lässt sich hingegen ein Hinweis dafür finden, dass der Richtliniengeber darüber hinaus den Schutz des einzelnen Fahrzeugerwerbers bzw. -besitzers gegen Vermögensbeeinträchtigungen im Blick hatte. Auch der nationale Gesetzgeber hat in der Begründung zur EG-FGV (S. 36 der BR-Drucks. 190/09) in Übereinstimmung damit ausführt, dass die Richtlinie dem Abbau von Handelshemmnissen und der Verwirklichung des Binnenmarktes der Gemeinschaft dienen und die EG-FGV darüber hinaus zur Rechtsvereinfachung und zum Bürokratieabbau beitragen soll.Aus den identischen Gründen ist Art. 5 VO 715/2007/EG kein Schutzgesetz zugunsten des Verbrauchers. In dem Erwägungsgrund (27) werden die Ziele der Verordnung zusammengefasst. Hierbei handelt es sich um die Vollendung des Binnenmarktes durch Einführung gemeinsamer technischer Vorschriften zur Begrenzung der Emissionen von Kraftfahrzeugen und die Gewährleistung des Zugangs zu Fahrzeugreparatur- und Wartungsinformationen für unabhängige Betreiber auf derselben Basis wie für autorisierte Händler und Reparaturbetriebe. Weiterhin ist nach Erwägungsgrund (1) die Sicherstellung eines hohen Umweltschutzniveaus beabsichtigt. Der Schutz der Vermögensinteressen des einzelnen Bürgers war demgegenüber auch hier kein Motiv des Verordnungsgebers.II. Der Klageantrag zu 2) ist zwar zulässig, hat in der Sache aber keinen Erfolg. Das gemäß § 256 Abs. 1 ZPO erforderliche Feststellungsinteresse des Klägers ergibt sich aus den zwangsvollstreckungsrechtlichen Folgen der begehrten Feststellung gemäß den §§ 756 Abs. 1, 765 Nr. 1 ZPO. Die Beklagte befindet sich allerdings mangels einer ihr gegenüber geschuldeten Leistung nicht im Annahmeverzug.III. Aus den vorgenannten Gründen scheidet auch ein Anspruch auf Feststellung einer vorsätzlichen unerlaubten Handlung aus.IV. Der Kläger hat wegen der Erfolgslosigkeit der übrigen Anträge auch keinen Anspruch gegen die Beklagten auf Freistellung von Kosten der außergerichtlichen Rechtsverfolgung.V. Der Kläger Anspruch des Klägers auf Feststellung der Teilerledigung des ursprünglichen Antrags zu 1) hat aus den vorgenannten Gründen auch keinen Erfolg, da auch der für erledigt erklärte Teil ursprünglich nicht begründet war.VI. Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit hat ihre Rechtsgrundlage in § 709 S. 1, 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2351570.html (https://oj.is/2351570)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate10
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

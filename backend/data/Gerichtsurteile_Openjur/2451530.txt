@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG TraunsteinRechtsprechungEndurteil vom 31.07.2020 - 1 O 3743/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Traunstein, Endurteil vom 31.07.2020 - 1 O 3743/18
+                      m. Fundstelle
+                      LG Traunstein, Endurteil vom 31.07.2020 - 1 O 3743/18 = openJur 2022, 18500
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Traunstein, Endurteil vom 31.07.2020 - 1 O 3743/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 18500
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen, hinsichtlich des Klageantrags in Ziffer 1 als unzulässig.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht Schadensersatzansprüche bezüglich eines Kaufvertrages über einen VW Tiguan im Zusammenhang mit dem sogenannten "Diesel-Abgasskandal" geltend.Der Kläger, der bereits zum Zeitpunkt des Kaufes im ... in ... wohnte, erwarb vom ... mit Datum vom 02.06.2014 einen neuen VW Tiguan Highline, 2,0 TDI, zu einem Kaufpreis von 29.120,00 € brutto (Anlage K1). Das Fahrzeug wies am Dienstag, 03.09.2019, einen Kilometerstand von 60.190 km auf.Das Fahrzeug ist mit einem von der Beklagten entwickelten 2,0 Liter Dieselmotor der Baureihe EA189 ausgestattet. Dieser Motor verfügt über eine vom Entwickler vorgesehene Motorsteuerung, die hinsichtlich der Abgasrückführung zwei Betriebsmodi vorsieht, nämlich einen hinsichtlich des Stickstoffausstoßes optimierten Betriebsmodus 1 mit einer verhältnismäßig hohen Abgasrückführungsrate sowie einen hinsichtlich des Partikel-Ausstoßes optimierten Betriebsmodus 0 mit einer erheblich geringeren Abgasrückführungsrate. Hierbei ist die Motorsteuerung in der Lage zu erkennen, ob das Fahrzeug auf einem technischen Prüfstand zur Ermittlung der Emissionswerte eingesetzt wird oder ob es im Straßenverkehr betrieben wird. Dementsprechend schaltet die Motorsteuerung bei einer Prüfung der Emissionen auf dem Prüfstand, da sie dies erkennt, in den Modus 1. Auf diese Art und Weise wird sichergestellt, dass bei der Prüfung der betreffenden Fahrzeuge nach den gesetzlich vorgesehenen Maßgaben der Euro-5-Abgasnorm geringere Stickoxid-Emissionen gemessen werden und demzufolge die Stickoxid-Grenzwerte im Laborbetrieb eingehalten werden. Sobald das Fahrzeug im Straßenverkehr eingesetzt wird schaltet demgegenüber die Motorsteuerung in den Modus 0.Das Kraftfahrzeug-Bundesamt (im nachfolgenden KBA) ordnete mit Bescheid vom 15.10.2015 nach Bekanntwerden der Funktionsweise der Motorsteuerung gegenüber der ... den Rückruf der Fahrzeuge an, wobei das KBA hinsichtlich der verwendeten Software von einer unzulässigen Abschalteinrichtung ausging. Das KBA hat im Bescheid auferlegt, die entsprechende Software aus allen Fahrzeugen zu entfernen und geeignete Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit zu ergreifen. In der folgenden Zeit gab das KBA sukzessive Softwareupdates für eine Vielzahl verschiedener Fahrzeug- und Motorentypen des Herstellers ... bzw. der Konzernunternehmen frei, so auch für den streitgegenständlichen 2,0 Liter-Motor.Der Kläger hat an seinem Fahrzeug das Softwareupdate durchführen lassen.Der Kläger hat bzw. hatte sich der Musterfeststellungsklage vor dem OLG Braunschweig nicht angeschlossen.Der Klägervertreter hat mit Schreiben vom 31.05.2019 die Erfüllung der Ansprüche des Klägers gegenüber der Beklagten geltend gemacht (Anlage K 11). Die Beklagte hat Ansprüche zurückgewiesen (Anlage K 12).Der Kläger hat sich der Musterfeststellungsklage vor dem OLG Braunschweig nicht angeschlossen.Der Kläger behauptet, er habe großen Wert auf ein umweltfreundliches Fahrzeug gelegt, wie dies auch durch die Beklagte angepriesen worden sei. Es handle sich hinsichtlich der Motorsteuerung um eine unzulässige Abschalteinrichtung, weswegen das Fahrzeug mangelhaft sei. Durch das Softwareupdate sei keine Mangelbeseitigung erfolgt. Vielmehr würden die Abgasreinigungssysteme nunmehr mehr belastet, weswegen man mit einem späteren Reparaturbedarf rechnen müsse und die Dauerhaltbarkeit des Motors leide. Schließlich müsse der Kläger auch aufgrund der streitgegenständlichen Problematik mit einem merkantilen Minderwert des Fahrzeugs rechnen. Bei Kenntnis des wahren Sachverhaltes hätte der Kläger das Fahrzeug nicht gekauft.Ein Nutzungsersatz sei nicht geschuldet (Bl. 171 d.A.).Die Klagepartei begehrt die Freistellung von vorgerichtlichen Rechtsanwaltskosten aus einem Gegenstandswert von 29.120 € in Form einer 2,0 Geschäftsgebühr mit einem Gesamtbetrag von 2.077,74 €. Die Klagepartei habe bereits vorgehe gerichtlich die Prozessbevollmächtigten mit der Geltendmachung seiner Ansprüche beauftragt; die außergerichtliche Geltendmachung ergebe sich aus dem vorgelegten Schriftverkehr.Nachdem der Kläger zunächst im Klageantrag Ziffer 2 die Freistellung bezüglich der vorgerichtlichen Rechtsanwaltskosten ohne die Nennung eines konkreten Betrages begehrt hat, beantragt er zuletzt:1. Es wird festgestellt, dass die Beklagtenpartei verpflichtet ist, der Klägerpartei Schadensersatz zu bezahlen für Schäden, die daraus resultieren, dass die Beklagtenpartei das Fahrzeug VW Touran 2,0 TDI (Fahrzeugidentifikationsnummer: ...) dahingehend beeinflusst hat, dass dieses hinsichtlich der Abgasstoffmenge im Prüfstandbetrieb einen geringeren Ausstoß aufweist als im regulären Betrieb im Straßenverkehr.2. Die Beklagte wird verurteilt, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 2.077,74 € freizustellen.Die Beklagte beantragtKlageabweisungDie Beklagte hält die Klage für unzulässig, da weder ein feststellungsfähiges Rechtsverhältnis, da der Kläger die Möglichkeit des Eintritts irgendeines Schadens im Hinblick auf das Vorliegen eines Vermögensschadens nicht substantiiert dargelegt habe, noch ein Feststellungsinteresse vorliege; letzteres sei aufgrund des Vorrangs der Leistungsklage und des nicht prozessökonomischen Feststellungsantrags nicht gegeben.Die Beklagte erhebt die Einrede der Verjährung im Hinblick auf den behaupteten Mangel des überhöhten Kraftstoffverbrauchs sowie des überhöhten Kohlendioxid-Ausstoßes, da das Fahrzeug an den Kläger bereits im Juni 2014 übergeben worden sei, nicht jedoch im Hinblick auf solche Ansprüche, die im Zusammenhang mit der streitgegenständlichen eingebauten Software geltend gemacht würden.Die Beklagte ist der Auffassung, dass keine Einschränkungen der Gebrauchstauglichkeit des Fahrzeuges vorlägen. Es läge keine Abschalteinrichtung vor. Das Fahrzeug sei nicht mangelbehaftet, da aufgrund des Softwareupdates die Umschaltlogik beseitigt sei und hieraus keine nachteiligen Wirkungen folgen würden. Auch läge keine sittenwidrige Schädigung auf Seiten der Beklagten vor.Im Wege des Vorteilsausgleichs müsse eine Nutzungsentschädigung in Abzug gebracht werden, ein Zinsanspruch gemäß § 849 BGB bestünde nicht. Bezüglich der außergerichtlichen Rechtsanwaltskosten sei weder vorgetragen noch ersichtlich, dass der Kläger überhaupt mit einer derartigen Verbindlichkeit belastet sei; wenn, dann könne allenfalls eine 1,3 Gebühr angesetzt werden.Der Kläger wurde in der Sitzung vom 05.09.2019 informatorisch angehört. Hinsichtlich der weiteren Einzelheiten wird auf das Protokoll der mündlichen Verhandlung vom 05.09.2020 sowie hinsichtlich des weiteren Vorbringens ergänzend auf die Schriftsätze der Parteien nebst den vorgelegten Anlagen Bezug genommen. 
+				Gründe
+				Die Klage musste wegen fehlender Zulässigkeit abgewiesen werden.1. ZulässigkeitDer Kläger begehrt mit seiner Klage die Feststellung der Verpflichtung der Zahlung von Schadensersatz seitens der Beklagten.Seitens des Gerichtes wurde mit Verfügung vom 04.06.2019 (Blatt 2 96 der Akte) auf die Unzulässigkeit des gestellten Feststellungsantrags anstelle eines Leistungsantrags hingewiesen; darüber hinaus wurde - unter Hinweis auf die im Hinweisbeschluss des OLG München vom 12.06.2018, Aktenzeichen 8 O 3 1169/17 (Juris), geäußerte Rechtsauffassung - auf die Unbestimmtheit des Klageantrages hingewiesen.Ergänzend wurden seitens der Beklagten umfangreiche Ausführungen zur Unzulässigkeit getätigt.Das Gericht hält vorliegend den seitens des Klägers festgestellten Feststellungsantrag aus den beiden oben genannten Gründen für unzulässig.a) Unbestimmtheit des KlageantragsDer Kläger begeht vorliegend die Feststellung der Verpflichtung der beklagten Partei zur Zahlung von Schadensersatz an den Kläger für Schäden, die daraus resultieren, dass die Beklagtenpartei das Fahrzeug des Klägers dahingehend beeinflusst hat, dass dieses hinsichtlich der Abgasstoffmenge im Prüfstandbetrieb einen geringeren Ausstoß aufweist als im regulären Betrieb im Straßenverkehr.Gegenstand einer Feststellungsklage nach § 256 ZPO kann nur das Bestehen oder Nichtbestehen eines Rechtsverhältnisses nebst einzelner sich hieraus ergebender Rechte und Pflichten sein, jedoch nicht bloße Elemente oder Vorfragen eines Rechtsverhältnisses, reine Tatsachen oder die Wirksamkeit von Willenserklärungen oder beispielsweise die Rechtswidrigkeit eines Verhaltens (BGH Urteil vom 19.04.2000, XII ZR 332/97). Der Klageantrag muss das festzustellende Rechtsverhältnis im Sinne des § 253 Abs. 2 ZPO bestimmt bezeichnen, da der Umfang der Rechtshängigkeit und späteren Rechtskraft hiervon abhängen und folglich feststehen müssen (Zöller RN 15 zu § 256 ZPO). Dies ist vorliegend nicht der Fall.Die Umschreibung des zum Ersatz verpflichtenden Ereignisses allein mit der Darlegung von Schäden "die daraus resultieren, dass die Beklagte das Fahrzeug dahingehend beeinflusst hat, dass dieses hinsichtlich der Abgasstoffmenge im Prüfstandbetrieb einen geringeren Ausstoß aufweist als im regulären Betrieb im Straßenverkehr" ist nicht ausreichend, sondern zu vage.b) Vorrang der LeistungsklageDie Erhebung der Feststellungsklage wurde klägerseits unter anderem damit begründet, die Ansprüche könnten derzeit noch nicht beziffert werden, da noch nicht absehbar sei, welche Schäden der Klagepartei entstehen werden und wie hoch diese seien. Und weiter: Selbst wenn die Klagepartei vorliegend ihr Wahlrecht bereits ausgeübt hätte und die Rückabwicklung begehren würde, könne der Kläger den Betrag noch nicht abschließend beziffern, da er sich im Rahmen der Vorteilsausgleichung von Beginn an die Nutzungsentschädigung anrechnen lassen müsse, da andernfalls die Klage unschlüssig sei; es sei hierbei nicht möglich, die Nutzungsentschädigung als Gegenanspruch zu berücksichtigen. Dies ist nicht zutreffend.Entgegen der klägerischen Darlegung wäre es dem Kläger sehr wohl möglich gewesen, seine Ansprüche zu beziffern, wie dies im Übrigen in 98 % der vor dem Gericht geführten Verfahren im Zusammenhang mit dem sogenannten "Diesel-Abgasskandal" der Fall ist.Allein dass die Höhe der Nutzungsentschädigung insoweit einer "gerichtlichen Schätzung" unterliegt, als seitens des Gerichtes - zum Teil unterschiedlich - die zugrunde zu legende Gesamtkilometeranzahl festgesetzt wird, führt nicht dazu, die Erhebung einer Leistungsklage seitens des Kläger als unmöglich anzusehen im Hinblick auf die Gefahr einer gegebenenfalls erfolgenden teilweisen Klageabweisung, da seitens des Gerichtes von einer geringeren Gesamtkilometeranzahl ausgegangen wird als man klägerseits zugrunde gelegt hat. Die Problematik des teilweisen Unterliegens ist dem Zivilprozess immanent, so beispielsweise auch im Rahmen einer Schmerzensgeldforderung; auch hier kann sich der jeweilige Kläger nicht darauf zurückziehen, die Festsetzung des Schmerzensgeldes erfolge im Ermessen des Gerichtes, weswegen er keine Größenordnung anzugeben vermöge im Hinblick auf die Gefahr einer teilweisen Klageabweisung.Entgegen der klägerischen Auffassung ergibt sich die Zulässigkeit eines Feststellungsurteils auch nicht daraus, die ... werde auch auf ein Feststellungsurteil leisten. Auch insoweit vermag das Gericht dieser Rechtsauffassung nicht zu folgen.Die Feststellungsklage ist insoweit als unzulässig aufgrund fehlenden Rechtsschutzbedürfnisses einzustufen. Zwar hat der BGH eine Feststellungsklage unter anderem gegenüber einer Versicherung dem Grunde nach als zulässig angesehen (BGH Urteil vom 16.02.2005, IV ZR 18/04). Dies ist jedoch von weiteren Faktoren abhängig, wie der genannten Entscheidung zu entnehmen ist; dort wurde seitens des BGH wortwörtlich ausgeführt, dass "der Feststellungsantrag hier zulässig sei, weil unter dem Gesichtspunkt der Prozesswirtschaftlichkeit eine sinnvolle und sachgemäße Erledigung der aufgetretenen Streitpunkte zu erwarten sei; dies sei insbesondere dann der Fall, wenn die Beklagtenpartei die Erwartung rechtfertigt, sie werde auf ein rechtskräftiges Feststellungsurteil hin ihren rechtlichen Verpflichtungen nachkommen, ohne dass es eines weiteren, auf Zahlung gerichteten Vollstreckungstitels bedarf, was bei großen Versicherungsunternehmen anzunehmen sei.". Weiterhin wurde ausgeführt: "Umstände, die die genannte Erwartung vorliegend erschüttern könnten, zeigt die Revision nicht auf.". Folglich hängt die Frage einer Zulässigkeit einer Feststellungsklage auch gegenüber einem Versicherungsunternehmen, mithin also auch vorliegend gegenüber der ..., davon ab, dass die Erwartung - im konkreten Einzelfall - gerechtfertigt ist, die Beklagte werde auf ein rechtskräftiges Feststellungsurteil hin ihren rechtlichen Verpflichtungen nachkommen.Dem ist jedoch nicht so, wie im Übrigen auch an den - bis dato gescheiterten - Vergleichsbemühungen der Parteien ersichtlich ist. Der Kläger hat im Rahmen seiner informatorischen Anhörung angegeben, er wolle das streitgegenständliche Fahrzeug nicht behalten, sondern zurückgeben. Klägerseits wurde darüber hinaus behauptet, die Höhe der im Rahmen der Vorteilsausgleichung abzuziehenden Nutzungsentschädigung hänge von einer "gerichtlichen Schätzung" ab, weswegen diese seitens des Klägers nicht berechnet werden könne. Gerade die Frage der Höhe der Nutzungsentschädigung im Hinblick auf die zugrunde zu legende Gesamtkilometeranzahl wird nicht nur von den Gerichten, sondern insbesondere auch von den Parteien - insoweit gerichtsbekannt - unterschiedlich gesehen. Wohingegen auf Seiten der Kläger häufig von einer Gesamtkilometeranzahl von 350.000 km und teilweise sogar 500.000 km ausgegangen wird, legt die Beklagte eine Gesamtkilometeranzahl von - in der Regel - 250.000 km zugrunde. Bereits hieran ist ersichtlich, dass die Gefahr eines weiteren Rechtsstreits im Falle der Rückgabe des Fahrzeugs - wie vorliegend vom Kläger beabsichtigt - zu erwarten ist, da sich die Parteien über die Frage der in Abzug zu bringenden Nutzungsentschädigung nicht werden einigen können. Zumindest besteht diese Gefahr, weswegen ein Feststellungsurteil vorliegend nicht als prozessökonomisch einzustufen ist, was wiederum unter Berücksichtigung der dargestellten BGH-Rechtsprechung der Zulässigkeit der Feststellungsklage entgegensteht.Die Zulässigkeit einer Feststellungsklage kann auch nicht damit begründet werden, der Schaden befände sich noch in der Fortentwicklung, da der Schaden bereits durch den Abschluss eines nachteiligen Kaufvertrages entstanden ist. Dass an dem klägerischen Fahrzeug aufgrund des ausgespielten Software-Updates, also kausal hierauf zurückzuführen, konkret bereits Reparaturen mit einem entsprechenden Kostenanfall erforderlich waren, wird klägerseits nicht vorgetragen; im Übrigen hätte auch in diesem Fall eine entsprechende Bezifferung erfolgen können.Darüber hinaus fehlt der Feststellungsklage aus Sicht des Gerichtes auch aus nachfolgenden Gründen das erforderliche Rechtsschutzbedürfnis: Dieses fehlt zwar grundsätzlich nur ganz ausnahmsweise bei objektiv sinnlosen Klagen, d.h., wenn der jeweilige Kläger kein schutzwürdiges Interesse an dem begehrten Urteil haben kann. Hierbei muss aus Sicht des Gerichtes bei der vorliegenden besonderen Konstellation berücksichtigt werden, dass der Schadensersatzanspruch letztlich zur Gänze bei Klageerhebung nach dem eigenen Sachvortrag des Klägers bis auf etwaige, rein tatsächlich absolut vage, nicht realistisch bestehende und nicht näher dargelegte steuerliche Nachteile beziffert werden kann. Bei der besonderen vorliegenden Konstellation, bei der dem klägerischen Schaden durch eine Rückabwicklung des nachteiligen Kaufvertrages begegnet werden kann, kann für eine Feststellungsklage, die wesentliche Streitpunkte zwischen den Parteien wie z.B. die Frage einer Nutzungsentschädigung nach wie vor ungeklärt lässt, kein Rechtsschutzbedürfnis bestehen.Schließlich fehlt es an einem Rechtsschutzbedürfnis auch deshalb, weil dem Kläger aufgrund eines zusprechenden Feststellungsurteils grundsätzlich 30 Jahre offenstünde, seinen - nunmehr behaupteten - tatsächlichen Schadensersatzanspruch gegenüber der Beklagten geltend zu machen. Dies widerspricht jedoch grundsätzlich dem deutschen Rechtssystem und dem Gedanken der Streitbeilegung, der durch ein Urteil gerade erreicht werden soll. Dies umso mehr, als der Schaden bereits durch den Abschluss des Kaufvertrages eingetreten ist und der Kläger selbst erklärt hat, er wolle das Fahrzeug zurückgeben. Auch unter diesem Blickwinkel steht dem klägerischen Feststellungsbegehren im Hauptantrag ein fehlendes Rechtsschutzbedürfnis entgegen.2. Vorgerichtliche RechtsanwaltsgebührenDem Kläger stehen von vorneherein vorgerichtliche Rechtsanwaltsgebühren trotz der Klarstellung des Freistellungsantrags mit Schriftsatz vom 03.06.2019 (Blatt 139) nicht zu.Voraussetzung wäre der Nachweis einer vorgerichtlichen Tätigkeit der Klägervertreter für den Kläger gegenüber der Beklagten. Diese hatte eingewandt, klägerseits sei weder dargelegt noch ersichtlich, dass der Kläger überhaupt mit einer derartigen Verbindlichkeit belastet sei.Klägerseits fehlt bereits jeglicher Vortrag zu einer konkreten außergerichtlichen Tätigkeit der Klägervertreter. Allein der Vortrag, die Ansprüche seien außergerichtlich durch die Prozessbevollmächtigten geltend gemacht worden, was sich bereits aus dem vorgelegten Schriftverkehr ergebe, ersetzt einen erforderlichen detaillierten Sachvortrag zu einer außergerichtlichen Tätigkeit des Klägervertreters konkret für den Kläger nicht. Es wurde folglich weder vorgetragen, wann der Klägervertreter für den hiesigen Kläger konkret mit welchem Schreiben gegenüber der Beklagten konkret welche Ansprüche - zumindest unter Vorlage eines entsprechenden Anspruchsstellungsschreibens - geltend gemacht hat. Den vorgelegten Anlagen kann ein solches Schreiben auch nicht entnommen werden. Allein dass bei dem Schreiben der Beklagten vom 19.10.2017 (Anlage K2) handschriftlich der Name Patock ergänzt wurde, vermag eine Zuordnung, dass es sich insofern um ein Antwortschreiben der Beklagten auf ein - nicht vorgelegtes - Anspruchstellungsschreiben des Klägervertreters für den hiesigen Kläger handelt, da ein Name in diesen Schreiben nicht auftaucht, nicht zu belegen. Auch die vorgelegte Anlage K9 bzw. gleichzeitig bezeichnet als Anlage K3-K14 vermag den Nachweis einer außergerichtlichen Geltendmachung der Ansprüche des Klägers gegenüber der Beklagten nicht zu belegen. Diesbezüglich handelt es sich um ein Schreiben vom 10.12.2015, in dem Bezug genommen wird, dass bereits mit einem Schreiben vom 16.11.2015 die Interessenvertretung von mehr als 800 Geschädigten im Skandal angezeigt worden sei. Es ist bereits nicht ersichtlich bzw. dargelegt, dass der Kläger die Klägervertreter bereits vor dem 16.11.2005 beauftragt hat.Mithin war der Freistellungsantrag in Ziffer 2. in jedem Fall abzuweisen, da eine vorgerichtliche Tätigkeit der Klägervertreter für den Kläger weder dargelegt noch bewiesen ist.Insofern bestand auch, da es sich um eine Nebenforderung handelt, keine gerichtliche Hinweispflicht, § 139 II ZPO.3. Kosten, vorläufige VollstreckbarkeitDie Kostenentscheidung beruht auf § 91 ZPO, die Entscheidung zur vorläufigen Vollstreckbarkeit auf § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2451530.html (https://oj.is/2451530)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

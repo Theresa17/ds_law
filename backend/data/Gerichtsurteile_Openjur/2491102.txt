@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG AachenRechtsprechungUrteil vom 16.11.2021 - 10 O 130/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Aachen, Urteil vom 16.11.2021 - 10 O 130/21
+                      m. Fundstelle
+                      LG Aachen, Urteil vom 16.11.2021 - 10 O 130/21 = openJur 2024, 6927
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Aachen, Urteil vom 16.11.2021 - 10 O 130/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2024, 6927
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits trägt die Klagepartei.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Klagepartei verlangt Schadensersatz nach dem Kauf eines von der Beklagten hergestellten PKW.Die Klagepartei erwarb mit verbindlicher Bestellung vom 00.00.2020 von der Firma Autohaus R. in J. ein Fahrzeug der EURO-Norm 6, Volkswagen Passat Variant 2.0 TDi mit Erstzulassung am 00.00.2019, Fahrzeugidentifikationsnummer N01, zum Preis von 34.750,00 €. In dem Fahrzeug ist ein von der Beklagten entwickelter und hergestellter Dieselmotor des Typs EA288 verbaut.Das Fahrzeug verfügt über ein SCR-System. Dieses besteht aus einem SCR-Katalysator und einer Vorrichtung zur Einspritzung von Harnstofflösung (AdBlue). Dabei wird dem Abgas die Harnstofflösung AdBlue beigemischt, die bei hinreichend hohen Temperaturen im Abgassystem in Ammoniak umgewandelt wird. Das so entstandene Ammoniak reagiert mit Stickoxiden im Wesentlichen zu Stickstoff und Wasser. Dies ermöglicht unter bestimmten physikalischen Rahmenbedingungen die weitgehende Umwandlung von Stickoxid-Rohemissionen in ungefährliche Stoffe.Die Motorsteuerung des Fahrzeugs beinhaltet ein sogenanntes Thermofenster, also eine außentemperaturabhängige Steuerung der Abgasrückführungsrate. Dieses funktioniert in der Weise, dass bei bestimmten Außentemperaturen die Abgasrückführung, welche der Reduktion der Stickstoffemissionen dienen soll, zurückgefahren wird.Ein mit "Entscheidungsvorlage: Applikationsrichtlinien & Freigabevorgaben EA288" überschriebenes internes Dokument der Beklagten enthält auf Seite 5 unter anderem folgende Ausführungen:"Gültigkeit: Ab Datum/ Für UA KW47/2015/ EAD & EAEMotoren/ Markt/ Abgas: EA 288 SCR/ EU 28/ EU6 [...]Anwendungsbeschreibung: SCR: Bedatung, Aktivierung und Nutzung der Erkennung des Precon und des NEFZ, um die Umschaltung der Rohemissionsbedatung (AGR-High/Low) streckengesteuert auszulösen (bis Erreichung SCR-Arbeitstemperatur und OBD-Schwellwerte)Applikationsrichtlinie (Serienfreigaben):SOP vor KW 22/16 (für SOP, Modellpflege): Fahrkurven dürfen nicht zur Einhaltung der Emissions- und OBD-Grenzwerte genutzt werden. Diese müssen durch Ausbedatung oder Software-Änderung entfernt werden. Möglicherweise notwendige Umschaltungen zur Einhaltung der Emissions- und OBD-Grenzwerte müssen auf Basis physikalischer Randbedingungen erfolgen.SOP ab KW22/16 (für SOP, Modellpflege): Bei neuen Freigaben sind die Fahrkurven aus der Software entfernt. Umschaltungen oder die Platzierung von Abgasnachbehandlungsevents muss auf Basis physikalischer Randbedingungen unter Einhaltung der gesetzlichen Vorgaben für Roh- und Endrohremissionen erfolgen.Alle KD-Master: Immer Einzelfallentscheidung durch EAD/EAE-Leitung notwendig. Grundsätzliche Richtlinie: Bei Fehler-Abstellmaßnahmen ohne Einfluss auf Emissionen und OBD, Fortsetzung der ursprünglichen Bedatungs-/Software-Strategie. Bei emissions- oder OBD-relevanten Änderungen sind die Fahrkurven aus der Software zu entfernen."Auf Seite 7 der das Aggregat EA189 betreffende Applikationsrichtlinie heißt es:"Es gilt grundsätzlich (EA189/EA288) die Zusage, dass bei Modellpflegen oder Programmpunkten, bei denen künftig das MSG angefasst wird, die Funktion auch ausgebaut wird.Reines Ausbedaten der Funktion vom KBA bestätigt!"Das Kraftfahrtbundesamt (nachfolgend: KBA) teilte mit Schreiben vom 16.03.2020 gegenüber dem Landgericht Bielefeld in einem Parallelverfahren mit, dass durch das KBA bei Fahrzeugen mit dem Motortyp EA 288 bislang keine unzulässigen Abschalteinrichtungen festgestellt worden seien.Das streitgegenständliche Fahrzeug ist uneingeschränkt gebrauchs- und funktionsfähig. Die EG-Typgenehmigung ist wirksam und bestandskräftig. Das Fahrzeug ist nicht von einem amtlichen Rückruf betroffen.Mit Schreiben ihrer jetzigen Prozessbevollmächtigten vom 22.01.2021 forderte die Klagepartei die Beklagte erfolglos zur Rückabwicklung des Kaufvertrags im Rahmen des Schadensersatzes auf.Der Kilometerstand des streitgegenständlichen Fahrzeugs betrug am 10.10.2021, mithin zwei Tage vor Schluss der mündlichen Verhandlung vom 12.10.2021, 46.496 Kilometer.Die Klagepartei behauptet, das in dem Fahrzeug verbaute Motorsteuergerät enthalte unzulässige Abschalteinrichtungen. Sie behauptet, die Motorsteuerungssoftware ihres Fahrzeugs enthalte nicht nur eine Zykluserkennung, sondern auch Abschalteinrichtungen, die dazu führten, dass im Prüfstand die Abgaswerte optimiert würden. In Folge dessen würden die Emissionsvorgaben für die EG-Typgenehmigung aufgrund der abweichenden Steuerung nur im Prüfzyklus eingehalten. Die Abschalteinrichtung greife im Realbetrieb im Gegensatz zum Testzyklus in die Motorsteuerung ein. So werde die Abgasrückführungsrate durch die temperaturgesteuerte Abschaltvorrichtung "Thermofenster" reduziert beziehungsweise auch abgeschaltet. Zudem werde in dem im Fahrzeug verbauten SCR-Katalysator die Zudosierung von Harnstoff ("Ad-Blue") im normalen Fahrbetrieb in unzulässiger Weise reduziert oder ganz ausgesetzt, was zu einem erheblichen Anstieg der Emissionen führe. Wenn das Fahrzeug hingegen erkenne, dass es sich auf dem Prüfstand befindet, so werde ausreichend AdBlue eingespritzt.Die Klagepartei behauptet, die Überwachungsfunktion des OBD-Systems sei dahingehend manipuliert, dass sie das Zurückfahren der Abgasregelung bis zur vollständigen Abschaltung nicht melde und hier auch keinen Fehler im Fehlerspeicher ablege. Andernfalls hätte aufgrund der Fehlermeldung das Fahrzeug keine Typgenehmigung erhalten und die 2-jährige Abgasuntersuchung nie erfolgreich abgeschlossen.Die Vorstände der Beklagten hätten vom Einbau der Abschalteinrichtung Kenntnis gehabt. Die Klagepartei behauptet, die Beklagte habe sie durch Verwendung der unzulässigen Abschalteinrichtungen sittenwidrig getäuscht. Ihr sei ein Schaden entstanden, der im täuschungsbedingten Abschluss des Kaufvertrages liege.Die Klagepartei beantragt,1. die Beklagte zu verurteilen, an sie 32.935,87 € nebst Zinsen aus 32.935,87 € hieraus in Höhe von 5 % Punkten über dem jeweiligen Basiszinssatz seit 05.02.2021 zu bezahlen, Zugum-Zug gegen die Übereignung und Herausgabe des PKW Typs Volkswagen Passat, FIN: N01;2. die Beklagte zu verurteilen, an sie 1.230,05 € Deliktszinsen zu bezahlen, Zugum-Zug gegen die Übereignung und Herausgabe des PKW Typs Volkswagen Passat, FIN: N01;3. festzustellen, dass sich die Beklagte mit der Annahme des in Antrag 1 genannten Fahrzeugs seit dem 05.02.2021 in Verzug befindet;4. die Beklagte zu verurteilen, sie von den Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.873,06 € vorgerichtlicher Rechtsanwaltskosten freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte bestreitet, dass in dem streitgegenständlichen Fahrzeug unzulässige Abschalteinrichtungen zum Einsatz gekommen seien und behauptet hierzu, das verwendete Thermofenster stelle bereits keine Abschalteinrichtung dar und sei zum Bauteileschutz erforderlich. Die Beklagte bestreitet, dass die Funktionen des SCR-Systems eine unzulässige Abschalteinrichtung darstellten. Das SCR-System werde nicht nur auf dem Prüfstand aktiviert, sondern sei auch und gerade im realen Straßenbetrieb in Funktion. Sie behauptet, das OBD-System im streitgegenständlichen Fahrzeug erkenne Fehlfunktionen der Emissionskontrollsysteme und melde diese. Es überwache die abgasbeeinflussenden Systeme, wirke jedoch nicht auf diese ein.Die Beklagte behauptet ferner, das Fahrzeug sei nach den neuen Worldwide harmonized Light vehicles Test Procedure (WLTP)-Typgenehmigungsregelungen genehmigt worden. Daher gehe die klägerische Bezugnahme auf die vorgelegten Applikationsrichtlinien ins Leere. Diese bezögen sich nur auf nach NEFZ typgenehmigte Fahrzeuge.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die von den Prozessbevollmächtigten der Parteien zur Gerichtsakte gereichten Schriftsätze nebst Anlagen ergänzend Bezug genommen. 
+				Gründe
+				Die Klage ist zulässig, aber unbegründet.I.Die Klage ist zulässig.1.Insbesondere ist das Landgericht Aachen örtlich zuständig gemäß § 32 ZPO. Vorliegend kann ausnahmsweise auf den Schadensort abgestellt werden, da dieser zum Tatbestand der Rechtsverletzung gehört, auf die sich die Klagepartei vorliegend beruft, nämlich einen Anspruch nach § 826 BGB. Für die vorsätzliche sittenwidrige Schädigung ist Schadensort der Belegenheitsort des Klägervermögens (vgl. BGH, Urteil vom 28.02.1996, XII ZR 181/93, juris Rn 15; Urteil vom 13.07.2010, XI ZR 28/09, juris Rn 21). Der maßgebliche Vermögensschaden liegt hier in der Eingehung eines für die Klagepartei nachteiligen Vertrages. Dieser Schaden ist am Ort des Abschlusses des Kaufvertrages über das streitgegenständliche Fahrzeug in J. und damit im Bezirk des Landgerichts Aachen eingetreten.2.Das für den Klageantrag zu 3), gerichtet auf Feststellung, dass sich die Beklagte mit ihrer Verpflichtung zur Rücknahme des streitgegenständlichen Fahrzeuges in Annahmeverzug befindet, gemäß § 256 ZPO erforderliche Feststellungsinteresse ist mit Blick auf die §§ 756, 765 ZPO gegeben.II.Die Klage ist unbegründet.1.Die Klagepartei hat gegen die Beklagte keinen Anspruch auf Schadensersatz.a)Ein solcher Anspruch folgt nicht aus § 826 BGB. Denn die Beklagte hat der Klagepartei vorliegend nicht in einer gegen die guten Sitten verstoßenden Weise vorsätzlich einen Schaden zugefügt.Zwar kann das Inverkehrbringen eines mit einem erheblichen, die Betriebserlaubnis gefährdenden Mangel behafteten Motors eine vorsätzliche sittenwidrige Schädigung darstellen (vgl. hierzu auch BGH, Beschluss vom 08.01.2019 - VIII ZR 225/17; OLG Köln, Beschluss vom 03.01.2019 - 18 U 70/18). Allerdings hat die Klagepartei das Vorliegen eines solchen Mangels im Ergebnis nicht hinreichend dargelegt. Dabei wird nicht verkannt, dass insoweit die Anforderungen an den Vortrag der Klagepartei nicht überhöht werden dürfen, da dieser konkrete Ausführungen zu der tatsächlichen Funktionsweise des streitgegenständlichen Fahrzeuges in der Regel nur begrenzt möglich sind. Indes genügt der Vortrag der Klagepartei auch unter Berücksichtigung dieses Umstands nicht den an einen solchen zu stellenden Anforderungen.(1)Einen Rückruf des KBA bezogen auf das streitgegenständliche Fahrzeug und den Vorwurf der Verwendung unzulässiger Abschalteinrichtungen legt die Klagepartei nicht vor.Es wird nicht verkannt, dass der Vorwurf einer vorsätzlichen sittenwidrigen Schädigung eine entsprechende Bestätigung des KBA für das Vorhandsein von unzulässigen Abschalteinrichtungen in Form eines Rückrufbescheids nicht voraussetzt. Indes sind vorliegend vor dem Hintergrund, dass das KBA den streitgegenständlichen Motortypen explizit auf solche Abschalteinrichtungen hin getestet und solche gerade nicht festgestellt hat, von der Klagepartei zumindest Anhaltspunkte dafür vorzutragen, dass solche in dem streitgegenständlichen Fahrzeug dennoch zum Einsatz kommen. Insoweit genügt die bloße Beschreibung der Funktionsweise einer Abschalteinrichtung nicht, sondern es müssen konkrete Anhaltspunkte dafür benannt werden, warum die Klagepartei annimmt, dass diese Abschalteinrichtung in dem streitgegenständlichen Fahrzeugtyp zum Einsatz kommt. Solche Anhaltspunkte wären unter Umständen etwa dann anzunehmen, wenn bezogen auf andere Fahrzeugmodelle mit dem Motortyp EA 288, EU6, Rückrufbescheide des KBA mit dem Vorwurf der Verwendung einer unzulässigen Abschalteinrichtung vorliegen würden. Daran oder an vergleichbaren Anknüpfungstatsachen fehlt es indes.Zwar existiert ein amtlicher Rückruf zu dem Motor EA 288 im Modell T6. Die Beklagte hat indes dargelegt, dass Hintergrund der vom KBA überwachten Aktion an bestimmten T6-Fahrzeugen eine technische Konformitätsabweichung gewesen sei, die in keinem Zusammenhang zum Einsatz einer unzulässigen Abschalteinrichtung stehe. Die Klagepartei hat demgegenüber nicht belegt, dass der Rückruf im Zusammenhang mit einer illegalen Abschalteinrichtung erfolgt sei.(2)Eine vorsätzliche sittenwidrige Schädigung durch die Beklagte kann nicht in der Verwendung eines Thermofensters gesehen werden.Ein Verhalten ist sittenwidrig, wenn es gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. In diese rechtliche Beurteilung ist einzubeziehen, ob es nach seinem aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter mit den guten Sitten nicht zu vereinbaren ist. Es müssen besondere Umstände hinzutreten, die das schädigende Verhalten wegen seines Zwecks oder wegen des angewandten Mittels oder mit Rücksicht auf die dabei gezeigte Gesinnung nach den Maßstäben der allgemeinen Geschäftsmoral und des als "anständig" Geltenden verwerflich machen (vgl. BGH, Urteil vom 03.12.2013, XI ZR 295/12 - zitiert nach juris). Sittenwidrig handelt insbesondere, wer eine Sache, von deren Mangelhaftigkeit er weiß, in der Vorstellung in den Verkehr bringt, dass die betreffende Sache von dem Erwerber in unverändert mangelhaftem Zustand an ahnungslose Dritte, die in Kenntnis der Umstände von dem Geschäft Abstand nähmen, veräußert werden wird (OLG Köln, Beschluss vom 03.01.2019, 18 U 70/18 - zitiert nach juris). Eine Verletzung vertraglicher Leistungspflichten stellt grundsätzlich keine sittenwidrige Schädigung dar, selbst wenn sie im Einzelfall vorsätzlich erfolgt. Insoweit werden die vertragsrechtlichen Rechtsbehelfe nicht durch einen deliktischen Schadensersatzanspruch aus § 826 BGB ergänzt (vgl. OLG Koblenz, Urteil v. 28.05.2019, 3 U 416/19, S. 11; LG Stuttgart, Urteil v. 25.07.2019, 30 O 34/19, Rn. 59). Diese Grundsätze gelten auch für Ansprüche, die im Zusammenhang mit dem sogenannten Abgasskandal geltend gemacht werden. Die Rechtsprechung betont hier in besonderem Maße das Verhältnis zwischen der vertraglichen und der deliktischen Haftung. Denn eine unbeschränkte und vorschnell bejahte Deliktshaftung für Vermögensschäden birgt die Gefahr, die Risikozuweisungen des jeweils einschlägigen Vertragsrechts zu unterlaufen (vgl. LG Stuttgart, Urteil v. 25.07.2019, 30 O 34/19, Rn. 59; MünchKommBGB/Wagner, 7. Aufl., § 826 Rn. 16).Vorliegend ist - unabhängig von der Frage, ob es sich bei dem streitgegenständlichen Thermofenster überhaupt um eine unzulässige Abschalteinrichtung handelt - jedenfalls nicht von einer vorsätzlichen sittenwidrigen Schädigung auszugehen.Bei der Verwendung der in der Motorenreihe EA189 genutzten Umschaltlogik, welche allein dem Zweck diente, die Emissionswerte der Fahrzeuge auf dem Prüfstand zu beeinflussen, kann zwar nach den vorstehenden Maßstäben eine sittenwidrige Schädigung angenommen werden. Anders stellt sich die Lage aber bei der Verwendung eines Thermofensters dar (vgl. OLG Köln, Urteil v. 11.04.2019, S. 20). Denn diese dient nicht der manipulativen Überlistung des KBA bei der Erlangung der erforderlichen Typengenehmigung (vgl. OLG Köln, Beschluss des 16. Zivilsenates vom 12.08.2019). Der Einsatz der Thermofenster-Software zielt nämlich bereits nicht auf die Abweichungen der Werte des Prüf- zu denen des Fahrbetriebes ab, sondern ist unabhängig von der Frage aktiv, ob sich das Fahrzeug auf dem Prüfstand oder im normalen Fahrbetrieb befindet. Sie weist demnach keine Funktion auf, die bei erkanntem Prüfstandbetrieb eine verstärkte Abgasrückführung aktiviert und den Stickoxidausstoß gegenüber dem normalen Fahrbetrieb reduziert, sondern arbeitet in beiden Fahrsituationen im Grundsatz in gleicher Weise und wird - zumindest auch - mit dem Motor- beziehungsweise Bauteileschutz gerechtfertigt.In solchen Fällen ist bei Verwendung eines Thermofensters der Vorwurf einer vorsätzlichen sittenwidrigen Schädigung gegenüber der Beklagten nur dann gerechtfertigt, wenn zu einem unterstellten Verstoß gegen die Verordnung 715/2007/EG weitere Umstände hinzutreten, die das Verhalten der für die Beklagten handelnden Personen als besonders verwerflich erscheinen ließen. Insoweit setzt die Annahme von Sittenwidrigkeit jedenfalls voraus, dass diese Personen bei der Entwicklung und/oder Verwendung der temperaturabhängigen Steuerung des Emissionskontrollsystems in dem Bewusstsein handelten, eine unzulässige Abschalteinrichtung zu verwenden und den darin liegenden Gesetzesverstoß billigend in Kauf zu nehmen. Anderenfalls ist der objektive Tatbestand der Sittenwidrigkeit nicht erfüllt (vgl. zum Vorstehenden BGH, Urteil v. 19.01.2021, VI ZR 433/19, BeckRS 2021, 847, Rn. 18 f.), da nicht ohne Weiteres unterstellt werden kann, dass die Handelnden beziehungsweise Verantwortlichen bei der Beklagten in dem Bewusstsein gehandelt haben, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden. Vielmehr muss in dieser Situation, selbst wenn hinsichtlich des Thermofensters von einer objektiv unzulässigen Abschalteinrichtung auszugehen sein sollte, eine möglicherweise falsche, aber dennoch vertretbare Gesetzesauslegung und -anwendung durch die Organe der Beklagten in Betracht gezogen werden (OLG Köln, Beschluss vom 4.7.2019, 3 U 148/18, BeckRS 2019, 15640; OLG Stuttgart, Urteil v. 30.7.2019, 10 U 134/19, ZVertrR 2019, 301).Vorliegend fehlt es an konkreten Anhaltspunkten dafür, dass die Beklagte davon ausgegangen wäre, dass es sich bei dem in dem streitgegenständlichen Fahrzeug verwendeten Thermofenster um eine unzulässige Abschalteinrichtung gehandelt hat und sie damit eine Schädigung der Klagepartei gekannt beziehungsweise vorausgesehen und in ihren Willen aufgenommen, jedenfalls aber für möglich gehalten und billigend in Kauf genommen hätte. Anhaltspunkte hierfür sind nicht ersichtlich. Es genügt insoweit nicht, wenn die relevanten Tatumstände lediglich objektiv erkennbar waren und der Handelnde sie hätte kennen können oder kennen müssen oder sie sich ihm sogar hätten aufdrängen müssen; in einer solchen Situation ist lediglich ein Fahrlässigkeitsvorwurf gerechtfertigt (vgl. OLG Köln, Urt. V. 09.08.2019, 1 U 36/19, S. 6; OLG Köln, Beschluss vom 4.7.2019, 3 U 148/18, Beck RS 2019, 15640; OLG Stuttgart, Urteil v. 30.7.2019, 10 U 134/19, ZVertrR 2019, 301).(3)Soweit die Klagepartei ein sittenwidriges Handeln der Beklagten mit einer Manipulation des SCR-Systems zu begründen sucht, hat dies ebenfalls keinen Erfolg.Die Klagepartei vermag keine hinreichenden Anhaltspunkte für ihren pauschalen Vorwurf zu nennen, die AdBlue-Dosierung sei als unzulässige Abschalteinrichtung ausgestaltet.Die Beklagte hat insoweit vorgetragen, es bedürfe einer Dosierstrategie zur effektiven Ausgestaltung des SCR-Systems in Abhängigkeit von z.B. der Fahrweise und der weiteren Rand- und Umgebungsbedingungen. Bei sämtlichen Dieselmotoren, die über ein SCR-System verfügen, erfolge daher eine Umschaltung vom kalten Betriebszustand, in dem eine niedrige SCR-Aktivität aufgrund des kalten SCR-Systems herrsche, in einen warmen Betriebszustand, bei dem eine hohe SCR-Aktivität vorliege. Diese Umschaltung müsse auf dem Motorsteuerungsgerät als ein Element der "Strategie" bedatet sein, da ansonsten das SCR-System nicht ordnungsgemäß, insbesondere bei kalter Betriebstemperatur, funktionieren würde. Eine Einspritzung von AdBlue bei kalter Betriebstemperatur habe nicht die erwünschte chemische Reduktion von Schadstoffemissionen zur Folge und könne sogar dazu führen, dass sich giftiges Ammoniak bilde. Eine Dosierstrategie verhindere dies. Die AdBlue-Dosierung sei im streitgegenständlichen Fahrzeug nicht an das Erkennen des Prüfzyklus geknüpft, um NOx-Emissionswerte einzuhalten. Es erfolge keine unterschiedliche Ausgestaltung "im und außerhalb des Zyklus" zwecks Einhaltung der NOx-Grenzwerte.Konkrete Anhaltspunkte für die von ihr pauschal behaupteten Prüfstandserkennung nennt die Klagepartei nicht. Der pauschale Vortrag, auf dem Prüfstand werde eine größere Menge an Harnstoff beigemischt als im realen Fahrbetrieb, vermag das Vorliegen einer unzulässigen Abschalteinrichtung nicht schlüssig zu begründen. Die Beklagte ist dieser Behauptung substantiiert entgegengetreten, indem sie dargelegt hat, dass die Reinigungsleistung des SCR- Katalysators aufgrund der physikalischen und chemischen Bedingungen nicht über alle Betriebszustände konstant sein kann und dass das SCR-System nicht nur auf dem Prüfstand, sondern auch im realen Straßenverkehr aktiv ist.Jedenfalls hat die Klagepartei auch nicht hinreichend aufzuzeigen vermocht, dass die Beklagte sittenwidrig gehandelt hätte. Im Hinblick auf die nach dem Vortrag der Beklagten zwingend nicht stets gleichmäßig mögliche Dosierung von AdBlue bedürfte es eines Anhaltspunktes dafür, warum eine wechselnde Dosierung ein sittenwidriges Handeln nahelegte, selbst wenn die Dosierung einschlägigen Vorschriften nicht genügt hätte (vgl. OLG München, Beschluss vom 8.3.2021 - 27 U 6070/20 -, Rn. 44, juris).(4)Soweit die Klagepartei das Vorhandensein von Abschalteinrichtungen im streitgegenständlichen Fahrzeug mittels Vorlage der Applikationsrichtlinien zu belegen sucht, hat dies ebenfalls keinen Erfolg.Aufgrund der Ausführungen in den Applikationsrichtlinien könnte der Klagepartei dahin Recht zu geben sein, dass diese tatsächlich dafür sprechen könnten, dass bei Fahrzeugen, die vor der 47. Kalenderwoche des Jahres 2015 gebaut worden sind, Fahrkurven, die Einfluss auf das Emissionsverhalten nehmen, hinterlegt gewesen sein könnten. Ob die Beklagte bis zur 47. Kalenderwoche des Jahres 2015 unzulässige Abschalteinrichtungen in den Fahrzeugen implementiert hat, kann jedoch im Ergebnis dahinstehen. Das klägerische Fahrzeug wurde unstreitig erst im Jahr 2019 gebaut. Vor diesem Hintergrund kann auch der Einwand der Beklagten, die Applikationsrichtlinien bezögen sich nur auf NEFZ-typgenehmigte Fahrzeuge, während das streitgegenständliche Fahrzeug nach den neueren WLTP -Typgenehmigungsregelungen genehmigt worden sei, dahinstehen.(5)Etwas anderes ergibt sich auch nicht aus dem Vortrag der Klagepartei, mit einer Manipulation des On-Board-Diagnose-Systems (OBD-System) würden die Abschalteinrichtungen vertuscht. Ein OBD-System ist in Art 3 Nr. 9 715/2007/EG definiert als ein System für die Emissionsüberwachung, das in der Lage ist, mithilfe rechnergespeicherter Fehlercodes den Bereich von Fehlfunktionen anzuzeigen. Konkrete Anhaltspunkte, die dafür sprechen, dass das OBD-System im streitgegenständlichen Fahrzeug nicht richtig funktioniert, hat die Klagepartei nicht vorgetragen.b)Ein Anspruch der Klagepartei ergibt sich auch nicht aus § 823 Abs. 2 BGB i.V.m. § 263 Abs. 1 StGB. Insoweit fehlt es, unabhängig von der Frage, ob die Klagepartei durch die Beklagte überhaupt getäuscht worden ist und aufgrund eines dadurch bedingten Irrtums das Fahrzeug erworben hat, an einem Täuschungsvorsatz.c)Auch Ansprüche aus § 823 Abs. 2 BGB i.V.m. §§ 6, 27 EG-FGV scheiden aus, ohne dass es darauf ankommt, ob es sich hierbei überhaupt um Schutzgesetze im Sinne des § 823 Abs. 2 BGB handelt (ablehnend BGH, Urteil v. 25.05.2020, VI ZR 252/19, NJW 2020, 1962, 1971). Tatbestandlich fehlt es bereits an einem Verstoß gegen die Normen, wenn - wie vorliegend - das Fahrzeug dem genehmigten Typ entspricht. Das gilt auch dann, wenn das Fahrzeug eine "Abschalteinrichtung" enthält, der genehmigte Typ aber eben auch. Ohne Belang ist, ob die Typgenehmigung in diesem Fall nicht hätte erteilt werden dürfen. Auch eine erschlichene Typgenehmigung macht eine hierauf bezogene Übereinstimmungsbescheinigung nicht unrichtig. Dafür sprechen nicht zuletzt Sinn und Zweck der Übereinstimmungsbescheinigung (OLG Brandenburg, Urteil vom 19.12.2019 - 5 U 103/18; OLG Stuttgart, Urteil vom 07.08.2019 - 9 U 9/19).2.Mangels Hauptforderung hat die Klagepartei keinerlei Zinsansprüche gegen die Beklagte.3.Aufgrund der vorstehenden Ausführungen befindet sich die Beklagte auch nicht in Annahmeverzug, sodass auch der Feststellungsantrag zu 3) in der Sache bereits aus diesem Grund keinen Erfolg hat.4.Mangels Bestehens der Hauptforderung steht dem Kläger auch kein Anspruch auf Zahlung von vorgerichtlich entstandenen Rechtsanwaltskosten in Höhe von 1.873,06 € nebst Zinsen zu.III.Die prozessualen Nebenentscheidungen beruhen auf den §§ 91 Abs. 1, S. 1, 709 S. 1, 2 ZPO.Streitwert: 32.935,87 €
+			
+			
+			
+			Permalink: https://openjur.de/u/2491102.html (https://oj.is/2491102)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate9
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitOLG Frankfurt am MainRechtsprechungUrteil vom 08.09.2021 - 1 U 304/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Frankfurt am Main, Urteil vom 08.09.2021 - 1 U 304/20
+                      m. Fundstelle
+                      OLG Frankfurt am Main, Urteil vom 08.09.2021 - 1 U 304/20 = openJur 2022, 15429
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Frankfurt am Main, Urteil vom 08.09.2021 - 1 U 304/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 15429
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung der Klägerin gegen das am 02.11.2020 verkündete Urteil des Einzelrichters der 7. Zivilkammer des Landgerichts Frankfurt am Main wird zurückgewiesen.Die Kosten des Berufungsverfahrens hat die Klägerin zu tragen.Dieses und das angefochtene Urteil sind vorläufig vollstreckbar.  
+				Gründe
+				I.Die Klägerin nimmt die Beklagte auf Schadensersatz im Zusammenhang mit dem Erwerb eines Pkw Opel Insignia Sports Tourer im Jahr 2014 zu einem Kaufpreis von 25.400,00 € in Anspruch. Dabei handelt es sich um ein Fahrzeug der Euro Norm 5 mit dem von der Beklagten entwickelten und hergestellten Motor A20DTH (LBS/120 kW). Das Fahrzeug war erstmals im Sommer 2013 zum Straßenverkehr zugelassen worden und ist bis heute zugelassen. Das Fahrzeug ist nicht von einem Rückruf des Kraftfahrt-Bundesamts (KBA) betroffen.Die Klägerin hat behauptet, dass in dem Motor des streitgegenständlichen Fahrzeugs eine temperaturgesteuerte Abschaltvorrichtung (sog. Thermofenster) verbaut sei, welche dazu führe, dass außerhalb des Außentemperaturfensters von 10 °C bis 30 °C die Software der Motorsteuerung die Funktionsfähigkeit der Abgasreinigung reduziere, wodurch die Wirksamkeit des Emissionskontrollsystems sinke und die Stickoxidemissionen stiegen. Ferner sei in dem Fahrzeug eine Prüfstandserkennung eingebaut, die erkenne, ob sich das Fahrzeug im Prüfstand oder im realen Fahrbetrieb befinde und im realen Fahrbetrieb die Abgasreinigung abschalte bzw. reduziere sie.Hinsichtlich des Sach- und Streitstands der 1. Instanz im Übrigen sowie der dort gestellten Anträge wird auf den Tatbestand des landgerichtlichen Urteils Bezug genommen.Das Landgericht hat die Klage abgewiesen. Zur Begründung hat es ausgeführt, dass der Klägerin gegen die Beklagte kein Anspruch auf Schadensersatz aus § 826 BGB zustehe. Die Klägerin habe eine Prüfstanderkennungssoftware nicht hinreichend substantiiert dargelegt. Der Verweis auf Messungen der Deutschen Umwelthilfe (DUH) zum fraglichen Motor genüge insoweit nicht. Zum einen beträfen die Messungen Fahrzeuge der Beklagten der Emissions-Klasse Euro 6. Diese seien für das streitgegenständliche Fahrzeug der Emissions-Klasse Euro 5 nicht aussagekräftig. Zudem sei alleine der Umstand, dass das Fahrzeug im Realbetrieb mehr Abgase ausstoße als auf dem Prüfstand für sich genommen kein ausreichender Anhaltspunkt für das Vorliegen einer unzulässigen Abschalteinrichtung. Zudem könne dies auch auf die von der Klägerin behauptete temperaturabhängige Abschalteinrichtung (sog. Thermofenster) zurückzuführen sein. Der Vortrag, dass das Fahrzeug anhand des Lenkwinkels die Prüfstandssituation erkenne, erfolgt ins Blaue hinein. Es könne dahinstehen, ob eine temperaturgesteuerte Abschalteinrichtung vorliege, da es zumindest an dem für eine deliktische Haftung erforderlichen Schädigungsvorsatz fehle. Anders als in den Fällen der Prüfstandserkennungssoftware könne dies bei einem Thermofenster nicht vermutet werden. Zudem sei die Auslegung, wonach ein Thermofenster eine zulässige Abschalteinrichtung darstelle, nicht unvertretbar.Gegen diese Entscheidung wendet sich die Klägerin mit der Berufung und verfolgt ihre erstinstanzlichen Anträge weiter. Zur Begründung führt sie im Wesentlichen aus, dass das Landgericht den Normenzusammenhang des Art. 5 Abs. 2 VO 715/2007/EG verkannt habe. Danach müssten unter normalen Betriebsbedingungen die Bauteile eines Fahrzeugs den Vorgaben der VO entsprechen. Dies gelte für den realen Fahrbetrieb und den Prüfstand gleichermaßen. Diesen Vorgaben werde das streitgegenständliche Fahrzeug nicht gerecht, da die Abschalteinrichtung bereits bei Temperaturen bzw. in Drehzahlbereichen deaktiviert werde, die in Europa als normale Betriebsbedingungen zu gelten hätten. Die Parameter der Abschalteinrichtung orientierten sich offenkundig an den Rahmenbedingungen des Prüfverfahrens, nicht an der technischen Notwendigkeit, weshalb es sich um eine unzulässige Abschalteinrichtung handele. Die Darlegungs- und Beweislast für die ausnahmsweise Zulässigkeit einer grundsätzlich illegalen Abschalteinrichtung liege bei der Beklagten. Die Klägerin habe die Zulässigkeit bestritten.Zu Unrecht habe das Landgericht ferner den Vorsatz und die Sittenwidrigkeit verneint. Es komme darauf an, dass der Hersteller systematisch und bewusst eine Software eingesetzt habe, durch welche die Einhaltung der Stickoxidgrenzwerte nur im Prüfbetrieb gewährleistet sei. Ob die unzulässige Abschalteinrichtung außerhalb des Prüfstands in einen Modus mit geringerer AGR-Rate umschalte (EA 189) oder die AGR-Rate außerhalb des Prüfstands graduell reduziert werde (Thermofenster), könne wertungsmäßig keinen Unterschied machen. Denn in beiden Fällen begründe die Verwendung der illegalen Abschalteinrichtung die Gefahr, dass bei einer Entdeckung der Software eine Betriebsuntersagung drohe. Die Implementierung der Abgasstrategie sei eine bewusste und willentliche Entscheidung der Beklagten gewesen. Die Beklagte habe in der Kenntnis gehandelt, einen Ausnahmetatbestand in Anspruch zu nehmen, bei ihr habe ein Gefahrbewusstsein vorgelegen. Soweit sich die Beklagte auf einen Subsumtions- oder Verbotsirrtum berufe, komme sie ihrer Darlegungs- und Beweislast für einen Irrtum nicht nach. Die Beklagte habe das KBA im Genehmigungsverfahren bewusst getäuscht indem sie im Beschreibungsbogen des Typengenehmigungsantrags keine Angaben zur Verwendung unzulässiger Aschalteinrichtungen gemacht habe. Die Beklagte habe ferner ihre Mitteilungspflichten gemäß Art. 3 Nr. 9 VO (EG) 692/2008 verletzt. Indem die Beklagte lediglich angegeben habe, die Abgasrückführung richte sich nach der Lufttemperatur, der Motordrehzahl und dem Außenluftdruck habe sie konkludent erklärt, es gebe keine nennenswerte Abweichung der Arbeitsweise des AGR-Systems bei niedrigen Temperaturen, höheren Motordrehzahlen und niedrigerem Luftdruck. Ferner habe die Beklagte konkludent erklärt, die temperaturabhängige Steuerung der Abgasrückführung habe keine Auswirkungen auf die Emissionen bei niedrigeren Temperaturen. Der Klägerin komme bei dem objektiv rechtswidrigen Verhalten der Beklagten, dass aus deren Organisationsbereich herrühre, eine Beweislastumkehr zugute.Hinsichtlich der weiteren Begründung wird auf die Berufungsbegründung vom 20.01.2021 (Bl. 261ff. d.A.) und den Schriftsatz vom 26.08.2021 (Bl. 344ff. d.A.) verwiesen.Die Klägerin beantragt zuletzt:1. Die Beklagte wird verurteilt, an die Klägerin 18.858,42 € sowie Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 03.06.2020 zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs Opel Insignia Sports Tourer SW mit der Fahrzeugidentifikationsnummer ....2. Es wird festgestellt, dass sich die Beklagte mit der Annahme des in Ziffer 1. genannten Fahrzeugs zwei Wochen nach Rechtshängigkeit in Verzug befindet.3. Die Beklagte wird verurteilt, an die A, Straße1, Stadt1 zur Schadensnummer ... vorgerichtliche Anwaltskosten in Höhe von 597,74 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen.Im Übrigen erklärt sie den Rechtsstreit in der Hauptsache für erledigt.Die Beklagte schließt sich der Erledigungserklärung der Klägerin nicht an und beantragt,die Berufung zurückzuweisen.Die Beklagte verteidigt das landgerichtliche Urteil. Zur Begründung trägt sie vor, dass das Landgericht zu Recht die klägerische Behauptung einer Prüfstandserkennung als willkürlichen Vortrag "ins Blaue hinein" gewertet habe. Das Emissionssystem des streitgegenständlichen Fahrzeugs unterscheide nicht zwischen dem Prüfstand und dem realen Fahrbetrieb. Die Volkswagen-Untersuchungskommission habe in Zusammenarbeit mit dem KBA den Motor eines Opel-Astra 2.0 in dem ein mit dem streitgegenständlichen Motor vergleichbarer Zwei-Liter-Dieselmotor der Emissionsklasse Euro 5 verbaut sei, bereits Anfang 2016 eingehend geprüft und bestätigt, dass keine Prüfzykluserkennung vorliege. Das Landgericht habe ferner zu Recht hinsichtlich des Thermofensters ein sittenwidriges und vorsätzliches Verhalten der Beklagten verneint. Das Fahrzeug sei von keinem Rückruf betroffen. Das Vorliegen eines verwaltungsrechtlich unzulässigen Thermofensters begründe nicht den Vorwurf der Sittenwidrigkeit. Zudem sei das beim streitgegenständlichen Fahrzeug zum Einsatz kommende Thermofenster zulässig. Die Beklagte erhebt ferner die Einrede der Verjährung.II.Die zulässige, insbesondere form- und fristgerecht eingelegte und begründete Berufung der Klägerin hat in der Sache keinen Erfolg. Das Landgericht hat die Klage zu Recht abgewiesen.Die Klägerin hat gegen die Beklagte keinen Anspruch auf Schadensersatz.In Betracht kommt allein ein Anspruch der Klägerin gegen die Beklagte aus §§ 826, 31, 249ff. BGB (vgl. dazu grundlegend BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, BGHZ 225, 316-352). Dessen Voraussetzungen liegen hier jedoch nicht vor.Eine Prüfzykluserkennung, vergleichbar dem Fall der manipulativen Motorsteuerungssoftware des EA 189 von Volkswagen ("Umschaltlogik"), hat die insoweit darlegungs- und beweisbelastete Klägerin nicht substantiiert dargelegt. Nach dem Vortrag der Klägerin werde die Abgasrückführung durch bestimmte Parameter gesteuert, die zwar im Grundsatz sowohl im Prüfzyklus als auch im normalen im Fahrbetreib aufträten, im Prüfzyklus jedoch deutlich häufiger und im normalen Fahrbetrieb seltener. Dieses Vorbringen begründet schon für sich nicht die Annahme einer Prüfstandserkennung vergleichbar dem Motor EA 189 von Volkswagen, der eine Täuschungsabsicht immanent ist, denn die behaupteten Abschalteinrichtungen wirken sowohl im Prüfzyklus als auch im normalen Fahrbetrieb.Darüber hinaus ist das Vorbringen der Klägerin jedoch auch hinsichtlich der genauen Parameter, die in ihrer Kombination einer Prüfzykluserkennung gleichkämen, nicht hinreichend substantiiert und deshalb prozessual nicht zu berücksichtigen.Nach der Rechtsprechung des Bundesgerichtshofs ist ein Sachvortrag zur Begründung eines Anspruchs schlüssig und erheblich, wenn die Partei Tatsachen vorträgt, die in Verbindung mit einem Rechtssatz geeignet und erforderlich sind, das geltend gemachte Recht als in der Person der Partei entstanden erscheinen zu lassen. Die Angabe näherer Einzelheiten ist nicht erforderlich, soweit diese für die Rechtsfolgen nicht von Bedeutung sind. Das Gericht muss nur in die Lage versetzt werden, aufgrund des tatsächlichen Vorbringens der Partei zu entscheiden, ob die gesetzlichen Voraussetzungen für das Bestehen des geltend gemachten Rechts vorliegen. Sind diese Anforderungen erfüllt, ist es Sache des Tatrichters, in die Beweisaufnahme einzutreten und dabei gegebenenfalls die benannten Zeugen oder die zu vernehmende Partei nach weiteren Einzelheiten zu befragen oder einem Sachverständigen die beweiserheblichen Streitfragen zu unterbreiten. Diese Grundsätze gelten insbesondere dann, wenn die Partei keine unmittelbare Kenntnis von den ihrer Behauptung zugrundeliegenden Vorgängen hat. Eine Partei darf auch von ihr nur vermutete Tatsachen als Behauptung in einen Rechtsstreit einführen, wenn sie mangels entsprechender Erkenntnisquellen oder Sachkunde keine sichere Kenntnis von Einzeltatsachen hat. Gemäß § 403 ZPO hat die Partei, die die Einholung eines Sachverständigengutachtens beantragen will, die zu begutachtenden Punkte zu bezeichnen. Dagegen verlangt das Gesetz nicht, dass der Beweisführer sich auch dazu äußert, welche Anhaltspunkte er für die Richtigkeit der in die Sachkenntnis des Sachverständigen gestellten Behauptung habe. Unbeachtlich ist der auf Vermutungen gestützte Sachvortrag einer Partei erst dann, wenn die unter Beweis gestellten Tatsachen so ungenau bezeichnet sind, dass ihre Erheblichkeit nicht beurteilt werden kann, oder wenn sie zwar in das Gewand einer bestimmt aufgestellten Behauptung gekleidet, aber aufs Geratewohl gemacht, gleichsam "ins Blaue" aufgestellt, mit anderen Worten, aus der Luft gegriffen sind und sich deshalb als Rechtsmissbrauch darstellen. Insoweit ist allerdings Zurückhaltung geboten; in der Regel wird nur das Fehlen jeglicher tatsächlicher Anhaltspunkte die Annahme eines Rechtsmissbrauchs rechtfertigen können (vgl. zuletzt BGH, Urteil vom 16. September 2021 - VII ZR 190/20 -, Rn. 21ff. m.w.N., juris).Ausgehend von diesen Grundätzen ist der Vortrag der Klägerin als Behauptung "ins Blaue" zu werten, denn er bleibt im Tatsächlichen hinsichtlich der genauen Parameter, die die Reduzierung der Abgasrückführung in Kombination steuern sollen und in ihre Kombination die Prüfsituation erkennen sollen, so vage und unbestimmt, dass mangels hinreichender Darlegung der Anknüpfungstatsachen der Sachverständigenbeweis auf eine unzulässige Ausforschung hinausliefe.Hinzu kommt, dass das Fahrzeug keinem Rückruf des KBA ausgesetzt ist. Die Volkswagen - Untersuchungskommission jedoch Anfang 2016 vergleichbare Motoren der Beklagten in Zusammenarbeit mit dem KBA untersucht und bestätigt hat, dass keine Prüfzykluserkennung vorliegt. Unter diesen Umständen wäre die Klägerin gehalten gewesen, substantiierter zu der nach ihrer Auffassung dennoch vorliegenden Prüfzykluserkennung vorzutragen.Soweit die Klägerin behauptet, dass in dem Fahrzeug unzulässige Abschalteinrichtungen im Sinne der Art. 3 Nr. 10 in Verbindung mit Art. 5 Abs. 2 Satz 2 VO (EG) 715/2007, insbesondere in Form eines Thermofensters zum Einsatz kämen, vermag dies für sich nicht den Vorwurf der Sittenwidrigkeit zu begründen. Der Vorwurf der Sittenwidrigkeit gegenüber der Beklagten wäre nur gerechtfertigt, wenn zu dem behaupteten Verstoß gegen die Verordnung 715/2007/EG weitere Umstände hinzuträten, die das Verhalten der für sie handelnden Personen als besonders verwerflich erscheinen ließen. Dies wäre der Fall, wenn diese Personen bei der Entwicklung und/oder Verwendung der temperaturabhängigen Steuerung des Emissionskontrollsystems in dem Bewusstsein handelten, eine unzulässige Abschalteinrichtung zu verwenden, und den darin liegenden Gesetzesverstoß billigend in Kauf nahmen (vgl. BGH, Beschluss vom 19. Januar 2021 - VI ZR 433/19 -, Rn. 17 - 19, juris). Die Darlegungs- und Beweislast liegt insoweit bei der Klägerin (BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19, ZIP 2020, 1179 Rn. 35).Solche weiteren Umstände hat die Klägerin jedoch nicht substantiiert dargelegt. Soweit die Klägerin behauptet, dass die Beklagte im Typengenehmigungsverfahren das KBA bewusst getäuscht habe, indem sie im Beschreibungsbogen des Typengenehmigungsantrags keine Angaben zur Verwendung unzulässiger Abschalteinrichtungen gemacht habe und ihre Mitteilungspflichten gemäß Art. 3 Nr. 9 VO (EG) 692/2008 verletzt habe, ist das Vorbringen nicht hinreichend substantiiert. Der Vortrag der Klägerin reduziert sich auf die Wiedergabe der gesetzlichen Regelung und der Behauptung ins Blaue hinein, dass die Beklagte falsche bzw. unvollständige Angaben gemacht habe. Greifbare Anhaltspunkte dafür, dass die Beklagte bewusst falsche bzw. unvollständige Angaben in Täuschungsabsicht gemacht habe, legt die Klägerin nicht dar. Selbst wenn die Beklagte erforderliche Angaben zu den Einzelheiten der temperaturabhängigen Steuerung unterlassen haben sollte, wäre die Typgenehmigungsbehörde nach dem Amtsermittlungsgrundsatz gemäß § 24 Abs. 1 Satz 1 und 2 VwVfG gehalten gewesen, diese zu erfragen, um sich in die Lage zu versetzen, die Zulässigkeit der Abschalteinrichtung im streitgegenständlichen Fahrzeug zu prüfen. Anhaltspunkte für wissentlich unterbliebene oder unrichtige Angaben der Beklagten im Typgenehmigungsverfahren, die noch dazu auf ein heimliches und manipulatives Vorgehen oder eine Überlistung des KBA und damit auf einen bewussten Gesetzesverstoß hindeuten würden, hat die Klägerin nicht dargelegt (vgl. zuletzt BGH, Urteil vom 16. September 2021 - VII ZR 321/20 -, Rn. 26, juris).Die Kostenentscheidung folgt aus § 97 Abs. 1 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit aus §§ 708 Nr. 10, 713 ZPO.Die Zulassung der Revision ist nicht geboten, weil die Rechtssache keine grundsätzliche Bedeutung hat und eine Entscheidung des Revisionsgerichts weder zur Fortbildung des Rechts noch zur Sicherung einer einheitlichen Rechtsprechung erforderlich ist (§ 543 Abs. 2 ZPO).
+			
+			
+			
+			Permalink: https://openjur.de/u/2447159.html (https://oj.is/2447159)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

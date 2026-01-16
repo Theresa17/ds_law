@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 08.01.2019 - 19 O 191/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 08.01.2019 - 19 O 191/17
+                      m. Fundstelle
+                      LG Köln, Urteil vom 08.01.2019 - 19 O 191/17 = openJur 2021, 46357
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 08.01.2019 - 19 O 191/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 46357
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Beklagte zu 1. wird verurteilt, an den Kläger 20.149,62 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 10.10.2017, Zug-um-Zug gegen Übereignung und Herausgabe des Pkw T Z 2,0 l TDI, FIN: XXXXXX.2. Es wird festgestellt, dass sich die Beklagte zu 1) seit dem 19.10.2017 mit der Rücknahme des im Klageantrag zu 1. genannten Fahrzeugs in Verzug befindet.3. Im Übrigen wird die Klage abgewiesen.4. Die Kosten des Rechtsstreits werden der Beklagten auferlegt.5. Das Urteil ist gegen Sicherheitsleistung i. H.v. 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten um Ansprüche des Klägers gegen die Beklagten nach einem Pkw-Kauf im Zusammenhang mit dem so genannten "Abgasskandal".Mit Kaufvertrag vom 02.02.2015 erwarb der Kläger bei der Beklagten zu 1) das im Tenor bezeichnete Fahrzeug (einen Neuwagen) zu einem Kaufpreis von 39.166,75 € abzüglich eines Rabatts, mithin zu einem Preis von 32.500,01 €. Wegen der Einzelheiten wird auf die Bestellung vom 02.02.2015 (K1, Bl. 73) verwiesen.In dem Fahrzeug des Klägers ist ein Dieselmotor des Typs F 000 (EU 5) nebst einer Software verbaut, die erkennt, ob sich das Fahrzeug im Normalbetrieb befindet oder einen sogenannten "Neuen Europäischen Fahrzyklus" (NEFZ) durchläuft. In diesem Fahrzyklus werden die maßgeblichen Werte für eine Typengenehmigung unter Laborbedingungen geprüft. In dem Fahrzeugmodus, der für den Fall der Absolvierung des NEFZ programmiert ist, kommt es zu einer höheren Abgasrückführung; die zurückgeführten Gase verlassen den Motor nicht, so dass weniger Stickoxide austreten. Dies ist im Normalbetrieb nicht der Fall.Nachdem der Einsatz der beschriebenen Software öffentlich bekannt geworden war, gab das Kraftfahrtbundesamt der Beklagten auf, die Software aus den Fahrzeugen zu entfernen. Die erteilten Typengenehmigungen für die Fahrzeuge widerrief das Kraftfahrtbundesamt nicht. Es gab sodann von der Beklagten entwickelte Software-Updates frei. Mit einer Bestätigung vom 03.06.2016 stellte das Kraftfahrtbundesamt fest, dass die von der Beklagten entwickelten Updates geeignet seien, die Vorschriftsmäßigkeit eines Fahrzeugs wie des streitgegenständlichen herzustellen. Diese Updates ließ der Kläger für sein Fahrzeug indes nicht durchführen.Mit anwaltlichem Schreiben vom 04.10.2017 (K2, Bl. 79) an die Beklagte zu 1) ließ der Kläger den Kaufvertrag wegen arglistiger Täuschung anfechten und ließ "hilfsweise" den Rücktritt vom Kaufvertrag erklären. Zugleich setzte er der Beklagten zu 1) eine Frist zur Rückabwicklung des Kaufvertrags bis zum 18.10.2017.Die Beklagte zu 1) verweigerte mit Schreiben vom 10.10.2017 (K3, Bl. 83 ff) die Rücknahme des Fahrzeugs und verwies auf den Umstand, dass ein Software-Update zur Verfügung stehe.Mit der Klageschrift wiederholte der Kläger die Anfechtungs- und Rücktrittserklärungen.Der Kläger hat mit seinem ursprünglichen Antrag 4) beantragt, die Beklagten zu verurteilen, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten freizustellen. Die Beklagte zu 2) rügt die örtliche Zuständigkeit des Landgerichts Köln.Der Kläger beantragt nunmehr,1. Die Beklagte zu 1) zu verurteilen, an die Klagepartei 32.500,01 € nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 10.10.2017, Zugum-Zug gegen Übereignung und Herausgabe des Pkw T Z 2,0 l TDI, FIN: XXXXX und Zugum-Zug gegen Zahlung einer von der Beklagten zu 1) noch darzulegenden Nutzungsentschädigung für die Nutzung des Pkw T Z 2,0 l TDI, FIN: XXXXX.2. Festzustellen, dass die Beklagte zu 2) verpflichtet ist, der Klägerpartei Schadensersatz zu bezahlen für Schäden, die aus der Manipulation des Fahrzeugs Pkw T Z 2,0 l TDI, FIN: XXXXX durch die Beklagtenpartei resultieren.3. Festzustellen, dass sich die Beklagte zu 1) mit der Rücknahme des im Klageantrag zu Ziffer 1) genannten Pkw im Annahmeverzug befindet.4. Die Beklagten jeweils getrennt, nicht gesamtschuldnerisch zu verurteilen, die Klagepartei von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 2.256,24 € freizustellen.Er beantragt hilfsweise,die Klage gegen die Beklagte zu 2) an das Landgericht Bonn zu verweisen.Die Beklagten beantragen,die Klage abzuweisen.Die Beklagte zu 2) rügt die Unzulässigkeit der Klage mangels örtlicher Zuständigkeit des Landgerichts Köln.Das Gericht hat das Verfahren gegen die Beklagte zu 2) nach Anhörung der Parteien mit Beschluss vom Tag der Urteilsverkündung abgetrennt und an das Landgericht Bonn verwiesen. 
+				Gründe
+				Die Klage gegen die Beklagte zu 1) ist zulässig und hat überwiegend Erfolg. Dem Kläger steht gegen die Beklagte zu 1) ein Anspruch auf Zahlung in Höhe von 20.149,62 € Zugum-Zug gegen Herausgabe und Übereignung des streitgegenständlichen Fahrzeugs gemäß § 346 Abs. 1 BGB i.V.m. §§ 437 Nr. 2, 440, 323 BGB zu.1. Die Anfechtung des Klägers wegen arglistiger Täuschung hat keinen Erfolg. Es ist nicht dargelegt, dass die Beklagte zu 1) im Zeitpunkt des Kaufvertrags (Februar 2015) wusste, dass eine Abschalt-Software verbaut war.2. Jedoch ist der Kläger wirksam vom Kaufvertrag zurückgetreten. Die Rücktrittserklärung mit anwaltlichem Schreiben vom 04.10.2017, die "hilfsweise" erfolgte, ist als vorsorgliche auszulegen. Auch bei Anwaltsschreiben darf die Auslegung nicht am Wortlaut haften.Der vom Kläger erworbene PKW war im Zeitpunkt der Übergabe mit einem Sachmangel behaftet.Nach § 434 Abs. 1 S. 2 Nr. 2 BGB ist der Kaufgegenstand frei von Sachmängeln, wenn er sich für die gewöhnliche Verwendung eignet und eine Beschaffenheit aufweist, die bei Sachen der gleichen Art üblich ist und die der Käufer nach der Art der Sache verlangen kann. Das ist vorliegend nicht der Fall. Denn für die übliche Beschaffenheit im Sinne der vorgenannten Bestimmung und für diejenige Beschaffenheit, die ein Käufer erwarten kann, kommt es auf die objektiv berechtigten Käufererwartungen an, also auf den Horizont eines vernünftigen Durchschnittskäufers. Der vernünftige Durchschnittskäufer muss, wenn er ein für den Betrieb im Straßenverkehr vorgesehenes Fahrzeug erwirbt, davon ausgehen, dass das betreffende Fahrzeug entweder zu Recht zugelassen oder zulassungsfähig ist. Dementsprechend muss er ferner nicht nur davon ausgehen, dass das Fahrzeug die technischen und die rechtlichen Voraussetzungen der Zulassung erfüllt, sondern er muss auch annehmen, dass der Hersteller die für den Fahrzeugtyp erforderlichen Erlaubnisse und Genehmigungen nicht durch eine Täuschung erwirkt hat (OLG Köln, Beschluss vom 20. Dezember 2017 - 18 U 112/17 -, Rn. 36, mwN, juris).Zum einen kann nämlich der Käufer gesetzeskonformes Verhalten der Hersteller und aller übrigen Beteiligten erwarten, und das gilt auch dann, wenn seitens eines oder mehrerer Hersteller in so großer Zahl rechtswidrig manipuliert wird, dass im Ergebnis die Anzahl der durch Täuschung erwirkten diejenige der rechtmäßig zustande gekommenen Zulassungen, Erlaubnisse und Genehmigungen übersteigt. Denn solange die Manipulationen heimlich vorgenommen werden und solange die für den Betrieb eines Pkw im Straßenverkehr erforderlichen Zulassungen, Erlaubnisse und Genehmigungen durch entsprechende Täuschungen erwirkt werden, kann dies keinen Einfluss auf die Erwartungen des Durchschnittskäufers haben. Allenfalls nach dem Bekanntwerden bestimmter Manipulationen kann und muss er eventuell damit rechnen, dass ein bestimmter Hersteller bestimmte Zulassungen, Erlaubnisse und Genehmigungen durch Manipulationen erwirkt hat (OLG Köln, a.a.O. Rn. 37).Zum anderen erstrecken sich die berechtigten Erwartungen eines vernünftigen durchschnittlichen Käufers sehr wohl auf die Erwirkung aller letztendlich für den Betriebs des erworbenen Fahrzeugs im Straßenverkehr erforderlichen Zulassungen, Erlaubnisse und Genehmigungen, mag der Käufer sich auch bis zum Bekanntwerden von Manipulationen keine konkreten Vorstellungen von den einzelnen technischen Einrichtungen, rechtlichen Voraussetzungen und Zulassungs- bzw. Genehmigungsverfahren gemacht haben. Denn eine Täuschung in dem für den erlaubten Betrieb und die Zulassung des Fahrzeugs bedeutsamen Bereich gefährdet auch aus der Sicht eine vernünftigen Durchschnittskäufers eventuell die für seine Nutzung des Pkw im Straßenverkehr maßgebende Zulassung. Darüber hinaus hat sie für ihn auch insofern unabsehbare Folgen, als er die Folgen für den Verkehrs- und Wiederverkaufswert seines Fahrzeuges im Falle eines Bekanntwerdens der Manipulation nicht sicher zu prognostizieren vermag und ihm deshalb erhebliche finanzielle Einbußen zu drohen scheinen, die er mit dem Erwerb eines anderen Fahrzeugs vermeiden könnte (OLG Köln, a.a.O. Rn. 38).Hier hatte der Kläger das Fahrzeug 02.02.2015 gekauft, während die Mitteilung des Herstellers über die Verwendung der Manipulations-Software in dem erworbenen Pkw aus dem September 2015 stammt (vgl. Bl. 7 GA). Dementsprechend durfte und musste der Kläger bei Abschluss des Kaufvertrages noch davon ausgehen, dass sich der Hersteller rechtmäßig verhalten und die für den Betrieb seines Pkw sowie für die Zulassung desselben erforderlichen Zulassungen, Genehmigungen und Erlaubnisse nicht durch Täuschung und nicht unter Anwendung einer Manipulations-Software erwirkt hatte. Da dies tatsächlich aber nicht der Fall war und in dem vom Kläger erworbenen Pkw vom Hersteller des Pkw bzw. des im Fahrzeug verbauten Motors eine Manipulations-Software eingesetzt worden war, wies das Fahrzeug nicht die übliche Beschaffenheit im Sinne des § 434 Abs. 1 S. 2 Nr. 2 BGB auf (OLG Köln, a.a.O. Rn. 39).Demgegenüber kommt es für die Mangelhaftigkeit des erworbenen Pkw als solche weder darauf an, ob das Fahrzeug die maßgebenden Grenzwerte insbesondere der Euro-5-Abgasnorm hinsichtlich der Stickoxid-Ausstoßes auch ohne die betreffende Manipulations-Software einzuhalten vermag, noch steht der Annahme eines Sachmangels im vorgenannten Sinn entgegen, dass der Betrieb des erworbenen Pkw im realen Straßenverkehr nicht mit dem Betrieb des Fahrzeugs auf einem Prüfstand zu vergleichen ist und die für die Einhaltung der Euro-5-Norm im Prüfbetrieb maßgebenden Einzelheiten für den gewöhnlichen Fahrbetrieb nicht nur hinsichtlich der Emissionen, sondern auch im Zusammenhang mit dem Kraftstoffverbrauch und den Fahrleistungen bedeutungslos sein mögen. Denn all dies ändert nichts daran, dass das Fahrzeug durch die verwendete Manipulations-Software in seiner Beschaffenheit von der von einem vernünftigen Durchschnittskäufer zu erwartenden Beschaffenheit eines solchen Fahrzeugs abwich und dass die Abweichung einen auch für den vernünftigen Durchschnittskäufer bedeutsamen Gesichtspunkt betraf (OLG Köln, a.a.O., Rn. 40).3. Die Pflichtverletzung der Beklagten zu 1) ist nicht unerheblich. Entgegen der Ansicht der Beklagten ist dabei nicht nur auf die Kosten des Software-Updates in Relation zum Kaufpreis abzustellen. Vielmehr ist eine umfassende Abwägung der beiderseitigen Interessen im Zeitpunkt der Rücktrittserklärung nötig. Bei dieser fallen weitere Faktoren ins Gewicht, wie sie u.a. im Urteil des Landgerichts Köln vom 22.12.2017 (2 O 137/17, Rn. 24 ff., juris) dargelegt worden sind:a) Die Erheblichkeit wird indiziert, wenn der Mangel einen für den Gläubiger wesentlichen Qualitätsaspekt betrifft. Dies ist vorliegend anzunehmen, denn die Einordnung in die Euro-5-Norm ist auch Voraussetzung für die möglichst weitgehende räumliche Benutzbarkeit des Autos, da der Betrieb von umweltschädlichen Pkw jedenfalls im Zentrum von Großstädten in den letzten Jahren eingeschränkt wurde und anzunehmen ist, dass weitere Einschränkungen folgen werden.b) Arglist des Vertragspartners führt in der Regel dazu, dass die Pflichtverletzung nicht unerheblich ist. Arglistig gehandelt hat vorliegend der W -Konzern, nicht die Beklagte zu 1). Jedoch spielt die Arglist der Herstellerin auch in dieser Konstellation eine Rolle: Ein Software-Update kann der Kläger nicht von der Beklagten zu 1) beziehen, sondern nur von der Herstellerin (über die Beklagte zu 1) oder eine andere Vertragswerkstatt). Der Kläger hat wenig Anlass, der Herstellerin in Bezug auf Motorsoftware zu vertrauen, nachdem diese sowohl die Behörden als auch ihre Kunden über Jahre hinweg systematisch irregeführt hat.c) Die Motorsteuerung ist ein besonders sensibler Bereich eines Autos. Nicht ohne Grund erlischt die Hersteller-Garantie, wenn im Wege des sogenannten Chip-Tunings die Software eines nicht autorisierten Drittanbieters aufgespielt wird. So wie der Hersteller beim Chip-Tuning befürchtet, dass es zu Spätschäden am Motor kommt, hat vorliegend der Kläger Grund zur Sorge, das Software-Update könne bislang unbekannte Folgen für seinen Motor haben, die erst nach längerem Betrieb zu Tage treten.d) Ebenso wenig kann ausgeschlossen werden, dass das Fahrzeug auch nach Aktualisierung der Software mit einem Makel behaftet ist, der den Wiederverkaufswert mindert. Dem steht nicht entgegen, dass bisherige Marktuntersuchungen keinen Wertverfall von Pkw mit F 000-Motor ergeben haben. Es ist allgemein bekannt, dass in ganz Deutschland eine beispiellose Vielzahl von Klagen, die auf Rückabwicklung gerichtet sind, anhängig ist. Dies indiziert, dass eine Vielzahl von Käufern die Absicht hat, sich - vorzeitig - von ihrem Fahrzeug zu trennen. Dieses zusätzliche Angebot ist derzeit noch nicht auf dem Markt, weil die Käufer zunächst den Ausgang ihrer Prozesse abwarten.Entgegen der Ansicht der Beklagten sind ein möglicherweise verbleibender Makel sowie ein möglicher späterer Motorschaden nicht deswegen außer Betracht zu lassen, weil es sich (nur) um "Spekulation" handelt. Es geht insoweit nicht um die Frage, ob ein Sachmangel vorliegt oder nicht. Zu fragen ist vielmehr, ob der Mangel mehr als nur unerheblich ist. Unter diesem Blickwinkel fallen auch solche künftigen Umstände ins Gewicht, die nicht sicher prognostiziert werden können, aber jedenfalls nicht fernliegen.Die genannten Umstände wiegen in der Gesamtbetrachtung deutlich schwerer als der vergleichsweise geringe Kostenaufwand eines Software-Updates.4. Eine Fristsetzung zur Nacherfüllung war nicht erforderlich. Eine Nacherfüllung kommt aus tatsächlichen Gründen nur in Gestalt der Nachbesserung durch ein Software-Update in Betracht. Ein Software-Update ist dem Kläger jedoch nicht zumutbar, § 440 S. 1 Var. 3 BGB. Die Unzumutbarkeit folgt aus den oben (Ziffer 3 b - d) genannten Gründen (LG Köln, a.a.O. Rn. 31 f).Nach Auffassung des Gerichts ist auch im Rahmen der Unzumutbarkeit nicht Arglist der Beklagten zu 1) erforderlich, sondern es genügt, dass die Herstellerin arglistig gehandelt hat. § 440 S. 1 Var. 3 BGB geht weiter als § 323 Abs. 2 Nr. 3 BGB, der eine Abwägung der beiderseitigen Interessen verlangt. § 440 S. 1 Var. 3 BGB erfasst darüber hinaus alle Fälle, in denen das Vertrauensverhältnis der Vertragsparteien erheblich gestört ist; dazu zählt auch ein Vertrauensverlust, der primär aus dem früheren Verhalten der Herstellerin folgt, aber auf das Verhältnis der Vertragsparteien durchschlägt. Dies wiederum ist vorliegend der Fall, weil die Nachbesserung zwar von der Beklagten zu 1) vorgenommen werden kann, aber nur unter Verwendung eines von der Herstellerin entwickelten Software-Updates.Vor diesem Hintergrund kann dahinstehen, ob das von Beklagtenseite allein angebotene Software-Update für eine vollständige Mangelbeseitigung ausreicht.5. Der Anspruch ist nicht verjährt, insbesondere hält die Beklagte zu 1) an der ursprünglich erhobenen Einrede der Verjährung in Anbetracht des von ihr vorgerichtlich unstreitig erklärten Verjährungsverzichts nicht mehr fest.6. Die Gebrauchsvorteile des Klägers sind mit 12.350,39 € anzusetzen. Das streitgegenständliche Fahrzeug ist mit einem 2,0l-TDI-Motor ausgestattet. Das Gericht schätzt die Gesamtlaufleistung des in diesem Zusammenhang auf 250.000 Kilometer (vgl. OLG Düsseldorf, Urteil vom 21.01.2008, NJW-RR 2008, S.1199, Rz 42; LG Krefeld, Urteil vom 14.09.2016 - 2 O 83/16 -, NJW-RR 2016, S.1397, Rz 51). Das Fahrzeug des Klägers wies am 01.10.2018 eine Laufleistung von 95.003 km auf. Keine der Parteien hat vorgetragen, dass sich dieser Kilometerstand bis zum Schluss der mündlichen Verhandlung vom 02.10.2018 geändert hat. Der Kläger hat demgemäß 95.003 km mit dem Fahrzeug zurückgelegt, da es sich um einen Neuwagenkauf handelte. Für die Gebrauchsvorteile (Bruttokaufpreis x gefahrene Kilometer ÷ Gesamtlaufleistung) muss er sich daher einen Betrag von 12.350,39 € anrechnen lassen.Dem Zahlungsanspruch in Höhe von 20.149,62 € steht die Verpflichtung des Klägers gegenüber, sein Fahrzeug Zug um Zug herauszugeben.7. Infolge des Schreibens der Prozessbevollmächtigten des Klägers vom 22.03.2017 ist die Beklagte aber in Annahmeverzug gemäß § 293 BGB geraten, was antragsgemäß festzustellen war. Die Aufforderung zur Zahlung des Kaufpreises Zugum-Zug gegen Rückübereignung des Fahrzeugs beinhaltet zumindest konkludent ein Angebot des Klägers.8. Vorgerichtlichen Anwaltskosten kann der Kläger von der Beklagten zu 1) nicht ersetzt verlangen. Die Anwaltskosten sind mit Beauftragung der klägerischen Prozessbevollmächtigten entstanden und damit vor Eintritt des Verzugs der Beklagten zu 1) mit der Nacherfüllung.Ein vertraglicher Anspruch auf Schadensersatz in Form der Anwaltskosten ist nicht ersichtlich. Die Beklagte zu 1) trifft an dem Mangel kein Verschulden.9. Die prozessualen Nebenentscheidungen beruhen auf §§ 92 Abs. 2 Nr. 1, 709 S. 1, 2 ZPO.Streitwert: 20.149,62 €
+			
+			
+			
+			Permalink: https://openjur.de/u/2374391.html (https://oj.is/2374391)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert2
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

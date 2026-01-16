@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG TraunsteinRechtsprechungEndurteil vom 19.07.2019 - 6 O 4056/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Traunstein, Endurteil vom 19.07.2019 - 6 O 4056/18
+                      m. Fundstelle
+                      LG Traunstein, Endurteil vom 19.07.2019 - 6 O 4056/18 = openJur 2020, 70441
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Traunstein, Endurteil vom 19.07.2019 - 6 O 4056/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 70441
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 5.311,56 € festgesetzt. 
+				Tatbestand
+				Die Klagepartei verlangt yon der Beklagten Schadensersatz in Höhe einer Wertminderung im Zusammenhang mit dem Kauf eines gebrauchten VW Touran, welcher von der "...-Abgasthematik" betroffenen ist sowie Feststellung der Ersatzpflicht für weitere Schäden.Die Beklagte ist eine Aktiengesellschaft deutschen Rechts und ist im Handelsregister des Amtsgerichts Braunschweig unter der ... eingetragen. Sie ist Automobilhersteller.Die Klagepartei erwarb mit Kaufvertrag vom 14.03.2014 von der Firma ... in ... einen gebrauchten VW Touran Highline 2,0 l TDI zum Bruttokaufpreis von ... (Anlange K1).In dem klägerischen Fahrzeug ist ein Dieselmotor des Typs EA 189 verbaut, der von der Beklagten gebaut wurde und in ihrem Konzern auch verwendet wurde. Das Fahrzeug verfügt über eine EG-Typengenehmigung für die Emissionsklasse EU5. Zur Erlangung dieser Typengenehmigung müssen die Fahrzeuge bestimmte Emissionsgrenzwerte einhalten, die unter Laborbedingungen gemessen werden. Der im klägerischen Fahrzeug verbaute Dieselmotor des Typs EA189 EU5 war mit einer Software ausgestattet, welche die Abgasrückführung steuert (in Folge: "AGRS"). Das AGRS erkennt, wenn das Fahrzeug den Testlauf für das Typengenehmigungsverfahren den sog. neuen europäischen Fahrzyklus (in Folge: "NEFZ") durchläuft. Im NEFZ ist das AGRS im Modus 1 aktiv, welcher zu einer höheren Abgasrückführungsrate führt. Im Straßenverkehr ist beim AGRS der Modus 0 aktiv, durch den die Abgasrückführung dauerhaft nur in einem geringeren Maß stattfindet. Das Kraftfahrt-Bundesamt (in Folge: "KBA") hat mit Bescheid vom ... die Beklagte verpflichtet, bei allen betroffenen Fahrzeugen mit dem Aggregat EA 189 EU5 "die unzulässige Abschalteinrichtung" zu entfernen. Die Beklagte hat zwischenzeitlich selbst und über entsprechende Autohäuser ein Softwareupdate angeboten, das die Klageseite hat aufspielen lassen.Die Klagepartei behauptet, die Beklagte habe sie betrogen und in sittenwidriger Weise geschädigt. Sie ist der Meinung, die Beklagte habe zur Erreichung der vom Gesetzgeber vorgegebenen Schadstoffgrenzwerte in der Motorsteuerung des streitgegenständlichen Fahrzeugmotors EA 189 eine manipulative Software eingesetzt, um die Einhaltung der zulässigen Stickoxidwerte auch im Normalbetrieb vorzutäuschen. Dies sei in der Weise erfolgt, dass die Software die Prüfungssituation auf dem Prüfstand erkenne und dann die Abgasaufbereitung so optimiere, dass möglichst wenige Stickoxide aus dem Abgassystem austreten würden. Auf diese Weise würden die Testergebnisse manipuliert. Hierin liege ein Verstoß gegen die Verordnung (EG) Nr. 715/2007 des europ. Parlaments und des Rates vom 20.06.2007 über die Typgenehmigung von Kraftfahrzeugen.Die Klageseite trägt vor, dass sie bei Kenntnis der Manipulation und Täuschung sie das Fahrzeug nicht erworben hätte. Ihr sei es gerade darauf angekommen, ein möglichst sparsames und umweltfreundliches Auto zu kaufen. Hätte sie von den Manipulationen gewusst oder diese nur geahnt, hätte sie den streitgegenständlichen PKW nicht erworben. Der Mangel des Fahrzeugs könne auch nicht durch ein Softwareupdate behoben werden. Es bestünde eine Vielzahl von typischen Kurzzeit- als auch Langzeitfolgen des Updates.Die Beklagte hätte auch Kenntnis davon gehabt, dass der verbaute Motor nicht den gesetzlichen Vorgaben entsprach. Die Manipulationen wären den verfassungsgemäßen Vertretern der Beklagten bekannt gewesen, welches konkrete Organ Kenntnis hätte, müsste die Beklagte im Rahmen ihrer sekundären Darlegungslast vortragen.Das Fahrzeug entspreche nicht den gesetzlichen Vorschriften. Der Pkw sei aufgrund der Software mit einem Mangel behaftet. Durch die Manipulation der Abgasbehandlung sei der Klagepartei bereits mit Kaufvertragsabschluss ein Vermögensschaden entstanden.Die Beklagte hafte der Klagepartei daher jedenfalls nach § 823 Abs. 2 BGB i.V.m. § 263 StGB sowie nach §§ 826, 31 BGB. Die Klägerpartei könne das positive Interesse ersetzt verlangen, sie sei so zu stellen, wie sie stünde, wenn die Gegenseite ihre vertraglichen Pflichten ordnungsgemäß erfüllt hätte. Sie hätte dann ein Fahrzeug erhalten, dessen wirtschaftlicher Wert dem tatsächlichen Kaufpreis entsprochen hätte. Tatsächlich habe die Klagepartei aber ein nicht zulassungsfähiges Fahrzeug bekommen, dessen merkantiler Minderwert mit mindestens 25 % des Neupreises zu veranschlagen sei. Diesen Schaden könne die Klagepartei ersetzt verlangen.Die Klagepartei beantragt (Bl. 4 d.A.):Die Beklagte wird verurteilt, einen in das Ermessen des Gerichts zu stellenden Schadensersatz in Höhe von mindestens 25 % des Kaufpreises des Fahrzeugs ... mindestens somit ... nebst Zinsen hieraus in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klagepartei über den Betrag aus Hauptantrag zu 1) hinausgehenden Schadensersatz für weitere Schäden, die aus der Ausstattung des Fahrzeugs, FIN ... mit der manipulierten Motorsoftware resultieren, zu zahlen.Die Beklagte wird verurteilt, der Klagepartei die Kosten des außergerichtlichen Vorgehens in Höhe von ... nebst Zinsen in Höhe von 5 %-Punkten über dem Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklagte beantragtkostenpflichtige Klageabweisung.Die Beklagte trägt im Wesentlichen vor, das Fahrzeug verfüge über eine wirksame EG-Typengenehmigung und über eine wirksame Betriebserlaubnis. Die Tatsache, dass das verfahrensgegenständliche Fahrzeug mit der beschriebenen Software ausgestattet sei, ändere am Bestand der EG-Typengenehmigung nichts. Das Fahrzeug entspräche unter Laborbedingungen den Anforderungen, die im Typengenehmigungsverfahren für Laborbedingungen gestellt würden. Der Normgeber habe bewusst auf eine Prüfung im praktischen Fahrbetrieb verzichtet. Die Software-Programmierung stelle auch keine gesetzeswidrige Abschaltvorrichtung dar. Die Software sei weder Bestandteil des Emissionskontrollsystems noch wirke sie im realen Fahrbetrieb auf dieses ein. Sie sei vielmehr als innermotorische Maßnahme vorgelagert und beträfe ausschließlich die Abgasrückführung. Durch das Software-Update drohe der klagenden Seite kein Entzug der Zulassung.Die Beklagtenseite ist der Rechtsansicht, dass es bei § 826 BGB bereits an der die Klagepartei betreffenden Handlung der Beklagten fehle. Es läge auch kein sittenwidriges Verhalten vor. Dafür sei nicht ausreichend, dass das Verhalten gegen ein Gesetz verstößt, sondern es müsse eine besondere Verwerflichkeit des Handelns gegenüber der Klagepartei hinzu kommen. Etwaige bestrittene Verstöße gegen die VO (EG) Nr. 715/2007 oder falsche Angaben nach der Pkw-EnVKV würden kein sittenwidriges Verhalten gegenüber der Klagepartei begründen. Der Klageseite sei auch kein Schaden entstanden. Es fehle auch am Schädigungsvorsatz und an der Kausalität. Auch für einen Betrugstatbestand (§ 263 StGB) fehle es an der Täuschung. Darüber hinaus liege kein täuschungsbedingter Irrtum vor. Ebenso wenig sei von einer irrtumsbedingten Vermögensverfügung auszugehen. Auch ein Vermögensschaden sei nicht gegeben. Hinsichtlich des subjektiven Tatbestands fehle es an einer konkreten Darlegung durch die Klagepartei, dass die Beklagte in der Absicht gehandelt habe, sich oder einem Dritten einen rechtswidrigen Vermögensvorteil zu verschaffen. Auch ein innerbetriebliches Organisationsverschulden läge nicht vor.In Hinblick auf den weiteren Sach- und Streitstand wird auf den gesamten Akteninhalt insbesondere auf die gewechselten Schriftsätze jeweils nebst Anlagen wird ausdrücklich und vollumfänglich Bezug genommen. Das Gericht hat am 22.05.2019 mündlich verhandelt und den Kläger persönlich angehört. Auf das Sitzungsprotokoll wird Bezug genommen. 
+				Gründe
+				Die Klage erweist sich hinsichtlich der Anträge unter Ziffern 1 und 3 als zulässig, aber unbegründet. Der Antrag in Ziffer 2 der Klage ist bereits unzulässig.I. Der Klagepartei steht der geltend gemachte Schadensersatz unter keinem rechtlichen Gesichtspunkt, insbesondere nicht aus § 823 Abs. 2 BGB i.V.m. § 263 StGB, §§ 826, 31 BGB, zu.1. Ein vertraglicher Schadensersatzanspruch ist nicht ersichtlich.2. Ein deliktischer Anspruch auf den geltend gemachten Schadensersatz, insbesondere aus § 823 Abs. 2 BGB i.V.m. § 263 StGB oder aus §§ 826, 31 BGB steht der Klägerseite ebenfalls nicht zu.a) Zwar kann die gegenständliche Manipulation des Motors durch die Beklagte durchaus als vorsätzliche Täuschung und als zurechenbare vorsätzliche sittenwidrige Schädigung einzustufen sein und die Beklagte dem Grunde nach haften (hierzu OLG Karlsruhe, Hinweisbeschluss v. 5.3.2019 - 13 U 142/18).b) Jedoch ist der geltend gemachte merkantile Minderwert im Rahmen der deliktischen Ansprüche nicht ersatzfähig, denn über das Deliktsrecht kann regelmäßig nur der Ersatz des negativen Interesses, also im vor allem Rückzahlung des Kaufpreises, erlangt werden (statt vieler: MüKoBGB/Wagner, 7. Aufl. 2017, BGB § 826 Rn. 69; Palandt/Sprau, Einf v § 823 Rn. 17). Hierauf wurde die Klägerseite in der mündlichen Verhandlung vom 22.05.2019 (Bl. 146 d.A.) auch hingewiesen.So führt der BGH (Urteil vom 18.01.2011 - VI ZR 325/09) eindrucksvoll aus: "Ob ein zu ersetzender Vermögensschaden vorliegt, ist nach der so genannten Differenzhypothese grundsätzlich durch einen Vergleich der infolge des haftungsbegründenden Ereignisses eingetretenen Vermögenslage mit derjenigen, die sich ohne dieses Ereignis ergeben hätte, zu beurteilen (Senat, NJW 1985, 128 = VersR 1984, 944; BGHZ 98, 212 [217] = NJW 1987, 50; BGHZ 86, 128 [130] = NJW 1983, 444; BGHZ 99, 182 [196] = NJW 1987, 831; BGH, NJW 2000, 2669 [2670], insoweit in BGHZ 144, 343 nicht abgedruckt, und NJW 1998, 302 = VersR 1998, 906). Der nach § 823 II BGB i.V. mit § 263 StGB zum Schadensersatz Verpflichtete hat lediglich den Differenzschaden zu ersetzen (vgl. BGH, NJW-RR 2010, 1579 Rdnr. 15 m.w.Nachw.; Staudinger/Schiemann, BGB, Neubearb. 2005, § 249 Rdnr. 195; Staudinger/Matusche-Beckmann, BGB, Neubearb. 2004, § 437 Rdnr. 56; Schermaier, JZ 1998, 857). Davon zu unterscheiden ist der Anspruch auf Ersatz des Erfüllungsinteresses. Dieses ist zu ersetzen, wenn der Anspruchsinhaber verlangen kann, so gestellt zu werden, als ob eine Verbindlichkeit ordnungsgemäß erfüllt worden wäre. Da die deliktische Haftung nicht an das Bestehen einer Verbindlichkeit und deren Nicht- oder Schlechterfüllung anknüpft, stellt sich im Deliktsrecht die Frage nach dem Erfüllungsinteresse als solche nicht (vgl. Oetker, in: MünchKomm, 5. Aufl., § 249 Rdnr. 125). Der deliktische Schadensersatzanspruch richtet sich allein auf das "Erhaltungsinteresse" (Lange/Schiemann, Schadensersatz, 3. Aufl., S. 67, § 2 IV 4.).Das gilt für die deliktische Haftung grundsätzlich auch dann, wenn sie neben einer vertraglichen Schadensersatzpflicht besteht. Der durch eine unerlaubte Handlung Geschädigte hat grundsätzlich keinen Anspruch darauf, besser zu stehen, als er stünde, wenn der Schädiger die unerlaubte Handlung nicht begangen hätte (vgl. Reinicke/Tiedtke, KaufR, 8. Aufl., S. 323 Rdnr. 867). Dieser Grundsatz findet bei einem Kaufvertrag jedenfalls dann Anwendung, wenn dieser auf Grund falscher Angaben eines Dritten zu Stande gekommen ist. Die im Gewährleistungsrecht verankerte Besserstellung des Käufers (vgl. § 463 BGB a.F.) ist nur gerechtfertigt, weil sie auf einem Rechtsgeschäft beruht, denn nur dieses, nicht aber die unerlaubte Handlung, kann den Käufer besser stellen, als er vorher stand. Der Käufer kann nur von dem Verkäufer Erfüllung oder Schadensersatz wegen Nichterfüllung verlangen. Die unerlaubte Handlung eines Dritten kann nicht dazu führen, dass dieser haftungsrechtlich wie ein Verkäufer behandelt wird (Tiedtke, DB 1998, 1019 [1020]; Schaub, ZEuP 1999, 941 [951 f.]).Allerdings muss der Differenzschaden nicht notwendigerweise geringer sein als das positive Interesse des Geschädigten an der Vertragserfüllung. So ist anerkannt, dass die Anwendung der Differenzhypothese in dem Fall, in dem der Geschädigte nachweist, dass er ohne die für den Abschluss des Vertrags ursächliche Täuschungshandlung einen anderen, günstigeren Vertrag - mit dem Verkäufer oder einem Dritten - abgeschlossen hätte, im Ergebnis das Erfüllungsinteresse verlangen kann, und zwar deswegen, weil der Schaden in diesem Ausnahmefall dem Erfüllungsinteresse entspricht (vgl. Tiedtke, DB 1998, 1019 [1019]; Rust, NJW 1999, 339; Imping, MDR 1998, 267).Nach diesen Grundsätzen geht das BerGer. zutreffend davon aus, dass der Kl. verlangen kann, so gestellt zu werden, wie er stünde, wenn der Bekl. ihn nicht über den tatsächlichen Umfang der durchgeführten Dacharbeiten getäuscht hätte. Mithin könnte er gegebenenfalls beanspruchen, so gestellt zu werden, als habe er den Kaufvertrag über das Grundstück nicht abgeschlossen. Einen Anspruch auf Rückabwicklung des Vertrags macht er jedoch nicht geltend. Vielmehr will er das Kaufgrundstück behalten und daneben den ihm "aus dem Erwerb entstandenen Schaden" ersetzt erhalten. Diesen Schaden will er anhand der Kosten berechnen, die nach seiner Behauptung zur Mängelbeseitigung erforderlich sind. In der Sache ist sein Begehren mithin darauf gerichtet, so gestellt zu werden, als wäre das Dach der Gewerbehalle, wie vom Bekl. vor Vertragsabschluss erklärt, tatsächlich erneuert worden. Damit beansprucht er aber das Erfüllungsinteresse, denn er möchte im Ergebnis so gestellt werden, als hätte die Verkäuferin den Kaufvertrag ordnungsgemäß erfüllt. Ein solcher Anspruch steht ihm jedenfalls gegenüber dem Bekl. als Drittem nach den für Ersatzansprüche aus unerlaubter Handlung gem. § 249 S. 1 BGB a.F. maßgebenden Grundsätzen der Differenzhypothese nicht zu."Nach diesen Grundsätzen kann die Klagepartei verlangen, so gestellt zu werden, wie sie stünde, wenn die Beklagte ihr gegenüber nicht über das Vorhandensein einer unzulässigen Abschalteinrichtung getäuscht hätte. Mithin könnte sie gegebenenfalls beanspruchen, so gestellt zu werden, als habe sie den Kaufvertrag über das Fahrzeug nicht abgeschlossen. Einen Anspruch auf Rückabwicklung des Vertrags, also Rückzahlung des Kaufpreises Zug um Zug gegen Rückübereignung des Fahrzeugs, macht sie jedoch vorliegend gerade nicht geltend. Vielmehr will sie das Fahrzeug behalten und daneben den ihr aus dem Abschluss des Kaufvertrages entstandenen Schaden in Form eines merkantilen Minderwerts ersetzt erhalten. Damit will sie also so gestellt werden, als habe sie ein "mangelfreies" Fahrzeug erworben. Damit beansprucht sie aber das Erfüllungsinteresse, denn sie möchte im Ergebnis so gestellt werden, als hätte die Verkäuferin den Kaufvertrag ordnungsgemäß erfüllt. Ein solcher Anspruch steht ihr gegenüber der Beklagten nach den für Ersatzansprüche aus unerlaubter Handlung gem. § 249 S. 1 BGB maßgebenden Grundsätzen der Differenzhypothese jedoch nicht zu.Auch im Rahmen des § 826 BGB steht dem Geschädigten im Rahmen der Naturalrestitution ein Anspruch auf Rückgängigmachung der Folgen dieses Vertrags zu, das heißt, Ausgleich der für den Vertrag getätigten Aufwendungen durch den Schädiger gegen Herausgabe des aus dem Vertrag Erlangten (vgl. BGH, Urteil vom 19.07.2004 - II ZR 402/02; Urteil vom 28.10.2014 - VI ZR 15/14). Dies führt zur Rückzahlung des von ihr gezahlten Kaufpreises Zug-um-Zug (§§ 320 Abs. 1, 273 Abs. 1 BGB) gegen Übertragung des Eigentums am streitgegenständlichen Pkw (§ 255 BGB analog), jedoch gerade nicht zum hier begehrten Ersatz eines Minderwerts des Fahrzeugs.II. Der Feststellungsantrag ist unzulässig, da er nicht hinreichend bestimmt ist und dem Kläger die Bezifferung des Schadens möglich und auch zumutbar ist.1. Eine Feststellungsklage muss den Anforderungen des § 253 ZPO genügen, insbesondere muss der Klageantrag bestimmt i.S.d. § 253 Abs. 2 Nr. 2 ZPO sein, denn der Umfang der Rechtshängigkeit und der Rechtskraft muss feststehen. Die erforderliche Bestimmtheit verlangt, dass das festzustellende Rechtsverhältnis genau bezeichnet wird. Soweit es sich um Schadensersatzansprüche handelt, ist eine bestimmte Bezeichnung des zum Ersatz verpflichtenden Ereignisses erforderlich (BGH, NJW 1983, 2247). Gemessen hieran ist der Antrag zu unbestimmt, weil er offen lässt, aufgrund welcher und wie "manipulierenden Motorsoftware" eine Schadensersatzpflicht festgestellt werden soll (OLG München, Hinweisbeschluss vom 12.6.2018 - 8 U 3169/17).2. Darüber hinaus fehlt dem Kläger auch das Feststellungsinteresse. Ist der Klagepartei eine Klage auf Leistung möglich und erschöpft sie das Rechtsschutzziel, fehlt ihr das Feststellungsinteresse, weil sie im Sinne einer besseren Rechtsschutzmöglichkeit den Streitstoff in einem Prozess klären kann. Eine Feststellungsklage ist dann unzulässig (ständige Rechtsprechung; zuletzt BGH, Versäumnisurteil vom 21.2.2017 - XI ZR 467/15, NJW 2017, 1823).Ist eine Schadensentwicklung dagegen noch nicht abgeschlossen, so kann der Geschädigte auch bei einer teilweise Bezifferbarkeit seines Schadens insgesamt Feststellungsklage erheben und muss sich nicht hinsichtlich des bereits entstandenen Schadens auf eine Leistungsklage verweisen lassen (ständige Rechtsprechung; zuletzt BGH, Versäumnisurteil vom 21.2.2017 - XI ZR 467/15, NJW 2017, 1823). Der Anspruchsteller muss dann die Wahrscheinlichkeit eines ersatzfähigen Schadenseintritts substanziiert dartun (BGH, Hinweisbeschluss vom 4.3.2015 - IV ZR 36/14, NJW 2015, 1683).a) Der Kläger macht gegen die Beklagte Ansprüche aufgrund Täuschung geltend, die sämtlich gerichtet sind auf den Ersatz des negativen Interesses (siehe oben). Den Anspruch auf Rückzahlung des Kaufpreises Zug um Zug gegen Übertragung des Eigentums und Besitzes am streitgegenständlichen Fahrzeug kann der Kläger beziffern. Umstände, die hier entgegenstehen, hat der Kläger nicht ausreichend vorgetragen.b) Darüber hinaus könnte auch ein Anspruch etwa auf Freistellung von befürchteten Forderungen Dritter, auf entgangenen Gewinn oder auf Ausgleich steuerlicher Nachteile in Zusammenhang mit dem Vertragsschluss gerichtet sein (BeckOGK/Spindler, 1.7.2018, BGB § 826 Rn. 22). Dies muss jedoch vom Anspruchsteller jedoch entsprechend konkretisiert werden (OLG München, Urteil vom 02.10.2015 - 10 U 1534/13). Die Darlegungs- und Beweislast liegt bei der Klagepartei (BGH Urteil vom 26.7.2018 - I ZR 274/16). Dabei hängt die Zulässigkeit einer Feststellungsklage bei reinen Vermögensschäden von der zumindest hinreichenden Wahrscheinlichkeit eines auf die Verletzungshandlung zurückzuführenden Schadenseintritts ab (BGH, Urteil vom 15. Oktober 1992 - IX ZR 43/92, WM 1993, 251, 259 f; vom 24. Januar 2006 - XI ZR 384/03, BGHZ 166, 84 Rn. 27 m.w.N.; vom 20. März 2008 - IX ZR 104/05, WM 2008, 1042 Rn. 8). Ausreichend ist, dass nach der Lebenserfahrung und dem gewöhnlichen Verlauf der Dinge mit hinreichender Wahrscheinlichkeit ein erst künftig aus dem Rechtsverhältnis erwachsender Schaden angenommen werden kann. Dazu muss nicht dargelegt werden, dass zu einem bestimmten Zeitpunkt eine Vermögensdifferenz besteht (BGH Urteil vom 26.7.2018 - I ZR 274/16). Dagegen besteht ein Feststellungsinteresse (§ 256 Abs. 1 ZPO) für einen künftigen Anspruch auf Ersatz eines allgemeinen Vermögensschadens regelmäßig dann nicht, wenn der Eintritt irgendeines Schadens noch ungewiss ist (BGH, Urteil vom 10.7.2014 - IX ZR 197/12).Soweit der Kläger meint, dass er Anspruch auf Ersatz weiterer Schäden habe, die bis heute nicht bezifferbar seien, insbesondere drohende nicht absehbare Folgen durch das Update reicht dies für eine ausreichende Konkretisierung nicht aus, zumal Schadensereignis nicht das Update sondern der ursprüngliche Erwerb des manipulierten Fahrzeugs ist.c) Die Leistungsklage tritt auch nicht deshalb zurück, weil die Beklagte die Erwartung rechtfertigte, sie werde auf ein rechtskräftiges Feststellungsurteil hin ihren rechtlichen Verpflichtungen nachkommen, ohne dass es eines weiteren, auf Zahlung gerichteten Vollstreckungstitels bedürfe (hierzu: BGH, Versäumnisurteil vom 21.2.2017 - XI ZR 467/15, NJW 2017, 1823 unter Verweis auf: Senat, NJW 1991, 1889 = WM 1991, 1115; BGHZ 130, 60 = NJW 1995, 2219 = WM 1995, 1219 [1220], insofern in BGHZ 130, 59 nicht abgedruckt, und NJW 1996, 918 = WM 1996, 104).III. Nachdem in der Hauptsache schon kein Anspruch besteht, sind auch die vorgerichtlichen Rechtsanwaltskosten nicht erstattungsfähig: Nach der Rechtsprechung des BGH zählen zu den ersatzpflichtigen Aufwendungen des Geschädigten grundsätzlich auch die durch das Schadensereignis adäquat kausal verursachten Rechtsverfolgungskosten. Allerdings hat der Schädiger nicht schlechthin alle durch das Schadensereignis adäquat kausal verursachten Rechtsanwaltskosten zu ersetzen, sondern nur solche, die aus der Sicht des Geschädigten zur Wahrnehmung seiner Rechte erforderlich und zweckmäßig waren (vgl. BGHZ 127, 348 [350] = NJW 1995, 446, juris-Rn. 7; NJW 2006, 1065 Rn. 5; NJW 2011, 1222 Rn. 23; NJW 2012, 919 Rn. 20; NJW 2015, 3447 Rn. 55; GRUR 2018, 914, jew. m.w.N.). Die Insanspruchnahme eines Anwalts zur Durchsetzung einer nicht bestehenden Forderung ist jedoch niemals erforderlich und zweckmäßig, sodass vorliegend keine Anwaltskosten zuzusprechen waren.Unabhängig von der Frage der Haftung der Beklagten, hat der Kläger zudem nicht hinreichend dargelegt, dass die außergerichtliche Geltendmachung der Ansprüche gegen die Beklagte Ende 2018 noch erfolgversprechend war. Dass die Beklagte Ende 2018 auch nur teilweise auf außergerichtlich geltend gemachte Ansprüche eingehen würde, erscheint dem Gericht vor dem Hintergrund des bisherigen Vorgehens der Beklagten beinahe ausgeschlossen. Das außergerichtliche Vorgehen der Klägervertreter deutet eher auf den Willen hin, allein noch vorgerichtliche Kosten zu verursachen. Anderes wurde jedenfalls von der Klagepartei nicht ausreichend substantiiert dargelegt. Insoweit führt das OLG München (Hinweisbeschluss vom 12.06.2018 - 8 U 3169/17) zutreffend aus: "Voraussetzung für einen Erstattungsanspruch von vorgerichtlichen Rechtsanwaltskosten wäre grundsätzlich, dass der Geschädigte im Innenverhältnis zur Zahlung der in Rechnung gestellten Kosten verpflichtet ist und dass die konkrete anwaltliche Tätigkeit im Außenverhältnis aus der maßgeblichen Sicht des Geschädigten mit Rücksicht auf seine spezielle Situation zur Wahrnehmung seiner Rechte erforderlich und zweckmäßig war (BGH, Urteil vom 19. Oktober 2010 - VI ZR 237/09, Rz. 15; BGH vom 26. Februar 2013, XI ZR 345/10, Rz. 38). Dabei ist auch zu prüfen, ob vertretbare sachliche Gründe für eine rein außergerichtliche Geltendmachung bestanden haben oder ob dadurch lediglich Mehrkosten verursacht worden sind (vgl. BGH, Urteil vom 4. Dezember 2007 - VI ZR 277/06, Rz. 17). Ist der Gläubiger bekanntermaßen zahlungsunwillig und erscheint der Versuch einer außergerichtlichen Forderungsdurchsetzung auch nicht aus sonstigen Gründen erfolgversprechend, sind die dadurch verursachten Kosten nicht zweckmäßig (vgl. BGH vom 8. Mai 2012 - XI ZR 262/10, WM 2012, 1337 Rn. 70; BGH vom 26. Februar 2013, XI ZR 345/10, Rz. 38). Hierbei handelt es sich um echte, vom Geschädigten darzulegende und zu beweisende Anspruchsvoraussetzungen und nicht lediglich um im Rahmen des § 254 BGB bedeutsame, die Ersatzpflicht beschränkende und damit in die Darlegungs- und Beweislast des Schädigers fallende Umstände (BGH, Urteil vom 27. Juli 2010 - VI ZR 261/09, Rz. 26)."IV. Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO. Die Entscheidung zur vorläufigen Vollstreckbarkeit beruht auf § 709 S. 1 u. 2 ZPO. Der Streitwert wurde gem. §§ 1, 3 ZPO entsprechend des Interesses der Klagepartei an der Schadensersatzleistung festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2294807.html (https://oj.is/2294807)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate35
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

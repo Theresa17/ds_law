@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNiedersachsenOrdentliche GerichtsbarkeitOLG CelleRechtsprechungUrteil vom 14.04.2021 - 7 U 1955/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Celle, Urteil vom 14.04.2021 - 7 U 1955/19
+                      m. Fundstelle
+                      OLG Celle, Urteil vom 14.04.2021 - 7 U 1955/19 = openJur 2021, 19457
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Celle, Urteil vom 14.04.2021 - 7 U 1955/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 19457
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 6 O 33/19
+				
+
+
+			
+			
+			
+			
+				1. Allein der Rückruf eines Pkws durch das KBA begründet für sich noch keine deliktische Haftung des Motorenherstellers.2. Zur Frage der Haftung des Herstellers beim Vorliegen eines geregelten Kühlmittelthermostats. 
+				
+				Tenor
+				Die Berufung der Klägerin gegen das Urteil der 6. Zivilkammer des Landgerichts Hildesheim vom 12. November 2019 wird zurückgewiesen.Die Kosten des Berufungsverfahrens hat die Klägerin zu tragen.Das angefochtene landgerichtliche Urteil sowie das vorliegende Berufungsur-teil sind vorläufig vollstreckbar.Die Revision wird nicht zugelassen.Der Wert des Streitgegenstands für die Berufungsinstanz wird auf für die Zeit bis zum 4. März 2021 auf bis zu 35.000 €, für die Zeit danach auf bis zu 9.000, - € festgesetzt.  
+				Gründe
+				I.Die Klägerin nimmt die Beklagte als Fahrzeugherstellerin und Verkäuferin auf Rückabwicklung des Kaufvertrags über einen gebrauchten PKW Mercedes-Benz GLK 220 in Anspruch. Die betreffende Rechnung der „Daimler AG – Niederlassung Hannover“ datiert vom 22. März 2013 (Bl. 42 d.A.); sie weist einen Kaufpreis von 40.300 € sowie einen damaligen Kilometerstand von 23.750 km aus.Das Fahrzeug wurde der Klägerin noch am 22. März 2013 übergeben. Es verfügt über einen Motor des Typs OM651; diese Modellreihe ist teilweise von Rückrufaktionen des Kraftfahrt-Bundesamts (im Folgenden: KBA) betroffen.Die Klägerin behauptet, die Motorsteuerungssoftware des Mercedes-Benz GLK 220 enthalte eine unzulässige Abschalteinrichtung, die den Ausstoß von Stickoxid (NOx) nur unter den Bedingungen des Prüfstandbetriebs optimiere. Sie sei mit einem gesetzeswidrigen Thermofenster versehen. Die Klägerin stützt sich dabei auf einen verpflichtenden Rückruf, der auf der Internetseite der Beklagten ausgewiesen sei. Dem KBA gegenüber sei die unzulässige Abschalteinrichtung nicht offengelegt worden, weshalb der Beklagten eine vorsätzliche Täuschung anzulasten sei. Es spreche eine Vermutung dafür, dass die Vorstandsmitglieder der Beklagten informiert gewesen seien.Die Beklagte erhebt die Einrede der Verjährung. Zudem hat sie bestritten und bestreitet weiterhin, dass die Motorsteuerungssoftware nicht den gesetzlichen Vorgaben entspreche. Das klägerische Fahrzeug sei weder manipuliert, noch sei in dem Wagen eine unzulässige Abschaltvorrichtung verbaut. Die Abgasrückführung sei bei bis zu zweistelligen Minusgraden aktiv; bei 9 Grad Celsius belaufe sich die maximale Reduktion der AGR auf 18 %. Bei dem Thermofenster handele es sich um einen „Industriestandard“; die Beklagte habe insoweit eine jedenfalls vertretbare Auslegung vorgenommen.Nachdem die Beklagte zunächst behauptet hatte, das Fahrzeug sei nicht von einem Rückruf erfasst, hat sie dies – auf entsprechenden Vorhalt des Landgerichts nach Abfrage der Fahrzeugidentifikationsnummer auf der Internetseite der Beklagten – noch in erster Instanz korrigiert und eine Betroffenheit des Mercedes-Benz GLK 220 von einem Rückruf des KBA unstreitig gestellt. Hieraus folge ihrer Ansicht nach aber – unabhängig davon, dass der Bescheid nicht bestandskräftig sei – noch keine Haftung wegen vorsätzlicher sittenwidriger Täuschung.Das Landgericht hat die Klage mit Urteil vom 12. November 2019 (Bl. 173 ff. d.A.), auf das wegen der weiteren Einzelheiten des Sachverhalts und der tatsächlichen Feststellungen erster Instanz Bezug genommen wird, abgewiesen. Zwar liege bzgl. des streitgegenständlichen Fahrzeugs womöglich ein Rückruf wegen einer nach Auffassung des KBA unzulässigen Kalibrierung des Kühlmittelthermostats vor. Selbst wenn eine solche unzulässige Abschalteinrichtung vorläge, begründete dies aber keinen Mangel des Fahrzeugs. Das vom Kläger behauptete Thermofenster beinhalte nämlich keinen Prüfstandmodus wie beim Motor A189 der Volkswagen AG, sondern funktioniere im NEFZ grundsätzlich ebenso wie im Realbetrieb. Zudem seien kaufrechtliche Ansprüche mangels arglistigen Verhaltens der Beklagten verjährt. Da es schon an einem Mangel fehle, schieden auch deliktsrechtliche Ansprüche aus, zumal deren subjektive Voraussetzungen ebenfalls nicht gegeben seien.Gegen dieses Urteil richtet sich die Berufung der Klägerin, die ihr Prozessziel in vollem Umfang weiterverfolgt. Das Landgericht habe außer Acht gelassen, dass das Thermofenster exakt auf die Prüfbedingungen des NEFZ zugeschnitten sei; ferner hätte es – so die Klägerin weiter – der Beklagten oblegen, die Zulässigkeit des Thermofensters darzulegen, was ihr nicht gelungen sei.Die Klägerin beantragt,unter Aufhebung des am 12. November 2019 verkündeten Urteils des Landgerichts Hildesheim, Aktenzeichen 6 O 33/19,1. die Beklagte zu verurteilen, Zug um Zug gegen Übereignung des Fahrzeugs der Marke Mercedes Benz GLK 220, mit der Fahrgestellnummer … an die Klagepartei 8.083,70 € nebst Zinsen in Höhe von 5 Prozentpunkten in Höhe des jeweiligen Basiszinssatzes aus 8.083,70 € seit dem 21. Oktober 2018 zu bezahlen.2. festzustellen, dass sich die Beklagte mit der Rücknahme des Fahrzeugs gemäß vorstehender Ziffer 1 in Annahmeverzug befindet.3. die Beklagte zu verurteilen, der Klagepartei die Kosten des außergerichtlichen Vorgehens in Höhe von 1.474,89 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 20. September 2018 zu erstatten.Die Beklagte beantragt,die Berufung zurückzuweisen.Sie hält die Berufung schon für unzulässig, weil sie überwiegend aus Textbausteinen ohne konkreten Bezug zum vorliegenden Verfahren bestehe. Jedenfalls aber sei sie unbegründet. Insofern wiederholt und vertieft die Beklagte ihr erstinstanzliches Vorbringen, wobei sie verdeutlicht, dass der – nicht bestandskräftige – Rückruf nicht aufgrund des von der Klägerin beanstandeten Thermofensters erfolgt sei.Auf die Hinweise bzw. Auflagen im Beschluss des Senats vom 9. Februar 2021 (Bl. 384 f. d.A.) hat die Beklagte näher zur Kalibrierung des Kühlmittelthermostats sowie ihren Angaben im Typgenehmigungsverfahren vorgetragen.Wegen der weiteren Einzelheiten zum Sach- und Streitstand wird auf die zwischen den Parteien gewechselten Schriftsätze nebst deren Anlagen verwiesen.II.1. Die Berufung ist zulässig. Trotz der von der Klägerin extensiv verwendeten Textbausteine ist noch ein ausreichender Einzelfallbezug vorhanden, zumal ein Anspruch aus § 826 BGB vom Landgericht letztlich mit dem Hinweis auf einen fehlenden Mangel sowie fehlenden Vorsatz der Beklagten verneint worden ist und beides in der Berufungsbegründung angriffen wird.2. In der Sache bleibt das Rechtsmittel indes ohne Erfolg. Der Klägerin stehen gegen die Beklagte weder kaufvertragliche (hierzu sogleich a)) noch deliktische Schadensersatzansprüche zu (s. unten b)).a) Mit Blick darauf, dass die Klägerin ihren Mercedes-Benz GLK 220 unstreitig direkt bei der Beklagten gekauft hat, kommen zwar grundsätzlich auch Gewährleistungsansprüche in Betracht, die allein einen Mangel und keine vorsätzliche sittenwidrige Schädigung voraussetzten. Etwaige Ansprüche i.S.d. §§ 434 ff. BGB wären zum Zeitpunkt der – in der Klageschrift liegenden – Rücktrittserklärung in 2019 aber jedenfalls verjährt gewesen, so dass der Rücktritt gem. § 218 BGB unwirksam war. Maßgeblich ist insoweit grundsätzlich die zweijährige Frist des § 438 Abs. 1 Nr. 3 BGB, die mit der Übergabe des Fahrzeugs im Jahr 2013 begann, d.h. bei Erhebung der Klage im Januar 2019 lange abgelaufen war.Etwas anderes ergäbe sich nur, wenn im Streitfall gem. § 438 Abs. 3 BGB die regelmäßige Verjährung der §§ 195, 199 BGB zum Tragen käme, was aber ein arglistiges Verschweigen des Mangels durch die Beklagte erforderte. Damit gilt letztlich derselbe Maßstab wie im Zusammenhang mit einer Forderung wegen vorsätzlicher, sittenwidriger Schädigung (s. hierzu sogleich).b) Die Voraussetzungen einer deliktischen Haftung der Beklagten gem. §§ 826, 31 BGB hat die Klägerin nicht schlüssig vorgetragen.aa) Insofern sei zusammenfassend vorausgeschickt, dass es auf Basis der bisherigen höchstrichterlichen bzw. obergerichtlichen Rechtsprechung zu Fällen aus dem Komplex des sog. „Diesel-Abgasskandals“ grundsätzlich zwei Ansatzmöglichkeiten geben dürfte, um einen Schadensersatzanspruch wegen vorsätzlicher, sittenwidriger Schädigung zu bejahen.(1) Im Falle einer Prüfstanderkennung wie der sog. „Umschaltlogik“ des Motors EA189 der Volkswagen AG liegt die Täuschung des KBA, auf die es nach den einschlägigen Urteilen des Bundesgerichtshofs ankommt, in der unzulässigen Abschalteinrichtung selbst, weil die emissionsmindernde Strategie von vornherein darauf ausgelegt ist, ausschließlich im NEFZ zur Anwendung zu kommen, und im Realbetrieb keine entsprechende Abgasreinigung erfolgt (vgl. insbesondere BGH, Urteil vom 25. Mai 2020 – VI ZR 252/19 –, Rn. 16 ff.). Mit letztlich derselben Begründung nimmt ein Teil der obergerichtlichen Rechtsprechung eine Haftung wegen vorsätzlicher, sittenwidriger Schädigung auch dann an, wenn eine bestimmte Strategie zur Emissionsminderung z.B. nur beim gleichzeitigen Vorliegen von acht Schaltkriterien im Sinne einer „UND-Verknüpfung“ aktiv ist. In dieser Konstellation ließe sich u.U. von einer mittelbaren bzw. faktischen Prüfstanderkennung sprechen, die auf die Rahmenbedingungen des Prüfzyklus‘ reagiert und (fast) nur dort die Emissionen mindert, so dass im Ergebnis genauso getäuscht wird wie durch die o.g. „Umschaltlogik“ (vgl. beispielhaft OLG Frankfurt a.M., Urteil vom 24. Februar 2021 – 4 U 257/19 –, juris; OLG Naumburg, Urteil vom 18.09.2020 – 8 U 39/20 –, BeckRS 2020, 35220).(2) Wird dagegen eine unzulässige Abschalteinrichtung behauptet, die im Prüfzyklus und im Realbetrieb grundsätzlich in gleicher Weise arbeitet und auch keine spezifisch auf die Rahmenbedingungen des NEFZ abgestimmte Bedatung aufweist, ist der Vorwurf der Sittenwidrigkeit nur gerechtfertigt, wenn zu dem – unterstellten – Verstoß gegen die Verordnung 715/2007/EG weitere bzw. andere Umstände hinzutreten, die das Verhalten der für die den Hersteller handelnden Personen als besonders verwerflich erscheinen lassen. Die Annahme von Sittenwidrigkeit setzt dann jedenfalls voraus, „dass diese Personen bei der Entwicklung und/oder Verwendung der temperaturabhängigen Steuerung des Emissionskontrollsystems in dem Bewusstsein handelten, eine unzulässige Abschalteinrichtung zu verwenden, und den darin liegenden Gesetzesverstoß billigend in Kauf nahmen“ (BGH, Beschluss vom 19. Januar 2021 – VI ZR 433/19 –, Rn. 19 ff.). Die Darlegungs- und Beweislast hierfür trifft die Anspruchsteller, die zunächst greifbare Anhaltspunkte für ein derartiges Vorstellungsbild aufzuzeigen haben. Als genügendes Indiz hat der Bundesgerichtshof etwa unzutreffende Angaben des Herstellers über die Arbeitsweise des Abgasrückführungssystems im Typgenehmigungsverfahren anerkannt, z.B. wenn die Abhängigkeit der Abgasrückführungsrate durch die Außentemperatur gegenüber dem KBA verschleiert wird (BGH, a.a.O., Rn. 23 ff.).bb) In Anwendung dieser Maßstäbe trägt das Vorbringen der Klägerin den von ihr geltend gemachten Anspruch nicht.(1) Das gilt zunächst, soweit sie auf eine unzulässige Abschalteinrichtung in Form eines Thermofensters abstellt.(a) Die Berufungsbegründung geht zwar davon aus, dass das Thermofenster „exakt…auf die Prüfbedingungen im NEFZ…abgestimmt sei“ (dort S. 2, Bl. 211 d.A.), was eine faktische bzw. mittelbare Prüfstanderkennung im oben dargestellten Sinne implizieren könnte. Diese Behauptung steht aber schon im Widerspruch zum übrigen (ohnehin uneinheitlichen) Vortrag der Klägerin, nach der die Abgasrückführung erst ab Temperaturen unter 10 bzw. 17 Grad Celsius reduziert (Bl. 211 d.A.) bzw. „bei Ladeluft/-Außentemperaturen von 14 Grad Celsius und darunter um bis zu 40 % zurückgefahren“ werde (S. 5 der Replik, Bl. 115 d.A.). Danach verblieben neben dem Temperaturbereich des NEFZ zwischen 20 und 30 Grad Celsius jedenfalls weitere (und: im Mitteleuropa häufige) Temperaturen, bei denen die Abgasrückführung vollständig aktiv wäre, nämlich zumindest zwischen 17 und 19 Grad. Von einer exakt auf die NEFZ-Bedingungen abgestimmten Bedatung kann vor diesem Hintergrund schon nach dem Vortrag der Klägerin keine Rede sein.(b) Auch im Übrigen kann dahingestellt bleiben, ob das im Fahrzeug vorhandene, nur in seinem Umfang streitige Thermofenster als unzulässig einzustufen ist oder nicht. Denn die Klägerin hat zwar behauptet, dass die Beklagte das Thermofenster gegenüber dem KBA nicht offengelegt habe, was nach dem oben Gesagten grundsätzlich auf ein bewusst gesetzeswidriges Verhalten hindeuten könnte. Diesem Vortrag ist die Beklagte durch ihren Vortrag im Schriftsatz vom 25. Februar 2021 aber mit Substanz entgegengetreten: Sie habe im Rahmen des Typgenehmigungsverfahrens ausdrücklich mitgeteilt, dass die AGR-Menge vom Parameter „Lufttemperatur“ abhängig sei. Hierzu legt die Beklagte einen Auszug aus dem EG-Typgenehmigungsbogen vor (Anlage BB10), dem sich auf Seite 22 die Erklärung entnehmen lässt, dass die AGR-Rate u.a. durch die Lufttemperatur gesteuert werde.Die betreffenden Behauptungen der Beklagten legt der Senat seiner Entscheidung zu Grunde, nachdem die Klägerin ihnen – trotz Bewilligung einer Erklärungsfrist im Termin zur mündlichen Verhandlung über die Berufung – nicht mehr entgegengetreten ist.Konkretere, über die vorgenannte Erklärung hinausgehende Angaben zur temperaturgeführten AGR-Regelung durch die Beklagte gegenüber dem KBA waren zum Zeitpunkt des Typengenehmigungsverfahrens nicht erforderlich. Denn eine genaue Beschreibung der Emissionsstrategien wurde erst im Jahr 2016 mit der Verordnung (EU) 2016/646 eingeführt bzw. gefordert, d.h. nach der Erteilung der Typgenehmigung für das Fahrzeug der Klägerin (vgl. insofern auch die von der Beklagten als Anlage B11 vorgelegte Auskunft des KBA im Verfahren des Oberlandesgerichts Celle zum Aktenzeichen 7 O 90/20 vom 18. Januar 2021, die sich ebenfalls auf einen rückrufbetroffenen Mercedes-Benz GLK 220 mit einem Motor des Typs OM651 bezieht).Anhaltspunkte für unvollständige Angaben der Beklagten im Typgenehmigungsverfahren bzw. für ein Verschweigen des Thermofensters, die auf einen bewussten Gesetzesverstoß hindeuten könnten (vgl. BGH, Beschluss vom 19. Januar 2021 – VI ZR 433/19 –, Rn. 23 ff.), vermag der Senat nach alledem nicht zu erkennen.b) Schließlich hat die Berufung auch mit Blick auf den unstreitigen Rückruf des Fahrzeugs aufgrund des „geregelten Kühlmittelthermostats“ keinen Erfolg.(1) Unter Berücksichtigung des Parteivorbringens im vorliegenden Einzelfall lässt sich nicht feststellen, dass das „geregelte Kühlmittelthermostat“ eine Prüfzykluserkennung enthält, die der „Umschaltlogik“ aus dem Motor EA189 der Volkswagen AG gleichsteht.Insofern hat die Beklagte mit Schriftsatz vom 25. Februar 2021 vorgetragen, dass die Aktivierungsbedingungen der betreffenden Strategie gerade nicht künstlich an den Spezifika des Prüfstands orientiert seien, sondern auch im Realbetrieb vorkämen. Zwar sei das „geregelte Kühlmittelthermostat“ nur bei bestimmten Betriebsbedingungen aktiv, so etwa nur innerhalb eines gewissen Temperaturbereichs, bis zu einer gewissen Motoröltemperatur, ab einem bestimmten Umgebungsdruck etc.. Dem liege aber zu Grunde, dass es für die Strategie aus technischen Gründen nur einen beschränkten Anwendungsbereich geben könne, der auch Risiken für den Motor zu berücksichtigen habe (näher S. 38 ff. des Schriftsatzes). Deswegen gehe auch das KBA nicht von einer „Prüfstanderkennung“ aus, wobei die Beklagte insofern auf eine Auskunft des KBA vom 6. Oktober 2020 gegenüber dem LG Stuttgart (Anlage BB20) sowie erneut auf die Auskunft in der hiesigen Sache 7 U 90/20 vom 18. Januar 2021 verweist (Anlage BB11).Dieses Vorbringen hat der Senat seiner Entscheidung in tatsächlicher Hinsicht zu Grunde zu legen, weil die Klägerin ihm – wiederum: trotz eines entsprechenden Schriftsatznachlasses – nicht widersprochen hat.Genügende Anknüpfungstatsachen für eine arglistige Täuschung des KBA im Rahmen des Typgenehmigungsverfahrens sind demnach nicht ersichtlich. Zwar führt das KBA in der von der Beklagten zitierten Auskunft vom 18. Januar 2021 (Anlage BB11) zunächst aus, dass die Schaltparameter der Funktion „an die Randbedingungen der Typ-I-Prüfung angelehnt“ seien. Das genügt für sich genommen aber noch nicht, um von einer engen, gezielt auf den NEFZ zugeschnittenen Bedatung auszugehen, zumal das KBA – wie die Beklagte zu Recht betont –in seiner weiteren Auskunft vom 6. Oktober 2020 (Anlage BB20) eine „Prüfstandserkennung“ selbst ausdrücklich verneint hat (vgl. hierzu etwa OLG Koblenz, Urteil vom 18. Januar 2021 – 12 U 1294/20 –, BeckRS 2021, 1168 Rn. 39).Zuletzt bleibt nach dem unbestrittenen Vorbringen der Beklagten im Schriftsatz vom 25. Februar 2021 auch für unvollständige Angaben der Beklagten im Rahmen des Typgenehmigungsverfahren kein Raum. Danach hatte die Beklagte auf dem „Beschreibungsbogen“ (Anlage BB10, dort S. 14, Ziff. 3.2.7. und 3.2.7.1.) kenntlich gemacht, dass die Motortemperatur über das Kühlsystem beeinflusst wird, dasselbe folgt aus der Verknüpfung des Temperatursensors „Kühlwasser“ mit dem Steuergerät (vgl. das Funktionsschema des Emissionskontrollsystems, BB10 S. 23). Weitergehende Angaben zum Emissionskontrollsystem waren – wie oben zum Thermofenster ausgeführt – bei Beantragung der Typgenehmigung für das streitgegenständliche Fahrzeug, d.h. im Jahr 2012 noch nicht erforderlich, sondern wurden erst ab 2016 verpflichtend.c) Steht der Klägerin nach alledem schon keine Hauptforderung zu, hat sie auch keine Ansprüche auf Zinsen (Antrag zu 1), Feststellung des Annahmeverzugs (Antrag zu 2) oder die Erstattung vorgerichtlicher Anwaltskosten (Antrag zu 3). Ihre Berufung unterliegt damit insgesamt der Zurückweisung.III.Die Kostenentscheidung folgt aus § 97 Abs. 1 ZPO; der Ausspruch zur vorläufigen Vollstreckbarkeit beruht auf §§ 708 Nr. 10 Satz 1, Satz 2, 711, 713, 544 Abs. 2 Nr. 1 ZPO.Gründe für die Zulassung der Revision gemäß § 543 Abs. 2 ZPO liegen nicht (mehr) vor, nachdem die hier entscheidungserheblichen, in der obergerichtlichen Rechtsprechung zuvor streitigen Fragen aus dem Komplex des sog. „Diesel-Abgasskandals“ aufgrund der vorstehend zitierten höchstrichterlichen Rechtsprechung geklärt sind.
+			
+			
+			
+			Permalink: https://openjur.de/u/2342027.html (https://oj.is/2342027)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

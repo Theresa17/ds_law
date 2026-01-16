@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG MarburgRechtsprechungUrteil vom 24.09.2019 - 2 O 211/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Marburg, Urteil vom 24.09.2019 - 2 O 211/18
+                      m. Fundstelle
+                      LG Marburg, Urteil vom 24.09.2019 - 2 O 211/18 = openJur 2021, 18261
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Marburg, Urteil vom 24.09.2019 - 2 O 211/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 18261
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten um Ansprüche des Klägers in Zusammenhang mit dem sogenannten VW-Abgasskandal.Der Kläger kaufte am 3.7.2014 einen Pkw VW Tiguan zu einem Kaufpreis von 21.800,00 €. Mit der Fahrzeugidentifikationsnummer XXX . Er ist mit einem 2,0 l TDI Motor der Typenbezeichnung EA 189 ausgestattet, der von der Beklagten produziert wurde.Bestandteil der Gesamtspezifikation des Motors war ursprünglich eine Software, die in der Lage war zu erkennen, ob sich das Fahrzeug im normalen Straßenverkehr bewegt oder mit laufendem Motor auf den Prüfstand befindet. Ordnete die Software die aktuelle Situation als eine auf dem Prüfstand ein, veranlasste sie eine Motorenabstimmung, die zu einem niedrigen, die entsprechenden Grenzwerte einhaltenden Stickoxidausstoß führte; ordnete sie die Situation dagegen als eine des normalen Straßenverkehrs ein, veranlasste sie eine Motorenabstimmung, die zu einem höheren - die entsprechenden Grenzwerte nicht einhaltenden - Stickoxidausstoß führte. Mit Hilfe der Software wurde erreicht, dass der Motor in die Schadstoffklasse Euro 5 eingeordnet wurde.Dieses Vorgehen war öffentlich-rechtlich unzulässig. Das Kraftfahrtbundesamt ordnete deshalb den Rückruf auch des streitgegenständlichen Pkw an und gab der Beklagten auf, es in den Zustand zu versetzen, den die öffentlich-rechtlichen Vorschriften vorschreiben. Hierzu hat die Beklagte ein Software-Update für die 2,0 l TDI Motoren bereitgestellt, welches für den streitgegenständlichen Pkw VW Tiguan verfügbar ist. Dieses Vorgehen wurde vom zuständigen Kraftfahrtbundesamt genehmigt.Der Kläger hat das Software-Update am streitgegenständlichen Pkw durchführen lassen. Die konkreten Auswirkungen dieses Software-Updates sind zwischen den Parteien streitig.Das Fahrzeug war zu jeder Zeit verkehrssicher und fahrtauglich und die EG Typengenehmigungen nach Abgasnorm Euro 5 wurde für das streitgegenständliche Fahrzeug bislang nicht widerrufen.Mit der Rechtsverfolgung des klägerischen Begehrens war die Bevollmächtige der Klägerpartei vorgerichtlich betraut.Der Kläger behauptet, er sei vor Abschluss des Kaufvertrages auf der Suche nach einem umweltfreundlichen und wertstabilen Fahrzeug gewesen und der Umweltaspekt, insbesondere die Schadstoffklasse, habe für ihn ein wichtiges Kaufargument dargestellt. Durch die Vornahme der vom Kraftfahrtbundesamt angeordneten Änderungen an der Motorspezifikation verringere sich die zu erwartende Lebensdauer des Motors, gleiches gelte für den Rußpartikelfilter, zugleich erhöhten sich der Kraftstoffverbrauch und die CO2-Emissionen. Darüber hinaus habe das Fahrzeug durch den Umstand, dass die ursprüngliche Motorenspezifikation öffentlich-rechtlich unzulässig war und nachträglich geändert werden musste, einen merkantilen Minderwert. Auch sei der streitgegenständliche PKW schwerer verkäuflich und der Verkehrswert sei gesunken. Die Beklagte habe ihn über den tatsächlichen Zustand des von ihm gekauften Pkws bewusst getäuscht, um Produktions- und Entwicklungskosten zu sparen.Der Kläger beantragt:1. Die Beklagte wird verurteilt, an den Kläger 21.800,00 € nebst Zinsen i.H.v. 5 Prozentpunkten über dem Basiszinssatz seit dem 16.7.2014 Zug um Zug gegen Übergabe und Übereignung des PKW VW Tiguan mit der Fahrzeug-Identifikationsnummer XXX zu zahlen2. Die Beklagte wird verurteilt, den Kläger von vorgerichtlichen Rechtsanwaltskosten i.H.v. 1.171,67 € freizustellen.3. Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des PKW VW Tiguan mit der Fahrzeug-Identifikationsnummer XXX in Annahmeverzug befindet.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte ist der Ansicht, das Fahrzeug sei nicht fehlerhaft. Eine ihr zurechenbarer Täuschungshandlung liege nicht vor.Der Kläger hat sich der Musterfeststellungsklage vor dem OLG Braunschweig, Az. 4 MK 1/18, betreffend den VW-Abgasskandal, nicht angeschlossen.Zur Vertiefung des Sach- und Streitstandes und wegen der Einzelheiten wird auf die zwischen den Parteien gewechselten Schriftsätze jeweils nebst Anlagen sowie das Protokoll der mündlichen Verhandlung vom 17.05.2019 (Bl. 1137 d. A.) Bezug genommen und verwiesen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.Der Kläger hat gegen die Beklagte keinen Anspruch auf Schadenersatz.Ein deliktischer Anspruch resultierend aus § 826 BGB scheidet aus, weil es bereits an einem dem Schutzzweck der Norm unterfallenden sittenwidrigen Verhalten fehlt.Ein Verhalten ist objektiv sittenwidrig, wenn es nach dem Inhalt und Gesamtcharakter, welcher durch eine zusammenfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt, mithin mit den grundlegenden Wertungen des Rechts und der Sittenordnung nicht vereinbar ist (BGH NJW-RR 2013, 550 (551)). Nicht ausreichend ist, wenn das Verhalten gesetzes- oder vertragswidrig ist, unbillig erscheint oder einen Schaden hervorruft. Es muss vielmehr eine besondere Verwerflichkeit des Verhaltens gegeben sein und es muss die verletzte Norm gerade Ausdruck einer sittlichen Wertung sein (Landgericht Marburg, Urteil vom 26.06.2018, Az. 7 O 90/16, zitiert nach juris).Nach Auffassung der Kammer stellt der Einbau und das Verschweigen einer öffentlich-rechtlich unzulässigen Motorenspezifikation im vorliegenden Fall kein sittenwidriges, vom Schutzzweck der Norm des § 826 BGB umfasstes Verhalten der Beklagten dar. Hierbei ist es ohne weiteres naheliegend, dass sie mit dem Einbau einer entsprechenden Software wirtschaftliche Ziele verfolgt haben mag. Das hierbei verwandte Mittel mag dabei zwar einen öffentlich-rechtlichen Verstoß gegen Art. 3 Nr. 10, 5 Abs. 2 EuVO 715/2007 darstellen (Landgericht Marburg, Urteil vom 02.03.2017, Az. 5 O 49/16, unveröffentlicht). Diese Vorschriften sind jedoch für sich genommen kein Ausdruck einer sittlichen Gesinnung, sondern stellen sich vielmehr als Regelungen zum Schutz der Umwelt und zur Harmonisierung und Stärkung des Binnenmarktes dar (Landgericht Marburg, Urteil vom 26.06.2018, Az. 7 O 90/16, zitiert nach juris).Keine individual(vermögens)schützende Zwecksetzung kann in diesem Zusammenhang der von Klägerseite in Bezug genommenen Vorschriften der §§ 6 und 27 Abs. 1 EG-FGV entnommen werden, die als logischen Folgeschritt die Typengleichheit in Bezug auf sämtliche in Verkehr gebrachten Kfz gewährleisten sollen und somit den skizzierten öffentlichen Zwecken zu dienen bestimmt sind. Dass bislang der Schadstoffausstoß eines Kfz unter Laborbedingungen und nicht unter realen Fahrbedingungen zum Gegenstand des Typenzulassungsverfahrens gemacht worden ist, ist eine gesetzgeberische Entscheidung, die eine Sittenwidrigkeit nicht begründen kann.Der vom Kläger geltend gemachte Schaden, der mit dem Verordnungszweck eines Schutzes der Umwelt und der Harmonisierung des Binnenmarktes in keinem Zusammenhang steht, unterfällt, entgegen der Auffassung des Klägers auch nicht dem Schutzzweck der EuVO 715/2007 (Landgericht Marburg, Urteil vom 02.03.2017, Az. 5 O 49/16 unveröffentlicht). Ein drohender Entzug der Zulassung, eine Wertminderung oder eine erschwerte Verkäuflichkeit des streitgegenständlichen Pkw sind von vorneherein nicht vom (öffentlichen) Schutzzweck der Verordnungen zum Typenzulassungsverfahren wie den ergänzenden Vorschriften zur Konformitätsbescheinigung umfasst.Auch eine Täuschung des Klägers über die Umweltverträglichkeitseigenschaften des gekauften Fahrzeuges mag darüber hinaus durchaus fraglich sein.Die Beklagte dürfte für Dritte erkennbar lediglich damit geworben haben, dass das streitgegenständliche Fahrzeugmodell im Rahmen der Erlangung der Typengenehmigung auf dem Rollenprüfstand bei Ableistung des Europäischen Fahrzyklus (NEFZ) die Grenzwerte der Euro-5-Norm eingehalten hat. Weitergehende Versprechen dahingehend, dass diese Grenzwerte, insbesondere im Hinblick auf den Stickoxidwert, im Realbetrieb nicht überschritten werden, sind offenbar nicht erfolgt bzw. nicht erkennbar und auch nicht konkret vorgetragen. Insoweit liegt eine vergleichbare Situation zur Herstellerangabe betreffend den durchschnittlichen Kraftstoffverbrauch vor. Insoweit muss dem Käufer bewusst sein und ist es in der Regel auch, dass die angegebenen Werte (zulassungsregelkonform) nicht im Realbetrieb, sondern unter definierten, vom individuellen Realbetrieb abweichenden Testbedingungen ermittelt wurden, die primär darauf abzielen, eine Vergleichbarkeit der Testergebnisse hinsichtlich der Vielzahl von Testungen und Fahrzeugtypen zu erreichen und nicht den Realbetrieb des einzelnen Fahrzeuges abzubilden (Landgericht Braunschweig, Urteil vom 29.12.2016, Az. 1 O 2084/15, zit. nach juris; vgl. auch Riehm in DAR 2016, 12 ff.).Der Kläger hat keinen Anspruch auf Schadensersatz gem. §§ 823 Abs. 1, 831 BGB. eine Eigentumsverletzung durch den Ankauf des Pkw liegt nicht vor. Der Erwerb einer mangelhaften Sache selbst stellt keine Eigentumsverletzung dar (Sprau in Palandt, Kommentar zum BGB, 77. Auflage 2018, § 823 BGB Rn. 178). Gleichfalls liegt kein Fall eines eine deliktische Haftung auslösenden "weiterfressenden Schadens" vor; die öffentlich-rechtlich unzulässige Motorenspezifikation ist nicht geeignet, den Pkw in entsprechendem Sinne zu zerstören oder zu beschädigen.§ 823 Abs. 1 BGB setzt voraus, dass das Integritätsinteresse und das Nutzungs- und Äquivalenzinteresse nicht "stoffgleich" sind, denn das Deliktsrecht schützt nicht das Interesse an der ordnungsgemäßen Vertragserfüllung (BGH NJW 2011, 594). Eine Haftung nach § 823 BGB entfällt daher, wenn das eingebaute fehlerhafte Teil lediglich zu einer Funktionsstörung der Gesamtsache führt (vgl. BGHZ 117, 183). Dass öffentlich-rechtlichen Motorenspezifikation dazu führt, dass der Pkw beschädigt oder zerstört wird, ist vom Kläger nicht dargetan und nicht ersichtlich (vgl. Landgericht Braunschweig, Urteil vom 29.12.2016, Az. 1 O 2084/15, zit. nach juris; Landgericht Marburg, Urteil vom 26.06.2018, Az. 7 O 90/16, zitiert nach juris).Er hat auch eine konkrete, durch die im Pkw verwendete Software verursachte oder drohende Beschädigung seiner Gesundheit nicht dargelegt.Der Kläger hat gegen die Beklagte keinen Schadensersatzanspruch gemäß § 823 Abs. 2 BGB i.V.m. § 263 Abs. 1 StGB.Der Kläger hat im Sinne der Vorschrift eine Absicht rechtswidriger Bereicherung der Beklagten nicht dargelegt.Bereicherungsabsicht setzt voraus, dass die Tat subjektiv auf die Erlangung eines rechtswidrigen Vermögensvorteils für den Täuschenden oder einen Dritten gerichtet ist. Dabei muss der Vorteil die Kehrseite des Schadens und ihm "stoffgleich" sein, er muss unmittelbare Folge der täuschungsbedingten Verfügungen sein, die den Schaden des Opfers herbeiführt; maßgeblich ist die Unmittelbarkeit der Verschiebung (Fischer, Kommentar zum StGB, 63. Auflage 2016, § 263 Rn. 187 m.w.N.). Dem Täter muss es darauf ankommen, sich oder einem Dritten einen Vermögensvorteil zu verschaffen; an der erforderlichen Absicht fehlt es, wenn der Täter die Vorteilserlangung nur als notwendige Folge eines anderen Zwecks in Kauf nimmt (Fischer, Kommentar zum StGB, 63. Auflage 2016, § 263 Rn. 190 m.w.N.). Vorliegend erscheint bereits fraglich, ob es der Beklagten bei der Verwendung der eingebauten Software um einen Wettbewerbsvorteil durch die Reduzierung ansonsten erforderlicher Entwicklungs- und Produktionskosten ging. Soweit der Kläger einen Schaden durch den Vertragsschluss und die Belastung mit der Verpflichtung zur Zahlung des Kaufpreises geltend macht, fehlt es an der Unmittelbarkeit der Vermögensverschiebung. Der Vertragsschluss stellt insoweit nur eine mittelbare Folge dar (Landgericht Braunschweig, Urteil vom 29.12.2016, Az. 1 O 2084/15, zit. nach juris; Landgericht Marburg, Urteil vom 26.06.2018, Az. 7 O 90/16, zitiert nach juris, vgl. auch Riehm in DAR 2016, S. 12 ff.).Gleichfalls scheidet mangels Vorliegens eines Schutzgesetzes ein Schadensersatz wegen Verstoßes gegen das UWG aus. §§ 4 und 16 UWG sind keine Schutzgesetze i.S.d. § 823 Abs. 2 BGB (Landgericht Braunschweig, Urteil vom 29.12.2016, Az. 1 O 2084/15, zit. nach juris; Sprau in Palandt, Kommentar zum BGB, 77. Auflage 2018, § 823 BGB, Rn. 72 m.w.N.; Landgericht Marburg, Urteil vom 26.06.2018, Az. 7 O 90/16, zitiert nach juris).Auch § 27 Abs. 1 EG-FGV (in aktueller Form in Kraft seit dem 11.02.2011, n. juris) kommt nach hiesigem Verständnis kein Individual- bzw. gerade kein Individualvermögensschutz zu. Soweit erkennbar soll die Vorschrift im Zusammenhang mit den Regelungen zur Typengenehmigung bzw. im Wege sachlogischer Vervollständigung derselben gewährleisten, dass die in Verkehr gebrachten Einzelkraftfahrzeuge mit dem genehmigten Kfz-Typus herstellerseits im Einklang stehen. Damit dient sie dem übergeordneten Zweck der ggf. im Genehmigungsverfahren verletzten Tatbestände (hier: wohl insbesondere in Rede stehend dem öffentlichen Zweck des Umweltschutzes), indem der Hersteller in Bezug auf eine eigene Konformitätserklärung bzgl. der von ihm an den Markt ausgelieferten Fahrzeuge in die Pflicht genommen wird. Selbst wenn, was bereits fraglich ist, eine etwaige Verletzung von Rechtsvorschriften im Typengenehmigungsverfahren (ohne weiteres Verwaltungshandeln) auf die Gültigkeit einer solchen Übereinstimmungsbescheinigung des Herstellers durchschlagen könnte, würden hierdurch die öffentlichen Verordnungszwecke nicht erkennbar verdrängt. Ist dem Einzelnen herstellerseitig eine Übereinstimmungsbescheinigung im Sinnzusammenhang mit öffentlichen Zwecken des Typengenehmigungsverfahrens erteilt worden, kann allein aus dem Umstand, dass diese (ohne weiteres Verwaltungshandeln fernliegend) wegen möglicher Rechtsverstöße unter Verletzung übergeordneter Umweltschutzinteressen im Typengenehmigungsverfahren rechtswidrig ist, nicht auch auf einen Individualschutzcharakter der Bescheinigung bzw. der Annexvorschrift des § 27 Abs. 1 EG-FGV allein deshalb geschlossen werden, weil für den Hersteller die Pflicht zu einer Konformitätserklärung bestand. Die als verletzt in Rede stehenden Vorschriften zur Abgasreinhaltung dienen als Gesamtkonstrukt dem Schutz der Umwelt und der Harmonisierung und Stärkung des Binnenmarktes (Landgericht Marburg, Urteil vom 02.03.2017, Az. 5 O 49/16 unveröffentlicht).Der Kläger hat gegen die Beklagte auch keinen Schadensersatzanspruch aus § 831 Abs. 1 BGB i.V.m. § 823 Abs. 1 BGB und § 263 Abs. 1 StGB.Grundsätzlich genügt es im Rahmen des § 831 Abs. 1 BGB für eine Haftung des Geschäftsherrn, wenn dem Gehilfen widerrechtliches Verhalten im Sinne der § 823ff. BGB vorzuwerfen ist (RGZ 50, 60 (66); BGH NJW 1956, 1715; BGH NZV 1991, 114 (115); OLG Köln NZV 1992, 279 (280)). Dies ist allerdings dann nicht der Fall, wenn der Gehilfe ein Vorsatzdelikt wie beispielsweise §§ 263, 264a, 266 StGB oder § 826 BGB verwirklicht haben soll. In diesem Fall müssen auch die subjektiven Tatbestandselemente - also Vorsatz und die entsprechende Absichten - in Person des Gehilfen vorliegen (BGH VersR 2014, 112 Rn. 11; BGH VersR 2010, 910 Rn. 38; BGH NJW 1956, 1715). Für eine Haftung der Beklagten aus § 831 Abs. 1 BGB i.V.m. § 823 Abs. 2 BGB und § 263 Abs. 1 StGB war eine vorsätzliche Verwirklichung inklusive Bereicherungsabsicht durch die entsprechenden Ingenieure der Beklagten erforderlich. Diese substantiiert darzulegen und nachzuweisen obliegt dem Kläger. (Landgericht Marburg, Urteil vom 26.06.2018, Az. 7 O 90/16, zitiert nach juris.) Dem konnte dieser nicht in substantiierter Weise nachkommen, sodass allein schon aus diesem Grund kein Anspruch ersichtlich ist.Weitere einschlägige Anspruchsgrundlagen sind mangels einer vertraglichen Beziehung zwischen den Parteien nicht ersichtlich und werden auch nicht in Bezug genommen. So hat der Kläger insbesondere auch kein anderweitiges, als Grundlage eines Schadensersatzanspruches gemäß §§ 280 Abs. 1, Abs. 3, 281 Abs. 1 BGB in Betracht kommendes Schuldverhältnis dargelegt, ebenfalls nicht die Voraussetzungen der quasivertraglichen Haftung aus §§ 280 Abs. 1, 311 Abs. 3 BGB. Ein eigenes unmittelbares wirtschaftliches Interesse der Beklagten, der Herstellerin des Motors des streitgegenständlichen Pkw, bei einem Fahrzeugerwerb des Klägers besteht nicht. Auch ein besonderes Vertrauen gerade im Hinblick auf ein Erreichung der Prüfzyklen der Euro-5-Norm ohne Verwendung einer manipulierenden Software ist nicht erkennbar und wird so auch nicht geltend gemacht (Landgericht Braunschweig, Urteil vom 29.12.2016, Az. 1 O 2084/15, zit. nach juris).Der Antrag auf Feststellung des Annahmeverzugs scheitert mangels Hauptforderung.Die vom Kläger gegen die Beklagte geltend gemachte Nebenforderung in Form von vorgerichtlichen Rechtsanwaltskosten teilt das Schicksal der Hauptforderung.Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO.Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 S. 2 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2340442.html (https://oj.is/2340442)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate8
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

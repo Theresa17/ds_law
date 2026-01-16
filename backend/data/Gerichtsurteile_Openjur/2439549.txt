@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG BambergRechtsprechungEndurteil vom 29.10.2020 - 23 O 450/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bamberg, Endurteil vom 29.10.2020 - 23 O 450/19
+                      m. Fundstelle
+                      LG Bamberg, Endurteil vom 29.10.2020 - 23 O 450/19 = openJur 2022, 14213
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bamberg, Endurteil vom 29.10.2020 - 23 O 450/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 14213
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zuvollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 44.623,00 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatzansprüche im Zusammenhang mit dem sog. "VWAbgasskandal".Die Klagepartei erwarb am 21.03.2014 einen Pkw VW Golf Sportsvan zum Preis von 44.623,00 € (Anlage K 1). Bei Erwerb betrug der km-Stand 0 km.Der Kaufpreis wurde gezahlt, das Fahrzeug übergeben und wird vom Kläger seitdem genutzt.Der in dem Fahrzeug verbaute Dieselmotor ist vom Typ EA 288 EU6 (im Folgenden EA 288). Das Fahrzeug verfügt über eine EG-Übereinstimmungsbescheinigung (CoC) und wird von der Beklagten in den Verkehr gebracht.Das Fahrzeug durfte im Straßenverkehr genutzt werden und wurde von der Klagepartei auch genutzt. Der Kilometerstand betrug bei Schluss der mündlichen Verhandlung 156.893 km.Die Klagepartei trägt vor, dass sich der verbaute Dieselmotor des Typs EA 288 im streitgegenständlichen Fahrzeug zur Abgasaufbereitung der NSK-Technologie bediene. Im Fahrzeug seien unzulässige Abschalteinrichtungen verbaut.Die Klagepartei behauptet, der Pkw verfüge über einen Dieselmotor, in dem wie beim Typ EA 189 eine Software eingebaut sei, die Stickoxidwerte (NOx) im Prüfstandlauf optimiere (sog. Umschaltlogik). Sie erkenne, wenn das Fahrzeug den "Neuen Europäischen Fahrzyklus" (NEFZ) durchfahre und schalte das regulär im Betriebsmodus 0 (Straßenbetrieb) betriebene Fahrzeug dann in den Betriebsmodus 1, in dem der Ausstoß von Stickoxiden dadurch verringert wird, dass mehr Abgas über die Abgasrückführung in den Ansaugtrakt des Motors zurückgeführt wird.Dadurch würden auf dem Prüfstand geringere Stickoxidwerte (NOx) erzielt und es konnten im Testzyklus die nach der Euro-6-Abgasnorm vorgegebenen Werte eingehalten werden - was im Betriebsmodus 0 nicht möglich gewesen wäre. Wie schon beim EA 189 werde im EA 288 eine Motorsteuerungsoftware genutzt, die per Lenkwinkel erkenne, ob sich das Fahrzeug auf dem Prüfstand oder im realen Fahrbetrieb befinde Die Klagepartei trägt vor, dass davon auszugehen sei, dass die Motorensteuerungssoftware wie schon beim EA 189 ab der Unterschreitung einer Temperaturgrenze von 17 °C und Überschreitung von 30 °C die Abgasrückführung bis zur vollständigen Einstellung sukzessive drossele. Nur innerhalb dieses "Thermofensters" sei die Abgasreinigung zu 100% aktiv. Die Klagepartei ist der Meinung, es handele sich um unzulässige Abschalteinrichtungen im Sinne von Art. 5 Abs. 2 S. 1 VO (EG) 715/2007 i.V.m. Art. 3 Nr. 10 VO (EG) 715/2007.Darüber hinaus habe die Beklagte das On-Board-Diagnosesystem manipuliert worden, was eine illegale Manipulation nach Art. 4 der Verordnung Nr. 692/200/EG und nach Art. 715/2007/EG darstellen würde.Die Beklagte habe Kenntnisse über sämtliche Manipulationssoftware gehabt.Die Klagepartei meint, dass sie die von ihr geltend gemachten Ansprüche unter anderem auf § 826 BGB in Verbindung mit § 31 BGB, § 826 BGB in Verbindung mit Art. 5 Abs. 2 VO (EG) Nummer 715/2007 sowie auf § 823 Abs. 2 BGB in Verbindung mit §§ 263, 25 Abs. 1 bzw. 27 StGB stützen könne.Der Kläger beantragt,1. Die Beklagte wird verurteilt, an die Klägerpartei 44.623,00 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz abzüglich einer Nutzungsentschädigung in Höhe von 20.002,96 € Zugum-Zug gegen Rückgabe und Übereignung des Fahrzeugs VW Golf Sportsvan mit der Fahrgestellnummer..., zu zahlen.2. Es wird festgestellt, dass sich die Beklagte seit dem 22.11.2019 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befindet.3. Die Beklagte wird verurteilt, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von EUR 2.613,24 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 22.11.2019 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte trägt vor, dass der Kläger seinen Substantiierungsanforderungen nicht nachgekommen sei. Es liege kein Rückruf des Kraftfahrt-Bundesamtes (KBA) für den streitgegenständlichen Motor vor. Eine entsprechende Überprüfung des KBA habe stattgefunden und dabei sei festgestellt worden, dass keine unzulässige Abschalteinrichtung zum Einsatz komme.In jedem Fahrzeug kämen zulässige Abschalteinrichtungen zum Einsatz, die beispielsweise den Motor vor Beschädigungen in besonderen Fahrsituationen schützten oder bei Motorstart technisch erforderlich seien. Insbesondere stelle der Einsatz eines sogenannten Thermofensters keine unzulässige Abschalteinrichtung dar. Die Abgasrückführung finde in einem Temperaturbereich von -24 °C bis +70 °C statt. Der Vortrag der Klagepartei beziehe sich auf den Motor EA 189 und sei daher unbeachtlich.Eine Lenkwinkelerkennung liege nicht vor.Das streitgegenständliche Fahrzeug halte die Emissionsgrenzwerte der Abgasnorm EU6 ein. Es liege eine wirksame EG-Typengenehmigung vor. Zum Zeitpunkt der EG-Typengenehmigung habe sich der Gesetzgeber dafür entschieden, die Emissionsgrenzwerte allein unter Laborbedingungen festzulegen. Auf die tatsächlichen Werte im Fahrbetrieb komme es daher nicht an.Bezugnahmen auf den US-Markt seien für das hiesige Verfahren ohne Relevanz.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die wechselseitigen Schriftsätze nebst Anlagen, das Protokoll der mündlichen Verhandlung vom 24.09.2020 (Bl. 320ff. d.A.) und den sonstigen Akteninhalt Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I. Der Klagepartei steht gegen die Beklagte kein Anspruch auf Zahlung von Schadensersatz in Höhe des Kaufpreises abzüglich gezogener Nutzungen zu (§ 826 BGB).Der Sachvortrag der Klagepartei ist nicht ausreichend, die Tatbestandsvoraussetzungen der sittenwidrigen Schädigung nach § 826 BGB auszufüllen.1. Im Gegensatz zu Fällen des Einbaus des Motors Typ EA 189 - bei denen nicht nur eine unzulässige Abschalteinrichtung vorliegt und auch aufgrund der konkreten Ausgestaltung derselben (spezielle, allein auf das Prüfverfahren abgestimmte Steuerungssoftware, die bei Aktivierung dazu führt, dass das Prüfverfahren keinerlei Rückschlüsse auf die tatsächlichen Eigenschaften des Fahrzeugs im Normalbetrieb zulässt, was erkennbar und bewusst dem Zweck der maßgeblichen Vorschriften der VO (EG) Nr. 715/2007 widersprach) unproblematisch davon auszugehen ist, dass die handelnden Personen auch subjektiv die die Sittenwidrigkeit begründenden Tatumstände (vgl. hierzu Palandt - Sprau, BGB - Kommentar, 78. Aufl. 2019, § 826 Rn. 8) kannten - kann dies im konkreten Fall nicht unterstellt werden.Die Klagepartei beschränkt sich darauf, die technischen Gegebenheiten rudimentär und unsubstantiiert zu schildern und daraus den rechtlichen Schluss der Sittenwidrigkeit zu ziehen.a) Ausreichende Anknüpfungstatsachen dafür, dass im vorliegenden Fall - wie bei dem Motor des Typs EA 189 - eine Lenkwinkelerkennung vorliegt sind nicht vorgetragen. Die Bezugnahme auf Ermittlungen in den USA ist hierfür nicht ausreichend. Ein pauschales Abstellen auf die gemeinsame Entwicklungshistorie der Motoren EA 189 und EA 288 reicht hierfür ebenfalls nicht aus.b) Soweit die Klagepartei auf das "Thermofenster" abstellt, hätte diese dartun müssen, warum dieses nicht notwendig ist, um den Motor vor Beschädigung oder Unfall zu schützen und um den sicheren Betrieb des Fahrzeuges zu gewährleisten (OLG München, Beschluss vom 29.08.2019, Aktenzeichen 8 U 1449/19, Rz. 39, 41). Auch insoweit wären entsprechend angreifbare Anhaltspunkte aufzuzeigen gewesen.Angesichts der von der Beklagten in Einzelheiten dargetanen technischen Funktionsweise der vom KBA als zulässige Abschalteinrichtungen gewerteten Motorsteuerungskonfigurationen erscheint es - im Gegensatz zu Fällen des Motortyps EA 189 - nicht von vornhereinausgeschlossen, dass die Entwickler davon ausgingen, dass es sich um erlaubte Ausnahmen nach Art. 5 Abs. 2 VO (EG) 715/2007 handele, etwa zum Schutz des Motors. Dies erscheint hier schon deshalb sogar naheliegend, weil die Funktionen offenbar gerade nicht ausschließlich dazu dienen, im Prüfverfahren zur Anwendung zu kommen und das reale Emissionsverhalten zu verschleiern, sondern der Warmlaufmodus etwa auch bei einem Kaltstart im Winter eingesetzt wird und geeignet ist, das Emissionsverhalten des Fahrzeugs im Straßenbetrieb (regulärer, nach einigen Betriebsminuten zu erwartender Schadstoffausstoß) darzustellen und die reduzierte AdBlue-Einspritzung sich ersichtlich weder auf dem Prüfstand noch im größten Teil des regulären Fahrbetriebs auswirkt.Etwas anderes ergibt sich auch nicht aus dem Vortrag der Klagepartei zur angeblichen Manipulation des On-Board-Diagnosesystems, der angeblichen Temperaturerkennung sowie der behaupteten Zeiterfassung.c) Der Vortrag der Klagepartei ist daher auch nicht geeignet, eine sekundäre Darlegungslast der Beklagten auszulösen. Insbesondere ist im vorliegenden Fall zu berücksichtigen, dass kein Rückruf des KBA nach dessen von der Beklagten vorgetragenen Prüfung erfolgt ist.d) Lediglich ergänzend ist auszuführen, dass bei dieser Sachlage ein dem Vorstand zurechenbares Wissens- und Wollenselement nicht nachgewiesen ist.II. Weitere deliktische, auf Naturalrestitution gerichtete Schadensersatzansprüche gegen die Beklagte kommen nach Auffassung des Gerichts nicht in Betracht.1. Ein Anspruch nach § 823 Abs. 2 BGB in Verbindung mit Art. 5 Abs. 2 VO (EG) Nr. 715/2007 ist nicht gegeben.Bei den zitierten europarechtlichen Regelungen handelt es sich nach Ansicht des Gerichts nicht um Schutzgesetze im Sinne des § 823 Abs. 2 BGB (OLG München, aaO., Rz. 47).Ziel der VO (EG) Nr. 715/2007 ist die Harmonisierung des Binnenmarkts bzw. die Vollendung des Binnenmarktes durch Einführung gemeinsamer technischer Vorschriften zur Begrenzung von Fahrzeugmissionen. Auch der EuGH hat einen Bezug zu Individualinteressen bei der vorgenannten Vorschrift verneint (OLG München, aaO., Rz. 51 mit weiteren Nachweisen).2. Die Klagepartei hat gegen die Beklagte keinen Schadensersatzanspruch aus § 823 Abs. 2 BGB i.V.m. §§ 263 Abs. 1, 25 Abs. 1 2. Fall StGB bzw. § 27 StGB.Die Klagepartei hat eine Absicht rechtswidriger Bereicherung der Beklagten sowie die Stoffgleichheit des Schadens nicht dargelegt.Bereicherungsabsicht setzt voraus, dass die Tat subjektiv auf die Erlangung eines rechtswidrigen Vermögensvorteils für den Täuschenden oder einen Dritten gerichtet ist; dabei muss der Vorteil die Kehrseite des Schadens und ihm "stoffgleich" sein. Der Täter muss den Vorteil unmittelbar aus dem Vermögen des Geschädigten in der Weise anstreben, dass der Vorteil die Kehrseite des Schadens ist. Es ist davon auszugehen, dass es für die Stoffgleichheit ausreicht, wenn Vorteil und Schaden auf derselben Verfügung beruhen und der Vorteil zu Lasten des geschädigten Vermögens geht (vgl. Schönke/Schröder/Perron, StGB § 263 Rn. 168169, beckonline). Soweit der Kläger einen Schaden durch den Vertragsschluss und die Belastung mit der Verpflichtung zur Zahlung des Kaufpreises geltend macht, fehlt es an der Unmittelbarkeit der Vermögensverschiebung. Der Vertragsschluss mit dem Händler stellt insoweit die mittelbare Folge der von der Beklagten primär beabsichtigten (unmittelbaren) Veräußerung des Fahrzeugs an den Vertragshändler dar. (LG Braunschweig, Urteil vom 29.12.2016, Az. 1 O 2084/15).III. Die aus dem Hauptanspruch abgeleiteten Nebenansprüche auf Feststellung des Annahmeverzugs sowie Zahlung von außergerichtlichen Rechtsanwaltskosten und Zinsen teilen das Schicksal der Hauptforderung.IV. Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO.Der Ausspruch über die vorläufige Vollstreckbarkeit richtet sich nach § 709 S. 1, 2 ZPO.Der Streitwert wurde gemäß §§ 3 ZPO, 63 GKG festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2439549.html (https://oj.is/2439549)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

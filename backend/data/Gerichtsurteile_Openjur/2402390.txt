@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG München IRechtsprechungEndurteil vom 04.11.2019 - 26 O 18546/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG München I, Endurteil vom 04.11.2019 - 26 O 18546/18
+                      m. Fundstelle
+                      LG München I, Endurteil vom 04.11.2019 - 26 O 18546/18 = openJur 2022, 16787
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG München I, Endurteil vom 04.11.2019 - 26 O 18546/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 16787
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf ... € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatz hinsichtlich eines Personenkraftwagens, der nach Vorbringen der Klagepartei eine unzulässige Abschalteinrichtung aufweisen soll.Der Kläger ist Eigentümer des Pkw ... mit der FIN .... Er erwarb dieses Fahrzeug als Gebrauchtfahrzeug gemäß Bestellung vom 21.03.2014 bei dem ... für einen Kaufpreis in Höhe von ... (Anlage K 1). Die Erstzulassung war am ..., der Kilometerstand betrug ... km. In das Fahrzeug ist ein Dieselmotor der Baureihe EA 189 eingebaut. Die Motorensteuerungssoftware, welche für diesen Motorentyp ursprünglich eingesetzt wurde, erkannte, ob das Fahrzeug in einem Testbetrieb für Abgasmessungen eingesetzt wird oder im realen Straßenverkehr und änderte das Abgasverhalten des Motors in Abhängigkeit von dem Betriebsmodus. Das Kraftfahrt-Bundesamt verpflichtete mit Bescheid vom ... den ..., die unzulässigen Abschalteinrichtungen zu entfernen sind und geeignete Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit zu ergreifen sind. Die Beklagte hat für das streitgegenständliche Fahrzeug eine EG-Typgenehmigung ausgestellt. Das KBA hat mit Bestätigung vom ... die technische Maßnahme für Fahrzeuge des Typs ... freigegeben (Anlage B 3). Die Klagepartei ließ das angebotene Softewareupdate am ... aufspielen. Die Beklagte bescheinigte am 16.06.2016, dass das Fahrzeug nach der Durchführung der Rückrufaktion vollumfänglich den geltenden gesetzlichen Vorschriften entspricht (Anlage K 5).Der Kilometerstand betrug zum Zeitpunkt der mündlichen Verhandlung vom 06.09.2019 ... km.Der Kläger behauptet, dass dem Vorstand der Beklagten der rechtswidrige Einsatz der Software zur Motorsteuerung als Mitentwicklerin des Motors bekannt gewesen sei. Die Entwicklung und der flächendeckende Einsatz der streitgegenständlichen Täuschungssoftware am Vorstand vorbei sei aufgrund der Zertifizierung nach DIN EN ISO 9001 nicht möglich gewesen.Der Kläger trägt vor, dass es ihm bei der Kaufentscheidung auf die besondere Umweltfreundlichkeit angekommen sei. Diesel-Fahrzeuge würden um 30 % weniger CO2 ausstoßen als Benzin-Fahrzeuge. Insoweit habe die Beklagte als Herstellerin Angaben durch die Übergabe der EG-Übereinstimmungsbescheinigung (Anlage K 4) gemacht und besonderes Vertrauen erweckt. Tatsächlich seien die Fahrzeuge nicht zulassungsfähig gewesen, die Zulassung sei erschlichen worden. Der merkantile Minderwert liege bei bis zu 30 %. Die in den Broschüren angegebenen Abgaswerte seien nur durch die Manipulation der Fahrzeuge möglich gewesen. Durch die Manipulationen habe sich die Beklagte weltweit, vor allem in den USA, Wettbewerbsvorteile verschaffen wollen. Die Manipulationssoftware sei ab 2008 installiert worden. Die ... habe als Entwickler der Motorsteuerungssoftware auch die Abschalteinrichtung konzipiert. Die ... habe die Beklagte davor gewarnt, dass durch die Modifikationen die Betriebserlaubnis erlöschen könnte. Die Mitarbeiter und die Organe der Beklagten hätten in Kauf genommen, dass die Kunden und auch die Gebrauchtwagenkäufer erheblich geschädigt werden, da die Fahrzeuge wegen der Manipulationen nicht den angegebenen Verkehrswert haben würden. Hätte die Beklagte den Kläger oder die Öffentlichkeit bei Vertragsanbahnung und Vertragsschluss darüber aufgeklärt, dass der Pkw mit einer das Abgasreinigungsverhalten manipulierenden Software ausgestattet ist, hätte der Kläger das Fahrzeug nicht erworben. Demgemäß habe die Beklagte den Kaufpreis zu erstatten und das Fahrzeug zurückzunehmen. Eine Nutzungsentschädigung müsse sich der Kläger nicht anrechnen lassen. Der Kaufpreis sei ab Zahlung mit 4 % zu verzinsen. Für den Fall, dass Nutzungen zugunsten der Beklagten zu saldieren seien, erklärt der Kläger hilfsweise die Aufrechnung seines Zinsanspruchs gegenüber dem Nutzungsersatzanspruch.Der Kläger beantragt:Die Beklagte wird verurteilt, an den Kläger ... € zzgl. Zinsen in Höhe von 4 Prozent p.a. aus ... € vom ... bis ... und sodann in Höhe von 5 Prozentpunkten über dem Basiszins zu zahlen, Zug um Zug gegen Übereignung und Übergabe des PKW ..., FIN ... an die Beklagte.Es wird festgestellt, dass sich die Beklagte mit der Annahme des Angebotes gemäß Ziff. 1 in Verzug befindet.Die Beklagte beantragt,die Klage abzuweisen.Sie ist der Auffassung, dass der Beklagten kein Täuschungs- oder Schädigungsvorsatz eines ihrer Organe zugerechnet werden könne. Es lägen keine Erkenntnisse dafür vor, dass einzelne Mitglieder des Vorstands der Beklagten im aktienrechtlichen Sinn die Entwicklung der streitgegenständlichen Software für den Dieselmotor des Typs EA 189 (EU5) seinerzeit in Auftrag gegeben oder gebilligt hätten oder im Zeitpunkt des Kaufvertragsabschlusses am ... von dem Einbau Kenntnis gehabt hätten. Die DIN EN ISO 9001 gebe keine Auskunft über den Ablauf der Berichterstattung. Die Beklagte habe den Motor nicht entwickelt nur teilweise hergestellt und in ihre Fahrzeuge eingebaut. Eine Wissenszurechnung hinsichtlich der Kenntnisse des Vorstands der ... finde nicht statt. Der Kläger habe das Fahrzeug zudem als Gebrauchtwagen erworben. Die Beklagte sei am Vertragsschluss nicht beteiligt gewesen. Aus einem Gebrauchtwagenkauf ziehe die Beklagte als Herstellerin keinerlei Vorteile. Auch werde sich der Kläger beim Fahrzeugkauf keine Vorstellungen über konkrete Schadstoffwerte gemacht haben. Zudem sei eine Schädigung des Klägers nicht erkennbar. Das Fahrzeug sei technisch sicher und uneingeschränkt gebrauchstauglich, es habe stets über eine wirksame EG-Typgenehmigung verfügt. Die Normen des Fahrzeuggenehmigungsrechts entfalteten keinen Drittschutz zu Gunsten des Erwerbers und seien keine Schutzgesetze im Sinne des § 823 BGB. Durch das Software-Update hätten sich keine technischen Nachteile ergeben. Einen Wertverlust habe der Kläger nicht substantiiert dargelegt, zumindest würde er nicht auf einer Handlung der Beklagten beruhen.In dem nicht nachgelassenen Schriftsatz vom ... hat der Kläger den Zeugen ... dafür benannt, dass dieser 2012 Kenntnis von der Manipulationssoftware gehabt habe sowie weitere Zeugen dafür, dass die Beklagte den Motor nach eigenen Wünschen selbständig gebaut, konfiguriert und mit der Motor(manipulations-)steuerungssoftware ausgestattet und entsprechend in Verkehr gebracht habe. Weiterhin wird behauptet, dass die EA189-Motoren eine weitere Schummelsoftware enthalten würden, die dergestalt funktioniere, dass die Abgasreinigung nur bei Außentemperaturen zwischen 10 und 32 Grad einsetzen würde.Wegen des Vortrags der Parteien im einzelnen wird auf die gewechselten Schriftsätze nebst Anlagen und das Sitzungsprotokoll vom 06.09.2019 verwiesen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I.Die Klagepartei hat aus § 823 Abs. 2 BGB in Verbindung mit § 263 StGB keinen Schadensersatzanspruch gegen die Beklagte.Eine relevante Täuschung ist nicht gegeben bzw. nicht dargelegt. Soweit möglicherweise seitens der Beklagten die für die Typzulassung zuständigen Behörden getäuscht wurden, stellt dies keine Täuschung im Sinne des § 263 StGB dar, da eine solche eine Vermögensverfügung des getäuschten Irrenden voraussetzt, welche nicht dargelegt ist.Eine Täuschung durch aktives Tun ist nicht gegeben. Hierzu ist nichts in ausreichender Form konkret dargelegt. Die Beklage war an den Verkaufsverhandlungen nicht beteiligt. Der Kläger wollte nach seinen Angaben ein Dieselfahrzeug wegen des geringeren CO2-Ausstoßes erwerben, er hat sich jedoch keine Gedanken darüber gemacht hat, ob die Beklagte die für die Typzulassung erforderlichen Voraussetzungen tatsächlich erbracht hat.Hinreichend dargelegt wurde allenfalls eine Täuschung über das streitgegenständliche Fahrzeug hinsichtlich der Verwendung einer unzulässigen Abschalteinrichtung.Es steht fest, dass es in Motor des streitgegenständlichen PKWs eine unzulässige Abschalteinrichtung im Sinne des Artikel 5 Absatz 2 der VO (EG) Nr. 715/2007 verbaut war. Dies ergibt sich bereits aus der Mitteilung des KBA. Dies hat auch der Bundesgerichtshof in seinem Beschluss vom 08.01.2019, Az: VIII ZR 225/17 so gesehen.Insoweit ist allerdings keine aktive Täuschungshandlung der Beklagten ersichtlich, sondern allenfalls eine Täuschung durch Unterlassen, für welche es aber an einer Garantenstellung der Beklagten gemäß §§ 13 StGB fehlt.Eine Täuschung durch Unterlassung gemäß §§ 13 StGB setzt eine Garantenstellung voraus, das heißt, eine Person hat dann rechtlich dafür einzustehen, dass ein strafrechtlich missbilligter Erfolg nicht eintritt. Dies ist insbesondere bei wertbildenden Faktoren der Kaufsache der Fall.Eine Aufklärungspflicht würde dann bestehen, wenn tatsächlich infolge der Verwendung der unzulässigen Abschalteinrichtung die EG-Typengenehmigung für das Fahrzeug erloschen wäre. Jedoch ist die Typengenehmigung nicht gemäß § 19 Abs. 7 Abs. 2 S. 2 Nr. 3 StVZO erloschen. Denn die genannten Vorschriften gelten nicht für den hier allenfalls vorliegenden Fall, dass ein Fahrzeug schon vor in Verkehr bringen durch den Hersteller nicht der maßgeblichen Typengenehmigung entspricht (Landgericht Braunschweig, Urteil vom 14.07.2017, Az.: 11 O 3826/16 RdNr. 46, zitiert nach Beck-Online). § 19 Abs. 2 i.V.m. Abs. 7 StVZO sieht ein Erlöschen der Typengenehmigung für den Fall vor, dass an dem Fahrzeug Änderungen vorgenommen werden, durch die bereits eine einfache Gefährdung von Verkehrsteilnehmern zu erwarten ist. Gelte dies auch für Änderungen vor Inverkehrbringen des Fahrzeugs durch den Hersteller, so hätte dies die zeitlich nachfolgend in Kraft getretene Vorschrift des § 25 Abs. 3 Nr. 2 EG-FGV, die den Widerruf der Typengenehmigung erst dann ermöglicht, wenn von dem Fahrzeug ein erhebliches Risiko für die Verkehrssicherheit ausgeht und welche der Behörde zudem ein Ermessen einräumt, keinen Anwendungsbereich (Landgericht Braunschweig, a.a.O.) und würde keinen Sinn machen.Zudem folgt aus der Begründung zur damaligen Neufassung des § 19 Abs. 2 StVZO, dass diese Vorschrift ihrer Intention nach nur Änderungen von bereits im Verkehr befindlichen Fahrzeugen erfassen sollte, denn nur insoweit wurde eine Regelungskompetenz erkannt (vgl. Landgericht Braunschweig, 11 O 4019/16, Rn. 54).Ferner droht kein Widerruf der Typengenehmigung mit Wirkung für alle Fahrzeuge des streitgegenständlichen Typs, nachdem die zuständige Behörde das ihr zustehende Ermessen gerade nicht in dieser Form ausgeübt hat. Weiterhin besteht auch die Zulassung nach der Euro-5-Norm fort. Die entsprechende Genehmigung besteht auch nach der Entscheidung des Kraftfahrtbundesamtes fort. Auch hat die Klagepartei keine konkreten Angaben der Beklagten dargelegt, wonach das streitgegenständliche Fahrzeug im realen Straßenverkehr die Emmissionsgrenzwerte nach der Euro-5-Norm einhalte oder die Messung auf dem Rollenprüfstand nach dem NEFZ den Schadstoffausstoß im Realbetrieb wenigstens annähernd abbilde. Auch konkret falsche Angaben der Beklagten zum Stickoxidausstoß des streitgegenständlichen Fahrzeugs sind nicht dargelegt.Über die Zulässigkeit des von der Beklagten verwendeten Thermofensters liegen noch keine verbindlichen Feststellungen des KBA vor. Es besteht keine Veranlassung, das Verfahren wegen des nach Schluss der mündlichen Verhandlung erhobenen Vorwurfs, die Beklagte verwende weiterhin eine Schummelsoftware, wieder aufzunehmen. Der Kläger zitiert insoweit nur aus einem Urteil des Landgerichts Düsseldorf vom 31.07.2019. Es fehlt jeglicher Vortrag, dass und warum das behauptete Thermofenster "nicht notwendig ist, um den Motor vor Beschädigung oder Unfall zu schützen und den sicheren Betrieb des Fahrzeugs zu gewährleisten" i.S.v. Art. 5 II der VO (EG) Nr. 715/2007.II.Die Klagepartei hat auch aus § 823 Abs. 2 BGB in Verbindung mit §§ 6 Abs. 1, 27 EG-FGV keinen Schadensersatzanspruch gegen die Beklagte.Unabhängig von der Frage der tatsächlichen Verletzung der Vorschriften durch die Beklagte fehlt es an dem Schutzgesetzcharakter. Eine Norm ist dann als Schutzgesetz anzusehen, wenn sie zumindest auch dazu dienen soll, den Einzelnen oder einzelne Personenkreise gegen die Verletzung eines bestimmten Rechtsguts zu schützen (Sprau in Palandt, BGB, 77. Auflage, § 823, RdNr. 58). Bei diesen Vorschriften handelt es sich nicht um Normen mit Drittschutzwirkung für Autokäufer. Bei Vorschriften, die, wie hier, Richtlinien umsetzen, kommt es nach der gebotenen richtlinienkonformen Auslegung insoweit maßgeblich auf den Inhalt und Zweck der Richtlinie - hier also der Richtlinie 2007/46/EG an (LG Braunschweig, Urteil vom 06.12.2017, Az.: 3 O 589/17 mit Verweis auf BGH, EuGH-Vorlage vom 09.04.2015, Az.: VII ZR 36714). Wie dargelegt zielt die Richtlinie nicht auf den Schutz der Vermögensinteressen des Fahrzeugkäufers ab, sondern aufdie Harmonisierung des Binnenmarktes (Erwägungsgründe 2, 4 und 23).III.Die Klagepartei hat zuletzt auch aus § 826 BGB keinen Schadensersatzanspruch gegen die Beklagte.Der Vorsatz einer sittenwidrigen Schädigung der Klagepartei durch die Organe der Beklagten ist nicht dargetan. Die Klagepartei hätte konkret vortragen müssen, dass Organe im aktienrechtlichen Sinne zum Zeitpunkt der Zulassung ihres Fahrzeugs am ... Kenntnis von der Manipulation der Motorsteuerungssoftware hatten und dennoch nichts unternahmen (bzw. sogar den Einsatz der entsprechenden Motorensteuerungssoftware förderten), um die Klagepartei als spätere Gebrauchtwagenkäuferin zu schädigen. Schon zu einer entsprechenden Kenntnis des Vorstands der Beklagten trägt die Klagepartei nicht ausreichend substantiiert vor. Es ist nicht ausreichend, in dem nicht nachgelassenen Schriftsatz vom ... zu behaupten, die Manipulationssoftware in das Klägerfahrzeug sei in 2012 mit Wissen und Wollen des Vorstandes ... erfolgt, ohne nähere Umstände darzulegen. Die Kenntnis kann nicht allein daraus hergeleitet werden, weil die Beklagte Hersteller oder Quasihersteller des Motors gewesen sei. Es muss dargelegt werden, wann welcher Zeuge aufgrund welcher Informationen Kenntnis von einer Manipulation hatte und wie und wann Organe im aktienrechtlichen Sinne Kenntnis erlangten. Medienberichte reichen zum Beweis nicht aus. Zudem ging es der Beklagten um den Absatz von Neufahrzeugen, durch den Verkauf von Gebrauchtfahrzeugen durch dritte Autohändler hatte die Beklagte keine vermögensrechtlichen Vorteile.Die Beklagte ist auch nicht verpflichtet, im Wege einer sekundären Darlegungslast dazu vorzutragen, wann genau wer in ihrem Unternehmen Kenntnis erlangt hat von der Manipulation der Motorensteuerungssoftware. Die Schwierigkeiten, die sich dem Kläger stellen, weil er zu Vorgehen innerhalb der Beklagten vortragen müsste, sind grundsätzlich nicht ungewöhnlich, wenn es um die deliktische Haftung eines Unternehmens für Handeln von Angestellten des Unternehmens geht. Die Figur einer sekundären Darlegungslast dient nicht dazu, einen Kläger ganz allgemein bei der Durchsetzung streitiger Ansprüche zu unterstützen und ihm erst die Grundlage für einen schlüssigen und substantiierten Tatsachenvortrag zu verschaffen. Die Staatsanwaltschaft München II hat zwar mittlerweile Anklage gegen ... erhoben, ein Nachweis, dass dieser bereits 2014 und früher Kenntnis von den Manipulationen hatte, ist jedoch noch nicht erbracht. Kenntnis wird erst 2015 sicher angenommen.Ein Schaden der Klagepartei kann auch nicht in eingeschränkten Nutzungsmöglichkeiten des Fahrzeugs bestehen. Die Klagepartei hat das angebotene Software-Update bereits durchgeführt. Der Entzug der Zulassung für das Fahrzeug ist daher nicht zu erwarten. Da das Software-Update auch gerade in Abstimmung mit dem KBA erfolgte, droht dem Kläger nicht ernsthaft die Gefahr rechtlich nachteiliger Maßnahmen.II.Die Klagepartei hat mangels Anspruchs in der Hauptsache keinen Anspruch auf Erstattung vorgerichtlicher Rechtsanwaltskosten nebst Zinsen.III.Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2402390.html (https://oj.is/2402390)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

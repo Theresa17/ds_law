@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungUrteil vom 22.09.2021 - 17 U 51/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Urteil vom 22.09.2021 - 17 U 51/21
+                      m. Fundstelle
+                      OLG Köln, Urteil vom 22.09.2021 - 17 U 51/21 = openJur 2021, 33342
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Urteil vom 22.09.2021 - 17 U 51/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 33342
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 7 O 298/20
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Auf die Berufung des Klägers wird das am 20. April 2021 verkündete Urteil der 7. Zivilkammer des Landgerichts Bonn - 7 O 298/20 - aufgehoben und die Sache zu erneuten Verhandlung und Entscheidung - auch über die Kosten des Berufungsverfahrens - an das Landgericht Bonn zurückverwiesen.Das Urteil ist vorläufig vollstreckbar.Die Revision wird nicht zugelassen.  
+				Gründe
+				I.Der Kläger erwarb am 27.09.2019 (Bl. 50) bei dem Inhaber eines Metallbaubetriebes einen gebrauchten PKW A 2.0 TDI, der von der Beklagten hergestellt und am 07.12.2015 erstmals zugelassen worden war, zu einem Kaufpreis in Höhe von 20.610 €. Das Fahrzeug hatte einen Kilometerstand von 94.000 km. In dem Fahrzeug ist ein Dieselmotor mit der Bezeichnung EA 288 (Abgasnorm EU 6) verbaut, der ebenfalls von der Beklagten hergestellt wurde. Das Fahrzeug enthält zur Abgasreinigung einen SCR-Katalysator, der mit einer Harnstofflösung (AdBlue) betrieben wird. Für das streitgegenständliche Fahrzeugmodell erteilte das Kraftfahrtbundesamt eine Typengenehmigung.Mit Schreiben seines Prozessbevollmächtigten vom 20.05.2020 (71 ff. GA) machte der Kläger gegen die Beklagte einen Schadensersatzanspruch wegen der Verwendung einer unzulässigen Abschalteinrichtung geltend.Ein Rückruf des Kraftfahrtbundesamtes ist für das streitgegenständliche Fahrzeugmodell bislang nicht erfolgt. Am 2. März 2021 (mündliche Verhandlung vor dem Landgericht) wies das Fahrzeug des Klägers einen Kilometerstand von 108.257 km auf.Der Kläger ist der Ansicht, er habe gegenüber der Beklagten einen Schadensersatzanspruch wegen vorsätzlicher sittenwidriger Schädigung gemäß § 826 BGB. Er trägt zur Begründung vor, dass das Fahrzeug mit unzulässigen Abschalteinrichtungen versehen sei, nämlich- mit einer unzulässigen Fahrkurvenerkennung, die das Durchfahren des NEFZ erkenne und nach deren Erkennung in einen sauberen Modus schalte, der außerhalb des Testbetriebes deaktiviert sei,- mit einem unzulässigen Thermofenster,- mit einer Manipulation der Ad-Blue-Einspritzung für den SCR-Katalysator, der nur im Prüfstand ausreichend AdBlue verwende, so dass die Grenzwerte eingehalten würden, aber im Normalbetrieb mit geringerer Dosierung bis hin zu deren Abschaltung die Grenzwerte überschreite,- mit einer unzulässigen Zykluserkennung und späteren Löschung der "Fahrkurve" aus dieser Prüfstanderkennung, um die Ausstattung der Fahrzeuge mit einer solchen unzulässigen Abschalteinrichtung zu vertuschen,- mit einer unzulässigen Abschaltung bei bestimmten Drehzahl- und Drehmomentbereichen, so dass außerhalb des Prüfstandes zu viele Schadstoffe ausgestoßen würden,- mit einer unzulässigen Akustikfunktion, die Prüfstand bzw. den NEFZ-Test erkenne- mit einer unzulässigen Aufwärmfunktion in Form einer Aufwärmstrategie, die eine Prüfstandsituation erkenne und in einen Fahrmodus mit weniger Schadstoffausstoß schalte,- mit einer zeitbasierten Erkennung des Testzyklus auf dem Rollenprüfstand,- mit einer eine unzulässigen Lenkwinkelerkennung, die auf das Getriebe einwirke und auf dem Prüfstand zu einem niedrigeren Ausstoß von Stickoxiden und CO2 führe.Auch habe die Beklagte über das On-Board-Diagnosesystem (OBD) getäuscht. Ein ordnungsgemäß funktionierendes System würde die Abschaltung von Abgaseinrichtungen außerhalb des Normalbetriebs melden. Durch die unzulässigen Abschalteinrichtungen habe die Beklagte die Kunden betrogen und die Zulassung durch das Kraftfahrbundesamt erschlichen. Die Beklagte habe von dem Einbau der Abschalteinrichtungen in das streitgegenständliche Fahrzeug gewusst. Ihr Vorstand sei in die entsprechenden Vorgänge eingeweiht gewesen.Der Kläger hat beantragt,1. die Beklagte zu verurteilen, an ihn 17.100,02 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 09.06.2020 zu bezahlen, Zugum-Zug gegen Übereignung und Herausgabe des PKW VW A 2.0 TDI, FIN: B,2. festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag Ziffer 1. genannten PKW im Annahmeverzug befindet,3. die Beklagte zu verurteilen, ihn von den durch die Beauftragung seiner Prozessbevollmächtigten entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.266,16 € nebst Zinsen in Höhe von 5 Prozentpunkten seit dem 09.06.2020 freizustellen.Die Beklagte hat beantragt,die Klage abzuweisen.Die Beklagte bestreitet, dass in dem Fahrzeug unzulässige Abschalteinrichtungen zum Einsatz kämen. Insbesondere habe sie im November 2015 entschieden, bei EA 288-Fahrzeugen mit SCR-Technologie die Fahrkurve zu entfernen und generell ab dem Modelljahreswechsel der Kalenderwoche 22 des Jahres 2016 bei allen EA 288-Fahrzeugen (SCR- wie NSK-Technologie) nicht mehr zu verwenden. Dies sei Gegenstand der Applikationsrichtlinie EA 288 vom 18.11.2015 gewesen, die mit Schreiben vom 29.12.2015 dem KBA übersandt worden sei.Die Beklagte ist der Ansicht, dass der Vortrag des Klägers nicht hinreichend substantiiert sei, da er keine konkreten Anhaltspunkte vortrage, die im Hinblick auf das streitgegenständliche Fahrzeug darauf hindeuten könnten, dass dieses eine unzulässige Abschalteinrichtung enthalte.Das Landgericht hat die Klage als nicht hinreichend substantiiert abgewiesen. Der Vortrag des Klägers erweise sich als Behauptung "ins Blaue hinein". Auf das Urteil (736 - 750 GA) wird - auch wegen der weiteren Einzelheiten des Sach- und Streitstandes - ergänzend Bezug genommen.Der Kläger hat seinen Sachvortrag mit der rechtzeitig eingelegten Berufung wiederholt und vertieft. Im Einzelnen wird auf die Berufungsbegründung vom 22. Juni 2021 (773- 804 GA) Bezug genommen.Er beantragt,unter Abänderung des angefochtenen Urteils1. die Beklagte zu verurteilen, an ihn 17.100,02 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 09.06.2020 zu bezahlen, Zugum-Zug gegen Übereignung und Herausgabe des PKW VW A 2.0 TDI, FIN: B,2. festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag Ziffer 1. genannten PKW im Annahmeverzug befindet,3. die Beklagte zu verurteilen, ihn von den durch die Beauftragung seiner Prozessbevollmächtigten entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.266,16 € nebst Zinsen in Höhe von 5 Prozentpunkten seit dem 09.06.2020 freizustellen.Hilfsweise beantragt er,den Rechtsstreit an das Landgericht zurückzuverweisen.Die Beklagte beantragt,die Berufung des Klägers zurückzuweisen.Zur Begründung wird auf die Berufungserwiderung vom 9. August 2021 (833 - 377 GA) verwiesen. In der mündlichen Verhandlung hat der Prozessbevollmächtigte der Beklagten klargestellt, dass eine Fahrkurvenerkennung immer noch vorhanden, diese aber nach Auffassung der Beklagten keine unzulässige Abschalteinrichtung darstelle.II.Die zulässige, insbesondere form- und fristgerecht eingelegte und begründete Berufung des Klägers hat vorläufigen Erfolg.Das erstinstanzliche Verfahren leidet an einem wesentlichen Mangel, aufgrund dessen eine umfangreiche Beweiserhebung notwendig und eine Zurückverweisung der Sache an das Landgericht gemäß § 538 Abs. 2 Nr. 1 ZPO gerechtfertigt ist. Zu Verfahrensfehlern in diesem Sinne zählt insbesondere die mangelhafte Tatsachenfeststellung und das Übergehen eines Beweisangebots (vgl. nur Zöller/Heßler, ZPO, 33. Auflage, § 538 Rn 25 mwN). Außerdem liegt ein Verstoß gegen Art. 103 Abs. 1 GG vor. Das Gebot des rechtlichen Gehörs verpflichtet das Gericht, die Ausführungen der Prozessbeteiligten zur Kenntnis zu nehmen und in Erwägung zu ziehen. Es soll als Prozessgrundrecht sicherstellen, dass die Entscheidung frei von Verfahrensfehlern ergeht, welche ihren Grund in unterlassener Kenntnisnahme und Nichtberücksichtigung des Sachvortrags der Parteien haben. In diesem Sinne gebietet Art. 103 Abs. 1 GG in Verbindung mit den Grundsätzen der Zivilprozessordnung die Berücksichtigung erheblicher Beweisanträge. Die Nichtberücksichtigung eines erheblichen Beweisangebots verstößt gegen Art. 103 Abs. 1 GG, wenn sie im Prozessrecht keine Stütze findet. Das ist unter anderem dann der Fall, wenn die Nichtberücksichtigung des Beweisangebots darauf beruht, dass das Gericht verfahrensfehlerhaft überspannte Anforderungen an den Vortrag einer Partei gestellt hat (vgl. BGH, NJW 2019, 3236 f. = juris Rn 6 mwN).Sachvortrag zur Begründung eines Anspruchs ist dann schlüssig und erheblich, wenn die Partei Tatsachen vorträgt, die in Verbindung mit einem Rechtssatz geeignet und erforderlich sind, das geltend gemachte Recht als in der Person der Partei entstanden erscheinen zu lassen. Die Angabe näherer Einzelheiten ist nicht erforderlich, soweit diese für die Rechtsfolgen nicht von Bedeutung sind. Das gilt insbesondere dann, wenn die Partei keine unmittelbare Kenntnis von den Vorgängen hat. Das Gericht muss nur in die Lage versetzt werden, aufgrund des tatsächlichen Vorbringens der Partei zu entscheiden, ob die gesetzlichen Voraussetzungen für das Bestehen des geltend gemachten Rechts vorliegen. Sind diese Anforderungen erfüllt, ist es Sache des Tatrichters, in die Beweisaufnahme einzutreten und dabei gegebenenfalls die benannten Zeugen oder die zu vernehmende Partei nach weiteren Einzelheiten zu befragen oder einem Sachverständigen die beweiserheblichen Streitfragen zu unterbreiten (BGH, aaO Rn 10; NJW 2020, 1740 ff. = juris Rn 7; MDR 2019, 434 f. = juris Rn 9).Weiter ist es einer Partei grundsätzlich nicht verwehrt, eine tatsächliche Aufklärung auch hinsichtlich solcher Umstände zu verlangen, über die sie selbst kein zuverlässiges Wissen besitzt und auch nicht erlangen kann, die sie aber nach Lage der Verhältnisse für wahrscheinlich oder möglich hält. Dies gilt insbesondere dann, wenn sie sich - wie hier der Kläger - nur auf vermutete Tatsachen stützen kann, weil sie mangels Sachkunde und Einblick in die Produktion des von der Gegenseite hergestellten und verwendeten Fahrzeugmotors einschließlich des Systems der Abgasrückführung oder -verminderung keine sichere Kenntnis von Einzeltatsachen haben kann (vgl. BGH, MDR 2019, 825 f. = juris Rn 13). Eine Behauptung ist erst dann unbeachtlich, wenn sie ohne greifbare Anhaltspunkte für das Vorliegen eines bestimmten Sachverhalts willkürlich "aufs Geratewohl" oder "ins Blaue hinein" aufgestellt worden ist. Bei der Annahme von Willkür in diesem Sinne ist Zurückhaltung geboten; in der Regel wird sie nur beim Fehlen jeglicher tatsächlicher Anhaltspunkte gerechtfertigt werden können (BGH, NJW 2020, 1740 ff. = juris Rn 8 mwN).Diese strengen Voraussetzungen für eine Behauptung "ins Blaue hinein" liegen im Streitfall nicht vor. Das Landgericht hat unter Überspannung der Substantiierungsanforderungen die Darlegung von Einzelheiten verlangt, die für die rechtliche Schlüssigkeit des Klägervorbringens nicht erforderlich sind, sondern von ihm allein unter dem Gesichtspunkt der Nachvollziehbarkeit der klägerischen Behauptungen verlangt worden sind. Dabei hat es verkannt, dass der Kläger, der mangels eigener Sachkunde und hinreichenden Einblicks in die Konzeption und Funktionsweise des in seinem Fahrzeug eingebauten Motors einschließlich des Systems zur Verringerung des Stickoxidausstoßes keine genauen Kenntnisse von dem Vorhandensein und der konkreten Wirkung einer Abschalteinrichtung haben kann, ausreichend greifbare Anhaltspunkte vorgebracht hat, auf die er letztlich seinen Vorwurf stützt, sein Fahrzeug sei in mehrfacher Hinsicht mit einer unzulässigen Abschalteinrichtung im Sinne des Art. 5 Abs. 2 Satz 1 VO 715/2007/EG ausgestattet (vgl. BGH, aaO Rn 9).Insbesondere die Behauptung der Beklagten, dass das KBA keine unzulässigen Abschalteinrichtungen festgestellt habe, erscheint angesichts des Versagens dieser Behörde im Dieselskandal nicht geeignet, die Schlüssigkeit des klägerischen Sachvortrags ausnahmsweise als ohne jegliche Anhaltspunkte abzuwerten. Vielmehr kommt der vielfach bestätigten Behauptung des Klägers, es handele sich um unterschiedliche Programme zur Erkennung der Prüfstandsbedingungen, die Bedeutung für die Möglichkeit einer besonders verwerflichen Gesinnung der im Hause der Beklagten für die Motorenentwicklung verantwortlichen Personen, namentlich der vormaligen Leiter der Entwicklungsabteilung und der für die Forschungs- und Entwicklungsaktivitäten der Beklagten verantwortlichen vormaligen Vorstände zu, die der BGH als zusätzlicher Umstand für die Annahme einer sittenwidrigen Schädigung nach §§ 826, 31 BGB voraussetzt. Ob die konkret vom Kläger behaupteten unterschiedlichen Abschalteinrichtungen mit Prüfstandserkennung tatsächlich vorliegen, hätte das Landgericht durch Beweisaufnahme klären müssen. Dies muss nun von ihm nachgeholt werden.Die Kostenentscheidung ist dem Landgericht vorzubehalten, da der Umfang des gegenseitigen Obsiegens oder Unterliegens noch nicht absehbar ist.Auch wenn das Urteil keinen vollstreckungsfähigen Inhalt im eigentlichen Sinne hat, denn das angefochtene Urteil tritt bereits mit der Verkündung des aufhebenden Urteils außer Kraft (§ 717 Abs. 1 ZPO), ist die Entscheidung für vorläufig vollstreckbar zu erklären, da gemäß §§ 775 Nr. 1 und 776 ZPO das Vollstreckungsorgan die Vollstreckung aus dem erstinstanzlichen Urteil erst aufheben darf, wenn eine vollstreckbare Ausfertigung vorgelegt wird (MK-ZPO/Götz, 6. Aufl., § 704 Rn 6; Zöller/Heßler, aaO Rn 59; Seiler in Thomas/Putzo, ZPO, 42. Aufl., § 708 Rn 11). Aus § 708 Nr. 10 ZPO ergibt sich die Vollstreckbarkeit ohne Sicherheitsleistung. Für eine Abwendungsbefugnis gemäß § 711 ZPO besteht kein Raum, da es an einem Vollstreckungsinhalt im eigentlichen Sinne mangelt.Die Revision wird nicht zugelassen, da die Rechtssache keine grundsätzliche Bedeutung hat und es einer Entscheidung des Revisionsgerichts zur Fortbildung des Rechts oder der Sicherung einer einheitlichen Rechtsprechung nicht bedarf (§ 543 Abs. 2 ZPO).Der Gebühren-Streitwert für das Berufungsverfahren wird gemäß § 63 Abs. 2 GKG auf 16.711,15 € festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2363603.html (https://oj.is/2363603)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

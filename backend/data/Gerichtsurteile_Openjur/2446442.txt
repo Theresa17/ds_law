@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG SchweinfurtRechtsprechungEndurteil vom 15.03.2022 - 24 O 625/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Schweinfurt, Endurteil vom 15.03.2022 - 24 O 625/21
+                      m. Fundstelle
+                      LG Schweinfurt, Endurteil vom 15.03.2022 - 24 O 625/21 = openJur 2022, 15142
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Schweinfurt, Endurteil vom 15.03.2022 - 24 O 625/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 15142
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 43.399,83 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten über Schadensersatz wegen behaupteter unzulässiger Abschalteinrichtungen im Fahrzeug des Klägers.Der Kläger erwarb am 28.11.2017 von der in ... W. das Fahrzeug Audi Q5, FIN zum Kaufpreis von 50.455,00 €. Im Fahrzeug ist ein EA 288-Dieselmotor der Beklagten mit der Abgasnorm Euro-6 verbaut. Zum Zeitpunkt der Klageeinreichung betrug der Kilometerstand des Fahrzeugs ca. 41.951 km; der aktuelle Kilometerstand beläuft sich auf 48.127 km.Für das Fahrzeug gibt es keinen amtlichen Rückrufbescheid des Kraftfahrt-Bundesamts (KBA) im Zusammenhang mit seinem Emissionsverhalten.Der Kläger behauptet im Wesentlichen, der streitgegenständliche Motor sei - ähnlich wie beim EA 189 - nur aufgrund unzulässiger Abschalteinrichtungen in der Lage, die geltenden Emissionsgrenzwerte einzuhalten. Es werde eine Software eingesetzt, die ausschließlich für den Prüfbetrieb eine Motoreinstellung bereithalte, die die Einhaltung der gesetzlichen Grenzwerte gewährleiste. Wie bereits beim Motor EA 189 erfolge die Prüfstandserkennung anhand einer Zykluserkennung nach dem NEFZ sowie durch das Thermofenster.Belegt werde dies durch vertrauliche VW-Dokumente. Aus dem "Statusbericht Diesel" (Anlage K4) ergebe sich, dass auch im EA 288 sowohl eine Zykluserkennung als auch eine Umschaltstrategie vorhanden sei. Ebenfalls ergebe sich hieraus die unzulässige Nutzung eines Thermofensters. Auch aus den Applikationsrichtlinien zu den Motoren EA 288 und EA 189 (Anlagen K5 und K6) ergebe sich, dass eine vorhandene Zykluserkennung alleine die Funktion habe, die Prüfsituation auf dem Prüfstand zu erkennen.Messwerte von Fahrzeugen mit dem streitgegenständlichen Motor wiesen im realen Fährbetrieb eine deutliche Überschreitung des für die Schadstoffklasse Euro 6 geltenden gesetzlichen Grenzwerts von 80 mg/Km auf. Dies zeigten Messergebnisse der Deutschen Umwelthilfe bei diversen Fahrzeugen mit einem verbauten Motor der Baureihe EA 288.Es seien bereits 80.000 VW T6 Fahrzeuge mit dem Motor EA 288 verpflichtend zurückgerufen worden. Die Beklagte wolle durch "freiwillige" Servicemaßnahmen einem offiziellen Rückruf von Seiten des Kraftfahrbundesamtes lediglich zuvorkommen. Im Übrigen ändere die Tatsache, dass das streitgegenständliche Fahrzeug nicht verpflichtend zurückgerufen worden sei, nichts an der Betroffenheit vom Abgasskandal. Selbst wenn durch ein entsprechendes Software-Update die Zykluserkennung entfernt würde, bleibe mit dem Thermofenster eine weitere illegale Abschalteinrichtung vorhanden.Auch das On-Board-Diagnosesystem sei dahingehend manipuliert, dass es das Zurückfahren der Abgasregelung bis zur vollständigen Abschaltung nicht melde und hier auch keinen Fehler im Speicher ablege.Die Betroffenheit des EA 288 vom Abgasskandal ergebe sich zudem aus einer Vielzahl von Veröffentlichungen in den Medien.Der Kläger meint, ihm stehe ein auf Rückabwicklung des Kaufvertrags aus § 826 BGB sowie aus §§ 823 Abs. 2, 31 BGB i.V.m. § 263 StGB und §§ 823 Abs. 2, 31 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGVzu.Der Kläger hat zunächst beantragt,(1.) die Beklagte zu verurteilen, an die Klagepartei Schadenersatz i.H.v. 43.399,83 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 25.08.2021 zu zahlen, Zug um Zug gegen Übereignung und Übergabe des Fahrzeugs Audi Q5 mit der FIN ...,(2.) festzustellen, dass sich die Beklagte mit der Rücknahme des Fahrzeuges Audi Q5 mit der FIN ... seit dem 25.08.2021 im Annahmeverzug befindet, und(3.) die Beklagte zu verurteilen, an die Klagepartei die durch die Beauftragung des Prozessbevollmächtigten entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 950,45 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 25.08.2021 zu zahlen.Im Termin vom 01.02.2022 hat der Kläger den Rechtsstreit im Umfang von 1.038,71 € teilweise für erledigt erklärt. Die Beklagte hat sich der Teilerledigterklärung nicht angeschlossen.Der Kläger beantragt zuletzt,1. Die Beklagte wird verurteilt, an die Klagepartei Schadenersatz i.H.v. 42.361,12 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 25.08.2021 zu zahlen, Zug um Zug gegen Übereignung und Übergabe des Fahrzeugs Audi Q5 mit der FIN ...2. Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des Fahrzeuges Audi Q5 mit der FIN seit dem 25.08.2021 im Annahmeverzug befindet.3. Die Beklagte wird verurteilt, an die Klagepartei die durch die Beauftragung des Prozessbevollmächtigten entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 950,45 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 25.08.2021 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet im Wesentlichen, es sei unzutreftend, dass im streitgegenständlichen Fahrzeug eine unzulässige Abschalteinrichtung zum Einsatz komme, die auch in bestimmten Motorvarianten des Typs EA189 enthalten gewesen sei, also eine Software, die zwischen der Situation auf dem Prüfstand und der Straße differenziere und nur auf dem Prüfstand in einem abgasoptimierten, die Abgasgrenzwerte einhaltenden Modus arbeite. Die Messungen des Kraftfahrbundesamtes zu variierten Prüfbedingungen hätten gezeigt, dass das bei den EA288-Motoren verwendete Abgassystem bei voller Funktionsfähigkeit aller abgasbehandelnden Bauteile die gesetzlich vorgegebenen Abgasgrenzwerte einhalte. Dies erfolge unabhängig von einer Erkennung des Prüfstands und einer angeblich hinterlegten Systematik zu Verbesserung der NOx-Emissionen im Prüfstand.Der Vorwurf einer Fahrkurven- bzw. Zykluserkennung sei bereits im Ansatz verfehlt, weil im streitgegenständlichen Fahrzeug keine Fahrkurvenerkennung hinterlegt sei. Im Übrigen sei eine Fahrkurvenerkennung im Ausgangspunkt eine Softwarefunktion, die erkenne, ob das Fahrzeug einen Prüfzyklus durchfahre, was nicht unzulässig sei. Auch sei eine Fahrkurven- oder Zykluserkennung nicht gleichbedeutend mit einer unzulässigen Abschalteinrichtung. Eine solche liege vielmehr nur dann vor, wenn alle Tatbestandsmerkmale der Abschalteinrichtung erfüllt seien, also eine Fahrkurven- oder Zykluserkennung genutzt werde, um die Funktion eines Teils des Emissionskontrollsystems so zu verändern, dass dessen Wirksamkeit im normalen Fährbetrieb grenzwertkausal verringert werde. Die Messungen des KBA hätten zu variierten Prüfbedingungen gezeigt, dass der streitgegenständliche EA288-Motor bei voller Funktionsfähigkeit aller abgasbehandelnden Bauteile die gesetzlich vorgegebenen Abgasgrenzwerte einhalte. Dies erfolge unabhängig von einer Fahrkurvenerkennung. Die Wirksamkeit des Emissionskontrollsystems werde im normalen Fährbetrieb gegenüber dem Prüfstandsbetrieb nicht in einer Art und Weise verringert, die den Vorwurf einer unzulässigen Abschalteinrichtung begründen könnte. Die Beklagte habe dem Kraftfahrt-Bundesamt im Zuge der Aufarbeitung der Dieselthematik betreffend Fahrzeuge mit EA189-Motor auch unmittelbar nach deren Bekanntwerden am 02.10.2015 vorgestellt, dass in Fahrzeugen mit EA288-Motor eine Fahrkurvenerkennung hinterlegt sei, an die indes nicht die aus den EA189-Fahrzeugen bekannte Umschaltlogik geknüpft sei, durch die Emissionen in grenzwertrelevanter Weise auf dem Prüfstand reduziert würden. Da infolge der Umschaltlogik in den EA189-Fahrzeugen eine generelle Verunsicherung in den Fachabteilungen über die Verwendung von Fahrkurven bestanden habe, habe die Beklagte trotz der grundlegenden konzeptionellen Unterschiede der Aggregate auch für die EA288-Fahrzeuge im November 2015 entschieden, die Akustikfunktion bzw. Fahrkurvenerkennung bei den EA288-Aggregaten mit SCR-Technologie ab November 2015 zu entfernen und generell ab dem Modelljahreswechsel der Kalenderwoche 22 des Jahres 2016 bei allen EA288-Fahrzeugen nicht mehr zu verwenden. Das Instrument, mit dem VWintern eine solche Änderung der Bedatung des Motorsteuergerätes festgelegt worden sei, sei die sogenannte "Applikationsrichtlinie" gewesen. NSK-Fahrzeuge enthielten als Abgasnachbehandlungssystem den NOx-Speicher-Katalysator. Auf diesem würden auf einer katalytisch beschichteten Oberfläche die NOx während des Fährbetriebs zunächst in einem Speicher eingelagert, was wiederum eine daran anknüpfende regelmäßige Regeneration erforderlich mache. Bis zum Modelljahreswechsel in der Kalenderwoche 22 des Jahres 2016 habe sich die NSK-Regeneration im realen Straßen betrieb je nach Fahrprofil bei den EA288-EU6-Motoren strecken- und beladungsgesteuert ca. alle fünf gefahrene Kilometer bzw. nach voller Beladung vollzogen, je nachdem, welches Ereignis vorher eingetreten sei. Aufgrund dieser ca. alle fünf Kilometer erfolgenden Regenerationsintervalle würde die Anzahl der Regenerationen, die während des gesetzlichen Prüfzyklus NEFZ gefahren werden, davon abhängen, in welchem Beladungszustand der NSK sich zu Beginn des Prüfzyklus befinde. Um dieses Problem zu vermeiden und zur Gewährleistung einer sowohl repräsentativen wie reproduzierbaren NEFZ-Messung sei es deshalb in den Fällen eines ca. alle fünf Kilometer regenerierenden NSK erforderlich, darauf zu achten, dass der NEFZ-Prüfzyklus mit einem leeren oder fast leeren NSK beginne. Die Fahrkurvenerkennung habe insbesondere bewirkt, dass der NSK am Ende der einem NEFZ stets vorgeschalteten Vorkonditionierungsfahrt vollständig regeneriert worden sei. Bei EA288-SCR-Fahrzeugen habe die Fahrkurvenerkennung im Wesentlichen bewirkt, dass nach Erreichen der für die optimale Funktionsfähigkeit des SCR erforderlichen Betriebstemperatur von ca. 200 Grad eine bis dahin hohe Abgasrückführungsrate weiter parallel bestehen geblieben sei. Denn das Beibehalten der hohen AGR-Rate im allerletzten Teil des Prüfzyklus im NEFZ habe entweder überhaupt keine messbaren Auswirkungen oder sie seien jedenfalls nicht relevant für das Einhalten des gesetzlich vorgeschriebenen Emissionsgrenzwerts von 80 mg/km.Die im Fahrzeug verbaute temperaturabhängige Abgasrückführung sei technischphysikalisch unverzichtbar, andernfalls drohten Motorschäden und Risiken im sicheren Fährbetrieb. Thermofenster stellten aus rechtlicher Sicht entweder bereits keine Abschalteinrichtung dar, weil sie nur praktisch nicht vorkommende Extremtemperaturen außerhalb der bei "normalem Fährbetrieb" vernünftigerweise zu erwartenden Bedingungen aktiv seien oder sie erwiesen sich jedenfalls als rechtlich zulässig im Sinne des Art. 5 Abs. 2 Satz 2 a) der VO (EG) Nr. 715/2007. Im streitgegenständlichen Fahrzeug sei die Abgasrückführung bei einer Außentemperatur zwischen -24° bis +70° zu 100% aktiv.Das OBD-System überwache nur die abgasbeeinflussenden Systeme, wirke auf diese aber nicht ein. Es handele sich daher bereits tatbestandsmäßig nicht um eine Abschalteinrichtung.Wegen der Einzelheiten wird auf die zwischen den Parteien gewechselten Schriftsätze samt Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage hat in der Sache keinen Erfolg.A.Dem Kläger steht ein dem Antrag zu Ziffer 1. zugrundeliegender Schadensersatzanspruch unter keinem rechtlichen Gesichtspunkt zu (siehe unter I.). Daher ist auch die Klage im Übrigen unbegründet (siehe unter II.).Der Klageantrag zu Ziffer 1. ist unbegründet, da der Kläger gegen die Beklagte keinen Anspruch auf Schadensersatz wegen einer behaupteten Manipulation des streitgegenständlichen Fahrzeugs hat. Ein solcher Anspruch steht dem Kläger unter keinem rechtlichen Gesichtspunkt zu.1. Ein Anspruch des Klägers folgt nicht aus §§ 826, 31 BGB. Dies deshalb nicht, weil er entgegen der ihn treffenden Darlegungs- und Beweislast (siehe Wagner, in: Münchener Kommentar zum BGB, 8. Auflage 2020, § 826 Rn. 55) die Voraussetzungen eines solchen Anspruchs schon nicht hinreichend substantiiert dargetan hat.a) Sittenwidrig ist ein Verhalten, das gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt (Wagner, a.a.O., § 826 Rn. 9). Dafür genügt nicht schon der Verstoß gegen vertragliche oder gesetzliche Pflichten; vielmehr muss eine besondere Verwerflichkeit des Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zu Tage tretenden Gesinnung oder den eingetretenen Folgen ergeben kann (BGH NJW 2014, 1380 Rn. 8). Schon zur Feststellung der Sittenwidrigkeit kann es daher auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen. Die Verwerflichkeit kann sich auch aus einer bewussten Täuschung ergeben (BGH WM 2016, 1975 Rn. 16). Eine Sittenwidrigkeit kommt in diesem Zusammenhang insbesondere in Betracht, wenn das Bewusstsein vorhanden ist, möglicherweise gegen gesetzliche Vorschriften zu verstoßen, und dieser Gesetzesverstoß billigend in Kauf genommen wird (vgl. OLG Stuttgart, Urteil vom 30.07.2019-Az. 10 U 1347/19).b) Gemessen an diesen Anforderungen kann dem klägerischen Sachvortrag kein sittenwidriges Verhalten der Beklagten entnommen werden.aa) Das Gericht vermag vorliegend nicht darauf zu schließen, dass die Beklagte bei der Entscheidung zum Einbau eines Thermofensters in den konkreten Motor des Fahrzeugs des Klägers in sittenwidriger Weise gehandelt hat. Anders als eine Software zur Prüfstanderkennung zielt das Thermofenster selbst nach dem Vortrag des Klägers nicht darauf ab, auf dem Prüfstand und auf der Straße per se unterschiedliche Abgasrückführungsmodi zu aktivieren. Vielmehr wird die Abgasrückführung temperaturabhängig stärker oder weniger stark aktiviert. Wenn das für das Fahrzeug des Klägers in Rede stehende Thermofenster aber schon nicht zwischen Prüfstand und realem Betrieb unterscheidet, sondern sich nach der Umgebungstemperatur richtet, ist es nicht offensichtlich auf eine "Überlistung" der Prüfungssituation ausgelegt (siehe BGH, SVR 2021, 100).Unabhängig hiervon gilt, dass ein Thermofenster gemäß Art. 5 Abs. 2 Satz 2 lit. a der VO (EG) 715/2007 nicht grundsätzlich verboten, sondern jedenfalls dann zulässig ist, "wenn die Einrichtung notwendig ist, um den Motor vor Beschädigung oder Unfall zu schützen und um den sicheren Betrieb des Fahrzeugs zu gewährleisten". Hieraus folgt, dass bei Abschalteinrichtungen, die vom Grundsatz her im normalen Fährbetrieb in gleicher Weise arbeiten wie auf dem Prüfstand, ohne konkrete Anhaltspunkte nicht ohne Weiteres angenommen werden kann, dass die Beklagte bzw. deren Verantwortliche in dem Bewusstsein gehandelt haben, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden. Jedenfalls solange Gesichtspunkte des Motor- bzw. Bauteilschutzes als Rechtfertigung ernsthaft angeführt werden können, scheidet solch eine Annahme aus (vgl. OLG Bamberg, Hinweisbeschluss vom 31.03.2020, Az. 3 U 57/19 = BeckRS 2020, 9901). Hierbei ist zu berücksichtigen, dass die Kriterien, aus denen sich eine aus Bauteilschutzgesichtspunkten zulässige Abschaltvorrichtung ergibt, nicht eindeutig bestimmt und in Rechtsprechung wie Literatur umstritten sind (vgl. dazu umfassend OLG Brandenburg, Urteil vom 19.12.2019, Az. 5 U 103/18 = BeckRS 2019, 33351). Vor diesem Hintergrund kommt ein sittenwidriges Handeln der Beklagten nur unter der Voraussetzung in Betracht, dass sie vorsätzlich und in einer besonders verwerflichen Art und Weise diese rechtliche Grauzone überschritten hat (so auch OLG Bamberg, a.a.O.). Greifbare Anhaltspunkte für ein solches vorsätzliches und in einer besonders verwerflichen Art und Weise erfolgtes Überschreiten dieser rechtlichen Grauzone hat der Kläger allerdings nicht vorgetragen.bb) Wenn der Motor des streitgegenständlichen Fahrzeugs - was die Beklagte bestreitet - über eine Fahrkurvenerkennung verfügte, würde dies ebenfalls nicht zu einer Sittenwidrigkeit des Verhaltens der Beklagten führen.Der Kläger hat dazu lediglich pauschal behauptet, dass die Verwendung einer Fahrkurvenerkennung zu einer Manipulation der Messergebnisse führe und dass dies auch in dieser Absicht erfolgt sei. Er hat allerdings keinen greifbaren Anhaltspunkt hierfür vorgetragen. Damit trägt der Kläger nicht Tatsachen vor, die in Verbindung mit einem Rechtssatz geeignet und erforderlich sind, das geltend gemachte Recht als in der Person der Partei entstanden erscheinen lassen. Der Sachvortrag ist nicht schlüssig und erheblich, sondern vielmehr unbeachtlich, da er ohne greifbare Anhaltspunkte für das Vorliegen eines bestimmten Sachverhalts willkürlich "aufs Geratewohl" oder "ins Blaue hinein" aufgestellt worden ist. Daher war hierüber auch kein Beweis zu erheben, weil dies eine zivilprozessual unzulässige Ausforschung darstellen würde (vgl. hierzu BGH NJW 2020, 1740 [1741]).Hierbei war insbesondere zu berücksichtigen, dass die Beklagte ausführlich zu den technischen Hintergründen der Verwendung der Fahrkurvenerkennung vorgetragen hat. Dabei leuchten die Ausführungen der Beklagten zum Erfordernis reproduzierbarer Messungen im Abgasprüfzyklus auch einem technischen Laien ohne Weiteres ein. Es ist ebenfalls ohne Weiteres nachvollziehbar, dass die Messergebnisse für den jeweiligen Prüfzyklus repräsentativ sein müssen, d.h. die Emissionen abbilden müssen, die das Fahrzeug in dem jeweiligen Prüfzyklus verursacht hat, so dass es erforderlich ist sicherzustellen, dass der NSK des Fahrzeugs zu Beginn eines Prüfzyklus nicht mit zyklusfremd entstandenen Stickoxiden vorbelastet ist. Ob die Beklagte dies durch eine Fahrkurvenerkennung sicherstellt oder durch das "Günstigkeitsprinzip", spielt dabei letztlich keine Rolle, denn beides zielt nach dem Vortrag der Beklagten nicht darauf ab, die Abgaswerte im Prüfzyklus in manipulativer Absicht zu schönen, sondern vielmehr darauf, die technischen Voraussetzungen für reproduzierbare und für den Zyklus repräsentative Messergebnisse sicherzustellen. Der Kläger hat sich mit diesem ausführlichen und sehr substantiierten Vortrag der Beklagten nicht auseinandergesetzt, obwohl er für alle die Sittenwidrigkeit in objektiver wie in subjektiver Hinsicht begründenden Tatsachen die volle Darlegungs- und Beweislast trägt (vgl. BGH NJW 2020, 1962). Es wäre in Reaktion auf den Vortrag der Beklagten an dem Kläger gewesen, durch Vortrag von Substanz Gesichtspunkte aufzuzeigen, die geeignet gewesen wären, den nachvollziehbaren und in sich stimmigen Vortrag der Beklagten zumindest in Zweifel zu ziehen. Da der Kläger dies unterlassen hat, war eine Beweiserhebung zu seiner damit letztlich substanzlos gebliebenen Behauptung einer Verwendung der Fahrkurvenerkennung zur Manipulation der AdBlue-Einspritzung und/oder der Funktion des NOx-Speicherkatalysators und damit der Messergebnisse nicht veranlasst.cc) Die Ausführungen des Klägers zum OBD-System lassen kein vorsätzlich sittenwidriges Verhalten der Beklagten in dem Sinne erkennen, dass darin eine unzulässige Abschalteinrichtung zu sehen wäre. Eine Manipulation des OBD-Systems ist bereits der Sache nach keine unzulässige Abschalteinrichtung. Denn "Abschalteinrichtung" ist gemäß Art. 3 Nr. 10 der VO (EG) Nr. 715/2007 nur "ein Konstruktionsteil, das die Temperatur, die Fahrzeuggeschwindigkeit, die Motordrehzahl (UpM), den eingelegten Getriebegang, den Unterdrück im Einlasskrümmer oder sonstige Parameter ermittelt, um die Funktion eines beliebigen Teils des Emissionskontrollsystems zu aktivieren, zu verändern, zu verzögern oder zu deaktivieren, wodurch die Wirksamkeit des Emissionskontrollsystems unter Bedingungen, die bei normalem Fahrzeugbetrieb vernünftigerweise zu erwarten sind, verringert wird". Das OBD-System selbst ist aber schon auf der Grundlage des Vortrags des Klägers lediglich ein Diagnosesystem, das die Aufgabe hat Fehler des Emissionskontrollsystems zu erkennen und anzuzeigen. Eine Funktionalität dahin, Teile des Emissionskontrollsystems zu aktivieren, zu verändern, zu verzögern oder zu deaktivieren, hat es hingegen selbst nach klägerischem Vortrag nicht. Da weitere Anhaltspunkte für ein vorsätzliches sittenwidriges Verhalten der Beklagten im Übrigen nicht vorliegen, können die diesbezüglichen Behauptungen des Klägers den Vorwurf auch nicht stützen.2. Ein Anspruch folgt auch weder aus §§ 823 Abs. 2, 31 BGB i.V.m. § 263 Abs. 1 StGB noch aus §§ 831, 826 BGB oder aus §§ 280 Abs. 1, 241 Abs. 2 BGB. Denn der Beklagten kann auf dieser Grundlage jedenfalls kein bewusst täuschendes Verhalten vorgeworfen werden. Eine Aufklärung des Klägers über die Funktionsweise des in dem Fahrzeug enthaltenen Thermofensters oder sonstiger möglicher Abschalteinrichtungen musste vor diesem Hintergrund nicht erfolgen.3. Ein Anspruch des Klägers folgt weiterhin nicht aus §§ 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV. Denn bei diesen Normen handelt es sich nicht um Schutzgesetze im Sinne des § 823 Abs. 2 BGB, die den Schutz des Klägers vor dem eingetretenen Schaden bezwecken (vgl. BGH, NJW 2020, 1962 [1970 f.]). Dies gilt auch für die Norm des Art. 5 Abs. 2 VO (EG) Nr. 715/2007.II. Dem Kläger steht in der Folge auch kein Zinsanspruch sowie kein Anspruch auf Erstattung von vorgerichtlichen Rechtsanwaltskosten zu. Mangels Schadensersatzanspruchs ist die Beklagte mit der Rücknahme des streitgegenständlichen Pkw nicht in Annahmeverzug geraten.Die Klage ist auch im Rahmen des einseitig für erledigt erklärten Teils unbegründet.B.Die Kostenentscheidung ergibt sich aus § 91 Abs. 1 Satz 1 ZPO. Die Entscheidung zur vorläufigen Vollstreckbarkeit beruht auf § 709 Sätze 1 und 2 ZPO.C.Die Streitwertfestsetzung folgt aus §§ 63 Abs. 2, 48 Abs. 1 GKG i.V.m. § 3 ZPO. Die Zinsen sowie die vorgerichtlichen Rechtsanwaltskosten bleiben als Nebenforderungen unberücksichtigt (§ 43 Abs. 1 Satz 1 GKG). Dem Feststellungsantrag zu Ziffer 2. war kein eigenständiger Wert zuzumessen (vgl. OLG Naumburg. NJW-RR2012. 1213 [LS]).
+			
+			
+			
+			Permalink: https://openjur.de/u/2446442.html (https://oj.is/2446442)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

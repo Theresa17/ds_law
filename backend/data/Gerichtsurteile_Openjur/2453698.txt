@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG KemptenRechtsprechungEndurteil vom 10.03.2022 - 21 O 1686/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Kempten, Endurteil vom 10.03.2022 - 21 O 1686/21
+                      m. Fundstelle
+                      LG Kempten, Endurteil vom 10.03.2022 - 21 O 1686/21 = openJur 2022, 19484
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Kempten, Endurteil vom 10.03.2022 - 21 O 1686/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 19484
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist für die Beklagte gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 22.638,70 € festgesetzt. 
+				Tatbestand
+				Der Kläger kaufte am 8.2.2018 einen Audi A5, Fahrgestellnummer ...66 zum Preis von 7830 Euro zzgl. Finanzierungskosten. Der Kilometerstand im Zeitpunkt des Kaufs betrug 47500 km. Am 30.7.2021 verkaufte er das Fahrzeug für 5500 Euro mit einem Kilometerstand von 125325 km.In dem Fahrzeug ist ein von der Beklagten entwickelter und hergestellter 3,0-Liter TDI Motor verbaut mit 2967 ccm, der die Anforderungen an die Schadstoffklasse "Euro 5" erfüllen muss.Der Kläger behauptet, dass für das Fahrzeug ein Rückrufbescheid erlassen worden sei, in dem als Grund angegeben sei"Entfernung unzulässige Abschalteinrichtung in bzw. der unzulässigen Reduzierung der Wirksamkeit des Emissionskontrollsystems", vgl. Anlage K 2.Der Zwangsrückruf bestätige, dass die Beklagte eine illegale Abschalteinrichtung verbaut habe. Tests der Deutschen Umwelthilfe hätten ergeben, dass im RDE Test NOx Werte von 1047 mg/Kilometer erreicht wurden, die den offiziellen Grenzwert, der bei 180 mg liegt um das 9,7 fache überschritten.Der Kläger trägt vor, sein Vortrag beziehe sich unabhängig von der internen Motorbezeichnung der Beklagtenseite auf den von der Beklagten hergestellten Motor mit 2967 ccm der Euro 5 Norm.Aufgrund einer Verschleierungstaktik sei es dem Verbraucher nicht möglich ohne weiteres herauszufinden, welcher Motor angeblich in seinem Fahrzeug verbaut ist.Im Motor seien durch die Beklagte mehrere unzulässige Abschalteinrichtungen verbaut worden. Ein verbindlicher Rückruf des KBA sei nicht erforderlich. Es würden auch verschiedene Gerichte von einer unzulässigen Abschalteinrichtung ausgehen. Für einige Modelle der Audi  AG mit dem gegenständlichen Motor sei vom KBA ein Rückruf angeordnet worden. Für Fahrzeuge der Emissionsklasse 5 liege ebenfalls ein verpflichtender Rückruf vor. Dieser Rückruf werde wie auch der bezüglich der Euro 6 Fahrzeuge unter dem Rückrufcode 23X6 durchgeführt.Laut diesem Rückrufbescheid verwende die Beklagte im Motor mit der Emissionsklasse Euro 6 verschiedene Strategien im Emissionskontrollsystem, die in den Strategien A bis C dargestellt würden. Diese bezögen sich zwar auf einen SCR Katalysator, welcher im streitgegenständlichen Fahrzeug nicht verbaut wurde. Allerdings liege die Annahme nahe, dass bei den Fahrzeugen der Emissionsklasse Euro 5 ebenfalls mit unterschiedlichen Strategien gearbeitet werde, welche anhand von verschiedensten Parametern erkannten, ob sich das Fahrzeug auf einem Prüfstand befindet.Die Vorstände der Beklagten hätten Kenntnis von der Verwendung der unzulässigen Abschalteinrichtung gehabt. Dies seien Ulrich Hackenberg, der seit Juli 2013 Entwicklungschef bei der Beklagten gewesen sei.Mit legalen Möglichkeiten seien die Grenzwerte nicht einzuhalten gewesen. Die Entwicklungsingenieure der Beklagten hätten gewusst, dass im Hause Bosch eine Software verfügbar sei, die für Testzwecke programmiert eingesetzt werden konnte, um im Fall eines Abgastests die Messwerte für NOx in ihrem Sinne zu manipulieren und so die Grenzwerte der Euro 5 Norm zum Zwecke der Erlangung der Typengenehmigung für die fraglichen Motoren zu unterschreiten. Der Einbau der verbotenen Abschalteinrichtung sei in dem Wissen erfolgt, dass sie gegen geltendes Recht verstoße. Sämtliche beteiligte Ingenieure einschließlich Dr. W. und später Matthias Müller und Herbert Diess hätten vorsätzlich gehandelt. Es sei bewusst entschieden worden, die Betrugssoftware zu entwickeln und bei allen Marken die einen Motor ihrer 288 verwenden zu implementieren. Nur so sei es möglich gewesen, preiswerte scheinbar saubere Dieselfahrzeuge hoher Stückzahl zu veräußern.Das Fahrzeug weise zudem ein Thermofenster auf. Es sei bereits rechtswidrig, dass die Beklagte dieses im Typengenehmigungsverfahren nicht offenbart habe.Der Kläger beantragt zuletzt,Die Beklagte wird verurteilt, an die Kläger Partei 10050,59 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, dass im Klägerfahrzeug kein Motor des Typs EA 189, sondern ein Motor des Typs V-TDI Typ EA896Gen2 verbaut sei.Hinsichtlich dieses Motortyps gebe es keinen amtlichen und für den Kunden verbindlichen Rückruf des Kraftfahrtbundesamts in Zusammenhang mit einer unzulässigen Abschalteinrichtung. Das Fahrzeug sei mehrfach vom KBA geprüft worden und enthalte keine vom KBA als unzulässig eingestufte Abschalteinrichtung, was dieses mittels amtlicher Auskunft, Anlage B1 bestätigt habe.Ein dem streitgegenständlichen Motor vergleichbarer Motor sei im Rahmen der Untersuchungskommission Volkswagen untersucht worden und weise entsprechend des Berichts ein anderes Abgasverhalten als Fahrzeuge mit einem EA189 Motor auf.Der streitgegenständliche Motor weise die beim Motor EA 189 verbaute Umschaltlogik nicht auf. Das Thermofenstern bewirke, dass außerhalb bestimmter Temperaturbedingungen eine Korrektur der Abgasrückführungsrate vorgenommen werde, die dem Schutz bestimmter Bauteile unter- und oberhalb festgelegter Temperaturen diene.Bei dem sog. Thermofenster handele es sich um keine unzulässige Abschalteinrichtung, da es plötzliche und unvorhersehbare Motorschäden verhindern solle.Die Parteien haben eine Entscheidung im mündlichen Verfahren zugestimmt. Mit Beschluss vom 9. Februar wurde angeordnet, dass gemäß § 128 Abs. 2 ZPO ohne mündliche Verhandlung entschieden wird. Als Zeitpunkt wird am Schluss der mündlichen Verhandlung entspricht wurde der 22.02.2022 bestimmt.Wegen des weiteren Parteivortrags wird auf sämtliche gewechselten Schriftsätze und Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet. A.Der Klägerin stehen keine gegen die Beklagte gerichteten Schadensersatzansprüche zu.I.Ein Anspruch des Klägers aus § 826 BGB besteht nicht.Die Darlegungs- und Beweislast für das Vorliegen einer unzulässigen, nicht im Sinne von Art. 5 Abs. 2 Satz 2 VO (EG) Nr. 2007/715 notwendigen Abschalteinrichtung, trifft den Kläger, der aus dem behaupteten Vorhandensein solcher Abschalteinrichtungen Ansprüche aus § 826 BGB geltend macht. Der Kläger muss also darlegen und beweisen, dass im streitgegenständlichen Fahrzeug jedenfalls eine unzulässige Abschalteinrichtung verbaut ist und die Beklagte durch die Verwendung einer solcher Abschalteinrichtung den Kläger vorsätzlich sittenwidrig geschädigt hat. Diesen Nachweis hat der Kläger nicht geführt.a) Zwar ist in dem streitgegenständlichen Fahrzeug unstreitig ein sogenanntes Thermofenster verbaut. Die konkrete Ausgestaltung des Thermofensters kann jedoch dahinstehen, da das Vorhandensein eines Thermofensters jedenfalls nicht den Tatbestand der vorsätzlichen sittenwidrigen Schädigung erfüllt, sodass auch keine Beweiserhebung angezeigt war.Objektiv sittenwidrig ist eine Handlung, die nach Inhalt oder Gesamtcharakter, der durch eine zusammenfassende Würdigung von Inhalt, Beweggründen und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt und daher mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist. Hinzutreten muss eine nach den Maßstäben der allgemeinen Moral, der allgemeinen Geschäftsmoral und des als "anständig" geltenden besondere Verwerflichkeit des Verhaltens, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage tretenden Gesinnung oder dem eintretenden Folgen ergeben kann (Palandt/Sprau, § 826, Rn. 4, 74. Auflage).Allein das Vorliegen eines pflichtwidrigen Handelns genügt nicht, sondern vielmehr muss eine besondere Verwerflichkeit hinzutreten.Unter Berücksichtigung dessen kann das Vorhandensein eines Thermofensters nicht den Tatbestand einer vorsätzlichen sittenwidrigen Täuschung erfüllen.Dies macht ein Vergleich zur Umschaltlogik, wie sie vom Motor-Typ EA189 bekannt ist, deutlich. Bei der in EA189-Motoren verbauten Umschaltlogik erkennt das Fahrzeug, wenn es auf dem Prüfstand für den NEFZ ist, und schaltet hier in einen anderen Abgasrückführungsmodus als außerhalb einer solchen Prüfstandssituation. Das Abgasreinigungsverhalten auf dem Prüfstand war damit stets ein anderes als im normalen Fahrbetrieb. Dies wurde jedoch weder gegenüber dem Kraftfahrt-Bundesamt noch gegenüber den Erwerbern der Fahrzeuge offengelegt, sodass bis zum Bekanntwerden der Implementierung dieser Software sowohl das Kraftfahrt-Bundesamt als auch der Verbraucher davon ausgehen konnte und durfte, dass im Grundsatz das Abgasreinigungsverhalten im normalen Fahrbetrieb demjenigen auf dem Prüfstand entspricht, was jedoch nicht der Fall war. Hingegen ist die Situation beim Thermofenster eine andere. Der Kläger behauptet nicht, dass das Thermofenster sich auf dem Prüfstand anders verhält als im normalen Fahrbetrieb. Vielmehr ist der Vortrag lediglich, dass ein solches Thermofenster verbaut ist und aufgrund dessen in bestimmten Temperaturbereichen keine oder eine geringere Abgasreinigung stattfindet. Damit ist für das vorliegende Verfahren jedoch zugrunde zu legen, dass sich das Thermofenster auf dem Prüfstand genauso verhält wie im normalen Fahrbetrieb. Ein "Schummeln" wie bei der Umschaltlogik des EA189 Motors ist in Bezug auf das Thermofenster somit nicht gegeben, sodass auch keine gegebenenfalls als sittenwidrig zu qualifizierende Verschleierung gegeben ist.Weiterhin ist hinsichtlich des Thermofensters zu berücksichtigen, dass in Literatur und Rechtsprechung jedenfalls umstritten war, ob ein Thermofenster eine im Sinne von Art. 5 Abs. 2 VO (EG) Nr. 2007/715 unzulässige Abschalteinrichtung darstellt oder nicht. Die Beklagte führt an, dass die Verwendung des Thermofensters aus Gründen des Motorschutzes und des sicheren Fahrzeugbetriebs technisch erforderlich sei und stützt sich insoweit auf Art. 5 Abs. 2 Satz 2 a) der VO (EG) Nr. 2007/715, in der diese Zielrichtung unionsrechtlich ausdrücklich anerkannt ist und das allgemeine Verbot des Art. 5 Abs. 2 Satz 1 VO (EG) Nr. 2007/715 begrenzt. Die Bestimmungen sind jedoch nicht so unmissverständlich und eindeutig formuliert, dass ein Thermofenster eindeutig und für jedermann auf den ersten Blick erkennbar unzulässig ist. Vielmehr können Motorschutz und sicherer Fahrzeugbetrieb ernsthaft und vertretbar als Rechtfertigung für die Implementierung eines Thermofensters angeführt werden. Selbst, wenn nun im Nachhinein das Thermofenster vom Kläger oder von einem Gericht als unzulässig im Sinne des Art. 5 Abs. 2 VO (EG) Nr. 2007/715 qualifizieren werden würde, wäre zu beachten, dass die Beklagte zum Zeitpunkt der Implementierung des Thermofensters die Zulässigkeit des Thermofensters aufgrund einer ohne weiteres vertretbaren, nicht per se von der Hand zu weisenden Argumentation bejaht hat, sodass in dem Vorhandensein des Thermofensters jedenfalls keine verwerfliche, im Sinne des § 826 BGB sittenwidrige Handlung der Beklagten erkennbar ist. Insoweit wird auch auf OLG München, Urteil vom 01.07.2020, Az. 27 U 6782/19 m.w.N. verwiesen. Soweit der Kläger behauptet dem KBA sei die Abschalteinrichtung nicht offenbart worden, ist sein Vorwurf nicht substantiiert. Ausweislich der Anlage B 1 ergibt sich, dass vor dem 16.5.2016 eine genaue Beschreibung der Emissionsstrategien gegenüber dem KBA nicht erforderlich war. Es seien vorher keine vertiefenden technischen Anforderungen festgelegt worden, mit denen der Hersteller Angaben zur Arbeitsweise des Abgasrückführungssystems hätte machen müssen. Vor diesem Hintergrund wird weder vorgetragen, was die Beklagte konkret im Typengenehmigungsverfahren hätte überhaupt offenbaren müssen, noch dass dies vorliegend verschwiegen wurde. Ausführungen aus denen sich ergibt, aufgrund welcher Umstände das Verschweigen als sittenwidrig angenommen werden muss, die Beklagte also in Kenntnis einer Offenbarungspflicht dies bewusst unterlassen hat, um hierdurch sittenwidrig ihr Ziel, der Erlangung der Typengenehmigung, zu erreichen, fehlen ebenfalls.b) Soweit der Kläger behauptet, im Fahrzeug seien verschiedene unzulässige Abschalteinrichtungen vorhanden, handelt es sich um einen Vortrag ins Blaue hinein.In der Klage selbst blieb völlig offen, welchen Motor das streitgegenständliche Fahrzeug überhaupt hat. Erst die Beklagte konkretisierte dies, woraufhin, der Kläger lediglich ausführte, es handle sich um einen Motor der Euro 5 Norm mit 2967 ccm. Er listete anschließend einen Wikipediaausdruck auf, in dem verschiedenste Fahrzeuge mit unterschiedlichen Typenbezeichnungen aufgelistet werden, ohne dass hieraus deutlich wurde, was die Liste mit dem streitgegenständlichen Fahrzeug gemein hat, da sich Fahrzeuge der EU 5 und EU 6 Norm darin befinden und eine Differenzierung nach ccm in der Liste nicht getroffen wird.Hinsichtlich der unzulässigen Abschalteinrichtungen trägt der Kläger nicht konkret vor, welche in seinem Fahrzeug verbaut sein soll. Er verweist hierzu vielmehr auf verschiedene Urteile, die alle eine solche unzulässige Abschalteinrichtung festgestellten. Inwiefern deren Feststellungen mit dem streitgegenständlichen Fahrzeug in Einklang zu bringen sein sollen, bleibt offen. Dass ein Bezug zum streitgegenständlichen Fahrzeug in der Klage fehlt, wird auch deutlich in der weiteren Argumentation des Klägers, der selbst auf das Urteil des BGH vom 10.3.2020 (VI ZR 471/19) Bezug nimmt und er sodann vorträgt, das Angebot eines Sachverständigenbeweises sei unbehelflich in einem Fall, in dem das Fahrzeug verkauft sei. Auch das Klägerfahrzeug wurde bereits am 30.7.2021 und damit annähernd 2 Monate vor Einrichtung der Klage veräußert, was der Kläger jedoch erst am 8.2.2022 mitteilte.Die Argumentation losgelöst vom streitgegenständlichen Fahrzeug und lediglich ins Blaue hinein wird noch deutlicher, wenn in Bezug auf die Vorlage des Rückrufbescheids 23X6, der sich auf Fahrzeuge A 6 und A7, der Norm EU 6 mit SCR Katalysator bezieht, ohne weitere Begründung vorgetragen wird, es liege die Annahme nahe, dass bei Fahrzeugen der Emissionsklasse EU 5 ebenfalls mit unterschiedlichen Strategien gearbeitet werde.Für das streitgegenständliche Fahrzeug liegt entgegen der unubstantiierten Behauptung, die sich offensichtlich auf einen völlig anderen Fahrzeugtyp bezieht, kein verpflichtender Rückruf vor. Auch aus der vom Kläger vorgelegten Anlage K 2 ergibt sich ein solcher nicht. Es sind hier zwar Fahrzeuge mit 2967 ccm aufgelistet. Fahrzeuge vom Typ A5 sind jedoch nur mit EU 6 betroffen. Auch eine Variante 8 T ist nicht vom Rückruf betroffen.Soweit der Kläger mit Emissionen im RDE argumentiert, verkennt er, dass die Emissionsgrenzwerte von 180 mg nicht unter allen Bedingungen einzuhalten sind, sondern nur für den NEFZ gelten. Auch ein deutlich erhöhtes Ausstoßverhalten ist damit allein kein hinreichendes Indiz und kein Nachweis für den Verbau einer unzulässigen Abschalteinrichtung. Die Beklagte hat zudem unter Heranziehung des Berichts der Untersuchungskommission Volkswagen dargelegt, dass bei einem Fahrzeug Audi A 6 mit einem Motor, der dem Klägerfahrzeug vergleichbar ist, die Grenzwerte sowohl im NEFZ warm und kalt eingehalten werden. Die Ausstoßtabelle unterscheidet sich deutlich von der eines Fahrzeugs mit dem Motor EA 189 (S. 72 und 114 des öffentlich einsehbaren Berichts).Der Vortrag unzulässiger Abschalteinrichtungen beruht hinsichtlich des streitgegenständlichen Fahrzeugs auf bloßen Vermutungen.Auch der Vortrag zum Vorsatz genügt nicht den Anforderungen, die an eine ausreichende Substantiierung zu stellen sind.Der Kläger trägt lediglich pauschal hinsichtlich verschiedener Vorstandsmitglieder vor, ihnen sei die Unzulässigkeit bewusst gewesen. Nachdem verschiedene unzulässige Abschalteinrichtungen behauptet wurden, hätte auch konkret auf die jeweilige Abschalteinrichtung der subjektive Tatbestand und insbesondere die sittlich verwerfliche Gesinnung dargelegt werden müssen. Nur der Hinweis, die Vorstandsmitglieder hätten Kenntnis vom Verbau einer unzulässigen Abschalteinrichtung gehabt, wobei hinsichtlich der Einrichtung, die nicht das Thermofenster betrifft, nicht einmal dargelegt wurde, welche Strategie verwendet wurde, Strategie A-C lediglich vermutet wurden, ist jedenfalls nicht ausreichend.Ein Anspruch des Klägers gegen die Beklagte gem. § 826 BGB scheidet daher aus.2. Ein Anspruch des Klägers aus § 823 II iVm § 263 StGB scheitert ebenso, da eine vorsätzliche Täuschung nicht nachgewiesen ist. Dasselbe gilt für einen Anspruch aus § 831 BGB, da sich nicht ergibt, wer als Verrichtungsgehilfe gehandelt hat und inwieweit dieser mangelhaft überwacht wurde.II. Die Kostenentscheidung beruht auf § 91 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2453698.html (https://oj.is/2453698)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

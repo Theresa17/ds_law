@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG MönchengladbachRechtsprechungUrteil vom 18.12.2019 - 6 O 394/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Mönchengladbach, Urteil vom 18.12.2019 - 6 O 394/18
+                      m. Fundstelle
+                      LG Mönchengladbach, Urteil vom 18.12.2019 - 6 O 394/18 = openJur 2020, 698
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Mönchengladbach, Urteil vom 18.12.2019 - 6 O 394/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 698
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagten werden als Gesamtschuldner verurteilt, an den Kläger 21.590,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 08.01.2019 zu zu zahlen abzüglich einer Nutzungsentschädigung in € pro gefahrenem km seit dem 04.08.2015, die sich nach folgender Formel berechnet:(55.509,98 € x gefahrene Kilometer) : 300.000 kmEs wird festgestellt, dass die Beklagten als Gesamtschuldner verpflichtet sind, den Kläger aus allen Verbindlichkeiten gegenüber der Volkswagen Leasing GmbH aus dem Leasingvertrag vom 08.06.2015 mit der Vertragsnummer 4218014 freizustellenjeweils Zug um Zug gegen Abtretung sämtlicher Rechte aus diesem Vertrag gegenüber der Volkswagen Leasing GmbH durch den Kläger.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits tragen die Beklagten als Gesamtschuldner.Das Urteil ist gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten um Ansprüche des Klägers im Zusammenhang mit dem so genannten "VW-Abgasskandal".Der Kläger (im Folgenden: die Klagepartei) schloss am 08.06.2015 mit der Leasing GmbH (im Folgenden: Leasinggeberin) einen Leasingvertrag ab. Die Leasinggeberin erwarb in diesem Zusammenhang als Neufahrzeug den Pkw VW Touareg 3.0 TDI SCR BMT V6 zum Preis von 55.509,98 € und stellte dieses der Klagepartei zur Nutzung zur Verfügung. Im Gegenzug erbrachte die Klagepartei in Vollzug des Leasingvertrags an die Volkswagen Leasing GmbH eine monatliche Zahlung in Höhe von 537,75 €. Das Fahrzeug wurde der Klagepartei am 04.08.2015 übergeben und auf diese zugelassen.In dem Fahrzeug, welches von der Beklagten zu 2. hergestellt worden ist, war ein von der Beklagten zu 1.hergestellter Motor 3,0 Liter Sechszylinderdiesel verbaut. Dieser war mit einem SCR (Selektiver katalytischer Katalysator) versehen, welcher für die Umwandlung von Stickoxiden eine ausreichende Betriebstemperatur (mind. 150 Grad Celsius) benötigt mit der Folge, dass er bei einem Kaltstart des Fahrzeugs in seiner Wirksamkeit stark eingeschränkt war. Diesem Problem setzten die Beklagten den sog. Warmlaufmodus entgegen, der unter anderem dafür Sorge trug, dass sich der SCR - Katalysator nach einem Kaltstart schneller aufheizt, damit die Stickoxidemissionen auch in den ersten Betriebsminuten nach einem Kaltstart reduziert werden sollten. Das Fahrzeug verfügt über eine EG-Typgenehmigung für die Emissionsklasse EU 6.Das Kraftfahrtbundesamt ordnete in Bezug auf den zitierten Katalysator an, dass die betroffenen Pkw bzw. deren Motoren nachzurüsten seien und einen vorschriftsmäßigen Zustand aufweisen müssten. Ausweislich einer Mitteilung des Kraftfahrtbundesamtes (KBA) vom 08.12.2017 (Anl. K4 = Bl. 59 GA) wurden durch dieses hinsichtlich des streitgegenständlichen Motors zwei "unzulässige Abschalteinrichtungen nachgewiesen".Die Beklagten entwickelten daraufhin eine technische Maßnahme ("Software -update"), die eine ordnungsgemäße Betriebsweise sicherstellen sollte. Für die technische Maßnahme betreffend den streitgegenständlichen Motor erteilte das KBA eine Freigabebestätigung, in der es ausführte, dass die Maßnahme geeignet sei, die Vorschriftsmäßigkeit der genannten Fahrzeuge herzustellen.Zwischenzeitlich wurde beim Fahrzeug der Klagepartei im Rahmen einer technischen Überarbeitung ein Software-Update aufgespielt.Die Klagepartei behauptet, dass das von ihr geleaste Fahrzeug mit unzulässigen Abschalteinrichtungen versehen (gewesen) sei. Nach den Feststellungen des KBA springe die schadstoffmindernde "Aufwärmstrategie" nur im Prüfzyklus NEFZ an, wodurch im realen Betrieb eine Schadstoffminderung unterbleibe. Auch werde eine Strategie eingesetzt, die die Nutzung des Harnstoff- bzw. Ammoniakgemisches zur Minderung der Schadstoffe unter bestimmten Bedingungen unzulässig einschränke.Weiter behauptet die Klagepartei, sie habe großen Wert darauf gelegt, ein umweltfreundliches, wertstabiles und den gesetzlichen Bestimmungen entsprechendes Fahrzeug zu erhalten, das sie uneingeschränkt nutzen konnte. Bei Kenntnis des tatsächlichen Sachverhalts und der damit verbundenen Risiken für den Fortbestand der Betriebserlaubnis hätte sie den Leasingvertrag nicht abgeschlossen. Trotz des durchgeführten Updates verbleibe ein Mangelverdacht, es seien Folgeschäden konkret zu befürchten.Die Klagepartei ist der Ansicht, die Beklagten hätten ihr insbesondere gem. § 826 BGB in einer gegen die guten Sitten verstoßenden Weise vorsätzlich Schaden zugefügt, um wirtschaftliche Vorteile zu erlangen. Die schädigende Handlung sei den Beklagten auch zuzurechnen. Es sei davon auszugehen, dass verfassungsmäßig berufene Vertreter der Beklagten im Sinne des § 31 BGB gehandelt hätten. Die Beklagten seien im Übrigen ihrer sekundären Darlegungslast zu der Frage, welches ihrer Organe Kenntnis von der Manipulation der Motorsteuerungssoftware gehabt habe und das Inverkehrbringen entsprechend ausgerüsteter Motoren veranlasst habe, nicht nachgekommen.Darüber hinaus meint die Klagepartei, die Beklagten seien deshalb verpflichtet, ihr die bereits gezahlten und noch fälligen Leasingraten zu erstatten.Die Klagepartei beantragt,die Beklagte als Gesamtschuldner zu verurteilen, an sie 21.590,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit abzüglich einer Nutzungsentschädigung zu zahlen;die Beklagten als Gesamtschuldner zu verurteilen, sie aus allen Verbindlichkeiten aus dem Leasingvertrag mit der Volkswagen Leasing GmbH vom 08.06.2015 mit der Leasingvertragsnummer ... freizustellen,jeweils Zug um Zug gegen Abtretung sämtlicher Rechte aus dem benannten Leasingvertrag.Die Beklagten beantragen,die Klage abzuweisen.Sie behaupten, das Fahrzeug sei nicht mangelhaft, da es stets technisch sicher und fahrbereit gewesen sei und zudem über alle erforderlichen Genehmigungen verfüge. Darüber hinaus sei der Klagepartei schon deshalb kein Schaden entstanden, da das Fahrzeug nach wie vor uneingeschränkt im Straßenverkehr genutzt werden könne und keine der erforderlichen Genehmigungen aufgehoben worden sei. Auch fehle der Klagepartei mangels Eigentümerstellung die Aktivlegitimation.In dem Fahrzeug seien auch keine unzulässigen Abschalteinrichtungen installiert.Im Übrigen sei den Interessen der Klagepartei durch das Einspielen eines Softwareupdates Rechnung getragen worden. Das Software-Update habe nach Bestätigung des KBA auch keine negativen Auswirkungen auf das Fahrzeug.Die Beklagten hätten sich gegenüber der Klagepartei auch nicht sittenwidrig verhalten. Insbesondere sei die Klagepartei nicht getäuscht worden. So habe diese bislang auch nicht vorgetragen, welche konkreten unzutreffenden Angaben die Beklagten ihr gegenüber gemacht haben sollen.Bezüglich einer möglichen (Un-)Kenntnis ihrer Vorstände von der Installation der streitgegenständlichen Software durch die träfe sie vorliegend keine sekundäre Darlegungslast, da die Klagepartei bereits nicht substantiiert vorgetragen habe, dass ein verfassungsmäßig berufener Vertreter der Beklagten im Zeitpunkt des Abschlusses des Vertrags vorsätzlich bei ihr eine Fehlvorstellung über den Einsatz der Software hervorgerufen habe.Hinsichtlich des weiteren Sach- und Streitstands wird auf die gewechselten Schriftsätze sowie die in den Entscheidungsgründen getroffenen Feststellungen Bezug genommen. 
+				Gründe
+				Die Klage ist zulässig und ganz überwiegend begründet.1.Die Klagepartei hat gegen die Beklagten gemäß §§ 826, 31 BGB einen Anspruch auf die Rückzahlung der von ihm erbrachten Leasingraten in Höhe von 21.590,00 € abzüglich einer Nutzungsentschädigung welche nach der tenorierten Formel zum Zeitpunkt des Rückerhalts des Fahrzeugs durch die Beklagten zu errechnen ist, Zug um Zug gegen Abtretung der Rechte aus dem Leasingvertrag.Die Klagepartei ist aktivlegitimiert, obwohl sie unstreitig auf der Grundlage der dargestellten vertraglichen Vereinbarungen nicht Eigentümerin des Fahrzeugs geworden ist. Auch ein Leasingnehmer, der - wie hier - einen Leasingvertrag über ein vom Abgasskandal betroffenes Fahrzeug abschließt, erleidet einen ersatzfähigen Schaden, den er von den verantwortlichen Beklagten erstattet verlangen kann (vgl. nur Harriehausen, NJW 2018, 3137 m.w.N.).Nach § 826 BGB ist derjenige, der in einer gegen die guten Sitten verstoßenden Weise einem anderen vorsätzlich Schaden zufügt, dem anderen zum Ersatz des hierdurch entstandenen Schadens verpflichtet. Dabei ist ein Unternehmen für den Schaden verantwortlich, den der Vorstand, ein Mitglied des Vorstands oder ein anderer verfassungsmäßig berufener Vertreter durch eine in Ausführung der ihm zustehenden Verrichtungen begangene, zum Schadensersatz verpflichtende Handlung einem Dritten zufügt, § 31 BGB.Die Beklagte hat die Klagepartei vorliegend getäuscht, indem sie zugelassen hat, dass ein von ihr hergestelltes Fahrzeug, in welches der manipulierte Katalysator eingebaut worden ist, in den Verkehr gebracht wurde, ohne dass sie die Details der Programmierung offen gelegt hat.Die streitgegenständliche Programmierung der Steuerungssoftware ist gesetzeswidrig, wie sich aus den Feststellungen des KBA ergibt.Vorsätzlich handelte, wer Kenntnis von dem Eintritt eines Schadens, der Kausalität des eigenen Verhaltens und der die Sittenwidrigkeit des Verhaltens begründenden Umstände hatte.Darlegungs- und beweisbelastet ist insoweit grundsätzlich die klagende Partei. Allerdings hat die hiesige Klagepartei bereits im Rahmen ihrer Möglichkeiten vorgetragen, woraus sie auf eine Kenntnis der Verantwortlichen des Konzernes, schließt. Eine weitere Substantiierung ist der Klagepartei nicht möglich, da es sich insoweit um konzerninterne Vorgänge der Beklagten handelt. Insofern wäre es daher Sache der Beklagten, im Rahmen ihrer sekundären Darlegungslast darzulegen, dass ihr Vorstand oder andere Organe trotz der internen Überprüfungsmechanismen keinerlei Kenntnis von der Verwendung der in Rede stehenden Software und deren Auswirkungen hatten.Eine sekundäre Darlegungslast besteht, wenn der beweisbelasteten Partei näherer Vortrag nicht möglich oder nicht zumutbar ist, während die bestreitende Partei alle wesentlichen Tatsachen kennt und es ihr zumutbar ist, nähere Angaben zu machen. Der Gegner der primär darlegungspflichtigen Partei darf sich nicht auf einfaches Bestreiten beschränken, wenn die darlegungspflichtige Partei außerhalb des von ihr darzulegenden Geschehensablaufs steht und keine nähere Kenntnis der maßgebenden Tatsachen besitzt, während der Prozessgegner sie hat und ihm nähere Angaben zumutbar sind (vgl. BGHZ 140, 156, 158).So liegt es hier, denn die Klagepartei hat naturgemäß keinerlei Einblick in die internen Entscheidungsvorgänge bei den Beklagten, sondern ist insoweit auf Presseberichte u.ä. angewiesen.Dass bei ihren Organen bzw. verfassungsmäßig berufenen Vertretern keine Kenntnis bestand, zumal der streitgegenständliche Motor konzernweit zum Einsatz kam, haben die Beklagten nicht hinreichend dargetan. Die Beklagten hatten die Möglichkeit, die in ihren Unternehmen im Zusammenhang mit der Programmierung und Implementierung der streitgegenständlichen Software / des Katalysators abgelaufenen Vorgänge und Entscheidungsprozesse darzulegen. Bei der Ausstattung der Motoren mit der entsprechenden Software handelte es sich um eine wesentliche strategische Entscheidung mit enormer wirtschaftlicher Reichweite und - wie die wirtschaftlichen Folgen des sogenannten Abgasskandals zeigen - ebenso großen Risiken, bei der kaum anzunehmen ist, dass sie von einem am unteren Ende der Betriebshierarchie angesiedelten Entwickler in eigener Verantwortung getroffen worden ist. Dass diese Entscheidung nicht von den Vorständen angeordnet oder doch jedenfalls "abgesegnet" worden ist, ist angesichts des Umfangs der Implementierung kaum vorstellbar. Jedenfalls ist dies nur dann plausibel dargelegt, wenn die Entscheidungsprozesse im Hause der Beklagten hierzu offen gelegt werden. Die Beklagten sind als juristische Personen verpflichtet, ihre Häuser so zu organisieren, dass wesentliche Entscheidungen nicht durch einzelne Mitarbeiter getroffen werden können, sondern überprüft und kontrolliert werden. Gerade der Vorstand hat das Unternehmen entsprechend den gesetzlichen Bestimmungen zu organisieren (sog. "Compliance", vgl. MüKo AktG/Spindler, § 91 AktG, Rn. 52 f). Jedenfalls müssen die Beklagten erklären, warum bei einer zureichenden Organisation ihrerseits ihre leitenden Mitarbeiter und der durch sie zu informierende Vorstand, davon keine Kenntnis gehabt haben kann, soweit schließlich die Motoren der Audi AG in die streitgegenständlichen Fahrzeuge verbaut wurden. Dementsprechend haben sie die Zuständigkeiten, Verantwortlichkeiten und Entscheidungsprozesse in ihren Unternehmen darzutun, um eine fehlende Kenntnis hinreichend darzulegen (ebenso LG Hildesheim - 3 O 139/16, juris). Damit wird keine unzulässige mosaikartige Wissenszurechnung des im jeweiligen Hause vorhandenen Wissens über außerhalb des Hauses liegende Umstände (dazu BGH VI ZR 536/15) vorgenommen, sondern es geht um den den Beklagten bekannten Entscheidungsablauf in ihren eigenen Unternehmen.Die Beklagten haften für das Verhalten der verantwortlichen Mitarbeiter auch unter dem Gesichtspunkt des Organisationsverschuldens. Der Anwendungsbereich des § 31 BGB wird bei Organisationsmängeln erweitert (Palandt/Ellenberger, BGB, 77. Auflage, § 31 Rn. 7). Juristische Personen sind verpflichtet, den Gesamtbereich ihrer Tätigkeit so zu organisieren, dass für alle wichtigen Aufgabengebiete ein verfassungsmäßiger Vertreter zuständig ist, der die wesentlichen Entscheidungen selbst trifft. Entspricht die Organisation diesen Anforderungen nicht, muss sich die juristische Person so behandeln lassen, als wäre der tatsächlich eingesetzte Verrichtungsgehilfe ein verfassungsmäßiger Vertrete. Die Beauftragung eines wichtigen Aufgabenkreises an einen Funktionsträger oder Bediensteten begründet daher für die juristische Person eine Haftung ohne Entlastungsmöglichkeit. Hat sie dem Vertreter eine selbstständige Stellung mit eigener Entscheidungsbefugnis eingeräumt, ist er verfassungsmäßiger Vertreter; ist das nicht geschehen, ist § 31 BGB wegen eines Organisationsmangels anwendbar.Der Einbau der in Rede stehenden Abschalteinrichtungen in eine Vielzahl von Fahrzeugen nicht nur in Europa stellt eine wesentliche Entscheidung mit großer wirtschaftlicher Bedeutung für die Beklagten dar. Hat nicht der Vorstand und auch nicht der Leiter der Entwicklungsabteilung als Repräsentant gemä?§ 31 BGB diese weitreichende Entscheidung getroffen, sondern Mitarbeiter auf nachgeordneten Arbeitsebenen alleine, müssen sich die Beklagten so behandeln lassen, als wären diese Mitarbeiter ihre verfassungsmäßigen Vertreter. Auch wenn die hier streitgegenständliche Software durch des Konzens in die Motoren eingebracht worden ist, haben Mitarbeiter der Beklagten diese Motoren in die von ihr hergestellten Fahrzeuge eingebaut und eine entsprechende unrichtige Übereinstimmungserklärung erteilt. Es ist nicht zu erwarten, dass die Manipulationssoftware den entsprechenden Mitarbeitern der Beklagten beim Einbau dieser Motoren in deren eigene Fahrzeuge sowie im Rahmen anschließender Überprüfungen - gerade im Zusammenhang mit der Erstellung der Übereinstimmungserklärung - nicht aufgefallen ist. Diese Übereinstimmungserklärung ist die Grundlage der Erteilung der Betriebserlaubnis, auch für das streitgegenständliche Fahrzeug, geworden. Für eine Zurechnung ist unerheblich, ob alle Mitarbeiter Kenntnis auch der Handlung eines mit anderen Teilbereichen beauftragten Mitarbeiters gehabt haben müssen. Denn zwischen der Motorenentwicklung bzw. dessen Einbau in das Fahrzeug und der Ausstellung einer Übereinstimmungsbescheinigung besteht ein innerer Zusammenhang (vgl. LG Ingolstadt, Urteil vom 15.05.2018 - 42 O 1199/17). Die Beklagten haben keinerlei Organisationsmaßnahmen ihrerseits dargetan, die hätten gewährleisten können, dass Entscheidungen von solcher Tragweite rechtlich geprüft und im Fall erheblicher Risiken dem Vorstand oder einem sonstigen verfassungsgemäß berufenen Vertreter vorgelegt werden.Die sittenwidrige Schädigung der Klagepartei erfolgte auch vorsätzlich. Es ist nicht ersichtlich, dass die Software zu einem anderen Zweck eingesetzt werden sollte als dazu, falsche Vorstellungen über die mit den betroffenen Fahrzeugen zu erzielenden Abgaswerte bei Verbrauchern und Behörden hervorzurufen. Dass auch und gerade die Täuschung potentieller Kunden beabsichtigt war, ergibt sich insbesondere auch daraus, dass die Beklagten selbst mit der besonderen Umweltfreundlichkeit ihrer Dieselmotoren warben. Dabei musste den Beklagten bzw. den betreffenden Vorständen auch klar sein, dass hierdurch die Kunden wie geschildert geschädigt werden. Dass Erwerber geschädigt werden, wenn die Abgaswerte mittels einer Software gezielt manipuliert werden, muss sich dabei jedem ohne Weiteres aufdrängen.Schließlich kommt es in diesem Zusammenhang auch nicht darauf an, dass die Beklagten bzw. ihre Vorstandsmitglieder nicht den Vorsatz hatten, gerade die hiesige Klagepartei zu schädigen. Es genügt, dass die Schädigung einen vorher feststehenden Personenkreis - Kunden, die ein Fahrzeug mit der in Rede stehenden Software erwarben - betrifft. Im Übrigen kann den Beklagten kein Vorteil daraus erwachsen, dass nicht nur einzelne, sondern eine Vielzahl von Personen geschädigt wurden.Rechtsfolge der gegen die guten Sitten verstoßenden vorsätzlichen Schädigung und der unerlaubten Handlung in Form eines Betruges ist ein Anspruch der Klagepartei auf Schadensersatz.Der Schaden liegt dabei in dem Abschluss eines ungewollten Leasingvertrags über ein mangelhaftes Fahrzeug (vgl. Harriehausen, a.a.O.). Insbesondere bestanden Risiken im Hinblick auf den Fortbestand der Betriebserlaubnis.Der Schadensersatzanspruch der Klagepartei geht deshalb dahin, dass die Beklagten sie so stellen muss, wie sie ohne die Täuschung über die nicht gesetzeskonforme Motorsteuerungssoftware gestanden hätte. Insoweit ist ohne weiteres davon auszugehen, dass die Klagepartei - wie jeder verständige, Risiken vermeidende Kunde - bei Kenntnis des Sachverhalts und der damit verbundenen Risiken für den Fortbestand der Betriebserlaubnis den Vertrag nicht geschlossen hätte. Die Beklagten müssen danach die wirtschaftlichen Folgen des Vertrags dadurch ungeschehen machen, dass sie die von dem Leasingnehmer erbrachten Raten gegen Herausgabe des PKW und Abtretung der Rechte aus dem Leasingvertrag erstatten.Die Klagepartei hat allerdings auch Vermögensvorteile in Form der während der Besitzzeit gezogenen Nutzungen erzielt. Diese sind auf den Ersatzbetrag anzurechnen, weil andernfalls eine vom Schadensrecht nicht gedeckte Überkompensation stattfinden würde. Dem steht nicht entgegen, dass nach § 475 Abs. 5 BGB in der ab 01.01.2018 gültigen Fassung bei einem Verbrauchgüterkauf § 439 Abs. 5 BGB mit der Maßgabe anzuwenden ist, dass Nutzungen nicht herauszugeben oder durch ihren Wert zu ersetzen sind. Denn vorliegend geht es nicht um einen Nacherfüllungsanspruch.Der Vorteilsausgleich ist von Amts wegen zu berücksichtigen. Vor dem Hintergrund der tatsächlichen Laufleistung ist nach den Grundsätzen der kilometeranteiligen linearen Wertminderung der Nutzungsersatz in Abweichung vom Inhalt des Klageantrags zu 1. wie folgt zu berechnen: Bruttokaufpreis x gefahrene km ÷ Restnutzungsdauer, wobei das Gericht die zu erwartende Gesamtlaufleistung in st. Rspr. in vergleichbaren Fällen auf 300.000 km schätzt, § 287 ZPO.Der Zinsanspruch ergibt sich aus §§ 288 Abs. 1, 291 S. 1 BGB in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit.2.Der Klageantrag zu 2. ist durch das Gericht als Feststellungsantrag ausgelegt worden, ohne dass hierdurch über das Begehren der Klagepartei hinausgegangen worden wäre.Der Streitwert wird auf 25.908,00 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2193027.html (https://oj.is/2193027)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

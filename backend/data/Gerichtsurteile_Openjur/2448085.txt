@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG MünchenRechtsprechungBeschluss vom 31.05.2021 - 21 U 83/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG München, Beschluss vom 31.05.2021 - 21 U 83/21
+                      m. Fundstelle
+                      OLG München, Beschluss vom 31.05.2021 - 21 U 83/21 = openJur 2022, 15889
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG München, Beschluss vom 31.05.2021 - 21 U 83/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 15889
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Berufung der Klagepartei gegen das Urteil des Landgerichts Ingolstadt vom 04.12.2020, Aktenzeichen 83 O 1059/19, wird zurückgewiesen.2. Die Klagepartei hat die Kosten des Berufungsverfahrens zu tragen.3. Das in Ziffer 1 genannte Urteil des Landgerichts Ingolstadt ist ohne Sicherheitsleistung vorläufig vollstreckbar. Der Kläger kann die Vollstreckung durch die Beklagte durch Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in gleicher Höhe leistet.4. Der Streitwert für das Berufungsverfahren wird auf 33.282,58 € festgesetzt.  
+				Gründe
+				Der Kläger macht gegen den beklagten Fahrzeughersteller Ansprüche auf Schadensersatz geltend, mit der Behauptung das von ihm erworbene Fahrzeug sei vom sog. "Abgasskandal" betroffen.Streitgegenständlich ist ein ..., der mit einem 3.0 Liter V6-Turbodieselmotor (150 kW) der Schadstoffnorm Euro 5plus ausgestattet ist. Zwischen den Parteien ist die Motortypbezeichnung streitig. Der Kläger behauptet, in dem Fahrzeug befinde sich der Motor des Typs EA 897, während die Beklagte vorträgt, es handle sich um einen Motor des Typs EA896Gen2.Der Kläger hat das Fahrzeug am 06.10.2015 als Gebrauchtfahrzeug mit einem Kilometerstand von 21.833 km zum Preis von 42.834 € erworben. Er hat 10.000 € angezahlt und den restlichen Kaufpreis bei der ... Bank kreditfinanziert.Er begehrt die Rückzahlung des Kaufpreises zuz. Finanzierungskosten abzüglich einer Nutzungsentschädigung.Das Landgericht hat die Klage mit Urteil vom 04.12.2020 zurückgewiesen. Hinsichtlich der Darstellung des Sach- und Streitstandes wird auf den Tatbestand im angefochtenen Urteil des Landgerichts Ingolstadt vom 04.12.2020 und den Hinweisbeschluss des Senats vom 26.03.2021 Bezug genommen.Mit der Berufung verfolgt der Kläger sein Anliegen weiter. Er rügt, dass das Landgericht verfahrensfehlerhaft überspannte Anforderungen an die Substantiierungspflicht des Klagevortrags gestellt habe, und ist der Auffassung, dass die Klage nicht ohne Durchführung einer ausreichenden Beweisaufnahme hätte abgewiesen werden dürfen. Insoweit beruft sich der Kläger auf den Beschluss des Bundesgerichtshofs vom 28.01.2020, Az. VIII ZR 57/19. Der Kläger habe zahlreiche Anhaltspunkte für das Vorliegen der unzulässigen Abschalteinrichtungen aufgezeigt. Es gebe unter dem Rückrufcode 23X6 einen offiziellen, verpflichtenden Rückruf des KBA für die Fahrzeugtypen ..., ..., ... mit 3.0l Euro 5 Motor, der mittlerweile auf weitere Modelle ausgeweitet worden sei. Es bestehe deshalb der berechtigte Verdacht, dass das Fahrzeug ebenfalls von dem Rückruf betroffen sei, da es über den identischen Motor verfüge und in dieselbe Schadstoffklasse falle. Die Fahrzeuge seien vergleichbar. Zudem sei das Fahrzeug unstreitig von einem freiwilligen Rückruf erfasst. Auf Grund des klägerischen Vortrags bestehe eine sekundäre Darlegungslast der Beklagten, der diese nicht nachgekommen sei.Das unstreitig im Fahrzeug vorhandene Thermofenster sei zwischenzeitlich durch die Rechtsprechung sowohl des EuGH als auch des BGH als unzulässige Abschalteinrichtung eingestuft. Die Beklagte habe die konkrete Ausgestaltung des Thermofensters im Typgenehmigungsverfahren nicht offen gelegt. Der Kläger bestreitet mit Nichtwissen, dass die Beklagte das Thermofenster für zulässig gehalten hat. Auch auf Grund der Zertifizierung nach ISO 9001 habe der Vorstand Kenntnis von den Vorgängen haben müssen. Zudem sei das Thermofenster so programmiert, dass eine 100%ige Effektivität nur bei den auf dem Prüfstand herrschenden Temperaturen von 20 - 30° C erreicht werde. Dies spreche für ein sittenwidriges Handeln.Die Beklagte habe zudem über das OBD-System getäuscht. Dieses sei so manipuliert, dass trotz eines Überschreitens der Grenzwerte die Warnleuchte nicht aufleuchte. Im "schmutzigen" Modus sei die OBD-Diagnose abgeschaltet. Wegen unterschiedlicher von der Motorsteuerung gesteuerter Effektivität der Abgasreinigung finde eine effektive Abgasrückführung nur auf dem Prüfstand und nicht im Realbetrieb statt. Dies sei mit einer "Umschaltlogik" vergleichbar. Die Beklagte sei sich dessen bewusst gewesen.Zudem habe sich nach dem Schluss der mündlichen Verhandlung in erster Instanz in einem anderen Verfahren vor dem LG Bielefeld herausgestellt, dass ein baugleiches Fahrzeug des Typs ..., 180 kW, über eine Prüfstandssoftware verfüge.Die Voraussetzungen der §§ 826, 31 BGB seien sämtlich erfüllt. Der Anspruch sei aber auch aufgrund § 823 Abs. 2 BGB i.V.m. § 263 Abs. 1 StGB sowie nach § 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV, die Schutzcharakter hätten, gegeben. Hinsichtlich der weiteren Einzelheiten der Berufungsbegründung wird auf den Schriftsatz der Klagepartei vom 08.03.2021, Bl. 328 ff. d.A., Bezug genommen.Im Berufungsverfahren beantragt der Kläger und Abänderung des Urteils Landgericht Ingolstadt, Az. 83 O 1059/19, verkündet am 04.12.2020 und zugestellt am 08.12.2020:1. Die Beklagte wird verurteilt, an die Klägerpartei EUR 42.834,00 nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 15.01.2019 zzgl. Darlehenskosten in Höhe von EUR 1.332,00 abzüglich einer Nutzungsentschädigung in Höhe von 10.883,42 Zugum-Zug gegen Rückgabe und Übereignung des Fahrzeugs ... mit der Fahrgestellnummer ... zu zahlen.2. Es wird festgestellt, dass sich die Beklagte seit dem 15.01.2019 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstand im Annahmeverzug befindet.3. Die Beklagte wird verurteilt, die kosten der außergerichtlichen Rechtsverfolgung in Höhe von EUR 2.613,24 nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 15.01.2019 zu zahlen.Hilfsweise4. Das erstinstanzliche Urteil Landgerichts Ingolstadt, Az. 83 O 1059/19, verkündet am 04.12.2020 und zugestellt am 08.12.2020, aufzuheben und zur erneuten Verhandlung zurück zu verweisen.Hilfsweise5. Die Revision zuzulassen.Die Beklagte beantragt die Zurückweisung der Berufung.Mit Beschluss vom 26.03.2021 hat der Senat darauf hingewiesen, dass er beabsichtigt, die Berufung zurückzuweisen. Das Landgericht habe die Substantiierungsanforderungen nicht überspannt. Das Fahrzeug sei nicht von einem Rückruf betroffen. Aus Rückrufen für andere ... Motoren der Beklagten ergäben sich keine hinreichenden Anhaltspunkte für unzulässige Abschalteinrichtungen im streitgegenständlichen Fahrzeug. Für eine sittenwidrige Schädigung auf Grund des Thermofensters seien keine konkreten Anhaltspunkte vorgetragen. Auch der Vortrag zum OBD und zu Messergebnissen im Straßenverkehr begründe keine hinreichenden Anhaltspunkte, ebensowenig der weitere Vortrag zu Abschalteinrichtungen.Der Kläger ist dem mit Schriftsatz vom 03.05.2021 entgegen getreten. Der Kläger habe konkret zu den vom Rückruf 23X6 betroffenen Fahrzeugtypen vorgetragen, in denen ein identischer Motor verbaut sei. Es handle sich insoweit um einen Serienmotor. Andere Oberlandesgerichte hätten den entsprechenden Vortrag für ausreichend gehalten. Zudem entspreche das Modelljahr und die Genehmigungsnummer des streitgegenständlichen Fahrzeugs den vom Rückruf betroffenen Fahrzeugvarianten. Weiter verweist er auf den Beschluss des Bundesgerichtshofs vom 28.01.2020, Az. VIII ZR 57/19. Hinzu komme, dass das Fahrzeug einer Feldmaßnahme (23Z2) unterliege. Das Anhörungsverfahren sei noch nicht beendet.Nur durch eine vollständige Software-Analyse könne die Verwendung unzulässiger Abschalteinrichtungen nachgewiesen werden.Aus der Programmierung/Installation des Thermofensters könne auf die Sittenwidrigkeit geschlossen werden, da eine effektive Abgasrückführung nur auf dem Prüfstand stattfinde. Die Abgasreinigung funktioniere lediglich zwischen 18° und 34° C zu 100%. Es wäre Aufgabe der Beklagten gewesen darzulegen, warum eine Offenlegung im Genehmigungsverfahren nicht erfolgt sei. Er verweist zudem auf die Zertifizierung der Beklagten nach der ISO 9001.Zur Manipulation des Getriebes führt er neu aus, die Beklagte verwende für einige Fahrzeugausführungen mit sog. "7-Gang-S-tronic" das Doppelkupplungsgetriebe der ZF Friedrichshafen mit der Bezeichnung "DL501", so auch im streitgegenständlichen Fahrzeug. Mit Hilfe der zyklusnah bedateten Lenkwinkelerkennung erkenne das Getriebe den Lenkwinkeleinschlag, der mit dem Prüfstand einher gehe, und passe die Schaltstrategie entsprechend so an, dass auf dem Prüfstand niedrigere NOx-Werte emittiert werden ("Warmlaufprogramm"). Die konkrete Ausbedatung sei dem KBA nie vorgelegt worden.II.Die Berufung gegen das Urteil des Landgerichts Ingolstadt vom 04.12.2020, Aktenzeichen 83 O 1059/19, ist gemäß § 522 Abs. 2 ZPO zurückzuweisen, weil nach einstimmiger Auffassung des Senats das Rechtsmittel offensichtlich keine Aussicht auf Erfolg hat, der Rechtssache auch keine grundsätzliche Bedeutung zukommt, weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Berufungsgerichts erfordert und die Durchführung einer mündlichen Verhandlung über die Berufung nicht geboten ist.Zur Begründung wird auf den vorausgegangenen Hinweis des Senats vom 26.03.2021 Bezug genommen. Frau Richterin am Oberlandesgericht Köhler, die an dem Hinweisbeschluss nicht beteiligt war, tritt diesem in vollem Umfang bei.Auf die Stellungnahme vom 03.05.2021 sind folgende weiteren Ausführungen veranlasst:1. Der Umstand, dass das Fahrzeug über einen ... bzw. einen solchen der Bezeichnung EA 897 verfügt, bildet als solcher keinen hinreichenden Anhaltspunkt dafür, dass in dem streitgegenständlichen Fahrzeug eine unzulässige Abschalteinrichtung verbaut ist. Dies gilt auch im Hinblick auf den Beschluss des Bundesgerichtshofs vom 28.01.2020, Az. VIII ZR 57/19.Hinsichtlich der unter der betriebsinternen Bezeichnung EA 189 zusammengefassten Motortypen mag der Hinweis, dass ein Fahrzeug ebenfalls einen Motor "des Typs EA 189" enthält, als greifbarer Anhaltspunkt für das Bestehen einer unzulässigen Abschalteinrichtung genügen, da aus der (bereits in Bezug genommenen) Übersicht des Kraftfahrtbundesamtes ersichtlich ist, dass eine große Vielzahl von Motorentypen mit unterschiedlichem Motorkennbuchstaben (MKB) in einer Vielzahl von Fahrzeugenmodellen aus dem Volkswagenkonzern hierunter zu fassen ist. Die Bezeichnung "..." bzw. EA 897 ist aber schon keine hinreichend konkretisierende Motorenbezeichnung, denn hierunter fallen unterschiedliche Motoren in Fahrzeugen verschiedener Hersteller mit unterschiedlichen Maßnahmen zur Stickoxidreduktion (siehe beispielhaft den in Bezug genommenen Bericht der "Untersuchungskommission Volkswagen"). Dementsprechend existiert auch keine Liste des Kraftfahrtbundesamtes unter diesen Bezeichnungen. Dem Hinweis auf den Einsatz eines "...Motors" bzw. Motors "EA 897" fehlt damit, anders als bei dem Motor mit dem Motorkennbuchstaben "OM 651", der Gegenstand des Beschlusses des Bundesgerichtshofs vom 28.01.2020 war, die Aussagekraft in Bezug auf die Eigenschaften eines konkreten Motors und seine mögliche Betroffenheit von einer unzulässigen Abschalteinrichtung im Hinblick auf das Emissionsverhalten.Die Klagepartei hat hier zusätzlich den Anhaltspunkt der übereinstimmenden Typgenehmigungsnummer vorgetragen. Auf Grund dessen vermutet sie, dass die Technik, die in Fahrzeugen mit der gleichen Typgenehmigungsnummer zu Rückrufen wegen einer unzulässigen Abschalteinrichtung geführt hat, auch in ihrem Wagen verbaut ist, bzw. dass in ihrem Wagen verbaute Technik als eine unzulässige Abschalteinrichtung zu werten ist, die auch die Voraussetzungen des § 826 BGB erfüllt. Auch dies genügt, wie bereits im Hinweisbeschluss dargelegt, jedoch nicht als greifbarer Anhaltspunkt, da das streitgegenständliche Fahrzeug eine völlig andere kW-Leistung hat als die zurückgerufenen Fahrzeuge, nämlich 150 kW statt 230 kW. Zudem hat die Beklagte hierzu substantiiert vorgetragen, es handle sich bei den zurückgerufenen Motoren um Biturbo-Motoren, bei dem hier streitgegenständlichen hingegen um einen Monoturbomotor (Bl. 290 d.A.). Dem hat der Kläger nichts substantiiert entgegen gesetzt.Auch der klägerische Vortrag, es handle sich bei den Motoren um Serienprodukte, führt nicht weiter. Nach dem Vortrag der Beklagten handelt es sich um grundsätzlich unterschiedliche Motoren (Biturbo - Monoturbo). Aber selbst wenn die Hardware weitgehend identisch wäre, bestimmt doch das Zusammenwirken von Software und Hardware, wie sich auch im gesamten "Dieselskandal" zeigt, wesentlich die Funktionsweise des Fahrzeugs. Greifbare Anhaltspunkte dafür, dass Motor und Software hier mit den zurückgerufenen Fahrzeugen vergleichbar sind, liegen nicht vor.2. Das Anhörungsverfahren hat bislang nicht zu einem Rückruf geführt, obwohl das Anhörungsschreiben bereits vor über einem Jahr versandt wurde. Soweit die Stellungnahme auf die Feldmaßnahme 23Z2 Bezug nimmt, so hat bereits der Kläger selbst in der mündlichen Verhandlung vom 20.11.2020 angegeben, dass es sich um eine freiwillige Maßnahme gehandelt habe (Protokoll, Bl. 292 ff d.A.), also nicht um einen verpflichtenden Rückruf.3. Soweit der Kläger vorträgt, nur durch eine vollständige Software-Analyse könnten unzulässige Abschalteinrichtungen erkannt werden, so ändert dies nichts daran, dass es für die Durchführung einer Beweisaufnahme greifbarer Anhaltspunkte für solche Abschalteinrichtungen bedarf.4. Hinsichtlich des Thermofensters kann auf die Ausführungen im Hinweisbeschluss verwiesen werden. Der Senat teilt auch nicht die Auffassung des Klägers, dass die konkrete Bedatung "offensichtlich speziell auf den Prüfstand zugeschnitten wurde" (S. 8 der Stellungnahme). Auf S. 10 der Stellungnahme trägt der Kläger zuletzt selbst vor, die Abgasreinigung funktioniere zwischen 18 und 34° C zu 100%. Damit ist die Abgasreinigung durchaus nicht nur auf dem Prüfstand, sondern während eines nicht unerheblichen Teils des Jahres zu 100% aktiv. Dies gilt auch für den abweichenden Vortrag, die Abgasreinigung sei zwischen 20 und 30° C zu 100% aktiv. Im Übrigen führt der Kläger auf S. 14 seiner Stellungnahme selbst aus, dass es sich beim Thermofenster um einen Industriestandard handelt. Für den Nachweis eines Vorsatzes hilft, wie bereits im Hinweisbeschluss ausgeführt, auch der Verweis auf die Zertifizierung der Beklagten nach der ISO 9001 nicht weiter.5. Zu der Behauptung, das streitgegenständliche Fahrzeug sei betroffen von einer unzulässigen Abschalteinrichtung in Bezug auf das Getriebe, bei der ein "Warmlaufprogramm" mittels Lenkwinkelerkennung die Emissionen prüfstandsbezogen manipuliere, ist zunächst festzuhalten, dass die Beklagte die Betroffenheit des Fahrzeuges von dem insoweit von der Klagepartei zitierten Rückruf der Nummer "7130" bereits erstinstanzlich bestritten hat (Bl. 256 ff. d.A.). Der nunmehrige Vortrag der Klagepartei zu den internen Konzernunterlagen zum Warmlaufprogramm wäre damit verspätet.Letztlich kann dies aber dahinstehen. Denn auch bei Zulassung dieses Vortrags bildet dieser kein Indiz für das Vorliegen einer unzulässigen Abschalteinrichtung, das eine Haftung nach § 826 BGB begründen könnte. Der bloße Umstand, dass das Fahrzeug aufgrund von bestimmten Parametern in der Lage ist, einen Prüfstandslauf zu erkennen, genügt allein nicht zur Annahme einer unzulässigen Abschalteinrichtung zur prüfstandsbezogenen Manipulation der NOx-Emissionen. Denn auch andere technische Einrichtungen wie das elektronische Stabilitätsprogramm oder die adaptive Fahrwerksregelung werden im Prüfstand nicht aktiviert zur Vermeidung von Messverfälschungen oder Sicherheitsrisiken. Unzulässig und objektiv sittenwidrig i.S.v. § 826 BGB sind solche Einrichtungen nur dann, wenn damit gezielt Emissionen in grenzwertrelevanter Weise auf dem Prüfstand manipuliert werden zur Erschleichung der Typengenehmigung. Dies hat die Klagepartei zwar behauptet, doch die von ihr insoweit zum Beleg vorgelegten Unterlagen bestätigen dies gerade nicht: Zwar heißt es dort (Bl. 401, 403 d.A.), die konkrete Lenkwinkelerkennung sei den Behörden nicht bekannt, doch ergibt sich aus den Ausführungen gemäß Bl. 399 d.A., die NOx-Grenzwerte (Diesel) würden eingehalten, und gemäß der auf Bl. 401 und 403 d.A. wiedergegebenen Seite der Anlage wird ausgeführt, dass ohne Warmlaufprogramm die NOx-Grenzwerte eingehalten würden. Auch die auf Bl. 405 d.A. zitierte Anlage besagt nichts anderes: Danach sind die Unterschiede zumeist gering und die Grenzwerte würden auch nach Ausbedatung zumeist eingehalten. Dies trägt schon den Vorwurf des objektiv sittenwidrigen Verhaltens im Sinne von § 826 BGB nicht. Das Getriebe AL 551 ist im streitgegenständlichen Fahrzeug nach Angaben des Klägers nicht verbaut.Nach alledem war die Berufung zurückzuweisen.III.Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO.Die Feststellung zur vorläufigen Vollstreckbarkeit des angefochtenen Urteils erfolgte gemäß § 708 Nr. 10, 711 ZPO.Der Streitwert für das Berufungsverfahren wurde in Anwendung der §§ 47, 48 GKG bestimmt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2448085.html (https://oj.is/2448085)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

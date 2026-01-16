@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BielefeldRechtsprechungUrteil vom 16.11.2021 - 6 O 126/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bielefeld, Urteil vom 16.11.2021 - 6 O 126/21
+                      m. Fundstelle
+                      LG Bielefeld, Urteil vom 16.11.2021 - 6 O 126/21 = openJur 2022, 16158
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bielefeld, Urteil vom 16.11.2021 - 6 O 126/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 16158
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte wird verurteilt, Zug um Zug gegen Herausgabe und Übereignung des Fahrzeugs Hersteller: Audi Fahrzeug-Identifizierungs-Nummer (FIN): XXX an den Kläger einen Betrag in Höhe von 28.937,38 € nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit dem 18.06.2021 zu zahlen.Es wird festgestellt, dass sich die Beklagte mit der Annahme der oben genannten Zug-um-Zug-Leistung im Annahmeverzug befindet.Die Beklagte wird verurteilt, dem Kläger die Kosten des außergerichtlichen Vorgehens in Höhe von 1.474,89 € nebst Zinsen in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit dem 18.06.2021 zu erstatten.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits werden der Beklagten auferlegt.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger nimmt die Beklagte auf Schadensersatz im Zusammenhang mit dem Erwerb eines - nach seiner Darstellung - vom sog. "Abgasskandal" betroffenen Fahrzeugs in Anspruch.Im März 2018 erwarb der Kläger das Fahrzeug AUDI Q5 3.0 TDI bei einem Autohändler zu einem Kaufpreis von 39.375 EUR. Die Laufleistung des Fahrzeugs betrug zu diesem Zeitpunkt 5.103 km. Im Zeitpunkt der mündlichen Verhandlung betrug sie 83.275 km, im Zeitpunkt der Klageerhebung 68.450 km.In dem Fahrzeug ist unstreitig kein vom sog. "Abgasskandal" betroffener Motor EA 189, sondern ein von der Beklagten hergestellter Motor 3,0 TDI EU6 mit einer Leistung von 190 KW (258 PS) eingebaut.Die Kontrolle der Stickoxidemissionen erfolgt bei dem Fahrzeug über die Abgasrückführung. Hierbei wird ein Teil des Abgases zurück in das Ansaugsystem des Motors geführt und nimmt erneut an der Verbrennung teil. Dabei wird diese Abgasrückführung bei kühleren Temperaturen softwarebedingt durch ein sog. "Thermofenster" zurückgefahren.Das Fahrzeug des Klägers unterliegt einem verpflichtenden Rückruf des Kraftfahrtbundesamtes (KBA) zur Entfernung unzulässiger Abschalteinrichtungen. In diesem Bescheid vertritt das KBA die Auffassung, in dem Fahrzeug komme eine unzulässige Abschalteinrichtung zum Einsatz.Dies, weil im Zusammenhang mit dem Temperaturmanagement des Motors verschiedene Strategien zum Einsatz kommen, die für ein Einhalten der Stickoxidgrenzwerts auf dem Prüfstand sorgen. Diese Strategien sind ausschließlich auf den Prüfstand ausgerichtet, so dass diese die entsprechenden - den Stickoxidausstoß verringernden Funktionen - nicht im Fahrbetrieb verwendet werden.Das KBA bezeichnet die Strategien als Strategie A, B und C:1. Strategie A ("Aufheizstrategie"): Strategie A werde im Rahmen der sog. Prüfung Typ 1 nach Verordnung (EG) Nr. 715/2007 genutzt. Ausgelöst werde die Strategie ausschließlich durch die Kombination einer Reihe von Bedingungen und Parametern, die in dieser exakten Kombination nur bei den Prüfbedingungen des Neuen Europäischen Fahrzyklus (NEFZ) erreicht würden.2. Strategie B ("Alternatives Aufheizen"): Strategie B sei der Strategie A vorgelagert. Ein Algorithmus erkenne dabei die Vorbereitung des Fahrzeugs auf die Typ 1 Prüfung. Durch diese Vorerkennung werde ein höherer NH3-Füllstand im SCR-Katalysator erreicht. Die Kombination aus Strategie A und B sorge dafür, dass der NOx-Grenzwert von 80mg/km nicht überschritten werde.3. Strategie C ("Re-Entry Aufheizen"): Durch diese Strategie werde sichergestellt, dass Strategie A im normalen Fahrbetrieb sicher abgeschaltet bleibe.Danach springt somit die schadstoffmindernde, sog. schnelle Motoraufwärmfunktion bei den betroffenen Fahrzeugen nur im Prüfzyklus NEFZ an. Im realen Verkehr unterbleibe diese NOx-Schadstoffminderung. Die Aufheizstrategie werde ausschließlich dann verwendet, wenn alle Parameter gleichzeitig vorlägen ("UND-Verknüpfung"). Nach den Ausführungen des Kraftfahrtbundesamtes seien die Werte so eng gewählt, dass die Strategie A nahezu ausschließlich im NEFZ mit den dort definierten Prüfbedingungen wirke. Es genügten kleine Abweichungen im Fahrprofil und Umgebungsbedingungen, wie sie im realen Fahrbetrieb natürlich vorkommen würden, um die Strategie A und damit diese Abgasreinigung abzuschalten.Ebenso verhält es sich mit den Parametern für die Strategie B. Diese seien ebenfalls ausschließlich auf den NEFZ abgestimmt und kämen in ihrer Gesamtheit im realen Fahrbetrieb praktisch nicht vor.Die Beklagte hat ihren Vertragshändlern unter anderem mitgeteilt, dass die Fahrzeuge des streitgegenständlichen Typs nur nach entsprechendem Hinweis an Kaufinteressenten über die Beanstandungen des KBA und die erforderliche Software-Aktualisierung verkauft werden dürfen. Zu diesem Zweck stellte die Beklagte den Vertragshändlern und Servicepartnern ebenfalls über das APP ein Musterschreiben zur Verfügung, welches diese fortan Kaufinteressen vor Abschluss des Kaufvertrags über ein Fahrzeug des streitgegenständlichen Typs aushändigen mussten (sog. Beipackzettel).Die Beklagte hat ferner im Rahmen einer Pressemitteilung am 21. Juli 2017 darüber informiert, dass sie in einem umfangreichen Maßnahmenplan bis zu 850.000 Fahrzeuge für die Halter kostenlos mit einem Software-Update ausstatten werde, um das Emissionsverhalten im realen Fahrbetrieb weiter zu verbessern.Ferner hat das Kraftfahrtbundesamt im Rahmen einer Pressemitteilung vom 23. Januar 2018 über den Rückruf unter anderem des hier in Rede stehenden Fahrzeugtyps informiert.Auch die Presse und Medien berichteten zum Rückruf dieses Fahrzeugtyps. Zudem konnte auf der Internetseite der Beklagten abgefragt werden, ob ein Fahrzeug mit der vom KBA beanstandeten Bedatung der Motorsteuerungssoftware ausgestattet ist und von der Feldmaßnahme "A-Diesel Emissionsminderung" betroffen sei.Mit anwaltlichem Schreiben vom 17.12.2020 (Anlage K24) hat der Kläger die Beklagte unter Fristsetzung zum 24.12.2020 u.a. zur Anerkennung einer Schadensersatzpflicht dem Grunde nach aufgefordert.Der Kläger behauptet, das Fahrzeug weise diverse unzulässige Abschalteinrichtungen auf. Wegen der Einzelheiten hierzu wird auf den Inhalt der Klageschrift sowie des Schriftsatzes vom 01.09.2021 Bezug genommen. Er vertritt die Auffassung, bei der vom Kraftfahrtbundesamt beanstandeten Motoraufwärmfunktion handele es sich um eine solche. Gleichermaßen handele es sich bei dem Thermofenster um eine unzulässige Abschalteinrichtung.Der Kläger vertritt die Auffassung, die Entwicklung, die Herstellung und das Inverkehrbringen des Fahrzeugs sowie des darin verbauten Motors stellten eine vorsätzliche sittenwidrige Schädigung dar. Die Beklagte täusche damit bewusst über die wesentlichen Eigenschaften ihrer Fahrzeuge und deren Eignung für die Straßenzulassung und den tatsächlichen Eigenschaften hinsichtlich Umweltbelastung und Schadstoffausstoß.Der zum Zeitpunkt des Erwerbs des Fahrzeuges tätige Vorstand der Beklagten habe in allen Einzelheiten gewusst, dass in Fahrzeugen mit dem Dieselmotor eine unzulässige Abschalteinrichtung verwendet werde.Die Schadloshaltung des Klägers müsse dahin gehen, dass er so gestellt würde, als hätte er das Fahrzeug nicht gekauft.Vorgerichtliche Rechtsanwaltskosten seien in Höhe einer 2,0-Geschäftsgebühr zu ersetzen.Der Kläger beantragt:1.Die Beklagte wird verurteilt, Zug um Zug gegen Herausgabe und Übereignung des Fahrzeugs Hersteller: Audi Fahrzeug-Identifizierungs-Nummer (FIN): xxx an die Klagepartei einen Betrag in Höhe von 39.375,00 € nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit unter Anrechnung einer Nutzungsentschädigung für die Nutzung des Fahrzeugs zu erstatten, die sich aus folgender Formel ergibt: Kaufpreis x (Kilometerstand im Zeitpunkt der mündlichen Verhandlung ‐ Kilometerstand bei Kauf) / (in das Ermessen des Gerichts gestellte Gesamtlaufleistung ‐ Kilometerstand bei Kauf).2. Es wird festgestellt, dass sich die Beklagte mit der Annahme der in dem Klageantrag zu 1) genannten Zugum-Zug-Leistung im Annahmeverzug befindet.3.Die Beklagte wird verurteilt, die Kosten des außergerichtlichen Vorgehens in Höhe von 2.434,74 € nebst Zinsen in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu erstatten.Die Beklagte beantragt,die Klage abzuweisen.Sie behauptet, nach Auffassung des Kraftfahrtbundesamtes sei die Bedatung der vom KBA beanstandeten Softwarebestandteile zu ändern bzw. aufzuweiten, um einen breiteren Anwendungsbereich im Straßenbetrieb zu gewährleisten. Es sei nicht zutreffend, dass im Fahrzeug aufgrund einer Lenkwinkelerkennung eine veränderte Abgasrückführung in Gang gesetzt werde. Das Emissionskontrollsystem werde durch die Erkennung des Lenkwinkels nicht abgeschaltet. Ein behördlich angeordneter Rückruf des KBA hinsichtlich einer unzulässigen Lenkwinkelerkennung liege beim streitgegenständlichen Fahrzeug nicht vor.Die Beklagte vertritt die Auffassung, bei dem Thermofenster handele es sich nicht um eine unzulässige Abschalteinrichtung. Der verbindlich angeordnete Rückruf beziehe sich nicht auf das Thermofenster.Der Vorwurf der Verwendung einer unzulässigen Abschalteinrichtung im Getriebe sei ebenfalls unzutreffend. Die verbindliche Anordnung des Kraftfahrtbundesamtes beziehe sich hierauf nicht.Sie - die Beklagte - habe auch nicht über das On-Board-Diagnose-Programm (OBD) der Fahrzeuge getäuscht. Das streitgegenständliche Fahrzeug verfüge über ein funktionsfähiges und den gesetzlichen Anforderungen entsprechendes OBD-System.Sie bestreitet eine Täuschung und einen entscheidungserheblichen, für den Kaufvertragsschluss ursächlichen Irrtum auf Klägerseite. Dem Kläger sei bei Erwerb bekannt gewesen oder hätte bekannt sein müssen, dass das Fahrzeug von einem Rückruf des KBA betroffen ist.Die Beklagte ist der Ansicht, durch die Verhaltensänderung in Form u.a. der Information der Händler, verbunden mit der Anweisung, Fahrzeuge dieses Typs ohne durchgeführtes Update nur nach vorheriger Aufklärung der Kaufinteressenten und Übergabe des Beipackzettels zu verkaufen, sei ein möglicherweise vorher bestehender Schädigungsvorsatz sowie eine etwaige Sittenwidrigkeit ihres Verhaltens entfallen.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf den Inhalt der gewechselten Schriftsätze und die zu den Akten gereichten Unterlagen Bezug genommen. 
+				Gründe
+				1.Der Kläger hat gegen die Beklagte einen Anspruch auf Schadensersatz in zuerkannter Höhe Zug um Zug gegen Übergabe und Übereignung des im Tenor bezeichneten Fahrzeugs aus §§ 826, 31 BGB.Die Beklagte hat dem Kläger in einer gegen die guten Sitten verstoßenden Weise vorsätzlich Schaden zugefügt.a)Die Beklagte hat die zuständige Genehmigungsbehörde durch das Herstellen und Inverkehrbringen des Motors mit einer manipulierten Motorsteuerungssoftware konkludent getäuscht. Mit dem Antrag auf Erteilung einer Typengenehmigung für ein Fahrzeug nebst Motor gibt ein Hersteller gegenüber der Genehmigungsbehörde die Erklärung ab, dass der Einsatz dieses Fahrzeugs entsprechend seinem Verwendungszweck im Straßenverkehr uneingeschränkt zulässig ist, d. h. insbesondere, dass das Fahrzeug eine uneingeschränkte Betriebserlaubnis erhalten darf, deren Fortbestand nicht aufgrund bereits bei der Auslieferung des Fahrzeugs dem Hersteller bekannter, konstruktiver Eigenschaften gefährdet ist. Das setzt voraus, dass nicht nur die erforderlichen Zulassungs- und Genehmigungsverfahren formal erfolgreich durchlaufen werden, sondern auch, dass die für den Fahrzeugtyp erforderliche EG-Typengenehmigung nicht durch eine Täuschung des zuständigen Kraftfahrt-Bundesamtes erschlichen worden ist und das Fahrzeug den für den Erhalt und die Fortdauer der EG-Typengenehmigung einzuhaltenden Vorschriften tatsächlich entspricht. Trifft dies nicht zu, steht es wertungsmäßig einer unmittelbaren arglistigen Täuschung des Pkw-Käufers gleich (vgl. BGH, Urteil vom 25.05.2020; VI ZR 252/19, Rn. 25; OLG Hamm, Urteil vom 10. September 2019, 13 U 149/18, juris, Rn. 45, OLG Hamm, Urteil vom 23. November 2020 - I-8 U 43/20 -, Rn. 56 - 57, juris).Hier lag eine unzulässige Abschalteinrichtung vor. Zwar greift nicht unmittelbar die Rechtsprechung des Bundesgerichtshofs vom 25.05.2020 (VI ZR 252/19) betreffend des VW Motors EA 189. Jedoch hat das KBA unter anderem für das Fahrzeug des Klägers die Entfernung einer als unzulässig bewerteten Abschalteinrichtung angeordnet. Ferner hat der Kläger vorgetragen, dass die schadstoffmindernde, sogenannte schnelle Motoraufwärmfunktion bei dem Fahrzeug nur im Prüfstand anspringe, während im realen Verkehr es nicht zu einer stickstoffreduzierenden Aufwärmphase komme und die NOx-Schadstoffminderung unterbleibe.Dieser Vortrag ist von der Beklagten nachfolgend nicht bestritten worden.Der Kläger hat damit mit dem Vortrag zu der dargelegten Abschalteinrichtung und der Betroffenheit seines eigenen Fahrzeugs von dieser Abschalteinrichtung hinreichend substantiiert vorgetragen, dass es sich bei der Aufheizstrategie um eine unzulässige Abschalteinrichtung handele, während die Beklagte nicht wirksam bestritten hat, dass die Aufheizstrategie des vorliegend betroffenen Motortyps eine unzulässige Abschalteinrichtung darstellt (vgl. auch OLG Hamm, Urteil vom 23. November 2020 - I-8 U 43/20 -, Rn. 61, juris).Danach steht fest, dass Parameter für die Motoraufwärmfunktion vorgegeben waren, die auf den Prüfstand zugeschnitten waren und gewährleisteten, dass die Funktion dort wirkte. Vor diesem Hintergrund kann nicht angenommen werden, dass die Funktion im realen Straßenverkehr überhaupt eine echte schadstoffmindernde Wirkung haben sollte. Vielmehr ist davon auszugehen, dass sich der eigentliche Sinn der Funktion darin erschöpfte, auf dem Prüfstand niedrige NOx-Werte zu erzielen und dabei vorzutäuschen, diese Werte würden auch im realen Straßenverkehr erreicht. Die gesamte Konstruktion war daher darauf ausgelegt, über die Manipulation zu täuschen.Dies bewertet das Gericht in Übereinstimmung mit dem Kraftfahrtbundesamt und mehreren Oberlandesgerichten, die vergleichbare Fälle zu entscheiden hatten (OLG Hamm a.a.O.; OLG Frankfurt, Urteil vom 24. Februar 2021 - 4 U 257/19 -, Rn. 31 - 32, juris; OLG Koblenz, Urteil vom 5. Juni 2020 - 8 U 1803/19 -, Rn. 34 und vom 30.03.2021 - 3 U 1438/20 -, juris; OLG Oldenburg, Urteil vom 16. Oktober 2020 - 11 U 2/20 -, Rn. 58 m.w.N., und vom 04.03.2021 - 14 U 185/20 -, zitiert nach juris; OLG Naumburg, Urteil vom 18.09.2020 - 8 U 39/20 -)), als unzulässige Abschalteinrichtung nach Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007, welche neben einer erhöhten Belastung der Umwelt mit Stickoxiden auch - wie die verpflichtenden Rückrufe und die Anforderung eines Updates durch das Kraftfahrtbundesamt zeigen - mit der Gefahr einherging, dass bei einer Aufdeckung dieses Sachverhalts eine Betriebsbeschränkung oder - untersagung hinsichtlich der betroffenen Fahrzeuge hätte erfolgen können (vgl. BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 16, 19 ff., zitiert nach juris; OLG Koblenz, a.a.O.; OLG Oldenburg, a.a.O.; OLG Naumburg, a.a.O.).b)Das schädigende Verhalten ist der Beklagten auch analog § 31 BGB zuzurechnen, denn es ist davon auszugehen, dass die Organe der beklagten AG an der zumindest konkludenten Täuschung des KBA - die einer Täuschung des Klägers gleichsteht - verantwortlich beteiligt waren. Mit der Folge, dass der Vortrag des Klägers gem. § 138 Abs. 3 ZPO als zugestanden zu gelten hat, ist die Beklagte auch im vorliegenden Fall aus vergleichbaren Gründen wie in der Rechtsprechung des BGH dargelegt (Urteil vom 25.05.2020, VI ZR 252/19) ihrer sekundären Darlegungslast nicht nachgekommen. Die dortigen Grundsätze sind auf die vorliegende Konstellation zu übertragen. Der Kläger hat zu den in der Sphäre der Beklagten zu liegenden Umständen hinreichend konkret vorgetragen. Wie auch betreffend den Motor EA 189 gemäß Urteil des BGH vom 25.05.2020 (VI ZR 252/19) trifft vorliegend die Beklagte eine sekundäre Darlegungslast, dass und warum der Vorstand in die Entwicklung nicht involviert gewesen sei. Dieser ist die Beklagte mit ihrem Vortrag nicht hinreichend nachgekommen. Sie legt nicht plausibel dar, wie eine derartige Software ohne Wissen des Vorstands entwickelt und verbaut worden sein soll (vgl. auch OLG Hamm, Urteil vom 23. November 2020 - I-8 U 43/20 -, Rn. 64, juris).c)Das Verhalten der Beklagten im Verhältnis zur klagenden Partei ist objektiv als sittenwidrig zu qualifizieren. Da feststeht, dass die Beklagte eine unzulässige Abschalteinrichtung verwendet hat, gibt es keinen Grund, die Frage der Sittenwidrigkeit im Ansatz anders als bei dem Motor EA 189 zu beurteilen. Die Gründe für die Annahme der Sittenwidrigkeit in dem Urteil des BGH vom 25.05.2020 (VI ZR 252/19) sind grundsätzlich sinngemäß auf den vorliegenden Fall zu übertragen (vgl. auch OLG Hamm, Urteil vom 23. November 2020 - I-8 U 43/20 -, Rn. 68, juris).Der Sittenwidrigkeit ihres Handelns auch nicht entgegen, dass die Betroffenheit des streitgegenständlichen Motors durch die Abschalteinrichtung grundsätzlich durch die Veröffentlichung des KBA vom 23.01.2018 und damit vor dem Zeitpunkt des Erwerbs seitens des Klägers - öffentlich gemacht worden ist. Zum 28.03.2018 hatte die Beklagte zu 1) ihr Verhalten bezogen auf Fahrzeuge mit dem streitgegenständlichen Motor nach außen hin noch nicht in einer Weise geändert, die die sittenwidrige Täuschung entfallen lassen könnte. Die Beklagte ist gerade nicht an die Öffentlichkeit getreten und hat ihre potentiellen Kunden gerade nicht proaktiv über die bei dem streitgegenständlichen Motor entstandene Problematik unterrichtet.Vor dem Pkw-Kauf des Klägers vom 28.03.2018 hat die Beklagte keinerlei Pressepublikation veranlasst, um mögliche Käufer neuer oder gebrauchter Fahrzeuge mit Motoren des vorliegend betroffenen Typs selbst aktiv darüber zu informieren, dass diese nach dem Bescheid des KBA eine unzulässige Abschalteinrichtung aufwiesen und gegenwärtig oder zukünftig von einer alle Fahrzeuge betreffenden Rückrufaktion betroffen sind oder sein werden. In der von der Beklagten angeführten Pressemitteilung vom 21.07.2017 hat diese gerade nicht das Vorhandensein unzulässiger Abschalteinrichtungen eingeräumt, sondern lediglich über das Angebot eines Softwareupdates zur Verbesserung des Emissionsverhaltens im Fahrbetrieb informiert.Auch die Information der Vertragshändler lässt den Sittenwidrigkeitsvorwurf nicht entfallen. Dies wäre allenfalls dann der Fall gewesen, wenn die Beklagte einen verlässlichen Kontrollmechanismus installiert hätte, mit dem sie sichergehen durfte, dass ihre Vertragshändler bei Gebrauchtwagenverkäufen verlässlich jeden potentiellen Kunden entsprechend informieren würden (OLG Hamm a.a.O.). Derartiges ist nicht vorgetragen. Der Umstand, dass das Kraftfahrtbundesamt an die Öffentlichkeit getreten ist, ist gleichermaßen nicht geeignet, den Sittenwidrigkeitsvorwurf entfallen zu lassen, da routinemäßige Presseerklärungen des KBA nicht annähernd die Wirkung in den Medien wie etwa ein Eingeständnis der Fahrzeugherstellerin erzielen (OLG Hamm a.a.O.).d)Entsprechend der objektiven Zurechnung handelte die Beklagte auch subjektiv mit Schädigungsvorsatz.In subjektiver Hinsicht muss sich die beklagte AG grundsätzlich das Wissen der für sie handelnden Leitungsorgane zurechnen lassen (z. B. BGH, Urteile vom 26. April 2016, XI ZR 108/15 und XI ZR 167/15, juris). Mangels hinreichender sekundärer Darlegungen der Beklagten geht das Gericht davon aus, dass in objektiver Hinsicht ein anweisendes bzw. in Kauf nehmendes Handeln des Vorstandsvorsitzenden der Beklagten und/oder eines/mehrerer verantwortlicher Vorstandsmitgliedes/r für die Planung, Entwicklung und Umsetzung der Aufheizstrategie in den Motoren u. a. des Fahrzeugs des Klägers vorgelegen hat und dieses Handeln auf den Zeitpunkt des Pkw-Erwerbs fortwirkte. In subjektiver Hinsicht ist zumindest von einem der Beklagten zuzurechnenden bedingten Vorsatz im Sinne eines billigenden Inkaufnehmens auszugehen (vgl. auch OLG Hamm, Urteil vom 23. November 2020 - I-8 U 43/20 -, juris)Der klagenden Partei ist durch das sittenwidrige Verhalten der Beklagten ein Schaden entstanden, §§ 826, 249 Abs. 1 BGB, der in dem Abschluss des Kaufvertrags über das bemakelte Fahrzeug liegt (vgl. BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 45, juris).e)Die Beklagte hat der klagenden Partei nach §§ 249 ff. BGB den entstandenen Schaden zu ersetzen. Zu ersetzen ist der gesamte Schaden, nicht nur der vorausgesehene oder voraussehbare. Besteht der Schaden in der sittenwidrigen Herbeiführung eines Vertrages, richtet sich der Anspruch auf Ersatz des negativen Interesses (vgl. Palandt/Sprau, Bürgerliches Gesetzbuch, 78. Aufl. 2019, § 826, Rn. 14 f.). Der Kläger kann also verlangen, so gestellt zu werden, wie er stehen würde, wenn er das Fahrzeug nicht erworben und den Kaufvertrag nicht abgeschlossen hätte. Der Kläger kann mithin die Rückzahlung des Kaufpreises gegen Übergabe und Übereignung des Fahrzeugs verlangen, muss sich auf seinen Anspruch allerdings in Ausfluss der Grundsätze der Vorteilsausgleichung die von ihm gezogenen Nutzungen anrechnen lassen (vgl. OLG Hamm, Urteil vom 10. September 2019 - 13 U 149/18, Rn. 85 - juris).Vorliegend kann die klagende Partei die Rückzahlung des Kaufpreises abzüglich einer Entschädigung für die gezogenen Nutzungen Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs an die Beklagte verlangen. Der Wert der durch den Gebrauch des Fahrzeugs gezogenen Nutzungen hat durch Schätzung gem. § 287 ZPO zu erfolgen (vgl. BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 65 ff., juris). Das Gericht geht dabei im Wege der Schätzung gem. § 287 ZPO von einer Gesamtlaufleistung von 300.000 km aus.Die Berechnung des Nutzungsvorteils erfolgt, indem der Bruttokaufpreis mit den gefahrenen Kilometern multipliziert und das Produkt durch noch die zu erwartende Gesamtlaufleistung bei Kauf von 294.897 km abzüglich des bereits eventuell vorhandenen km-Standes bei Kauf dividiert wird (Bruttokaufpreis 39.375,00 € x gefahrene Kilometer 78.172) : restl. Gesamtlaufleistung 294.897 km = 10.437,62 €).Für die gefahrenen Kilometer ergibt sich damit ein Betrag von 10.437,62 Euro.f)Auf die weiteren behaupteten Abschalteinrichtungen im Fahrzeug des Klägers kam es nicht mehr an.2.Der Kläger hat einen Anspruch auf Rechtshängigkeitszinsen aus §§ 291, 288 BGB.3.Die Klage ist ferner mit dem Antrag auf Feststellung des Annahmeverzugs gem. den §§ 293, 295 BGB begründet.4.Der Anspruch auf Freistellung von außergerichtlichen Rechtsanwaltskosten in Höhe von 1.474,89 Euro ergibt sich aus den §§ 826, 249 Abs. 1 BGB. Bei einer vorsätzlichen sittenwidrigen Schädigung sind die Anwaltskosten für die außergerichtliche Tätigkeit (hier in Form des als Anlage K24 vorgelegten Aufforderungsschreibens) Teil des zu ersetzenden Schadens.Die erforderlichen Anwaltskosten ergeben sich der Höhe nach aus einer 1,3 Geschäftsgebühr nach dem berechtigten Wert der Forderung im Zeitpunkt der Anspruchserhebung - mithin unter Abzug der bis zu diesem Zeitpunkt anzurechnenden Nutzungsentschädigung - zuzüglich Auslagenpauschale von 20 € und 19% Mehrwertsteuer. Eine über eine 1,3 Geschäftsgebühr hinausgehende Geschäftsgebühr zu zahlen durfte der Kläger dagegen nicht für erforderlich halten. Es handelt sich vorliegend sowohl hinsichtlich des Umfangs als auch hinsichtlich des rechtlichen Schwierigkeitsgrades nicht um einen überdurchschnittlichen Fall. Die diskutierten Rechtsfragen sind Gegenstand unzähliger Rechtsstreitigkeiten und Gerichtsentscheidungen, die Beteiligten verwenden standardisierte Schreiben und Textbausteinsteine formularmäßig in einer Vielzahl von Fällen.Die prozessualen Nebenentscheidungen beruhen auf den §§ 92 Abs. 2 Nr. 1, 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2448600.html (https://oj.is/2448600)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate8
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitOLG Frankfurt am MainRechtsprechungUrteil vom 15.12.2020 - 25 U 247/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Frankfurt am Main, Urteil vom 15.12.2020 - 25 U 247/19
+                      m. Fundstelle
+                      OLG Frankfurt am Main, Urteil vom 15.12.2020 - 25 U 247/19 = openJur 2021, 44329
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Frankfurt am Main, Urteil vom 15.12.2020 - 25 U 247/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 44329
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung der Klägerin gegen das Urteil der 7. Zivilkammer des Landgerichts Marburg vom 7. August 2019 in der Fassung des Berichtigungsbeschlusses vom 14. Oktober 2019 wird zurückgewiesen.Die Klägerin hat die Kosten des Berufungsverfahrens zu tragen.Das vorliegende Urteil und das erstinstanzliche Urteil sind ohne Sicherheitsleistung vorläufig vollstreckbar. Die Klägerin darf die Vollstreckung durch Sicherheitsleistung in Höhe von 110 % des aufgrund des jeweiligen Urteils vollstreckbaren Betrags abwenden, wenn die Beklagte nicht vor der Vollstreckung Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrags leistet.Die Revision wird nicht zugelassen.Der Gebührenstreitwert des Berufungsverfahrens wird auf 23.000,00 Euro festgesetzt.  
+				Gründe
+				I.Die Parteien streiten darüber, ob der Klägerin wegen des Erwerbs eines vom so genannten Dieselabgasskandal betroffenen Kraftfahrzeugs Schadensersatzansprüche gegen die Beklagte zustehen.Die Klägerin kaufte am 31. August 2016 von einem gewerblichen Kraftfahrzeughändler einen gebrauchten Volkswagen Tiguan 2.0 TDI zum Preis von 22.500,00 Euro.Das Kraftfahrzeug ist mit einem von der Beklagten entwickelten und hergestellten Dieselmotor der Baureihe EA189 (Abgasnorm Euro 5) ausgestattet. Motoren dieser Baureihe werden im Auslieferungszustand von einer Software gesteuert, die erkennt, ob das Kraftfahrzeug auf einem Prüfstand den Neuen Europäischen Fahrzyklus (NEFZ) durchläuft oder ob es im Straßenverkehr betrieben wird. Unter Prüfstandbedingungen aktiviert die Software den Betriebsmodus 1, in dem durch eine vermehrte Abgasrückführung geringere Stickoxidemissionen erreicht werden als im regulären Fahrbetrieb, bei dem der Betriebsmodus 0 aktiv ist. Hierüber wurde das Kraftfahrt-Bundesamt vor Erteilung der Typgenehmigungen für die mit den betreffenden Motoren ausgerüsteten Fahrzeugmodelle der Marken Volkswagen, Audi, Seat und Skoda nicht informiert.Am 22. September 2015 gab die Beklagte eine Ad-hoc-Mitteilung nach § 15 WpHG sowie eine gleichlautende Presseerklärung heraus, die auszugsweise wie folgt lauten: "Volkswagen treibt die Aufklärung von Unregelmäßigkeiten einer verwendeten Software bei Diesel-Motoren mit Hochdruck voran ... Weitere bisherige interne Prüfungen haben ergeben, dass die betreffende Steuerungssoftware auch in anderen Diesel-Fahrzeugen des Volkswagen Konzerns vorhanden ist. Bei der Mehrheit dieser Motoren hat die Software keinerlei Auswirkungen. Auffällig sind Fahrzeuge mit Motoren vom Typ EA189 mit einem Gesamtvolumen von weltweit rund elf Millionen Fahrzeugen. Ausschließlich bei diesem Motortyp wurde eine auffällige Abweichung zwischen Prüfstandswerten und realem Fahrbetrieb festgestellt. Volkswagen arbeitet mit Hochdruck daran, diese Abweichungen mit technischen Maßnahmen zu beseitigen. Das Unternehmen steht dazu derzeit in Kontakt mit den zuständigen Behörden und dem Deutschen Kraftfahrtbundesamt."Unter dem 15. Oktober 2015 erging gegen die Beklagte ein bestandskräftiger Bescheid des Kraftfahrt-Bundesamts (KBA) mit nachträglichen Nebenbestimmungen zur Typgenehmigung. Das KBA ging vom Vorliegen einer unzulässigen Abschalteinrichtung im Sinne von Art. 5 Abs. 1 der VO (EG) 715/2007 aus und gab der Beklagten auf, diese zu beseitigen und die Einhaltung der maßgeblichen Grenzwerte anderweitig zu gewährleisten. In Abstimmung mit dem Kraftfahrtbundesamt (KBA) entwickelte die Beklagte einen Zeit- und Maßnahmenplan, nach dem eine technische Überarbeitung der Fahrzeuge mit dem Dieselmotor EA189 vorgesehen war. Das später von der Klägerin erworbene Fahrzeug wurde bereits am 21. Juli 2016 mit einer überarbeiteten Motorsteuerungssoftware ausgestattet.Die Klägerin hat die Auffassung vertreten, die Beklagte hafte ihr aus unerlaubter Handlung auf Schadenersatz. Indem sie die Manipulationssoftware entwickelt, das Fahrzeug mit dieser Software ausgestattet und dieses sodann in den Verkehr gebracht habe, habe sie unter anderem einen Betrug (§ 823 Abs. 2 BGB in Verbindung mit § 263 Abs. 1 StGB) und eine sittenwidrige Schädigung im Sinne von § 826 BGB begangen. Ihr Schaden bestehe darin, dass sie in Unkenntnis der Manipulationssoftware den Pkw erworben und einen wirtschaftlich nachteiligen Vertrag abgeschlossen habe.Mit ihrer Klage hat die Klägerin die Feststellung begehrt, dass ihr die Beklagte wegen der aus der Beeinflussung der Abgasmenge bzw. aus dem Einbau einer unzulässigen Abschalteinrichtung resultierenden Schäden zum Schadensersatz verpflichtet ist. Außerdem hat die Freistellung von vorgerichtlichen Rechtsanwaltskosten verlangt.Die Beklagte ist der Klage entgegengetreten. Sie hat gemeint, bei der so genannten Umschaltlogik handele es sich nicht um eine unzulässige Abschalteinrichtung. Die Klägerin habe zudem keinen Schaden erlitten. Das Fahrzeug halte nach der technischen Überarbeitung durch das vom KBA freigegebene Softwareupdate alle Emissionsgrenzwerte ein.Wegen der weiteren Einzelheiten des erstinstanzlichen Sach- und Streitstands wird auf die tatsächlichen Feststellungen in dem angefochtenen Urteil (Band IV Blatt 782 ff. der Akten) Bezug genommen.Das Landgericht hat die Klage abgewiesen. Wegen der hierfür maßgeblichen Erwägungen wird auf die Entscheidungsgründe des angefochtenen Urteils verwiesen.Die Klägerin hat gegen das ihr am 20. August 2019 zugestellte Urteil am 20. September 2019 Berufung eingelegt und diese nach entsprechender Verlängerung der Berufungsbegründungsfrist am 20. Januar 2020 begründet. Sie hält unter Wiederholung und Vertiefung ihres erstinstanzlichen Vorbringens an ihrer Auffassung fest, dass ihr die Beklagte sowohl gemäß § 823 Abs. 2 in Verbindung mit § 263 StGB als auch gemäß §§ 826, 31 BGB, gemäß § 831 BGB und aus europarechtlichen Vorschriften mit - angeblich - drittschützender Wirkung zum Schadensersatz verpflichtet sei. Wegen der weiteren Einzelheiten wird auf den Schriftsatz vom 20. Januar 2020 (Band IV Blatt 840 ff. der Akten) Bezug genommen. Mit Schriftsatz vom 11. Dezember 2020 hat die Klägerin ihren Anspruch erstmals darauf gestützt, dass das von der Beklagten entwickelte Softwareupdate wiederum eine unzulässige Abschalteinrichtung enthalte, was den verantwortlich Handelnden der Beklagten bekannt gewesen sein soll.Die Klägerin beantragt,das erstinstanzliche Urteil aufzuheben und den Rechtsstreit zur erneuten Verhandlung und Entscheidung an das Landgericht Marburg zurückzuverweisen,hilfsweise, das erstinstanzliche Urteil abzuändern und1. die Beklage zu verurteilen, an sie 22.500,00 Euro nebst Zinsen hieraus in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 20. Dezember 2018 zu bezahlen, Zug um Zug gegen Übereignung und Herausgabe des Personenkraftwagens VW Tiguan 2.0 TDI, Fahrzeugidentifikationsnummer ...,2. festzustellen, dass die Beklagte verpflichtet ist, ihr Schadensersatz zu bezahlen für weitere Schäden, die daraus resultieren, dass die Beklagte das Fahrzeug VW Tiguan 2.0 TDI, Fahrzeugidentifikationsnummer ..., dahingehend beeinflusst hat, dass dieses hinsichtlich der Abgasstoffmenge im Prüfstandbetrieb einen geringeren Ausstoß aufweist als im regulären Betrieb im Straßenverkehr,hilfsweise festzustellen, dass die Beklagte verpflichtet ist, ihr Schadensersatz zu leisten für weitere Schäden, die daraus resultieren, dass die Beklagte in den Motor, Typ EA189, des Fahrzeugs VW Tiguan 2.0 TDI, Fahrzeugidentifikationsnummer ..., eine unzulässige Abschalteinrichtung in der Form einer Software eingebaut hat, welche bei Erkennung standardisierter Prüfstandsituation (NEFZ) die Abgasaufbereitung so optimiert, dass möglichst wenig Stickoxide (NOx) entstehen und Stickoxidemissionswerte reduziert werden, und die im Normalbetrieb Teile der Abgaskontrollanlage außer Betrieb setzt, so dass es zu einem höheren NOx-Ausstoß führt,3. festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag zu 1 genannten Personenkraftwagens im Annahmeverzug befindet,4. die Beklagte zu verurteilen, sie von den durch die Beauftragung ihrer Prozessbevollmächtigten entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.899,24 Euro freizustellen.Die Beklagte beantragt,die Berufung zurückzuweisen.Sie verteidigt das angefochtene Urteil. Im Übrigen beruft sie sich auf Verjährung.II.Die Berufung ist zulässig, insbesondere form- und fristgerecht eingelegt und begründet worden.In der Sache selbst hat das Rechtsmittel jedoch keinen Erfolg.Es ist weder dargetan noch sonst ersichtlich, dass das erstinstanzliche Verfahren an einem wesentlichen Mangel leiden würde (§ 538 Abs. 2 Satz 1 Nr. 1 ZPO). Die von der Klägerin in erster Linie beantragte Zurückverweisung kommt aber auch deshalb nicht in Betracht, weil der Rechtsstreit ohne Beweisaufnahme entscheidungsreif ist.Das Landgericht hat die Klage zu Recht abgewiesen.Die Klägerin hat gegen die Beklagte wegen des Kaufs des hier in Rede stehenden Kraftfahrzeugs keinen Anspruch auf Schadensersatz.1. Der Klägerin steht gegen die Beklagte kein Schadensersatzanspruch gemäß §§ 826, 31 BGB zu. Denn das Verhalten der Beklagten ist im Verhältnis zur Klägerin nicht als sittenwidrig zu qualifizieren.Richtig ist zwar, dass die Beklagte Käufer, die ein mit dem Dieselmotor der Baureihe EA189 ausgestattetes Kraftfahrzeug vor dem 22. September 2015 gekauft haben, in vorsätzlich sittenwidriger Weise geschädigt hat (BGH, Urteil vom 25. Mai 2020, VI ZR 252/19, NJW 2020, 1963 Rdn. 13 ff.). Die Beklagte hat auf der Grundlage einer für ihren Konzern getroffenen grundlegenden strategischen Entscheidung bei der Motorenentwicklung zum Zwecke der Erlangung der EG-Typengenehmigung auf kostengünstigem Weg im eigenen Kosten- und damit auch Gewinninteresse durch bewusste und gewollte Täuschung des KBA systematisch, langjährig und in Bezug auf den Dieselmotor der Baureihe EA189 in siebenstelligen Stückzahlen in Deutschland Fahrzeuge in Verkehr gebracht, deren Motorsteuerungssoftware bewusst und gewollt so programmiert war, dass die gesetzlichen Abgasgrenzwerte mittels einer unzulässigen Abschalteinrichtung nur auf dem Prüfstand eingehalten wurden. Damit gingen einerseits eine erhöhte Belastung der Umwelt mit Stickoxiden und andererseits die Gefahr einher, dass bei einer Aufdeckung dieses Sachverhalts eine Betriebseinschränkung oder Betriebsuntersagung hinsichtlich der betroffenen Fahrzeuge gemäß § 5 Abs. 1 FZV hätte erfolgen können. Ein solches Verhalten ist im Verhältnis zu einer Person, die eines der bemakelten Fahrzeuge in Unkenntnis der illegalen Abschalteinrichtung erwirbt, besonders verwerflich und mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht zu vereinbaren. Die Verwerflichkeit des Verhaltens der Beklagten ergibt sich dabei trotz des an sich erlaubten Ziels der Gewinnmaximierung unter anderem daraus, dass sie sich bei ihrer strategischen Entscheidung die Arglosigkeit und das Vertrauen der Fahrzeugkäufer auf die Einhaltung der gesetzlichen Vorgaben gezielt zunutze gemacht hat.Die Klägerin hat ihr Fahrzeug indes erst am 31. August 2016 erworben, also nachdem die Beklagte an die Öffentlichkeit getreten war und die Verwendung einer Manipulationssoftware eingeräumt hatte. Zur Beurteilung der Sittenwidrigkeit ist in einer Gesamtschau das gesamte Verhalten des Schädigers bis zum Eintritt des Schadens beim konkreten Geschädigten zugrunde zu legen (BGH, Urteil vom 30. Juli 2020, VI ZR 5/20, NJW 2020, 2798 Rdn. 30 ff.). Bereits die Mitteilung der Beklagten vom 22. September 2015 war objektiv geeignet, das Vertrauen potenzieller Käufer von Gebrauchtwagen mit VW-Dieselmotoren in eine vorschriftsgemäße Abgastechnik zu zerstören, diesbezügliche Arglosigkeit also zu beseitigen (BGH, Urteil vom 30. Juli 2020, VI ZR 5/20, NJW 2020, 2798 Rdn. 37). Aufgrund der Verlautbarung und ihrer als sicher vorherzusehenden medialen Verbreitung war typischerweise nicht mehr damit zu rechnen, dass Käufer von gebrauchten VW-Fahrzeugen mit Dieselmotoren die Erfüllung der hier maßgeblichen gesetzlichen Vorgaben noch als selbstverständlich voraussetzen würden. Für die Ausnutzung einer diesbezüglichen Arglosigkeit war damit kein Raum mehr; hierauf konnte das geänderte Verhalten der Beklagten nicht mehr gerichtet sein. Aus der Mitteilung vom 22. September 2015 ging weiter hervor, dass "die zuständigen Behörden" und das KBA bereits involviert waren. Die anschließende Berichterstattung über die Anordnungen des KBA gegenüber der Beklagten ließ erwarten, dass ein Misslingen der behördlicherseits geforderten Herstellung eines vorschriftsmäßigen Zustandes - auch für die Fahrzeughalter - nicht folgenlos bleiben würde. Die Beklagte hat ihre strategische unternehmerische Entscheidung, im eigenen Kosten- und Gewinninteresse das KBA und letztlich die Fahrzeugkäufer zu täuschen, ersetzt durch die Strategie, an die Öffentlichkeit zu treten, Unregelmäßigkeiten einzuräumen und in Zusammenarbeit mit dem KBA Maßnahmen zur Beseitigung des gesetzwidrigen Zustandes zu erarbeiten, um die Gefahr einer Betriebsbeschränkung oder -untersagung zu bannen. Entsprechend hat der Bundesgerichtshof das Verhalten der Beklagten gegenüber einem Käufer, der sein Fahrzeug im August 2016 erworben hatte, als nicht (mehr) sittenwidrig qualifiziert (BGH, Urteil vom 30. Juli 2020, VI ZR 5/20, NJW 2020, 2798 Rdn. 38).Für die Sittenwidrigkeit des Verhaltens der Beklagten kommt es nicht darauf an, ob die Klägerin Kenntnis von der Betroffenheit seines Fahrzeugs hatte. Käufern, die sich, wie die Klägerin, erst für einen Kauf entschieden haben, nachdem diese ihr Verhalten geändert hatte, wurde - unabhängig von ihren Kenntnissen vom "Dieselskandal" im Allgemeinen und ihren Vorstellungen von der Betroffenheit des Fahrzeugs im Besonderen - nicht sittenwidrig ein Schaden zugefügt (BGH, Urteil vom 30. Juli 2020, VI ZR 5/20, NJW 2020, 2798 Rdn. 38).2. Die Klägerin hat auch keinen Schadensersatzanspruch gemäß § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV, da das Interesse, nicht zur Eingehung einer ungewollten Verbindlichkeit veranlasst zu werden, nicht im Aufgabenbereich dieser Vorschriften liegt (BGH, Urteil vom 25. Mai 2020, VI ZR 252/19, NJW 2020, 1963 Rdn. 76; Urteil vom 30. Juli 2020, VI ZR 5/20, NJW 2020, 2798 Rdn. 11 - 16).3. Ebenso wenig kann die Klägerin ihren Anspruch auf § 823 Abs. 2 BGB in Verbindung mit § 263 Abs. 1 StGB stützen. Denn jedenfalls fehlt es bei dem hier vorliegenden Gebrauchtwagenkauf im Rahmen der Bereicherungsabsicht an der erforderlichen Stoffgleichheit zwischen dem erlittenen Vermögensschaden und dem durch die Beklagte erstrebten rechtswidrigen Vermögensvorteil (kostengünstigerer Absatz der Neuwagen) (BGH, Urteil vom 30. Juli 2020, VI ZR 5/20, NJW 2020, 2798 Rdn. 17 - 26).4. Ein Anspruch gemäß §§ 280 Abs. 1, 311 Abs. 3, 241 Abs. 2 BGB scheidet ebenfalls aus, weil die Beklagte weder mittelbar noch unmittelbar an den Verhandlungen zum Abschluss des vorliegenden Gebrauchtwagenkaufvertrags beteiligt war. Sie war daher von vornherein nicht in der Lage, die Vertragsverhandlungen oder den Vertragsschluss erheblich zu beeinflussen. Auch hatte sie kein erkennbares wirtschaftliches Interesse an dem Abschluss des Gebrauchtwagenkaufes zwischen der Klägerin und dem Fahrzeughändler. Dass die Beklagte nach § 6 Abs. 1 EG-FGV für das Fahrzeug eine Übereinstimmungsbescheinigung ausgestellt hat, reicht für die Annahme einer Sachverwalterhaftung nicht aus. Denn eine solche Erklärung ist Voraussetzung für das Inverkehrbringen jedes neuen Fahrzeuges (vgl. § 27 Abs. 1 EG-FGV) und kein Ausdruck besonderer Gewährsübernahme (OLG Koblenz Urteil vom 6. Februar 2020, 6 U 1219/19, BeckRS 2020, 6278 Rdn. 30; OLG Karlsruhe, Urteil vom 30. Oktober 2020, 17 U 296/19, BeckRS 2020, 29048 Rdn. 33).5. Soweit die Klägerin ihren Schadensersatzanspruch mit Schriftsatz vom 11. Dezember 2020 erstmals auf eine angebliche Täuschung über eine in dem Softwareupdate angeblich enthaltene unzulässige Abschalteinrichtung gestützt hat, handelt es sich um eine gemäß § 533 ZPO unzulässige Klageänderung, die nicht auf Tatsachen gestützt werden kann, die der Verhandlung und Entscheidung über die Berufung ohnehin nach § 529 ZPO zugrunde zu legen sind. Das Landgericht hat hierzu keine Feststellungen getroffen. Das ist mit der Berufung nicht angegriffen worden. Darüber hinaus ist der insoweit gehaltene umfangreiche neue Vortrag, den die Beklagte nicht unstreitig gestellt hat, in der Berufungsinstanz nicht mehr zuzulassen, weil die die Zulassungsvoraussetzungen gemäß § 531 Abs. 2 Satz 1 ZPO weder dargetan noch sonst ersichtlich sind.Selbst wenn man die Klageänderung und das neue Vorbringen zulassen würde, ergäbe sich daraus kein Schadensersatzanspruch der Klägerin gemäß §§ 826, 31 BGB. In Bezug auf das Softwareupdate fehlt es jedenfalls an einem haftungsbegründenden vorsätzlich sittenwidrigen Verhalten der Beklagten. Vorsatz im Sinne von § 826 BGB liegt vor, wenn der Handelnde die Schädigung des Anspruchstellers gekannt bzw. vorausgesehen und in seinen Willen aufgenommen, jedenfalls aber für möglich gehalten und billigend in Kauf genommen hat (BGH, NJW 2020, 1962, 1969 Rdn. 61). Vorliegend spricht nichts für die Annahme, ein verfassungsmäßig berufener Vertreter der Beklagten (§ 31 BGB) könne es zumindest für möglich gehalten und billigend in Kauf genommen haben, dass das von der Beklagten entwickelte Softwareupdate wegen eines Thermofensters eine die Betriebserlaubnis gefährdende unzulässige Abschalteinrichtung enthalten könnte. Da das Softwareupdate, bevor es von der Beklagten in Verkehr gebracht wurde, vom Kraftfahrt-Bundesamt geprüft und als vorschriftsmäßig beurteilt worden war, konnten die verantwortlich Handelnden auf Seiten der Beklagten vielmehr darauf vertrauen, dass das Thermofenster nicht als unzulässige Abschalteinrichtung zu qualifizieren ist. Etwas Anderes würde nur dann gelten, wenn die Beklagte das Kraftfahrt-Bundesamt bewusst über entscheidungserhebliche Umstände getäuscht hätte, die zu einer abweichenden Beurteilung hätten führen müssen. Dies hat die Klägerin indes nicht dargelegt. Vielmehr hat sie lediglich gemutmaßt, dass die Beklagte relevante Umstände in dem Beschreibungsbogen zum Zulassungsantrag nicht offengelegt haben könnte. Hierfür fehlt es indes an jeglichen greifbaren Anhaltspunkten. Ohne eine bewusste und gewollte Täuschung des Kraftfahrt-Bundesamts - wie sie in Bezug auf die ursprüngliche Softwaremanipulation vorlag - lässt sich das Verhalten der Beklagten auch nicht als sittenwidrig beurteilen (vgl. BGH, NJW 2020, 1962, 1964 Rdn. 23; NJW 2020, 2798, 2803 Rdn. 33).6. Die Kostenentscheidung folgt aus § 97 Abs. 1 ZPO.Die Entscheidung über die vorläufige Vollstreckbarkeit ergibt sich aus den §§ 708 Nr. 10, 711, 713 ZPO.Die Revision war nicht zuzulassen, da die Voraussetzungen des § 543 Abs. 2 ZPO nicht vorliegen. Die Rechtssache hat weder grundsätzliche Bedeutung, noch erfordert die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Bundesgerichtshofs als Revisionsgericht.Bei der Streitwertbemessung hat der Senat den Feststellungsantrag mit 500,00 Euro bewertet. Schäden, die über die Kaufpreiszahlung hinausgehen, hat die Klägerin nicht näher dargelegt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2378745.html (https://oj.is/2378745)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

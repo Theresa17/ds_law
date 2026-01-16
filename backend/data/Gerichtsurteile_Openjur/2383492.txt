@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSchleswig-HolsteinOrdentliche GerichtsbarkeitLG FlensburgRechtsprechungUrteil vom 05.08.2021 - 4 O 355/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Flensburg, Urteil vom 05.08.2021 - 4 O 355/20
+                      m. Fundstelle
+                      LG Flensburg, Urteil vom 05.08.2021 - 4 O 355/20 = openJur 2022, 916
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Flensburg, Urteil vom 05.08.2021 - 4 O 355/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 916
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Keine sittenwidrige Schädigung durch den Einbau eines Motors mit einem Thermofenster und einer Kühlmittel-Solltemperatur-Regelung in einem PKW Mercedes Benz (Motortyp OM 651, Euro 6). 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger beansprucht von der Beklagten Schadensersatz im Rahmen des genannten "Abgasskandals".Der Kläger kaufte am 23.1.2019 beim Autohaus B. in L... einen Pkw Mercedes-Benz C 250 Bleu Tec zu einem Kaufpreis von 23000,00 €. Das Fahrzeug war am 26.9.2014 erstmalig zum Straßenverkehr zugelassen worden und hatte eine Laufleistung von 60712 km. Mit Zahlung des Kaufpreises wurde das Fahrzeug dem Kläger übergeben. Das Fahrzeug ist mit einem Motor des Typs OM 651, Euro 6, ausgestattet. Die Software der Motorsteuerung beinhaltet eine temperaturabhängige Steuerung der Abgasrückführung, wodurch eine Senkung des Stickoxidgehalts bewirkt werden soll. Ein Teil der Abgase wird innermotorisch in den Brennraum des Motors zurückgeführt und nimmt erneut an der Verbrennung teil. Die Abgasrückführung wird in Abhängigkeit von der Außentemperatur gesteuert. Ferner verfügt das Fahrzeug über ein SCR-System, bei dem die Stickoxidemissionen durch das Zuführen von Harnstoff in Stickstoff und Wasserdampf aufgespalten werden. Bestandteil der Motorsteuerung ist weiterhin eine Kühlmittel-Solltemperatur-Regelung, durch die in Abhängigkeit unter anderem von der Drehzahl und den Lastbedingungen eine Sollwertabsenkung der Kühlmitteltemperatur von 100 °C auf 70 °C herbeigeführt wird, wodurch die vollständige Motorerwärmung verzögert wird. Von der Beklagten wurde ein Software-Update zur Motorsteuerung des Fahrzeugs aufgespielt.Mit Schreiben seiner jetzigen Prozessbevollmächtigten vom 17.9.2020 forderte der Kläger die Beklagte unter Fristsetzung bis zum 25.9.2020 zur Rückzahlung des Kaufpreises abzüglich einer Nutzungsentschädigung Zug um Zug gegen Rückgabe des Fahrzeugs auf. Dem kam die Beklagte nicht nach.Am 13.7.2021 wies das Fahrzeug einen Kilometerstand von 91.091 km auf.Der Kläger trägt vor, das streitgegenständliche Fahrzeug unterliege einem Rückruf des Kraftfahrtbundesamtes wegen des Einbaus einer unzulässigen Abschalteinrichtung. Unzulässig sei der Einbau einer temperaturgesteuerten Abgasrückführung, des sogenannten Thermofensters, sowie der Kühlmittel-Solltemperatur-Regelung, die faktisch nur auf dem Prüfstand wirke. Unter normalen Betriebsbedingungen im Warmlauf greife die Kühlmittel-Solltemperatur-Regelung oft nicht ein. Ferner sei mit dem System "Slipguard" und den Bit 13 bis Bit 15 - Funktionen eine Prüfstandserkennung vorhanden.Der Kläger beantragt,1. die Beklagte zu verurteilen, an ihn 23.000 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Übereignung und Herausgabe des Fahrzeugs Mercedes C 250 Bleu TEC, FIN: ..., abzüglich einer Nutzungsentschädigung in Höhe von 0,067789 € pro gefahrenen Kilometer seit dem 23.1.2019, die sie nach folgender Formel berechnet: (23.000 € x gefahrene Kilometer) ./. 339.288 km,2. die Beklagte zu verurteilen, ihn von den außergerichtlichen Rechtsanwaltskosten in Höhe von 1211,50 € freizustellen,3. festzustellen, dass sich die Beklagte mit der Rücknahme des PKWs des Klägers, Mercedes C 250 Bleu TEC, FIN: ..., in Annahmeverzug befindet,4. festzustellen, dass die Beklagte verpflichtet ist, an ihn Schadensersatz für Schäden, die aus der Ausstattung des Fahrzeugs Mercedes C 250 Blue TEC, FIN: ..., mit einer unzulässigen Abschalteinrichtung resultieren, zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte trägt vor, eine Rückrufanordnung des Kraftfahrtbundesamtes für das streitgegenständliche Fahrzeug sei bislang nicht wirksam erfolgt. Die temperaturabhängige Steuerung der Abgasrückführung und die Kühlmittel-Solltemperatur-Regelung seien keine unzulässigen Abschalteinrichtungen. Ebenso wenig sei bei dem Fahrzeug eine Prüfstandserkennung vorhanden. Sie habe deshalb weder sittenwidrig gehandelt noch vorsätzlich gegen Gesetzesvorschriften verstoßen, sodass der Kläger keine Schadensersatzansprüche habe. Vorsorglich werde die Verjährungseinrede erhoben.Wegen der Einzelheiten des Parteivortrags wird auf den Inhalt der zwischen den Parteien gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist nicht begründet. Der Kläger hat keinen Schadensersatz aus § 826 BGB. Diese Vorschrift setzt voraus, dass die Beklagte dem Kläger in einer gegen die guten Sitten verstoßenden Weise vorsätzlich Schaden zugefügt hat. Die Beklagte hat weder sittenwidrig noch mit dem erforderlichen Schädigungsvorsatz gehandelt.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Die Ausstattung eines Kraftfahrzeugs mit einer temperaturabhängigen Steuerung des Emissionskontrollsystems ist nicht als sittenwidrig zu bewerten. Der BGH (NJW 2021, 921) hat entschieden, dass ein Verhalten der für einen Kraftfahrzeughersteller handelnden Personen nicht bereits deshalb als sittenwidrig zu qualifizieren ist, weil sie einen Fahrzeugtyp aufgrund einer grundlegenden unternehmerischen Entscheidung mit einer temperaturabhängigen Steuerung des Emissionskontrollsystems (Thermofenster) ausgestattet und in den Verkehr gebracht haben. Dabei könne zugunsten des Klägers in tatsächlicher und rechtlicher Hinsicht unterstellt werden, dass eine derartige temperaturbeeinflusste Steuerung der Abgasrückführung als unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2 Satz 1 der VO 715/2007/EG zu qualifizieren sei. Der darin liegende Gesetzesverstoß sei auch unter Berücksichtigung einer damit einhergehenden Gewinnerzielungsabsicht der Beklagten für sich genommen nicht geeignet, den Einsatz dieser Steuerungssoftware durch die für die Beklagte handelnden Personen als besonders verwerflich erscheinen zu lassen. Der objektive Tatbestand der Sittenwidrigkeit sei nur gegeben, wenn weitere Umstände hinzutreten, die das Verhalten der handelnden Personen als besonders verwerflich erscheinen lassen. Derartige Umstände sind nicht gegeben.Als weiteren Umstand zur Begründung eines sittenwidrigen Verhaltens der Beklagten verweist der Kläger auf den Einbau der Kühlmittel-Solltemperatur-Regelung als einer weiteren unzulässigen Abschalteinrichtung. Die Kühlmittel-Solltemperatur-Regelung ist bei dem streitgegenständlichen Motor sowohl auf dem Prüfstand als auch im realen Fahrbetrieb in Funktion. Der Kläger weist jedoch darauf hin, dass die Kühlmittel-Solltemperatur-Regelung oftmals gerade nicht unter normalen Betriebsbedingungen im Warmlauf eingreife, sodass sie sich faktisch vorrangig auf den Prüfstand auswirke. Der Kläger räumt aber auch ein, dass ein dauerhafter Betrieb der Kühlmittel-Solltemperatur-Regelung mit der Absenkung der Kühlmitteltemperatur auf 70 °C zu einem erhöhten Verschleiß führen würde. Die Beklagte bestätigt, dass die Kühlmittel-Solltemperatur-Regelung stets im Prüfzyklus zur Anwendung komme, wenngleich die Steuerung nicht darauf abgestellt sei, dass sich das Fahrzeug auf dem Prüfstand befinde. Da mit der Verzögerung des Warmlaufs des Motors Einfluss auf die AGR-Raten und damit auf die Stickoxidemissionen genommen werde, habe das Kraftfahrtbundesamt die Kühlmittel-Solltemperatur-Regelung als unzulässige Abschalteinrichtung gewertet, was die Beklagte angefochten habe. Auch die Beklagte weist darauf hin, dass ein Dauerbetrieb der Kühlmittel-Solltemperatur-Regelung technisch nicht sinnvoll sei. Damit wird die Grundstruktur der Kühlmittel-Solltemperatur-Regelung von den Parteien im Kern übereinstimmend dargestellt, nur zieht der Kläger daraus andere Konsequenzen, dass sich nämlich die Auswirkungen der Kühlmittel-Solltemperatur-Regelung auf den Prüfungszyklus begrenzen. Die Steuerungsparameter sind aber nicht auf den Prüfungszyklus ausgerichtet.Damit ist die Wertung des BGH zum Thermofenster (BGH NJW 2021, 921) auf die Kühlmittel-Solltemperatur-Regelung zu übertragen, da auch sie keine Funktionen aufweist, die bei erkanntem Prüfstandsbetrieb eine verstärkte Abgasrückführung aktiviert und den Stickoxidausstoß gegenüber dem normalen Fahrbetrieb reduziert, sondern in beiden Fahrsituationen im Grundsatz in gleicher Weise arbeitet (vergleiche OLG Naumburg 5 U 92/20, Urteil vom 2.12.2020). Den maßgebenden Unterschied zu den EA-189-Motoren der Volkswagen AG mit der sogenannten Umschaltlogik hat der BGH gerade darin gesehen, dass von der Einhaltung der Stickoxidgrenzwerte der Euro 5-Norm im realen Fahrbetrieb vollständig abgesehen wurde und dem Kraftfahrtbundesamt stattdessen zwecks Erlangung der Typgenehmigung mittels einer eigens zu diesem Zweck entwickelten Motorsteuerungssoftware wahrheitswidrig vorgespiegelt wurde, dass die von der Volkswagen AG hergestellten Dieselfahrzeuge die neu festgelegten Grenzwerte einhalten. Diese Software sei bewusst und gewollt so programmiert, dass die gesetzlichen Abgasgrenzwerte nur auf dem Prüfstand beachtet, im normalen Fahrbetrieb hingegen überschritten wurden. Den Einsatz einer temperaturabhängigen Steuerung des Emissionskontrollsystems hat der BGH hingegen nicht als mit der Umschaltlogik vergleichbar angesehen, da die temperaturbeeinflusste Steuerung der Abgasrückführung nicht danach unterscheide, ob sich das Fahrzeug auf dem Prüfstand oder im normalen Fahrbetrieb befinde.Gerade das gilt auch für die Kühlmittel-Solltemperatur-Regelung. Diese wirkt sich vorrangig während der Warmlaufphase des Motors aus, unabhängig davon, ob sich das Fahrzeug auf dem Prüfstand befindet oder im realen Fahrbetrieb. Der Kläger räumt einen erhöhten Verschleiß bei einem Dauerbetrieb der Kühlmittel-Solltemperatur-Regelung ein und sieht ein Ziel von deren Verwendung darin, die erheblichen Mehrkosten durch Einbau des SCR-Systems zu vermeiden. Das trifft auf das streitgegenständliche Fahrzeug allerdings nicht zu, da dieses mit einem SCR-System ausgestattet ist und die Beklagte gerade darauf hinweist, dass dieses System seine Wirkungsweise erst bei einem warmen Rotor entfalten kann, also durchaus eine Ergänzung beider Systeme angenommen werden kann. In der Installation der Kühlmittel-Solltemperatur-Regelung kann daher kein besonders verwerfliches Verhalten der handelnden Personen der Beklagten gesehen werden, das die Annahme von Sittenwidrigkeit rechtfertigen würde.Soweit der Kläger darauf verweist, dass die Grenzwerte des Stickoxidausstoßes nur bei einem Kaltstart des Motors, nicht aber bei einem Warmstart des Motors eingehalten werden, steht dieser Vortrag der getroffenen Wertung nicht entgegen. Der Kläger hat nicht dargelegt, dass diese von ihm behauptete Erkenntnis ihre Ursache in der Kühlmittel-Solltemperatur-Regelung hat, vielmehr scheint er aus diesem Umstand auf den Einbau einer Prüfstandserkennung mittels der Funktionen "Slipguard" und BIT 13 bis BIt 15 zu schließen. Aber auch dem ist nicht zu folgen, da die unterschiedlichen Messdaten der Stickoxidemissionen bei einem Kalt- und Warmstart des Motors im Fahrbetrieb keine tragfähige Grundlage zur Begründung eines sittenwidrigen Verhaltens der Beklagten abgeben. Die Kammer folgt insoweit der Entscheidung des OLG Stuttgart (16a U 155/19) vom 14.12.2020, dass ein ausreichendes, aber auch notwendiges Indiz für das Vorliegen einer unzulässigen Abschalteinrichtung nur dann gegeben ist, wenn ein vergleichbarer Fahrzeugtyp wegen einer unzulässigen Abschalteinrichtung vom Kraftfahrtbundesamt bereits zurückgerufen worden ist oder anderweitige Erkenntnisse hinsichtlich vergleichbarer Fahrzeugtypen vorliegen, die auf eine unzulässige Abschalteinrichtung hindeuten, wobei ein vergleichbarer Fahrzeugtyp nur gegeben ist, wenn derselbe Motor oder Motortyp mit derselben Schadstoffklasse eingebaut ist. Ein Überschreiten der für den NEFZ vorgegebenen Werte in nicht genormten Fahrzeugzyklen auf der Straße liefere hingegen kein Indiz für das Vorliegen einer unzulässigen Abschalteinrichtung, vielmehr sei allgemein bekannt, dass ein Fahrzeug im normalen Fahrbetrieb höhere Emissionswerte aufweise als im NEFZ.Ein zusätzliches Umstandsmoment zur Begründung der Sittenwidrigkeit ergibt sich auch nicht aus einem Rückruf des streitgegenständlichen Fahrzeugs durch das Kraftfahrtbundesamt. Als Beleg für einen Rückruf des Fahrzeugs hat sich der Kläger einerseits auf eine vom Kraftfahrtbundesamt herausgegebenen Liste betroffener Fahrzeugvarianten und andererseits auf die Durchführung eines Software-Updates bei dem streitgegenständlichen Fahrzeug bezogen. Die Beklagte hat vorgetragen, dass sich die Rückrufanordnung noch im Rechtsbehelfs-Gerichtsverfahren befindet. Aus anderen Verfahren ist der Kammer bekannt, dass das Kraftfahrtbundesamt diesen Zusatz auch bei dem Rückruf von Fahrzeugen mit dem streitgegenständlichen Motortyp vorgenommen hat. Die Frage der Rechtmäßigkeit des angeordneten Rückrufs ist also noch ungeklärt. Damit kann gegenwärtig noch nicht von einer wirksamen Anordnung eines Rückrufs für das streitgegenständliche Fahrzeug ausgegangen werden. Das Software-Update ist bei dem Fahrzeug des Klägers aufgespielt worden. Nach dem Vortrag der Beklagten ist dieses freiwillig zur Emissionsverbesserung des Fahrzeugs unternommen worden, was wiederum damit in Einklang steht, dass es aufgrund der Anfechtung der Rückrufanordnung des Kraftfahrtbundesamtes noch keinen wirksamen behördlichen Rückruf für den streitgegenständlichen Motor gibt. Es kann damit für die Frage der Sittenwidrigkeit des Verhaltens der Beklagten daraus kein Indiz gewonnen werden.Schließlich ist darauf hinzuweisen, dass das OLG Schleswig (SchlHAnz 2021, 230) einen Schadensersatzanspruch aus § 826 BGB bei Erwerb eines Fahrzeugs mit dem streitgegenständlichen Motor des Typs OM 651 verneint hat. Das Gericht hat ausgeführt, dass beim Inverkehrbringen eines Fahrzeugs mit einem Motor des Typs OM 651 der Vorwurf eines schlechthin verwerflichen Geschäftsgebarens, das den Vorwurf einer sittenwidrigen vorsätzlichen Schädigung begründen könnte, nicht gerechtfertigt ist, wenn sich aus dem dem Kraftfahrtbundesamt vorgelegten Genehmigungsbogen ergibt, dass das Fahrzeug durchgehend über eine wirksame Typgenehmigung verfügt, die AGR-Rate durch die Lufttemperatur gesteuert wird, der Fahrzeugtyp keinem behördlichen Rückruf unterliegt und für den Fahrzeugtyp ein vom Kraftfahrtbundesamt auf Wirksamkeit und Zulässigkeit geprüftes und gebilligtes Software-Update vorliegt.Des Weiteren ist mit dem Vortrag des Klägers aber auch der notwendige Schädigungsvorsatz der handelnden Personen der Beklagten nicht schlüssig dargetan. Auch wenn § 826 BGB kein absichtliches oder arglistiges Verhalten erfordert, bedarf es doch des Bewusstseins, dass die Schädigung im Bereich des Möglichen liegt sowie das Billigen oder Inkaufnehmen des Schädigungsrisikos. Hinsichtlich der für möglich gehaltenen Schadensfolgen muss der Schädiger spätestens im Zeitpunkt des Schadenseintritts Art und Richtung des Schadens und die Schadensfolgen vorausgesehen und die Schädigung im Sinne eines direkten Vorsatzes gewollt oder im Sinne eines bedingten Vorsatzes jedenfalls zur Erreichung seines Ziels billigend in Kauf genommen haben. Dazu genügt es nicht, wenn die relevanten Tatumstände lediglich objektiv erkennbar waren und der Handelnde sie hätte erkennen können oder kennen müssen. In einer solchen Situation ist lediglich ein Fahrlässigkeitsvorwurf gerechtfertigt (OLG Schleswig ZfSch 2019, 674).Ein solcher Vorsatz wäre vom Kläger vorzutragen und zu beweisen gewesen. Das ist nicht geschehen. Der Kläger hat nicht substantiiert dargelegt, dass der Vorstand der Beklagten oder etwaige Repräsentanten die Schädigung des Klägers konkret für möglich hielten und billigend in Kauf nahmen. Der Kläger hat vorgetragen, dass durch die in dem Motor seines Fahrzeugs eingebaute Software die Abgasreinigung in bestimmten Temperaturbereichen optimiert sei, außerhalb dieses Temperaturbereichs jedoch deutlich höhere Stickoxidwerte anfallen würden. Bei der Verwendung eines solchen Thermofensters ist für den Schädigungsvorsatz erforderlich, dass Anhaltspunkte dafür erkennbar wären, dass der Einbau der Einrichtung mit der in Rede stehenden Funktionsweise in den streitgegenständlichen Motor in dem Bewusstsein geschehen sei, hiermit möglicherweise gegen die gesetzlichen Vorschriften zu verstoßen und dieser Gesetzesverstoß billigend in Kauf genommen worden sei (OLG Schleswig a. a. O.). Bei Einrichtungen, die vom Grundsatz her im normalen Fahrbetrieb in gleicher Weise arbeiten wie auf dem Prüfstand und bei denen Gesichtspunkte des Motor- und Bauteilschutzes als Rechtfertigung ernsthaft angeführt werden könnten, könne es bei Fehlen von konkreten Anhaltspunkten nicht ohne weiteres unterstellt werden, dass die Handelnden bzw. Repräsentanten in dem Bewusstsein gehandelt hätten, möglicherweise eine unzulässige Abschalteinrichtung zu vertreten (OLG Schleswig a. a. O., OLG Stuttgart WM 2019, 1704, OLG Koblenz WM 2019, 2222). Dieser Rechtsprechung schließt sich Kammer an.Ob das in dem Fahrzeug des Klägers installierte Thermofenster eine objektiv unzulässige Abschalteinrichtung darstellt, wird kontrovers diskutiert. Inhalt und Reichweite der Ausnahmevorschrift des Art. 5 Abs. 2 Satz 2 VO EG 2007/715 ist nicht eindeutig belegt und hat auch in dem Bericht der Untersuchungskommission Volkswagen, Stand April 2016, zu der Bewertung geführt, dass eine weite Interpretation durch die Fahrzeughersteller und die Verwendung von Abschalteinrichtungen mit der Begründung, dass eine Abschaltung erforderlich ist, um den Motor vor Beschädigung zu schützen und um den sicheren Betrieb des Fahrzeugs zu gewährleisten, angesichts der Unschärfe der Bestimmung, die auch eine weite Interpretation zulässt, möglicherweise nicht gegen die Verordnung EG 2007/715 verstößt. Ebenso bedarf es von den Vertretern, die das Thermofenster als unzulässige Abschalteinrichtung ansehen, eines beträchtlichen Begründungsaufwands zur Rechtfertigung ihres Ergebnisses (Führ NVwZ 2017, 265; LG Stuttgart 23 O 220/18). Daran wird bereits deutlich, dass eine Auslegung, ein Thermofenster stelle eine zulässige Abschalteinrichtung dar, jedenfalls nicht unvertretbar ist (vergleiche OLG Koblenz WM 2019, 2222).Die Software des Thermofensters unterscheidet sich damit grundlegend von der Umschaltlogik des EA 189-Motors in den sogenannten VW-Fällen, bei dem auf dem Prüfstand und auf der Straße unterschiedliche Abgasrückführungsmodi aktiviert werden. Diese Abschalteinrichtung im normalen Fahrbetrieb ist unzulässig, was den Handelnden bzw. den Repräsentanten auch bewusst war. Hingegen arbeitet das Thermofenster im normalen Fahrbetrieb in gleicher Weise wie auf dem Prüfstand, nur wird die Abgasrückführung temperaturabhängig stärker oder weniger stark aktiviert. Dabei können Gesichtspunkte des Motor- und Bauteilschutzes als Rechtfertigung ernsthaft angeführt werden, sodass nicht ohne Weiteres unterstellt werden kann, dass die Handelnden bzw. Verantwortlichen in dem Bewusstsein gehandelt haben, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden. Vielmehr bleibt zu bedenken, dass selbst bei einer Bewertung des Thermofensters als objektiv unzulässige Abschalteinrichtung eine möglicherweise falsche, aber dennoch vertretbare Gesetzesauslegung und Gesetzesanwendung durch die Organe der Beklagten erfolgt ist (OLG Koblenz a. a. O.).Letztlich vermag auch der Hinweis des Klägers auf die sekundäre Darlegungslast der Beklagten seinem Schadensersatzbegehren nicht zum Erfolg zu verhelfen. Eine sekundäre Darlegungslast trifft den Prozessgegner der primär darlegungsbelasteten Partei, wenn diese keine nähere Kenntnis der maßgeblichen Umstände und auch keine Möglichkeit zur weiteren Sachaufklärung hat, während der Bestreitende alle wesentlichen Tatsachen kennt und es ihm unschwer möglich und zumutbar ist, nähere Angaben zu machen. Sie führt jedoch weder zu einer Umkehr der Beweislast noch zu einer über die prozessuale Wahrheitspflicht und Erklärungslast hinausgehende Verpflichtung des in Anspruch Genommenen, dem Anspruchsteller alle für seinen Prozesserfolg benötigten Informationen zu verschaffen. Nach allgemeinen Grundsätzen trägt derjenige, der einen Anspruch aus § 826 BGB geltend macht, die volle Darlegungs- und Beweislast für die anspruchsbegründenden Tatsachen und damit auch für den zumindest bedingten Vorsatz des Schädigers (BGH NJW 2020, 1962). Aus dem alleinigen Vorliegen eines Thermofensters kann nach den vorstehenden Ausführungen nicht der Rückschluss auf ein vorsätzliches Handeln der Beklagten gezogen werden. Es oblag somit dem Kläger, weitere Tatsachen zum Vorliegen eines jedenfalls bedingten Vorsatzes der Beklagten vorzutragen. Entsprechender Vortrag des Klägers fehlt. Erst nach diesem ergänzenden Vorbringen hätte die Beklagte im Rahmen ihrer sekundären Darlegungslast diese Tatsachenbehauptungen substantiiert bestreiten und darlegen müssen, inwiefern ein anderer Geschehensablauf zugrundezulegen sei. Es bleibt bei dem Grundsatz, dass die Beklagte auch im Rahmen ihrer sekundären Darlegungslast nicht verpflichtet ist, der Klägerin die für den Prozesserfolg notwendigen Informationen zu verschaffen (OLG Schleswig BeckRS 2020, 9840).Der Kläger hat keinen Anspruch aus §§ 823 Abs. 2 BGB in Verbindung mit § 263 StGB, 16 UWG oder §§ 6, 27 EG-FGV. Der Betrugstatbestand erfordert wie auch § 16 UWG vorsätzliches Verhalten, was vorliegend nicht gegeben ist. Für §§ 6, 27 EG-FGV ist schon fraglich, ob es sich bei diesen Vorschriften um ein Schutzgesetz handelt, da diese Normen vor allem der Verkehrssicherheit und dem Gesundheits- und Umweltschutz dienen und nicht dem Schutz des Vermögens des Erwerbers eines Kraftfahrzeugs (OLG Schleswig Beck RS 2020, 9840).Aufgrund der Unbegründetheit des Zahlungsantrages zu Ziffer 1 sind auch die Nebenanträge zu Ziffer 2 und 3 unbegründet.Der Feststellungsantrag zu Ziffer 4 ist bereits unzulässig. Dieser Klageantrag genügt bereits nicht dem Bestimmtheitserfordernis. Nach § 253 Abs. 3 Nummer 2 ZPO muss die Klageschrift einen bestimmten Antrag enthalten. Mit dem Antrag begehrt der Kläger die Feststellung einer Schadensersatzpflicht der Beklagten für den Einbau einer unzulässigen Abschalteinrichtung in die Motorsteuerungssoftware seines Fahrzeugs. Es ist damit vollkommen offen, ob mit der unzulässigen Abschalteinrichtung die Umschaltlogik, das Thermofenster oder gar eine 3. oder 4. Einrichtung der Motorsteuerung mit Auswirkungen auf das Emissionsverhalten des Motors gemeint ist. Die ausstehende Konkretisierung ist auch nicht bedeutungslos, da beispielsweise die Umschaltlogik als unzulässige Abschalteinrichtung angesehen wird (BGH NJW 2020, 1962), das Thermofenster hingegen ohne Hinzutreten weiterer Umstände nicht (BGH WM 2021, 652).Ferner ist der Feststellungsantrag zu 3 auch unbegründet. Der BGH (WM 2020, 1642) hat ausgeführt, dass ein auf den Ersatz künftiger Schäden gerichteter Feststellungsantrag nur dann Erfolg haben könne, wenn die sachlichen und rechtlichen Voraussetzungen eines Schadensersatzanspruchs vorlägen. Bei einem Schadensersatzanspruch aus § 826 BGB wegen der vorsätzlich sittenwidrigen Herbeiführung eines ungewollten Vertragsschlusses werde der in dem Vertragsschluss selbst liegende Schaden bereits von dem Antrag zur Kaufpreiserstattung erfasst, sodass die weiteren Schäden aus dem Fahrzeugerwerb von dem darlegungsbelasteten Kläger konkret vorzutragen und mit den Haftungsvoraussetzungen des § 826 BGB in Einklang zu bringen seien. Dafür genüge der pauschale Hinweis nicht, dass durch die Weiternutzung des Fahrzeugs oder das Software-Update weitere Schäden möglich seien. Der Kläger hat lediglich auf das Risiko verwiesen, dass auch im Falle eines Software-Updates die gesetzlichen Abgaswerte nicht eingehalten werden können oder die Langlebigkeit bestimmter Fahrzeugkomponenten beeinträchtigt werde oder er zu einer Umrüstung des Fahrzeugs mit entsprechenden Kosten angehalten werde. All das sind abstrakte Befürchtungen, die nicht die Voraussetzungen zur Darlegung eines konkreten Schadens als Tatbestandsvoraussetzungen des § 826 BGB erfüllen. Diese negativen Erwartungen begründen jedenfalls gegenwärtig anders als der abgeschlossene Kaufvertrag mit dem Erwerb des streitgegenständlichen Fahrzeugs noch keine konkrete Vermögenseinbuße.Die prozessualen Nebenentscheidungen folgen aus §§ 91, 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2383492.html (https://oj.is/2383492)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate9
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

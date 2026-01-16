@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 12.02.2021 - 20 O 98/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 12.02.2021 - 20 O 98/20
+                      m. Fundstelle
+                      LG Köln, Urteil vom 12.02.2021 - 20 O 98/20 = openJur 2023, 12533
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 12.02.2021 - 20 O 98/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2023, 12533
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits werden dem Kläger auferlegt.Das Urteil ist gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten über die Zahlung von Schadensersatz anlässlich des sog. "Diesel-Abgasskandals".Der Kläger kaufte am 06.01.2020 den streitgegenständlichen gebrauchten Y. E. quattro 3.0 TDI (EU6) mit einem Kilometerstand von 97.800 km zum Kaufpreis von 28.000 €. Das Fahrzeug wurde ihm am selben Tag ausgehändigt. Es verfügt über einen von der Beklagten entwickelten und hergestellten Motor des Typs EA N02.Mit Pressemitteilung vom 23.01.2018 gab das Kraftfahrtbundesamt bekannt, dass bei zahlreichen Modellen von Y.-Fahrzeugen mit 3,0 l Motor, unter anderem auch bei dem Modell E., unzulässige Abschalteinrichtungen nachgewiesen worden seien. Das KBA ordnete verpflichtende Rückrufe dieser Fahrzeuge an, um deren Vorschriftsmäßigkeit wieder herzustellen. Ausweislich der Pressemitteilung vom 23.01.2018 waren von diesem Rückruf in Deutschland 77.600 Fahrzeuge betroffen.Über eine eigens betriebene Informationsplattform informierte die Beklagte im Dezember 2017 ihre Vertragshändler und Servicepartner über die Beanstandungen des KBA am streitgegenständlichen Fahrzeugtyp und teilte den Händlern mit, dass Fahrzeuge des streitgegenständlichen Typs nur nach entsprechendem Hinweis an Kaufinteressenten über die Beanstandungen und die erforderliche Software-Aktualisierung verkauft werden dürfen. Anfang 2018 schaltete die Beklagte eine Internetseite frei, auf welcher Kunden das Erfordernis eines Software-Updates anhand der FIN überprüfen konnten.Mit Schreiben der Beklagten vom März 2019 wurde der damalige Halter des streitgegenständlichen Fahrzeugs darüber in Kenntnis gesetzt, dass Unregelmäßigkeiten in der Motorsteuerungssoftware im Hinblick auf die Funktionsweise des Emissionskontrollsystems festgestellt wurden und dass aufgrund eines angeordneten Rückrufs ein Software-Update vorgenommen werden muss.Mit Ordnungsverfügung vom 11.11.2020 untersagte der Landrat des T.-A.-Kreises den Betrieb des streitgegenständlichen Fahrzeugs wegen eines Mangels in Form einer unzulässigen Abschalteinrichtung mit sofortiger Wirkung und forderte den Kläger auf, innerhalb von 7 Tagen nach Zustellung der Verfügung die Zulassungsbescheinigung Teil I und die Kennzeichenschilder zwecks Entsiegelung vorzulegen.Die Laufleistung des streitgegenständlichen Fahrzeugs lag am 20.11.2020 bei 107.293 km.Der Kläger behauptet, das Fahrzeug weise mehrere unzulässige Abschalteinrichtungen im Sinne des Art. 5 Abs. 2 EGV 715/2007 auf. Es weise ab 7 °C deutlich höhere Emmissionen auf. Wegen des gewählten Temperaturbereichs arbeite die Abgasrückführung dauerhaft nicht in der erforderlichen Weise, mithin liege eine unzulässige Abschalteinrichtung in Form eines sogenannten "Thermofensters" vor. Darüber hinaus verfüge die Motorsteuerung über eine unzulässige Aufheizstrategie; es werde in Abhängigkeit vom Lenkwinkeleinschlag Einfluss genommen auf die Schaltpunkte des Getriebes; ferner sei die Dosierung von AdBlue nur auf dem Rollenprüfstand so ausreichend, dass die Emissionsgrenzwerte eingehalten würden. Die Abgasrückführung außerhalb des Thermofensters sei nicht zwingend notwendig, um den Motor vor erheblichen Beschädigungen zu schützen. Vielmehr habe die Beklagte allein mit dem Ziel der Kostensenkung gehandelt. Der Kläger sei beim Kauf des Fahrzeugs davon ausgegangen, ein Fahrzeug ohne unzulässige Abschalteinrichtung zu erwerben.Sein Schaden liege im Kauf eines Fahrzeugs, das von einer Rückrufaktion des Kraftfahrtbundesamtes betroffen ist. Dass das Kraftfahrtbundesamt das "Thermofenster" unter dem Druck des Bundesministeriums für Verkehr und Infrastruktur bisher für zulässig halte, sei unerheblich.Der Kläger hält das Vorgehen der Beklagten, in dem er eine bewusste Täuschung durch Verschleierung der Manipulation gegenüber Aufsichtsbehörden und Verbrauchern sieht, für sittenwidrig. Mit Blick auf die Tragweite der Entscheidung zum Einbau des Motors der streitgegenständlichen Baureihe in mehrere Zigtausend Fahrzeuge sei von einer Kenntnis zumindest von Teilen des Vorstands auszugehen.Ursprünglich hat der Kläger angekündigt, neben den sogleich aufgeführten Anträgen zusätzlich zu beantragen, den Beklagten zu verurteilen an ihn Zinsen i.H.v. 4 % aus 28.000 € seit dem 06.01.2020 zu zahlen. Im Termin zur mündlichen Verhandlung am 20.11.2020 nahm der Kläger die Klage insoweit zurück.Der Kläger beantragt nunmehr,1. die Beklagte zu verurteilen, an 28.000 € nebst Zinsen i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit, Zug um Zug gegen Übereignung des Fahrzeugs der Marke Y. E. 3.0 TDI mit der FIN: N01 zu zahlen;soweit die Kammer eine Nutzungsentschädigung für einschlägig erachtet, wird der Abzug in Form der Höhe der Nutzungsentschädigung in das Ermessen der Kammer gestellt, wobei als Gesamtlaufleistung ein Wert von 500.000 km zugrunde gelegt werden sollte:2. festzustellen, dass sich die Beklagte seit dem 20.02.2020 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstandes in Annahmeverzug befindet;3. die Beklagte zu verurteilen, an den Kläger außergerichtliche Anwaltskosten in Höhe von Euro nebst Zinsen i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.Die Beklagte beantragt,die Klage abzuweisenSie behauptet, der Kläger habe beim Erwerb des Fahrzeugs Kenntnis von dessen Betroffenheit von einem Rückruf des KBA gehabt. Es sei auch nicht plausibel, dass der Käufer eines rund 2 Tonnen schweren Fahrzeugs überhaupt dessen Emissionswerte in seine Kaufentscheidung mit einfließen lasse. Jedenfalls treffe die Beklagte kein Sittenwidrigkeitsvorwurf, da sie im Zeitpunkt des Kaufvertragsschlusses alles ihr Zumutbare getan habe, um potentielle Käufer über die Betroffenheit der Fahrzeuge von Rückrufanordnungen des KBA zu informieren.Wegen der weiteren Einzelheiten des Sach- und Streitstands wird auf die gewechselten Schriftsätze nebst deren Anlagen, sowie das Protokoll der mündlichen Verhandlung vom 20.11.2020 (Bl. 228 f. d.A.) Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.Dem Kläger steht kein Anspruch auf Schadensersatz in Form der Rückabwicklung des Kaufvertrages gegen die Beklagte zu (Klageantrag zu 1).Zwar kann grundsätzlich eine Haftung des Herstellers gemäß § 826 BGB gegenüber den Käufern in Betracht kommen, die ein Fahrzeug der Beklagten mit einem Dieselmotor erworben haben, das eine unzulässige Abschalteinrichtung enthält. Es kann vorliegend zugunsten des Klägers unterstellt werden, dass das Fahrzeug im Zeitpunkt des Kaufs durch den Kläger über eine oder mehrere unzulässige Abschalteinrichtung(en) verfügt hat.Im vorliegenden Fall sind die Voraussetzungen einer solchen Haftung jedoch nicht gegeben; es fehlt am subjektiven Tatbestand auf Seiten der Beklagten.In subjektiver Hinsicht setzt § 826 BGB Schädigungsvorsatz sowie Kenntnis der Tatumstände, die das Verhalten sittenwidrig erscheinen lassen, voraus.Der erforderliche Schädigungsvorsatz bezieht sich darauf, dass durch die Handlung einem anderen Schaden zugefügt wird. Er enthält ein Wissens- und Wollenselement: Der Handelnde muss die Schädigung des Anspruchstellers gekannt bzw. vorausgesehen und in seinen Willen aufgenommen haben. Dabei setzt § 826 BGB keine Schädigungsabsicht im Sinne eines Beweggrundes oder Zieles voraus. Es genügt bedingter Vorsatz hinsichtlich der für möglich gehaltenen Schadensfolgen, wobei dieser nicht den konkreten Kausalverlauf und den genauen Umfang des Schadens, sondern nur Art und Richtung des Schadens umfassen muss. Auch insoweit ist zu berücksichtigen, dass ein Schaden im Sinn des § 826 BGB nicht nur in der Verletzung bestimmter Rechte oder Rechtsgüter liegt, sondern vielmehr jede nachteilige Einwirkung auf die Vermögenslage genügt, einschließlich der sittenwidrigen Belastung fremden Vermögens mit einem Verlustrisiko (BGH, Urt. v. 13,09.2004 - II ZR 276/02, juris; BGH, Urt. v. 19.07.2004 - II ZR 402/02, juris). Im Rahmen des § 826 BGB kann sich im Einzelfall aus der Art und Weise des sittenwidrigen Handelns, insbesondere dem Grad der Leichtfertigkeit des Schädigers, die Schlussfolgerung ergeben, dass er mit Schädigungsvorsatz gehandelt hat. Dies kann insbesondere dann naheliegen, wenn der Schädiger sein Vorhaben trotz starker Gefährdung des Rechtsguts durchgeführt hat und es dem Zufall überlässt, ob sich die erkannte Gefahr verwirklicht. Stets ist aber eine umfassende Würdigung sämtlicher Umstände erforderlich (BGH, Urt. v. 20.11.2012 - VI ZR 268/11, juris; BGH, Urt. v. 20.12.2011 - VI ZR 309/10, juris; OLG Köln, Urteil vom 12.03.2020 - 3 U 55/19 -, Rn. 58 f., juris).Zum maßgeblichen Zeitpunkt des Kaufvertragsschlusses im Januar 2020 ist eine besondere Verwerflichkeit des Handelns der Beklagten im Sinne des § 826 BGB nicht (mehr) festzustellen.Der Kläger ist dem Vortrag der Beklagten nicht entgegengetreten, wonach diese über eine von ihr betriebene Informationsplattform bereits im Dezember 2017 ihre Vertragshändler und Servicepartner über die Beanstandungen des KBA am streitgegenständlichen Fahrzeugtyp informierte und den Händlern mitteilte, dass Fahrzeuge des streitgegenständlichen Typs nur nach entsprechendem Hinweis an Kaufinteressenten über die Beanstandungen und die erforderliche Software-Aktualisierung verkauft werden dürfen. Ferner schaltete die Beklagte Anfang 2018 eine Internetseite frei, auf welcher Kunden das Erfordernis eines Software-Updates anhand der FIN überprüfen konnten. Dieser Weg stand damit auch potentiellen Käufern eines Fahrzeugs der Beklagten offen, da sie beim Verkäufer die FIN bereits vor Abschluss des Kaufvertrages erfragen und die Abfrage auf der Internetseite der Beklagten durchführen konnten.Schließlich hat die Beklagte mit Schreiben vom März 2019 den damaligen Halter des streitgegenständlichen Fahrzeugs darüber in Kenntnis gesetzt, dass Unregelmäßigkeiten in der Motorsteuerungssoftware im Hinblick auf die Funktionsweise des Emissionskontrollsystems festgestellt wurden und dass aufgrund eines angeordneten Rückrufs ein Software-Update vorgenommen werden muss. Die Beklagte konnte somit davon ausgehen, dass im Falle einer Weiterveräußerung des Fahrzeugs auch ein privater Verkäufer den Kaufinteressenten über diese vertragswesentliche Eigenschaft des Fahrzeugs aufklären würde.Dass weitere Maßnahmen der Aufklärung potentieller Käufer der Beklagten möglich und zumutbar gewesen wären, hat der Kläger nicht behauptet und sie sind auch sonst nicht ersichtlich. Daher kann der Beklagten jedenfalls in Bezug auf potentielle Gebrauchtwagenkäufer hinsichtlich des hier streitgegenständlichen Motortyps ab Anfang des Jahres 2018 kein verwerfliches Verhalten vorgeworfen werden, welches eine Haftung nach § 826 BGB begründen könnte.Weitere Anspruchsgrundlagen sind nicht vorgetragen und nicht ersichtlich.Aus den genannten Gründen ist auch der Feststellungsantrag des Klägers (Klageantrag zu 2) unbegründet.Der Nebenanspruch (vorprozessuale Anwaltskosten) teilt das Schicksal des Hauptanspruchs.Die prozessualen Nebenentscheidungen folgen aus §§ 91 Abs. 1 Satz 1, 709 ZPO.Streitwert: bis 30.000 €
+			
+			
+			
+			Permalink: https://openjur.de/u/2479985.html (https://oj.is/2479985)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate2
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

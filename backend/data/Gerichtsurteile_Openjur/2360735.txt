@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG EssenRechtsprechungUrteil vom 06.02.2020 - 1 O 151/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Essen, Urteil vom 06.02.2020 - 1 O 151/19
+                      m. Fundstelle
+                      LG Essen, Urteil vom 06.02.2020 - 1 O 151/19 = openJur 2021, 31252
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Essen, Urteil vom 06.02.2020 - 1 O 151/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 31252
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Klägerin trägt die Kosten des Rechtsstreits.Das Urteil ist gegen Sicherheitsleistung in Höhe von 120% des jeweilszu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Entsprechend Rechnung von März 2014 (Anlage K 3) erwarb die L GmbH ein Fahrzeug mit der FIN ..., einen B, zum Preis von 43.750,01 Euro. Gemäß Handelsregisterauszug (Anlage K 17, Bl. 156 GA) firmiert diese Firma jetzt unter dem Namen der Klägerin.Der in dem Fahrzeug verbaute Motortyp verfügte über eine Steuerungssoftware, welche erkannte, wenn sich das Fahrzeug auf dem Rollenprüfstand befand. Die Software kannte zwei unterschiedliche Betriebsmodi, die die Abgasrückführung steuern. Im Modus auf dem Rollenprüfstand, kam es zu einer höheren Abgasrückführungsrate. Im realen Fahrbetrieb auf der Straße wurde die Abgasbehandlung indes ausgeschaltet.In diesem Zusammenhang nimmt die Klägerin auch die W AG in einem weiteren Rechtsstreit in Anspruch (Termin 18.02.2020, Bl. 184 GA).Nach dem Bekanntwerden der vorgenannten Motorsteuerungssoftware verpflichtete das Kraftfahrt-Bundesamt mit Bescheid vom 15.10.2015 die W AG und im weiteren Verlauf weitere Hersteller wie B1 zur Entfernung der nach Einschätzung der Behörde unzulässigen Abschalteinrichtung. Mit Schreiben von Februar 2016 (Anlage K 6) informierte die B1 AG die Klägerin über die verbaute Software.Die Klägerin beruft sich darauf, dass es sich bei der ursprünglich verbauten Steuerungssoftware um eine unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2 S. 1 der Verordnung (EG) Nr. 715/2007 handele. Eine folgenlose Nachbesserung sei auch durch das Aufspielen des Software-Updates nicht möglich. Das Software-Update sei nicht geeignet, das Fahrzeug in einen mangelfreien Zustand zu versetzen. Auch nach dem Software-Update sei mit Nachteilen, wie z.B. Mehrverbrauch von Kraftstoff, Minderleistung, höherer Partikelausstoß, geringere Lebenserwartung des Motors etc. zu rechnen. Zudem sei das Fahrzeug immer mit einem Makel behaftet und habe daher einen merkantilen Minderwert von mindestens 10 %.Die Klägerin ist der Ansicht, dass die Beklagte ihrer Verpflichtung zur Umsetzung der Richtlinie 2007/46/EG in nationales Recht nicht hinreichend nachgekommen sei. Art. 46 der Richtlinie sehe vor, dass bei Verstößen gegen die Richtlinie wirksame, verhältnismäßige und abschreckende Sanktionen festgelegt werden müssen. Dies habe die Beklagte nicht getan. Wäre eine ordnungsgemäße Umsetzung der Richtlinie erfolgt, hätte es insbesondere in Deutschland Regelungen wie in den USA gegeben, wären die W AG und andere Hersteller das Risiko der Manipulation nicht eingegangen und der Klägerin wäre kein Schaden entstanden, da das Fahrzeug dann nicht über eine unzulässige Abschalteinrichtung verfügen würde.Die Klägerin behauptet ferner, dass die Voraussetzungen für die Erteilung der Typengenehmigung nicht vorgelegen haben. Das streitgegenständliche Fahrzeug entspreche nicht dem genehmigten Typ. Aufgrund dessen sei auch die für das Fahrzeug erteilte EG-Übereinstimmungserklärung falsch und ungültig. Aufgrund der Ungültigkeit der EG-Übereinstimmungsbescheinigung hätte das Fahrzeug nicht verkauft werden dürfen. Wäre die Beklagte ihren europarechtlichen Pflichten nachgekommen, hätte sie frühzeitig erkannt, dass der Hersteller des Fahrzeuges eine illegale Abschalteinrichtung verwende und hätte den Verkauf des streitgegenständlichen Fahrzeugs untersagt. Bei einem ordnungsgemäßen Verhalten der Beklagten hätte die Klägerin das Fahrzeug somit nicht erworben.Darüber hinaus sei die Beklagte ihren Überwachungspflichten gegenüber der Automobilindustrie nicht nachgekommen. Die von der Beklagten beauftragten technischen Dienste hätten die Verwendung der illegalen Abschalteinrichtung erkennen können und müssen. Aufgrund eines Staatsversagens sei jedoch nur eine lapidare Prüfung erfolgt. Obwohl es bereits lange vor dem Bekanntwerden des Abgasskandals im September 2015 Anhaltspunkte für Manipulationen gegeben habe, habe die Beklagte es versäumt, diesbezügliche Prüfungen vorzunehmen.Schließlich habe das KBA auch nach dem Bekanntwerden des "Abgasskandals" der Automobilindustrie infolge unzureichender Kontrollen noch die Möglichkeit eröffnet, Fahrzeuge mit unzulässigen Abschalteinrichtungen zu verkaufen.Die Klägerin ist der Ansicht, dass ihr aufgrund der behaupteten Verstöße ein unionsrechtlicher Staatshaftungsanspruch gegen die Beklagte zustehe. Die Richtlinie 2007/46/EG bezwecke, die Umwelt und den Verbraucher in seiner Gesundheit zu schützen. Aus der Richtlinie erwachse daher auch ein individueller Schutz zugunsten der Klägerin. Der Individualschutz der Richtlinie ergebe sich insbesondere aus den Erwägungsgründen 3, 14 und 17 sowie aus Art. 8, 12, 29 Abs. 1, 32 Abs. 1 der Richtlinie. Aufgrund der Schwere des Verstoßes sowie des enormen Ausmaßes des durch die Verletzung der Umsetzungsverpflichtung ausgelösten Schadens sei der Verstoß auch hinreichend qualifiziert. Mit dem Abschluss des nachteiligen Kaufvertrages sei der Klägerin auch ein Schaden entstanden, der unmittelbar kausal auf die Unionsrechtsverstöße der Beklagten zurückzuführen sei.Die Klägerin beantragt:1. Es wird festgestellt, dass die Beklagtenpartei verpflichtet ist, der Klagepartei die Schäden zu ersetzen, die ihr bezüglich des Fahrzeugs B mit der FIN: ... daraus resultieren, dass es die Beklagtenpartei unterlassen hat, aufgrund Art. 46 der Richtlinie 2007/46/EG wirksame, verhältnismäßige und abschreckende Sanktionsmaßnahmen zu erlassen.2. Hilfsweise: Es wird festgestellt, dass die Beklagtenpartei verpflichtet ist, der Klagepartei die Schäden zu ersetzen, die ihr aus der Zuteilung der Typengenehmigung vom 10.09.2012 mit der Typengenehmigungsnummer ... bezüglich des Fahrzeugs B mit der FIN: ... resultieren.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte ist der Ansicht, dass die Klage mangels Feststellungsinteresses bereits unzulässig sei. Im Übrigen seien die Voraussetzungen für einen Schadensersatzanspruch gegen die Beklagte (unionsrechtlicher Staatshaftungsanspruch) nicht erfüllt, da die Richtlinie 2007/46, insbesondere Art. 46 schon keinen Individualschutz für den Fahrzeugkäufer beinhalte. Darüber hinaus sei auch kein Schaden gegeben. Sofern das Fahrzeug über das vom KBA freigegebene Software-Update verfüge, entspreche es der geltenden Typengenehmigung und verfüge damit auch über eine wirksame Übereinstimmungsbescheinigung. Auch die weiteren Voraussetzungen des unionsrechtlichen Staatshaftungsanspruchs seien nicht erfüllt.Die Beklagte beruft sich insbesondere auch darauf, dass die Emissionstypgenehmigung nicht durch das KBA, sondern durch die luxemburgische Genehmigungsbehörde (SNCH) erteilt wurde.Wegen der weiteren Einzelheiten des Sach- und Streitstands wird auf die gewechselten Schriftsätze nebst Anlagen verwiesen.In der mündlichen Verhandlung hat die Klägerin vorsorglich eine Stellungnahmefrist zu einem Schriftsatz der Beklagten vom 22.01.2020 beantragt. 
+				Gründe
+				Die Klage ist zulässig, aber unbegründet.Ob auch das gemäß § 256 ZPO erforderliche Feststellungsinteresse besteht, kann aufgrund der Unbegründetheit der Klage vorliegend dahin stehen (vgl. BGH NJW 2010, 361).Die Klage ist unbegründet. Der Klägerin stehen aufgrund der behaupteten unzureichenden Umsetzung der Richtlinie 2007/46/EG keine Schadensersatzansprüche gegen die Beklagte zu.Der Klägerin steht insbesondere kein unionrechtlicher Staatshaftungsanspruch gegen die Beklagte zu. Diese vom EuGH richterrechtlich entwickelte Anspruchsgrundlage kommt bei der Verletzung von unionsrechtlichen Rechtsnormen durch einen Mitgliedsstaat in Betracht. Eine Haftung besteht jedoch nur dann, wenn die Rechtsnorm, gegen die verstoßen worden ist, bezweckt, dem einzelnen Rechte zu verleihen, der Verstoß hinreichend qualifiziert ist und zwischen dem Verstoß gegen die dem Staat obliegende Verpflichtung und dem den geschädigten Personen entstandenen Schaden ein unmittelbarer Kausalzusammenhang besteht (EuGH, Urteil vom 05.03.1996 - verb. Rs. C-46/93 u. C-48/93, NJW 1996, 1267, Rn. 51; EuGH, Urteil vom 19.11.1991 - Rs C-6/90 u. 9/90, NJW 1992, 165 Rn. 39 ff.; EuGH, Urteil vom 08.10.1996 - verb. Rs. C-178/94, C-179/94, C-188/94, C-189/94 u. C-190/94, NJW 1996, 3141 Rn. 30).Diese Voraussetzungen sind vorliegend nicht erfüllt. Die Richtlinie 2007/46/EG und insbesondere Art. 46 der Richtlinie bezweckt bereits keinen Individualschutz zugunsten der Klägerin. Von einer Verleihung von Rechten, in der die individualschützende Funktion des Staatshaftungsanspruchs zum Ausdruck kommt, ist dann zu sprechen, wenn die fragliche Norm der Union darauf abzielt, einem hinreichend bestimmten Personenkreis ein Recht einzuräumen, dessen Inhalt sich anhand der verletzten Norm ermitteln lässt (BeckOGK/Dörr, 1.12.2019, BGB § 839 Rn. 884). Grundsätzlich können auch Richtlinien, die sich nach Art. 288 Abs. 3 AEUV zunächst nur an die Mitgliedstaaten richten, drittschützenden Charakter haben, sofern sie die Mitgliedstaaten ausdrücklich dazu verpflichten, individuelle Rechte zu begründen (BeckOGK/Dörr, 1.12.2019, BGB § 839 Rn. 886). Die Richtlinie 2007/46/EG und insbesondere der hier in Rede stehende Art. 46 begründet aber weder ihrerseits einklagbare Rechte für den einzelnen Fahrzeugerwerber, noch ist sie darauf gerichtet, solche subjektiven Rechte zur Entstehung zu bringen.Die Richtlinie 2007/46/EG dient der Schaffung eines einheitlichen Rahmens bezüglich der Typengenehmigung von Fahrzeugen. Ausweislich des Erwägungsgrundes 23 ist Ziel der Richtlinie die Vollendung des Binnenmarktes durch die Einführung eines verbindlichen Systems gemeinschaftlicher Typgenehmigungen für alle Fahrzeugklassen. Hieraus sowie aus den Erwägungsgründen 2 und 4 der Richtlinie ergibt sich, dass die Richtlinie der Verwirklichung und dem Funktionieren des Binnenmarktes dient. Durch die Richtlinie soll ein gemeinschaftliches Genehmigungsverfahren geschaffen werden, das auf dem Grundsatz einer vollständigen Harmonisierung beruht (vgl. Erwägungsgrund 2 der Richtlinie 2007/46/EG). Aus den Erwägungsgründen der Richtlinie ergibt sich, dass die Richtlinie allein eine Stärkung des europäischen Binnenmarktes beabsichtigt und nicht zugleich auch darauf ausgelegt ist, individuelle Rechte des Fahrzeugkäufers oder -besitzers zu begründen.Soweit in den Erwägungsgründen 3, 14 und 17 sowie den Art. 8 Abs. 3, 29 und 32 Abs. 1 der Richtlinie daneben auch von Gesundheits- und Umweltschutz sowie der Sicherheit der Verbraucher die Rede ist, bedeutet dies nicht, dass hierdurch dem einzelnen Verbraucher individuelle Rechte verliehen werden sollen. Vielmehr wird auch insoweit allein auf das Interesse der Allgemeinheit Bezug genommen. Hieraus ergibt sich entgegen der Auffassung der Klägerin nicht, dass die Richtlinie einem hinreichend abgrenzbaren Personenkreis subjektive Rechte einräumen will.Unabhängig von dem Ziel der Richtlinie dient die hier in Rede stehende Vorschrift des Art. 46, wonach die Mitgliedsstaaten verpflichtet sind, für Verstöße gegen die Richtlinie wirksame, verhältnismäßige und abschreckende Sanktionen festzulegen, jedenfalls nicht dem Schutz der Vermögensinteressen des Fahrzeugerwerbers. Art. 46 der Richtlinie 2007/46/EG sieht allein vor, dass Verstöße gegen die Richtlinie entsprechend sanktioniert werden sollen. Hieraus lässt sich jedoch nicht ableiten, dass der einzelne Fahrzeugerwerber zum Schutze seines Vermögens einen subjektiven Anspruch auf die Umsetzung entsprechender Sanktionsvorschriften haben soll. Sofern man ein subjektives Recht des Fahrzeugerwerbers darin erblicken wollte, dass diesem aufgrund der Verwendung einer unzulässigen Abschalteinrichtung im Sinne von Art. 5 Abs. 2 der Verordnung (EG) Nr. 715/2007 ein Schadensersatzanspruch gegenüber dem Fahrzeughersteller zugebilligt werden müsse, ist festzuhalten, dass der Fahrzeugerwerber bereits hinreichend über die Vorschrift des § 826 BGB geschützt ist.Darüber hinaus fehlt es auch an dem erforderlichen unmittelbaren Kausalzusammenhang zwischen einem etwaigen Verstoß gegen Art. 46 der Richtlinie und dem behaupteten Schaden. Der von der Klägerin behauptete Schaden - der Kauf eines manipulierten Fahrzeuges - beruht nicht unmittelbar auf einer fehlerhaften Richtlinienumsetzung durch die Beklagte, sondern auf einem eigenständigen rechtswidrigen Verhalten der W AG. Auch die Behauptung der Klägerin, bei hinreichend abschreckenden Sanktionsvorschriften hätte es keine Manipulation durch die W AG gegeben und sie hätte kein manipuliertes Fahrzeug erworben, genügt zur Annahme des unmittelbaren Kausalzusammenhangs nicht. Insoweit bestehen durchaus Zweifel, ob die W AG bei weitergehende Sanktionen tatsächlich von dem Einbau der Steuerungssoftware abgesehen hätte. Die Tatsache, dass in den USA hohe Geldbußen drohen, hat die W AG jedenfalls nicht davon abgehalten, auch dort die mit der Steuerungssoftware versehenen Fahrzeuge zu verkaufen (LG Freiburg, Urteil vom 10.07.2019,2 O 24/18).Im Übrigen erscheint es auch zweifelhaft, ob überhaupt ein hinreichend qualifizierter Verstoß gegen Art. 46 vorliegt. Insofern wird auf die Ausführungen des Landgerichts Freiburg in dem Urteil vom 10.07.2019, 2 O 24/18 Bezug genommen.Auch etwaige Verstöße gegen unionsrechtliche Vorschriften bei der Erteilung der EG-Typengenehmigung und der Überwachung (insbesondere Art. 8, 29, 32 der Richtlinie) würden keine Verletzung von Normen darstellen, die individuelle Rechte der Klägerin begründen sollen. Entsprechend den obigen Ausführungen geht es auch hier um das Interesse der Allgemeinheit.Ein Anspruch der Klägerin ergibt sich auch nicht aus § 839 BGB i.V.m. Art. 34 GG. Ein Amtshaftungsanspruch scheitert jedenfalls an der Subsidiarität gemäß § 839 Abs. 1 S. 2 BGB, da ein Vorgehen gegen die W AG möglich und wie die zahlreichen hierzu ergangenen Urteile zeigen grundsätzlich auch erfolgsversprechend ist.Der Hilfsantrag ist ebenfalls unbegründet. Auch insoweit steht der Klägerin kein unionsrechtlicher Staatshaftungsanspruch oder Amtshaftungsanspruch gegen die Beklagte zu. Auch Art. 4 der Richtlinie, der die Pflichten der Mitgliedstaaten bei der Erteilung der Typengenehmigung regelt, bezweckt nicht, dem einzelnen Fahrzeugerwerber individuelle Rechte im Hinblick auf seine Vermögensinteressen zu verleihen. Die zum Hauptantrag gemachten Ausführungen gelten für den Hilfsantrag entsprechend.Die von der Klägerin beantragte Stellungnahmefrist zu dem Schriftsatz der Beklagten vom 22.01.2020 war nicht zu gewähren, da hierin keine neuen entscheidungserheblichen Angriffs- oder Verteidigungsmittel enthalten sind.Die Kostenentscheidung folgt aus § 91 Abs. 1 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2360735.html (https://oj.is/2360735)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

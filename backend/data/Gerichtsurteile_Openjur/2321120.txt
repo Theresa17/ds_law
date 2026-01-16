@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG AachenRechtsprechungUrteil vom 26.04.2019 - 7 O 264/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Aachen, Urteil vom 26.04.2019 - 7 O 264/18
+                      m. Fundstelle
+                      LG Aachen, Urteil vom 26.04.2019 - 7 O 264/18 = openJur 2021, 5698
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Aachen, Urteil vom 26.04.2019 - 7 O 264/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 5698
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger trägt die Kosten des Rechtsstreits.Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages. 
+				Tatbestand
+				Der Kläger nimmt die Beklagte auf Schadensersatz und Feststellung des Annahmeverzugs im Zusammenhang mit dem Erwerb eines Kraftfahrzeugs in Anspruch.Der Kläger kaufte am 27.05.2016 bei der Fa. (...) das streitgegenständliche Kraftfahrzeug vom Typ VW Tiguan (Fahrgestellnr.: ...) zu einem Kaufpreis von 27.980,00 € und einer damaligen Laufleistung von 35.753 km.Das streitgegenständliche Fahrzeug verfügt über eine EG-Typengenehmigung nach der Verordnung (EG) Nr. 715/2007 des Europäischen Parlamentes und des Rates vom 20.06.2007 über die Typengenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge. Eine solche Genehmigung setzt voraus, dass das Fahrzeug die festgelegten Abgasgrenzwerte einhält.Das Fahrzeug wurde von der Beklagten produziert und ist mit einem Motor vom Typ EA 189 ausgestattet. Damit gehört es zu den vom sogenannten "Abgasskandal" betroffenen Kraftfahrzeugen. Die Motoren des Typs EA 189 der Beklagten verfügen über eine Software zur Motorsteuerung. Im Straßenverkehr laufen diese Motoren im sogenannten Modus 0. Steht das Fahrzeug auf dem Prüfstand zur Messung der Schadstoffemissionen, erkennt dies der Motor und schaltet in den Modus 1. Im Modus 1 werden beim Durchfahren des Neuen Europäischen Fahrzyklus ("NEFZ") zur Verringerung des Stickoxidausstoßes Abgase in den Motor zurückgeführt, bevor sie das Emissionskontrollsystem erreichen.Mit Bescheid des Kraftfahrt-Bundesamtes (KBA) vom 14.10.2015 wurde die Beklagte verpflichtet, bei allen betroffenen Fahrzeugen die Motorsteuerungssoftware zu entfernen. Darüber hinaus wurde die Beklagte verpflichtet nachzuweisen, dass nach Entfernen der Software alle technischen Anforderungen der relevanten Einzelrechtsakte der Richtlinie 2007/46/EG erfüllt werden. In der Folge gab das KBA Software-Updates für verschiedenen Fahrzeug- und Motorentypen der Beklagten frei. Unter dem 21.07.2016 wurde auch ein Update für das streitgegenständliche Fahrzeug freigegeben (Bl. 193f. d. A.). Nach Aufspielen des Updates wird das Fahrzeug auf der Straße und im Prüflauf nur noch in einem veränderten Modus 1 betrieben. Der Kläger ließ das streitgegenständliche Fahrzeug auf Kosten der Beklagten mit diesem Update nachrüsten.Eine außergerichtliche Aufforderung seitens des Klägers an die Beklagte zur Rückzahlung des Kaufpreises Zug um Zug gegen Rückübereignung des streitgegenständlichen Fahrzeugs erfolgte nicht.Am 31.01.2019 hatte der streitgegenständliche Pkw eine Laufleistung von 77.432 km.Der Kläger behauptet, er hätte das Fahrzeug in Kenntnis der Umstände, unter denen die EG-Typengenehmigung erlangt wurde, nicht erworben. Er sei bei Erwerb des Fahrzeugs auf der Suche nach einem umweltverträglichen Auto gewesen und habe Wert auf die Einhaltung der Euro 5-Norm gelegt.Er behauptet weiterhin, die Beklagte habe ihre Fahrzeuge im Wissen damit gegen geltendes Recht zu verstoßen mit der fraglichen Motorsteuerungssoftware ausgestattet. Sie habe den Kläger bewusst darüber getäuscht, dass die Betriebserlaubnis des streitgegenständlichen Fahrzeugs in gesetzeskonformer Weise erlangt wurde.Der Kläger behauptet außerdem, dass die Nutzung der Motorsteuerungssoftware nicht ohne Kenntnis des Vorstandes der Beklagten entschieden worden und ihr damit zuzurechnen sei. Der Kläger ist in dem Zusammenhang der Auffassung, dass die sekundäre Darlegungslast der internen Verantwortlichkeiten in ihrem Betrieb bei der Beklagten liege. Dem Kläger seien nähere Ausführungen nicht möglich oder zumutbar, während es der Beklagten möglich sei, die im Zusammenhang mit der Programmierung und Implementierung der Motorsteuerungssoftware stehenden internen Vorgänge und Entscheidungsprozesse darzulegen.Der Kläger behauptet ferner, es stehe zu befürchten, dass sich das angebotene Update negativ auf Lebensdauer und Wartungsbedarf des Motors auswirke, sodass ihm trotz Durchführung des Updates ein Nachteil verbleibe.Der Kläger beantragt,1. die Beklagte zu verurteilen, an ihn 24.752,63 € nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen Übereignung und Herausgabe des PKW VW Tiguan, Fahrgestellnummer WVGZZZ5NZFW004190,2. festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag zu 1) genannten Pkws in Annahmeverzug befindet.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, dass es sich bei der streitgegenständlichen Motorsteuerungssoftware nicht um eine verbotene Abschalteinrichtung handele. Diese könne im Übrigen durch das Update technisch überarbeitet werden. Nachteile für den Kläger entstünden dadurch nicht.Die Beklagte behauptet weiterhin, dass dem Kläger kein Schaden entstanden sei. Dies gelte umso mehr, da der Kläger das von der Beklagten angebotene Update hat ausführen lassen. Außerdem bestehe kein Preisverfall von Dieselfahrzeugen der Beklagten.Darüber hinaus sei der Kläger nicht getäuscht worden. Die Grenzwerte der EU Abgasnorm würden eingehalten. Eine durch die zuständigen Behörden erteilte Typengenehmigung für das Fahrzeug habe immer vorgelegen. Eine Täuschung scheide darüber hinaus deshalb aus, da der Kläger das Fahrzeug nach Bekanntwerden des "Abgasskandals" erworben habe.Sie behauptet ferner, dass die Umstände im Zusammenhang mit dem Einsatz der streitgegenständlichen Software derzeit aufgeklärt würden. Derzeit lägen keine Erkenntnisse dafür vor, dass zum Zeitpunkt des Kaufvertragsabschlusses im Oktober 2009 eines der Organe der Beklagten Kenntnis von der fraglichen Software hatte. Bei den gegenteiligen Behauptungen des Klägers, handele es sich um Angaben ins Blaue hinein.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf den Akteninhalt Bezug genommen. 
+				Gründe
+				Die Klage ist zulässig, jedoch unbegründet.Das Landgericht Aachen ist örtlich zuständig. Gemäß § 32 ZPO ist für Klagen aus unerlaubten Handlungen, zu denen auch die vorsätzlich sittenwidrige Schädigung nach § 826 BGB oder der Anspruch aus § 823 Abs. 2 BGB i. V. m. § 263 StGB gehören (Zöller, Zivilprozessordnung, 32. Auflage, § 32 Rn. 5), das Gericht zuständig, in dessen Bezirk die Handlung begangen ist. Der Gerichtsstand des § 32 ZPO wird dadurch begründet, dass der Kläger schlüssig Tatsachen behauptet, aus denen sich ergibt, dass im Gerichtsbezirk eine unerlaubte Handlung begangen worden ist. Im Rahmen der Zulässigkeit ist die Richtigkeit des Klägervorbringens zu unterstellen (Musielak, ZPO, 14. Auflage 2017, § 32 Rn. 19). Der Ort der unerlaubten Handlung liegt hier entweder beim Autohaus in Monschau oder am Wohnsitz des Klägers in Aachen, je nachdem, ob auf den Kaufvertragsschluss oder auf die bestimmungsgemäße Verbringung des Pkws abgestellt wird. Beide Orte liegen im Zuständigkeitsbezirk des Landgerichts Aachen.Das für den Klageantrag zu 2) gem. § 256 ZPO erforderliche Feststellungsinteresse ist insoweit schlüssig dargelegt, als der Kläger aus vollstreckungsrechtlichen Gründen ein berechtigtes Interesse an der Feststellung eines Annahmeverzuges der Beklagten hat.Die Klage ist unbegründet. Dem Kläger stehen aus keinem rechtlichen Gesichtspunkt die geltend gemachten Ansprüche zu.Eine vertragliche Beziehung zwischen den Parteien besteht nicht, sodass nur außervertragliche Ansprüche in Betracht kommen, und zwar die deliktischen Ansprüche aus §§ 823 Abs. 2 BGB i.V.m. § 263 Abs. 1 StGB und 826 i.V.m. 31 BGB.Ein Anspruch aus § 823 Abs. 2 BGB i.V.m. § 263 Abs. 1 StGB besteht vorliegend nicht. Es fehlt jedenfalls an einer kausalen Irrtumserregung auf Seiten des Klägers durch eine Handlung oder ein Unterlassen der Beklagten. Denn es ist hier anzunehmen, dass der Kläger Kenntnis davon hatte, dass das Fahrzeug über eine Umschaltlogik verfügte und dass zum Erhalt der Zulassungsfähigkeit Nachbesserungsmaßnahmen durchzuführen waren. Der Kläger hat das Fahrzeug am 27.05.2016 erworben und damit mehr als ein halbes Jahr nach Bekanntwerden des "Abgasskandals" im Oktober 2015. Wenn es zutrifft, dass dem Kläger, wie er selber vorträgt, bei Kauf des Fahrzeugs dessen Umweltfreundlichkeit und Zulassungsfähigkeit nach der EU-Typengenehmigung wichtig waren, ist es nicht vorstellbar, dass er keine Kenntnis von dem "Abgasskandal" und der Betroffenheit des streitgegenständlichen Fahrzeugs hatte (Bl. 62 d.A.). Der "Abgasskandal" im Zusammenhang mit bestimmten, von der Beklagten hergestellten Dieselmotoren hat national und international weite Kreise gezogen und ein außergewöhnliches Maß an Aufmerksamkeit durch Presse und Öffentlichkeit erfahren. Es erscheint lebensfern, dass sich der Kläger, vor dem Hintergrund seines behaupteten Interesses an Umweltfreundlichkeit und der täglichen Berichterstattung in allen Medien, nicht dahingehend versichert hat, dass der streitgegenständliche Pkw von dem "Abgasskandal" nicht betroffen ist. Es erscheint ebenso lebensfern, dass der Kläger bei Verkauf nicht auf die Betroffenheit des Fahrzeugs hingewiesen wurde, insbesondere vor dem Hintergrund drohender Schadensersatzforderungen, die vielfach auch gegenüber den Händlern geltend gemacht werden. In Anbetracht der Tatsache, dass kurz nach dem Kauf im Juli 2016 ein Update für das streitgegenständliche Fahrzeug freigegeben wurde, war eine Kaufentscheidung in Kenntnis oder aber in bewusster Inkaufnahme der Abschalteinrichtung jedenfalls nicht abwegig. Auf dieser Grundlage ist ein täuschungsbedingter Irrtum über die Vorschriftsmäßigkeit des Fahrzeugs i.S.d. § 263 StGB zu verneinen. Eine positive Kenntnis von den wahren Umständen kann nach Sinn und Zweck der Vorschrift jedenfalls dann nicht verlangt werden, wenn dem (vermeintlich) Getäuschten die wahren Umstände gleichgültig sind und er das Risiko bewusst in Kauf nimmt (vgl. zum Ganzen Schönke/Schröder/Perron StGB § 263 Rn. 40 m.N.). Jedenfalls von letzterem ist nach obigen Ausführungen hier auszugehen. Auch wenn der Kläger darauf vertraut haben sollte, die Beklagte werde das Fahrzeug gegen vollständige Kaufpreisrückerstattung zurücknehmen oder aber eine Hardwareumrüstung vornehmen, vermag das keine andere rechtliche Würdigung zu rechtfertigen. Insoweit läge allenfalls ein rechtlich unbeachtlicher Motivirrtum vor, der nicht unmittelbar durch die Beklagte hervorgerufen worden wäre.Ebenso scheitert ein Anspruch des Klägers gegen die Beklagte aus § 826 i.V.m. § 31 BGB. Es fehlt jedenfalls an einem Schaden des Klägers. Zwar kann auch die Eingehung einer ungewollten vertraglichen Verpflichtungen einen Schaden i.S.d. Vorschriften begründen, weil sich der Schadensbegriff des § 826 BGB nicht nur auf verletzte Rechte und Rechtsgüter bzw. nachteilige Einwirkungen auf die Vermögenslage bezieht, sondern darüber hinaus jede Beeinträchtigung eines rechtlich anerkannten Interesses und jede Belastung mit einer ungewollten Verpflichtung erfasst (BGH, Urteil vom 19. Juli 2004 - II ZR 402/02 -, BGHZ 160, 149-159, Rn. 41 m.w.N.). Nach oben Gesagtem ist hier jedoch nicht davon auszugehen, dass der Kläger eine ungewollte vertragliche Verpflichtung eingegangen ist und hierzu in sittenwidriger Weise durch die Beklagte gebracht wurde. Insoweit wird auf die Ausführungen oben verwiesen. Unter Berücksichtigung der zeitlichen Abfolge von Bekanntwerden des "Abgasskandals" und Erwerb des streitgegenständlichen Fahrzeugs wäre weiterer Vortrag hierzu erforderlich gewesen. Auch nach Hinweis der Beklagten im Rahmen der Klageerwiderung wird hierzu nicht konkreter vorgetragen.Auch der Klageantrag zu 2) ist unbegründet. Mangels Anspruchs auf Rücknahme des Fahrzeugs konnte die Beklagte diesbezüglich nicht in Verzug gesetzt werden.Die prozessualen Nebenentscheidungen beruhen auf §§ 91, 709 ZPO.Der Streitwert wird auf bis 30.000,00 € festgesetzt.BeglaubigtUrkundsbeamter/in der GeschäftsstelleLandgericht Aachen
+			
+			
+			
+			Permalink: https://openjur.de/u/2321120.html (https://oj.is/2321120)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

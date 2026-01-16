@@ -1,0 +1,144 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG DetmoldRechtsprechungUrteil vom 11.06.2019 - 01 O 380/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Detmold, Urteil vom 11.06.2019 - 01 O 380/18
+                      m. Fundstelle
+                      LG Detmold, Urteil vom 11.06.2019 - 01 O 380/18 = openJur 2022, 11472
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Detmold, Urteil vom 11.06.2019 - 01 O 380/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 11472
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							nachfolgend: Az. I-28 U 266/19
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits werden dem Kläger auferlegt.Dieses Urteil ist gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger macht gegen die Beklagte Ansprüche im Zusammenhang mit dem sogenannten Dieselabgasskandal geltend.Mit Vertrag vom 22.03.2016 erwarb der Kläger von der A in B den Pkw Audi A5 Sportback S 2,0 TDl mit der Fahrzeug-Ident -Nr. X zum Preis von 37.880 €, und zwar als Gebrauchtfahrzeug. Dieses Fahrzeug ist mit einem von der Beklagten hergestellten Dieselmotor des Typs EA189EU5 ausgestattet. Das Abgasrückführungssystem des Fahrzeugs verfügte über zwei unterschiedliche Betriebsmodi: Im NOxoptimierten Modus 1, der im NEFZ {Prüfstandmodus) aktiv ist, kommt es zu einer erhöhten Abgasrückführungsrate in den Motor, bevor die Abgase das Emissionskontrollsystem erreichen, und damit zu einem verminderten Stickoxidausstoß. Unter Fahrbedingungen, die im normalen Straßenverkehr vorzufinden sind, ist der Betriebsmodus 0 aktiv, in dem die Abgasrückführungsrate geringer ist. Befindet sich das Fahrzeug auf dem Prüfstand, wird dies von der Software des Motortyps erkannt und in den Betriebsmodus 1 umgeschaltet. Auf diese Art und Weise wird sichergestellt, dass bei der Prüfung der betreffenden Fahrzeuge nach den gesetzlich vorgesehenen Maßgaben der Euro-5-Abgasnorm geringere Stickoxidemissionen gemessen werden und dementsprechend die Stickoxidgrenzwerte im Laborbetrieb eingehalten werden, so dass die erforderliche EG-Typengenehmigung erlangt werden konnte. Dagegen schaltet die Motorsteuerung in den Modus 0, wenn das Fahrzeug im Straßenverkehr eingesetzt wird.Das Kraftfahrtbundesamt erlegte der Beklagten nach dem Bekanntwerden der vorstehenden Manipulation auf, die entsprechende Software aus den Fahrzeugen zu entfernen und gab in der Folgezeit sukzessive Software-Updates für eine Vielzahl verschiedener Fahrzeug- und Motortypen der Beklagten frei. In der Zwischenzeit verzichtete das Kraftfahrtbundesamt darauf, die EG-Typengenehmigung zu widerrufen.Bei dem PKW des Klägers wurde zwischenzeitlich ein vom Kraftfahrtbundesamt gebilligtes Software-Update aufgespielt mit der Folge, dass es nur noch im Betriebsmodus 1 betrieben werden kann.Vorprozessual forderte der Kläger die Beklagte auf, ihm gegenüber anzuerkennen, dass sie ihm Ersatz für die Schäden zu leisten habe, die aus der Manipulation seines Fahrzeugs resultierten. Weil die Beklagte dieses Ansinnen ablehnte, strengte er schließlich diesen Rechtsstreit an.Der Kläger behauptet, dass sein Fahrzeug wegen der von der Beklagten darin verbauten rechtswidrigen Abschalteinrichtung mangelhaft sei und einen erheblichen Wertverlust erlitten habe. Er sei seinerzeit auf der Suche nach einem umweltfreundlichen und wertstabilen Fahrzeug gewesen. Hätte er von dem Einsatz der Abschalteinrichtung gewusst, dann hätte er dieses Fahrzeug nicht erworben. Trotz des zwischenzeitlich aufgespielten Software-Updates sei sein Fahrzeug nach wie vor mangelhaft. Denn das Software-Update habe nicht zu einer folgenlosen Entfernung der illegalen Abschalteinrichtung geführt. Vielmehr seien Folgemängel möglich wie etwa ein höherer Kraftstoffverbrauch, eine Minderleistung des Motors, ein höherer Partikelausstoß, eine Verkürzung der Lebenszeit des Motors oder eine höhere Geräuschentwicklung. Zumindest verbleibe ein Mangelverdacht. Vor diesem Hintergrund habe sein PKW einen merkantilen Minderwert erlitten, der bei 20 % bis 25 % liege. Der Vorstand der Beklagten habe im Übrigen um die Manipulation gewusst.Der Kläger steht auf dem Standpunkt, dass ihm die Beklagte als Herstellerin des Motors seines Fahrzeugs zum Schadensersatz verpflichtet sei und dass sie ihn von den ihm entstandenen vorgerichtlichen Anwaltskosten freizustellen habe.Er beantragt,1.festzustellen, dass die Beklagte verpflichtet ist, ihm Schadensersatz zu leisten für Schäden, die aus der Manipulation des Fahrzeugs Audi A5 (Fahrzeug-Ident.-Nr. X) durch die Beklagte resultieren;2.die Beklagte zu verurteilen, ihn von den durch die Beauftragung seiner Prozessbevollmächtigten entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.530,64 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Sie ist der Ansicht, dass der Pkw des Klägers keine unzulässige Abschalteinrichtung aufgewiesen habe. Sie bestreitet, den Kläger getäuscht und geschädigt zu haben.Wegen der weiteren Einzelheiten des Vorbringens der Parteien wird auf den Inhalt der gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				(1)Die Klage ist, was den Klageantrag zu 1) angeht, schon unzulässig.Auch eine Feststellungsklage muss den Anforderungen des § 253 ZPO genügen. Insbesondere muss der Klageantrag im Sinne von § 253 Abs. 2 Nr. 2 ZPO bestimmt sein, damit sich der Umfang der Rechtshängigkeit und der Rechtskraft eines auf den Feststellungsantrag ergehenden Urteils bestimmen lassen. Mithin ist es erforderlich, dass das festzustellende Rechtsverhältnis genau bezeichnet wird und dass, soweit es - wie hier - um Schadensersatzansprüche geht, das zum Ersatz verpflichtende Ereignis konkret angegeben wird.Trotz des Hinweises im Termin vom 00.00.00 ist Letzteres hier nicht geschehen. Der Kläger begehrt vielmehr die Feststellung, dass die Beklagte verpflichtet ist, ihm Schadensersatz zu leisten für Schäden, die "aus der Manipulation seines Fahrzeugs durch die Beklagte" resultieren. Dabei hat er völlig offen gelassen, aufgrund welcher konkreten "Manipulation" eine Schadensersatzpflicht festgestellt werden soll. Sein Klageantrag zu 1) ist somit nicht hinreichend bestimmt im Sinne des § 253 Abs. 2 Nr. 2 ZPO (vgl. dazu OLG München, Beschluss vom 12.06.2018 - 8 U 3169/17 juris).(2)Die Klage ist im Übrigen aber auch unbegründet.Dem Kläger stehen keine Schadensersatzansprüche gegen die Beklagte zu.(a)Der Kläger hat gegen die Beklagte keinen Schadensersatzanspruch nach den §§ 241 Abs. 2, 280 Abs. 1,311 Abs. 3 BGB. Denn nach § 311 Abs. 3 S. 2 BGB kommtein solcher Anspruch gegen einen Dritten nur in Betracht, wenn dieser in besonderem Maße Vertrauen für sich in Anspruch nimmt und dadurch die Vertragsverhandlungen oder den Vertragsschluss erheblich beeinflusst. Dass die Beklagte seine Vertragsverhandlungen mit der A und/oder den Abschluss des Kaufvertrages vom 22.03.2016 erheblich beeinflusste, hat der Kläger indes nicht dargetan. Soweit er in diesem Zusammenhang auf die für sein Fahrzeug ausgestellte Übereinstimmungsbescheinigung verweist, verkennt der Kläger, dass diese nicht von der Beklagten als Herstellerin des Motors sondern von der Fahrzeugherstellerin, also von der C ausgestellt wurde. Dies ergibt sich unzweifelhaft aus der vom Kläger vorgelegten Anlage K 51 zur Klageschrift. Im Übrigen trägt er selbst nicht vor, dass die für seinen Pkw ausgestellte Übereinstimmungsbescheinigung bei den Vertragsverhandlungen und/oder beim Abschluss des Vertrages irgendeine Rolle spielte oder dass sie zumindest vorlag.(b)Dem Kläger stehen auch keine Ansprüche aus einem selbständigen Garantievertrag nach § 443 BGB oder in entsprechender Anwendung dieser Vorschrift zu. Denn es fehlt bereits an einer entsprechenden auf den Abschluss eines Garantievertrags gerichteten Erklärung der Beklagten. Diese kann schon deshalb nicht in der Übereinstimmungsbescheinigung für den Pkw des Klägers gesehen werden, weil diese Erklärung nicht von der Beklagten ausgestellt wurde sondern von der C.(c)Der Kläger kann sein Klagebegehren nicht auf die §§ 826, 31 BGB stützen, da ihm die Beklagte nicht in einer gegen die guten Sitten verstoßenden Weise vorsätzlich Schaden zugefügt hat.Nach einer auf das Reichsgericht zurückgehenden Formel verweist die Sittenwidrigkeit auf das Anstandsgefühl aller billig und gerecht Denkenden. Dabei kommt es nicht auf die Anschauungen der Gesamtbevölkerung, sondern auf diejenigen der konkret betroffenen Verkehrskreise an. Ein Unterlassen verletzt nur dann die guten Sitten, wenn das geforderte Tun einem sittlichen Gebot entspricht. Es genügt nicht, dass der Schädiger vertragliche oder gesetzliche Pflichten verletzt. Hinzukommen müssen besondere Umstände, die das schädigende Verhalten wegen seines Zwecks oder wegen des angewandten Mittels oder mit Rücksicht auf die dabei gezeigte Gesinnung nach den Maßstäben der allgemeinen Geschäftsmoral und des als anständig Geltenden verwerflich machen. Entscheidend kommt es auf den Zeitpunkt ex ante bei Vornahme des potentiell sittenwidrigen Verhaltens an (vgl. MüKoBGB/Wagner, BGB, 7. Aufl., § 826 Rdnr. 9).Unter Berücksichtigung vorgenannter Grundsätze ist allein das Inverkehrbringen einer mangelhaften Sache nicht ausreichend, um ein sittenwidriges Handeln zu begründen, da andernfalls die Grenze zu der vertraglichen Rückabwicklung infolge Mangelhaftigkeit der Sache verschwimmen würde.Eine sittenwidrige Schädigung kann auch nicht aus einem etwaigen Verstoß gegen Art. 5 Abs. 2 i.V.m. 3 Nr. 10 VO (EG ) Nr. 715/2007 des europäischen Parlamentes und des Rates vom 20.06.2007 über die Typengenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge hergeleitet werden. Dabei kann dahinstehen, ob tatsächlich ein Verstoß gegen diese Verordnung vorliegt, da der geltend gemachte Vermögensschaden jedenfalls nicht in deren Schutzbereich fällt (ebenso LG Braunschweig, Urteil vom 10.01.2018 - 3 O 622/17 -, juris). Für Ansprüche aus unerlaubten Handlungen gilt, dass die Ersatzpflicht auf solche Schäden beschränkt ist, die in den Schutzbereich des verletzten Ge- oder Verbots fallen (vgl. BGH, Urteil vom 14.10.1971 -VII ZR 313/69 juris). Auf eine derartige Eingrenzung der Haftung kann, um das Haftungsrisiko in angemessenen und zumutbaren Grenzen zu halten, auch im Rahmen des § 826 BGB nicht verzichtet werden, Dabei kommt es allerdings nicht auf die ratio des § 826 BGB in abstracto an, sondern auf den Schutzzweck der konkret verletzten Verhaltensnorm. Ein Verhalten kann hinsichtlich der Herbeiführung bestimmter Schäden als sittlich anstößig zu werten sein, während ihm diese Qualifikation hinsichtlich anderer, wenn auch ebenfalls adäquat verursachter Schadensfolgen nicht zukommt. Die Ersatzpflicht beschränkt sich in einem solchen Fall auf diejenigen Schäden, die dem in sittlich anstößiger Weise geschaffenen Gefahrenbereich entstammen (vgl. BGH, Urteil vom 11.11.1985-11 ZR 109/84-, juris; MüKoBGB/Wagner, a.aO., Rdnr. 46). Die Verordnung (EG) Nr. 715/2007 dient jedenfalls nicht dem Schutz individueller Vermögensinteressen, wie den Erwägungsgründen (1) bis (6) und (27) dieser Verordnung ist zu entnehmen. Vielmehr zielt diese Verordnung auf die Weiterentwicklung des Binnenmarktes durch Harmonisierung der technischen Vorschriften über die Typengenehmigung von Kraftfahrzeugen hinsichtlich ihrer Emissionen und insbesondere auf die Minderung der Stickoxidemissionen bei diesen Fahrzeugen zur Verbesserung der Luftqualität und auf die Einhaltung der Luftverschmutzungsgrenzwerte ab. Der von dem Kläger geltend gemachte Vermögensschaden fällt daher nicht in den Schutzbereich der Norm.Schließlich begründet auch das Verschweigen des Einbaus der Software in das Fahrzeug des Klägers den Vorwurf der Sittenwidrigkeit nicht. Denn das Verschweigen eines Umstandes rechtfertigt nicht ohne weiteres den Vorwurf eines Sittenverstoßes, sondern nur dann, wenn eine Seite der anderen zu entsprechender Offenbarung verpflichtet ist. Eine Offenbarungspflicht entsteht, wenn die andereSeite nach Treu und Glauben mit Rücksicht auf die Verkehrssitte eine Mitteilung erwarten durfte. Auch innerhalb einer vertraglichen Beziehung darf der Vertragspartner nach Treu und Glauben nicht eine vollumfängliche Information über alle Belange des Geschäftes erwarten. Es besteht keine allgemeine Offenbarungspflicht, weil im Vertragsrecht zunächst jedes Privatrechtssubjekt für die Verteidigung seiner Interessen selbst verantwortlich ist. Das gilt insbesondere für den Kaufvertrag, der von gegensätzlichen Interessen geprägt ist. Die Grenze des nach der Verkehrsauffassung Hinnehmbaren ist auch im Rahmen des § 826 BGB erst dann überschritten, wenn es um erhebliche wertbildende Umstände beim Kaufvertragsabschluss geht (vgl. Palandt-Sprau, BGB, 78. Aufl., § 826 Rdnr. 20 m.w.Nachw.).Dass die Verwendung der Software in diesem Sinne einen wertbildenden Faktor darstellt, dem der Markt ein ganz besonderes Gewicht beimisst, ist von dem Kläger weder hinreichend substantiiert vorgetragen noch sonst ersichtlich. Dagegen spricht schon, dass die Abschalteinrichtung allein durch ein vom Kraftfahrtbundesamt freigegebenes Software-Update zu beseitigen ist. Der Kläger behauptet zwar einen erhöhten Kraftstoffverbrauch, einen Leistungsverlust, eine Erhöhung der Rußpartikelemissionen, eine Lebenszeitverkürzung des Motors und höhere Geräuschentwicklungen, ohne jedoch konkrete Angaben in Bezug auf das streitgegenständliche Fahrzeug zu machen. Diese wären ihm aber ohne weiteres möglich und zumutbar gewesen, da er das Fahrzeug selbst nutzt.Der Kläger hat schließlich einen signifikanten Wertverlust des Fahrzeugs nicht substantiiert dargelegt. Etwaige Wertverschiebungen in Bezug auf das Fahrzeug des Klägers, die gerade auf die streitige Software und nicht auf andere Gründe zurückzuführen sind, wurden nicht dargetan.(d)Eine Haftung der Beklagten ergibt sich auch nicht aus § 823 Abs. 2 BGB i.V.m. § 263 StGB. Denn der Tatbestand des Betruges setzt Stoffgleichheit zwischen erlangtem Vermögensvorteil und erlittenem Vermögensschaden voraus, an der es hier fehlt. Stoffgleichheit meint, dass der Täter den Vorteil unmittelbar aus dem Vermögen des Geschädigten in der Weise erstrebt, dass der Vorteil die Kehrseite des Schadens ist. Der Vermögensvorteil auf der einen und der Vermögensschaden auf der anderen Seite müssen demnach auf derselben Vermögensverfügung beruhen (vgl. Schönke/Schröder, StGB, 29. Aufl., § 263 Rdnr. 168 f.). Der Kaufpreis ist jedoch vorliegend nicht der Beklagten als Herstellerin des Motors sondern dem Händler zugeflossen.(e)Auch eine Haftung aus § 823 Abs. 2 BGB i.V.m. Art. 5 Abs. 2, 3 Nr. 10 VO (EG) Nr. 715/2007 oder i.V.m. den §§ 6 Abs. 1, 27 Abs. 1 EG-FGV kommt nicht in Betracht, da es sich bei diesen Normen nicht um Schutzgesetze im Sinne des § 823 Abs. 2 BGB handelt. Dies würde nämlich voraussetzen, dass es sich dabei um Normen handelt, die zumindest auch dem Schutz des Einzelnen oder einzelner Personenkreise gegen die Verletzung eines bestimmten Rechtsguts dienen (vgl. Palandt/Sprau, a.a.O., § 823 Rdnr. 57 f.), was bei den genannten Verordnungen nicht der Fall ist.Dass die Verordnung (EG) Nr. 715/2007 nicht dem Schutz individueller Vermögensinteressen sondern der Vollendung des europäischen Binnenmarktes durch Harmonisierung der Regelungen hinsichtlich des Umweltschutzes, insbesondere im Hinblick auf die Luftverschmutzung durch Kraftfahrzeuge dient, wurde bereits dargetan.Die Vorschriften der EG-FGV, welche die Richtlinie 2007/46/EG umsetzen, dienen ausweislich der Erwägungsgründe (2), (4) und (23) in erster Linie der Verwirklichung und dem Funktionieren des Binnenmarktes der Gemeinschaft und damit dessen Vollendung. Auch nach der Begründung zur EG-FGV (BR-Drucks. 190/09, S. 36) soll die Richtlinie dem Abbau von Handelshemmnissen und der Verwirklichung des Binnenmarktes der Gemeinschaft dienen, wobei die EG-FGV darüber hinaus zur Rechtsvereinfachung und zum Bürokratieabbau beitragen soll. Der von der Klägerin geltend gemachte Vermögensschaden fällt daher nicht in den Schutzbereich dieser Normen (ebenso OLG Braunschweig, Urteil vom 19.02.2019-7 U 134/17 -, juris).(f)Die Beklagte haftet dem Kläger auch nicht nach § 823 Abs. 2 BGB i.V.m. § 16 UWG auf Schadensersatz. Der Anspruch scheitert bereits daran, dass der Kläger nicht dargetan hat, dass die Beklagte im Sinne von § 16 Abs. 1 UWG den Anschein eines besonders günstigen Angebotes hervorrufen wollte. Sein Vorwurf geht nämlich im Kern dahin, dass die Beklagte mit der Einhaltung der Grenzwerte der Euro-5- Abgasnorm geworben hat. Diese mussten aber alle vergleichbaren Fahrzeuge am Markt einhalten, so dass bereits kein besonderer Vorteil angepriesen wurde. Damit liegen die Voraussetzungen des § 16 UWG nicht vor (vgl. LG Braunschweig, Urteil vom 20.12.2017 -30 2436/16 -, juris).(g)Schließlich scheidet hier eine Haftung der Beklagten nach § 823 Abs. 2 BGB i.V.m. § 4 Nr. 11 UWG a.F. schon deshalb aus, weil die letztgenannte Vorschrift am 09.12.2015 außer Kraft trat, also noch bevor der Kläger dasverfahrensgegenständliche Fahrzeug erwarb.(6)Da der Kläger von der Beklagten keinen Schadenersatz verlangen kann, kann er von ihr auch nicht die Freistellung von seinen vorgerichtlichen Rechtsanwaltskosten beanspruchen.(7)Die Kostenentscheidung beruht auf den § 91 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2397698.html (https://oj.is/2397698)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen4
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

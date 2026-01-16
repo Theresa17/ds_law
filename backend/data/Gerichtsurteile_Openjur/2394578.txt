@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSachsen-AnhaltOrdentliche GerichtsbarkeitLG HalleRechtsprechungUrteil vom 11.02.2022 - 5 O 229/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Halle, Urteil vom 11.02.2022 - 5 O 229/21
+                      m. Fundstelle
+                      LG Halle, Urteil vom 11.02.2022 - 5 O 229/21 = openJur 2022, 8466
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Halle, Urteil vom 11.02.2022 - 5 O 229/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 8466
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1.) Die Klage wird abgewiesen.2.) Der Kläger trägt die Kosten des Rechtsstreits.3.) Das Urteil ist vorläufig vollstreckbar. Dem Kläger bleibt nachgelassen, die Vollstreckung aus dem Urteil durch Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages abzuwenden, sofern nicht die Beklagte vor der Vollstreckung Sicherheit in gleicher Höhe leistet.Und beschlossen: Der Streitwert wird auf 6.399,13 € festgesetzt. 
+				Tatbestand
+				Der Kläger verlangt von der Beklagten Kostendeckung für die außergerichtliche und erstinstanzliche Inanspruchnahme der B. AG vor dem Hintergrund des sogenannten Dieselskandals.Die Beklagte betreibt ein Rechtsschutzversicherungsunternehmen. Der Kläger ist bei ihr, sei es über eine Frau ... zur Versicherungsnummer ... rechtsschutzversichert.Am 09.12.2020 kaufte der vorsteuerabzugsberechtigte Kläger einen gebrauchten dieselbetriebenen Pkw BMW 220d mit der Fahrzeugidentifikationsnummer ... beim Kilometerstand von 67.559 zum Kaufpreis von 18.500 € netto. Das am 15.11.2016 erstmals zugelassene Fahrzeug ist mit einem Dieselmotor mit einem Hubraum von 1995 cm<sup>3</sup> des Typs B47, Norm Euro 6, und einer Leistung von 140 kW ausgestattet, welchen die B. AG entwickelt und in Verkehr gebracht hat. Das Fahrzeug ist von einem amtlichen Rückruf des Kraftfahrt-Bundesamtes nicht betroffen (Bl. 87 der Akten).Mit Schreiben seiner Bevollmächtigten vom 24.03.2021 teilte der Kläger der Beklagten mit, dass er diese mit seiner rechtlichen Vertretung gegen die B. AG beauftragt habe, und Ansprüche aufgrund von Manipulationen der Abgassteuerung an dem von ihm erworbenen Pkw BMW 220d gegen den Hersteller geltend machen wolle, und ersuchte die Beklagte um Deckungszusage für das anwaltliche Vorgehen aus seiner Rechtsschutzversicherung. Eine Kostendeckungszusage lehnte die Beklagte, welche den Vorgang unter der Schadennummer ... führt, in der Folge ab, da keine ausreichenden Erfolgsaussichten bestünden. Mit weiterem anwaltlichem Schreiben seiner Bevollmächtigten vom 13.04.2021 wandte sich der Kläger gegen die ablehnende Haltung der Beklagten und behauptete, das streitgegenständliche Fahrzeug sei von illegalen Abschalteinrichtungen betroffen, nämlich einerseits von einem sogenannten Thermofenster, andererseits von einer Prüfstanderkennung, die bewirke, dass das Fahrzeug die Grenzwerte in NEFZ-Zyklus einhalte, nicht jedoch im regulären Betrieb. Die Beklagte lehnte eine Deckungszusage weiterhin ab.Der Kläger beziffert sein Kostenrisiko an im Hauptsacheverfahren anfallenden außergerichtlichen und erstinstanzlichen Gebühren mit 6.399,13 €. Die Klage wurde der Beklagten am 31.08.2021 zugestellt (Bl. 45R der Akten).Der Kläger behauptet, die Motorsteuerungssoftware des streitgegenständlichen Fahrzeugs sei mit unzulässigen Abschalteinrichtungen ausgestattet.Einerseits sei ein sogenanntes Thermofenster verbaut, das bewirke, dass die Abgasrückführung nur bei Außentemperaturen von + 17 °C bis + 33 °C einwandfrei funktioniere, dagegen bei Temperaturen zwischen -11 °C und +17 °C temperaturabhängig iterativ reduziert und bei über +33 °C sowie unter -11 °C vollständig deaktiviert werde (Bl. 115 der Akten); zudem werde die Abgasrückführung drehzahlabhängig und in Abhängigkeit vom Umgebungsdruck zunächst reduziert, schließlich deaktiviert. Andererseits verfüge das Fahrzeug über eine sogenannte Prüfstandserkennung, mit deren Hilfe die Motorsteuerungssoftware erkenne, ob sich das Fahrzeug auf dem Prüfstand oder im Realbetrieb befindet, und das Emissionsverhalten des Pkw auf dem Prüfstand so optimiere, dass die maßgeblichen Emissionswerte dort eingehalten, im Realbetrieb jedoch erheblich überschritten würden. Eine Überschreitung der zulässigen Emissionswerte im Realbetrieb hätten zahlreiche Messungen ergeben, wegen derer im Einzelnen auf Bl. 9-22 der Akten und die dort genannten Anlagen Bezug genommen wird.Schließlich werde die Funktionsweise des Nox-Speicherkatalysators durch sogenanntes "Kaltstartheizen" auf dem Prüfstand optimiert (Bl. 165, 166 der Akten).Der Kläger beantragt,1. festzustellen, dass die Beklagte aus dem Versicherungsvertrag Nr. ... im Zusammenhang mit der Schadennummer ... verpflichtet ist, die Kosten der außergerichtlichen und erstinstanzlichen Wahrnehmung der rechtlichen Interessen des Klägers gegen die B. AG aus dem Kauf eines BMW 220d (FIN ... und der unterstellten Manipulation der Abgassteuerung dieses Fahrzeugs zu tragen,2. die Beklagte zu verurteilen, den Kläger von den Kosten des im Zusammenhang mit der Schadennummer ... gefertigten außergerichtlichen Anschreibens der ... in Höhe von Euro 713,76 freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Sie behauptet, das vom Kläger intendierte Vorgehen gegen die B. AG biete keine hinreichende Aussicht auf Erfolg. Die Beklagte bestreitet, dass sich in dem streitgegenständlichen Fahrzeug unzulässige Abschalteinrichtungen befänden, und vertritt die Auffassung, der Sachvortrag des Klägers zu den Voraussetzungen des § 826 BGB sei unsubstantiiert.Im Übrigen wird auf den wechselseitigen Sachvortrag der Parteien Bezug genommen. 
+				Gründe
+				I. Die Klage ist zulässig, in der Sache jedoch nicht begründet. Das vom Kläger beabsichtigte außergerichtliche und erstinstanzliche Vorgehen gegen die B. AG bietet keine hinreichende Aussicht auf Erfolg.1. Gewährleistungsansprüche und solche aus Bereicherungsrecht nach Anfechtung des Kaufvertrages stehen dem Kläger gegen die B. AG nicht zu, da er das streitbefangene Fahrzeug nicht bei dieser, sondern bei der Firma A. A. in ... C. gekauft hat.2. Ihm steht gegen die B. AG ein Schadensersatzanspruch aus §§ 823 Abs. 2 BGB i.V.m. 263 StGB nicht zu. Denn es fehlt an der für den subjektiven Betrugstatbestand erforderlichen "Stoffgleichheit" zwischen dem möglichen Schaden und dem von möglichen Schädiger erstrebten Vorteil (BGH VI ZR 5/20).3. Auch ein Schadensersatzanspruch aus §§ 823 Abs. 2 BGB i.V.m. 6 Abs. 1, 27 Abs. 1 EG-FGV oder Art. 5 VO 715/2007/EG scheidet aus. Denn diese Vorschriften bezwecken nicht den Individualrechtsschutz des einzelnen Fahrzeugkäufers (BGH VI ZR 5/20).4. Schließlich hat der Kläger die Voraussetzungen eines Schadensersatzanspruchs aus §§ 826, 31 BGB gegen die B. AG nicht so hinreichend konkret vorgetragen, dass der Geltendmachung eines solchen Anspruchs eine hinreichende Erfolgsaussicht beizumessen wäre.a. Die Entscheidung eines Herstellers für die Steuerung des Abgasrückführungssystems im Rahmen eines sogenannten Thermofensters genügt per se nicht für die Annahme einer vorsätzlichen sittenwidrigen Schädigung (BGH VI ZR 433/19). Entsprechendes gilt für seine drehzahl- und/oder druckabhängiger Steuerung. Hinzutreten müssen weitere gewichtige Umstände, auf die vorliegend nichts hindeutet.b. Eine Prüfstandserkennung als solche ist nicht als Abschalteinrichtung einzustufen. Denn sie beeinflusst das Emissionsverhalten des Fahrzeugs selbst nicht. Etwaige weitere, an eine Prüfstands- oder Fahrkurvenerkennung anknüpfende Abschalteinrichtungen hat der Kläger weder konkret benannt noch in ihrer Funktionsweise hinreichend substantiiert beschrieben.c. Das behauptete "Kaltstartheizen" des NOx- Speicherkatalysators zu Beginn des Prüfzyklus dient erkennbar dem Ziel, vergleichbare Prüfungsergebnisse zu erzielen. Indizien dafür, es handele sich um eine von Verantwortlichen der B. AG bewusst und gezielt zur Manipulation der Emissionswerte auf dem Prüfstand eingesetzte Strategie, sind nicht ersichtlich.d. Die vom Kläger ins Feld geführten Abgasmessungen lassen nicht erkennen, ob sie sich auf einen mit dem streitgegenständlichen vergleichbaren Motor jeweils beziehen. So weisen die auf Seiten 11-13 aufgelisteten Modelle teils Motoren mit anderer Leistung aus. Auch der in der Liste Anl. K C1 aufgeführte BMW 320d ED verfügt nicht über eine Motorleistung von 140 kW, sondern von lediglich 120 kW.e. Weiterhin genügt der Sachvortrag des Klägers zu den subjektiven Voraussetzungen des §§ 826 BGB auf Seiten des Schädigers nicht. Ihm ist nicht zu entnehmen, dass die maßgeblichen Verantwortlichen der B. AG mit Schädigungsvorsatz gehandelt, d. h. in dem Bewusstsein, eine unzulässige Abschalteinrichtung zu verwenden, diese gezielt zur Manipulation der Emissionswerte eingesetzt hätten.f. Schließlich scheidet ein Schadensersatzanspruch des Klägers gegen die B. AG entsprechend den in der Entscheidung BGH VI ZR 5/20 niedergelegten Grundsätzen aus. Denn die Verwicklung der B. AG in den Dieselskandal, sei es mit ihren Modellen der 5er und 7er Reihe, war beim Kauf des hier streitgegenständlichen Fahrzeugs im Dezember 2020 bereits seit Jahren durch Berichterstattung in den Medien allgemein bekannt:Bereits im Februar 2018 hatten Verantwortliche der B. AG einräumen müssen, dass auch von ihr hergestellte Fahrzeuge vom Dieselskandal betroffen waren. Am 20.03.2018 wurden die Geschäftsräume der B. AG durchsucht. Im Juni 2018 wurden mehrere Modelle der B. AG vom Kraftfahrt-Bundesamt wegen unzulässiger Abschalteinrichtungen zurückgerufen. Schließlich wurde die B. AG im Februar 2019 wegen fahrlässiger Aufsichtspflichtverletzung zu einer Bußgeldzahlung von 8,5 Millionen € verpflichtet, während ihren Verantwortlichen Betrugstaten nicht nachzuweisen waren.5. Entsprechend vorstehenden Ausführungen sind auch die Nebenforderungen unbegründet.II. Die Kostenentscheidung folgt aus § 91 Abs. 1 ZPO. Die Entscheidung zur vorläufigen Vollstreckbarkeit ergibt sich aus §§ 708 Nr. 11, 711 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2394578.html (https://oj.is/2394578)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

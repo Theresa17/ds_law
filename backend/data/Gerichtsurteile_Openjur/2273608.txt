@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG KölnRechtsprechungUrteil vom 02.04.2020 - 28 U 80/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Köln, Urteil vom 02.04.2020 - 28 U 80/19
+                      m. Fundstelle
+                      OLG Köln, Urteil vom 02.04.2020 - 28 U 80/19 = openJur 2020, 48883
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Köln, Urteil vom 02.04.2020 - 28 U 80/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 48883
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 8 O 289/19
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das Urteil des Landgerichts Köln vom 15.11.2019 - 8 O 289/19 - wird zurückgewiesen.Die Kosten des Berufungsverfahrens hat der Kläger zu tragen.Dieses und das angefochtene Urteil sind vorläufig vollstreckbar.Der Kläger kann die Vollstreckung durch Sicherheitsleistung in Höhe von 110 % des aufgrund dieses und des angefochtenen Urteils vollstreckbaren Betrags abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrags leisten.Die Revision wird zugelassen.  
+				Gründe
+				I.Der Kläger erwarb mit Kaufvertrag vom 13.07.2016 von der Firma A einen PKW Volkswagen B 2,0 TDI als Gebrauchtfahrzeug zum Preis von 11.290,00 €. Zur Finanzierung des Kaufpreises schloss der Kläger den als Anlage K 2 zu den Akten gereichten Darlehensvertrag mit der C Bank ab.In dem Fahrzeug ist ein Dieselmotor des Typs EA 189 (EU5) verbaut, der von der Beklagten hergestellt und in diversen Fahrzeugen verbaut wurde. Die Steuerung des Motors war mit einer Software ausgestattet, die anhand des Fahrverhaltens erkennt, ob sich das Fahrzeug auf dem Prüfstand oder im "realen" Fahrbetrieb befindet. Die Software war so programmiert, dass sie zwei unterschiedliche Betriebsmodi für die Steuerung der Abgasrückführung aufwies. In dem im Hinblick auf den Stickoxidausstoß optimierten sog. "Modus 1", welcher beim Durchfahren des Neuen Europäischen Fahrzyklus (nachfolgend: NEFZ), dem für die amtliche Bestimmung der Fahrzeugemissionen maßgeblichen Prüfverfahren, automatisch von der Motorsteuerung aktiviert wird, kam es zu einer höheren Abgasrückführungsrate, was zu einer Einhaltung der gesetzlich geforderten Grenzwerte für Stickoxidemissionen führte. Unter realen, im normalen Straßenverkehr vorzufindenden Fahrbedingungen war hingegen der sog. "Modus 0" aktiv mit einer geringeren Abgasrückführungsrate und entsprechend höheren Stickoxidemissionen. Fahrzeuge mit diesem Motor wurden im Oktober 2015 vom Kraftfahrt-Bundesamt (KBA) zurückgerufen. Seitens der Beklagten wurden für die betroffenen Fahrzeugtypen Software-Updates entwickelt und vom KBA genehmigt. Die Verwendung und Funktionsweise der beschriebenen Software war zunächst weder im Rahmen der Tests zur Erreichung der Typengenehmigung für das Fahrzeug noch im Übrigen offengelegt worden. Im September 2015 hatte die Beklagte eine adhoc-Mitteilung nach § 15 WpHG veröffentlicht, aus der sich ergab, dass etwaige Unregelmäßigkeiten im Zusammenhang mit Dieselmotoren des Typs 189 aufgeklärt werden.Mit seiner beim Landgericht Köln erhobenen Klage hat der Kläger von der Beklagten wegen vorsätzlicher sittenwidriger Schädigung gemäß §§ 826, 31 BGB sowie aus § 823 Abs. 2 BGB i.V.m. § 27 Abs. 1 EG-FGV Zahlung von Schadensersatz in Höhe von 4.458,39 Euro nebst Zinsen und Freistellung von seinen Verbindlichkeiten gegenüber der kreditgebenden Bank in Höhe von 7.465,29 Euro Zug um Zug gegen Rückgabe des streitgegenständlichen PKW begehrt. Bei der Berechnung des Schadensersatzes hat sich der Kläger eine Nutzungsentschädigung ausgehend von einer Gesamtlaufleistung von 300.000 km in Höhe von 1.141,61 Euro anrechnen lassen.Das Landgericht hat die Klage insgesamt abgewiesen. Zur Begründung hat es im Wesentlichen darauf abgestellt, dass der Kauf vorliegend erst mehrere Monate nach Bekanntwerden des Dieselskandals erfolgt sei und in Folge dessen kein Schädigungsvorsatz der Beklagten im Sinne von §§ 826, 31 BGB mehr unterstellt werden könne. Wegen der weiteren von dem Kläger herangezogenen Anspruchsgrundlagen hat es auf die Ausführungen im Urteil des Oberlandesgerichts Köln vom 06.06.2019 zum Aktenzeichen 24 U 5/19 verwiesen. Wegen der (weiteren) Feststellungen des Landgerichts, der in erster Instanz gestellten Anträge sowie der Begründung der Entscheidung wird auf das Urteil vom 15.11.2019 Bezug genommen.Gegen dieses Urteil richtet sich die Berufung des Klägers, mit der er sein erstinstanzliches Begehren vollumfänglich weiterverfolgt. Der Kläger macht geltend, der Schädigungsvorsatz der Beklagten im Sinne von § 826 BGB könne vorliegend nicht bereits deshalb verneint werden, weil die Beklagte am 22.9.2015 eine Adhoc-Mitteilung veröffentlicht sowie in der Folgezeit weitere öffentlichen Erklärungen abgeben habe, da diese sämtlich nicht geeignet gewesen seien, um weitere Schäden für potentielle Kunden zu vermeiden. Die adhoc-Mitteilung der Beklagten sei bereits nicht geeignet gewesen, den einzelnen Käufer zu informieren, da diese keinen konkreten Lebenssachverhalt enthalten habe. Für einen normalen Verbraucher sei überhaupt nicht zu erkennen gewesen, ob der in dem von ihm gekauften Fahrzeug verbaute Motortyp betroffen gewesen sei. Zudem sei stets bestritten worden, dass die Beklagte ihr Vertriebsnetzwerk von den stattgefundenen Manipulationen informiert habe. Im Übrigen könne ein Anspruch gemäß § 826 BGB aber nur bei positiver Kenntnis verneint werden, ein bloßes "Kennenmüssen" reiche gerade nicht aus. Vorliegend sei in diesem Zusammenhang zu berücksichtigen, dass er - in Kasachstan geboren und erst seit 1992 in Deutschland wohnhaft - nicht über ausreichende Deutschkenntnisse verfügt hätte, um die Berichterstattung in der deutschen Presse über den Dieselskandal zu verfolgen, außerdem würde er ausschließlich nicht deutsche Medien konsumieren.Der Kläger beantragt,unter Aufhebung des am 15.11.2019 verkündeten Urteils des LG Köln, 8 O289/19,die Beklagte Zugum-Zug gegen Rücknahme des Fahrzeugs VW B 2.0 TDI mit der FIN D zu verurteilen, an den Kläger 4.458,39 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen, sowie ihn, ebenfalls Zugum-Zug von den Verbindlichkeiten aus dem Darlehensvertrag mit der C Bank, Zweigniederlassung der E GmbH zu der Vertrags-Nummer F in Höhe von 7.465,29 Euro freizustellen.Die Beklagte beantragt,die Berufung des Klägers zurückzuweisen.Sie verteidigt das angefochtene Urteil unter Wiederholung und Vertiefung ihres erstinstanzlichen Vorbringens.II.Die zulässige Berufung hat in der Sache keinen Erfolg.Die Entscheidung des Landgerichts ist zutreffend und hält den Berufungsangriffen des Klägers stand. Dem Kläger steht gegen die Beklagte bei der vorliegenden Fallkonstellation kein Schadensersatzanspruch zu. Die vom Kläger begehrte Rückabwicklung des Kaufvertrages kommt hier nicht in Betracht.Der Senat schließt sich bei den sogenannten Fällen "Kauf nach Bekanntwerden des Dieselskandals" im Ergebnis einer Vielzahl anderer obergerichtlicher Entscheidungen an, denen ähnliche Fallgestaltungen zugrunde lagen, so u.a. - mit unterschiedlicher Begründung - OLG Köln, Urteil vom 27.02.2020, Az. 8 U 81/19; OLG Köln, Urteil vom 27.02.2020, 8 U 61/19; OLG Brandenburg, Urteil vom 17.02.2020, Az. 1 U 21/19; OLG Köln, Urteil vom 30.01.2020, Az. 8 U 70/19; OLG Stuttgart, Urteil vom 26.11.2019, 10 U 338/19; OLG Schleswig-Holstein, Urteil vom 29.11.2019, Az. 1 U 32/19; OLG Stuttgart, Urteil vom 26.11.2019, Az. 10 U 199/19; OLG Frankfurt, Urteil vom 06.11.2019, Az. 13 U 156/19; OLG Koblenz, Urteil vom 25.10.2019, Az. 3 U 948/19; OLG Saarbrücken, Urteil vom 28.08.2019, Az. 2 U 94/18; OLG Stuttgart, Urteil vom 07.08.2019, 9 U 9/19; OLG Dresden, Urteil vom 24.07.2019, Az. 9 U 2067/18; OLG Köln, Urteil vom 06.06.2019, Az. 24 U 5/19; OLG Celle, Urteil vom 29.04.2019, Az. 7 U 159/19 und OLG Braunschweig, Urteil vom 02.11.2017, Az. 7 U 69/17.; Ansprüche der Erwerber hingegen auch nach Bekanntwerden des Dieselskandals bejahend z.B. OLG Hamm, Urteil vom 10.09.2019, Az: 13 U 149/18; OLG Köln, Urteil vom 04.10.2019, Az: 19 U 98/19).Eine Haftung der Beklagten wegen vorsätzlicher sittenwidriger Schädigung des Klägers scheidet nach Auffassung des Senats bereits deshalb aus, da es zum Zeitpunkt des Erwerbs des Fahrzeuges durch den Kläger an einer sittenwidrigen Veranlassung des Erwerbs seitens der Beklagten fehlte.Zwar ist vorliegend davon auszugehen, dass der streitgegenständliche Pkw vor dem Aufspielen des Softwareupdates über eine unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2 S. 1 VO (EG) Nr. 715/2007 verfügte (BGH, Beschluss v. 8.1.2019, VIII ZR 225/17, juris Rn. 6 ff.). Das massenhafte Inverkehrbringen von Fahrzeugen unter bewusster Verwendung eines Motors mit unzulässiger Abschalteinrichtung aus Gründen der Kostensenkung und Gewinnmaximierung ist auch grundsätzlich geeignet, den Vorwurf der sittenwidrigen Schädigung zu rechtfertigen (vgl. u.a. OLG Köln, Urteil vom 21.11.2019, Az: 28 U 21/19; OLG Frankfurt, Urteil vom 06.11.019, Az: 13 U 156/19; OLG Frankfurt, Beschluss vom 25.9.2019, Az: 17 U 45/19; OLG Hamm, Urteil vom 10.9.2019, Az: 13 U 149/18; OLG Stuttgart, Urteil vom 30.7.2019, Az: 10 U 134/19; OLG Karlsruhe, Beschluss vom 05.3.2019, Az: 13 U 142/18.; a.A. OLG Braunschweig, Urt. v. 19.2.2019, 7 U 134/17). Allerdings ist vorliegend das Tatbestandsmerkmal der Sittenwidrigkeit der Schädigung nicht (mehr) erfüllt, denn angesichts des Erwerbszeitpunkts des Pkw - mehrere Monate nach dem öffentlichen Bekanntwerden des sog. Abgasskandals - kann nicht davon ausgegangen werden, dass der Kläger den Kaufvertrag über den Pkw abgeschlossen hat, weil er hierzu von der Beklagten sittenwidrig veranlasst worden ist (vgl. OLG Frankfurt, Urteil vom 06.11.019, Az: 13 U 156/19).Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögenschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann (st. Rspr., vgl. nur BGH, Urteil vom 19.11.2013, Az: I ZR 336/12; Urteil vom 15. Oktober 2013, Az: VI ZR 124/12; Urteil vom 28. Juni 2016 , Az: VI ZR 536/15).Maßgeblicher Zeitpunkt für die Beurteilung der Sittenwidrigkeit ist dabei grundsätzlich der Zeitpunkt der Tathandlung (OLG Frankfurt, Urteil vom 06.11.019, Az: 13 U 156/19; OLG Stuttgart, Urteil vom 07.08.2019, Az: 9 U 9/19; Palandt/Sprau, BGB, 78. A. 2019, § 826 Rn. 6; Staudinger/Oechsler, BGB (2018), § 826 Rn. 59; MüKoBGB/Wagner, 7. A. 2017, § 826 Rn. 9). Eine Ausnahme hiervon gilt allerdings dann, wenn nicht der unmittelbar durch die Tathandlung Verletzte, sondern eine dritte - mittelbar geschädigte - Person Schadensersatzansprüche geltend macht. In diesem Fall muss die Vermögensverletzung im Verhältnis zwischen dem Täter und dem mittelbar Geschädigten ebenfalls als sittenwidrig zu bewerten sein. Das Unwerturteil, sittenwidrig gehandelt zu haben, muss den Schädiger gerade auch in Bezug auf die Schäden desjenigen treffen, der Ansprüche aus § 826 BGB geltend macht (BGH, Urteil vom 7.5.2019, VI ZR 512/17; OLG Frankfurt, Urteil vom 06.11.2019, 13 U 156/19; OLG Stuttgart, Urteil vom 7.8.2019, 9 U 9/19). Nimmt der mittelbar Geschädigte für sich in Anspruch, durch eine sittenwidrige Handlung des Täters zu einer schädlichen Vermögensdisposition veranlasst worden zu sein, trifft den Täter der Vorwurf einer sittenwidrigen Schädigung mithin nur dann, wenn der Geschädigte die ihn schädigende Handlung gerade deswegen vorgenommen hat, weil er dazu sittenwidrig vom Täter veranlasst worden ist (BGH, Urt. v. 20.2.1979, VI ZR 189/78, juris Rn. 18).Vorliegend ist der Kläger als mittelbar Geschädigter im vorstehenden Sinne anzusehen, denn er ist nicht der Ersterwerber des Pkw, sondern hat ihn im Rahmen eines Weiterverkaufs gebraucht erworben. Gemäß der obigen Ausführungen ist bei dieser Konstellation für eine Haftung der Beklagten nach § 826 BGB aber Voraussetzung, dass ihr als sittenwidrig zu beurteilendes Verhalten nicht nur zum Zeitpunkt des Inverkehrbringens des Pkw, sondern auch (noch) zum Zeitpunkt des Abschlusses des Kaufvertrags im Juli 2016 vorgelegen hat (vgl. OLG Frankfurt, Urteil vom 06. November 2019 - 13 U 156/19 OLG Stuttgart, Urteil vom 7.8.2019, 9 U 9/19; OLG Celle, Beschluss vom 1.7.2019, 7 U 33/19; OLG Köln, Urteil vom 6.6.2019, 24 U 5/19; aA OLG Hamm, Urteil vom 10.9.2019, 13 U 149/18).Diese Voraussetzung ist hier indes nicht erfüllt. Infolge des Bekanntwerdens der Verwendung einer unzulässigen Abschalteinrichtung bei dem Motor EA 189 und den von der Beklagten insoweit ergriffenen Maßnahmen kann jedenfalls bei einem Kauf - wie hier - im Juli 2016 nicht mehr von einer sittenwidrigen Veranlassung der Schädigung von Käufern gebrauchter Dieselfahrzeuge mit dem Motor EA 189 ausgegangen werden. Die Beklagte hat die Öffentlichkeit in Form von Pressemitteilungen ab Ende September 2015 über das Vorhandensein einer unzulässigen Abschalteinrichtung bei Fahrzeugen mit dem Dieselmotor EA 189 informiert und zudem die Möglichkeit geschaffen, über eine Website zu überprüfen, ob ein Fahrzeug davon betroffen ist. Überdies hat sie ihre Vertragshändler und Servicepartner informiert, damit diese etwaige Käufer von Gebrauchtwägen über das Vorhandensein der sogenannten Manipulationssoftware aufklären. Sofern der Kläger in seiner Berufungsbegründung in diesem Zusammenhang geltend macht, stets bestritten zu haben, dass die Beklagte ihr Vertriebsnetzwerk über die vorgenommenen Manipulationen informiert habe, weshalb insoweit - anders als im erstinstanzlichen Urteil im unstreitigen Tatbestand dargestellt - zu keinem Zeitpunkt ein unstreitiger Sachverhalt gegeben gewesen sei, kann er damit nicht gehört werden. Der Senat ist gemäß § 314 ZPO an die tatbestandlichen Feststellungen des Landgerichts gebunden, da der Kläger einen Antrag nach § 320 ZPO auf Berichtigung des Tatbestandes unterlassen hat. Abgesehen von diesen von der Beklagten unmittelbar selbst eingeleiteten Maßnahmen ist aber auch zu berücksichtigen, dass der sog. "Dieselskandal" zeitgleich Gegenstand einer umfassenden Presseberichterstattung war und die Öffentlichkeit zudem durch das KBA informiert wurde. Zwar sind die Presseberichterstattung sowie die Öffentlichkeitsinformationen durch das KBA nicht der Beklagten zuzurechnen. Diese sich aus diesen Informationsquellen ergebenden Kenntnisse in der Öffentlichkeit sind aber bei der Beurteilung zu berücksichtigen, welche (weiteren) Anstrengungen von der Beklagten zu unternehmen waren, um den aufgrund des Inverkehrbringens der mit unzulässigen Abschalteinrichtungen versehenen Fahrzeuge fortdauernden Sittenwidrigkeitsvorwurf zu beseitigen. Bei der in diesem Sinne gebotenen Gesamtbetrachtung kann jedenfalls zum hier maßgeblichen Zeitpunkt, dem Zeitpunkt des Abschlusses des Kaufvertrages im Juli 2016, nicht mehr von einer weiterhin als sittenwidrig anzusehenden Veranlassung der Schädigung von Käufern durch das ursprünglich sittenwidrige Inverkehrbringen der Fahrzeuge ausgegangen werden.Hierbei kommt es nicht darauf an, ob tatsächlich der einzelne Erwerber Kenntnis von der Betroffenheit seines Fahrzeugs hatte. Maßgeblich ist vielmehr aus den dargelegten Gründen für das Tatbestandsmerkmal der Sittenwidrigkeit nur das Verhalten der Beklagten. Vor diesem Hintergrund bedarf es daher keiner Aufklärung, ob ein Gebrauchtwagenkäufer oder -interessent allgemein Kenntnis von dem sogenannten Dieselskandal oder von der konkreten Betroffenheit eines bestimmten Fahrzeugs hatte. Ebenso kann dahin stehen, ob von einem durchschnittlichen Gebrauchtwagenkäufer die Kenntnis der internen Motorenbezeichnung des Herstellers (hier: EA 189) erwartet werden kann. Unerheblich ist schließlich, dass eine Überprüfung, ob ein bestimmtes Fahrzeug von dem sog. Dieselskandal betroffen ist, auf der von der Beklagten eingerichteten Website die Kenntnis der FIN voraussetzt, und dass deren Kenntnis bei einem Gebrauchtwagenkäufer oder -interessent vor Einsichtnahme in die entsprechenden Fahrzeugpapiere oder Erhalt dieser Information durch den Verkäufer regelmäßig nicht vorliegt. Unter Berücksichtigung der Unterrichtung der Öffentlichkeit durch die Berichterstattung in der Presse waren die von der Beklagten eingeleiteten Maßnahmen jedenfalls nach Inhalt und Umfang geeignet, das Fortwirken des Sittenwidrigkeitsverdikts zu verhindern (vgl. OLG Stuttgart, Urteil vom 26. November 2019 - 10 U 199/19 -, Rn. 56, juris).Unabhängig hiervon fehlt es nach Auffassung des Senats zum Zeitpunkt des streitgegenständlichen Kaufvertrages im Juli 2016 aber auch an einem Schädigungsvorsatz der Beklagten, da im Hinblick auf die Offenlegung der maßgeblichen Aspekte der Manipulation durch die Pressemitteilungen und die Information an die Vertriebshändler von betroffenen Fahrzeugen nicht mehr davon ausgegangen werden kann, dass die Beklagte die Schädigung des Klägers in ihren Willen aufgenommen, für möglich gehalten und billigend in Kauf genommen hat (vgl. OLG München, Urteil vom 05.02.2020, Az: 3 U 6342/19, Urteil vom 27.01.2020, Az: 21 U 1896/19).Ein Anspruch des Klägers ergibt sich auch nicht aus § 823 Abs. 2 BGB i.V.m. § 263 StGB. Aus denselben Gründen, die zur Verneinung einer sittenwidrigen Veranlassung des Erwerbs des Fahrzeugs führen, liegt keine vorsätzliche Täuschung durch die Beklagte zum Zeitpunkt des Erwerbs des Fahrzeugs durch den Kläger vor (vgl. OLG Stuttgart, Urt. v. 26.11.2019 - 10 U 338/19, juris).Die Beklagte haftet schließlich nicht aus § 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 S. 1 EG-FGV. Es fehlt bereits an einem Verstoß gegen die §§ 6 Abs. 1, 27 Abs. 1 EG-FGV. Die Gültigkeit der Übereinstimmungsbescheinigung wird nämlich durch die Verwendung einer unzulässigen Abschalteinrichtung nicht in Frage gestellt. Vielmehr genügt es für die Gültigkeit, dass der Hersteller die Bescheinigung unter Verwendung des vorgeschriebenen Formulars ausgestellt hat und sie fälschungssicher sowie vollständig ist (vgl. OLG Stuttgart, Urt. v. 26.11.2019 - 10 U 338/19, juris Rn. 56 ff. m.w.N.). Auf die Frage, ob die Bestimmungen der §§ 6 Abs. 1, 27 Abs. 1 EG-FGV als Schutzgesetze i.S.v. § 823 Abs. 2 BGB anzusehen sind, kommt es daher nicht an.Mangels Hauptforderung besteht auch kein Anspruch auf Zahlung von Zinsen in der geltend gemachten Höhe.Die prozessualen Nebenentscheidungen beruhen auf §§ 97 Abs. 1, 708 Nr. 10, 711 ZPO.Gemäß § 543 Abs. 1 Nr. 1, Abs. 2 ZPO ist die Revision zuzulassen. Zum einen hat die Rechtssache grundsätzliche Bedeutung, weil klärungsbedürftige und klärungsfähige Rechtsfragen aufgeworfen werden, die sich in einer unbestimmten Vielzahl weiterer Fälle stellen. Zum anderen erfordert die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Bundesgerichtshofs, weil die streitentscheidenden Rechtsfragen von gleichrangigen Instanzgerichten unterschiedlich beantwortet werden.Der Streitwert für das Berufungsverfahren wird auf bis zu 13.000,00 Euro festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2273608.html (https://oj.is/2273608)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate23
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

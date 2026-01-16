@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG Nürnberg-FürthRechtsprechungEndurteil vom 30.09.2022 - 17 O 2735/22
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Nürnberg-Fürth, Endurteil vom 30.09.2022 - 17 O 2735/22
+                      m. Fundstelle
+                      LG Nürnberg-Fürth, Endurteil vom 30.09.2022 - 17 O 2735/22 = openJur 2022, 19716
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Nürnberg-Fürth, Endurteil vom 30.09.2022 - 17 O 2735/22
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 19716
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar. Beschluss.4. Der Streitwert wird auf 10.212,36 € festgesetzt. 
+				Tatbestand
+				Die Klageseite macht gegen die Beklagte als Automobilhersteller Ansprüche im Zusammenhang mit dem sog. Abgasskandal geltend.Die Klagepartei erwarb am 20.07.2020 vom, einen gebrauchten (KM Stand 63.000 km) Opel Astra ST 1,6 CDTi, Fahrzeugidentifikationsnummer W0L, zu einem Kaufpreis von 10.700,00 €.Die Klageseite behauptet, das streitgegenständliche Fahrzeug emittiere im Realbetrieb weitaus höhere Mengen an Stickoxiden und anderen Schadstoffen u.a. als die gesetzlichen Grenzwerte zulasse. Dies sei u.a. auf mehrere in der Motorsteuerung implementierte Abschalteinrichtungen zurückzuführen. Die Beklagte hat zudem eine Software im streitgegenständlichen Fahrzeug verbaut, die im Ergebnis zu einer Motorsteuerung führt, die Prüfsituationen erkennt und dann den Stickoxidausstoß (NOx-Werte) unter das gesetzlich zulässige Maß verringert.Die Klageseite hätte bei Kenntnis dieser Umstände das streitgegenständliche Fahrzeug nicht erworben, und es sei ein mit der Klage verfolgter Schaden entstanden.Die Klageseite ist der Ansicht, eine solche Abschalteinrichtung verstoße gegen geltendes Recht und ihr Einsatz stelle eine sittenwidrige Schädigung durch die Beklagte dar.Die Klageseite beantragt zuletzt,1. Die Beklagte wird verurteilt, an die Klagepartei 10.212,36 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz hieraus seit Rechtshängigkeit zu zahlen, Zugum-Zug gegen Herausgabe und Übereignung des Fahrzeugs OPEL Astra ST 1,6 CDTi, FIN W0L .2. Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des in Ziffer I., genannten Fahrzeugs in Annahmeverzug befindet.Die Beklagte beantragt,die Klage abzuweisen.Ergänzend und wegen der Einzelheiten wird auf die Schriftsätze der Parteien nebst Anlagen Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I. Denn das Bestehen eines Anspruchs der Klageseite gegen die Beklagte als Automobilhersteller lässt sich nicht feststellen.1. Die Beklagte haftet nicht gemäß § 826 BGB.Es lässt sich nicht feststellen, dass das Verhalten der für die Beklagte handelnden Personen deshalb als sittenwidrig zu qualifizieren wäre, weil sie den streitgegenständlichen Motortyp mit einer temperatur-, luftdruck- und motorendrehzahlabhängigen Steuerung des Emissionskontrollsystems ausgestattet und in den Verkehr gebracht haben, sowie einer Motorsteuergerätesoftware mit einer intelligenten Fahrzykluserkennung. Ob diese Parametrierung des Emissionskontrollsystems eine unzulässige Abschalteinrichtung im Sinne der (unions-)rechtlichen Vorschriften darstellt, kann dabei dahinstehen.a) Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann (st. Rspr., vgl. nur BGH, Urteil vom 13. Juli 2021 - VI ZR 128/20 Rn. 11, WM 2021, 1609; Urteil vom 30. Juli 2020 - VI ZR 5/20 Rn. 29, ZIP 2020, 1715; Urteil vom 25. Mai 2020 - VI ZR 252/19 Rn. 15, BGHZ 225, 316; Urteil vom 12. März 2020 - VII ZR 236/19 Rn. 24, VersR 2020, 1120; jeweils m.w.N.). Schon zur Feststellung der objektiven Sittenwidrigkeit kann es daher auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen. Die Verwerflichkeit kann sich auch aus einer bewussten Täuschung ergeben (BGH, Urteil vom 13. Juli 2021 - VI ZR 128/20 Rn. 11, WM 2021, 1609; Urteil vom 30. Juli 2020 - VI ZR 5/20 Rn. 29, ZIP 2020, 1715; Urteil vom 25. Mai 2020 - VI ZR 252/19 Rn. 15, BGHZ 225, 316). Insbesondere bei mittelbaren Schädigungen kommt es ferner darauf an, dass den Schädiger das Unwerturteil, sittenwidrig gehandelt zu haben, gerade auch in Bezug auf die Schäden desjenigen trifft, der Ansprüche aus § 826 BGB geltend macht (BGH, Beschluss vom 9. März 2021 - VI ZR 889/20 Rn. 12, VersR 2021, 661; Beschluss vom 19. Januar 2021 - VI ZR 433/19 Rn. 14, ZIP 2021, 297; Urteil vom 30. Juli 2020 - VI ZR 5/20 Rn. 29, ZIP 2020, 1715; Urteil vom 25. Mai 2020 - VI ZR 252/19 Rn. 15, BGHZ 225, 316; BGH, Urteil vom 16. September 2021 - VII ZR 322/20 -, Rn. 13, juris).b) Nach diesen Grundsätzen reicht der Umstand, dass das Emissionskontrollsystem im Fahrzeug der Klageseite nach ihrem Sachvortrag durch eine parameterabhängige Steuerung bei Einschlägigkeit gewisser Parameter reduziert bzw. deaktiviert werde, nicht aus, um dem Verhalten der für die Beklagte handelnden Personen ein sittenwidriges Gepräge zu geben.Selbst bei Unterstellung, dass eine derartige parameterbeeinflusste Steuerung des Emissionskontrollsystems als unzulässige Abschalteinrichtung zu qualifizieren ist, wäre der darin liegende Gesetzesverstoß für sich genommen nicht geeignet, den Einsatz dieser Steuerungssoftware durch die für die Beklagte handelnden Personen als besonders verwerflich erscheinen zu lassen. Für die Sittenwidrigkeit eines Verhaltens genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann (vgl. BGH, Urteil vom 12. März 2020 - VII ZR 236/19 Rn. 24, VersR 2020, 1120 m.w.N.). So setzt die Annahme von Sittenwidrigkeit in diesen Fällen jedenfalls voraus, dass diese Personen bei der Entwicklung und/oder Verwendung der temperaturabhängigen Steuerung des Emissionskontrollsystems in dem Bewusstsein handelten, eine unzulässige Abschalteinrichtung zu verwenden, und den darin liegenden Gesetzesverstoß billigend in Kauf nahmen. Fehlt es hieran, ist bereits der objektive Tatbestand der Sittenwidrigkeit nicht erfüllt (vgl. BGH, Urteil vom 20. Juli 2021 - VI ZR 1154/20 Rn. 13, zVb; Urteil vom 13. Juli 2021 - VI ZR 128/20 Rn. 13, WM 2021, 1609; Beschluss vom 9. März 2021 - VI ZR 889/20 Rn. 28, VersR 2021, 661; Beschluss vom 19. Januar 2021 - VI ZR 433/19 Rn. 19, ZIP 2021, 297; BGH, Urteil vom 16. September 2021 - VII ZR 322/20 -, Rn. 16, juris).c) Ein solches Vorstellungsbild der für die Beklagte handelnden Personen lässt sich nicht feststellen.aa) Ein solches Vorstellungsbild der für die Beklagte handelnden Personen ergibt sich nicht aus einer Prüfstandsbezogenheit der Steuerung des Emissionskontrollsystems (intelligenten Fahrzykluserkennung und unzulässige Fahrkurvenerkennung).(1) Die Tatsache, dass eine Manipulationssoftware ausschließlich im Prüfstand die Abgasreinigung verstärkt aktiviert, indiziert eine arglistige Täuschung der Genehmigungsbehörden. Das Kriterium der Prüfstandsbezogenheit ist grundsätzlich geeignet, um zwischen nur unzulässigen Abschalteinrichtungen und solchen, deren Implementierung die Kriterien einer sittenwidrigen vorsätzlichen Schädigung erfüllen können, zu unterscheiden (BGH, Beschluss vom 29. September 2021 - VII ZR 126/21 -, Rn. 18, juris).Soweit die Klageseite zudem vorbringt, dass im streitgegenständlichen Pkw eine Software eingebaut wurde, die zwischen Prüfbedingungen und dem Normalbetrieb unterscheide, so ist dies unbeachtlich.(a) Nach der ständigen Rechtsprechung des Bundesgerichtshofs ist ein Sachvortrag zur Begründung eines Anspruchs schlüssig und erheblich, wenn die Partei Tatsachen vorträgt, die in Verbindung mit einem Rechtssatz geeignet und erforderlich sind, das geltend gemachte Recht als in der Person der Partei entstanden erscheinen zu lassen (st. Rspr., vgl. nur BGH, Urteil vom 11. März 2021 - VII ZR 196/18 Rn. 43, BauR 2021, 1183 = NZBau 2021, 316; Beschluss vom 4. November 2020 - VII ZR 261/18 Rn. 14, BauR 2021, 593 = NZBau 2021, 178; Beschluss vom 16. November 2016 - VII ZR 314/13 Rn. 22, BauR 2017, 306; jeweils m.w.N.). Die Angabe näherer Einzelheiten ist nicht erforderlich, soweit diese für die Rechtsfolgen nicht von Bedeutung sind. Das Gericht muss nur in die Lage versetzt werden, aufgrund des tatsächlichen Vorbringens der Partei zu entscheiden, ob die gesetzlichen Voraussetzungen für das Bestehen des geltend gemachten Rechts vorliegen. Sind diese Anforderungen erfüllt, ist es Sache des Tatrichters, in die Beweisaufnahme einzutreten und dabei gegebenenfalls die benannten Zeugen oder die zu vernehmende Partei nach weiteren Einzelheiten zu befragen oder einem Sachverständigen die beweiserheblichen Streitfragen zu unterbreiten (vgl. BVerfG, Beschluss vom 24. Januar 2012 - 1 BvR 1819/10, WM 2012, 492, juris Rn. 16; BGH, Urteil vom 13. Juli 2021 - VI ZR 128/20 Rn. 20, WM 2021, 1609; Urteil vom 18. Mai 2021 - VI ZR 401/19, MDR 2021, 871, juris Rn. 19; Beschluss vom 28. Januar 2020 - VIII ZR 57/19 Rn. 7, ZIP 2020, 486; jeweils m.w.N.).Diese Grundsätze gelten insbesondere dann, wenn die Partei keine unmittelbare Kenntnis von den ihrer Behauptung zugrunde liegenden Vorgängen hat. Eine Partei darf auch von ihr nur vermutete Tatsachen als Behauptung in einen Rechtsstreit einführen, wenn sie mangels entsprechender Erkenntnisquellen oder Sachkunde keine sichere Kenntnis von Einzeltatsachen hat (vgl. BGH, Urteil vom 13. Juli 2021 - VI ZR 128/20 Rn. 21, WM 2021, 1609; Beschluss vom 28. Januar 2020 - VIII ZR 57/19 Rn. 8, ZIP 2020, 486; Urteil vom 10. Januar 1995 - VI ZR 31/94, VersR 1995, 433, juris Rn. 17). Gemäß § 403 ZPO hat die Partei, die die Einholung eines Sachverständigengutachtens beantragen will, die zu begutachtenden Punkte zu bezeichnen. Dagegen verlangt das Gesetz nicht, dass der Beweisführer sich auch dazu äußert, welche Anhaltspunkte er für die Richtigkeit der in die Sachkenntnis des Sachverständigen gestellten Behauptung habe (BGH, Beschluss vom 14. Januar 2020 - VI ZR 97/19 Rn. 8, VersR 2020, 1069).Unbeachtlich ist der auf Vermutungen gestützte Sachvortrag einer Partei erst dann, wenn die unter Beweis gestellten Tatsachen so ungenau bezeichnet sind, dass ihre Erheblichkeit nicht beurteilt werden kann, oder wenn sie zwar in das Gewand einer bestimmt aufgestellten Behauptung gekleidet, aber aufs Geratewohl gemacht, gleichsam "ins Blaue" aufgestellt, mit anderen Worten, aus der Luft gegriffen sind und sich deshalb als Rechtsmissbrauch darstellen (vgl. BGH, Urteil vom 13. Juli 2021 - VI ZR 128/20 Rn. 22, WM 2021, 1609; Beschluss vom 28. Januar 2020 - VIII ZR 57/19 Rn. 8, ZIP 2020, 486; Urteil vom 20. Februar 2014 - VII ZR 26/12 Rn. 26, BauR 2014, 1023; Urteil vom 14. Januar 1993 - VII ZR 185/91, BGHZ 121, 210, juris Rn. 26). Insoweit ist allerdings Zurückhaltung geboten; in der Regel wird nur das Fehlen jeglicher tatsächlicher Anhaltspunkte die Annahme eines Rechtsmissbrauchs rechtfertigen können (vgl. BGH, Urteil vom 13. Juli 2021 - VI ZR 128/20 Rn. 22, WM 2021, 1609; Beschluss vom 28. Januar 2020 - VIII ZR 57/19 Rn. 8, ZIP 2020, 486; Urteil vom 14. Januar 1993 - VII ZR 185/91, BGHZ 121, 210, juris Rn. 26, BGH, Urteil vom 16. September 2021 - VII ZR 322/20 -, Rn. 21 - 23, juris).(b) Nach diesen Grundsätzen ist der Vortrag der Klageseite, Motorsteuergerätesoftware unterscheide zwischen Prüfbedingungen und dem Normalbetrieb, unbeachtlich, denn die Klageseite bringt außer der pauschalen Behauptung keinerlei tatsächliche Anhaltspunkte für die Richtigkeit vor.Dass die Motorsteuerungssoftware im Hinblick auf die Abgasrückführung derart programmiert sei, dass diese erkennt, wenn der konditionierte Bereich des Prüfstandes, also der reale Fahrbetrieb, verlassen werde, ist zum einen unsubstantiiert und erfolgt zum anderen ins Blaue hinein.bb) Weitere Umstände, die auf eine sittenwidrige Bewusstseinslage der Beklagten schließen lassen, sind weder prozessual beachtlich dargelegt noch sind diese ersichtlich.Aus einer etwaig unterbliebenen Offenlegung der genauen Wirkungsweise des Thermofensters gegenüber dem Kraftfahrt-Bundesamt (KBA) folgen entgegen der Auffassung der Revision keine Anhaltspunkte, dass für die Beklagte tätige Personen in dem Bewusstsein handelten, eine unzulässige Abschalteinrichtung zu verwenden. Selbst wenn die Beklagte im Typgenehmigungsverfahren - erforderliche - Angaben zu den Einzelheiten der temperaturabhängigen Steuerung unterlassen haben sollte, wäre die Typgenehmigungsbehörde nach dem Amtsermittlungsgrundsatz gemäß § 24 Abs. 1 Satz 1 und 2 VwVfG gehalten gewesen, diese zu erfragen, um sich in die Lage zu versetzen, die Zulässigkeit der Abschalteinrichtung im streitgegenständlichen Fahrzeug zu prüfen (vgl. BGH, Beschluss vom 29. September 2021 - VII ZR 223/20 -, Rn. 14, juris; OLG München, Beschluss vom 1. März 2021 - 8 U 4122/20, juris Rn. 63; OLG Nürnberg, Beschluss vom 27. Juli 2020 - 5 U 4765/19, BeckRS 2020, 17693 Rn. 17; Führ, NVwZ 2017, 265, 269; a. A. wohl OLG Schleswig, Urteil vom 28. August 2020 - 1 U 137/19, juris Rn. 62 ff.). Anhaltspunkte für wissentlich unterbliebene oder unrichtige Angaben der Beklagten im Typgenehmigungsverfahren, die noch dazu auf ein heimliches und manipulatives Vorgehen oder eine Überlistung des KBA und damit auf einen bewussten Gesetzesverstoß hindeuten würden (vgl. BGH, Beschluss vom 19. Januar 2021 - VI ZR 433/19 Rn. 24, ZIP 2021, 297), legt die Klageseite nicht dar.2. Der Klageseite steht auch aus § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV bzw. Art. 5 VO 715/2007/EG oder die Art. 18 Abs. 1, Art. 26 Abs. 1, Art. 46 der RL 2007/46/EG kein Schadensersatzanspruch zu.Wie der VI. Zivilsenat des Bundesgerichtshofs in seinen Urteilen vom 25. Mai 2020 (VI ZR 252/19 Rn. 72 ff., BGHZ 225, 316) und 30. Juli 2020 (VI ZR 5/20 Rn. 10 ff., ZIP 2020, 1715) ausgeführt hat, liegt das Interesse, nicht zur Eingehung einer ungewollten Verbindlichkeit veranlasst zu werden, nicht im Schutzbereich dieser Bestimmungen.Die Schlussanträge des Generalanwalts Rantos vom 02.06.2022 in der beim Europäischen Gerichtshof anhängigen Rechtssache C-100/21 ändern nichts an der Bewertung, dass es sich bei den einschlägigen Bestimmungen des EG-Typgenehmigungsrechts nicht um Schutzgesetze im Sinne des § 823 Abs. 2 BGB handelt, mit denen ein Schutz des wirtschaftlichen Selbstbestimmungsrechts einzelner Fahrzeugerwerber bezweckt wird (OLG Nürnberg, Verfügung vom 25. Juli 2022 - 16 U 3344/21; OLG Nürnberg, Beschluss vom 11. Juli 2022 - 2 U 3838/21).Aus Sicht des Gerichts bedarf es keines Zuwartens auf die ausstehende Entscheidung des Europäischen Gerichtshofs.3. Eine Haftung aus § 823 Abs. 2 BGB i.V.m. § 263 StGB scheitert jedenfalls an der erforderlichen Stoffgleichheit des erstrebten rechtswidrigen Vermögensvorteils mit einem etwaigen Vermögensschaden (vgl. BGH, Urteil vom 30. Juli 2020 - VI ZR 5/20 -, Rn. 24 ff., juris).4. Auch ein Anspruch der Klageseite aus §§ 826, 831 BGB besteht aus den vorgenannten Gründen nicht.5. Vertragliche Ansprüche oder solche aus vorvertraglicher Haftung (§ 280 Abs. 1, § 241 Abs. 2, § 311 Abs. 3 BGB) scheiden mangels rechtsgeschäftlicher oder rechtsgeschäftsähnlicher Beziehungen zwischen den Parteien aus.II. Die prozessualen Nebenentscheidungen folgen aus §§ 91 Abs. 1, 709 ZPO.III. Das Verfahren war nicht gem. § 148 Abs. 1 ZPO analog auszusetzen.1. Nach § 148 Abs. 1 ZPO kann das Gericht, wenn die Entscheidung des Rechtsstreits ganz oder zum Teil von dem Bestehen oder Nichtbestehen eines Rechtsverhältnisses abhängt, das den Gegenstand eines anderen anhängigen Rechtsstreits bildet oder von einer Verwaltungsbehörde festzustellen ist, anordnen, dass die Verhandlung bis zur Erledigung des anderen Rechtsstreits oder bis zur Entscheidung der Verwaltungsbehörde auszusetzen sei.Unabhängig von der Frage der Vorgreiflichkeit, kommt eine Aussetzung des Verfahrens in analoger Anwendung von § 148 Abs. 1 ZPO in Betracht, wenn dem Verfahren eine europarechtliche Rechtsfrage zugrunde liegt, die den Gegenstand eines anhängigen Vorlageverfahrens beim EuGH gem. Art. 267 AEUV bildet (BGH, Beschluss vom 11.02.2020 - XI ZR 648/18, BeckRS 2020, 2755 Rn. 48; BGH, Beschluss vom 24.01.2012 - VIII ZR 236/10, BeckRS 2012, 4329 Rn. 4 ff.).Ausweislich des Wortlauts "kann" kommt dem Gericht hinsichtlich der Frage der Aussetzung ein Ermessen zu. Das Ermessen ist unter Abwägung aller Einzelfallumstände in Übereinstimmung mit dem Anordnungszweck auszuüben. Die Belange der Prozessökonomie bzw. die Gefahr einer Verfahrensverschleppung und die Gefahr widersprüchlicher Entscheidungen sind gegeneinander abzuwägen (BGH, Beschluss vom 09.03.2021 - II ZB 16/20, BeckRS 2021, 6263 Rn. 7). Hierbei kommt der Frage nach den Erfolgsaussichten des Parallelverfahrens (OLG Düsseldorf, Urt. Vom 05.02.2020 - U (Kart) 4/19, BeckRS 2020, 2204 Rn. 92) respektive der Offenkundigkeit der vorgelegten Rechtsfrage nach der sog. Acte-Claire-Doktrin (siehe z. B. BGH, Beschluss vom 08.06.2021 - XI ZR 14/21, BeckRS 2021, 14678; vgl. im Kontext der Diesel-Fälle BGH, Urt. vom 25.05.2020 - VI ZR 252/19, NJW 2020, 1962 Rn. 17) besondere Bedeutung zu.2. Gemessen hieran war der Aussetzungsantrag nach Abwägung aller Einzelfallumstände zurückzuweisen (grundlegend OLG Koblenz, Beschluss vom 15.06.2022 - 12 U 1809/21, BeckRS 2022, 13787 Rn. 9; siehe auch OLG Koblenz, Beschluss vom 17.06.2022 - 15 U 180/21, BeckRS 2022, 13787 Rn. 10 ff.; OLG Koblenz, Beschluss vom 20.06.2022 - 15 U 2169/21, BeckRS 2022, 14755 Rn. 4 ff.; OLG München, Beschluss vom 01.07.2022 - 8 U 1671/22, juris Rn. 26 ff.).a) Es entspricht gefestigter Rechtsprechung des BGH, dass die in sog. "Diesel-Fällen" einschlägigen unionsrechtlichen Regelungen, insbesondere Art. 18 i. V.m. Art. 26 der Verordnung (EG) Nr. 715/2007 bzw. diesen nachgebildet §§ 6, 27 EG-FGV, den Kraftfahrzeugkäufern keinen deliktischen Anspruch aus § 823 Abs. 2 BGB verschaffen. Die Regelungen sollen nach dem Willen der Gesetz- und Verordnungsgeber den Kraftfahrzeugkäufer nicht davor schützen, zur Eingehung einer ungewollten Verbindlichkeit veranlasst zu werden (grundlegend BGH, Urteil vom 25.05.2020 - VI ZR 252/19, NJW 2020, 1962 Rn. 73 ff.; siehe auch BGH, Urt. vom 30.07.2020 - VI ZR 5/20, NJW 2020, 2798 Rn. 10 ff.). Allenfalls mögen in den Schutzbereich der Norm derlei Schäden fallen, die einem Käufer durch eine verzögerte Erstzulassung oder auch durch ein aufgrund von Nebenbestimmungen zu der Typgenehmigung erforderlich werdendes Software-Update entstehen (BGH, Urteil vom 25.05.2020 - VI ZR 252/19, NJW 2020, 1962 Rn. 76).Nachdem die hiermit zusammenhängenden Fragestellungen derart eindeutig im Sinne der acte clair-Doktrin sind, dass eine Vorlage an den EuGH nicht veranlasst ist (BGH, Urteil vom 25.05.2020 - VI ZR 252/19, NJW 2020, 1962 Rn. 77; BGH, Beschluss vom 12.01.2022 - VII ZR 268/21, BeckRS 2022, 1189 Rn. 2; BGH, Beschluss vom 12.01.2022 - VII ZR 491/21, BeckRS 2021, 6617 Rn. 13 ff.), kommt auch eine hierauf gestützte Aussetzung nicht in Betracht.Zudem werden derlei Schäden vorliegend auch nicht geltend gemacht. Insofern wurde das streitgegenständliche Fahrzeug zugelassen und verfügt über eine wirksame Betriebserlaubnis. Eine konkret drohende Entziehung der Zulassung ist nicht dargetan.b) Etwas anderes folgt hierbei auch nicht aus den Schlussanträgen des Generalanwalts Rantos vom 02.06.2022 im Rahmen des Verfahrens C-100/21 (BeckRS 2022, 12232).aa) Wenngleich der Generalanwalt dort auf Art. 18 Abs. 1, Art. 26 Abs. 1 und Art. 46 der RL 2007/46/EG gestützt die Auffassung vertritt, dass auch die Interessen eines individuellen Erwerbers eines Kraftfahrzeugs durch die Übereinstimmungserklärung geschützt seien, insbesondere das Interesse, kein Fahrzeug zu erwerben, das mit einer unzulässigen Abschalteinrichtung gemäß Art. der Verordnung (EG) Nr. 715/2007 versehen sei, kommt es auf diese Feststellungen im vorliegenden Fall nicht streitentscheidend an, da die Klagepartei keine derartigen Schäden geltend macht. Insofern ist das Fahrzeug der Klagepartei zugelassen und verfügt über eine gültige Übereinstimmungsbescheinigung, die es ihr erlaubt, das Fahrzeug innerhalb der Mitgliedstaaten der EU zuzulassen und zu veräußern. Es ist nicht dargetan oder sonst ersichtlich, dass insoweit eine Änderung zu erwarten wäre. Vielmehr macht die Klagepartei als verletztes Schutzgut ihr wirtschaftliches Selbstbestimmungsrecht und damit den Schutz des Käufers vor dem Abschluss eines ungewollten Vertrags geltend. Diese Interessen werden jedoch vom Schutzzweck der RL 2007/46/EG und der VO (EG) Nr. 715/2007 nicht erfasst.bb) Dass - entgegen der in ständiger Rechtsprechung vertretenen Auffassung des BGH - auch ein so weitreichender Schutz der allgemeinen Handlungsfreiheit und speziell des wirtschaftlichen Selbstbestimmungsrechts der einzelnen Käufer bezweckt ist, dass schon die fahrlässige Erteilung einer inhaltlich unrichtigen Übereinstimmungsbescheinigung einen - hier allein geltend gemachten - gegen den Hersteller gerichteten Anspruch auf (Rück-)Abwicklung eines mit einem Dritten geschlossenen Kaufvertrags ermöglicht werden soll, kann indes auch den Schlussanträgen vom 02.06.2022 nicht entnommen werden.c) Nach Abwägung aller Einzelfallumstände war der Aussetzungsantrag somit zurückzuweisen (grundlegend OLG Koblenz, Beschluss vom 15.06.2022 - 12 U 1809/21, BeckRS 2022, 13787 Rn. 9; siehe auch OLG Koblenz, Beschluss vom 17.06.2022 - 15 U 180/21, BeckRS 2022, 13787 Rn. 10 ff.; OLG Koblenz, Beschluss vom 20.06.2022 - 15 U 2169/21, BeckRS 2022, 14755 Rn. 4 ff.; OLG München, Beschluss vom 01.07.2022 - 8      U 1671/22, juris Rn. 26 ff.; im Ergebnis auch OLG Stuttgart, Urteil vom 28.06.2022 - 24 U 115/22).3. Nachdem die Zurückweisungsentscheidung nicht gesondert anfechtbar ist, konnte über den hierauf gerichteten Antrag im Rahmen des Endurteils entschieden werden (BeckOK-ZPO/Wendtland, 44. Ed. 01.03.2022, § 148 Rn. 15).
+			
+			
+			
+			Permalink: https://openjur.de/u/2454016.html (https://oj.is/2454016)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate34
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG DuisburgRechtsprechungUrteil vom 17.09.2019 - 1 O 91/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Duisburg, Urteil vom 17.09.2019 - 1 O 91/19
+                      m. Fundstelle
+                      LG Duisburg, Urteil vom 17.09.2019 - 1 O 91/19 = openJur 2022, 1551
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Duisburg, Urteil vom 17.09.2019 - 1 O 91/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 1551
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits werden dem Kläger auferlegt.Das Urteil ist gegen Sicherheitsleistung von 110 % des zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger kaufte am 22.08.2016 bei der Autohaus einen von der Beklagten hergestellten mit einem Dieselmotor mit der Bezeichnung EA288 ausgerüsteten. Nach der Typenzulassung soll das Fahrzeug die Anforderungen nach Euro 6 erfüllen. Die Motorsteuerungsoftware ist so gestaltet, dass abhängig von der Umgebungstemperatur in unterschiedlichem Umfang eine Rückführung von Abgasen in den Motor stattfindet, nämlich unter - 24 °C und über + 70 °C nicht. Für Motoren des Typs EA189 entwickelte die Beklagte ein Software Update. Der Kläger ließ die Beklagte durch seine Prozessbevollmächtigten zum Ersatz des Kaufpreises Zug um Zug gegen Herausgabe und Übereignung des Fahrzeugs und zur Zahlung der Kosten der außergerichtlichen Rechtsverfolgung bis zum 17.12.2018 auffordern. Zur Zeit der mündlichen Verhandlung wies das Fahrzeug eine Laufleistung von 75.150 km auf.Der Kläger behauptet, das Fahrzeug sei vom sogenannten "Abgasskandal" betroffen. Es sei mit einer unzulässigen Abschalteinrichtung ausgerüstet worden, um im Falle eines Abgastests die zulässigen Abgaswerte zu erreichen. Wenn ihm auch bekannt gewesen sei, dass es den "Abgasskandal" gebe, habe er doch die konkreten Auswirkungen auf das Fahrzeug nicht gekannt und nicht gewusst, was es bedeute, ein Fahrzeug zu erwerben, das von der "Abgasthematik EA189" betroffen sei. Es sei auch nicht offengelegt worden, dass das Software Update zu einer substantiellen Verrußung, schnellerem Verschleiß des Partikelfilters und höherem Verbrauch führe. Die Beklagte habe die Verbraucher, darunter auch ihn, getäuscht und sittenwidrig geschädigt, indem sie diese Fahrzeuge ohne Hinweis auf die eingebaute Abschalteinrichtung in Verkehr brachte. Die Typengenehmigung sei unwirksam, ihm drohe der Entzug der Zulassung. Aufgrund der Manipulation habe das Fahrzeug einen erheblichen Wertverlust erlitten. Ab Zahlung des Kaufpreises könne er nach § 849 BGB Ersatz für dessen Entziehung beanspruchen. Der Wert der Nutzung des Fahrzeugs sei unter Zugrundelegung einer Laufleistung von 300.000 km zu berechnen.Der Kläger beantragt,1.die Beklagte zu verurteilen, an ihn 26.250 € nebst Zinsen in Höhe von 4 Prozent seit dem 23.08.2016 bis 18.12.2018 und seither fünf Prozentpunkten über dem Basiszinssatz abzüglich einer im Termin zu beziffernden Nutzungsentschädigung Zug um Zug gegen Rückgabe und Übereignung des Fahrzeuges mit der Fahrgestellnummer zu zahlen;2.festzustellen, dass sich die Beklagte seit dem 18.12.2018 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befinde;3.die Beklagte zu verurteilen, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 2.077,74 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 18.12.2018 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte ist der Auffassung, das Vorbringen des Klägers sei zur Darlegung eines Mangels an dem streitgegenständlichen mit dem Motor EA288 ausgerüsteten Fahrzeug nicht ausreichend, zumal es sich auf den Motor EA189 bezieht. Das im Fahrzeug zum Einsatz kommende Thermofenster sei keine unzulässige Abschalteinrichtung, weil die Abgasrückführung zwischen - 24 und + 70 °C zu 100 % aktiv ist.Wegen der weiteren Einzelheiten des Sach- und Streitstands wird auf die gewechselten Schriftsätze nebst Anlagen und auf das Sitzungsprotokoll Bezug genommen. 
+				Gründe
+				I.Die zulässige Klage ist nicht begründet. Der Kläger hat gegen die beklagte Herstellerin im Zusammenhang mit dem Kauf des streitgegenständlichen Fahrzeugs und dessen Ausstattung mit der Motorsteuerungsoftware, die die Abgasrückführung temperaturabhängig regelt, keine Ansprüche. Insbesondere ergeben sich solche weder aus § 280 Abs. 1 BGB in Verbindung mit dem Kaufvertrag, mit dem die Beklagte das Fahrzeug nach dessen Herstellung an die Händlerin verkaufte, noch aus § 826 BGB oder § 823 Abs. 2 BGB in Verbindung mit § 263 StGB oder den die Fahrzeugzulassung regelnden Vorschriften.1.Aus dem Vertrag, mit dem die Beklagte das streitgegenständliche Fahrzeug nach der Herstellung verkaufte, haftet sie dem Kläger nicht auf Schadenersatz.a)Aus diesem Vertrag folgen Pflichten auch im Verhältnis zu späteren Käufern wie dem Kläger.Die beklagte Herstellerin haftet zwar nicht in vollem Umfang für die Mangelfreiheit durch andere Marktteilnehmer verkaufter Fahrzeuge nach dem Maßstab des § 434 BGB. Soweit dem Kläger Gewährleistungsansprüche gegen seinen Verkäufer zustehen, besteht kein Schutzbedürfnis. Die Einbeziehung von Dritten in den Schutzbereich eines Vertrages setzt voraus, dass diesem eigene vertragliche Ansprüche desselben Inhalts nicht zustehen (grundlegend für den Fall des Mietvertrages BGH, Urteil vom 15.02.1978, Aktenzeichen VIII ZR 47/77). Auch nach dieser Maßgabe liegen die Voraussetzungen für eine Einbeziehung des Klägers in den Schutzbereich des Vertrages, mit welchem die Beklagte den streitgegenständlichen nach der Herstellung verkaufte, vor.Der Kläger befindet sich in Leistungsnähe dieses Vertrages. Denn die Eigenschaften, die die Herstellerin dem neu hergestellten Fahrzeug beigibt, definieren entscheidend auch den Zustand des weiterverkauften Fahrzeugs. Mängel der Konstruktion sowie Fehler bei der Herstellung treffen jeden, der das Fahrzeug zu irgendeinem Zeitpunkt von andernen Marktteilnehmern kauft.Ein schützenswertes Interesse dritter Fahrzeugkäufer an der Einbeziehung in den Vertrag über den Kauf von der Herstellerin besteht freilich nur hinsichtlich solcher Fehler, die die charakterisierenden Eigenschaften des Fahrzeugs betreffen. Darunter fallen insbesondere Konstruktionsmängel. Die Fahrzeugherstellerin bestimmt die Gestaltung der von ihr verkauften Fahrzeuge und definiert damit Modelle, die unter der Modellbezeichnung am Fahrzeugmarkt gehandelt werden. Damit bestimmt die Herstellerin wesentlich den Inhalt der Kaufverträge über alle Fahrzeuge der von ihr geschaffenen Modelle. Mit der von der Herstellerin besorgten Typengenehmigung erhält diese Definition der Fahrzeugmodelle Allgemeinverbindlichkeit. Alle Fahrzeuge dieses Typs sind damit zugelassen, abweichende Konstruktionen bedürfen einer gesonderten Genehmigung. Wer dergestalt bestimmenden Einfluss auf den Inhalt der Kaufverträge über Fahrzeuge nehmen kann, ist für diesen Inhalt mit verantwortlich. Das gilt umso mehr, als niemand anderer als der Hersteller die einem bestimmten Fahrzeugmodell beigegebenen Eigenschaften gestalten kann.Für die beklagte Fahrzeugherstellerin war erkennbar, dass ihre Entscheidung über die Gestaltung des Fahrzeugs bestimmenden Einfluss auf den Inhalt aller Kaufverträge über solche Fahrzeuge haben würde. Es liegt auf der Hand, dass ein Fahrzeug dieses Modells mit anderen Eigenschaften als denen, mit welchen die Beklagte es ausgestattet hatte, nicht Gegenstand eines Kaufvertrages über ein solches Fahrzeug sein konnte; dann hätte es sich nicht mehr um dasselbe Modell gehandelt.Der Kreis der Fahrzeugkäufer ist hinreichend bestimmt. Es handelt sich nicht um eine unabsehbare Zahl von Personen; das ergibt sich schon aus der endlichen Zahl von Fahrzeugen und deren Käufern.Der Käufer eines Kraftfahrzeugs, das nach der vom Hersteller definierten Modellcharakteristik nicht die Eigenschaften aufweist, die der Käufer eines solchen Fahrzeugs erwarten kann, bedarf nicht deshalb keines Schutzes in Gestalt eines Anspruchs gegen den Hersteller, weil sein Verkäufer ihm nach Maßgabe des § 434 Abs. 1 Satz 2 Nr. 2, 3. Fall BGB Gewähr zu leisten hat. Dieser Gewährleistungsanspruch ist nicht inhaltsgleich mit dem Anspruch gegen den Hersteller. Der Verkäufer ist dem Käufer nach §§ 437 Nr. 1, 439 BGB in erster Linie zur Nacherfüllung verpflichtet. Diese ist ihm jedoch nicht möglich, wenn der Mangel darin besteht, dass das Fahrzeug des verkauften Modells definitionsgemäß Eigenschaften aufweist, die nicht dem entsprechen, was der Käufer eines solchen Fahrzeugs erwarten kann. Insoweit kann allein der Hersteller Abhilfe schaffen.b)Die Beklagte verletzte die sie nach dieser Maßgabe treffenden Pflichten gegenüber dem Kläger nicht. Aus dem Vorbringen des Klägers ergibt sich nicht, dass das von der Beklagten konstruierte, hergestellte und auf den Markt gebrachte Fahrzeug mangelhaft wäre. Insbesondere kann aus den vom Kläger dargestellten Umständen nicht darauf geschlossen werden, dass es den gesetzlichen Vorgaben zur Emissionskontrolle nicht entspräche. Dann kann die Beklagte auch nicht dadurch pflichtwidrig gehandelt haben, dass sie über dahin gehende Defizite ihres Produkts nicht informiert hätte.Wer ein Kraftfahrzeug kauft, das nach einer bestimmten Schadstoffnorm zugelassen ist, darf davon ausgehen, dass es die Eigenschaften aufweist, die die Anforderungen dieser Norm erfüllen. Das war bei dem streitgegenständlichen der Fall. Insbesondere war im Fahrzeug keine nach Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen hinsichtlich der Emissionen von leichten Personenkraftwagen und Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge verbotene Abschalteinrichtung installiert.Die von der Beklagten verwendete temperaturabhängige Steuerung der Abgasrückführung verstößt nicht gegen Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007. Danach ist die Verwendung von Abschalteinrichtungen, die die Wirkung von Emissionskontrollsystemen verringern, unzulässig. Als Abschalteinrichtung definiert Art. 3 Nr. 10 der Verordnung ein Konstruktionsteil, das die Temperatur, die Fahrzeuggeschwindigkeit, die Motordrehzahl, den eingelegten Getriebegang, den Unterdruck im Einlasskrümmer oder sonstige Parameter ermittelt, um die Funktion eines beliebigen Teils des Emissionskontrollsystems zu aktivieren, zu verändern, zu verzögern oder zu deaktivieren, wodurch die Wirksamkeit des Emissionskontrollsystems unter Bedingungen, die bei normalem Fahrzeugbetrieb vernünftigerweise zu erwarten sind, verringert wird. Auch Art. 5 Abs. 1 stellt auf das Emissionsverhalten unter normalen Betriebsbedingungen ab. Darunter ist der Betrieb des Fahrzeugs in einem Umfeld und auf eine Art und Weise zu verstehen, die dem üblichen Gebrauch entspricht. Das ist für ein in Deutschland zugelassenes Fahrzeug insbesondere der Betrieb bei den hier für gewöhnlich herrschenden Temperaturen. Ein Fahrzeug muss demnach so gestaltet sein, dass die Emissionskontrolle bei den in Deutschland üblichen Temperaturen funktioniert und zur Einhaltung der Vorgaben der Verordnung führt. Für den Betrieb unter hier unüblichen Bedingungen gelten dagegen schon nach dem Wortlaut der Vorschrift weder die Anforderungen nach Art. 5 Abs. 1 der Verordnung noch das Verbot von Abschalteinrichtungen nach Art. 5 Abs. 2 Satz 1.Dass die Abgasrückführung unter - 24 °C und über + 70 °C deaktiviert wird, wie die Beklagte zugestanden hat, verstößt nach dieser Maßgabe nicht gegen die zulassungsrechtlichen Vorgaben. Temperaturen unter - 24 °C sind in Deutschland außer auf hohen Bergen, auf denen für gewöhnlich kein eingesetzt wird, unüblich und werden allenfalls gelegentlich bei extremen Wetterlagen kurzzeitig lokal begrenzt erreicht. 70 °C erreichen die Außentemperaturen in Deutschland überhaupt nicht.Keine Pflichtverletzung der Beklagten ergibt sich unter dem Gesichtspunkt, dass die Stickoxidemissionen höher als angegeben sein sollen. Zunächst trägt der Kläger schon nicht vor, auf welche Angaben der Beklagten er sich bezieht. Er stellt auch nicht dar, welche Emissionswerte tatsächlich erreicht werden. Selbst wenn aber im alltäglichen Betrieb des Fahrzeugs die Grenzwerte, die für eine Zulassung nach Euro 6 eingehalten werden müssen, überschritten werden sollten, so begründete das kein pflichtwidriges Verhalten der Beklagten. Die zur Zeit der Zulassung des streitgegenständlichen Fahrzeugs geltenden Schadstoffgrenzwerte bezogen sich auf das standardisierte Prüfverfahren. Dass das streitgegenständliche Fahrzeug die vorgegebenen Grenzwerte auf dem Prüfstand nicht einhielte, behauptet der Kläger nicht. Dass Werte, die etwa für Schadstoffemissionen und Kraftstoffverbrauch von Kraftfahrzeugen angegeben werden, unter idealen Bedingungen gemessen werden, die im alltäglichen Betrieb nicht vorliegen, ist allgemein bekannt und kann keinen Fahrzeugkäufer überraschen. Anders wäre nur zu entscheiden, wenn der Schadstoffausstoß im Straßenbetrieb in keiner Weise mit den auf dem Prüfstand gemessenen Werten korrelierte, weil, insbesondere durch Aktivierung einer Abschalteinrichtung, die Funktionsweise des Antriebs gegenüber der auf dem Prüfstand grundlegend verändert würde. Das ist bei der streitgegenständlichen temperaturabhängigen Regelung nicht der Fall, weil die Abgasrückführung bei den Temperaturen, die hierzulande zumeist herrschen, im realen Fahrzeugeinsatz genau so funktioniert wie auf dem Prüfstand.Auch sonst hat der Kläger keine Umstände vorgebracht, die den Schluss zulassen könnten, dass der streitgegenständliche von seinen berechtigten Erwartungen abwiche. Soweit der Kläger konkret zur Gestaltung des Fahrzeugantriebs, dessen Zulässigkeit und den Beweggründen der für die Beklagte Handelnden ausführt, bezieht er sich auf Fahrzeuge mit dem Motor EA189. Soweit der Kläger zu den Defiziten des Software Updates ausführt, betrifft dies den Motor EA288 des streitgegenständlichen Fahrzeugs ebenfalls nicht, sondern schon nach dem Vortrag des Klägers das Update für EA189. Substantiierten Vortrag zu Fahrzeugen mit dem Motor EA288, mit dem das streitgegenständliche Fahrzeug ausgerüstet ist, gibt es nur von der Beklagten. Deren Vortrag stützt allerdings die vom Kläger gezogenen Schlüsse nicht.2.Die Beklagte ist dem Kläger auch nicht auf deliktischer Grundlage zum Schadenersatz verpflichtet, sei es nach § 826 BGB, sei es nach § 823 Abs. 2 BGB in Verbindung mit § 263 StGB oder den die Fahrzeugzulassung regelnden Vorschriften.Einer Haftung der Beklagten nach § 823 Abs. 2 BGB in Verbindung mit § 263 StGB steht schon entgegen, dass sie hinsichtlich des Motors EA288 niemanden täuschte. Die Beklagte erweckte nicht durch Vorenthalten von Informationen über die tatsächliche Gestaltung des von ihr angebotenen Fahrzeugs einen unzutreffenden Eindruck von diesem. Die Beklagte musste nicht im Einzelnen die Funktion der temperaturabhängigen Steuerung der Abgasrückführung darstellen. Sie hatte kein Anhaltspunkt dafür, dass sich Fahrzeugkäufer für solche technischen Details interessieren würden. Vielmehr durfte sie davon ausgehen, dass es den Käufern darauf ankäme, ein Fahrzeug zu erhalten, das den zulassungsrechtlichen Vorgaben entsprach. Wie der durch diese vorgegebene Rahmen konkret durch die Fahrzeugtechnik ausgefüllt wird, interessiert den Käufer in der Regel nicht. Anhaltspunkte dafür, dass es hier ausnahmsweise anders gewesen sein könnte, sind nicht ersichtlich.Die Beklagte haftet dem Kläger auch nicht nach § 823 Abs. 2 BGB in Verbindung mit zulassungsrechtlichen Vorschriften, weil diese zum einen nicht verletzt sind, zum anderen die insoweit einzig in Betracht kommende Vorschrift des Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007 den Kläger als Einzelnen nicht schützt, sondern vielmehr der Durchsetzung umweltpolitischer Ziele dient.Das Verhalten der Beklagten im Zusammenhang mit dem streitgegenständlichen Fahrzeug stellt sich auch nicht als sittenwidrig im Sinne des § 826 BGB dar. Die vom Kläger dargestellten Umstände, die den Vorwurf der Sittenwidrigkeit begründen könnten, betreffen Fahrzeuge mit dem Motor EA189, nicht auch solche mit dem Motor EA288 - wie den streitgegenständlichen .Dem Kläger entstand durch das Verhalten der Beklagten, die das streitgegenständliche Fahrzeug mit einer temperaturabhängigen Steuerung der Abgasrückführung versah und es so gestaltet auf den Markt brachte, schließlich auch kein Schaden. Durch diese Gestaltung des Fahrzeugs wurde weder seine Gebrauchstauglichkeit in tatsächlicher oder rechtlicher Hinsicht beeinträchtigt noch das Vermögen des Klägers gemindert oder in seine Entscheidungsfreiheit beim Kauf eingegriffen. Wer ein Fahrzeug auf den Markt bringt, das Eigenschaften aufzuweisen scheint, die es tatsächlich nicht aufweist, verletzt die Entscheidungsfreiheit potenzieller Käufer. Die Rechtsordnung setzt voraus, dass die in rechtserheblicher Weise Handelnden freie von ihrem Willen getragene Entscheidungen treffen können. Das ist nur möglich, wenn die Entscheidungsgrundlagen zutreffend erfasst werden können. Grundlage der Entscheidung für den Kauf eines Kraftfahrzeugs ist das Wissen um dessen Eigenschaften. Diese müssen deshalb den tatsächlichen Gegebenheiten entsprechend dargestellt werden. Durch das Anbieten des streitgegeständlichen am Markt erweckte die Beklagte keinen unzutreffenden Eindruck. Aufgrund des Angebots des Fahrzeugs mit der Zulassung nach Euro 6 durfte erwartet werden, dass es über eine wirksame Zulassung nach dieser Norm verfügte. Das war auch tatsächlich der Fall.II.Die Kostenentscheidung folgt aus § 91 Abs. 1 Satz 1 ZPO.Die vorläufige Vollstreckbarkeit richtet sich nach § 709 Sätzen 1 und 2 ZPO.S t r e i t w e r t : 28.685,42 €.Der Anspruch aus § 849 BGB stellt eine nach § 39 Abs. 1 GKG zu berücksichtigende Hauptforderung dar, weil es sich nicht um eine Verzinsung der Hauptforderung in Höhe des im Übrigen begehrten Schadenersatzes, sondern um einen eigenständigen Ersatzanspruch handelt, der lediglich mittels Verzinsung pauschal berechnet wird.Für die Nebenforderungen gilt § 43 Abs. 1 GKG.
+			
+			
+			
+			Permalink: https://openjur.de/u/2384279.html (https://oj.is/2384279)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

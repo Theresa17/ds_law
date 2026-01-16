@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG WiesbadenRechtsprechungUrteil vom 08.11.2018 - 3 O 181/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Wiesbaden, Urteil vom 08.11.2018 - 3 O 181/18
+                      m. Fundstelle
+                      LG Wiesbaden, Urteil vom 08.11.2018 - 3 O 181/18 = openJur 2020, 48205
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Wiesbaden, Urteil vom 08.11.2018 - 3 O 181/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 48205
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				Ein Anspruch des Erwerbers eines vom Abgasskandal betroffenen Fahrzeuges besteht dann nicht, wenn der Kauf nach dem Bekanntwerden des Abgasskandals stattfand.Allein der Umstand, dass die Messwerte unter unterschiedlichen Bedingungen im Normalbetrieb teilweise stark von den Messwerten im NEFT-Zyklus abweichen, ist kein ausreichender Beweis dafür,  dass eine illegale Abschalteinrichtung verbaut wurde. Denn dafür gibt es, insbesondere unter unterschiedlichen Temperaturbedingungen, durchaus legale Abweichungen. 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 115 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger erwarb am 07.04.2017 von dem einen 2014 erstmals zugelassenen A/& Sportback 3.0 TDI mit 59458 km zu einem Preis von 43.950 €.Der Kläger behauptet, dass nach Messungen des ADAC die CO2-Emission eines Audi Q 5 mit gleichem Motor nicht 199 g/km, sondern 224 g/km betrage.Er vertritt die Auffassung, dass sich aus einer ohne Quellenangabe der Klageschrift beigefügten Anlage sich ergebe, dass im Realbetrieb der NOx -Grenzwert um das 7-fache überschritten werde. Dies allein erkläre sich nur durch den Einbau einer illegalen Abschalteinrichtung.Bislang wurde der Kläger weder aufgefordert, ein Softwareupdate der Motorsteuerung durchzuführen, noch sei die Zulassung des Fahrzeuges in Frage gestellt worden.Die Laufleistung des Fahrzeuges betrage inzwischen 99.300 km.Der Kläger beantragt,Die Beklagte zu verurteilen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeuges der Marke Audi A 7 mit der Fahrgestellnummer WAUZZZ4G9EN096856 im Wege des Schadensersatzes an die Klägerin 43.950 Euro unter Anrechnung einer im Termin zu beziffernden Nutzungsentschädigung nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen,festzustellen, dass sich die Beklagte in Annahmeverzug befindet,die Beklagte zu verurteilen, außergerichtliche Anwaltskosten in Höhe von 1965,88 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 21.03.2018 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Sie verweist unter anderem darauf, dass der Motor nicht zu dem EA 189 Motoren gehört und nicht vom Abgasskandal betroffen sei. 
+				Gründe
+				Die Klage ist unter allen rechtlichen Gesichtspunkten unbegründet. Unbeschadet, dass der Kläger schon die anzurechnende Nutzungsentschädigung nicht nur nicht beziffert hat, sondern, da es sich bei dem Fahrzeug um ein Gebrauchtfahrzeug handelt, auch keine hinreichenden Angaben zur Ermittlung gemacht hat, ist die Klage allein deswegen abzuweisen, weil der Kläger das Fahrzeug bereits lange nach Bekanntwerden des Abgasskandals erworben hatte und keine objektiven Anknüpfungstatsachen vorgetragen wurden, die belegen, dass das Fahrzeug von einer illegalen Abschaltvorrichtung betroffen ist, der Entzug der Zulassung drohen würde oder auch nur ein Softwareupdate notwendig wäre.Welche Feststellungen US-amerikanische Stellen zu anderen Motoren und anderen Fahrzeugen möglicherweise getroffen haben, darauf kommt es nicht an. Unerheblich ist auch bezogen auf den konkreten Fall, ob mit der Absicht, die Kunden arglistig zu täuschen insbesondere EA 189 Motoren mit einer unzulässigen Abschaltvorrichtung ausgestattet hat oder nicht.Unerheblich ist auch, ob der Motor von für im selben Werk hergestellt wird, wie vom Abgasskandal betroffene Motoren. Denn erst durch die Wahl einer von der Hardware völlig unabhängigen Software, kommt eine illegale Manipulation überhaupt in Betracht.Voraussetzung ist auf jeden Fall, dass eine solche illegale Abschaltvorrichtung auch im konkreten Fahrzeug verbaut wurde. Allein der Umstand, dass die Messwerte unter unterschiedlichen Bedingungen im Normalbetrieb teilweise stark von den Messwerten im NEFT-Zyklus abweichen, ist dafür noch kein ausreichender Beweis. Denn dafür gibt es, insbesondere unter unterschiedlichen Temperaturbedingungen durchaus legale Abweichungen.Da aber nur ein zugelassenes, zulassungsfähiges, und nicht von Stilllegung bedrohtes Fahrzeug stillschweigend geschuldet ist nicht aber mit konkreten Stickoxidwerten geworben ist, ist die Klage abzuweisen.Im konkreten Fall kommt aber hinzu, dass zum Zeitpunkt des Erwerbes sämtliche wesentlichen Punkte des sogenannten Abgasskandals bereits der breiten Öffentlichkeit bekannt waren und nicht erkennbar ist, wie dann noch beim Erwerb eines gebrauchten Dieselfahrzeuges aus dem Konzern eine angebliche Täuschung noch hätte auf den Kauf auswirken können.Die Klage war daher mit den Nebenfolgen der §§ 91, 709 ZPO abzuweisen.
+			
+			
+			
+			Permalink: https://openjur.de/u/2272835.html (https://oj.is/2272835)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

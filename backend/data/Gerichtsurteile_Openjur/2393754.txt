@@ -1,0 +1,143 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG HammRechtsprechungBeschluss vom 14.04.2021 - 8 U 179/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Hamm, Beschluss vom 14.04.2021 - 8 U 179/20
+                      m. Fundstelle
+                      OLG Hamm, Beschluss vom 14.04.2021 - 8 U 179/20 = openJur 2022, 7813
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Hamm, Beschluss vom 14.04.2021 - 8 U 179/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 7813
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 19 O 465/19
+								nachfolgend: Az. VII ZR 416/21
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das Urteil des Landgerichts Bielefeld vom 31.08.2020 (19 O 465/19) wird zurückgewiesen.Die Kosten des Berufungsverfahrens trägt der Kläger.Das angefochtene Urteil und dieser Beschluss sind jeweils vorläufig vollstreckbar.Dem Kläger wird nachgelassen, die Zwangsvollstreckung durch die Beklagte durch Sicherheitsleistung in Höhe von 110 Prozent der jeweils vollstreckbaren Beträge abzuwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 Prozent des jeweils zu vollstreckenden Betrages leistet.Der Streitwert des Berufungsverfahrens wird auf 31.273,65 EUR festgesetzt.  
+				Gründe
+				I.Der Kläger macht Schadensersatzansprüche im Zusammenhang mit dem Kauf eines gebrauchten Fahrzeugs F (..) 3.0 TDI (..) 3.0 l, 150 kW (EU5) geltend, das er am 24.08.2015 mit einem Kilometerstand von 37.075 km zu einem Kaufpreis von 34.000,00 EUR erwarb (Anlage K1). Zur Finanzierung des Fahrzeugkaufs schloss der Kläger einen Darlehensvertrag in Form eines sog. "VarioCredits" ab, der ein verbrieftes Rückgaberecht des Klägers vorsieht.Der Kläger hat behauptet, die Steuerungssoftware seines Fahrzeugs sei mittels verschiedener Strategien manipuliert, so dass sich die Stickoxidwerte im Vergleich von Prüfstandlauf und realem Fahrbetrieb verschlechterten. Mit diesem Wissen hätte er den streitgegenständlichen Vertrag nicht abgeschlossen. Die Beklagte hat bestritten, dass das Klägerfahrzeug vom "Abgasskandal" betroffen sei. Dem Kläger sei kein Schaden entstanden, da das streitgegenständliche Fahrzeug über alle notwendigen Genehmigungen verfüge.Wegen des weiteren Vorbringens der Parteien erster Instanz sowie ihrer Anträge wird gem. § 540 Abs. 1 Nr. 1 ZPO auf den Tatbestand des angefochtenen Urteils Bezug genommen.Das Landgericht hat die Klage abgewiesen und zur Begründung ausgeführt, dem Kläger stehe gegen die Beklagte kein Anspruch auf Schadenersatz gemäß §§ 826, 31 BGB zu. Der Kläger könne keinen Anspruch aus dem Argument herleiten, dass das streitgegenständliche Fahrzeug eine Abschaltvorrichtung in Form eines Thermofensters enthalte, das die Abgasrückführungsquote abhängig von der Temperatur steuere. Das Inverkehrbringen eines Kraftfahrzeugs, das mit einem Thermofenster ausgerüstet sei, stelle keine vorsätzliche sittenwidrige Schädigung dar, denn hierfür müssten neben der Kenntnis vom Einbau des Thermofensters Anhaltspunkte erkennbar sein, dass dies in dem Bewusstsein geschehen sei, hierdurch unter Umständen gegen gesetzliche Vorschriften zu verstoßen und einen solchen Verstoß billigend in Kauf zu nehmen. Es fehle an dem erforderlichen bedingten Vorsatz, der vom Kläger vorzutragen und zu beweisen sei. Denn anders als die Software des VW-Motors EA189 unterscheide das Thermofenster nicht zwischen Prüfstand und realem Betrieb, sondern richte sich nach der Umgebungstemperatur und sei offensichtlich nicht auf eine "Überlistung" der Prüfungssituation angelegt. Die Thermofenster seien zudem bei der Regelung der Abgasrückführung in Dieselmotoren über einen langen Zeitraum weit verbreitet, von den Zulassungsbehörden anerkannt und selbst noch im Untersuchungsbericht "Volkswagen" als offenbar zulässig und sinnvoll angesehen worden. Es könne daher nicht davon ausgegangen werden, dass die Mitarbeiter der Beklagten, die die Entscheidung zur Verwendung eines Thermofensters getroffen hätten, den Vorsatz gehabt hätten, Fahrzeuge auf den Markt zu bringen, die an sich nicht zulassungsfähig gewesen wären. Der Vortrag des Klägers, das streitgegenständliche Fahrzeug habe eine Abschalteinrichtung in Form einer sog. "Kühlmittel-Sollwert-Temperaturregelung", erfolge "ins Blaue" hinein und sei daher unbeachtlich. Der Kläger behaupte, dass das streitgegenständliche Fahrzeug eine unzulässige Abschalteinrichtung in Form einer "Kühlmittel-Sollwert-Temperaturregelung" habe, da alle Pkw-Hersteller sog. Thermofenster und deswegen auch dieselben unzulässigen Abschalteinrichtungen verwendet hätten und die K AG in einem gegen sie geführten Verfahren vor dem Landgericht Stuttgart dem Vorhandensein einer solchen Abschalteinrichtung nicht widersprochen habe. Dies stelle eine rein spekulative Äußerung eines Generalverdachts dar und könne nicht als tatsächlicher Anknüpfungspunkt für die vorgetragene Vermutung einer Tatsache - nämlich die Verwendung einer unzulässigen Abschaltsoftware - angesehen werden. Darüber hinaus sei dem Kläger kein Schaden entstanden, denn bei ihm sei keine Vermögensminderung eingetreten, selbst wenn in dem streitgegenständlichen Fahrzeug eine unzulässige Abschalteinrichtung verbaut worden wäre. Der Kläger habe das Fahrzeug uneingeschränkt nutzen können, so dass seine Aufwendungen im Rahmen der Vertragsabwicklung nicht vergeblich gewesen seien. Im Übrigen würde sich an den Finanzierungsbedingungen des "VarioCredits" auch dann nichts ändern, wenn eine unzulässige Abschalteinrichtung vorhanden wäre. Dem Kläger sei auch kein Schaden in Gestalt einen ungewollten Vertragsschlusses entstanden, denn aufgrund des verbrieften Rückgaberechts könne er durch die Rückgabe des Fahrzeugs nach der Finanzierungszeit wieder von dem ungewollten Kaufvertrag befreit werden.Der Kläger wendet sich gegen dieses Urteil mit seiner Berufung, mit der er seine Klageanträge weiterverfolgt. Der Kläger wiederholt seinen erstinstanzlichen Sachvortrag und führt zur Begründung seiner Berufung aus: Das Landgericht habe die Anforderungen an die Substantiierungspflicht rechtsfehlerhaft überspannt und infolgedessen verfahrensfehlerhaft insbesondere den von ihm für die dargelegten Abschalteinrichtungen angetretenen Sachverständigenbeweis nicht erhoben. Er habe zudem ausschließlich Insider/Informierte aus der Automobilbranche als Zeugen für seinen Vortrag genannt. Die strengen Voraussetzungen für eine Behauptung "ins Blaue hinein" lägen im Streitfall nicht vor, denn er habe unter Beweisantritt vorgetragen, dass in sämtlichen in den letzten Jahren in der EU produzierten Dieselfahrzeugen sog. Thermofenster installiert worden seien. Zudem habe er zum Verhalten der K AG vorgetragen. Weiteres Indiz sei, dass die Beklagte über eine Abfrageseite eine Maßnahme vorgesehen habe und über das Kraftfahrt-Bundesamt Softwareänderungen für das streitgegenständliche Fahrzeug anbiete. Anders als das Landgericht meine, seien greifbare Anhaltspunkte für die Verwendung einer unzulässigen Abschalteinrichtung nicht erst dann gegeben, wenn das Kraftfahrt-Bundesamt auch bezüglich Fahrzeugen der oder gar des konkreten Fahrzeugtyps eine Rückrufaktion angeordnet habe. Sein Schaden liege nicht nur darin, dass sein erworbener Pkw einen geringeren Wert habe als der bei Erwerb erwartete. Vielmehr müsse er mit der Untersagung des weiteren Betriebs auf öffentlichen Straßen rechnen. Das Rückgaberecht lasse den Schaden schon deshalb nicht entfallen, weil das Autohaus die Verpflichtete ist. Zum anderen sei es nicht durch das Hinwirken der Beklagten, sondern durch Handeln der X Bank GmbH zu diesem Rückgaberecht gekommen.Der Kläger beantragt, das Urteil des Landgerichts Bielefeld vom 31.08.2020 - 19 O 465/19 - abzuändern und1. die Beklagte zu verurteilen, an ihn 31.273,65 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen, Zug um Zug gegen [hilfsweise: nach] Herausgabe und Übereignung des Fahrzeugs der Marke F (..) mit der Fahrzeugidentifikationsnummer FIN01 nebst Fahrzeugschlüssel unter Anrechnung einer Nutzungsentschädigung in EUR pro mit diesem Fahrzeug gefahrenem Kilometer, welche sich nach folgender Formel berechnet: 34.000,00 EUR multipliziert mit der Summe der ab Kilometerstand 105.001 bis zur Rückgabe an die Beklagtenpartei gefahrenen Kilometern geteilt durch 463.500 (500.000 - 36.500) km;2. festzustellen, dass sich die Beklagte mit der Rücknahme des unter Ziffer 1 genannten Fahrzeugs in Annahmeverzug befindet.Der Senat hat mit Beschluss vom 08.02.2021 darauf hingewiesen, dass eine Zurückweisung der Berufung im Beschlusswege gemäß § 522 Abs. 2 ZPO beabsichtigt sei, und dem Kläger Gelegenheit zur Stellungnahme gegeben. Der Kläger hat hierzu innerhalb der gesetzten Frist Stellung genommen. Wegen der Einzelheiten wird auf den Hinweisbeschluss vom 08.02.2021 und den Inhalt des Schriftsatzes vom 18.03.2021 verwiesen.II.Der Senat weist die Berufung des Klägers gemäß § 522 Abs. 2 ZPO zurück, da er einstimmig davon überzeugt ist, dass der Berufung offensichtlich keine Erfolgsaussicht und der Sache keine grundsätzliche Bedeutung zukommt, die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Berufungsgerichts nicht erfordert und eine mündliche Verhandlung auch nicht aus anderen Gründen geboten ist.1.Zur Begründung wird auf die Ausführungen in dem Beschluss vom 08.02.2021 Bezug genommen. An den dortigen Erwägungen hält der Senat auch nach erneuter Beratung und unter Berücksichtigung des ergänzenden Klägervorbringens fest.a)Der ergänzende Vortrag des Klägers zu der temperaturabhängigen Steuerung des Emissionskontrollsystems (Thermofenster) rechtfertigt keine andere Entscheidung. Anders als der Kläger auf den Seiten 2 und 3 seines Schriftsatzes vom 18.03.2021 vorträgt, ist die Beklagte seinen Behauptungen aus dem erstinstanzlichen Schriftsatz vom 27.08.2020 mit ihrer Erwiderung vom 04.09.2020 dezidiert entgegen getreten. Sie hat u.a. begründet, aus welchen Gründen es sich bei dem sog. Thermofenster ihrer Ansicht nach nicht um eine unzulässige Abschalteinrichtung handele, dass das Bundesministerium für Verkehr und digitale Infrastruktur die Zulässigkeit des sog. Ausrampens der Abgasrückführung anerkannt habe und dass der Umstand, dass Fahrzeuge erkennen, in welchem Temperaturbereich sie sich befinden, in keinem Zusammenhang mit dem Rollenprüfstand oder einer Prüfstanderkennung stehe. Insofern kann keine Rede davon sein, dass die - unsubstantiierten - Behauptungen des Klägers unwidersprochen geblieben seien. Soweit der Kläger erneut behauptet (Seite 10 des Schriftsatzes vom 18.03.2021), das Kraftfahrt-Bundesamt habe das Thermofenster noch nicht entdeckt, verweist der Senat zur Vermeidung von Wiederholungen auf die Ausführungen auf Seite 5 des Hinweisbeschlusses vom 08.02.2021.b)Mit sämtlichen Aspekten, zu denen der Kläger auf Seite 6 des Schriftsatzes vom 18.03.2021 vorträgt, hat sich der Senat in dem Hinweisbeschluss vom 18.03.2021 auseinandergesetzt, so dass sich weitere Ausführungen erübrigen. Dabei ist dem Senat bewusst, dass eine Haftung nach § 826 BGB auch dann in Betracht kommt, wenn das streitgegenständliche Fahrzeug noch nicht von einem Rückruf betroffen ist, behördliche Maßnahmen aber noch drohen. Das vermag der Senat bei dem Fahrzeug des Klägers unter Berücksichtigung seines Vorbringens nach wie vor nicht zu erkennen.2.Soweit der Kläger auf den Seiten 19 bis 111 des Schriftsatzes vom 18.03.2021 (hilfsweise) neue Behauptungen zu weiteren unzulässigen Abschalteinrichtungen (Höhenmessungs-Abschalteinrichtung, Lenkwinkelmessungs-Abschalteinrichtung, Betriebszeitmessungs-Abschalteinrichtung, Radrotationsmessungs-Abschalteinrichtung, Beschleunigungsmessungs-Abschalteinrichtung, Geschwindigkeitsmessungs-Abschalteinrichtung, Drehzahlmessungs-Abschalteinrichtung, Umgebungsdruckmessungs-Abschalteinrichtung und ABC-Strategie) aufstellt, gilt Folgendes:a)Da zu erwarten ist, dass die Beklagte diese Behauptungen bestreiten wird, kann der neue Tatsachenvortrag in der Berufungsinstanz nicht berücksichtigt werden. Der Kläger hat keinen Zulassungsgrund (§§ 529 Abs. 1 Nr. 1, 531 Abs. 2 ZPO) dargetan und glaubhaft gemacht. Der Vortrag auf Seite 101 des Schriftsatzes vom 18.03.2021 (zweiter Absatz, Nr. 11) ist hierfür ungeeignet. Die zitierten Gerichtsentscheidungen ergingen bereits im Juni bzw. Juli 2020 und damit vor Abschluss des erstinstanzlichen Verfahrens. Dem Senat erschließt sich auch nicht, welche Erkenntnisse der Kläger bzw. sein Prozessbevollmächtigter aus diesen Entscheidungen für den vorliegenden Rechtsstreit für sich fruchtbar machen will. Das Urteil des Oberlandesgerichts Stuttgart vom 16.06.2020 (16a U 228/19, juris) betrifft zwei Fahrzeuge der Marke S, die Berufung des dortigen Klägers gegen ein klageabweisendes Urteil wurde zurückgewiesen, u.a. mit der Begründung, die von dem Kläger vorgebrachten Indizien für das Vorliegen einer unzulässigen Abschalteinrichtung seien nicht ausreichend. Der Hinweis- und Beweisbeschluss des Oberlandesgerichts Celle vom 14.07.2020 (7 U 532/18, BeckRS 2020, 19389) betrifft den Dieselmotor EA288, der von der X AG entwickelt und hergestellt wurde, und enthält, da er der Vorbereitung einer Entscheidung dient, keine Feststellungen, auf die der Kläger sich stützen könnte. Auf welche Kenntnisse (Veröffentlichungen?) der Deutschen Umwelthilfe der Kläger sich bezieht, bleibt ebenfalls offen.b)Abgesehen davon würde das neue Vorbringen des Klägers dem Senat ebenfalls keinen Anlass bieten, die auf den Seiten 20 bis 22 benannten 70 Personen, die ohne Differenzierung zu sämtlichen Behauptungen auf den Seiten 20 bis 101 des Schriftsatzes benannt werden, als Partei oder Zeugen zu vernehmen. Es handelt sich ersichtlich um Behauptungen "ins Blaue hinein", die auch bei der gebotenen Zurückhaltung bei dieser Bewertung offensichtlich willkürlich aufgestellt werden, keinerlei Bezug zum streitgegenständlichen Fahrzeug aufweisen und aus diesem Grund keine Beweisaufnahme rechtfertigen.aa)Der Vortrag erschöpft sich im Wesentlichen in einer kurzen, schlagwortartigen Beschreibung einer bestimmten Strategie, mittels derer die im Zusammenhang mit dem streitgegenständlichen Motor verwendete Software erkennen soll, ob das Fahrzeug auf dem Prüfstand dem Neuen Europäischen Fahrzyklus (NEFZ) unterzogen werde, und im Fall der Bejahung für eine Abgasrückführung mit niedrigem Stickoxidausstoß sorgen soll. Die jeweilige Abschalteinrichtung, so der Kläger, unterscheide die Abgasrückführung also danach, ob sich das Fahrzeug auf dem Prüfstand oder im normalen Fahrbetrieb befinde. Der weitere Vortrag zu den einzelnen Strategien erschöpft sich in der stereotypen Wiederholung von Textbausteinen, deren Inhalt sich nur durch die Auswechselung des Namens der jeweiligen Abschalteinrichtung unterscheidet. Die sog. ABC-Strategie (Seite 101 ff. des Schriftsatzes vom 18.03.2021), zu der der Kläger eine kürzere Zeugenliste präsentiert, wird nicht einmal näher beschrieben.bb)Der Kläger trägt keine Anhaltspunkte oder Indizien für das Vorhandensein dieser Abschalteinrichtungen vor. Aus dem Vortrag auf Seite 101 des Schriftsatzes vom 18.03.2021 ergeben sie sich aus den oben zu Ziff. 2 a) genannten Gründen nicht. Es handelt sich um die unzulässige Äußerung eines Generalverdachts, in diesem Fall nicht nur gegen sämtliche Fahrzeuge der Beklagten oder des X-Konzerns, sondern gegen sämtliche Dieselfahrzeuge aller deutschen Fahrzeughersteller. Denn der Kläger differenziert weder in seinem Vortrag noch in der Liste der Beweismittel nach Fahrzeughersteller, Fahrzeugtyp oder Motorentyp.cc)Die Wahllosigkeit der Angriffe des Klägers offenbart sich an zwei weiteren Stellen in dem Schriftsatz vom 18.03.2021: Auf Seite 72 des Schriftsatzes zitiert der Kläger aus der Anklageschrift der Staatsanwaltschaft München II vom 30.07.2019 zu einer sog. Strategie D bei dem Betrieb des SCR-Katalysators. Ein SCR-Katalysator ist in dem Fahrzeug des Klägers, wie der Senat bereits in dem Hinweisbeschluss vom 08.02.2021 ausgeführt hat, jedoch überhaupt nicht verbaut. Auf Seite 101 des Schriftsatzes findet sich der Satz "Es handelt sich um insbesondere von der X AG und der F AG — unmittelbaren Wettbewerbern der Beklagtenpartei — verwendete Abschalteinrichtungen, ..." Da sich das vorliegende Verfahren gegen die F AG richtet, drängt sich die Annahme auf, dass der Klägervertreter diesen Sachvortrag den Gerichten in sämtlichen von ihm bearbeiteten sog. Abgasfällen unterbreitet.3.Die Nebenentscheidungen beruhen auf §§ 97 Abs. 1, 708 Nr. 10, 711 ZPO.III.Aus dem Vorgehen nach § 522 Abs. 2 ZPO folgt zugleich, dass der Senat keine Gründe für eine Revisionszulassung gemäß § 543 Abs. 2 Satz 1 ZPO sieht.
+			
+			
+			
+			Permalink: https://openjur.de/u/2393754.html (https://oj.is/2393754)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

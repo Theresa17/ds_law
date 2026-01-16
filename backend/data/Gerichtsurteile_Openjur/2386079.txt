@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG HanauRechtsprechungUrteil vom 04.03.2021 - 4 O 993/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Hanau, Urteil vom 04.03.2021 - 4 O 993/20
+                      m. Fundstelle
+                      LG Hanau, Urteil vom 04.03.2021 - 4 O 993/20 = openJur 2022, 2845
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Hanau, Urteil vom 04.03.2021 - 4 O 993/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 2845
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesenDie Kosten des Rechtsstreits hat der Kläger zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger begehrt nach dem Kauf eines neuen - vom sog. "Dieselskandal" betroffenen - PKW`s Schadensersatz von der Beklagten als Herstellerin des Fahrzeugs.Im Januar 2013 erwarb der Kläger über die XXX in XXX einen neuen VW Polo "Life" BlueMotion Technology 1,6 TDI zum Preis von 21.452,99 EUR. Auf die Bestellung vom 10.1.2013 (Anlage K 50) wird Bezug genommen.Das Fahrzeug ist mit einem Dieselmotor des Typs XXX ausgestattet, der von der Beklagten entwickelt wurde.Für das Fahrzeug war die nach der VO (EG) Nr. 715/2007 erforderliche Typgenehmigung ausgestellt worden.Die Beklagte hatte auch die EG-Übereinstimmungsbescheinigung für das Fahrzeug der Klägerin erteilt.Das Fahrzeug war mit einer Motorsteuerungssoftware versehen, die erkennt, wenn das Fahrzeug den sog. Neuen Europäischen Fahrzyklus (NEFZ) durchläuft, in dem die Emissionstests zur Erlangung der Typgenehmigung durchgeführt werden. Die Software geht dann von dem für den normalen Straßenverkehr vorgesehenen Abgasrückführungs-Modus 0 in den Abgasführungs-Modus 1 über, in dem der Ausstoß von NOx (Stickoxid) durch eine höhere Abgasrückführungsrate optimiert wird.Mit Bescheid vom 14.10.2015 ordnete das Kraftfahrt-Bundesamt unter Annahme, dass es sich bei der Motorsteuerungssoftware um eine unzulässige Abschalteinrichtung handele, nachträglich mehrere Nebenbestimmungen zu der erteilten EG-Typgenehmigung an. Der Beklagten wurde auferlegt, die Software aus allen Fahrzeugen zu entfernen und geeignete Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit zu ergreifen und dies durch entsprechende Nachweise zu belegen.Zum Zwecke der Erfüllung der Auflagen entwickelte die Beklagte ein Software-Update. Bei Fahrzeugen mit einem Hubraum von 1,6 Litern, wie dem streitgegenständlichen, ist zusätzlich zu dem Software-Update der Einbau eines sog. Strömungsgleichrichters vorgesehen. Das Kraftfahrtbundesamt hat die vorgenannten Maßnahmen unstreitig freigegeben wurde.Die Eigentümer betroffener Fahrzeuge haben seitdem die Möglichkeit, das Software-Update bzw. die entsprechende technische Maßnahme kostenfrei durchführen zu lassen.Das streitgegenständliche Fahrzeug wies zum Zeitpunkt des Schlusses der mündlichen Verhandlung einen Kilometerstand von 117.962 km auf.Der Kläger meint, dass er von der Beklagten aus verschiedenen rechtlichen Gesichtspunkten Schadenersatz verlangen könne.Der Kläger beantragt,festzustellen, dass die Beklagtenpartei verpflichtet ist, ihm Schadensersatz zu leisten für Schäden, die aus der Manipulation des Fahrzeugs VW Polo (Fahrzeugidentifikationsnummer: XXX) durch die Beklagtenpartei resultieren.Die Beklage beantragt,die Klage abzuweisenSie erachtet den Feststellungsantrag bereits mangels Feststellungsinteresse und aufgrund fehlender Bestimmtheit für unzulässig. Darüber hinaus erhebt sie die Einrede der Verjährung und stellt sich zudem auf den Rechtsstandpunkt, dem Kläger unter keinem rechtlichen Gesichtspunkt zum Schadenersatz verpflichtet zu sein.Wegen der Einzelheiten des Parteivorbringens wird auf die zwischen den Parteien gewechselten Schriftsätze nebst deren Anlagen sowie das Sitzungsprotokoll Bezug genommen. 
+				Gründe
+				I.Die Feststellungsklage ist sowohl mangels hinreichender Bestimmtheit als auch mangels Feststellungsinteresse unzulässig, worauf das Gericht im Rahmen der mündlichen Verhandlung hingewiesen hat.1.Zu Recht rügt die Beklagte, dass der Antrag des Klägers auf Feststellung einer Schadensersatzpflicht für Schäden, die aus der Manipulation des streitgegenständlichen Fahrzeugs durch die Beklagte resultieren, nicht hinreichend bestimmt im Sinne des § 253 ZPO ist (so auch OLG Köln, Urteil vom 27.8.2020 - 12 U 174/19 - juris Rn. 54 m. w. N.). Der Begriff "Manipulation" hat bereits keinen eindeutigen Inhalt.2.Ungeachtet dessen fehlt für einen Antrag auf Feststellung einer Schadensersatzpflicht der Beklagten das nach § 256 Abs. 1 ZPO erforderliche Feststellungsinteresse (vgl. bereits BGH, Urteil vom 30. Juli 2020 - VI ZR 397/19 - juris Rn. 28 f.; OLG München, Urteil vom 10.08.2020 - 21 U 2719/19 - juris Rn. 41 ff.; OLG Köln, Urteil vom 10. März 2020 - 4 U 204/19 - juris Rn. 144 und OLG Köln, Urteil vom 27.8.2020 - 12 U 174/19 - juris Rn. 55 ff. m. w. N.).Es greift der Vorrang der Leistungsklage ein. Das Feststellungsinteresse ist auch nicht deshalb zu bejahen, weil zu erwarten wäre, dass die Beklagte auf ein Feststellungsurteil leisten wird.a.Ist dem Kläger eine Klage auf Leistung möglich und zumutbar und erschöpft sie das Rechtsschutzziel, fehlt ihm nach der ständigen Rechtsprechung des Bundesgerichtshofs das Feststellungsinteresse, weil er im Sinne einer besseren Rechtsschutzmöglichkeit den Streitstoff in einem Prozess klären kann. Die auf Feststellung des Anspruchsgrundes gerichtete Feststellungsklage ist dann unzulässig (BGH, Versäumnisurteil vom 21. Februar 2017 - XI ZR 467/15 - juris Rn. 14).Allerdings ist ein Kläger grundsätzlich nicht gehalten ist, seine Klage in eine Leistungs- und in eine Feststellungsklage aufzuspalten, wenn bei Klageerhebung ein Teil des Schadens schon entstanden, die Entstehung weiteren Schadens aber noch zu erwarten ist. Denn es besteht keine allgemeine Subsidiarität der Feststellungsklage gegenüber der Leistungsklage. Vielmehr ist eine Feststellungsklage trotz der Möglichkeit, Leistungsklage zu erheben, zulässig, wenn die Durchführung des Feststellungsverfahrens unter dem Gesichtspunkt der Prozesswirtschaftlichkeit zu einer sinnvollen und sachgemäßen Erledigung der aufgetretenen Streitpunkte führt. Dementsprechend kann ein Kläger nach ständiger Rechtsprechung des Bundesgerichtshofs dann, wenn eine Schadensentwicklung noch nicht abgeschlossen ist, in vollem Umfang Feststellung der Ersatzpflicht begehren (zum Ganzen BGH, Urteil vom 19. April 2016 - VI ZR 506/14 - juris Rn. 6 m.w.N.)Bei reinen Vermögensschäden - wie hier - hängt die Zulässigkeit einer Feststellungsklage dann von der Wahrscheinlichkeit eines auf die Verletzungshandlung zurückzuführenden Schadenseintritts ab (st. Rspr.; vgl. etwa BGH, Urteil vom 26. Juli 2018 - I ZR 274/16 - juris Rn. 20, juris).Ausreichend ist, dass nach der Lebenserfahrung und dem gewöhnlichen Verlauf der Dinge mit hinreichender Wahrscheinlichkeit ein erst künftig aus dem Rechtsverhältnis erwachsender Schaden angenommen werden kann. Dagegen besteht ein Feststellungsinteresse (§ 256 Abs. 1 ZPO) für einen künftigen Anspruch auf Ersatz eines allgemeinen Vermögensschadens regelmäßig dann nicht, wenn der Eintritt irgendeines Schadens noch ungewiss ist (BGH, Urteil vom 10. Juli 2014 - IX ZR 197/12 - juris Rn. 11 m.w.N.). Der Kläger als Anspruchsteller trägt die Darlegungs- und Beweislast für die Tatsachen, aus denen sich die Wahrscheinlichkeit eines auf die Verletzungshandlung zurückzuführenden Schadens ergibt (st. Rspr.; vgl. BGH, Urteil vom 30. Juli 2020 - VI ZR 397/19 - juris Rn. 29).b.In Anwendung dieser Grundsätze ist das erforderliche Feststellungsinteresse des Klägers zu verneinen. Der Kläger hat nicht schlüssig dargetan, dass der Eintritt künftiger, im Zeitpunkt der Klageerhebung im September 2020 ersatzfähiger und noch nicht bezifferbarer Schäden mit hinreichender Wahrscheinlichkeit anzunehmen ist. Der Kläger macht geltend, die Beklagte habe ihn durch das Inverkehrbringen des streitgegenständlichen Fahrzeugs mit einer unzulässigen Abschalteinrichtung ("Manipulation") sittenwidrig geschädigt. Der Schaden ist bei den sog. Dieselfällen in dem Abschluss des Kaufvertrags über das bemakelte Fahrzeug zu sehen (vgl. BGH, Urteil vom 25.05.2020 - VI ZR 252/19 - juris Rn. 44 ff.). Den durch die Eingehung des Kaufvertrages entstandenen Schaden konnte der Kläger bei Einreichung der Klage im September 2020 beziffern (vgl. BGH, Urteil vom 30. Juli 2020 - VI ZR 397/19 - juris Rn. 29). Unter Zugrundelegung des klägerischen Sachvortrags war im Zeitpunkt der Klageerhebung am 3. September 2020 nach der Lebenserfahrung und dem gewöhnlichen Verlauf der Dinge nicht mit hinreichender Wahrscheinlichkeit anzunehmen, dass ihm aufgrund der behaupteten schädigenden Handlung der Beklagten ein weiterer ersatzfähiger Vermögensschaden künftig entstehen wird. Die geltend gemachten möglichen künftigen Schäden sind entweder völlig ungewiss oder nicht ersatzfähig. Im Einzelnen gilt folgendes:(1)Soweit der Kläger sich auf etwaige Steuernachteile beruft, hat er nicht nachvollziehbar vorgetragen, dass die behaupteten Steuernachforderungen hinreichend wahrscheinlich sind.Die Bemessungsgrundlage nach § 9 Kraftfahrzeugsteuergesetz ist neben dem Hubraum der CO²-Ausstoß. Der Kläger hat nicht dargetan, dass durch die behaupteten Manipulationen der CO²-Ausstoß maßgeblich betroffen ist.Es ist auch nicht schlüssig dargelegt, dass mit einer gewissen Wahrscheinlichkeit bei Einreichung der Klage im September 2020 mit einer Änderung der für die Steuer maßgeblichen Klassifizierung durch die Zulassungsbehörde (§ 2 Abs. 2 Nr. 2 Kraftfahrzeugsteuergesetz) zu rechnen gewesen sei.Der Vortrag des Klägers, dass ein Erlöschen der Typengenehmigung in der ursprünglich erteilten Form zu einer (rückwirkenden) Neubemessung der Besteuerung führen werde, entbehrt jeglicher Tatsachengrundlage. Unabhängig von der Frage der rechtlichen Zulässigkeit einer rückwirkenden Neubemessung der Besteuerung aufgrund der Modifizierung der Genehmigung, besteht keine Wahrscheinlichkeit dafür, dass es nach der Erfüllung der Nebenbestimmungen durch das Aufspielen des freigegebenen Software-Updates zu Steuernachforderungen gegenüber den Fahrzeugeigentümern kommen wird (vgl. OLG München, Urteil vom 10.08.2020 - 21 U 2719/19 - juris Rn. 52; OLG Köln, Urteil vom 27.8.2020 - 12 U 174/19 - juris Rn. 61).Im Übrigen ist weder vorgetragen worden noch ersichtlich, dass im Zusammenhang mit dem VW-Abgasskandal die Anordnung von Nebenbestimmungen durch das KBA mit Bescheid vom 15.10.2015 gegenüber dem Hersteller jemals zu Steuernachforderungen gegenüber Eigentümern von Fahrzeugen, auf die sich der Bescheid vom 15.10.2015 bezog, geführt hat.Schließlich hilft auch der der Hinweis des Klägers auf Ermittlungen der Staatsanwaltschaft Braunschweig gegen mehrere Beschuldigte wegen Steuerhinterziehung in diesem Zusammenhang nicht weiter. Soweit ersichtlich richtet sich das Ermittlungsverfahren gegen Verantwortliche der XXX. Aus Ermittlungen gegen Verantwortliche der XXX wegen Steuerhinterziehung lässt sich indes nicht schließen, dass eine Steuernachforderung gegenüber den vom Abgasskandal betroffenen Fahrzeugeigentümern droht (so auch OLG München, Urteil vom 10.08.2020 - 21 U 2719/19 - juris Rn. 52; OLG Köln, Urteil vom 27.8.2020 - 12 U 174/19 - juris Rn. 62.(2)Auch etwaige künftige Auf- und Verwendungen für das streitgegenständliche Fahrzeug (wie z.B. Inspektionskosten, erforderliche Reparaturen) vermögen ein Feststellungsinteresse nicht zu begründen (vgl. BGH, Urteil vom 30. Juli 2020 - VI ZR 397/19 - juris Rn. 29; OLG Köln, Urteil vom 27.8.2020 - 12 U 174/19 - juris Rn. 63. m. w. N.). Denn es ist nicht schlüssig dargetan, dass diese Kosten einen ersatzfähigen Schaden gegenüber der Beklagten darstellen. Aufwendungen, die zu den gewöhnlichen Unterhaltungskosten zählen, sind unter den im Streitfall gegebenen Umständen nicht ersatzfähig (vgl. BGH, Urteil vom 30. Juli 2020 - VI ZR 354/19 - juris Rn. 24). Da der Kläger das Fahrzeug wie vorgesehen genutzt hat, handelt es sich insoweit nicht um vergebliche Aufwendungen. Die Entstehung künftiger Auf- und Verwendungen für das streitgegenständliche Fahrzeug beruht auf der eigenverantwortlichen Entscheidung des Klägers, dieses nach Klageerhebung weiter zu nutzen und nicht auf der behaupteten Täuschungshandlung der Beklagten durch das Inverkehrbringen eines Fahrzeugs mit einer unzulässigen Abschalteinrichtung. Es ist weder erkennbar noch vorgetragen, dass die (weitere) Benutzung des Fahrzeugs nach Klageeinreichung durch das haftungsbegründende Ereignis herausgefordert oder wesentlich mitbestimmt worden ist bzw. in Zukunft herausgefordert oder wesentlich mitbestimmt wird. Für einen (künftigen) Erhaltungsaufwand allein durch die bloße Aufbewahrung des Wagens ist gleichfalls nichts dargetan (vgl. zum Ganzen BGH, Urteil vom 30. Juli 2020 - VI ZR 354/19 - jurs Rn. 24; OLG Köln, Urteil vom 27.8.2020 - 12 U 174/19 - juris Rn. 63).(3)Soweit der Kläger pauschal behauptet, es seien künftige Schäden durch ein weiteres Vorgehen der Zulassungsbehörde zu erwarten, das Risiko einer Stilllegung sei durch das Update nicht gebannt, genügt er mit diesem Vortrag seiner Darlegungslast in Bezug auf konkrete Tatsachen nicht. Das Update wurde vom KBA unstreitig ausdrücklich freigegeben. Für ein weiteres Vorgehen der Zulassungsbehörde in Bezug auf das aufgespielte Update fehlen jegliche belastbaren Anhaltspunkte. Auch der Eintritt eines Schadens in Bezug auf das Update ist ungewiss und reicht deshalb nach den oben dargestellten Grundsätzen zur Begründung eines Feststellungsinteresses nicht aus (vgl. BGH, Urteil vom 30. Juli 2020 - VI ZR 397/19 - juris Rn. 29, juris; OLG München, Urteil vom 10.08.2020 - 21 U 1719/19 - juris Rn. 53; OLG Köln, Urteil vom 27.8.2020 - 12 U 174/19 - juris Rn. 64).(4)Entsprechendes gilt, soweit der Kläger pauschal behauptet, im Fall des Verkaufs etwaigen Regressansprüchen des Nachkäufers ausgesetzt zu sein. Es ist bereits nicht ersichtlich, warum der Weiterverkauf unter dem Menetekel der Nichtigkeit stehen soll.(5)Dem Vorrang einer Leistungsklage steht schließlich nicht entgegen, dass bei Klageerhebung noch nicht die Höhe eines im Zeitpunkt des Schlusses der mündlichen Verhandlung im Wege des Vorteilsausgleichs in Abzug zu bringenden Nutzungsersatzes feststand. Bei dem Abzug des Nutzungsersatzes handelt es sich nicht um einen künftigen Schaden, sondern um eine Reduzierung des entstandenen Schadens. Dieser kann prozessual durch eine teilweise Erledigungserklärung ohne Kostenrisiko des Klägers begegnet werden (vgl. BGH, Urteil vom 30. Juli 2020 - VI ZR 354/19 - juris Rn. 15). Ein Feststellungsbegehren ist insofern nicht erforderlich.c.Das Feststellungsinteresse ist auch nicht deshalb zu bejahen, weil davon auszugehen ist, dass die Durchführung des Feststellungsverfahrens unter dem Gesichtspunkt der Prozesswirtschaftlichkeit zu einer sinnvollen und sachgemäßen Erledigung der aufgetretenen Streitpunkte führt (vgl. OLG Köln, Urteil vom 06. Juni 2019 - 24 U 5/19 - juris Rn. 25; OLG Köln, Urteil vom 27.8.2020 - 12 U 174/19 - juris Rn. 67.). Es kann offenbleiben, ob die Beklagte einem Versicherungsunternehmen gleichzustellen ist. Da die Beklagte auch die Höhe eines etwaigen Anspruchs bestreitet, besteht kein Anlass anzunehmen, dass sie auf ein Feststellungsurteil den vom Kläger für angemessen gehaltenen Schadensersatz leisten würde. Zwischen den Parteien ist die Berechnung eines abzuziehenden Nutzungsersatzes streitig. Diese Streitpunkte würden durch die begehrte Feststellung nicht geklärt. Es bedürfte eines weiteren gerichtlichen Verfahrens zur Klärung dieser Streitpunkte.Danach ist die Feststellungsklage des Klägers als unzulässig abzuweisen.II.Die prozessualen Nebenentscheidungen beruhen auf §§ 91 Abs. 1, 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2386079.html (https://oj.is/2386079)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

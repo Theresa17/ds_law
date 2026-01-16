@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG KölnRechtsprechungUrteil vom 26.01.2018 - 23 O 131/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Köln, Urteil vom 26.01.2018 - 23 O 131/17
+                      m. Fundstelle
+                      LG Köln, Urteil vom 26.01.2018 - 23 O 131/17 = openJur 2019, 11368
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Köln, Urteil vom 26.01.2018 - 23 O 131/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 11368
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagten werden verurteilt, dem Kläger einen Betrag bezüglich des Fahrzeugs VW Polo, FIN: ...#, in Höhe von 2.747,50 EUR zu zahlen, nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 28.12.2017.Die Beklagten werden verurteilt, den Kläger von den außergerichtlichen Kosten der Rechtsverfolgung in Höhe von 334,75 EUR freizustellen.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits werden gegeneinander aufgehoben.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten um Rückabwicklungs- und Schadensersatzansprüche bezüglich eines Dieselfahrzeugs, das vom sog. Abgasskandal betroffen ist.Der Kläger erwarb mit Kaufvertrag vom 05.06.2015 (Anl. K1, Bl. 67 d. A.) zu einem Kaufpreis von 10.990 EUR bei der Beklagten zu 1) einen gebrauchten PKW des Typs VW, Polo Blue Motion 89g, 1,2 l TDI, 55 kw (75 PS), dessen Herstellerin die Beklagte zu 2) ist.Der in dem Fahrzeug verbaute Dieselmotor EA189 EU 5-Motor mit 1,2 Liter Hubraum ist von dem sog. Abgasskandal betroffen. Dem liegt zugrunde, dass die im Zusammenhang mit dem Motor verwendete Software zwei Betriebsmodi aufweist. Befindet sich das Fahrzeug auf einem Prüfstand, schaltet die Software in den NOxoptimierten Modus 1 (NEFZ = Neuer Europäischer Fahrzyklus), in dem eine hohe Abgasrückführung mit niedrigerem Stickoxidausstoß stattfindet. Dies hat zur Folge, dass bei der Prüfung des Fahrzeugs nach den gesetzlich vorgesehenen Maßgaben der Euro-5-Abgasnorm geringere Stickoxid-Emissionen gemessen werden und dementsprechend die Stickoxid-Grenzwerte im Laborbetrieb eingehalten werden. Im normalen Fahrbetrieb schaltet die Software auf den Modus 0, bei dem die Abgasrückführung geringer und der Stickoxidausstoß erhöht ist, so dass die gesetzlich vorgegebenen und im technischen Datenblatt aufgenommenen Abgaswerte überschritten werden.Das Kraftfahrtbundesamt (KBA) verpflichtete die Beklagte zu 2) nach Bekanntwerden der vorstehenden Manipulationen mit bestandskräftigem Bescheid, bei allen betroffenen Fahrzeugen die aus Sicht des KBA unzulässige Abschalteinrichtung zu entfernen und gab in der Folgezeit sukzessive Software-Updates für eine Vielzahl von Fahrzeug- und Motortypen frei. Das Fahrzeug des Klägers ist im Übrigen technisch sicher und fahrbereit, eine Beseitigung des Mangels ist bislang nicht erfolgt.In der Folgezeit wurde dem Kläger seitens der Beklagten angeboten, das durch das KBA freigegebene Software-Update aufzuspielen, wodurch das Fahrzeug nur noch im Modus 1 (Prüfmodus) betrieben werde.Der Kläger begehrt mit der Klage eine Minderung des Kaufpreises sowie Feststellung eines Schadensersatzes, der über eine Minderung hinausgeht, sowie die Freistellung von vorgerichtlichen Rechtsanwaltskosten.Der Kläger ist der Ansicht, das von ihm erworbene Kraftfahrzeug leide infolge der Manipulationssoftware unter einem Mangel. Er behauptet, es bestehe die Gefahr, dass das Fahrzeug seine Betriebserlaubnis verliere und nicht mehr zum Betrieb in Umweltzonen zugelassen werde. Auch die von den Beklagten vorgeschlagene Nachbesserung führe zu einem Leistungsverlust, einem erhöhten Kraftstoffverbrauch und erhöhten Schadstoffemissionen. Zudem werde der Wiederverkaufswert geringer sein. Er ist der Ansicht, der Mangel sei auch erheblich, weil neben den unmittelbaren Kosten für die Umrüstung auch der Aufwand für die Vorbereitung der technischen Umrüstung mitberücksichtigt werden müsse. Eine Frist zur Nacherfüllung sei für den Käufer unzumutbar, weil eine Nacherfüllung unangemessen viel Zeit in Anspruch nehme und nicht absehbar sei, welche technischen Auswirkungen sie habe. Die Beklagte zu 2) habe arglistig gehandelt. Aufgrund der Verflechtungen zwischen den Beklagten müsse sich die Beklagte zu 1) das arglistige Verhalten zurechnen lassen.Der Kläger hat zunächst in der Hauptsache die Feststellung beantragt, dass die Beklagten verpflichtet sind, Schadensersatz zu bezahlen für Schäden, die aus der Manipulation des Fahrzeugs durch die Beklagte zu 2) entstehen und dass dem Kläger gegen die Beklagte zu 1) ein Minderungsrecht aus dem geschlossenen Kaufvertrag zustehe. Mit Schriftsatz vom 12.12.2017 hat er die Anträge modifiziert.Der Kläger beantragt nunmehr,1. die Beklagten zu verurteilen, an ihn einen Betrag bezüglich des Fahrzeugs VW Polo, FIN: ...#, dessen Höhe in das Ermessen des Gerichts gestellt wird, jedoch mindestens 2.747,50 EUR betragen muss, zu zahlen, nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit;2. festzustellen, dass die Beklagten verpflichtet sind, dem Kläger weiteren Schadensersatz, der über den Minderungsbetrag hinausgeht, zu bezahlen für Schäden, die aus der Manipulation des Fahrzeugs VW Polo, FIN: ...# durch die Beklagte zu 2) resultieren;3. die Beklagten jeweils getrennt, nicht gesamtschuldnerisch zu verurteilen, den Kläger von den durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.461,32 EUR freizustellen.Die Beklagten beantragen,die Klage abzuweisen.Sie sind der Ansicht, dass ein Mangel des Fahrzeugs nicht vorliege. Eine Einschränkung der Leistung des Fahrzeugs bestehe nicht. Eine unzulässige Abschalteinrichtung sei nicht zum Einsatz gekommen. Das Fahrzeug verfüge über eine wirksame EG-Typengenehmigung. Der Mangel sei aufgrund des geringen Aufwandes der Mängelbeseitigung unerheblich und berechtige nicht zum Rücktritt. Sie behaupten, nach Aufspielen des Software-Updates seien die Motorleistung, der Kraftstoffverbrauch und die Schadstoffemissionen nicht nachteilig beeinträchtigt. Sie sind der Ansicht, der Kläger hätte eine Frist zur Nacherfüllung setzen müssen. Eine arglistige Täuschung der Beklagten sei nicht schlüssig dargelegt. Für einen Schadensersatzanspruch fehle es an einem hinreichend substantiiertem Schaden.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze und die zu den Akten gereichten Unterlagen Bezug genommen. 
+				Gründe
+				I.Die zulässige Klage ist teilweise begründet. Der Kläger hat gegen die Beklagten einen Anspruch auf Zahlung eines Betrags in Höhe von 2.747,50 EUR aus §§ 441 Abs. 1, Abs. 4, 437 Nr. 2, 434, 433 BGB. Darüber hinaus hat er einen Anspruch gegen die Beklagten auf Freistellung von vorgerichtlichen Rechtsanwaltskosten aus §§ 280 Abs. 1, 437 Nr. 3 BGB. Weitergehende Ansprüche bestehen unter keinem rechtlichen Gesichtspunkt.1. Der Kläger kann von den Beklagten aufgrund der in der Klageschrift erklärten Minderung Zahlung eines Betrags in Höhe von 2.747,50 EUR (20 % des Kaufpreises) verlangen.a. Die Haftung der Beklagten zu 1) als Verkäuferin des streitgegenständlichen Fahrzeugs folgt aus §§ 441 Abs. 1, Abs. 4, 437 Nr. 2, 434, 433 BGB.aa. Zwischen den Parteien besteht ein Kaufvertrag. Auch ein Mangel im Sinne des § 434 Abs. 1 S. 2 Nr. 2 BGB ist anzunehmen. Ein Fahrzeug, das eine Manipulationssoftware aufweist, mit der Folge, dass im realen Fahrbetrieb die gesetzlich vorgegebenen und im technischen Datenblatt aufgenommenen Abgaswerte überschritten werden, stellt jedenfalls eine negative Abweichung von der üblichen Beschaffenheit dar, welche der Käufer nach Art der Sache erwarten kann (so auch OLG Köln, Hinweisbeschluss vom 20. Dezember 2017 - 18 U 112/17; OLG Hamm, Beschluss vom 21. Juni 2016 - I-28 W 14/16 -, Rn. 28, juris; OLG Celle, Beschluss vom 30. Juni 2016 - 7 W 26/16 -, Rn. 6, juris; LG Hagen / Westfalen, Urteil vom 18. Oktober 2016 - 3 O 66/16 -, Rn. 24, juris, m. w. N.). Ein vernünftiger Durchschnittskäufer, der ein für den Verkehr zugelassenes Fahrzeug erwirbt, darf berechtigterweise erwarten, dass die rechtlichen Voraussetzungen der Zulassung erfüllt sind und die erforderlichen Erlaubnisse und Genehmigungen nicht durch Täuschung erwirkt wurden (OLG Köln, a.a.O.). Auch wenn sich der Käufer insofern im Zeitpunkt des Kaufs keine konkreten Vorstellungen über das Zulassungs- und Genehmigungsverfahren gemacht haben mag, so ist ein gesetzeskonformes Verhalten des Herstellers bei Zulassung des Fahrzeugs doch Bestandteil seines Erwartungshorizonts, weil andernfalls nicht nur die Betriebserlaubnis an sich gefährdet ist, sondern auch unabsehbare Folgen für den Verkehrs- und Wiederverkaufswert seines Fahrzeugs bestehen (OLG Köln, a.a.O.).bb. Auf die Erheblichkeit des Mangels, von der hier schon aufgrund der Entwicklungskosten für das Software-Update im zweistelligen Millionenbereich auszugehen ist (so auch LG München I, Urteil vom 14. April 2016 - 23 O 23033/15 -, Rn. 41, juris), kommt es nach § 441 Abs. 1 S. 2 BGB nicht an.cc. Der Minderung steht auch nicht entgegen, dass der Kläger keine Frist zur Nacherfüllung nach § 323 Abs. 1 BGB gesetzt hat. Denn es war dem Kläger unter Würdigung aller Umstände des Einzelfalls nicht zuzumuten, eine Frist zur Nacherfüllung zu setzen, so dass diese gem. § 440 S. 1, 3. Alt. BGB entbehrlich ist. Denn es besteht die begründete Befürchtung, dass die Beseitigung der Software bei der damit verbundenen dauerhaften Umstellung in den Prüfmodus nachteilige Auswirkungen auf Leistung, Verbrauch oder Schadstoffemissionen haben wird. Dies beruht auch und gerade auf der naheliegenden Überlegung, warum überhaupt verschiedene Betriebsmodi zur Anwendung gelangten, wenn von vornherein kein Konflikt zwischen günstigen Stickoxidwerten und anderen Parametern wie Leistung, Verbrauch oder sonstigen Schadstoffemissionen bestand (LG Krefeld, Urteil vom 14. September 2016 - 2 O 83/16 -, Rn. 29, juris). Es bestand insofern ein begründeter Mangelverdacht, welcher ausreicht, um das weitere Abwarten auf eine Nacherfüllung für den Käufer unzumutbar zu machen (so auch LG Krefeld, Urteil vom 14. September 2016 - 2 O 83/16 -, Rn. 29, juris; LG Dortmund, Urteil vom 29. September 2016 - 25 O 49/16 -, Rn. 29, juris). Hinzu kommt, dass bereits nach allgemeiner Lebenserfahrung bis heute nicht auszuließen ist, dass der Sachmangel einen merkantilen Minderwert verursacht, weil sich insbesondere die mit der Nachbesserung verbundenen Unsicherheiten, auch wenn diese seitens der Beklagten bestritten werden, in der Preisbildung des Gebrauchtwagenmarktes niederschlagen können (ähnlich LG Krefeld, Urteil vom 14. September 2016 - 2 O 83/16 -, Rn. 49, juris). Das Fahrzeug behält nicht zuletzt den Makel ein Fahrzeug zu sein, dass von dem sog. "Abgasskandal" betroffen war, zumal dieser Gegenstand breiter öffentlicher Wahrnehmung und Diskussion ist, einschließlich der Nachbesserungsversuche von Herstellerseite (so im Ergebnis OLG Hamm, Urteil vom 09. Februar 2012 - I-28 U 186/10 -, juris; LG Kempten BeckRS 2017, 106279). Schließlich ist dem Kläger eine Nachbesserung durch die Beklagte zu 1) auch deshalb unzumutbar, weil die zwischen den Parteien bestehende Vertrauensgrundlage beschädigt ist (hierzu BGH, NJW 2007, 835). Zur Durchführung der Nachbesserung müsste der Kläger sein Fahrzeug erneut in die Hände derjenigen geben, die bei Abschluss des Kaufvertrags eine Täuschungshandlung begangen hat. Zwar hat für die Nachbesserung formal der Verkäufer, hier also die Beklagte zu 1), einzustehen, allerdings erfolgt die Nachbesserung in technischer Hinsicht (allein) durch die Beklagte zu 2), welche das Softwareupdate entwickelt hat. Dass die Beklagte zu 2) sich nunmehr darauf beruft, dass eine Täuschungshandlung durch den Kläger nicht schlüssig dargelegt worden sei, obwohl die Manipulationen der Betriebsmodi, welche sie nunmehr als "Umschaltlogik" bezeichnet wissen will, durch den Konzern öffentlich eingeräumt wurden, mutet doch als sehr erstaunlich an. Gleiches gilt für den Umstand, dass die Beklagte zu 2) auf die formelle Bestandskraft solcher Genehmigungen verweist, die sie durch eine Softwaremanipulation erschwindelt hat (so auch LG Köln, Urteil vom 18. Juli 2017 - 22 O 59/17).dd. Der Minderungsbetrag bestimmt sich nach dem Satz, um den das Fahrzeug im Geschäftsleben als geringer wertig angesehen wird. Dieser Betrag ist nach § 441 Abs. 3 S. 2 BGB, § 287 ZPO zu schätzen. Der Minderungsbetrag lässt sich vorliegend weder nach der Proportionalmethode noch mit Hilfe der Reparaturkosten noch über eine Mehrbelastung des Käufers bestimmen, weil der Makel des Fahrzeugs, vom Abgasskandal betroffen zu sein, derartigen Berechnungen nicht zugänglich ist. Da sich der Makel jedoch prognostisch spürbar negativ auf den erzielbaren Verkaufspreis auswirken wird (so auch LG Kempten, Urteil vom 29. März 2017 - 13 O 808/16), erachtet das Gericht den vom dem Kläger benannten Minderwert von 20 % des Kaufpreises als angemessen.b. Die Haftung der Beklagten zu 2) als Herstellerin des streitgegenständlichen Fahrzeugs auf Zahlung eines Betrags in Höhe von 2.747,50 EUR folgt aus § 826 BGB i. V. m. §§ 249 ff. BGB. Der Beklagten zu 2) ist durch das Inverkehrbringen der manipulierten Fahrzeuge ein vorsätzliches sittenwidriges Verhalten anzulasten, das den Kläger geschädigt hat.aa. Ein Verhalten ist sittenwidrig, wenn es gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt (st. Rspr. vgl. BGH NJW 2014, 1098; NJW-RR 2013, 550; NJW 2009, 1346). In diese rechtliche Beurteilung ist einzubeziehen, ob es nach seinem aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter mit den guten Sitten nicht zu vereinbaren ist (NJW 2014, 1098; NJW-RR 2013, 550, jeweils m. w. N.). Die Beklagte zu 2) hat zur Steigerung ihres Umsatzes eine Manipulationssoftware entwickelt, durch welche gesetzliche Umweltschutzvorschriften ausgehebelt und zugleich ihre Kunden benachteiligt wurden. Sie hat dabei nicht einfach nur gesetzliche Abgaswerte außer Acht gelassen, sondern mit der Manipulationssoftware zugleich ein System zur planmäßigen Verschleierung ihres Vorgehens gegenüber den Aufsichtsbehörden und den Verbrauchern geschaffen, welches sich insgesamt als sittenwidriges Verhalten darstellt (vgl. LG Offenburg, Urteil vom 12. Mai 2017 - 6 O 119/16; so auch LG Hildesheim, Urteil vom 17. Januar 2017 - 3 O 139/16; LG Kleve, Urteil vom 31. März 2017 - 3 O 252/16; LG Arnsberg, Urteil vom 14. Juni 2017 - 1 O 227/16; LG Köln, Urteil vom 18. Juli 2017 - 22 O 59/17).bb. Unter Berücksichtigung der allgemeinen Lebenserfahrung ist auch davon auszugehen, dass die sittenwidrige Schädigung kausal für die Kaufentscheidung des Klägers war. Auch wenn im Verkaufsgespräch konkrete Äußerungen über die Umweltverträglichkeit nicht gefallen sein mögen, so ist ein gesetzeskonformes Verhalten des Herstellers bei Zulassung des Fahrzeugs doch Bestandteil des Erwartungshorizonts des Käufers, weil andernfalls nicht nur die Betriebserlaubnis an sich gefährdet ist, sondern auch unabsehbare Folgen für den Verkehrs- und Wiederverkaufswert seines Fahrzeugs bestehen (OLG Köln, Hinweisbeschluss vom 20. Dezember 2017 - 18 U 112/17).cc. Das sittenwidrige Verhalten ist der Beklagten zu 2) auch über § 31 BGB zurechenbar. Der Kläger hat eine solche Kenntnis hinreichend substantiiert vorgetragen. Dabei ist zu berücksichtigen, dass eine Kenntnis des Vorstandes oder einzelner Mitglieder bereits deshalb naheliegt, weil die mit der technischen Entwicklung beauftragten Stellen Berichtspflichten gegenüber dem Vorstand im Hinblick auf alle wesentlichen Entscheidungen treffen (so auch LG Köln, Urteil vom 18. Juli 2017 - 22 O 59/17; LG Offenburg, Urteil vom 12. Mai 2017 - 6 O 119/16; LG Hildesheim Urteil vom 17. Januar 2017 - 3 O 139/16; LG Kleve, Urteil vom 31. März 2017 - 3 O 252/16). Die Entwicklung einer Manipulationssoftware für ganze Motorenreihen in millionenfacher Ausführung stellt in technischer und wirtschaftlicher Hinsicht eine wesentliche, vom Vorstand zu treffende Entscheidung dar, die zudem alle Konzerntöchter europaweit betrifft (LG Köln, a.a.O.). Da der Kläger naturgemäß keine weiteren Einblicke in die innere Organisationsstruktur der Beklagten hat und seinem Vortrag demgemäß Grenzen gesetzt sind, liegt es im Rahmen einer sekundären Darlegungslast nun an der Beklagten, die für die Manipulation Verantwortlichen zu benennen und insofern auch darzulegen, inwiefern der Vorstand an den tragenden Entscheidungen beteiligt war (LG Köln, a.a.O., LG Offenburg, a.a.O.). Zwar ist der Beklagten zu 2) ein gewisser Zeitraum für Erkundigungen einzuräumen. Die internen Ermittlungsmaßnahmen dauern nunmehr jedoch zwei Jahre an, die in den jeweiligen Verantwortungs- und Organisationsbereichen handelnden Personen wurden jedoch bis heute nicht benannt. Dies hat zur Folge, dass der klägerische Vortrag gemäß § 138 Abs. 3 ZPO als zugestanden zu behandeln ist (ebenso: LG Köln, a.a.O.; LG Offenburg, a.a.O., LG Kleve, a.a.O., LG Hildesheim).dd. Dem Kläger ist durch den Erwerb des Fahrzeugs auch ein Schaden entstanden. Im Fall einer vorsätzlichen sittenwidrigen Schädigung dient der Schadensersatzanspruch nicht nur dem Ausgleich jeder nachteiligen Einwirkung durch das sittenwidrige Verhalten auf die objektive Vermögenslage des Geschädigten (BGH NJW-RR 2015, 275). Deshalb kann jemand auch bei objektiver Werthaltigkeit von Leistung und Gegenleistung dadurch einen Vermögensschaden erleiden, dass er durch ein haftungsbegründendes Verhalten zum Abschluss eines Vertrags gebracht worden ist, den er sonst nicht geschlossen hätte, und dass die Leistung für seine Zwecke nicht voll brauchbar ist (BGH, a.a.O.). Dies ist vorliegend anzunehmen. Ein mit einer Manipulationssoftware versehenes Fahrzeug, dessen Betriebserlaubnis unter Umgehung der Umweltschutzvorschriften durch den Hersteller erschlichen wurde, und das von einem deutschlandweiten Skandal betroffen war, mit unabsehbaren Folgen für den Verkehrs- und Wiederverkaufswert, stellt sich für seinen Käufer als nicht vollständig brauchbar dar. Der Kläger ist dabei aber nicht gehalten, unter Rückabwicklung des Vertrags Ersatz des negativen Interesses zu verlangen. Es steht ihm frei, den Vertrag bestehen zu lassen und den Ersatz der durch die unerlaubte Handlung entstandenen Nachteile zu verlangen. Dies kann hier auch der vom Kläger benannte Minderwert des Fahrzeugs sein, den das Gericht nach § 287 ZPO entsprechend des Klägervortrags mit 20 % des Kaufpreises schätzt.2. Der Kläger hat gegen die Beklagten zudem einen Anspruch auf Zinsen aus §§ 288, 291 BGB und auf Freistellung von den geltend gemachten vorgerichtlichen Rechtsanwaltskosten in Höhe von 334,75 EUR aus §§ 437 Nr. 3, 280 Abs. 1 BGB und aus § 826 BGB. Die geltend gemachten Rechtsverfolgungskosten entsprechen der Höhe nach einer 1,3 Geschäftsgebühr nebst Auslagenpauschale und Umsatzsteuer aus einem Gegenstandswert von bis 3.000 EUR.3. Soweit der Kläger darüber hinaus die Feststellung beansprucht, dass die Beklagten auch für einen über die Minderung hinausgehenden, weitergehenden Schaden aus oben genannten Gründen haften, fehlt es an einem Feststellungsinteresse nach § 256 Abs. 1 ZPO. Eine Feststellungsklage, mit der die Ersatzpflicht für reine Vermögensschäden festgestellt werden soll, ist nach ständiger Rechtsprechung des BGH nur zulässig, wenn zumindest eine hinreichende Wahrscheinlichkeit eines auf die Verletzungshandlung zurückzuführenden Schadenseintritts besteht (BGH, NJW 2015, 1683, Rn. 15; NJW 2006, 830, Rn. 27, m. w. N.). Daran fehlt es, wenn der Eintritt irgendeines Schadens noch ungewiss ist; der Kläger muss die Wahrscheinlichkeit eines Schadenseintritts substantiiert dartun (BGH, NJW 2015, 1683). Hieran fehlt es vorliegend. Welcher Schaden dem Kläger über die zuerkannte Minderung hinaus entstehen soll, hat dieser nicht dargetan. Insbesondere erscheinen durch die Minderung auch etwaige Nachteile bei Ermittlung des Fahrzeugs- und Wiederverkaufswert ausgeglichen.II.Die Kostenentscheidung beruht auf § 92 ZPO. Die Entscheidung zur vorläufigen Vollstreckbarkeit beruht auf § 709 S. 2 ZPO.III.Der Streitwert wird auf bis 6.000 (Antrag zu 1: 2.747,50 EUR; Antrag zu 2: bis 3.000 EUR) festgesetzt.Landgericht KölnBeschlussIn dem Rechtsstreitwird der Tatbestand des Urteils vom 26.01.2018 gem. § 320 ZPO wie folgt berichtigt:Die Worte "Rückabwicklungs- und" im ersten Satz des Tatbestandes werden gestrichen.Die weitergehenden Anträge werden zurückgewiesen.Gründe:Die Anträge der Parteien auf Tatbestandsberichtigung nach § 320 Abs. 1 ZPO sind nur teilweise begründet.Soweit im ersten Satz des Tatbestandes steht, der Kläger mache auch Rückabwicklungsansprüche geltend, deckt sich dies nicht mit dem Parteivorbringen. Insofern liegt eine Unrichtigkeit des Tatbestandes vor.Der Antrag des Klägers, die Ausführungen zum Bescheid des Kraftfahrtbundesamtes aus der Geschichtserzählung zu entfernen und in den streitigen Teil des Tatbestandes aufzunehmen, war zurückzuweisen. Die Existenz des Bescheids ergibt sich aus der von den Beklagten eingereichten Anlage und ist dem Gericht aus einer Vielzahl von Parallelverfahren bekannt. Das pauschale Bestreiten des Klägers war unbeachtlich.Der Antrag der Beklagten zu 2), die Formulierung zu gesetzlich vorgegebenen Grenzwerten zu streichen, war zurückzuweisen. Wie die Beklagten zutreffend ausführen, handelt es sich um eine rechtliche Bewertung, die als solche nicht an der Wirkung des § 314 ZPO teilhat. Dementsprechend fehlt es für einen Tatbestandsberichtigungsantrag an einem Rechtsschutzbedürfnis.Dieser Beschluss ist unanfechtbar (§§ 319 Abs. 3, 320 Abs. 4 S. 4 ZPO).Köln, 12.03.201823. Zivilkammer
+			
+			
+			
+			Permalink: https://openjur.de/u/2146367.html (https://oj.is/2146367)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate18
+				
+				
+					 Zitiert5
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

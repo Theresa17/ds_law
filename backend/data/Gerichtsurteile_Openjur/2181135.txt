@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG MünsterRechtsprechungUrteil vom 06.06.2018 - 12 O 313/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Münster, Urteil vom 06.06.2018 - 12 O 313/17
+                      m. Fundstelle
+                      LG Münster, Urteil vom 06.06.2018 - 12 O 313/17 = openJur 2019, 31438
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Münster, Urteil vom 06.06.2018 - 12 O 313/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 31438
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Beklagte wird verurteilt,1.an den Kläger 22.626,41 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 20.08.2016 zu zahlen, Zug um Zug gegen Herausgabe und Übereignung des Pkw VW Touran 2,0 l TDI, FIN ...#,2.den Kläger von den vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.242,84 Euro freizustellen.Es wird festgestellt, dass sich die Beklagte mit der Rücknahme des o.g. Fahrzeugs in Annahmeverzug befindet.Im Übrigen wird die Klage abgewiesen.Die Kosten des Rechtsstreits tragen die Beklagte zu 77 % und der Kläger zu 23 %.Das Urteil ist vorläufig vollstreckbar, jedoch für den Kläger nur gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages.Von dem Kläger kann die Zwangsvollstreckung der Beklagten durch Sicherheitsleistung in Höhe von 110 % des aufgrund des Urteils insgesamt vollstreckbaren Betrages abgewendet werden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110 % des jeweils zu vollstreckenden Betrages leistet. 
+				Tatbestand
+				Der Kläger nimmt die Beklagte auf Rückabwicklung eines Pkw-Kaufs in Anspruch.Der Kläger erwarb am 15.03.2014 bei der Beklagten einen neuen VW Touran 2,0 TDI für 29.183,19 Euro. Das Fahrzeug hat einen Dieselmotor des Typs EA 189, der vom sogenannten Abgasskandal betroffen ist.Die Dieselmotoren des genannten Typs verfügen über eine Motorsteuerung mit zwei verschiedenen Betriebsmodi. Im Modus 1 kommt es zu einer höheren Abgasrückführungsrate und dadurch zu einem geringeren Stickstoffausstoß. Der Modus 0 dagegen hat eine geringere Abgasrückführungsrate, wodurch mehr Emissionen produziert werden. Zudem verfügt der Motor über eine Software, die erkennt, ob das Fahrzeug gerade auf die Emissionswerte getestet wird oder ob es sich im normalen Straßenverkehr befindet. Erkennt die Software einen solchen Testlauf, schaltet sie den Motor automatisch in den Modus 1, welcher zu besseren Emissionswerten führt. Beim alltäglichen Betrieb auf der Straße läuft der Motor jedoch im Modus 0, wodurch mehr Abgase nach außen abgegeben werden. Durch den Testlauf im Modus 1 erfüllen die Fahrzeuge die in der EG-Verordnung vorgeschriebenen Grenzwerte. Im normalen Straßenbetrieb ist das jedoch nicht der Fall.Im September 2014 wurde diese Technik als sogenannter Abgasskandal öffentlich. Das Kraftfahrtbundesamt verpflichtete danach die Beklagte, die Software aus den betroffenen Fahrzeugen zu entfernen und Abhilfe durch geeignete technische Lösungen zu schaffen. Diese entwickelte daraufhin ein Software-Update, welches dafür sorgt, dass die Fahrzeuge dauerhaft im Modus 1 fahren. Dadurch sollen nach Angaben der Beklagten die Grenzwerte der Verordnung eingehalten werden. Das Update wird auf Kosten der Beklagten bei deren Partnerwerkstätten eingebaut. Der Kläger hat sich bisher dafür entschieden, das Update noch nicht aufspielen zu lassen.Die Beklagte hat nach Entdeckung dieses Skandals angegeben, eine interne Untersuchung einzuleiten, um Erkenntnisse darüber zu gewinnen, welche Personen für die Manipulation verantwortlich waren und wer davon Kenntnis hatte.Mit anwaltlichem Schreiben vom 05.08.2016, auf das wegen der Einzelheiten verwiesen wird (Anlage K 2, Bl. 61 ff. d.A.), hat der Kläger den Kaufvertrag wegen arglistiger Täuschung angefochten, hilfsweise den Rücktritt vom Kaufvertrag wegen Unzumutbarkeit einer Nacherfüllung im Sinne des § 440 BGB erklärt und Rückabwicklung des Kaufvertrages bis zum 19.08.2016 verlangt. Da die Beklagte sich darauf nicht eingelassen hat, verfolgt der Kläger sein Begehren im vorliegenden Verfahren weiter.Er ist der Ansicht, durch die von der Beklagten manipulierte Abgastechnik arglistig getäuscht worden zu sein, so dass ihm nach Anfechtung des Kaufvertrages ein Anspruch aus ungerechtfertigter Bereicherung gegen die Beklagte zustehe. Darüber hinaus sei das Fahrzeug mangelhaft, so dass er zu Recht vom Kaufvertrag zurückgetreten sei. Ein Anspruch ergebe sich ferner als Schadensersatz aus § 280 und § 311 BGB sowie aus dem Gesichtspunkt der unerlaubten Handlung gemäß §§ 826, 823 Abs. 2, 831 und 7, 18 StVG.Er behauptet, die von der Beklagten angebotene Nachrüstung durch ein Software-Update sei nicht geeignet, die Mangelhaftigkeit des Fahrzeugs zu beseitigen. Es sei zu befürchten, dass infolge des Updates ein erhöhter Verbrauch oder sogar Schäden eintreten könnten. Deshalb sei eine Nachfristsetzung zur Mangelbeseitigung unzumutbar und entbehrlich.Der Kläger beantragt,1.die Beklagte zu verurteilen, an ihn 29.518,79 Euro nebst Zinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit dem 10.08.2016 zu bezahlen, Zugum-Zug gegen Übereignung und Herausgabe des PKW VW Touran 2,0 I TDI, FIN: ...# und Zugum-Zug gegen Zahlung einer von der Beklagten noch darzulegenden Nutzungsentschädigung für die Nutzung des PKW VW Touran 2,0 I TDI, FIN: ...#,2.die Beklagte zu verurteilen, an ihn Zinsen in Höhe von 4 % aus 29.518,79 Euro seit dem 16.05.2014 bis zum 10.08.2016 zu bezahlen,3.festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag Ziffer 1. genannten PKW im Annahmeverzug befindet,4.die Beklagte zu verurteilen, ihn von den durch die Beauftragung der Prozessbevollmächtigten der Klagepartei entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 2.077,74 Euro freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Sie ist der Ansicht, dem Kläger stünde kein Anspruch auf Rückabwicklung des Kaufvertrags zu. Die Voraussetzungen für eine Anfechtung, einen Rücktritt oder die Geltendmachung von Schadensersatz seien nicht erfüllt. Es liege weder eine Täuschung durch ihre Mitarbeiter, noch ein Mangel des Fahrzeugs, noch eine vorsätzliche sittenwidrige Schädigung vor.Im Übrigen habe der Kläger keine wirksame Frist zur Nachbesserung gesetzt und die Mangelbeseitigung durch das Software-Update, was ihm angeboten worden sei, nicht wahrgenommen.Sie behauptet, dieses Software-Update sei in der Lage, die Abgasproblematik in Ordnung zu bringen, und habe auch keinerlei Nachteile für den Kläger.Hilfsweise beruft sich die Beklagte darauf, dass er sich einen Nutzungsersatz für die gefahrenen Kilometer anrechnen lassen müsse.Wegen der weiteren Einzelheiten des Parteivorbringens wird auf vorgetragenen Inhalt der gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die Klage ist zulässig und in dem aus dem Tenor ersichtlichen Umfang begründet, im Übrigen unbegründet.Der Kläger hat einen Anspruch auf Rückabwicklung des Kaufvertrages über den streitgegenständlichen VW Touran sowohl aus dem Gesichtspunkt der ungerechtfertigten Bereicherung gemäß § 812 BGB wegen erfolgreicher Anfechtung des Kaufvertrages, als auch unter dem Gesichtspunkt der Gewährleistung gemäß §§ 434, 437 Nr. 2, 440, 323, 346 BGB.Der Kläger hat zurecht den Kaufvertrag wegen arglistiger Täuschung gemäß § 123 BGB angefochten, da an seinem Fahrzeug, das er von der Beklagten erworben hat, eine illegale Manipulationssoftware eingebaut ist mit der Folge, dass die nach der EG-Verordnung einzuhaltenden Abgas - Grenzwerte im Echtbetrieb nicht eingehalten werden. Dadurch ist der Kläger als Käufer getäuscht und zum Vertragsschluss veranlasst worden.Es kann auch nach Auffassung der Kammer nicht zweifelhaft sein, dass das Fahrzeug aufgrund der illegalen Abgasmanipulationseinrichtung, die nur bei der Abgaskontrolle auf dem Prüfstand eine Einhaltung der gesetzlichen Abgasgrenzwerte einhält, während dies im normalen Fahrbetrieb nicht der Fall ist, mit einem Mangel im Sinne des § 434 BGB behaftet ist.Das danach aufgrund der Mangelhaftigkeit des Fahrzeugs grundsätzlich mögliche Rücktrittsrecht des Klägers als Käufer wird nicht dadurch ausgeschlossen, dass er der Beklagten bisher keine Frist zur Nachbesserung gesetzt und das Angebot des kostenlosen Updates durch eine Fachwerkstatt noch nicht wahrgenommen hat. Diese Nachbesserung ist nach Auffassung der Kammer nicht geeignet, den eingetretenen Mangel und den Minderwert des Fahrzeugs wieder auszugleichen.Zwar geht das Gericht davon aus, dass die meisten Kunden schon im eigenen Interesse das Angebot wahrnehmen, die neue Software aufspielen zu lassen, um nicht demnächst Gefahr zu laufen, die Zulassung durch das Kraftfahrtbundesamt zu verlieren, die mit dieser neuen Software verbunden ist.Gleichwohl ändert auch diese Nachrüstung nichts daran, dass der Wagen durch die "Schummel-Software" mangelbehaftet ist und einen spürbaren Wertverlust erlitten hat.Diese Nachrüstungsmöglichkeit durch das Update wird nach Auffassung der Kammer seitens der Beklagten stark bagatellisiert. Man fragt sich als Verbraucher zu Recht, warum überhaupt eine komplizierte Abschalteinrichtung konstruiert und eingebaut worden ist, wenn es doch angeblich auf einfache andere Art möglich ist, die gesetzlichen Abgasgrenzwerte, insbesondere hier bezüglich der Stickoxyde, einzuhalten. Es ist nach den bisherigen Erfahrungen, wie sie aus den einschlägigen Veröffentlichungen ersichtlich sind, noch keinesfalls sicher, dass die Probleme mit dem Software-Update auf jeden Fall gelöst werden können. Sowohl aus den von Klägerseite eingereichten Unterlagen, als auch aus den Presseberichten und Fachzeitschriften ist zu entnehmen, dass die Erfahrungen der Fahrzeugbesitzer nach dem Software-Update durchaus unterschiedlich ausfallen. Sie reichen von Zufriedenheit bis Unzufriedenheit. Zum Teil wird von Leistungsverlusten, höherem Kraftstoffverbrauch, unruhigerem Motorenlauf etc. berichtet. Deshalb sind die Erfahrungen in den nächsten Jahren abzuwarten. Möglicherweise hilft die weitere technische Entwicklung, das Problem vollkommen in den Griff zu bekommen. Jedenfalls ist das bisher nach Überzeugung der Kammer nicht der Fall. Auch der ADAC geht davon aus, dass das Software-Update unzureichend ist und hat verschiedene Nachrüstmöglichkeiten hinsichtlich der Hardware mit einem Kostenaufwand von 1.500,- bis 3.000,- Euro pro Fahrzeug entwickeln lassen, die zu einer besseren Lösung des Problems führen sollen. Solche Nachrüstmöglichkeiten werden bisher von der Beklagten aber nicht angeboten und zur Verfügung gestellt, so dass ein weiteres Abwarten und eine Fristsetzung zur Nachbesserung für die Kunden wie den Kläger unzumutbar ist im Sinne des § 440 BGB.Im Übrigen führt schon allein der Abgasskandal und die Ungewissheit, wie möglicherweise eine effektive Nachrüstung erfolgen kann, dazu, dass die Fahrzeuge aus dem VW Konzern, die mit dem Dieselmotor der Baureihe EA 189 ausgestattet sind, bei der Beurteilung des Verkehrswertes eine deutliche Einschränkung erfahren haben. Auch ohne Einholung eines Sachverständigengutachtens ist die Kammer überzeugt, dass der Kläger, wenn er dieses Fahrzeug sowohl im gewerblichen, als auch im privaten Handel anbietet, deutlich weniger an Kaufpreis erwarten kann, als wenn es sich um ein solches ohne manipuliertes Abgassystem handelt. Die Höhe des Wertverlustes dürfte im Bereich von 10 bis 15 % des Kaufpreises anzusiedeln sein.Von dem demnach zurückzuzahlenden Kaufpreis muss sich der Kläger allerdings einen Abzug für die gezogenen Nutzungen während der letzten Jahre anrechnen lassen. Nach den glaubhaften Angaben im Termin hatte der Wagen bis zum Tag davor einen Kilometerstand von 67.363 und war am Terminstag weitere ca. 40 Kilometer gefahren, so dass von 67.403 Kilometer auszugehen ist. Nach der üblichen Formel Kaufpreis x gefahrene Kilometer geteilt durch die zu erwartende Gesamtlaufleistung errechnet sich ein Betrag für die Nutzungen von 6.556,78 Euro. Zieht man diesen Betrag von dem gezahlten Kaufpreis von 29.183,19 Euro ab, verbleibt ein zurückzuzahlender Betrag von 22.626,41 Euro.Die Kammer ist von einer erwarteten Gesamtlaufleistung von 300.000 Kilometern ausgegangen, da ein Touran mit Zwei-Liter-Dieselmotor erfahrungsgemäß robust und langlebig ist, so dass diese Laufleistung ohne weiteres erwartet werden kann.Der Zinsanspruch rechtfertigt sich für die Zeit ab Ablauf der Fristsetzung (20.08.2016) aus dem Gesichtspunkt des Verzuges gemäß §§ 286, 288 Abs. 1 BGB.Andererseits hat der Kläger keinen Anspruch entsprechend dem Klageantrag zu 2. auf Verzinsung des Kaufpreises ab Zahlung, da er für den gezahlten Kaufpreis einen Gegenwert, nämlich das Fahrzeug, erhalten und die gesamte Zeit über auch genutzt hat. Die Nutzung war auch in keiner Weise eingeschränkt, so dass die Voraussetzungen des § 849 BGB nicht erfüllt sind.Dem Grunde nach berechtigt ist der Anspruch des Klägers auf Ersatz der vorgerichtlichen Anwaltskosten, da die Einschaltung eines Anwalts in der Situation berechtigt und erforderlich war.Der Höhe nach war jedoch die Forderung zu kürzen. Es ist nur eine Geschäftsgebühr von 1,3 statt 2,0 berechtigt, da die Prozessbevollmächtigten des Klägers in einer unüberschaubaren Vielzahl von Fällen für ihre Mandanten gleichartige Schreiben verfasst haben, wobei nur wenig hinsichtlich des speziellen Einzelfalls differenziert wurde. Außerdem war der Gegenstandswert zu reduzieren, da von vornherein klar war, dass sich der Kläger die gezogenen Nutzungen, die man auch selbst hätte leicht ausrechnen können, auf den zurückzuverlangenden Kaufpreis anrechnen lassen musste.Der Feststellungsantrag bezüglich des Annahmeverzuges ist zulässig und begründet. Der Kläger hat mit dem anwaltlichen Schreiben vom 05.08.2016 nicht nur die Rückabwicklung des Kaufvertrages bis zum 19.08.2016 geltend gemacht, sondern zugleich auch ausdrücklich das betroffene Fahrzeug der Beklagten angeboten. In der konkreten Situation reichte dieses wörtliche Angebot aus, um die Beklagte in Annahmeverzug zu setzen.Die Kostenentscheidung beruht auf § 92 Abs. 1 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf §§ 708 Nr. 11, 709, 711 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2181135.html (https://oj.is/2181135)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

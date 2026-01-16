@@ -1,0 +1,135 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBaden-WürttembergOrdentliche GerichtsbarkeitOLG KarlsruheRechtsprechungBeschluss vom 22.08.2019 - 17 U 257/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Karlsruhe, Beschluss vom 22.08.2019 - 17 U 257/18
+                      m. Fundstelle
+                      OLG Karlsruhe, Beschluss vom 22.08.2019 - 17 U 257/18 = openJur 2020, 81538
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Karlsruhe, Beschluss vom 22.08.2019 - 17 U 257/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 81538
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				1. Der objektive und subjektive Tatbestand des § 826 BGB kann durch die Entscheidung des (Entwicklungs-)Vorstands der beklagten Konzernmutter, unzulässige Abschaltvorrichtungen markenübergreifend in einen 3,0l-Motor der von Konzernunternehmen hergestellten Fahrzeuge zu implementieren, verwirklicht werden.2. Zu den Anforderungen an den Vortrag der Kläger zur Implementierung unzulässiger Abschaltvorrichtungen (Rollenprüfstandserkennung, Thermofenster) und zur Darlegungs- und Beweislast.3. Aus der konkreten objektiven Ausgestaltung eines Thermofensters können sich gegebenenfalls Rückschlüsse auf den Tatbestand des § 826 BGB ergeben. 
+				
+				  
+				Gründe
+				1. Der Senat weist im Nachgang zur mündlichen Verhandlung auf folgende Punkte hin:a) Was die Passivlegitimation der Beklagten angeht, so verbleibt es bei den Ausführungen des Senats aus der mündlichen Verhandlung vom 2. Juli 2019. Der Kläger hat den objektiven und subjektiven Tatbestand des § 826 BGB – Entscheidung des (Entwicklungs-)Vorstands der Beklagten, die unzulässige(n) Abschaltvorrichtung(en) markenübergreifend auch in den streitgegenständlichen 3,0l-Motor zu implementieren (vgl. II 24f., 31f., dazu unten 2.) – schlüssig behauptet, ohne dass die Beklagte dem erheblich entgegengetreten wäre.Insbesondere die Behauptungen, die Beklagte sei weder Herstellerin des Motors noch des Kraftfahrzeugs, sie habe das Fahrzeug nicht in den Verkehr gebracht oder die EG-Typengenehmigung beantragt und es fehle an einer "irgendwie gearteten Einwirkung der Beklagten auf das Vorstellungsbild des Klägers", sind vor diesem Hintergrund ebenso unbehelflich wie der Verweis auf eine "Vielzahl von weiteren Umständen", die zwischen der Vorstandsentscheidung und dem Kauf des PKWs lägen (II 123, 167, 226 ff.).b) Die Beklagte möge sich dazu äußern, ob der von ihr in der mündlichen Verhandlung bestrittene (II 180) Verkaufspreis und der (am 24. September 2018 noch unstreitige, I 361) Kilometerstand im Zeitpunkt der Veräußerung am 11. Mai 2019 vom Kläger nach Vorlage der Anlage BB8 weiterhin bestritten bleiben. Bejahendenfalls kommt eine Beweisaufnahme (auch) hierzu in Betracht.Jedenfalls führte die Veräußerung – einen Schadensersatzanspruch unterstellt – dazu, dass es zu einer Anrechnung des erlangten Vorteils (hier in Gestalt des Weiterverkaufspreises von 14.647 EUR) auf den ursprünglichen Kaufpreis von 37.000 EUR kommt (vgl. BGH, Urteil vom 13. November 2012 – XI ZR 334/11 –, Rn. 21, juris). Auf die dann noch verbleibenden 22.353 EUR wären ggf. Nutzungen anzurechnen, die sich auf 12.263,81 EUR summieren könnten ([126.823 km minus 45.500 km = 81.323 km] x [37.700 EUR / 250.000 km = 0,1508]), sodass iHv 14.647 EUR über den Erledigungsfeststellungsantrag und iHv weiteren 10.089,19 EUR über den Leistungsantrag zu entscheiden wäre.Dass das Kraftfahrzeug möglicherweise "sein Geld wert" (II 229) gewesen sein mag, ändert entgegen der Ansicht der Beklagten weder etwas am Schadenseintritt (vgl. nur BGH, Beschluss vom 26. März 2019 – XI ZR 372/18 –, juris) noch führt es dazu, dass als Wertersatzanspruch der Bruttokaufpreis gegenzurechnen und schon aus diesem Grund "die Berufung des Klägers [...] – ohne Beweisaufnahme – vollumfänglich zurückzuweisen" wäre.c) Im Übrigen werden die Parteien auf das Senatsurteil vom 18. Juli 2019 in der Sache 17 U 160/18 (veröffentlicht bei juris) hingewiesen.2. Was den objektiven Tatbestand des § 826 BGB angeht, hat der Kläger die Implementierung zweier unzulässiger Abschaltvorrichtungen schlüssig dargelegt. Wie bereits in der mündlichen Verhandlung vom 2. Juli 2019 erörtert, erfolgt diese Behauptung nicht ohne konkrete Anhaltspunkte ins Blaue hinein.a) Zum Einen behauptet der Kläger, auch in der Steuerungssoftware des streitgegenständlichen 3,0l-Motors sei ähnlich wie im Motor EA189 – ergänzt um ein sog. AECD-Steuergerät (II 59 f.) – eine Rollenprüfstandserkennung umgesetzt, die dafür sorge, "dass bei Erkennung eines Prüfstandstestbetriebs ein besonderer "Rollenprüfstandsmodus" aktiviert wird, um möglichst niedrige Schadstoffwerte messen zu lassen. Dieser Modus [sei] bei normalem Betrieb auf der Straße hingegen deaktiviert, so dass das Fahrzeug auf der Straße höhere Emissionen ausstößt als bei dem Rollenprüfstandstest" (II 58, 76).aa) Zur Erhärtung dieser Behauptung hat sich der Kläger auf eine enorme Abweichung der – seitens der Beklagten ausdrücklich nicht bestrittenen (II 179) – NOx-Messwerte im NEFZ-Betrieb mit PEMS Messgerät im Vergleich zum NEFZ-Betrieb auf dem Rollenprüfstand bezogen. Eine dieser Messungen stammt aus dem Bericht der Untersuchungskommission "V." des Bundesministeriums für Verkehr und digitale Infrastruktur und weist hinsichtlich des dort getesteten Fahrzeugs auf der Straße einen knapp 6,2-fach höheren NOx-Wert aus (vgl. dort S. 72).Dabei kommt es nicht darauf an, dass sich die Parteien über die interne Bezeichnung des im streitgegenständlichen Fahrzeug verbauten Motors – Kläger: EA897; Beklagte: EA896 – streiten. Denn selbst wenn man die Behauptung der Beklagten, der Motor EA897 sei erst ab September 2014 (II 196) und niemals in EU5-Fahrzeugen der A. AG verbaut worden (II 197), zugrunde legt, wären der im streitgegenständlichen A. Q5 SUV 3.0 TDI quattro EU5 (Erstzulassung 4. März 2011, Anlage K1) und der im getesteten A. A6 3.0l EU5 (Erstzulassung 2. Mai 2012, Untersuchungsbericht S. 73) verbaute 3,0l-Motor identisch. Abweichendes behauptet auch die Beklagte – soweit ersichtlich – nicht.Das genügt dem Senat an konkreten Anhaltspunkten, um eine Behauptung ins Blaue hinein (dazu BGH, Beschluss vom 16. April 2015 – IX ZR 195/14 –, Rn. 13f., juris) abzulehnen.bb) Da die Beklagte das Vorhandensein eines – eine unzulässige Abschalteinrichtung darstellenden (vgl. dazu BGH, Beschluss vom 8. Januar 2019 – VIII ZR 225/17 –, Rn. 12, juris) – Rollenprüfstandsmodus bestritten (II 133, 195) und behauptet hat, "das in dem streitgegenständliche[n] Fahrzeug enthaltene Emissionskontrollsystem arbeitet in beiden Fahrsituationen – also sowohl im Prüfstand als auch auf der Straße – mit identischer Wirkung" (II 197), ist darüber Beweis zu erheben.b) Zum Anderen sind sich die Parteien in tatsächlicher Hinsicht – und damit die Anwendung von § 531 Abs. 2 ZPO ausschließend (vgl. nur BGH, Beschluss vom 13. Januar 2015 – VI ZR 551/13 –, juris) – nunmehr darin einig (II 175), dass in der Steuerungssoftware des streitgegenständlichen Motors ein sog. Thermofenster etabliert ist, zu dessen konkreter Ausgestaltung sich die Beklagte im Rahmen ihrer umfangreichen Ausführungen bisher nicht verhält.aa) Vor dem Hintergrund der vom Kläger vorgetragenen Diskrepanz der Messwerte auf dem Prüfstand und im Realbetrieb (s.o.) geht der – zur Beantwortung dieser Rechtsfrage allein berufene – Senat davon aus, dass es sich auch bei dem Thermofenster um eine Abschalteinrichtung im Sinne von Art. 3 Nr. 10, Art. 5 der Verordnung (EG) Nr. 715/2007 handelt, die nach Art. 5 Abs. 2 Satz 1 strikt unzulässig ist, sofern nicht die ausdrücklich normierten Ausnahmetatbestände des Art. 5 Abs. 2 Satz 2 greifen (vgl. BGH, Beschluss vom 8. Januar 2019 – VIII ZR 225/17 –, Rn. 11, juris).bb) Da sich die Beklagte hinsichtlich des unstreitig implementierten sog. Thermofensters als eine "temperaturabhängige Regelung der Abgasrückführung" (II 206) auf eine dem Motorschutz und dem sicheren Betrieb dienende Ausnahme nach Art. 5 Abs. 2 Satz 2 Nr. 1 der Verordnung (EG) Nr. 715/2007 vom generellen Verbot von Abschalteinrichtungen nach Art. 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 715/2007 beruft, möge sie ihrer diesbezüglichen Darlegungs- und Beweislast nachkommen und zur genauen technischen Ausgestaltung im streitgegenständlichen Motor näher vortragen, zumal der Bericht der Untersuchungskommission V. (dort S. 72, 119) Zweifel an der Zulässigkeit der Abschalteinrichtungen aus Motorschutzgründen äußert und die Beklagte zu Recht darauf hinweist, dass sich nicht (nur) die Frage stellt, "ob es ein Thermofenster gibt, sondern wie weit es jeweils appliziert ist" (II 218).Dies betrifft insbesondere, aber nicht nur:- den Temperaturbereich, in dem die Abgasrückführung optimal arbeitet oder gedrosselt/abgestellt ist ("Das Erkennen des jeweiligen Temperaturbereichs wird allein durch die Temperatur der Umgebungsluft bestimmt.", vgl. II 218; der Untersuchungsbericht spricht auf S. 72 von "unter 17°C" die Beklagte dagegen von "niedrigeren" [II 210], "zunehmend niedrigen" [II 211], "sehr niedrigen" [II 214] sowie von "besonders hohen" (II 217) und "extrem hohen" (II 215) [Außen-]Temperaturen),- die weiteren Parameter, die Einfluss auf den Grad der Abgasrückführung nehmen,- den Ort der Temperaturmessung ("Außentemperaturen", vgl. II 211; warum dann "abhängig vom Fahrzeugmodell"? "Entscheidend sind hier die Temperaturverhältnisse im Motorraum", II 219),- den Gegenstand der Temperaturmessung ("Frischluft"?, vgl. II 208),- den Umstand, warum im Untersuchungsbericht (S. 72) von einem der Optimierung dienenden Softwareupdate die Rede ist, wenn die konkrete technische Ausgestaltung des ursprünglichen Thermofensters für den Motorschutz und den sicheren Betrieb notwendig gewesen sein soll.Sodann wird der Senat nach Gewährung rechtlichen Gehörs an den Kläger über das weitere Vorgehen in Bezug auf das Thermofenster sowie über Art und Umfang der diesbezüglichen Beweisaufnahme entscheiden.cc) Je nach konkreter objektiver Ausgestaltung dieses Thermofensters (wann genau kommt es zu einer Drosselung oder Abschaltung der Abgasrückführung in welchem Umfang? wie groß ist der Temperaturbereich? wo wird die ausschlaggebende Temperatur genau gemessen? etc.) können sich gegebenenfalls Rückschlüsse auf den subjektiven Tatbestand des § 826 BGB ergeben.Dabei dürfte insbesondere zu berücksichtigen sein, dass nach Anhang III der Richtlinie 70/220/EWG Ziffer 4.3.1. das Fahrzeug "vor der Prüfung [...] mindestens sechs Stunden lang einer Temperatur zwischen 20 und 30° C ausgesetzt" und geprüft wird, dass "die Kühlwasser- und Öltemperatur des Motors zwischen 20 und 30° C liegt" und dass nach Ziffer 5.1.1. "die Temperatur des Prüfraums [...] während der gesamten Prüfung zwischen 20 und 30° C betragen und möglichst der Temperatur des Raumes entsprechen [muss], in dem das Fahrzeug vorbereitet wurde". Die Ansicht, dass das Vorhandensein eines – möglicherweise auf diese Prüfbedingungen abgestimmten – Thermofensters unabhängig von der konkreten Implementierung stets eine sittenwidrige vorsätzliche Schädigung schon aus Rechtsgründen ausschlösse (so die Beklagte, II 222), teilt der Senat nicht.3. Da das streitgegenständliche Fahrzeug nach Angaben des insoweit beweisbelasteten Klägers nunmehr weiterveräußert wurde, möge sich der Kläger dazu äußern, wie eine von ihm beantragte Begutachtung bewerkstelligt werden soll. Kann das Fahrzeug für eine sachverständige Begutachtung wieder zur Verfügung gestellt werden? Werden baugleiche Fahrzeuge mit identischem Motor zur Verfügung gestellt?4. Die Parteien mögen sich ferner zu den ihrer Ansicht nach in Frage kommenden Sachverständigen äußern. Der Senat tendiert dahin, einen Gutachter zu beauftragen, der (jedenfalls auch) einen akademischen Hintergrund in Informatik aufweisen kann. In Betracht käme zum Beispiel der von Klägerseite benannte Prof. Dr. T. H. von der R.-Universität B..
+			
+			
+			
+			Permalink: https://openjur.de/u/2241100.html (https://oj.is/2241100)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert16
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

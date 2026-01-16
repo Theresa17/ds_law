@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG EssenRechtsprechungUrteil vom 01.07.2021 - 3 O 143/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Essen, Urteil vom 01.07.2021 - 3 O 143/20
+                      m. Fundstelle
+                      LG Essen, Urteil vom 01.07.2021 - 3 O 143/20 = openJur 2023, 3317
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Essen, Urteil vom 01.07.2021 - 3 O 143/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2023, 3317
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt die Klägerin.Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages. 
+				Tatbestand
+				Die Klägerin begehrt Rückabwicklung eines Kaufvertrages im Wege des Schadensersatzes wegen vorsätzlicher sittenwidriger Schädigung.Die Klägerin erwarb am 20.11.2015 einen T mit der Fahrzeug-Identifizierungsnummer ... zu einem Kaufpreis in Höhe von 33.102,00 €. Der Kilometerstand betrug zu diesem Zeitpunkt "0" km. In dem Fahrzeug ist der von der Beklagten entwickelte Diesel-Motor EA288 - EU6 verbaut.Mit Schreiben vom 23.01.2020 forderte die Klägerin die Beklagte erfolglos unter Fristsetzung bis zum 30.01.2020 zur Erstattung des Kaufpreises auf Zugum-Zug gegen Rückgabe und Übereignung des Fahrzeugs und bot dessen Abholung unter der eigenen Anschrift an.Unter dem 28.09.2020 führte das KBA zu dem Motorentyp EA288 aus, dass keine unzulässigen Abschalteinrichtungen festgestellt worden seien im Rahmen der Untersuchungskommission W. Soweit vereinzelt Konformitätsabweichungen aufgetreten seien und diese auch zur Überschreitung der Emissionswerte für Stickoxide führen können, sei dies nicht zwingend als unzulässige Abschalteinrichtung einzustufen.Ein amtlicher Rückruf für das streitgegenständliche Fahrzeug ist bislang nicht erfolgt.Die Beklagte räumte in Bezug auf den streitgegenständlichen Motor und dessen Einsatz im Gebiet der USA eine Manipulation ein und verwies hierbei auf die in den USA geltenden strengeren Grenzwerte.Die Klägerin behauptet, dass in dem streitgegenständlichen Fahrzeug und diesem Motorentyp eine Motorsteuerungssoftware genutzt werde, die per Lenkwinkel erkenne, ob sich das Fahrzeug auf dem Prüfstand oder im realen Fahrbetrieb befinde. Wenn die Software aufgrund der eingespeicherten Daten die gefahrene Strecke als Prüfstand erkenne, bewirke die sich am Ende des Motors vor der Auspuffanlage befindliche Klappe, dass ein Teil der Abgase der erneuten Verbrennung zurückgeführt werde. Die erforderliche Abgasnorm werde aufgrund deutlich höherer Stickoxide im realen Straßenverkehr nicht eingehalten.Zudem nutze sie (die Software) ein sogenanntes Thermofenster, um die Abgasreinigung zu drosseln oder komplett auszuschalten. Es sei davon auszugehen, dass die Motorsteuerungssoftware wie beim Motorentyp EA189 ab der Unterschreitung der Temperaturgrenze von 15 °C und der Überschreitung von 33 °C die Abgasrückführung bis zur vollständigen Einstellung sukzessive drossele. Da die mittlere Jahresdurchschnittstemperatur 8,2 °C betrage, werde die Abgasrückführung im alltäglichen Normalbetrieb gedrosselt. Messungen hätten ergeben, dass die Grenzwerte im realen Fahrbetrieb deutlich überschritten würden, was den Rückschluss auf eine Lenkwinkelerkennung nahelege.Schließlich sei bei dem EA288-Motor mit einem NSK (NOx-Speicherkatalysator) oder einem SCR-Katalysator ausgestatteten Fahrzeug die gleiche fahrkurvenbasierte Zykluserkennung im Einsatz wie bei dem Vorgängermodell EA189. Dies ergebe sich für den Motorentyp EA288 mit einem NOK aus einem von der beklagten vorzulegenden Rückrufbescheid des KBA vom 10.10.2019. Daneben sei über eine Software die AdBlue-Einspritzung auf dem Prüfstand höher als im normalen Straßenbetrieb. Zudem weise die Beklagte eine andere Reichweite des "AdBlue-Tanks" aus, als sich einer Berechnung eines anderen Instituts nach ergebe, was nur auf eine unzulässige Abschalteinrichtung zurückgeführt werden könne. Nachdem die Beklagte darauf hinwies, dass in dem streitgegenständlichen Fahrzeug kein NSK verbaut sei, verweist die Klägerin nunmehr darauf, dass auch bei Einsatz eines SCR-Katalysators über die unterschiedliche und prüfstandsoptimierte AdBlue-Einspritzung eine unzulässige Abschalteinrichtung vorliege. Im Rahmen der mündlichen Verhandlung hat die Klägerin erklärt, sie wisse gar nicht, ob sie AdBlue nachfüllen müsse.Insbesondere die verfassungsmäßigen Vertreter der Beklagten hätten von der Manipulation gewusst. Die im Rahmen der Nutzungsentschädigung zu berücksichtigende Gesamtlaufleistung betrage 350.000 km. Der Aktuelle Kilometerstand betrage 63.886 km.Die Klägerin beantragt,die Beklagte zu verurteilen, an sie 33.102,00 € nebst Zinsen in Höhe von 5.502,29 € sowie weiterer Zinsen aus 33.102,00 € in Höhe von 4 % p.a. seit dem 03.06.2020 Zugum-Zug gegen Übergabe und Übereignung des T mit der Fahrzeug-Identifizierungsnummer ... gegen Zahlung einer angemessenen Nutzungsentschädigung, deren Höhe in das Ermessen des Gerichts gestellt wird, jedoch nicht mehr als 6.042,16 €, zu zahlen.festzustellen, dass sich die Beklagte mit der Annahme des T mit der Fahrzeug-Identifizierungsnummer ... seit spätestens 31.01.2020 in Annahmeverzug befindet.die Beklagte zu verurteilen, an sie vorgerichtliche Rechtsanwaltsgebühren in Höhe von 2.256,24 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 31.01.2020 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, das KBA habe auf Anweisung des BMWI auch den hier streitgegenständlichen Motorentyp untersucht. Hierbei sei nicht nur auf dem Prüfstand untersucht worden, sondern auch außerhalb dessen. So seien auch Real Driving Emission Test durchgeführt worden. Als Ergebnis habe das KBA festgestellt, dass die Annahme einer Abgasmanipulation unbegründet sei. Bei dem sogenannten Thermofenster werde die Abgasrückführung abhängig von der Außentemperatur geregelt, um Motorschäden sowie Risiken für den sicheren Fahrbetrieb zu vermeiden. Auch von Seiten des KBA seien diesbezüglich keine Beanstandungen ausgesprochen worden.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird insbesondere auf das Protokoll der mündlichen Verhandlung vom 10.06.2021 verwiesen. 
+				Gründe
+				Die Klage ist zulässig, hat in der Sache jedoch keinen Erfolg.Dem Kläger steht der mit der Klage verfolgte Schadensersatzanspruch gegen die Beklagte unter keinem rechtlichen Gesichtspunkt zu.Der Kläger hat gegen die Beklagte keinen Schadensersatzanspruch gemäß §§ 826, 31 BGB analog aufgrund vorsätzlich sittenwidriger Schädigung.Soweit der Kläger behauptet, sein Fahrzeug verfüge über eine unzulässige Abschalteinrichtung ähnlich der bei den Motorentypen EA 189 mit der Folge, dass das Fahrzeug erkenne, wenn es auf dem Prüfstand stehe und dann die Werte über einen Defeat Device senke, ist dieser Vortrag in Blaue hinein erfolgt und nicht geeignet, das Vorliegen einer unzulässigen Abschalteinrichtung zu begründen. Das KBA hat den streitgegenständlichen Motorentyp untersucht und mitgeteilt, dass keine als unzulässig einzustufenden Abschaltvorrichtungen festzustellen seien. Das KBA hat in diesem Zusammenhang zu dem auch hier verbauten Motorentyp ganz allgemein ausgeführt, dass insbesondere das Emissionsverhalten untersucht worden sei inklusive des Abgasnachbehandlungssystems, der entsprechenden Komponenten sowie der Software des Steuerungssystems. Unter Berücksichtigung dessen erachtet das Gericht den diesbezüglichen Vortrag der Kläger - offensichtlich orientiert an den Feststellungen zum Motorentyp EA189 - als ins Blaue hinein erfolgt und deshalb nicht ausreichend. Wenn nämlich in dem hier streitgegenständlichen Motorentyp ähnlich wie in dem Vorgängermodell - so der klägerische Vortrag - eine identische und auf gleiche Weise funktionierende Umschaltlogik verbaut worden sein soll, erscheint es lebensfremd, dass das KBA genaue diese ihm zum Untersuchungszeitraum des hiesigen Motors bereits bekannte Motorsteuerungssoftware nicht aufgefallen sein soll im Rahmen der Überprüfung. Gegenstand der Untersuchung ist ausweislich des KBA genaue diese Frage gewesen - nämlich ob auch in dem Motorentyp EA288 in gleicher Weise wie bei EA189 eine Umschaltlogik mittels einer speziellen Motorsteuerungssoftware verbaut sein soll.Wenn das KBA und die dort tätigen Mitarbeiter nach umfangreichen Untersuchungen und mit Blick auf sowie dem Wissen um die allgemeine Diskussion in der Öffentlichkeit über den "Abgasskandel" eben keine unzulässige Abschalteinrichtung bestätigen können, um deren Funktionsweise sie zu diesem Zeitpunkt genauestens im Bilde sind, ist der gegenteilige Vortrag der Klägerin als unsubstantiiert und als in Blaue hinein nicht zu berücksichtigen. Es gibt auch keinerlei Anhaltspunkte dafür noch hat die Klägerin entsprechendes vorgetragen, dass im Rahmen eines Software-Updates die von ihr behauptete Umschaltlogik beseitigt worden sein soll. Allenfalls eine solche Maßnahme - wie sie letztlich bei dem Motorentyp EA189 vorgenommen worden ist - würde erklären, warum das KBA trotz Untersuchung diverser Fahrzeuge desselben Motorentyps keinerlei Anhaltspunkte für die von der Klägerin beschriebene Abschalteinrichtung hat nachweisen können. Dass die Beklagte zur Entfernung der Abschalteinrichtung vor der Untersuchung durch das KBA genügend Zeit gehabt habe, ist eine durch nichts belegte Behauptung. Den Vortrag der Klägerin unterstellt, müsste die Beklagte bei sämtlichen Modellen ihrer Unternehmensgruppe - sie wusste ja nicht, welche das KBA untersuchen würde - ein Update durchgeführt haben, was einen erheblichen zeitlichen Aufwand verbunden mit hohen Kosten verursacht hätte und darüber hinaus nicht ohne die Mitwirkung der zahlreichen Kunden hätte realisiert werden können. Diese hätten dann anlasslos - anders als beim EA189 - angeschrieben werden müssen mit der Bitte um Vorstellung in einer "autorisierten" Werkstatt, um dort dann ein bis zum heutigen Zeitpunkt nicht bekanntes Softwareupdate installieren zu lassen. Dafür, dass das unbemerkt von der durch den "Abgasskandal" informierten Öffentlichkeit geschehen sein soll, gibt es keinerlei Anhaltspunkte.Eine andere Beurteilung ergibt sich auch nicht aus dem Umstand, dass die Stickoxidemissionen auf dem Prüfstand andere Werte erreichen als im realen Straßenbetrieb. Das Gericht zieht daraus nicht den Schluss der Klägerin, dass dies allein auf eine unzulässige Abschalteinrichtung zurückzuführen sei. Zum einen handelt es sich bei der Fahrt auf dem Prüfstand um eine spezielle Strecke mit besonderen Anforderungen an das Fahrverhalten, was allgemein bekannt nicht ohne weiteres mit dem auf der Straße gleichgesetzt werden kann. Auf dem Prüfstand können nicht sämtliche Fahrsituationen nachgestellt werden mit der Folge, dass sich schon aufgrund dieser unterschiedlichen Voraussetzungen auch andere Verbrauchs- sowie Abgaswerte ergeben. Zum anderen führen auch Abschalteinrichtungen, die entweder zulässig sind oder die jedenfalls aus Sicht des Gerichts keinen Schadensersatzanspruch begründen (dazu sogleich), zu unterschiedlichen Stickoxidemissionen im Vergleich zur Situation auf dem Prüfstand. Wenn wegen einzelner Abschalteinrichtungen ein Schadensersatzanspruch verneint wird - gleich aus welchen Gründen, der Einsatz dieser aber zu erhöhten Emissionswerten führt und allein durch diesen Umstand letztlich doch ein Anspruch gegeben wäre, würden die Wertungen und rechtlichen Einwände, die zur Ablehnung geführt haben, überflüssig.Ebenfalls ins Blaue hinein erfolgt der Vortrag der Klägerin, soweit sie auf eine unzulässige Abschalteinrichtung im Zusammenhand mit dem NOK verweist oder der AdBlue-Einspritzung bei dem SCR-Katalysator. Zum einen weiß die Klägerin selbst nicht weiß, ob in ihrem Wagen ein Abgassystem verbaut ist, bei dem - insoweit gerichtsbekannt - regelmäßig AdBlue nachgefüllt werden muss. Auf ausdrückliche Nachfrage hat sie angeben, dazu nichts sagen zu können, ihr Mann kümmere sich um alles Technische. Zum anderen ergibt sich aus dem Verweis der Klägerin auf den ihr offensichtlich vom Datum her bekannten Rückrufbescheid vom 10.10.2019, dass sie keine Kenntnis von dem in ihrem Wagen verbauten Abgassystem hat. Wenn nämlich in dem streitgegenständlichen Fahrzeug ein Stickoxid-Speicherkatalysator verbaut wäre, müsste das streitgegenständliche Fahrzeug ihrem Vortrag zufolge einem amtlichen Rückruf unterliegen, was unstreitig nicht der Fall ist. Letztlich hat das KBA ausweislich des Bescheides vom 28.09.2020 dieses - nämlich eine unzulässige Abschalteinrichtung - entgegen dem klägerischen Vortrag gerade nicht dem streitgegenständlichen Motor festgestellt (s.o.).Soweit die Klägerin nämlich die Auffassung vertritt, ihr stehe aufgrund des von der Beklagten verbauten Thermo-Fensters ein Schadensersatzanspruch zu, folgt das Gericht dem nicht. Dabei kann auch dahinstehen, ob es sich bei dem Thermo-Fenster um eine unzulässige Abschalteinrichtung handelt oder diese ausnahmsweise zum Schutz von Bauteilen zulässig ist.Es fehlt an einer vorsätzlichen sittenwidrigen Schädigung durch die Beklagte. Eine Sittenwidrigkeit kommt hier nur in Betracht, wenn über die bloße Kenntnis von dem Einbau einer Einrichtung mit der in Rede stehenden Funktionsweise in den streitgegenständlichen Motor hinaus zugleich auch Anhaltspunkte dafür erkennbar wären, dass dies von Seiten der Beklagten in dem Bewusstsein geschah, hiermit möglicherweise gegen die gesetzlichen Vorschriften zu verstoßen, und dieser Gesetzesverstoß billigend in Kauf genommen wurde (vgl. BGH Beschl. v. 09.03.2021 Az. VI ZR 889/20, OLG Hamm Urt. v. 06.07.2020, 17 U 168/19; OLG Stuttgart, ZVertriebsR 2019, 301, Rn. 75; OLG Köln Beschluss vom 04.07.2019, 3 U 148/18, juris Rn. 6). Bei einer Abschalteinrichtung - wie dem streitgegenständlichen Thermofenster - , die vom Grundsatz her im normalen Fahrbetrieb in gleicher Weise arbeitet wie auf dem Prüfstand, und bei der auch Gesichtspunkte des Motor- bzw. des Bauteilschutzes als Rechtfertigung angeführt werden, kann bei Fehlen jedweder konkreter Anhaltspunkte nicht ohne Weiteres unterstellt werden, dass die Handelnden bzw. Verantwortlichen bei der Beklagten in dem Bewusstsein gehandelt haben, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden. Dass sich die Beklagte zum Schutz ihrer Bauteile für den Einsatz eines Thermofensters entschieden hat, lässt keine Gesinnung zu Tage treten, die von besonderer Verwerflichkeit geprägt ist. Denn es ist zumindest vertretbar, die installierte dynamische Abgasrückführungsmechanik nicht als Abschalteinrichtung oder aber als ausnahmsweise zulässige Abschalteinrichtung einzustufen (vgl. LG Stuttgart, BeckRS, 11522, Rn. 33). Eine andere Beurteilung ergibt sich auch nicht aufgrund des Vorbringens der Klägerin, dass das Thermo-Fenster gemessen an der Jahresdurchschnittstemperatur in Deutschland eine Drosselung der Abgasrückführung zur Folge habe. Allein der Umstand, dass die Temperaturbedingungen auf dem Prüfstand in jedem Fall eine optimale Abgasrückführung ermöglich, führt nicht automatisch zur Annahme einer sittenwidrigen Handlung der Beklagten. Die Steuerung der Abgasrückführung unter Zuhilfenahme eines Thermofensters funktioniert auf dem Prüfstand ebenso wie auf der Straße und ist im Gegensatz zur Umschaltlogik nicht extra für den Prüfstand entwickelt. Dass das Thermo-Fenster so "klein" gewählt ist, dass es ausschließlich auf dem Prüfstand zum Einsatz kommt, hat die Klägerin nicht vorgetragen noch ergibt sich das aus den sonstigen Umständen.Die Beklagte handelte überdies nicht vorsätzlich im Hinblick auf die Schadenszufügung. Nach im Zivil- wie Strafrecht allgemeiner Ansicht muss sich der Vorsatz auf die Tatsachen beziehen, die den konkreten Tatbestand ausmachen (vgl. § 16 StGB). Bei § 826 BGB ist somit zu fordern, dass der Täter Kenntnis von dem Eintritt eines Schadens, der Kausalität des eigenen Verhaltens und der die Sittenwidrigkeit des Verhaltens begründenden Umstände hat. Eine genaue Vorstellung von dem zu erwartenden Kausalverlauf sowie von der Person des Geschädigten ist nicht erforderlich. Es reicht aus, wenn der Schädiger die Richtung, in der sich sein Verhalten zum Schaden anderer auswirken konnte, und die Art des möglicherweise eintretenden Schadens vorausgesehen und billigend in Kauf genommen hat (BGH, Urt. v. 20.11.1990 - VI ZR 6/90 m. w. N.). Ein Vorsatz wäre mithin nur dann anzunehmen, wenn über die bloße Kenntnis von dem Einbau einer Einrichtung mit der in Rede stehenden Funktionsweise (sog. Thermofenster) in den streitgegenständlichen Motor hinaus zugleich auch Anhaltspunkte dafür erkennbar wären, dass dies von Seiten der Beklagten in dem Bewusstsein geschah, hiermit möglicherweise gegen die gesetzlichen Vorschriften zu verstoßen, und dieser Gesetzesverstoß von der Beklagten billigend in Kauf genommen wurde. Die Einordnung des Thermofensters als unzulässige Abschalteinrichtung im Sinne der - im Übrigen auch auslegungsfähigen und -bedürftigen - Verordnung 715/2007/EG müsste für die Entscheidungsträger der Beklagten also derart offenkundig gewesen sein, dass eine andere Auffassung kaum vertretbar erscheint. Davon kann - anders als bei der ursprünglich verwendeten Umschaltlogik - sowohl hinsichtlich des Thermofenster nicht ausgegangen werden (vgl. OLG Köln, Beschluss vom 04.07.2019, 3 U 148/18, juris Rn. 6; OLG Stuttgart, Urteil vom 30.07.2019, 10 U 134/19, juris Rn. 81; LG Stuttgart, Urteil vom 09.05.2019, 3 O 356/18, juris Rn. 30). Bei Abschalteinrichtungen, die vom Grundsatz her im normalen Fahrbetrieb in gleicher Weise arbeiten wie auf dem Prüfstand, und bei denen Gesichtspunkte des Motor- bzw. des Bauteilschutzes als Rechtfertigung angeführt werden, kann bei Fehlen jedweder konkreter Anhaltspunkte nicht ohne Weiteres unterstellt werden, dass die Handelnden bzw. Verantwortlichen bei der Beklagten in dem Bewusstsein gehandelt haben, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden. Vielmehr muss in dieser Situation, selbst wenn bezüglich des Thermofensters von einer objektiv unzulässigen Abschalteinrichtung auszugehen sein sollte, eine möglicherweise falsche, aber dennoch vertretbare Gesetzesauslegung und -anwendung durch die Organe der Beklagten in Betracht gezogen werden (OLG Köln, Beschluss vom 04.07.2019, 3 U 148/18, juris Rn. 6; OLG Stuttgart, Urteil vom 30.07.2019, 10 U 134/19, juris Rn. 82). Umstände, die das in Frage stellen würden, sind vom Kläger weder vorgetragen noch sonst ersichtlich. Dass die Gesetzeslage an dieser Stelle zweifelhaft und nicht eindeutig ist, zeigt neben der kontrovers geführten Diskussion über Inhalt und Reichweite der Ausnahmevorschrift des Art. 5 II lit. a) EG VO 715/2007 auch der Umstand, dass sich das Kraftfahrtbundesamt offenbar bislang nicht von der Unzulässigkeit des behaupteten sog. "Thermofensters" im streitgegenständlichen Fahrzeug hat überzeugen können und einen Rückruf sämtlicher betroffenen Fahrzeuge behördlich bis heute nicht angeordnet worden ist - so auch bezüglich des klägerischen Wagens. Ferner scheidet eine Haftung nach § 826 BGB aus, wenn der Handelnde der redlichen Überzeugung war, er dürfe in Verfolgung eines erlaubten Interesses handeln. Dies schließt nämlich die Annahme eines vorsätzlichen Sittenverstoßes aus (BGH, Urteil vom 15.09.1990 - I ZR 98/97). Vor dem Hintergrund der Auslegungsbedürftigkeit der Verordnung (EG) 715/2007 und der Vertretbarkeit der Auffassung, die temperaturabhängige Abgasregelung falle nicht unter Art. 3 Nr. 10 Verordnung (EG) 715/2007, zumindest aber unter die Ausnahme des Art. 5 Abs. 2 lit. a) Verordnung (EG) 715/2007, kann auf Grundlage des klägerischen Vortrags nicht davon ausgegangen werden, dass ein vorsätzlicher Sittenverstoß zu bejahen ist (vgl. OLG Hamm Urt. v. 06.07.2020, 17 U 168/19; LG Stuttgart, Urt. v. 03.05.2019 - 22 O 238/18).Selbst wenn das sog. Thermofenster eine objektiv unzulässige Abschalteinrichtung darstellen sollte, muss vor diesem Hintergrund insgesamt eine möglicherweise falsche, aber dennoch vertretbaren Gesetzesauslegung und -anwendung durch die Organe der Beklagten in Betracht gezogen werden (vgl. OLG Hamm, a.a.O.; OLG Köln, Beschluss vom 04.07.2019, 3 U 148/18, juris Rn. 6; OLG Stuttgart, Urteil vom 30.07.2019, 10 U 134/19, juris Rn. 82).Ein Schadensersatzanspruch des Klägers ergibt sich auch nicht aus § 823 Abs. 2 BGB i.V.m. § 263 Abs. 1 StGB, § 31 BGB.Ein Schadensersatzanspruch nach diesen Vorschriften setzt haftungsbegründend voraus, dass sämtliche objektiven und subjektiven Merkmale des Betrugstatbestands im Sinne von § 263 Abs. 1 StGB (als Schutzgesetz im Sinne von § 823 Abs. 2 BGB) erfüllt sind. Hinsichtlich des verwendeten Thermo-Fensters/ der Einstellung des SCR-Katalysators fehlt es aus den oben dargestellten Gründen an der Absicht, sich rechtswidrig zu bereichern.Der Kläger kann einen Schadensersatzanspruch auch nicht aus § 823 Abs. 2 BGB i.V.m. § 6 Abs. 1, § 27 Abs. 1 EG-FGV oder Art. 5 VO 715/2007/EG herleiten.Nach der Rechtsprechung des Bundesgerichtshofs liegt das von dem Kläger für sich in Anspruch genommene Interesse, nicht zur Eingehung einer ungewollten Verbindlichkeit veranlasst zu werden, nicht im Aufgabenbereich des § 6 Abs. 1, § 27 Abs. 1 EG-FGV (vgl. BGH, Urt. v. 25.05.2020 - VI 252/19 -, NJW 2020, 1962 Rn. 76). Auch soweit die Übereinstimmungsbescheinigung eine Erklärung des Fahrzeugherstellers darstellt, in der dem Fahrzeugkäufer versichert wird, dass das von ihm erworbene Fahrzeug zum Zeitpunkt seiner Herstellung mit den in der Europäischen Union geltenden Rechtsvorschriften übereinstimmt, wird nicht etwa das hier geltend gemachte Interesse an einem Schutz der allgemeinen Handlungsfreiheit und speziell des wirtschaftlichen Selbstbestimmungsrechts der einzelnen Käufer bezweckt (vgl. dazu BGH, Urt. v. 30.07.2020 - VI ZR 5/20 -, juris Rn. 11; OLG Hamm, Urt. v. 02.09.2020 - 30 U 192/19-, juris Rn. 52 ff.).Das Interesse, nicht zur Eingehung einer ungewollten Verbindlichkeit veranlasst zu werden, liegt nach der Rechtsprechung des Bundesgerichtshofs auch nicht im Aufgabenbereich des Art. 5 VO 715/2007/EG (vgl. BGH, Urt. v. 30.07.2020, Rn. 12 ff.).Die Entscheidung über die Kosten und die vorläufige Vollstreckbarkeit ergeben sich aus §§ 91, 709 S. 2 ZPO.Der Streitwert wird auf bis 30.000,00 € festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2465307.html (https://oj.is/2465307)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate9
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

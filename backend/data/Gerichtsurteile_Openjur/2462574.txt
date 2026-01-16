@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG MünchenRechtsprechungEndurteil vom 25.01.2023 - 7 U 5074/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG München, Endurteil vom 25.01.2023 - 7 U 5074/21
+                      m. Fundstelle
+                      OLG München, Endurteil vom 25.01.2023 - 7 U 5074/21 = openJur 2023, 1424
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG München, Endurteil vom 25.01.2023 - 7 U 5074/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2023, 1424
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Berufung der Klagepartei gegen das Endurteil des Landgerichts Landshut vom 30.06.2021, Az. 53 O 1002/21 wird zurückgewiesen.2. Die Klagepartei trägt die Kosten des Berufungsverfahrens.3. Dieses Urteil ist ohne Sicherheitsleistung vorläufig vollstreckbar.4. Die Revision gegen dieses Urteil wird nicht zugelassen.  
+				Gründe
+				A.Die Parteien streiten um Schadensersatzansprüche im Zusammenhang mit dem Kauf eines Dieselfahrzeugs.Am 20.06.2014 kaufte die Klagepartei beim A.Zentrum R. einen Audi A1 Sportback Attraction 1.6 TDI (FIN: ...) zum Preis von 19.000,00 € brutto (vgl. Anl. K 1). Das Fahrzeug war mit einem Dieselmotor EA 189 ausgestattet. Es wies einen Kilometerstand von 0 Kilometern auf und wurde am 01.07.2014 erstmals zugelassen.Die Beklagtenpartei ist die Herstellerin des in dem streitgegenständlichen Fahrzeug verbauten Motors und Konzernmutter der Herstellerin des Fahrzeugs. Für den streitgegenständlichen Fahrzeugtyp wurde durch das Kraftfahrtbundesamt die Typengenehmigung nach der Verordnung (EG) Nr. 715/2007 mit der Schadstoffklasse Euro 5 erteilt.Die im Zusammenhang mit dem Motor EA 189 verwendete Software erkennt, ob das Fahrzeug auf einem Prüfstand dem Neuen Europäischen Fahrzyklus (NEFZ) unterzogen wird und schaltet in diesem Fall in den Abgasrückführungsmodus 1, einen Stickoxid (NOx)-optimierten Modus. In diesem Modus findet eine Abgasrückführung mit niedrigem Stickoxidausstoß statt. Im normalen Fahrbetrieb außerhalb des Prüfstands schaltet der Motor dagegen in den Abgasrückführungsmodus 0, bei dem die Abgasrückführungsrate geringer und der Stickoxidausstoß höher ist. Für die Erteilung der Typgenehmigung der Emissionsklasse Euro 5 maßgeblich war der Stickoxidausstoß auf dem Prüfstand. Die Stickoxidgrenzwerte der Euro 5-Norm wurden nur im Abgasrückführungsmodus 1 eingehalten.Zur Finanzierung des Kaufpreises schloss die Klagepartei am 11.07.2014 mit der A. Bank einen Darlehensvertrag mit einem Nettodarlehensbetrag von 15.000,00 €, für den Kreditkosten in Höhe von 584,43 € anfielen (vgl. Anl. K 1a).Das Kraftfahrtbundesamt ging vom Vorliegen einer unzulässigen Abschalteinrichtung aus und gab der Beklagtenpartei auf, diese zu beseitigen und die Einhaltung der maßgeblichen Grenzwerte anderweitig zu gewährleisten.Die Klagepartei erfuhr im Februar 2016 von der konkreten Betroffenheit ihres Fahrzeugs durch den "Dieselskandal".Die Beklagtenpartei bot die Durchführung eines Software-Updates an, mit dem die Software aus allen Fahrzeugen mit dem streitgegenständlichen Motor entfernt werden sollte. Das Software-Update wurde aufgespielt.Mit Schreiben vom 07.11.2016 laut Anl. K 19 an die f. GmbH, einer nach § 10 Abs. 1 S. 1 Nr. 1 RDG für den außergerichtlichen Forderungseinzug im Rechtsdienstleistungsregister eingetragenen Inkassodienstleisterin, trat die Klagepartei "Ansprüche aus unerlaubter Handlung der V.  AG im Zusammenhang mit dem gemeinhin als Abgasskandal bekannten Lebenssachverhalt" hinsichtlich des streitgegenständlichen Fahrzeugs an die f.GmbH ab.Die f. GmbH erhob daraufhin mit Schriftsatz ihrer Prozessbevollmächtigten vom 30.10.2018 (Anl. K 19) beim Landgericht Ingolstadt Klage gegen die A.  AG sowie die Beklagtenpartei, mit der u.a. der von der Klagepartei an die f. GmbH abgetretene Schadensersatzanspruch u.a. gegen die Beklagtenpartei geltend gemacht wurde.Mit Endurteil vom 07.08.2020 wies das Landgericht Ingolstadt, Az. 41 O 1745/18, die Klage der f. GmbH wegen fehlender Aktivlegitimation der f. GmbH ab, da die Abtretung der Schadensersatzansprüche durch die Pkw-Käufer nicht wirksam gewesen sei.Gegen das klageabweisende Endurteil des Landgerichts Ingolstadt, Az 41 O 1745/18, legte die f. GmbH Berufung zum Oberlandesgericht München ein. Im Verlauf dieses Berufungsverfahrens (21 U 5563/20) trat die f. GmbH mit Schreiben vom 04.11.2020 (Anl. K 19) die ihr von der Klagepartei abgetretenen Schadensersatzansprüche gegen u.a. die Beklagte an die Klagepartei zurück ab.Mit Schriftsatz der Prozessbevollmächtigten der f. GmbH vom 28.05.2021 nahm die f. GmbH die von ihr gegen das Endurteil des Landgerichts Ingolstadt eingelegte Berufung insoweit zurück, als Schadensersatzansprüche der Klagepartei u.a. gegen die Beklagtenpartei geltend gemacht wurden.Die vorliegende Klage ging am 06.04.2021 beim Landgericht Landshut ein und wurde der Beklagtenpartei am 11.05.2021 zugestellt.Die Klagepartei trägt vor, die Beklagtenpartei habe - mit Wissen ihres Vorstandes - das Aggregat im Pkw der Klagepartei mit einer unzulässigen Abschalteinrichtung ausgestattet; ihr stünden daher Schadensersatzansprüche unter anderem aus §§ 826, 31 BGB zu. Hätte die Klagepartei von der Abschalteinrichtung Kenntnis gehabt, hätte sie den Kaufvertrag nicht abgeschlossen Schadensersatzansprüche der Klagepartei seien noch nicht verjährt. Die Verjährung sei durch die Anmeldung der Klagepartei zum Musterfeststellungsverfahren des Oberlandesgerichts Braunschweig sowie durch die Klagererhebung durch die f. GmbH gehemmt worden. Selbst wenn man aber von Verjährung ausgehen sollte, bestünde jedenfalls ein Anspruch der Klagepartei nach § 852 BGB.Die Klagepartei beantragte,1. Die Beklagte wird verurteilt, an die Klägerschaft 19.000,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 17.11.2020 Zug um Zug gegen Übergabe und Übereignung des Audi A 1 mit der Fahrzeug-Identifizierungsnummer ... gegen Zahlung einer angemessenen Nutzungsentschädigung deren Höhe in das Ermessen des Gerichts gestellt wird, jedoch nicht mehr als 9.519,57 € zu zahlen.2. Die Beklagte wird verurteilt, an die Klägerschaft Aufwendungen in Höhe von 584,43 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu erstatten.3. Es wird festgestellt, dass sich die Beklagte mit der Annahme des Audi A 1 mit der Fahrzeug-Identifizierungsnummer ... seit spätestens 17.11.2020 in Annahmeverzug befindet.4. Die Beklagte wird verurteilt, an die Klägerschaft vorgerichtliche Rechtsanwaltsgebühren in Höhe von 1.461,32 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 17.11.2020 zu zahlen.Die Beklagte beantragte,Klageabweisung.Die Beklagtenpartei erhebt die Einrede der Verjährung. Einer Hemmung der Verjährung durch die Klageerhebung der f. GmbH stehe die Rechtskraft des klageabweisenden Urteils des Landgerichts Ingolstadt vom 07.08.2020 entgegen. Das Landgericht Ingolstadt habe nämlich die Klageabweisung tragend auf die Unwirksamkeit der Abtretung des Schadensersatzanspruchs der Klagepartei an die f. GmbH gestützt. § 852 komme nicht zur Anwendung.Mit Endurteil vom 30.06.2021, Az. 53 O 1002/21, wies das Landgericht Landshut die Klage wegen Verjährung des klägerischen Schadensersatzanspruchs ab. Zur Begründung seiner Entscheidung führte das Landgericht u.a. aus, dass die dreijährige Verjährungsfrist des § 195 BGB Ende 2015 zu laufen begonnen habe. Mit Ablauf des 31.12.2018 sei deshalb Verjährung eingetreten. Die zwischenzeitliche Geltendmachung des klägerischen Anspruchs durch die f. GmbH im Wege einer Sammelklage habe den Lauf der Verjährungsfrist aufgrund der Unwirksamkeit der Abtretung nicht gemäß § 204 Abs. 1 Nr. 1 BGB gehemmt. Eine Beteiligung am Musterfeststellungsverfahren vor dem Oberlandesgericht Braunschweig habe die Klagepartei nicht nachgewiesen (LGU S. 4).Ein Anspruch der Klagepartei nach § 852 S. 1 BGB scheide aus, da ein wirtschaftlicher Schaden der Klagepartei nicht feststellbar sei.Im Übrigen wird gemäß § 540 Abs. 1 ZPO auf den Tatbestand und die Entscheidungsgründe des landgerichtlichen Urteils Bezug genommen.Mit ihrer Berufung verfolgt die Klagepartei ihr erstinstanzliches Klageziel unter Wiederholung und Vertiefung ihres bisherigen Vortrages grundsätzlich weiter. Die Verjährung sei auch nach § 203 BGB durch die Aufnahme von Verhandlungen durch die Parteien seit 04.12.2020 gehemmt.Die Klagepartei beantragt daher:1. Die Beklagte wird verurteilt, an die Klägerschaft 19.000,00 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 17.11.2020 Zug um Zug gegen Übergabe und Übereignung des Audi A 1 mit der Fahrzeug-Identifizierungsnummer ... gegen Zahlung einer angemessenen Nutzungsentschädigung deren Höhe in das Ermessen des Gerichts gestellt wird, jedoch nicht mehr als 9.871,00 € zu zahlen.2. Die Beklagte wird verurteilt, an die Klägerschaft Aufwendungen in Höhe von 584,43 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu erstatten.3. Es wird festgestellt, dass sich die Beklagte mit der Annahme des Audi A 1 mit der Fahrzeug-Identifizierungsnummer ... seit spätestens 17.11.2020 in Annahmeverzug befindet.4. Die Beklagte wird verurteilt, an die Klägerschaft vorgerichtliche Rechtsanwaltsgebühren in Höhe von 1.461,32 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 17.11.2020 zu zahlen.In der mündlichen Verhandlung vor dem Senat hat die Klagepartei die anzurechnenden Nutzungsvorteile mit 10.743,29 Euro (höchstens) beziffert.Im Übrigen erklärt die Klagepartei den Rechtsstreit für erledigt.Die Beklagtenpartei beantragt,die Berufung zurückzuweisen.Sie widersetzt sich der Teilerledigterklärung der Klagepartei und verteidigt das landgerichtliche Urteil.Der Senat hat am 21.12.2022 mündlich verhandelt. Er hat Hinweise erteilt. Auf die Verfügung vom 28.07.2022, das Protokoll der mündlichen Verhandlung vom 21.12.2022, die zwischen den Prozessbevollmächtigten gewechselten Schriftsätze und den übrigen Akteninhalt wird Bezug genommen.B.Die zulässige Berufung ist unbegründet. Die Klage ist zwar zulässig (I.), jedoch unbegründet, da Schadensersatzansprüche der Klägerin verjährt sind (II. 1 bis 3) und ein Fall des § 852 BGB nicht vorliegt (I. 4).I.Die Klage ist zulässig.Der Zulässigkeit der Klage steht nicht entgegen, dass nach der Rücknahme der Berufung der f. GmbH gegen das klageabweisende Endurteil des Landgerichts Ingolstadt vom 07.08.2020 im Verfahren 41 O 1745/18 u.a. im Hinblick auf die klägerischen Schadensersatzansprüche gegen die Beklagtenpartei die Abweisung der Schadensersatzklage der f. GmbH hinsichtlich dieser klägerischen Ansprüche in Rechtskraft erwuchs. Denn anders als für eine entgegenstehende Rechtskraft vorausgesetzt sind die Streitgegenstände in dem Verfahren des Landgerichts Ingolstadt einerseits und dem hiesigen Verfahren andererseits nicht identisch (zum Identitätserfordernis vgl. BGH, Urteil vom 26.06.2003 - I ZR 269/20, Rdnr. 21), da vor dem Landgericht Ingolstadt ein Schadensersatzanspruch aus abgetretenem Recht geltend gemacht wurde, während vorliegend die Klagepartei aus eigenem Recht klagt, die Geltendmachung eines Anspruchs aus abgetretenem Recht aber stets einen anderen Streitgegenstand darstellt als die Geltendmachung aus eigenem Recht (vgl. BGH, Urteil vom 27.09.2006 - VIII ZR 19/04, Rdnr. 8).II.Die Klage ist jedoch nicht begründet.1. Zwar schuldet die Beklagte der Klagepartei dem Grunde nach Schadensersatz aus §§ 826, 31 BGB.a. Der vorliegende Sachverhalt - Kauf eines Fahrzeugs mit dem Motor EA 189, der eine Prüfstanderkennung enthielt, im Juni 2014 und damit vor der erstmaligen Ad-hoc-Mitteilung der Beklagten - ist identisch mit der vom BGH in seiner Grundsatzentscheidung vom 25.05.2020 - VI ZR 252/19 entschiedenen Sachverhaltskonstellation. Zur Vermeidung überflüssiger Wiederholungen macht sich der Senat die dortigen Ausführungen, insbesondere in den Randnummern 13-63, zu eigen.b. Der Senat ist auch davon überzeugt, dass die Klagepartei - wie diese in der Klageschrift (dort S. 6) hat vortragen lassen und in der mündlichen Verhandlung vom 21.12.2022 bei ihrer formlosen Anhörung durch den Senat glaubhaft bekundet hat - in Kenntnis der Manipulationssoftware und der damit einhergehenden drohenden Betriebseinschränkung bzw. -untersagung den Kauf nicht getätigt hätte. Denn nach der Lebenserfahrung und der Art des zu beurteilenden Geschäftes ist auszuschließen, dass ein Käufer ein Fahrzeug erwirbt, dem eine Betriebsuntersagung droht und bei dem im Zeitpunkt des Erwerbs in keiner Weise absehbar ist, ob dieses Problem überhaupt behoben werden kann. Bei einem zur eigenen Nutzung erworbenen Kraftfahrzeug sind dessen Gebrauchsfähigkeit und ständige Verfügbarkeit für den Eigentümer von so großer Bedeutung, dass die vorübergehende Entziehung eines Kraftfahrzeugs auch bei der Anlegung des gebotenen strengen Maßstabs einen Vermögensschaden darstellt. Der Verlust der Nutzungsmöglichkeit eines Kraftfahrzeugs wirkt sich typischerweise als solcher auf die Grundlage der Lebenshaltung signifikant aus; bei generalisierender Betrachtung erfolgen Anschaffung und Unterhaltung eines Kraftfahrzeugs in erster Linie um des wirtschaftlichen Vorteils willen, der in der Zeitersparnis liegt. Das rechtfertigt nach der allgemeinen Lebenserfahrung die Annahme, dass ein Käufer, der - wie hier die Klagepartei - ein Fahrzeug zur eigenen Nutzung erwirbt, bei der bestehenden Gefahr einer Betriebsbeschränkung oder -untersagung von dem Erwerb des Fahrzeugs abgesehen hätte (BGH, aaO, Rdnr. 51).2. Der Schadensersatzanspruch der Klagepartei ist jedoch verjährt.a. Unstreitig hat die Klagepartei durch ein Halteranschreiben der Beklagten im Februar 2016 von der konkreten Betroffenheit des streitgegenständlichen Fahrzeugs vom Dieselskandal erfahren (vgl. Schriftsatz des Klägervertreters vom 16.06.2021, S. 5, dritter Absatz, Bl. 131 d.A.), sodass die nach § 195 BGB dreijährige Verjährungsfrist mit Ablauf des 31.12.2016 zu laufen begann und am 31.12.2019 24:00 Uhr endete.Da die streitgegenständliche Klage jedoch erst am 06.04.2021 beim Landgericht einging und der Beklagten am 11.05.2021 und damit nach Ablauf der Verjährungsfrist zugestellt wurde, konnte die Klageerhebung die Verjährung nicht mehr nach § 204 Abs. 1 Nr. 1 BGB hemmen.Auf die Frage, ob die Verjährungsfrist aufgrund grob fahrlässiger Unkenntnis der Klagepartei von den den Anspruch begründenden Umständen nicht schon nach § 199 Abs. 1 Nr. 2 2. Var. BGB Ende 2015 begann (wovon das Landgericht ausging), kommt es daher entscheidungserheblich nicht an.b. Eine Hemmung der Verjährung erfolgte auch nicht nach § 204 Abs. 1 Nr. 1a BGB. Zwar hat die Klagepartei behauptet, sie hätte sich zu dem Musterfeststellungsverfahren des Oberlandesgerichts Braunschweig, Az. 4 MK 1/18, angemeldet und auch keinen Vergleich geschlossen (vgl. Klageschrift S. 6). Jedoch hat die Beklagte eine Anmeldung der Klagepartei bestritten (vgl. Schriftsatz des Beklagtenvertreters vom 25.05.2021, S. 52, Bl. 78 d.A.) und hat die Klagepartei eine solche Anmeldung in der Folge nicht nachgewiesen. Das Landgericht hat deshalb eine Hemmung der Verjährung nach § 204 Abs. 1 Nr. 1a BGB zutreffend verneint (LGU S. 4, sechster Absatz), wogegen die Berufung auch keine Rüge erhebt.c. Entgegen der Ansicht der Berufung wurde die Verjährung des streitgegenständlichen klägerischen Schadensersatzanspruchs auch nicht gemäß § 204 Abs. 1 Nr. 1 BGB durch die Erhebung der Sammelklage der f. GmbH zum Landgericht Ingolstadt gehemmt.aa. Zwar war nach der Rechtsprechung des BGH die hier vorliegende treuhänderische Abtretung von Schadensersatzansprüchen an die f. GmbH als Zessionar zum Zwecke deren gerichtlicher Geltendmachung durch den Zessionar zulässig, insbesondere liegt kein Verstoß gegen das RDG vor (vgl. BGH, Urteil vom 13.06.2022 - VIa ZR 418/21). Die f. GmbH war damit bei Erhebung der Klage zum Landgericht Ingolstadt grundsätzlich wirkliche Berechtigte im Sinne des § 204 Abs. 1 Nr. 1 BGB, sodass die Klageerhebung zum Landgericht Ingolstadt die Verjährung gemäß § 204 Abs. 1 Nr. 1 BGB grundsätzlich hemmen konnte (vgl. zur Hemmungswirkung einer von einem Inkassodienstleister erhobenen Klage BGH, Urteil vom 10.10.2022 - VIa ZR 184/22, Rdnrn 15 ff.).bb. Jedoch steht im streitgegenständlichen Fall dem Eintritt dieser Hemmungswirkung entgegen, dass aufgrund der Rücknahme der Berufung der f. GmbH gegen das Endurteil des Landgerichts Ingolstadt vom 07.08.2020, Az. 41 O 1745718, hinsichtlich des für die Klagepartei geltend gemachten Schadensersatzanspruchs am 28.05.2021 im Verhältnis der Parteien rechtskräftig feststeht, dass die Abtretung des klägerischen Schadensersatzanspruchs an die f. GmbH unwirksam war. Wenn nämlich eine in einem ersten Prozess rechtskräftig entschiedene Rechtsfolge in einem zweiten Prozess eine Vorfrage darstellt, so besteht die Wirkung der Rechtskraft in der Bindung des nunmehr entscheidenden Gerichts an die Vorentscheidung (vgl. BGH, Urteil vom 26.06.2003 - I ZR 269/00, Rdnr. 22). Bei einer - wie hier im Fall des Endurteils des Landgerichts Ingolstadt - klageabweisenden Entscheidung ist der aus der Begründung zu ermittelnde, die Rechtsfolge bestimmende, ausschlaggebende Abweisungsgrund Teil des in Rechtskraft erwachsenden Entscheidungssatzes (vgl. BGH, Urteil vom 24.06.1993 - III ZR 43/92, Rdnr. 16).Tragender Grund für das Landgericht Ingolstadt, die Sammelklage der f. GmbH abzuweisen, war die vom ihm angenommene Unwirksamkeit der Forderungsabtretung an die f. GmbH wegen eines Verstoßes gegen das RDG (vgl. LG Ingolstadt - Urteil vom 07.08.2020, Rdnrn 2958 ff.), sodass diese Unwirksamkeit der Entscheidung auch im vorliegenden Fall zu Grunde zu legen war.Die Rechtskraft des Endurteils des Landgerichts Ingolstadt vom 07.08.2020 wirkte nach § 325 Abs. 1 ZPO auch für und gegen die Klagepartei, die zwar an dem Prozess vor dem Landgericht Ingolstadt nicht beteiligt war (Parteien waren dort allein die f. GmbH einerseits und die Beklagte sowie die A.  AG andererseits), an die die f. GmbH den Schadensersatzanspruch jedoch mit Schreiben vom 04.11.2020 (Anl. K 19) wirksam rückabgetreten hatte (§ 265 Abs. 1 ZPO).Nachdem somit im streitgegenständlichen Verfahren aufgrund der Rechtskraft des Endurteils des Landgerichts Ingolstadt hinsichtlich des klägerischen Schadensersatzanspruchs von der Unwirksamkeit der Abtretung des Schadensersatzanspruchs durch die Klagepartei an die f. GmbH auszugehen ist, war die f. GmbH nicht als wirkliche Berechtigte des Schadenersatzanspruchs anzusehen und entfaltete die Erhebung der Sammelklage durch die f. GmbH zum Landgericht Ingolstadt keine Hemmungswirkung nach § 204 Abs. 1 Nr. 1 BGB.d. Die Verjährung des streitgegenständlichen Schadensersatzanspruchs wurde auch nicht durch die Aufnahme von Verhandlungen nach § 203 S. 1 BGB gehemmt (vgl. Berufungsbegründung S. 17, Bl. 25 d.A.). Denn zum Zeitpunkt der Aufnahme der Verhandlungen am 04.12.2020 war die Verjährung bereits abgelaufen (vgl. oben a).Nach alledem ist der Schadensersatzanspruch der Klagepartei aus § 826 BGB verjährt.3. Es kann dahinstehen, ob der Klagepartei wegen des Kaufs des streitgegenständlichen Fahrzeugs auch Schadensersatzansprüche gegen die Beklagte aus § 823 Abs. 2 iVm. § 263 Abs. 1 StGB oder § 823 Abs. 2 BGB iVm. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV zustehen, da auch diese Ansprüche - falls sie denn bestehen sollten - jedenfalls verjährt wären. Denn für diese Ansprüche gilt das oben unter 1 und 2 zur Verjährung des Schadensersatzanspruchs aus § 826 BGB Ausgeführte entsprechend.4. Die Klagepartei hat auch keinen Anspruch aus § 852 S. 1 BGB gegen die Beklagte. Denn nach der Einlassung der Klagepartei in ihrer informatorischen Anhörung vor dem Senat am 21.12.2022 hat der Autohändler in Regensburg, von dem die Klagepartei das Fahrzeug erworben hat, dieses unabhängig von einer Bestellung der Klagepartei zuvor von der Beklagten erworben. Das Fahrzeug stand nämlich bei Kauf bereits in den Ausstellungsräumen des Autohändlers (vgl. S. 3 des Protokolls der mündlichen Verhandlung vom 21.12.2022, Bl. 211 d.A.). In diesem Fall fehlt es aber an dem für §§ 826, 852 S. 1 BGB erforderlichen Zurechnungszusammenhang (vgl. BGH, Urteil vom 21.03.2022 - VIa ZR 275/21, Rdnr. 28).5. Da sich die Beklagte der Teilerledigterklärung der Klagepartei in der mündlichen Verhandlung vor dem Senat am 21.12.2022 widersetzt hat, war über den in der Teilerledigterklärung zu sehenden Antrag der Klagepartei auf Feststellung der teilweisen Erledigung des Rechtsstreits zu entscheiden.Dieser Antrag ist unbegründet, da die Klage von Anfang an unbegründet war. Die geltend gemachten Schadensersatzansprüche waren nämlich verjährt (vgl. oben unter 1- 3). Ein Anspruch aus § 852 S. 1 BGB bestand nicht (siehe oben unter 2).Nach alledem ist die Klage zur Gänze unbegründet und war die Berufung zurückzuweisen.C.I.Der Ausspruch zu den Kosten folgt aus § 97 Abs. 1 ZPO.II.Die vorläufige Vollstreckbarkeit beruht auf §§ 711, 713 ZPO.III.Die Revision gegen dieses Urteil war nicht zuzulassen, da ein Revisionsgrund nicht vorliegt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2462574.html (https://oj.is/2462574)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate7
+				
+				
+					 Zitiert2
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

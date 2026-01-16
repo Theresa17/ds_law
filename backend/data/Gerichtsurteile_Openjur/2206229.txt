@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNiedersachsenOrdentliche GerichtsbarkeitLG BraunschweigRechtsprechungUrteil vom 06.12.2017 - 3 O 589/17 (90)
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Braunschweig, Urteil vom 06.12.2017 - 3 O 589/17 (90)
+                      m. Fundstelle
+                      LG Braunschweig, Urteil vom 06.12.2017 - 3 O 589/17 (90) = openJur 2020, 9933
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Braunschweig, Urteil vom 06.12.2017 - 3 O 589/17 (90)
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 9933
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				1. Die Feststellungsklage des Käufers eines bei einem Autohaus gekauften, vom sog. Abgasskandal betroffenen Gebrauchtwagens gegen den Hersteller von Fahrzeug und Motor auf Schadensersatz ist wegen Vorrangs der Leistungsklage unzulässig, wenn der Käufer in erster Linie die Rückzahlung des Kaufpreises Zug um Zug gegen Übereignung des Fahrzeugs begehrt.2. Dem Käufer eines bei einem Autohaus gekauften, vom sog. Abgasskandal betroffenen Gebrauchtwagens stehen gegen den Hersteller von Fahrzeug und Motor Schadensersatzansprüche weder aus Prospekt-, Vertrauens- oder Garantiehaftung noch aus unerlaubter Handlung zu. 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des zu vollstreckenden Betrages vorläufig vollstreckbar.Streitwert: Wertstufe bis 25.000,00 €. 
+				Tatbestand
+				Der Kläger begehrt die Feststellung der Schadensersatzverpflichtung der Beklagten als Herstellerin seines in einem Autohaus gekauften Gebrauchtwagens, der vom sog. Abgasskandal betroffen ist.Der Kläger kaufte durch Bestellung vom 28.01.2015 vom Autohaus xxx, einen gebrauchten Pkw xxx zum Preis von 29.200,00 € (Anlage K 1), der ihm laut Rechnung vom 02.02.2015 (Anlage K 1) am 03.02.2015 übergeben wurde. Dieser Pkw ist mit einem Dieselmotor der Baureihe xxx ausgestattet.Das Kraftfahrt-Bundesamt (KBA) kam mit - nicht angefochtenem - Bescheid vom 15.10.2015 - 400-52.V/001#018 - (Anlage B 7) zu dem Ergebnis, dass diese Motoren mit einer unzulässigen Abschalteinrichtung i. S. von Art. 5 Abs. 2 der Verordnung (EG) Nr. 715/2007 ausgerüstet seien, und ordnete als nachträgliche Nebenbestimmungen für die jeweils erteilten Typgenehmigungen gem. § 25 Abs. 2 EG-FGV an, dass die Beklagte zur Vermeidung des Widerrufs oder der Rücknahme der Typgenehmigungen verpflichtet ist, die unzulässigen Abschalteinrichtungen zu entfernen sowie geeignete Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit zu ergreifen, was durch Beibringen geeigneter Nachweise zu belegen ist.Mit Schreiben vom 20.06.2016 (Anlage B 1) bestätigte das KBA unter Bezugnahme auf seinen Bescheid 400-52.V/001#018 vom 15.10.2015 (bei der Datumsangabe 14.10.2015 handelt es sich um einen offenbaren Übertragungsfehler), dass für die betroffenen Fahrzeugtypen aus Cluster 5 (Verkaufsbezeichnungen: u. a. xxx), dieser Nachweis inzwischen geführt worden und dass die von der Beklagten vorgestellte Änderung der Applikationsdaten geeignet sei, die Vorschriftsmäßigkeit der genannten Fahrzeuge herzustellen.Von dieser Freigabebestätigung informierte die Beklagte den Kläger mit ihrer Klageerwiderung vom 27.06.2017 und teilte ihm des Weiteren mit, dass das betreffende Software-Update bereits verfügbar sei und er jederzeit einen Termin mit einem Servicepartner seiner Wahl vereinbaren könne, um die technische Maßnahme auf ihre Kosten durchführen zu lassen. Der Kläger, der sein Auto weiterhin ohne Einschränkungen nutzt, hat davon bislang keinen Gebrauch gemacht.Der Kläger meint, er habe wegen der Manipulation am Motor seines Pkws einen Schadensersatzanspruch gegen die Beklagte aus Prospekt-, Vertrauens- und Garantiehaftung sowie aus unerlaubter Handlung.Der Kläger beantragt,1. festzustellen, dass die Beklagte verpflichtet ist, ihm Schadensersatz zu leisten für Schäden, die aus der Manipulation des Fahrzeugs xxx, durch die Beklagte resultieren;2. die Beklagte zu verurteilen, ihn von den durch die Beauftragung seiner Prozessbevollmächtigten entstandenen vorgerichtlichen Rechtsanwaltskosten in Höhe von 2.077,74 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte meint, bei der in Frage stehenden Software handele es sich nicht um eine unzulässige Abschalteinrichtung. Sie bestreitet, den Kläger getäuscht und geschädigt zu haben.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen sowie auf das Protokoll der mündlichen Verhandlung verwiesen. 
+				Gründe
+				A.Die Klage ist hinsichtlich des Klageantrages zu 1. bereits unzulässig (I.), hinsichtlich des Klageantrages zu 2. zwar zulässig, aber unbegründet (II.).I.Der Feststellungantrag zu 1. ist mangels rechtlichen Interesses i. S. von § 265 Abs. 1 ZPO unzulässig.1. Das Feststellungsinteresse fehlt wegen des Vorrangs der Leistungsklage. Die Höhe des Kaufpreises, dessen Rückzahlung der Kläger hier - abzüglich einer Nutzungsentschädigung im Rahmen der Vorteilsausgleichung - in erster Linie begehrt (vgl. S. 38 der Klageschrift), ist bezifferbar. Für einen den Anforderungen des § 253 Abs. 2 Nr. 2 ZPO genügenden Antrag ist entgegen der Ansicht des Klägers weder eine Darlegung der Höhe der Nutzungsentschädigung durch die Beklagte noch ein Sachverständigengutachten erforderlich. Ein etwaiger Vorteil wird nämlich vom Ersatzanspruch abgezogen, ohne dass es einer Gestaltungserklärung oder Einrede des Schädigers bedarf. Die diesbezügliche Möglichkeit der gerichtlichen Schätzung nach § 287 ZPO entbindet den Kläger zwar nicht vollständig von der Angabe, in welcher Höhe er sich Vorteile für die gefahrenen Kilometer anrechnen lassen will, sie führt aber zu einer Erleichterung seiner Darlegung.2. Eine Feststellungsklage ist hier auch nicht deshalb zulässig, weil nur ein Teil des geltend gemachten Schadens schon entstanden und damit bezifferbar ist, denn im vorliegenden Fall steht die Entstehung weiterer Schäden nicht zu erwarten. Der Kläger ist zwar der Ansicht, es drohten steuerliche Schäden. Dafür, dass etwa die steuerliche Entlastung von Dieselfahrzeugen rückwirkend aufgehoben werden könnte, bestehen jedoch keinerlei Anhaltspunkte. Andere drohende Schäden sind nicht ersichtlich. Insbesondere hat der Kläger den behaupteten allgemeinen Wertverlust von betroffenen Dieselfahrzeugen infolge des sog. Abgasskandals nicht hinreichend dargetan, weshalb die dazu angebotene Einholung eines Sachverständigengutachtens auf einen im Zivilprozess unzulässigen Ausforschungsbeweis hinausliefe. Der Kraftfahrzeugmarkt ist generell schon sehr transparent (wie z. B. durch die sog. Schwacke-Liste), die Preisentwicklung von gebrauchten Dieselfahrzeugen steht zudem unter besondere medialer Aufmerksamkeit (wie z. B. durch das „DAT Diesel-Barometer“), so dass es dem Kläger ohne Weiteres möglich gewesen wäre, etwaige Wertverschiebungen, die auf den sog. Abgasskandal zurückzuführen sind, konkret darzulegen. Daran fehlt es hier aber.3. Ein Feststellungsinteresse besteht auch nicht etwa ausnahmsweise deshalb, weil die Beklagte mit einer Behörde oder einer Versicherung im Sinne der Rechtsprechung verglichen werden könnte, die aufgrund eines Feststellungsurteils leisten würde (vgl. Zöller-Greger, ZPO, 30. Aufl., § 256 Rn 8 m. w. N.). Diese Ausnahme gilt nämlich nur für Fälle, in denen schon das Feststellungsurteil zu endgültiger Streitbeilegung führen würde, was hier nach dem übrigen Vortrag beider Parteien nicht zu erwarten ist.II.Der Kläger hat keinen Anspruch gegen die Beklagte auf die mit dem Klageantrag zu 2. begehrte Freistellung von seinen vorgerichtlichen Rechtsanwaltskosten.Entgegen der Replik (dort S. 159) kann ein solcher schon deswegen nicht auf eine „Pflichtverletzung aus dem Kaufvertrag“ gestützt werden, weil die Parteien hier gar nicht durch einen Kaufvertrag verbunden sind. Die vorgerichtlichen Rechtsanwaltskosten des Klägers sind aber auch nicht als Schadensposition im Rahmen des § 249 BGB zu ersetzen, weil bereits dem Grunde nach kein Schadensersatzanspruch des Klägers gegen die Beklagte besteht, und zwar weder aus Prospekthaftung (1.), Vertrauenshaftung (2.) bzw. selbständiger Garantie (3.) noch aus § 823 Abs. 2 BGB i. V. m. § 263 StGB (4.), i. V. m. §§ 6, 27 EG-FGV (5.), i. V. m. § 16 UWG (6.) bzw. § 4 Nr. 11 UWG a. F. (7.) und auch nicht aus § 826 BGB (8.) oder § 831 BGB (9).1. Die von der Rechtsprechung für den gesetzlich nicht regulierten und organisierten sog. Grauen Kapitalmarkt entwickelten Grundsätze der Prospekthaftung gehen davon aus, dass der Emissionsprospekt in der Regel die einzige Informationsquelle des Anlegers ist. Nur unter der Voraussetzung, dass die durch den Prospekt vermittelte Information vollständig und richtig ist, kann der Kunde die ihm angebotene Kapitalanlage objektiv beurteilen und sein Anlagerisiko, das ihm ohnehin verbleibt, richtig einschätzen (vgl. BGH, Urteil vom 31.05.1990 - VII ZR 340/88 -, juris Rn. 14). Anders als bei Kapitalanlagen stehen für die Entscheidung über den Erwerb eines bestimmten Fahrzeugs eine Vielzahl verschiedener Informationsquellen zur Verfügung. Der Kaufinteressent kann sich etwa in diversen Autotest- und Fachzeitschriften sowie im Internet über das jeweilige Fahrzeug informieren und ein ihn interessierendes Fahrzeug im Autohaus anschauen und sogar probefahren, weshalb die Grundsätze der Prospekthaftung für Ansprüche des Käufers im Zusammenhang mit einem Autokauf von vornherein nicht übertragbar sind, zumal der Schutz des Vertrauens in Prospektangaben im Kaufrecht durch § 434 Abs.1 S. 3 BGB sichergestellt wird (vgl. Urteil der Kammer vom 31.08.2017 - 3 O 21/17 -, juris Rn. 56).2. Nach § 311 Abs. 3 S. 2 BGB entsteht ein Schuldverhältnis zwischen Nicht-Vertragsparteien insbesondere dann, wenn der Dritte in besonderem Maße Vertrauen für sich in Anspruch nimmt und dadurch die Vertragsverhandlungen oder den Vertragsschluss erheblich beeinflusst. Das ist bei der Beklagten nicht der Fall. Sie war weder unmittelbar noch mittelbar an den Vertragsverhandlungen beteiligt noch hatte sie ein über ihr allgemeines - durch den Verkauf an den Erstbesitzer ohnehin befriedigtes - Absatzinteresse hinausgehendes wirtschaftliches Interesse gerade an dem Vertragsabschluss mit dem Kläger.Auch die am 15.02.2014 von der Beklagten ausgestellte EG-Übereinstimmungsbescheinigung scheidet anders, als der Kläger meint, als vertrauensbegründende Maßnahme im Rahmen des Abschlusses des Kaufvertrages aus, weil sie zeitlich erst nach dem Vertragsschluss in Erfüllung dessen zusammen mit dem Fahrzeug übergeben worden ist.3. Entgegen der Auffassung des Klägers ist durch die Entgegennahme der EG-Übereinstimmungsbescheinigung auch keine selbständige Garantie i. S. von § 443 BGB zustande gekommen, weil der Übereinstimmungsbescheinigung weder ihrem Wortlaut noch ihrem Zweck nach ein solcher Erklärungs- und Rechtsbindungswillen beigemessen werden kann.Ihrem Wortlaut nach wird in der EG-Übereinstimmungsbescheinigung vom 15.02.2014, die nicht an den Käufer adressiert, sondern gem. § 6 Abs. 1 S. 1 EG-FGV lediglich dem Fahrzeug beizufügen ist, nur „bestätigt“, dass der streitgegenständliche xxx mit dem in der Genehmigung beschriebenen Typ übereinstimmt. Der Zweck der Übereinstimmungsbescheinigung besteht in der Vereinfachung und Formalisierung des Zulassungsverfahrens: Die Zulassungsbehörden sollen allein aufgrund der vorgelegten Übereinstimmungsbescheinigung das jeweilige Fahrzeug zulassen (§ 6 Abs. 3 S. 1 FZV), d. h. ohne die vom KBA im Genehmigungsverfahren geprüften materiellen Anforderungen erneut prüfen zu müssen. Die Übereinstimmungsbescheinigung dient also allein dazu, die problemlose Zulassung des jeweiligen Fahrzeugs zu gewährleisten.Vor diesem Hintergrund bestehen keine Anhaltspunkte dafür, dass sich die Beklagte mit der Ausstellung der Übereinstimmungsbescheinigung im Sinne einer selbständigen Garantie zu einer über die gesetzliche Mängelgewährleistung des jeweiligen Verkäufers hinausgehenden Haftung verpflichten wollte (vgl. Urteil der Kammer vom 31.08.2017, a. a. O., Rn. 37 ff., 51, 176).4. Voraussetzung für einen Schadensersatzanspruch aus § 823 Abs. 2 BGB i. V. m. § 263 StGB wäre zunächst eine Täuschung des Klägers. Hinreichend dargetan hat der Kläger eine Täuschung über das streitgegenständliche Fahrzeug durch die Beklagte allein hinsichtlich der Verwendung einer unzulässigen Abschalteinrichtung. Es steht zwar fest, dass die Beklagte das Motorsteuergerät des klägerischen Pkws mit einer solchen unzulässigen Abschalteinrichtung i. S. von Art. 5 Abs. 2 der Verordnung (EG) Nr. 715/2007 versehen hat (a). Insoweit ist aber keine aktive Täuschungshandlung der Beklagten ersichtlich, sondern allenfalls eine Täuschung durch Unterlassen der Aufklärung über die unzulässige Abschalteinrichtung, für die es aber an einer Garantenstellung der Beklagten i. S. von § 13 StGB fehlt (b).a) Nach ständiger Rechtsprechung des Bundesgerichtshofs, der die Kammer folgt, sind Verwaltungsakte in den Grenzen ihrer Bestandskraft für andere Gerichte und Behörden bindend (vgl. hierzu und zum Folgenden: BGH NJW-RR 2007, 398, 399 m. w. N.). Gerichte haben Verwaltungsakte deshalb, auch wenn sie fehlerhaft sein sollten, grundsätzlich zu beachten, solange sie nicht durch die zuständige Behörde oder durch ein zuständiges Gericht aufgehoben worden sind. Sie haben die durch den Verwaltungsakt getroffene Regelung oder Feststellung unbesehen, d. h. ohne eigene Nachprüfung der Rechtmäßigkeit des Verwaltungsaktes, zu Grunde zu legen. Durch den bestandskräftigen Rückrufbescheid des KBA vom 15.10.2015 und dessen Freigabebestätigung vom 20.06.2016 ist in diesem Sinne bindend festgestellt bzw. geregelt,dass es sich bei der in den betreffenden Fahrzeugen verwendeten Software um eine unzulässige Abschalteinrichtung i. S. von Art. 5 Abs. 2 der Verordnung (EG) Nr. 715/2007 handelt;dass die Beklagte zur Vermeidung des Widerrufs oder der Rücknahme der Typgenehmigungen verpflichtet ist, diese unzulässigen Abschalteinrichtungen zu entfernen und geeignete Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit zu ergreifen, was durch Beibringen geeigneter Nachweise zu belegen ist;dass für die betroffenen Fahrzeuge dieser Nachweis inzwischen geführt wurde und dass die von der Beklagten vorgestellte Änderung der Applikationsdaten - durch Software-Update - geeignet ist, die Vorschriftsmäßigkeit der genannten Fahrzeuge herzustellen;dass das KBA dabei folgende Sachverhalte mit folgenden Ergebnissen überprüft hat: keine unzulässigen Abschalteinrichtungen mehr, vorhandene Abschalteinrichtungen zulässig, Grenzwerte und andere Anforderungen an emissionsmindernde Einrichtungen eingehalten, ursprünglich vom Hersteller angegebene Kraftstoffverbrauchwerte und CO2-Emissionen in Prüfungen durch einen Technischen Dienst bestätigt, bisherige Motorleistung und maximales Drehmoment unverändert sowie bisherige Geräuschemissionswerte unverändert.b) Eine Täuschung durch Unterlassen setzt gem. § 13 Abs. 1 StGB eine Garantenstellung voraus, d. h. dass der Täter als „Garant“ für die Abwendung des Erfolgs einzustehen hat. Soweit es um Aufklärungspflichten im Zusammenhang mit einem Kaufvertrag geht, wird eine solche Aufklärungspflicht beim Verkäufer, mit dem immerhin ein Vertragsverhältnis besteht, erst dann gesehen, wenn es um wertbildende Faktoren der Kaufsache von ganz besonderem Gewicht geht (vgl. BayObLG, Beschluss vom 09.12.1993 - 3 St RR 127/93 -, juris Rn. 24 f.). Das muss für den vertraglich nicht mit dem Käufer verbundenen, mithin weiter entfernten Fahrzeughersteller erst recht gelten.Eine Aufklärungspflicht der Beklagten würde in der Tat dann bestehen, wenn, wie der Kläger meint, infolge der Verwendung der unzulässigen Abschalteinrichtung die EG-Typgenehmigung für sein Fahrzeug erloschen wäre. Nach § 19 Abs. 7 in Verbindung mit Abs. 2 StVZO erlischt die Betriebserlaubnis in Form der Wirksamkeit der EG-Typgenehmigung für das einzelne Fahrzeug zwar dann, wenn Änderungen vorgenommen werden, durch die das Abgas- oder Geräuschverhalten verschlechtert wird. Zur Überzeugung der Kammer sind damit aber nur Veränderungen gemeint, die nach Abschluss des Produktionsprozesses vorgenommen werden. Hierfür spricht nicht nur der Wortlaut, sondern auch die historische Auslegung der Vorschrift. Der Gesetzgeber hat nämlich in der Bundesrats-Drucksache 629/93 zur 16. Verordnung zur Änderung straßenverkehrsrechtlicher Vorschriften, mit dem unter anderem § 19 Abs. 2 StVZO geändert wurde und ihre im Wesentlichen bis heute geltende Fassung erhielt, unmissverständlich ausgeführt, dass „die bisherigen EWG-Vorschriften keine Aussagen über Veränderungen an bereits zugelassenen Fahrzeugen treffen“ und daher „gegenwärtig der Schluss gezogen werden [kann], dass den EG-Mitgliedstaaten die Regelungen von Veränderungen an bereits im Verkehr befindlichen Fahrzeugen überlassen ist“ (vgl. Urteil der Kammer vom 31.08.2017, a. a. O., Rn. 117 ff., 137 ff.).Auch droht keine Entziehung der Gesamtfahrzeug-Typgenehmigung, weil das KBA in seinem Bescheid vom 15.10.2015 sein gem. § 25 Abs. 3 EG-FGV zustehendes Ermessen gerade nicht dahingehend ausgeübt hat, dass es eine Entziehung der EG-Typgenehmigung in die Wege geleitet hat. Die Behörde ist vielmehr nach § 25 Abs. 2 EG-FGV vorgegangen und hat Nebenbestimmungen zur bestehenden Typgenehmigung angeordnet. Doch selbst eine Entziehung der Typgenehmigung hätte erst dann die Folge der Nichtnutzbarkeit des klägerischen Fahrzeugs, wenn die zuständige Landesbehörde daraufhin wiederum von dem ihr gem. § 5 FZV zustehenden Ermessen Gebrauch machen würde, die Nutzung des Fahrzeugs dauerhaft zu untersagen, was eine Entziehung der Zulassung beinhalten würde.Dass aber die Verwendung der zwar unzulässigen, aber allein durch ein vom KBA freigegebenes Software-Update zu beseitigende Abschalteinrichtung auf andere Weise einen wertbildenden Faktor darstellt, dem der Markt ein ganz besonderes Gewicht beimisst, ist weder hinreichend vorgetragen noch ersichtlich. Das gilt insbesondere für den behaupteten Verbleib eines merkantilen Minderwerts (s. o. A. I. 2.).Eine Garantenpflicht zugunsten des Klägers ergibt sich auch nicht aus pflichtwidrigem Vorverhalten (Ingerenz). Die Verwendung der unzulässigen Abschalteinrichtung stellt zwar ein pflichtwidriges Vorverhalten dar. Eine Pflichtwidrigkeit löst im Einzelfall aber nur dann eine Garantenpflicht aus, wenn die verletzte Norm gerade dem Schutz des fraglichen Rechtsgutes zu dienen bestimmt ist (vgl. Schönke/Schröder-Stree/Bosch, StGB, 28. Aufl., § 13 Rn. 35a m. w. N.). Den Erwägungsgründen (1) bis (6) und (27) der verletzten Verordnung (EG) Nr. 715/2007 ist zu entnehmen, dass diese nicht dem Schutz individueller Vermögensinteressen dient, sondern der Weiterentwicklung des Binnenmarkts durch Harmonisierung der technischen Vorschriften über die Typgenehmigung von Kraftfahrzeugen hinsichtlich ihrer Emissionen, insbesondere mit dem Ziel der erheblichen Minderung der Stickstoffoxidemissionen bei Dieselfahrzeugen zur Verbesserung der Luftqualität und zur Einhaltung der Luftverschmutzungsgrenzwerte. Der vom Kläger geltend gemachte Vermögensschaden fällt daher nicht in den Schutzbereich dieser Norm.Damit scheidet ein Schadensersatzanspruch wegen Betruges aus.5. Entsprechendes gilt für § 823 Abs. 2 BGB i. V. m. §§ 6, 27 EG-FGV. Denn unabhängig davon, ob die Beklagte diese Vorschriften verletzt hat, fehlt ihnen der von § 823 Abs. 2 BGB vorausgesetzte Schutzgesetzcharakter. Nach ständiger Rechtsprechung des Bundesgerichtshofs ist eine Norm als Schutzgesetz anzusehen, wenn sie nach Zweck und Inhalt zumindest auch dazu dienen soll, den Einzelnen oder einzelne Personenkreise gegen die Verletzung eines bestimmten Rechtsguts zu schützen. Dafür kommt es nicht auf die Wirkung, sondern auf Inhalt und Zweck des Gesetzes sowie darauf an, ob der Gesetzgeber bei Erlass des Gesetzes gerade einen Rechtsschutz, wie er wegen der behaupteten Verletzung in Anspruch genommen wird, zu Gunsten von Einzelpersonen oder bestimmten Personenkreisen gewollt oder doch mit gewollt hat. Bei Vorschriften, die - wie hier die §§ 6, 27 EG-FGV - Richtlinien umsetzen, kommt es nach der gebotenen richtlinienkonformen Auslegung insoweit maßgeblich auf den Inhalt und Zweck der Richtlinie - hier der Richtlinie 2007/46/EG - an (vgl. BGH, EuGH-Vorlage vom 09.04.2015, VII ZR 36/14, juris, Rn. 20, 23).Den Erwägungsgründen 2, 4 und 23 zufolge bezweckt die Richtlinie 2007/46/EG die Vollendung des Binnenmarkts und dessen ordnungsgemäßes Funktionieren. Darüber hinaus sollen die technischen Anforderungen in Rechtsakten harmonisiert und spezifiziert werden, wobei die Rechtsakte vor allem auf eine hohe Verkehrssicherheit, hohen Gesundheits- und Umweltschutz, rationelle Energienutzung und wirksamen Schutz gegen unbefugte Benutzung abzielen (Erwägungsgrund 2 der Richtlinie). Weder an diesen Stellen noch unter den anderen Erwägungsgründen der Richtlinie lässt sich demgegenüber ein Hinweis dafür finden, dass der Richtliniengeber darüber hinaus den Schutz des einzelnen Fahrzeugerwerbers bzw. -besitzers gegen Vermögensbeeinträchtigungen im Blick hatte. Auch der nationale Gesetzgeber hat in der Begründung zur EG-FGV (Seite 36 der BR-Drucks. 190/09) in Übereinstimmung damit ausführt, dass die Richtlinie dem Abbau von Handelshemmnissen und der Verwirklichung des Binnenmarktes der Gemeinschaft dienen und die EG-FGV darüber hinaus zur Rechtsvereinfachung und zum Bürokratieabbau beitragen soll (vgl. Urteil der Kammer vom 31.08.2017, a. a. O., Rn. 189 ff.).6. Soweit der Kläger seine Schadensersatzforderung auf § 823 Abs. 2 BGB i. V. m. § 16 UWG stützt, dient § 16 UWG zwar ohne Zweifel dem Schutz des Verbrauchers. Es ist aber nicht ersichtlich, dass die Beklagte i. S. von § 16 Abs. 1 UWG den Anschein eines besonders günstigen Angebots hervorrufen wollte. Der Vorwurf des Klägers geht im Kern dahin, dass die Beklagte mit der Einhaltung der Grenzwerte der Euro 5-Norm geworben hat. Diese mussten aber alle vergleichbaren Fahrzeuge am Markt einhalten. Damit wäre also kein besonderer Vorteil angepriesen.7. Es ist bereits fraglich, ob § 4 Nr.11 UWG in der Fassung vom 03.03.2010 überhaupt ein Schutzgesetz im Sinne des § 823 Abs.2 BGB darstellt. Jedenfalls hat die Beklagte hier nicht gegen Vorschriften verstoßen, deren Einhaltung § 4 Nr.11 UWG a. F. schützt. Die §§ 1, 4, 5 Pkw-EnVKV gebieten lediglich, dass die im Typgenehmigungsverfahren erzielten Kraftstoffverbrauchs- und Emissionswerte zu nennen sind (vgl. Begriffsbestimmungen in § 2 Nr.5, Nr.6 Pkw-EnVKV). Der Kläger bezweifelt aber selbst nicht, dass die genannten Werte im Typgenehmigungsverfahren (Fahrkurven des NEFZ) erzielt wurden.8. Für eine Haftung aus § 826 BGB reicht allein der - feststehende - Verstoß gegen die Verordnung (EG) Nr. 715/2007 nicht aus. Der Bundesgerichtshof hat vielmehr schon 1985 entschieden (Urteil vom 11.11.1985 - II ZR 109/84 -, juris Rn. 15 m. w. N.), dass für Ansprüche aus unerlaubter Handlung allgemein gilt, dass die Ersatzpflicht auf solche Schäden begrenzt ist, die in den Schutzbereich des verletzten Ge- oder Verbots fallen und dass auf eine derartige Eingrenzung der Haftung, um das Haftungsrisiko in angemessenen und zumutbaren Grenzen zu halten, auch im Rahmen des § 826 BGB nicht verzichtet werden kann. Wie bereits ausgeführt (s. o. A. II. 4. b), dient die EG-Verordnung aber nicht dem Schutz individueller Vermögensinteressen.Damit verbleibt auch insoweit allenfalls eine Täuschung durch Verschweigen der unzulässigen Abschalteinrichtung. Das Verschweigen eines Umstandes rechtfertigt aber nicht ohne Weiteres den Vorwurf eines Sittenverstoßes, sondern nur dann, wenn eine Seite der anderen zu entsprechender Offenbarung verpflichtet ist. Eine Offenbarungspflicht entsteht, wenn die andere Seite nach Treu und Glauben mit Rücksicht auf die Verkehrssitte eine Mitteilung erwarten durfte. Auch innerhalb einer vertraglichen Beziehung darf der Vertragspartner nach Treu und Glauben nicht eine vollumfängliche Information über alle Belange des Geschäftes erwarten. Es besteht keine allgemeine Offenbarungspflicht, weil im Vertragsrecht zunächst jedes Privatrechtssubjekt für die Verteidigung seiner Interessen selbst verantwortlich ist. Das gilt insbesondere für den Kaufvertrag, der von gegensätzlichen Interessen geprägt ist. Die Grenze des nach der Verkehrsauffassung Hinnehmbaren ist auch im Rahmen von § 826 BGB erst dann überschritten, wenn es um erhebliche wertbildende Umstände beim Kaufvertragsabschluss geht (vgl. Palandt-Sprau, BGB, 76. Aufl., § 826 Rn. 20 m. w. N.). Wie bereits im Zusammenhang mit der Garantenstellung (§ 823 Abs. 2 BGB i. V. m. § 263 StGB) ausgeführt (s. o. II. 4. b), trifft das auf die Verwendung der unzulässigen Abschalteinrichtung nicht zu.9. Mangels erfüllter deliktischer Haftungstatbestände vermag schließlich auch § 831 BGB den Klageantrag zu 2. nicht zu begründen.B.Die prozessualen Nebenentscheidungen beruhen auf §§ 91, 709 ZPO.C.Die im Beschlusswege erfolgte Streitwertfestsetzung hat ihre Grundlage in § 48 GKG, § 3 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2206229.html (https://oj.is/2206229)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen3
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

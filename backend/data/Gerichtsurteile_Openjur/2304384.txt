@@ -1,0 +1,157 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBaden-WürttembergOrdentliche GerichtsbarkeitLG StuttgartRechtsprechungBeschluss vom 26.10.2020 - 3 O 253/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Stuttgart, Beschluss vom 26.10.2020 - 3 O 253/20
+                      m. Fundstelle
+                      LG Stuttgart, Beschluss vom 26.10.2020 - 3 O 253/20 = openJur 2020, 75953
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Stuttgart, Beschluss vom 26.10.2020 - 3 O 253/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 75953
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+				
+					
+						Zivilprozessrecht Prozess- und Verfahrensrecht 
+						§ 44 Abs. 4 Satz 2 ZPO
+					
+				
+
+			
+			
+			
+			
+				Die Befangenheitsablehnung eines als originärer Einzelrichter tätigen und aus der zugestellten Einleitungsverfügung namentlich ersichtlichen Richters, die für den Beklagten ausschließlich auf dessen Verhalten in einem früheren Verfahren gestützt wird, ist nach dem seit Januar 2020 geltenden Recht gemäß § 44 Abs. 4 Satz 2 ZPO verspätet, wenn die geltend gemachten Ablehnungsgründe dem tätigen Prozessbevollmächtigten aus von ihm bereits zuvor in anderen Verfahren angebrachten gleichartigen Ablehnungsgesuchen vollständig bekannt sind und die Ablehnung nicht zeitnah nach der Anzeige der Verteidigungsbereitschaft, sondern erst mit Ablauf der - gar antragsgemäß verlängerten - Erwiderungsfrist geltend gemacht werden. 
+					
+				document.addEventListener('DOMContentLoaded', function () {
+				  document.getElementById('togglerubrum')
+				          .addEventListener('click', function toggleRubrum() { var tb = document.getElementById('rubrumToggleButton'); tb.classList.toggle('fa-plus-square'); tb.classList.toggle('fa-minus-square'); });
+				});
+				 Rubrum
+				
+				 
+				 In dem RechtsstreitDr. Dieter W...- Kläger -Prozessbevollmächtigte:Rechtsanwälte Berlin, Gz.: ...gegenD... AG, vertreten durch d. Vorstand, ...- Beklagte -Prozessbevollmächtigte:Rechtsanwältewegen Schadensersatzeshat das Landgericht Stuttgart - 3. Zivilkammer - durch den Richter am Landgericht Dr. ... als Einzelrichter am 26.10.2020 beschlossen:
+				 
+				
+				Tenor
+				Das Ablehnungsgesuch der Beklagten vom 10. August 2020 wird als unzulässig verworfen.  
+				Gründe
+				I.Der Kläger macht im vorliegenden Verfahren Ansprüche gegen die Beklagte wegen des Kaufs eines vom Abgasskandal betroffenen Fahrzeugs geltend.Beim Landgericht Stuttgart ist bereits eine Vielzahl von gegen die Beklagte gerichtete Parallelverfahren anhängig, darunter auch in der Zuständigkeit der 3./22. Kammer und des auch vorliegend tätigen Einzelrichters. Dabei hat letzterer in 21 seinerzeit in seiner Einzelrichterzuständigkeit anhängigen Verfahren am 13. November 2019 einen umfassenden Verhandlungstermin durchgeführt, in dem er unter anderem umfassende rechtliche Hinweise erteilt hat (3 O 254/18; 3 O 4/19; 3 O 14/19; 3 O 141/19; 3 O 144/19; 3 O 181/19; 3 O 211/18; 3 O 254/19; 3 O 271/19; 3 O 304/19; 3 O 307/19; 22 O 191/18; 22 O 7/19; 22 O 14/10; 22 O 105/19; 22 O 172/19; 22 O 193/19; 22 O 208/19; 22 O 213/19; 22 O 218/19; 22 O 219/19).Die Beklagte wird dabei unter anderem von sechs verschiedenen Kanzleien vertreten, wobei eine Großkanzlei den übrigen Kanzleien standardisierte Schriftsätze zur Klageerwiderung und zur Ablehnung des Einzelrichters als Textbaustein vorgibt.Die – in einer Vielzahl von Verfahren durch die nämlichen Prozessbevollmächtigten vertretene – Beklagte ist der Auffassung, dass das Verhalten des Einzelrichters in bzw. im Zusammenhang mit diesem Verhandlungstermin die Besorgnis der Befangenheit begründe und hat ihn in sämtlichen am 13. November 2019 verhandelten sowie allen in der Folgezeit im Dezernat des Einzelrichters eingegangenen Verfahren unter Berufung darauf abgelehnt.Über die entsprechenden Befangenheitsgesuche der Beklagten in den am 13. November 2019 verhandelten ursprünglichen Verfahren hat die Kammer bis heute keine Entscheidung getroffen. In drei später eingegangenen und ebenfalls in die Zuständigkeit des hier zuständigen Einzelrichters fallenden Parallelverfahren hat die Kammer entsprechende Befangenheitsgesuche zurückgewiesen. Auf die Beschwerde der Beklagten hat der 16-A-Senat des Oberlandesgerichts Stuttgart sie mit Beschluss vom 1. Juli 2020 für begründet erachtet.Der zuständige Einzelrichter ordnete im vorliegenden Verfahren mit Verfügung vom 15. Juni 2020 das schriftliche Vorverfahren an. Diese Verfügung sowie die Klageschrift wurden der Beklagten am 18. Juni 2020 zugestellt. Mit am 1. Juli 2020 bei Gericht eingegangenem Schriftsatz vom 1. Juli 2020 legitimierte sich der Prozessbevollmächtigte der Beklagten und beantragte die am 16. Juli 2020 ablaufende Frist zur Klageerwiderung bis zum 13. August 2020 zu verlängern. Mit Verfügung des Einzelrichters vom 6. Juli 2020 wurde diesem Antrag entsprochen. Mit Schriftsatz vom 10. August 2020 lehnte der Prozessbevollmächtigte der Beklagten den Einzelrichter erneut unter Hinweis auf behauptete Verfahrensfehler des Einzelrichters im Rahmen Verhandlungstermins vom 13. November 2019 ab.II.1. Das Ablehnungsgesuch der Beklagten vom 10. August 2020 ist durch den hier zuständigen Einzelrichter als unzulässig zu verwerfen.Die Entscheidung war dabei ausnahmsweise durch den abgelehnten Richter selbst zu treffen (RG, Beschl. v. 23.6.1899, RGZ 44, 402; BGH, NJW 1974, 55; BGH, NJW-RR 2005, 1226; BAG, NJW 2012, 1531 [1532]; BFH, BGHE 226, 109 [111f.]; BFH, Beschluss in BFH/NV 2000, 1359 mwN = juris Rn. 22; OLG Karlsruhe, MDR 2014, 242; OLG Jena, BeckRS 2017, 106770, Rn. 12; Stein/Jonas/Bork, 23. Aufl. § 45 Rn. 2; MüKo-ZPO-Stackmann, 5. Aufl., § 45 Rn. 2, Zöller/Vollkommer, 33. Aufl., § 45 Rn. 4). Die Rechtsgrundlage folgt aus der verfassungsrechtlich anerkannten entsprechenden Anwendung des § 26a Abs. 1 Nr. 1 StPO (BVerfG, NJW-RR 2008, 72 [73]). Sie stellt keine Entscheidung in eigener Sache, sondern eine reine Formalentscheidung dar (vgl. MüKo-StPO/Conen/Tsambikakis, § 26a Rn. 5; BVerwG, Beschl. v. 15.8.2017 – 4 BN 22.17 – juris Rn. 16).Das originäre Selbstentscheidungsrecht steht neben dem Verfahren nach § 45 ZPO solitär, solange von der Kammer keine Sachentscheidung getroffen wird. Soweit die Voraussetzungen des Selbstablehnungsrechts vorliegen, hat der Gesetzgeber durch den klaren Wortlaut der Vorschrift die Anwendbarkeit des § 26a StPO nicht in das Ermessen des Gerichts gestellt. Gleiches hat bei seiner analogen Anwendung des § 26a Abs. 1 Nr. 1 StPO im Rahmen des Zivilprozesses zu gelten.2. Gemäß der seit dem 1. Januar 2020 – selbst für zu diesem Zeitpunkt bereits laufende Verfahren (vgl. Zöller/G. Vollkommer, 33. Auflage 2020, § 44 Rn. 11a; BT-Drs. 19/13828, S. 24) – geltenden Regelung in § 44 Abs. 4 S. 2 ZPO ist ein Ablehnungsgesuch unverzüglich anzubringen. Ein Verstoß gegen die Vorschrift führt zur Unzulässigkeit des Ablehnungsgesuchs (vgl. Zöller/G. Vollkommer, a.a.O., § 44 Rn. 11a; Schultzky, MDR 2020, 1, juris Rn. 9). Dabei ist diese Regelung ganz bewusst in Anlehnung an die entsprechende strafprozessuale Regelung in § 26a StPO geschaffen, so dass zu ihrer Auslegung auf die entsprechende strafprozessuale Rechtsprechung zurückgegriffen werden kann.Nach dem Willen des Gesetzgebers sollen dabei Ablehnungsgesuche unverzüglich, das heißt ohne prozesswidriges Verzögern, nach Kenntniserlangung des Ablehnungsgrundes geltend gemacht werden. Weiter soll die Vorschrift die Regelung in § 43 ZPO, welche einen Verlust des Ablehnungsrechts bei einer rügelosen Einlassung vorsieht, ergänzen und insbesondere verhindern, dass Ablehnungsanträge von einer Partei aus taktischen Gründen zur Verfahrensverzögerung erst dann gestellt werden, wenn sich im Verlauf des Verfahrens eine für sie ungünstige Verhandlungsposition ergibt (BR-Drs. 19/13828, S. 17). Lediglich eine Verzögerung von wenigen Tagen soll dabei noch kein prozesswidriges Verzögern darstellen (vgl. Schultzky, MDR 2020, 1, juris Rn. 9; MükoZPO/Becker-Eberhard, 5. Auflage 2016, § 271 Rn. 7; OLG Brandenburg, Beschluss vom 6. August 2020 – 13 UF 162/18 – juris Rn. 6 [Zeit von höchstens drei bis vier Tagen]; vgl. auch Hans. OLG, Beschluss vom 25. Februar 2020 – 12 UF 27/19 juris Rn. 6).Die maßgebliche Kenntnis des Ablehnungsgrundes umfasst zum einen die Person des mit der Sache befassten Richters und zum anderen die Kenntnis der Tatsachen, die die Besorgnis der Befangenheit begründen. Dabei ist der Partei das Wissen ihres Prozessbevollmächtigten gemäß § 85 Abs. 2 ZPO zuzurechnen; lediglich eine Zusammenrechnung des Wissens der Partei einerseits und des Prozessbevollmächtigten andererseits kann dabei nicht vorgenommen werden (vgl. insgesamt BGH, Beschluss vom 15. September 2020 – VI ZB 10/20 – juris – Leitsatz 2 und Tz. 18. m.w.N.).Gemessen an diesen Maßstäben hat die Beklagte ihr Ablehnungsgesuch vorliegend nicht rechtzeitig angebracht.Die – regelmäßig durch ihren auch im vorliegenden Verfahren tätigen Prozessbevollmächtigten vertretene – Beklagte lehnt den Einzelrichter systematisch in sämtlichen Fällen ab, die im Zusammenhang mit Rückabwicklungsklagen aufgrund behaupteter Manipulationen der Dieselaggregate stehen - erstmals am 26. November 2019 in den Verfahren, in denen am 13. November 2019 mündlich verhandelt worden war. Da sich diese Befangenheitsablehnungen jeweils ausschließlich auf ein Verhalten des abgelehnten Richters in anderen Verfahren beziehen, die – lange – vor der Rechtshängigkeit der vorliegenden Sache datieren, und da die nämlichen Ablehnungsgründe dabei gerade von den auch hier tätigen Prozessbevollmächtigten der Beklagten seit dem 26. November 2019 laufend geltend gemacht wurden, verfügten jedenfalls diese Prozessbevollmächtigten bereits bei Eingang der vorliegenden Klage in ihrer Kanzlei über sämtliche Kenntnisse hinsichtlich der später geltend gemachten Befangenheitsablehnung; für sie ergab sich aus der – ausweislich der erfolgten Anzeige der Verteidigungsbereitschaft (sowie auch des späteren Fristverlängerungsantrages) unzweifelhaft zur Kenntnis genommenen Erstverfügung des Einzelrichters zudem auch abschließend die Person des hier tätigen (Einzel-) Richters. Daher begann mit der – der erfolgten Verteidigungsanzeige (sowie erneut dem späteren Fristverlängerungsantrag) vorangegangen – Aktenvorlage bei dem handelnden Prozessbevollmächtigten zugleich auch ohne weiteres bereits die maßgebliche kurze Überlegungsfrist für eine etwaige Befangenheitsablehnung im konkreten Verfahren. Dass die Beklagte und ihre Prozessbevollmächtigten zu diesem Zeitpunkt über alle erforderlichen Kenntnisse verfügten wird im Übrigen auch dadurch überaus deutlich, dass sie (in der Zeit davor !) bereits in mehreren Parallelverfahren ihr entsprechendes Befangenheitsgesuch zusammen mit der Verteidigungsanzeige (vgl. die Parallelverfahren 3 O 293/20; 3 O 139/20; 3 O 226/20) bzw. kurz darauf angebracht (3 O 288/20 [vier Tage nach der Verteidigungsanzeige]) hatten.Eine den entsprechenden gesetzlichen Anforderungen genügendes Befangenheitsgesuch war auch nicht etwa ausnahmsweise entbehrlich. Der Beschluss des Oberlandesgerichts vom 1. Juli 2020 zur Annahme einer Befangenheit des auch hier tätigen Einzelrichters in einem weiteren Parallelverfahren wirkt ausschließlich für dasjenige Verfahren, in dem er ergangen ist; davon geht im Übrigen offenkundig auch die Beklagte aus, die anderenfalls nicht ein gesondertes Befangenheitsgesuch hätte einreichen, sondern vielmehr eine Verletzung des gesetzlichen Richters hätte geltend machen müssen.
+			
+			
+			
+			Permalink: https://openjur.de/u/2304384.html (https://oj.is/2304384)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate10
+				
+				
+					 Zitiert1
+				
+
+				
+					 Faksimile
+				
+
+				
+					 Referenzen1
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

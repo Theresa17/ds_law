@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BonnRechtsprechungUrteil vom 04.09.2019 - 20 O 207/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bonn, Urteil vom 04.09.2019 - 20 O 207/18
+                      m. Fundstelle
+                      LG Bonn, Urteil vom 04.09.2019 - 20 O 207/18 = openJur 2020, 84731
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bonn, Urteil vom 04.09.2019 - 20 O 207/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 84731
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1) Die Beklagte wird verurteilt, an die Klägerin 8.956,65 € nebst Zinsen von 4 % p.a. aus einem Betrag i. H.v. 12.990,00 € ab dem 31.05.2013 und bis zum 21.01.2019 sowie Zinsen von 5 Prozentpunkten über dem Basiszinssatz aus einem Betrag i. H.v. 8.956,65 € ab dem 22.01.2019 Zug-um-Zug gegen Übergabe und Übereignung des Pkw X Y 0,0 $$$ mit der FIN: $$$$$$...$#$...# zu zahlen.2) Die Beklagte wird weiter verurteilt, die Klägerin von vorgerichtlichen Rechtsanwaltskosten i. H.v. 808,13 € freizustellen.Die Kosten des Rechtsstreits werden der Beklagten auferlegt.Das Urteil ist gegen Sicherheitsleistung i. H.v. 120 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Klägerin kaufte am 00.05.2013 einen gebrauchten Pkw X Y 0,0 ...# mit der FIN $$$$$$...$#$...# zum Kaufpreis von 12.990,00 €. Zu diesem Zeitpunkt wies der Pkw X Y, der am 00.01.2012 erstmals zugelassen worden war, eine Fahrleistung von 36.500 km auf. Die Klägerin erhielt das streitgegenständliche Fahrzeug gegen Kaufpreiszahlung am 00.05.2013 und ließ es am 00.06.2013 zu.Das Fahrzeug ist mit einem von der Beklagten hergestellten Dieselmotor der Baureihe $$ 000 ausgestattet. Die von der Beklagten für den Motor vorgesehene und auch in dem von dem Kläger erworbenen Pkw eingesetzte Motorsteuerung sieht hinsichtlich der Abgasrückführung zwei Betriebsmodi vor, und zwar einen hinsichtlich des Stickstoffausstoßes optimierten Betriebsmodus 1 mit einer verhältnismäßig hohen Abgasrückführungsrate sowie einen hinsichtlich des Partikel-Ausstoßes optimierten Betriebsmodus 0 mit einer erheblich geringeren Abgasrückführungsrate. Dabei vermag die Motorsteuerung zu erkennen, ob das Fahrzeug auf einem technischen Prüfstand zur Ermittlung der Emissionswerte eingesetzt wird oder ob es im Straßenverkehr betrieben wird und schaltet bei einer Prüfung der Emissionen auf dem Prüfstand in den Modus 1. Auf diese Art und Weise wird sichergestellt, dass bei der Prüfung der betreffenden Fahrzeuge nach den gesetzlich vorgesehenen Maßgaben der Euro-5-Abgasnorm geringere Stickoxid-Emissionen gemessen werden und dementsprechend die Stickoxid-Grenzwerte im Laborbetrieb eingehalten werden. Dagegen schaltet die Motorsteuerung in den Modus 0, wenn das Fahrzeug im Straßenverkehr eingesetzt wird.Nach Bekanntwerden der vorstehenden Manipulation im Rahmen der medialen Berichterstattung Ende September 2015 verpflichtete das Kraftfahrtbundesamt die Beklagte mit Schreiben vom 00.10.2015, bei allen vom sog. "Abgasskandal" betroffenen Fahrzeugen mit dem Aggregat $$ 000 EU 5 die seiner Auffassung nach unzulässige Abschalteinrichtung zu entfernen sowie den Nachweis zu führen, dass danach alle technischen Anforderungen vorschriftsgemäß erfüllt werden. Die Umsetzung der Maßnahmen erfolgte nach einem mit dem Kraftfahrtbundesamt abgestimmten Maßnahmen- und Zeitplan. Nachdem das Kraftfahrtbundesamt das Software-Update für den Pkw X Y freigegeben hatte, ließ die Klägerin dieses am 24.04.2018 auf das streitgegenständliche Fahrzeug aufspielen. Dieses wies am15.08.2019, dem Tag der letzten mündlichen Verhandlung vor Gericht, einen Tachostand von 118.316 km auf.Mit ihrem Klageantrag zu 1) begehrt die Klägerin u.a. die Rückzahlung des Kaufpreises von 12.990,00 € abzüglich einer Nutzungsentschädigung. Sie meint, die Beklagte habe ihr vorsätzlich und sittenwidrig einen Schaden zugefügt. Weiter behauptet die Klägerin, die Entwicklungsabteilung der Beklagten habe nicht ohne Kenntnis des Vorstands entschieden, die Manipulationssoftware serienmäßig einbauen zu lassen. Hätte sie - die Klägerin - davon gewusst, so hätte sie das streitgegenständliche Fahrzeug nicht erworben. Der Pkw X Y könne eine Laufleistung von mindestens 300.000 km erreichen.Nachdem die Klägerin mit ihrer der Beklagten am 21.01.2019 zugestellten Klage im Klageantrag zu 2) zunächst die Zahlung von vorgerichtlichen Anwaltsgebühren beantragt hat, beantragt sie nunmehr,1) die Beklagte zu verurteilen, an sie 8.956,65 € nebst Zinsen von 4 % p.a. aus einem Betrag i.H.v. 12.990,00 € ab dem 31.05.2013 und von 5 Prozentpunkten über dem Basiszinssatz aus einem Betrag i.H.v. 8.956,65 € ab Rechtshängigkeit Zugum-Zug gegen Übergabe und Übereignung des Pkw X Y #,# $$$ mit der FIN: $$$$$$...$#$...# zu zahlen und2) die Beklagte zu verurteilen, sie von vorgerichtlichen Rechtsanwaltskosten i.H.v. 808,13 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte vertritt die Auffassung, das Fahrzeug sei schon nicht mangelhaft gewesen, da es technisch sicher und uneingeschränkt gebrauchstauglich sei. Durch das aufgespielte Software-Update sei dann - selbst wenn man dies anders werten sollte - ein Mangel zwischenzeitlich vollständig beseitigt worden. Schließlich behauptet die Beklagte, ihr Vorstand habe weder von der Programmierung noch von der Verwendung der manipulierten Software im streitgegenständlichen Fahrzeugtyp Kenntnis gehabt.Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die Klage ist begründet.1) Der Klageantrag zu 1) ist vollumfänglich begründet.Die Beklagte haftet der Klägerin Zugum-Zug gegen Herausgabe des streitgegenständlichen Fahrzeugs nach Maßgabe von §§ 826, 31 BGB auf Schadensersatz.a) Die darin normierten Voraussetzungen, wonach derjenige, der in einer gegen die guten Sitten verstoßenden Weise einem anderen vorsätzlich Schaden zufügt, diesem zum Ersatz dieses Schadens verpflichtet ist, liegen vor.Die Beklagte hat durch das Inverkehrbringen des von ihr hergestellten Motors mit der manipulierten und nach den Vorgaben des Kraftfahrtbundesamtes zu beseitigenden Software gegen die guten Sitten verstoßen. Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt (BGH, Urteil vom 19. Juli 2004 - II ZR 217/03 - NJW 2004, 2668, 2670; Palandt-Ellenberger, BGB, 75. Aufl. 2016, § 138 Rn. 2), d.h. mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht vereinbar ist. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann (Palandt-Ellenberger, a.a.O., § 138 Rn. 2, 7 f.). Ein Unterlassen verletzt die guten Sitten nur dann, wenn das geforderte Tun einem sittlichen Gebot entspricht. Hierfür reicht die Nichterfüllung einer allgemeinen Rechtspflicht oder einer vertraglichen Pflicht nicht aus. Auch hier müssen besondere Umstände hinzutreten, die das schädigende Verhalten nach den Maßstäben der allgemeinen Geschäftsmoral und des als "anständig" Geltenden verwerflich machen. Schon zur Feststellung derSittenwidrigkeit kann es daher auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen. Die Verwerflichkeit kann sich auch aus einer bewussten Täuschung ergeben (BGH, Urteil vom 28. Juni 2016 - VI ZR 536/15 - juris, Rn. 16). Nach den vorstehend dargelegten Grundsätzen liegen die Voraussetzungen eines sittenwidrigen Verhaltens der Beklagten vor. Die Produktion der Fahrzeuge mit der streitgegenständlichen Motorsoftware und deren Auslieferung an den Markt durch die Beklagte erfolgten ersichtlich zu dem Zweck und mit dem Wissen, dass diese Fahrzeuge veräußert und im Straßenverkehr tatsächlich verwendet werden. Die programmierte Software bewirkte bei dem Betrieb der Fahrzeuge einen Schadstoff- (insbesondere Stickoxid-)Ausstoß, der unter Anwendung der geltenden EU-Abgasnormen nicht genehmigungsfähig war. Hierdurch unterläuft die eingesetzte Software den für jedermann erkennbaren Zweck einer Überprüfung des Abgasausstoßes, die jeden Sinn verliert, wenn Fahrzeuge so konstruiert werden, dass die Einhaltung der gesetzlichen Vorgaben ausschließlich auf dem Prüfstand und damit in einer Ausnahmesituation gewährleistet ist. Sie verfolgt damit nicht nur die wirtschaftlichen Interessen des Herstellers auf Kosten des Endabnehmers, der, ohne dies zu wissen, ein vorschriftswidrig ausgestattetes Fahrzeug erhält. Der serienmäßige Einsatz untergräbt zugleich das Vertrauen der Allgemeinheit in die Einhaltung gesetzlicher Vorgaben auf der Grundlage einer aussagekräftigen behördlichen Zulassungsprüfung. Er stellt sich daher nach Ziel, Mittel und der darin zutage tretenden Gesinnung als besonders verwerflich dar. Die Beklagte hat die Erwerber dieser Fahrzeuge über die Verwendung dieser manipulativen Software nicht aufgeklärt. Auch das begründet den Vorwurf der Sittenwidrigkeit. Denn nur die Beklagte wusste, dass die von ihr in den Verkehr gebrachten Motoren Schadstoffe in nicht genehmigungsfähigem Umfang ausstoßen. Hätte sie alle Marktteilnehmer hierüber aufgeklärt, hätte sie mit diesen Motoren keinen Umsatz und damit auch keinen Gewinn generieren können. Denn es liegt auf der Hand, dass weder Hersteller noch Endkunden bereit sind, nicht genehmigungsfähige Fahrzeugteile oder gar Fahrzeuge zu erwerben (vgl. bereits LG Bonn, Urteil vom 17. März 2018 - 19 O 327/17 - juris Rn. 85 ff.). Abgesehen davon blieb durch den Einsatz der Manipulationssoftware lange Zeit unbemerkt, dass die mit dieser Software ausgestatteten Fahrzeuge im realen Betrieb Stickoxide in über dem Grenzwert liegendem Ausmaß ausstoßen. Das ist ein Verhalten, das erheblich gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt und auch deshalb sittenwidrig ist (LG Bonn, Urteil vom 17. März 2018 - 19 O 327/17 - juris Rn. 92 ff.). Dabei kommt es nicht darauf an, ob es für die Mehrzahl der betroffenen Kunden tatsächlich eine für die Kaufentscheidung maßgebliche Rolle spielt, ob das von ihnen erworbene bzw. zu erwerbende Fahrzeug besonders umweltverträglich ist oder nicht. Ebenfalls nicht entscheidend ist in diesem Zusammenhang, welchen Anteil Dieselfahrzeuge tatsächlich an den gegenwärtig in Deutschland existierenden Schadstoffbelastungen haben. Denn ein Verstoß gegen das Anstandsgefühl aller billig und gerecht Denkenden liegt ersichtlich bereits darin begründet, dass jedenfalls auch diejenigen Fahrzeugkunden durch die Beklagte bewusst über die durch ihre Fahrzeugnutzung verursachte erhöhte Schadstoffbelastung im Unklaren gelassen wurden, denen unter Umweltgesichtspunkten besonders wichtig war, dass sie ein Fahrzeug erwerben, das die geltenden Grenzwerte für Stickoxide einhält. Im Übrigen entspricht es der allgemeinen Lebenserfahrung, dass praktisch kein Erwerber eines Fahrzeuges von sich aus bereit ist, ein Fahrzeug zu erwerben, bei dem mangels Einhaltung gesetzlicher Grenzwerte zum einen ein Entzug der Betriebserlaubnis durch Stilllegungsverfügung bei nicht erfolgter technischer Umrüstung und zum anderen, nachträgliche rückwirkende Erhöhungen der Kraftfahrzeugsteuer ernsthaft zu befürchten sind. Schon vor diesem Hintergrund war die Beklagte ersichtlich angehalten, Käufer ihrer Fahrzeuge nicht über die von ihr eingesetzte Software im Unklaren zu lassen.Die Beklagte haftet gemäß § 31 BGB für das Verhalten derjenigen, die den Tatbestand der vorsätzlichen sittenwidrigen Schädigung in eigener Person verwirklicht haben. Es ist nicht Sache des Klägers, die Entscheidungsfindung im Organisationsbereich der Beklagten aufzuklären. Die Beklagte tritt der danach zulässigerweise pauschalen Behauptung des Klägers, dass die Manipulationssoftware mit Billigung des Vorstands eingesetzt wurde, nicht in einer den Anforderungen des § 138 Abs. 2 ZPO entsprechenden Weise entgegen, indem sie die Kenntnis des Vorstands bestreitet ohne zu erklären, wer sonst für Entwicklung und Verwendung der Software verantwortlich war. Unabhängig von der daran anknüpfenden Geständniswirkung (§ 138 Abs. 3 ZPO) ist die Einlassung der Beklagten auch materiellrechtlich unerheblich, weil sie deliktsrechtlich nicht nur für die von § 31 BGB erfassten Organe, sondern nach § 831 Abs. 1 S. 1 BGB auch für ihre Verrichtungsgehilfen einzustehen hat. Mangels konkreter Erklärung dazu, wer über Entwicklung und Einsatz der Software entschieden hat, tritt die Beklagte der dieser Haftung zugrundeliegenden Vermutung eines Auswahl- und Überwachungsverschuldens (§ 831 Abs. 1 S. 2 BGB) nicht in erheblicher Weise entgegen.Der Klägerin ist durch diesen Sittenverstoß der Beklagten durch den Erwerb des Fahrzeugs ein kausaler Schaden entstanden. Als Schaden im Sinne von § 826 BGB ist jede nachteilige Einwirkung auf die Vermögenslage, jede Beeinträchtigung eines rechtlich anerkannten Interesses und jede Belastung mit einer ungewollten Verpflichtung anzusehen (Palandt-Sprau, BGB, 77. Aufl. 2018, § 826, Rn. 3). Ob ein Vermögensschaden vorliegt, beurteilt sich nach der Differenzhypothese, also nach einem Vergleich der infolge des haftungsbegründenden Ereignisses eingetretenen Vermögenslage mit derjenigen, die sich ohne jenes Ereignis ergeben hätte. Ein Vermögensschaden setzt voraus, dass bei einem Vergleich der Gesamtvermögenslage der Klägerin nach Abschluss des Kaufvertrages mit der Vermögenslage, wie sie sich ohne diesen Vertragsschluss entwickelt hätte, ein rechnerisches Minus verbleibt. Das ist grundsätzlich dann der Fall, wenn der erworbene Gegenstand den Kaufpreis nicht wert ist oder wenn trotz Werthaltigkeit des Kaufgegenstandes die mit dem Vertrag verbundenen Verpflichtungen und sonstigen Nachteile durch die Vorteile nicht ausgeglichen werden. Als Gegenleistung für den gezahlten Kaufpreis hat die Klägerin ein Fahrzeug erhalten, das auf Grund der eingesetzten Software nicht den gesetzlichen Anforderungen entsprach und deshalb dem Risiko einer Betriebsuntersagung ausgesetzt war. Damit ist ihr bereits durch den entgeltlichen Erwerb des Fahrzeugs im Sinne von § 826 BGB ein Schaden zugefügt worden. An der Verwirklichung dieser anspruchsbegründenden Tatbestandsvoraussetzung ändert sich nichts dadurch, dass die Klägerin am 24.04.2018 das von der Beklagten angebotene Software-Update durchführen ließ und damit jedenfalls die Bedenken des Kraftfahrzeugbundesamts ausräumte. Die Nachrüstung kann das einmal verwirklichte Merkmal der Schadenszufügung nicht nachträglich beseitigen, sondern wirft lediglich die nach §§ 249 ff. BGB zu beurteilende Frage auf, ob damit der im Wege des Schadensersatzes herzustellende Zustand bereits eingetreten ist.Dieser Schaden ist der Klägerin vorsätzlich zugefügt worden. Die Art der eingesetzten Software indiziert vorsätzliches Handeln derjenigen, die die Entwicklung veranlasst haben, zunächst im Sinne einer Absicht, das Abgasverhalten in der Weise zu beeinflussen, dass eine Einhaltung der gesetzlichen Grenzwerte nur beim Betrieb auf einem Prüfstand gewährleistet wird, ohne diesen Umstand offenzulegen. Der Vorsatz richtete sich auch darauf, dass die mit der Software ausgestatteten Fahrzeuge in den Verkehr gebracht und letztlich von unwissenden Verbrauchern erworben werden. Damit umfasst der Vorsatz auch den Schaden der Klägerin, der bereits mit dem Erwerb des Fahrzeugs eingetreten ist. Die konkrete Schadensentwicklung von einer zunächst weithin unbekannten Unzulässigkeit der Abgassteuerung zum konkreten Risiko einer Betriebsuntersagung und schließlich zur Notwendigkeit, zwischen diesem Risiko und einem für die Klägerin nicht ohne weiteres durchschaubaren "Update" zu wählen, mussten die unmittelbar verantwortlichen Personen ebenso wenig vorhersehen, wie sich ihr Vorsatz konkret auf die Person der Klägerin und das von dieser erworbene Fahrzeug richten musste.Die entscheidungsverantwortlichen Personen i.S.v. § 31 BGB bzw. die Verrichtungsgehilfen i.S.v. § 831 BGB handelten rechtswidrig. Eine Rechtfertigung des Einsatzes einer gegen EU-Vorgaben verstoßenden Software kommt in diesem Zusammenhang nicht in Betracht.b) Der mit dem entgeltlichen Erwerb des Fahrzeugs durch die Klägerin gemäß § 826 BGB entstandene Schadensersatzanspruch ist nicht durch die von der Beklagten durchgeführte Nachrüstung bereits erfüllt worden.Nach § 249 Abs. 1 BGB hat der Schädiger den Zustand herzustellen, der bestehen würde, wenn das haftungsbegründende Ereignis nicht eingetreten wäre. Das nach § 826 BGB haftungsbegründende Ereignis besteht hier in der Zufügung des Schadens in Gestalt des entgeltlichen Erwerbs des vorschriftswidrig ausgestatteten Fahrzeugs, nicht etwa in der vorschriftswidrigen Ausstattung selbst. Der Schadensersatzanspruch ist seinem Inhalt nach deshalb darauf gerichtet, die Klägerin so zu stellen, als hätte sie das Fahrzeug nicht erworben. Dies entspricht dem Schadensbegriff des § 826 BGB, der nicht auf Vermögensminderung zu reduzieren ist, sondern auch die konkrete Vermögenslage vor nachteiligen Einwirkungen schützt. Durch das von der Beklagten installierte Update ist demnach der Schaden nicht in dem Sinne beseitigt worden, dass der gemäß § 249 Abs. 1 BGB herzustellende Zustand bereits eingetreten wäre. Dem Schädiger steht es nicht frei, statt der geschuldeten Restitution ein irgendwie geartetes Erfüllungsinteresse zu bedienen. Die Entgegennahme des Update hat weder den Erklärungswert einer Annahme an Erfüllungs statt (§ 364 Abs. 1 BGB), noch lässt sie das Schadensersatzverlangen als treuwidrig (§ 242 BGB) erscheinen. Vielmehr kommt der durch das Update erlangte Vorteil durch die angebotene Rückübereignung des Fahrzeugs der Beklagten zugute.c) Die Beklagte hat der Klägerin in der Rechtsfolge den aufgrund der vorsätzlichen sittenwidrigen Schädigung erlittenen Schaden zu ersetzen und diese so zu stellen, wie wenn sie den streitgegenständlichen Kaufvertrag über den Pkw X Y nicht geschlossen hätte.(1) Insoweit steht der Klägerin im Rahmen des § 249 BGB zunächst die Erstattung des für den Pkw X Y gezahlten Kaufpreises i.H.v. 12.990,00 € zu.(2) Zinsen auf den Kaufpreis stehen der Klägerin für die Zeit vom 31.05.2013 bis zum 21.01.2019 nach Maßgabe von §§ 849, 249 BGB in Höhe von 4 % p.a.Die Beklagte hat der Klägerin durch die unerlaubte Handlung nach § 826 BGB den gezahlten Kaufpreis entzogen. § 849 BGB erfasst jeden Sachverlust durch ein Delikt. Auch wenn der Schädiger den Geschädigten durch eine unerlaubte Handlung dazu bestimmt, eine Sache wegzugeben oder darüber zu verfügen, entzieht er sie ihm. § 849 BGB ist nach seinem Wortlaut nicht auf die Wegnahme beschränkt und verlangt nicht, dass die Sache ohne oder gegen den Willen des Geschädigten entzogen wird. Vielmehr soll der Zinsanspruch mit einem pauschalierten Mindestbetrag den Verlust der Nutzbarkeit einer Sache ausgleichen, der durch den späteren Gebrauch derselben oder einer anderen Sache nicht nachgeholt werden kann (vgl. zum Ganzen BGH, Urteil vom 26. November 2007 - II ZR 167/06 - NJW 2008, 1084). Auch Geld gilt dabei im Sinne von § 849 BGB als Sache. Der Zinsanspruch besteht dabei gemäß § 246 BGB in Höhe von 4 % p.a (BGH, Urteil vom 26. November 2017 - II ZR 167/06 - NJW 2008, 1084).Nach Rechtshängigkeit kann die Klägerin sodann ab dem 22.01.2019 gemäß §§ 291, 288 Abs. 1 S. 2 BGB Zinsen i.H.v. 5 Prozentpunkten über dem Basiszinssatz aus einem Betrag i.H.v. 8.956,65 € verlangen.d) Da die Klägerin auch im Anwendungsbereich der §§ 826, 249 BGB durch die ihr zugefügte Schädigung nicht besser gestellt werden darf, als sie ohne die Schädigung stünde, hat sie aber erhaltene Vorteile auszukehren. Zu berücksichtigen sind insoweit zunächst die erlangten Gebrauchsvorteile. Sind der Vorteil und der Ersatzanspruch gleichartig, dann wird der Vorteil vom Ersatzanspruch abgezogen, ohne dass es hierfür einer Gestaltungserklärung des Schädigers bedarf; ist die Gleichartigkeit von Vorteil und Ersatzanspruch zu verneinen, dann muss der Geschädigte den Vorteil Zugum-Zug gegen Erfüllung des Ersatzanspruchs herausgeben (MüKo-BGB/Oetker, 7. Aufl. 2016, § 249, Rn. 279).(1) Der von der Beklagten im Rahmen des Schadensersatzes nach § 249 BGB zu erstattende Kaufpreis i.H.v. 12.990,00 € ist danach um einen Nutzungsersatz für den streitgegenständlichen Pkw i.H.v. 4.008,98 € zu kürzen. Soweit die sich daraus ergebende Differenz i.H.v. 8.981,02 € geringfügig über den von der Klägerin mit ihrem Klageantrag zu 1) beanspruchten Betrag i.H.v. 8.956,65 € hinausgeht, ist das Gericht nach § 308 Abs. 1 ZPO an den Klageantrag gebunden.Die tatsächlich gezogenen Nutzungen waren für die Klägerin infolge der unzulässigen Ausstattung des Fahrzeugs nicht wertlos. Die Anrechnung widerspricht nicht dem Zweck des Schadensersatzes, sondern entspricht dem Grundsatz, dass der Geschädigte von den nachteiligen Folgen des haftungsbegründenden Ereignisses freigestellt, nicht aber besser gestellt werden soll. Da die Gebrauchsvorteile in Gestalt der Nutzung des Fahrzeugs nicht auskehrbar sind, hat die Klägerin hierfür Wertersatz in Geld zu leisten. Die bei der Rückabwicklung eines Gebrauchtwagenkaufs für jeden gefahrenen Kilometer zu zahlende Nutzungsentschädigung ist dabei in der Weise zu ermitteln, dass der vereinbarte (Brutto-)Kaufpreis (hier 12.990,00 €) durch die voraussichtliche Restlaufleistung des Fahrzeugs im Zeitpunkt der Übergabe des Fahrzeugs an die Klägerin geteilt wird (vgl. BGH, Urteil vom 09.12.2014 - VIII ZR 196/14, juris, Rn. 3). Als Restlaufleistung waren hier 263.500 km anzusetzen, die sich ergeben, wenn von der Gesamtfahrleistung eines entsprechenden Neufahrzeugs (300.000,00 km) die bis zur Übergabe an die Klägerin gefahrenen 36.500 km abgezogen werden. Hieraus errechnet sich eine Entschädigung von 0,049 € je km, somit für 81.816 von der Klägerin mit dem streitgegenständlichen X Y gefahrene km (aktueller km-Stand von 118.316 km abzüglich km-Stand bei Kauf von 36.500 km) ein Betrag von 4.008,98 €. In diesem Zusammenhang geht das Gericht davon aus, dass ein PKW vom streitgegenständlichen Fahrzeugtyp X Y 0,0 $$$ eine durchschnittliche Laufleistung von 300.000 km aufweist, da die Beklagte selbst eine hervorgehobene Qualität ihrer Fahrzeuge für sich in Anspruch nimmt, was sich auch in gegenüber vergleichbaren Fahrzeugen anderer Hersteller höheren Kaufpreisen wiederspiegelt (vgl. OLG Koblenz, Urteil vom 12.06.2019 - 5 U 1318/18).(2) Darüber hinaus hat die Klägerin als erlangten Vorteil auch das Eigentum am erworbenen Fahrzeug auf die Beklagte zu übertragen und das Fahrzeug an diese herauszugeben, was im Klageantrag zu 1) bereits Berücksichtigung gefunden hat.3) Schließlich kann die Klägerin die Freistellung von vorgerichtlichen Rechtsanwaltskosten i.H.v. 808,13 € verlangen (Klageantrag zu 2).Auch die vorgerichtlichen Rechtsanwaltskosten sind als Teil des der Klägerin entstandenen Schadens nach §§ 826, 249 BGB zu erstatten. Auf der Grundlage der bei Tätigwerden der Rechtsanwälte A im Dezember 2018 von der Klägerin gefahrenen 69.500 km (damaliger km-Stand von 106.000 km abzüglich km-Stand bei Kauf von 36.500 km) und einer Nutzungsentschädigung von 0,049 € je km (s.o.) war zu diesem Zeitpunkt eine Schadensersatzforderung i.H.v. 9.584,50 € (Kaufpreis i.H.v. 12.990,00 € abzüglich Nutzungsentschädigung i.H.v. insgesamt 3.405,50 €) begründet. Nach diesem Gegenstandswert ergeben sich bei einer 1,3 Geschäftsgebühr außergerichtliche Rechtsanwaltskosten i.H.v. 887,03 €. Soweit dieser Betrag über den von der Klägerin mit ihrem Klageantrag zu 2) beanspruchten Freistellungsbetrag i.H.v. 808,13 € hinausgeht, ist das Gericht auch hier nach § 308 Abs. 1 ZPO an den Klageantrag gebunden.5) Die Kostenentscheidung beruht auf § 91 Abs. 1 S. 1 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit ergeht nach § 709 S. 1 und 2 ZPO.Streitwert: 8.956,65 €
+			
+			
+			
+			Permalink: https://openjur.de/u/2239309.html (https://oj.is/2239309)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate6
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen3
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

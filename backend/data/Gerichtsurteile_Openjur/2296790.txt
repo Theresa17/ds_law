@@ -1,0 +1,136 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitOLG MünchenRechtsprechungEndurteil vom 16.09.2020 - 20 U 4234/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG München, Endurteil vom 16.09.2020 - 20 U 4234/18
+                      m. Fundstelle
+                      OLG München, Endurteil vom 16.09.2020 - 20 U 4234/18 = openJur 2020, 71565
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG München, Endurteil vom 16.09.2020 - 20 U 4234/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2020, 71565
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Berufung der Klägerin gegen das Urteil des Landgerichts Landshut vom 8. November 2018, Az. 24 O 2002/17, wird zurückgewiesen.2. Die Klägerin hat die Kosten des Berufungsverfahrens zu tragen.3. Das Urteil ist vorläufig vollstreckbar. Das in Ziffer 1 genannte Urteil des Landgerichts Landshut ist ohne Sicherheitsleistung vorläufig vollstreckbar. Die Klägerin kann die Vollstreckung der Beklagten durch Sicherheitsleistung in Höhe von 110% des vollstreckbaren Betrages abwenden, wenn nicht die Beklagte vor der Vollstreckung Sicherheit in Höhe von 110% des zu vollstreckenden Betrages leistet.4. Die Revision gegen dieses Urteil wird nicht zugelassen.BeschlussDer Streitwert für das Berufungsverfahren wird auf 31.000,00 € festgesetzt.  
+				Gründe
+				I.Die Klägerin macht Gewährleistungsansprüche aus dem Kauf eines vom "Dieselskandal" betroffenen Fahrzeugs geltend. Sie begehrt von der beklagten Verkäuferin vorrangig die Neulieferung eines Pkw an ihren vormaligen Gesellschafter Dr. W. Zug um Zug gegen Rückübereignung des gekauften Autos.Die Klägerin erwarb von der Beklagten, einer Autohändlerin, mit verbindlicher Bestellung vom 25. März 2014 (K 1) den fabrikneuen Pkw VW Touran 2,0 l TDI, FIN: WV...55 zum Preis von € 31.000,00 für ihre betriebliche Tätigkeit. Der Pkw ist mit einem 2,0-Liter Dieselmotor des Typs EA189, Schadstoffnorm Euro 5 ausgestattet. Für den Fahrzeugtyp wurde die Typgenehmigung nach der Verordnung (EG) Nr. 715/2007 mit der Schadstoffklasse Euro 5 erteilt.Das Fahrzeug wurde ausschließlich vom damaligen Gesellschafter der Klägerin Dr. H. W. benutzt. Dieser veräußerte zum 1. Januar 2018 seine Geschäftsanteile an der Klägerin; im Zuge der Auseinandersetzung wurde ihm der fragliche Pkw übereignet, alle Ansprüche der Gesellschaft aus dem mit der Beklagten abgeschlossenen Kaufvertrag wurden an ihn abgetreten.Die im Zusammenhang mit dem o.g. Motor verwendete Software erkennt, ob das Fahrzeug auf einem Prüfstand dem Neuen Europäischen Fahrzyklus (NEFZ) unterzogen wird und schaltet in diesem Fall in den Abgasrückführungsmodus 1, einen Stickoxid (NOx)-optimierten Modus. In diesem Modus findet eine Abgasrückführung mit niedrigem Stickoxidausstoß statt. Im normalen Fahrbetrieb außerhalb des Prüfstands schaltet der Motor dagegen in den Abgasrückführungsmodus 0, bei dem die Abgasrückführungsrate geringer und der Stickoxidausstoß höher ist. Für die Erteilung der Typgenehmigung der Emissionsklasse 5 maßgeblich war der Stickoxidausstoß auf dem Prüfstand. Die Stickoxidgrenzwerte der Euro 5-Norm wurden nur im Abgasrückführungsmodus 1 eingehalten.Im September 2015 räumte die Herstellerin des o.g. Pkw öffentlich die Verwendung einer entsprechenden Software ein. Unter dem 15. Oktober 2015 erging gegen sie ein bestandskräftiger Bescheid des Kraftfahrt-Bundesamts (KBA) mit nachträglichen Nebenbestimmungen zur Typgenehmigung, der auch das o.g. Fahrzeug betrifft. Das KBA ging vom Vorliegen einer unzulässigen Abschalteinrichtung aus und gab der Herstellerin auf, diese zu beseitigen und die Einhaltung der maßgeblichen Grenzwerte anderweitig zu gewährleisten. Die Herstellerin gab mit Pressemitteilung vom 25. November 2015 bekannt, Software-Updates durchzuführen, mit denen diese Software aus allen Fahrzeugen mit Motoren des Typs EA189 mit 2,0-Liter-Hubraum entfernt werden sollte.Mit Anwaltsschreiben vom 30. November 2015 (K 2) forderte Dr. W. die Beklagte unter Fristsetzung zum 11. Januar 2016 erfolglos zur Nachlieferung eines Neuwagens gegen Rückgabe des streitgegenständlichen Fahrzeugs auf.Im Dezember 2015 informierte die Herstellerin ihre Kunden mit einer Presseerklärung darüber, dass "zur Lösung der NOx-Abgasthematik" ein Software-Update bei den einzelnen Pkw durchgeführt werde (B 3). Unter dem 20. Juni 2016 bestätigte das KBA u.a. hinsichtlich der Modellreihe des klägerischen Pkw (Motorkennbuchstaben CFHC), dass das geplante Software-Update geeignet sei, die Vorschriftsmäßigkeit der Fahrzeuge herzustellen, insbesondere würden die Grenzwerte eingehalten und die ursprünglich vom Hersteller angegebenen Kraftstoffverbrauchswerte, CO₂-Emissionen und Geräuschemissionswerte sowie die bisherige Motorleistung und das maximale Drehmoment unverändert bleiben (B 1).Am 26. Oktober 2016 ließ Dr. W. das Software-Update aufspielen (K 3a); Klageerhebung erfolgte mit Schriftsatz vom 31. Juli 2017.Die Klägerin hat vor dem Landgericht die Auffassung vertreten, dass das gekaufte Fahrzeug wegen der unzulässigen Abschalteinrichtung einen Sachmangel aufweise, weshalb sie einen Anspruch auf Neulieferung eines mangelfreien fabrikneuen und typengleichen Ersatzfahrzeugs aus der aktuellen Serienproduktion des Herstellers mit identischer technischer Ausstattung wie das verkaufte Fahrzeug habe. Zum Zeitpunkt der Ausübung des Wahlrechts sei die Nachbesserung unmöglich gewesen. Ein Mangel liege auch darin, dass der Spritverbrauch und damit der CO₂-Ausstoß im NEFZ bei dem klägerischen Fahrzeug mehr als 10% höher sei als in der Pkw-EnVKV angegeben; insoweit sei keine Nachbesserung möglich. Darüber hinaus bestehe ein Schadensersatzanspruch gegen die Beklagte aus Prospekthaftung, der ebenfalls zu einer Nachlieferungsverpflichtung der Beklagten führe.Zwar habe die Klagepartei inzwischen das Update durchführen lassen, dies sei jedoch zwangsweise geschehen. Denn Grund für den Entschluss der Klagepartei, an der Rückrufaktion teilzunehmen, sei die Befürchtung gewesen, dass sonst die Zulassung für das Fahrzeug entzogen werden könnte. Die Klagepartei habe nicht anerkannt, dass es sich hierbei um eine Nachbesserungsmaßnahme im Sinne des Kaufrechts handle.Zudem sei durch das Update der Mangel nicht vollständig behoben worden. Die Klagepartei müsse weiter mit einer Stilllegung des Fahrzeugs rechnen. Darüber hinaus gingen Experten davon aus, dass eine folgenlose Beseitigung der Manipulationssoftware unter Einhaltung der gesetzlich geforderten Grenzwerte nicht möglich sein werde: Es werde zwangsläufig zu einem höheren Kraftstoffverbrauch und Partikelausstoß sowie einer höheren Geräuschentwicklung kommen sowie zu einer Reduzierung der Leistung des Pkw und einer Lebenszeitverkürzung des Motors und sonstiger Teile. Nach dem Update habe Dr. W. festgestellt, dass das Fahrzeug im Vergleich zu ca. 7 Liter/100 km im vorangegangenen Winter nunmehr 8 bis 9 Liter Kraftstoff/100 km verbrauche. Das On-Board-System des Pkw sei auch nach dem Update weiterhin manipuliert. Generell sei das Fahrzeug bemakelt, was sich in seinem merkantilen Minderwert niederschlage.Die Beklagte hat vor dem Landgericht geltend gemacht, dass durch das neun Monate vor Klageerhebung erfolgte Aufspielen des Software-Updates ein etwaiger Mangel behoben worden sei, weshalb Ansprüche der Klägerin nicht bestünden. Jedenfalls sei ein Nachlieferungsanspruch wegen der durch Modellwechsel entstandenen Unmöglichkeit bzw. wegen Unverhältnismäßigkeit - die Nacherfüllung verursache unverhältnismäßig hohe Kosten - ausgeschlossen. Für die Nachlieferung entstünden der Beklagten Kosten in Höhe von mindestens € 10.000,00, die Kosten für die Durchführung der technischen Maßnahme hätten deutlich weniger als € 100,00 betragen. Eine Nachbesserung sei der Klägerin auch nicht unzumutbar. Zudem sei das Fahrzeug - wenn überhaupt - nur mit einem unerheblichen Mangel behaftet gewesen. Substantiierter Vortrag zu etwaigen Folgemängeln fehle; solche seien auch nicht zu befürchten. Jedenfalls müsse sich die Klägerin die gezogenen Nutzungen anrechnen lassen.Darüber hinaus hat die Beklagte die Auffassung vertreten, dass die Grundsätze der Prospekthaftung auf den vorliegenden Fall schon wegen des Vorrangs der Sachmängelgewährleistung nicht anwendbar seien. Es liege auch kein Prospekt im Sinne der kapitalmarktrechtlichen Rechtsprechung vor.Auf die tatsächlichen Feststellungen des erstinstanzlichen Urteils und die dort gestellten Anträge wird ergänzend Bezug genommen.Mit Endurteil vom 8. November 2018 hat das Landgericht die Klage als unbegründet abgewiesen und zur Begründung insbesondere ausgeführt, dass der von der Klägerin geltend gemachte Anspruch schon daran scheitere, dass die begehrte Nachlieferung aus der aktuellen Serienproduktion nicht von einem etwaigen Nacherfüllungsanspruch umfasst sei. Die ursprüngliche Modellreihe werde nicht mehr hergestellt, die neue Modellreihe stimme mit der vorhergehenden, aus der das verkaufte Fahrzeug stamme, in erheblichen Punkten nicht mehr überein.Mit ihrer Berufung erstrebt die Klägerin die Aufhebung des landgerichtlichen Urteils und weiterhin die Verurteilung der Beklagten zur Ersatzlieferung eines fabrikneuen Pkw VW Touran Trendline mit im Berufungsbegründungsschriftsatz (Bl. 9 ff.) im Einzelnen genannten technischen Merkmalen an den vormaligen Gesellschafter Dr. W., hilfsweise die Lieferung eines mangelfreien Fahrzeugs VW Touran Trendline 2,0 TDi mit einer dem gekauften Fahrzeug vergleichbaren Ausstattung, hilfsweise die Zahlung von € 31.000,00 nebst Zinsen in Höhe von 8 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit, hilfsweise die Zahlung von € 30.365,04 nebst Zinsen in Höhe von 8 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit abzüglich einer Nutzungsentschädigung in Höhe von € 8.157,67, hilfsweise abzüglich einer ins Ermessen des Gerichts gestellten Nutzungsentschädigung, jeweils Zug um Zug gegen Übergabe und Rückübereignung des gekauften Pkw. Weiter beantragt die Klägerin die Verurteilung der Beklagten zur Freistellung der Klägerin von den durch die Beauftragung von Prozessbevollmächtigten vorgerichtlich entstandenen Rechtsanwaltskosten in Höhe von € 2.256,24.Die Klägerin führt unter Wiederholung und Vertiefung ihres erstinstanzlichen Vortrags insbesondere aus, dass das gekaufte Fahrzeug zu keinem Zeitpunkt - wie geschuldet - umweltfreundlich und verbrauchsgünstig gewesen sei. Der Pkw entspreche vielmehr weiterhin nicht den gesetzlichen Zulassungs- und Betriebsbestimmungen, durch das Software-Update sei der Mangel nicht behoben worden, sondern vielmehr neue Mängel entstanden. Darüber hinaus macht sie die Nichtigkeit des Kaufvertrags gemäß § 134 BGB geltend.Die Beklagte beantragt unter Vertiefung ihres erstinstanzlichen Vortrags die Zurückweisung der Berufung. Sie macht insbesondere weiterhin geltend, dass die Kosten einer Nachlieferung im Vergleich zu der seit 24. August 2016 möglichen Nachbesserung unverhältnismäßig hoch seien und meint, der geltend gemachte Anspruch scheitere jedenfalls an der Unerheblichkeit des Mangels bzw. daran, dass die Klagepartei keine Frist zur Nachbesserung gesetzt bzw. das Update habe durchführen lassen, als es zur Verfügung stand. Das Vorbringen der Klagepartei zu negativen Auswirkungen des Updates sei nach wie vor unsubstantiiert.Hinsichtlich des weiteren Vorbringens der Parteien im Berufungsverfahren wird auf die im Berufungsrechtszug gewechselten Schriftsätze und auf die Niederschrift über die mündliche Verhandlung vom 29. Januar 2020 (Bl. 94 ff.) Bezug genommen. Mit Zustimmung der Parteien vom 3. Juli 2020 (Bl. 113) bzw. vom 6. Juli 2020 (Bl. 114 f.) wurde im schriftlichen Verfahren gemäß § 128 Abs. 2 ZPO entschieden.II.Die zulässige Berufung der Klägerin hat in der Sache keinen Erfolg. Das Landgericht hat die Klage im Ergebnis mit Recht abgewiesen. Die Klägerin ist unter dem Gesichtspunkt treuwidrigen Verhaltens (§ 242 BGB) daran gehindert, an dem gemäß §§ 437 Nr. 1, 434 Abs. 1 Satz 2 Nr. 2, 439 Abs. 1 Alt. 2 BGB geltend gemachten Anspruch auf Nacherfüllung in der von ihr gewählten Form der Ersatzlieferung einer mangelfreien Sache festzuhalten. Die Berufung war daher als unbegründet zurückzuweisen.1. Zwar wies der o.g. Pkw bei Gefahrübergang und zum Zeitpunkt des Nachlieferungsverlangens einen verdeckten Sachmangel auf (vgl. BGH, Beschluss vom 8. Januar 2019, VIII ZR 225/17, NJW 2019, 1133 Rn. 17 ff.; BGH, Urteil vom 25. Mai 2020, VI ZR 252/19, juris Rn. 48, 53), weshalb die Klägerin gemäß §§ 437 Nr. 1, 439 Abs. 1 BGB einen Anspruch auf Nacherfüllung hatte.Denn bei Gefahrübergang war der Kaufgegenstand mit einer auf der Grundlage einer strategischen unternehmerischen Entscheidung der Herstellerin in die Motorsteuerung eingebauten Abschalteinrichtung ausgestattet, die bei einer Entdeckung zu einer Betriebsbeschränkung oder -untersagung hätte führen können (§ 5 Abs. 1 Fahrzeug-Zulassungsverordnung in der Fassung vom 3. Februar 2011) (vgl. BGH, Beschluss vom 8. Januar 2019, VIII ZR 225/17, juris LS und Rn. 5; BGH, Urteil vom 25. Mai 2020, VI ZR 252/19, juris Rn. 19 f.). Damit fehlte dem Fahrzeug die Eignung für die gewöhnliche Verwendung, da der weitere (ungestörte) Betrieb des Fahrzeugs im öffentlichen Straßenverkehr nicht gewährleistet war (vgl. BGH, Beschluss vom 8. Januar 2019, VIII ZR 225/17, juris LS und Rn. 17, 20 ff.).Zudem bestand bis zu dem Zeitpunkt, an dem Entwicklung, Freigabe und Anpassung einer technischen Lösung abgeschlossen war, die Gefahr, dass die erforderliche Entwicklung nicht gelingen würde und die von dem KBA gemäß § 25 Abs. 2 EG-Fahrzeuggenehmigungsverordnung vom 3. Februar 2011 nachträglich angeordnete Nebenbestimmung zur Typgenehmigung nicht erfüllt werden könnte (vgl. BGH, Urteil vom 25. Mai 2020, VI ZR 252/19, juris Rn. 19 f.). Dass sich die bestehende Stilllegungsgefahr letztlich nicht verwirklicht hat, ist für die Beurteilung des Vorliegens eines Sachmangels irrelevant. Denn es hing aus der ex ante Sicht eines Käufers letztlich vom Zufall ab, ob der unerkannt bestehende Mangel aufgedeckt und die Gebrauchsfähigkeit des Fahrzeugs in der Folge eingeschränkt würde (vgl. BGH, Urteil vom 25. Mai 2020, VI ZR 252/19, juris Rn. 54).2. Dem Verlangen der Klägerin nach einer Ersatzlieferung steht allerdings entgegen, dass der vorgenannte Softwarefehler mit dem Einverständnis der Klägerin schon vor Rechtshängigkeit behoben wurde.a) Unstreitig wurde bei dem verkauften Pkw bereits weit vor Klageerhebung ein vom KBA freigegebenes Software-Update durchgeführt, mit dem - wie das KBA bestätigt hat - die in dem Pkw vorhandene unzulässige Abschalteinrichtung beseitigt wurde und dieser den Zulassungsvorschriften entspricht. Eine Stilllegungsgefahr besteht deshalb objektiv nicht mehr.Soweit die Klägerin diese Einschätzung des KBA nicht teilen will, kommt es hierauf nicht an. Denn entscheidend ist insoweit allein die Beurteilung der für die Zulassung zum Straßenverkehr zuständigen Behörde (vgl. auch Saarländisches OLG, 2 U 7/19, juris Rn. 31 f.). Diese aber hat das Vorhandensein einer unzulässigen Abschalteinrichtung verneint und die Einordnung des Pkw in die - geschuldete - Schadstoffklasse Euro 5 bestätigt.b) Die Klägerin in Gestalt ihres vormaligen Gesellschafters Dr. W. hat sich unstreitig entschlossen, an der Rückrufaktion zur Durchführung des Updates teilzunehmen. Damit hat sie dem Aufspielen des Updates zugestimmt. Sie ist deshalb unter dem Gesichtspunkt treuwidrigen Verhaltens (§ 242 BGB) gehindert, an der durch das wirksam ausgeübte Verlangen nach Lieferung einer mangelfreien Sache erlangten Rechtsposition festzuhalten (vgl. BGH, Urteil vom 24. Oktober 2018, VIII ZR 66/17, NJW 2019, 293 ff., Rn. 54).Der Einwand der Klägerin, dass Dr. W. "gezwungen" gewesen sei, das Update durchzuführen, trifft ersichtlich nicht zu. Denn nach dem eigenen Vortrag der Klägerin hat Dr. W. - ersichtlich unbeeinträchtigt von psychischem oder physischem Druck - den "Entschluss gefasst", die Software aufspielen zu lassen. Dass Dr. W. das Aufspielen des Updates zu irgendeinem Zeitpunkt gegenüber der Beklagten abgelehnt hätte, hat die Klägerin nicht vorgetragen (zu dieser Fallkonstellation Hanseatisches OLG, 4 U 97/17, juris Rn. 9, 34). Auch eigenmächtiges Handeln der Beklagten oder ein bloßes Hinnehmen der Aktualisierung durch die Klägerin liegt nicht vor (vgl. hierzu etwa BGH, Urteil vom 19. Juni 1996, VIII ZR 252/95, NJW 1996, 2647; BGH, Urteil vom 5. November 2008, VIII ZR 166/07, juris; BGH, Urteil vom 26. Oktober 2016, VIII ZR 240/15, juris). Damit aber hat die Klägerin nach dem objektiven Empfängerhorizont konkludent ihr Einverständnis mit der Durchführung der angebotenen kaufrechtlichen Nachbesserung erklärt.Dass Dr. W. sich nach den klägerischen Angaben für das Update entschieden hat, weil er befürchtet habe, dass sonst die Zulassung für das Fahrzeug entzogen werde könnte, steht der Annahme einer das Nachlieferungsverlangen hindernden Zustimmung der Klägerin gerade nicht entgegen. Denn die von ihr befürchtete, aus dem Vorhandensein der Abschalteinrichtung resultierende Gefahr der Stilllegung des Pkw stellt gerade den Sachmangel des Kaufgegenstands dar. Entscheidet sich ein Käufer aber, den Mangel beseitigen zu lassen, um die hieraus befürchteten Nachteile abzuwenden, ist er gehindert, weiterhin an seinem Nachlieferungsverlangen festzuhalten. Die Situation der Klägerin ist nicht anders zu bewerten als die eines Käufers, der wegen eines Sachmangels, der zur technischen Funktionsunfähigkeit des Wagens geführt hat, eine Nachbesserung vornehmen lässt, um das Fahrzeug anschließend wieder nutzen zu können (vgl. OLG Frankfurt, 13 U 253/18, BeckRS 2019, 30853, Rn. 38).Dass es der Klägerin unzumutbar gewesen wäre, das Update nicht aufspielen zu lassen und dann möglicherweise auf die weitere Nutzung des Pkw verzichten zu müssen, ist nicht ersichtlich.3. Soweit die Klägerin vorbringt, dass neben der unzulässigen Abschalteinrichtung weitere Sachmängel am Pkw vorhanden bzw. durch das Software-Update neu aufgetreten seien, fehlt substantiierter Tatsachenvortrag.a) Bei der Behauptung, durch das Update würden Mängel in Gestalt eines höheren Partikelausstoßes, einer höheren Geräuschentwicklung, einer reduzierten Leistung sowie einer Lebenszeitverkürzung des Motors und sonstiger Teile hervorgerufen, handelt es sich lediglich um Vermutungen und vage Befürchtungen, die darüber hinaus dem Prüfergebnis des KBA (B 1) widersprechen.Die hypothetische Möglichkeit, dass nach der Nachbesserung neue Mängel entstehen, ersetzt substantiierten Vortrag nicht. Die Klägerin legt bereits nicht dar, welche Ausgangswerte sie ihrer Betrachtung zugrunde legt. Eine Beweisaufnahme über die diesbezüglichen Behauptungen der darlegungs- und beweisbelasteten Klägerin würde einer unzulässigen Ausforschung gleichkommen (vgl. nur OLG Frankfurt, 13 U 253/18, BeckRS 2019, 30853, Rn. 36 mwN).Dass die befürchteten Mängel an dem streitbefangenen Fahrzeug aufgetreten sind, behauptet im Übrigen auch die Klägerin nicht. Insbesondere befasst sich der als Anlage BK 3 vorgelegte Zeitungsartikel nicht mit dem hier in Rede stehenden 2,0 Liter-Motor.b) Ein Sachmangel ergibt sich zur Überzeugung des Senats auch nicht aus den Angaben des Dr. W. in seiner Anhörung in der mündlichen Verhandlung vor dem Landgericht am 4. September 2018 (Protokoll der mündlichen Verhandlung vom 4. September 2018, S. 3, Bl. 529 ff., 531). Dieser hat zwar vorgebracht, dass das Fahrzeug nach dem Update, vor allem im Winterbetrieb, mehr Kraftstoff verbraucht habe als vorher, nämlich "zum Teil neun Liter auf 100 Kilometer". Dieser Vortrag ist allerdings schon deshalb unsubstantiiert und keiner Beweiserhebung zugänglich, weil Dr. W. diesen Mehrverbrauch als nur teilweise aufgetreten und überschlägig errechnet dargestellt hat und ohne sein Fahrverhalten näher darzulegen; darüber hinaus hat er selbst angegeben, dass ein Mehrverbrauch im Winter auch mit der Notwendigkeit der Zuschaltung einer Heizung erklärt werden könne.c) Soweit die Klägerin vorgebracht hat, der Pkw weise deshalb einen Sachmangel auf, weil das On-Board-System manipuliert sei, hat sie diesen Vorwurf nach substantiiertem Bestreiten der Beklagten schon erstinstanzlich nicht weiterverfolgt. Darüber hinaus ist bereits nicht ersichtlich, inwieweit hiervon die Gebrauchsfähigkeit des Fahrzeugs betroffen wäre.d) Die Behauptung einer negativen Abweichung von von der Klägerin nicht genannten Werten der Pkw-EnVKV ist bereits unsubstantiiert.e) Auch das Vorbringen der Klägerin, das Fahrzeug sei mit einem Minderwert behaftet, führt nicht zur Annahme eines Sachmangels. Hier bedürfte es konkreter Anhaltspunkte, die darauf hindeuteten, dass gerade Dieselfahrzeuge, bei denen eine unzulässige Abschalteinrichtung durch ein Softwareupdate entfernt wurde, aus diesem Grund einen geringeren Wiederverkaufswert haben. Zumindest wäre nachvollziehbar darzulegen, dass sich der Preis des streitgegenständlichen Fahrzeugtyps ungünstiger entwickelt hat als der Gesamtmarkt für Diesel-Pkw oder der Markt für andere als mit dem EA189 ausgerüstete Diesel-Pkw aus dem VW-Konzern (vgl. OLG Frankfurt, 17 U 328/19, juris Rn. 90 mwN).4. Auf die Frage, ob die Beklagte im vorliegenden Fall die Unverhältnismäßigkeit der Nachlieferung einwenden kann und ggf., ob diese zu bejahen wäre, kommt es nach Vorstehendem nicht an.5. Ein Anspruch gegen die Beklagte aus §§ 311 Abs. 2, 241, 280 BGB ist schon wegen des grundsätzlichen Vorrangs des Sachmängelgewährleistungsrechts nach §§ 434 ff. BGB nicht gegeben (BGH, Urteil vom 27. März 2009, V ZR 30/08, juris Rn. 19 ff.). Ein Ausnahmetatbestand liegt mangels arglistigem (vorsätzlichem) Verhalten der Beklagten nicht vor (vgl. BGH, Urteil vom 27. März 2009, V ZR 30/08, juris Rn. 24). Im Übrigen ist bereits der Anwendungsbereich der bürgerlich-rechtlichen Prospekthaftung nicht eröffnet (vgl. Saarländisches Oberlandesgericht, 2 U 92/18, juris Rn. 49 mwN).6. Der Kaufvertrag über den streitgegenständlichen Pkw ist auch nicht nichtig gemäß § 134 BGB mit der Folge bereicherungsrechtlicher Ansprüche. Denn der Verstoß gegen ein Verbotsgesetz hat nach der höchstrichterlichen Rechtsprechung in der Regel nur dann die Nichtigkeit des Rechtsgeschäfts zur Folge, wenn sich das Verbot gegen beide Seiten richtet (BGH, Urteil vom 10. Juli 1991, VIII ZR 296/90, juris Rn. 21). Diese Voraussetzung ist im vorliegenden Fall nicht erfüllt. § 27 Abs. 1 Satz 1 EG-FGV untersagt das Feilbieten, Veräußern oder Inverkehrbringen von Neufahrzeugen im Inland zur Verwendung im Straßenverkehr, wenn diese nicht mit einer gültigen EG-Übereinstimmungsbescheinigung versehen sind, nicht aber deren Erwerb. Nach Sinn und Zweck der Vorschrift richtet sich das Verbot nicht gegen den Erwerber; die Verantwortung für die Einhaltung der Vorschrift wird ausschließlich dem Veräußerer auferlegt (ebenso Schleswig-Holsteinisches OLG, 9 U 12/19, juris Rn. 27 f.).7. Da die Hauptforderung unbegründet ist, bestehen keine Bedenken gegen die Klageabweisung hinsichtlich der geltend gemachten Nebenforderungen.III.Die Kostenentscheidung beruht auf § 97 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf § 708 Nr. 10, § 711 ZPO.Die Revision war nicht zuzulassen, da die Voraussetzungen des § 543 Abs. 2 ZPO nicht vorliegen. Maßgebend für die Entscheidung waren die konkreten Umstände des Einzelfalls, die der Senat auf der Grundlage der Vorgaben der höchstrichterlichen Rechtsprechung bewertet hat.Die Festsetzung des Streitwerts folgt aus §§ 47, 48 GKG.
+			
+			
+			
+			Permalink: https://openjur.de/u/2296790.html (https://oj.is/2296790)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate12
+				
+				
+					 Zitiert4
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

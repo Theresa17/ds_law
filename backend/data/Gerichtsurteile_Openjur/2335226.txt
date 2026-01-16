@@ -1,0 +1,142 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitOLG DüsseldorfRechtsprechungUrteil vom 10.09.2020 - 15 U 25/19
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      OLG Düsseldorf, Urteil vom 10.09.2020 - 15 U 25/19
+                      m. Fundstelle
+                      OLG Düsseldorf, Urteil vom 10.09.2020 - 15 U 25/19 = openJur 2021, 15177
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				OLG Düsseldorf, Urteil vom 10.09.2020 - 15 U 25/19
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 15177
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							vorher: Az. 5 O 193/18
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Berufung des Klägers gegen das Urteil der 5. Zivilkammer - Einzelrichterin - des Landgerichts Wuppertal vom 22.11.2018, Az. 5 O 193/18, wird zurückgewiesenDer Kläger hat die Kosten des Berufungsverfahrens zu tragen.Dieses Urteil und das Urteil des Landgerichts sind vorläufig vollstreckbar.Die Revision wird nicht zugelassen.  
+				Gründe
+				A.Der Kläger begehrt von der Beklagten wegen des Erwerbs eines Pkw VW Passat Variant 2,0 l TDI, in den ein von der Beklagten hergestellter Dieselmotor des Typs EA 189 eingebaut ist, Schadensersatz in Gestalt einer Rückabwicklung des mit einem Dritten geschlossenen Kaufvertrags.Die Beklagte ist ein Hersteller von Kraftfahrzeugen. Ferner stellt sie Motoren her, die in eigene und in Kraftfahrzeuge von anderen, dem Konzern angehörenden Unternehmen eingebaut werden. Sie installierte in der Steuerung des Dieselmotors EA 189 eine Software zur Abgassteuerung. Diese Software verfügt über zwei verschiedene Betriebsmodi und sie erkennt, ob das Fahrzeug einem Prüfstandtest unterzogen wird. Im Modus 1, der beim Durchfahren des für die amtliche Bestimmung der Fahrzeugemissionen maßgeblichen Neuen Europäischen Fahrzyklus (NEFZ) automatisch aktiviert wird, werden mittels einer Abgasrückführung Abgase zusätzlich gereinigt, wodurch die gesetzlich geforderten Grenzwerte für Stickoxidemissionen eingehalten werden. Unter Fahrbedingungen, die im normalen Straßenverkehr anzutreffen sind, ist hingegen der partikeloptimierte "Modus 0" aktiviert, der zu einer geringeren Abgasrückführungsrate und damit zu einem höheren Stickoxidausstoß führt. Der o.g. Dieselmotor wurde auf Veranlassung des Vorstands der Beklagten millionenfach in diversen Fahrzeugtypen der Beklagten und der zum Volkswagenkonzern gehörenden Unternehmen verbaut.Am 22.09.2015 veröffentlichte die Beklagte eine Adhoc-Mitteilung gemäß § 15 WpHG und eine gleichlautende Pressemitteilung mit folgendem Inhalt."Volkswagen treibt die Aufklärung von Unregelmäßigkeiten einer verwendeten Software bei Diesel-Motoren mit Hochdruck voran. [...]Weitere bisherige interne Prüfungen haben ergeben, dass die betreffende Steuerungssoftware auch in anderen Diesel-Fahrzeugen des Volkswagen Konzerns vorhanden ist. [...]Auffällig sind Fahrzeuge mit Motoren vom Typ EA 189 mit einem Gesamtvolumen von weltweit rund elf Millionen Fahrzeugen. Ausschließlich bei diesem Motortyp wurde eine auffällige Abweichung zwischen Prüfstandswerten und realem Fahrbetrieb festgestellt. Volkswagen arbeitet mit Hochdruck daran, diese Abweichungen mit technischen Maßnahmen zu beseitigen. Das Unternehmen steht dazu derzeit in Kontakt mit den zuständigen Behörden und dem Deutschen Kraftfahrtbundesamt. [...]".Kurz darauf informierte die Beklagte ihre Vertragshändler und Servicepartner über den Umstand, dass Fahrzeuge mit dem Motortyp EA 189 über eine - von ihr so bezeichnete - Umschaltlogik verfügten und wies diese an, Gebrauchtwagenkäufer über das Vorhandensein dieser "Umschaltlogik" aufzuklären. Sie richtete außerdem auf ihrer Homepage eine Internetseite ein, auf der jeder durch Eingabe der Fahrzeugidentifikationsnummer überprüfen kann, ob ein konkretes Fahrzeug mit einem betroffenen Dieselmotor ausgestattet ist. Hierüber informierte die Beklagte am 02.10.2015 mit einer Pressemitteilung.Mit Bescheid vom 14.10.2015 verpflichtete das Kraftfahrtbundesamt (nachfolgend KBA) die Beklagte, bei allen betroffenen Dieselfahrzeugen mit dem Aggregat EA 189 EU5 die "unzulässige Abschalteinrichtung" zu entfernen, geeignete Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit, insbesondere der Emissionen des genehmigten Systems zu ergreifen und darüber Nachweise vorzulegen. Ferner erklärte das KBA im Wege einer Nebenbestimmung einen von der Beklagten vorgelegten Zeit- und Maßnahmenplan für verbindlich. Für den Fall der Nichtbefolgung dieser Anordnungen drohte es an, die Typgenehmigung ganz oder teilweise zu widerrufen oder zurückzunehmen. Die Beklagte informierte hierüber in einer Pressemitteilung vom selben Tag.Der Abgasskandal war darüber hinaus ab September 2015 Gegenstand ausführlicher und umfangreicher Medienberichterstattung.Am 23.03.2016 erwarb der Kläger bei der Autohaus A. GmbH & Co. KG den o. g. gebrauchten Pkw zum Kaufpreis von 16.760,- Euro. Für den Fahrzeugtyp war die Typgenehmigung nach der Verordnung (EG) Nr. 715/2007 mit der Schadstoffklasse Euro 5 erteilt.Die Fahrzeuge mit dem Dieselmotor EA 189 EU5 wurden zurückgerufen und es wurden Softwareupdates durchgeführt. Bezogen auf den in Rede stehenden Fahrzeugtyp bestätigte das KBA mit Schreiben vom 21.07.2016, dass die vorgestellte Änderung der Applikationsdaten geeignet ist, die Vorschriftsmäßigkeit der Fahrzeuge herzustellen.Der Kläger hat erstinstanzlich die Verurteilung der Beklagten zur Zahlung von 15.822,48 Euro nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs sowie die Feststellung verlangt, dass sich die Beklagte mit der Rücknahme dieses Pkws in Annahmeverzug befindet. Hilfsweise hat er Zahlung eines Minderwerts in Höhe von mindestens 3.352,- Euro nebst Prozesszinsen beantragt. Zuletzt hat er die Freistellung von außergerichtlichen Rechtsanwaltskosten über 1.184,05 Euro begehrt.Er hat u. a. vorgetragen, das Fahrzeug sei aufgrund der mit Wissen und Wollen des Vorstands der Beklagten entwickelten und in den Motor eingebauten Abschalteinrichtung mangelhaft. Auf diese Weise habe die Beklagte ihn auch vorsätzlich sittenwidrig geschädigt. Er habe bei Abschluss des Kaufvertrages keine Kenntnis davon gehabt, dass sein Fahrzeug betroffen sei; andernfalls hätte er vom Kauf Abstand genommen. Das Softwareupdate beseitige den Mangel nicht und habe nachteilige Folgen für das Fahrzeug. Die Beklagte hafte ihm gegenüber aus § 826 BGB, nach § 823 Abs. 2 BGB i. V. m. § 263 StGB und nach § 823 Abs. 2 BGB i. V. m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV auf Schadenersatz.Die Beklagte hat u. a. angeführt, eine Täuschung und ein Irrtum des Klägers seien ausgeschlossen, weil er bei Abschluss des Kaufvertrages Kenntnis von der Verwendung der Software gehabt habe. Auch die Sittenwidrigkeit entfalle, weil er über die maßgeblichen Umstände informiert gewesen sei. Indem er gleichwohl das Fahrzeug erworben habe, habe er gezeigt, dass die Funktionsweise der Motorsteuerung für ihn nicht kaufentscheidend gewesen sei. Da sie den Einsatz der Software bereits zuvor öffentlich bekannt gemacht habe, habe sie gegenüber dem Kläger ferner nicht mit Schädigungsabsicht gehandelt. Des Weiteren sei diesem kein erstattungsfähiger Schaden entstanden.Wegen der weiteren Einzelheiten wird gemäß § 540 Abs. 1 Nr. 1 ZPO auf die tatsächlichen Feststellungen in dem angefochtenen Urteil Bezug genommen.Das Landgericht hat die Klage abgewiesen. Zur Begründung hat es im Wesentlichen ausgeführt, dass dem Kläger gegen die Beklagte unter keinem rechtlichen Gesichtspunkt ein Schadenersatzanspruch zustehe, insbesondere nicht aus § 826 BGB oder aus § 823 BGB i. V. m. § 263 StGB. Die Beklagte habe dem Kläger keinen Schaden zugefügt, der auf sittenwidrigem und vorsätzlichem Verhalten beruhe. Es fehle an einer arglistigen Täuschung und einer damit verbundenen kausalen Herbeiführung eines nachteiligen Vertragsschlusses, weil der Kläger beim Erwerb seines Fahrzeuges im März 2016 vom Dieselskandal gewusst habe. Deswegen fehle es auch an der Sittenwidrigkeit.Dagegen wendet sich der Kläger mit seiner form- und fristgerecht eingelegten und begründeten Berufung, mit der er seine erstinstanzlichen Klageanträge weiterverfolgt.Er macht geltend: Entgegen den Ausführungen im angefochtenen Urteil habe die Beklagte ihn vorsätzlich sittenwidrig geschädigt. Er habe nicht die allein maßgebliche Kenntnis vom Einsatz der Software im konkret erworbenen Fahrzeug gehabt und insbesondere auch nicht gewusst, dass eine Betriebsuntersagung/Stilllegung gedroht habe. Wäre ihm diese Gefahr bekannt gewesen, hätte er vom Kauf des Fahrzeugs Abstand genommen. Die Beklagte habe keine hinreichenden Anstrengungen unternommen, um den Zurechnungszusammenhang zwischen ihrem vorsätzlich sittenwidrigen Ursprungsverhalten und seiner Schädigung zu unterbrechen. Sie hätte die Auswirkungen ihres arglistigen Vorgehens begrenzen können und müssen, indem sie gegenüber dem Vertragshandel durchsetze, dass der Vertrieb manipulierter Fahrzeuge eingestellt werde oder - was ebenfalls nicht geschehen sei - ein weiterer Vertrieb zumindest nur noch unter ausdrücklicher Aufklärung des Erwerbers erfolge. Auch ihn habe der Händler nicht über die unzulässige Abschalteinrichtung und daraus resultierende Gefahren und Nachteile für das Fahrzeug informiert. Insgesamt sei bis zum Erwerbszeitpunkt im März 2016 eine die Sittenwidrigkeit ausschließende Verhaltensänderung bei der Beklagten nicht zu erkennen gewesen. Deliktische Ansprüche gegen die Beklagte wegen Betruges und wegen Verstoßes gegen §§ 6 Abs. 1, 27 Abs. 1 EG-FGV seien entgegen der Ansicht des Landgerichts ebenfalls gegeben.Der Kläger beantragt,das am 22.11.2018 verkündete Urteil des Landgerichts Wuppertal, Az. 5 O 193/18, abzuändern und1. die Beklagte zu verurteilen, an ihn 15.822,48 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen Zug um Zug gegen Übergabe und Übereignung des Pkw VW Passat Variant 2, 125 kw, FIN ...1;2. festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag zu 1. genannten Pkw in Annahmeverzug befindet;3. hilfsweise die Beklagte zu verurteilen, an ihn einen Betrag, dessen Höhe ins Ermessen des Gerichts gestellt wird, jedoch mindestens in Höhe von 3.352,- Euro (20 % des Kaufpreises) nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen;4. die Beklagte zu verurteilen, ihn von außergerichtlichen Rechtsanwaltskosten in Höhe von 1.184,05 Euro freizustellen.Die Beklagte beantragt,die Berufung zurückzuweisen.Wegen des weiteren Sach- und Streitstandes wird auf die zwischen den Parteien gewechselten Schriftsätze nebst Anlagen ergänzend Bezug genommen.B.Die zulässige Berufung des Klägers hat in der Sache keinen Erfolg.I.Mangels eines Vertragsverhältnisses oder einer vertragsähnlichen Beziehung zwischen den Parteien kommen vertragliche Ansprüche von vornherein nicht in Betracht; das stellt der Kläger zu Recht nicht in Abrede.II.Der Kläger hat gegen die Beklagte keinen Anspruch auf Schadenersatz aus § 826 BGB, weil sie ihm gegenüber nicht sittenwidrig gehandelt hat.1.Sittenwidrig ist ein Verhalten, das nach seinem Gesamtcharakter, der durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln ist, gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt. Dafür genügt es im Allgemeinen nicht, dass der Handelnde eine Pflicht verletzt und einen Vermögensschaden hervorruft. Vielmehr muss eine besondere Verwerflichkeit seines Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann. Schon zur Feststellung der Sittenwidrigkeit kann es daher auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen. Die Verwerflichkeit kann sich auch aus einer bewussten Täuschung ergeben. Insbesondere bei mittelbaren Schädigungen kommt es ferner darauf an, dass den Schädiger das Unwerturteil, sittenwidrig gehandelt zu haben, gerade auch in Bezug auf die Schäden desjenigen trifft, der Ansprüche aus § 826 BGB geltend macht (BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 15; BGH, Urteil vom 30. Juli 2020 - VI ZR 5/20 -, Rn. 29, jeweils m. w. N.). Da für die Bewertung eines Handelns als (nicht) sittenwidrig in einer Gesamtschau dessen Gesamtcharakter zu ermitteln ist, ist ihr das gesamte Verhalten des Schädigers bis zum Eintritt des Schadens beim konkreten Geschädigten zugrunde zu legen. Dies wird insbesondere dann bedeutsam, wenn die erste potenziell schadensursächliche Handlung und der Eintritt des Schadens zeitlich auseinanderfallen und der Schädiger sein Verhalten zwischenzeitlich nach außen erkennbar geändert hat. Eine solche Verhaltensänderung kann somit bereits der Bewertung seines Gesamtverhaltens als sittenwidrig - gerade in Bezug auf den geltend gemachten, erst später eingetretenen Schaden und gerade im Verhältnis zum erst später Geschädigten - entgegenstehen und ist nicht erst im Rahmen der Kausalität abhängig von den Vorstellungen des jeweiligen Geschädigten zu berücksichtigen (BGH, Urteil vom 30. Juli 2020 - VI ZR 5/20 -, Rn. 30 f.).2.Bei der somit gebotenen Gesamtbetrachtung hat die Beklagte gegenüber dem Kläger nicht sittenwidrig gehandelt.Das Verhalten der Beklagten im Zusammenhang mit dem Inverkehrbringen der mit der Manipulationssoftware versehenen Motoren war zwar auch gegenüber Gebrauchtwagenkäufern als mittelbar Geschädigten, die das Fahrzeug vor Herbst 2015 erwarben, objektiv sittenwidrig (vgl. im Einzelnen BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 16 ff.; OLG Düsseldorf, Urteile vom 18. Dezember 2019 - I-18 U 58/18 - und - I-18 U 16/19 -; Senat, Urteil vom 30. Januar 2020 - I-15 U 18/19 -, jeweils m. w. N.). Wie der Bundesgerichtshof (Urteil vom 30. Juli 2020 - VI ZR 5/20 -, Rn. 34 ff.) im Einzelnen ausgeführt hat, hat die Beklagte ab Herbst 2015 jedoch das bisherige Verhalten in einer Weise geändert, die den Vorwurf der Sittenwidrigkeit bezogen auf ihr Gesamtverhalten nicht mehr rechtfertigt. Den dortigen Ausführungen, die gerade auch in Bezug auf den Kläger und im Hinblick auf den Schaden, der bei ihm durch den Abschluss eines ungewollten Kaufvertrags im März 2016 entstanden sein könnte, uneingeschränkt gelten, schließt sich der Senat nach eigener Prüfung in vollem Umfang an. Die Beklagte hat demnach bereits im Herbst 2015 mit der Adhoc-Mitteilung vom 22.09.2015, mehreren Pressemitteilungen, der Information ihrer Vertragshändler über die Verwendung der Abschalteinrichtung, der Einrichtung der Internetseite zur Überprüfbarkeit der Betroffenheit eines konkreten Fahrzeuges, der Zusammenarbeit mit dem KBA sowie der Entwicklung und Bereitstellung von Softwareupdates ihre Strategie, im eigenen Kosten- und Gewinninteresse das KBA und die Fahrzeugkäufer zu täuschen sowie ihre bislang gleichgültige Gesinnung im Hinblick auf etwaige Folgen und Schäden für Fahrzeugkäufer aufgegeben. Wesentliche Umstände, aufgrund derer ihr Verhalten gegenüber früheren Käufern einer Täuschung gleichzusetzen und als verwerflich zu bewerten war, sind auf diese Weise entfallen. Käufern, die sich erst nach dieser Verhaltensänderung für einen Kauf entschieden haben, wurde deshalb - unabhängig von ihren Kenntnissen vom "Dieselskandal" im Allgemeinen und ihren Vorstellungen von der Betroffenheit des Fahrzeugs im Besonderen - nicht sittenwidrig ein Schaden zugefügt. Nichts anderes gilt demzufolge im Hinblick auf den Kläger, der das Fahrzeug erst im März 2016 erworben hat, ohne dass es auf seine Kenntnisse von der Verwendung der unzulässigen Abschalteinrichtung in seinem Fahrzeug oder von einer Gefahr der Betriebsbeschränkung oder -untersagung ankäme.2.Ein sittenwidriges Handeln der Beklagten ist ebenso wenig im Hinblick auf das Softwareupdate zu bejahen.Dies gilt zunächst für die Vermutung des Klägers, das Softwareupdate für den 1,2 Liter-Motor enthalte selbst möglicherweise eine illegale Funktion. Sie ist allein schon deswegen unbeachtlich, weil im vom Kläger erworbenen Fahrzeug ein 2,0 Liter-Motor verbaut ist.Ebenso wenig kommt es darauf an, ob die Behauptungen des Klägers zutreffen, das Softwareupdate beseitige den Mangel nicht, es habe nachteilige Folgen für das Fahrzeug und führe zu weiteren Sachmängeln (etwa erhöhte Stickoxid- und Kohlendioxidwerte). Weder hat er vorgetragen noch ist sonst erkennbar, dass die Beklagte im März 2016, als er das Fahrzeug erwarb, überhaupt Kenntnis von den behaupteten Folgen des Softwareupdates gehabt hätte. Konkrete Anhaltspunkte für ein besonders verwerfliches, sittenwidriges Handeln der Beklagten in Bezug auf das Softwareupdate fehlen hiervon ausgehend erst recht.III.Der Kläger hat ferner gegen die Beklagte keinen Anspruch auf Schadenersatz nach §§ 823 Abs. 2, 31 BGB i. V. m. § 263 StGB.1.Es kann dahinstehen, ob und ggfs. durch welches Verhalten im Zusammenhang mit der Verwendung der unzulässigen Abschalteinrichtung in strafrechtlicher Weise getäuscht worden ist und ob die Täuschung fortgewirkt und auch noch im März 2016 beim Kläger einen strafrechtlich relevanten Irrtum erregt hat.Jedenfalls fehlt es an der Bereicherungsabsicht und der in diesem Zusammenhang erforderlichen Stoffgleichheit des erstrebten rechtswidrigen Vermögensvorteils mit einem etwaigen Vermögensschaden. Der etwaigen Vermögenseinbuße beim Kläger, die in einer Differenz zwischen dem gezahlten Kaufpreis und dem Wert des erworbenen Fahrzeugs läge, stehen keine stoffgleichen Vermögensvorteile gegenüber, die ein verfassungsmäßiger Vertreter für sich, die Beklagte oder einen Dritten erstrebt haben könnte. Das Ziel der verfassungsmäßigen Vertreter im Zusammenhang mit dem Inverkehrbringen von Fahrzeugen mit der unzulässigen Abschalteinrichtung bestand darin, diese Fahrzeuge kostengünstiger als sonst möglich zu produzieren, möglichst viele von ihnen abzusetzen und damit den Gewinn der Beklagten zu erhöhen. Dieses Ziel ließ sich mit dem Verkauf der Neuwagen erreichen, während seine Erreichung nicht notwendig voraussetzte, dass bei späteren Verkäufen als Gebrauchtwagen ein etwaiger über dem Wert des Fahrzeugs liegender Kaufpreis erneut realisiert würde. Eine Absicht, mit jedem erneuten Verkauf desselben Fahrzeugs den jeweiligen Gebrauchtwagenverkäufer um einen etwaigen, den eigentlichen Wert des Fahrzeugs übersteigenden Anteil am Kaufpreis zu bereichern, kann den verfassungsmäßigen Vertretern der Beklagten daher nicht, insbesondere nicht bereits im Zeitpunkt des Inverkehrbringens des Fahrzeugs unterstellt werden (BGH, Urteil vom 30. Juli 2020 - VI ZR 5/20 -, Rn. 17 ff., 26).2.Im Hinblick auf das Softwareupdate ist bereits eine Täuschungshandlung der Beklagten nicht ersichtlich.Eine Täuschungshandlung im Sinne von § 263 StGB erfordert eine bewusst unwahre Erklärung. Demgegenüber fehlt der erforderliche Täuschungswille bei demjenigen, der die Erklärung in dem guten Glauben abgibt, sie sei wahr (BGH, Urteil vom 5. Februar 1963 - 1 StR 533/62 -, juris Rn. 6; OLG Celle, Beschluss vom 1. Juli 2019 - 7 U 33/19 -, juris Rn. 34; OLG Frankfurt, Urteil vom 6. November 2019 - 13 U 156/19 -, juris Rn. 45). Nicht einmal der Kläger behauptet und es gibt auch keinerlei Anhaltspunkt dafür, dass die Beklagte bis zum Kaufvertragsabschluss im März 2016 bewusst unrichtige Erklärungen zum (zukünftig durchzuführenden) Softwareupdate und seinen Folgen für das Fahrzeug abgegeben habe. Für einen guten Glauben der Beklagten spricht im Gegenteil vielmehr, dass das KBA später das Softwareupdate zur Beseitigung der unzulässigen Abschalteinrichtung freigegeben und erklärt hat, die Änderung sei geeignet, die Vorschriftsmäßigkeit der Fahrzeuge herzustellen.IV.Zuletzt scheidet auch ein Schadenersatzanspruch des Klägers gegen die Beklagte gemäß §§ 823 Abs. 2, 31 BGB i. V. m. §§ 6 Abs. 1, 27 Abs. 1 S. 1 EG-FGV aus, da das Interesse, nicht zur Eingehung einer ungewollten Verbindlichkeit veranlasst zu werden, nicht im Aufgabenbereich der genannten Vorschriften liegt und es damit jedenfalls insoweit am erforderlichen Schutzgesetzcharakter dieser Normen fehlt (BGH, Urteil vom 25. Mai 2020 - VI ZR 252/19 -, Rn. 73 ff., 76; BGH, Urteil vom 30. Juli 2020 - VI ZR 5/20 -, Rn. 10 f.).V.Mangels eines Schadenersatzanspruchs dem Grunde nach hat der Hilfsantrag des Klägers auf Ausgleich eines Minderwertes ebenfalls keinen Erfolg. Dasselbe gilt für die beantragte Feststellung des Annahmeverzuges und für die beanspruchten außergerichtlichen Rechtsanwaltskosten.VI.Die Kostenentscheidung folgt aus § 97 Abs. 1 ZPO; die Entscheidung über die vorläufige Vollstreckbarkeit richtet sich nach §§ 708 Nr. 10, 713 ZPO.Es besteht keine Veranlassung, gemäß § 543 Abs. 2 S. 1 ZPO die Revision zuzulassen, da die Rechtssache keine grundsätzliche Bedeutung hat und weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Revisionsgerichts erfordern.VII.Der Streitwert für das Berufungsverfahren wird auf 15.822,48 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2335226.html (https://oj.is/2335226)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

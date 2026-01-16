@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG SchweinfurtRechtsprechungEndurteil vom 08.03.2021 - 13 O 618/2
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Schweinfurt, Endurteil vom 08.03.2021 - 13 O 618/2
+                      m. Fundstelle
+                      LG Schweinfurt, Endurteil vom 08.03.2021 - 13 O 618/2 = openJur 2022, 12342
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Schweinfurt, Endurteil vom 08.03.2021 - 13 O 618/2
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 12342
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Der Kläger hat die Kosten des Rechtsstreits zu tragen.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110% des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.4. Der Streitwert wird auf 24.524,43 € festgesetzt. 
+				Tatbestand
+				Der Kläger begehrt von der Beklagten die wirtschaftliche Rückabwicklung eines Pkw-Kaufs wegen einer behaupteten unzulässigen Abschalteinrichtung des Pkw-Motors.Der Kläger erwarb am 21.06.2013 bei einen VW Golf Variant 2.0 TDI, Fahrgestellnummer mit einer Laufleistung von 0 km für 30.456,06 € (An lage Kl). In diesem VW ist ein von der Beklagten entwickelter Dieselmotor vom Typ EA 288 verbaut. Das Fahrzeug hat eine Zulassung nach Euro 5-Norm.Der Dieselmotor EA 288 ist das Nachfolgemodell des Motors EA189, der den Abgasskandal auslöste.Eine Rückrufbescheid des Kraftfahrtbundesamtes für das streitgegenständliche Fahrzeug existiert nicht. Den streitgegenständlichen Motortyp EA 288 hat das Kraftfahrtbundesamt überprüft und im Untersuchungsbericht aus 2016, dort auf Seite 12, festgestellt; "Hinweise, die aktuell laufende Produktion der Fahrzeuge mit Motoren der Baureihe EA 288 (Euro 6) seien ebenfalls von Abgasmanipulationen betroffen, haben sich hierbei auf Grundlage der Überprüfungen als unbegründet erwiesen." Das BMVI wies das KBA dabei an, spezifische Nachprüfungen durch unabhängige Gutachter zu veranlassen. Diese "KBA-Felduntersuchungen" umfassten insgesamt 56 Messungen an 53 Fahrzeugmodellen verschiedener Hersteller, wobei 24 der untersuchten Fahrzeug der Emissionsklase EU 5 und 32 Fahrzeuge der Emissionsklasse EU 6 angehörten. Ziel der Untersuchung war, die Motorvarianten dahingehend zu überprüfen, ob sie unzulässige Abschalteinrichtungen oder unzulässige Prüfstands- und Zykluserkennungen wie die in den EA 189-Fahrzeugen verbaute Umschaltlogik enthielten (BI. 142).In der letzten mündlichen Verhandlung am 16.02.2021 (Protokoll Blatt 263 ff. der Akte) wies das Fahrzeug des Klägers einen Kilometerstand von 60.926 km auf.Der Kläger behauptet im Wesentlichen, der verbaute Dieselmotor enthalte mehrere unzulässige Abschalteinrichtungen. Die Abgasnachbehandlungstechnik sei dieselbe wie beim Motor EA 189 (BI. 192). Die beklagenseits in den Fahrzeugen mit Motor EA 288 in der Motorsteuerung hinterlegte Fahrkurve beschreibe den Modus 1, der dafür sorge, dass bei der motorischen Verbrennung weniger NOx und dafür mehr Partikel entstünden. Dieser würde insbesondere im Prüfstandlauf zum Einsatz kommen (BI. 193). Im normalen Fährbetrieb wechsele die Motorsteuerung bei Überschreiten der in dem MSG hinterlegten Toleranzschwellen der Fahrkurven in den Modus 0, wodurch das Fahrzeug ein Vielfaches an Stickoxid emittiere. So zum Einen durch eine Temperaturerkennung. Dieser Sensor erkenne, wenn die Umgebungstemperatur über einen der Prüfstandsanordnung vorausgehenden Zeitraum konstant 20 Grad Celsius betrage. Dabei handele es sich um die sogenannte Aufwärmphase (BI. 196). Darüber hinaus richte sich das Motorsteuergerät bei Aktivierung des "Modus 1" nach konkreten Messgrößen, so nach Kühlmitteltemperatur, Kraftstofftemperatur, Motoröltemperatur, atmosphärischem Umgebungsdruck.Die Beklagte habe in Person namentlich genannter Verantwortlicher von Beginn an beabsichtigt, die Grenzwerte für NOx im Realbetrieb deutlich zu überschreiten. Lediglich im Prüfstandmodus sollten die gesetzlichen Grenzwerte der Euro 6-Norm von 80 mg/km eingehalten werden. Die RDE-Fahrt hingegen habe mit einem NOx-Ausstoß von 240-400 mg/km (geplante) Zielwerte vorgegeben, die die gesetzlich vorgeschriebenen Grenzwerte um das 3-5-fache überschreiten sollten (BI. 7).Sobald das Fahrzeug auf der Straße betrieben werde, schalte es in den dafür vorgesehenen Betriebsmodus um, was als "strecken- und beladungsgesteuerter Betriebsmodus" bezeichnet werde.Die Deutsche Umwelthilfe e.V. habe hierzu NOx- und CO₂-Messsungen an einem Audi A3 1.6 TDI durchgeführt. Auch ein getesteter VW Golf VII, wie auch ein VW Passat habe die gesetzlich vorgeschriebenen Grenzwerte im realen Fährbetrieb deutlich überschritten.In ihrer Entscheidungsvorlage sei die Beklagte selbst davon ausgegangen, dass die Grenzwerte der EG-Verordnung 715/2007 im realen Fährbetrieb nicht eingehalten werden könnnen (BI. 7).Das AGR-System bewerkstellige zudem die Abgasrückführung nur und ausschließlich im Temperaturbereich zwischen 17 und 30 °C vollständig. Außerhalb dieses Temperaturfensters werde die Abgasrückführungsquote hingegen gedrosselt/zurückgefahren (sog. Aus- bzw. Abrampen), wobei eine signifikante Reduktion jedenfalls bei einer Temperatur von 5 Grad 0 erfolge (BI. 12).Das OBD-System könne nicht ordentlich funktionieren. Funktionierte es ordnungsgemäß, würde der nicht ordnungsgemäße Betrieb der Abgassysteme im Normalbetreibe in den mit Abschalteinrichtungen ausgestatteten Fahrzeugen gemeldet werden, was hier nicht der Fall gewesen sei.(BI. 200) Mithin müsse ein weiterer Betrug begangen worden sein, nämlich das OBD-System so programmierte worden sein, das in den mit Abschalteinrichtung ausgestatteten Fahrzeugen bei der Inspektion fälschlicherweise gemeldet werde, dass das Abgassystem ordnungsgemäß funktioniere.Angesichts der verbauten unzulässigen Abschalteinrichtung schulde die Beklagte die wirtschaftliche Rückabwicklung des Kaufs gemäß § 826 BGB sowie § 823 Abs. 2 BGB in Verbindung mit § 263 StGB bzw. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV. Auch nach §§ 311 Abs. 2 Nr. 3, Abs. 3 BGB sei ein Anspruch gegeben. Auf den zu erstattenden Kaufpreis lasse er sich eine Nutzungsentschädigung auf Grundlage einer zu erwartenden Gesamtlaufleistung von 350.000 km anrechnen. Es sei zudem für die Vollstreckung des Rückabwicklungsanspruchs der Annahmeverzug der Beklagte festzustellen.Der Kläger begehrt weiter Ersatz vorgerichtlicher Rechtsanwaltskosten und meint, ihm stehe wegen Vorliegens einer Angelegenheit großen Umfangs und hoher Schwierigkeit eine 2,0 Geschäftsgebühr zu.Der Kläger beantragt,1. Die Beklagte wird verurteilt, an die Klagepartei EUR 30.456,05 nebst Zinsen hieraus in Höhe von 4 Prozent seit dem 04.07.3013 bis 12.05.2020 und seither 5 Prozentpunkten über dem Basiszinssatz abzüglich einer Nutzungsentschädigung in Höhe von EUR 5.931,62 Zug um Zug gegen Rückgabe und Übereignung des Fahrzeuges der Marke Golf Variant 2.0 TDI mit der Fahrgestellnummer zu zahlen.2. Es wird festgestellt, dass sich die Beklagte seit dem 13.05.2020 mit der Rücknahme des im Klageantrag zu 1. Bezeichneten Gegenstands in Annahmeverzug befindet.3. Die Beklagte wird verurteilt, die Kosten der außergerichtlichen Rechtsverfolgung in Höhe von EUR 1.851,36 nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 13.05.2020 zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte ist der Auffassung, es liege gerade keine unzulässige Abschalteinrichtung vor. Dies habe der Untersuchungsbericht des Kraftfahrtbundesamtes (KBA) aus dem April 2016 (Anlage BI) auch so festgehalten. Im Ergebnis trage der Kläger unsubstantiiert "ins Blaue hinein" vor. Der Kläger beschränke sich auf rein spekulative Behauptungen über das Vorliegen einer illegalen Abschalteinrichtung. Die Motorsteuerungssoftware wirke aber tatsächlich nicht negativ auf die Wirksamkeit des Emissionskontrollsystems unter normalen Fahrbedingungen ein.Es liege keine unzulässige Umschaltlogik vor. Soweit das Fahrzeug den Prüfstandlauf erkennt, diene dies dem Schutz bestimmter Funktionen des Fahrzeugs vor Eigenarten eines Prüfstandlaufs. Auf das Emissionskontrollsystem werde aber nicht eingewirkt.Das vom Kläger vorgetragene Thermofenster sei schon in der Sache keine Abschalteinrichtung. Diese würden in sämtlichen in der EU produzierten Dieselfahrzeugen mit Abgasrückführung eingesetzt. Es sei zum Schutz des Motors und des sicheren Fahrzeugbetriebs technisch erforderlich (BI. 157). Das Fahrzeug des Klägers sei aber auch aufgrund der fortschrittlichen Abgasrückführung so konzipiert, dass sie bei Außentemperaturen zwischen -24° C und +70°C aktiv bleibe. Lediglich unterhalb und oberhalb dieser Temperaturen erfolge keine Abgasrückführung (BI. 158). Innerhalb des Thermofensters gebe es keine schrittweise Reduktion der Abgasrückführungsrate, die üblicherweise auch als Abrampung bezeichnet werde. Mithin sei das Thermofenster entweder schon keine Abschalteinrichtung, weil es nur bei praktisch nicht vorkommenden Extremtemperaturen und damit außerhalb der bei "normalem Fährbetrieb vernünftigerweise zu erwartenden Bedingungen im Sinne von Art. 3 Nr. 10 VO (EG) Nr. 715/2007 aktiv sei, öderes erfülle die Voraussetzungen des Art. 5 Abs. 2 Satz 2 lit. a) VO (EG) 715/2007.Die behauptete Problematik um das OBD - System könne schon deshalb keine Abschalteinrichtung sein, weil das OBD-System die abgasbeeinflussenden Systeme lediglich überwache, diese aber nicht beeinflusse.Das Fahrzeug verfüge über eine wirksame Typgenehmigung (BI.171).Die Beklagte meint, aus obigen Gründen könne dem Kläger ein Anspruch unter keinem rechtlichen Gesichtspunkt zustehen.Auf das Protokoll zur mündlichen Verhandlung vom 16.02.2021 sowie die gewechselten Schriftsätze samt Anlagen wird Bezug genommen. 
+				Gründe
+				Die zulässige Klage hat in der Sache keinen Erfolg.A.Der Klagepartei steht ein dem Antrag zu Ziffer 1 zugrundeliegender Schadensersatzanspruch unter keinem rechtlichen Gesichtspunkt zu (siehe unter I). Daher ist auch die Klage im Übrigen unbegründet (siehe unter II).Der Klageantrag zu Ziffer 1 ist unbegründet, da die Klagepartei gegen die Beklagte keinen Anspruch auf Schadensersatz wegen einer behaupteten Manipulation des streitgegenständlichen Fahrzeugs hat. Ein solcher Anspruch steht der Klagepartei unter keinem rechtlichen Gesichtspunkt zu.Vertragliche Ansprüche bestehen zwischen den Parteien nicht, da der Kläger den VW Golf nicht von der Beklagten, sondern von der erworben hat.2. Ein Anspruch der Klagepartei folgt nicht aus §§ 826, 31 BGB. Hierbei kann dahingestellt bleiben, ob in dem unstreitig in dem streitgegenständlichen Fahrzeug befindlichen Thermofenster sowie der behaupteten Manipulation des OBD-Systems unzulässige Abschalteinrichtungen i.S.d. Art. 5 Abs. 2 EG-VO 715/2007 zu sehen sind. Denn ein Verstoß gegen die Vorgaben des Art. 5 Abs. 2 EG-VO 715/2007 allein wäre nicht ausreichend, um von einem sittenwidrigen Verhalten auszugehen (siehe unter ac). Der Vortrag zur behaupteten Umschaltlogik ist als solcher ins Blaue hinein zu werten (siehe unter d)).a) Sittenwidrig ist ein Verhalten, das gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt {Wagner, in: MünchKomm.-BGB, 7. Auflage 2017, § 826 Rn. 9). Dafür genügt nicht schon der Verstoß gegen vertragliche oder gesetzliche Pflichten. Vielmehr muss eine besondere Verwerflichkeit des Verhaltens hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zu Tage tretenden Gesinnung oder den eingetretenen Folgen ergeben kann (BGH, Urteil vom 15.10.2013 - VI ZR 124/12). Schon zur Feststellung der Sittenwidrigkeit kann es daher auf Kenntnisse, Absichten und Beweggründe des Handelnden ankommen, die die Bewertung seines Verhaltens als verwerflich rechtfertigen. Die Verwerflichkeit kann sich auch aus einer bewussten Täuschung ergeben (BGH, Urteil vom 28.06.2016 - VI ZR 536/15, Rn. 16). Eine Sittenwidrigkeit kommt in diesem Zusammenhang insbesondere in Betracht, wenn das Bewusstsein vorhanden ist, möglicherweise gegen gesetzliche Vorschriften zu verstoßen, und dieser Gesetzesverstoß billigend in Kauf genommen wird (vgl. OLG Stuttgart, Urteil vom 30.07.2019 - Az. 10 U 1347/19).b) Das Gericht vermag vorliegend nicht darauf zu schließen, dass die Beklagte bei der Entscheidung zum Einbau eines Thermofensters in den konkreten Motor in das Fahrzeug der Klagepartei in sittenwidriger Weise gehandelt hat.Die Situation bei Annahme eines Thermofensters liegt deutlich anders liegt als im Fall der Prüfstanderkennungssoftware mit Umschaltlogik, wie sie beim VW-Motor EA189 verwendet wurde. In Bezug auf den Motor EA189 wird darauf abgestellt, der VW-Konzern habe nicht einfach nur gesetzliche Abgaswerte außer Acht gelassen, sondern mit der Abschaltvorrichtung ein System zur planmäßigen Verschleierung seines Vorgehens geschaffen. Anders als eine Software zur Prüfstanderkennung zielt das Thermofenster auch nach dem Vortrag der Klagepartei demgegenüber nicht darauf ab, auf dem Prüfstand und auf der Straße per se unterschiedliche Abgasrückführungsmodi zu aktivieren. Vielmehr wird die Abgasrückführung temperaturabhängig stärker oder weniger stark aktiviert. Wenn das für das Fahrzeug der Klagepartei allein in Rede stehende Thermofenster nicht zwischen Prüfstand und realem Betrieb unterscheidet, sondern sich nach der Umgebungstemperatur richtet, ist es aber nicht offensichtlich auf eine "Überlistung" der Prüfungssituation ausgelegt (OLG Düsseldorf BeckRS 2020, 9904 Rn. 28 ff.; vgl. hierzu auch OLG München, Beschluss vom 29.08.2019 - Az. 8 U 1449/19, Rn. 145 ff.; OLG Köln BeckRS 2019, 15640 Rn. 5; OLG Bamberg BeckRS 2019, 43152 Rn. 10).Zudem ist die Frage, ob und unter welchen Voraussetzungen ein solches Thermofenster eine zulässige oder unzulässige Abschalteinrichtung i.S.d. Art. 5 Abs. 2 EG-VO 715/2007 darstellt, bislang nicht höchstrichterlich geklärt. Dies zeigt neben der kontrovers geführten Diskussion über Inhalt und Reichweite der Ausnahmevorschrift des Art. 5 Abs. 2 lit. a EG-VO 715/2007 der Umstand, dass das Kraftfahrt-Bundesamt wie auch das Bundesverkehrsministerium offenbar bislang nicht von der generellen Unzulässigkeit von Thermofenstern oder auch eines konkreten Thermofensters ausgehen. Auch die kürzlich ergangene Entscheidung des Europäischen Gerichtshofs (Urteil vom 17.12.2020 - Az. C-693/18) ändert hieran nichts. Damit ist eine Auslegung, wonach ein Thermofenster keine unzulässige Abschalteinrichtung darstellt, juristisch zumindest vertretbar. So vertritt der BGH in einer nach der Entscheidung des EuGH ergangenen Entscheidung (Beschluss vom 19.01.2021, VI ZR 433/19, allerdings ergangen zu einem Daimler-Thermofenster) die Auffassung, dass die Entwicklung und der Einsatz der temperaturabhängigen Steuerung des Emissionskontrollsystems (Thermofenster) für sich genommen nicht ausreichten, um einen Schadensersatzanspruch wegen vorsätzlicher sittenwidriger Schädigung zu begründen. Bei einer die Abgasreinigung beeinflussenden Motorsteuerungssoftware, die vom Grundsatz her im normalen Fährbetrieb in gleicherweise arbeitet wie auf dem Prüfstand, und bei der Gesichtspunkte des Motorrespektive des Bauteilschutzes als Rechtfertigung ernsthaft angeführt werden können, kann bei Fehlen jedweder konkreter Anhaltspunkte nicht ohne Weiteres unterstellt werden, dass die Handelnden bzw. Verantwortlichen bei der Beklagten in dem Bewusstsein gehandelt haben, möglicherweise eine unzulässige Abschalteinrichtung zu verwenden. Vor dem Hintergrund der allgemein bekannten Informationen und der von der Klagepartei entsprechend geschilderten Funktionsweise des Thermofensters stellt sich ein Verhalten der Beklagten als möglich dar, bei dem sie zur Einhaltung der Emissionswerte bei gleichzeitigem Motorschutz und möglicherweise auch einer gewissen Kostensensibilität eine vertretbare Auslegung einer unbestimmten Norm gewählt hat (OLG Düsseldorf BeckRS 2020, 9904 Rn. 31 ff.; vgl. hierzu auch OLG München, Beschluss vom 29.08.2019 - Az. 8 U 1449/19, Rn. 145 ff.; OLG Köln BeckRS 2019, 15640 Rn. 5).c) Soweit die Klägerseite auf vermeintliche weitere Abschalteinrichtungen im Zusammenhang mit einem SCR-Katalysator abstellt, bedarf dies keiner weiteren Prüfung. Im vorliegenden Fahrzeug ist unstreitig kein SCR-Katalysator verbaut.Auch auf etwaige Behauptungen bezüglich Fahrzeugen der EURO 6-Norm wird nicht eingegangen. Das Fahrzeug hat eine Typgenehmigung nach der EURO 5-Norm erhalten, was unstreitig ist. Ausführungen zu anderen Fahrzeugen liegen damit neben der Sache (so z.B. Ausführungen zu einem SCR-Katalysator bei Euro 6-Dieselmotoren, BI. 18).d) Sofern der Kläger behauptet, die Parallele zum EA 189 Motor und den hierzu geführten Verfahren ergebe sich daraus, dass beim Motor EA 288 wie beim Vorgängermodel EA 189 zwei Modi existieren, Modus 0 und Modus 1, ist hierzu eine Beweisaufnahme nicht veranlasst. Dem Sachvortrag des Klägers fehlte jedwede Substanz namentlich zu der zu Grunde liegenden Behauptung einer Zykluserkennung/Prüfstanderkennung. Der diesbezügliche Sachvortrag bot keinen Anlass zur Durchführung einer Beweisaufnahme, da dieser ersichtlich "ins Blaue hinein" oder "aufs Geratewohl" erfolgt ist.Der Kläger behauptet schon nicht konkret, dass die Abgasreinigung in den verschiedenen Modi auf unterschiedliche Weise durchgeführt wird. Dies ist lediglich seiner Behauptung der Parallele zum EA 189-Motorzu entnehmen. Der Kläger formuliert lediglich, dass der Modus bei Überschreiten der in dem MSG hinterlegten Toleranzschwellen der Fahrkurven, die nicht näher beschrieben werden, in einen anderen Modus wechsele, was dazu führe, dass der Modus 1 insbesondere im Prüfstandlauf aktiv sei. Der Kläger benennt hierzu insbesondere eine Temperaturerkennung sowie Messgrößen wie Kühlmitteltemperatur, Kraftstofftemperatur, Motoröltemperatur etc. Dies hat die Beklagte jedoch bereits in einem Anschreiben an das Kraftfahrt-Bundesamt vom 29.12.2015 (Anlage K13) bestätigt. Damit geht jedoch nicht zwingend eine Optimierung der NOx-Emissionen im Prüfstandsbetrieb einher. Eine Beweiserhebung zu der diesbezüglich substanzarmen Behauptung des Klägers hätte zu einer reinen Ausforschung geführt, die nur im Ausnahmefall in Betracht kommt. Denn zwar kann einer Partei es nicht verwehrt werden, im Zivilprozess Tatsachen zu behaupten, über die sie weder genaue Kenntnis hat noch eine solche erlangen kann, die sie aber nach Lage der Dinge gleichwohl für wahrscheinlich hält (BGH, NJW-RR 2003, 69 [70]; NJW 1995, 2111 [2112]). Indes entspricht es der Rechtsprechung des Oberlandesgerichts Bamberg (Beschluss vom 31.03.2020, Az. 3 U 57/19, BeckRS 2020, 9901 - in Auseinandersetzung mit der aktuellen Rspr. des BGH, NJW 2020, 1740), dass jedenfalls dann keine Beweisaufnahme geboten ist, wenn die zum Beweis gestellte Behauptung für das Vorliegen eines bestimmten Sachverhalts ohne greifbare Anhaltspunkte willkürlich aufgestellt worden ist.Diese Voraussetzungen liegen bzgl. der Behauptung, in das streitgegenständliche Fahrzeug sei eine unzulässige Abschalteinrichtung in Form einer Art von Prüfstanderkennungssoftware verbaut, vor.Für die Richtigkeit seiner Behauptung hat der Kläger nicht den geringsten greifbaren Anhaltspunkt vorgetragen. Derartige Indizien könnten sich etwa aus publizierten behördlichen oder sonstigen Untersuchungen zum streitgegenständlichen Fahrzeug ergeben, aus eigenen Ermittlungen und Untersuchungen des Klägers, aus einem behördlich angeordneten Rückruf für den VW, aus Verlautbarungen oder Maßnahmen des KBA und vielem mehr. Nichts dergleichen ist klägerseits dargelegt worden. Die klägerseits vorgetragenen Untersuchungen der Deutschen Umwelthilfe e.V. bezogen sich nicht auf einen EA 288-Motor der streitgegenständlichen Abgasnorm Euro 5, sondern auf Euro 6 oder nicht auf ein dem streitgegenständlichen vergleichbares Fahrzeugmodell. Vielmehr spricht das von der Beklagten vorgelegte Ergebnis der Untersuchung des KBA vom April 2016 (Anlage BI, dort u.a. auf S. 119), der am Motor EA 288 keine dem Motor EA 189 vergleichbaren Unregelmäßigkeiten hat feststellen können, gegen die vom Kläger aufgestellte Behauptung (vgl. OLG Braunschweig, Beschluss vom 04.11.2019, Az. 7 U 363/18, BeckRS 2019, 38719). Auch bestätigt das KBA mit Bescheid vom 16.03.2020 (Anlage B3) für den streitgegenständlichen Fahrzeugtyp, dass gerade keine unzulässigen Abschalteinrichtungen haben festgestellt werden können.Bedeutungslos ist darüber hinaus, soweit der VW im realen Fährbetrieb (RDE-Messung) die gesetzlichen Emissionswerte überschreitet, denn erst ab der Abgasnorm Euro 6d-TEMP müssen Fahrzeuge überhaupt außerhalb des unter normierten Bedingungen stattfindenden Prüfstandlaufs im Rahmen des Neuen Europäischen Fahrzyklus (NEFZ) auch im Rahmen einer RDE-Fahrt bestimmte Abgaswerte einhalten. Der VW Golf Variant 2.0 TDI des Klägers weist aber nicht diese Abgasnorm auf. Eine Grenzwertüberschreitung im realen Fährbetrieb hat in einem solchen Fall daher nicht einmal eine indizielle Bedeutung (vgl. OLG Stuttgart, Urteil vom 16.06.2020, Az. 16a U 228/19; OLG Celle, Urteil vom 13.11.2019, Az. 7 U 367/18).Eine andere Bewertung aufgrund der Rechtsprechung des BGH vom 28.01.2020, VIII ZR 57/19, ist auch deshalb nicht geboten, weil der zu Grunde liegende Fall nicht vergleichbar ist. Vorliegend unterliegt das Fahrzeug keiner Rückrufaktion des Kraftfahrtbundesamtes mit der Begründung, es läge eine unzulässige Abschalteinrichtung vor.e) Nachdem sich schon aus dem Hauptvorwurf der Umschaltlogik und des Thermofensters ein Anspruch des Klägers gegen die Beklagte nicht ergibt, kommt auch ein Anspruch wegen der behaupteten Manipulation des OBD-Systems, mithin des dahingehenden Überwachungssystems, nicht in Betracht.3. Ein Anspruch folgt auch weder aus §§ 823 Abs. 2, 31 BGB i.V.m. § 263 Abs. 1 StGB noch aus §§ 831, 826 BGB oder aus §§ 311, 280 Abs. 1, 241 Abs. 2 BGB. Denn der Beklagten kann auf dieser Grundlage jedenfalls kein bewusst täuschendes Verhalten vorgeworfen werden. Eine Aufklärung der Klagepartei über die Funktionsweise des in dem Fahrzeug enthaltenen Thermofensters oder anderer möglicher Abschalteinrichtungen musste vor diesem Hintergrund nicht erfolgen.4. Ein Anspruch der Klagepartei folgt weiterhin nicht aus §§ 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV. Denn bei diesen Normen handelt es sich nicht um Schutzgesetze im Sinne des § 823 Abs. 2 BGB, die den Schutz der Klagepartei vor dem eingetretenen Schaden bezwecken. Schutzgesetze sind solche, die zumindest auch den Individualschutz des Einzelnen bezwecken, ohne dass dies einen bloßen Reflex der Vorschrift darstellt. Demgegenüber zielen die zur vollständigen Harmonisierung der technischen Anforderungen für Fahrzeuge erlassenen Rechtsakte der Europäischen Union laut der Erwägungsgründe 2, 12, 14, 17 und 23 der RL 2007/46/EG vor allem auf eine hohe Verkehrssicherheit, hohen Gesundheits- und Umweltschutz, rationelle Energienutzung und wirksamen Schutz vor unbefugter Benutzung. Das Interesse, nicht zur Eingehung einer ungewollten Verbindlichkeit veranlasst zu werden, liegt jedenfalls nicht im Aufgabenbereich dieser Normen (vgl. BGH, Urteil vom 25.05.2020 - Az. VI ZR 252/19, juris, Rn. 72 ff.). Dies gilt auch für die Norm des Art. 5 Abs. 2 VO (EG) Nr. 715/2007.II. Der Klagepartei steht in der Folge auch kein Zinsanspruch sowie kein Anspruch auf Freistellung von vorgerichtlichen Rechtsanwaltskosten zu. Mangels Schadensersatzanspruchs ist die Beklagte mit der Rücknahme des streitgegenständlichen PKW nicht in Annahmeverzug geraten.C)Die Kostenentscheidung ergeht gern. § 91 ZPO.Der Streitwert ist gemäß §§ 63 Abs. 2, 48 GKG in Verbindung mit § 3 ZPO festgesetzt worden. Hierbei ist dem Feststellungsantrag zu 2.) kein eigenständiger Wert zugemessen worden (OLG Naumburg, Besohl, v. 7.3. 2012 - 10 W 17/12).
+			
+			
+			
+			Permalink: https://openjur.de/u/2417221.html (https://oj.is/2417221)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate14
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

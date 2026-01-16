@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BochumRechtsprechungUrteil vom 16.03.2021 - 1 O 284/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bochum, Urteil vom 16.03.2021 - 1 O 284/20
+                      m. Fundstelle
+                      LG Bochum, Urteil vom 16.03.2021 - 1 O 284/20 = openJur 2024, 6414
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bochum, Urteil vom 16.03.2021 - 1 O 284/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2024, 6414
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits werden der Klägerin auferlegt.Das Urteil ist gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Klägerin verlangt von der Beklagten Schadensersatz, weil in dem von ihr gekauften Kleinbus vom Typ W ein Motor eingebaut ist, der mit einer illegalen Abschaltsoftware arbeiten soll.Die in Datteln ansässige, vorsteuerabzugsberechtigte Klägerin erwarb am 28.02.2017 in ihrer Eigenschaft als gewerbliche Fahrradhändlerin einen Neuwagen vom Typ U zum Nettopreis von 51.889,60 € unmittelbar bei der Beklagten als Herstellerin. In dem Fahrzeug ist ein Motor des Typs F, Schadstoffnorm Euro 6, verbaut. Bei dem Motor handelt es sich um das Nachfolgemodell des Typs F1, welches bei Auslieferung mit einer Software versehen war, die erkennen konnte, ob sich das Fahrzeug auf einem Prüfstand im Testbetrieb befand, und in diesem Fall in einen Stickoxidoptimierten Modus schaltete.Das Fahrzeug verfügt formell über eine wirksame Typengenehmigung des Kraftfahrt-Bundesamtes (KBA). Unter dem 17.04.2019 befindet sich in der online-Datenbank des KBA ein Rückruf betreffend Fahrzeuge des Typs W. Als Grund ist "eine Konformitätsabweichung führt zur Überschreitung des Euro-6-Grenzwertes für Stickoxide" angegeben. Als Abhilfemaßnahme wird ein "Software Update" genannt. Der Widerruf war beschränkt auf Fahrzeuge mit dem - auch im Klägerfahrzeug verbauten - Motor (des Typs F) mit 2,0 l TDi. Im Lauf des Jahres 2019 schrieb die Beklagte die Besitzer von Fahrzeugen dieses Typs an und forderte diese zu einem freiwilligen Software-Update in einer Vertragswerkstatt auf. Dieses ließ die Klägerin im März 2019 bei einer Laufleistung von ca. 32.000 km durchführen.Halter, die von der Möglichkeit des Updates keinen Gebrauch machten, schrieb das KBA im September 2020 an und wies sie auf die bislang fehlende Teilnahme der "verpflichtenden Rückrufaktion" hin. Grund des Rückrufs sei, dass "in der Steuergeräte-Software" der Fahrzeuge "eine Abweichung von den Abgasimmissionsvorschriften" festgestellt worden sei, welche "zur Herstellung der Vorschriftsmäßigkeit" entfernt werden müsse. Sofern der Halter nicht daran teilnehme, werde das KBA seine Daten an die örtliche Zulassungsbehörde übermitteln, welche dann in eigener Zuständigkeit Maßnahmen, etwa die Untersagung des Betriebs des Fahrzeugs, prüfen könne.Die Klägerin behauptet, im Motor F arbeite ebenfalls eine Software, welche insbesondere anhand der standardisierten Fahrzyklen, der Lenkbewegungen und der Umgebungstemperatur erkennen könne, ob der Wagen sich auf einem Prüfstand befinde. Die Wirksamkeit des verbauten SCR-Katalysators und damit die Reduzierung von NOx hänge von der Menge der zugeführten Harnstofflösung ("AdBlue") ab. Die Menge der zugeführten Lösung werde neben dem Lenkverhalten durch das Thermofenster beeinflusst, das heißt reduziert oder ganz ausgesetzt. Erkenne die Abschaltsoftware, dass das Fahrzeug auf dem Prüfstand steht, werde ausreichend AdBlue eingespritzt. Im normalen Straßenbetrieb hingegen werde deutlich weniger AdBlue zugeführt.. Das von der Beklagten beabsichtigte Software-Update entferne diese Abschalteinrichtung. Gleichzeitig steige damit der Verbrauch von AdBlue im Straßenverkehr, was belege, dass ursprünglich nur im Prüfstand ausreichend von dieser Chemikalie eingedüst werde. Weiterhin sei das "Onboard-Diagnose-System" des Fahrzeugs offensichtlich manipuliert, da dies selbst bei deutlicher Überschreitung der Grenzwerte für NOx keine Fehler melde. Darüber hinaus sei eine illegale, temperaturgesteuerte Abschaltvorrichtung verbaut (sog. Thermofenster). Eine wirksame Abgasreduktion finde nur im Temperaturbereich zwischen 20 °C bis 30 °C statt. Zusätzlich schalte die Software ab einer bestimmten Drehzahl die Abgasreinigung sowie den SCR-Katalysator ab, bzw. reduziere dessen Leistung, so dass es dann zu einem unzulässigen Anstieg der Stickoxidemissionen komme.Ohne diese - aus Klägersicht illegalen - Vorrichtungen könne der Grenzwert für die Schadstoffklasse des Wagens nicht eingehalten werden. Das Fahrzeug erfülle daher nicht die Schadstoffnorm, für das es die Typenzulassung hat. Sie habe ein umweltfreundliches Fahrzeug erwerben wollen und wäre die Verpflichtungen aus dem Kaufvertrag deshalb bei Kenntnis der wahren Sachlage nicht eingegangen. Ihr drohe zudem die Betriebsuntersagung und ein Wertverlust.Die Klägerin beantragt,1. die Beklagte zu verurteilen, an die Klägerseite einen Betrag in Höhe von 51.086,79 € nebst Zinsen in Höhe von 9 Prozentpunkten über dem jeweiligen Basiszinssatz der EZB ab Rechtshängigkeit zu zahlen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeuges W, Fahrzeug-Ident.-Nr. #.2. festzustellen, dass die Beklagte sich mit der Entgegennahme des Fahrzeugs aus dem Antrag zu Ziffer 1. in Annahmeverzug befindet.3. die Beklagte zu verurteilen, an die Klägerseite einen Betrag in Höhe von 1.777,00 € nebst Zinsen in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz der EZB seit Rechtshängigkeit für die außergerichtliche anwaltliche Rechtsverfolgung zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Sie behauptet, im vorliegenden Fahrzeug sei keine manipulative Umschaltlogik verbaut, die den Prüfstand erkenne und als Folge auf dem Prüfstand ein anderes Emissionsverhalten erzeuge als auf der Straße. Das Fahrzeug verfüge über keine Fahrkurven- oder Zykluserkennung, die eine Erkennung des Prüfstands ermögliche. Der Rückruf hinsichtlich des Fahrzeugtyps W bedeute nicht, dass vor dem Update eine Prüfstands-Erkennungssoftware gearbeitet habe. Hintergrund sei eine Konformitätsabweichung bezüglich des "Ki-Faktors" gewesen. Bei diesem handle es sich um einen Korrekturfaktor bei der Bewertung von Abgastestergebnissen. Bei der Abgasrückführung arbeiteten periodisch regenerieren Systeme. So würden zuvor angesammelte Rußpartikel in einem thermischen Vorgang abgebrannt und dadurch unschädlich gemacht. Dadurch reduzierten sich punktuell deutlich die Abgasimmissionen. Dieses Regenerationsverhalten sei individuell. Interne Tests des W-Konzerns hätten ergeben, dass das Regenerationsverhalten von einigen W-Fahrzeugen nicht den gesetzlichen Vorgaben entspreche. Dies habe man gegenüber dem KBA ordnungsgemäß angezeigt und diesem das beabsichtigte Software-Update zur Beseitigung der Konformitätsabweichung dargestellt. Das KBA habe nach Prüfung des Sachverhalts festgestellt, dass keine unzulässigen Einrichtungen vorlägen. Das Aufbringen der Softwaremaßnahme sei geeignet, das Stickoxid-Emissionsverhalten während der Regeneration des Dieselpartikelfilters zu verbessern. Der ursprünglich vom Hersteller angegebene Kraftstoffverbrauch werde eingehalten. Weder an den Fahreigenschaften noch an der erteilten Typengenehmigung ergäben sich keine Änderungen.Schon im Rahmen des Genehmigungsverfahrens habe sie dem Kraftfahrt-Bundesamt sämtliche Auskünfte erteilt, die sie habe erteilen müssen. Insbesondere die temperaturabhängige Steuerung der Abgasrückführung sei dem Kraftfahrt-Bundesamt regelmäßig angezeigt worden, ohne dass die Fachbehörde einen Grund zum Einschreiten gegen die Beklagte gesehen habe. Die vom Kraftfahrt-Bundesamt erteilte EG-Typengenehmigung sei somit wirksam.Sie vertritt darüber hinaus die Auffassung, dass es sich bei dem sog. "Thermofenster" um keine unzulässige Abschalteinrichtung handle. Zum Schutz des Motors sei es erforderlich, die Abgasrückführung abhängig von der Temperatur zu reduzieren. Selbst wenn sich ihre - vom Kraftfahrt-Bundesamt geteilte - Rechtsauffassung hinsichtlich der Konformität der Steuerungssoftware mit EU-Recht als unrichtig herausstelle, sei jedenfalls in subjektiver Hinsicht keine vorsätzliche sittenwidrige Schädigung gegeben. Zudem fehle es am Schaden. Das Fahrzeug der Klägerin verfüge nach wie vor über eine uneingeschränkte EG-Typengenehmigung; seine Stilllegung sei nicht zu erwarten.Wegen des weiteren Vorbringens der Parteien im Einzelnen wird Bezug genommen auf die gewechselten Schriftsätze nebst Anlagen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I.Da die Klägerseite Gewährleistungsansprüche (§ 437 BGB) gegen die Beklagte, die zugleich auch Verkäuferin ist, nicht geltend macht, kommen nur deliktische Anspruchsgrundlagen in Betracht. Solche greifen jedoch im Ergebnis nicht durch.1. Die Klägerin hat gegen die Beklagte keinen Anspruch auf Zahlung von 51.086,79 € Euro, Zugum-Zug gegen Übergabe und Übereignung des streitgegenständlichen Fahrzeugs, gemäß § 826 BGB. Nach § 826 BGB ist derjenige, der in einer gegen die guten Sitten verstoßenden Weise einem anderen vorsätzlich Schaden zufügt, dem anderen zum Ersatz des Schadens verpflichtet. Die Voraussetzungen für eine solche vorsätzliche, sittenwidrige Schädigung liegen jedoch nicht vor.a) Soweit die Klägerin behauptet, in seinem Fahrzeug sei eine Steuerungssoftware eingebaut, welche das Durchfahren des Prüfzyklus erkenne und die Abgasaufbereitung dergestalt regele, dass der Ausstoß an Stickoxiden nur beim Durchfahren des NEFZ optimiert werde, so vermag dies eine zum Schadensersatz verpflichtende vorsätzlich sittenwidrige Schädigung im Sinne des § 826 BGB nicht zu begründen.Zwar verkennt das Gericht nicht, dass es einer Partei nach der Rechtsprechung des Bundesgerichtshofs nicht verwehrt werden darf, vermutete Tatsachen, über die sie selbst kein zuverlässiges Wissen besitzt, zu behaupten und unter Beweis zu stellen (vgl. BGH, Urteil v. 25.03.1987 - IVA ZR 224/85 - m. w. N.). Unzulässig ist ein solches Vorgehen jedoch, wenn - wie vorliegend - ohne greifbare Anhaltspunkte für das Vorhandensein eines bestimmten Sachverhalts willkürlich Behauptungen "ins Blaue hinein" aufgestellt werden (vgl. BGH, Beschluss v. 02.04.2009 - V ZR 177/08 m. w. N.).Die Behauptung der Klägerin, in dem Fahrzeug sei eine Prüfstanderkennungssoftware verbaut, stellt sich vielmehr als unbeachtliche Behauptung ins Blaue hinein dar. Hinsichtlich des im Klägerfahrzeug tatsächlich verbauten Motors vom Typ F des W-Konzerns sind keinerlei objektive Anhaltspunkte für das Vorhandensein einer solchen Umschaltlogik in dem streitgegenständlichen Fahrzeug zu entnehmen. Soweit der W-Konzern Fahrzeuge des Typ U (Euro 6) im April 2019 zwecks Softwareupdate zurückrief, erlaubt dies keinen Rückschluss auf das Vorhandensein einer Prüfstanderkennungssoftware. Der Wortlaut des Anschreibens des KBA an die Halter vom September 2020 mag zwar auf den ersten Blick den Anschein erwecken, dass es bei dem Update - wie seinerzeit beim Motortyp F1 - um die Entfernung einer unzulässigen Steuerungssoftware gehe. Insoweit hat die Beklagtenseite aber dezidiert vorgetragen, dass der Grund des Rückrufs in Wahrheit eine Konformitätsabweichung bezüglich des "Ki-Faktors" war, bezüglich deren Einzelheiten das Gericht auf die Klageerwiderung Bezug nimmt. Das ist unstreitig geblieben. Besagte Konformitätsabweichung war dem KBA zuvor mitgeteilt worden. Eine Prüfstandsoftware konnte das KBA nach Prüfung der Sachlage gerade nicht feststellen. Dass die zurückgerufenen Fahrzeuge nach dem Softwareupdate mehr Adblue verbrauchen sollen, ist für den konkreten Fahrzeugtyp weder belegt, noch stellt es ein Indiz dafür dar, dass zuvor eine "Schummelsoftware" am Werk war, die lediglich im Prüfstand zur Erreichung der gesetzlichen Werte ausreichend Adblue eindüste. Schließlich räumt die Beklagte ein, dass zur Beseitigung der genannten Konformitätsabweichung vorübergehend eine höhere Adblue-Einspritzung notwendig sei, etwa um angelagerte Rußpartikel im Abgasrückführungssystem zu beseitigen. Eine Manipulation des "Onboard-Diagnose-Systems" im konkreten Fahrzeugtyp, hat die Klägerseite ebensowenig dargelegt wie eines Algorithmus zur Erkennung testspezifischer Geschwindigkeiten und Lenkmanöver. Insoweit erschöpft sich der Vortrag weitgehend in der textbausteinartigen Darstellung von Erkenntnissen hinsichtlich des Vorgängermotors F1 Die von der Klägerseite herangezogenen Recherchen des T betreffen ein anderes Aggregat, nämlich einen Motor mit 3.0 Liter, der unter anderem im W verbaut wurde und deshalb nach Auffassung des Gerichts nicht übertragbar ist. Soweit sich die Klägerseite auf ein Urteil des Landgerichts Duisburg (Urteil vom 30.10.2018 - 1 O 231/18 -, juris Rn. 17 ff.) beruft, in dem die Beklagte die Verwendung einer Prüfstanderkennungssoftware "eingeräumt" haben soll, hält dies näherer Betrachtung nicht stand. Zwar folgt aus dem Umstand, dass ein bestimmter Vortrag nicht ausdrücklich bestritten wird, dass dieser als zugestanden gilt (§ 138 Abs. 3 BGB). Diese Wirkung kann aber, wie das Landgericht Duisburg andeutet, auch durch prozessuale Versäumnisse entstehen. Ein Zugestehen von Tatsachen (§ 288 ZPO) liegt darin nicht. Als Anhaltspunkt dafür, dass gerade der Wagen der Klägerin mit einer unzulässigen Zykluserkennung ausgerüstet ist bzw. war, verbleibt damit die - unstreitige - Verwendung einer Abschaltlogik im Vorgängermodell F1. Die Vorwürfe im Zusammenhang mit dem Motor F1 waren bereits im Jahr 2015 publik. Dass das entsprechend sensibilisierte KBA, obwohl es seither fast alle Diesel-Aggregate sowohl des W-Konzerns als auch anderer Hersteller eingehend dahingehend untersucht hat, ob dort eine Abschaltlogik vorhanden ist, eine solche bei dem streitgegenständlichen Motortyp nicht erkannte und unbeanstandet ließ, erachtet das Gericht als höchst unwahrscheinlich (vgl. OLG Dresden, Urteil vom 10.03.2020 - 9a U 2520/19 -, juris Rn. 22 ff.).b) Auch das abstrakte Vorbringen der Klägerin in Bezug auf das sog. "Thermofenster" und seine Wirkungsweise in anderen Motortypen vermag einen Anspruch aus § 826 BGB nicht zu begründen.Es kann dabei dahinstehen, ob es sich bei dem sog. "Thermofenster" entsprechend des Vorbringens der Klägerin um eine unzulässige Abschalteinrichtung im Sinne des Art. 5 Abs. 2, Art. 3 Nr. 10 EG VO 715/2007 handelt. Denn selbst wenn unterstellt wird, dass das Thermofenster eine unzulässige Abschalteinrichtung darstellt, stellt sich allein das Inverkehrbringen des Fahrzeugs mit dem sog. "Thermofenster" nicht als sittenwidrige Handlung dar (vgl. BGH, Urteil vom 19.01.2021 - VI RR 433/19 -, juris Rn. 17 ff. [betreffend den Hersteller Dailmer]).Mit der Verwendung einer Abschaltlogik lässt sich der Einsatz des sog. "Thermofensters" nicht vergleichen. Denn anders als bei der von einem anderen Fahrzeughersteller verwendeten Umschaltlogik verhält sich das klägerische Fahrzeug - identische Bedingungen vorausgesetzt - auf dem Prüfstand ebenso wie im Realbetrieb (vgl. BGH, Urteil vom 19.01.2021, a. a. O., juris Rn. 18). Dass der NEFZ die Abgaswerte im Realbetrieb nur unzureichend abbildet, mag zwar dieses Prüfverfahren als unzureichend erscheinen lassen, begründet aber als solches nicht den Vorwurf einer Täuschung.Jedenfalls hat die Klägerin aber nicht ausreichend und damit nicht schlüssig vorgetragen, dass in subjektiver Hinsicht das Bewusstsein der Beklagten vorhanden war, sittenwidrig zu handeln. Über die Kenntnis vom Einbau einer Einrichtung mit der in Rede stehenden Funktionsweise in den streitgegenständlichen Motor hinaus müssen nämlich zugleich auch Anhaltspunkte dafür erkennbar sein, wonach dies seitens der Beklagten in dem Bewusstsein geschah, damit gegen die gesetzlichen Vorschriften zu verstoßen (vgl. BGH, Urteil vom 19.01.2021, a. a. O., juris Rn. 19; OLG Köln, Beschluss vom 04.07.2019 - 3 U 148/18 -; OLG Stuttgart, Urteil vom 30.07.2019 - 10 U 134/19 -; jeweils juris). Die Beklagte muss daher zumindest mit bedingtem Vorsatz gehandelt haben - Fahrlässigkeit, auch grobe, genügt nicht (ständ. Rspr., vgl. etwa BGH, Urteil vom 15.10.2013 - VI ZR 124/12 -; Wagner in Münchener Kommentar zum BGB, 7, Aufl. § 826 Rn. 27). Dabei ist für die Feststellung des Schädigungsvorsatzes im Rahmen von § 826 BGB nicht der heutige Meinungsstand oder die heutige Rechtsprechung einzelner Spruchkörper der Gerichte, sondern der Zeitpunkt des Inverkehrbringens des konkreten Fahrzeugs durch den Hersteller maßgeblich (vgl. OLG Stuttgart, a. a. O.).Ein ausreichend zwingender Rückschluss, wonach die entscheidungsbefugten Organvertreter der Beklagten hinsichtlich der Einführung einer temperaturabhängigen Abgasrückführung nicht nur eine falsche (so BGH, Urteil vom 19.01.2021, a. a. O., Rn. ), sondern eine evident unvertretbare Rechtsauffassung des Art. 5 Abs. 2 S. 2 VO (EG) 715/2007 zugrunde gelegt haben, ergibt sich aus dem Vorbringen der Klägerin nicht (vgl. OLG Hamm, Urteil v. 06.07.2020- 17 U 168/19 - m. w. N.; OLG Stuttgart, a. a. O.; OLG Koblenz, Urteil vom 21.10.2019 - 12 U 246/19 -). Dies gilt umso mehr, als Art. 5 Abs. 2 S. 2 VO (EG) 715/2007 Auslegungsspielräume eröffnet. Technisch eindeutige Vorgaben, an denen sich die Beklagte im maßgeblichen Zeitpunkt des Inverkehrbringens des klägerischen Fahrzeugs im Jahr 2014 hätte orientieren können, werden auch von der Klägerin nicht dargelegt. Insoweit ist auch zu berücksichtigen, dass das Kraftfahrtbundesamt bzgl. des klägerischen Fahrzeugs - obwohl es nach dem unbestrittenen Vortrag der Beklagten über die temperaturabhängige Steuerung der Abgasrückführung im Rahmen des Typengenehmigungsverfahrens informiert wurde - bisher noch keinen Rückruf angeordnet hat. Hat aber die Beklagte die Rechtslage fahrlässig verkannt, fehlt es ihr an dem für die Sittenwidrigkeit in subjektiver Hinsicht erforderlichen Bewusstsein der Rechtswidrigkeit. Daher ist eine Auslegung, wonach ein "Thermofenster" eine ausnahmsweise zulässige Abschalteinrichtung darstellt, jedenfalls nicht derart unvertretbar, dass sich daraus ein Vorsatz zum Rechtsbruch herleiten ließe.Soweit die Klägerin den Schädigungsvorsatz daraus herleiten will, dass "die unter regulären Fahrbedingungen zu erzielenden Ausstoß-Werte nicht offengelegt" worden seien, erscheint dies zirkelschlüssig. Die nach EU-Recht standardisierten Testverfahren, mögen sie auch Schwächen haben, dienen gerade einer Vergleichbarkeit der Typen und Testbedingungen.c) Darüber hinaus hat die Klägerin den Eintritt eines, auf das behauptete vorsätzliche, sittenwidrige Inverkehrbringens des Fahrzeugs zurückzuführenden, Vermögensschaden nicht schlüssig dargelegt. Ein Widerruf der bestehenden Typengenehmigung oder gar eine Stilllegung des Fahrzeugs durch das Kraftfahrtbundesamt steht nicht zu erwarten. Dass die Klägerin das Fahrzeug nur unter erheblichen Werteinbußen verkaufen könnte, erscheint spekulativ. Da gerichtsbekannt weiterhin ein Markt für gebrauchte Dieselfahrzeuge besteht, selbst wenn sie vom "Abgasskandal" betroffen sind, hätte es insoweit eines substantiierten Vortrags bedurft.2. Ein Anspruch aus § 823 Abs. 2 BGB i. V .m. § 263 StGB scheitert aufgrund obiger Ausführungen jedenfalls an dem fehlenden Täuschungsvorsatz. Darüber hinaus fehlt es an einem stoffgleichen Vermögensschaden der Klägerin (vgl. OLG Hamm, Hinweisbeschluss vom 19.11.2020 - I-34 U 66/20 - m. w. N.).3. Ebenfalls nicht in Betracht kommt ein Anspruch aus § 823 Abs. 2 BGB i. V. m. den Vorschriften der EG-FGV, da diese Normen nicht dem Schutz von lndividualinteressen zu dienen bestimmt und damit keine Schutzgesetze i. S. d. § 823 Abs. 2 BGB sind.II.Mangels Bestehens eines Hauptanspruchs hat die Klägerin keinen Anspruch auf die mit dem Klageantrag zu Ziffer 1 geltend gemachten Zinsen sowie die zu Ziffer 2 begehrte Feststellung des Annahmeverzugs. Der mit weiterem Klageantrag zu Ziffer 3 geltend gemachte Anspruch auf Freistellung von vorgerichtlichen Rechtsanwaltskosten besteht mangels eines Hauptanspruchs ebenfalls nicht.III.Die Kostenentscheidung folgt aus § 91ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 S. 1 und S. 2 ZPO.Der Streitwert wird auf 51.086,79 festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2484202.html (https://oj.is/2484202)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate5
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

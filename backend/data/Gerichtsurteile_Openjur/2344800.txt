@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG MünsterRechtsprechungUrteil vom 01.03.2019 - 12 O 185/18
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Münster, Urteil vom 01.03.2019 - 12 O 185/18
+                      m. Fundstelle
+                      LG Münster, Urteil vom 01.03.2019 - 12 O 185/18 = openJur 2021, 21449
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Münster, Urteil vom 01.03.2019 - 12 O 185/18
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 21449
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger trägt die Kosten des Rechtsstreits.Das Urteil ist gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger nimmt die Beklagte auf Schadensersatz in Form der Rückabwicklung eines Pkw-Kaufs in Anspruch.Der Kläger erwarb im Dezember 2012 von Frau A aus D einen gebrauchten VW Tiguan mit der Fahrgestell-Nr. WVGZZZ5NZAW... zu einem Kaufpreis von 18.800,00 € zzgl. 400,00 € für Winterreifen, mithin insgesamt 19.200,00 €. Die Erstzulassung war im Februar 2010, die Fahrleistung bei ca. 52.885 Kilometer.Herstellerin des Fahrzeugs ist die Beklagte. In dem Fahrzeug ist ein ebenfalls von der Beklagten hergestellter Dieselmotor des Typs EA 189 eingebaut, der von dem sogenannten VW-Abgasskandal betroffen ist. Die Dieselmotoren dieses Typs verfügen über eine Motorsteuerung mit zwei verschiedenen Betriebsmodi. Im Modus 1 kommt es zu einer höheren Abgasrückführungsrate und dadurch zu einem geringeren Stickoxidausstoß. Der Modus 0 dagegen hat eine geringere Abgasrückführungsrate, wodurch mehr Emissionen produziert werden. Zudem verfügt der Motor über eine Software, die erkennt, ob das Fahrzeug gerade auf die Emissionswerte getestet wird oder ob es sich im normalen Straßenverkehr befindet. Erkennt die Software einen solchen Testlauf, schaltet sie den Motor automatisch in den Modus 1, welcher zu besseren Emissionswerten führt. Beim alltäglichen Betrieb auf der Straße läuft der Motor jedoch im Modus 0, wodurch mehr Abgase nach außen abgegeben werden. Durch den Testlauf im Modus 1 erfüllen die Fahrzeuge die in der EG-Verordnung vorgeschriebenen Grenzwerte, während das im normalen Fahrbetrieb nicht der Fall ist.Im September 2015 wurde diese Technik als sogenannter "Abgasskandal" öffentlich. Das Kraftfahrtbundesamt verpflichtete danach die Beklagte, die Software aus den betroffenen Fahrzeugen zu entfernen und Abhilfe durch geeignete technische Lösungen zu schaffen. Diese entwickelte daraufhin ein Software-Update, welches dafür sorgt, dass die Fahrzeuge dauerhaft nur noch in einem adaptierten Betriebsmodus 1 betrieben werden. Dadurch sollen nach Angaben der Beklagten die Grenzwerte der Verordnung eingehalten werden. Das Update wird auf Kosten der Beklagten bei deren Partnerwerkstätten aufgespielt. Der Kläger ließ das Update installieren.Die Beklagte gab nach Entdeckung dieses Skandals an, eine interne Untersuchung einzuleiten, um Erkenntnisse darüber zu gewinnen, welche Personen für die Manipulation verantwortlich waren und wer davon Kenntnis hatte.Der Kläger behauptet, er hätte das Fahrzeug bei Kenntnis der Umstände nicht gekauft. Die durchgeführte Nachrüstung mit dem Software-Update sei ungeeignet, die Abgasproblematik zu lösen. Nach dem Update sei es zu einem Knattern und Stolpern des Motors, einem Ruckeln in kaltem Zustand, zu einer Leistungsverschlechterung sowie zu einem erhöhten Dieselverbrauch gekommen. Es seien Langzeitschäden wie ein erhöhter Verschleiß und erhöhter Wartungsaufwand zu befürchten. Außerdem sei ein Wertverlust eingetreten. Es verbleibe ein Makel. Ihm sein ein Vermögensschaden entstanden.Im Zeitpunkt der Klageerhebung habe die Fahrleistung bei 113.904 km gelegen.Er ist der Ansicht, die Beklagte sei aus dem Gesichtspunkt der unerlaubten Handlung gemäß § 826 BGB bzw. § 823 Abs. 2 BGB in Verbindung mit § 263 Abs. 1 StGB verpflichtet, das Fahrzeug gegen Erstattung des Kaufpreises abzüglich einer Nutzungsentschädigung zurückzunehmen. Die Beklagte habe ihn im Zusammenhang mit der unzulässigen Abschalteinrichtung getäuscht.Der Kläger beantragt,1.die Beklagte zu verurteilen, an den Kläger 15.256,86 € nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 18.11.2017 zu zahlen, Zugum-Zug gegen Übereignung und Herausgabe des PKW VW Tiguan, Fahrgestellnummer WVGZZZ5NZAW...;2.festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag zu 1) bezeichneten Pkws in Annahmeverzug befindet.Die Beklagte beantragt,die Klage abzuweisen.Sie bestreitet den Vortrag des Klägers und vertritt die Auffassung, es liege keine unzulässige Abschalteinrichtung und kein Sachmangel vor. Auch die Voraussetzungen der angegebenen Anspruchsgrundlagen seien nicht erfüllt, da keine Schädigung des Klägers, keine Sittenwidrigkeit und kein Vorsatz festzustellen seien. Das Software-Update sei geeignet, die Abgasproblematik zu lösen.Wegen der weiteren Einzelheiten des Parteivorbringens wird auf den vorgetragenen Inhalt der gewechselten Schriftsätze nebst Anlagen Bezug genommen. 
+				Gründe
+				Die Klage ist zulässig, jedoch nicht begründet.Der Kläger hat keinen Anspruch gegen die Beklagte auf Zahlung Zugum-Zug gegen Übereignung des Pkw, da nach Auffassung der Kammer die Voraussetzungen sämtlicher in Betracht kommender Anspruchsgrundlagen nicht erfüllt sind.Ein vorvertragliches Schuldverhältnis ist zwischen den Parteien nicht entstanden. Daran ändert auch die ausgestellte Übereinstimmungsbescheinigung nichts. Es ist nach Auffassung der Kammer fernliegend, dass der Kläger durch diese Bescheinigung, die gar nicht an ihn gerichtet war und die er im Zweifel gar nicht kannte, ein besonderes Vertrauen erworben hat.Auch die Voraussetzungen für einen Schadensersatz aus dem Gesichtspunkt der unerlaubten Handlung gemäß §§ 823 ff. BGB sind nach Auffassung der Kammer nicht erfüllt.Unser Rechtssystem ist so eingerichtet, dass man sich dann, wenn man mit einer gekauften Sache nicht zufrieden ist und einen Mangel geltend macht, grundsätzlich an den Verkäufer zu halten hat. Das Gewährleistungsrecht regelt, unter welchen Voraussetzungen gegenüber dem Verkäufer Gewährleistungsansprüche geltend gemacht werden können.Ansprüche gegenüber dem Hersteller einer Sache gibt es normalerweise nicht, sondern nur in ganz besonderen Ausnahmefällen. Nach dem Produkthaftungsgesetz können keine Vermögensschäden, sondern nur Körperschäden und Schäden an anderen Sachen als dem Kaufgegenstand geltend gemacht werden, wenn zum Beispiel durch ein fehlerhaftes Produkt ein Mensch verletzt oder eine andere Sache beschädigt worden ist. Ein solcher Fall liegt jedoch hier ersichtlich nicht vor.Zwar geht auch die Kammer davon aus, dass es sich bei der Manipulationssoftware der Beklagten, welche das Abgasverhalten im Testzyklus beeinflusst, um einen "Mangel" im Sinne des Gewährleistungsrechts (§ 434 BGB) handelt. Dies kann jedoch weder als Eigentumsverletzung im Sinne des § 823 Abs. 1 BGB noch als Verletzung eines Schutzgesetzes im Sinne des § 823 Abs. 2 BGB noch als vorsätzliche sittenwidrige Schädigung im Sinne des § 826 BGB angesehen werden.Eine Eigentumsverletzung gemäß § 823 Abs. 1 BGB kommt schon deshalb nicht in Betracht, da der Kläger das Fahrzeug in dem Zustand gekauft hat, wie es von der Beklagten hergestellt worden ist. In diesem Zustand befindet es sich - abgesehen von dem Software-Update - noch heute. Weder die Herstellung noch der Erwerb einer mangelhaften Sache stellt eine Eigentumsverletzung dar. Dass dadurch andere Sachen des Klägers beschädigt worden sind, ist weder vorgetragen noch ersichtlich.Im Rahmen des § 826 BGB (vorsätzliche sittenwidrige Schädigung) kann bereits nicht festgestellt werden, dass der Vorsatz der auf Seiten der Beklagten verantwortlichen Personen sich darauf bezog, bei den potenziellen Käufern wie dem Kläger eine Schädigung herbeizuführen. Dazu müssen die auf Seiten der Beklagten Handelnden die Schädigung des Klägers mindestens für möglich gehalten und billigend in Kauf genommen haben. Dafür bestehen vorliegend nicht genügend Anhaltspunkte. Es kann nicht unterstellt werden, die Verantwortlichen hätten wirtschaftliche Nachteile auf Käuferseite billigend in Kauf genommen, zumal die rechtliche Bewertung der Software als unzulässige Abschalteinrichtung ex ante nicht feststand. Vielmehr ist anzunehmen, dass die Verantwortlichen der Beklagten sich hinreichend sicher waren und ernsthaft darauf vertrauten, dass die manipulierte Software, die nur den Zweck hatte, die entsprechenden EG-Verordnungen bezüglich der Emissionswerte einzuhalten, nicht auffliegen werde. Solange dies nicht geschah, konnte den Käufern auch kein Vermögensschaden entstehen. Grobe Fahrlässigkeit hinsichtlich der Schadenszufügung genügt im Rahmen des § 826 BGB nicht.Darüber hinaus beschränkt die Rechtsprechung auch bei § 826 BGB den Haftungsumfang nach Maßgabe des Schutzzweckes der Norm. Dabei kommt es nicht auf die Ratio des § 826 BGB in abstracto an, sondern auf den Schutzzweck der konkret verletzten Verhaltensnorm. Mittelbar Betroffene sind in den Schutzbereich des § 826 BGB nicht schon dann einbezogen, wenn sich die Handlung zwar gegen einen anderen richtet, der Täter indes mit der Möglichkeit der Schädigung (auch) des Dritten gerechnet hat. Vielmehr kommt es darauf an, dass das Vermögen des Dritten nicht nur reflexartig als Folge der sittenwidrigen Schädigung eines anderen betroffen wird. Selbst bzw. gerade wenn dem Täter die Möglichkeit der Schädigung Dritter bewusst ist, muss zusätzlich der Schutzzweckzusammenhang geprüft und bejaht werden, damit die Haftung aus § 826 BGB ausgelöst wird (vgl. MüKo - Wagner, BGB, 7. Auflage, Randnummer 46 zu § 826 m. w. N.).Nach Maßgabe der vorgenannten Ausführungen ist der Schutzzweckzusammenhang im vorliegenden Fall zu verneinen. Die Beklagte hat durch die Verwendung der speziellen Software gegen Gesetze verstoßen, die dem Umweltschutz und der Allgemeinheit sowie der Weiterentwicklung des Binnenmarktes dienen, nicht jedoch das Vermögen der Käufer schützen sollen (vgl. dazu LG Köln, Urteil vom 07.10.2016, Az.: 7 O 138/16, zitiert nach juris).Der Kläger hat gegen die Beklagte keinen Anspruch auf Schadensersatz nach § 823 Abs. 2 BGB i. V. m. § 263 StGB.Es kann nämlich bereits dem klägerischen Vortrag nicht entnommen werden, dass die Beklagte auf das intellektuelle Vorstellungsbild gerade des Klägers eingewirkt hat. Die Beklagte hat gegenüber dem Kläger keine Erklärungen abgegeben, die bezüglich des streitgegenständlichen Problems einen Irrtum beim Kläger herbeigeführt haben, der wiederum zum Kauf des Fahrzeugs führte. Allein in dem Inverkehrbringen des Fahrzeugs kann kein entsprechender Erklärungsinhalt liegen.Es ist auch in diesem Zusammenhang nicht ersichtlich, dass dem Kläger vor dem Kauf des streitbefangenen Fahrzeugs irgendwelche Prospekte oder Unterlagen der Beklagten vorgelegen haben, die ihn speziell im Hinblick auf das dort angegebene Schadstoffverhalten zu dem Kauf veranlassten. Im Übrigen sind allgemein gehaltene Werbeaussagen in der Regel nicht geeignet, als Betrugshandlung im Sinne des § 263 StGB gewertet zu werden.Weiterhin ist auch nicht ersichtlich, dass die Beklagte eine hinreichend konkrete Vorstellung von einer Vermögensverfügung und einem Vermögensschaden des Klägers hatte. Denn die Beklagte wirkt an dem weiteren Verbleib eines Gebrauchtwagens nicht mit. Insbesondere hat sie keinen Einfluss und auch keine Kenntnis, ob, wann und wie das Fahrzeug als Gebrauchtfahrzeug weiterverkauft wird.Hinzu kommt, dass die Beklagte gerade bei einem Gebrauchtwagenkauf nicht die Absicht hatte, sich oder einem Dritten eine stoffgleiche Bereicherung zu verschaffen. Die stoffgleiche Bereicherung könnte allenfalls bei dem Verkäufer des Fahrzeugs eintreten, hier einem Privatverkäufer. Die Beklagte hat aber auch insoweit weder Einfluss noch Kenntnis von dem Verbleib des Fahrzeugs bzw. des erzielten Erlöses.Vor dem Hintergrund des Vorgenannten kommt es auch nicht auf die vieldiskutierte Frage an, ob die Beklagte eine sekundäre Darlegungslast trifft. Denn der Vorsatz fehlte bezüglich des Gebrauchtwagenkäufers auch dann, wenn die Beklagte vorsätzlich ein gesetzwidriges Fahrzeug in den Verkehr gebracht hat.Es besteht auch kein deliktischer Anspruch aus § 823 Abs. 2 BGB in Verbindung mit § 27 EG-FGV. Es kann bereits nicht festgestellt werden, dass diese EG-Vorschriften als Schutzgesetz zu Gunsten des Klägers als Käufer anzusehen sind. Die Vorschriften sollten gewährleisten, dass die in Verkehr gebrachten Einzelfahrzeuge mit dem genehmigten Kfz-Typ herstellerseits in Einklang stehen. Die Verordnung dient deshalb nicht dem Schutz individueller Vermögensinteressen, sondern gesamtgesellschaftlichen Zielen, nämlich der Weiterentwicklung des Binnenmarktes durch Harmonisierung der technischen Vorschriften über die Typgenehmigung von Kraftfahrzeugen sowie der Sicherstellung eines hohen Umweltschutzniveaus. Etwaige Vermögensschäden der Käufer von Fahrzeugen mit unzulässigen Abschaltvorrichtungen fallen daher nicht in den Schutzbereich der verletzten Norm.Mangels Hauptanspruchs stehen dem Kläger auch die weiteren Ansprüche auf Zinsen und Feststellung des Annahmeverzuges nicht zu.Die Kostenentscheidung beruht auf § 91 Abs. 1 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf § 709 ZPO.Streitwert: 15.256,86 €.
+			
+			
+			
+			Permalink: https://openjur.de/u/2344800.html (https://oj.is/2344800)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

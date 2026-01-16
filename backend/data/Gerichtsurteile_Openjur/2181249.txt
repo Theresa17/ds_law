@@ -1,0 +1,144 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG BielefeldRechtsprechungUrteil vom 09.05.2018 - 3 O 115/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Bielefeld, Urteil vom 09.05.2018 - 3 O 115/17
+                      m. Fundstelle
+                      LG Bielefeld, Urteil vom 09.05.2018 - 3 O 115/17 = openJur 2019, 37899
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Bielefeld, Urteil vom 09.05.2018 - 3 O 115/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 37899
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+				
+					Verfahrensgang
+					
+							nachfolgend: Az. Berufung zum OLG Hamm
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger begehrt die Rückabwicklung eines von ihm mit der Beklagten geschlossenen Kfz-Kaufvertrages über einen vom sogenannten "Abgasskandal" betroffenen Pkw Volkswagen Golf VI Variant Comfortline 2.0, Fahrgestellnr.: xxx.Der Kläger erwarb auf Grundlage einer verbindlichen Bestellung datierend vom 07.06.2016 das streitgegenständliche Fahrzeug mit Erstzulassung vom 19.04.2011 und einer Gesamtlaufleistung von 51.447 km zu einem Preis von 16.899 EUR. Dieser Bestellung lag eine ebenfalls vom 07.06.2016 datierende sog. "Anlage zur verbindlichen Bestellung eines gebrauchten Fahrzeugs" bei, die vom Kläger und einem Mitarbeiter der Beklagten unterschrieben ist. Dort heißt es unter anderem wörtlich "An dem gebrauchten Fahrzeug (...) bestehen zum Zeitpunkt der Fahrzeugübergabe durch den Verkäufer nachstehend aufgeführte Sachmängel: Fahrzeug mit Motor EA 189 (Abgasskandal) siehe separater Ausdruck" (im Einzelnen Anlage B2, Bl. 48 d.A.). Dieser unstreitig ausgehändigte separate Ausdruck (Bl. 122 d.A.) ist als "Kundeninformation Betroffenheit CO2 bei Gebrauchtwagen" bezeichnet. Dort heißt es unter anderem wörtlich: "Bei den angegebenen CO2-Werten ihres Fahrzeugs handelt es sich um Werte, die im Rahmen der Typengenehmigung des Fahrzeugs ermittelt wurden. Diese Werte sind unzutreffend. Volkswagen bemüht sich, den Vorgang schnellstmöglich aufzuklären und die Werte, falls erforderlich, in Abstimmung mit den zuständigen Behörden zu korrigieren." Auch diese Kundeninformation ist vom Kläger unterschrieben.Im Rahmen der Verkaufsgespräche wurde der Kläger durch den Verkäufer der Beklagten auch mündlich auf den von der Diesel-Thematik betroffenen Motor im streitgegenständlichen Fahrzeug hingewiesen.Das Fahrzeug ist mit einem 2,0 l Dieselmotor vom Typ EA 189 ausgerüstet und vom sogenannten "Abgasskandal" betroffen. Dieser Motor ist mit einer Software ausgestattet, die erkennt, ob sich das Fahrzeug auf dem Prüfstand oder im realen Fahrbetrieb befindet. Je nachdem, ob das Fahrzeug auf dem Prüfstand oder im realen Fahrbetrieb ist, werden unterschiedliche Abgasrückführungsraten generiert. Auf dem Prüfstand (d.h. im Neuen Europäischen Fahrzyklus = NEFZ) kommt es bei dem NOxoptimierten Modus 1 zu einer relativ hohen Abgasrückführungsrate und dadurch zu einem geringeren Stickoxidausstoß. Im realen Fahrbetrieb beim Partikeloptimierten-Modus 0 ist die Abgasrückführungsrate hingegen geringer und die Stickoxidwerte höher.In der Folge entwickelte die Volkswagen AG für betroffene Fahrzeuge Software-Lösungen, die die sog. Abschaltvorrichtung entfernen soll. Für das streitgegenständliche Fahrzeug steht ein Software-Update seit dem 09.09.2016 zur Verfügung. Der Kläger wurde mit Schreiben vom 04.10.2016 und vom 20.03.2017 von der Volkswagen AG darüber informiert, dass die Software-Lösung für sein Fahrzeug zur Verfügung stehe.Der Kläger forderte in der Folgezeit von der Volkswagen AG die Nachbesserung unter Abgabe einer entsprechenden Garantieerklärung auf. Die Volkswagen AG lehnte die Nachbesserung unter Abgabe einer solchen Garantieerklärung mit Schreiben vom 14.01.2017 und vom 05.02.2017 ab. Mit Schreiben seines Prozessbevollmächtigten vom 07.03.2017 erklärte der Kläger gegenüber der Beklagten den Rücktritt vom Kaufvertrag und forderte diese zur Rückzahlung des Kaufpreises bis zum 22.03.2017 auf.Der Kläger behauptet, dass das Fahrzeug die angegebenen Abgas- und Verbrauchswerte erheblich überschreite. Vor diesem Hintergrund sei die EG-Typengenehmigung entfallen. Er ist insoweit der Ansicht, dass das Fahrzeug mangelhaft sei. Er habe das Fahrzeug auch unter der Prämisse erworben, dass es eine ordnungsgemäße EG-Typengenehmigung aufweise.Die Nachbesserung sei unmöglich, da deren Erfolg stark bezweifelt werden müsse.Durch die Betroffenheit des Fahrzeugs sei ein merkantiler Minderwert festzustellen.Er ist der Ansicht, in dem Angebot des Softwareupdates durch die Volkswagen AG liege eine Zuerkennung der Gewährleistungsansprüche. Hinsichtlich der Anlage zum Kaufvertrag (Anlage B2) meint er, dass diese inhaltlich nicht genügt sei. Insbesondere sei darin auch keine Beschaffenheitsvereinbarung zu erkennen.Der Kläger beantragt,die Beklagte zu verurteilen, an den Kläger einen Betrag in Höhe von 16.899,00 EUR nebst Zinsen hieraus in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinsatz der EZB seit dem 23.03.2017 Zug um Zug gegen Rückgabe des PKW Volkswagen Golf VI Variant, FIN WVWZZZ1KZBM673890, zu zahlen,die Beklagte zu verurteilen, den Kläger von vorgerichtlichen Rechtsverfolgungskosten seiner Prozessbevollmächtigten in Höhe von 1.100,51 EUR freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte behauptet, das Fahrzeug leide unter keinem Mangel. Obwohl das Fahrzeug der Klägerin mit einem Dieselmotor des Typs EA189 EU5 ausgestattet sei, sei das Fahrzeug der Klägerin technisch sicher und bleibe hinter keinen Sicherheitsstandards zurück. Es sei darüber hinaus uneingeschränkt gebrauchstauglich.Sie ist der Ansicht, dass die Gewährleistungsrechte des Klägers aufgrund der Kenntnis des bestrittenen Mangels ausgeschlossen sein. Er habe aufgrund des Hinweises in der Anlage zum Kaufvertrag sowie der mündlichen Hinweise im Rahmen des Verkaufsgesprächs positive Kenntnis des Mangels gehabt, jedenfalls aber grob fahrlässige Unkenntnis. In dem Angebot des Software-Updates liege keine Anerkennung etwaiger Gewährleistungsrechte.Das Rücktrittsrecht sei auch wegen Unerheblichkeit des Mangels ausgeschlossen. Das Aufspielen des Updates dauere weniger als eine halbe Stunde und koste weniger als 100 €. Ferner stehe dem Rücktrittsrecht die überwiegende Verantwortlichkeit des Klägers entgegen, da dieser die Durchführung des Software-Updates abgelehnt habe. Die gegenüber der Beklagte nicht erfolgte Fristsetzung sei auch nicht entbehrlich gewesen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.I.Dem Kläger steht ein Anspruch auf Rückabwicklung der Kaufvertrages über das streitgegenständliche Fahrzeug Golf VI Variant unter keinem rechtlichen Gesichtspunkt zu.Ein solcher Anspruch folgt nicht aus §§ 434, 437 Nr. 2, 323, 326 BGB.Es kann insoweit dahinstehen, ob das Fahrzeug, wie vom Kläger behauptet mangelhaft im Sinne des § 434 BGB ist. Hinsichtlich der Typengenehmigung hat der Kläger schon nicht näher dargelegt, dass und warum diese entfallen sei.Die Gewährleistungsrechte des Klägers sind jedenfalls gemäß § 442 Abs. 1 BGB ausgeschlossen. Danach sind die Gewährleistungsrechte des Käufers ausgeschlossen, wenn der Käufer den Mangel bei Vertragsschluss kennt oder wenn ihm ein Mangel infolge grober Fahrlässigkeit unbekannt geblieben ist. Im Fall der grob fahrlässigen Unkenntnis können Rechte wegen des Mangels nur geltend gemacht werden, wenn der Mangel durch den Verkäufer arglistig verschwiegen wurde oder er eine Garantie für die Beschaffenheit der Sache übernommen hat.Die Norm ist eine gesetzlich geregelte Ausformung des Verbots, sich widersprüchlich zu verhalten, weil der Käufer den Vertrag geschlossen hat, obwohl er den Mangel kannte (juris-PK-BGB, 8. Aufl., 2017, § 442 Rn. 10; MüKO, BGB, 7. Aufl., 2016, § 442 Rn. 1).Der Kläger hatte vorliegend bei Abschluss des Kaufvertrages die erforderliche Kenntnis von dem Umstand, dass die angegebenen Abgaswerte nicht korrekt sind und dass in dem Fahrzeug eine sog. Abschaltvorrichtung verbaut ist. Kenntnis im Sinne des § 442 Abs. 1 S. 1 BGB setzt voraus, dass der Käufer den Mangel in seiner Gesamtheit, insbesondere in seiner rechtlichen Bedeutung erfasst hat (Staudinger, BGB, 2013, § 442 Rn. 6). Davon ist im vorliegenden Fall auszugehen. Denn der Kläger wurde zum einen in der Anlage zur verbindlichen Bestellung ausdrücklich davon unterrichtet, dass der Motor des Fahrzeugs vom Abgasskandal betroffen ist. Ebenso wurde der Kläger unstreitig im Rahmen der Verkaufsgespräche auf den Umstand mündlich hingewiesen. In der weiteren Anlage (Kundeninformation) vom 07.06.2018 wird ausdrücklich darauf verwiesen, dass die angegebenen CO2-Werte des Fahrzeugs, die im Rahmen der Typengenehmigung ermittelt wurden, unzutreffend sind. Dabei ist es auch unschädlich, dass zunächst auf mögliche Auswirkungen in Bezug die Steuerbelastung hingewiesen wird. Denn dadurch wird für den Kunden auch nicht suggeriert, dass es sich lediglich um ein steuerliches Problem handele. Der in der Kundeninformation eingangs erfolgte Hinweis auf die aktuelle Situation ist vor dem Hintergrund der allgemeinen Bekanntheit des sog. Abgasskandals im Jahr 2016 auch ausreichend. Es kann insofern einem Käufer nicht verborgen geblieben sein, dass sich die in der Anlage erfolgten Hinweise auf den sog. Abgasskandal beziehen.Der Kläger hat sowohl die Anlage zum Kaufvertrag als auch die Kundeninformation unterschrieben. Insoweit ist auch nicht vorgetragen, dass der Kläger einer Fehlvorstellung in Bezug auf diese Inhalte unterlag.Der Kläger hat hier in Anbetracht der zwar nicht völlig von der Hand zu weisenden Unsicherheiten hinsichtlich der Auswirkungen der Betroffenheit vom Abgasskandal jedenfalls die damit verbundenden Risiken bewusst in Kauf genommen. Er hatte die Kenntnis, dass durch die von ihm beobachteten Umstände zum Zeitpunkt des Kaufvertragsabschlusses der Wert oder die Tauglichkeit beeinträchtigt werden (Staudinger, BGB, 2013, § 442 Rn. 6). Es war ihm in jeden Fall bewusst, dass in Bezug auf die Abgaswerte Unregelmäßigkeiten an dem zu erwerbenden Fahrzeug bestanden. Zudem hatte er in diesem Zusammenhang auch Kenntnis von dem Umstand, dass in dem Fahrzeug eine unzulässige Abschalteinrichtung verbaut war. Der Kläger hat auch nicht vorgetragen, dass es ihm insoweit an Kenntnis mangelte.Selbst wenn er, wie in der mündlichen Verhandlung angegeben, davon ausging, dass Volkswagen als Herstellerin des streitgegenständlichen Fahrzeugs die entsprechenden Maßnahmen ergreifen werde, um nachträglich die Unregelmäßigkeiten hinsichtlich der Abgaswerte zu beheben, bestand jedoch zum Zeitpunkt der Kaufentscheidung fest, dass das Fahrzeug vom Abgasskandal und mit den damit einhergehenden, teilweise auch nicht feststehenden Folgen, betroffen ist. Jedenfalls war ab Herbst 2015 bekannt, dass es zu Problemen mit der Zulassung kommen kann. Aber gerade vor diesem Hintergrund muss davon ausgegangen werden, dass der Kläger einen Mangel nicht nur für möglich hielt. Vielmehr hatte er Kenntnis von den maßgeblichen Umständen und entschied sich bewusst für einen Erwerb.Insofern kann auch nicht nur von einem sog. Mangelverdacht ausgegangen werden, bei welchem keine Kenntnis gegeben ist (vgl. Palandt, BGB, 76. Aufl., 2017, § 442 Rn. 7). Denn es stand zum Zeitpunkt des Kaufvertrags fest, dass in dem Fahrzeug eine sog. Abschaltvorrichtung verbaut ist und die angegebenen Abgaswerte nicht korrekt sind. Insoweit ist auch der Normzweck des § 442 BGB zu berücksichtigen. Zum damaligen Zeitpunkt war die Problematik des Abgasskandals hinreichend bekannt, so dass die nachträgliche Geltendmachung von Ansprüchen wegen behaupteten Mängeln, die auf eine Manipulation durch entsprechende Software zurückgehen, als widersprüchlich anzusehen ist. Dabei verkennt das Gericht auch nicht, dass dem Käufer wie im vorliegenden Fall die technischen Einzelheiten der Problematik nicht zwingend bewusst waren. Aufgrund der allgegenwärtigen Informationen über die Problematik ist dies auch insoweit unschädlich. Es stand nämlich in Bezug auf die möglichen Folgen, insbesondere Zulassungsprobleme und Nachrüstung durch Software-Updates jedenfalls fest, dass es gerade neben den erkannten Problemen des Fahrzeugs zu solchen Folgeproblemen kommen wird.Das Angebot des Software-Updates nach Abschluss des Kaufvertrages durch die Volkswagen AG steht dem auch nicht entgegen. Denn jedenfalls liegt darin kein über den Inhalt des Software-Updates hinausgehendes Zugestehen von Gewährleistungsrechten. Mit dem Software-Update soll die sog. Abschalteinrichtung beseitigt werden, von der Kläger aber auch bereits bei Abschluss des Kaufvertrages hinreichende Kenntnis hatte. Dafür dass die Beklagte darüber hinausgehende Ansprüche aus Gewährleistung zuerkannte, bestehen keine Anhaltspunkte.II.Mangels Begründetheit des Anspruchs auf Rückzahlung des Kaufpreises besteht auch kein Anspruch Zahlung von Verzugszinsen und Erstattung von Rechtsanwaltskosten.III.Die Kostenentscheidung beruht auf § 91 ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus § 709 S. 1, 2 ZPO.IV.Der nicht nachgelassene Schriftsatz des Klägers vom 19.04.2018 gab keinen Anlass zur Wiedereröffnung der mündlichen Verhandlung.Der Streitwert wird auf 16.899,00 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2181249.html (https://oj.is/2181249)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen3
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

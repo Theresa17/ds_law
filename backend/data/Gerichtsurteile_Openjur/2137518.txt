@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG MünsterRechtsprechungUrteil vom 29.01.2018 - 010 O 357/16
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Münster, Urteil vom 29.01.2018 - 010 O 357/16
+                      m. Fundstelle
+                      LG Münster, Urteil vom 29.01.2018 - 010 O 357/16 = openJur 2019, 2754
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Münster, Urteil vom 29.01.2018 - 010 O 357/16
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 2754
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				1. Bei der Ermittlung, ob im Rahmen der Neulieferung auch die Lieferung eines Fahrzeugs aus einem neueren Produktionsjahr gefordert werden kann, kommt es auf die Erwartungen an das zu liefernde Fahrzeug im Zeitpunkt des Vertragsschlusses an.2. Es entspricht der allgemeinen Verkehrsauffassung im Kfz-Handel, dass bei Fahrzeugen nicht nur zwischen Baureihen und Modellen, sondern auch zwischen "Generationen" unterschieden wird. Auch wenn ein Fahrzeugmodell nicht grundlegend überarbeitet, sondern lediglich im Rahmen der sogenannten Modellpflege vom Hersteller weiterentwickelt wird, kann sich die weiterentwickelte Version so sehr vom alten Modell unterscheiden, dass es sich nicht um das "gleiche" Fahrzeug handelt.3. Inwiefern die Änderungen an einem Fahrzeugmodell so gravierend sind, dass ein Fahrzeug aus einem neueren Produktionsjahr nicht mehr dem ursprünglich gekauften Fahrzeug "gleicht", kann nicht abstrakt festgestellt, sondern muss für jeden Fahrzeugtyp gesondert unter Berücksichtigung des Marktverständnisses und der Bedeutung der zwischenzeitlichen Veränderungen am Fahrzeugmodell bewertet werden. Eine "Ungleichheit" der Fahrzeuggenerationen ist aber jedenfalls dann anzunehmen, wenn der Hersteller den Motor des Fahrzeugtyps grundlegend überarbeitet.4. Der Käufer eines (damals) fabrikneuen Audi Q3 aus dem Jahr 2013 kann keine Neulieferung eines fabrikneuen Audi Q3 aus dem Jahr 2018 fordern.5. Weder der Änderungsvorbehalt zugunsten des Herstellers in Ziff. IV.6. der Neuwagen-Verkaufsbedingungen des VW-Konzerns noch europäisches Verbrauchsgüterkaufrecht begründen weitergehende Rechte des Käufers bei einer Neulieferung. 
+				
+				Tenor
+				Die Klage wird abgewiesen.Der Kläger trägt die Kosten des Rechtsstreits.Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 120 % des jeweils zu vollstreckenden Betrages. 
+				Tatbestand
+				Der Kläger begehrt von dem beklagten Autohaus in der Folge des landläufig als "VW-Abgasskandal" bezeichneten Geschehens die Neulieferung eines fabrikneuen Audi Q3 aus der aktuellen Serienproduktion.Der Kläger erwarb von der Beklagten mit Auftrag vom 18.06.2013 einen fabrikneuen Audi Q3 2.0 TDI quattro mit 103 kw/140 PS. Dieses Fahrzeug besaß einen VW-Dieselmotor Typ EA 189 mit der Abgasnorm Euro-5. Der Kaufpreis für das Fahrzeug betrug 43.650,00 €. Dem Kaufvertrag zu Grunde lagen die Neuwagen-Verkaufsbedingungen des VW-Konzerns, die in Ziffer IV.6. folgende Klausel enthalten:"Konstruktions- oder Formänderungen, Abweichungen im Farbton sowie Änderungen des Lieferumfangs seitens des Herstellers bleiben während der Lieferzeit vorbehalten, sofern die Änderungen oder Abweichungen unter Berücksichtigung der Interessen des Verkäufers für den Käufer zumutbar sind. Sofern der Verkäufer oder der Hersteller zu bezeichnende Bestellung oder des bestellten Kaufgegenstandes Zeichen oder Nummern gebraucht, können allein daraus keine Rechte hergeleitet werden."Die Übergabe geschah am 13.08.2013.Im Jahr 2015 wurde bekannt, dass die Motorsteuerungssoftware der VW-Dieselmotoren des Typs EA 189 bei Auslieferung so eingestellt war, dass die vom Hersteller Volkswagen angegebenen Stickoxidemissionswerte zwar im Rahmen der Laborbedingungen des vorgeschriebenen Neuen Europäischen Fahrzyklustests (NEFZ) eingehalten, im realen Fahrbetrieb aber um ein Vielfaches überschritten werden. Das Kraftfahrtbundesamt (KBA) ordnete per Bescheid gegenüber Volkswagen an, alle betroffenen Fahrzeuge zurückzurufen und die entsprechende Software zu entfernen. Anderenfalls drohen für die Fahrzeuge Betriebsuntersagungen. Für die 2,0-l-Dieselmotoren des Typs EA 189 entwickelte Volkswagen daraufhin ein Softwareupdate, dass nach Darstellung des Herstellers geeignet sein soll, zulässige Grenzwerte auch im Realbetrieb einzuhalten. Das KBA hält dieses Softwareupdate ebenfalls für tauglich.Die Beklagte informierte den Kläger über den vorstehenden Sachverhalt. Dieser lehnte ein Softwareupdate ab und begehrte stattdessen Neulieferung eines vertragsgemäßen mangelfreien Fahrzeugs. Hierzu forderten die Prozessbevollmächtigten des Klägers die Beklagte mit Schreiben vom 18.01.2016 unter Fristsetzung bis zum 29.02.2016 auf. Mit Schreiben vom 25.01.2016 lehnte die Beklagte eine Neulieferung ab. Gleichzeitig erklärte sie den Verzicht auf die Einrede der Verjährung bis zum 31.12.2017.Der Kläger behauptet, dass das Softwareupdate nicht geeignet sei, die Mängel des Fahrzeuges abzustellen. Es steigere den Verbrauch, sorge für erhöhten Verschleiß des Motors und erhöhe den CO²-Ausstoß, überdies verbleibe ein merkantiler Minderwert. Eine Nachbesserung in Form eines Softwareupdates oder durch Neulieferung eines Q3 mit der Motorversion EA 189 sei deshalb unmöglich.Er ist der Ansicht, dass er im Wege der Neulieferung aber ein fabrikneues typgleiches Ersatzfahrzeug aus der aktuellen Serienproduktion verlangen könne. Dieses gehöre noch zur selben Gattung wie der ursprünglich gelieferte Q3. Ein solcher Anspruch ergebe sich auch aus einer vorvertraglichen Pflichtverletzung, weil die Prospekte des Herstellers täuschende Angaben über den Schadstoffausstoß enthalten hätten.Mit seiner am 13.12.2016 erhobenen Klage beantragt der Kläger zuletzt,1. die Beklagte zu verurteilen, dem Kläger ein mangelfreies fabrikneues typengleiches Ersatzfahrzeug aus der aktuellen Serienproduktion des Herstellers mit identischer technischer Ausstattung wie das Fahrzeug Audi Q3, FIN: WAUZZZ8U2ER019562 Zug um Zug gegen Rückübereignung des mangelhaften Fahrzeugs Audi Q3, FIN: WAUZZZ8U2ER019562 nachzuliefern,2. festzustellen, dass sich die Beklagte mit der Rücknahme des im Klageantrag zu Ziffer 1 genannten Fahrzeugs in Verzug befindet,3. die Beklagte zu verurteilen, den Kläger von den durch die Beauftragung der Prozessbevollmächtigten des Klägers entstandenen vorgerichtlichen Rechtsanwaltskosten i.H.v. 2.613,24 € freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Sie behauptet, dass durch das Softwareupdate alle etwaigen Mängel des Fahrzeugs beseitigt werden könnten. Sie ist der Ansicht, dass eine Neulieferung eines Neufahrzeugs nicht geschuldet sein könne, da dieses nicht mehr derselben Gattung angehöre. Im Übrigen sei eine Neulieferung unverhältnismäßig.Wegen der weiteren Einzelheiten wird auf die Schriftsätze der Parteien verwiesen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.Dem Kläger steht kein Anspruch auf Neulieferung eines fabrikneuen Audi Q3 aus der aktuellen Serienproduktion (2018) zu. Dies gibt der Nacherfüllungsanspruch des § 437 Nr. 1 i.V.m. § 439 Abs. 1 BGB im konkreten Fall als Rechtsfolge nicht her. Das Begehren des Klägers beschränkt sich allein auf diese beantragte Neulieferung, weil nach seiner Darstellung eine Nacherfüllung beim Motortyp EA 189 unmöglich ist; er hat auch nicht (ggf. hilfsweise) den Rücktritt erklärt. Zwar hat der Kläger zwischenzeitlich bestritten, dass alle Motoren des Typs EA 189 "betroffen" seien (S. 56 des Schriftsatzes vom 21.04.2017, Bl. 215 d.A.). Dies steht aber offensichtlich konträr zu seinem übrigen Vorbringen und zur Grundlage seines Klagebegehrens, sodass das Gericht davon ausgeht, dass dieses Bestreiten nicht als rechtlich erheblicher Vortrag gemeint sein soll.Ob das Fahrzeug des Klägers mangelhaft ist und ob es nach einem Softwareupdate mangelhaft bliebe - sodass die Nacherfüllung gänzlich unmöglich wäre (§ 275 Abs. 1 BGB) - bedarf deshalb keiner Entscheidung.1.Ist eine gekaufte Sache mangelhaft, so kann der Käufer als Nacherfüllung nach seiner Wahl die Beseitigung des Mangels oder die Lieferung einer mangelfreien Sache verlangen (§ 437 Nr. 1 i.V.m. § 439 Abs. 1 BGB). Die Nachlieferung ist die vom Verkäufer vorgenommene oder veranlasste unentgeltliche Lieferung einer anderen Sache, die der verkauften Sache gleich, aber mangelfrei ist (Weidenkaff in Palandt, BGB, 76. Aufl. 2017, § 437 Rn. 7). Welche Sache in diesem Sinne noch "gleich" der ursprünglich gelieferten Sache ist und welche nicht, bemisst sich nach dem durch Auslegung zu ermittelnden Willen der Vertragsparteien. Eine Ersatzlieferung kommt nur infrage, wenn die Kaufsache nach den Vorstellungen der Parteien bei Vertragsschluss durch eine gleichartige und gleichwertige ersetzt werden kann (BGH, Urteil vom 07. Juni 2006 - VIIII ZR 209/05 -, BGHZ 168, 64-79, juris). Nach den allgemeinen Regeln der §§ 133, 157 BGB ist entsprechend der wirkliche Wille der Parteien zu erforschen; die vertraglichen Abreden sind so auszulegen, wie Treu und Glauben mit Rücksicht auf die Verkehrssitte es erfordern.Dabei ist der Zweck der kaufrechtlichen Nacherfüllung zu berücksichtigen. Sie soll gewährleisten, dass der Käufer genau die mangelfreie Sache erhält, die er kaufen wollte. Der Nacherfüllungsanspruch folgt der Grundpflicht des Verkäufers, dem Käufer die Kaufsache frei von Sach- und Rechtsmängeln zu verschaffen (§ 433 Abs. 1 Satz 2 BGB). Er ist auf dasselbe Interesse des Käufers, nämlich die Erfüllung der vom Verkäufer übernommenen Vertragspflichten gerichtet, und stellt die "Fortsetzung des Erfüllungsanspruchs des Käufers in modifizierter Form" dar (vgl. Matusche-Beckmann in Staudinger, BGB, 2013, § 439 Rn. 1, juris). Als Konsequenz kann der Käufer nicht im Wege der Nacherfüllung eine über den ursprünglichen Erfüllungsanspruch hinausgehende Leistung verlangen; ihm steht nicht als Nacherfüllung etwas zu, was er nach dem Kaufvertrag nicht erlangt hätte (vgl. LG Bayreuth, Urteil vom 20.12.2016 - 21 O 34/16; LG Kempten, Urteil vom 29. März 2017 - 13 O 808/16 -, juris).Zur Bestimmung, inwiefern ein Fahrzeug aus einem anderen Produktionsjahr noch dem ursprünglich bestellten Fahrzeug "gleich" ist, kommt es danach auf die Erwartungen an das zu liefernde Fahrzeug im Zeitpunkt des Vertragsschlusses - nicht etwa die Erwartungen im Zeitpunkt des Nacherfüllungsverlangens - an. Es entspricht dabei der allgemeinen Verkehrsauffassung im Kfz-Handel, dass bei Fahrzeugen nicht nur zwischen Baureihen und Modellen, sondern auch zwischen "Generationen" unterschieden wird. Auch wenn ein Fahrzeugmodell nicht grundlegend überarbeitet, sondern lediglich im Rahmen der sogenannten Modellpflege vom Hersteller weiterentwickelt wird, kann sich die weiterentwickelte Version so sehr vom alten Modell unterscheiden, dass es sich nicht um das "gleiche" Fahrzeug handelt. Das Modell der neuen Generation bildet dann eine neue Gattung im Sinne des § 243 BGB, die nicht mehr der alten Gattung gleichwertig und gleichartig ist. So werden beispielsweise ein VW Golf VII und ein VW Golf VII Facelift (2017) wegen der veränderten Außengestaltung und des deutlich verbesserten Motors als zwei unterschiedliche Fahrzeuge wahrgenommen, für die im Neuwagen- wie im Gebrauchtwagenmarkt selbst bei ansonsten gleicher technischer Ausstattung und Fahrleistung unterschiedliche Preise verlangt werden. Wer einen VW Golf VII kauft, erwartet deshalb nicht, dass er stattdessen möglicherweise auch einen VW Golf VII Facelift geliefert bekommen könnte, und umgekehrt.Inwiefern die Änderungen an einem Fahrzeugmodell so gravierend sind, dass ein Fahrzeug aus einem neueren Produktionsjahr nicht mehr dem ursprünglich gekauften Fahrzeug "gleicht", kann nicht abstrakt festgestellt, sondern muss für jeden Fahrzeugtyp gesondert unter Berücksichtigung des Marktverständnisses und der Bedeutung der zwischenzeitlichen Veränderungen am Fahrzeugmodell bewertet werden. Nach Auffassung des Gerichts ist aber jedenfalls dann eine "Ungleichheit" der Fahrzeuggenerationen anzunehmen, wenn der Hersteller den Motor des Fahrzeugtyps grundlegend überarbeitet. Denn der Motor ist eines der mit Abstand wichtigsten wertbestimmenden Merkmale eines Fahrzeugs. Innerhalb einer Modellgruppe werden Fahrzeuge immer sowohl von Käufern als auch Verkäufern nach dem Motor bewertet; jede Motorklasse begründet eine eigenständige Gattung. Technische Neuentwicklungen des Motors, wie z.B. auch die Höherstufung in einer Euro-Abgasnorm, führen immer zu erheblichen Preissteigerungen bei dessen Einführung. Es kann deshalb - abseits von Bagatelländerungen - nach Auffassung des Gerichts grundsätzlich unterstellt werden, dass nach der Verkehrsauffassung bei Einführung eines neuen Motors auch eine neue Gattung begründet wird.Nach diesen Maßstäben kann nicht angenommen werden, dass es sich bei einem fabrikneuen Audi Q3 aus der aktuellen Serienproduktion des Jahres 2018 noch um eine gleichartige und gleichwertige Sache handelt, die im Zuge einer Neulieferung für einen Audi Q3 aus dem Jahr 2013 eingefordert werden kann. Denn das Modell Audi Q3 wurde im Jahr 2014 vom Hersteller grundlegend überarbeitet. Es hat ein Facelift erhalten, im Jahr 2016 wurden auch die angebotenen Ausstattungslinien (Basis, Design und Sport) neu festgelegt. Die im streitgegenständlichen Fahrzeug enthaltene Ausstattungslinie ist nicht mehr erhältlich. Im Januar 2015 wurde überdies eine neue Motorengeneration (sowohl Diesel als auch Benziner) eingeführt. Der neue 2,0-l-Dieselmotor mit der Typenbezeichnung "VW EA 288" hat abweichende Leistungswerte (120, 150 und 184 PS statt zuvor 140 und 177 PS, auch andere Drehmomente), die Höchstgeschwindigkeit und der Kraftstoffverbrauch haben sich verändert. Zuletzt erfüllt der neue Motor auch die höherwertige Abgasnorm Euro-6.Diese Neuerungen sind so grundlegend, dass es fernliegend ist, in einem Fahrzeug aus der Produktion von 2018 noch ein "gleiches" Fahrzeug wie aus der Produktion von 2013 zu sehen. Nach der Verkehrsauffassung zählt ein Audi Q3 aus dem Jahr 2018 zu einer anderen Gattung als ein Audi Q3 des Jahres 2013. Die Übergabe eines Q3 aus dem Jahr 2018 ist damit nicht im Wege der Neulieferung geschuldet.2.Der Änderungsvorbehalt in Ziffer IV.6. der einbezogenen Neuwagen-Verkaufsbedingungen ändert an der vorstehenden Auslegung nichts. Das Gericht geht davon aus, dass diese Klausel entweder bereits eine überraschende Klausel (§ 305c Abs. 1 BGB) oder jedenfalls eine unangemessene Benachteiligung für den Käufer darstellt und damit AGB-rechtlich unzulässig ist (§ 307 Abs. 1 BGB).Zwar sind Änderungsvorbehalte zugunsten des Verwenders von AGB nicht pauschal unzulässig; die Ziffer IV.6. nimmt entsprechend auch den Wortlaut des § 308 Nr. 4 BGB auf. Änderungsvorbehalte, die sich nicht nur auf die Umstände der Leistungserbringung oder auf Nebenpflichten beziehen, sondern auch den Inhalt und Umfang der Hauptleistung betreffen, sind aber i.d.R. besonders nachteilig für den anderen Vertragsteil. Von einer vertraglich vereinbarten Motorleistung und Fahrzeugkonfiguration kann deshalb nicht unter Berufung auf Ziffer IV.6. abgewichen werden (KG Berlin, Urteil vom 27. Oktober 2011 - 23 U 15/11 -, juris).Die Klausel dürfte danach beim Neuwagenkauf allgemein unzulässig sein (entgegen Reinking/Eggert, Der Autokauf, 13. Aufl. 2016, Rn. 408-410). Denn sie betrifft ausschließlich die Hauptleistungspflicht des Verwenders. Farbton und Lieferumfang des Fahrzeugs dürften praktisch immer im Wege einer Beschaffenheitsvereinbarung festgelegt sein. Aber auch Konstruktion und Form des Fahrzeugs sind von solch besonderer Bedeutung, dass eine einseitige Änderungsmöglichkeit durch den Verkäufer den Käufer regelmäßig unangemessen benachteiligt. Ein Käufer besichtigt ein Neufahrzeugmodell typischerweise vor dem Kauf; er wird wegen der erheblichen wirtschaftlichen Bedeutung eines Kfz-Kaufs ein Fahrzeug regelmäßig genau in der Konstruktion und Form erhalten wollen, wie er es besichtigt hat. Es erscheint kaum denkbar, dass ein Kunde eines Kfz-Händlers sich regelmäßig mit Konstruktions- oder Formänderungen, Abweichungen im Farbton sowie Änderungen des Lieferumfangs ohne seine ausdrückliche Zustimmung einverstanden erklären würde. Genau dies erlaubt die Klausel aber. Sie dürfte deshalb für die meisten Kfz-Käufer überraschend sein. Auch das grundsätzlich legitime Interesse des Herstellers, die eigenen Modelle weiterzuentwickeln, dürfte einen einseitigen Änderungsvorbehalt zu seinen Gunsten nicht angemessen machen; es ist einem Kfz-Händler ohne weiteres zuzumuten, genau das zu liefern, was sein Kunde bestellt.Die AGB-rechtliche Unwirksamkeit der Klausel kann zwar nicht von Rechts wegen zugunsten des Verkäufers als Verwender wirken. Gleichwohl ist der für den Umfang der Nacherfüllung geltende Auslegungsmaßstab der §§ 133, 157 BGB hierdurch auch nicht aufgehoben. Es ist gerade nicht an dem Wortsinn der Vertragsdokumente festzuhalten, sondern der wirkliche Wille der Parteien unter Berücksichtigung der Verkehrssitte zu erforschen. Aus dem Vorstehenden ergibt sich gerade, dass der Kunde regelmäßig nicht die Vorstellung hat, er könne bei einem Neuwagenkauf eine andere Modellgeneration geliefert bekommen als er bestellt hat. Auch der Verkäufer, der als Kfz-Händler ebensowenig Einfluss auf die Modellpflege des Herstellers hat, besitzt nicht die Vorstellung, dass er im Rahmen einer Nacherfüllung verpflichtet sein könnte, ein grundlegend überarbeitetes Modell des Fahrzeugs mit einer anderen Motorengeneration liefern zu müssen. Es entspricht deshalb der übereinstimmenden Vorstellung beider Seiten im Zeitpunkt des Vertragsschlusses, dass eine Neulieferung bei grundlegenden Überarbeitungen des Fahrzeuges - wie hier - ausscheidet. Es ist nicht treuwidrig, wenn sich der Händler auf diese gemeinsame Vorstellung und den dahinter stehenden Gesetzeszweck der Nacherfüllung beruft.3.Zuletzt folgt auch aus der europäischen Verbrauchsgüterkaufrichtlinie (1999/44/EG) und der dazu ergangenen Rechtsprechung des Europäischen Gerichtshofs nichts anderes.Die Verbrauchsgüterkaufrichtlinie geht ebenso wie das deutsche BGB von dem Grundsatz aus, dass die Nacherfüllungsansprüche der Erfüllung der ursprünglichen Vertragspflichten dienen. Sie basiert ausdrücklich auf einem "Grundsatz der Vertragsmäßigkeit", d.h. der Vorstellung, dass der Verkäufer im Endeffekt diejenige Leistung bewirken muss, die er im Vertrag versprochen hat (siehe etwa Erwägungsgründe 8 und 9). Bei einer Vertragswidrigkeit hat der Verbraucher das Recht, die unentgeltliche Herstellung des vertragsgemäßen Zustands des Gutes zu verlangen (Erwägungsgrund 10, umgesetzt in Art. 3 Abs. 2 der RL). Bereits der Wortlaut der "Vertragsmäßigkeit" zeigt die besondere Bedeutung an, die den Abreden der Parteien bei Vertragsschluss beigemessen wird. Die Verbrauchsgüterkaufrichtlinie sieht zwar ebenso wie das deutsche BGB einen Vorrang der Nacherfüllung vor dem Rücktritt und der Minderung vor ("zunächst", vgl. Art. 3 Abs. 3 der RL), geht aber selbstverständlich davon aus, dass eine Nachlieferung auch unmöglich sein kann. Bei gebrauchten Gütern wird schon vom Grundsatz her unterstellt, dass diese aufgrund ihrer Eigenart im allgemeinen nicht ersetzt werden können, der Verbraucher deshalb in der Regel keinen Anspruch auf Ersatzlieferung hat (Erwägungsgrund 16).Der EuGH hat zwar mehrfach Ansprüche nach der Verbrauchsgüterkaufrichtlinie anerkannt, die wirtschaftlich dazu führen, dass der Käufer im Zuge einer Nacherfüllung mehr erhält, als ihm bei ordnungsgemäßer Erfüllung zusteht (so im Urteil vom 17.04.2008 - C-404/06, "Quelle": Ausschluss des Nutzungsersatzes bei Neulieferung; Urteil vom 16.06.2011 - C-65/09, "Fliesenfall": Ersatz der Ein- und Ausbaukosten für eine beim Verbraucher fest verbaute Sache, die sich als mangelhaft herausstellt). Diese Ansprüche sollen aber nach den Ausführungen des EuGH (lediglich) sicherstellen, dass die Nacherfüllung für den Verbraucher - wie Art. 3 Abs. 3 der RL vorgibt - "unentgeltlich" und "ohne erhebliche Unannehmlichkeiten" geschieht. Im Urteil vom 16.06.2011 - C-65/09, Rz. 60 betont der EuGH ausdrücklich, dass die den Verbrauchern in Art. 3 der RL verliehenen Rechte "nicht bezwecken, die Verbraucher in eine Lage zu versetzen, die vorteilhafter ist als diejenige, auf die sie nach dem Kaufvertrag Anspruch erheben könnten". Sie sollen "lediglich die Situation herstellen, die vorgelegen hätte, wenn der Verkäufer von vornherein ein vertragsgemäßes Verbrauchsgut geliefert hätte".Auch das allgemeine Ziel der Verbrauchsgüterkaufrichtlinie, ein hohes Verbraucherschutzniveau zu gewährleisten, führt nicht zu einer anderen Auslegung. Für den Kläger als Verbraucher ist der Verweis auf den Rücktritt oder die Minderung vom Kaufvertrag insgesamt keine "erhebliche Unannehmlichkeit", die die Verbrauchsgüterkaufrichtlinie ihm nicht zumuten will. Stattdessen sind bei der Prüfung, ob dem Verbraucher Nacherfüllung (statt Rücktritt oder Minderung) zuzugestehen ist, auch nach dem allgemeinen Rechtsgedanken des Art. 3 Abs. 3 der RL die Art des Verbrauchsgutes sowie der Zweck, für den der Verbraucher das Verbrauchsgut benötigte, zu berücksichtigen. Der Kläger hat zwar vorliegend ein Kraftfahrzeug erworben, welches typischerweise als für die allgemeine Lebensführung wichtiges Hilfsmittel dient und wirtschaftlich besonders wertvoll ist. Das Fahrzeug war aber zu keinem Zeitpunkt fahruntüchtig und es droht nach Vornahme des Softwareupdates auch keine Betriebsuntersagung mehr. Wenn - wie der Kläger behauptet - das Fahrzeug nach dem Softwareupdate mangelhaft bliebe, so hätte er die von der Verbrauchsgüterkaufrichtlinie vorgesehenen Rechte auf Rücktritt vom Kaufvertrag oder Minderung geltend machen können, jedenfalls bis zum Eintritt der Quasi-Verjährung (§ 438 Abs. 4, 5 i.V.m. § 218 Abs. 1 BGB). Durch diese Rechte ist er auch unter Berücksichtigung der Mangelauswirkungen angemessen geschützt. Bei einer Neulieferung eines fabrikneuen Fahrzeugs würde er stattdessen über Gebühr begünstigt. Dies verlangt die Verbrauchsgüterkaufrichtlinie nicht.4.Ein Anspruch auf Neulieferung eines fabrikneuen Audi Q3 ergibt sich zuletzt auch nicht aus vorvertraglichem Verschulden (§§ 311, 241 Abs. 2 BGB). Ein solcher Anspruch würde die Beklagte lediglich dazu verpflichten, den Zustand herzustellen, der bestehen würde, wenn der zum Ersatz verpflichtende Umstand nicht eingetreten wäre (sog. Naturalrestitution, § 249 Abs. 1 BGB). Ohne die von ihm behauptete Pflichtverletzung hätte der Kläger aber ebenso nur einen Audi Q3 aus der Produktion des Jahres 2013 (ohne den Softwaremangel) erhalten.5.Da bereits der im Klageantrag zu 1.) geltend gemachte Hauptanspruch nicht besteht, sind auch die weiteren Anträge zu 2.) und 3.) unbegründet. Die Entscheidung über die Kosten beruht auf § 91 ZPO, diejenige über die vorläufige Vollstreckbarkeit auf § 709 ZPO.Unterschrift
+			
+			
+			
+			Permalink: https://openjur.de/u/2137518.html (https://oj.is/2137518)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen2
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

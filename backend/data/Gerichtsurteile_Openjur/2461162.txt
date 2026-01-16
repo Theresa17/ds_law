@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteBayernOrdentliche GerichtsbarkeitLG München IRechtsprechungEndurteil vom 04.08.2021 - 20 O 17368/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG München I, Endurteil vom 04.08.2021 - 20 O 17368/20
+                      m. Fundstelle
+                      LG München I, Endurteil vom 04.08.2021 - 20 O 17368/20 = openJur 2023, 410
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG München I, Endurteil vom 04.08.2021 - 20 O 17368/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2023, 410
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				I. Die Klage wird abgewiesen.II. Die Klägerin trägt die Kosten des Rechtsstreits.III. Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von 110% des vollstreckbaren Vertrags. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatz wegen eines vom sogenannten "Abgasskandal" betroffenen Fahrzeugs.Die Klägerin erwarb 2011 vom ... einen neuen Pkw ... zum Preis von € 26.300,- brutto. Das Fahrzeug verfügt über einen Dieselmotor des Typs EA189, der von der Beklagten hergestellt wurde. Für Fahrzeuge vom Typ des streitgegenständlichen war eine Typengenehmigung nach der Abgasnorm EU 5 erteilt worden.Die im Fahrzeug installierte Software erkennt die Prüfsituation - Neuer europäischer Fahrzyklus (NEFZ) - und schaltet in den NOxoptimierten Modus 1, in dem es zu einer höheren Abgasrückführungsrate und dadurch zu geringerem Stickstoffausstoß kommt. Unter Fahrbedingungen, die im normalen Straßenverkehr vorzufinden sind, ist der Betriebsmodus 0 mit reduzierter Abgasrückführung aktiv.Am 22.09.2015 informierte die Beklagte die Öffentlichkeit in einer Pressemitteilung über die Tatsache, dass in ... mit einem EA189-Dieselmotor eine Software eingebaut ist, die zu auffälligen Abweichungen der Abgaswerte zwischen Prüfstand- und realem Fahrbetrieb führt.Am selben Tag veröffentlichte die Beklagte als börsennotiertes Unternehmen auch eine ad hocMitteilung mit demselben Inhalt. In der Folge kam es zu einer intensiven Medienberichterstattung.Am 02.10.2015 informierte die Beklagte die Öffentlichkeit über die Erstellung und Veröffentlichung einer Internetseite, auf der jedermann durch Eingabe einer Fahrzeugidentifikationsnummer (FIN) überprüfen könne, ob ein konkretes Fahrzeug mit der Umschaltlogik ausgestattet war. Diese Website wurde Anfang Oktober 2015 freigeschaltet. Über die Freischaltung der Internetabfragemöglichkeit wurde öffentlich berichtet.Das Kraftfahrtbundesamt (KBA) ordnete mit Bescheid vom 15.10.2015 gegenüber der Beklagten gemäß § 25 Abs. 2 EG-FVG nachträgliche Nebenbestimmungen für die betroffenen Typengenehmigungen an, da eine unzulässige Abschalteinrichtung im Sinne von Art. 3 Nr. 10 VO (EG) 715/2007 vorliegen würde.Nachdem der Kläger von der Beklagten in einem Rückrufschreiben darüber informiert worden war, dass sein Fahrzeug von dem Abgasskandal betroffen sei, ließ er das von der Beklagten angebotene Software-Update am 27.2.2017 durchführen.Die Klägerin behauptet, in dem streitgegenständlichen Fahrzeug sei eine nach Art. 5 Abs. 2 VO (EG) 715/2007 unzulässige Abschalteinrichtung verbaut, so dass aufgrund der rechtswidrigen Software das Fahrzeug mangelhaft sei. Die Betriebserlaubnis des Fahrzeugs sei gefährdet, da das Fahrzeug nicht zulassungsfähig sei. Die Klägerin wäre so ein Risiko beim Kauf des Fahrzeugs nicht eingegangen. Das Fahrzeug halte im realen Fahrbetrieb die vorgeschriebenen Grenzwerte nicht ein und sei daher nicht umweltfreundlich. Darüber habe die Beklagte die Klägerin getäuscht. Das Software-Update wirke sich nachteilig auf das Fahrzeug aus, so dass auch damit die Mangelhaftigkeit nicht beseitigt werden könne.Die Klägerin behauptet weiter, der Einbau der Software sei mit Wissen und Wollen des Vorstandes der Beklagten erfolgt. Sie verweist auf die sekundäre Darlegungslast der Beklagten.Sie trägt vor, bei dem Update handle es sich um eine neue unzulässige Abschalteinrichtung, die ebenfalls Schadensersatzansprüche begründe.Sie ist der Auffassung, Verjährung sei nicht eingetreten, da auf die Benachrichtigung der einzelnen Fahrzeughalter durch die Beklagte abzustellen sei und nicht darauf, wann die Öffentlichkeit informiert worden sei.Im Falle der Verjährung schulde die Beklagte Herausgabe des Erlangten gemäß § 852 BGB.Die Klägerin stellt folgenden Antrag:1. Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klägerpartei Schadensersatz zu bezahlen für Schäden, die daraus resultieren, dass die Beklagtenpartei in den Motor, Typ EA 189, des Fahrzeugs ... mindestens eine unzulässige Abschalteinrichtung in der Form einer Software eingebaut hat, die bei Erkennung standardisierter Prüfstandsituationen (NEFZ) die Abgasaufbereitung so optimiert, dass möglichst wenige Stickoxide (NOx) entstehen und Stickstoffemissionsmesswerte reduziert werden, und die im Normalbetrieb Teile der Abgaskontrollanlage außer Betrieb setzt, sodass es zu einem höherenNOx-Ausstoß führt bzw. in Gestalt einer Funktion, die durch Bestimmung der Außentemperatur die Parameter der Abgasbehandlung so verändert, dass die Abgasnachbehandlung außerhalb eines Temperaturfensters von 17 °C bis 33 °C reduziert wird (sog. Thermofenster).Hilfsweise für den Fall, dass das Gericht die Klage wegen Verjährung abweist:Die Beklagtenpartei wird verurteilt, Auskunft an die Klägerpartei zu erteilen, welchen Kaufpreis sie durch den Verkauf des Fahrzeugs ... mit der FIN ..., an die Erstankäuferin vereinnahmt hat und welche Nutzungen sie seither aus dem vereinnahmten Kaufpreis gezogen hat.Für den Fall, dass dieser Klageantrag Erfolg hat:1. Die Beklagtenpartei wird verurteilt, die Richtigkeit der Auskunft an Eides statt zu versichern.2. Die Beklagtenpartei wird verurteilt, an die Klägerpartei Schadensersatz in einer Höhe zu bezahlen, die nach Erteilung der Auskunft noch zu bestimmen ist, nebst Zinsen aus dem fraglichen Betrag in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit.Die Beklagte beantragtKlageabweisung.Sie erhebt die Einrede der Verjährung. Bereits im Herbst 2015 habe die Klagepartei Kenntnis von der Betroffenheit ihres Fahrzeugs erlangt oder erlangen können.Das streitgegenständliche Fahrzeug sei technisch sicher und uneingeschränkt gebrauchstauglich. Die Typengenehmigung sei unverändert gültig. Für die Einhaltung der Emissionsgrenzwerte zur Erlangung der EG Typengenehmigung nach den gesetzlichen Vorgaben sei nur der NEFZ maßgeblich. Nach Durchführung des Software-Updates stehe dem Kläger ein einwandfreies Fahrzeug zur Verfügung. Der Klagepartei sei kein Schaden entstanden. Es liege weder eine Täuschung noch ein Schädigungsvorsatz vor. Jedenfalls sei der Kläger zum Nutzungsersatz verpflichtet.Zur Ergänzung des Tatbestands wird auf die zwischen den Parteien gewechselten Schriftsätze, die vorgelegten Urkunden sowie das Protokoll der mündlichen Verhandlung vom 14.7.21 Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet, weil Ansprüche der Klägerin jedenfalls verjährt sind gemäß §§ 195, 199 BGB.In Betracht kommen ausschließlich deliktische Ansprüche gemäß §§ 823, 826 BGB, da zwischen den Parteien keine Vertragsbeziehungen bestehen. Diese Ansprüche verjähren gemäß § 195 BGB in 3 Jahren. Gemäß § 199 BGB beginnt die Verjährungsfrist mit dem Schluss des Jahres zu laufen, in dem der betreffende Anspruch entstanden ist und der Gläubiger von den anspruchsbegründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen musste.Der Schuldner, d.h. die Beklagte, ist darlegungs- und beweisbelastet für die Umstände des Beginns der Verjährungsfrist.Erforderlich ist die Kenntnis bzw. das Kennenmüssen der anspruchsbegründenden Tatsachen.Der Gläubiger muss im Falle eines Schadensersatzanspruchs Kenntnis erlangen von der Pflichtverletzung, dem Schadenseintritt und der eigenen Schadensbetroffenheit (Palandt, 77. Aufl., Rz. 28 zu § 199). Das war hier bereits im Jahr 2015 der Fall.Am 22.09.2015 informierte die Beklagte erstmals die Öffentlichkeit darüber, dass in Dieselfahrzeugen mit dem Motor EA 189 eine dort eingebaute Software zu auffälligen Abweichungen der Abgaswerte zwischen Prüfstands- und realem Fahrbetrieb führe. Am selben Tag wurde auch eine ad hoc-Mitteilung dieses Inhalts veröffentlicht. In der Folge kam es zu einer umfangreichen Medienberichterstattung. Mit Bescheid vom 15.10.2015 stellte das Kraftfahrtbundesamt fest, dass in Fahrzeugen mit Motor mit Motoren des Typs EA 189 eine unzulässige Abschalteinrichtung verbaut sei, worüber ebenfalls in den Medien umfangreich berichtet wurde. Der sogenannte ... war Ende 2015 ein derart beherrschendes Thema in den Medien, dass sich eine in Deutschland lebende Person dem nicht entziehen konnte. Aus diesem Grunde kann davon ausgegangen werden, dass der Kläger bereits Ende 2015 Kenntnis davon hatte, dass in den vom Skandal betroffenen Fahrzeugen eine unzulässige Abschalteinrichtung verbaut war.Für die Kenntniserlangung der eigenen Betroffenheit ist nicht maßgebend, wann die Klägerin das Schreiben der Beklagten mit der Aufforderung, das Update vornehmen zu lassen, erhalten hat. Vielmehr hätte die Klägerin bereits im Jahr 2015 ohne weiteres davon Kenntnis erlangen können, dass ihr Fahrzeug betroffen war, denn die Beklagte hatte bereits Anfang Oktober 2015 eine Internetseite zur Verfügung gestellt, auf der durch Eingabe der FIN überprüft werden konnte, ob ein bestimmtes Fahrzeug mit der unzulässigen Abschalteinrichtung ausgestattet war.Auch darüber wurde entsprechend in den Medien berichtet. Jeder Halter eines ..., so auch die Klägerin, konnte daher durch einfaches Eingeben der FIN feststellen, ob sein Fahrzeug betroffen war. Die Klägerin wusste, dass sie Halterin eines Dieselfahrzeugs der Marke .. war, welches prinzipiell von dem Skandal betroffen sein konnte. Sie wusste auch, dass Inhalt der Vorwürfe gegen .. nicht irgendeine Marginalie war, sondern der Vorwurf eines groß angelegten Betrugs im Raum stand. Auch der Klägerin als musste klar gewesen sein, dass ein solcher Betrug erhebliche zivilrechtliche Forderungen für die Betroffenen begründen konnte. Es war daher naheliegend für sie, sich umgehend darüber zu informieren, ob sie betroffen ist. Sofern die Klägerin ihre Betroffenheit nicht überprüft hat, hat sie die im Verkehr erforderliche Sorgfalt in ungewöhnlich grobem Maß verletzt. Die Unkenntnis ihrer Betroffenheit im Jahr 2015 wäre als grob fahrlässig anzusehen.Die Klägerin besaß im Jahr 2015 Kenntnis über sämtliche anspruchsbegründenden Umstände bzw. hätte diese bei Beachtung der erforderlichen Sorgfalt besitzen können, sodass sie bereits Ende 2015 Klage hätte erheben können. Nicht erforderlich war, dass sie den Vorgang rechtlich zutreffend beurteilen konnte. Nicht erforderlich war auch, dass sie bereits Ende 2015 absehen konnte, wie die Gerichte die "Diesel-Fälle" beurteilen würden.Auf die Entscheidung des BGH vom 17.12.2020, Az. VI ZR 739/20 wird überdies Bezug genommen.Deliktische Ansprüche der Klägerin, insbesondere Ansprüche nach § 826 BGB, sind daher mit Ablauf des Jahres 2018 verjährt. Die Verjährung wurde nicht gehemmt durch eine Anmeldung zum Musterfeststellungsverfahren.Bei Einreichung der Klage im Dezember 2020 waren die Ansprüche also bereits verjährt.Soweit die Klägerin ihre Klage darauf stützt, sie sei erneut getäuscht worden, weil das am 27.2.2017 installierte Software-Update ebenfalls eine unzulässige Abschalteinrichtung darstelle, besteht aus diesem Gesichtspunkt kein Anspruch aus § 826 BGB. Das Software-Update wurde vom KBA genehmigt, so dass die Beklagte von seiner Zulässigkeit ausgehen konnte. Vorsatz und Sittenwidrigkeit sind daher nicht gegeben.Der Klägerin steht auch kein Anspruch gemäß § 852 BGB zu. Die Klägerin hat nicht behauptet, das Fahrzeug von der Beklagten erworben zu haben. Die Beklagte hat daher durch den Verkauf des Fahrzeugs an die Klägerin nichts erlangt.Deshalb ist auch der Hilfsantrag unbegründet.Die Kostenentscheidung beruht auf § 91 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit auf § 709 Satz 1 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2461162.html (https://oj.is/2461162)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate1
+				
+				
+					 Zitiert1
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

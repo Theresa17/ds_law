@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG GießenRechtsprechungUrteil vom 24.01.2022 - 2 O 137/21
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Gießen, Urteil vom 24.01.2022 - 2 O 137/21
+                      m. Fundstelle
+                      LG Gießen, Urteil vom 24.01.2022 - 2 O 137/21 = openJur 2022, 19223
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Gießen, Urteil vom 24.01.2022 - 2 O 137/21
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 19223
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				1. Die Klage wird abgewiesen.2. Die Kosten des Rechtsstreits trägt der Kläger.3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Die Parteien streiten um die Verpflichtung der Beklagten, dem Kläger Schadenersatz aus dem Kauf eines Pkw, der mit einem ... Dieselmotor ausgerüstet ist.Der Kläger kaufte den Pkw ..., 110 kw, Euro 6, ..., 09.05.2017, am 25.10.2020 mit einem Kilometerstand von 61.700km zu einem Bruttokaufpreis von 16.600,01 der Autohaus ... in ..., die ... Vertragshändlerin ist. Das Fahrzeug hatte am 30.07.2021 einen Kilometerstand von 78.138km.Das Fahrzeug ist mit einem Dieselmotor ... der Beklagten ausgerüstet.Der Kläger behauptet, in dem Motor seien mehrere unzulässige Abschalteinrichtungen verwendet, um den Betrieb des Fahrzeugs im Teststand oder aber im Straßenverkehr zu erkennen und im Falle des Testbetriebs die Abgasreinigung so zu manipulieren und anzupassen, dass ausschließlich im Testzyklus auf dem Rollenprüfstand korrekte und zulassungsfähige Abgaswerte erzielt werden.Er habe kein Fahrzeug erwerben wollen, das eine Software enthalte, die ein den Grenzwerten der Euro 6-Norm entsprechenden Schadstoffausstoß nur in einem Spezialmodus einhalte, wenn unabhängig von der konkreten Nutzung und dem persönlichen Fahrverhalten im Straßenbetrieb dieser Modus abgeschaltet werde. Die von der Beklagten angebotenen Software-Updates stellten einen technischen Zustand her, für den das Fahrzeug in dauerhaftem Betrieb nicht vorgesehen sei. Es komme daher zu Leistungsverlust, einem erhöhten Treibstoff- und AdBlue-Verbrauch. Längerfristigen Schäden wie das Verrußen von wichtigen Bauteilen, häufigere Service-Intervalle und Folgeschäden seien nicht auszuschließen (Bew.: SV-GutA).Der Kläger beantragt,1. die Beklagte zu verurteilen, an ihn 16.370,13€ nebst Hinsen hieraus in Höhe von 5%-Punkten über dem jeweiligen Basiszinssatz seit 15.02.2021 zu bezahlen, Zug-um-Zug gegen die Übereignung und Herausgabe des PKW Typ ..., FIN ...,2. die Beklagte zu verurteilen, an den Kläger 236,49€ Deliktszinsen zu zahlen, Zug-um-Zug gegen die Übereignung und Herausgabe des PKW Typ ..., FIN ...,3. festzustellen, dass die Beklagte sich mit der Annahme des in Antrag 1. Genannten Fahrzeugs seit dem 15.02.2021 in Verzug befindet,4. die Beklagte zu verurteilen, den Kläger von den Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 1.398,25€ vorgerichtliche Rechtsanwaltskosten freizustellenDie Beklagte beantragt,die Klage abzuweisen.Sie bestreitet sowohl den Verbau einer unzulässigen Abschalteinrichtung als auch eine kausale Schadensverursachung bzw. einen Schaden überhaupt.Wegen des Vortrags der Parteien im Übrigen wird Bezug genommen auf die zur Akte gereich-ten Schriftsätze nebst Anlagen.Die Klage ist der Beklagten am 04.05.2021 zugestellt worden. 
+				Gründe
+				Die zulässige Klage ist unbegründet.Der Kläger hat gegen die Beklagte keinen Anspruch auf Schadenersatz aus unerlaubter Handlung oder anderen Rechtsgrundlagen.Es fehlt schon an der Kausalität der behaupteten Täuschungshandlung. Der Kläger erwarb das Fahrzeug am 25.09.2020, mithin fünf Jahre, nachdem der sog. "Dieselskandal" erstmals bekannt wurde. Zwar war zunächst nur der Vorgängermotor ... im Gespräch. Jedoch kam seinerzeit auch schnell der Verdacht auf, es könne auch der streitgegenständlichen ... manipuliert sein. Gleichwohl die Beklagte auch seine Betroffenheit nach wie vor bestreitet und unstreitig ist, dass in dem Motor jedenfalls eine Umschaltlogik wie im ... nicht verbaut ist, wurden auch der ... in die Untersuchung der Untersuchungskommission "..." aus April 2016 einbezogen, nicht zuletzt wegen auch der öffentlichen Diskussion um diesen Motor.Im Zeitpunkt des Kaufs des streitgegenständlichen Fahrzeugs war damit die behauptete Täuschungshandlung bekannt, sodass die Kunden, die Fahrzeuge sowohl mit dem ... als auch mit dem ... -jedenfalls nach April 2016 in Kauf nahmen, dass der Motor tatsächlich manipuliert sein könne. Die Täuschungshandlung ist dann nicht mehr kausal für den Kaufentschluss. Dass der Kläger über etwaige negative Auswirkungen des Software-Updates bei Abschluss des Kaufvertrags getäuscht worden wäre, behauptet er selbst nicht. Zudem könnte auch eine solche Täuschungshandlung nicht kausal für den Kaufentschluss sein, denn die Sinnhaftigkeit und die möglichen negativen Auswirkungen auf das Fahrzeug bei Aufspielen eines Software-Updates werden bereits so lange diskutiert, wie die Software-Updates angeboten werden, mithin ebenfalls Jahre vor dem hier streitgegenständlichen Kauf.Da dem Kläger solchermaßen bereits dem Grunde nach kein Schadenersatzanspruch gegen die Beklagte zusteht, besteht auch keine Feststellungsansprüche und Ansprüche auf Nebenforderungen.Die Kostenentscheidung folgt aus § 91 ZPO, die Entscheidung über die vorläufige Vollstreck-barkeit auf § 709 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2453327.html (https://oj.is/2453327)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

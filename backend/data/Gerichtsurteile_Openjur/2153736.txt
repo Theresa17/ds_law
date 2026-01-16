@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteNordrhein-WestfalenOrdentliche GerichtsbarkeitLG MönchengladbachRechtsprechungUrteil vom 05.12.2018 - 6 O 355/17
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Mönchengladbach, Urteil vom 05.12.2018 - 6 O 355/17
+                      m. Fundstelle
+                      LG Mönchengladbach, Urteil vom 05.12.2018 - 6 O 355/17 = openJur 2019, 18635
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Mönchengladbach, Urteil vom 05.12.2018 - 6 O 355/17
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2019, 18635
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Kosten des Rechtsstreits trägt der Kläger.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar 
+				Tatbestand
+				Die Parteien streiten über Schadensersatzansprüche.Im September 2015 informierte die Beklagte die Öffentlichkeit darüber, dass in von der Beklagten hergestellten Dieselmotoren des Typs EA 189 eine das Abgasrückführungsventil steuernde Software des Motorsteuerungsgerätes verbaut war, welche zur Folge hatte, dass die zum Erhalt der jeweiligen Typengenehmigung nach Vorgabe der VO (EG) Nr. 715/2007 einzuhaltenden NOX-Grenzwerte nur in den im normalen Straßenbetrieb niemals vorkommenden Bedingungen des zur Erlangung der Typengenehmigung durchgeführten gesetzlich vorgeschriebenen Testlaufs, der aus fünf exakt vorgegebenen synthetischen Fahrkurven besteht, eingehalten und folglich im normalen Straßenbetrieb überschritten werden. Das Kraftfahrtbundesamt erkannte in dieser Software eine unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2, Art. 3 Z. 10 der Verordnung (EG) Nr. 715/2007 und forderte von der Beklagten, dass für Fahrzeuge mit Motoren des Typs EA 189 eine technische Lösung erarbeitet werde, die dafür sorgt, dass die gesetzlichen Vorgaben eingehalten werden.Am 03.12.2015 erwarb der Kläger von einem Dritten durch Kaufvertrag ein gebrauchtes Kfz der Marke Skoda, in welchem ein Dieselmotor des Typs EA 189 mit der genannten Software verbaut ist, zu einem Kaufpreis i.H.v. 21.400,00 €.Dem Kläger sind vorgerichtliche Rechtsanwaltskosten in Höhe von 1.171,67 € entstanden.Der Kläger behauptet im Wesentlichen, er habe in Unkenntnis der nicht gesetzeskonformen Motorsteuerungssoftware das streitgegenständliche Fahrzeug erworben, wodurch er einen wirtschaftlich nachteiligen Vertrag abgeschlossen habe. Dies folge bereits daraus, dass kein verständiger Kunde ein Fahrzeug mit dieser Motorsteuerungssoftware erwerben würde, wenn die Beklagte ihn vor dem Kauf darauf hinweisen würde, dass die Software nicht gesetzeskonform sei und er deshalb gegebenenfalls mit Problemen für den Fall der Entdeckung der Manipulation durch das Kraftfahrtbundesamt rechnen müsse. Er habe nicht das bekommen, was ihm aus dem Kaufvertrag zugestanden habe, nämlich ein technisch einwandfreies, den gesetzlichen Bestimmungen entsprechendes Fahrzeug.Der Kläger beantragt,1. die Beklagte zu verurteilen, an ihn 21.400,00 € nebst jährliche Zinsen i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 24.11.2017 Zug um Zug gegen Übereignung des Fahrzeugs Skoda, Typ je die 1.6 TDG-DSG mit der FIN zu zahlen;2. festzustellen, dass sich die Beklagte in Annahme-Verzug befindet;3. die Beklagte zu verurteilen, an ihn weitere 1.171,67 € nebst Zinsen i.H.v. 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtshängigkeit zu zahlen.Die Beklagte beantragt,die Klage abzuweisen.Sie behauptet, dem Kläger sei im Zeitpunkt des Kaufvertragsschlusses die Verwendung der Software bekannt gewesen. Daher stünden ihm die geltend gemachten Ansprüche nicht zu.Hinsichtlich der weiteren Einzelheiten des Sach- und Streitstands wird auf die zu den Akten gereichten Schriftsätze der Parteien nebst Anlagen sowie auf das Sitzungsprotokoll Bezug genommen. 
+				Gründe
+				Die zulässige Klage ist unbegründet.Da zwischen den Parteien keine vertragliche Verbindung besteht, kommen insoweit nur deliktische Anspruchsgrundlagen in Betracht.I.Ein Anspruch aus § 823 Abs. 2 BGB i.V.m. § 263 StGB scheitert jedenfalls daran, dass die erforderliche Irrtumserregung durch eine Täuschung der Beklagten nicht substantiiert dargelegt worden ist. Die Erregung eines Irrtums ist begrifflich ausgeschlossen, wenn der Kläger bereits Kenntnis von den Tatsachen hatte, über deren Vorliegen er getäuscht worden sein will.Die Kammer ist davon überzeugt, dass der Kläger im Rahmen der umfassenden Berichterstattung ab September 2015 zum Kaufzeitpunkt am 03.12.2015 Kenntnis über den Verbau der streitgegenständlichen Software in den Motoren des Typs EA 189 hatte. Hierbei handelt es sich um unbestritten gebliebenen Beklagtenvortrag. Der Kläger hat lediglich pauschal vorgetragen, dass er - wie jeder verständige, Risiken vermeidende Kunde - bei Kenntnis des Sachverhaltes und der damit verbundenen Risiken für den Fortbestand der Betriebserlaubnis den streitgegenständlichen Kaufvertrag nicht geschlossen hätte. Anhaltspunkte dafür, wie eine solch umfassende, die Öffentlichkeit beherrschende Berichterstattung aller Medienkanale ihn über einen Zeitraum von etwa 3 Monaten nicht erreicht haben soll, trägt er nicht vor. Es liegt jedoch auf der Hand, dass der Kläger zur von ihm behaupteten Erregung eines Irrtums über Tatsachen weiter substantiiert vortragen muss, wenn es um ein die täglichen Nachrichten monatelang beherrschendes Thema geht, das schon nach der Bezeichnung ("Dieselgate", "Diesel-Skandal", "VW-Abgasskandal"), aber auch nach der betroffenen Motorenbauart (Dieselmotoren mit 1,2 l, 1,6 l und 2,0 l Hubraum) auch seinen PKW betreffen könnte und worüber sich nach Bekanntwerden aller Lebenserfahrung nach jeder Halter oder Fahrer eines Dieselmodells hinsichtlich seines eigenen Pkws informiert hat (vgl. OLG Braunschweig, Beschluss vom 02.11.2017 - 7 U 69/17). An einem solchen substantiierten Vortrag fehlt es.II.Auch besteht kein Anspruch aus § 826 BGB. Denn es fehlt an der Sittenwidrigkeit der behaupteten Schädigungshandlung, wenn der Erwerber eines mit der streitgegenständlichen Software ausgestatteten Kfz beim Erwerb von eben diesem Umstand bereits wusste. Insoweit ist auch der Grundsatz "volenti non fit iniuria" zu berücksichtigen, wonach dem Einwilligenden kein Unrecht geschieht. Auch im Rahmen des §§ 826 BGB ist von dem nicht substantiiert bestrittenen Vortrag der Beklagten auszugehen, dass der Kläger in den etwa drei Monaten zwischen allgemeinem Bekanntwerden des so genannten Diesel-Skandals im September 2015 und dem Kauf seines Fahrzeugs am 03.12.2015 von der Betroffenheit dieses Fahrzeugs erfahren haben muss.Es ist auch kein Schädigungsvorsatz der Beklagten gerade gegenüber Käufern wie dem Kläger dargelegt, wenn sie davon ausgehen konnte, dass er aufgrund der monatelangen Berichterstattung in Presse, Funk und Fernsehen bereits von der Problematik des zu erwerbenden Fahrzeugs erfahren haben musste. Auf Erwerber eines betroffenen Fahrzeugs nach Bekanntwerden der Abgasproblematik kann sich der Schädigungsvorsatz naturgemäß deshalb nicht erstreckt haben, weil ein solcher die Unbekanntheit der Umschaltung der Abgasrückführung vorausgesetzt hätte (vgl. OLG Braunschweig, Beschluss vom 02.11.2017 - 7 U 69/17).Im Übrigen wird auf die Ausführungen unter I. verwiesen.III.Die prozessualen Nebenentscheidungen beruhen auf §§ 91 Abs. 1 S. 1, 709 S. 1, 2 ZPO.Der Streitwert wird auf 21.400,00 EUR festgesetzt.
+			
+			
+			
+			Permalink: https://openjur.de/u/2153736.html (https://oj.is/2153736)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate0
+				
+				
+					 Zitiert2
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

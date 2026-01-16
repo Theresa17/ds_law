@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteSchleswig-HolsteinOrdentliche GerichtsbarkeitLG ItzehoeRechtsprechungUrteil vom 10.06.2021 - 6 O 299/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Itzehoe, Urteil vom 10.06.2021 - 6 O 299/20
+                      m. Fundstelle
+                      LG Itzehoe, Urteil vom 10.06.2021 - 6 O 299/20 = openJur 2021, 22725
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Itzehoe, Urteil vom 10.06.2021 - 6 O 299/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2021, 22725
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				1. Im Fall der Weiterveräußerung eines mit einer unzulässigen Manipulationssoftware versehenen Fahrzeugs kann der Schaden in einem konkreten Mindererlös gegenüber einem normalerweise zu erwartenden Verkaufserlös liegen.2. Zwar besteht der Schaden des Käufers, der ein manipuliertes Fahrzeug erworben hat, grundsätzlich schon im Abschluss des ungewollten Kaufvertrages über das mangelbehaftete Fahrzeug der Schaden, der im Abschluss des so nicht gewollten Vertrages lag, entfällt aber wieder, wenn der Käufer sich des Vertrages ohne irgendwelche Einbußen wieder entledigen kann.3. kann der Käufer des mit einer illegalen Abschaltvorrichtung versehenen Fahrzeuges dieses zunächst ungehindert nutzen und sodann ohne Abzug eines Minderwertes weiterveräußern, hat er nach Differenzhypothese keinen Schaden erlitten. 
+				
+				Tenor
+				I. Die Klage wird abgewiesen.II. Die Klägerin hat die Kosten des Rechtsstreits zu tragen.III. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.BeschlussDer Streitwert wird auf 33.000,00 € festgesetzt. 
+				Tatbestand
+				Die Parteien streiten um Schadensersatzansprüche aus unerlaubter Handlung.Am 2.4.2014 kaufte die Klägerin bei der Autohof F GmbH in XXX einen gebrauchten Audi Q 5 Quattro, FIN WAUZZZ8R7BA066..., zum Preis von 33.000 € brutto. Wegen der weiteren Einzelheiten des Kaufvertrages wird auf die als Anlage K 1 eingereichten Unterlagen zum Fahrzeugkauf Bezug genommen (alle Anlagen: Anlagenband). Beim Kauf betrug der Kilometerstand 21.850 km. In dem Fahrzeug ist ein von der Beklagten entwickelter, hergestellter und in Verkehr gebrachter Motor vom Typ EA 189 verbaut. Für den Fahrzeugtyp wurde die Typgenehmigung nach der Verordnung (EG) Nummer 715/2007 erteilt.Die Motoren des Typs EA 189 waren Auslöser des sogenannten "Abgasskandals", weil die Motorsteuerung verschiedene Betriebsmodi vorsieht im normalen Straßenverkehr einerseits und auf dem Prüfstand des neuen europäischen Fahrzyklus andererseits, was die Beklagte im Typgenehmigungsverfahren nicht offengelegt hatte. Die Motorsteuerungssoftware erkennt, ob das Fahrzeug auf einem Prüfstand dem sog. Neuen Europäischen Fahrzyklus (NEFZ) unterzogen wird, und schaltet in diesem Fall in den Abgasrückführungsmodus 1, einen Stickoxid-optimierten Modus. In diesem Modus findet eine Abgasrückführung mit niedrigem Stickoxidausstoß statt. Im normalen Fahrbetrieb außerhalb des Prüfstands schaltet der Motor dagegen in den Abgasrückführungsmodus 0, bei dem die Abgasrückführungsrate deutlich geringer und der Stickoxidausstoß entsprechend höher ist. Für die Erteilung der Typgenehmigung maßgeblich war der Stickoxidausstoß auf dem Prüfstand. Die gesetzlich vorgegebenen Stickoxidgrenzwerte wurden nur im Abgasrückführungsmodus 1 eingehalten.Nachdem die Beklagte am 22.9.2015 in einer ad-hoc-Mitteilung nach § 15 WpHG mitgeteilt hatte, die "Aufklärung von Unregelmäßigkeiten einer verwendeten Software bei Diesel-Motoren mit Hochdruck voran" zu treiben, setzte eine umfangreiche Medienberichterstattung im In- und Ausland über den "Abgasskandal" ein. Am 2.10.2015 stellte die Beklagte eine Internetseite bereit, auf der Kunden mittels Eingabe der FIN prüfen können, ob bei ihrem Fahrzeug die Abschaltvorrichtung installiert ist. Am 15.10.2015 ordnete das Kraftfahrtbundesamt (nachfolgend: KBA) erstmalig Nebenbestimmungen zu den Typgenehmigungen für Fahrzeuge mit EA-189-Motor an. Der Verbraucherzentrale Bundesverband e. V. erhob wegen der Funktionsweise der Motorsteuerung Musterfeststellungsklage gegen die Beklagte vor dem OLG Braunschweig. Die Klägerin nahm am Musterfeststellungsverfahren nicht teil.Am 10.9.2020 verkaufte die Klägerin das Fahrzeug bei einem Kilometerstand von 55.625 km für 12.590 € (Kaufvertrag eingereicht als Anlage K 30). Die Klage ging am 30.11.2020 bei Gericht ein und wurde der Beklagten am 28.12.2020 zugestellt.Die Klägerseite hat vorgetragen, die Abschalteinrichtung in dem Fahrzeug habe dazu gedient, den Betrieb auf dem Prüfstand zu erkennen, und dementsprechend die Abgasrückführung aktiviert, um die gesetzlichen Abgasgrenzwerte einhalten zu können. Im normalen Fahrbetrieb unterbleibe dies. Die Mitarbeiter der Beklagten hätten die Vorrichtung ausschließlich mit dem Ziel entwickelt, dass das Fahrzeug die Prüfstandssituation erkenne und die Grenzwerte einhalten könne. Das von der Beklagten angebotene Software-Update beseitige diesen Mangel nicht. Auch nach Durchführung des Updates lägen die Emissionswerte weit über den gesetzlichen Grenzwerten. Außerdem führe das Update nicht zu einer folgenlosen Entfernung der Abschalteinrichtung, sondern es zeigten sich Folgemängel in Gestalt von Leistungsverlust, erhöhtem Kraftstoffverbrauch, Erhöhung der Roh-Partikel- und der CO2-Emissionen, einem Ruckeln des Motors und anderen Nachteilen (S. 36f. der Klagschrift, Bl. 36f. d. A.).Die Klägerseite ist der Auffassung, die Klägerin habe zunächst wegen der ursprünglichen unzulässigen Abschaltvorrichtung im Motor einen Anspruch gegen die Beklagte wegen sittenwidriger vorsätzlicher Schädigung aus §§ 826, 31 BGB. Für den Fall, dass der Anspruch verjährt sei, ergäbe sich ein Schadensersatzanspruch jedenfalls aus § 852 BGB. Zudem habe die Klägerin auch wegen des Software-Updates einen Schadensersatzanspruch aus §§ 826, 31 BGB. Der Schaden der Klägerin bestehe in dem Abschluss des nachteiligen und ungewollten Kaufvertrages. Die Klägerin habe nicht nur Anspruch auf Schadensersatz abzüglich gezogener Nutzungen, sondern auch auf Freihaltung von vorgerichtlichen Rechtsanwaltskosten.Die Klägerseite beantragt daher,1. die Beklagte zu verurteilen, an die Klagepartei Schadenersatz in Höhe von 24.694,65 € abzüglich weiterer 0,15 € pro Kilometer über ein Kilometerstand von 80.805 km nebst Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 30.1.2020 zu zahlen, Zug um Zug gegen Übereignung und Übergabe des Fahrzeugs VW Tiguan mit der FIN WVGZCZ5NZEW54...;2. festzustellen, dass der in dem Antrag zu 1 bezeichnete Anspruch aus einer vorsätzlichen unerlaubten Handlung der Beklagten herrührt;3. die Beklagte zu verurteilen, die Klägerin von den durch die Beauftragung der Prozessbevollmächtigten der Klägerin entstandenen Kosten der außergerichtlichen Rechtsverfolgung in Höhe von 2.256,24 € freizustellen (Schriftsatz vom 11.5.2021, Bl. 236 d. A.).Die Beklagtenseite beantragt,die Klage abzuweisen.Die Beklagtenseite bestreitet, dass beim Kaufvertrag irgendwelche Angaben zum Schadstoffausstoß gemacht wurden und die Klägerin ihre Kaufentscheidung darauf gestützt habe. Sie hat weiter vorgetragen, die von dem Rückruf betroffenen Fahrzeuge seien technisch überarbeitet, das von der Beklagten erarbeitete Software-Update habe keine negativen Auswirkungen auf irgendwelche Bauteile des Fahrzeugs und die betroffenen Fahrzeuge würden auch keinen Wertverlust erleiden. Die Beklagtenseite hat weiter vorgetragen, die von der Beklagten eingeleiteten Ermittlungen zur etwaigen Kenntnis der Vorstandsmitglieder der Beklagten von der Verwendung der "Umschaltlogik" seien noch nicht abgeschlossen. Nach derzeitigen Erkenntnissen habe der Vorstand davon nichts gewusst. Es sei davon auszugehen, dass Mitarbeiter auf "Arbeitsebene" die Umschaltlogik programmiert hätten.Die Beklagtenseite ist der Auffassung, aus diesen Gründen habe die Klägerin wegen der ursprünglichen "Umschaltlogik" keinen Anspruch auf Schadensersatz aus §§ 826, 31 BGB. Im Übrigen sei der Anspruch verjährt. § 852 BGB finde u. a. bei Gebrauchtwagenkäufen keine Anwendung. Auch wegen des Updates bestünden keine Schadensersatzansprüche, da der Klägerin kein Schaden entstanden sei. Hilfsweise vertritt die Beklagtenseite die Auffassung, es sei jedenfalls ein Nutzungsersatz bei der Rückabwicklung in Abzug zu bringen und die Klägerin habe keinen Anspruch auf Freihaltung von außergerichtlichen Rechtsanwaltskosten. 
+				Gründe
+				I.Die Klage ist zulässig. Das Landgericht Itzehoe ist sachlich gemäß §§ 23, 71 GVG zuständig und örtlich gemäß § 32 ZPO. Die Klägerin hat das Fahrzeug im Bezirk des angerufenen Gerichts gekauft. Das für den Klagantrag zu 2 gemäß § 256 ZPO erforderliche Feststellungsinteresse ist gegeben, da Forderungen, die aus einer vorsätzlich begangenen unerlaubten Handlung herrühren, im Falle der Insolvenz des Schuldners gegenüber anderen Ansprüchen privilegiert sind.II.Die Klage ist jedoch unbegründet. Die Klägerin hat gegen die Beklagte keinen Anspruch auf Schadensersatz aus §§ 826, 31 BGB. Denn es fehlt an der zentralen Voraussetzung eines Schadensersatzanspruchs: einem Schaden (siehe dazu unten unter Ziffer II.2).1) Zwar ist das Verhalten der Beklagten bei der Entwicklung und dem Inverkehrbringen der Motoren vom Typ EA 189 mit der unzulässigen Abschaltvorrichtung grundsätzlich als sittenwidrige Handlung im Sinne des § 826 BGB anzusehen. Zur Begründung wird auf das Urteil des Bundesgerichtshofs zum "Abgasskandal" vom 25.5.2020 (Az. VI ZR 252/19, NJW 2020, 1962) Bezug genommen. Dort hat der BGH unter anderem ausgeführt, dass das Verhalten der Beklagten bei der Entwicklung und dem Vertrieb der Motoren vom Typ EA 189 objektiv als sittenwidrig zu qualifizieren sei. Die Beklagte habe auf der Grundlage einer für ihren Konzern getroffenen, grundlegenden strategischen Entscheidung bei der Motorenentwicklung im eigenen Kosten- und Gewinninteresse gehandelt. Sie habe durch bewusste und gewollte Täuschung des Kraftfahrtbundesamtes systematisch, langjährig und - in Bezug auf den Dieselmotor der Baureihe EA 189 - in siebenstelligen Stückzahlen in Deutschland Fahrzeuge in Verkehr gebracht, deren Motorsteuerungssoftware bewusst so programmiert war, dass die gesetzlichen Abgasgrenzwerte nur auf dem Prüfstand eingehalten wurden, und zwar mittels einer unzulässigen Abschalteinrichtung. Damit ging einerseits eine erhöhte Belastung der Umwelt mit Stickoxiden einher und andererseits die Gefahr, dass bei einer Aufdeckung dieses Sachverhalts eine Betriebsbeschränkung oder -untersagung der betroffenen Fahrzeuge erfolgen könnte. Ein solches Verhalten ist nach der Entscheidung des BGH im Verhältnis zu einer Person, die eines der betroffenen Fahrzeuge in Unkenntnis der illegalen Abschalteinrichtung erwirbt, besonders verwerflich und mit den grundlegenden Wertungen der Rechts- und Sittenordnung nicht zu vereinbaren. Das gilt auch, wenn es sich um den Erwerb eines Gebrauchtfahrzeugs handelt. Die Sittenwidrigkeit ergibt sich aus einer Gesamtschau des festgestellten Verhaltens der Beklagten unter Berücksichtigung des verfolgten Ziels, der eingesetzten Mittel, der zutage getretenen Gesinnung und der eingetretenen Folgen (für alles: BGH a. a. O., juris-Fundstelle Rn. 15-16).Weiter hat der BGH in seiner Entscheidung angenommen, dass der Käufer eines Fahrzeugs die Einhaltung der gesetzlichen Vorgaben, also auch der Abgasvorschriften, arglos als selbstverständlich voraussetze (BGH, a. a. O., juris-Fundstelle Rn. 25). Auf die Frage, inwieweit dies vor dem Abschluss des Kaufvertrages thematisiert wurde, kommt es somit nicht an.Der BGH geht auch davon aus, dass die grundlegende strategische Entscheidung für die Entwicklung und Verwendung der unzulässigen Software von den bei der Beklagten für die Motorenentwicklung verantwortlichen Personen getroffen und umgesetzt wurde, namentlich dem vormaligen Leiter der Entwicklungsabteilung und den für die Forschungs- und Entwicklungsaktivitäten verantwortlichen vormaligen Vorständen - wenn nicht selbst, so zumindest mit ihrer Kenntnis und Billigung. Dieses Verhalten ist der Beklagten auch gem. § 31 BGB zuzurechnen: Es ist davon auszugehen, dass der vormalige Leiter der Entwicklungsabteilung der Beklagten im Jahr 2011 Kenntnis von den Praktiken in Bezug auf die unzulässige Abschalteinrichtung erlangt und diese im Bewusstsein der Täuschung über die Zulassungsfähigkeit der Fahrzeuge gebilligt hat (BGH a. a. O., juris-Fundstelle Rn. 30). Weiter hat diese Person auch als verfassungsmäßig berufener Vertreter der Beklagten im Sinne von § 31 BGB gehandelt: Der Leiter der Entwicklungsabteilung eines großen, weltweit tätigen Automobilherstellers wie der Beklagten hat eine für dessen Kerngeschäft verantwortliche, in besonderer Weise herausgehobene Position als Führungskraft inne. Daraus folgt unmittelbar, dass ihm bedeutsame, wesensmäßige Funktionen des Unternehmens zur selbständigen, eigenverantwortlichen Erfüllung zugewiesen sind, er also das Unternehmen auf diese Weise repräsentiert (BGH, a. a. O., juris-Fundstelle Rn. 33).Nach den Prüfungsmaßstäben des BGH ist weiter davon auszugehen, dass auch die hiesige Klägerin den Kaufvertrag in Kenntnis der illegalen Abschalteinrichtung nicht abgeschlossen hätte. Denn dies ergibt sich aus der allgemein Lebenserfahrung, wonach auszuschließen ist, dass ein Käufer ein Fahrzeug erwirbt, dem eine Betriebseinschränkung oder -untersagung droht und bei dem das Kraftfahrtbundesamt einen Rückruf anordnen wird (siehe hierzu im einzelnen wieder BGH a. a. O., juris -Fundstelle Rn. 49-55).2) Es fehlt jedoch an einem Schaden der Klägerin.Ein Schaden ist "jede Einbuße, die jemand infolge eines bestimmten Ereignisses an seinen Lebensgütern, wie Gesundheit, Eigentum oder Vermögen erleidet" (Grüneberg in: Palandt, BGB, 79. Auflage, Vorbemerkung vor § 249 BGB Rn. 9). Ausgangspunkt für die rechtliche Beurteilung ist die sogenannte Differenzhypothese. Hiernach ist der Schaden durch den Vergleich zweier Lagen zu ermitteln: der Lage, wie sie tatsächlich durch das mutmaßliche Schadensereignis geschaffen wurde, und der gedachten Lage ohne dieses Ereignis. Ein Vermögensschaden ist dann gegeben, wenn der jetzige tatsächliche Wert des Vermögens geringer ist als der Wert, den das Vermögen ohne das Ereignis haben würde, welches die Ersatzpflicht begründen soll (Grüneberg a. a. O. Rn. 10, mit Verweis auf BGH NJW 2011,1962).Zwar besteht der Schaden des Käufers in den Fällen, in denen er ein mit der Manipulationssoftware ausgestattetes Fahrzeug erworben hat, grundsätzlich im Abschluss des ungewollten Kaufvertrages über das mit einem Mangel behaftete Fahrzeug (BGH, Urteil vom 25.5.2020, Az. VI ZR 225/19, 3. Leitsatz, juris-Fundstelle Rn. 48ff.).Vorliegend hat die Klägerin das streitgegenständliche Fahrzeug im September 2020 jedoch wieder verkauft. Sie hat dafür einen Erlös von 12.590 € erzielt.Kann der Käufer des mit einer illegalen Abschaltvorrichtung versehenen Fahrzeugs dieses zunächst ungehindert nutzen und sodann ohne Abzug eines Minderwertes weiterveräußern, hat er nach der o. g. Differenzhypothese keinen Schaden erlitten (OLG Celle, Urteil vom 4.12.2019, Az. 7 U 434/18, 1. Leitsatz, NJW-RR 2020, 87, juris-Fundstelle Rn. 10f.). Folglich steht ihm kein Schadensersatzanspruch zu. Die Klägerin hat das Fahrzeug zunächst gut sechs Jahre lang genutzt und dann weiterverkauft und dafür 12.590 € erhalten. Die Klägerseite hat nicht vorgetragen, dass die Klägerin dabei irgendwelche finanziellen Einbußen erlitten habe. Insbesondere ist nicht vorgetragen, dass sie nur einen geringen Weiterverkaufserlös erzielt habe, weil das Fahrzeug vom "Abgasskandal" betroffen ist o. ä.Im Fall der Weiterveräußerung eines mit der Manipulationssoftware versehenen Fahrzeugs kann der Schaden in einem konkreten Mindererlös gegenüber einem normalerweise zu erwartenden Verkaufserlös liegen (OLG Schleswig, Urteil vom 22.11.2019, Az. 17 U 70/19, SchlHA 12/2019, 481). Nach der Rspr. des OLG Schleswig wäre es "unangemessen [...], trotz Veräußerung des Fahrzeugs ohne Mindererlös im Nachhinein die Rückzahlung des kompletten Kaufpreises unter Abzug gezogener Nutzungen bei Anrechnung des Verkaufserlöses nur deshalb vorzunehmen, weil sich dieser Weg später als wirtschaftlich interessanter erweist. Denn die mit dem ungewollten Erwerb einhergehende Zweckverfehlung des Erwerbsvorgangs begründet ebenso die Haftung, wie sie diese auch begrenzen muss. Alles andere wäre nicht mehr Schadenskompensation, sondern Überkompensation, für die es keine Rechtfertigung gibt. Durch die Entscheidung zur Veräußerung und deren Durchführung hat [...] der Kläger sich des ungewollten Erwerbs ohne weitere Nachteile entledigen können" (OLG Schleswig a. a. O., 482). Diese Ansicht, wonach die Zweckverfehlung nicht grenzenlos fortbesteht, sondern die Haftung auch wieder entfallen lassen kann, ist überzeugend. Der Schaden, der im Abschluss des so nicht gewollten Vertrages lag, entfällt, wenn der Käufer sich des Vertrages ohne irgendwelche Einbußen wieder entledigen kann.Da auch die hiesige Klägerin sich des - nach dem Klägervortrag ungewollt erworbenen - Fahrzeugs ohne jegliche Nachteile wieder entledigen konnte, ist der Klagantrag zu 1 abzuweisen.3) Im Übrigen wäre ein Anspruch wegen der ursprünglichen Funktionsweise der Abschaltvorrichtung verjährt. Denn nach der Rspr. des BGH begann die Verjährung mit Ablauf des 31.12.2015 (Urteil vom 17.12.2020, Az. VI ZR 739/20, Leitsatz, veröffentlicht in juris) und endete gem. §§ 195, 199 BGB mit Ablauf des 31.12.2018. Die Klage wurde erst im Dezember 2020 und damit nach Ablauf der Verjährungsfrist erhoben. Verjährungshemmende Umstände wie bspw. die Anmeldung zur Musterfeststellungsklage gegen die Beklagte sind nicht ersichtlich.4) Ein Anspruch auf Herausgabe gemäß § 852 BGB würde vorliegend ebenfalls ausscheiden. Hiernach ist derjenige, der durch eine unerlaubte Handlung etwas erlangt hat, auch nach dem Eintritt der Verjährung zur Herausgabe des durch die unerlaubte Handlung Erlangten verpflichtet. Denn ein Käufer, der das Fahrzeug als Gebrauchtwagen erworben hat, hat nach Verjährung des Anspruchs aus § 826 BGB keinen Anspruch aus § 852 S. 1 BGB (OLG Stuttgart, Urteil vom 2.2.2021, Az. 10 U2 129/20, 2. Leitsatz, veröffentlicht in juris). Dem Anspruch aus § 852 BGB steht dann entgegen, dass das Fahrzeug nicht von der Beklagten erworben wurde und auch nicht als Neuwagen von einem Vertragshändler der Beklagten, sondern als Gebrauchtwagen. Die Beklagte hat in diesen Fällen, anders als beim Kauf eines Neuwagens, nichts auf Kosten des Käufers erlangt (OLG Stuttgart a. a. O., juris-Fundstelle Rn. 59).5) Ob das Software-Update einen eigenständigen Schadensersatzanspruch begründen kann, ist in der Rspr. noch nicht abschließend geklärt. Diese Frage kann vorliegend jedoch offenbleiben, weil der Klägerin wegen des Weiterverkaufs des Fahrzeugs, wie ausgeführt, kein Schaden entstanden ist.6) Da kein Schadensersatzanspruch gegen die Beklagte besteht, ist der Feststellungsantrag zu 2 ebenfalls abzuweisen. Mangels Anspruchs in der Hauptsache besteht schließlich auch kein Anspruch auf Freihaltung von vorgerichtlichen Rechtsverfolgungskosten, sodass der Klagantrag zu 3 ebenfalls unbegründet ist.III.Die Kostenentscheidung folgt aus § 91 Abs. 1 ZPO, die Entscheidung über die vorläufige Vollstreckbarkeit aus § 709 Satz 1 ZPO.
+			
+			
+			
+			Permalink: https://openjur.de/u/2347053.html (https://oj.is/2347053)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate4
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')

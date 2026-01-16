@@ -1,0 +1,138 @@
+Rechtsprechung
+						Aktuell
+							Trending
+							
+							Filter
+							Rechtsgebiet
+							Gerichtsbarkeit
+							Bundesland
+							Gericht
+						  
+					
+						Informationen
+						Über openJur
+              Hilfe
+              Urschrift des Grundgesetzes
+              Fachzeitschriften
+							Abkürzungen
+							
+							Spenden
+							API
+							Changelog
+							Datenschutz
+							Nutzungsbedingungen
+              Impressum
+						  
+				
+					
+						Suchen!
+					
+        		
+			
+		
+    StartseiteHessenOrdentliche GerichtsbarkeitLG HanauRechtsprechungUrteil vom 27.10.2020 - 2 O 486/20
+        
+            
+              
+                
+                  Zitierung
+                  
+                
+                
+                  Einfach
+                      LG Hanau, Urteil vom 27.10.2020 - 2 O 486/20
+                      m. Fundstelle
+                      LG Hanau, Urteil vom 27.10.2020 - 2 O 486/20 = openJur 2022, 418
+                  BibTeX
+                    RIS
+                    JSON
+                  
+              
+            
+          
+		
+			
+    				
+      				LG Hanau, Urteil vom 27.10.2020 - 2 O 486/20
+    				
+  			
+			
+
+				
+					Fundstelle
+					openJur 2022, 418
+					
+                            
+                                Rechtskraft: 
+                            
+                            
+                                
+                                  Optionen
+                                
+                                 Zitierung
+                                   Versionen
+                                
+					
+				
+
+
+			
+			
+			
+			
+				 
+				
+				Tenor
+				Die Klage wird abgewiesen.Die Klägerin hat die Kosten des Rechtsstreits zu tragen.Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 % des aus dem Urteil zu vollstreckenden Betrages vorläufig vollstreckbar. 
+				Tatbestand
+				Der Kläger begehrt nach dem Kauf eines gebrauchten - vom sog. "Dieselskandal" betroffenen - PKW`s Schadensersatz von der Beklagten als Konzernmutter der Herstellerin des Fahrzeugs.Am 06.07.2015 erwarb der Kläger von der XXX in XXX den gebrauchten XXX mit der Fahrzeugidentifikationsnummer XXX, Kilometerstand: 26.086 km, zum Preis von 26.000,00 EUR.Der Kilometerstand zum Schluss der mündlichen Verhandlung betrug 127.159 km.Das Fahrzeug ist mit einem Dieselmotor des Typs XXX ausgestattet, der von der Beklagten entwickelt wurde.Für das Fahrzeug war die nach der VO (EG) Nr. 715/2007 erforderliche Typgenehmigung ausgestellt worden. Die Herstellerin des Fahrzeugs hatte auch die EG-Übereinstimmungsbescheinigung für das Fahrzeug des Klägers erteilt.Der PKW war mit einer Motorsteuerungssoftware versehen, die erkennt, wenn das Fahrzeug den sog. Neuen Europäischen Fahrzyklus (NEFZ) durchläuft, in dem die Emissionstests zur Erlangung der Typgenehmigung durchgeführt werden. Die Software geht dann von dem für den normalen Straßenverkehr vorgesehenen Abgasrückführungs-Modus 0 in den Abgasführungs-Modus 1 über, in dem der Ausstoß von NOx (Stickoxid) durch eine höhere Abgasrückführungsrate optimiert wird.Am XXX, gab die Beklagte eine Ad-hoc-Mitteilung nach § 15 WpHG sowie eine gleichlautende Presseerklärung heraus, die auszugsweise wie folgt lauten:"XXX treibt die Aufklärung von Unregelmäßigkeiten einer verwendeten Software bei Diesel-Motoren mit Hochdruck voran ... Auffällig sind Fahrzeuge mit Motoren vom Typ XXX mit einem Gesamtvolumen von weltweit rund elf Millionen Fahrzeugen. Ausschließlich bei diesem Motortyp wurde eine auffällige Abweichung zwischen Prüfstandswerten und realem Fahrbetrieb festgestellt. XXX arbeitet mit Hochdruck daran, diese Abweichungen mit technischen Maßnahmen zu beseitigen. Das Unternehmen steht dazu derzeit in Kontakt mit den zuständigen Behörden und dem Deutschen Kraftfahrtbundesamt."Mit Bescheid vom 15.10.2015 ordnete das Kraftfahrt-Bundesamt unter der Annahme, dass es sich bei der Motorsteuerungssoftware um eine unzulässige Abschalteinrichtung handele, nachträglich mehrere Nebenbestimmungen zu der erteilten EG-Typgenehmigung an. Der Beklagten wurde auferlegt, die Software aus allen Fahrzeugen zu entfernen und geeignete Maßnahmen zur Wiederherstellung der Vorschriftsmäßigkeit zu ergreifen und dies durch entsprechende Nachweise zu belegen.Zum Zwecke der Erfüllung der Auflagen entwickelte die Beklagte ein Software-Update, das vom Kraftfahrtbundesamt freigegeben wurde.Die Eigentümer betroffener Fahrzeuge haben seitdem die Möglichkeit, das Software-Update kostenfrei aufspielen zu lassen.Mit anwaltlichem Schreiben vom 02.04.2020 machte der Kläger gegenüber der Beklagten unter Fristsetzung zum 16.04.2020 erfolglos Ansprüche geltend, weil sein Fahrzeug von dem sog. Abgasskandal betroffen sei.Der Kläger meint, von der Beklagten aus verschiedenen rechtlichen Erwägungen Schadensersatz verlangen zu können.Der Kläger beantragt - nach mit Zustimmung der Beklagten erfolgter Teilklagerücknahme hinsichtlich ursprünglich geltend gemachter Deliktszinsen (§ 849 BGB) und hinsichtlich des ursprünglich ebenfalls geltend gemachten Feststellungsantrags (Annahmeverzug) - zuletzt,1. die Beklagte zu verurteilen, an ihn 26.729,59 EUR abzüglich einer Nutzungsentschädigung in Höhe von 9.593,87 EUR zuzüglich Zinsen in Höhe von 5 Prozentpunkten über dem jeweiligen Basiszinssatz ab Rechtshängigkeit zu zahlen, Zug um Zug gegen Übergabe des Fahrzeuges XXX mit der Fahrzeugidentifikationsnummer XXX;2. die Beklagte weiter zu verurteilen, ihn von vorgerichtlichen Rechtsanwaltskosten in Höhe von 1.358,86 EUR gegenüber der XXX freizustellen.Die Beklagte beantragt,die Klage abzuweisen.Die Beklagte meint, dem Kläger unter keinem rechtlichen Gesichtspunkt zum Schadenersatz verpflichtet zu sein. Sie erhebt die Einrede der Verjährung.Wegen der Einzelheiten des Parteivorbringens wird auf die zwischen den Parteien gewechselten Schriftsätze nebst deren Anlagen sowie das Sitzungsprotokoll Bezug genommen. 
+				Gründe
+				Die Klage ist nicht begründet.Den geltend gemachten Ansprüchen des Klägers aus den §§ 826, 31 BGB; 823 Abs. 2 BGB, 263 StGB und aus § 823 Abs. 2 BGB i.V.m. §§ 6 Abs. 1, 27 Abs. 1 EG-FGV oder Art. 5 VO 715/2007/EG steht gemäß § 214 Abs. 1 BGB die von der Beklagten erhobene Einrede der Verjährung entgegen. Mögliche Ansprüche des Klägers sind daher nicht mehr durchsetzbar.Im Verhältnis der Parteien kommen lediglich deliktische Ansprüche in Betracht, da ein Vertragsverhältnis nicht besteht. Die Verjährungsregelung des § 852 BGB ist nicht einschlägig. Die Ansprüche aus §§ 826 und 823 BGB unterliegen vielmehr der regelmäßigen 3-jährigen Verjährungsfrist des § 195 BGB, die wiederum gemäß § 199 Abs. 1 BGB mit dem Schluss des Jahres beginnt, in dem (1) der Anspruch entstanden ist und (2) der Gläubiger von den den Anspruch begründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen musste.Der auf Rückabwicklung des Kaufvertrages gerichtete Schadensersatzanspruch entstand im Zeitpunkt des Vertragsschlusses im Juli 2015 (§ 199 Abs. 1 Nr. 1 BGB). Bei deliktsrechtlichen Ansprüchen, die auf einen täuschungsbedingten Vertragsabschluss beruhen, besteht der Schaden unmittelbar aus der Eingehung der ungewollten Verbindlichkeit (ständige Rechtsprechung des BGH, Urteil vom 28. Oktober 2014, VI ZR 15/10, Rz. 19 m.w.N.). Dementsprechend ist in der obergerichtlichen Rechtsprechung zum sogenannten Abgasskandal anerkannt, dass der Schaden eines PKW-Käufers bereits im Abschluss des Kaufvertrages über ein mit der Manipulationssoftware ausgerüstetes Fahrzeug liegt (OLG Frankfurt am Main, Beschluss vom 16. April 2020 - Az. 19 U 312/19 m.w.N.).Auch die subjektiven Voraussetzungen des Verjährungsbeginns gemäß § 199 Abs. 1 Nr. 2 BGB in Form der Kenntnis oder grob fahrlässigen Unkenntnis von den anspruchsbegründenden Umständen und der Person des Schuldners, hier der Beklagten, sind erfüllt.Mit der Rechtsprechung des Oberlandesgerichts Frankfurt (Beschlüsse vom 16. April 2020 und 28. Mai 2020 - 19 U 312/19; vgl. auch OLG München, Beschluss vom 14.8.2020 -3 U 3018/20; Beschluss vom 10.3.2020 - 3 U 7392/19; OLG Oldenburg, Urteil vom 6.2.2020, NJW-RR 2020,666; OLG Koblenz, Urteil vom 30.6.2020 - 3 U 1785/19, BeckRS 2020, 15299; OLG Köln, Beschluss vom 4.3.2020 - 26 U 73/19, BeckRS 2020,4947) ist regelmäßig davon auszugehen, dass der individuelle Verjährungsbeginn mit dem Zeitpunkt der Veröffentlichung des Dieselskandals ab September 2015 übereinstimmt, da ab diesem Zeitpunkt jedenfalls von grobfahrlässiger Unkenntnis der betroffenen Kunden im Sinne des§ 199 Abs. 1 Nr. 2 BGB auszugehen ist.Darauf, wann der Kläger von der Betroffenheit seines Fahrzeuges erfahren haben will, kommt es deshalb nicht an. Allerdings ist es für das Gericht nicht nachvollziehbar und glaubhaft, wenn er erst von dem Dieselskandal überhaupt und der Betroffenheit seines Fahrzeuges erst später Kenntnis erlangt haben will.Die Beklagte hat am XXX die Öffentlichkeit durch die Pressemitteilung darüber informiert, dass in Fahrzeugen ihres Konzerns mit einem XXX Dieselmotor eine Software eingebaut ist, die eine auffällige Abweichung der Abgaswerte zwischen Prüfstands- und realem Fahrbetrieb aufweise. Es ist gerichts- und allgemein bekannt, dass sich hieran anschließend noch im September 2015 eine in allen Medien geführte Diskussion über den Einsatz manipulierter Dieselmotoren durch die Beklagte in deren Konzern, über die Betroffenheit deutscher Verbraucher und auch über die Verantwortung maßgeblicher Vertreter der Beklagten entwickelt hat. Anfang Oktober 2015 schaltete die Beklagte zudem eine Internetseite frei, auf der jedermann durch Eingabe der Fahrzeugidentifikationsnummer überprüfen konnte, ob sein Fahrzeug mit der Umschaltlogik ausgestattet war. Auch durch die Pressemitteilung des Kraftfahrt-Bundesamtes vom 16.10.2015 wurden die Eigentümer der betroffenen Fahrzeuge darüber informiert, dass das Bundesamt den Rückruf von 2,4 Millionen XX Markenfahrzeugen angeordnet hatte, um die unzulässige Abschalteinrichtung zu beseitigen.Wenn der Kläger danach im letzten Quartal des Jahres 2015 hinreichende Kenntnis von der durch die Beklagte begangenen bewussten Manipulation von Dieselmotoren und der dadurch begründeten Gefahr einer Betriebsstilllegung der betroffenen Fahrzeuge hatte, oblag es ihm, die Betroffenheit seines eigenen Fahrzeugs durch Eingabe der Fahrzeugidentifikationsnummer auf der von der Beklagten eingerichteten Website zu verifizieren.Auch ist von grobfahrlässiger Unkenntnis des Klägers bezüglich der Person des Haftungsschuldners auszugehen. Daran ändert der Umstand nichts, dass auch heute nicht feststeht, wer genau auf der Leitungsebene der Beklagten über die Entwicklung und den Einsatz der Abschalteinrichtung entschieden hat. Dass die Haftung die Herstellerin, die Beklagte, treffen musste, hat sich dagegen aufgedrängt.Gründe für die Hemmung des Laufs der Verjährungsfrist sind nicht vorgetragen worden.Anzumerken ist, dass der vorliegende Rechtsstreit erst im Laufe des Jahres 2020 anhängig gemacht worden ist, so dass selbst bei Unterstellung einer Kenntniserlangung im Jahre 2016 bzw. einer erst im Laufe des Jahres 2016 anzunehmenden grob fahrlässigen Unkenntnis Verjährung eingetreten ist.Soweit der Kläger behauptet, dass auch das von der Beklagten angebotene Software-Update eine unzulässige Abschalteinrichtung beinhalte, kann er damit ebenfalls nicht durchdringen. Ungeachtet der Frage der Verjährung fehlt es insoweit bereits an einem hinreichend konkreten Vorbringen. Darüber hinaus vermag der bloße Vorwurf der Verwendung eines nicht mehr zulässigen bzw. unzulässigen Thermofensters - angesichts der komplexen technischen Wertungsfragen - von vornherein nicht die Voraussetzungen einer deliktischen Haftung zu begründen. Selbst wenn man einmal unterstellen würde, dass in dem streitgegenständlichen Fahrzeug aufgrund eines Thermofensters eine objektiv unzulässige Abschalteinrichtung verbaut wäre, lägen daher die Voraussetzungen einer unerlaubten Handlung, insbesondere die Voraussetzungen des § 826 BGB, gleichwohl nicht vor. Im Hinblick auf die Funktionsweisen eines Thermofensters sind die Regelungen in Art. 5 Abs. 2 der Verordnung (EG) 715/2007 jedenfalls keineswegs so eindeutig und unzweifelhaft formuliert, dass sich die Verwendung einer temperaturabhängigen oder sonst variablen Abgasrückführung eindeutig als unzulässig darstellen müsste. Es lässt sich daher nicht ohne weiteres feststellen, dass die Verantwortlichen der Beklagten in dem Bewusstsein gehandelt haben, eine unzulässige Abschalteinrichtung zu verwenden und auf dieser Grundlage die Typgenehmigungsbehörde und letztlich auch die Käufer zu täuschen (vgl. OLG Koblenz, Urteil vom 21. Oktober 2019 — 12 U 346/19, Rn. 48 bei juris; OLG Stuttgart, Urteil vom 30. Juli 2019 — 10 U 134/19 Rn. 90 bei juris).Mangels zuzuerkennender Hauptforderung hat der Kläger auch keinen Anspruch gegen die Beklagte auf Zahlung der bzw. Freistellung von den geltend gemachten Nebenforderungen.Die Kostenentscheidung hat ihre Grundlage in §§ 91 Abs. 1, 269 Abs. 3 ZPO.Der Ausspruch zur vorläufigen Vollstreckbarkeit beruht auf § 709 ZPO.Der Streitwert wird auf bis zu 35.000,00 EUR festgesetzt.Er setzt sich zusammen aus dem eingeklagten Betrag in Höhe von 26.729,59 EUR, zuzüglich der gemäß § 849 BGB auf den Kaufpreis begehrten Zinsen.
+			
+			
+			
+			Permalink: https://openjur.de/u/2382829.html (https://oj.is/2382829)
+			
+		
+		
+			
+				
+					 Volltext
+				
+				
+					 Druckansicht
+				
+				
+					 PDF Download
+				
+				
+					 Zitate3
+				
+				
+					 Zitiert0
+				
+
+				
+					 Referenzen0
+				
+
+				
+					 Schlagworte
+				
+			
+			 Problem melden
+		
+	
+
+
+
+	
+  
+	  Impressum
+		Datenschutz
+		Nutzungsbedingungen
+		English
+		
+		 openJur e.V.
+	    
+  window.jQuery || document.write('<script src="https://cdn.openjur.net/js/jquery.min.js"><\/script>')
