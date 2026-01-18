@@ -13,41 +13,42 @@ Geplant:
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 
+# Service importieren
+from backend.services.prediction_service import predict
+
 app = Flask(__name__)
 CORS(app)
 
 
 @app.get("/")
 def root():
-    return jsonify ({
-        "service": "ds-law-backend",
-        "status": "running", 
-        "endpoints":["/health", "/predict"]
-    })
+    return jsonify(
+        {
+            "service": "ds-law-backend",
+            "status": "running",
+            "endpoints": ["/health", "/predict", "/predict-file"],
+        }
+    )
+
 
 @app.get("/health")
 def health():
     return jsonify({"status": "ok"})
 
-def dummy_predict(text: str):
-    base = min(0.95, 0.55 + len(text) / 2000) if text else 0.78
-    return {
-        "klasse": "Schadensersatz",
-        "entscheidung": "ja",
-        "betrag_eur": 23542.23,
-        "confidence": round(base, 2),
-        "meta": {"mode": "dummy", "chars": len(text)}
-    }
 
 @app.post("/predict")
-def predict():
+def predict_text():
     data = request.get_json(silent=True) or {}
     text = (data.get("text") or "").strip()
 
-    if len(text) < 10:
-        return jsonify({"error": "Bitte sende mindestens 10 Zeichen Text."}), 400
+    try:
+        result = predict(text, source="text")
+        return jsonify(result)
+    except ValueError as e:
+        return jsonify({"error": str(e)}), 400
+    except Exception:
+        return jsonify({"error": "Interner Serverfehler"}), 500
 
-    return jsonify(dummy_predict(text))
 
 @app.post("/predict-file")
 def predict_file():
@@ -56,21 +57,31 @@ def predict_file():
         return jsonify({"error": "Keine Datei gefunden (Feldname muss 'file' sein)."}), 400
 
     f = request.files["file"]
+    if not f.filename:
+        return jsonify({"error": "Dateiname fehlt."}), 400
+
+    # nur TXT (wie du wolltest)
     if not f.filename.lower().endswith(".txt"):
         return jsonify({"error": "Bitte nur .txt Dateien hochladen."}), 400
 
     raw = f.read()
-    # TXT: meistens UTF-8, sonst fallback
+
+    # TXT: meist UTF-8, sonst fallback
     try:
         text = raw.decode("utf-8")
     except UnicodeDecodeError:
         text = raw.decode("latin-1")
 
     text = text.strip()
-    if len(text) < 10:
-        return jsonify({"error": "TXT-Datei enthält zu wenig Text."}), 400
 
-    return jsonify(dummy_predict(text))
+    try:
+        result = predict(text, source="file", file_name=f.filename)
+        return jsonify(result)
+    except ValueError as e:
+        return jsonify({"error": str(e)}), 400
+    except Exception:
+        return jsonify({"error": "Interner Serverfehler"}), 500
+
 
 if __name__ == "__main__":
     app.run(host="127.0.0.1", port=5000, debug=True)
