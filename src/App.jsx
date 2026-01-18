@@ -21,7 +21,6 @@ export default function App() {
             <Route path="/history/:id" element={<AnalysisDetail />} />
             <Route path="*" element={<Navigate to="/" replace />} />
             <Route path="/about" element={<About />} />
-
           </Routes>
         </div>
       </main>

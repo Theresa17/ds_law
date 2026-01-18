@@ -2,25 +2,17 @@ import { useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { addAnalysis } from "../lib/storage";
 
-function fakePredict({ mode, fileName, text }) {
-  // Dummy: später ersetzt ihr das durch Backend
-  const base = text?.length ? Math.min(0.95, 0.55 + text.length / 2000) : 0.78;
-  return {
-    klasse: "Schadensersatz",
-    entscheidung: "ja",
-    betrag_eur: 23542.23,
-    confidence: Number(base.toFixed(2)),
-    meta: { eingabe: mode === "file" ? "Datei" : "Text", fileName: fileName || null }
-  };
-}
+const API_BASE = "http://127.0.0.1:5000";
 
 export default function Home() {
   const nav = useNavigate();
-  const [mode, setMode] = useState("file"); // file | text
-  const [file, setFile] = useState(null);
-  const [text, setText] = useState("");
+
+  const [mode, setMode] = useState("file"); // "file" | "text"
+  const [file, setFile] = useState(null); // .txt Datei
+  const [text, setText] = useState(""); // Text-Eingabe
+
   const [loading, setLoading] = useState(false);
-  const [result, setResult] = useState(null);
+  const [error, setError] = useState(null);
 
   const canAnalyze = useMemo(() => {
     if (mode === "file") return !!file;
@@ -28,40 +20,79 @@ export default function Home() {
   }, [mode, file, text]);
 
   async function onAnalyze() {
-    if (!canAnalyze) return;
-    setLoading(true);
-    setResult(null);
+    if (!canAnalyze || loading) return;
 
-    setTimeout(() => {
-      const res = fakePredict({
-        mode,
-        fileName: file?.name,
-        text: mode === "text" ? text.trim() : "",
-      });
+    setLoading(true);
+    setError(null);
+
+    try {
+      let data;
+
+      if (mode === "text") {
+        console.log("Sende TEXT an Backend:", text.trim().slice(0, 100));
+        const res = await fetch(`${API_BASE}/predict`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ text: text.trim() }),
+        });
+
+        const json = await res.json().catch(() => ({}));
+        console.log("Antwort von Backend (TEXT):", json);
+
+        if (!res.ok)
+          throw new Error(json.error || "Fehler bei der Analyse (Text).");
+        data = json;
+      } else {
+        // mode === "file" (TXT)
+        const fd = new FormData();
+        fd.append("file", file); // Feldname MUSS "file" heißen
+
+        console.log(
+          "Sende TXT-Datei an Backend:",
+          file?.name,
+          file?.size,
+          file?.type
+        );
+
+        const res = await fetch(`${API_BASE}/predict-file`, {
+          method: "POST",
+          body: fd,
+        });
+
+        const json = await res.json().catch(() => ({}));
+        console.log("Antwort von Backend (TXT-Datei):", json);
+        if (!res.ok)
+          throw new Error(json.error || "Fehler bei der Analyse (Datei).");
+        data = json;
+      }
 
       const id = crypto.randomUUID ? crypto.randomUUID() : String(Date.now());
+
       const item = {
         id,
         createdAt: new Date().toISOString(),
         inputType: mode,
-        fileName: file?.name || null,
+        fileName: mode === "file" ? file?.name || null : null,
         preview: mode === "text" ? text.trim().slice(0, 120) : null,
-        ...res,
+        ...data,
       };
 
       addAnalysis(item);
-      setResult(item);
-      setLoading(false);
 
-      // Optional: direkt zur Detailseite springen
+      // Direkt zu Analysedetails springen
       nav(`/history/${id}`);
-    }, 800);
+    } catch (e) {
+      console.error("Analyse-Fehler:", e);
+      setError(e?.message || "Unbekannter Fehler");
+    } finally {
+      setLoading(false);
+    }
   }
 
   function reset() {
     setFile(null);
     setText("");
-    setResult(null);
+    setError(null);
     setLoading(false);
   }
 
@@ -69,17 +100,26 @@ export default function Home() {
     <div className="card">
       <div className="card-inner">
         <h1 className="h1">Neue Analyse</h1>
-        <p className="p">Lade ein Urteil hoch oder füge Text ein. Die Analyse wird (vorerst) im Frontend simuliert.</p>
-
-        
+        <p className="p">
+          Lade eine <strong>.txt</strong>-Datei hoch oder füge Text ein. Die
+          Analyse wird über das Backend aufgerufen.
+        </p>
 
         <div className="spacer" />
 
         <div className="segmented">
-          <button className={`seg-btn ${mode === "file" ? "seg-active" : ""}`} onClick={() => setMode("file")} type="button">
+          <button
+            className={`seg-btn ${mode === "file" ? "seg-active" : ""}`}
+            onClick={() => setMode("file")}
+            type="button"
+          >
             Datei
           </button>
-          <button className={`seg-btn ${mode === "text" ? "seg-active" : ""}`} onClick={() => setMode("text")} type="button">
+          <button
+            className={`seg-btn ${mode === "text" ? "seg-active" : ""}`}
+            onClick={() => setMode("text")}
+            type="button"
+          >
             Text
           </button>
         </div>
@@ -88,16 +128,23 @@ export default function Home() {
 
         {mode === "file" ? (
           <div className="upload-box">
-            <div className="upload-title">Urteil hochladen</div>
-            <div className="upload-sub">Unterstützt: <strong>.pdf</strong>, <strong>.txt</strong></div>
+            <div className="upload-title">TXT hochladen</div>
+            <div className="upload-sub">
+              Unterstützt: <strong>.txt</strong>
+            </div>
 
             <div className="spacer" />
 
-            <input className="file" type="file" accept=".pdf,.txt" onChange={(e) => setFile(e.target.files?.[0] ?? null)} />
+            <input
+              className="file"
+              type="file"
+              accept=".txt"
+              onChange={(e) => setFile(e.target.files?.[0] ?? null)}
+            />
 
             {file && (
               <div className="file-info">
-                <span className="pill">Ausgewählt</span>
+                <span className="pill pill-strong">Ausgewählt</span>
                 <span className="mono">{file.name}</span>
               </div>
             )}
@@ -105,37 +152,52 @@ export default function Home() {
         ) : (
           <div className="text-input">
             <label className="label">Urteilstext</label>
-            <textarea className="textarea" value={text} onChange={(e) => setText(e.target.value)} placeholder="Text hier einfügen…" />
-            <div className="muted" style={{ marginTop: 8 }}>Mindestlänge: 30 • Aktuell: {text.trim().length}</div>
+            <textarea
+              className="textarea"
+              value={text}
+              onChange={(e) => setText(e.target.value)}
+              placeholder="Text hier einfügen…"
+            />
+            <div className="muted" style={{ marginTop: 8 }}>
+              Mindestlänge: 30 • Aktuell: {text.trim().length}
+            </div>
           </div>
         )}
 
         <div className="spacer" />
 
-        <div className="row">
-          <button className="btn" onClick={reset} type="button">Zurücksetzen</button>
-          <button className="btn btn-primary" onClick={onAnalyze} disabled={!canAnalyze || loading} type="button">
+        <div className="row row-center">
+          <button
+            className="btn"
+            onClick={reset}
+            type="button"
+            disabled={loading}
+          >
+            Zurücksetzen
+          </button>
+
+          <button
+            className="btn btn-primary"
+            onClick={onAnalyze}
+            disabled={!canAnalyze || loading}
+            type="button"
+            aria-disabled={!canAnalyze || loading}
+          >
             {loading ? "Analysiere…" : "Analysieren"}
           </button>
         </div>
 
-
-        {result && (
+        {error && (
           <>
             <div className="spacer" />
-            <div className="card">
-              <div className="card-inner">
-                <div className="result-head">
-                  <div className="result-title">Letztes Ergebnis</div>
-                  <span className="pill">Confidence: {Math.round(result.confidence * 100)}%</span>
-                </div>
-                <div className="result-grid">
-                  <div className="kv"><div className="k">Klassifikation</div><div className="v">{result.klasse}</div></div>
-                  <div className="kv"><div className="k">Entscheidung</div><div className="v">{result.entscheidung}</div></div>
-                  <div className="kv"><div className="k">Betrag</div><div className="v">{result.betrag_eur.toLocaleString("de-DE")} €</div></div>
-                  <div className="kv"><div className="k">Eingabe</div><div className="v">{result.inputType === "file" ? result.fileName : "Text"}</div></div>
-                </div>
-              </div>
+            <div
+              className="pill"
+              style={{
+                borderColor: "rgba(242,104,104,0.45)",
+                background: "rgba(242,104,104,0.12)",
+              }}
+            >
+              {error}
             </div>
           </>
         )}
@@ -143,4 +205,3 @@ export default function Home() {
     </div>
   );
 }
-
