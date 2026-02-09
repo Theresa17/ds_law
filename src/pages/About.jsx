@@ -6,11 +6,12 @@ export default function About() {
           <h1 className="h1">Über das Projekt</h1>
 
           <p className="p">
-            <strong>VerdictIQ</strong> ist eine Web-Applikation zur
-            automatisierten Analyse von Gerichtsurteilen. Ziel ist es,
-            juristische Texte strukturiert auszuwerten und eine erste
-            Einschätzung zu relevanten Fragestellungen (z.B. Schadensersatz
-            ja/nein) zu ermöglichen.
+            <strong>VerdictIQ</strong> ist ein Decision Support System zur
+            KI-gestützten Erfolgsprognose von Diesel-Klagen. Auf Basis
+            historischer Landgerichtsurteile bewertet das System neue
+            Fallbeschreibungen automatisiert und ermöglicht eine strukturierte
+            Vorprüfung des Anspruchsbestehens sowie der zu erwartenden
+            Schadensersatzhöhe (Range).
           </p>
 
           <div className="spacer" />

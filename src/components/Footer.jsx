@@ -10,7 +10,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-right">
-KI-gestützte Urteilsanalyse
+        Datengestützte Fallanalyse
         </div>
       </div>
     </footer>

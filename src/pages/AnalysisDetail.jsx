@@ -1,4 +1,4 @@
-import { useMemo } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import { getAnalysisById } from "../lib/storage";
 import { singleAnalysisCsv, downloadTextFile } from "../lib/csv";
@@ -6,6 +6,24 @@ import { singleAnalysisCsv, downloadTextFile } from "../lib/csv";
 export default function AnalysisDetail() {
   const { id } = useParams();
   const item = useMemo(() => getAnalysisById(id), [id]);
+  const [showConfidenceInfo, setShowConfidenceInfo] = useState(false);
+  const confidenceRef = useRef(null);
+
+  useEffect(() => {
+    if (!showConfidenceInfo) return undefined;
+    const onAnyClick = (e) => {
+      if (confidenceRef.current && confidenceRef.current.contains(e.target)) {
+        return;
+      }
+      setShowConfidenceInfo(false);
+    };
+    document.addEventListener("mousedown", onAnyClick, true);
+    document.addEventListener("contextmenu", onAnyClick, true);
+    return () => {
+      document.removeEventListener("mousedown", onAnyClick, true);
+      document.removeEventListener("contextmenu", onAnyClick, true);
+    };
+  }, [showConfidenceInfo]);
 
   if (!item) {
     return (
@@ -33,6 +51,43 @@ export default function AnalysisDetail() {
     if (k === "HIGH") return "> 20.000 €";
     if (k === "KEIN ANSPRUCH") return "Kein Anspruch";
     return "-";
+  })();
+
+  const explanation = (() => {
+    const mode = item?.meta?.mode;
+    if (mode === "rule") {
+      const sig = item?.meta?.rule_signals || {};
+      const parsed = item?.meta?.parsed || {};
+      const factors = [];
+      if (sig.kba) factors.push("KBA-Rückruf erwähnt");
+      if (sig.abschalt) factors.push("Abschalteinrichtung genannt");
+      if (sig.rechts) factors.push("§ 826/§ 31 BGB bzw. sittenwidrig erwähnt");
+      if (sig.hersteller) factors.push("Herstellerverantwortung genannt");
+      if (sig.claim) factors.push("Rückabwicklung/Schadensersatz gefordert");
+
+      let rangeReason = null;
+      if (item?.klasse && item.klasse !== "Kein Anspruch") {
+        if (parsed?.kaufpreis) {
+          rangeReason = `Schadenshöhe aus Kaufpreis (~${Math.round(parsed.kaufpreis)} EUR) und Nutzungsquote geschätzt.`;
+        } else {
+          rangeReason = "Schadenshöhe über die genannten Angaben geschätzt.";
+        }
+      }
+
+      const lines = [];
+      if (factors.length > 0) {
+        lines.push(`Anspruch aus folgenden Faktoren abgeleitet: ${factors.join(", ")}.`);
+      } else {
+        lines.push("Anspruch aus den erkannten Angaben abgeleitet.");
+      }
+      if (rangeReason) lines.push(rangeReason);
+      return lines;
+    }
+
+    return [
+      "Die Bewertung basiert auf einer Gewichtung aus Textmerkmalen und strukturierten Angaben.",
+      "Die Begründung ist indikativ und stellt keine juristische Würdigung dar.",
+    ];
   })();
 
   const formEntries = useMemo(() => {
@@ -128,7 +183,29 @@ export default function AnalysisDetail() {
             <div className="v">{rangeLabel}</div>
           </div>
           <div className="kv">
-            <div className="k">Confidence</div>
+            <div className="k">
+              Confidence
+              <span ref={confidenceRef} style={{ position: "relative" }}>
+                <button
+                  type="button"
+                  className="info-icon"
+                  aria-label="Definition von Confidence"
+                  aria-expanded={showConfidenceInfo}
+                  onClick={() => setShowConfidenceInfo((v) => !v)}
+                >
+                  i
+                </button>
+                {showConfidenceInfo && (
+                  <div className="info-popover">
+                    Confidence bezeichnet die modellinterne Sicherheit der
+                    Vorhersage. Sie gibt an, wie eindeutig das KI-Modell diesen
+                    Fall einer Klasse (z. B. LOW/MID/HIGH) zuordnet, basierend auf
+                    Mustern aus historischen Urteilen. Sie stellt keine rechtliche
+                    Erfolgswahrscheinlichkeit dar.
+                  </div>
+                )}
+              </span>
+            </div>
             <div className="v">{Math.round(item.confidence * 100)}%</div>
           </div>
           <div className="kv">
@@ -142,6 +219,39 @@ export default function AnalysisDetail() {
             </div>
           </div>
         </div>
+
+        {explanation && explanation.length > 0 && (
+          <>
+            <div className="spacer" />
+            <div
+              style={{
+                border: "1px solid rgba(255,255,255,0.12)",
+                background: "rgba(255,255,255,0.04)",
+                borderRadius: 14,
+                padding: "12px 16px",
+                maxWidth: 720,
+                margin: "0 auto",
+              }}
+            >
+              <div
+                style={{
+                  fontWeight: 600,
+                  marginBottom: 6,
+                  color: "rgba(255,255,255,0.92)",
+                }}
+              >
+                Begründung
+              </div>
+              <ul style={{ margin: 0, paddingLeft: 18 }}>
+                {explanation.map((line) => (
+                  <li key={line} className="muted" style={{ marginBottom: 4 }}>
+                    {line}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </>
+        )}
 
         {displayText && (item.inputType === "text" || item.inputType === "form") && (
           <>
