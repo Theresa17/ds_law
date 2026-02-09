@@ -6,6 +6,15 @@ function escapeCsv(value) {
   return /[",\n\r;]/.test(escaped) ? `"${escaped}"` : escaped;
 }
 
+function rangeLabelFromClass(klasse) {
+  const k = String(klasse || "").toUpperCase();
+  if (k === "LOW") return "< 10.000 €";
+  if (k === "MID") return "10.000–20.000 €";
+  if (k === "HIGH") return "> 20.000 €";
+  if (k === "KEIN ANSPRUCH") return "Kein Anspruch";
+  return "";
+}
+
 export function analysisToCsvRow(a) {
   const cols = [
     a.id,
@@ -14,7 +23,7 @@ export function analysisToCsvRow(a) {
     a.fileName ?? "",
     a.klasse ?? "",
     a.entscheidung ?? "",
-    a.betrag_eur ?? "",
+    rangeLabelFromClass(a.klasse),
     a.confidence ?? "",
     a.preview ?? "",
   ];
