@@ -16,7 +16,7 @@ export default function Header() {
 
           <div className="brand-title">
             <div>VerdictIQ</div>
-            <small>KI-gestützte Urteilsanalyse</small>
+            <small>Datengestützte Fallanalyse</small>
           </div>
         </div>
 

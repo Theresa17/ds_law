@@ -304,6 +304,44 @@ main.content{
   background: rgba(255,159,67,0.12);
 }
 
+.info-icon{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  margin-left: 6px;
+  border-radius: 50%;
+  border: 1px solid rgba(255,255,255,0.35);
+  color: rgba(255,255,255,0.8);
+  font-size: 11px;
+  line-height: 1;
+  cursor: help;
+  user-select: none;
+  background: transparent;
+  padding: 0;
+}
+
+.k{
+  position: relative;
+}
+
+.info-popover{
+  position: absolute;
+  top: 24px;
+  left: 0;
+  z-index: 10;
+  width: min(360px, 80vw);
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.16);
+  background: rgba(18,18,18,0.96);
+  color: rgba(255,255,255,0.9);
+  font-size: 12px;
+  line-height: 1.45;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+}
+
 .input,
 .select{
   width:100%;
