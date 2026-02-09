@@ -21,7 +21,7 @@ export default function Header() {
         </div>
 
         <nav className="nav">
-          <NavLink to="/" className={cls}>Home</NavLink>
+          <NavLink to="/" className={cls}>Analyse</NavLink>
           <NavLink to="/history" className={cls}>Verlauf</NavLink>
           <NavLink to="/about" className={cls}>Über uns</NavLink>
         </nav>

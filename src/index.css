@@ -253,6 +253,12 @@ main.content{
   letter-spacing: -0.4px;
 }
 
+.h2{
+  font-size: clamp(18px, 2.4vw, 24px);
+  margin: 8px 0 6px;
+  letter-spacing: -0.2px;
+}
+
 .p{
   margin: 0;
   color: var(--muted);
@@ -275,11 +281,153 @@ main.content{
   resize:vertical;
 }
 
+.input,
+.select{
+  width:100%;
+  padding: 10px 12px;
+  border-radius: var(--radius);
+  border: 1px solid rgba(255,255,255,0.14);
+  background: linear-gradient(180deg, rgba(255,255,255,0.06), rgba(255,255,255,0.03));
+  color: var(--text);
+}
+
+/* Entfernt native Pfeile/Spinner bei Number/Date */
+.input[type="number"]::-webkit-outer-spin-button,
+.input[type="number"]::-webkit-inner-spin-button{
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.input[type="number"]{
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+.input[type="date"]::-webkit-calendar-picker-indicator,
+.input[type="date"]::-webkit-inner-spin-button,
+.input[type="date"]::-webkit-clear-button{
+  -webkit-appearance: none;
+  display: none;
+}
+
+.input[type="date"]{
+  appearance: textfield;
+}
+
+.select{
+  appearance: none;
+}
+
+.select option{
+  background: #1b1b22;
+  color: var(--text);
+}
+
+.select-field{ position: relative; }
+
+.select-btn{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 10px 12px;
+  border-radius: var(--radius);
+  border: 1px solid rgba(255,255,255,0.14);
+  background: linear-gradient(180deg, rgba(255,255,255,0.06), rgba(255,255,255,0.03));
+  color: var(--text);
+  cursor: pointer;
+  transition: border-color .15s ease, box-shadow .15s ease, background .15s ease;
+}
+
+.select-btn:hover{
+  background: linear-gradient(180deg, rgba(255,255,255,0.10), rgba(255,255,255,0.05));
+  border-color: rgba(255,255,255,0.22);
+}
+
+.select-btn.open{
+  border-color: rgba(242,118,46,0.55);
+  box-shadow: 0 0 0 3px rgba(242,118,46,0.14);
+}
+
+.select-value.muted{
+  color: var(--muted);
+}
+
+.select-caret{
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid rgba(255,255,255,0.65);
+  border-bottom: 2px solid rgba(255,255,255,0.65);
+  transform: rotate(45deg);
+  margin-top: -2px;
+}
+
+.select-menu{
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  right: 0;
+  z-index: 20;
+  padding: 6px;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,0.18);
+  background: linear-gradient(
+    180deg,
+    rgba(255,255,255,0.14),
+    rgba(255,255,255,0.08)
+  );
+  backdrop-filter: blur(14px);
+  box-shadow: 0 18px 44px rgba(0,0,0,0.45);
+  max-height: 260px;
+  overflow: auto;
+}
+
+.select-option{
+  width: 100%;
+  text-align: left;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 0;
+  background: transparent;
+  color: var(--text);
+  cursor: pointer;
+  transition: background .12s ease, color .12s ease;
+}
+
+.select-option:hover{
+  background: rgba(255,255,255,0.10);
+}
+
+.select-option.active{
+  background: rgba(242,118,46,0.16);
+}
+
 .file:focus,
-.textarea:focus{
+.textarea:focus,
+.input:focus,
+.select:focus{
   outline:none;
   border-color: rgba(242,118,46,0.45);
   box-shadow: 0 0 0 3px rgba(242,118,46,0.14);
+}
+
+.label{
+  display:block;
+  font-size: 12px;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+
+.form-grid{
+  display:grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.field{
+  display:flex;
+  flex-direction:column;
 }
 
 /* Layout Helpers */
@@ -433,8 +581,26 @@ main.content{
   align-items: start;
 }
 
+.form-values{
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
 @media (max-width: 900px) {
   .analysis-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 900px) {
+  .form-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 900px) {
+  .form-values {
     grid-template-columns: 1fr;
   }
 }

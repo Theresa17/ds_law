@@ -51,34 +51,39 @@ export default function History() {
           </p>
         ) : (
           <div className="history-list">
-            {items.map((a) => (
-              <Link
-                key={a.id}
-                to={`/history/${a.id}`}
-                className="kv"
-                style={{ display: "block" }}
-              >
-                <div
-                  style={{
-                    display: "flex",
-                    justifyContent: "space-between",
-                    gap: 10,
-                    flexWrap: "wrap",
-                  }}
+            {items.map((a) => {
+              const inputLabel =
+                a.inputType === "form"
+                  ? `Formular${a.preview ? ` · ${a.preview}` : ""}`
+                  : `Text: ${a.preview || ""}`;
+
+              return (
+                <Link
+                  key={a.id}
+                  to={`/history/${a.id}`}
+                  className="kv"
+                  style={{ display: "block" }}
                 >
-                  <div>
-                    <strong>{a.klasse}</strong>{" "}
-                    <span className="muted">• {a.entscheidung}</span>
+                  <div
+                    style={{
+                      display: "flex",
+                      justifyContent: "space-between",
+                      gap: 10,
+                      flexWrap: "wrap",
+                    }}
+                  >
+                    <div>
+                      <strong>{a.klasse}</strong>{" "}
+                      <span className="muted">· {a.entscheidung}</span>
+                    </div>
+                    <div className="muted">{fmtDate(a.createdAt)}</div>
                   </div>
-                  <div className="muted">{fmtDate(a.createdAt)}</div>
-                </div>
-                <div className="muted" style={{ marginTop: 6 }}>
-                  {a.inputType === "file"
-                    ? `Datei: ${a.fileName}`
-                    : `Text: ${a.preview || ""}…`}
-                </div>
-              </Link>
-            ))}
+                  <div className="muted" style={{ marginTop: 6 }}>
+                    {inputLabel}
+                  </div>
+                </Link>
+              );
+            })}
           </div>
         )}
       </div>

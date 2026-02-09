@@ -40,9 +40,18 @@ def health():
 def predict_text():
     data = request.get_json(silent=True) or {}
     text = (data.get("text") or "").strip()
+    case_id = (data.get("case_id") or "").strip()
+    features = data.get("features")
+    if not isinstance(features, dict):
+        features = None
 
     try:
-        result = predict(text, source="text")
+        result = predict(
+            text,
+            source="text",
+            case_id=case_id or None,
+            features=features,
+        )
         return jsonify(result)
     except ValueError as e:
         return jsonify({"error": str(e)}), 400
@@ -75,7 +84,11 @@ def predict_file():
     text = text.strip()
 
     try:
-        result = predict(text, source="file", file_name=f.filename)
+        result = predict(
+            text,
+            source="file",
+            file_name=f.filename,
+        )
         return jsonify(result)
     except ValueError as e:
         return jsonify({"error": str(e)}), 400
