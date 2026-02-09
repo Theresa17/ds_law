@@ -4,10 +4,11 @@ import { addAnalysis } from "../lib/storage";
 
 const API_BASE = "http://127.0.0.1:5000";
 
+
 export default function Home() {
   const nav = useNavigate();
 
-  const [mode, setMode] = useState("form"); // "text" | "form"
+  const [mode, setMode] = useState("text"); // "text" | "form"
   const [text, setText] = useState(""); // Text-Eingabe
   const [formText, setFormText] = useState(""); // Freitext im Formular
   const [openSelect, setOpenSelect] = useState(null);
@@ -15,6 +16,7 @@ export default function Home() {
     Dieselmotor_Typ: "",
     Art_Abschalteinrichtung: "",
     KBA_Rueckruf: "",
+    Update_Status: "",
     Fahrzeugstatus: "",
     Fahrzeugmodell_Baureihe: "",
     Kilometerstand_Kauf: "",
@@ -22,8 +24,11 @@ export default function Home() {
     Erwartete_Gesamtlaufleistung: "",
     Kaufdatum: "",
     Uebergabedatum: "",
+    Datum_Klageerhebung: "",
     Beklagten_Typ: "",
     Kaufpreis: "",
+    Nacherfuellungsverlangen_Fristsetzung: "",
+    Klageziel: "",
     Rechtsgrundlage: "",
   });
 
@@ -48,6 +53,56 @@ export default function Home() {
     if (mode === "text") return text.trim().length >= 30;
     return true;
   }, [mode, text, form, formText]);
+
+  const textSignals = useMemo(() => {
+    const t = text.toLowerCase();
+    const hasRegex = (re) => re.test(t);
+    const sentences = t.split(/(?<=[\.\!\?])\s+/);
+    const sentenceHas = (a, b) =>
+      sentences.some((s) => s.includes(a) && s.includes(b));
+    return {
+      kaufpreis: t.includes("kaufpreis"),
+      neuwagen: t.includes("neuwagen"),
+      gebrauchtwagen: t.includes("gebrauchtwagen"),
+      km_kauf:
+        sentenceHas("kilometerstand", "kauf") ||
+        hasRegex(/\bkilometerstand\b[\s\S]{0,80}\bkauf\b/) ||
+        hasRegex(/\bkauf\b[\s\S]{0,80}\bkilometerstand\b/),
+      km_klage:
+        sentenceHas("kilometerstand", "klage") ||
+        hasRegex(/\bkilometerstand\b[\s\S]{0,80}\bklage\b/) ||
+        hasRegex(/\bklage\b[\s\S]{0,80}\bkilometerstand\b/),
+      kba: t.includes("kba") && (t.includes("rückruf") || t.includes("rueckruf")),
+      beklagter:
+        t.includes("beklagter") ||
+        t.includes("hersteller") ||
+        t.includes("händler") ||
+        t.includes("haendler"),
+      klageziel:
+        t.includes("klageziel") ||
+        t.includes("rückabwicklung") ||
+        t.includes("rueckabwicklung") ||
+        t.includes("schadensersatz"),
+      fristsetzung:
+        t.includes("fristsetzung") ||
+        t.includes("nacherfüllung") ||
+        t.includes("nacherfuellung") ||
+        t.includes("entbehrlich"),
+      abschalteinrichtung:
+        t.includes("abschalt") || t.includes("thermofenster") || t.includes("umschaltlogik"),
+      rechtsgrundlage:
+        t.includes("§ 826") ||
+        t.includes("826 bgb") ||
+        t.includes("§ 31") ||
+        t.includes("31 bgb") ||
+        t.includes("sittenwidrig"),
+      gesamtlaufleistung: t.includes("gesamtlaufleistung"),
+      update:
+        t.includes("update") ||
+        t.includes("software-update") ||
+        t.includes("software update"),
+    };
+  }, [text]);
 
   function updateForm(name, value) {
     setForm((prev) => ({ ...prev, [name]: value }));
@@ -199,6 +254,12 @@ export default function Home() {
             : mode === "form"
             ? formText.trim().slice(0, 120) || null
             : null,
+        fullText:
+          mode === "text"
+            ? text.trim()
+            : mode === "form"
+            ? formText.trim() || null
+            : null,
         formData: mode === "form" ? buildFeatures() : null,
         ...data,
       };
@@ -222,6 +283,7 @@ export default function Home() {
       Dieselmotor_Typ: "",
       Art_Abschalteinrichtung: "",
       KBA_Rueckruf: "",
+      Update_Status: "",
       Fahrzeugstatus: "",
       Fahrzeugmodell_Baureihe: "",
       Kilometerstand_Kauf: "",
@@ -229,13 +291,17 @@ export default function Home() {
       Erwartete_Gesamtlaufleistung: "",
       Kaufdatum: "",
       Uebergabedatum: "",
+      Datum_Klageerhebung: "",
       Beklagten_Typ: "",
       Kaufpreis: "",
+      Nacherfuellungsverlangen_Fristsetzung: "",
+      Klageziel: "",
       Rechtsgrundlage: "",
     });
     setError(null);
     setLoading(false);
   }
+
 
   return (
     <div className="card">
@@ -246,18 +312,18 @@ export default function Home() {
 
         <div className="segmented">
           <button
-            className={`seg-btn ${mode === "form" ? "seg-active" : ""}`}
-            onClick={() => setMode("form")}
-            type="button"
-          >
-            Formular
-          </button>
-          <button
             className={`seg-btn ${mode === "text" ? "seg-active" : ""}`}
             onClick={() => setMode("text")}
             type="button"
           >
             Text
+          </button>
+          <button
+            className={`seg-btn ${mode === "form" ? "seg-active" : ""}`}
+            onClick={() => setMode("form")}
+            type="button"
+          >
+            Formular
           </button>
         </div>
 
@@ -265,7 +331,22 @@ export default function Home() {
 
         {mode === "text" ? (
           <div className="text-input">
-            <label className="label">Urteilstext</label>
+            <label className="label">Fallbeschreibung</label>
+            <div className="signal-row">
+              <span className={textSignals.kaufpreis ? "signal on" : "signal"}>Kaufpreis</span>
+              <span className={textSignals.neuwagen ? "signal on" : "signal"}>Neuwagen</span>
+              <span className={textSignals.gebrauchtwagen ? "signal on" : "signal"}>Gebrauchtwagen</span>
+              <span className={textSignals.km_kauf ? "signal on" : "signal"}>Kilometerstand Kauf</span>
+              <span className={textSignals.km_klage ? "signal on" : "signal"}>Kilometerstand Klage</span>
+              <span className={textSignals.kba ? "signal on" : "signal"}>KBA-Rückruf</span>
+              <span className={textSignals.beklagter ? "signal on" : "signal"}>Beklagter</span>
+              <span className={textSignals.klageziel ? "signal on" : "signal"}>Klageziel</span>
+              <span className={textSignals.fristsetzung ? "signal on" : "signal"}>Fristsetzung</span>
+              <span className={textSignals.abschalteinrichtung ? "signal on" : "signal"}>Abschalteinrichtung</span>
+              <span className={textSignals.rechtsgrundlage ? "signal on" : "signal"}>Rechtsgrundlage</span>
+              <span className={textSignals.gesamtlaufleistung ? "signal on" : "signal"}>Gesamtlaufleistung</span>
+              <span className={textSignals.update ? "signal on" : "signal"}>Update</span>
+            </div>
             <textarea
               className="textarea"
               value={text}
@@ -379,6 +460,14 @@ export default function Home() {
                 options={yesNoOptions}
               />
 
+              <SelectField
+                name="update"
+                label="Update Status"
+                value={form.Update_Status}
+                onChange={(v) => updateForm("Update_Status", v)}
+                options={yesNoOptions}
+              />
+
               <div className="field">
                 <label className="label">Fahrzeugmodell/Baureihe</label>
                 <input
@@ -424,6 +513,48 @@ export default function Home() {
                   onChange={(e) => updateForm("Uebergabedatum", e.target.value)}
                 />
               </div>
+
+              <div className="field">
+                <label className="label">Datum Klageerhebung</label>
+                <input
+                  className="input"
+                  type="date"
+                  value={form.Datum_Klageerhebung}
+                  onChange={(e) =>
+                    updateForm("Datum_Klageerhebung", e.target.value)
+                  }
+                />
+              </div>
+
+              <SelectField
+                name="nachfuell"
+                label="Nacherfüllung / Fristsetzung"
+                value={form.Nacherfuellungsverlangen_Fristsetzung}
+                onChange={(v) =>
+                  updateForm("Nacherfuellungsverlangen_Fristsetzung", v)
+                }
+                options={[
+                  { label: "Ja", value: "Ja" },
+                  { label: "Nein", value: "Nein" },
+                  { label: "Entbehrlich", value: "Entbehrlich" },
+                ]}
+              />
+
+              <SelectField
+                name="klageziel"
+                label="Klageziel"
+                value={form.Klageziel}
+                onChange={(v) => updateForm("Klageziel", v)}
+                options={[
+                  { label: "Rückabwicklung", value: "Rückabwicklung" },
+                  { label: "Schadensersatz", value: "Schadensersatz" },
+                  { label: "Minderung", value: "Minderung" },
+                  {
+                    label: "Rückabwicklung, Schadensersatz",
+                    value: "Rückabwicklung, Schadensersatz",
+                  },
+                ]}
+              />
 
               <div className="field">
                 <label className="label">Rechtsgrundlage</label>

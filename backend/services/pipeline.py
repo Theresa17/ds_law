@@ -220,10 +220,34 @@ def legal_preprocess(text: str, nlp) -> str:
 
 def get_weighted_doc_vector(doc: str, w2v_model, weights: dict[str, float]) -> np.ndarray:
     tokens = str(doc).split()
-    valid_tokens = [t for t in tokens if t in w2v_model.wv and t in weights]
+
+    def maybe_mojibake(t: str) -> str | None:
+        if "Ã" in t:
+            return None
+        try:
+            return t.encode("utf-8").decode("latin-1")
+        except Exception:
+            return None
+
+    valid_tokens: list[str] = []
+    w2v_tokens: list[str] = []
+    for t in tokens:
+        if t in w2v_model.wv and t in weights:
+            valid_tokens.append(t)
+            continue
+        if t in w2v_model.wv:
+            w2v_tokens.append(t)
+        alt = maybe_mojibake(t)
+        if alt and alt in w2v_model.wv and alt in weights:
+            valid_tokens.append(alt)
+        elif alt and alt in w2v_model.wv:
+            w2v_tokens.append(alt)
 
     if not valid_tokens:
-        return np.zeros(w2v_model.vector_size)
+        if not w2v_tokens:
+            return np.zeros(w2v_model.vector_size)
+        vectors = [w2v_model.wv[t] for t in w2v_tokens]
+        return np.average(vectors, axis=0)
 
     vectors = [w2v_model.wv[t] for t in valid_tokens]
     token_weights = [weights[t] for t in valid_tokens]
@@ -254,6 +278,133 @@ def clean_money_robust(val) -> float:
         return float(s)
     except ValueError:
         return 0.0
+
+
+def clean_number_robust(val) -> float:
+    if pd.isna(val) or str(val).strip().lower() in ["null", "none", "nan", ""]:
+        return 0.0
+
+    if isinstance(val, (int, float)):
+        return float(val)
+
+    s = str(val).strip()
+    s = re.sub(r"[^\d.,-]", "", s)
+
+    if "," in s and "." in s:
+        # decide decimal separator by last occurrence
+        if s.rfind(",") > s.rfind("."):
+            s = s.replace(".", "")
+            s = s.replace(",", ".")
+        else:
+            s = s.replace(",", "")
+    elif "," in s:
+        parts = s.split(",")
+        if len(parts) > 1 and len(parts[-1]) == 3:
+            s = s.replace(",", "")
+        else:
+            s = s.replace(",", ".")
+    elif "." in s:
+        parts = s.split(".")
+        if len(parts) > 1 and len(parts[-1]) == 3:
+            s = s.replace(".", "")
+
+    try:
+        return float(s)
+    except ValueError:
+        return 0.0
+
+
+def _parse_first_number(pattern: str, text: str) -> float | None:
+    m = re.search(pattern, text, flags=re.IGNORECASE)
+    if not m:
+        return None
+    raw = m.group(1)
+    return clean_number_robust(raw)
+
+
+def _parse_first_date(pattern: str, text: str) -> str | None:
+    m = re.search(pattern, text, flags=re.IGNORECASE)
+    if not m:
+        return None
+    return m.group(1)
+
+
+def _class_from_amount(amount: float) -> str:
+    if amount >= 20000:
+        return "HIGH"
+    if amount >= 10000:
+        return "MID"
+    if amount > 0:
+        return "LOW"
+    return "Kein Anspruch"
+
+
+def _rule_classify_text(text: str) -> dict:
+    t = (text or "").lower()
+    # Signals
+    has_rechts = ("§ 826" in t) or ("826 bgb" in t) or ("sittenwidrig" in t)
+    has_abschalt = ("thermofenster" in t) or ("umschaltlogik" in t) or ("abschalt" in t)
+    has_kba = ("kba" in t and ("rückruf" in t or "rueckruf" in t))
+    has_hersteller = ("hersteller" in t)
+    has_claim = ("rückabwicklung" in t or "rueckabwicklung" in t or "schadensersatz" in t)
+
+    signal_count = sum([has_rechts, has_abschalt, has_kba, has_hersteller, has_claim])
+    strong = signal_count >= 3
+    moderate = signal_count >= 2
+
+    claim_label = 1 if (strong or moderate) else 0
+
+    # Numbers
+    kaufpreis = _parse_first_number(r"(?:kaufpreis|preis)\s*(?:von|:)?\s*([0-9][0-9\.\s,]*)\s*(?:€|eur)?", t) or 0.0
+    km_kauf = _parse_first_number(r"kilometerstand\s*kauf.*?([0-9][0-9\.\s,]*)\s*km", t) or 0.0
+    km_klage = _parse_first_number(r"kilometerstand\s*klage.*?([0-9][0-9\.\s,]*)\s*km", t) or 0.0
+    erwartete = _parse_first_number(r"(?:gesamtlaufleistung|gesamtlaufleistung).*?([0-9][0-9\.\s,]*)\s*km", t)
+    if erwartete is None or erwartete <= 0:
+        erwartete = 200000.0
+
+    amount = 0.0
+    range_label = None
+    if claim_label == 1:
+        km_gefahren = max(km_klage - km_kauf, 0.0)
+        nutzungsquote = min(max(km_klage / erwartete, 0.0), 1.0) if erwartete else 0.0
+        if kaufpreis > 0:
+            amount = max(kaufpreis * (1 - nutzungsquote), 0.0)
+        range_label = _class_from_amount(amount if amount > 0 else kaufpreis)
+
+    base = 0.45 + 0.08 * signal_count
+    amount_boost = 0.0
+    if claim_label == 1:
+        if range_label == "HIGH":
+            amount_boost = 0.12
+        elif range_label == "MID":
+            amount_boost = 0.08
+        elif range_label == "LOW":
+            amount_boost = 0.04
+    confidence = min(0.92, base + amount_boost)
+
+    return {
+        "klasse": range_label or "Kein Anspruch",
+        "entscheidung": "ja" if claim_label == 1 else "nein",
+        "betrag_eur": float(round(amount, 2)) if claim_label == 1 else 0.0,
+        "confidence": round(confidence, 2),
+        "meta": {
+            "mode": "rule",
+            "eingabe": "text",
+            "rule_signals": {
+                "rechts": has_rechts,
+                "abschalt": has_abschalt,
+                "kba": has_kba,
+                "hersteller": has_hersteller,
+                "claim": has_claim,
+            },
+            "parsed": {
+                "kaufpreis": kaufpreis,
+                "km_kauf": km_kauf,
+                "km_klage": km_klage,
+                "erwartete_gesamt": erwartete,
+            },
+        },
+    }
 
 
 def _normalize_feature_value(value):
@@ -330,8 +481,30 @@ def prepare_features(df: pd.DataFrame, text_vectors: np.ndarray) -> pd.DataFrame
 
     df_struct = df.copy()
 
+    def _to_mojibake(v):
+        if v is None or pd.isna(v):
+            return v
+        if not isinstance(v, str):
+            return v
+        s = v.strip()
+        if s == "":
+            return s
+        # If already mojibake, keep as-is.
+        if "Ã" in s:
+            return s
+        try:
+            return s.encode("utf-8").decode("latin-1")
+        except Exception:
+            return s
+
+    for c in available_cat:
+        df_struct[c] = df_struct[c].apply(_to_mojibake)
+
     for c in available_bool:
         df_struct[c] = map_bool_series(df_struct[c])
+
+    for c in available_num:
+        df_struct[c] = df_struct[c].apply(clean_number_robust)
 
     for c in available_date:
         df_struct[c] = pd.to_datetime(df_struct[c], errors="coerce")
@@ -388,7 +561,7 @@ def prepare_features(df: pd.DataFrame, text_vectors: np.ndarray) -> pd.DataFrame
 def add_domain_ratios(X: pd.DataFrame, df: pd.DataFrame) -> pd.DataFrame:
     def series_or_zero(col: str) -> pd.Series:
         if col in df.columns:
-            return pd.to_numeric(df[col], errors="coerce").fillna(0)
+            return df[col].apply(clean_number_robust)
         return pd.Series([0.0] * len(df), index=df.index)
 
     kaufpreis = series_or_zero("Kaufpreis_num")
@@ -485,6 +658,159 @@ class PredictionPipeline:
         if self._range is None:
             self._range = self._load_bundle("range")
 
+    @staticmethod
+    def _dummy_values(prefix: str, cols: list[str]) -> list[str]:
+        pref = f"{prefix}_"
+        return [c[len(pref) :] for c in cols if c.startswith(pref)]
+
+    @staticmethod
+    def _pick_value(values: list[str], terms: list[str]) -> str | None:
+        if not values:
+            return None
+        req = [t.lower() for t in terms]
+        for v in values:
+            lv = v.lower()
+            if all(t in lv for t in req):
+                return v
+        return None
+
+    def _extract_features_from_text(self, text: str, cols: list[str]) -> dict[str, Any]:
+        out: dict[str, Any] = {}
+        t = (text or "").lower()
+
+        art_vals = self._dummy_values("Art_Abschalteinrichtung", cols)
+        has_thermo = "thermofenster" in t
+        has_umschalt = "umschaltlogik" in t
+        if has_thermo and has_umschalt:
+            v = self._pick_value(art_vals, ["thermofenster", "umschaltlogik"])
+            if v:
+                out["Art_Abschalteinrichtung"] = v
+        if "Art_Abschalteinrichtung" not in out and has_thermo:
+            v = self._pick_value(art_vals, ["thermofenster"])
+            if v:
+                out["Art_Abschalteinrichtung"] = v
+        if "Art_Abschalteinrichtung" not in out and has_umschalt:
+            v = self._pick_value(art_vals, ["umschaltlogik"])
+            if v:
+                out["Art_Abschalteinrichtung"] = v
+
+        klage_vals = self._dummy_values("Klageziel", cols)
+        if "rückabwicklung" in t or "rueckabwicklung" in t:
+            if "schadensersatz" in t:
+                v = self._pick_value(klage_vals, ["rückabwicklung", "schadensersatz"])
+                if not v:
+                    v = self._pick_value(klage_vals, ["rueckabwicklung", "schadensersatz"])
+                if v:
+                    out["Klageziel"] = v
+            if "Klageziel" not in out:
+                v = self._pick_value(klage_vals, ["rückabwicklung"])
+                if not v:
+                    v = self._pick_value(klage_vals, ["rueckabwicklung"])
+                if v:
+                    out["Klageziel"] = v
+        elif "schadensersatz" in t:
+            v = self._pick_value(klage_vals, ["schadensersatz"])
+            if v:
+                out["Klageziel"] = v
+
+        frist_vals = self._dummy_values("Nacherfuellungsverlangen_Fristsetzung", cols)
+        if "entbehrlich" in t:
+            v = self._pick_value(frist_vals, ["entbehrlich"])
+            if v:
+                out["Nacherfuellungsverlangen_Fristsetzung"] = v
+        elif "fristsetzung" in t or "nacherfüllung" in t or "nacherfuellung" in t:
+            if "nicht" in t or "nein" in t:
+                v = self._pick_value(frist_vals, ["nein"])
+                if v:
+                    out["Nacherfuellungsverlangen_Fristsetzung"] = v
+            else:
+                v = self._pick_value(frist_vals, ["ja"])
+                if v:
+                    out["Nacherfuellungsverlangen_Fristsetzung"] = v
+
+        rechts_vals = self._dummy_values("Rechtsgrundlage", cols)
+        if "826" in t and "bgb" in t:
+            if "31" in t:
+                v = self._pick_value(rechts_vals, ["826", "31"])
+                if v:
+                    out["Rechtsgrundlage"] = v
+            if "Rechtsgrundlage" not in out:
+                v = self._pick_value(rechts_vals, ["826"])
+                if v:
+                    out["Rechtsgrundlage"] = v
+
+        bekl_vals = self._dummy_values("Beklagten_Typ", cols)
+        if "hersteller" in t:
+            v = self._pick_value(bekl_vals, ["hersteller"])
+            if v:
+                out["Beklagten_Typ"] = v
+        elif "händler" in t or "haendler" in t:
+            v = self._pick_value(bekl_vals, ["händler"])
+            if not v:
+                v = self._pick_value(bekl_vals, ["haendler"])
+            if v:
+                out["Beklagten_Typ"] = v
+
+        # KBA Rückruf / Update Status
+        if ("kba" in t and "rückruf" in t) or ("kba" in t and "rueckruf" in t):
+            out["KBA_Rueckruf"] = "true"
+        if "kein kba" in t or "ohne kba" in t:
+            out["KBA_Rueckruf"] = "false"
+
+        if "update" in t or "software-update" in t or "software update" in t:
+            if "nicht durchgeführt" in t or "nicht durchgef" in t or "nicht erfolgt" in t:
+                out["Update_Status"] = "false"
+            elif "durchgeführt" in t or "erfolgt" in t:
+                out["Update_Status"] = "true"
+
+        # Fahrzeugstatus
+        status_vals = self._dummy_values("Fahrzeugstatus", cols)
+        if "neuwagen" in t:
+            v = self._pick_value(status_vals, ["neuwagen"])
+            if v:
+                out["Fahrzeugstatus"] = v
+        elif "gebrauchtwagen" in t or "gebraucht" in t:
+            v = self._pick_value(status_vals, ["gebraucht"])
+            if v:
+                out["Fahrzeugstatus"] = v
+
+        # Kaufpreis (EUR)
+        m_price = re.search(
+            r"(kaufpreis|preis)\s*(?:von|:)?\s*([0-9][0-9\.\s]*)(?:,(\d{1,2}))?\s*(?:€|eur)?",
+            t,
+        )
+        if m_price:
+            whole = m_price.group(2).replace(".", "").replace(" ", "")
+            dec = m_price.group(3) or ""
+            val = f"{whole}.{dec}" if dec else whole
+            out["Kaufpreis"] = val
+
+        # Kilometerstände
+        m_km_klage = re.search(
+            r"kilometerstand.*klage.*?([0-9][0-9\.\s]{3,})\s*km", t
+        )
+        if m_km_klage:
+            out["Kilometerstand_Klageerhebung"] = (
+                m_km_klage.group(1).replace(".", "").replace(" ", "")
+            )
+        m_km_kauf = re.search(
+            r"kilometerstand.*kauf.*?([0-9][0-9\.\s]{3,})\s*km", t
+        )
+        if m_km_kauf:
+            out["Kilometerstand_Kauf"] = (
+                m_km_kauf.group(1).replace(".", "").replace(" ", "")
+            )
+
+        # Daten (Kaufdatum / Klageerhebung)
+        m_kaufdatum = re.search(r"kaufdatum.*?(\d{4}-\d{2}-\d{2})", t)
+        if m_kaufdatum:
+            out["Kaufdatum"] = m_kaufdatum.group(1)
+        m_klage = re.search(r"(klageerhebung|klage).*?(\d{4}-\d{2}-\d{2})", t)
+        if m_klage:
+            out["Datum_Klageerhebung"] = m_klage.group(2)
+
+        return out
+
     def _load_feature_repo(self) -> pd.DataFrame:
         if self._feature_repo is None:
             if not FEATURES_CSV.exists():
@@ -505,7 +831,7 @@ class PredictionPipeline:
 
         row = row.copy().iloc[:1]
         if "Kaufpreis_num" not in row.columns and "Kaufpreis" in row.columns:
-            row["Kaufpreis_num"] = row["Kaufpreis"].apply(clean_money_robust)
+            row["Kaufpreis_num"] = row["Kaufpreis"].apply(clean_number_robust)
         return row
 
     def _build_features(self, text: str, bundle: ModelBundle) -> pd.DataFrame:
@@ -574,9 +900,9 @@ class PredictionPipeline:
             row.setdefault("cleaned_text", cleaned)
 
         if "Kaufpreis_num" in row:
-            row["Kaufpreis_num"] = clean_money_robust(row["Kaufpreis_num"])
+            row["Kaufpreis_num"] = clean_number_robust(row["Kaufpreis_num"])
         elif "Kaufpreis" in row:
-            row["Kaufpreis_num"] = clean_money_robust(row["Kaufpreis"])
+            row["Kaufpreis_num"] = clean_number_robust(row["Kaufpreis"])
 
         df = pd.DataFrame([row])
         try:
@@ -632,8 +958,10 @@ class PredictionPipeline:
 
         range_label = None
         range_conf = None
+        range_nonzero = 0
         if claim_label == 1:
             X_range = self._build_range_features_from_case(case_id, self._range)
+            range_nonzero = int(np.count_nonzero(X_range.values))
             probs = self._range.model.predict_proba(X_range)[0]
             range_idx = int(np.argmax(probs))
             range_label = str(self._range.model.classes_[range_idx])
@@ -653,6 +981,8 @@ class PredictionPipeline:
                 "claim_proba": round(claim_proba, 4),
                 "range_klasse": range_label,
                 "range_confidence": round(range_conf, 4) if range_conf is not None else None,
+                "claim_features_nonzero": int(np.count_nonzero(X_claim.values)),
+                "range_features_nonzero": range_nonzero,
             },
         }
 
@@ -666,10 +996,18 @@ class PredictionPipeline:
         if text and len(text) < 10 and not features:
             raise ValueError("Der Text ist zu kurz fuer eine Analyse.")
 
+        if text and not features:
+            return _rule_classify_text(text)
+
         self._ensure_models()
 
         assert self._claim is not None
         assert self._range is not None
+
+        if text and not features:
+            extracted = self._extract_features_from_text(text, self._claim.feature_columns)
+            if extracted:
+                features = extracted
 
         X_claim, _ = self._build_features_from_payload(text, features, self._claim)
         claim_proba = float(self._claim.model.predict_proba(X_claim)[0][1])
@@ -677,10 +1015,12 @@ class PredictionPipeline:
 
         range_label = None
         range_conf = None
+        range_nonzero = 0
         if claim_label == 1:
             X_range = self._build_range_features_from_payload(
                 text, features, self._range
             )
+            range_nonzero = int(np.count_nonzero(X_range.values))
             probs = self._range.model.predict_proba(X_range)[0]
             range_idx = int(np.argmax(probs))
             range_label = str(self._range.model.classes_[range_idx])
@@ -700,5 +1040,7 @@ class PredictionPipeline:
                 "claim_proba": round(claim_proba, 4),
                 "range_klasse": range_label,
                 "range_confidence": round(range_conf, 4) if range_conf is not None else None,
+                "claim_features_nonzero": int(np.count_nonzero(X_claim.values)),
+                "range_features_nonzero": range_nonzero,
             },
         }
