@@ -25,6 +25,7 @@ export default function AnalysisDetail() {
   }
 
   const inputLabel = item.inputType === "form" ? "Formular" : "Text";
+  const displayText = item.fullText ?? item.preview ?? null;
   const rangeLabel = (() => {
     const k = String(item.klasse || "").toUpperCase();
     if (k === "LOW") return "< 10.000 €";
@@ -40,6 +41,7 @@ export default function AnalysisDetail() {
       "Dieselmotor_Typ",
       "Art_Abschalteinrichtung",
       "KBA_Rueckruf",
+      "Update_Status",
       "Fahrzeugstatus",
       "Fahrzeugmodell_Baureihe",
       "Kilometerstand_Kauf",
@@ -47,8 +49,10 @@ export default function AnalysisDetail() {
       "Erwartete_Gesamtlaufleistung",
       "Kaufdatum",
       "Uebergabedatum",
+      "Datum_Klageerhebung",
       "Beklagten_Typ",
       "Kaufpreis",
+      "Nacherfuellungsverlangen_Fristsetzung",
       "Klageziel",
       "Rechtsgrundlage",
     ];
@@ -139,14 +143,14 @@ export default function AnalysisDetail() {
           </div>
         </div>
 
-        {item.preview && (item.inputType === "text" || item.inputType === "form") && (
+        {displayText && (item.inputType === "text" || item.inputType === "form") && (
           <>
             <div className="spacer" />
             <div className="kv">
               <div className="k">
-                {item.inputType === "form" ? "Formular-Notiz" : "Text-Ausschnitt"}
+                {item.inputType === "form" ? "Formular-Notiz" : "Fallbeschreibung"}
               </div>
-              <div className="v mono">{item.preview}</div>
+              <div className="v mono">{displayText}</div>
             </div>
           </>
         )}

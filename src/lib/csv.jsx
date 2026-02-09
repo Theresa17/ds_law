@@ -25,7 +25,7 @@ export function analysisToCsvRow(a) {
     a.entscheidung ?? "",
     rangeLabelFromClass(a.klasse),
     a.confidence ?? "",
-    a.preview ?? "",
+    a.fullText ?? a.preview ?? "",
   ];
   return cols.map(escapeCsv).join(";");
 }
@@ -40,7 +40,7 @@ export function singleAnalysisCsv(a) {
     "entscheidung",
     "betrag_eur",
     "confidence",
-    "preview",
+    "text",
   ].join(";");
   return `${header}\n${analysisToCsvRow(a)}`;
 }
@@ -69,7 +69,7 @@ export function allAnalysesCsv(items) {
     "entscheidung",
     "betrag_eur",
     "confidence",
-    "preview",
+    "text",
   ].join(";");
 
   const rows = items.map(analysisToCsvRow);
