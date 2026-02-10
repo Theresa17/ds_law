@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { loadAnalyses } from "../lib/storage";
-import { allAnalysesCsv, downloadTextFile } from "../lib/csv";
+import { allAnalysesTable, downloadTextFile } from "../lib/csv";
 
 function fmtDate(iso) {
   try {
@@ -34,11 +34,15 @@ export default function History() {
             type="button"
             disabled={items.length === 0}
             onClick={() => {
-              const csv = allAnalysesCsv(items);
-              downloadTextFile("analysen_verlauf.csv", csv);
+              const table = allAnalysesTable(items);
+              downloadTextFile(
+                "analysen_verlauf.xls",
+                table,
+                "application/vnd.ms-excel"
+              );
             }}
           >
-            Verlauf als CSV herunterladen
+            Verlauf als Tabelle herunterladen
           </button>
         </div>
 
@@ -55,6 +59,8 @@ export default function History() {
               const inputLabel =
                 a.inputType === "form"
                   ? `Formular${a.preview ? ` · ${a.preview}` : ""}`
+                  : a.inputType === "file"
+                  ? `Datei: ${a.preview || a.fileName || ""}`
                   : `Text: ${a.preview || ""}`;
 
               return (

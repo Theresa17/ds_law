@@ -304,6 +304,7 @@ main.content{
   background: rgba(255,159,67,0.12);
 }
 
+
 .info-icon{
   display: inline-flex;
   align-items: center;
@@ -324,6 +325,13 @@ main.content{
 
 .k{
   position: relative;
+}
+
+.info-inline{
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  margin-left: 6px;
 }
 
 .info-popover{

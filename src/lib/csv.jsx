@@ -6,6 +6,16 @@ function escapeCsv(value) {
   return /[",\n\r;]/.test(escaped) ? `"${escaped}"` : escaped;
 }
 
+function escapeHtml(value) {
+  const s = value == null ? "" : String(value);
+  return s
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
 function rangeLabelFromClass(klasse) {
   const k = String(klasse || "").toUpperCase();
   if (k === "LOW") return "< 10.000 €";
@@ -30,6 +40,20 @@ export function analysisToCsvRow(a) {
   return cols.map(escapeCsv).join(";");
 }
 
+function analysisToTableRow(a) {
+  return [
+    a.id,
+    a.createdAt,
+    a.inputType,
+    a.fileName ?? "",
+    a.klasse ?? "",
+    a.entscheidung ?? "",
+    rangeLabelFromClass(a.klasse),
+    a.confidence ?? "",
+    a.fullText ?? a.preview ?? "",
+  ];
+}
+
 export function singleAnalysisCsv(a) {
   const header = [
     "id",
@@ -43,6 +67,10 @@ export function singleAnalysisCsv(a) {
     "text",
   ].join(";");
   return `${header}\n${analysisToCsvRow(a)}`;
+}
+
+export function singleAnalysisTable(a) {
+  return analysesToHtmlTable([a]);
 }
 
 export function downloadTextFile(filename, content, mime = "text/csv;charset=utf-8") {
@@ -74,5 +102,50 @@ export function allAnalysesCsv(items) {
 
   const rows = items.map(analysisToCsvRow);
   return [header, ...rows].join("\n");
+}
+
+export function allAnalysesTable(items) {
+  return analysesToHtmlTable(items);
+}
+
+function analysesToHtmlTable(items) {
+  const headers = [
+    "id",
+    "createdAt",
+    "inputType",
+    "fileName",
+    "klasse",
+    "entscheidung",
+    "betrag_eur",
+    "confidence",
+    "text",
+  ];
+  const rows = items.map(analysisToTableRow);
+
+  const thead = `<tr>${headers
+    .map((h) => `<th style="text-align:left;font-weight:700;">${escapeHtml(h)}</th>`)
+    .join("")}</tr>`;
+  const tbody = rows
+    .map(
+      (r) =>
+        `<tr>${r
+          .map((c) => `<td style="text-align:left;">${escapeHtml(c)}</td>`)
+          .join("")}</tr>`
+    )
+    .join("");
+
+  return `<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>VerdictIQ Export</title>
+  </head>
+  <body>
+    <table border="1" cellpadding="6" cellspacing="0">
+      <thead>${thead}</thead>
+      <tbody>${tbody}</tbody>
+    </table>
+  </body>
+</html>`;
 }
 

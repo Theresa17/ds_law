@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { addAnalysis } from "../lib/storage";
 
@@ -12,6 +12,10 @@ export default function Home() {
   const [text, setText] = useState(""); // Text-Eingabe
   const [formText, setFormText] = useState(""); // Freitext im Formular
   const [openSelect, setOpenSelect] = useState(null);
+  const [showDetailInfo, setShowDetailInfo] = useState(false);
+  const detailInfoRef = useRef(null);
+  const [file, setFile] = useState(null);
+  const [fileInputKey, setFileInputKey] = useState(0);
   const [form, setForm] = useState({
     Dieselmotor_Typ: "",
     Art_Abschalteinrichtung: "",
@@ -49,10 +53,30 @@ export default function Home() {
     };
   }, [openSelect]);
 
+  useEffect(() => {
+    if (!showDetailInfo) return undefined;
+    const onAnyClick = (e) => {
+      if (detailInfoRef.current && detailInfoRef.current.contains(e.target)) {
+        return;
+      }
+      setShowDetailInfo(false);
+    };
+    document.addEventListener("mousedown", onAnyClick, true);
+    document.addEventListener("contextmenu", onAnyClick, true);
+    return () => {
+      document.removeEventListener("mousedown", onAnyClick, true);
+      document.removeEventListener("contextmenu", onAnyClick, true);
+    };
+  }, [showDetailInfo]);
+
   const canAnalyze = useMemo(() => {
-    if (mode === "text") return text.trim().length >= 30;
-    return true;
-  }, [mode, text, form, formText]);
+    if (mode === "text") {
+      if (file) return true;
+      return text.trim().length >= 30;
+    }
+    const hasText = formText.trim().length > 0;
+    return hasText;
+  }, [mode, text, form, formText, file]);
 
   const textSignals = useMemo(() => {
     const t = text.toLowerCase();
@@ -60,18 +84,24 @@ export default function Home() {
     const sentences = t.split(/(?<=[\.\!\?])\s+/);
     const sentenceHas = (a, b) =>
       sentences.some((s) => s.includes(a) && s.includes(b));
+    const sentenceHasRegex = (ra, rb) =>
+      sentences.some((s) => ra.test(s) && rb.test(s));
     return {
       kaufpreis: t.includes("kaufpreis"),
       neuwagen: t.includes("neuwagen"),
       gebrauchtwagen: t.includes("gebrauchtwagen"),
       km_kauf:
         sentenceHas("kilometerstand", "kauf") ||
-        hasRegex(/\bkilometerstand\b[\s\S]{0,80}\bkauf\b/) ||
-        hasRegex(/\bkauf\b[\s\S]{0,80}\bkilometerstand\b/),
+        sentenceHas("kilometer", "kauf") ||
+        sentenceHasRegex(/\bkm\b/, /\bkauf\b/) ||
+        hasRegex(/\b(kilometerstand|kilometer|km)\b[\s\S]{0,80}\bkauf\b/) ||
+        hasRegex(/\bkauf\b[\s\S]{0,80}\b(kilometerstand|kilometer|km)\b/),
       km_klage:
         sentenceHas("kilometerstand", "klage") ||
-        hasRegex(/\bkilometerstand\b[\s\S]{0,80}\bklage\b/) ||
-        hasRegex(/\bklage\b[\s\S]{0,80}\bkilometerstand\b/),
+        sentenceHas("kilometer", "klage") ||
+        sentenceHasRegex(/\bkm\b/, /\bklage\b/) ||
+        hasRegex(/\b(kilometerstand|kilometer|km)\b[\s\S]{0,80}\bklage\b/) ||
+        hasRegex(/\bklage\b[\s\S]{0,80}\b(kilometerstand|kilometer|km)\b/),
       kba: t.includes("kba") && (t.includes("rückruf") || t.includes("rueckruf")),
       beklagter:
         t.includes("beklagter") ||
@@ -189,23 +219,41 @@ export default function Home() {
       let data;
 
       if (mode === "text") {
-        if (text.trim().length < 30) {
-          throw new Error("Bitte einen längeren Text eingeben (mind. 30 Zeichen).");
-        }
         setLoading(true);
-        console.log("Sende TEXT an Backend:", text.trim().slice(0, 100));
-        const res = await fetch(`${API_BASE}/predict`, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ text: text.trim() }),
-        });
+        if (file) {
+          const name = file.name || "";
+          if (!name.toLowerCase().endsWith(".txt")) {
+            throw new Error("Bitte nur .txt Dateien hochladen.");
+          }
+          const formData = new FormData();
+          formData.append("file", file);
+          const res = await fetch(`${API_BASE}/predict-file`, {
+            method: "POST",
+            body: formData,
+          });
+          const json = await res.json().catch(() => ({}));
+          console.log("Antwort von Backend (FILE):", json);
+          if (!res.ok)
+            throw new Error(json.error || "Fehler bei der Analyse (Datei).");
+          data = json;
+        } else {
+          if (text.trim().length < 30) {
+            throw new Error("Bitte einen längeren Text eingeben (mind. 30 Zeichen).");
+          }
+          console.log("Sende TEXT an Backend:", text.trim().slice(0, 100));
+          const res = await fetch(`${API_BASE}/predict`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ text: text.trim() }),
+          });
 
-        const json = await res.json().catch(() => ({}));
-        console.log("Antwort von Backend (TEXT):", json);
+          const json = await res.json().catch(() => ({}));
+          console.log("Antwort von Backend (TEXT):", json);
 
-        if (!res.ok)
-          throw new Error(json.error || "Fehler bei der Analyse (Text).");
-        data = json;
+          if (!res.ok)
+            throw new Error(json.error || "Fehler bei der Analyse (Text).");
+          data = json;
+        }
       } else {
         // mode === "form"
         const features = buildFeatures();
@@ -219,7 +267,7 @@ export default function Home() {
         const missing = requiredKeys.filter(
           (k) => !String(form[k] ?? "").trim()
         );
-        if (missing.length > 0) {
+        if (missing.length > 0 || formText.trim().length === 0) {
           throw new Error("Bitte Pflichtangaben eintragen.");
         }
         setLoading(true);
@@ -246,16 +294,20 @@ export default function Home() {
       const item = {
         id,
         createdAt: new Date().toISOString(),
-        inputType: mode,
-        fileName: null,
+        inputType: mode === "text" && file ? "file" : mode,
+        fileName: mode === "text" && file ? file.name : null,
         preview:
-          mode === "text"
+          mode === "text" && file
+            ? file.name
+            : mode === "text"
             ? text.trim().slice(0, 120)
             : mode === "form"
             ? formText.trim().slice(0, 120) || null
             : null,
         fullText:
-          mode === "text"
+          mode === "text" && file
+            ? null
+            : mode === "text"
             ? text.trim()
             : mode === "form"
             ? formText.trim() || null
@@ -279,6 +331,8 @@ export default function Home() {
   function reset() {
     setText("");
     setFormText("");
+    setFile(null);
+    setFileInputKey((k) => k + 1);
     setForm({
       Dieselmotor_Typ: "",
       Art_Abschalteinrichtung: "",
@@ -331,7 +385,33 @@ export default function Home() {
 
         {mode === "text" ? (
           <div className="text-input">
-            <label className="label">Fallbeschreibung</label>
+            <label className="label">
+              Fallbeschreibung
+              <span className="info-inline" ref={detailInfoRef}>
+                <button
+                  type="button"
+                  className="info-icon"
+                  aria-label="Hinweis zur Detailtiefe"
+                  aria-expanded={showDetailInfo}
+                  onClick={() => setShowDetailInfo((v) => !v)}
+                >
+                  i
+                </button>
+                {showDetailInfo && (
+                  <div className="info-popover">
+                    Einflussfaktor Detailtiefe: Die Verlässlichkeit der Prognose
+                    korreliert direkt mit der Substanz Ihrer Fallbeschreibung.
+                    Unser Algorithmus scannt den Text nach juristischen und
+                    technischen Signalwörtern (z. B. zu Motortyp,
+                    Abschalteinrichtung oder Klageantrag), die in historischen
+                    Urteilen maßgeblich für den Erfolg waren. Hinweis: Vage oder
+                    unvollständige Sachverhalte führen statistisch zu einer
+                    konservativeren (negativen) Einschätzung, da klare
+                    Erfolgssignale fehlen.
+                  </div>
+                )}
+              </span>
+            </label>
             <div className="signal-row">
               <span className={textSignals.kaufpreis ? "signal on" : "signal"}>Kaufpreis</span>
               <span className={textSignals.neuwagen ? "signal on" : "signal"}>Neuwagen</span>
@@ -347,10 +427,44 @@ export default function Home() {
               <span className={textSignals.gesamtlaufleistung ? "signal on" : "signal"}>Gesamtlaufleistung</span>
               <span className={textSignals.update ? "signal on" : "signal"}>Update</span>
             </div>
+            <div className="field" style={{ marginBottom: 8 }}>
+              <label className="label">TXT-Datei hochladen (optional)</label>
+              <input
+                key={fileInputKey}
+                className="input"
+                type="file"
+                accept=".txt,.pdf,.docx,application/pdf,application/vnd.openxmlformats-officedocument.wordprocessingml.document,text/plain"
+                disabled={text.trim().length > 0}
+                onChange={(e) => {
+                  const picked = e.target.files?.[0] || null;
+                  setFile(picked);
+                  if (picked) setText("");
+                }}
+              />
+              <div className="muted" style={{ marginTop: 6 }}>
+                Wenn eine Datei gewählt ist, wird der Text aus der Datei analysiert.
+              </div>
+              {file && (
+                <div className="row" style={{ marginTop: 6, gap: 8 }}>
+                  <div className="muted">AusgewÃ¤hlt: {file.name}</div>
+                  <button
+                    className="btn"
+                    type="button"
+                    onClick={() => {
+                      setFile(null);
+                      setFileInputKey((k) => k + 1);
+                    }}
+                  >
+                    Datei entfernen
+                  </button>
+                </div>
+              )}
+            </div>
             <textarea
               className="textarea"
               value={text}
               onChange={(e) => setText(e.target.value)}
+              disabled={!!file}
               placeholder="Text hier einfügen?"
             />
             <div className="muted" style={{ marginTop: 8 }}>
@@ -540,31 +654,6 @@ export default function Home() {
                 ]}
               />
 
-              <SelectField
-                name="klageziel"
-                label="Klageziel"
-                value={form.Klageziel}
-                onChange={(v) => updateForm("Klageziel", v)}
-                options={[
-                  { label: "Rückabwicklung", value: "Rückabwicklung" },
-                  { label: "Schadensersatz", value: "Schadensersatz" },
-                  { label: "Minderung", value: "Minderung" },
-                  {
-                    label: "Rückabwicklung, Schadensersatz",
-                    value: "Rückabwicklung, Schadensersatz",
-                  },
-                ]}
-              />
-
-              <div className="field">
-                <label className="label">Rechtsgrundlage</label>
-                <input
-                  className="input"
-                  value={form.Rechtsgrundlage}
-                  onChange={(e) => updateForm("Rechtsgrundlage", e.target.value)}
-                  placeholder="z. B. § 826 BGB"
-                />
-              </div>
             </div>
 
             <div className="spacer" />

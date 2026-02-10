@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import { getAnalysisById } from "../lib/storage";
-import { singleAnalysisCsv, downloadTextFile } from "../lib/csv";
+import { singleAnalysisTable, downloadTextFile } from "../lib/csv";
 
 export default function AnalysisDetail() {
   const { id } = useParams();
@@ -42,7 +42,12 @@ export default function AnalysisDetail() {
     );
   }
 
-  const inputLabel = item.inputType === "form" ? "Formular" : "Text";
+  const inputLabel =
+    item.inputType === "form"
+      ? "Formular"
+      : item.inputType === "file"
+      ? "Datei"
+      : "Text";
   const displayText = item.fullText ?? item.preview ?? null;
   const rangeLabel = (() => {
     const k = String(item.klasse || "").toUpperCase();
@@ -141,11 +146,15 @@ export default function AnalysisDetail() {
               className="btn"
               type="button"
               onClick={() => {
-                const csv = singleAnalysisCsv(item);
-                downloadTextFile(`analyse_${item.id}.csv`, csv);
+                const table = singleAnalysisTable(item);
+                downloadTextFile(
+                  `analyse_${item.id}.xls`,
+                  table,
+                  "application/vnd.ms-excel"
+                );
               }}
             >
-              CSV herunterladen
+              Tabelle herunterladen
             </button>
 
             <Link className="btn" to="/history">
@@ -253,12 +262,16 @@ export default function AnalysisDetail() {
           </>
         )}
 
-        {displayText && (item.inputType === "text" || item.inputType === "form") && (
+        {displayText && (item.inputType === "text" || item.inputType === "form" || item.inputType === "file") && (
           <>
             <div className="spacer" />
             <div className="kv">
               <div className="k">
-                {item.inputType === "form" ? "Formular-Notiz" : "Fallbeschreibung"}
+                {item.inputType === "form"
+                  ? "Formular-Notiz"
+                  : item.inputType === "file"
+                  ? "Datei"
+                  : "Fallbeschreibung"}
               </div>
               <div className="v mono">{displayText}</div>
             </div>
