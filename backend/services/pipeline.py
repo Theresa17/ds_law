@@ -341,24 +341,59 @@ def _class_from_amount(amount: float) -> str:
 
 def _rule_classify_text(text: str) -> dict:
     t = (text or "").lower()
+    def _negated(term: str) -> bool:
+        # detect negation near term
+        patterns = [
+            rf"(kein|keine|keiner|nicht|ohne|weder)\s+{term}",
+            rf"{term}\s+(ist|war|wurde|sei)\s+(nicht|kein|keine|ohne)",
+            rf"nicht\s+{term}",
+            rf"ohne\s+{term}",
+        ]
+        return any(re.search(p, t) for p in patterns)
+
+    def _present(term: str) -> bool:
+        return term in t and not _negated(term)
+
     # Signals
-    has_rechts = ("§ 826" in t) or ("826 bgb" in t) or ("sittenwidrig" in t)
-    has_abschalt = ("thermofenster" in t) or ("umschaltlogik" in t) or ("abschalt" in t)
-    has_kba = ("kba" in t and ("rückruf" in t or "rueckruf" in t))
-    has_hersteller = ("hersteller" in t)
-    has_claim = ("rückabwicklung" in t or "rueckabwicklung" in t or "schadensersatz" in t)
+    has_rechts = (
+        _present("§ 826")
+        or _present("826 bgb")
+        or _present("§ 31")
+        or _present("31 bgb")
+        or _present("sittenwidrig")
+    )
+    has_abschalt = (
+        _present("thermofenster")
+        or _present("umschaltlogik")
+        or (_present("abschalt") and not _negated("abschalteinrichtung"))
+    )
+    has_kba = _present("kba") and (_present("rückruf") or _present("rueckruf"))
+    has_hersteller = _present("hersteller")
+    has_claim = _present("rückabwicklung") or _present("rueckabwicklung") or _present("schadensersatz")
 
     signal_count = sum([has_rechts, has_abschalt, has_kba, has_hersteller, has_claim])
     strong = signal_count >= 3
     moderate = signal_count >= 2
 
-    claim_label = 1 if (strong or moderate) else 0
+    claim_label = 1 if (strong or moderate) and (has_claim or has_rechts) else 0
 
     # Numbers
-    kaufpreis = _parse_first_number(r"(?:kaufpreis|preis)\s*(?:von|:)?\s*([0-9][0-9\.\s,]*)\s*(?:€|eur)?", t) or 0.0
-    km_kauf = _parse_first_number(r"kilometerstand\s*kauf.*?([0-9][0-9\.\s,]*)\s*km", t) or 0.0
-    km_klage = _parse_first_number(r"kilometerstand\s*klage.*?([0-9][0-9\.\s,]*)\s*km", t) or 0.0
-    erwartete = _parse_first_number(r"(?:gesamtlaufleistung|gesamtlaufleistung).*?([0-9][0-9\.\s,]*)\s*km", t)
+    kaufpreis = _parse_first_number(
+        r"(?:kaufpreis|preis)\s*(?:von|:|liegt bei|betr(?:a|ä)gt)?\s*([0-9][0-9\.\s,]*)\s*(?:€|eur|euro)?",
+        t,
+    ) or 0.0
+    km_kauf = _parse_first_number(
+        r"kilometerstand[\s\S]{0,40}kauf.*?([0-9][0-9\.\s,]*)\s*(?:km|kilometer[n]?)",
+        t,
+    ) or 0.0
+    km_klage = _parse_first_number(
+        r"kilometerstand[\s\S]{0,40}klage.*?([0-9][0-9\.\s,]*)\s*(?:km|kilometer[n]?)",
+        t,
+    ) or 0.0
+    erwartete = _parse_first_number(
+        r"(?:gesamtlaufleistung).*?([0-9][0-9\.\s,]*)\s*(?:km|kilometer[n]?)",
+        t,
+    )
     if erwartete is None or erwartete <= 0:
         erwartete = 200000.0
 
@@ -370,6 +405,8 @@ def _rule_classify_text(text: str) -> dict:
         if kaufpreis > 0:
             amount = max(kaufpreis * (1 - nutzungsquote), 0.0)
         range_label = _class_from_amount(amount if amount > 0 else kaufpreis)
+        if range_label == "Kein Anspruch":
+            claim_label = 0
 
     base = 0.45 + 0.08 * signal_count
     amount_boost = 0.0
@@ -628,10 +665,16 @@ class PredictionPipeline:
             self._nlp = _load_spacy()
 
     def _load_bundle(self, prefix: str) -> ModelBundle:
-        model_path = ARTIFACT_DIR / f"{prefix}_model.joblib"
-        w2v_path = ARTIFACT_DIR / f"w2v_{prefix}.model"
-        weights_path = ARTIFACT_DIR / f"word_weights_{prefix}.json"
-        cols_path = ARTIFACT_DIR / f"{prefix}_feature_columns.json"
+        if prefix == "claim":
+            model_path = ARTIFACT_DIR / "claim_v2_model.joblib"
+            w2v_path = ARTIFACT_DIR / "w2v_claim_v2.model"
+            weights_path = ARTIFACT_DIR / "word_weights_claim_v2.json"
+            cols_path = ARTIFACT_DIR / "claim_v2_feature_columns.json"
+        else:
+            model_path = ARTIFACT_DIR / f"{prefix}_model.joblib"
+            w2v_path = ARTIFACT_DIR / f"w2v_{prefix}.model"
+            weights_path = ARTIFACT_DIR / f"word_weights_{prefix}.json"
+            cols_path = ARTIFACT_DIR / f"{prefix}_feature_columns.json"
 
         missing = [
             str(p)
@@ -881,7 +924,11 @@ class PredictionPipeline:
         self, text: str | None, features: dict | None, bundle: ModelBundle
     ) -> tuple[pd.DataFrame, pd.DataFrame]:
         payload = normalize_features(features)
-        tatbestand = payload.get("tatbestand") or (text or "").strip()
+        tatbestand = (
+            payload.get("tatbestand")
+            or payload.get("fallbeschreibung")
+            or (text or "").strip()
+        )
 
         if tatbestand:
             self._ensure_nlp()
@@ -894,6 +941,9 @@ class PredictionPipeline:
             text_vec = np.zeros((1, bundle.w2v.vector_size), dtype=float)
 
         row = dict(payload)
+        # ensure Klageziel has a defined category to avoid all-zero one-hot
+        if "Klageziel" not in row:
+            row["Klageziel"] = "nan"
         if tatbestand:
             row.setdefault("tatbestand", tatbestand)
         if cleaned:
@@ -993,11 +1043,60 @@ class PredictionPipeline:
         if not text and not features:
             raise ValueError("Keine Eingabe vorhanden (Text oder Features fehlen).")
 
+        if features and not text:
+            tatbestand = features.get("tatbestand") or features.get("fallbeschreibung")
+            if not tatbestand or not str(tatbestand).strip():
+                raise ValueError(
+                    "Tatbestand/Fallbeschreibung fehlt: Bitte Text angeben."
+                )
+
         if text and len(text) < 10 and not features:
             raise ValueError("Der Text ist zu kurz fuer eine Analyse.")
 
         if text and not features:
-            return _rule_classify_text(text)
+            self._ensure_models()
+            assert self._claim is not None
+            assert self._range is not None
+
+            X_claim, _ = self._build_features_from_payload(text, features, self._claim)
+            claim_proba = float(self._claim.model.predict_proba(X_claim)[0][1])
+            claim_label = 1 if claim_proba >= 0.5 else 0
+
+            range_label = None
+            range_conf = None
+            range_nonzero = 0
+            if claim_label == 1:
+                X_range = self._build_range_features_from_payload(text, features, self._range)
+                range_nonzero = int(np.count_nonzero(X_range.values))
+                probs = self._range.model.predict_proba(X_range)[0]
+                range_idx = int(np.argmax(probs))
+                range_label = str(self._range.model.classes_[range_idx])
+                range_conf = float(probs[range_idx])
+
+            result = {
+                "klasse": range_label or "Kein Anspruch",
+                "entscheidung": "ja" if claim_label == 1 else "nein",
+                "betrag_eur": amount_from_range(range_label) if claim_label == 1 else 0.0,
+                "confidence": round(claim_proba, 2),
+                "meta": {
+                    "mode": "model",
+                    "eingabe": "text",
+                    "features_keys": [],
+                    "claim_proba": round(claim_proba, 4),
+                    "range_klasse": range_label,
+                    "range_confidence": round(range_conf, 4) if range_conf is not None else None,
+                    "claim_features_nonzero": int(np.count_nonzero(X_claim.values)),
+                    "range_features_nonzero": range_nonzero,
+                },
+            }
+
+            # Fallback to rule-based if model is uncertain or empty
+            if claim_proba < 0.45 or int(np.count_nonzero(X_claim.values)) == 0:
+                rule = _rule_classify_text(text)
+                rule["meta"]["mode"] = "rule_fallback"
+                return rule
+
+            return result
 
         self._ensure_models()
 
