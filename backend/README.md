@@ -1,59 +1,98 @@
-# Backend – VerdictIQ
+# Backend - VerdictIQ
 
-Dieses Backend bildet die technische Grundlage für die Analyse juristischer
-Urteilstexte in der Web-Anwendung *VerdictIQ*.
+Dieses Backend stellt die API und Inferenz-Pipeline fuer VerdictIQ bereit.
+Es nimmt Text oder Dateien entgegen und liefert eine KI-Einschaetzung
+(Anspruch ja/nein, Klasse, Betrag, Confidence).
 
-Es umfasst sowohl den **Trainingsprozess der Machine-Learning-Modelle**
-als auch die **API zur Nutzung der trainierten Modelle** durch das
-Frontend (React mit Vite).
+Wichtig: Keine Rechtsberatung, nur technische Modellprognose.
 
-Die Architektur trennt bewusst zwischen Training, Modellablage und
-produktiver Nutzung (Inference).
+## Voraussetzungen
 
----
+- Python 3.10+ (empfohlen: 3.11/3.12)
+- `pip`
+- spaCy Modell `de_core_news_lg`
 
-## Überblick
+## Installation (aus Projekt-Root)
 
-Das Backend besteht aus vier zentralen Bereichen:
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r backend\requirements.txt
+python -m spacy download de_core_news_lg
+```
 
-- **Jupyter Notebook**: Training, Testing und Evaluation der Modelle  
-- **Artifacts**: gespeicherte, trainierte Modelle  
-- **Services**: Nutzung der Modelle zur Analyse neuer Texte  
-- **API (Flask)**: Schnittstelle zwischen Frontend und Analyse-Logik  
+## Starten
 
----
+Aus dem Projekt-Root:
 
-## Ordnerstruktur
+```powershell
+.\.venv\Scripts\Activate.ps1
+python -m backend.api.main
+```
 
-```text
-backend/
-├─ api/
-│  └─ main.py
-│     - Flask-API mit Endpunkten (z. B. /predict)
-│     - Nimmt Anfragen vom Frontend entgegen
-│     - Übergibt Texte an die Service-Schicht
-│
-├─ services/
-│  └─ prediction_service.py
-│     - Zentrale Analyse-Logik (Inference)
-│     - Lädt trainierte Modellartefakte aus /artifacts
-│     - Führt Vorhersagen auf neuen Texteingaben durch
-│     - Enthält keine HTTP-Logik und kein Modelltraining
-│
-├─ artifacts/
-│  ├─ model.joblib
-│  └─ vectorizer.joblib
-│     - Ergebnis des Trainings aus dem Jupyter Notebook
-│     - Werden von der Service-Schicht geladen und genutzt
-│
-├─ jupyter_notebook/
-│  └─ analyse.ipynb
-│     - Training der Modelle
-│     - Vorverarbeitung und Feature-Engineering
-│     - Testing und Evaluation (z. B. Accuracy, Precision, Recall, F1, MSE)
-│     - Export der finalen Modelle nach /artifacts
-│
-└─ data/
-    - Rohdaten (Urteilstexte)
-    - Verwendung für Training, Validierung und Test im Notebook
-    - Die laufende API nutzt diese Rohdaten nicht direkt
+Backend laeuft dann auf:
+
+- `http://127.0.0.1:5000`
+
+## Endpunkte
+
+- `GET /`
+- `GET /health`
+- `POST /predict`
+- `POST /predict-file`
+
+## Request-Formate
+
+### `POST /predict` (JSON)
+
+```json
+{
+  "text": "Fallbeschreibung ...",
+  "case_id": "optional",
+  "features": {
+    "Kaufpreis": "25900",
+    "Fahrzeugstatus": "Neuwagen"
+  }
+}
+```
+
+### `POST /predict-file` (multipart/form-data)
+
+- Feldname: `file`
+- Dateitypen: `.txt`, `.pdf`, `.docx`
+
+## Architektur (kurz)
+
+- `backend/api/main.py`:
+  Flask API, Request-Parsing, Fehlerbehandlung, Dateileser fuer txt/pdf/docx.
+- `backend/services/prediction_service.py`:
+  Service-Layer, delegiert an `PredictionPipeline`.
+- `backend/services/pipeline.py`:
+  Feature-Engineering + Modellinferenz + Fallback-Logik.
+- `backend/artifacts/`:
+  Geladene Modellartefakte und Feature-Spalten.
+
+## Wichtige Artefakte
+
+Die Pipeline erwartet unter anderem:
+
+- `backend/artifacts/claim_v2_model.joblib`
+- `backend/artifacts/w2v_claim_v2.model`
+- `backend/artifacts/word_weights_claim_v2.json`
+- `backend/artifacts/claim_v2_feature_columns.json`
+- `backend/artifacts/range_model.joblib`
+- `backend/artifacts/w2v_range.model`
+- `backend/artifacts/word_weights_range.json`
+- `backend/artifacts/range_feature_columns.json`
+
+## Troubleshooting
+
+- `de_core_news_lg` fehlt:
+  `python -m spacy download de_core_news_lg`
+- Importfehler `backend...`:
+  Backend aus Projekt-Root starten (`python -m backend.api.main`), nicht aus `backend/api`.
+- Port 5000 belegt:
+  Prozess beenden oder Port in `backend/api/main.py` anpassen.
+- Datei kann nicht gelesen werden:
+  Nur `.txt`, `.pdf`, `.docx` erlaubt.
+
